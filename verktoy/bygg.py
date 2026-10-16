@@ -194,7 +194,7 @@ def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
     ut = []
     for undermappe, navn in EKSTRA:
         rot = mappe / undermappe
-        filer = sorted(rot.rglob("*.md")) if rot.is_dir() else []
+        filer = sorted(f for f in rot.rglob("*.md") if "original" not in f.relative_to(rot).parts) if rot.is_dir() else []
         if not filer:
             continue
         ut += [f"### {navn}", ""]
@@ -213,6 +213,19 @@ def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
             indeks.append(f"{lovnavn}\t{navn}\t{tittel_for(f)}\t{f.relative_to(ROT).as_posix()}")
         ut.append("")
     return ut
+
+
+def rundskriv_per_paragraf(mappe: Path) -> dict:
+    """Paragraf-slug -> rundskrivfiler som kommenterer den paragrafen i loven (fra innboksen)."""
+    kart = {}
+    for f in sorted((mappe / "rundskriv").rglob("par-*.md")) if (mappe / "rundskriv").is_dir() else []:
+        if "original" in f.parts:
+            continue
+        hode = f.read_text(encoding="utf-8").split("\n---", 1)[0]
+        par = re.search(r'^paragraf: "([^"]+)"', hode, re.M)
+        if par and re.search(r'^gjelder: "lov"', hode, re.M):
+            kart.setdefault(slug_paragraf(par.group(1)), []).append(f.relative_to(mappe).as_posix())
+    return kart
 
 
 def kilde_linje(meta: dict) -> str:
@@ -266,20 +279,25 @@ def main() -> int:
             linjer.append(f"- **Forskrift:** {kilde_linje(fmeta)}")
             forskriftsblokker.append((fs["navn"], fkap))
 
-        def liste(navn, kap):
+        rundskriv = rundskriv_per_paragraf(mappe)
+
+        def liste(navn, kap, er_loven=False):
             ut = [f"### {navn}", ""]
             for kaptittel, oppf in kap:
                 if kaptittel:
                     ut += [f"**{kaptittel}**", ""]
                 for tittel, fil in oppf:
                     rel = fil.relative_to(mappe).as_posix()
-                    ut.append(f"- {tittel} – `{rel}`")
+                    linje = f"- {tittel} – `{rel}`"
+                    if er_loven and fil.stem.startswith("par-") and fil.stem[4:] in rundskriv:
+                        linje += " (rundskriv: " + ", ".join(f"`{r}`" for r in rundskriv[fil.stem[4:]]) + ")"
+                    ut.append(linje)
                     indeks.append(f"{lov['navn']}\t{navn}\t{tittel}\t{fil.relative_to(ROT).as_posix()}")
                 ut.append("")
             return ut
 
         linjer += ["", "## Innhold", ""]
-        linjer += liste(lov["navn"], kapitler)
+        linjer += liste(lov["navn"], kapitler, er_loven=True)
         for navn, fkap in forskriftsblokker:
             linjer += liste(navn, fkap)
         ekstra = ekstra_kilder(mappe, lov["navn"], indeks)

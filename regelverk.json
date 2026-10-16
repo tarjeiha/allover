@@ -11,6 +11,11 @@
           "slug": "offentlegforskrifta",
           "navn": "Offentlegforskrifta"
         }
+      ],
+      "alias": [
+        "offentleglova",
+        "offentlighetsloven",
+        "offl."
       ]
     },
     {
@@ -33,13 +38,21 @@
           "slug": "avtalefestet-pensjon-medlemmer-statens-2024",
           "navn": "Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning)"
         }
+      ],
+      "alias": [
+        "afp-loven",
+        "lov om avtalefestet pensjon for medlemmer av statens pensjonskasse"
       ]
     },
     {
       "mappe": "aldersgrenseloven",
       "navn": "Aldersgrenseloven for statsansatte",
       "lov": "LOV-1956-12-21-1",
-      "forskrifter": []
+      "forskrifter": [],
+      "alias": [
+        "aldersgrenseloven",
+        "lov om aldersgrenser for statsansatte"
+      ]
     },
     {
       "mappe": "allmenngjoringsloven",
@@ -96,6 +109,10 @@
           "slug": "skips-og-verftsindustrien",
           "navn": "Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien"
         }
+      ],
+      "alias": [
+        "allmenngjøringsloven",
+        "allmenngjøringslova"
       ]
     },
     {
@@ -153,6 +170,10 @@
           "slug": "pilot-oppfolging-vta",
           "navn": "Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet"
         }
+      ],
+      "alias": [
+        "arbeidsmarkedsloven",
+        "lov om arbeidsmarkedstjenester"
       ]
     },
     {
@@ -320,13 +341,21 @@
           "slug": "dykkeoperasjoner",
           "navn": "Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv"
         }
+      ],
+      "alias": [
+        "arbeidsmiljøloven",
+        "aml."
       ]
     },
     {
       "mappe": "arbeidstvistloven",
       "navn": "Arbeidstvistloven",
       "lov": "LOV-2012-01-27-9",
-      "forskrifter": []
+      "forskrifter": [],
+      "alias": [
+        "arbeidstvistloven",
+        "lov om arbeidstvister"
+      ]
     },
     {
       "mappe": "ferieloven",
@@ -348,6 +377,10 @@
           "slug": "delegering",
           "navn": "Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet"
         }
+      ],
+      "alias": [
+        "ferieloven",
+        "ferielova"
       ]
     },
     {
@@ -625,6 +658,11 @@
           "slug": "frivillig-yrkesskadetrygd-elever",
           "navn": "Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket"
         }
+      ],
+      "alias": [
+        "folketrygdloven",
+        "ftrl.",
+        "ftrl"
       ]
     },
     {
@@ -667,6 +705,10 @@
           "slug": "overgangsregler-ukraina-kap6a",
           "navn": "Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A)"
         }
+      ],
+      "alias": [
+        "integreringsloven",
+        "integreringslova"
       ]
     },
     {
@@ -744,6 +786,11 @@
           "slug": "opptjening-pensjonsrettigheter-lovfestet-2015",
           "navn": "Forskrift om opptjening av pensjonsrettigheter i lovfestet offentlig tjenestepensjonsordning for personer som har midlertidig uførepensjon og uførepensjon"
         }
+      ],
+      "alias": [
+        "spk-loven",
+        "lov om statens pensjonskasse",
+        "statspensjonsloven"
       ]
     },
     {
@@ -766,6 +813,10 @@
           "slug": "statsgaranti-lonnskrav",
           "navn": "Forskrift om statsgaranti for lønnskrav ved konkurs m.v"
         }
+      ],
+      "alias": [
+        "lønnsgarantiloven",
+        "lov om statsgaranti for lønnskrav"
       ]
     },
     {
@@ -813,6 +864,10 @@
           "slug": "innkrevingsmyndigheten-tilgang",
           "navn": "Forskrift om tilgang for Innkrevingsmyndigheten til opplysninger fra Arbeids- og velferdsetaten"
         }
+      ],
+      "alias": [
+        "nav-loven",
+        "arbeids- og velferdsforvaltningsloven"
       ]
     },
     {
@@ -825,6 +880,10 @@
           "slug": "lonnsplikt-permittering",
           "navn": "Forskrift om lønnsplikt under permittering"
         }
+      ],
+      "alias": [
+        "permitteringslønnsloven",
+        "lov om lønnsplikt under permittering"
       ]
     },
     {
@@ -1037,6 +1096,10 @@
           "slug": "samordningsgaranti-innforing-2023",
           "navn": "Forskrift om samordningsgaranti ved innføring av etterlattereformen i folketrygden fra 1. januar 2024"
         }
+      ],
+      "alias": [
+        "samordningsloven",
+        "lov om samordning av pensjons- og trygdeytelser"
       ]
     },
     {
@@ -1059,6 +1122,10 @@
           "slug": "bruk-av-vilkar",
           "navn": "Forskrift om bruk av vilkår etter sosialtjenesteloven"
         }
+      ],
+      "alias": [
+        "sosialtjenesteloven",
+        "sotjl."
       ]
     },
     {
@@ -1071,6 +1138,10 @@
           "slug": "statsborgerforskriften",
           "navn": "Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften)"
         }
+      ],
+      "alias": [
+        "statsborgerloven",
+        "statsborgerlova"
       ]
     },
     {
@@ -1098,6 +1169,10 @@
           "slug": "delegering-tjenestetvistloven",
           "navn": "Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum"
         }
+      ],
+      "alias": [
+        "tjenestetvistloven",
+        "lov om offentlige tjenestetvister"
       ]
     },
     {
@@ -1110,6 +1185,10 @@
           "slug": "tolkeforskriften",
           "navn": "Forskrift til tolkeloven (tolkeforskriften)"
         }
+      ],
+      "alias": [
+        "tolkeloven",
+        "tolkelova"
       ]
     },
     {
@@ -1122,6 +1201,10 @@
           "slug": "utlendingsforskriften",
           "navn": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)"
         }
+      ],
+      "alias": [
+        "utlendingsloven",
+        "utl."
       ]
     }
   ]
