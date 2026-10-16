@@ -15,7 +15,7 @@ Konkret fremgangsmåte:
 
 1. Slå opp i `utlendingsloven/VEIVISER.md` for å finne riktig paragraf i loven
 2. Åpne selve paragraffilen (`utlendingsloven/lov/par-<nr>.md`)
-3. Sjekk `utlendingsloven/forskrifter/utlendingsforskriften/oversikt.md` – vilkårene er i stor grad fastsatt i forskriften (kap. 6 for arbeid, kap. 19 for EØS)
+3. Sjekk `utlendingsloven/VEIVISER.md` – vilkårene er i stor grad fastsatt i forskriften (kap. 6 for arbeid, kap. 19 for EØS)
 4. Gjengi leddnummer når du siterer, og oppgi lov eller forskrift og paragraf i svaret
 
 **Avklar først hvilket spor personen er i.** Reglene er helt forskjellige:

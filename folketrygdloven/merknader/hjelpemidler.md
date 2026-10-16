@@ -29,7 +29,6 @@ At denne skillen er trigget, er ikke i seg selv en beskyttelse mot feil svar. Be
   - Flere er delt i underfiler pga. lengde (samme `par-<paragraf>-00-oversikt.md`-mønster som ellers, der det gjelder en navngitt paragraf).
   - **Merk:** § 10-7 a (stønad til briller til barn) er en egen paragraf, ikke en bokstav i § 10-7 første ledd, og har ingen kommentarseksjon i noen av kildene som er gjennomgått - bruk lovtekst for denne.
   - Selve forskriftstekstene til disse stønadsformene er ikke lagt inn - kun NAVs kommentarer til dem. Si eksplisitt fra at forskriftsteksten ikke er sjekket direkte når disse kildene brukes.
-- **Forarbeider** (`folketrygdloven/forarbeider/`): tomt foreløpig.
 
 **Kryssreferanser utenfor denne skillen.** Når en paragraf henviser til et annet kapittel, gjengi henvisningen som den står i loven, men ikke gjett på innholdet. Si eksplisitt fra at kryssreferansen ikke er sjekket. For kap. 6, 8, 9, 11/11 A og 12 finnes egne skills (`folketrygdloven/merknader/grunnstonad.md`, `folketrygdloven/merknader/sykepenger.md`, `folketrygdloven/merknader/aap.md`, `folketrygdloven/merknader/uforetrygd.md`) - nevn hvilken hvis relevant. Andre kapitler (1-5, 7, 13, 14, 21, 22 m.fl.) er ikke dekket av noen av disse skillene ennå.
 

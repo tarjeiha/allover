@@ -36,7 +36,6 @@ At denne skillen er trigget, er ikke i seg selv en beskyttelse mot feil svar. Be
   - `uredusert-ytelse-institusjon/` - til § 12-19, FOR-2014-10-31-1375. Ingen tilhørende forskriftstekst er lagt inn.
   - `beregning-uforetrygd-institusjon/` - til § 12-19, FOR-2014-10-31-1376. Ingen tilhørende forskriftstekst er lagt inn.
   - Der forskriftstekst ikke er nevnt over, er den ikke lagt inn - kun NAVs kommentarer. Si eksplisitt fra at forskriftsteksten ikke er sjekket direkte i disse tilfellene.
-- **Forarbeider** (`folketrygdloven/forarbeider/`): tomt foreløpig.
 
 **Kryssreferanser utenfor denne skillen.** Når en paragraf henviser til et annet kapittel, gjengi henvisningen som den står i loven, men ikke gjett på innholdet. Si eksplisitt fra at kryssreferansen ikke er sjekket. For kap. 6, 8, 9, 10 og 11/11 A finnes egne skills (`folketrygdloven/merknader/grunnstonad.md`, `folketrygdloven/merknader/sykepenger.md`, `folketrygdloven/merknader/hjelpemidler.md`, `folketrygdloven/merknader/aap.md`) - nevn hvilken hvis relevant. Andre kapitler (1-5, 7, 13, 14, 21, 22 m.fl.) er ikke dekket av noen av disse skillene ennå.
 

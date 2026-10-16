@@ -20,7 +20,7 @@ Konkret fremgangsmåte:
 
 **Kapittel 19 og 20 er to ulike regelsett, og fødselsår avgjør hvilket som gjelder.** Årskull til og med 1953 følger kapittel 19, årskull fra 1963 følger kapittel 20, og kullene imellom får en forholdsmessig kombinasjon. Avklar alltid fødselsår før du svarer på beregningsspørsmål – et svar basert på feil kapittel blir helt galt.
 
-Forskrift om alderspensjon i folketrygden er stor og inneholder de fleste beregningsdetaljene. Bruk `folketrygdloven/forskrifter/alderspensjon-i-folketrygden/oversikt.md` for å finne riktig del.
+Forskrift om alderspensjon i folketrygden er stor og inneholder de fleste beregningsdetaljene. Bruk `folketrygdloven/VEIVISER.md` for å finne riktig del.
 
 **Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 

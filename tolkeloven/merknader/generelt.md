@@ -15,7 +15,7 @@ Konkret fremgangsmåte:
 
 1. Slå opp i `tolkeloven/VEIVISER.md` for å finne riktig paragraf
 2. Åpne selve paragraffilen (`tolkeloven/lov/par-<nr>.md`)
-3. **Sjekk alltid tolkeforskriften.** Loven fastsetter pliktene på overordnet nivå, mens forskriften utdyper både kvalifikasjonskravene og registerordningen. Se `tolkeloven/forskrifter/tolkeforskriften/oversikt.md`
+3. **Sjekk alltid tolkeforskriften.** Loven fastsetter pliktene på overordnet nivå, mens forskriften utdyper både kvalifikasjonskravene og registerordningen. Se `tolkeloven/VEIVISER.md`
 4. Gjengi leddnummer når du siterer, og oppgi paragraf i svaret
 
 Vær særlig oppmerksom på § 3 om forholdet til annen lovgivning. Tolkeloven supplerer sektorregelverk – den erstatter det ikke. Plikten til å bruke tolk kan følge av andre lover i tillegg.

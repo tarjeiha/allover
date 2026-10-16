@@ -15,7 +15,7 @@ Konkret fremgangsmåte:
 
 1. Slå opp i `integreringsloven/VEIVISER.md` for å finne riktig paragraf
 2. Åpne selve paragraffilen (`integreringsloven/lov/par-<nr>.md`)
-3. **Sjekk alltid integreringsforskriften.** Denne loven delegerer uvanlig mye til forskrift – 91 paragrafer i integreringsforskriften mot 63 i loven. Et lovsvar alene er ofte ufullstendig. Se `integreringsloven/forskrifter/integreringsforskriften/oversikt.md`
+3. **Sjekk alltid integreringsforskriften.** Denne loven delegerer uvanlig mye til forskrift – 91 paragrafer i integreringsforskriften mot 63 i loven. Et lovsvar alene er ofte ufullstendig. Se `integreringsloven/VEIVISER.md`
 4. Sjekk om personkretsen omfattes av kapittel 6A (midlertidige regler) – reglene der avviker fra hovedreglene
 5. Gjengi leddnummer når du siterer, og oppgi paragraf i svaret
 

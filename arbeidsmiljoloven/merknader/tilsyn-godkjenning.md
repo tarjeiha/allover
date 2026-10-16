@@ -20,7 +20,7 @@ Konkret fremgangsmåte:
 
 Skill mellom de administrative reaksjonene (kapittel 18 – pålegg, tvangsmulkt, stansing, overtredelsesgebyr) og straffansvaret (kapittel 19). De har ulike vilkår og ulike prosesser, og spørsmål blandes ofte.
 
-Forskrift om administrative ordninger er stor og regulerer flere ulike ordninger. Bruk `arbeidsmiljoloven/forskrifter/administrative-ordninger/oversikt.md` for å finne riktig del framfor å lese fra begynnelsen.
+Forskrift om administrative ordninger er stor og regulerer flere ulike ordninger. Bruk `arbeidsmiljoloven/VEIVISER.md` for å finne riktig del framfor å lese fra begynnelsen.
 
 **Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
