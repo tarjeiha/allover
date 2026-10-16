@@ -14,6 +14,9 @@ og for hele repoet:
     indeks.tsv                                    alle paragrafer med sti
     CLAUDE.md                                     bare blokken mellom AUTO-markørene
 
+Mappene merknader/, rundskriv/ og eu-eos/ under en lov bygges ikke, men listes
+i veiviseren og i indeks.tsv.
+
 Håndskrevet tekst utenfor AUTO-markørene røres ikke. Lovtekst skal aldri
 redigeres for hånd, fordi den overskrives ved neste bygg.
 
@@ -62,12 +65,13 @@ def last_ned(mappe: Path) -> None:
 
 
 def filnavn_for(dokid: str) -> str:
-    """LOV-2006-05-19-16 -> nl-20060519-016.xml, FOR-2008-10-17-1119 -> sf-20081017-1119.xml"""
+    """LOV-2006-05-19-16 -> nl-20060519-016.xml, FOR-2013-01-11-33 -> sf-20130111-0033.xml"""
     m = re.match(r"(LOV|FOR)-(\d{4})-(\d{2})-(\d{2})-(\d+)$", dokid)
     if not m:
         return ""
     prefiks = "nl" if m.group(1) == "LOV" else "sf"
-    return f"{prefiks}-{m.group(2)}{m.group(3)}{m.group(4)}-{int(m.group(5)):03d}.xml"
+    bredde = 3 if prefiks == "nl" else 4
+    return f"{prefiks}-{m.group(2)}{m.group(3)}{m.group(4)}-{int(m.group(5)):0{bredde}d}.xml"
 
 
 def lag_oppslag(kilde: Path) -> dict:
@@ -103,6 +107,15 @@ def dekning(kilde_tekst: str, md: str) -> float:
 
 
 def bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
+    """Som _bygg_dokument, men en feil i ett dokument stopper ikke resten av bygget."""
+    try:
+        return _bygg_dokument(sti, utmappe, ref, feil)
+    except Exception as e:  # noqa: BLE001
+        feil.append(f"{ref} ({sti.name}): {type(e).__name__}: {e}")
+        return None, None
+
+
+def _bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
     """Skriver én fil per paragraf og returnerer (metadata, kapitler med oppføringer)."""
     if utmappe.exists():
         shutil.rmtree(utmappe)
@@ -127,6 +140,15 @@ def bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
             tittel = md.splitlines()[0].lstrip("# ").strip()
             oppforinger.append((tittel, fil))
         resultat.append((kap["tittel"], oppforinger))
+    if not any(oppf for _, oppf in resultat):
+        # Løpende inndelte dokumenter (vedtak, delegeringer o.l.) har ingen paragrafer
+        tegn, rest = har_innhold_utenfor_paragrafer(sti, terskel=1)
+        if not tegn:
+            feil.append(f"{ref} ({sti.name}): fant verken paragrafer eller annen tekst")
+            return meta, resultat
+        fil = utmappe / "tekst.md"
+        fil.write_text(f"# {meta['tittel'] or ref}\n\n{rest}", encoding="utf-8")
+        return meta, [("", [("Hele teksten (dokumentet har ikke paragrafer)", fil)])]
     tegn, rest = har_innhold_utenfor_paragrafer(sti)
     if tegn:
         fil = utmappe / "utenfor-paragrafene.md"
@@ -145,6 +167,52 @@ def erstatt_auto(fil: Path, innhold: str, skjelett: str) -> None:
     else:
         tekst = tekst.rstrip() + "\n\n" + blokk + "\n"
     fil.write_text(tekst, encoding="utf-8")
+
+
+EKSTRA = [("merknader", "Merknader"), ("rundskriv", "Rundskriv"), ("eu-eos", "EU/EØS-regelverk")]
+
+
+def tittel_for(fil: Path) -> str:
+    """Første overskrift, eller paragraf og tittel fra frontmatter."""
+    tekst = fil.read_text(encoding="utf-8")
+    fm = {}
+    if tekst.startswith("---\n"):
+        hode, _, tekst = tekst[4:].partition("\n---")
+        for linje in hode.splitlines():
+            k, _, v = linje.partition(":")
+            fm[k.strip()] = v.strip().strip('"')
+    for linje in tekst.splitlines():
+        if linje.startswith("# "):
+            return linje[2:].strip()
+    if fm.get("tittel"):
+        return " ".join(x for x in (fm.get("paragraf", ""), fm["tittel"]) if x)
+    return fil.stem
+
+
+def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
+    """Håndskrevne og kopierte kilder ved siden av lovteksten. De bygges ikke, bare listes."""
+    ut = []
+    for undermappe, navn in EKSTRA:
+        rot = mappe / undermappe
+        filer = sorted(rot.rglob("*.md")) if rot.is_dir() else []
+        if not filer:
+            continue
+        ut += [f"### {navn}", ""]
+        if undermappe == "merknader":
+            ut += [f"- {tittel_for(f)} – `{f.relative_to(mappe).as_posix()}`" for f in filer]
+        else:
+            grupper = {}
+            for f in filer:
+                grupper.setdefault(f.parent, []).append(f)
+            for gruppe, gfiler in grupper.items():
+                rel = gruppe.relative_to(mappe).as_posix()
+                oversikt = [f for f in gfiler if f.name == "oversikt.md"]
+                hint = f", start med `{oversikt[0].relative_to(mappe).as_posix()}`" if oversikt else ""
+                ut.append(f"- `{rel}/` – {len(gfiler)} filer{hint}")
+        for f in filer:
+            indeks.append(f"{lovnavn}\t{navn}\t{tittel_for(f)}\t{f.relative_to(ROT).as_posix()}")
+        ut.append("")
+    return ut
 
 
 def kilde_linje(meta: dict) -> str:
@@ -181,6 +249,8 @@ def main() -> int:
             feil.append(f"Fant ikke {lov['lov']} ({filnavn_for(lov['lov'])}) i datasettene")
             continue
         meta, kapitler = bygg_dokument(lovfil, mappe / "lov", lov["navn"], feil)
+        if meta is None:
+            continue
         linjer = ["## Kilder", "", f"- **Lov:** {kilde_linje(meta)}"]
         forskriftsblokker = []
         for fs in lov.get("forskrifter", []):
@@ -191,6 +261,8 @@ def main() -> int:
             fmeta, fkap = bygg_dokument(
                 fsfil, mappe / "forskrifter" / fs["slug"], fs["navn"], feil
             )
+            if fmeta is None:
+                continue
             linjer.append(f"- **Forskrift:** {kilde_linje(fmeta)}")
             forskriftsblokker.append((fs["navn"], fkap))
 
@@ -210,6 +282,9 @@ def main() -> int:
         linjer += liste(lov["navn"], kapitler)
         for navn, fkap in forskriftsblokker:
             linjer += liste(navn, fkap)
+        ekstra = ekstra_kilder(mappe, lov["navn"], indeks)
+        if ekstra:
+            linjer += ["## Andre kilder", "", "Dette er ikke lov- eller forskriftstekst.", ""] + ekstra
 
         skjelett = f"# {lov['navn']}: veiviser\n\n_Håndskrevet veiledning mangler ennå._\n"
         erstatt_auto(mappe / "VEIVISER.md", "\n".join(linjer), skjelett)

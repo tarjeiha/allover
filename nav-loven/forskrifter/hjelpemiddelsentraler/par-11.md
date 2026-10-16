@@ -1,0 +1,15 @@
+# § 11. Resirkulasjon – kassasjon
+
+**Kilde:** Forskrift om hjelpemiddelsentralenes virksomhet og ansvar § 11
+
+1. Hjelpemiddelsentralen skal sørge for resirkulering av brukte hjelpemidler med sikte på effektiv ressursutnytting.
+2. Resirkulering skal bare vurderes når hjelpemiddelets gjenanskaffelsespris overstiger et nærmere bestemt beløp som fastsettes av Arbeids- og velferdsdirektoratet. Arbeids- og velferdsdirektoratet kan likevel bestemme at visse hjelpemidler alltid skal vurderes for resirkulering. Arbeids- og velferdsdirektoratet kan videre utarbeide en veiledende liste over hjelpemiddeltyper som vanligvis ikke skal resirkuleres.
+3. Hjelpemidler som ikke egner seg til resirkulering skal enten kasseres eller utrangeres. Hjelpemiddelsentralens leder bestemmer hvem som har myndighet til å kassere eller utrangere hjelpemidler. Denne myndighet skal tillegges minst to personer i fellesskap. Det skal føres protokoll over hjelpemidler som utrangeres eller kasseres.
+4. Dersom hjelpemidler på lager er blitt uegnet til formidling, for eksempel på grunn av teknologisk utvikling, kan disse utrangeres. Arbeids- og velferdsdirektoratet eller den Arbeids- og velferdsdirektoratet bemyndiger fatter beslutning om utrangering.
+5. Der annet ikke er bestemt, gjelder normalinstruks for utrangering og kassasjon av materiell og bygninger, samt for avhending av materiell som tilhører staten.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).

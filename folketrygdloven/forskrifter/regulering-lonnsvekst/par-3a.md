@@ -1,0 +1,17 @@
+# § 3a. Lønnsvekst som skal benyttes ved reguleringen i 2021
+
+**Kilde:** Forskrift om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden § 3a
+
+**1. ledd**
+
+Lønnsveksten som skal benyttes ved regulering av folketrygdens alderspensjon under utbetaling etter § 19-14 andre ledd og § 20-18 andre ledd i 2021, fastsettes slik at pensjonene ved regulering får en vekst tilsvarende det som er nødvendig for at årsveksten blir lik årsveksten i grunnbeløpet. Lønnsveksten som skal benyttes ved regulering av minsteytelsene etter § 19-14 tredje ledd og § 20-18 tredje ledd i 2021, fastsettes slik at reguleringen fra 1. mai 2021 blir lik reguleringen fra 1. mai 2021 etter første punktum.
+
+**2. ledd**
+
+Første ledd gjelder også ytelser fra lovfestede offentlige tjenestepensjonsordninger som reguleres med et fast fratrekk med 0,75 prosent. Det samme gjelder ytelser som reguleres med et fast fratrekk med 0,75 prosent etter lov 16. desember 2011 nr. 60 om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer , lov 13. desember 1946 nr. 21 om krigspensjonering for militærpersoner , lov om 13. desember 1946 nr. 22 krigspensjonering for hjemmestyrkepersonell og sivilpersoner , lov 12. desember 1958 nr. 10 om yrkesskadetrygd og forskrift 23. august 2013 nr. 1006 om pensjonsordning for sametingsrepresentanter .
+
+---
+
+**Endringshistorikk:**
+
+- Tilføyd ved forskrift 30 april 2021 nr. 1322 , endret ved forskrift 19 nov 2021 nr. 3225 (med virkning fra 1 mai 2021).

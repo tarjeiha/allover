@@ -1,0 +1,19 @@
+# § 6-1. Plikt til å velge verneombud
+
+**Kilde:** Arbeidsmiljøloven § 6-1
+
+(1) Ved hver virksomhet som går inn under loven, skal det velges verneombud. Ved virksomhet med færre enn 5 arbeidstakere kan partene skriftlig avtale en annen ordning, herunder at det ikke skal være verneombud ved virksomheten. Hvis ikke annet er fastsatt om tiden for avtalens gyldighet, anses den som sluttet for 2 år, regnet fra den dagen den ble underskrevet. Arbeidstilsynet kan, etter en konkret vurdering av forholdene i virksomheten, fastsette at den likevel skal ha verneombud. Ved virksomhet med flere enn 10 arbeidstakere kan det velges flere verneombud.
+
+(2) Antallet verneombud fastsettes i forhold til virksomhetens størrelse, arbeidets art og arbeidsforholdene for øvrig. Dersom virksomheten består av flere atskilte avdelinger, eller arbeidet foregår på skift, skal det i alminnelighet velges minst ett verneombud for hver avdeling eller hvert skiftlag. Hvert verneområde skal være klart avgrenset og må ikke være større enn at verneombudet kan ha full oversikt og ivareta sine oppgaver på forsvarlig måte.
+
+(3) Virksomhet med mer enn ett verneombud skal ha minst ett hovedverneombud, som har ansvar for å samordne verneombudets virksomhet. Hovedverneombudet skal velges blant verneombudene eller andre som har eller har hatt tillitsverv ved virksomheten.
+
+(4) Hvem som til enhver tid fungerer som verneombud ved virksomheten, skal kunngjøres ved oppslag på arbeidsplassen.
+
+(5) Departementet kan gi forskrift med nærmere regler om antall verneombud, om valg, herunder om vilkår for stemmerett og valgbarhet, om lokal fagforenings rett til å utpeke verneombud, og om verneombudets funksjonstid.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lover 15 des 2006 nr. 69 (ikr. 1 jan 2007 iflg. res. 15 des 2006 nr. 1406 ), 17 mars 2023 nr. 3 (i kraft 1 jan 2024 iflg. res. 17 mars 2023 nr. 341 ).

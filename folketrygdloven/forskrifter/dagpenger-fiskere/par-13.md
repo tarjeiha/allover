@@ -1,0 +1,19 @@
+# § 13. Tilbakekreving etter feilaktige utbetalinger og sanksjoner
+
+**Kilde:** Forskrift om dagpenger for fiskere og fangstfolk under arbeidsløshet (A-trygdforskriften) § 13
+
+**1. ledd**
+
+Dagpenger som er utbetalt på grunnlag av uriktige eller mangelfulle opplysninger fra fiskere og fangsfolk, kan bli krevd tilbakebetalt eller trukket i vedkommendes fremtidige ytelser fra Garantikassen for fiskere.
+
+**2. ledd**
+
+Krav om tilbakebetaling av utbetalte dagpenger er tvangsgrunnlag for utlegg.
+
+**3. ledd**
+
+Styret i Garantikassen for fiskere kan ved grove brudd på forskriften:
+
+a. gi vedkommende skriftlig advarsel,
+b. utestenge vedkommende i 12 uker første gang og inntil 26 uker ved gjentakelser innen de siste tre årene, eller
+c. politianmelde vedkommende.

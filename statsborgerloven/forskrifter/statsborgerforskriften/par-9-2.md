@@ -1,0 +1,7 @@
+# § 9-2. Kravet om tilstrekkelig tilknytning
+
+**Kilde:** Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften) § 9-2
+
+**1. ledd**
+
+Hvorvidt søkeren har tilstrekkelig tilknytning til Norge etter statsborgerloven § 24 annet ledd avgjøres etter en konkret helhetsvurdering. Søkere som før fylte 22 år har opphold i Norge på til sammen 6 måneder, skal anses for å ha tilstrekkelig tilknytning. Det samme gjelder dersom søkeren er bosatt i Norge på vedtakstidspunktet. Har søkeren i god tro fått utstedt norsk pass med varighet utover fylte 22 år, skal det tillegges vekt i den skjønnsmessige vurderingen.

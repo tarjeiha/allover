@@ -1,0 +1,7 @@
+# § 9-8. Skjæringstidspunktet for søknader som vedrører barn under 18 år når søknaden avgjøres etter barnets 18-årsdag
+
+**Kilde:** Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) § 9-8
+
+**1. ledd**
+
+Når en søknad er levert innen fristen i lovens § 50, men først avgjøres etter barnets 18-årsdag, må vilkårene være oppfylt både på 18-årsdagen og på vedtakstidspunktet. Det er ikke et vilkår at referansepersonen har fått innvilget sin tillatelse før søkeren fylte 18 år, dersom referansepersonens søknad er innkommet til utlendingsmyndighetene før dette tidspunktet.

@@ -1,0 +1,16 @@
+# § 3. Definisjoner
+
+**Kilde:** Forskrift om Arbeidsgiver- og arbeidstakerregisteret § 3
+
+1. Arbeidsgiver Enhver som benytter seg av arbeidstaker for utførelse av arbeid mot vederlag i Norge eller på NOR- eller NIS-registrerte skip og flyttbare innretninger, er å anse som arbeidsgiver etter forskriften. Det samme gjelder den som benytter seg av arbeidstaker i forbindelse med undersøkelse etter og utnyttelse av undersjøiske petroleumsforekomster på den norske kontinentalsokkelen og dertil knyttet virksomhet og arbeid. Som arbeidsgiver anses i alle tilfeller den som selv eller ved fullmektig utbetaler vederlag som skal innberettes til ligningsmyndighetene. Dette gjelder også for arbeid som utføres på Svalbard, Jan Mayen, norske biland og i utlandet eller på utenlandsregistrerte skip eller flyttbare innretninger.
+2. Arbeidstaker Med arbeidstaker menes enhver som arbeider i annens tjeneste for lønn eller annen godtgjørelse, jf. folketrygdloven § 1-8 .
+3. Oppdragsgiver Med oppdragsgiver menes i forskriften her enhver som benytter seg av en frilanser til å utføre arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse.
+4. Frilanser Med frilanser menes enhver som utfører arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse, men uten å være selvstendig næringsdrivende, jf. folketrygdloven § 1-9 .
+5. Innretninger Med innretninger menes innretning i petroleumsvirksomhet når innretningen er underlagt arbeidsmiljøloven i medhold av forskrift 12. februar 2010 nr. 158 om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg.
+6. Offentlige myndigheter Med offentlige myndigheter menes statlige, fylkeskommunale og kommunale organer som blant annet har til oppgave å fatte enkeltvedtak, fastsette forskrifter, inndrive gjeld, utarbeide forkynnelser, utskrive personell, kartlegge/lage planer for befolkningen og utarbeide statistiske oppgaver.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrifter 15 aug 2011 nr. 838 (i kraft 1 nov 2011), 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021).

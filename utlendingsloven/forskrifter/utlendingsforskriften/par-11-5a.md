@@ -1,0 +1,21 @@
+# § 11-5a. Tilleggstid på grunn av idømt ungdomsstraff og samfunnsstraff for forhold som nevnt i lovens § 66 første ledd bokstav c
+
+**Kilde:** Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) § 11-5a
+
+**1. ledd**
+
+Er søkeren dømt til ungdomsstraff, beregnes tilleggstid etter tabellen i § 11-5 første ledd på grunnlag av den subsidiære fengselsstraffen. Det skal ikke beregnes tilleggstid når søkeren er dømt til subsidiær fengselsstraff i inntil 6 måneder og det er mer enn 3 år siden dommen falt. Når søkeren er dømt til subsidiær fengselsstraff i mer enn 6 måneder, skal det ikke beregnes tilleggstid når det er mer enn 5 år siden dommen falt. Skjæringstidspunktet for 3- og 5-årsfristen er tidspunktet for Utlendingsdirektoratets vedtak om tilleggstid. Det beregnes ikke botid mens søkeren gjennomfører ungdomsstraff.
+
+**2. ledd**
+
+Er søkeren dømt til samfunnsstraff, gjøres det et tillegg i botiden på ett år. Det skal ikke beregnes tilleggstid når søkeren er dømt til subsidiær fengselsstraff i inntil 6 måneder og det er mer enn 3 år siden dommen falt. Når søkeren er dømt til subsidiær fengselsstraff i mer enn 6 måneder, skal det ikke beregnes tilleggstid når det er mer enn 10 år siden samfunnsstraffen er gjennomført. Hvis søkeren var under 18 år da lovbruddet ble begått, skal det ikke beregnes tilleggstid når det er mer enn 5 år siden dommen falt. Skjæringstidspunktet for 3-, 5- og 10-årsfristen er tidspunktet for Utlendingsdirektoratets vedtak om tilleggstid. Permanent oppholdstillatelse kan som hovedregel ikke tilstås i gjennomføringstiden.
+
+**3. ledd**
+
+§ 11-5 fjerde og femte ledd gjelder tilsvarende.
+
+---
+
+**Endringshistorikk:**
+
+- Tilføyd ved forskrift 12 mars 2024 nr. 425 (i kraft 16 mai 2024).

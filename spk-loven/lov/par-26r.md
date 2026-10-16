@@ -1,0 +1,33 @@
+# § 26 r. Særalderspåslag
+
+**Kilde:** Lov om Statens pensjonskasse § 26 r
+
+**1. ledd**
+
+Medlemmer født i 1963 eller senere som har fratrådt medlemspliktig stilling med minst 10 prosent målt i forhold til full stilling, har rett til særalderspåslag. Det er et vilkår at vedkommende i løpet av de siste 15 årene før særaldersgrensen, eller før fratreden med rett til uttak av særalderspåslag, har hatt en medlemspliktig stilling med særaldersgrense i minst 10 år. Tid med midlertidig uførepensjon eller uførepensjon regnes ikke som tid i medlemspliktig stilling. Dersom vilkåret har vært oppfylt ved ett uttak, skal det anses som oppfylt også ved senere uttak. Vilkåret gjelder ikke for personer som har mottatt tidligpensjon etter dette kapittelet eller tilsvarende pensjon fra en annen offentlig tjenestepensjonsordning.
+
+**2. ledd**
+
+Det er et vilkår for rett til særalderspåslag etter denne paragrafen at medlemmet ikke mottar tidligpensjon etter dette kapittelet, tilsvarende pensjon fra en annen offentlig tjenestepensjonsordning eller avtalefestet pensjon som en tidligpensjonsordning.
+
+**3. ledd**
+
+Særalderspåslaget skal beregnes som en prosentandel av pensjonsgrunnlaget. Fullt særalderspåslag skal være 7,7 prosent for stillinger med særaldersgrense syv år lavere enn alderen for ubetinget rett til uttak av alderspensjon fra folketrygden, 6,5 prosent for stillinger med særaldersgrense fire år lavere enn alderen for ubetinget rett til uttak av alderspensjon fra folketrygden og 5,8 prosent for stillinger med særaldersgrense to år lavere enn alderen for ubetinget rett til uttak av alderspensjon fra folketrygden. Fullt særalderspåslag krever at medlemmet har minst 30 års tjenestetid. Er tjenestetiden kortere enn 30 år, avkortes særalderspåslaget forholdsmessig.
+
+**4. ledd**
+
+Har medlemmet en medlemspliktig stilling etter uttak av særalderspåslag, skal uttaksgraden maksimalt settes til 100 prosent med fratrekk for stillingsandelen i den medlemspliktige stillingen. Mottar medlemmet midlertidig uførepensjon, uførepensjon eller uføretrygd etter uttak av særalderspåslag, skal uttaksgraden maksimalt være 100 prosent med fratrekk for høyeste uføregrad etter uttaket. Dersom medlemmet både har en medlemspliktig stilling og mottar midlertidig uførepensjon, uførepensjon eller uføretrygd etter uttak av særalderspåslag, skal uttaksgraden maksimalt settes til 100 prosent med fratrekk for stillingsandelen i den medlemspliktige stillingen og høyeste uføregrad etter uttaket. Dersom medlemmet mottar særalderspåslag etter mottak av tidligpensjon, skal uttaksgraden maksimalt være 100 prosent fratrukket stillingsandelen i den medlemspliktige stillingen og høyeste uføregrad etter særaldersgrensen. Dersom uføregraden for midlertidig uførepensjon, uførepensjon og uføretrygd er forskjellig, skal den høyeste uføregraden legges til grunn.
+
+**5. ledd**
+
+Ved endringer i forhold som nevnt i fjerde ledd skal det fastsettes en ny uttaksgrad. Det skal likevel ikke fastsettes en ny uttaksgrad ved økt stillingsandel i den medlemspliktige stillingen etter uttak. Dersom uttaksgraden økes, skal det beregnes et nytt deluttak for økningen.
+
+**6. ledd**
+
+Særalderspåslaget utbetales tidligst fra tidspunktet medlemmet når laveste uttaksalder for alderspensjon fra folketrygden.
+
+---
+
+**Endringshistorikk:**
+
+- Tilføyd ved lov 10 juni 2025 nr. 31 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 965 , se endringsloven del V for overgangsregler).

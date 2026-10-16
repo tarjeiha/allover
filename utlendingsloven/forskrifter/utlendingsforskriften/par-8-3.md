@@ -1,0 +1,29 @@
+# § 8-3. Refleksjonsperiode mv. for ofre for menneskehandel
+
+**Kilde:** Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) § 8-3
+
+**1. ledd**
+
+Når det foreligger holdepunkter for at en utlending som oppholder seg i riket er utsatt for menneskehandel og er innstilt på å motta hjelp og følge opp tiltak som myndighetene tilbyr, kan det innvilges oppholdstillatelse (refleksjonsperiode) som ikke danner grunnlag for permanent oppholdstillatelse etter nærmere retningslinjer som gis av Utlendingsdirektoratet.
+
+**2. ledd**
+
+En utlending som har hatt refleksjonsperiode etter første ledd, kan gis ny oppholdstillatelse som ikke danner grunnlag for permanent oppholdstillatelse etter avsluttet refleksjonsperiode i henhold til retningslinjer som gis av Utlendingsdirektoratet. Utlendingsdirektoratet kan også gi retningslinjer om at det kan gis oppholdstillatelse til en utlending som ikke har hatt refleksjonsperiode etter første ledd og om fornyelse av tillatelser.
+
+**3. ledd**
+
+Oppholdstillatelse etter første og annet ledd forutsetter at utlendingen oppholder seg i riket. Tillatelsen gir ikke rett til ny innreise, med mindre annet er særskilt fastsatt i tillatelsen eller det etter søknad er gitt rett til dette på forhånd. Dersom utreise er foretatt uten at det foreligger tillatelse til ny innreise, kan oppholdstillatelsen tilbakekalles.
+
+**4. ledd**
+
+Mindreårige som oppholder seg i Norge, og som er barn av person som nevnt i første eller annet ledd, kan gis oppholdstillatelse med de samme begrensninger som er fastsatt i forelderens tillatelse. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+
+**5. ledd**
+
+Søknad om oppholdstillatelse etter første og annet ledd og søknad om adgang til ut- og innreise, fremsettes overfor politiet og avgjøres av Utlendingsdirektoratet.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 21 des 2011 nr. 1445 (i kraft 1 feb 2012).

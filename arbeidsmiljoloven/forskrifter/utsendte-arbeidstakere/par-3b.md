@@ -1,0 +1,21 @@
+# § 3b. Arbeids- og ansettelsesvilkår ved langvarig utsending
+
+**Kilde:** Forskrift om utsendte arbeidstakere § 3b
+
+**1. ledd**
+
+I tillegg til de arbeids- og ansettelsesvilkår som følger av § 3 , kommer alle norske regler om arbeids- og ansettelsesvilkår til anvendelse for utsendt arbeidstaker som er på tjenesteoppdrag i Norge, når utsendingens faktiske varighet overstiger 12 måneder. Dette gjelder likevel ikke reglene i arbeidsmiljøloven § 2 A-6 , § 14 A-1 til § 14 A-5 , § 14-1 til § 14-4b , § 14-9 til § § 14-11 , § 15-1 til § 15-8 og § 15-10 til § 15-17 , og lov om obligatorisk tjenestepensjon .
+
+**2. ledd**
+
+Perioden i første ledd forlenges med inntil 6 måneder, dersom arbeidsgiver senest innen 12 måneder etter at arbeidstakeren påbegynte utsendingsperioden i Norge gir skriftlig melding til Arbeidstilsynet om at utsendingsperioden må forlenges. Meldingen skal inneholde begrunnelsen for hvorfor perioden må forlenges, og hvilke arbeidstakere som er omfattet.
+
+**3. ledd**
+
+Dersom arbeidsgiver erstatter en utsendt arbeidstaker med en annen utsendt arbeidstaker som utfører samme oppgave på samme sted, er det den samlede varigheten av disse arbeidstakernes utsendingsperioder som utgjør utsendingsperioden i første og annet ledd. I vurderingen av hva som er samme oppgave på samme sted, skal det blant annet legges vekt på tjenesteytelsens art, arbeidet som skal utføres og arbeidsplassens adresse.
+
+---
+
+**Endringshistorikk:**
+
+- Tilføyd ved forskrift 28 okt 2022 nr. 1895 (i kraft 1 jan 2023), endret ved forskrifter 28 okt 2022 nr. 1895 (i kraft 1 mars 2023, gjelder annet ledd), 30 juni 2023 nr. 1178 (i kraft 3 nov 2023 iflg. vedtak 3 nov 2023 nr. 1769 ), 18 des 2025 nr. 2718 .

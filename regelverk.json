@@ -6,7 +6,1122 @@
       "navn": "Offentleglova",
       "lov": "LOV-2006-05-19-16",
       "forskrifter": [
-        { "id": "FOR-2008-10-17-1119", "slug": "offentlegforskrifta", "navn": "Offentlegforskrifta" }
+        {
+          "id": "FOR-2008-10-17-1119",
+          "slug": "offentlegforskrifta",
+          "navn": "Offentlegforskrifta"
+        }
+      ]
+    },
+    {
+      "mappe": "afp-loven",
+      "navn": "AFP-loven for medlemmer av Statens pensjonskasse",
+      "lov": "LOV-2010-06-25-28",
+      "forskrifter": [
+        {
+          "id": "FOR-2010-11-30-1493",
+          "slug": "kombinasjon-avtalefestet-pensjon-medlemmer-2010",
+          "navn": "Forskrift om kombinasjon av avtalefestet pensjon for medlemmer av Statens pensjonskasse og arbeidsinntekt (pensjonsgivende inntekt)"
+        },
+        {
+          "id": "FOR-2010-11-30-1494",
+          "slug": "omregning-avtalefestet-pensjon-medlemmer-2010",
+          "navn": "Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv"
+        },
+        {
+          "id": "FOR-2024-12-13-3109",
+          "slug": "avtalefestet-pensjon-medlemmer-statens-2024",
+          "navn": "Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning)"
+        }
+      ]
+    },
+    {
+      "mappe": "aldersgrenseloven",
+      "navn": "Aldersgrenseloven for statsansatte",
+      "lov": "LOV-1956-12-21-1",
+      "forskrifter": []
+    },
+    {
+      "mappe": "allmenngjoringsloven",
+      "navn": "Allmenngjøringsloven",
+      "lov": "LOV-1993-06-04-58",
+      "forskrifter": [
+        {
+          "id": "FOR-2026-04-13-592",
+          "slug": "biloverenskomsten",
+          "navn": "Forskrift om delvis allmenngjøring av biloverenskomsten"
+        },
+        {
+          "id": "FOR-2024-10-21-2544",
+          "slug": "byggeplasser",
+          "navn": "Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge"
+        },
+        {
+          "id": "FOR-2024-10-21-2536",
+          "slug": "elektrofagene",
+          "navn": "Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene"
+        },
+        {
+          "id": "FOR-2024-10-29-2601",
+          "slug": "godstransport-pa-vei",
+          "navn": "Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei"
+        },
+        {
+          "id": "FOR-2008-02-22-166",
+          "slug": "informasjons-og-paseplikt",
+          "navn": "Forskrift om informasjons- og påseplikt og innsynsrett"
+        },
+        {
+          "id": "FOR-2024-10-21-2533",
+          "slug": "jordbruk-og-gartneri",
+          "navn": "Forskrift om allmenngjøring av tariffavtale for jordbruks- og gartnerinæringene"
+        },
+        {
+          "id": "FOR-2024-10-21-2543",
+          "slug": "overnatting-servering-catering",
+          "navn": "Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter"
+        },
+        {
+          "id": "FOR-2024-10-21-2534",
+          "slug": "persontransport-turbil",
+          "navn": "Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil"
+        },
+        {
+          "id": "FOR-2024-10-21-2545",
+          "slug": "renholdsbedrifter",
+          "navn": "Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter"
+        },
+        {
+          "id": "FOR-2024-10-21-2535",
+          "slug": "skips-og-verftsindustrien",
+          "navn": "Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien"
+        }
+      ]
+    },
+    {
+      "mappe": "arbeidsmarkedsloven",
+      "navn": "Arbeidsmarkedsloven",
+      "lov": "LOV-2004-12-10-76",
+      "forskrifter": [
+        {
+          "id": "FOR-2015-12-11-1598",
+          "slug": "tiltaksforskriften",
+          "navn": "Forskrift om arbeidsmarkedstiltak (tiltaksforskriften)"
+        },
+        {
+          "id": "FOR-2013-11-04-1286",
+          "slug": "tiltakspengeforskriften",
+          "navn": "Forskrift om tiltakspenger mv. (tiltakspengeforskriften)"
+        },
+        {
+          "id": "FOR-2015-07-02-867",
+          "slug": "stonad-komme-i-arbeid",
+          "navn": "Forskrift om stønader til dekning av utgifter knyttet til å komme i eller å beholde arbeid (tilleggsstønadsforskriften)"
+        },
+        {
+          "id": "FOR-2014-05-16-648",
+          "slug": "arbeids-og-utdanningsreiser",
+          "navn": "Forskrift om stønad til arbeids- og utdanningsreiser"
+        },
+        {
+          "id": "FOR-2023-06-20-1073",
+          "slug": "oppfolgingstiltak-egenregi",
+          "navn": "Forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi"
+        },
+        {
+          "id": "FOR-2012-03-23-248",
+          "slug": "politiattest",
+          "navn": "Forskrift om politiattest i henhold til arbeidsmarkedsloven"
+        },
+        {
+          "id": "FOR-2005-08-12-893",
+          "slug": "unntak-fra-loven",
+          "navn": "Forskrift om unntak fra lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 26 første ledd"
+        },
+        {
+          "id": "FOR-2025-06-20-1182",
+          "slug": "forsok-ungdomsprogram",
+          "navn": "Forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse"
+        },
+        {
+          "id": "FOR-2026-02-04-163",
+          "slug": "forsok-lonnstilskudd-unge",
+          "navn": "Forskrift om forsøk med fireårig lønnstilskudd for unge"
+        },
+        {
+          "id": "FOR-2024-07-02-1800",
+          "slug": "pilot-oppfolging-vta",
+          "navn": "Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet"
+        }
+      ]
+    },
+    {
+      "mappe": "arbeidsmiljoloven",
+      "navn": "Arbeidsmiljøloven",
+      "lov": "LOV-2005-06-17-62",
+      "forskrifter": [
+        {
+          "id": "FOR-2005-12-16-1569",
+          "slug": "tvistelosningsnemnd",
+          "navn": "Forskrift om tvisteløsningsnemnd etter arbeidsmiljøloven"
+        },
+        {
+          "id": "FOR-2008-06-04-541",
+          "slug": "godkjenning-bemanningsforetak",
+          "navn": "Forskrift om offentlig godkjenning av bemanningsforetak"
+        },
+        {
+          "id": "FOR-2013-01-11-33",
+          "slug": "innleie-fra-bemanningsforetak",
+          "navn": "Forskrift om innleie fra bemanningsforetak"
+        },
+        {
+          "id": "FOR-2015-07-06-874",
+          "slug": "tariffavtale-likebehandling",
+          "navn": "Forskrift om adgang til ved tariffavtale å fravike reglene om likebehandling ved utleie fra bemanningsforetak"
+        },
+        {
+          "id": "FOR-2022-12-20-2301",
+          "slug": "overgangsregler-innleie",
+          "navn": "Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)"
+        },
+        {
+          "id": "FOR-2025-07-01-1377",
+          "slug": "innleie-avloserlag",
+          "navn": "Forskrift om innleie av avløser fra avløserlag"
+        },
+        {
+          "id": "FOR-1991-10-31-1014",
+          "slug": "arbeidsreglement-hotell-restaurant",
+          "navn": "Forskrift om plikt til å utarbeide arbeidsreglement ved virksomheter innen hotell- og restaurantbransjen"
+        },
+        {
+          "id": "FOR-2018-07-02-1107",
+          "slug": "kameraovervaking",
+          "navn": "Forskrift om kameraovervåking i virksomhet"
+        },
+        {
+          "id": "FOR-2018-07-02-1108",
+          "slug": "innsyn-epost",
+          "navn": "Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale"
+        },
+        {
+          "id": "FOR-1980-06-06-6",
+          "slug": "medbestemmelse-staten",
+          "navn": "Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten"
+        },
+        {
+          "id": "FOR-2005-12-16-1567",
+          "slug": "unntak-visse-arbeidstakergrupper",
+          "navn": "Forskrift om unntak fra arbeidsmiljøloven for visse typer arbeid og arbeidstakergrupper"
+        },
+        {
+          "id": "FOR-1985-02-08-293",
+          "slug": "teater-og-opera",
+          "navn": "Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera"
+        },
+        {
+          "id": "FOR-2004-12-30-1817",
+          "slug": "luftfartoy-besetning",
+          "navn": "Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4)"
+        },
+        {
+          "id": "FOR-2005-06-10-543",
+          "slug": "vegtransport",
+          "navn": "Forskrift om arbeidstid for sjåfører og andre innenfor vegtransport"
+        },
+        {
+          "id": "FOR-2005-06-24-686",
+          "slug": "medleverordninger",
+          "navn": "Forskrift om arbeidstid i institusjoner som har medleverordninger"
+        },
+        {
+          "id": "FOR-2008-07-03-783",
+          "slug": "grensekryssende-jernbane",
+          "navn": "Forskrift om arbeidstid mv. for arbeidstakere i grensekryssende jernbanetrafikk"
+        },
+        {
+          "id": "FOR-2009-06-26-873",
+          "slug": "polititjenestemenn",
+          "navn": "Forskrift om unntak fra arbeidsmiljølovens arbeidstidsbestemmelser for polititjenestemenn mv"
+        },
+        {
+          "id": "FOR-2017-06-25-1052",
+          "slug": "avlastere",
+          "navn": "Forskrift om arbeidstid for avlastere"
+        },
+        {
+          "id": "FOR-1980-06-13-2",
+          "slug": "helse-og-sosialinstitusjoner",
+          "navn": "Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven"
+        },
+        {
+          "id": "FOR-2011-12-06-1360",
+          "slug": "administrative-ordninger",
+          "navn": "Forskrift om administrative ordninger på arbeidsmiljølovens område (forskrift om administrative ordninger)"
+        },
+        {
+          "id": "FOR-2007-03-30-366",
+          "slug": "hms-kort-bygg-anlegg",
+          "navn": "Forskrift om HMS-kort på bygge- og anleggsplasser"
+        },
+        {
+          "id": "FOR-2025-06-20-1152",
+          "slug": "hms-kort-transport",
+          "navn": "Forskrift om HMS-kort i virksomheter som transporterer andres varer med bil"
+        },
+        {
+          "id": "FOR-2012-05-08-408",
+          "slug": "godkjenning-renhold",
+          "navn": "Forskrift om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester"
+        },
+        {
+          "id": "FOR-2022-02-11-206",
+          "slug": "godkjenning-bilpleie",
+          "navn": "Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester"
+        },
+        {
+          "id": "FOR-2005-12-16-1568",
+          "slug": "ikke-arbeidstakere",
+          "navn": "Forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere"
+        },
+        {
+          "id": "FOR-2002-07-05-715",
+          "slug": "arbeid-i-arbeidstakers-hjem",
+          "navn": "Forskrift om arbeid som utføres i arbeidstakers hjem"
+        },
+        {
+          "id": "FOR-2022-06-03-969",
+          "slug": "arbeid-i-arbeidsgivers-hjem",
+          "navn": "Forskrift om arbeid i arbeidsgivers hjem og husholdning"
+        },
+        {
+          "id": "FOR-2005-12-16-1566",
+          "slug": "utsendte-arbeidstakere",
+          "navn": "Forskrift om utsendte arbeidstakere"
+        },
+        {
+          "id": "FOR-1986-02-21-540",
+          "slug": "sivil-luftfart",
+          "navn": "Forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart"
+        },
+        {
+          "id": "FOR-2018-12-20-2182",
+          "slug": "unntak-sivil-luftfart",
+          "navn": "Forskrift om unntak fra arbeidsmiljøloven med tilhørende forskrifter for sivil luftfart mv"
+        },
+        {
+          "id": "FOR-1983-04-29-3349",
+          "slug": "sjofartsdirektoratet",
+          "navn": "Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere"
+        },
+        {
+          "id": "FOR-2024-04-11-607",
+          "slug": "dykkeoperasjoner",
+          "navn": "Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv"
+        }
+      ]
+    },
+    {
+      "mappe": "arbeidstvistloven",
+      "navn": "Arbeidstvistloven",
+      "lov": "LOV-2012-01-27-9",
+      "forskrifter": []
+    },
+    {
+      "mappe": "ferieloven",
+      "navn": "Ferieloven",
+      "lov": "LOV-1988-04-29-21",
+      "forskrifter": [
+        {
+          "id": "FOR-2021-11-26-3291",
+          "slug": "ferieloven-svalbard",
+          "navn": "Forskrift om anvendelse av ferieloven på Svalbard"
+        },
+        {
+          "id": "FOR-1989-12-22-1285",
+          "slug": "ferie-arbeidstakere-skip",
+          "navn": "Forskrift om ferie for arbeidstakere på skip"
+        },
+        {
+          "id": "FOR-1998-06-18-585",
+          "slug": "delegering",
+          "navn": "Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet"
+        }
+      ]
+    },
+    {
+      "mappe": "folketrygdloven",
+      "navn": "Folketrygdloven",
+      "lov": "LOV-1997-02-28-19",
+      "forskrifter": [
+        {
+          "id": "FOR-2017-12-13-2099",
+          "slug": "eos-beregning-arbeidsavklaringspenger",
+          "navn": "Forskrift om beregning av arbeidsavklaringspenger etter EØS-avtalen"
+        },
+        {
+          "id": "FOR-2009-12-22-1810",
+          "slug": "alderspensjon-i-folketrygden",
+          "navn": "Forskrift om alderspensjon i folketrygden"
+        },
+        {
+          "id": "FOR-1998-09-16-890",
+          "slug": "dagpengeforskriften",
+          "navn": "Forskrift om dagpenger under arbeidsløshet"
+        },
+        {
+          "id": "FOR-2011-06-01-565",
+          "slug": "dagpenger-fiskere",
+          "navn": "Forskrift om dagpenger for fiskere og fangstfolk under arbeidsløshet (A-trygdforskriften)"
+        },
+        {
+          "id": "FOR-2012-05-25-461",
+          "slug": "minsteinntekt-virkningstidspunkt",
+          "navn": "Kunngjøring av virkningstidspunktet for regulering av kravet til minsteinntekt i dagpengeordningen"
+        },
+        {
+          "id": "FOR-2023-12-21-2260",
+          "slug": "overgangsregler-2023",
+          "navn": "Forskrift om overgangsregler i forbindelse med ikrafttredelse av endring av folketrygdloven § 4-9 fra 1. januar 2024"
+        },
+        {
+          "id": "FOR-2015-11-21-1341",
+          "slug": "stonad-enslig-mor-far",
+          "navn": "Forskrift om stønad til enslig mor eller far etter folketrygdloven kapittel 15"
+        },
+        {
+          "id": "FOR-2024-01-26-123",
+          "slug": "overgangsregler-par15",
+          "navn": "Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven § 15-6 og § 15-8 fra 1. februar 2024"
+        },
+        {
+          "id": "FOR-2023-06-21-1007",
+          "slug": "ytelser-gjenlevende",
+          "navn": "Forskrift om ytelser til gjenlevende ektefelle og tidligere familiepleier etter folketrygdloven kapittel 17"
+        },
+        {
+          "id": "FOR-2002-12-12-1492",
+          "slug": "behovsprovd-gravferdsstonad",
+          "navn": "Forskrift om behovsprøvet gravferdsstønad"
+        },
+        {
+          "id": "FOR-2002-12-12-1493",
+          "slug": "gravferdsstonad-baretransport",
+          "navn": "Forskrift om gravferdsstønad og stønad til båretransport for person som er pliktig medlem etter § 2-5 i lov om folketrygd og som dør utenfor Norge og om stønad til båretransport når et medlem dør i et av de nordiske land"
+        },
+        {
+          "id": "FOR-1997-03-11-216",
+          "slug": "baretransport",
+          "navn": "Forskrift om dekning av utgifter til båretransport i Norge"
+        },
+        {
+          "id": "FOR-2026-05-22-869",
+          "slug": "grunnbelop-og-satser",
+          "navn": "Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14"
+        },
+        {
+          "id": "FOR-2011-05-06-465",
+          "slug": "regulering-lonnsvekst",
+          "navn": "Forskrift om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden"
+        },
+        {
+          "id": "FOR-2024-11-15-2778",
+          "slug": "bilaterale-trygdeavtaler",
+          "navn": "Forskrift om gjennomføring av bilaterale trygdeavtaler"
+        },
+        {
+          "id": "FOR-1997-04-15-314",
+          "slug": "unntak-medlemskap",
+          "navn": "Forskrift om unntak fra medlemskap i folketrygden for person som er omfattet av eller mottar ytelser etter utenlandsk trygdelovgivning mv og vedkommendes familiemedlemmer"
+        },
+        {
+          "id": "FOR-2008-05-14-460",
+          "slug": "trygdedekning-asylsokere",
+          "navn": "Forskrift om trygdedekning for asylsøkere og deres familiemedlemmer"
+        },
+        {
+          "id": "FOR-2012-06-22-603",
+          "slug": "medlemskap-fengsel",
+          "navn": "Forskrift om medlemskap i trygden under fengselsopphold mv"
+        },
+        {
+          "id": "FOR-1997-03-11-202",
+          "slug": "pensjonsgivende-inntekt-uforetidspunkt",
+          "navn": "Forskrift om fastsetting av pensjonsgivende inntekt for året før det året da et medlem får rett til en trygdeytelse"
+        },
+        {
+          "id": "FOR-1997-03-11-203",
+          "slug": "omsorgspoeng",
+          "navn": "Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for personer som har omsorg for små barn"
+        },
+        {
+          "id": "FOR-1997-03-11-204",
+          "slug": "omsorgspoeng-omsorgsarbeid",
+          "navn": "Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person"
+        },
+        {
+          "id": "FOR-2014-11-26-1465",
+          "slug": "omsorgspoeng-afp",
+          "navn": "Forskrift om godskriving av pensjonspoeng for mottakere av avtalefestet pensjon som omfattes av AFP-tilskottsloven § 12 eller avtalefestet pensjon fra offentlig pensjonsordning før fylte 65 år"
+        },
+        {
+          "id": "FOR-1997-12-18-1408",
+          "slug": "nedsettelse-pensjonsgivende-inntekt",
+          "navn": "Forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt"
+        },
+        {
+          "id": "FOR-1997-12-19-1421",
+          "slug": "gjennomforing-nedsettelse",
+          "navn": "Forskrift om gjennomføring av nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt"
+        },
+        {
+          "id": "FOR-2025-06-13-1017",
+          "slug": "endring-nedsettelse",
+          "navn": "Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt"
+        },
+        {
+          "id": "FOR-2017-02-13-179",
+          "slug": "pensjonsgivende-inntekt-utland",
+          "navn": "Forskrift om fastsettelse av pensjonsgivende inntekt mv. for medlemmer med inntekt som ikke blir skattlagt av norske myndigheter"
+        },
+        {
+          "id": "FOR-1993-12-23-1251",
+          "slug": "pensjonsberegning-barnetillegg",
+          "navn": "Forskrift om pensjonsberegning, om tilståelse og beregning av barnetillegg og barnepensjon og om gjennomføringa av folketrygdlovens bestemmelser om inntektsprøving i tilfelle som omfattes av EØS-avtalen"
+        },
+        {
+          "id": "FOR-1997-03-25-268",
+          "slug": "tvister-arbeidsgiverperioden",
+          "navn": "Forskrift om behandling av tvister i arbeidsgiverperioden"
+        },
+        {
+          "id": "FOR-1997-04-15-324",
+          "slug": "unntak-anke-trygderetten",
+          "navn": "Forskrift om unntak fra anke til Trygderetten"
+        },
+        {
+          "id": "FOR-2006-06-30-743",
+          "slug": "anke-direkte-trygderetten",
+          "navn": "Forskrift om at visse vedtak kan ankes direkte inn for Trygderetten"
+        },
+        {
+          "id": "FOR-2009-03-11-294",
+          "slug": "utveksling-opplysninger",
+          "navn": "Forskrift om utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjonsinnretninger, forsikringsselskaper og andre finansinstitusjoner"
+        },
+        {
+          "id": "FOR-2009-10-02-1285",
+          "slug": "elektronisk-kommunikasjon",
+          "navn": "Forskrift om elektronisk kommunikasjon med Arbeids- og velferdsetaten"
+        },
+        {
+          "id": "FOR-2009-12-07-1480",
+          "slug": "unntak-elektronisk-innsending",
+          "navn": "Forskrift om unntak fra pålegg om elektronisk kommunikasjon ved innsending av erklæringer og uttalelser til Arbeids- og velferdsetaten (NAV)"
+        },
+        {
+          "id": "FOR-2018-06-20-937",
+          "slug": "saksopplysninger-elektronisk",
+          "navn": "Forskrift om at saksopplysninger til Arbeids- og velferdsetaten skal gis elektronisk"
+        },
+        {
+          "id": "FOR-2016-05-26-529",
+          "slug": "okt-beregningsgrunnlag-gift-samboende",
+          "navn": "Forskrift om økt beregningsgrunnlag for gifte og samboende uføretrygdede som mottar en uføretrygd omregnet fra uførepensjon"
+        },
+        {
+          "id": "FOR-2014-07-03-947",
+          "slug": "omregning-uforepensjon-til-uforetrygd",
+          "navn": "Forskrift om omregning av uførepensjon til uføretrygd"
+        },
+        {
+          "id": "FOR-2014-12-05-1602",
+          "slug": "uforetrygdforskriften",
+          "navn": "Forskrift om uføretrygd fra folketrygden"
+        },
+        {
+          "id": "FOR-1999-04-23-534",
+          "slug": "gjennomforing-par22-18",
+          "navn": "Forskrift om gjennomføringen av folketrygdloven § 22-18 og bidragsinnkrevingsloven § 34 om utbetalingsmåten for ytelser mv"
+        },
+        {
+          "id": "FOR-2009-12-14-1513",
+          "slug": "rentesats-par22-17",
+          "navn": "Forskrift om rentesats etter folketrygdloven § 22-17 første ledd"
+        },
+        {
+          "id": "FOR-2014-02-14-137",
+          "slug": "disponering-institusjon",
+          "navn": "Forskrift om disponering av kontantytelser fra folketrygden under opphold i kommunal helse- og omsorgsinstitusjon og i helseinstitusjon i spesialisthelsetjenesten"
+        },
+        {
+          "id": "FOR-2014-07-10-968",
+          "slug": "overtredelsesgebyr-tvangsmulkt",
+          "navn": "Forskrift om overtredelsesgebyr og tvangsmulkt etter folketrygdloven § 25-3 ved brudd på opplysningsplikten til Arbeidsgiver- og arbeidstakerregisteret mv"
+        },
+        {
+          "id": "FOR-2014-07-10-969",
+          "slug": "opplysningsplikt-arbeidsgiver",
+          "navn": "Forskrift til folketrygdloven § 25-10 om arbeidsgivers og oppdragsgivers opplysningsplikt om arbeidsforhold og inntekt"
+        },
+        {
+          "id": "FOR-1997-03-25-272",
+          "slug": "statistikk-sykefravaer",
+          "navn": "Forskrift om føring av statistikk over sykefravær og fravær ved barns sykdom"
+        },
+        {
+          "id": "FOR-1997-03-25-273",
+          "slug": "kapitalverdier",
+          "navn": "Forskrift om beregning av kapitalverdier av trygdeytelser"
+        },
+        {
+          "id": "FOR-1998-01-16-37",
+          "slug": "viderefoering-forskrifter",
+          "navn": "Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd"
+        },
+        {
+          "id": "FOR-2008-08-18-942",
+          "slug": "aa-registeret",
+          "navn": "Forskrift om Arbeidsgiver- og arbeidstakerregisteret"
+        },
+        {
+          "id": "FOR-1997-04-21-373",
+          "slug": "menerstatning",
+          "navn": "Forskrift om menerstatning ved yrkesskade"
+        },
+        {
+          "id": "FOR-1997-03-11-220",
+          "slug": "yrkessykdommer",
+          "navn": "Forskrift om yrkessykdommer, klimasykdommer og epidemiske sykdommer som skal likestilles med yrkesskade"
+        },
+        {
+          "id": "FOR-1997-03-11-219",
+          "slug": "sykdommer-likestilt-yrkesskade",
+          "navn": "Forskrift om sykdommer og forgiftninger m.v. som skal likestilles med yrkesskade"
+        },
+        {
+          "id": "FOR-2026-06-23-1356",
+          "slug": "radgivende-yrkessykdomsutvalg",
+          "navn": "Forskrift om et rådgivende yrkessykdomsutvalg for regelmessig revisjon av forskrift over sykdommer som skal likestilles med yrkesskade"
+        },
+        {
+          "id": "FOR-1997-03-11-208",
+          "slug": "beregning-uforepensjon-yrkesskade",
+          "navn": "Forskrift om beregning av uførepensjon og godskriving av pensjonspoeng ved yrkesskade"
+        },
+        {
+          "id": "FOR-1997-03-11-209",
+          "slug": "tilleggspensjon-yrkesskade",
+          "navn": "Forskrift om beregning av tilleggspensjon ved yrkesskade"
+        },
+        {
+          "id": "FOR-1997-03-11-210",
+          "slug": "frivillig-yrkesskadetrygd-selvstendig",
+          "navn": "Forskrift om frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere"
+        },
+        {
+          "id": "FOR-1997-03-25-267",
+          "slug": "frivillig-yrkesskadetrygd-elever",
+          "navn": "Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket"
+        }
+      ]
+    },
+    {
+      "mappe": "integreringsloven",
+      "navn": "Integreringsloven",
+      "lov": "LOV-2020-11-06-127",
+      "forskrifter": [
+        {
+          "id": "FOR-2021-06-20-2053",
+          "slug": "laereplan-norsk",
+          "navn": "Forskrift om læreplan i norsk for voksne innvandrere"
+        },
+        {
+          "id": "FOR-2021-06-20-2086",
+          "slug": "laereplan-norsk-c1",
+          "navn": "Forskrift om læreplan i norsk for voksne innvandrere nivå C1"
+        },
+        {
+          "id": "FOR-2021-06-20-2054",
+          "slug": "laereplan-samfunnskunnskap",
+          "navn": "Forskrift om læreplan i samfunnskunnskap for voksne innvandrere"
+        },
+        {
+          "id": "FOR-2020-12-15-2912",
+          "slug": "integreringsforskriften",
+          "navn": "Forskrift til integreringsloven (integreringsforskriften)"
+        },
+        {
+          "id": "FOR-2022-06-10-995",
+          "slug": "overgangsregler-kap6a",
+          "navn": "Overgangsregler om integreringsloven kapittel 6A"
+        },
+        {
+          "id": "FOR-2024-06-25-1215",
+          "slug": "overgangsregel-par20",
+          "navn": "Overgangsregel om integreringsloven § 20 fjerde ledd"
+        },
+        {
+          "id": "FOR-2026-06-12-1077",
+          "slug": "overgangsregler-ukraina-kap6a",
+          "navn": "Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A)"
+        }
+      ]
+    },
+    {
+      "mappe": "spk-loven",
+      "navn": "Lov om Statens pensjonskasse",
+      "lov": "LOV-1949-07-28-26",
+      "forskrifter": [
+        {
+          "id": "FOR-1984-03-19-2319",
+          "slug": "pensjonsgrunnlag-statens-pensjonskasse-1984",
+          "navn": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag"
+        },
+        {
+          "id": "FOR-2003-12-17-1783",
+          "slug": "vartpenger-2003",
+          "navn": "Forskrift om vartpenger"
+        },
+        {
+          "id": "FOR-2003-12-19-1618",
+          "slug": "unntak-medlemskap-statens-pensjonskasse-2003",
+          "navn": "Forskrift om unntak fra medlemskap i Statens pensjonskasse"
+        },
+        {
+          "id": "FOR-2009-12-22-1804",
+          "slug": "beregning-arbeidsgiverandel-m-m-2009",
+          "navn": "Forskrift om beregning av arbeidsgiverandel m.m"
+        },
+        {
+          "id": "FOR-2010-11-30-1492",
+          "slug": "levealdersjustering-alderspensjon-medlem-2010",
+          "navn": "Forskrift om levealdersjustering av alderspensjon når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger har ny pensjonsopptjening etter fylte 67 år"
+        },
+        {
+          "id": "FOR-2010-12-20-1711",
+          "slug": "vilkar-rett-ytelser-statens-2010",
+          "navn": "Forskrift om vilkår for rett til ytelser etter lov om Statens pensjonskasse og etter enkelte andre lover når det foreligger rett til ytelser etter folketrygdloven"
+        },
+        {
+          "id": "FOR-2025-10-23-2080",
+          "slug": "reduksjon-tidligpensjon-livsvarig-reduksjon-2025",
+          "navn": "Forskrift om reduksjon av tidligpensjon og livsvarig reduksjon av særalderspåslag på grunn av inntekt"
+        },
+        {
+          "id": "FOR-1978-09-05-4",
+          "slug": "reduksjon-enke-offentlig-1978",
+          "navn": "Forskrift om reduksjon av enke- eller enkemannspensjon fra en offentlig tjenestepensjonsordning for alders- eller uførepensjon og arbeidsinntekt"
+        },
+        {
+          "id": "FOR-1986-05-15-4115",
+          "slug": "samordningsforskrift-43-1986",
+          "navn": "Forskrift om tjenestepensjon og sykepenger (samordningsforskrift 43)"
+        },
+        {
+          "id": "FOR-2010-07-06-1075",
+          "slug": "fastsetting-enke-del-pensjonen-skal-2010",
+          "navn": "Forskrift om fastsetting av enke- og enkemannspensjon der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke"
+        },
+        {
+          "id": "FOR-2011-10-20-1039",
+          "slug": "anvendelse-forholdstall-medlem-statens-2011",
+          "navn": "Forskrift om anvendelse av forholdstall når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger blir innvilget uførepensjon etter fylte 67 år"
+        },
+        {
+          "id": "FOR-2014-07-03-949",
+          "slug": "overgangsregler-uforepensjon-lovfestet-2014",
+          "navn": "Forskrift om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015"
+        },
+        {
+          "id": "FOR-2014-11-26-1467",
+          "slug": "reduksjon-uforepensjon-lovfestet-offentlig-2014",
+          "navn": "Forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør"
+        },
+        {
+          "id": "FOR-2015-06-19-710",
+          "slug": "opptjening-pensjonsrettigheter-lovfestet-2015",
+          "navn": "Forskrift om opptjening av pensjonsrettigheter i lovfestet offentlig tjenestepensjonsordning for personer som har midlertidig uførepensjon og uførepensjon"
+        }
+      ]
+    },
+    {
+      "mappe": "lonnsgarantiloven",
+      "navn": "Lønnsgarantiloven",
+      "lov": "LOV-1973-12-14-61",
+      "forskrifter": [
+        {
+          "id": "FOR-1981-01-05-8825",
+          "slug": "avskrivning-statens-krav",
+          "navn": "Forskrift om avskrivning av statens krav etter lønnsgarantiordningen"
+        },
+        {
+          "id": "FOR-1985-09-20-1711",
+          "slug": "delegering-lonnsgaranti",
+          "navn": "Forskrift om delegering av myndighet til Kommunaldepartementet etter lov om statsgaranti ved konkurs m.v"
+        },
+        {
+          "id": "FOR-1998-10-28-999",
+          "slug": "statsgaranti-lonnskrav",
+          "navn": "Forskrift om statsgaranti for lønnskrav ved konkurs m.v"
+        }
+      ]
+    },
+    {
+      "mappe": "nav-loven",
+      "navn": "NAV-loven",
+      "lov": "LOV-2006-06-16-20",
+      "forskrifter": [
+        {
+          "id": "FOR-2022-06-22-1110",
+          "slug": "individuell-plan",
+          "navn": "Forskrift om individuell plan ved ytelse av velferdstjenester"
+        },
+        {
+          "id": "FOR-1997-04-15-323",
+          "slug": "hjelpemiddelsentraler",
+          "navn": "Forskrift om hjelpemiddelsentralenes virksomhet og ansvar"
+        },
+        {
+          "id": "FOR-1997-04-15-322",
+          "slug": "forerhund-fagligutvalg",
+          "navn": "Forskrift om faglig utvalg for førerhundspørsmål"
+        },
+        {
+          "id": "FOR-2007-01-26-107",
+          "slug": "delegering-stat-kommune",
+          "navn": "Forskrift om rammer for delegering mellom stat og kommune om oppgaveutførelsen i de felles lokale kontorene i arbeids- og velferdsforvaltningen"
+        },
+        {
+          "id": "FOR-2007-03-12-294",
+          "slug": "tvistelosning",
+          "navn": "Forskrift om løsning av tvister mellom Arbeids- og velferdsetaten og kommunene etter arbeids- og velferdsforvaltningsloven"
+        },
+        {
+          "id": "FOR-2007-04-30-460",
+          "slug": "taushetsplikt-dispensasjon",
+          "navn": "Forskrift om dispensasjon fra taushetsplikten i arbeids- og velferdsforvaltningsloven § 7"
+        },
+        {
+          "id": "FOR-2006-06-30-745",
+          "slug": "internrevisjon",
+          "navn": "Forskrift om internrevisjon i Arbeids- og velferdsetaten"
+        },
+        {
+          "id": "FOR-2018-03-13-338",
+          "slug": "innkrevingsmyndigheten-tilgang",
+          "navn": "Forskrift om tilgang for Innkrevingsmyndigheten til opplysninger fra Arbeids- og velferdsetaten"
+        }
+      ]
+    },
+    {
+      "mappe": "permitteringslonnsloven",
+      "navn": "Permitteringslønnsloven",
+      "lov": "LOV-1988-05-06-22",
+      "forskrifter": [
+        {
+          "id": "FOR-2016-06-21-764",
+          "slug": "lonnsplikt-permittering",
+          "navn": "Forskrift om lønnsplikt under permittering"
+        }
+      ]
+    },
+    {
+      "mappe": "samordningsloven",
+      "navn": "Samordningsloven",
+      "lov": "LOV-1957-07-06-26",
+      "forskrifter": [
+        {
+          "id": "FOR-1958-08-30-4077",
+          "slug": "samordningsforskrift-2-1958",
+          "navn": "Forskrift om samordningslovens omfang (samordningsforskrift 2)"
+        },
+        {
+          "id": "FOR-1958-10-15-8686",
+          "slug": "gjennomforing-samordningsloven-7-nr-1-1958",
+          "navn": "Forskrift om gjennomføring av samordningsloven § 7 nr. 1 i relasjon til lov om pensjonsordning for arbeidstakere til sjøs § 5"
+        },
+        {
+          "id": "FOR-1958-11-25-4078",
+          "slug": "samordningsforskrift-3-1958",
+          "navn": "Forskrift om sammenlegging av tjenestetid for rett til pensjon (samordningsforskrift 3)"
+        },
+        {
+          "id": "FOR-1966-12-31-4076",
+          "slug": "samordningsforskrift-1-1966",
+          "navn": "Forskrift om det generelle samordningssystemet (samordningsforskrift 1)"
+        },
+        {
+          "id": "FOR-1966-12-31-4089",
+          "slug": "samordningsforskrifter-13-og-14-1966",
+          "navn": "Forskrift om samordning av tjenestepensjon og pensjon fra personskadetrygd (samordningsforskrifter 13 og 14)"
+        },
+        {
+          "id": "FOR-1966-12-31-4095",
+          "slug": "samordningsforskrift-20-1966",
+          "navn": "Forskrift om redusert samordningsfradrag når pensjon til gjenlevende ektefelle fra folketrygden er redusert for arbeidsinntekt (samordningsforskrift 20)"
+        },
+        {
+          "id": "FOR-1966-12-31-4097",
+          "slug": "samordningsforskrift-21-1966",
+          "navn": "Forskrift om enke- eller enkemannspensjon som er delt mellom gjenlevende ektefelle og fraskilt ektefelle (samordningsforskrift 21)"
+        },
+        {
+          "id": "FOR-1966-12-31-4098",
+          "slug": "samordningsforskrift-22-1966",
+          "navn": "Forskrift om samordning når folketrygdens grunnpensjon, uføretrygd og omstillingsstønad ytes på grunnlag av redusert trygdetid (samordningsforskrift 22)"
+        },
+        {
+          "id": "FOR-1966-12-31-4099",
+          "slug": "samordningsforskrift-24-1966",
+          "navn": "Forskrift om flere tjenestepensjoner og grunnpensjon og omstillingsstønad fra folketrygden (samordningsforskrift 24)"
+        },
+        {
+          "id": "FOR-1968-04-01-4088",
+          "slug": "samordningsforskrift-12-1968",
+          "navn": "Forskrift om samordning av enke- eller enkemannspensjon og uførepensjon fra forskjellige personskadetrygder (samordningsforskrift 12)"
+        },
+        {
+          "id": "FOR-1973-04-09-9549",
+          "slug": "fastsetting-fradrag-tjenestepensjon-statens-1973",
+          "navn": "Forskrift om fastsetting av fradrag i tjenestepensjon fra Statens pensjonskasse, pensjonsordningen for apoteketaten, pensjonsordningen for sykepleiere og kommunale tjenestepensjonsordninger for tilleggspensjon fra folketrygden"
+        },
+        {
+          "id": "FOR-1974-01-01-4107",
+          "slug": "samordningsforskrift-34-1974",
+          "navn": "Forskrift om personskadetrygd – garantiregler (samordningsforskrift 34)"
+        },
+        {
+          "id": "FOR-1974-03-15-4092",
+          "slug": "samordningsforskrift-17-1974",
+          "navn": "Forskrift om flere tjenestepensjoner, begrensning av fradraget (samordningsforskrift 17)"
+        },
+        {
+          "id": "FOR-1975-07-18-9410",
+          "slug": "begrensning-fradrag-alderspensjon-1975",
+          "navn": "Forskrift om begrensning av fradrag for alderspensjon fra folketrygden i pensjon fra personskadetrygd, når økt opptjening i folketrygden ellers fører til lavere samlet pensjon"
+        },
+        {
+          "id": "FOR-1979-10-01-4082",
+          "slug": "samordning-offentlig-privat-tjenestepensjon-1979",
+          "navn": "Forskrift om samordning av offentlig og privat tjenestepensjon for opptjening før 1. oktober 1979"
+        },
+        {
+          "id": "FOR-1979-10-01-4084",
+          "slug": "samordning-alders-uforepensjon-1979",
+          "navn": "Forskrift om samordning av alders- og uførepensjon fra tjenestepensjonsordninger"
+        },
+        {
+          "id": "FOR-1982-10-15-1515",
+          "slug": "avkorting-samordningsfradrag-grunnpensjon-1982",
+          "navn": "Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner"
+        },
+        {
+          "id": "FOR-1985-12-31-4104",
+          "slug": "samordningsforskrift-32-1985",
+          "navn": "Forskrift om uførepensjon som også inneholder etterlattefordeler (samordningsforskrift 32)"
+        },
+        {
+          "id": "FOR-1988-11-02-888",
+          "slug": "garantitillegg-a-hindre-nedgang-samlet-1988",
+          "navn": "Forskrift om garantitillegg for å hindre nedgang i samlet pensjon etter samordningsloven"
+        },
+        {
+          "id": "FOR-1988-12-16-1133",
+          "slug": "samordning-personskadetrygd-ventetillegg-1988",
+          "navn": "Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden"
+        },
+        {
+          "id": "FOR-1989-01-03-3",
+          "slug": "samordning-pensjons-trygdeytelser-1989",
+          "navn": "Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år"
+        },
+        {
+          "id": "FOR-1989-12-20-1268",
+          "slug": "samordning-enke-tjenestepensjonsordning-1989",
+          "navn": "Forskrift om samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med tilleggspensjon fra folketrygden"
+        },
+        {
+          "id": "FOR-1991-12-23-895",
+          "slug": "beregning-sluttpoengtall-samordningsloven-1991",
+          "navn": "Forskrift om beregning av sluttpoengtall etter samordningsloven § 23 nr. 2"
+        },
+        {
+          "id": "FOR-1992-09-04-663",
+          "slug": "samordning-enke-tjenestepensjonsordning-1992",
+          "navn": "Forskrift om samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med tilleggspensjon fra folketrygden når enke- eller enkemannspensjonen ikke skal reduseres på grunn av gjenlevendes egen inntekt"
+        },
+        {
+          "id": "FOR-1993-08-02-779",
+          "slug": "samordning-tjenestepensjon-sjomannspensjon-1993",
+          "navn": "Forskrift om samordning av tjenestepensjon med sjømannspensjon som er utløst med kapitalverdien"
+        },
+        {
+          "id": "FOR-1996-07-01-683",
+          "slug": "samordning-pensjon-pensjonsordning-1996",
+          "navn": "Forskrift om samordning av pensjon fra pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer"
+        },
+        {
+          "id": "FOR-2000-07-06-726",
+          "slug": "gjennomforing-refusjonskrav-utbetaling-2000",
+          "navn": "Forskrift om gjennomføring av refusjonskrav ved utbetaling av pensjons- og trygdeytelser med tilbakevirkning"
+        },
+        {
+          "id": "FOR-2000-07-06-727",
+          "slug": "registrering-utveksling-opplysninger-a-2000",
+          "navn": "Forskrift om registrering og utveksling av opplysninger (meldesystem) for å gjennomføre bestemmelsene i samordningsloven mv"
+        },
+        {
+          "id": "FOR-2000-07-07-743",
+          "slug": "overgangsregler-fastsettelse-hoyeste-2000",
+          "navn": "Forskrift om overgangsregler for fastsettelse av høyeste pensjon i Statens pensjonskasse ved samordning av tjenestepensjoner"
+        },
+        {
+          "id": "FOR-2004-12-21-1742",
+          "slug": "okt-tilleggspensjon-grunn-omsorgspoeng-2004",
+          "navn": "Forskrift om når økt tilleggspensjon på grunn av omsorgspoeng etter folketrygdloven § 3-16 og pensjonspoeng for årene da pensjonisten fylte 67–75 år, skal holdes utenfor samordningen"
+        },
+        {
+          "id": "FOR-2010-07-06-1076",
+          "slug": "samordning-enke-del-pensjonen-skal-2010",
+          "navn": "Forskrift om samordning av enke- og enkemannspensjon der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke"
+        },
+        {
+          "id": "FOR-2010-10-12-1330",
+          "slug": "samordning-alderspensjon-offentlig-2010",
+          "navn": "Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning fra 2011 med alderspensjon fra folketrygden – særlige regler for årskull til og med 1943-kullet"
+        },
+        {
+          "id": "FOR-2011-10-20-1038",
+          "slug": "samordning-alderspensjoner-2011",
+          "navn": "Forskrift om samordning av alderspensjoner fra tjenestepensjonsordning etter samordningsloven § 7 når en eller flere av alderspensjonene er levealdersjustert"
+        },
+        {
+          "id": "FOR-2014-07-03-948",
+          "slug": "overgangsregler-samordning-enkelte-2014",
+          "navn": "Forskrift om overgangsregler for samordning av enkelte pensjoner fra tjenestepensjonsordning og personskadetrygd når ny uføretrygd i folketrygden trer i kraft 1. januar 2015"
+        },
+        {
+          "id": "FOR-2015-01-22-50",
+          "slug": "samordning-enke-tjenestepensjonsordning-2015",
+          "navn": "Forskrift om samordning av enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden når det også ytes uførepensjon eller alderspensjon fra tjenestepensjonsordningen"
+        },
+        {
+          "id": "FOR-2015-01-22-51",
+          "slug": "samordning-fraskiltes-enke-2015",
+          "navn": "Forskrift om samordning av fraskiltes enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden"
+        },
+        {
+          "id": "FOR-2015-01-22-52",
+          "slug": "unntak-samordning-alderspensjon-2015",
+          "navn": "Forskrift om unntak fra samordning av alderspensjon fra tjenestepensjonsordning før 67 år eller avtalefestet pensjon fra 65 år beregnet som tjenestepensjon med uføretrygd eller arbeidsavklaringspenger fra folketrygden"
+        },
+        {
+          "id": "FOR-2015-12-01-1374",
+          "slug": "samordning-alderspensjon-67-ar-enke-2015",
+          "navn": "Forskrift om samordning av alderspensjon før 67 år og enke- og enkemannspensjon fra offentlig tjenestepensjonsordning med uføretrygd fra folketrygden – overgangsregler"
+        },
+        {
+          "id": "FOR-2020-05-28-1084",
+          "slug": "samordning-alderspensjon-offentlig-2020",
+          "navn": "Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning med alderspensjon etter folketrygdloven kapittel 20"
+        },
+        {
+          "id": "FOR-2020-12-04-2590",
+          "slug": "unntak-samordningsberegningen-inntekt-2020",
+          "navn": "Forskrift om unntak i samordningsberegningen for inntekt som stammer fra tjeneste i forbindelse med covid-19"
+        },
+        {
+          "id": "FOR-2023-12-20-2233",
+          "slug": "samordningsgaranti-innforing-2023",
+          "navn": "Forskrift om samordningsgaranti ved innføring av etterlattereformen i folketrygden fra 1. januar 2024"
+        }
+      ]
+    },
+    {
+      "mappe": "sosialtjenesteloven",
+      "navn": "Sosialtjenesteloven",
+      "lov": "LOV-2009-12-18-131",
+      "forskrifter": [
+        {
+          "id": "FOR-2011-12-21-1471",
+          "slug": "kvalifiseringsprogram",
+          "navn": "Forskrift om kvalifiseringsprogram og kvalifiseringsstønad"
+        },
+        {
+          "id": "FOR-2011-12-16-1251",
+          "slug": "uten-fast-bopel",
+          "navn": "Forskrift om sosiale tjenester for personer uten fast bopel i Norge"
+        },
+        {
+          "id": "FOR-2020-12-16-2938",
+          "slug": "bruk-av-vilkar",
+          "navn": "Forskrift om bruk av vilkår etter sosialtjenesteloven"
+        }
+      ]
+    },
+    {
+      "mappe": "statsborgerloven",
+      "navn": "Statsborgerloven",
+      "lov": "LOV-2005-06-10-51",
+      "forskrifter": [
+        {
+          "id": "FOR-2006-06-30-756",
+          "slug": "statsborgerforskriften",
+          "navn": "Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften)"
+        }
+      ]
+    },
+    {
+      "mappe": "tjenestetvistloven",
+      "navn": "Tjenestetvistloven",
+      "lov": "LOV-1958-07-18-2",
+      "forskrifter": [
+        {
+          "id": "FOR-2002-05-15-451",
+          "slug": "tjenestetvistloven-forskrift",
+          "navn": "Forskrift til lov av 18. juli 1958 nr. 2 om offentlige tjenestetvister"
+        },
+        {
+          "id": "FOR-2003-01-31-90",
+          "slug": "forhandlingsansvar-undervisningspersonale",
+          "navn": "Forskrift om overføring av forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner"
+        },
+        {
+          "id": "FOR-1983-10-28-1588",
+          "slug": "tjenestetvistloven-undervisningspersonale",
+          "navn": "Vedtak om at tjenestetvistloven gjøres gjeldende for undervisningspersonale ved helsefaghøgskoler som fremtidig skal bli statlige"
+        },
+        {
+          "id": "FOR-2002-05-15-450",
+          "slug": "delegering-tjenestetvistloven",
+          "navn": "Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum"
+        }
+      ]
+    },
+    {
+      "mappe": "tolkeloven",
+      "navn": "Tolkeloven",
+      "lov": "LOV-2021-06-11-79",
+      "forskrifter": [
+        {
+          "id": "FOR-2021-09-13-2744",
+          "slug": "tolkeforskriften",
+          "navn": "Forskrift til tolkeloven (tolkeforskriften)"
+        }
+      ]
+    },
+    {
+      "mappe": "utlendingsloven",
+      "navn": "Utlendingsloven",
+      "lov": "LOV-2008-05-15-35",
+      "forskrifter": [
+        {
+          "id": "FOR-2009-10-15-1286",
+          "slug": "utlendingsforskriften",
+          "navn": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)"
+        }
       ]
     }
   ]

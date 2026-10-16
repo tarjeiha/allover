@@ -1,0 +1,19 @@
+# § 9-1. (samordning med ytelser fra arbeidsgiver)
+
+**Kilde:** Forskrift om dagpenger under arbeidsløshet § 9-1
+
+**1. ledd**
+
+Dagpengene reduseres med samme beløp som en eventuell økonomisk engangsytelse eller periodiske ytelser til livsopphold som ytes fra en arbeidsgiver eller en tidligere arbeidsgiver etter avtale som inngås i forbindelse med oppsigelse eller fratreden. Livrenter og lignende som arbeidsgiver kjøper til dette formål, likestilles. Det samme gjelder andre økonomiske ytelser fra arbeidsgiver med sikte på å kompensere for framtidig tap i arbeidsinntekt.
+
+**2. ledd**
+
+Ved samordning etter første ledd skal dagpenger likevel ikke reduseres i større utstrekning enn at summen pr. uke av dagpenger og de ytelser det samordnes med, minst svarer til 3 prosent av grunnbeløpet.
+
+**3. ledd**
+
+Arbeidstaker som har inngått avtale med arbeidsgiver om ytelse i tillegg til dagpengene og som kan dokumentere at arbeidsavtalen er sagt opp før 9. desember 1994 med et fastsatt fratredelsestidspunkt, unntas fra samordning etter denne paragraf mellom dagpengene og ytelsen når vedkommende senere søker om dagpenger.
+
+**4. ledd**
+
+Medlem som mottar dagpenger og en ytelse fra arbeidsgiver som er unntatt fra samordning, kan, dersom vedkommende setter fram ny søknad om dagpenger, fortsatt unntas fra samordning.
