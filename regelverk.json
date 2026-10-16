@@ -1,0 +1,13 @@
+{
+  "baseurl": "https://raw.githubusercontent.com/tarjeiha/allover/main",
+  "lover": [
+    {
+      "mappe": "offentleglova",
+      "navn": "Offentleglova",
+      "lov": "LOV-2006-05-19-16",
+      "forskrifter": [
+        { "id": "FOR-2008-10-17-1119", "slug": "offentlegforskrifta", "navn": "Offentlegforskrifta" }
+      ]
+    }
+  ]
+}

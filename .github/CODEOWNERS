@@ -1,0 +1,11 @@
+# Eiere må godkjenne endringer i sine mapper før de tas inn i main.
+# Regelen virker først når «Require review from Code Owners» er slått på
+# for main (Settings → Branches eller Rules). For private repoer krever det
+# GitHub Team.
+
+# Felles filer og alt som ikke har egen eier
+*                      @tarjeiha
+
+# Ett regelverk per linje. Bytt ut med GitHub-brukernavnet til saksbehandleren
+# som har ansvaret for regelverket.
+/offentleglova/        @tarjeiha
