@@ -140,6 +140,15 @@ def _bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
             tittel = md.splitlines()[0].lstrip("# ").strip()
             oppforinger.append((tittel, fil))
         resultat.append((kap["tittel"], oppforinger))
+    if not any(oppf for _, oppf in resultat):
+        # Løpende inndelte dokumenter (vedtak, delegeringer o.l.) har ingen paragrafer
+        tegn, rest = har_innhold_utenfor_paragrafer(sti, terskel=1)
+        if not tegn:
+            feil.append(f"{ref} ({sti.name}): fant verken paragrafer eller annen tekst")
+            return meta, resultat
+        fil = utmappe / "tekst.md"
+        fil.write_text(f"# {meta['tittel'] or ref}\n\n{rest}", encoding="utf-8")
+        return meta, [("", [("Hele teksten (dokumentet har ikke paragrafer)", fil)])]
     tegn, rest = har_innhold_utenfor_paragrafer(sti)
     if tegn:
         fil = utmappe / "utenfor-paragrafene.md"
