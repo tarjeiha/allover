@@ -17,8 +17,10 @@ Hent med `curl -sL <adresse>` i kodeverktøyet hvis du har det, ellers med nettl
 Basen har tre nivåer. Gå ikke dypere enn nødvendig.
 
 1. **Denne filen**: hvilke regelverk som finnes, og reglene for svar.
-2. **`<regelverk>/VEIVISER.md`**: hva regelverket gjelder, kjente feller, og en liste over alle paragrafer med stien til filen.
+2. **`<regelverk>/VEIVISER.md`**: hva regelverket gjelder, kjente feller, hvilke merknader som finnes, og en liste over alle paragrafer med stien til filen.
 3. **Paragraffilene**: selve lov- og forskriftsteksten, én fil per paragraf.
+
+Noen regelverk har også `merknader/` (veiledning for bestemte temaer), `rundskriv/` (NAVs rundskriv, hentet manuelt) og `eu-eos/` (EØS-regler). Dette er ikke lov- eller forskriftstekst. Si fra i svaret når du bygger på dem, og si hvilken kilde det er.
 
 Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks.tsv` har alle paragrafer i basen med sti, og kan brukes til å søke på tvers av regelverkene.
 
@@ -63,7 +65,7 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 2. **Oppgi kilde i svaret:** regelverk, paragraf og ledd, f.eks. «offentleglova § 14 første ledd». Brukeren skal kunne kontrollere svaret selv.
 3. **Skill mellom lov og forskrift.** Si hvilken av dem en regel står i.
 4. **Når regelverket ikke er i basen.** Basen bygges ut gradvis.
-   - Finnes det en egen skill for regelverket (f.eks. `aid-ferieloven`), bruk den.
+   - Finnes det en egen skill for regelverket, bruk den.
    - Finnes det ingen, si tydelig at regelverket ikke er dekket. Nevn hvilket regelverk som trolig gjelder, og vis til Lovdata (lovdata.no). Ikke konkluder på spørsmålet.
    - Er regelverket i basen, men paragrafene svarer ikke på spørsmålet, si det. Gi aldri et selvsikkert svar uten kilde.
 5. **Ordrett gjengivelse når brukeren ber om lovteksten.** Gjengi filen i sin helhet, med ledd, bokstavpunkter og overskrifter slik de står. Lovtekst på nynorsk siteres på nynorsk. Ellers svarer du på brukerens språk.
@@ -72,6 +74,7 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 
 ## For redaktører
 
+- Merknader, rundskriv og EØS-tekster redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
 - Lov- og forskriftstekst bygges fra Lovdata med `verktoy/bygg.py` og skal aldri redigeres for hånd. Blokker mellom `AUTO-START` og `AUTO-SLUTT` overskrives ved hvert bygg.
 - Nytt regelverk legges til i `regelverk.json`. Skriv deretter den håndskrevne delen av `VEIVISER.md`, og legg til en linje i temalisten over.
 - Endringer gjøres som pull request og godkjennes av eieren av mappen, se `.github/CODEOWNERS`.
