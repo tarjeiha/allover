@@ -14,7 +14,7 @@ Oppslag i lov 6. mai 1988 nr. 22 om lønnsplikt under permittering og lov 14. de
 Konkret fremgangsmåte:
 
 1. Velg riktig lov først – se `permitteringslonnsloven/VEIVISER.md`
-2. Åpne selve paragraffilen (`permitteringslonnsloven/lov/<lov>/par-<nr>.md`)
+2. Åpne selve paragraffilen (`permitteringslonnsloven/lov/par-<nr>.md` eller `lonnsgarantiloven/lov/par-<nr>.md`)
 3. Sjekk forskriftene – begge lovene har sentrale regler i forskrift, ikke i loven
 4. Gjengi leddnummer når du siterer, og oppgi både lov og paragraf i svaret
 

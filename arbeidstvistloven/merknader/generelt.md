@@ -15,7 +15,7 @@ Konkret fremgangsmåte:
 
 1. **Avklar sektor først** – arbeidstvistloven og tjenestetvistloven har ulike regler for samme spørsmål. Se tabellen under
 2. Slå opp i riktig lovs `oversikt.md`
-3. Åpne selve paragraffilen (`arbeidstvistloven/lov/<lov>/par-<nr>.md`)
+3. Åpne selve paragraffilen (`arbeidstvistloven/lov/par-<nr>.md` eller `tjenestetvistloven/lov/par-<nr>.md`)
 4. Gjengi leddnummer når du siterer, og oppgi både lov og paragraf i svaret
 
 **Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.

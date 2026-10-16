@@ -14,7 +14,7 @@ Oppslag i lov 28. juli 1949 nr. 26 om Statens pensjonskasse (kap. 1–5 b og 8),
 Konkret fremgangsmåte:
 
 1. Slå opp i `spk-loven/VEIVISER.md` og velg riktig lov, deretter lovens `oversikt.md`
-2. Åpne selve paragraffilen (`spk-loven/lov/<lov>/par-<nr>.md`)
+2. Åpne selve paragraffilen (`spk-loven/lov/par-<nr>.md`, `afp-loven/lov/par-<nr>.md` eller `aldersgrenseloven/lov/par-<nr>.md`)
 3. Sjekk om en forskrift regulerer samme spørsmål – se `spk-loven/VEIVISER.md`
 4. Gjengi leddnummer når du siterer, og oppgi lov og paragraf i svaret
 
