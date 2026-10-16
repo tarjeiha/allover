@@ -33,8 +33,8 @@ Folketrygdloven § 1-3 a gjør trygdeforordningen og gjennomføringsforordningen
 
 Disse ligger i sine ordinære mapper, ikke her:
 
-- `../lovtekst/par-4-1a.md` – forholdet til trygdeforordningen i kapittel 4
-- `../forskrifter/dagpengeforskriften/par-13-1.md` til `par-13-4.md` – kapittel 13 om EØS
+- `folketrygdloven/lov/par-4-1a.md` – forholdet til trygdeforordningen i kapittel 4
+- `folketrygdloven/forskrifter/dagpengeforskriften/par-13-1.md` til `par-13-4.md` – kapittel 13 om EØS
 
 ## Språk
 
