@@ -1,6 +1,25 @@
 # Offentleglova: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Offentleglova gir alle rett til innsyn i saksdokumenter, journaler og lignende registre hos offentlige organer. Offentlegforskrifta utfyller loven, bl.a. med unntak for bestemte sakstyper og regler om klageinstans. Lov- og forskriftsteksten er på nynorsk og siteres på nynorsk.
+
+Loven forvaltes av Justis- og beredskapsdepartementet. Deres «Rettleiar til offentleglova» er den viktigste tolkningskilden ved siden av lovteksten og forarbeidene. Den ligger ikke i basen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+
+## Kjente feller
+
+- **Utgangspunktet er innsyn.** Etter § 3 er saksdokumenter åpne med mindre annet følger av lov eller forskrift med hjemmel i lov. Et avslag må alltid ha en konkret hjemmel.
+- **«Kan unnta» og taushetsplikt er to forskjellige ting.** Unntakene i §§ 14–26 gir adgang til å unnta. Opplysninger underlagt taushetsplikt er derimot unntatt etter § 13, og skal da ikke gis ut. Merinnsyn etter § 11 gjelder bare der det er adgang til unntak, altså ikke for opplysninger med taushetsplikt.
+- **Merinnsyn skal alltid vurderes.** Når organet kan unnta, skal det likevel vurdere å gi helt eller delvis innsyn (§ 11). Et svar som bare viser til unntakshjemmelen, er ufullstendig.
+- **Unntak gjelder i utgangspunktet bare deler av dokumentet.** Resten av dokumentet kan bare holdes tilbake på vilkårene i § 12.
+- **Når et dokument blir saksdokument.** Et dokument er opprettet når det er sendt ut av organet, ellers når det er ferdigstilt (§ 4 andre ledd). Se også § 4 tredje ledd om hva som ikke er saksdokumenter.
+- **Organinterne dokumenter (§ 14) har viktige avgrensninger.** Unntaket gjelder ikke endelige avgjørelser, generelle retningslinjer, foredrag til saker avgjort i statsråd og visse presedenskort (§ 14 andre ledd). Se offentlegforskrifta § 8 for organer der unntaket ikke gjelder.
+- **Dokumenter mellom departementer eller fra underordnede organer (§ 15)** kan bare unntas når det er nødvendig for forsvarlige interne beslutningsprosesser. Unntaket gjelder ikke dokumenter innhentet som ledd i alminnelig høring (§ 15 fjerde ledd). Høringssvar kan altså ikke holdes tilbake etter § 15.
+- **Særskilte unntak i forskriften.** Offentlegforskrifta § 9 gir unntak for bestemte sakstyper og journalinnføringer, blant annet enkeltsaker etter utlendingsloven og statsborgerloven (fjerde ledd) og journalinnføringer i enkeltsaker etter sosialtjenesteloven (femte ledd). Sjekk alltid § 9 når saken gjelder et særskilt fagområde.
+- **Saksbehandling og frister.** Kravet skal vurderes konkret og selvstendig og avgjøres uten ugrunnet opphold (§ 29). Avslag skal være skriftlig og vise til bestemmelsen ned på ledd og bokstav (§ 31 første ledd). Den som har fått avslag, kan innen tre uker kreve nærmere begrunnelse, som skal gis innen ti arbeidsdager (§ 31 andre ledd). Har organet ikke svart innen fem arbeidsdager, regnes det som avslag som kan påklages (§ 32 andre ledd).
+- **Klage.** Avgjørelser kan påklages til nærmeste overordnede organ, men avgjørelser om å gi innsyn kan ikke påklages (§ 32 første ledd). Se offentlegforskrifta § 11 for klageinstans i særlige tilfeller.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
