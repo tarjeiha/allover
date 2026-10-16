@@ -1,0 +1,21 @@
+# § 4-6. Særlig om tilrettelegging for arbeidstakere med redusert arbeidsevne
+
+**Kilde:** Arbeidsmiljøloven § 4-6
+
+(1) Hvis en arbeidstaker har fått redusert arbeidsevne som følge av ulykke, sykdom, slitasje e.l., skal arbeidsgiver, så langt det er mulig, iverksette nødvendige tiltak for at arbeidstaker skal kunne beholde eller få et passende arbeid. Arbeidstaker skal fortrinnsvis gis anledning til å fortsette i sitt vanlige arbeid, eventuelt etter særskilt tilrettelegging av arbeidet eller arbeidstiden, endringer i arbeidsutstyr, gjennomgått arbeidsrettede tiltak e.l.
+
+(2) Dersom det i medhold av første ledd er aktuelt å overføre en arbeidstaker til annet arbeid, skal arbeidstaker og arbeidstakers tillitsvalgte tas med på råd før saken avgjøres.
+
+(3) Arbeidsgiver skal i samråd med arbeidstaker utarbeide oppfølgingsplan for tilbakeføring til arbeid i forbindelse med ulykke, sykdom, slitasje eller lignende, med mindre dette er åpenbart unødvendig. Arbeidet med oppfølgingsplan skal starte så tidlig som mulig, og planen skal være utarbeidet senest når arbeidstaker har vært helt eller delvis borte fra arbeidet i fire uker. Oppfølgingsplanen skal inneholde en vurdering av arbeidstakers arbeidsoppgaver og arbeidsevne. Planen skal også inneholde aktuelle tiltak i arbeidsgivers regi, aktuelle tiltak med bistand fra myndighetene og plan for videre oppfølging. Arbeidsgiver skal sørge for at planen formidles til sykmelder så snart den er utarbeidet, og senest etter fire uker. Arbeidsgiver skal videre sørge for at oppdatert plan sendes til Arbeids- og velferdsetaten senest en uke før dialogmøter som Arbeids- og velferdsetaten innkaller til, jf. folketrygdloven § 25-2 tredje ledd.
+
+(4) Arbeidsgiver skal innkalle arbeidstaker til dialogmøte om innholdet i oppfølgingsplanen senest innen sju uker etter at arbeidstaker har vært helt borte fra arbeidet som følge av ulykke, sykdom, slitasje eller lignende, med mindre dette er åpenbart unødvendig. For arbeidstaker som av samme årsaker er delvis borte fra arbeidet, skal et slikt møte holdes når arbeidsgiver, arbeidstaker eller sykmelder anser det hensiktsmessig. Dersom både arbeidsgiver og arbeidstaker, eller arbeidstakeren alene, ønsker det, skal sykmelder innkalles til dialogmøtet. Dersom det foreligger ekstraordinære forhold knyttet til sykmelders arbeidssituasjon, kan sykmelder fritas fra plikten til å delta i dialogmøtet. Arbeids- og velferdsetaten, bedriftshelsetjenesten og andre relevante aktører kan innkalles dersom arbeidsgiver eller arbeidstaker ønsker det. Det samme gjelder andre relevante aktører, likevel slik at helsepersonell som behandler eller har behandlet arbeidstaker ikke kan kalles inn dersom arbeidstaker motsetter seg det.
+
+(5) Arbeidsgiver skal kunne dokumentere hvordan bestemmelsene om oppfølgingsplan og dialogmøte har vært fulgt opp, herunder hvem som har vært innkalt til og har deltatt i dialogmøte.
+
+(6) Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av kravene i denne paragraf.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lover 23 feb 2007 nr. 10 (ikr. 1 mars 2007), 19 des 2008 nr. 106 (ikr. 1 mars 2010 iflg. res. 19 feb 2010 nr. 189 ), 24 juni 2011 nr. 18 (ikr. 1 juli 2011), 20 juni 2014 nr. 26 (ikr. 1 juli 2014 iflg. res. 20 juni 2014 nr. 793 ).

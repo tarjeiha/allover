@@ -1,0 +1,7 @@
+# § 4.
+
+**Kilde:** Forskrift om arbeidstid for avlastere § 4
+
+**1. ledd**
+
+Arbeidsgiver og arbeidstaker kan skriftlig avtale at den samlede arbeidstiden kan være inntil 60 timer i løpet av sju dager. Dette gjelder både arbeid som avlaster alene og arbeid som avlaster i kombinasjon med annet arbeid i samme virksomhet. Grensen på 60 timer i løpet av sju dager kan gjennomsnittsberegnes over en periode på seks uker, likevel slik at den samlede arbeidstiden ikke overstiger 88 timer i noen enkelt uke.

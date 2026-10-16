@@ -28,6 +28,25 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Regelverk | Veiviser | Sist endret i kraft |
 |---|---|---|
 | Offentleglova | `offentleglova/VEIVISER.md` | 2026-07-01 |
+| AFP-loven for medlemmer av Statens pensjonskasse | `afp-loven/VEIVISER.md` | 2026-01-01 |
+| Aldersgrenseloven for statsansatte | `aldersgrenseloven/VEIVISER.md` | 2026-01-01 |
+| Allmenngjøringsloven | `allmenngjoringsloven/VEIVISER.md` | 2025-07-01 |
+| Arbeidsmarkedsloven | `arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 |
+| Arbeidsmiljøloven | `arbeidsmiljoloven/VEIVISER.md` | 2026-07-01 |
+| Arbeidstvistloven | `arbeidstvistloven/VEIVISER.md` | 2024-01-01 |
+| Ferieloven | `ferieloven/VEIVISER.md` | 2024-01-01 |
+| Folketrygdloven | `folketrygdloven/VEIVISER.md` | 2026-10-01 |
+| Integreringsloven | `integreringsloven/VEIVISER.md` | 2026-07-01 |
+| Lov om Statens pensjonskasse | `spk-loven/VEIVISER.md` | 2026-01-01 |
+| Lønnsgarantiloven | `lonnsgarantiloven/VEIVISER.md` | 2026-01-01 |
+| NAV-loven | `nav-loven/VEIVISER.md` | 2026-01-01 |
+| Permitteringslønnsloven | `permitteringslonnsloven/VEIVISER.md` | 2022-03-01 |
+| Samordningsloven | `samordningsloven/VEIVISER.md` | 2026-01-01 |
+| Sosialtjenesteloven | `sosialtjenesteloven/VEIVISER.md` | 2026-01-01 |
+| Statsborgerloven | `statsborgerloven/VEIVISER.md` | 2024-12-20 |
+| Tjenestetvistloven | `tjenestetvistloven/VEIVISER.md` | 2012-03-01 |
+| Tolkeloven | `tolkeloven/VEIVISER.md` | 2022-06-15 |
+| Utlendingsloven | `utlendingsloven/VEIVISER.md` | 2026-10-01 |
 <!-- AUTO-SLUTT -->
 
 ## Temaer i hverdagsspråk

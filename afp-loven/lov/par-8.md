@@ -1,0 +1,29 @@
+# § 8. Vilkår som må være oppfylt ved fylte 62 år for rett til avtalefestet pensjon
+
+**Kilde:** AFP-loven for medlemmer av Statens pensjonskasse § 8
+
+**1. ledd**
+
+En arbeidstaker kan gis avtalefestet pensjon dersom følgende vilkår er oppfylt ved fylte 62 år:
+
+a. Vedkommende har vært arbeidstaker i minst 7 av de siste 9 årene hos en arbeidsgiver med tariffavtale hvor staten er part eller tilsvarende avtale om avtalefestet pensjon. I denne perioden inngår også tid arbeidstakeren har vært omfattet av en avtalefestet pensjonsordning som det gis statstilskott til etter AFP-tilskottsloven dersom dette gjør at ansiennitetskravet oppfylles. Stillingen må være vedkommendes hovedarbeidsforhold, og stillingsandelen må utgjøre minst 20 prosent av full stilling. Ved samtidige ansettelsesforhold kan stillingsandelene legges sammen.
+b. Vedkommende har i de samme 7 av de siste 9 årene ikke hatt annen inntekt som overstiger pensjonsgivende inntekt fra arbeidsgivere omfattet av bokstav a.
+c. Vedkommende har de siste 3 årene før fylte 62 år ikke mottatt pensjon eller annen ytelse uten motsvarende arbeidsplikt fra arbeidsforhold der den årlige verdien av ytelsene tilsvarer 1,5 ganger folketrygdens grunnbeløp eller mer. Første punktum omfatter ikke uføretrygd fra folketrygden og uførepensjon fra en privat eller offentlig tjenestepensjonsordning.
+
+**2. ledd**
+
+En arbeidstaker som er født i 1963, og som ikke oppfyller ansiennitetskravet i første ledd bokstav a og b, kan likevel gis avtalefestet pensjon dersom vedkommende på uttakstidspunktet for avtalefestet pensjon har ti års samlet pensjonsgivende tjenestetid i Statens pensjonskasse eller pensjonsordning Statens pensjonskasse har inngått overføringsavtale med og vedkommende har vært ansatt i en virksomhet omfattet av offentlig avtalefestet pensjon i minst 3 av de siste 5 årene ved fylte 62 år. For arbeidstakere som er født i årene 1964 til 1966, gjelder tilsvarende, likevel slik at tallene «3» og «5» øker med ett år for hvert år arbeidstakeren er født etter 1963. Øvrige vilkår etter første ledd gjelder tilsvarende i den aktuelle perioden.
+
+**3. ledd**
+
+Avtalefestet pensjon gis ikke til arbeidstakere som har mottatt uføretrygd fra folketrygden etter fylte 62 år.
+
+**4. ledd**
+
+Departementet kan fastsette utfyllende bestemmelser i forskrift.
+
+---
+
+**Endringshistorikk:**
+
+- Tilføyd ved lov 12 april 2024 nr. 14 (i kraft 1 okt 2024 iflg. res. 20 sep 2024 nr. 2209 ), endret ved lov 20 des 2024 nr. 81 (med virkning fra 1 okt 2024).

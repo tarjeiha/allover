@@ -1,0 +1,33 @@
+# § 41. Vurdering og prøvebevis
+
+**Kilde:** Forskrift til integreringsloven (integreringsforskriften) § 41
+
+**1. ledd**
+
+Ved prøver på nivå A1 til B2 skal Direktoratet for høyere utdanning og kompetanse sørge for minimum tre faglig kvalifiserte sensorer til vurderingen av delprøven i skriftlig framstilling. To sentraliserte sensorer benyttes til vurdering av besvarelsen, en tredje sensor benyttes ved uenighet mellom de to sensorene. Ved delprøve i muntlig kommunikasjon på nivå A1–B2 benyttes en ekstern sensor og en eksaminator. Delprøve i leseforståelse og delprøve i lytteforståelse på nivå A1 til B2 er digital og vurderes digitalt.
+
+**2. ledd**
+
+Det gis et resultat for hver av delprøvene. Som vurderingsskala ved prøver i norsk på nivå A1 til B2 benyttes de fire språknivåene som beskrives i læreplanen; A1, A2, B1 og B2 slik de er beskrevet i Det felles europeiske rammeverket for språk. Vurderingen «under A1» kan også benyttes dersom vedkommende er under nivå A1 i noen av ferdighetene som beskrives i læreplanen.
+
+**3. ledd**
+
+Ved prøver i norsk på nivå C1 skal kommunen stille med eksaminator og Direktoratet for høyere utdanning og kompetanse skal sørge for minimum tre faglig kvalifiserte sensorer til vurderingen av begge delprøvene. To sentraliserte sensorer benyttes til vurdering av besvarelsen, en tredje sensor benyttes ved uenighet mellom de to sensorene.
+
+**4. ledd**
+
+På prøver i norsk på nivå C1 benyttes vurderingen «C1» eller «Ikke bestått».
+
+**5. ledd**
+
+Prøve i samfunnskunnskap er digital og vurderes digitalt. Til prøve i samfunnskunnskap benyttes vurderingen «Bestått» eller «Ikke bestått».
+
+**6. ledd**
+
+Etter gjennomførte prøver skal kandidatene motta et prøvebevis hvor vurderingen i hver av de fire ferdighetene leseforståelse, lytteforståelse, skriftlig fremstilling og muntlig skal framgå, samt om prøve i samfunnskunnskap er bestått og på hvilket språk. Av prøvebeviset skal det framgå en omtale av hva oppnådd nivå innebærer. Prøvebeviset utvikles av Direktoratet for høyere utdanning og kompetanse og utstedes av det enkelte lærested eller den enkelte kommune.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 26 juni 2023 nr. 1105 (i kraft 1 aug 2023).

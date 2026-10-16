@@ -1,0 +1,19 @@
+# § 1-3. Virksomhet til havs
+
+**Kilde:** Arbeidsmiljøloven § 1-3
+
+(1) Loven gjelder for virksomhet i forbindelse med undersøkelse etter og utnyttelse av naturforekomster på havbunnen eller i dens undergrunn, i indre norske farvann, norsk sjøterritorium og den norske del av kontinentalsokkelen.
+
+(2) Loven gjelder for virksomhet i forbindelse med fornybar energiproduksjon og omforming og overføring av elektrisk energi til havs.
+
+(3) Loven gjelder for virksomhet som nevnt i første og annet ledd i området utenfor den norske del av kontinentalsokkelen dersom dette følger av særskilt avtale med fremmed stat eller av folkeretten for øvrig.
+
+(4) Departementet kan gi forskrift om at virksomhet som nevnt i første til tredje ledd skal unntas helt eller delvis fra loven. Departementet kan også gi forskrift om at loven helt eller delvis skal gjelde for virksomhet som nevnt i første ledd i områder utenfor den norske del av kontinentalsokkelen dersom det foretas undersøkelser eller utnyttelse av naturforekomster på havbunnen eller i dens undergrunn fra en innretning registrert i norsk skipsregister, eller det gjennomføres bemannede undervannsoperasjoner fra en innretning eller et fartøy registrert i norsk skipsregister. Departementet kan også gi forskrift om at loven skal gjelde ved forflytning av innretning eller fartøy som nevnt.
+
+(5) I forskrift etter denne paragrafen kan det også fastsettes særregler.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 20 juni 2025 nr. 45 (i kraft 1 jan 2026).

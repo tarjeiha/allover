@@ -1,0 +1,15 @@
+# § 40. Tilrettelegging
+
+**Kilde:** Forskrift til integreringsloven (integreringsforskriften) § 40
+
+**1. ledd**
+
+Kommunen skal foreta rimelig individuell tilrettelegging ved avvikling av prøver.
+
+**2. ledd**
+
+Kandidater kan søke kommunen om særskilt tilrettelegging av prøver. Søknaden skal være vedlagt dokumentasjon eller uttalelse fra lege, psykolog, pedagogisk-psykologisk tjeneste eller logoped. Dokumentasjonskravet gjelder ikke ved tilrettelegging etter tredje ledd.
+
+**3. ledd**
+
+Prøve i samfunnskunnskap kan i særskilte tilfeller avlegges muntlig. Muntlig prøve skal avvikles med en prøveleder som sikrer forsvarlig gjennomføring av prøven og en ekstern eksaminator som snakker et språk kandidaten behersker godt. Hvis det ikke er praktisk mulig, skal kommunen sørge for kvalifisert tolk. Tolkens rolle er å formidle budskapet mellom kandidaten og eksaminator, ikke å foreta noen kontroll av kandidatens svar.

@@ -1,0 +1,11 @@
+# § 2. Arbeidsperioder i andre medlemsland
+
+**Kilde:** Forskrift om beregning av arbeidsavklaringspenger etter EØS-avtalen § 2
+
+**1. ledd**
+
+Ved beregningen av inntektsavhengige ytelser skal det tas hensyn til arbeidsperioder i andre medlemsland i de tre siste kalenderårene forut for det året da arbeidsevnen ble nedsatt med minst halvparten (inntektsgrunnlagsårene). Det er et vilkår at vedkommende har hatt pensjonsgivende inntekt i Norge i disse årene eller i året da arbeidsevnen ble nedsatt i en slik grad at vedkommende hindres i å beholde eller skaffe seg inntektsgivende arbeid.
+
+**2. ledd**
+
+Arbeidsperioder i andre medlemsland skal dokumenteres ved innhenting av opplysninger fra kompetent institusjon eller trygdeordning på relevant EØS-blankett.

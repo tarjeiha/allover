@@ -1,0 +1,27 @@
+# § 26. Nivåer i norsk
+
+**Kilde:** Forskrift til integreringsloven (integreringsforskriften) § 26
+
+**1. ledd**
+
+Når det vises til nivåer i denne forskriften, menes norsknivåer etter Det felles europeiske rammeverket for språk. I forskriften brukes nivåene nevnt i andre til sjette ledd.
+
+**2. ledd**
+
+På nivå A1 kan personen forstå og bruke kjente, dagligdagse uttrykk og svært enkle utsagn om seg selv og nære forhold. Personen kan delta i rutinepregede samtaler på en enkel måte, hvis samtalepartneren snakker langsomt og tydelig og er støttende.
+
+**3. ledd**
+
+På nivå A2 kan personen forstå et enkelt dagligspråk, og uttrykke seg enkelt om emner knyttet til egen person og familie, nære omgivelser og arbeid. Personen kan klare seg i enkle og rutinepregede samtalesituasjoner med direkte utveksling av informasjon om kjente forhold, hvis samtalepartneren snakker langsomt og tydelig, og er innstilt på å hjelpe.
+
+**4. ledd**
+
+På nivå B1 kan personen forstå klare og relativt enkle framstillinger relatert til kjente emner fra arbeid, skole, hjem og fritid og uttrykke seg enkelt og sammenhengende om kjente emner og emner av personlig interesse. Personen kan delta uforberedt i samtaler i de fleste situasjoner en møter i dagliglivet, når samtalepartneren snakker tydelig.
+
+**5. ledd**
+
+På nivå B2 kan personen forstå komplekse framstillinger, også faglige drøftinger innenfor eget fagområde og uttrykke seg klart og nyansert om et vidt spekter av emner. Personen kan uttrykke synspunkter og argumentere for og imot ulike alternativer og delta i samtaler med et så spontant og flytende språk at kommunikasjonen med morsmålsbrukere ikke blir anstrengende for noen av partene.
+
+**6. ledd**
+
+På nivå C1 kan personen forstå komplekse framstillinger og faglige drøftinger innenfor de fleste allmenne emner. Personen kan bruke språket fleksibelt og hensiktsmessig til sosiale, akademiske og yrkesrelaterte formål. Personen kan uttrykke og argumentere for synspunkter og kan delta i samtaler og diskusjoner og bidra til at samtalen eller diskusjonen utvikler seg. Personen kan oppsummere, videreformidle og forklare innhold fra ulike muntlige og skriftlige kilder med høy grad av presisjon. Personen kan skrive klare, velstrukturerte og detaljerte tekster og mestrer ulike setningsmønstre og sammenbindende markører.

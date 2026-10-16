@@ -1,0 +1,17 @@
+# § 4. Beregning av permitteringslønn
+
+**Kilde:** Permitteringslønnsloven § 4
+
+(1) (Beregningsgrunnlag) Beregningsgrunnlaget for permitteringslønn er det samme som beregningsgrunnlaget for sykepenger etter folketrygdloven §§ 8-28 til 8-30 .
+
+(2) (Hel permittering) Ved hel permittering skal utbetalingen pr. arbeidsdag etter § 3 første og femte ledd utgjøre den gjennomsnittlige lønn for en arbeidsdag. Dette gjelder uansett hvor mange arbeidstimer arbeidstakeren skulle hatt den enkelte dag. Utbetalingen etter § 3 tredje ledd skal ved hel permittering utgjøre en gjennomsnittlig ukelønn pr. uke. Dette gjelder uansett hvor mange arbeidsdager arbeidstakeren skulle hatt den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+
+(3) (Delvis permittering) Ved delvis permittering skal utbetalingen etter § 3 utgjøre en prosentvis andel av en gjennomsnittlig ukelønn pr uke. Den prosentvise andel av lønnen skal tilsvare den prosentvise reduksjon av arbeidstiden den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+
+(4) (Fravikelighet) Reglene om beregning av permitteringslønn etter denne paragraf kan fravikes ved tariffavtale. Arbeidsgiver som er bundet av tariffavtalebestemmelser om beregning av permitteringslønn, kan anvende dem overfor alle arbeidstakere som utfører arbeid av den art avtalen omfatter, såfremt et flertall av arbeidstakerne er bundet av avtalen.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lover 15 juni 1990 nr. 31 , 28 feb 1997 nr. 19 (ikr. 1 mai 1997), 17 juni 2016 nr. 26 (ikr. 1 juli 2016).

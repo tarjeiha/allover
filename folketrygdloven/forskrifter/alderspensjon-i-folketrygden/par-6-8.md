@@ -1,0 +1,13 @@
+# § 6-8. Negative størrelser ved omregning etter folketrygdloven § 20-17
+
+**Kilde:** Forskrift om alderspensjon i folketrygden § 6-8
+
+**1. ledd**
+
+Ved omregning av pensjon etter folketrygdloven § 20-17 vil tidligere beregninger av garantipensjon og garantipensjonsbeholdning få betydning også om størrelsene har vært negative. Dersom garantipensjon og garantipensjonsbeholdning blir eller er negative ved beregning av pensjon etter folketrygdloven § 20-11 , § 20-14 , § 20-16 , § 20-17 eller § 20-18 , skal de negative størrelsene benyttes tilsvarende ved omregninger etter folketrygdloven § 20-17 .
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 30 nov 2010 nr. 1502 (tidligere § 6-5).

@@ -1,0 +1,7 @@
+# § 1. Elever ved institusjoner som har undervisning eller forskning som formål
+
+**Kilde:** Forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere § 1
+
+**1. ledd**
+
+Elever ved institusjoner som har undervisning eller forskning som formål skal når de utfører arbeid som ledd i praktisk opplæring, og arbeidet foregår under forhold som kan innebære fare for deres liv og helse, anses som arbeidstakere i forhold til arbeidsmiljøloven kapittel 1 , 2, 3, 4, 5, 18 og 19, med unntak av § 19-2 .

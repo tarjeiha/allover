@@ -1,0 +1,19 @@
+# § 17. Nasjonalt tolkeregister
+
+**Kilde:** Tolkeloven § 17
+
+**1. ledd**
+
+For å øke bruken av kvalifisert tolk i offentlig sektor skal det være et nasjonalt register over kvalifiserte tolker (Nasjonalt tolkeregister). Registeret skal forvaltes av Integrerings- og mangfoldsdirektoratet.
+
+**2. ledd**
+
+Integrerings- og mangfoldsdirektoratet kan innhente personopplysninger om tolker fra Folkeregisteret og utlendingsmyndighetenes registre uten hinder av lovbestemt taushetsplikt når det er nødvendig for å oppnå formålet med Nasjonalt tolkeregister. Direktoratet kan behandle opplysninger om etnisk opprinnelse når det er nødvendig for å oppnå formålet med registeret. Personopplysninger fra registeret som ikke er underlagt taushetsplikt, kan gjøres tilgjengelig for offentligheten.
+
+**3. ledd**
+
+Vedtak om oppføring i Nasjonalt tolkeregister regnes som enkeltvedtak.
+
+**4. ledd**
+
+Departementet kan gi forskrift om formelle krav for oppføring i Nasjonalt tolkeregister, hvilke språklige og tolkefaglige ferdigheter som kreves, tolkers opplysningsplikt, krav til forvaltningen av registeret og hvilke opplysninger som kan registreres.

@@ -1,0 +1,13 @@
+# § 1-8. Arbeidstaker og arbeidsgiver
+
+**Kilde:** Arbeidsmiljøloven § 1-8
+
+(1) Med arbeidstaker menes i denne lov enhver som utfører arbeid for og underordnet en annen. Ved avgjørelsen skal det blant annet legges vekt på om vedkommende løpende stiller sin personlige arbeidskraft til disposisjon, og om vedkommende er underordnet gjennom styring, ledelse og kontroll. Det skal legges til grunn at det foreligger et arbeidstakerforhold med mindre oppdragsgiver gjør det overveiende sannsynlig at det foreligger et selvstendig oppdragsforhold.
+
+(2) Med arbeidsgiver menes i denne lov enhver som har ansatt en arbeidstaker som nevnt i første ledd. Det som i denne lov er bestemt om arbeidsgiver, skal gjelde tilsvarende for den som i arbeidsgivers sted leder virksomheten.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 17 mars 2023 nr. 3 (i kraft 1 jan 2024 iflg. res. 17 mars 2023 nr. 341 ).

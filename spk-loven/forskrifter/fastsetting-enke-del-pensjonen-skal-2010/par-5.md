@@ -1,0 +1,11 @@
+# § 5. Pensjonsberegning
+
+**Kilde:** Forskrift om fastsetting av enke- og enkemannspensjon der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke § 5
+
+**1. ledd**
+
+Ved beregning av samlet enke- og enkemannspensjon skal gjeldende regler for de to beregningsmåtene som er beskrevet i § 1 benyttes. Samlet pensjon beregnes etter de to regelsettene for pensjonsgivende tjenestetid henholdsvis før og fra 1. januar 1994 slik dette er fastsatt i § 2 til § 4 ovenfor.
+
+**2. ledd**
+
+I beregningen legges til grunn antall hele år henholdsvis før og fra 1. januar 1994. Dersom samlet pensjonsgivende tjenestetid er avrundet opp ett år i forhold til summen av hele år før 1994 og etter 1993, legges dette ene året til tiden etter 1993 når pensjonen skal beregnes. Dersom samlet pensjonsgivende tjenestetid er avrundet opp to år i forhold til summen av hele år før 1994 og etter 1993, legges det ene året til tiden før 1994 og det andre året til tiden etter 1993 når pensjonen skal beregnes.

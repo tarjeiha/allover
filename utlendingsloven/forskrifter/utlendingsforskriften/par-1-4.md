@@ -1,0 +1,25 @@
+# § 1-4. Unntak fra kravet om oppholdstillatelse for diplomater mv.
+
+**Kilde:** Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) § 1-4
+
+**1. ledd**
+
+Med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat, gjøres det unntak fra kravet om oppholdstillatelse for utlendinger som er
+
+a. tilknyttet diplomatiske eller lønnede konsulære stasjoner (representasjoner) i riket,
+b. ansatte i mellomstatlige organisasjoner eller konvensjonsorganer, og
+c. oppdragstakere for mellomstatlige organisasjoner eller konvensjonsorganer.
+
+**2. ledd**
+
+Det er et vilkår at utlendingen er tilmeldt og akseptert av Utenriksdepartementet, eventuelt annen norsk myndighet. Utlendinger som er tilknyttet diplomatiske eller lønnede konsulære stasjoner, må også være utsendt til stillingen av senderstatens myndighet i henhold til beordring eller tidsbegrenset tjenesteavtale. Det gis ikke tillatelse til annet arbeid i tillegg til dette ansettelsesforholdet, jf. lovens § 60.
+
+**3. ledd**
+
+Bestemmelsene i første ledd gjelder også for utlendinger som er hjelpepersonale ved diplomatisk eller konsulær stasjon eller i privat tjeneste hos en utlending som nevnt i første ledd. Det samme gjelder bestemmelsen i annet ledd om at utlendingen må være tilmeldt og akseptert av Utenriksdepartementet, eventuelt annen norsk myndighet, og at det ikke gis tillatelse til annet arbeid i tillegg til det aktuelle ansettelsesforholdet. For utlendinger som er hjelpepersonale ved diplomatisk eller konsulær stasjon, gjelder videre vilkåret i annet ledd om at utlendingen må være utsendt til stillingen av senderstatens myndighet i henhold til beordring eller tidsbegrenset tjenesteavtale.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 11 sep 2011 nr. 924 (i kraft 1 des 2011).
