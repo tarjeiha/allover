@@ -65,9 +65,32 @@ def hent_tekst(fil: Path) -> str:
         ut = subprocess.run(["pdftotext", "-enc", "UTF-8", str(fil), "-"],
                             capture_output=True, text=True, check=True)
         return ut.stdout
+    if fil.suffix.lower() in (".html", ".htm"):
+        # Lagrede nettsider har menyer, topp- og bunntekst som ikke hører til rundskrivet
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(fil.read_text(encoding="utf-8", errors="replace"), "lxml")
+        for el in soup.find_all(["nav", "header", "footer", "script", "style", "noscript", "form", "aside"]):
+            el.decompose()
+        hoved = soup.find("main") or soup.find("article") or soup.body or soup
+        ut = subprocess.run(["pandoc", "-f", "html", "-t", "gfm", "--wrap=none"],
+                            input=str(hoved), capture_output=True, text=True, check=True)
+        return ut.stdout
     ut = subprocess.run(["pandoc", str(fil), "-t", "gfm", "--wrap=none"],
                         capture_output=True, text=True, check=True)
     return ut.stdout
+
+
+EU_RETTSAKT = re.compile(
+    r"(europaparlaments- og rådsforordning|europaparlaments- og rådsdirektiv|kommisjonsforordning|"
+    r"kommisjonens gjennomføringsforordning|rådsforordning|regulation \((eu|ec)\)|directive \d+/\d+/(eu|ec)|"
+    r"(forordning|direktiv) \((eu|ef|eøf)\) nr\.?|the european parliament and of the council)",
+    re.IGNORECASE,
+)
+
+
+def ser_ut_som_eu_rettsakt(tekst: str) -> bool:
+    """Ser bare på starten, der tittelen står. Et rundskriv som omtaler en forordning, stoppes ikke."""
+    return bool(EU_RETTSAKT.search(tekst[:1500]))
 
 
 def finn_lov(fil: Path, tekst: str, lover: list) -> tuple:
@@ -94,6 +117,9 @@ def finn_lov(fil: Path, tekst: str, lover: list) -> tuple:
 
 
 def tittel_fra(tekst: str, fil: Path) -> str:
+    for linje in tekst.splitlines():
+        if linje.startswith("# ") and len(linje) > 7:
+            return linje[2:].strip()[:150]
     for linje in tekst.splitlines():
         linje = linje.strip().lstrip("#").strip()
         if len(linje) > 5:
@@ -157,6 +183,9 @@ def legg_inn(fil: Path, lover: list, dato: str) -> str:
     tekst = hent_tekst(fil)
     if len(re.sub(r"\s+", "", tekst)) < MIN_TEGN:
         raise ValueError("fant nesten ingen tekst i filen. Er det en skannet PDF? Den må ha tekstlag")
+    if ser_ut_som_eu_rettsakt(tekst):
+        raise ValueError("teksten ser ut som en EU-rettsakt (forordning, direktiv eller beslutning), "
+                         "ikke et rundskriv. Innboksen tar foreløpig bare rundskriv")
     lov, grunn = finn_lov(fil, tekst, lover)
     if lov is None:
         raise ValueError(grunn)

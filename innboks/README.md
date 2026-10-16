@@ -5,7 +5,7 @@ Legg rundskriv her, så legges de inn i basen automatisk i løpet av et par minu
 ## Slik gjør du
 
 1. Åpne mappen `innboks` på GitHub, og velg **Add file → Upload files**.
-2. Dra inn filen. PDF, Word (.docx), ODT, HTML, Markdown og ren tekst virker.
+2. Dra inn filen. PDF, Word (.docx), ODT, HTML, Markdown og ren tekst virker. En nettside kan lagres som HTML (i nettleseren: Lagre som → «Nettside, bare HTML»). Menyer, topp- og bunntekst tas bort.
 3. Velg **Commit directly to the main branch**, og trykk **Commit changes**.
 
 Du trenger ikke velge lov. Jobben finner loven ut fra teksten.
@@ -24,5 +24,6 @@ Jobben legger ikke inn noe den er usikker på. Filen blir da liggende her, og en
 - Teksten viser ikke tydelig til en lov som finnes i basen. Gi filen et navn som starter med lovmappen, eller legg loven inn i basen først.
 - Teksten viser til flere lover omtrent like mye. Gi filen et navn som starter med lovmappen.
 - Filen er en skannet PDF uten tekstlag.
+- Filen er ikke et rundskriv, men en EU-rettsakt (forordning, direktiv). Innboksen tar foreløpig bare rundskriv.
 
 Rett opp og last opp filen på nytt. `.FEIL.txt`-filen forsvinner når filen er lagt inn.
