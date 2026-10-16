@@ -42,7 +42,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Ingen endringer i lovteksten."
           else
-            git commit -m "Bygg lovtekst fra Lovdata"
+            git commit -q -m "Bygg lovtekst fra Lovdata"
             git push
           fi
 
