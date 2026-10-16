@@ -7,20 +7,37 @@ _Håndskrevet veiledning mangler ennå._
 
 - **Lov:** Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) – LOV-2005-06-17-62. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om tvisteløsningsnemnd etter arbeidsmiljøloven – FOR-2005-12-16-1569. Sist endret i kraft: 2019-11-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om offentlig godkjenning av bemanningsforetak – FOR-2008-06-04-541. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om innleie fra bemanningsforetak – FOR-2013-01-11-33. Sist endret i kraft: 2024-04-16. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om adgang til ved tariffavtale å fravike reglene om likebehandling ved utleie fra bemanningsforetak – FOR-2015-07-06-874. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak) – FOR-2022-12-20-2301. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om innleie av avløser fra avløserlag – FOR-2025-07-01-1377. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om plikt til å utarbeide arbeidsreglement ved virksomheter innen hotell- og restaurantbransjen. – FOR-1991-10-31-1014. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om kameraovervåking i virksomhet – FOR-2018-07-02-1107. Sist endret i kraft: 2021-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale – FOR-2018-07-02-1108. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten. – FOR-1980-06-06-6. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven for visse typer arbeid og arbeidstakergrupper. – FOR-2005-12-16-1567. Sist endret i kraft: 2021-06-04. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera. – FOR-1985-02-08-293. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4) – FOR-2004-12-30-1817. Sist endret i kraft: 2016-07-01. Forvaltes av: Samferdselsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid for sjåfører og andre innenfor vegtransport – FOR-2005-06-10-543. Sist endret i kraft: 2024-01-01. Forvaltes av: Samferdselsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid i institusjoner som har medleverordninger – FOR-2005-06-24-686. Sist endret i kraft: 2017-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid mv. for arbeidstakere i grensekryssende jernbanetrafikk – FOR-2008-07-03-783. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljølovens arbeidstidsbestemmelser for polititjenestemenn mv. – FOR-2009-06-26-873. Sist endret i kraft: 2021-12-03. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidstid for avlastere – FOR-2017-06-25-1052. Sist endret i kraft: 2022-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven. – FOR-1980-06-13-2. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om administrative ordninger på arbeidsmiljølovens område (forskrift om administrative ordninger) – FOR-2011-12-06-1360. Sist endret i kraft: 2024-09-30. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om HMS-kort på bygge- og anleggsplasser – FOR-2007-03-30-366. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om HMS-kort i virksomheter som transporterer andres varer med bil – FOR-2025-06-20-1152. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester – FOR-2012-05-08-408. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester – FOR-2022-02-11-206. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere. – FOR-2005-12-16-1568. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeid som utføres i arbeidstakers hjem – FOR-2002-07-05-715. Sist endret i kraft: 2022-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeid i arbeidsgivers hjem og husholdning – FOR-2022-06-03-969. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om utsendte arbeidstakere – FOR-2005-12-16-1566. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart. – FOR-1986-02-21-540. Sist endret i kraft: 2010-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven med tilhørende forskrifter for sivil luftfart mv. – FOR-2018-12-20-2182. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere. – FOR-1983-04-29-3349. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv. – FOR-2024-04-11-607. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
 
@@ -304,6 +321,48 @@ _Håndskrevet veiledning mangler ennå._
 - § 7. Endringer – `forskrifter/tvistelosningsnemnd/par-7.md`
 - § 8. Ikrafttredelse – `forskrifter/tvistelosningsnemnd/par-8.md`
 
+### Forskrift om offentlig godkjenning av bemanningsforetak
+
+- § 1. Virkeområde – `forskrifter/godkjenning-bemanningsforetak/par-1.md`
+- § 2. Godkjenning og register – `forskrifter/godkjenning-bemanningsforetak/par-2.md`
+- § 3. Generelle krav til bemanningsforetak – `forskrifter/godkjenning-bemanningsforetak/par-3.md`
+- § 4. Vilkår for godkjenning – `forskrifter/godkjenning-bemanningsforetak/par-4.md`
+- § 5. Register over bemanningsforetak – `forskrifter/godkjenning-bemanningsforetak/par-5.md`
+- § 6. Krav om årlig melding og dokumentasjon hvert tredje år – `forskrifter/godkjenning-bemanningsforetak/par-6.md`
+- § 7. Endring i vilkårene for godkjenning og endrede forhold hos virksomheten – `forskrifter/godkjenning-bemanningsforetak/par-7.md`
+- § 8. Vedtak etter forskriften – `forskrifter/godkjenning-bemanningsforetak/par-8.md`
+- § 9. Opplysningsplikt – `forskrifter/godkjenning-bemanningsforetak/par-9.md`
+- § 10. Gebyr – `forskrifter/godkjenning-bemanningsforetak/par-10.md`
+- § 11. Innleie fra bemanningsforetak – `forskrifter/godkjenning-bemanningsforetak/par-11.md`
+- § 12. Tilsyn – `forskrifter/godkjenning-bemanningsforetak/par-12.md`
+- § 13. Tilbakekall av godkjenning – `forskrifter/godkjenning-bemanningsforetak/par-13.md`
+- § 14. Straff – `forskrifter/godkjenning-bemanningsforetak/par-14.md`
+- § 15. Ikrafttredelse – `forskrifter/godkjenning-bemanningsforetak/par-15.md`
+
+### Forskrift om innleie fra bemanningsforetak
+
+**Kapittel I. Arbeidsmiljøloven og innleie til virksomhet som ikke sysselsetter arbeidstaker**
+
+- § 1. – `forskrifter/innleie-fra-bemanningsforetak/par-1.md`
+
+**Kapittel II. Taushetsplikt mv. i tilknytning til likebehandlingsreglene. Straff**
+
+- § 2. – `forskrifter/innleie-fra-bemanningsforetak/par-2.md`
+
+**Kapittel III. Særregler om innleie på visse områder**
+
+- § 3. – `forskrifter/innleie-fra-bemanningsforetak/par-3.md`
+- § 4. – `forskrifter/innleie-fra-bemanningsforetak/par-4.md`
+
+**Kapittel IV. Ikrafttredelse**
+
+- § 5. – `forskrifter/innleie-fra-bemanningsforetak/par-5.md`
+
+### Forskrift om adgang til ved tariffavtale å fravike reglene om likebehandling ved utleie fra bemanningsforetak
+
+- § 1. Vilkår for fravik – `forskrifter/tariffavtale-likebehandling/par-1.md`
+- § 2. Ikrafttredelse og overgangsregel – `forskrifter/tariffavtale-likebehandling/par-2.md`
+
 ### Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
 
 
@@ -351,6 +410,13 @@ _Håndskrevet veiledning mangler ennå._
 - § 6. Tilsyn – `forskrifter/innsyn-epost/par-6.md`
 - § 7. Ikrafttredelse – `forskrifter/innsyn-epost/par-7.md`
 
+### Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten
+
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/medbestemmelse-staten/utenfor-paragrafene.md`
+
 ### Forskrift om unntak fra arbeidsmiljøloven for visse typer arbeid og arbeidstakergrupper
 
 - § 1. Statsansatte og embetsmenn – `forskrifter/unntak-visse-arbeidstakergrupper/par-1.md`
@@ -362,6 +428,13 @@ _Håndskrevet veiledning mangler ennå._
 - § 7. Feltarbeid ved Statens Kartverk – `forskrifter/unntak-visse-arbeidstakergrupper/par-7.md`
 - § 8. Arbeidstakere ved Statens havarikommisjon for transport som deltar i utrykning mv. – `forskrifter/unntak-visse-arbeidstakergrupper/par-8.md`
 - § 9. Ikrafttredelse – `forskrifter/unntak-visse-arbeidstakergrupper/par-9.md`
+
+### Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera
+
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/teater-og-opera/utenfor-paragrafene.md`
 
 ### Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4)
 
@@ -382,6 +455,77 @@ _Håndskrevet veiledning mangler ennå._
 
 - Vedlegg, tabeller o.l. – `forskrifter/luftfartoy-besetning/utenfor-paragrafene.md`
 
+### Forskrift om arbeidstid for sjåfører og andre innenfor vegtransport
+
+**Innledende bestemmelser**
+
+- § 1. Formål – `forskrifter/vegtransport/par-1.md`
+- § 2. Virkeområde – `forskrifter/vegtransport/par-2.md`
+- § 3. Medvirkningsplikt – `forskrifter/vegtransport/par-3.md`
+- § 4. Forholdet til kjøre- og hviletidsreglene – `forskrifter/vegtransport/par-4.md`
+- § 5. Definisjoner – `forskrifter/vegtransport/par-5.md`
+
+**Bestemmelser om arbeidstid, hvilepauser, nattarbeid, m.m.**
+
+- § 6. Registrering av arbeidstiden – `forskrifter/vegtransport/par-6.md`
+- § 7. Arbeidsplan – `forskrifter/vegtransport/par-7.md`
+- § 8. Alminnelig arbeidstid – `forskrifter/vegtransport/par-8.md`
+- § 9. Rett til redusert arbeidstid – `forskrifter/vegtransport/par-9.md`
+- § 10. Adgang til gjennomsnittsberegning av alminnelig arbeidstid – `forskrifter/vegtransport/par-10.md`
+- § 11. Overtidsarbeid og merarbeid – `forskrifter/vegtransport/par-11.md`
+- § 12. Samlet daglig arbeidstid – `forskrifter/vegtransport/par-12.md`
+- § 13. Samlet ukentlig arbeidstid – `forskrifter/vegtransport/par-13.md`
+- § 14. Daglig og ukentlig fritid – `forskrifter/vegtransport/par-14.md`
+- § 15. Hvilepauser – `forskrifter/vegtransport/par-15.md`
+- § 16. Helsekontroll av nattarbeidere – `forskrifter/vegtransport/par-16.md`
+- § 17. Godtgjørelse for nattarbeid – `forskrifter/vegtransport/par-17.md`
+- § 18. Arbeid for flere arbeidsgivere – `forskrifter/vegtransport/par-18.md`
+- § 19. Unntak – `forskrifter/vegtransport/par-19.md`
+
+**Kontroll og straff mv.**
+
+- § 20. Kontroll – `forskrifter/vegtransport/par-20.md`
+- § 21. Straff – `forskrifter/vegtransport/par-21.md`
+- § 22. Særskilt om kontroll av arbeidstid – `forskrifter/vegtransport/par-22.md`
+- § 23. Etterfølgende foretakskontroll – `forskrifter/vegtransport/par-23.md`
+
+**Ikrafttredelse**
+
+- § 24. Ikrafttredelse – `forskrifter/vegtransport/par-24.md`
+
+### Forskrift om arbeidstid i institusjoner som har medleverordninger
+
+- § 1. Virkeområde – `forskrifter/medleverordninger/par-1.md`
+- § 2. Samlet ukentlig arbeidstid – `forskrifter/medleverordninger/par-2.md`
+- § 3. Daglige hvileperioder – `forskrifter/medleverordninger/par-3.md`
+- § 4. Unntak i særlige tilfeller – `forskrifter/medleverordninger/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/medleverordninger/par-5.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/medleverordninger/utenfor-paragrafene.md`
+
+### Forskrift om arbeidstid mv. for arbeidstakere i grensekryssende jernbanetrafikk
+
+- § 1. Virkeområdet – `forskrifter/grensekryssende-jernbane/par-1.md`
+- § 2. Definisjoner – `forskrifter/grensekryssende-jernbane/par-2.md`
+- § 3. Kjøretid – `forskrifter/grensekryssende-jernbane/par-3.md`
+- § 4. Daglig arbeidsfri – `forskrifter/grensekryssende-jernbane/par-4.md`
+- § 5. Ukentlig arbeidsfri – `forskrifter/grensekryssende-jernbane/par-5.md`
+- § 6. Pauser – `forskrifter/grensekryssende-jernbane/par-6.md`
+- § 7. Ikrafttredelse – `forskrifter/grensekryssende-jernbane/par-7.md`
+
+### Forskrift om unntak fra arbeidsmiljølovens arbeidstidsbestemmelser for polititjenestemenn mv
+
+- § 1. Virkeområde – `forskrifter/polititjenestemenn/par-1.md`
+- § 2. Daglig arbeidsfri periode kortere enn 11 timer – `forskrifter/polititjenestemenn/par-2.md`
+- § 3. Daglig arbeidsfri periode kortere enn 8 timer – `forskrifter/polititjenestemenn/par-3.md`
+- § 4. Kompenserende hvile og annet passende vern – `forskrifter/polititjenestemenn/par-4.md`
+- § 5. 24-timersperioder – `forskrifter/polititjenestemenn/par-5.md`
+- § 6. Antall arbeidsfrie perioder kortere enn 11 timer – `forskrifter/polititjenestemenn/par-6.md`
+- § 7. Arbeid under reservetjeneste – `forskrifter/polititjenestemenn/par-7.md`
+- § 8. Ikrafttredelse – `forskrifter/polititjenestemenn/par-8.md`
+
 ### Forskrift om arbeidstid for avlastere
 
 - § 1. – `forskrifter/avlastere/par-1.md`
@@ -397,6 +541,13 @@ _Håndskrevet veiledning mangler ennå._
 - § 11. – `forskrifter/avlastere/par-11.md`
 - § 12. – `forskrifter/avlastere/par-12.md`
 - § 13. – `forskrifter/avlastere/par-13.md`
+
+### Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven
+
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/helse-og-sosialinstitusjoner/utenfor-paragrafene.md`
 
 ### Forskrift om administrative ordninger på arbeidsmiljølovens område (forskrift om administrative ordninger)
 
@@ -506,6 +657,21 @@ _Håndskrevet veiledning mangler ennå._
 
 - Vedlegg, tabeller o.l. – `forskrifter/administrative-ordninger/utenfor-paragrafene.md`
 
+### Forskrift om HMS-kort på bygge- og anleggsplasser
+
+- § 1. Formål – `forskrifter/hms-kort-bygg-anlegg/par-1.md`
+- § 2. Virkeområde – `forskrifter/hms-kort-bygg-anlegg/par-2.md`
+- § 3. Vilkår for utstedelse av HMS-kort i bygge- og anleggsbransjen – `forskrifter/hms-kort-bygg-anlegg/par-3.md`
+- § 4. Arbeidsgivers plikter – `forskrifter/hms-kort-bygg-anlegg/par-4.md`
+- § 5. Kortinnehavers ansvar – `forskrifter/hms-kort-bygg-anlegg/par-5.md`
+- § 6. Kortutsteders plikter – `forskrifter/hms-kort-bygg-anlegg/par-6.md`
+- § 7. Krav til opplysninger på HMS-kortet – `forskrifter/hms-kort-bygg-anlegg/par-7.md`
+- § 8. Kortets gyldighet, kontroll og inndragning – `forskrifter/hms-kort-bygg-anlegg/par-8.md`
+- § 8a. Arbeidsgivers plikt til å makulere HMS-kort – `forskrifter/hms-kort-bygg-anlegg/par-8a.md`
+- § 9. Tap av HMS-kort – `forskrifter/hms-kort-bygg-anlegg/par-9.md`
+- § 10. Straff – `forskrifter/hms-kort-bygg-anlegg/par-10.md`
+- § 11. Ikrafttredelse – `forskrifter/hms-kort-bygg-anlegg/par-11.md`
+
 ### Forskrift om HMS-kort i virksomheter som transporterer andres varer med bil
 
 **Kapittel 1. Formål, virkeområde og definisjoner**
@@ -531,6 +697,98 @@ _Håndskrevet veiledning mangler ennå._
 - § 3-1. Straff – `forskrifter/hms-kort-transport/par-3-1.md`
 - § 3-2. Ikrafttredelse – `forskrifter/hms-kort-transport/par-3-2.md`
 
+### Forskrift om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester
+
+**Kapittel 1. Innledende bestemmelser**
+
+- § 1. Formål – `forskrifter/godkjenning-renhold/par-1.md`
+- § 2. Virkeområde – `forskrifter/godkjenning-renhold/par-2.md`
+- § 3. Krav om godkjenning – `forskrifter/godkjenning-renhold/par-3.md`
+- § 4. Godkjenningsregister og HMS-kort – `forskrifter/godkjenning-renhold/par-4.md`
+
+**Kapittel 2. Godkjenningsordning**
+
+- § 5. Vilkår for godkjenning – `forskrifter/godkjenning-renhold/par-5.md`
+- § 6. Register over renholdsvirksomheter – `forskrifter/godkjenning-renhold/par-6.md`
+- § 7. Krav om årlig melding og dokumentasjon hvert tredje år – `forskrifter/godkjenning-renhold/par-7.md`
+- § 8. Endring i vilkårene for godkjenning og endrede forhold hos virksomheten – `forskrifter/godkjenning-renhold/par-8.md`
+
+**Kapittel 3. Bestemmelser om HMS-kort**
+
+- § 9. Plikt til å ha HMS-kort – `forskrifter/godkjenning-renhold/par-9.md`
+- § 10. Utstedelse av HMS-kort – `forskrifter/godkjenning-renhold/par-10.md`
+- § 11. Kortets gyldighet, kontroll og inndragning – `forskrifter/godkjenning-renhold/par-11.md`
+- § 11a. Arbeidsgivers plikt til å makulere HMS-kort – `forskrifter/godkjenning-renhold/par-11a.md`
+- § 12. Krav til opplysninger på HMS-kortet – `forskrifter/godkjenning-renhold/par-12.md`
+- § 13. Kortinnehavers ansvar – `forskrifter/godkjenning-renhold/par-13.md`
+- § 14. Tap av HMS-kort – `forskrifter/godkjenning-renhold/par-14.md`
+
+**Kapittel 4. Søknad om godkjenning og HMS-kort**
+
+- § 15. Søknadsprosedyrer – `forskrifter/godkjenning-renhold/par-15.md`
+- § 16. Vedtak etter forskriften – `forskrifter/godkjenning-renhold/par-16.md`
+
+**Kapittel 5. Kjøp av renholdstjeneste**
+
+- § 17. Kjøp av renholdstjeneste – `forskrifter/godkjenning-renhold/par-17.md`
+
+**Kapittel 6. Tilsyn og sanksjoner**
+
+- § 18. Tilsyn med at vilkårene for godkjenning er oppfylt – `forskrifter/godkjenning-renhold/par-18.md`
+- § 19. Tilbakekall av godkjenning – `forskrifter/godkjenning-renhold/par-19.md`
+- § 20. Straff – `forskrifter/godkjenning-renhold/par-20.md`
+
+**Kapittel 7. Avsluttende bestemmelser**
+
+- § 21. Ikrafttredelse – `forskrifter/godkjenning-renhold/par-21.md`
+
+### Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester
+
+**Kapittel 1. Innledende bestemmelser**
+
+- § 1. Formål – `forskrifter/godkjenning-bilpleie/par-1.md`
+- § 2. Virkeområde – `forskrifter/godkjenning-bilpleie/par-2.md`
+- § 3. Definisjoner – `forskrifter/godkjenning-bilpleie/par-3.md`
+- § 4. Krav om godkjenning – `forskrifter/godkjenning-bilpleie/par-4.md`
+- § 5. Godkjenningsregister og HMS-kort – `forskrifter/godkjenning-bilpleie/par-5.md`
+
+**Kapittel 2. Godkjenningsordning**
+
+- § 6. Vilkår for godkjenning – `forskrifter/godkjenning-bilpleie/par-6.md`
+- § 7. Register over virksomheter – `forskrifter/godkjenning-bilpleie/par-7.md`
+- § 8. Krav om årlig melding og dokumentasjon hvert tredje år – `forskrifter/godkjenning-bilpleie/par-8.md`
+- § 9. Endring i vilkårene for godkjenning og endrede forhold hos virksomheten – `forskrifter/godkjenning-bilpleie/par-9.md`
+- § 10. Dokumentasjon på godkjenning – `forskrifter/godkjenning-bilpleie/par-10.md`
+
+**Kapittel 3. Bestemmelser om HMS-kort**
+
+- § 11. Plikt til å ha HMS-kort – `forskrifter/godkjenning-bilpleie/par-11.md`
+- § 12. Utstedelse av HMS-kort – `forskrifter/godkjenning-bilpleie/par-12.md`
+- § 13. Kortets gyldighet, kontroll og inndragning – `forskrifter/godkjenning-bilpleie/par-13.md`
+- § 14. Arbeidsgivers plikt til å makulere HMS-kort – `forskrifter/godkjenning-bilpleie/par-14.md`
+- § 15. Krav til opplysninger på HMS-kortet – `forskrifter/godkjenning-bilpleie/par-15.md`
+- § 16. Kortinnehavers ansvar – `forskrifter/godkjenning-bilpleie/par-16.md`
+- § 17. Tap av HMS-kort – `forskrifter/godkjenning-bilpleie/par-17.md`
+
+**Kapittel 4. Søknad om godkjenning og HMS-kort**
+
+- § 18. Søknadsprosedyrer – `forskrifter/godkjenning-bilpleie/par-18.md`
+- § 19. Vedtak etter forskriften – `forskrifter/godkjenning-bilpleie/par-19.md`
+
+**Kapittel 5. Kjøp av tjenester**
+
+- § 20. Kjøp av tjenester – `forskrifter/godkjenning-bilpleie/par-20.md`
+
+**Kapittel 6. Tilsyn og sanksjoner**
+
+- § 21. Tilsyn med overholdelse av forskriften – `forskrifter/godkjenning-bilpleie/par-21.md`
+- § 22. Tilbakekall av godkjenning – `forskrifter/godkjenning-bilpleie/par-22.md`
+- § 23. Straff – `forskrifter/godkjenning-bilpleie/par-23.md`
+
+**Kapittel 7. Avsluttende bestemmelser**
+
+- § 24. Ikrafttredelse – `forskrifter/godkjenning-bilpleie/par-24.md`
+
 ### Forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere
 
 - § 1. Elever ved institusjoner som har undervisning eller forskning som formål – `forskrifter/ikke-arbeidstakere/par-1.md`
@@ -540,6 +798,69 @@ _Håndskrevet veiledning mangler ennå._
 - § 5. Personer som uten å være arbeidstakere utplasseres i virksomheter i opplærings- eller attføringsøyemed eller som deltar i arbeidsmarkedstiltak – `forskrifter/ikke-arbeidstakere/par-5.md`
 - § 6. Endringer – `forskrifter/ikke-arbeidstakere/par-6.md`
 - § 7. Ikrafttredelse – `forskrifter/ikke-arbeidstakere/par-7.md`
+
+### Forskrift om arbeid som utføres i arbeidstakers hjem
+
+- § 1. Virkeområde – `forskrifter/arbeid-i-arbeidstakers-hjem/par-1.md`
+- § 2. Skriftlig avtale – `forskrifter/arbeid-i-arbeidstakers-hjem/par-2.md`
+- § 3. Arbeidsmiljøet – `forskrifter/arbeid-i-arbeidstakers-hjem/par-3.md`
+- § 4. Internkontroll – `forskrifter/arbeid-i-arbeidstakers-hjem/par-4.md`
+- § 5. Verneombud og arbeidsmiljøutvalg – `forskrifter/arbeid-i-arbeidstakers-hjem/par-5.md`
+- § 6. Tilsynet med forskriften – `forskrifter/arbeid-i-arbeidstakers-hjem/par-6.md`
+- § 7. Straff – `forskrifter/arbeid-i-arbeidstakers-hjem/par-7.md`
+- § 8. Ikrafttredelse – `forskrifter/arbeid-i-arbeidstakers-hjem/par-8.md`
+
+### Forskrift om arbeid i arbeidsgivers hjem og husholdning
+
+**Kapittel 1 – Innledende bestemmelse**
+
+- § 1. Virkeområde – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-1.md`
+
+**Kapittel 2 – Ansettelse og lønn mv.**
+
+- § 2. Skriftlig arbeidsavtale – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-2.md`
+- § 2a. Arbeidstaker som sendes til utlandet – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-2a.md`
+- § 3. Fast og midlertidig ansettelse – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-3.md`
+- § 4. Virkninger av brudd på reglene om fast og midlertidig ansettelse – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-4.md`
+- § 5. Lønn – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-5.md`
+
+**Kapittel 3 – Arbeidsgivers og arbeidstakers plikter**
+
+- § 6. Arbeidsgivers plikter – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-6.md`
+- § 7. Arbeidstakers plikter – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-7.md`
+- § 8. Vern mot diskriminering – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-8.md`
+
+**Kapittel 4 – Arbeidstid mv.**
+
+- § 9. Alminnelig arbeidstid – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-9.md`
+- § 10. Passivt arbeid og beredskapsvakt – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-10.md`
+- § 11. Arbeid utover avtalt arbeidstid – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-11.md`
+- § 12. Samlet arbeidstid – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-12.md`
+- § 13. Arbeidsfri og pauser – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-13.md`
+- § 14. Nattarbeid – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-14.md`
+- § 15. Unntak etter samtykke fra Arbeidstilsynet – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-15.md`
+- § 16. Oversikt over arbeidstiden – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-16.md`
+- § 17. Arbeidstidsordninger – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-17.md`
+- § 17a. Arbeidsplan – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-17a.md`
+- § 18. Rett til permisjon – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-18.md`
+
+**Kapittel 5 – Arbeidstakere under 18 år**
+
+- § 19. Særlige regler for arbeidstakere under 18 år – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-19.md`
+
+**Kapittel 6 – Oppsigelse og avskjed mv.**
+
+- § 20. Oppsigelse – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-20.md`
+- § 21. Avskjed – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-21.md`
+- § 22. Virkningene av usaklig oppsigelse eller avskjed – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-22.md`
+- § 23. Attest – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-23.md`
+
+**Kapittel 7 – Tvister, tilsyn mv.**
+
+- § 24. Tvister – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-24.md`
+- § 25. Tilsynet med forskriften – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-25.md`
+- § 26. Straff – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-26.md`
+- § 27. Ikrafttredelse – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-27.md`
 
 ### Forskrift om utsendte arbeidstakere
 
@@ -567,6 +888,46 @@ _Håndskrevet veiledning mangler ennå._
 - § 14e. Dokumentasjonsplikt etter utsendingsperioden – `forskrifter/utsendte-arbeidstakere/par-14e.md`
 - § 15. Ikrafttredelse – `forskrifter/utsendte-arbeidstakere/par-15.md`
 
+### Forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart
+
+**Arbeidsmiljøloven og forskriftenes virkeområder.**
+
+- § 1. – `forskrifter/sivil-luftfart/par-1.md`
+- § 2. – `forskrifter/sivil-luftfart/par-2.md`
+
+**Arbeidsmiljøutvalg.**
+
+- § 3. – `forskrifter/sivil-luftfart/par-3.md`
+
+**Unntak for verneombudets rett til å stanse farlig arbeid.**
+
+- § 4. – `forskrifter/sivil-luftfart/par-4.md`
+
+**Unntak fra arbeidstakers plikt til å avbryte farlig arbeid.**
+
+- § 5. – `forskrifter/sivil-luftfart/par-5.md`
+
+**Rett til omplassering ved graviditet.**
+
+- § 6. – `forskrifter/sivil-luftfart/par-6.md`
+
+**Rett til fri ved svangerskap og fødsel.**
+
+- § 7. – `forskrifter/sivil-luftfart/par-7.md`
+
+**Arbeidstid.**
+
+- § 8. – `forskrifter/sivil-luftfart/par-8.md`
+
+**Tilsynet med loven.**
+
+- § 9. – `forskrifter/sivil-luftfart/par-9.md`
+
+**Forskrifter.**
+
+- § 10. – `forskrifter/sivil-luftfart/par-10.md`
+- § 11. – `forskrifter/sivil-luftfart/par-11.md`
+
 ### Forskrift om unntak fra arbeidsmiljøloven med tilhørende forskrifter for sivil luftfart mv
 
 - § 1. Virkeområde – `forskrifter/unntak-sivil-luftfart/par-1.md`
@@ -584,6 +945,13 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere
 
+
+### Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv
+
+- § 1. Rettigheter og plikter etter skipsarbeidsloven – `forskrifter/dykkeoperasjoner/par-1.md`
+- § 2. Forholdet mellom arbeidsmiljøloven og skipssikkerhetsloven ved dykkeoperasjoner fra skip – `forskrifter/dykkeoperasjoner/par-2.md`
+- § 3. Unntak for Norsk Selskab til Skibbrudnes Redning – `forskrifter/dykkeoperasjoner/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/dykkeoperasjoner/par-4.md`
 
 ## Andre kilder
 

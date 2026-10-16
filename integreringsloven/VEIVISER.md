@@ -10,6 +10,7 @@ _Håndskrevet veiledning mangler ennå._
 - **Forskrift:** Forskrift om læreplan i norsk for voksne innvandrere nivå C1 – FOR-2021-06-20-2086. Sist endret i kraft: 2022-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om læreplan i samfunnskunnskap for voksne innvandrere – FOR-2021-06-20-2054. Sist endret i kraft: 2022-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift til integreringsloven (integreringsforskriften) – FOR-2020-12-15-2912. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Overgangsregler om integreringsloven kapittel 6A – FOR-2022-06-10-995. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Overgangsregel om integreringsloven § 20 fjerde ledd – FOR-2024-06-25-1215. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A) – FOR-2026-06-12-1077. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
@@ -324,6 +325,10 @@ _Håndskrevet veiledning mangler ennå._
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `forskrifter/integreringsforskriften/utenfor-paragrafene.md`
+
+### Overgangsregler om integreringsloven kapittel 6A
+
+- § 1. Overgangsregler om integreringsloven kapittel 6A – `forskrifter/overgangsregler-kap6a/par-1.md`
 
 ### Overgangsregel om integreringsloven § 20 fjerde ledd
 

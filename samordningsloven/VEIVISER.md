@@ -24,12 +24,25 @@ _Håndskrevet veiledning mangler ennå._
 - **Forskrift:** Forskrift om samordning av alders- og uførepensjon fra tjenestepensjonsordninger – FOR-1979-10-01-4084. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner – FOR-1982-10-15-1515. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om uførepensjon som også inneholder etterlattefordeler (samordningsforskrift 32) – FOR-1985-12-31-4104. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om garantitillegg for å hindre nedgang i samlet pensjon etter samordningsloven – FOR-1988-11-02-888. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden – FOR-1988-12-16-1133. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år – FOR-1989-01-03-3. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med tilleggspensjon fra folketrygden – FOR-1989-12-20-1268. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om beregning av sluttpoengtall etter samordningsloven § 23 nr. 2. – FOR-1991-12-23-895. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med tilleggspensjon fra folketrygden når enke- eller enkemannspensjonen ikke skal reduseres på grunn av gjenlevendes egen inntekt – FOR-1992-09-04-663. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om samordning av tjenestepensjon med sjømannspensjon som er utløst med kapitalverdien – FOR-1993-08-02-779. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om samordning av pensjon fra pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer – FOR-1996-07-01-683. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om gjennomføring av refusjonskrav ved utbetaling av pensjons- og trygdeytelser med tilbakevirkning – FOR-2000-07-06-726. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om registrering og utveksling av opplysninger (meldesystem) for å gjennomføre bestemmelsene i samordningsloven mv. – FOR-2000-07-06-727. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om overgangsregler for fastsettelse av høyeste pensjon i Statens pensjonskasse ved samordning av tjenestepensjoner – FOR-2000-07-07-743. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om når økt tilleggspensjon på grunn av omsorgspoeng etter folketrygdloven § 3-16 og pensjonspoeng for årene da pensjonisten fylte 67–75 år, skal holdes utenfor samordningen – FOR-2004-12-21-1742. Sist endret i kraft: 2010-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordning av enke- og enkemannspensjon der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke – FOR-2010-07-06-1076. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning fra 2011 med alderspensjon fra folketrygden – særlige regler for årskull til og med 1943-kullet – FOR-2010-10-12-1330. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordning av alderspensjoner fra tjenestepensjonsordning etter samordningsloven § 7 når en eller flere av alderspensjonene er levealdersjustert – FOR-2011-10-20-1038. Sist endret i kraft: 2020-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om overgangsregler for samordning av enkelte pensjoner fra tjenestepensjonsordning og personskadetrygd når ny uføretrygd i folketrygden trer i kraft 1. januar 2015 – FOR-2014-07-03-948. Sist endret i kraft: 2014-11-26. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om samordning av enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden når det også ytes uførepensjon eller alderspensjon fra tjenestepensjonsordningen – FOR-2015-01-22-50. Sist endret i kraft: 2024-01-11. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om samordning av fraskiltes enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden – FOR-2015-01-22-51. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra samordning av alderspensjon fra tjenestepensjonsordning før 67 år eller avtalefestet pensjon fra 65 år beregnet som tjenestepensjon med uføretrygd eller arbeidsavklaringspenger fra folketrygden – FOR-2015-01-22-52. Sist endret i kraft: 2026-02-23. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordning av alderspensjon før 67 år og enke- og enkemannspensjon fra offentlig tjenestepensjonsordning med uføretrygd fra folketrygden – overgangsregler – FOR-2015-12-01-1374. Sist endret i kraft: 2025-02-28. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning med alderspensjon etter folketrygdloven kapittel 20 – FOR-2020-05-28-1084. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om unntak i samordningsberegningen for inntekt som stammer fra tjeneste i forbindelse med covid-19 – FOR-2020-12-04-2590. Sist endret i kraft: 2021-03-31. Forvaltes av: Arbeids- og inkluderingsdepartementet.
@@ -231,10 +244,21 @@ _Håndskrevet veiledning mangler ennå._
 - § 1. – `forskrifter/samordningsforskrift-32-1985/par-1.md`
 - § 2. – `forskrifter/samordningsforskrift-32-1985/par-2.md`
 
+### Forskrift om garantitillegg for å hindre nedgang i samlet pensjon etter samordningsloven
+
+- § 1. – `forskrifter/garantitillegg-a-hindre-nedgang-samlet-1988/par-1.md`
+- § 2. – `forskrifter/garantitillegg-a-hindre-nedgang-samlet-1988/par-2.md`
+
 ### Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden
 
 - § 1. – `forskrifter/samordning-personskadetrygd-ventetillegg-1988/par-1.md`
 - § 2. – `forskrifter/samordning-personskadetrygd-ventetillegg-1988/par-2.md`
+
+### Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år
+
+- § 1. Samordning av to eller flere tjenestepensjoner – `forskrifter/samordning-pensjons-trygdeytelser-1989/par-1.md`
+- § 2. Samordning av tjenestepensjon og personskadetrygd – `forskrifter/samordning-pensjons-trygdeytelser-1989/par-2.md`
+- § 3. – `forskrifter/samordning-pensjons-trygdeytelser-1989/par-3.md`
 
 ### Forskrift om samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med tilleggspensjon fra folketrygden
 
@@ -242,6 +266,58 @@ _Håndskrevet veiledning mangler ennå._
 - § 2. Fradrag for tilleggspensjon – `forskrifter/samordning-enke-tjenestepensjonsordning-1989/par-2.md`
 - § 3. Særlige regler for fraskilte – `forskrifter/samordning-enke-tjenestepensjonsordning-1989/par-3.md`
 - § 4. Ikrafttreden – `forskrifter/samordning-enke-tjenestepensjonsordning-1989/par-4.md`
+
+### Forskrift om beregning av sluttpoengtall etter samordningsloven § 23 nr. 2
+
+- § 1. Definisjoner. – `forskrifter/beregning-sluttpoengtall-samordningsloven-1991/par-1.md`
+- § 2. Pensjonsgivende inntekt opp til 6 G. – `forskrifter/beregning-sluttpoengtall-samordningsloven-1991/par-2.md`
+- § 3. Pensjonsgivende inntekt over 6 G. – `forskrifter/beregning-sluttpoengtall-samordningsloven-1991/par-3.md`
+- § 4. Avrunding av poengtall. – `forskrifter/beregning-sluttpoengtall-samordningsloven-1991/par-4.md`
+- § 5. Ikrafttredelse. – `forskrifter/beregning-sluttpoengtall-samordningsloven-1991/par-5.md`
+
+### Forskrift om samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med tilleggspensjon fra folketrygden når enke- eller enkemannspensjonen ikke skal reduseres på grunn av gjenlevendes egen inntekt
+
+- § 1. Anvendelsesområde – `forskrifter/samordning-enke-tjenestepensjonsordning-1992/par-1.md`
+- § 2. Formål – `forskrifter/samordning-enke-tjenestepensjonsordning-1992/par-2.md`
+- § 3. Beregnet poengtall – `forskrifter/samordning-enke-tjenestepensjonsordning-1992/par-3.md`
+- § 4. Beregning av fradrag – `forskrifter/samordning-enke-tjenestepensjonsordning-1992/par-4.md`
+- § 5. Etterbetaling – `forskrifter/samordning-enke-tjenestepensjonsordning-1992/par-5.md`
+- § 6. Ikrafttreden – `forskrifter/samordning-enke-tjenestepensjonsordning-1992/par-6.md`
+
+### Forskrift om samordning av tjenestepensjon med sjømannspensjon som er utløst med kapitalverdien
+
+- § 1. – `forskrifter/samordning-tjenestepensjon-sjomannspensjon-1993/par-1.md`
+- § 2. – `forskrifter/samordning-tjenestepensjon-sjomannspensjon-1993/par-2.md`
+
+### Forskrift om samordning av pensjon fra pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer
+
+- § 1. – `forskrifter/samordning-pensjon-pensjonsordning-1996/par-1.md`
+- § 2. – `forskrifter/samordning-pensjon-pensjonsordning-1996/par-2.md`
+
+### Forskrift om gjennomføring av refusjonskrav ved utbetaling av pensjons- og trygdeytelser med tilbakevirkning
+
+- § 1. Virkeområde – `forskrifter/gjennomforing-refusjonskrav-utbetaling-2000/par-1.md`
+- § 2. Nedre beløpsgrense – `forskrifter/gjennomforing-refusjonskrav-utbetaling-2000/par-2.md`
+- § 3. Frist for å fremme refusjonskrav – `forskrifter/gjennomforing-refusjonskrav-utbetaling-2000/par-3.md`
+- § 4. Rekkefølgen ved refusjonskrav – `forskrifter/gjennomforing-refusjonskrav-utbetaling-2000/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/gjennomforing-refusjonskrav-utbetaling-2000/par-5.md`
+
+### Forskrift om registrering og utveksling av opplysninger (meldesystem) for å gjennomføre bestemmelsene i samordningsloven mv
+
+- § 1. Formål og omfang – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-1.md`
+- § 2. Om registrering av opplysninger – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-2.md`
+- § 3. Generelt om utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjons- eller trygdeordning – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-3.md`
+- § 4. Melding fra pensjons- eller trygdeordning til Arbeids- og velferdsetaten ved innvilgelse, endring eller opphør av ytelse – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-4.md`
+- § 5. Melding fra Arbeids- og velferdsetaten til pensjons- eller trygdeordning – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-5.md`
+- § 5a. (Opphevet) – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-5a.md`
+- § 6. Melding fra Arbeids- og velferdsetaten til tjenestepensjonsleverandør om samordning med alderspensjon etter folketrygdloven kapittel 20 – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-6.md`
+- § 7. Øvrige meldinger fra pensjons- eller trygdeordning – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-7.md`
+- § 8. Ikrafttredelse – `forskrifter/registrering-utveksling-opplysninger-a-2000/par-8.md`
+
+### Forskrift om overgangsregler for fastsettelse av høyeste pensjon i Statens pensjonskasse ved samordning av tjenestepensjoner
+
+- § 1. – `forskrifter/overgangsregler-fastsettelse-hoyeste-2000/par-1.md`
+- § 2. – `forskrifter/overgangsregler-fastsettelse-hoyeste-2000/par-2.md`
 
 ### Forskrift om når økt tilleggspensjon på grunn av omsorgspoeng etter folketrygdloven § 3-16 og pensjonspoeng for årene da pensjonisten fylte 67–75 år, skal holdes utenfor samordningen
 
@@ -269,6 +345,35 @@ _Håndskrevet veiledning mangler ennå._
 - § 1. Anvendelsesområde – `forskrifter/samordning-alderspensjoner-2011/par-1.md`
 - § 2. Fastsetting av pensjon som inngår i samordningsberegningen – `forskrifter/samordning-alderspensjoner-2011/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/samordning-alderspensjoner-2011/par-3.md`
+
+### Forskrift om overgangsregler for samordning av enkelte pensjoner fra tjenestepensjonsordning og personskadetrygd når ny uføretrygd i folketrygden trer i kraft 1. januar 2015
+
+- § 1. Virkeområde – `forskrifter/overgangsregler-samordning-enkelte-2014/par-1.md`
+- § 2. Definisjoner – `forskrifter/overgangsregler-samordning-enkelte-2014/par-2.md`
+- § 3. Fastsetting av samordningsfradrag – `forskrifter/overgangsregler-samordning-enkelte-2014/par-3.md`
+- § 4. Tjenestepensjon, personskadetrygd og folketrygd – `forskrifter/overgangsregler-samordning-enkelte-2014/par-4.md`
+- § 5. Enke- og enkemannspensjon og uførepensjon fra tjenestepensjonsordning – `forskrifter/overgangsregler-samordning-enkelte-2014/par-5.md`
+- § 6. Regulering av samordningsfradraget – `forskrifter/overgangsregler-samordning-enkelte-2014/par-6.md`
+- § 7. Ikrafttredelse – `forskrifter/overgangsregler-samordning-enkelte-2014/par-7.md`
+
+### Forskrift om samordning av enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden når det også ytes uførepensjon eller alderspensjon fra tjenestepensjonsordningen
+
+- § 1. Virkeområde – `forskrifter/samordning-enke-tjenestepensjonsordning-2015/par-1.md`
+- § 2. Enke- og enkemannspensjonen som skal avkortes med arbeidsinntekt – `forskrifter/samordning-enke-tjenestepensjonsordning-2015/par-2.md`
+- § 3. Enke- og enkemannspensjonen som ikke skal avkortes med arbeidsinntekt – `forskrifter/samordning-enke-tjenestepensjonsordning-2015/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/samordning-enke-tjenestepensjonsordning-2015/par-4.md`
+
+### Forskrift om samordning av fraskiltes enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden
+
+- § 1. Virkeområde – `forskrifter/samordning-fraskiltes-enke-2015/par-1.md`
+- § 2. Fastsetting av samordningsfradrag – `forskrifter/samordning-fraskiltes-enke-2015/par-2.md`
+- § 3. Ikrafttredelse – `forskrifter/samordning-fraskiltes-enke-2015/par-3.md`
+
+### Forskrift om unntak fra samordning av alderspensjon fra tjenestepensjonsordning før 67 år eller avtalefestet pensjon fra 65 år beregnet som tjenestepensjon med uføretrygd eller arbeidsavklaringspenger fra folketrygden
+
+- § 1. Virkeområde – `forskrifter/unntak-samordning-alderspensjon-2015/par-1.md`
+- § 2. Unntak fra samordning – `forskrifter/unntak-samordning-alderspensjon-2015/par-2.md`
+- § 3. Ikrafttredelse – `forskrifter/unntak-samordning-alderspensjon-2015/par-3.md`
 
 ### Forskrift om samordning av alderspensjon før 67 år og enke- og enkemannspensjon fra offentlig tjenestepensjonsordning med uføretrygd fra folketrygden – overgangsregler
 

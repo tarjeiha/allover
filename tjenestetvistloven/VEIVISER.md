@@ -6,7 +6,10 @@ _Håndskrevet veiledning mangler ennå._
 ## Kilder
 
 - **Lov:** Lov om offentlige tjenestetvister [tjenestetvistloven] – LOV-1958-07-18-2. Sist endret i kraft: 2012-03-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
+- **Forskrift:** Forskrift til lov av 18. juli 1958 nr. 2 om offentlige tjenestetvister. – FOR-2002-05-15-451. Sist endret i kraft: 2004-01-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
+- **Forskrift:** Forskrift om overføring av forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner. – FOR-2003-01-31-90. Forvaltes av: Kunnskapsdepartementet.
 - **Forskrift:** Vedtak om at tjenestetvistloven gjøres gjeldende for undervisningspersonale ved helsefaghøgskoler som fremtidig skal bli statlige. – FOR-1983-10-28-1588. Sist endret i kraft: 1989-12-22. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
+- **Forskrift:** Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum. – FOR-2002-05-15-450. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 
 ## Innhold
 
@@ -82,5 +85,25 @@ _Håndskrevet veiledning mangler ennå._
 
 - Vedlegg, tabeller o.l. – `lov/utenfor-paragrafene.md`
 
+### Forskrift til lov av 18. juli 1958 nr. 2 om offentlige tjenestetvister
+
+- § 1. – `forskrifter/tjenestetvistloven-forskrift/par-1.md`
+- § 2. – `forskrifter/tjenestetvistloven-forskrift/par-2.md`
+
+### Forskrift om overføring av forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner
+
+- § 1. – `forskrifter/forhandlingsansvar-undervisningspersonale/par-1.md`
+- § 2. – `forskrifter/forhandlingsansvar-undervisningspersonale/par-2.md`
+- § 3. – `forskrifter/forhandlingsansvar-undervisningspersonale/par-3.md`
+- § 4. – `forskrifter/forhandlingsansvar-undervisningspersonale/par-4.md`
+
 ### Vedtak om at tjenestetvistloven gjøres gjeldende for undervisningspersonale ved helsefaghøgskoler som fremtidig skal bli statlige
+
+
+### Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum
+
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/delegering-tjenestetvistloven/utenfor-paragrafene.md`
 <!-- AUTO-SLUTT -->

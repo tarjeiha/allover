@@ -8,22 +8,58 @@ _Håndskrevet veiledning mangler ennå._
 - **Lov:** Lov om folketrygd (folketrygdloven) – LOV-1997-02-28-19. Sist endret i kraft: 2026-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om beregning av arbeidsavklaringspenger etter EØS-avtalen – FOR-2017-12-13-2099. Sist endret i kraft: 2025-02-19. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om alderspensjon i folketrygden – FOR-2009-12-22-1810. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om dagpenger under arbeidsløshet – FOR-1998-09-16-890. Sist endret i kraft: 2026-09-24. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om dagpenger for fiskere og fangstfolk under arbeidsløshet (A-trygdforskriften) – FOR-2011-06-01-565. Sist endret i kraft: 2012-01-01. Forvaltes av: Nærings- og fiskeridepartementet.
+- **Forskrift:** Kunngjøring av virkningstidspunktet for regulering av kravet til minsteinntekt i dagpengeordningen – FOR-2012-05-25-461. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om overgangsregler i forbindelse med ikrafttredelse av endring av folketrygdloven § 4-9 fra 1. januar 2024 – FOR-2023-12-21-2260. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om stønad til enslig mor eller far etter folketrygdloven kapittel 15 – FOR-2015-11-21-1341. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven § 15-6 og § 15-8 fra 1. februar 2024 – FOR-2024-01-26-123. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om ytelser til gjenlevende ektefelle og tidligere familiepleier etter folketrygdloven kapittel 17 – FOR-2023-06-21-1007. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om behovsprøvet gravferdsstønad – FOR-2002-12-12-1492. Sist endret i kraft: 2023-07-07. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om gravferdsstønad og stønad til båretransport for person som er pliktig medlem etter § 2-5 i lov om folketrygd og som dør utenfor Norge og om stønad til båretransport når et medlem dør i et av de nordiske land. – FOR-2002-12-12-1493. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om dekning av utgifter til båretransport i Norge. – FOR-1997-03-11-216. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14 – FOR-2026-05-22-869. Sist endret i kraft: 2026-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden – FOR-2011-05-06-465. Sist endret i kraft: 2022-04-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om gjennomføring av bilaterale trygdeavtaler – FOR-2024-11-15-2778. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra medlemskap i folketrygden for person som er omfattet av eller mottar ytelser etter utenlandsk trygdelovgivning mv og vedkommendes familiemedlemmer – FOR-1997-04-15-314. Sist endret i kraft: 2025-02-17. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om trygdedekning for asylsøkere og deres familiemedlemmer – FOR-2008-05-14-460. Sist endret i kraft: 2021-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om medlemskap i trygden under fengselsopphold mv. – FOR-2012-06-22-603. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om fastsetting av pensjonsgivende inntekt for året før det året da et medlem får rett til en trygdeytelse – FOR-1997-03-11-202. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for personer som har omsorg for små barn – FOR-1997-03-11-203. Sist endret i kraft: 2010-11-30. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person – FOR-1997-03-11-204. Sist endret i kraft: 2017-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om godskriving av pensjonspoeng for mottakere av avtalefestet pensjon som omfattes av AFP-tilskottsloven § 12 eller avtalefestet pensjon fra offentlig pensjonsordning før fylte 65 år – FOR-2014-11-26-1465. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt – FOR-1997-12-18-1408. Sist endret i kraft: 2026-01-01. Forvaltes av: Finansdepartementet.
 - **Forskrift:** Forskrift om gjennomføring av nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt – FOR-1997-12-19-1421. Sist endret i kraft: 2020-11-01. Forvaltes av: Finansdepartementet.
 - **Forskrift:** Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt – FOR-2025-06-13-1017. Forvaltes av: Finansdepartementet.
+- **Forskrift:** Forskrift om fastsettelse av pensjonsgivende inntekt mv. for medlemmer med inntekt som ikke blir skattlagt av norske myndigheter – FOR-2017-02-13-179. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om pensjonsberegning, om tilståelse og beregning av barnetillegg og barnepensjon og om gjennomføringa av folketrygdlovens bestemmelser om inntektsprøving i tilfelle som omfattes av EØS-avtalen. – FOR-1993-12-23-1251. Sist endret i kraft: 1998-01-16. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om behandling av tvister i arbeidsgiverperioden – FOR-1997-03-25-268. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra anke til Trygderetten – FOR-1997-04-15-324. Sist endret i kraft: 2023-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om at visse vedtak kan ankes direkte inn for Trygderetten. – FOR-2006-06-30-743. Sist endret i kraft: 2009-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjonsinnretninger, forsikringsselskaper og andre finansinstitusjoner – FOR-2009-03-11-294. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om elektronisk kommunikasjon med Arbeids- og velferdsetaten – FOR-2009-10-02-1285. Sist endret i kraft: 2015-04-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om unntak fra pålegg om elektronisk kommunikasjon ved innsending av erklæringer og uttalelser til Arbeids- og velferdsetaten (NAV) – FOR-2009-12-07-1480. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om at saksopplysninger til Arbeids- og velferdsetaten skal gis elektronisk – FOR-2018-06-20-937. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om økt beregningsgrunnlag for gifte og samboende uføretrygdede som mottar en uføretrygd omregnet fra uførepensjon – FOR-2016-05-26-529. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om omregning av uførepensjon til uføretrygd – FOR-2014-07-03-947. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om uføretrygd fra folketrygden – FOR-2014-12-05-1602. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om gjennomføringen av folketrygdloven § 22-18 og bidragsinnkrevingsloven § 34 om utbetalingsmåten for ytelser mv. – FOR-1999-04-23-534. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om rentesats etter folketrygdloven § 22-17 første ledd – FOR-2009-12-14-1513. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om disponering av kontantytelser fra folketrygden under opphold i kommunal helse- og omsorgsinstitusjon og i helseinstitusjon i spesialisthelsetjenesten – FOR-2014-02-14-137. Sist endret i kraft: 2021-11-01. Forvaltes av: Helse- og omsorgsdepartementet.
+- **Forskrift:** Forskrift om overtredelsesgebyr og tvangsmulkt etter folketrygdloven § 25-3 ved brudd på opplysningsplikten til Arbeidsgiver- og arbeidstakerregisteret mv. – FOR-2014-07-10-968. Sist endret i kraft: 2021-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift til folketrygdloven § 25-10 om arbeidsgivers og oppdragsgivers opplysningsplikt om arbeidsforhold og inntekt – FOR-2014-07-10-969. Sist endret i kraft: 2021-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om føring av statistikk over sykefravær og fravær ved barns sykdom. – FOR-1997-03-25-272. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om beregning av kapitalverdier av trygdeytelser. – FOR-1997-03-25-273. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd – FOR-1998-01-16-37. Sist endret i kraft: 2008-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om Arbeidsgiver- og arbeidstakerregisteret – FOR-2008-08-18-942. Sist endret i kraft: 2024-12-23. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om menerstatning ved yrkesskade. – FOR-1997-04-21-373. Sist endret i kraft: 2006-11-24. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om yrkessykdommer, klimasykdommer og epidemiske sykdommer som skal likestilles med yrkesskade. – FOR-1997-03-11-220. Sist endret i kraft: 2020-04-07. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om sykdommer og forgiftninger m.v. som skal likestilles med yrkesskade – FOR-1997-03-11-219. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om et rådgivende yrkessykdomsutvalg for regelmessig revisjon av forskrift over sykdommer som skal likestilles med yrkesskade – FOR-2026-06-23-1356. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om beregning av uførepensjon og godskriving av pensjonspoeng ved yrkesskade. – FOR-1997-03-11-208. Sist endret i kraft: 2002-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om beregning av tilleggspensjon ved yrkesskade. – FOR-1997-03-11-209. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere – FOR-1997-03-11-210. Sist endret i kraft: 2010-03-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket. – FOR-1997-03-25-267. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
 
@@ -797,6 +833,134 @@ _Håndskrevet veiledning mangler ennå._
 
 - Vedlegg, tabeller o.l. – `forskrifter/alderspensjon-i-folketrygden/utenfor-paragrafene.md`
 
+### Forskrift om dagpenger under arbeidsløshet
+
+**Kapittel 1. Unntak fra kravet om opphold i Norge**
+
+- § 1-1. (utbetaling av dagpenger på Svalbard) – `forskrifter/dagpengeforskriften/par-1-1.md`
+- § 1-2. (Utbetaling av dagpenger som forskutterte lønnsgarantimidler til medlemmer bosatt i utlandet) – `forskrifter/dagpengeforskriften/par-1-2.md`
+- § 1-3. (Dagpenger ved midlertidig opphold i utlandet ved etablering av egen virksomhet) – `forskrifter/dagpengeforskriften/par-1-3.md`
+- § 1-4. (Dagpenger ved midlertidig opphold i utlandet på grunn av jobbintervju) – `forskrifter/dagpengeforskriften/par-1-4.md`
+- § 1-5. (Opphevet) – `forskrifter/dagpengeforskriften/par-1-5.md`
+- § 1-6. (helgefravær i utlandet) – `forskrifter/dagpengeforskriften/par-1-6.md`
+- § 1-7. (søke arbeid i et annet EØS-land) – `forskrifter/dagpengeforskriften/par-1-7.md`
+- § 1-8. (bosted i et annet EØS-land under siste arbeidsforhold i Norge) – `forskrifter/dagpengeforskriften/par-1-8.md`
+- § 1-9. (utsendte arbeidstakere i et annet EØS-land som blir delvis arbeidsledig eller delvis permittert) – `forskrifter/dagpengeforskriften/par-1-9.md`
+
+**Kapittel 2. Konkurs m.v.**
+
+- § 2-1. (dagpenger ved konkurs m.v.) – `forskrifter/dagpengeforskriften/par-2-1.md`
+- § 2-2. (om stønadsperiode og unntak fra egenandel) – `forskrifter/dagpengeforskriften/par-2-2.md`
+- § 2-3. (forholdet til minsteinntekt, jf. folketrygdloven § 4-4) – `forskrifter/dagpengeforskriften/par-2-3.md`
+- § 2-4. (Opphevet ved forskrift 2 aug 2004 nr. 1143.) – `forskrifter/dagpengeforskriften/par-2-4.md`
+
+**Kapittel 3. Arbeidsmarkedstiltak**
+
+- § 3-1. (lønn i arbeidsmarkedstiltak som ikke skal regnes med i kravet til minsteinntekt) – `forskrifter/dagpengeforskriften/par-3-1.md`
+
+**Kapittel 3A. Søknadstidspunkt, opptjeningstid mv.**
+
+- § 3A-1. Søknadstidspunkt – `forskrifter/dagpengeforskriften/par-3a-1.md`
+- § 3A-2. Siste avsluttede kalendermåned – `forskrifter/dagpengeforskriften/par-3a-2.md`
+
+**Kapittel 4. Aktivitetskrav, utdanning/opplæring, ulønnet arbeid etc.**
+
+- § 4-1. (aktiv arbeidssøking) – `forskrifter/dagpengeforskriften/par-4-1.md`
+- § 4-2. (fellesbestemmelser for deltaking i utdanning eller opplæring og ulønnet arbeid) – `forskrifter/dagpengeforskriften/par-4-2.md`
+- § 4-3. (deltakelse i arbeidsmarkedstiltak) – `forskrifter/dagpengeforskriften/par-4-3.md`
+- § 4-3a. (opplæring for innvandrere) – `forskrifter/dagpengeforskriften/par-4-3a.md`
+- § 4-3b. (grunnskoleopplæring, videregående opplæring og opplæring i grunnleggende ferdigheter) – `forskrifter/dagpengeforskriften/par-4-3b.md`
+- § 4-3c. (høyere yrkesfaglig utdanning) – `forskrifter/dagpengeforskriften/par-4-3c.md`
+- § 4-3d. (høyere utdanning) – `forskrifter/dagpengeforskriften/par-4-3d.md`
+- § 4-3e. (deltakelse på kurs mv.) – `forskrifter/dagpengeforskriften/par-4-3e.md`
+- § 4-3f. (opplæringsplan) – `forskrifter/dagpengeforskriften/par-4-3f.md`
+- § 4-3g. (opphevet) – `forskrifter/dagpengeforskriften/par-4-3g.md`
+- § 4-4. (ulønnet arbeid) – `forskrifter/dagpengeforskriften/par-4-4.md`
+- § 4-5. (unntak fra reglene om gradering for fosterforeldre og meddommere) – `forskrifter/dagpengeforskriften/par-4-5.md`
+
+**Kapittel 5. Etablerere**
+
+- § 5-1. (vilkår for å motta dagpenger under etablering) – `forskrifter/dagpengeforskriften/par-5-1.md`
+
+**Kapittel 6. Permitterte**
+
+- § 6-1. (vilkår for å motta dagpenger under permittering) – `forskrifter/dagpengeforskriften/par-6-1.md`
+- § 6-2. (permittering i visse virksomheter) – `forskrifter/dagpengeforskriften/par-6-2.md`
+- § 6-3. (avkortning mot fortsatt lønnsutbetaling fra permitterende arbeidsgiver) – `forskrifter/dagpengeforskriften/par-6-3.md`
+- § 6-4. (anvisning og utbetaling) – `forskrifter/dagpengeforskriften/par-6-4.md`
+- § 6-5. (konsekvenser av avbrudd i permitteringen) – `forskrifter/dagpengeforskriften/par-6-5.md`
+- § 6-6. (stønadsperiode ved permittering som skyldes arbeidstvist) – `forskrifter/dagpengeforskriften/par-6-6.md`
+- § 6-7. (Permittering i fiskeforedlingsindustrien, sjømatindustrien og fiskeoljeindustrien) – `forskrifter/dagpengeforskriften/par-6-7.md`
+- § 6-7a. (Opphevet) – `forskrifter/dagpengeforskriften/par-6-7a.md`
+- § 6-8. (Dagpenger utover begrensningen i folketrygdloven § 4-7 annet ledd) – `forskrifter/dagpengeforskriften/par-6-8.md`
+- § 6-9. (unntak fra kravet i folketrygdloven § 4-5 om å være arbeidsfør for permitterte deltakere i arbeidsmarkedstiltaket varig lønnstilskudd) – `forskrifter/dagpengeforskriften/par-6-9.md`
+- § 6-10. (Opphevet) – `forskrifter/dagpengeforskriften/par-6-10.md`
+- § 6-11. (Opphevet) – `forskrifter/dagpengeforskriften/par-6-11.md`
+
+**Kapittel 7. Barnetillegg**
+
+- § 7-1. (stønadens størrelse) – `forskrifter/dagpengeforskriften/par-7-1.md`
+- § 7-2. (unntak fra bostedskravet) – `forskrifter/dagpengeforskriften/par-7-2.md`
+
+**Kapittel 8. Ferietillegg**
+
+- § 8-1. (beregning av ferietillegg) – `forskrifter/dagpengeforskriften/par-8-1.md`
+- § 8-2. (utbetaling av ferietillegget) – `forskrifter/dagpengeforskriften/par-8-2.md`
+
+**Kapittel 9. Ytelser fra arbeidsgiver ved opphør av arbeidsforhold**
+
+- § 9-1. (samordning med ytelser fra arbeidsgiver) – `forskrifter/dagpengeforskriften/par-9-1.md`
+
+**Kapittel 10. Utbetaling og stans**
+
+- § 10-1. (anvisning og utbetaling av dagpenger) – `forskrifter/dagpengeforskriften/par-10-1.md`
+- § 10-2. (forskuddsanvisning) – `forskrifter/dagpengeforskriften/par-10-2.md`
+- § 10-3. (korrigering av forskuddsanvisning) – `forskrifter/dagpengeforskriften/par-10-3.md`
+- § 10-4. (stans av dagpenger når vilkårene for rett til dagpenger ikke lenger er oppfylt) – `forskrifter/dagpengeforskriften/par-10-4.md`
+
+**Kapittel 11. Vanlig arbeidstid**
+
+- § 11-1. (innhold) – `forskrifter/dagpengeforskriften/par-11-1.md`
+- § 11-2. (beregning av vanlig arbeidstid) – `forskrifter/dagpengeforskriften/par-11-2.md`
+- § 11-2a. (Opphevet) – `forskrifter/dagpengeforskriften/par-11-2a.md`
+- § 11-3. (maksimal vanlig arbeidstid) – `forskrifter/dagpengeforskriften/par-11-3.md`
+
+**Kapittel 12. Unntak fra plikten til å gi melding om vedtak**
+
+- § 12-1. (unnlatt melding om vedtak om reduksjon eller stans av utbetalingen) – `forskrifter/dagpengeforskriften/par-12-1.md`
+
+**Kapittel 13. Supplerende regler til Europaparlaments- og rådsforordning (EF) nr. 883/2004 om koordinering av trygdeordninger (trygdeforordningen)**
+
+- § 13-1. (særlige regler for sammenlegging av perioder i nordisk konvensjon om trygd) – `forskrifter/dagpengeforskriften/par-13-1.md`
+- § 13-2. (Opphevet) – `forskrifter/dagpengeforskriften/par-13-2.md`
+- § 13-3. (maksimal varighet for eksport av dagpenger etter trygdeforordningen artikkel 64) – `forskrifter/dagpengeforskriften/par-13-3.md`
+- § 13-4. (supplerende regler til trygdeforordningen artikkel 64 nr. 1 bokstav a) – `forskrifter/dagpengeforskriften/par-13-4.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/dagpengeforskriften/utenfor-paragrafene.md`
+
+### Forskrift om dagpenger for fiskere og fangstfolk under arbeidsløshet (A-trygdforskriften)
+
+- § 1. Formål – `forskrifter/dagpenger-fiskere/par-1.md`
+- § 2. Virkeområde – `forskrifter/dagpenger-fiskere/par-2.md`
+- § 3. Forhold som gir rett til dagpenger til fiskere og fangstfolk med fartøytilknytning – `forskrifter/dagpenger-fiskere/par-3.md`
+- § 4. Forhold som gir rett til dagpenger til fiskere og fangsfolk uten fartøytilknytning – `forskrifter/dagpenger-fiskere/par-4.md`
+- § 5. Forhold som ikke gir rett til dagpenger – `forskrifter/dagpenger-fiskere/par-5.md`
+- § 6. Forhold som gir reduksjon i dagpenger – `forskrifter/dagpenger-fiskere/par-6.md`
+- § 7. Søknad om dagpenger og melding om fortsatt ledighet – `forskrifter/dagpenger-fiskere/par-7.md`
+- § 8. Krav til minsteinntekt – `forskrifter/dagpenger-fiskere/par-8.md`
+- § 9. Dagpengegrunnlag – `forskrifter/dagpenger-fiskere/par-9.md`
+- § 10. Antall stønadsuker (Stønadsperiode) – `forskrifter/dagpenger-fiskere/par-10.md`
+- § 11. Utbetaling av dagpenger – `forskrifter/dagpenger-fiskere/par-11.md`
+- § 12. Trekk i dagpenger – `forskrifter/dagpenger-fiskere/par-12.md`
+- § 13. Tilbakekreving etter feilaktige utbetalinger og sanksjoner – `forskrifter/dagpenger-fiskere/par-13.md`
+- § 14. Vedtak og saksbehandling – `forskrifter/dagpenger-fiskere/par-14.md`
+- § 15. Ikrafttredelse og overgangsordning – `forskrifter/dagpenger-fiskere/par-15.md`
+
+### Kunngjøring av virkningstidspunktet for regulering av kravet til minsteinntekt i dagpengeordningen
+
+
 ### Forskrift om overgangsregler i forbindelse med ikrafttredelse av endring av folketrygdloven § 4-9 fra 1. januar 2024
 
 - § 1. – `forskrifter/overgangsregler-2023/par-1.md`
@@ -814,6 +978,12 @@ _Håndskrevet veiledning mangler ennå._
 - § 8. Beregning av stønad til barnetilsyn – `forskrifter/stonad-enslig-mor-far/par-8.md`
 - § 9. Behandling av personopplysninger om andre familiemedlemmer – `forskrifter/stonad-enslig-mor-far/par-9.md`
 - § 10. Ikrafttredelse mv. – `forskrifter/stonad-enslig-mor-far/par-10.md`
+
+### Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven § 15-6 og § 15-8 fra 1. februar 2024
+
+- § 1. Endringen i folketrygdloven § 15-6 femte ledd første punktum – `forskrifter/overgangsregler-par15/par-1.md`
+- § 2. Endringen i folketrygdloven § 15-8 første ledd andre punktum – `forskrifter/overgangsregler-par15/par-2.md`
+- § 3. Ikrafttredelse – `forskrifter/overgangsregler-par15/par-3.md`
 
 ### Forskrift om ytelser til gjenlevende ektefelle og tidligere familiepleier etter folketrygdloven kapittel 17
 
@@ -866,10 +1036,97 @@ _Håndskrevet veiledning mangler ennå._
 - § 3. – `forskrifter/gravferdsstonad-baretransport/par-3.md`
 - § 4. – `forskrifter/gravferdsstonad-baretransport/par-4.md`
 
+### Forskrift om dekning av utgifter til båretransport i Norge
+
+- § 1. – `forskrifter/baretransport/par-1.md`
+- § 2. – `forskrifter/baretransport/par-2.md`
+- § 3. – `forskrifter/baretransport/par-3.md`
+- § 4. – `forskrifter/baretransport/par-4.md`
+
+### Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14
+
+- § 1. – `forskrifter/grunnbelop-og-satser/par-1.md`
+- § 2. – `forskrifter/grunnbelop-og-satser/par-2.md`
+- § 3. – `forskrifter/grunnbelop-og-satser/par-3.md`
+- § 4. – `forskrifter/grunnbelop-og-satser/par-4.md`
+- § 5. – `forskrifter/grunnbelop-og-satser/par-5.md`
+- § 6. – `forskrifter/grunnbelop-og-satser/par-6.md`
+- § 7. – `forskrifter/grunnbelop-og-satser/par-7.md`
+
+### Forskrift om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden
+
+- § 1. Virkeområde – `forskrifter/regulering-lonnsvekst/par-1.md`
+- § 2. Lønnsvekst i reguleringsåret og avvik mellom forventet og faktisk lønnsutvikling siste to år – `forskrifter/regulering-lonnsvekst/par-2.md`
+- § 2a. Særskilt om fastsettelse av forventet lønnsutvikling for 2020 – `forskrifter/regulering-lonnsvekst/par-2a.md`
+- § 3. Beregning av lønnsveksten som skal benyttes ved reguleringen – `forskrifter/regulering-lonnsvekst/par-3.md`
+- § 3a. Lønnsvekst som skal benyttes ved reguleringen i 2021 – `forskrifter/regulering-lonnsvekst/par-3a.md`
+- § 4. Prisvekst i reguleringsåret og avvik mellom forventet og faktisk prisvekst året før reguleringsåret – `forskrifter/regulering-lonnsvekst/par-4.md`
+- § 5. Drøfting med organisasjonene – `forskrifter/regulering-lonnsvekst/par-5.md`
+- § 6. Ikraftsetting – `forskrifter/regulering-lonnsvekst/par-6.md`
+
 ### Forskrift om gjennomføring av bilaterale trygdeavtaler
 
 - § 1. – `forskrifter/bilaterale-trygdeavtaler/par-1.md`
 - § 2. – `forskrifter/bilaterale-trygdeavtaler/par-2.md`
+
+### Forskrift om unntak fra medlemskap i folketrygden for person som er omfattet av eller mottar ytelser etter utenlandsk trygdelovgivning mv og vedkommendes familiemedlemmer
+
+- § 1. Obligatorisk unntak – `forskrifter/unntak-medlemskap/par-1.md`
+- § 2. Unntak etter individuell søknad – `forskrifter/unntak-medlemskap/par-2.md`
+- § 3. Unntak i særlige tilfelle – `forskrifter/unntak-medlemskap/par-3.md`
+- § 4. Forsørgede familiemedlemmer – `forskrifter/unntak-medlemskap/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/unntak-medlemskap/par-5.md`
+
+### Forskrift om trygdedekning for asylsøkere og deres familiemedlemmer
+
+- § 1. Definisjoner – `forskrifter/trygdedekning-asylsokere/par-1.md`
+- § 2. Trygdedekningen – `forskrifter/trygdedekning-asylsokere/par-2.md`
+- § 3. (Opphevet) – `forskrifter/trygdedekning-asylsokere/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/trygdedekning-asylsokere/par-4.md`
+
+### Forskrift om medlemskap i trygden under fengselsopphold mv
+
+**Kapittel 1. Innledende bestemmelser**
+
+- § 1. Hva forskriften gjelder – `forskrifter/medlemskap-fengsel/par-1.md`
+- § 2. Definisjoner – `forskrifter/medlemskap-fengsel/par-2.md`
+- § 3. Medlemskap under frihetsberøvelse – `forskrifter/medlemskap-fengsel/par-3.md`
+
+**Kapittel 2. Ytelser under frihetsberøvelse**
+
+- § 4. Generelt – `forskrifter/medlemskap-fengsel/par-4.md`
+- § 5. Sak om utvisning fra riket – `forskrifter/medlemskap-fengsel/par-5.md`
+- § 6. Krav om trygdetilknytning før stønadstilfellet – `forskrifter/medlemskap-fengsel/par-6.md`
+- § 7. Vedtak om utvisning – `forskrifter/medlemskap-fengsel/par-7.md`
+- § 8. Etterlatte – `forskrifter/medlemskap-fengsel/par-8.md`
+- § 9. Helsetjenester – `forskrifter/medlemskap-fengsel/par-9.md`
+
+- § 10. Ikrafttredelse – `forskrifter/medlemskap-fengsel/par-10.md`
+
+### Forskrift om fastsetting av pensjonsgivende inntekt for året før det året da et medlem får rett til en trygdeytelse
+
+- § 1. – `forskrifter/pensjonsgivende-inntekt-uforetidspunkt/par-1.md`
+- § 2. – `forskrifter/pensjonsgivende-inntekt-uforetidspunkt/par-2.md`
+- § 3. – `forskrifter/pensjonsgivende-inntekt-uforetidspunkt/par-3.md`
+
+### Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for personer som har omsorg for små barn
+
+- § 1. Omsorgsyter – `forskrifter/omsorgspoeng/par-1.md`
+- § 2. Tildeling av omsorgspoeng – `forskrifter/omsorgspoeng/par-2.md`
+- § 3. Overføring av omsorgspoeng mellom omsorgsyterne – `forskrifter/omsorgspoeng/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/omsorgspoeng/par-4.md`
+
+### Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person
+
+- § 1. Omsorgsarbeidets omfang – `forskrifter/omsorgspoeng-omsorgsarbeid/par-1.md`
+- § 2. Omsorgsarbeid for flere personer – `forskrifter/omsorgspoeng-omsorgsarbeid/par-2.md`
+- § 3. Flere utøver omsorgsarbeid for samme person – `forskrifter/omsorgspoeng-omsorgsarbeid/par-3.md`
+- § 4. Avgrensing mot personer i omsorgsyrker – `forskrifter/omsorgspoeng-omsorgsarbeid/par-4.md`
+- § 5. Framsetting av krav om omsorgspoeng – `forskrifter/omsorgspoeng-omsorgsarbeid/par-5.md`
+- § 6. Forhøyet hjelpestønad – `forskrifter/omsorgspoeng-omsorgsarbeid/par-6.md`
+- § 7. Attestasjon – `forskrifter/omsorgspoeng-omsorgsarbeid/par-7.md`
+- § 8. Pleieforhold som strekker seg over flere kalenderår – `forskrifter/omsorgspoeng-omsorgsarbeid/par-8.md`
+- § 9. Ikrafttredelse – `forskrifter/omsorgspoeng-omsorgsarbeid/par-9.md`
 
 ### Forskrift om godskriving av pensjonspoeng for mottakere av avtalefestet pensjon som omfattes av AFP-tilskottsloven § 12 eller avtalefestet pensjon fra offentlig pensjonsordning før fylte 65 år
 
@@ -910,6 +1167,15 @@ _Håndskrevet veiledning mangler ennå._
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `forskrifter/endring-nedsettelse/utenfor-paragrafene.md`
+
+### Forskrift om fastsettelse av pensjonsgivende inntekt mv. for medlemmer med inntekt som ikke blir skattlagt av norske myndigheter
+
+- § 1. Personkrets – `forskrifter/pensjonsgivende-inntekt-utland/par-1.md`
+- § 2. Medlemmets opplysningsplikt – `forskrifter/pensjonsgivende-inntekt-utland/par-2.md`
+- § 3. Fastsettelse av pensjonsgivende inntekt mv. – `forskrifter/pensjonsgivende-inntekt-utland/par-3.md`
+- § 4. Forskjellige bestemmelser – `forskrifter/pensjonsgivende-inntekt-utland/par-4.md`
+- § 5. Delegering av myndighet – `forskrifter/pensjonsgivende-inntekt-utland/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/pensjonsgivende-inntekt-utland/par-6.md`
 
 ### Forskrift om pensjonsberegning, om tilståelse og beregning av barnetillegg og barnepensjon og om gjennomføringa av folketrygdlovens bestemmelser om inntektsprøving i tilfelle som omfattes av EØS-avtalen
 
@@ -952,6 +1218,64 @@ _Håndskrevet veiledning mangler ennå._
 
 - Vedlegg, tabeller o.l. – `forskrifter/pensjonsberegning-barnetillegg/utenfor-paragrafene.md`
 
+### Forskrift om behandling av tvister i arbeidsgiverperioden
+
+**I. Saklig myndighetsområde**
+
+- § 1. – `forskrifter/tvister-arbeidsgiverperioden/par-1.md`
+- § 2. – `forskrifter/tvister-arbeidsgiverperioden/par-2.md`
+- § 3. – `forskrifter/tvister-arbeidsgiverperioden/par-3.md`
+- § 4. – `forskrifter/tvister-arbeidsgiverperioden/par-4.md`
+
+**II. Organisasjon**
+
+- § 5. – `forskrifter/tvister-arbeidsgiverperioden/par-5.md`
+- § 6. – `forskrifter/tvister-arbeidsgiverperioden/par-6.md`
+- § 7. – `forskrifter/tvister-arbeidsgiverperioden/par-7.md`
+
+**III. Anke og saksforberedelse**
+
+- § 8. – `forskrifter/tvister-arbeidsgiverperioden/par-8.md`
+- § 9. – `forskrifter/tvister-arbeidsgiverperioden/par-9.md`
+- § 10. – `forskrifter/tvister-arbeidsgiverperioden/par-10.md`
+- § 11. – `forskrifter/tvister-arbeidsgiverperioden/par-11.md`
+
+**IV. Ankebehandling**
+
+- § 12. – `forskrifter/tvister-arbeidsgiverperioden/par-12.md`
+- § 13. – `forskrifter/tvister-arbeidsgiverperioden/par-13.md`
+
+**V. Forskjellige bestemmelser**
+
+- § 14. – `forskrifter/tvister-arbeidsgiverperioden/par-14.md`
+- § 15. – `forskrifter/tvister-arbeidsgiverperioden/par-15.md`
+- § 16. – `forskrifter/tvister-arbeidsgiverperioden/par-16.md`
+- § 17. – `forskrifter/tvister-arbeidsgiverperioden/par-17.md`
+- § 18. – `forskrifter/tvister-arbeidsgiverperioden/par-18.md`
+- § 19. – `forskrifter/tvister-arbeidsgiverperioden/par-19.md`
+
+### Forskrift om unntak fra anke til Trygderetten
+
+- § 1. Vedtak som unntas – `forskrifter/unntak-anke-trygderetten/par-1.md`
+- § 2. Ikrafttredelse – `forskrifter/unntak-anke-trygderetten/par-2.md`
+
+### Forskrift om at visse vedtak kan ankes direkte inn for Trygderetten
+
+- § 1. Vedtak som skal ankes direkte inn for Trygderetten – `forskrifter/anke-direkte-trygderetten/par-1.md`
+- § 2. Overgangsregler – `forskrifter/anke-direkte-trygderetten/par-2.md`
+- § 3. Ikrafttredelse – `forskrifter/anke-direkte-trygderetten/par-3.md`
+
+### Forskrift om utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjonsinnretninger, forsikringsselskaper og andre finansinstitusjoner
+
+- § 1. Virkeområde – `forskrifter/utveksling-opplysninger/par-1.md`
+- § 2. Når kan opplysninger utveksles etter folketrygdlovens § 21-4b – `forskrifter/utveksling-opplysninger/par-2.md`
+- § 3. Hvilke opplysninger som kan utleveres – `forskrifter/utveksling-opplysninger/par-3.md`
+- § 4. Hvilke organer som vurderer om opplysninger kan gis – `forskrifter/utveksling-opplysninger/par-4.md`
+- § 5. Hvordan opplysningene skal gis – `forskrifter/utveksling-opplysninger/par-5.md`
+- § 6. Taushetsplikt – `forskrifter/utveksling-opplysninger/par-6.md`
+- § 7. Krav til oppbevaring og sletting av opplysninger mv. – `forskrifter/utveksling-opplysninger/par-7.md`
+- § 8. Ikrafttredelse – `forskrifter/utveksling-opplysninger/par-8.md`
+
 ### Forskrift om elektronisk kommunikasjon med Arbeids- og velferdsetaten
 
 - § 1. Formål – `forskrifter/elektronisk-kommunikasjon/par-1.md`
@@ -969,6 +1293,31 @@ _Håndskrevet veiledning mangler ennå._
 - § 3. Unntak etter søknad – `forskrifter/unntak-elektronisk-innsending/par-3.md`
 - § 4. Endringer i legens praksis – `forskrifter/unntak-elektronisk-innsending/par-4.md`
 - § 5. Ikrafttredelse – `forskrifter/unntak-elektronisk-innsending/par-5.md`
+
+### Forskrift om at saksopplysninger til Arbeids- og velferdsetaten skal gis elektronisk
+
+- § 1. Opplysninger fra arbeidsgiver – `forskrifter/saksopplysninger-elektronisk/par-1.md`
+- § 2. Ikrafttredelse – `forskrifter/saksopplysninger-elektronisk/par-2.md`
+
+### Forskrift om økt beregningsgrunnlag for gifte og samboende uføretrygdede som mottar en uføretrygd omregnet fra uførepensjon
+
+- § 1. Virkeområdet – `forskrifter/okt-beregningsgrunnlag-gift-samboende/par-1.md`
+- § 2. Uføretrygd – `forskrifter/okt-beregningsgrunnlag-gift-samboende/par-2.md`
+- § 3. Økning av beregningsgrunnlaget – `forskrifter/okt-beregningsgrunnlag-gift-samboende/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/okt-beregningsgrunnlag-gift-samboende/par-4.md`
+
+### Forskrift om omregning av uførepensjon til uføretrygd
+
+- § 1. Virkeområde – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-1.md`
+- § 2. Overgang til uføretrygd – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-2.md`
+- § 3. Grunnlaget for beregning av uføretrygd – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-3.md`
+- § 4. Grunnlaget for beregning av uføretrygd der mottakeren ikke er medlem av trygden, får uførepensjon beregnet etter EØS-forordning 883/2004 eller 1408/71 eller får uførepensjon beregnet etter en trygdeavtale som gir rett til sammenlegging av trygdeperioder – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`
+- § 5. Grunnlaget for beregning av uføretrygd der mottaker har uførepensjon med yrkesskadefordeler – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-5.md`
+- § 6. Grunnlaget for beregning av uføretrygd der mottaker har en uførepensjon som er redusert fordi mottakeren oppholder seg på en institusjon per 31. desember 2014 – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-6.md`
+- § 7. Tillegg til uføretrygd for person som mottar uførepensjon til gjenlevende ektefelle (gjenlevendetillegg) – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-7.md`
+- § 8. Ektefelletillegg – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-8.md`
+- § 9. Uføretrygd for minstepensjonister som forsørger en ektefelle som har fylt 60 år – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-9.md`
+- § 10. Ikrafttredelse – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-10.md`
 
 ### Forskrift om uføretrygd fra folketrygden
 
@@ -1030,10 +1379,148 @@ _Håndskrevet veiledning mangler ennå._
 
 - Vedlegg, tabeller o.l. – `forskrifter/uforetrygdforskriften/utenfor-paragrafene.md`
 
+### Forskrift om gjennomføringen av folketrygdloven § 22-18 og bidragsinnkrevingsloven § 34 om utbetalingsmåten for ytelser mv
+
+- § 1. Overføring til konto – `forskrifter/gjennomforing-par22-18/par-1.md`
+- § 2. Personer som ikke har bankkonto i Norge – `forskrifter/gjennomforing-par22-18/par-2.md`
+- § 3. Unntak for personer som har bankkonto i Norge – `forskrifter/gjennomforing-par22-18/par-3.md`
+- § 4. Unntak for personer i utlandet – `forskrifter/gjennomforing-par22-18/par-4.md`
+- § 5. Unntak for visse typer utbetalinger – `forskrifter/gjennomforing-par22-18/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/gjennomforing-par22-18/par-6.md`
+
 ### Forskrift om rentesats etter folketrygdloven § 22-17 første ledd
 
 - § 1. – `forskrifter/rentesats-par22-17/par-1.md`
 - § 2. – `forskrifter/rentesats-par22-17/par-2.md`
+
+### Forskrift om disponering av kontantytelser fra folketrygden under opphold i kommunal helse- og omsorgsinstitusjon og i helseinstitusjon i spesialisthelsetjenesten
+
+**Kapittel 1. Virkeområde**
+
+- § 1. Virkeområde – `forskrifter/disponering-institusjon/par-1.md`
+
+**Kapittel 2. Utbetaling og disponering av kontantytelser**
+
+- § 2. Utbetaling av kontantytelser – `forskrifter/disponering-institusjon/par-2.md`
+- § 3. Institusjonens disposisjonsrett – `forskrifter/disponering-institusjon/par-3.md`
+- § 4. Om vedtaket – `forskrifter/disponering-institusjon/par-4.md`
+- § 5. Fullmakt – `forskrifter/disponering-institusjon/par-5.md`
+- § 6. Om disposisjonene – `forskrifter/disponering-institusjon/par-6.md`
+- § 7. Bruk av oppsparte midler – `forskrifter/disponering-institusjon/par-7.md`
+- § 8. Avvikling – `forskrifter/disponering-institusjon/par-8.md`
+- § 9. Regnskap – `forskrifter/disponering-institusjon/par-9.md`
+
+**Kapittel 3. Forskjellige bestemmelser**
+
+- § 10. Klage – `forskrifter/disponering-institusjon/par-10.md`
+- § 11. Ikrafttreden – `forskrifter/disponering-institusjon/par-11.md`
+
+### Forskrift om overtredelsesgebyr og tvangsmulkt etter folketrygdloven § 25-3 ved brudd på opplysningsplikten til Arbeidsgiver- og arbeidstakerregisteret mv
+
+- § 1. Forskriftens innhold – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-1.md`
+- § 2. En eller flere forsømmelser – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-2.md`
+- § 3. Melding til Arbeids- og velferdsdirektoratet om ileggelse av tvangsmulkt – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-3.md`
+- § 4. Forholdet mellom overtredelsesgebyr og tvangsmulkt – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-4.md`
+- § 5. Økt overtredelsesgebyr og tvangsmulkt ved gjentakelse – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-5.md`
+- § 6. Klage over vedtak. Ettergivelse av overtredelsesgebyr og tvangsmulkt – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-6.md`
+- § 7. Ikrafttredelse – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-7.md`
+
+### Forskrift til folketrygdloven § 25-10 om arbeidsgivers og oppdragsgivers opplysningsplikt om arbeidsforhold og inntekt
+
+- § 1. Opplysninger om arbeidsforhold – `forskrifter/opplysningsplikt-arbeidsgiver/par-1.md`
+- § 2. Opplysninger om inntekt – `forskrifter/opplysningsplikt-arbeidsgiver/par-2.md`
+- § 3. Særskilt om opptjeningsperiode for inntekt – `forskrifter/opplysningsplikt-arbeidsgiver/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/opplysningsplikt-arbeidsgiver/par-4.md`
+
+### Forskrift om føring av statistikk over sykefravær og fravær ved barns sykdom
+
+- § 1. Arbeidsgivers plikt til å føre statistikk – `forskrifter/statistikk-sykefravaer/par-1.md`
+- § 2. Formålet med sykefraværsstatistikken – `forskrifter/statistikk-sykefravaer/par-2.md`
+- § 3. Hvem skal omfattes av registreringen – `forskrifter/statistikk-sykefravaer/par-3.md`
+- § 4. Opplysninger som skal registreres – `forskrifter/statistikk-sykefravaer/par-4.md`
+- § 5. Registreringsperiode – `forskrifter/statistikk-sykefravaer/par-5.md`
+- § 6. Hvem kan kreve innsyn i sykefraværsstatistikken – `forskrifter/statistikk-sykefravaer/par-6.md`
+- § 7. Sanksjoner – `forskrifter/statistikk-sykefravaer/par-7.md`
+- § 8. Ikrafttredelse – `forskrifter/statistikk-sykefravaer/par-8.md`
+
+### Forskrift om beregning av kapitalverdier av trygdeytelser
+
+- § 1. Virkeområde – `forskrifter/kapitalverdier/par-1.md`
+- § 2. Grunnlagsrente – `forskrifter/kapitalverdier/par-2.md`
+- § 3. Dødelighetserfaringer – `forskrifter/kapitalverdier/par-3.md`
+- § 4. Gjengiftefrekvenser – `forskrifter/kapitalverdier/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/kapitalverdier/par-5.md`
+
+### Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd
+
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/viderefoering-forskrifter/utenfor-paragrafene.md`
+
+### Forskrift om Arbeidsgiver- og arbeidstakerregisteret
+
+**I. Innledende bestemmelser**
+
+- § 1. Registeransvarlig – `forskrifter/aa-registeret/par-1.md`
+- § 2. Formål – `forskrifter/aa-registeret/par-2.md`
+- § 3. Definisjoner – `forskrifter/aa-registeret/par-3.md`
+
+**II. Om melding til registeret**
+
+- § 4. Plikt til å registrere seg som arbeidsgiver og oppdragsgiver – `forskrifter/aa-registeret/par-4.md`
+- § 5. Melding om arbeidsforhold – `forskrifter/aa-registeret/par-5.md`
+- § 6. Meldepliktens omfang – `forskrifter/aa-registeret/par-6.md`
+- § 7. Kontroll og forvaltning av Arbeidsgiver- og arbeidstakerregisteret – `forskrifter/aa-registeret/par-7.md`
+- § 8. Adgang til å gjøre unntak – `forskrifter/aa-registeret/par-8.md`
+
+**III. Om opplysninger fra registeret**
+
+- § 9. Tilgang til opplysninger fra Arbeidsgiver- og arbeidstakerregisteret ved offentlig myndighetsutøvelse – `forskrifter/aa-registeret/par-9.md`
+- § 10. Tilgang til opplysninger fra Arbeidsgiver- og arbeidstakerregisteret for andre – `forskrifter/aa-registeret/par-10.md`
+- § 11. Krav til søknad om tilgang – `forskrifter/aa-registeret/par-11.md`
+- § 12. Betaling for opplysningene – `forskrifter/aa-registeret/par-12.md`
+- § 13. Opplysninger om personer med sperret adresse – `forskrifter/aa-registeret/par-13.md`
+- § 14. Avgjørelsesmyndighet – `forskrifter/aa-registeret/par-14.md`
+
+**IV. Tiltak overfor arbeidsgiver eller oppdragsgiver ved brudd på plikten til å gi opplysninger om arbeidsforhold**
+
+- § 15. Overtredelsesgebyr og tvangsmulkt – `forskrifter/aa-registeret/par-15.md`
+
+**V. Forskjellige bestemmelser**
+
+- § 16. Taushetsplikt – `forskrifter/aa-registeret/par-16.md`
+- § 17. Behandling av opplysninger fra registeret – `forskrifter/aa-registeret/par-17.md`
+- § 18. Klage på vedtak – `forskrifter/aa-registeret/par-18.md`
+- § 19. Straffebestemmelse – `forskrifter/aa-registeret/par-19.md`
+- § 20. Gjennomføring av forskriften – `forskrifter/aa-registeret/par-20.md`
+- § 21. Ikrafttredelse – `forskrifter/aa-registeret/par-21.md`
+
+### Forskrift om menerstatning ved yrkesskade
+
+**Del I. Alminnelige bestemmelser**
+
+- § 1. Innledning – `forskrifter/menerstatning/par-1.md`
+- § 2. Fastsetting av medisinsk invaliditet – `forskrifter/menerstatning/par-2.md`
+- § 3. Utmåling av menerstatning – `forskrifter/menerstatning/par-3.md`
+- § 4. Vedtak og utbetaling – `forskrifter/menerstatning/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/menerstatning/par-5.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/menerstatning/utenfor-paragrafene.md`
+
+### Forskrift om yrkessykdommer, klimasykdommer og epidemiske sykdommer som skal likestilles med yrkesskade
+
+- § 1. Yrkessykdommer som skal likestilles med yrkesskade – `forskrifter/yrkessykdommer/par-1.md`
+- § 2. Klimasykdommer og epidemiske sykdommer som skal likestilles med yrkesskade – `forskrifter/yrkessykdommer/par-2.md`
+- § 3. Ikrafttredelse – `forskrifter/yrkessykdommer/par-3.md`
+
+### Forskrift om sykdommer og forgiftninger m.v. som skal likestilles med yrkesskade
+
+- § 1. – `forskrifter/sykdommer-likestilt-yrkesskade/par-1.md`
+- § 2. – `forskrifter/sykdommer-likestilt-yrkesskade/par-2.md`
+- § 3. – `forskrifter/sykdommer-likestilt-yrkesskade/par-3.md`
 
 ### Forskrift om et rådgivende yrkessykdomsutvalg for regelmessig revisjon av forskrift over sykdommer som skal likestilles med yrkesskade
 
@@ -1047,6 +1534,41 @@ _Håndskrevet veiledning mangler ennå._
 - § 8. Innkalling av rådgivere – `forskrifter/radgivende-yrkessykdomsutvalg/par-8.md`
 - § 9. Ivaretakelse av visse oppgaver – `forskrifter/radgivende-yrkessykdomsutvalg/par-9.md`
 - § 10. Ikrafttredelse – `forskrifter/radgivende-yrkessykdomsutvalg/par-10.md`
+
+### Forskrift om beregning av uførepensjon og godskriving av pensjonspoeng ved yrkesskade
+
+- § 1. Omfang – `forskrifter/beregning-uforepensjon-yrkesskade/par-1.md`
+- § 2. Ytelser som delvis skyldes yrkesskade – `forskrifter/beregning-uforepensjon-yrkesskade/par-2.md`
+- § 3. Ytterligere nedsatt inntektsevne – `forskrifter/beregning-uforepensjon-yrkesskade/par-3.md`
+- § 4. Godskriving av pensjonspoeng når uførheten helt eller delvis skyldes yrkesskade – `forskrifter/beregning-uforepensjon-yrkesskade/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/beregning-uforepensjon-yrkesskade/par-5.md`
+
+### Forskrift om beregning av tilleggspensjon ved yrkesskade
+
+- § 1. Personkrets – `forskrifter/tilleggspensjon-yrkesskade/par-1.md`
+- § 2. Kravet til full opptjeningstid – `forskrifter/tilleggspensjon-yrkesskade/par-2.md`
+- § 3. Pensjonsprosenten – `forskrifter/tilleggspensjon-yrkesskade/par-3.md`
+- § 4. Fastsetting av poengtall når antatt årlig inntekt overstiger seks ganger grunnbeløpet – `forskrifter/tilleggspensjon-yrkesskade/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/tilleggspensjon-yrkesskade/par-5.md`
+
+### Forskrift om frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere
+
+- § 1. – `forskrifter/frivillig-yrkesskadetrygd-selvstendig/par-1.md`
+- § 2. – `forskrifter/frivillig-yrkesskadetrygd-selvstendig/par-2.md`
+- § 3. – `forskrifter/frivillig-yrkesskadetrygd-selvstendig/par-3.md`
+- § 4. – `forskrifter/frivillig-yrkesskadetrygd-selvstendig/par-4.md`
+- § 5. – `forskrifter/frivillig-yrkesskadetrygd-selvstendig/par-5.md`
+- § 6. – `forskrifter/frivillig-yrkesskadetrygd-selvstendig/par-6.md`
+
+### Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket
+
+- § 1. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-1.md`
+- § 2. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-2.md`
+- § 3. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-3.md`
+- § 4. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-4.md`
+- § 5. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-5.md`
+- § 6. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-6.md`
+- § 7. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-7.md`
 
 ## Andre kilder
 

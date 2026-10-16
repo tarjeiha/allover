@@ -6,9 +6,11 @@ _Håndskrevet veiledning mangler ennå._
 ## Kilder
 
 - **Lov:** Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven) – LOV-1993-06-04-58. Sist endret i kraft: 2025-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om delvis allmenngjøring av biloverenskomsten – FOR-2026-04-13-592. Sist endret i kraft: 2026-05-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge – FOR-2024-10-21-2544. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene – FOR-2024-10-21-2536. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei – FOR-2024-10-29-2601. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om informasjons- og påseplikt og innsynsrett – FOR-2008-02-22-166. Sist endret i kraft: 2025-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om allmenngjøring av tariffavtale for jordbruks- og gartnerinæringene – FOR-2024-10-21-2533. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter – FOR-2024-10-21-2543. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil – FOR-2024-10-21-2534. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
@@ -35,6 +37,15 @@ _Håndskrevet veiledning mangler ennå._
 - § 14. Boikott – `lov/par-14.md`
 - § 15. Straff – `lov/par-15.md`
 - § 16. Ikrafttreden – `lov/par-16.md`
+
+### Forskrift om delvis allmenngjøring av biloverenskomsten
+
+- § 1. Grunnlaget for allmenngjøring – `forskrifter/biloverenskomsten/par-1.md`
+- § 2. Hvem forskriften gjelder – `forskrifter/biloverenskomsten/par-2.md`
+- § 3. Krav til lønn – `forskrifter/biloverenskomsten/par-3.md`
+- § 4. Arbeidstøy og vernefottøy – `forskrifter/biloverenskomsten/par-4.md`
+- § 5. Unntak – `forskrifter/biloverenskomsten/par-5.md`
+- § 6. Ikrafttreden – `forskrifter/biloverenskomsten/par-6.md`
 
 ### Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge
 
@@ -103,6 +114,41 @@ _Håndskrevet veiledning mangler ennå._
 **Kap. IV. Ikrafttreden m.m.**
 
 - § 8. Ikrafttreden og opphør – `forskrifter/godstransport-pa-vei/par-8.md`
+
+### Forskrift om informasjons- og påseplikt og innsynsrett
+
+**Kapittel 1. Innledende bestemmelser**
+
+- § 1. Formål – `forskrifter/informasjons-og-paseplikt/par-1.md`
+- § 2. Virkeområde – `forskrifter/informasjons-og-paseplikt/par-2.md`
+- § 3. Definisjoner – `forskrifter/informasjons-og-paseplikt/par-3.md`
+- § 4. Hvem forskriften retter seg mot – `forskrifter/informasjons-og-paseplikt/par-4.md`
+
+**Kapittel 2. Informasjons-, påse- og dokumentasjonsplikt**
+
+- § 5. Informasjonsplikt – `forskrifter/informasjons-og-paseplikt/par-5.md`
+- § 6. Påseplikt – `forskrifter/informasjons-og-paseplikt/par-6.md`
+- § 6a. Dokumentasjonsplikt – `forskrifter/informasjons-og-paseplikt/par-6a.md`
+
+**Kapittel 3. Innsynsrett**
+
+- § 7. Gjennomføring av tillitsvalgtes innsynsrett – `forskrifter/informasjons-og-paseplikt/par-7.md`
+- § 8. Begjæringens form og innhold – `forskrifter/informasjons-og-paseplikt/par-8.md`
+- § 9. Fremleggelse av dokumentasjon – `forskrifter/informasjons-og-paseplikt/par-9.md`
+
+**Kapittel 4. Behandling av opplysninger**
+
+- § 10. Behandling av opplysninger – `forskrifter/informasjons-og-paseplikt/par-10.md`
+- § 11. Taushetsplikt – `forskrifter/informasjons-og-paseplikt/par-11.md`
+
+**Kapittel 5. Avsluttende bestemmelser**
+
+- § 12. Opphevet – `forskrifter/informasjons-og-paseplikt/par-12.md`
+- § 13. Ikrafttredelse – `forskrifter/informasjons-og-paseplikt/par-13.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/informasjons-og-paseplikt/utenfor-paragrafene.md`
 
 ### Forskrift om allmenngjøring av tariffavtale for jordbruks- og gartnerinæringene
 

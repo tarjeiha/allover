@@ -1,0 +1,9 @@
+# § 8. Krav om årlig melding og dokumentasjon hvert tredje år
+
+**Kilde:** Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester § 8
+
+(1) Godkjent virksomhet skal hvert år sende melding til Arbeidstilsynet som bekrefter at virksomheten fortsatt fyller kravene til godkjenning etter § 6 . Fristen for å sende melding er datoen for vedtak om godkjenning. Kravet om årlig melding gjelder ikke det året virksomheten har plikt til å sende inn dokumentasjon i henhold til andre ledd.
+
+(2) Godkjent virksomhet skal hvert tredje år sende dokumentasjon til Arbeidstilsynet som viser at virksomheten fortsatt fyller kravene til godkjenning etter § 6 . Dokumentasjonen skal første gang sendes innen tre år fra datoen for vedtaket om godkjenning og senere innen tre år fra den forrige fristdatoen.
+
+(3) Dersom virksomheten unnlater å oppfylle kravet i første eller andre ledd, kan godkjenningen tilbakekalles. Før godkjenning tilbakekalles, skal virksomheten varsles og gis frist for å oppfylle krav etter første eller andre ledd.

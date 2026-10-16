@@ -6,6 +6,7 @@ _Håndskrevet veiledning mangler ennå._
 ## Kilder
 
 - **Lov:** Lov om norsk statsborgerskap (statsborgerloven) – LOV-2005-06-10-51. Sist endret i kraft: 2024-12-20. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften) – FOR-2006-06-30-756. Sist endret i kraft: 2022-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
 
@@ -93,6 +94,125 @@ _Håndskrevet veiledning mangler ennå._
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `lov/utenfor-paragrafene.md`
+
+### Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften)
+
+**Kapittel 1. Kravet til dokumentert identitet, jf. statsborgerloven § 7 første ledd bokstav a**
+
+- § 1-1. Hovedregel – `forskrifter/statsborgerforskriften/par-1-1.md`
+- § 1-2. Unntak – `forskrifter/statsborgerforskriften/par-1-2.md`
+- § 1-3. Unntak for særlige grupper av søkere – `forskrifter/statsborgerforskriften/par-1-3.md`
+
+**Kapittel 2. Kravet til å forbli bosatt i riket, jf. statsborgerloven § 7 første ledd bokstav c**
+
+- § 2-1. Midlertidig opphold i utlandet – `forskrifter/statsborgerforskriften/par-2-1.md`
+- § 2-2. Medfølgende familiemedlemmer – `forskrifter/statsborgerforskriften/par-2-2.md`
+
+**Kapittel 3. Beregning av oppholdstid, jf. statsborgerloven § 7 første ledd bokstav e og § 10 til § 18**
+
+- § 3-1. Tillatelse innvilget før innreise – `forskrifter/statsborgerforskriften/par-3-1.md`
+- § 3-2. Tillatelse innvilget etter innreise – `forskrifter/statsborgerforskriften/par-3-2.md`
+- § 3-3. Opphold mellom tillatelser – `forskrifter/statsborgerforskriften/par-3-3.md`
+- § 3-4. Betydning av utenlandsopphold – `forskrifter/statsborgerforskriften/par-3-4.md`
+
+**Kapittel 4. Unntak fra kravene om ferdigheter i norsk muntlig og bestått statsborgerprøve etter statsborgerloven § 8, jf. § 7 første ledd bokstav f**
+
+- § 4-1. Unntak fra kravet om ferdigheter i norsk muntlig på grunn av tilstrekkelige kunnskaper i norsk eller samisk eller på grunn av særlige helsemessige årsaker eller personlige forutsetninger – `forskrifter/statsborgerforskriften/par-4-1.md`
+- § 4-2. Unntak fra kravet om å ha bestått statsborgerprøven – `forskrifter/statsborgerforskriften/par-4-2.md`
+- § 4-3. Nordiske statsborgere – `forskrifter/statsborgerforskriften/par-4-3.md`
+
+**Kapittel 5. Karenstid, jf. statsborgerloven § 9**
+
+- § 5-1. Tabell for utregning av karenstid – `forskrifter/statsborgerforskriften/par-5-1.md`
+- § 5-2. Straff som medfører karenstid – `forskrifter/statsborgerforskriften/par-5-2.md`
+- § 5-3. Strafferettslig særreaksjon som medfører karenstid – `forskrifter/statsborgerforskriften/par-5-3.md`
+- § 5-4. Reaksjoner for straffbart forhold ilagt i utlandet som medfører karenstid – `forskrifter/statsborgerforskriften/par-5-4.md`
+- § 5-5. Dom bestående av forskjellige reaksjonsformer (delt dom) – `forskrifter/statsborgerforskriften/par-5-5.md`
+- § 5-6. Gjentatte dommer og forelegg for straffbart forhold – `forskrifter/statsborgerforskriften/par-5-6.md`
+- § 5-7. Reaksjoner som ikke medfører karenstid – `forskrifter/statsborgerforskriften/par-5-7.md`
+- § 5-8. Utmålt karenstid – `forskrifter/statsborgerforskriften/par-5-8.md`
+
+**Kapittel 6. Kravet om tilstrekkelig inntekt, jf. statsborgerloven § 10**
+
+- § 6-1. Kravet om tilstrekkelig inntekt – `forskrifter/statsborgerforskriften/par-6-1.md`
+
+**Kapittel 7. Særregel om beregning av oppholdstid for ektefelle, registrert partner og samboer til norsk borger, jf. statsborgerloven § 12**
+
+- § 7-1. Virkeområde – `forskrifter/statsborgerforskriften/par-7-1.md`
+- § 7-2. Felles bopel – `forskrifter/statsborgerforskriften/par-7-2.md`
+
+**Kapittel 8. Særlige grupper av søkere, jf. statsborgerloven § 18**
+
+- § 8-1. Idrettsutøvere – `forskrifter/statsborgerforskriften/par-8-1.md`
+- § 8-2. Husstandsmedlemmer til utsendt personell ved norsk utenriksstasjon og til militært personell – `forskrifter/statsborgerforskriften/par-8-2.md`
+- § 8-3. Kola-nordmenn – `forskrifter/statsborgerforskriften/par-8-3.md`
+- § 8-4. Utlending som har hatt norsk pass – `forskrifter/statsborgerforskriften/par-8-4.md`
+- § 8-5. Forskere tilknyttet norsk forskningsinstitusjon – `forskrifter/statsborgerforskriften/par-8-5.md`
+
+**Kapittel 9. Tap ved fravær fra riket, jf. statsborgerloven § 24**
+
+- § 9-1. Botidskrav – `forskrifter/statsborgerforskriften/par-9-1.md`
+- § 9-2. Kravet om tilstrekkelig tilknytning – `forskrifter/statsborgerforskriften/par-9-2.md`
+- § 9-3. Vesentlig å bebreide – `forskrifter/statsborgerforskriften/par-9-3.md`
+
+**Kapittel 10. Saksgang, jf. statsborgerloven § 27**
+
+- § 10-1. Søknadsskjema – `forskrifter/statsborgerforskriften/par-10-1.md`
+
+**Kapittel 11. Saksbehandlingen i saker etter statsborgerloven § 27 fjerde ledd**
+
+- § 11-1. Forholdet til forvaltningsloven – `forskrifter/statsborgerforskriften/par-11-1.md`
+- § 11-2. Saksbehandlingen i Utlendingsdirektoratet – `forskrifter/statsborgerforskriften/par-11-2.md`
+- § 11-3. Varsling av den saken gjelder – `forskrifter/statsborgerforskriften/par-11-3.md`
+- § 11-4. Oversendelse til Utlendingsnemnda – `forskrifter/statsborgerforskriften/par-11-4.md`
+
+**Kapittel 12. Utlendingsnemndas behandling av saker etter statsborgerloven § 27 fjerde ledd**
+
+- § 12-1. Utlendingsnemndas avvisning av sak – `forskrifter/statsborgerforskriften/par-12-1.md`
+- § 12-2. Utlendingsnemndas kompetanse – `forskrifter/statsborgerforskriften/par-12-2.md`
+- § 12-3. Utlendingsnemndas utredningsplikt – `forskrifter/statsborgerforskriften/par-12-3.md`
+
+**Kapittel 13. Saker som behandles i stornemnd**
+
+- § 13-1. Hvilke saker som skal behandles i stornemnd – `forskrifter/statsborgerforskriften/par-13-1.md`
+- § 13-2. Hvem som kan kreve stornemndsbehandling. Begrunnelse og kontroll – `forskrifter/statsborgerforskriften/par-13-2.md`
+
+**Kapittel 13A. Behandling av personopplysninger, jf. statsborgerloven § 29a**
+
+- § 13A-1. Formålet med behandlingen av personopplysninger – `forskrifter/statsborgerforskriften/par-13a-1.md`
+- § 13A-2. Behandlingsansvarlig – `forskrifter/statsborgerforskriften/par-13a-2.md`
+- § 13A-3. Bruk av automatiserte avgjørelser – `forskrifter/statsborgerforskriften/par-13a-3.md`
+
+**Kapittel 14. Opplysningsplikt, jf. statsborgerloven § 29b**
+
+- § 14-1. Opplysningsplikt for politiet – `forskrifter/statsborgerforskriften/par-14-1.md`
+- § 14-2. Opplysningsplikt for Lånekassen – `forskrifter/statsborgerforskriften/par-14-2.md`
+- § 14-3. Opplysningsplikt for arbeids- og velferdsforvaltningen – `forskrifter/statsborgerforskriften/par-14-3.md`
+- § 14-4. Opplysningsplikt for skattemyndighetene for formues- og inntektsskatt – `forskrifter/statsborgerforskriften/par-14-4.md`
+- § 14-5. Opplysningsplikt for folkeregistermyndigheten – `forskrifter/statsborgerforskriften/par-14-5.md`
+- § 14-6. Opplysningsplikt for kommunene – `forskrifter/statsborgerforskriften/par-14-6.md`
+- § 14-7. Opplysningsplikt for fylkeskommunene, universiteter, høyskoler og frittstående skoler – `forskrifter/statsborgerforskriften/par-14-7.md`
+- § 14-8. Opplysningsplikt for Kompetanse Norge – `forskrifter/statsborgerforskriften/par-14-8.md`
+
+**Kapittel 14A. Saksbehandlingen i domstolen ved søksmål om gyldigheten av vedtak etter § 7 annet ledd**
+
+- § 14A-1. Hvem som kan oppnevnes som særskilt advokat – `forskrifter/statsborgerforskriften/par-14a-1.md`
+- § 14A-2. Tilgang til bevis – `forskrifter/statsborgerforskriften/par-14a-2.md`
+- § 14A-3. Dokumenthåndtering mv. – `forskrifter/statsborgerforskriften/par-14a-3.md`
+- § 14A-4. Kommunikasjon – `forskrifter/statsborgerforskriften/par-14a-4.md`
+
+**Kapittel 15. Gebyr**
+
+- § 15-1. Plikt til å betale gebyr – `forskrifter/statsborgerforskriften/par-15-1.md`
+- § 15-2. Gebyrets størrelse – `forskrifter/statsborgerforskriften/par-15-2.md`
+
+**Kapittel 16. Ikrafttredelse**
+
+- § 16-1. Ikrafttredelse – `forskrifter/statsborgerforskriften/par-16-1.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/statsborgerforskriften/utenfor-paragrafene.md`
 
 ## Andre kilder
 

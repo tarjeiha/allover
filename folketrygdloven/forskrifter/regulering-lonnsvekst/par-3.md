@@ -1,0 +1,25 @@
+# § 3. Beregning av lønnsveksten som skal benyttes ved reguleringen
+
+**Kilde:** Forskrift om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden § 3
+
+**1. ledd**
+
+Dersom den faktiske lønnsveksten er høyere eller lavere enn forventet lønnsvekst siste to år (avvik), skal det fastsettes en samlet lønnsvekst for forventet lønnsutvikling, justert for avviket. Ved fastsettelsen av den samlede prosentvise årslønnsveksten (sl) skal det først tas hensyn til avvikene ( a1 og a2) i prosentpoeng og deretter til den forventede prosentvise lønnsvekst (f) i inneværende år: sl = ((1 + a1/100) x (1 + a2/100) x (1 + f/100) – 1) x 100.
+
+**2. ledd**
+
+Samlet årslønnsvekst, avvik og forventet lønnsvekst fastsettes i prosent med to desimaler.
+
+**3. ledd**
+
+Nytt grunnbeløp fra 1. mai settes slik at den prosentvise veksten i det gjennomsnittlige grunnbeløpet fra forrige kalenderår til inneværende kalenderår blir lik samlet årslønnsvekst.
+
+**4. ledd**
+
+Med lønnsveksten etter § 1 menes den prosentvise økningen i grunnbeløpet fra april til mai i inneværende år som følger av beregningen omtalt ovenfor. Lønnsveksten fastsettes med to desimaler.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 11 mai 2012 nr. 414 (i kraft straks med virkning fra 1 mai 2012).

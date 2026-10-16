@@ -13,10 +13,13 @@ _Håndskrevet veiledning mangler ennå._
 - **Forskrift:** Forskrift om levealdersjustering av alderspensjon når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger har ny pensjonsopptjening etter fylte 67 år – FOR-2010-11-30-1492. Sist endret i kraft: 2020-06-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om vilkår for rett til ytelser etter lov om Statens pensjonskasse og etter enkelte andre lover når det foreligger rett til ytelser etter folketrygdloven – FOR-2010-12-20-1711. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om reduksjon av tidligpensjon og livsvarig reduksjon av særalderspåslag på grunn av inntekt – FOR-2025-10-23-2080. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om reduksjon av enke- eller enkemannspensjon fra en offentlig tjenestepensjonsordning for alders- eller uførepensjon og arbeidsinntekt – FOR-1978-09-05-4. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om tjenestepensjon og sykepenger (samordningsforskrift 43) – FOR-1986-05-15-4115. Sist endret i kraft: 2015-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om fastsetting av enke- og enkemannspensjon der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke – FOR-2010-07-06-1075. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om anvendelse av forholdstall når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger blir innvilget uførepensjon etter fylte 67 år – FOR-2011-10-20-1039. Sist endret i kraft: 2023-12-21. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015 – FOR-2014-07-03-949. Sist endret i kraft: 2025-02-27. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør – FOR-2014-11-26-1467. Sist endret i kraft: 2026-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om opptjening av pensjonsrettigheter i lovfestet offentlig tjenestepensjonsordning for personer som har midlertidig uførepensjon og uførepensjon – FOR-2015-06-19-710. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
 
@@ -207,6 +210,15 @@ _Håndskrevet veiledning mangler ennå._
 
 - § 7. Ikrafttredelse – `forskrifter/reduksjon-tidligpensjon-livsvarig-reduksjon-2025/par-7.md`
 
+### Forskrift om reduksjon av enke- eller enkemannspensjon fra en offentlig tjenestepensjonsordning for alders- eller uførepensjon og arbeidsinntekt
+
+- § 1. Virkeområde – `forskrifter/reduksjon-enke-offentlig-1978/par-1.md`
+- § 2. Reduksjon av enke- eller enkemannspensjon for alderspensjon – `forskrifter/reduksjon-enke-offentlig-1978/par-2.md`
+- § 3. Reduksjon av enke- eller enkemannspensjon for arbeidsinntekt – `forskrifter/reduksjon-enke-offentlig-1978/par-3.md`
+- § 4. Forventet arbeidsinntekt – `forskrifter/reduksjon-enke-offentlig-1978/par-4.md`
+- § 5. Arbeidsavklaringspenger og enke- eller enkemannspensjon – `forskrifter/reduksjon-enke-offentlig-1978/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/reduksjon-enke-offentlig-1978/par-6.md`
+
 ### Forskrift om tjenestepensjon og sykepenger (samordningsforskrift 43)
 
 - § 1. – `forskrifter/samordningsforskrift-43-1986/par-1.md`
@@ -230,6 +242,47 @@ _Håndskrevet veiledning mangler ennå._
 - § 3. Bruk av forholdstall i garantiberegningen – `forskrifter/anvendelse-forholdstall-medlem-statens-2011/par-3.md`
 - § 4. Ikrafttredelse – `forskrifter/anvendelse-forholdstall-medlem-statens-2011/par-4.md`
 
+### Forskrift om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015
+
+**Kapittel 1. Innledende bestemmelser**
+
+- § 1. Virkeområde – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-1.md`
+- § 2. Definisjoner – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-2.md`
+- § 3. Videreføring av retten til uførepensjon – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-3.md`
+- § 4. Forholdet til tjenestepensjonslovene – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-4.md`
+- § 4a. Tillegg til ny uførepensjon – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-4a.md`
+
+**Kapittel 2. Overgang til ny uførepensjon når pensjonisten har uførepensjon, arbeidsavklaringspenger eller pensjon til gjenlevende ektefelle fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år**
+
+- § 5. Beregning av uførepensjon – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-5.md`
+- § 6. Fastsetting av fiktivt pensjonsgrunnlag – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-6.md`
+
+**Kapittel 3. Overgang til ny uførepensjon når pensjonisten har gammel uførepensjon etter tjenestepensjonslovene med en uføregrad lavere enn 2/3 uten rett til å motta ytelse fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år**
+
+- § 7. Beregning av uførepensjon – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-7.md`
+- § 8. Fastsetting av fiktivt pensjonsgrunnlag – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-8.md`
+
+**Kapittel 4. Overgang til ny uførepensjon når pensjonisten har gammel uførepensjon etter tjenestepensjonslovene med en uføregrad på 2/3 eller mer uten rett til å motta ytelse fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år**
+
+- § 9. Beregning av uførepensjon – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-9.md`
+- § 10. Fastsetting av fiktivt pensjonsgrunnlag – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-10.md`
+
+**Kapittel 5. Overgangsregler for barnetillegg**
+
+- § 11. Hva kapittelet gjelder for – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-11.md`
+- § 12. Fastsetting av referansebeløp – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-12.md`
+- § 13. Fastsetting av barnetillegg som er innvilget før 1. januar 2015 – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-13.md`
+- § 14. Begrensningsregel når det er innvilget barnetillegg etter 31. desember 2014 – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-14.md`
+- § 15. Reduksjon av barnetillegg ved inntekt utover inntektsgrensen i tilfeller der fiktivt pensjonsgrunnlag er fastsatt til 0 kroner – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-15.md`
+
+**Kapittel 6. Ikrafttredelse**
+
+- § 16. Ikrafttredelse – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/par-16.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/overgangsregler-uforepensjon-lovfestet-2014/utenfor-paragrafene.md`
+
 ### Forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør
 
 - § 1. Virkeområde – `forskrifter/reduksjon-uforepensjon-lovfestet-offentlig-2014/par-1.md`
@@ -241,6 +294,12 @@ _Håndskrevet veiledning mangler ennå._
 - § 5. Utfyllende bestemmelser om etteroppgjør – `forskrifter/reduksjon-uforepensjon-lovfestet-offentlig-2014/par-5.md`
 - § 6. Unntak fra 80 prosent-regelen – `forskrifter/reduksjon-uforepensjon-lovfestet-offentlig-2014/par-6.md`
 - § 7. Ikrafttredelse – `forskrifter/reduksjon-uforepensjon-lovfestet-offentlig-2014/par-7.md`
+
+### Forskrift om opptjening av pensjonsrettigheter i lovfestet offentlig tjenestepensjonsordning for personer som har midlertidig uførepensjon og uførepensjon
+
+- § 1. Virkeområde – `forskrifter/opptjening-pensjonsrettigheter-lovfestet-2015/par-1.md`
+- § 2. Opptjening av pensjonsrettigheter – `forskrifter/opptjening-pensjonsrettigheter-lovfestet-2015/par-2.md`
+- § 3. Ikrafttredelse – `forskrifter/opptjening-pensjonsrettigheter-lovfestet-2015/par-3.md`
 
 ## Andre kilder
 

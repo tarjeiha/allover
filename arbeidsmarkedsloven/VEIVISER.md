@@ -8,8 +8,13 @@ _Håndskrevet veiledning mangler ennå._
 - **Lov:** Lov om arbeidsmarkedstjenester (arbeidsmarkedsloven) – LOV-2004-12-10-76. Sist endret i kraft: 2024-12-20. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidsmarkedstiltak (tiltaksforskriften) – FOR-2015-12-11-1598. Sist endret i kraft: 2026-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om tiltakspenger mv. (tiltakspengeforskriften) – FOR-2013-11-04-1286. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønader til dekning av utgifter knyttet til å komme i eller å beholde arbeid (tilleggsstønadsforskriften) – FOR-2015-07-02-867. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til arbeids- og utdanningsreiser – FOR-2014-05-16-648. Sist endret i kraft: 2023-11-05. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi – FOR-2023-06-20-1073. Sist endret i kraft: 2026-09-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om politiattest i henhold til arbeidsmarkedsloven – FOR-2012-03-23-248. Sist endret i kraft: 2015-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 26 første ledd. – FOR-2005-08-12-893. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse – FOR-2025-06-20-1182. Sist endret i kraft: 2026-01-14. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om forsøk med fireårig lønnstilskudd for unge – FOR-2026-02-04-163. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet – FOR-2024-07-02-1800. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
@@ -272,6 +277,38 @@ _Håndskrevet veiledning mangler ennå._
 - § 11. Utbetaling, frist for framsetting av krav og rett til etterbetaling – `forskrifter/tiltakspengeforskriften/par-11.md`
 - § 12. Ikrafttredelse mv. – `forskrifter/tiltakspengeforskriften/par-12.md`
 
+### Forskrift om stønader til dekning av utgifter knyttet til å komme i eller å beholde arbeid (tilleggsstønadsforskriften)
+
+- § 1. Vilkår for stønad – `forskrifter/stonad-komme-i-arbeid/par-1.md`
+- § 2. (Opphevet) – `forskrifter/stonad-komme-i-arbeid/par-2.md`
+- § 3. Stønader til reise – `forskrifter/stonad-komme-i-arbeid/par-3.md`
+- § 4. Stønad til reise for å fremme geografisk mobilitet – `forskrifter/stonad-komme-i-arbeid/par-4.md`
+- § 5. Beregning av stønad til reise – `forskrifter/stonad-komme-i-arbeid/par-5.md`
+- § 6. Stønad til flytting – `forskrifter/stonad-komme-i-arbeid/par-6.md`
+- § 7. Beregning av stønad til flytting – `forskrifter/stonad-komme-i-arbeid/par-7.md`
+- § 8. Stønad til bolig eller overnatting – `forskrifter/stonad-komme-i-arbeid/par-8.md`
+- § 9. Beregning av stønad til bolig eller overnatting – `forskrifter/stonad-komme-i-arbeid/par-9.md`
+- § 10. Stønad til tilsyn for barn – `forskrifter/stonad-komme-i-arbeid/par-10.md`
+- § 11. Beregning av stønad til tilsyn for barn og andre familiemedlemmer – `forskrifter/stonad-komme-i-arbeid/par-11.md`
+- § 12. Stønad til læremidler – `forskrifter/stonad-komme-i-arbeid/par-12.md`
+- § 13. Beregning av stønad til læremidler – `forskrifter/stonad-komme-i-arbeid/par-13.md`
+- § 14. Fravær fra fastsatt aktivitet – `forskrifter/stonad-komme-i-arbeid/par-14.md`
+- § 15. Framsetting av krav – `forskrifter/stonad-komme-i-arbeid/par-15.md`
+- § 16. Klageadgang mv. – `forskrifter/stonad-komme-i-arbeid/par-16.md`
+- § 17. Ikrafttredelse mv. – `forskrifter/stonad-komme-i-arbeid/par-17.md`
+- § 18. Overgangsregler – `forskrifter/stonad-komme-i-arbeid/par-18.md`
+
+### Forskrift om stønad til arbeids- og utdanningsreiser
+
+- § 1. Formål – `forskrifter/arbeids-og-utdanningsreiser/par-1.md`
+- § 2. Hvem kan få stønad – `forskrifter/arbeids-og-utdanningsreiser/par-2.md`
+- § 3. Vilkår – `forskrifter/arbeids-og-utdanningsreiser/par-3.md`
+- § 4. Beregning av stønaden – `forskrifter/arbeids-og-utdanningsreiser/par-4.md`
+- § 5. Forhold til andre ytelser – `forskrifter/arbeids-og-utdanningsreiser/par-5.md`
+- § 6. Søknad – `forskrifter/arbeids-og-utdanningsreiser/par-6.md`
+- § 7. Ikrafttredelse – `forskrifter/arbeids-og-utdanningsreiser/par-7.md`
+- § 8. Overgangsregler – `forskrifter/arbeids-og-utdanningsreiser/par-8.md`
+
 ### Forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi
 
 **Kapittel 1. Fellesbestemmelser**
@@ -308,6 +345,21 @@ _Håndskrevet veiledning mangler ennå._
 
 - § 5-1. Ikrafttredelse – `forskrifter/oppfolgingstiltak-egenregi/par-5-1.md`
 
+### Forskrift om politiattest i henhold til arbeidsmarkedsloven
+
+- § 1. Politiattest for ansatte i bedrifter som tilbyr tiltaket varig tilrettelagt arbeid – `forskrifter/politiattest/par-1.md`
+- § 2. Framgangsmåte – `forskrifter/politiattest/par-2.md`
+- § 3. Følger av anmerkninger på politiattest – `forskrifter/politiattest/par-3.md`
+- § 4. Oppbevaring av politiattest og taushetsplikt – `forskrifter/politiattest/par-4.md`
+- § 5. Fornyet vandelskontroll – `forskrifter/politiattest/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/politiattest/par-6.md`
+
+### Forskrift om unntak fra lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 26 første ledd
+
+**I**
+
+- § 1. – `forskrifter/unntak-fra-loven/par-1.md`
+
 ### Forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse
 
 **Kapittel 1. Fellesbestemmelser**
@@ -335,6 +387,22 @@ _Håndskrevet veiledning mangler ennå._
 **Kapittel 4. Ikrafttredelse og varighet**
 
 - § 14. Ikrafttredelse – `forskrifter/forsok-ungdomsprogram/par-14.md`
+
+### Forskrift om forsøk med fireårig lønnstilskudd for unge
+
+- § 1. Formål – `forskrifter/forsok-lonnstilskudd-unge/par-1.md`
+- § 2. Virkeområde – `forskrifter/forsok-lonnstilskudd-unge/par-2.md`
+- § 3. Innhold – `forskrifter/forsok-lonnstilskudd-unge/par-3.md`
+- § 4. Personkrets – `forskrifter/forsok-lonnstilskudd-unge/par-4.md`
+- § 5. Krav til tiltaksarrangør – `forskrifter/forsok-lonnstilskudd-unge/par-5.md`
+- § 6. Tilskudd til arbeidsgiver – `forskrifter/forsok-lonnstilskudd-unge/par-6.md`
+- § 7. Tilskuddets størrelse – `forskrifter/forsok-lonnstilskudd-unge/par-7.md`
+- § 8. Varighet – `forskrifter/forsok-lonnstilskudd-unge/par-8.md`
+- § 9. Planlegging og oppfølging – `forskrifter/forsok-lonnstilskudd-unge/par-9.md`
+- § 10. Utvidet adgang til midlertidig ansettelse – `forskrifter/forsok-lonnstilskudd-unge/par-10.md`
+- § 11. Forholdet til tiltaksforskriften – `forskrifter/forsok-lonnstilskudd-unge/par-11.md`
+- § 12. Forsøksperioden – `forskrifter/forsok-lonnstilskudd-unge/par-12.md`
+- § 13. Ikrafttredelse – `forskrifter/forsok-lonnstilskudd-unge/par-13.md`
 
 ### Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet
 

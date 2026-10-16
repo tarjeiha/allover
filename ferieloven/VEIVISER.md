@@ -8,6 +8,7 @@ _Håndskrevet veiledning mangler ennå._
 - **Lov:** Lov om ferie [ferieloven] – LOV-1988-04-29-21. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om anvendelse av ferieloven på Svalbard – FOR-2021-11-26-3291. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om ferie for arbeidstakere på skip – FOR-1989-12-22-1285. Sist endret i kraft: 2017-08-07. Forvaltes av: Nærings- og fiskeridepartementet.
+- **Forskrift:** Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet. – FOR-1998-06-18-585. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
 
@@ -58,6 +59,13 @@ _Håndskrevet veiledning mangler ennå._
 - § 6. Utbetalingsmåte, trekk i feriepenger – `forskrifter/ferie-arbeidstakere-skip/par-6.md`
 - § 7. Fravikelighet – `forskrifter/ferie-arbeidstakere-skip/par-7.md`
 - § 8. Ikrafttreden og overgangsregler – `forskrifter/ferie-arbeidstakere-skip/par-8.md`
+
+### Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet
+
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/delegering/utenfor-paragrafene.md`
 
 ## Andre kilder
 
