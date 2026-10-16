@@ -27,7 +27,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 | Regelverk | Veiviser | Sist endret i kraft |
 |---|---|---|
-| Offentleglova | `offentleglova/VEIVISER.md` | – |
+| Offentleglova | `offentleglova/VEIVISER.md` | 2026-07-01 |
 <!-- AUTO-SLUTT -->
 
 ## Temaer i hverdagsspråk
