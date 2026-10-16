@@ -1,6 +1,26 @@
 # AFP-loven for medlemmer av Statens pensjonskasse: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Loven regulerer avtalefestet pensjon (offentlig AFP) for arbeidstakere i stillinger med medlemskap i Statens pensjonskasse. Kapittel 1 er den gamle ordningen, kapittel 2 den nye. Tre forskrifter utfyller loven: om kombinasjon av AFP og arbeidsinntekt og om omregning ved endret sivilstand (gammel ordning), og om AFP for medlemmer født i 1963 eller senere (ny ordning). Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i `spk-loven/merknader/alderspensjon-afp.md`.
+
+## Kjente feller
+
+- **Fødselsår avgjør regelsettet. Avklar det først.** Kapittel 1 gjelder arbeidstakere født i 1962 eller tidligere (§ 1). Kapittel 2 gjelder arbeidstakere født i 1963 eller senere (§ 7 første ledd). Ordningene er bygd helt ulikt, så et svar fra feil kapittel blir galt.
+- **Retten forutsetter tariffavtale.** Loven gir rammene, men retten til AFP er knyttet til tariffavtale der staten er part eller tariffavtale godkjent av departementet (§ 2 og § 7 første ledd). Tariffavtalene ligger ikke i basen.
+- **Privat AFP er ikke i basen.** Loven viser flere steder til AFP-tilskottsloven, blant annet i § 7 andre ledd og § 9 første ledd bokstav c. Den loven er ikke dekket. Si det tydelig, og vis til Lovdata.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| offentlig AFP, gammel og ny ordning | `spk-loven/merknader/alderspensjon-afp.md` |
+| alderspensjon fra Statens pensjonskasse | `spk-loven/VEIVISER.md` |
+| samordning med folketrygden | `samordningsloven/VEIVISER.md` |
+| alderspensjon fra folketrygden | `folketrygdloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

@@ -40,7 +40,7 @@ Vær særlig oppmerksom på § 3 om forholdet til annen lovgivning. Tolkeloven s
 
 ## Om tolkeforskriftens hjemmelsgrunnlag
 
-Tolkeforskriften er primært forskrift til tolkeloven (hjemmel i §§ 7, 9, 11, 14, 17 og 18), men har også hjemmel i integreringsloven § 45, domstolloven og straffeprosessloven. Fullt innhold ligger i denne skillen.
+Tolkeforskriften er primært forskrift til tolkeloven (hjemmel i §§ 7, 9, 11, 14, 17 og 18), men har også hjemmel i integreringsloven § 45, domstolloven og straffeprosessloven. **[Merknad 16.10.2026: Dette er ikke bekreftet. Integreringsloven § 45 er opphevet ved tolkeloven, og tolkeforskriften § 1 lister ingen hjemler. Se `tolkeloven/VEIVISER.md`.]** Fullt innhold ligger i denne skillen.
 
 Ved spørsmål som kommer fra en integreringskontekst er det altså denne skillen som har både loven og forskriften.
 

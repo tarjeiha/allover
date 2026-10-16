@@ -1,6 +1,30 @@
 # Statsborgerloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Statsborgerloven regulerer erverv av norsk statsborgerskap ved fødsel, adopsjon, søknad og melding, tap og tilbakekall av statsborgerskap, saksbehandling i forvaltningen og domstolsbehandling av visse saker. Statsborgerforskriften utfyller nesten alle vilkårene i loven.
+
+Loven er endret mange ganger på sentrale punkter, og endringene har gått i ulike retninger. Generell kunnskap om statsborgerrett er derfor upålitelig. UDIs rundskriv og praksisnotater og departementets instrukser ligger ikke i basen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadsfilen er flyttet fra en tidligere skill. Der den viser til «denne skillen» eller til andre skills, gjelder denne veiviseren.
+
+## Kjente feller
+
+- **Forskriften avgjør hvordan vilkårene anvendes.** Loven stiller vilkårene, forskriften sier hva som teller. Kapitteloverskriftene i statsborgerforskriften viser hvilken lovparagraf de utfyller: kap. 1 klarlagt identitet (§ 7 første ledd bokstav a), kap. 3 oppholdstid (§ 7 første ledd bokstav e og §§ 10–18), kap. 4 norsk muntlig og statsborgerprøve (§ 8), kap. 5 karenstid (§ 9), kap. 6 inntekt (§ 10), kap. 9 tap ved fravær (§ 24).
+- **Permanent oppholdstillatelse er et vilkår.** Etter § 7 første ledd bokstav d må søkeren fylle vilkårene for permanent oppholdstillatelse i utlendingsloven § 62. Oppholdstid beregnes også ut fra oppholdstillatelser etter utlendingsloven (§ 7 tredje ledd). Se `utlendingsloven/VEIVISER.md`. For EØS-borgere og nordiske borgere gjelder utlendingsloven kap. 13 (bl.a. varig oppholdsrett i §§ 115–116) og § 5.
+- **Overgangsregler kan avgjøre saken.** Flere endringer gjelder bare søknader fremmet etter ikrafttredelsen, f.eks. kravene i § 8 (se endringshistorikken), eller bare handlinger begått etter ikrafttredelsen, f.eks. tap ved straffbare forhold i § 26 a. Sjekk endringshistorikken nederst i paragraffilen når saken gjelder en søknad eller et forhold tilbake i tid.
+- **Prinsippet om ett statsborgerskap er opphevet.** § 23 ble opphevet ved lov 20. desember 2018 nr. 121 med virkning fra 1. januar 2020, og flere bestemmelser om erverv og tap ble endret samtidig. Eldre kunnskap om krav om å si fra seg annet statsborgerskap er utdatert.
+- **Språkkravet og prøvene står på forskjellige steder.** § 8 krever minst B1 på muntlig prøve i norsk og bestått statsborgerprøve for søkere mellom 18 og 67 år. Unntakene står i statsborgerforskriften kap. 4. Prøver i norsk og samfunnskunnskap reguleres i integreringsforskriften kap. 8, se `integreringsloven/VEIVISER.md`.
+- **Tap ved straffbare forhold har snevre vilkår.** § 26 a gjelder bare den som har norsk og annet statsborgerskap, krever dom etter straffeloven kapitlene 16, 17 eller 18 med strafferamme på seks år eller mer, gjelder ikke handlinger før fylte 18 år og har en forholdsmessighetsbegrensning (tredje ledd). Straffeloven ligger ikke i basen.
+- **Instrukser styrer mye av praksis.** § 28 regulerer departementets instruksjonsmyndighet. Departementet kan ikke instruere om enkeltsaker eller instruere Utlendingsnemnda om lovtolking og skjønn, unntatt av hensyn til grunnleggende nasjonale interesser eller utenrikspolitiske hensyn (andre ledd). Instruksene ligger ikke i basen. Si fra om dette når spørsmålet gjelder praksis.
+- **Domstolsbehandlingen bygger på tvisteloven.** For søksmål om gyldigheten av vedtak etter § 7 andre ledd og § 26 b gjelder tvisteloven så langt ikke annet følger av statsborgerloven (§ 31 a). Tvisteloven ligger ikke i basen.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| Erverv, tap, saksbehandling, kobling mellom lov og forskrift | `merknader/generelt.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

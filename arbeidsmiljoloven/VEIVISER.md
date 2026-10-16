@@ -1,6 +1,41 @@
 # Arbeidsmiljøloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Arbeidsmiljøloven regulerer arbeidsmiljø, arbeidstid, permisjon, vern mot diskriminering, ansettelse og opphør av arbeidsforhold, og Arbeidstilsynets myndighet. Basen har med forskriftene i det arbeidsrettslige laget: virkeområde og unntak, bransjevise arbeidstidsforskrifter, innleie og bemanningsforetak, kontrolltiltak, tvisteløsningsnemnda, HMS-kort og godkjenningsordninger. HMS-forskriftene, kjemikalie- og produktregelverket og petroleumsforskriftene er hjemlet i loven, men er ikke i basen.
+
+Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadene er delt etter kapitlene i loven, se tabellen nederst.
+
+## Kjente feller
+
+- **Virkeområdet avgjøres ofte i forskrift.** §§ 1-2 til 1-5 gir hovedreglene, men gir departementet hjemmel til unntak og særregler for bl.a. luftfart, dykkeoperasjoner, virksomhet til havs, arbeid i arbeidstakers eget hjem og arbeid i arbeidsgivers hjem og husholdning. Sjekk forskriftene før du svarer ut fra loven alene.
+- **Arbeidstakerbegrepet styrer nesten alt.** Les § 1-8 i sin helhet. Etter første ledd tredje punktum skal det legges til grunn at det er et arbeidstakerforhold, med mindre oppdragsgiver gjør det overveiende sannsynlig at det er et selvstendig oppdragsforhold.
+- **Statsansatte.** Etter § 1-2 tredje ledd kan det gis forskrift om hvor langt kapittel 14 til 17 gjelder for arbeidstakere som omfattes av statsansatteloven, og for embetsmenn. Statsansatteloven er ikke i basen. Si fra når spørsmålet gjelder statsansatte.
+- **Arbeidstid kan fravikes ved tariffavtale.** Fagforening med innstillingsrett kan inngå tariffavtale som fraviker kapittel 10, med unntakene som står i § 10-12 fjerde ledd. Flere paragrafer har egne ledd om avtaleadgang. Hovedregelen alene gir ofte feil svar for tariffbundne virksomheter.
+- **Bransjeforskrifter om arbeidstid går foran.** Departementet kan gi særlige regler for arbeid av særegen art (§ 10-12 åttende ledd). Det er gjort for bl.a. vegtransport, luftfart, jernbane, politi, avlastere og medleverordninger. Sjekk forskriftslisten når spørsmålet gjelder en bestemt bransje.
+- **Kontrolltiltak krever også personvernregelverket.** § 9-1 første ledd gir vilkårene, men etter andre ledd gjelder personopplysningsloven for behandling av opplysninger om arbeidstakere ved kontrolltiltak. Personopplysningsloven og GDPR er ikke i basen.
+- **Kapittel 12 gir rett til fri, ikke rett til penger.** Ytelsene under permisjon (foreldrepenger, omsorgspenger, pleiepenger) følger av folketrygdloven, se `folketrygdloven/VEIVISER.md`. Koblingen står bl.a. i § 12-5 første ledd og § 12-9 femte ledd. Unntak der arbeidsmiljøloven selv gir lønn: svangerskapskontroll (§ 12-1) og ammefri (§ 12-8 andre ledd).
+- **Kapittel 13 er ikke det generelle diskrimineringsvernet.** § 13-1 dekker politisk syn, medlemskap i arbeidstakerorganisasjon, alder, deltid og midlertidig ansettelse. For kjønn, graviditet, etnisitet, religion, funksjonsnedsettelse, seksuell orientering m.m. gjelder likestillings- og diskrimineringsloven (§ 13-1 fjerde ledd). Den er ikke i basen.
+- **Midlertidig ansettelse og innleie er strammet inn.** Utgangspunktet er fast ansettelse (§ 14-9 første ledd). Innleie fra bemanningsforetak er bare tillatt i samme utstrekning som midlertidig ansettelse etter § 14-9 andre ledd bokstav b til e (§ 14-12 første ledd), altså ikke for arbeid av midlertidig karakter. Overgangsreglene for innleie kan avgjøre hvilken regel som gjelder for eldre avtaler.
+- **Oppsigelse: skill mellom saklig grunn og saksbehandling.** Det materielle vilkåret står i § 15-7. Drøfting, frister og formkrav står i §§ 15-1 til 15-4, med egne virkninger av formfeil i § 15-5. Spørsmålet gjelder ofte bare den ene siden.
+- **Administrative reaksjoner og straff er to spor.** Pålegg, tvangsmulkt, stansing og overtredelsesgebyr står i kapittel 18 (§§ 18-6 til 18-10). Straffansvar står i kapittel 19, og § 19-1 fjerde ledd unntar bl.a. kapittel 8, 12, 13, 15 og 16 fra straffansvaret. Vilkår og prosess er forskjellige.
+- **Ferie står ikke i arbeidsmiljøloven.** Feriefritid og feriepenger reguleres av ferieloven (ferieloven § 1), se `ferieloven/VEIVISER.md`.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| hvem loven gjelder for, arbeidstaker eller oppdragstaker, hjemmekontor, utsendte arbeidstakere (kap. 1) | `merknader/virkeomrade.md` |
+| plikter, varsling, HMS-arbeid, verneombud, AMU, kontrolltiltak (kap. 2, 2A, 3–9) | `merknader/arbeidsmiljo-medvirkning.md` |
+| arbeidstid, overtid, nattarbeid, barn og ungdom (kap. 10–11) | `merknader/arbeidstid.md` |
+| permisjon og diskrimineringsvern (kap. 12–13) | `merknader/permisjon-diskriminering.md` |
+| ansettelse, innleie, oppsigelse, virksomhetsoverdragelse, tvister (kap. 14–17) | `merknader/ansettelse-opphor.md` |
+| Arbeidstilsynet, pålegg, straff, HMS-kort, godkjenningsordninger (kap. 18–20) | `merknader/tilsyn-godkjenning.md` |
+| ytelser under sykdom og permisjon | `folketrygdloven/VEIVISER.md` |
+| meldeplikt til NAV ved masseoppsigelser og permitteringer | `arbeidsmarkedsloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

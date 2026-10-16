@@ -1,6 +1,28 @@
 # Tolkeloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Tolkeloven regulerer offentlige organers ansvar for å bruke tolk, krav om kvalifisert tolk, fjerntolking, forbud mot å bruke barn som tolk, krav til tolken om god tolkeskikk, taushetsplikt og habilitet, og Nasjonalt tolkeregister med statsautorisasjon og reaksjoner. Tolkeforskriften utfyller loven, blant annet om god tolkeskikk og registeret.
+
+Loven trådte i kraft i 2022. IMDis veiledning om tolkeloven ligger ikke i basen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadsfilen er flyttet fra en tidligere skill. Der den viser til «denne skillen» eller til andre skills, gjelder denne veiviseren.
+
+## Kjente feller
+
+- **Tolkeloven supplerer sektorlovgivningen.** Loven gjelder med mindre annet er bestemt i eller i medhold av annen lov (§ 3). Plikten til å bruke tolk kan også følge av sektorlover (§ 6 første ledd første punktum). Gjelder spørsmålet en bestemt sektor, som helse, domstol eller barnevern, gir tolkeloven alene ikke hele bildet. Sektorlovene ligger ikke i basen.
+- **Plikten etter § 6 bygger på en vurdering.** Der annen lov ikke regulerer tolkeplikten, skal organet bruke tolk når det er nødvendig for å ivareta rettssikkerhet eller yte forsvarlig hjelp og tjeneste. Det skal legges vekt på om partene kan kommunisere forsvarlig uten tolk, og på sakens alvor og karakter (§ 6 første ledd). Ellers bør organet vurdere tolk (§ 6 andre ledd).
+- **Kravet om kvalifisert tolk har unntak og dispensasjon.** § 7 første ledd krever kvalifisert tolk når det er plikt til tolk etter § 6. Kravet kan fravikes etter § 7 andre ledd, og etter § 7 femte ledd er det dispensasjon fra kravet fram til 31. desember 2026. Kvalifisert tolk er en tolk som fyller kravene til oppføring i Nasjonalt tolkeregister (§ 7 tredje ledd, jf. § 17).
+- **Barn skal ikke brukes som tolk.** Forbudet i § 4 gjelder også annen formidling av informasjon. Unntak gjelder bare i nødssituasjoner eller der det er forsvarlig ut fra hensynet til barnet og omstendighetene (§ 4 andre ledd).
+- **Hvem som er offentlig organ.** Loven omfatter organer under forvaltningsloven, domstolene og påtalemyndigheten, private som treffer enkeltvedtak eller yter tjenester på vegne av et offentlig organ, og godkjente private barnehager og skoler (§ 2 tredje ledd). Loven gjelder bare tolking til og fra norsk (§ 2 første ledd).
+- **Tolk i integreringssaker.** Integreringsloven § 45 om tolk er opphevet ved tolkeloven. Spørsmål om tolk i integreringssaker besvares derfor etter tolkeloven og tolkeforskriften. Tolkebehov og norskopplæring er beslektede, men rettslig atskilte spørsmål, se `integreringsloven/VEIVISER.md`.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| Plikt til å bruke tolk, krav til tolker, tolkeregisteret | `merknader/generelt.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

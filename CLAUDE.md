@@ -58,6 +58,38 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 | Brukeren spør om | Regelverk |
 |---|---|
 | innsyn, få se dokumenter, offentlig journal, unnta fra offentlighet, sladde, merinnsyn, pressen ber om et dokument, organinterne dokumenter, klage på avslag om innsyn | Offentleglova |
+| AFP i offentlig sektor, offentlig AFP, AFP i staten, gå av med AFP som statsansatt | AFP-loven for medlemmer av Statens pensjonskasse |
+| hvor lenge man kan jobbe i staten, må slutte ved en viss alder, gå av tidlig i yrker med lavere aldersgrense, særaldersgrense | Aldersgrenseloven for statsansatte |
+| minstelønn i en bransje, lovlig lønn for bygningsarbeidere eller renholdere, hva utenlandske arbeidstakere skal ha betalt, ansvar for lønn hos underleverandør, sjekke at innleide får riktig lønn, allmenngjort tariffavtale, Tariffnemnda, sosial dumping | Allmenngjøringsloven |
+| hva slags tiltak NAV kan tilby, komme i arbeid med hjelp fra NAV, tilrettelagt jobb ved nedsatt arbeidsevne, melde fra om oppsigelser, utestengt fra NAV-tiltak, drive bemanningsbyrå, penger mens man er på tiltak, reiseutgifter eller barnepass under tiltak | Arbeidsmarkedsloven |
+| sagt opp, oppsigelsestid, midlertidig ansatt eller vikariat, fast jobb, innleie, overtid, hvor mye man kan jobbe, nattarbeid, pauser, turnus, permisjon, sykt barn, varsling, mobbing, tilrettelegging, overvåking av ansatte, arbeidstaker eller oppdragstaker, Arbeidstilsynet | Arbeidsmiljøloven |
+| når man har lov til å streike, lønnsoppgjøret, mekling mellom partene, ulovlig streik, lockout, uenighet om en tariffavtale, fredsplikt, Riksmekleren, Arbeidsretten | Arbeidstvistloven |
+| hvor mange feriedager, når man kan ta ferie, sjefen bestemmer ferien, syk i ferien, overføre ferie, feriepenger, ferie når man slutter, ferie første året i ny jobb, feriepenger av sykepenger eller foreldrepenger, femte ferieuke | Ferieloven |
+| er jeg medlem av folketrygden, jobbe eller bo i utlandet og beholde trygderettigheter, hva grunnbeløpet er nå, G-regulering, trygdetid, pensjonspoeng, poeng for å være hjemme med barn | Folketrygdloven |
+| mistet jobben og trenger penger, dagpenger, permittert fra jobben, hvor lenge man kan få dagpenger, sagt opp selv og konsekvenser for stønad, meldekort, må søke jobber for å få støtte, arbeidsgiver gikk konkurs | Folketrygdloven |
+| sykmeldt, sykepenger, egenmelding, langtidssykmeldt, mister inntekt fordi man er syk, hjemme med sykt barn, pleiepenger, alvorlig eller kronisk sykt barn, permisjon for å følge opp et sykt barn | Folketrygdloven |
+| arbeidsavklaringspenger, AAP, kommer ikke tilbake i jobb pga. sykdom eller skade, blir avklart for arbeid, deltar på tiltak fra NAV, utgifter til reise, flytting eller barnetilsyn under tiltak | Folketrygdloven |
+| uføretrygd, blir aldri frisk nok til å jobbe igjen, varig syk eller skadet, kan ikke jobbe lenger pga. helsen, permanent nedsatt arbeidsevne, barnetillegg til uføretrygd | Folketrygdloven |
+| skadet seg på jobb, yrkesskade, blitt syk av arbeidet, ulykke i arbeidstiden, erstatning for varig men, menerstatning, sykdom av kjemikalier eller støy på arbeidsplassen | Folketrygdloven |
+| foreldrepenger, permisjon med penger når man får barn, hvor lenge man kan være hjemme med baby, pappaperm, adoptere barn og få stønad, engangsstønad, gravid og kan ikke jobbe i jobben sin | Folketrygdloven |
+| alene med barn og trenger støtte, aleneforsørger og økonomi, overgangsstønad, må jobbe eller studere for å få stønad, samboer og hvordan det påvirker stønaden, utgifter til barnepass | Folketrygdloven |
+| ektefellen døde og økonomien, omstillingsstønad, støtte til begravelse, gravferdsstønad, barnepensjon til barn som har mistet forelder, samboer død og hvilke rettigheter man har, flytte kiste til hjemstedet | Folketrygdloven |
+| når man kan ta ut pensjon, alderspensjon fra folketrygden, ta ut pensjon og jobbe samtidig, hvor mye pensjon man får, tidlig pensjon fra 62, hvilke pensjonsregler som gjelder for min årgang | Folketrygdloven |
+| ekstrautgifter pga. sykdom eller funksjonsnedsettelse, grunnstønad, hjelpestønad, kronisk sykt barn som trenger mye tilsyn, diagnose (f.eks. Downs syndrom, diabetes, astma) og hva den utløser av støtte | Folketrygdloven |
+| hjelpemidler, trenger utstyr hjemme eller på jobb pga. funksjonsnedsettelse, høreapparat, trenger bil pga. bevegelseshemning, trenger tolk eller ledsager, servicehund, briller til barn | Folketrygdloven |
+| klage på vedtak fra NAV, anke til Trygderetten, hvor man klager videre, hvor lang tid NAV kan bruke, hva man plikter å opplyse om til NAV, NAV har fått feil opplysninger | Folketrygdloven |
+| NAV krever penger tilbake, fått for mye utbetalt, tilbakekreving, hvor langt tilbake NAV kan kreve, trekk i ytelsen, når pengene fra NAV kommer, arbeidsgivers plikt til å melde til Aa-registeret | Folketrygdloven |
+| introduksjonsprogram, introduksjonsstønad, nyankommet flyktning, penger mens man går i program, hva kommunen plikter å tilby flyktninger, fordrevne fra Ukraina, norskkurs, læreplan i norsk, språknivå A1–C1, norskprøve, samfunnskunnskap | Integreringsloven |
+| bedriften har gått konkurs, ikke fått lønn, få dekket lønn og feriepenger etter konkurs, hvor mye staten dekker når arbeidsgiver ikke kan betale, lønnsgarantiordningen, NAV Lønnsgaranti | Lønnsgarantiloven |
+| hvem bestemmer hva på NAV-kontoret, hva NAV har lov å dele av opplysninger, rett til å få vurdert behovet sitt hos NAV, uenighet mellom kommunen og staten om NAV-kontoret, plan som samordner tjenester fra flere instanser | NAV-loven |
+| blir permittert, hvem betaler lønn ved permittering, hvor lenge arbeidsgiver må betale, arbeidsgiverperiode, permitteringsvarsel, permitteringslønn, delvis permittering | Permitteringslønnsloven |
+| hvorfor blir tjenestepensjonen redusert, trekk i pensjonen fra staten når jeg får pensjon fra NAV, to offentlige pensjoner samtidig, pensjon fra flere offentlige arbeidsgivere, avkorting av pensjon ved uføretrygd eller etterlatteytelse | Samordningsloven |
+| har ikke penger til mat eller husleie, søke sosialhjelp, få NAV til å hjelpe med regninger, krav om å jobbe for å få sosialhjelp, akutt bostedsløs, program for å komme i jobb med fast stønad | Sosialtjenesteloven |
+| pensjon som statsansatt, pensjonen fra jobben i staten, pensjon fra tidligere statlig arbeidsgiver, statsansatt som blir ufør, pensjon fra staten når ektefellen dør, pensjon til barn etter statsansatt forelder, jobbe ved siden av uførepensjon fra staten | Lov om Statens pensjonskasse |
+| bli norsk statsborger, hvor lenge man må ha bodd i Norge, to statsborgerskap, om barn blir norske automatisk, miste statsborgerskap ved å bo i utlandet, straff og statsborgerskap, søke statsborgerskap for barn, statsborgerprøven | Statsborgerloven |
+| streik i staten, lønnsoppgjøret i staten, tariffavtaler for statsansatte, hovedsammenslutninger, Statens lønnsutvalg | Tjenestetvistloven |
+| når det offentlige må skaffe tolk, bruke familie eller barn som tolk, krav for å jobbe som tolk, klage på en tolk, tolk over skjerm eller telefon, kvalifisert tolk, Nasjonalt tolkeregister, statsautorisert tolk | Tolkeloven |
+| ansette noen fra land utenfor EU, flytte til Norge for å jobbe, arbeidstillatelse, registrere seg som EU-borger, jobbe i Norge som svenske eller danske, oppholdstillatelse, oppholdsrett, asyl, familiegjenforening, visum, utvisning | Utlendingsloven |
 
 ## Regler for svar
 

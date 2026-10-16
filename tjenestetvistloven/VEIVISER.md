@@ -1,6 +1,27 @@
 # Tjenestetvistloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Tjenestetvistloven regulerer forhandlingsordningen for statsansatte: forhandlingsrett, hovedsammenslutninger, tariffavtaler i staten, mekling, arbeidsstans, Arbeidsretten og Statens lønnsutvalg. Forskriftene gjelder utfylling av loven, overføring av forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner, undervisningspersonale ved helsefaghøgskoler og delegering av myndighet.
+
+Loven forvaltes av Digitaliserings- og forvaltningsdepartementet, ikke Arbeids- og inkluderingsdepartementet. Spørsmål om lovendringer eller departementets standpunkter ligger utenfor AIDs ansvarsområde.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Tjenestetvistloven har ingen egen merknadsfil. Bruk `arbeidstvistloven/merknader/generelt.md`, som dekker begge lovene.
+
+## Kjente feller
+
+- **Avklar sektor først.** Tjenestetvistloven gjelder arbeidstakere i statens tjeneste (§ 1 første ledd). Privat og kommunal sektor følger arbeidstvistloven, som ikke gjelder arbeidstakere under tjenestetvistloven (arbeidstvistloven § 1 bokstav a), se `arbeidstvistloven/VEIVISER.md`. Oppgir ikke spørsmålet sektor, spør eller svar for begge.
+- **Skill interessetvist fra rettstvist.** Tvist om en tariffavtales gyldighet, forståelse eller beståen må ikke løses ved arbeidskamp (§ 20 nr. 1). Tvist om lønns- og arbeidsvilkår som ikke er regulert av tariffavtale, kan først løses ved arbeidskamp når fristene i § 17 og oppsigelsesfristen er ute (§ 20 nr. 2). Arbeidsretten behandler tvistene i § 20 nr. 1 og brudd på fredsplikten (§ 24).
+- **Andre frister enn i privat sektor.** Fristen for oppsigelse ved arbeidsnedleggelse er 3 måneder, om ikke kortere frist er fastsatt ved tariffavtale (§ 22 nr. 2). I privat sektor er fristen for plassoppsigelse 14 dager (arbeidstvistloven § 15).
+- **Statens lønnsutvalg.** Tvister som etter sin art kan bringes inn for Statens lønnsutvalg, er unntatt fra mekling (§ 14 andre ledd). Utvalget er regulert i kapittel 8 (§§ 27 til 30).
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| sektor, interessetvist og rettstvist, hva som ikke er dekket | `arbeidstvistloven/merknader/generelt.md` |
+| streik og tariffavtaler i privat og kommunal sektor | `arbeidstvistloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

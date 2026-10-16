@@ -44,7 +44,7 @@ Konkret fremgangsmåte:
 
 ## Kryssreferanser
 
-- **Statsborgerprøven og norskprøven som sådan** – selve prøveordningene er regulert i integreringsforskriften §§ 56–57, som ligger i `integreringsloven/merknader/rettigheter.md`. Statsborgerloven § 8 stiller kravet; unntakene fra kravet står i statsborgerforskriften kap. 4 (her); prøvens innhold og gjennomføring ligger i integreringsregelverket. Ved spørsmål om hva prøven består i eller hvordan den avlegges, si fra at det ligger utenfor denne skillen.
+- **Statsborgerprøven og norskprøven som sådan** – selve prøveordningene er regulert i integreringsforskriften §§ 56–57, som ligger i `integreringsloven/merknader/rettigheter.md`. **[Merknad 16.10.2026: §§ 56–57 gjelder registre og utlevering av opplysninger. Prøvene er regulert i integreringsforskriften kap. 8 (§§ 34–43), se `integreringsloven/VEIVISER.md`.]** Statsborgerloven § 8 stiller kravet; unntakene fra kravet står i statsborgerforskriften kap. 4 (her); prøvens innhold og gjennomføring ligger i integreringsregelverket. Ved spørsmål om hva prøven består i eller hvordan den avlegges, si fra at det ligger utenfor denne skillen.
 - **Opplæring i norsk og samfunnskunnskap** – `integreringsloven/merknader/rettigheter.md` (rett og plikt) og `integreringsloven/merknader/opplaring.md` (læreplanene). Statsborgerforskriften kap. 4 viser til gjennomført opplæring som unntaksgrunnlag.
 - **Tolk i statsborgersaker** – `tolkeloven/merknader/generelt.md`.
 

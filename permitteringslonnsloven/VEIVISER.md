@@ -1,6 +1,32 @@
 # Permitteringslønnsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Permitteringslønnsloven regulerer arbeidsgivers plikt til å betale lønn når arbeidstakere permitteres: arbeidsgiverperioden, fritaksperioden, meldeplikt og beregning av permitteringslønn. Forskrift om lønnsplikt under permittering utfyller loven med regler om fritaksperioden og beregningen av den.
+
+Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadsfilen dekker også lønnsgarantiloven.
+
+## Kjente feller
+
+- **Permittering eller konkurs?** Permitteringslønnsloven gjelder når arbeidstaker midlertidig fritas for arbeidsplikt ved driftsinnskrenkning eller driftsstans og virksomheten består (§ 1 andre ledd). Når arbeidsgiver er konkurs, gjelder lønnsgarantiloven (lønnsgarantiloven § 1), se `lonnsgarantiloven/VEIVISER.md`.
+- **Loven gir ikke adgang til å permittere.** Den definerer permittering (§ 1 andre ledd) og regulerer lønnsplikten når permittering skjer (§ 3). Adgangen til å permittere følger av tariffavtale og ulovfestet rett, som ikke er i basen. Si fra om dette når spørsmålet er om arbeidsgiver har rett til å permittere.
+- **Pandemireglene gjelder ikke lenger.** Arbeidsgiverperioden og fritaksperioden ble endret flere ganger i 2020–2021 ved midlertidige forskrifter. Les gjeldende tekst: arbeidsgiverperiode I er 15 dager (§ 3 første ledd), og fritaksperioden er 26 uker i løpet av 18 måneder (§ 3 tredje ledd og forskriften § 1). Svar ikke fra hukommelsen.
+- **Ingen arbeidsgiverperiode i visse tilfeller.** Skyldes permitteringen brann, ulykker eller naturomstendigheter, gjelder ingen arbeidsgiverperiode (§ 3 andre ledd). Ved permittering som følge av arbeidskamp gjelder ikke plikten til permitteringslønn (§ 3 sjuende ledd).
+- **Meldeplikten står i arbeidsmarkedsloven.** Før permittering skal arbeidsgiver melde fra til Arbeids- og velferdsetaten etter arbeidsmarkedsloven § 8 (§ 3a). Se `arbeidsmarkedsloven/VEIVISER.md`.
+- **Etter arbeidsgiverperioden kommer dagpenger.** Arbeidsgiver har lønnsplikt i arbeidsgiverperioden (§ 3). Dagpenger til permitterte står i folketrygdloven § 4-7, se `folketrygdloven/VEIVISER.md`. Et fullstendig svar om permittering krever nesten alltid begge.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| permittering, lønnsplikt, hva som ikke er dekket | `merknader/generelt.md` |
+| lønn når arbeidsgiver går konkurs | `lonnsgarantiloven/VEIVISER.md` |
+| dagpenger under permittering | `folketrygdloven/VEIVISER.md` |
+| meldeplikt til NAV | `arbeidsmarkedsloven/VEIVISER.md` |
+| oppsigelse, drøfting og virksomhetsoverdragelse | `arbeidsmiljoloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

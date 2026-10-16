@@ -1,6 +1,29 @@
 # Sosialtjenesteloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Lov om sosiale tjenester i arbeids- og velferdsforvaltningen regulerer kommunens tjenester i NAV-kontoret: opplysning, råd og veiledning, økonomisk stønad, midlertidig botilbud, individuell plan og kvalifiseringsprogram med kvalifiseringsstønad, samt saksbehandling, klage og statsforvalterens tilsyn. Tre forskrifter utfyller loven: om kvalifiseringsprogram og kvalifiseringsstønad, om tjenester for personer uten fast bopel i Norge og om bruk av vilkår. Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Hovedrundskrivet til loven og de statlige veiledende satsene for økonomisk stønad er ikke i basen. Det er et større hull her enn for de fleste andre lover.
+
+## Kjente feller
+
+- **Ikke fyll ut skjønnet med tall.** Loven tallfester ikke stønadsnivået. Departementet kan gi veiledende retningslinjer om stønadsnivået (§ 18 fjerde ledd), men de fastsettes i rundskriv som justeres årlig og ikke ligger i basen. Spørsmål om satser og beløp kan ikke besvares herfra.
+- **Sosialhjelp er subsidiær.** Krav på økonomisk stønad har de som ikke kan sørge for livsoppholdet gjennom arbeid eller ved å gjøre gjeldende økonomiske rettigheter (§ 18 første ledd). Får mottakeren senere innvilget folketrygdytelser med tilbakevirkning, kan kommunen kreve refusjon i etterbetalingen (§ 26 første ledd).
+- **Vilkår: «kan» for de fleste, «skal» under 30 år.** Etter § 20 første ledd kan det settes vilkår for økonomisk stønad. For personer under 30 år skal det stilles vilkår om aktivitet, med mindre tungtveiende grunner taler mot det (§ 20 a første ledd). Begge paragrafene krever at vilkårene har nær sammenheng med vedtaket og ikke er uforholdsmessig byrdefulle. Se også forskrift om bruk av vilkår.
+- **Individuell plan: rettigheten står her, forskriften står i NAV-loven-mappen.** Retten til individuell plan følger av § 28, og for deltakere i kvalifiseringsprogram av § 33. Forskriften om individuell plan ligger under `nav-loven/`, se `nav-loven/VEIVISER.md`.
+- **Kvalifiseringsprogrammet er kommunalt.** Programmet gjelder personer mellom 18 og 67 år med vesentlig nedsatt arbeids- og inntektsevne og ingen eller svært begrensede ytelser til livsopphold (§ 29 første ledd), og det er kommunen som innvilger det (§ 29 tredje ledd). Det er ikke et statlig arbeidsmarkedstiltak etter arbeidsmarkedsloven.
+- **Klagereglene bygger på forvaltningsloven.** Enkeltvedtak kan påklages til statsforvalteren (§ 47), men forvaltningsloven er ikke i basen. Si fra når svaret avhenger av den.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| økonomisk stønad, vilkår, midlertidig botilbud, kvalifiseringsprogram | `sosialtjenesteloven/merknader/generelt.md` |
+| NAV-kontoret, behovsvurdering, individuell plan | `nav-loven/VEIVISER.md` |
+| ytelser fra folketrygden | `folketrygdloven/VEIVISER.md` |
+| introduksjonsprogram for nyankomne | `integreringsloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

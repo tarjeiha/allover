@@ -1,6 +1,59 @@
 # Folketrygdloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Folketrygdloven regulerer medlemskap i folketrygden og ytelsene derfra: dagpenger, sykepenger, pleiepenger, arbeidsavklaringspenger, uføretrygd, foreldrepenger, stønad til enslig mor eller far, ytelser ved dødsfall, alderspensjon, grunnstønad, hjelpestønad og hjelpemidler. Den har også felles regler om saksbehandling, utbetaling og tilbakekreving. Over 50 forskrifter utfyller loven, blant annet dagpengeforskriften, uføretrygdforskriften, forskrift om alderspensjon og den årlige forskriften om grunnbeløp og satser.
+
+Kapittel 5 (stønad ved helsetjenester) hører til Helse- og omsorgsdepartementet, og kapittel 23 og 24 (finansiering og avgifter) til Finansdepartementet. Merknadene og rundskrivene i basen dekker ikke disse kapitlene.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+
+Merknadsfilene er flyttet fra de gamle ftrl-skillene og er delt etter ytelse. Bruk tabellen nederst til å finne riktig fil. Der en merknadsfil viser til «andre skills», gjelder nå filene i denne mappen.
+
+NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10, 11, 11 A og 12, i tillegg til enkelte forskrifter. Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom det som står i loven eller forskriften og det NAV legger til grunn i rundskrivet. For andre kapitler er bare lov- og forskriftstekst tilgjengelig, og det bør du si når spørsmålet gjelder praksis.
+
+## Kjente feller
+
+- **Ytelseskapitlet er sjelden hele svaret.** Kapittel 1–3 og 21–22 gjelder alle ytelser. Grunnbeløpet fastsettes av Kongen og reguleres årlig fra 1. mai (§ 1-4 andre ledd), så de fleste satser må hentes fra forskriften om grunnbeløp og satser for riktig år. Oppgi aldri kronebeløp du ikke finner i en kildefil.
+- **EØS-reglene går foran.** Trygdeforordningen og gjennomføringsforordningen gjelder som lov, og loven skal fravikes der forordningene krever det (§ 1-3 a). De fleste ytelseskapitler har en egen § X-1 a om dette. For dagpenger slår § 4-1 a første ledd fast at dagpenger er en ytelse ved arbeidsløshet etter trygdeforordningen. Basen har bare forordningsartiklene om dagpenger (`eu-eos/`). Trygdeforordningens generelle del (art. 1–16 om lovvalg, sammenlegging og eksport) er ikke i basen. Si fra når svaret avhenger av den.
+- **Følg hele henvisningskjeden før du konkluderer negativt.** Mange paragrafer viser til flere andre samtidig. Eksempel: sykepengegrunnlaget for frilansere følger av § 8-28 første til tredje ledd, § 8-29 og § 8-30 første til tredje ledd (§ 8-38 femte ledd). Les alle leddene i kjeden før du sier at noe ikke gjelder.
+- **Kapittel 11 og 11 A er to kapitler.** Kapittel 11 gjelder arbeidsavklaringspenger, kapittel 11 A tilleggsstønader til arbeidsrettede tiltak. Ikke forveksle § 11 A-4 (tilleggsstønader) med § 11-4 (alder).
+- **Rundskriv uten forskriftstekst.** For tilleggsstønadsforskriften (§ 11 A-4), de to institusjonsforskriftene (§ 12-19), overgangsreglene for barnetillegg (§ 12-15 og § 12-16) og forskriftene om stønadsformene i § 10-7 har basen NAVs kommentarer, men ikke selve forskriftsteksten. Si fra at forskriftsteksten ikke er kontrollert.
+- **§ 10-7 a er en egen paragraf.** Stønad til briller til barn under 18 år står i § 10-7 a, ikke som en bokstav i § 10-7. Det er ingen rundskrivkommentar til den.
+- **Dagpenger: forskriften og overgangsreglene.** Dagpengeforskriften utfyller kapittel 4 på de fleste punkter, så et svar fra loven alene er ofte ufullstendig. Endringene i kapittel 4 fra 1. januar 2023 og i § 4-9 fra 1. januar 2024 har egne overgangsforskrifter. Sjekk dem når spørsmålet gjelder et bestemt tidspunkt.
+- **Alderspensjon: fødselsåret avgjør regelsettet.** Kapittel 19 gjelder personer født til og med 1962, kapittel 20 personer født fra og med 1954. Årskullene 1954–1962 får en forholdsmessig andel etter begge (§ 19-1 andre ledd og § 20-1 andre ledd). Avklar fødselsår før du svarer på beregningsspørsmål.
+- **Etterlatte: gamle eller nye regler.** Omstillingsstønad etter § 17-5 kan gis i inntil tre år etter dødsfallet. Kapittel 17 A gjelder dem som hadde rett til pensjon eller overgangsstønad med virkning før 1. januar 2024 (§ 17 A-1 første ledd). Kapittel 16 er opphevet, men § 17 A-1 viser fortsatt til det. Avklar hvilket regelsett personen hører under.
+- **Enslig mor eller far: aleneomsorg og samliv.** De fleste tvilsspørsmål gjelder § 15-4. Den som bor med en person hun eller han har barn med, eller lever i et ekteskapslignende forhold, regnes ikke som enslig (tredje ledd). Ingen av foreldrene har aleneomsorg ved nære boforhold (fjerde ledd). Medlemmet har bevisbyrden (femte ledd).
+- **Foreldrepenger gir penger, ikke rett til fri.** Retten til permisjon følger av arbeidsmiljøloven kapittel 12, se `arbeidsmiljoloven/VEIVISER.md`. Skill også mellom svangerskapspenger (§ 14-4), som gjelder gravide som må slutte i arbeidet eller er utsatt for risikofaktorer, og foreldrepenger (§ 14-5 flg.).
+- **Yrkesskade gir særfordeler i andre kapitler.** § 13-2 andre ledd lister bestemmelsene, blant annet § 8-55 (sykepenger), § 11-22 (AAP), § 12-17 (uføretrygd) og § 13-17 (menerstatning). Yrkesskadedekning etter kapittel 13 er noe annet enn yrkesskadeforsikring etter yrkesskadeforsikringsloven, som ikke er i basen.
+- **Klage og anke er to trinn.** Vedtak påklages først til NAV (nærmeste overordnede organ), og klageinstansens vedtak kan deretter ankes til Trygderetten (§ 21-12 første ledd). Fristen er seks uker for begge (femte ledd). Domstolene kan først brukes når klage og anke er brukt fullt ut (sjette ledd). Forvaltningsloven gjelder ved siden av kapittel 21 (§ 21-1), men er ikke i basen.
+- **Tilbakekreving, foreldelse og gebyr vurderes hver for seg.** Vilkårene for å kreve tilbake står i § 22-15, foreldelse i § 22-14. Overtredelsesgebyr og tvangsmulkt etter § 25-3 gjelder arbeidsgivere og oppdragsgivere som bryter meldeplikten til Aa-registeret (første ledd), ikke mottakere av ytelser.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| Medlemskap, trygdetid, pensjonsgivende inntekt, omsorgspoeng, grunnbeløp (kap. 1–3) | `merknader/medlemskap-beregning.md` |
+| Dagpenger, permittering, minsteinntekt (kap. 4) | `merknader/dagpenger.md`, rundskriv `rundskriv/ftrl/kap-4/` |
+| Dagpenger og arbeid eller bosted i et annet EØS-land | `eu-eos/oversikt.md` (forordningsteksten er på engelsk) |
+| Dagpenger ved konkurs, lønnsgaranti | `permitteringslonnsloven/merknader/generelt.md`, `lonnsgarantiloven/VEIVISER.md` |
+| Grunnstønad og hjelpestønad (kap. 6) | `merknader/grunnstonad.md`, `merknader/temaoppslag-grunnstonad.md`, rundskriv `rundskriv/ftrl/kap-6/` |
+| Hjelpestønad ved en bestemt diagnose | `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md` |
+| Gravferdsstønad, båretransport, omstillingsstønad, barnepensjon (kap. 7, 16, 17, 17 A, 18) | `merknader/etterlatte-gravferd.md` |
+| Sykepenger, omsorgspenger, pleiepenger, opplæringspenger (kap. 8 og 9) | `merknader/sykepenger.md`, `merknader/temaoppslag-sykepenger.md`, rundskriv `rundskriv/ftrl/kap-8/` og `rundskriv/ftrl/kap-9/` |
+| Hjelpemidler, tolk, bil, høreapparat (kap. 10) | `merknader/hjelpemidler.md`, `merknader/temaoppslag-hjelpemidler.md`, rundskriv `rundskriv/ftrl/kap-10/` |
+| Stønadsformene i § 10-7 (start her) | `rundskriv/ftrl/kap-10/paragraf-10-7/oversikt.md`, forskriftskommentarer i `rundskriv/forskrifter/` |
+| Arbeidsavklaringspenger og tilleggsstønader (kap. 11 og 11 A) | `merknader/aap.md`, `merknader/temaoppslag-aap.md`, rundskriv `rundskriv/ftrl/kap-11/` og `rundskriv/ftrl/kap-11a/`, `rundskriv/forskrifter/tilleggsstonadsforskriften/` |
+| Uføretrygd (kap. 12) | `merknader/uforetrygd.md`, `merknader/temaoppslag-uforetrygd.md`, rundskriv `rundskriv/ftrl/kap-12/` og forskriftskommentarer i `rundskriv/forskrifter/` |
+| Yrkesskade og yrkessykdom (kap. 13) | `merknader/yrkesskade.md` |
+| Svangerskapspenger, foreldrepenger, engangsstønad (kap. 14) | `merknader/foreldrepenger.md` |
+| Stønad til enslig mor eller far (kap. 15) | `merknader/enslig-forsorger.md` |
+| Alderspensjon (kap. 19 og 20) | `merknader/alderspensjon.md` |
+| Saksbehandling, klage og anke (kap. 21) | `merknader/saksbehandling-anke.md` |
+| Utbetaling, tilbakekreving, foreldelse, Aa-registeret (kap. 22, 25, 26) | `merknader/utbetaling-tilbakekreving.md` |
+| Permisjon ved fødsel og sykdom i familien | `arbeidsmiljoloven/VEIVISER.md` |
+| NAV-kontoret og etatens organisering | `nav-loven/VEIVISER.md` |
+| Økonomisk sosialhjelp (subsidiær til folketrygdytelser) | `sosialtjenesteloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

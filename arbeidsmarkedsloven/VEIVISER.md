@@ -1,6 +1,32 @@
 # Arbeidsmarkedsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Lov om arbeidsmarkedstjenester regulerer arbeidsmarkedstiltak og ytelser til deltakere, registrering som arbeidssøker, arbeidsgivers meldeplikt ved masseoppsigelser og permitteringer, privat arbeidsformidling og utleie av arbeidstakere, tilbakekreving og utestengning. Elleve forskrifter utfyller loven. Tiltaksforskriften er den viktigste. De andre gjelder blant annet tiltakspenger, tilleggsstønader, arbeids- og utdanningsreiser, politiattest og fire tidsavgrensede forsøk. Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadene er delt i to filer: loven og tiltaksforskriften, og de øvrige forskriftene. Rundskriv og NAVs interne retningslinjer er ikke i basen.
+
+## Kjente feller
+
+- **Gå alltid videre til tiltaksforskriften.** § 12 andre ledd sier i praksis bare at departementet kan gi nærmere regler om tiltakene. Vilkår, målgrupper og varighet står i tiltaksforskriften. Et svar som bygger på loven alene, blir nesten alltid for tynt.
+- **Skill mellom tiltaket og ytelsen.** Deltakelse på tiltak og pengene man lever av under tiltaket er regulert hver for seg. Tiltakspenger følger § 13 første ledd og tiltakspengeforskriften. Arbeidsavklaringspenger følger folketrygdloven kapittel 11, se `folketrygdloven/VEIVISER.md`.
+- **Tilleggsstønader finnes i to regelverk.** Stønader til personer med nedsatt arbeidsevne etter tilleggsstønadsforskriften forutsetter at vilkårene for tilleggsstønad i folketrygdloven § 11A-4, jf. § 11A-3, er oppfylt (forskriften § 1 første ledd bokstav a). Sjekk begge, og si hvilket regelverk svaret bygger på.
+- **Forsøksforskriftene gjelder ikke generelt.** Forsøkene med ungdomsprogram, fireårig lønnstilskudd for unge, kommunalt VTA og pilotprosjektet med VTA-oppfølging gjelder bare i utvalgte fylker, Nav-kontor eller kommuner (§ 2 i hver forskrift). Sjekk virkeområdet før du legger en forsøksordning til grunn.
+- **Meldeplikt og lønnsplikt ved permittering er to regelverk.** Arbeidsgivers plikt til å melde fra til NAV om masseoppsigelser og permitteringer står i § 8 første ledd. Lønnsplikten under permittering står i `permitteringslonnsloven/VEIVISER.md`.
+- **Utleie og innleie er delt mellom to lover.** Adgangen til å drive privat arbeidsformidling og utleie står i §§ 25–27. Forskriftene om godkjenning av bemanningsforetak, innleie og utsendte arbeidstakere ligger under `arbeidsmiljoloven/`, selv om de også er hjemlet i arbeidsmarkedsloven. Se `arbeidsmiljoloven/VEIVISER.md`.
+- **Registrering som arbeidssøker har betydning også for dagpenger.** Retten til å bli registrert står i § 10. Vilkårene for dagpenger står i `folketrygdloven/VEIVISER.md`.
+- **Kvalifiseringsprogram er ikke et arbeidsmarkedstiltak.** Det er et kommunalt program etter sosialtjenesteloven § 29, se `sosialtjenesteloven/VEIVISER.md`.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| arbeidsmarkedstiltak, tiltaksforskriften, meldeplikt, arbeidsformidling og utleie | `arbeidsmarkedsloven/merknader/generelt.md` |
+| tiltakspenger, tilleggsstønader, reiser, politiattest, forsøksordninger | `arbeidsmarkedsloven/merknader/tilleggsordninger.md` |
+| arbeidsavklaringspenger, dagpenger | `folketrygdloven/VEIVISER.md` |
+| NAV-kontoret og behovsvurdering | `nav-loven/VEIVISER.md` |
+| innleie fra bemanningsforetak | `arbeidsmiljoloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

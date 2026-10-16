@@ -1,6 +1,30 @@
 # Ferieloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Ferieloven sikrer arbeidstakere årlig feriefritid og feriepenger. Den regulerer feriens lengde, opptjeningsår og ferieår, feriefastsetting, ferie under sykdom, permisjon og arbeidskamp, og beregning og utbetaling av feriepenger. Forskriftene gjelder ferie på Svalbard, ferie for arbeidstakere på skip (Nærings- og fiskeridepartementet) og delegering av myndighet.
+
+Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+
+## Kjente feller
+
+- **Ferie regnes i virkedager, og lørdag er en virkedag.** Som virkedager regnes alle dager som ikke er søndager eller lovbestemte helge- og høytidsdager (§ 5 nr. 1). Lovens 25 virkedager tilsvarer derfor fire uker og én dag, ikke fem uker. Den femte ferieuken de fleste har, er avtalefestet og står i tariffavtale eller arbeidsavtale, ikke i loven.
+- **Lovens feriepengesats er 10,2 prosent** (§ 10 nr. 2). Satsen på 12 prosent som mange forholder seg til, følger av den avtalefestede femte ferieuken. Reglene om beregning av feriepenger kan fravikes ved tariffavtale (§ 10 nr. 6). Sjekk hvilket grunnlag spørsmålet gjelder før du oppgir en sats. Tariffavtalene er ikke i basen.
+- **Opptjeningsår og ferieår er forskjøvet.** Ferieåret er kalenderåret, og feriepengene tjenes opp i året før (§ 4). Spørsmål om ferie det første året i ny jobb eller ved jobbskifte henger nesten alltid sammen med dette. Arbeidstaker kan kreve full feriefritid uavhengig av opptjening, men kan også motsette seg ferie i den grad feriepengene ikke dekker lønnsbortfallet (§ 5 nr. 5).
+- **Sjekk ufravikeligheten før du svarer på hva som kan avtales.** Loven kan ikke fravikes til skade for arbeidstaker med mindre det er særskilt fastsatt, og slik avtale må være skriftlig (§ 3). Flere paragrafer har egne regler om fravikelighet, f.eks. § 5 nr. 6, § 9 nr. 5 og § 10 nr. 6.
+- **Syk i ferien: ferieloven gir utsatt ferie, folketrygdloven gir sykepenger.** Etter § 9 nr. 1 kan arbeidstaker som er helt arbeidsufør, kreve ferien utsatt. Kravet må dokumenteres med legeerklæring og settes fram innen fristene i bestemmelsen. Retten til sykepenger står i folketrygdloven, se `folketrygdloven/VEIVISER.md`. Begge deler må ofte med.
+- **Feriepenger ved konkurs** dekkes av lønnsgarantiordningen innenfor egne grenser (lønnsgarantiloven § 1 andre ledd og tredje ledd nr. 3), se `lonnsgarantiloven/VEIVISER.md`.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| feriedager, feriepengesats, opptjening, sykdom i ferien, hva som ikke er dekket | `merknader/generelt.md` |
+| sykepenger og foreldrepenger | `folketrygdloven/VEIVISER.md` |
+| arbeidstid, permisjon og oppsigelse | `arbeidsmiljoloven/VEIVISER.md` |
+| feriepenger når arbeidsgiver går konkurs | `lonnsgarantiloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

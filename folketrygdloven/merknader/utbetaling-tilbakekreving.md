@@ -20,7 +20,7 @@ Konkret fremgangsmåte:
 
 Dette er en tverrgående skill. Tilbakekreving etter § 22-15 er blant de mest brukte bestemmelsene i loven og gjelder alle ytelser.
 
-Ved tilbakekrevingsspørsmål: skill mellom vilkårene for å kreve tilbake (§ 22-15), foreldelse (§ 22-14), og eventuelt overtredelsesgebyr (§ 25-3). De vurderes hver for seg, og spørsmålet gjelder ofte bare ett av dem.
+Ved tilbakekrevingsspørsmål: skill mellom vilkårene for å kreve tilbake (§ 22-15), foreldelse (§ 22-14), og eventuelt overtredelsesgebyr (§ 25-3). **[Merknad 16.10.2026: § 25-3 første ledd gjelder arbeidsgivere og oppdragsgivere som bryter meldeplikten til Aa-registeret, ikke tilbakekreving.]** De vurderes hver for seg, og spørsmålet gjelder ofte bare ett av dem.
 
 ## Folketrygdloven er delt på mange skills
 

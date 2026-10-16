@@ -1,6 +1,31 @@
 # Arbeidstvistloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Arbeidstvistloven regulerer tariffavtalers inngåelse og virkning, fredsplikt, mekling hos Riksmekleren, streik og lockout, og Arbeidsretten. Loven gjelder ikke arbeidstakere som går inn under tjenestetvistloven, dvs. statsansatte. Arbeidstvistloven har ingen sentrale forskrifter.
+
+Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadsfilen dekker også tjenestetvistloven.
+
+## Kjente feller
+
+- **Avklar sektor først.** Arbeidstvistloven gjelder ikke arbeidstakere som går inn under tjenestetvistloven (§ 1 bokstav a). Tjenestetvistloven gjelder arbeidstakere i statens tjeneste (tjenestetvistloven § 1), se `tjenestetvistloven/VEIVISER.md`. Samme spørsmål kan få ulikt svar. Oppgir ikke spørsmålet sektor, spør eller svar for begge. Ikke anta privat sektor.
+- **Skill interessetvist fra rettstvist.** Rettstvist gjelder en tariffavtales gyldighet, forståelse eller eksistens eller krav som bygger på den (§ 1 bokstav i). Interessetvist gjelder fremtidige lønns- og arbeidsvilkår som ikke er regulert av en tariffavtale, eller som skal avløse en tidligere (§ 1 bokstav j). Skillet styrer hele prosessveien.
+- **Fredsplikt.** Rettstvist må aldri løses ved streik eller lockout (§ 8 første ledd). Interessetvist kan først løses ved arbeidskamp når vilkårene i §§ 18 og 25 er oppfylt, og ved revisjon må tariffavtalens gyldighetstid være utløpt (§ 8 andre ledd).
+- **Arbeidsretten behandler rettstvister, ikke interessetvister.** Domsmyndigheten gjelder rettstvister, brudd på fredsplikten og erstatningsansvar etter § 9 (§ 34 første ledd). Interessetvister løses gjennom forhandling, mekling og eventuelt arbeidskamp.
+- **Frister må gjengis nøyaktig.** Plassoppsigelse som ledd i interessetvist skal være skriftlig, og fristen er 14 dager hvis ikke annet er avtalt skriftlig (§ 15 første ledd). For statsansatte er fristen 3 måneder (tjenestetvistloven § 22 nr. 2). Les også §§ 16 til 18 og § 25 om melding til riksmekleren, tidspunkt for streik og meklingens avslutning.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| sektor, interessetvist og rettstvist, hva som ikke er dekket | `merknader/generelt.md` |
+| streik og tariffavtaler i staten | `tjenestetvistloven/VEIVISER.md` |
+| allmenngjøring av tariffavtaler | `allmenngjoringsloven/VEIVISER.md` |
+| ferie under arbeidskamp | `ferieloven/VEIVISER.md` |
+| dagpenger under streik og lockout | `folketrygdloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

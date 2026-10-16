@@ -1,6 +1,30 @@
 # Lønnsgarantiloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Lønnsgarantiloven gir statsgaranti for lønn og likestilte krav som ikke kan dekkes fordi arbeidsgiver er konkurs, og i visse andre insolvenstilfeller. Forskrift om statsgaranti for lønnskrav ved konkurs er hovedkilden for hvordan ordningen praktiseres, bl.a. søknad, frister og Arbeids- og velferdsetatens og bostyrers oppgaver. De andre forskriftene gjelder avskrivning av statens krav og delegering av myndighet.
+
+Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Lønnsgarantiloven har ingen egen merknadsfil. Bruk `permitteringslonnsloven/merknader/generelt.md`, som dekker begge lovene.
+
+## Kjente feller
+
+- **Konkurs eller permittering?** Lønnsgarantiloven gjelder krav som ikke kan dekkes på grunn av konkursåpning hos arbeidsgiver, og noen likestilte tilfeller (§ 1 første ledd). Når arbeidet faller midlertidig bort og virksomheten består, gjelder permitteringslønnsloven, se `permitteringslonnsloven/VEIVISER.md`.
+- **Garantien bygger på dekningsloven.** Kravene dekkes i den utstrekning de har fortrinnsrett etter dekningsloven kapittel 9, med begrensningene i § 1 tredje ledd. Dekningsloven og konkursloven er ikke i basen. Si fra når spørsmålet gjelder hvilke krav som har fortrinnsrett.
+- **Beløpsgrensen er knyttet til grunnbeløpet.** Garantien er begrenset til to ganger folketrygdens grunnbeløp på fristdagen (§ 1 tredje ledd nr. 1). Oppgi ikke et kronebeløp fra hukommelsen. Gjeldende G finnes via `folketrygdloven/VEIVISER.md`.
+- **Feriepenger dekkes innenfor egne grenser.** Garantien omfatter feriepenger (§ 1 andre ledd), men bare feriepenger opptjent i året for fristdagen og året før (§ 1 tredje ledd nr. 3). Opptjeningen følger ferieloven, se `ferieloven/VEIVISER.md`.
+- **Sjekk forskriften.** Søknadsfrister og saksbehandling står i forskrift om statsgaranti for lønnskrav ved konkurs (bl.a. kapittel 3 om søknad og § 3-4 om søknadsfrister), ikke i loven.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| lønnsgaranti, beløpsgrenser, hva som ikke er dekket | `permitteringslonnsloven/merknader/generelt.md` |
+| lønnsplikt under permittering | `permitteringslonnsloven/VEIVISER.md` |
+| feriepenger | `ferieloven/VEIVISER.md` |
+| grunnbeløpet | `folketrygdloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

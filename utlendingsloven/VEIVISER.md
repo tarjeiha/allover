@@ -1,6 +1,34 @@
 # Utlendingsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Utlendingsloven regulerer utlendingers adgang til riket og opphold her: visum og grensekontroll, oppholdstillatelser for arbeid og studier, beskyttelse, familieinnvandring, permanent oppholdstillatelse, utvisning, EØS- og EFTA-borgeres oppholdsrett og saksbehandling. Utlendingsforskriften utfyller loven, og mange vilkår står bare i forskriften.
+
+Loven forvaltes av Justis- og beredskapsdepartementet. Forskriften er fastsatt av både Justis- og beredskapsdepartementet og Arbeids- og inkluderingsdepartementet. Regelverket endres ofte, særlig forskriften. UDIs rundskriv og praksisnotater, UNEs praksis og departementenes instrukser (GI-rundskriv) ligger ikke i basen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Hele loven og forskriften ligger i basen, men merknadene gjelder bare arbeidsinnvandring og EØS-reglene (lovens §§ 5, 55, kap. 3 og kap. 13, forskriften kap. 1, 6 og 19). For asyl, familieinnvandring, visum og andre deler finnes ingen merknader. Der merknadsfilen sier at noe ikke er dekket, gjelder ikke det lenger for lov- og forskriftsteksten.
+
+## Kjente feller
+
+Fellene under gjelder arbeidsinnvandring og EØS-reglene.
+
+- **Avklar først hvilket spor personen er i.** Reglene er helt forskjellige:
+  - Nordiske borgere trenger ikke oppholdstillatelse for å bo eller arbeide i Norge (§ 5 andre ledd, jf. § 55). Familiemedlemmer til nordiske borgere: forskriften § 19-5a.
+  - EØS- og EFTA-borgere har oppholdsrett etter kap. 13 og forskriften kap. 19. De registrerer seg og får registreringsbevis (§ 117). Familiemedlemmer som ikke er EØS-borgere, får oppholdskort (§ 118).
+  - Britiske borgere har rett til fortsatt opphold etter § 125 a og forskriften §§ 19-33 til 19-36. Ellers gjelder reglene for borgere utenfor EØS.
+  - Borgere utenfor EØS må ha oppholdstillatelse for å arbeide (§ 55 første ledd), etter kap. 3 og forskriften kap. 6. Unntak fra kravet står i forskriften §§ 1-1, 1-1A, 1-1B og 1-3.
+- **Oppholdsrett er ikke oppholdstillatelse.** En EØS-borger har rett uten vedtak. Registreringsbeviset bekrefter retten og utstedes straks når dokumentasjonen er lagt fram (§ 117 første ledd). Beskriv ikke EØS-borgerens situasjon som en tillatelse som innvilges.
+- **Varig oppholdsrett og permanent oppholdstillatelse er forskjellige ordninger.** Varig oppholdsrett for EØS-borgere og familiemedlemmer står i §§ 115–116. Permanent oppholdstillatelse står i § 62. Begge kan ha betydning for statsborgerskap, jf. statsborgerloven § 7 første ledd bokstav d, se `statsborgerloven/VEIVISER.md`.
+- **EØS-borgere har egne regler om bortvisning og utvisning.** Se §§ 121–124 og forskriften §§ 19-28 til 19-30.
+- **Arbeidstillatelsen bygger også på allmenne regler.** Kap. 3 og forskriften kap. 6 må ofte leses sammen med de allmenne reglene i loven og forskriften om blant annet underhold, varighet, fornyelse og tilbakekall. § 23 femte ledd gir hjemmel til forskrift om blant annet permanent oppholdstillatelse og tilbakekall.
+- **Tariffkravet henger sammen med allmenngjøring.** Etter § 23 første ledd bokstav b skal lønns- og arbeidsvilkår ikke være dårligere enn etter gjeldende tariffavtale eller regulativ for bransjen. Se `allmenngjoringsloven/VEIVISER.md`. Arbeidsgivers plikter står i `arbeidsmiljoloven/VEIVISER.md`.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| Arbeidsinnvandring fra land utenfor EØS, EØS- og EFTA-borgeres oppholdsrett, nordiske og britiske borgere | `merknader/arbeid-eos.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

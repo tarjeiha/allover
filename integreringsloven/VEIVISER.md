@@ -1,6 +1,31 @@
 # Integreringsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Integreringsloven regulerer tidlig kvalifisering, introduksjonsprogram og introduksjonsstønad, opplæring i norsk og samfunnskunnskap og kommunens og fylkeskommunens ansvar. Integreringsforskriften utfyller det meste av loven. Tre læreplanforskrifter fastsetter innholdet i opplæringen, og egne overgangsregler gjelder kapittel 6A og § 20 fjerde ledd.
+
+Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Rundskriv og veiledning fra IMDi og departementet ligger ikke i basen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadsfilene er flyttet fra to tidligere skills. Der de viser til «denne skillen» eller til andre skills, gjelder denne veiviseren.
+
+## Kjente feller
+
+- **Svaret står ofte i forskriften.** Loven gir departementet mange forskriftshjemler, blant annet om innholdet i opplæringen (§ 30), minimumsnivåer i norsk (§ 31), fravær og permisjoner (§ 35) og prøver (§ 37). Integreringsforskriften har flere paragrafer enn loven. Et svar bygget bare på lovteksten er ofte ufullstendig.
+- **Kapittel 6A har egne regler for personer med kollektiv beskyttelse.** Kapitlet (§§ 37a–37f) gjelder personer med oppholdstillatelse etter utlendingsloven § 34 og avviker fra hovedreglene om opplæring i mottak, kompetansekartlegging, introduksjonsprogram og norskopplæring. Etter overgangsreglene fra 2026 § 1 første ledd gjelder kapitlet for dem som har fått slik tillatelse fra og med 11. mars 2022. Personkretsen avgrenses etter utlendingsloven § 34, se `utlendingsloven/VEIVISER.md`.
+- **Kapittel 6A er midlertidig.** Bestemmelsene er tilføyd, opphevet og tilføyd på nytt flere ganger. § 37a skal etter endringshistorikken oppheves 1. juli 2028. Sjekk ikrafttredelse og opphør i paragraffilen og i overgangsreglene før du sier hva som gjelder på et bestemt tidspunkt.
+- **Rett og plikt er én ting, innholdet i opplæringen en annen.** Hvem som har rett og plikt til opplæring, står i lovens kapittel 6. Hva opplæringen skal inneholde, står i læreplanforskriftene, som deltakerne skal følge etter integreringsforskriften § 19a. Mange spørsmål krever begge kildene.
+- **Læreplanene har ikke paragrafer.** De tre læreplanforskriftene er delt inn i punkter. Vis til forskriftens navn og punktoverskrift, f.eks. «læreplan i norsk for voksne innvandrere, punkt 3 Kjerneelementer». Hold de tre læreplanene fra hverandre, de har ulike målgrupper og nivåer.
+- **Prøvene og språkkravet for statsborgerskap står på forskjellige steder.** Prøver i norsk og samfunnskunnskap reguleres i integreringsforskriften kapittel 8 (§§ 34–43). Kravet om B1 muntlig og bestått statsborgerprøve for statsborgerskap står i statsborgerloven § 8, og unntakene i statsborgerforskriften kapittel 4. Se `statsborgerloven/VEIVISER.md`.
+- **Tolk reguleres ikke lenger her.** Integreringsloven § 45 er opphevet ved lov 11. juni 2021 nr. 79 (tolkeloven). Spørsmål om bruk av tolk besvares etter tolkeloven og tolkeforskriften, se `tolkeloven/VEIVISER.md`.
+- **Introduksjonsprogram og kvalifiseringsprogram er to ordninger.** Kvalifiseringsprogrammet etter sosialtjenesteloven §§ 29 flg. har egne vilkår, se `sosialtjenesteloven/VEIVISER.md`. Målgruppen for introduksjonsprogrammet står i integreringsloven § 8, jf. § 9.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| Introduksjonsprogram, introduksjonsstønad, rett og plikt til opplæring, kapittel 6A | `merknader/rettigheter.md` |
+| Innholdet i opplæringen: læreplaner, språknivåer, kompetansemål, timetall | `merknader/opplaring.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

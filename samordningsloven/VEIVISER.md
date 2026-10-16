@@ -1,6 +1,27 @@
 # Samordningsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Loven regulerer hvordan pensjoner og trygdeytelser som en person får samtidig fra flere ordninger, reduseres mot hverandre: offentlig tjenestepensjon, personskadetrygd, folketrygden og AFP. Over 40 forskrifter utfyller loven med detaljregler, garantier og overgangsregler. Mange av dem er gamle og gjelder i praksis eldre årskull. Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+De fleste detaljreglene står i forskriftene. Sjekk alltid årstall og virkeområde i forskriftsteksten før du bruker den.
+
+## Kjente feller
+
+- **Loven gjelder flere ordninger enn Statens pensjonskasse.** Etter § 1 første ledd omfatter den blant annet tjenestepensjonsordninger fastsatt ved lov eller av kommuner og fylkeskommuner, personskadetrygd fastsatt ved lov, ytelser fra folketrygden og AFP. Basen har samordningsreglene, men regelverket for de enkelte ordningene utenom SPK (for eksempel kommunale ordninger) er ikke dekket.
+- **Årskull og ytelse avgjør hvilken regel som gjelder.** Alderspensjon samordnes med alderspensjon etter folketrygdloven kapittel 19 etter § 24 og med kapittel 20 etter § 24 a. Årskullene 1954–1962 får fradraget beregnet etter begge, med gradvis overgang (§ 24 b). Medlemmer født i 1963 eller senere som er omfattet av påslagspensjon, har egne regler for samordning av oppsatt alderspensjon (§ 24 c). Avklar fødselsår og ytelse før du svarer.
+- **Personskadetrygd er sømmen mot yrkesskade.** Samordning av pensjon fra personskadetrygd med folketrygden står i kapittel III og IV, se § 20 og § 24 nr. 3. Vilkårene for yrkesskadefordeler i folketrygden står i `folketrygdloven/VEIVISER.md`. Særlovgivningen om yrkesskadetrygd og krigspensjonering, som § 24 nr. 3 viser til, er ikke i basen.
+- **Basen kan ikke beregne en konkret samordning.** Beregningen krever beholdninger, grunnbeløp og delings- eller forholdstall fra folketrygden (se f.eks. § 24 a nr. 1–3). Vis til SPKs beregningstjenester for tall.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| samordning av tjenestepensjon, personskadetrygd og folketrygd | `samordningsloven/merknader/generelt.md` |
+| alderspensjon fra Statens pensjonskasse | `spk-loven/merknader/alderspensjon-afp.md` |
+| uføre- og familiepensjon fra Statens pensjonskasse | `spk-loven/merknader/ufore-familiepensjon.md` |
+| ytelser fra folketrygden | `folketrygdloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

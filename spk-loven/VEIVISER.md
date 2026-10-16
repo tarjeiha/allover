@@ -1,6 +1,33 @@
 # Lov om Statens pensjonskasse: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Loven regulerer tjenestepensjon for statsansatte og andre medlemmer av Statens pensjonskasse (SPK): medlemskap, pensjonsgrunnlag, tjenestetid, alderspensjon, uførepensjon og familiepensjon. En rekke forskrifter utfyller loven, blant annet om vartpenger, unntak fra medlemskap, reduksjon av uførepensjon mot inntekt og overgangsregler for uførepensjon innvilget før 2015. Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Merknadsfilene er flyttet fra to eldre skills og deler loven i alderspensjon (kap. 1–5 b og 8) og uføre- og familiepensjon (kap. 6–7).
+
+## Kjente feller
+
+- **Fødselsår avgjør regelsettet. Avklar det først.** Kapittel 5 (bruttopensjon) gjelder medlemmer født i 1962 eller tidligere (§ 20 a). Kapittel 5 a (påslagspensjon) gjelder medlemmer født i 1963 eller senere (§ 26 a), og det samme gjør kapittel 5 b om tidligpensjon og særalderspåslag ved særaldersgrense (§ 26 m). Et svar fra feil kapittel blir galt selv om begrepene ligner.
+- **Ytelsene samordnes med folketrygden.** Etter § 4 samordnes ytelsene etter samordningsloven. Bruttopensjonen til de eldre årskullene reduseres mot alderspensjon fra folketrygden, og garantien i § 24 b andre ledd bygger på samordnet pensjon. Si fra når svaret avhenger av samordning, og se `samordningsloven/VEIVISER.md`.
+- **Aldersgrense og pensjonsrett er to spørsmål.** Plikten til å fratre og særaldersgrensene står i aldersgrenseloven § 2. Retten til pensjon ved fratreden står her, se § 21 første og andre ledd (kap. 5) og kapittel 5 b fra § 26 m. Svar på begge sider når spørsmålet gjelder å gå av tidlig, og se `aldersgrenseloven/VEIVISER.md`.
+- **AFP står i egen lov og forutsetter tariffavtale.** Retten til alderspensjon fra 65 år etter § 21 tredje ledd forutsetter tariffavtale der staten er part eller tariffavtale godkjent av departementet. Offentlig AFP står i AFP-loven, se `afp-loven/VEIVISER.md`. Tariffavtalene ligger ikke i basen.
+- **Uførepensjonen følger folketrygdens vedtak.** Et medlem med arbeidsavklaringspenger får midlertidig uførepensjon, og et medlem med uføretrygd får uførepensjon (§ 27 andre ledd). Graden settes normalt lik graden i folketrygden (§ 27 tredje ledd). Vilkårene i folketrygden står i `folketrygdloven/VEIVISER.md`.
+- **Uførepensjon innvilget før 2015 har egne regler.** Forskrift om overgangsregler for uførepensjon gjelder når uførepensjonen er innvilget med virkningstidspunkt før 1. januar 2015 (forskriften § 1). Avklar tidspunktet før du svarer.
+- **Reduksjon av uførepensjon har to spor.** Reduksjon mot inntekt står i § 29 med egen forskrift om reduksjon og etteroppgjør. Reduksjon mot ytelser fra folketrygden skjer etter samordningsloven (§ 4).
+- **Basen kan ikke beregne en konkret pensjon.** Beregningen krever opptjeningsdata, grunnbeløp og forholdstall eller delingstall (se f.eks. § 26 c andre ledd). Vis til SPKs beregningstjenester for tall.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| alderspensjon, påslagspensjon, særaldersgrense, oppsatt pensjon, vartpenger, medlemskap | `spk-loven/merknader/alderspensjon-afp.md` |
+| uførepensjon, midlertidig uførepensjon, enke- og enkemannspensjon, barnepensjon | `spk-loven/merknader/ufore-familiepensjon.md` |
+| samordning med folketrygden | `samordningsloven/VEIVISER.md` |
+| offentlig AFP i staten | `afp-loven/VEIVISER.md` |
+| aldersgrenser og plikt til å fratre | `aldersgrenseloven/VEIVISER.md` |
+| alderspensjon, uføretrygd og etterlatteytelser fra folketrygden | `folketrygdloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

@@ -1,6 +1,27 @@
 # NAV-loven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Arbeids- og velferdsforvaltningsloven regulerer organiseringen av Arbeids- og velferdsetaten og de felles lokale NAV-kontorene, taushetsplikt i etaten, samarbeidet mellom stat og kommune, behovsvurdering, aktivitetsplan og individuell plan. Åtte forskrifter utfyller loven, blant annet om individuell plan, hjelpemiddelsentralene, delegering og tvisteløsning mellom stat og kommune og dispensasjon fra taushetsplikten. Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+NAVs rundskriv til loven er ikke i basen. Spørsmål om hvordan skjønnet praktiseres, kan bare besvares på ordlydsnivå.
+
+## Kjente feller
+
+- **Loven regulerer organet, ikke ytelsene.** Etaten forvalter arbeidsmarkedsloven, folketrygdloven og andre lover (§ 4 andre ledd). Ytelsene (sykepenger, AAP, uføretrygd, hjelpemidler) står i `folketrygdloven/VEIVISER.md`, tiltakene i `arbeidsmarkedsloven/VEIVISER.md`.
+- **NAV-kontoret yter også kommunale tjenester.** Kontoret skal ivareta kommunens oppgaver etter sosialtjenesteloven (§ 13 andre ledd). Økonomisk stønad og kvalifiseringsprogram står i `sosialtjenesteloven/VEIVISER.md`.
+- **Forskriften om individuell plan har flere hjemler.** Den gjelder individuell plan etter sosialtjenesteloven §§ 28 og 33, NAV-loven § 15 og flere helse- og barnevernslover (forskriften § 1). Hele forskriften ligger i denne mappen, også når spørsmålet kommer fra sosialtjenesteloven. Helse- og omsorgslovene og barnevernsloven er ikke i basen.
+- **Taushetsplikten bygger på forvaltningsloven.** § 7 første ledd viser til forvaltningsloven §§ 13 til 13 e og 13 g, som ikke er i basen. Si fra når svaret avhenger av forvaltningsloven.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| NAV-kontoret, taushetsplikt, behovsvurdering, aktivitetsplan, individuell plan | `nav-loven/merknader/generelt.md` |
+| økonomisk sosialhjelp, kvalifiseringsprogram | `sosialtjenesteloven/VEIVISER.md` |
+| arbeidsmarkedstiltak, registrering som arbeidssøker | `arbeidsmarkedsloven/VEIVISER.md` |
+| ytelser fra folketrygden | `folketrygdloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

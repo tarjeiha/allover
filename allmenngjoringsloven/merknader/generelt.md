@@ -15,7 +15,7 @@ Konkret fremgangsmåte ved spørsmål om minstelønn:
 
 1. Finn riktig bransje i `allmenngjoringsloven/VEIVISER.md`
 2. Åpne bransjeforskriftens `oversikt.md` og sjekk **virkeområdebestemmelsen** (normalt § 2) – forskriftene gjelder bare avgrensede typer arbeid, og avgrensningen er ofte snevrere enn bransjenavnet antyder
-3. Åpne lønnsbestemmelsen (normalt § 4) og gjengi satsene med paragrafhenvisning
+3. Åpne lønnsbestemmelsen (normalt § 4) **[Merknad 16.10.2026: Lønnsbestemmelsen står i § 3 i de fleste forskriftene, i § 4 i byggeplassforskriften. Se `allmenngjoringsloven/VEIVISER.md`.]** og gjengi satsene med paragrafhenvisning
 4. **Oppgi alltid datoen for siste endring** fra forskriftens oversikt, og si eksplisitt at satsen kan være revidert etter dette
 
 Ved spørsmål om selve ordningen – vilkår, prosess, Tariffnemndas myndighet – gå til `allmenngjoringsloven/lov/`.

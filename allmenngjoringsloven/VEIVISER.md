@@ -1,6 +1,29 @@
 # Allmenngjøringsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Allmenngjøringsloven gir Tariffnemnda myndighet til å vedta at deler av en tariffavtale skal gjelde for alle arbeidstakere som utfører arbeid av den typen avtalen omfatter. Vedtakene gis som bransjevise allmenngjøringsforskrifter med minstelønn og andre vilkår (byggeplasser, renhold, jordbruk og gartneri, elektrofag, skips- og verftsindustri, overnatting og servering, godstransport på vei, persontransport med turbil og bilbransjen). Forskrift om informasjons- og påseplikt og innsynsrett gjelder på tvers av bransjene.
+
+Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+
+## Kjente feller
+
+- **Oppgi aldri minstelønn fra hukommelsen.** Satsene endres normalt ved hver tariffrevisjon, og forskriftene har egne regler om regulering av lønn i virketiden (i de fleste forskriftene § 4, i byggeplassforskriften § 5). Gjengi satsen fra forskriften med paragrafhenvisning, oppgi datoen for «sist endret i kraft», og si at satsen kan være endret etter dette.
+- **Sjekk virkeområdet før satsen.** Hver bransjeforskrift gjelder bare avgrensede typer arbeid, og avgrensningen er ofte snevrere enn navnet antyder. Virkeområdet står i § 2. Lønnsbestemmelsen står i § 3 i de fleste forskriftene, men i § 4 i byggeplassforskriften.
+- **Allmenngjøring setter et gulv, ikke en fasit.** Vilkårene i vedtaket gjelder som ufravikelige minstevilkår (§ 6 fjerde ledd). Arbeidsavtale eller tariffavtale kan gi mer. Flere forskrifter unntar grupper fra virkeområdet, f.eks. lærlinger og personer på arbeidsmarkedstiltak (byggeplassforskriften § 2 andre ledd).
+- **Ansvar i kontraktskjeden følger av forskriften om informasjons- og påseplikt, ikke av bransjeforskriften.** Lovens § 12 gir hjemmel for informasjons-, påse- og dokumentasjonsplikt for oppdragsgivere og oppdragstakere. Forskriften gjelder der det utføres arbeid innenfor virkeområdet til en allmenngjøringsforskrift (forskriften § 2 første ledd), og regulerer også tillitsvalgtes innsynsrett.
+- **Arbeidstilsynet håndhever.** Arbeidstilsynet fører tilsyn med allmenngjorte vilkår og med oppdragsgivers plikter etter § 12, og kan gi pålegg og treffe enkeltvedtak (§ 11). Se også `arbeidsmiljoloven/VEIVISER.md` for reaksjonene i arbeidsmiljøloven kapittel 18.
+- **Utsendte arbeidstakere.** Lovens formål er å sikre utenlandske arbeidstakere likeverdige lønns- og arbeidsvilkår (§ 1). Hvilke norske regler som gjelder for arbeidstakere sendt til Norge, følger av arbeidsmiljøloven § 1-7 og forskrift om utsendte arbeidstakere, se `arbeidsmiljoloven/VEIVISER.md`.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| minstelønn, allmenngjøringsordningen, påseplikt, hva som ikke er dekket | `merknader/generelt.md` |
+| utsendte arbeidstakere, arbeidstid, innleie, Arbeidstilsynets reaksjoner | `arbeidsmiljoloven/VEIVISER.md` |
+| tariffavtaler og arbeidstvister | `arbeidstvistloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

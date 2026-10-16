@@ -20,7 +20,7 @@ Konkret fremgangsmåte:
 
 Dette er en tverrgående skill. Klage- og ankereglene gjelder alle ytelser, så spørsmål havner her uten at brukeren nevner kapittel 21.
 
-Skill mellom klage til NAV Klageinstans og anke til Trygderetten – det er to ulike trinn med ulike frister. Forvaltningsloven gjelder i tillegg og er **ikke** dekket i noen AID-skill.
+Skill mellom klage til NAV Klageinstans og anke til Trygderetten – det er to ulike trinn med ulike frister. **[Merknad 16.10.2026: Fristen er seks uker både for klage og anke, se folketrygdloven § 21-12 femte ledd.]** Forvaltningsloven gjelder i tillegg og er **ikke** dekket i noen AID-skill.
 
 **Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 

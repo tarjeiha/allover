@@ -25,7 +25,7 @@ Konkret fremgangsmåte:
 - AFP-loven kap. 1 gjelder født i 1962 eller tidligere, kap. 2 født i 1963 eller senere
 - Et svar fra feil kapittel blir helt galt, selv om begrepene ligner
 
-**Bruttopensjon samordnes, påslagspensjon legges oppå.** For de eldre årskullene reduseres tjenestepensjonen mot folketrygden etter samordningsloven – se `samordningsloven/merknader/generelt.md`. Si fra når svaret avhenger av samordning.
+**Bruttopensjon samordnes, påslagspensjon legges oppå.** **[Merknad 16.10.2026: Ingen paragraf er funnet som sier at påslagspensjon ikke samordnes. SPK-loven § 4 sier at ytelsene samordnes. Se `spk-loven/VEIVISER.md`.]** For de eldre årskullene reduseres tjenestepensjonen mot folketrygden etter samordningsloven – se `samordningsloven/merknader/generelt.md`. Si fra når svaret avhenger av samordning.
 
 **Aldersgrenseloven gjelder plikten til å fratre, ikke retten til pensjon.** Særaldersgrense (lavere aldersgrense) utløser særskilte pensjonsregler i SPK-loven (kap. 5 og 5 b). Svar på begge sider når spørsmålet gjelder å gå av tidlig.
 
