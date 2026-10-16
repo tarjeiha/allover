@@ -14,6 +14,9 @@ og for hele repoet:
     indeks.tsv                                    alle paragrafer med sti
     CLAUDE.md                                     bare blokken mellom AUTO-markørene
 
+Mappene merknader/, rundskriv/ og eu-eos/ under en lov bygges ikke, men listes
+i veiviseren og i indeks.tsv.
+
 Håndskrevet tekst utenfor AUTO-markørene røres ikke. Lovtekst skal aldri
 redigeres for hånd, fordi den overskrives ved neste bygg.
 
@@ -147,6 +150,52 @@ def erstatt_auto(fil: Path, innhold: str, skjelett: str) -> None:
     fil.write_text(tekst, encoding="utf-8")
 
 
+EKSTRA = [("merknader", "Merknader"), ("rundskriv", "Rundskriv"), ("eu-eos", "EU/EØS-regelverk")]
+
+
+def tittel_for(fil: Path) -> str:
+    """Første overskrift, eller paragraf og tittel fra frontmatter."""
+    tekst = fil.read_text(encoding="utf-8")
+    fm = {}
+    if tekst.startswith("---\n"):
+        hode, _, tekst = tekst[4:].partition("\n---")
+        for linje in hode.splitlines():
+            k, _, v = linje.partition(":")
+            fm[k.strip()] = v.strip().strip('"')
+    for linje in tekst.splitlines():
+        if linje.startswith("# "):
+            return linje[2:].strip()
+    if fm.get("tittel"):
+        return " ".join(x for x in (fm.get("paragraf", ""), fm["tittel"]) if x)
+    return fil.stem
+
+
+def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
+    """Håndskrevne og kopierte kilder ved siden av lovteksten. De bygges ikke, bare listes."""
+    ut = []
+    for undermappe, navn in EKSTRA:
+        rot = mappe / undermappe
+        filer = sorted(rot.rglob("*.md")) if rot.is_dir() else []
+        if not filer:
+            continue
+        ut += [f"### {navn}", ""]
+        if undermappe == "merknader":
+            ut += [f"- {tittel_for(f)} – `{f.relative_to(mappe).as_posix()}`" for f in filer]
+        else:
+            grupper = {}
+            for f in filer:
+                grupper.setdefault(f.parent, []).append(f)
+            for gruppe, gfiler in grupper.items():
+                rel = gruppe.relative_to(mappe).as_posix()
+                oversikt = [f for f in gfiler if f.name == "oversikt.md"]
+                hint = f", start med `{oversikt[0].relative_to(mappe).as_posix()}`" if oversikt else ""
+                ut.append(f"- `{rel}/` – {len(gfiler)} filer{hint}")
+        for f in filer:
+            indeks.append(f"{lovnavn}\t{navn}\t{tittel_for(f)}\t{f.relative_to(ROT).as_posix()}")
+        ut.append("")
+    return ut
+
+
 def kilde_linje(meta: dict) -> str:
     deler = [meta["tittel"]]
     if meta["legacyID"]:
@@ -210,6 +259,9 @@ def main() -> int:
         linjer += liste(lov["navn"], kapitler)
         for navn, fkap in forskriftsblokker:
             linjer += liste(navn, fkap)
+        ekstra = ekstra_kilder(mappe, lov["navn"], indeks)
+        if ekstra:
+            linjer += ["## Andre kilder", "", "Dette er ikke lov- eller forskriftstekst.", ""] + ekstra
 
         skjelett = f"# {lov['navn']}: veiviser\n\n_Håndskrevet veiledning mangler ennå._\n"
         erstatt_auto(mappe / "VEIVISER.md", "\n".join(linjer), skjelett)
