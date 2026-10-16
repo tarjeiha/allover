@@ -65,12 +65,13 @@ def last_ned(mappe: Path) -> None:
 
 
 def filnavn_for(dokid: str) -> str:
-    """LOV-2006-05-19-16 -> nl-20060519-016.xml, FOR-2008-10-17-1119 -> sf-20081017-1119.xml"""
+    """LOV-2006-05-19-16 -> nl-20060519-016.xml, FOR-2013-01-11-33 -> sf-20130111-0033.xml"""
     m = re.match(r"(LOV|FOR)-(\d{4})-(\d{2})-(\d{2})-(\d+)$", dokid)
     if not m:
         return ""
     prefiks = "nl" if m.group(1) == "LOV" else "sf"
-    return f"{prefiks}-{m.group(2)}{m.group(3)}{m.group(4)}-{int(m.group(5)):03d}.xml"
+    bredde = 3 if prefiks == "nl" else 4
+    return f"{prefiks}-{m.group(2)}{m.group(3)}{m.group(4)}-{int(m.group(5)):0{bredde}d}.xml"
 
 
 def lag_oppslag(kilde: Path) -> dict:
