@@ -1,16 +1,16 @@
 ---
 name: aid-regelverksbase
-description: Slår opp i departementets felles regelverksbase på GitHub. Utprøving, dekker foreløpig offentleglova med offentlegforskrifta - rett til innsyn, hva som er saksdokument, offentlig journal, unntak fra innsyn, organinterne dokumenter, taushetsplikt, merinnsyn, delvis innsyn og sladding, frister og klage på avslag. Trigges av paragrafhenvisninger (offentleglova § 14, offl. § 13, offentlegforskrifta § 9), fagtermer (innsynskrav, meroffentlighet, merinnsyn, organinternt dokument, unntatt offentlighet, journalføring, postjournal) og av hverdagsspråk uten fagord - noen vil se et dokument, pressen ber om å få et notat, kan vi holde dette hemmelig, må vi gi ut e-posten, hva må vi sladde, klage på at vi nektet innsyn.
+description: Departementets felles regelverksbase. Bruk ved spørsmål om hva norsk lov eller forskrift sier - paragrafer, hjemmel, vilkår, rettigheter, unntak, eller om noe er lovlig eller påkrevd etter regelverket - også når spørsmålet stilles uten fagord. Skillen sjekker selv hvilke regelverk som er dekket. Last den før du svarer på slike spørsmål, og svar ikke fra hukommelsen.
 ---
 
 # Regelverksbasen
 
-Lov- og forskriftsteksten ligger ikke i denne skillen. Den ligger i et felles repo på GitHub og hentes ved hvert oppslag, så den alltid er oppdatert.
+Lov- og forskriftsteksten ligger ikke i denne skillen. Den ligger i et felles repo på GitHub og hentes ved hvert oppslag, så den alltid er oppdatert. Hva basen dekker, står i basen.
 
 ## Fremgangsmåte
 
-1. Hent `https://raw.githubusercontent.com/tarjeiha/allover/main/CLAUDE.md` og følg den. Den forteller hvilket regelverk som finnes, hvor det ligger, og hvordan svaret skal lages.
-2. Bruk `curl -sL <adresse>` i kodeverktøyet hvis du har det, ellers hentverktøyet ditt.
-3. Hvis hentingen feiler: si det til brukeren, og svar ikke fra hukommelsen. Oppgi feilmeldingen kort, slik at den kan meldes videre.
-
-Svar aldri på regelverksspørsmål fra generell kunnskap når denne skillen er trigget.
+1. Hent `https://raw.githubusercontent.com/tarjeiha/allover/main/CLAUDE.md` med `curl -sL` i kodeverktøyet, eller med hentverktøyet ditt. Følg den.
+2. Sjekk tabellen over regelverk i CLAUDE.md mot spørsmålet.
+   - **Dekket:** åpne veiviseren og paragrafene, og svar med kilde.
+   - **Ikke dekket:** følg regelen i CLAUDE.md for regelverk som ikke er dekket.
+3. Hvis hentingen feiler: si det til brukeren med kort feilmelding, og svar ikke fra hukommelsen.

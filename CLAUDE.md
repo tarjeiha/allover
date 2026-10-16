@@ -43,7 +43,10 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 1. **Åpne alltid kildefilene før du svarer.** Svar ikke på regelverksspørsmål fra generell kunnskap. Les veiviseren og de paragrafene som er relevante, også unntak og henvisninger til andre paragrafer.
 2. **Oppgi kilde i svaret:** regelverk, paragraf og ledd, f.eks. «offentleglova § 14 første ledd». Brukeren skal kunne kontrollere svaret selv.
 3. **Skill mellom lov og forskrift.** Si hvilken av dem en regel står i.
-4. **Si fra når basen ikke dekker spørsmålet.** Hvis regelverket ikke finnes i basen, eller paragrafen ikke svarer på spørsmålet, si det tydelig. Gi ikke et selvsikkert svar uten kilde.
+4. **Når regelverket ikke er i basen.** Basen bygges ut gradvis.
+   - Finnes det en egen skill for regelverket (f.eks. `aid-ferieloven`), bruk den.
+   - Finnes det ingen, si tydelig at regelverket ikke er dekket. Nevn hvilket regelverk som trolig gjelder, og vis til Lovdata (lovdata.no). Ikke konkluder på spørsmålet.
+   - Er regelverket i basen, men paragrafene svarer ikke på spørsmålet, si det. Gi aldri et selvsikkert svar uten kilde.
 5. **Ordrett gjengivelse når brukeren ber om lovteksten.** Gjengi filen i sin helhet, med ledd, bokstavpunkter og overskrifter slik de står. Lovtekst på nynorsk siteres på nynorsk. Ellers svarer du på brukerens språk.
 6. **Oppgi hvor oppdatert teksten er** når det kan ha betydning, med datoen for «sist endret i kraft» fra veiviseren.
 7. **Basen er ikke departementets offisielle tolkning.** Merknader i veiviserne er hjelp til å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
