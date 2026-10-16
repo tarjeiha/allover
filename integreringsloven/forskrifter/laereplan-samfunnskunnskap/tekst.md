@@ -1,4 +1,4 @@
-# Forskrift om læreplan i samfunnskunnskap for voksne innvandrere: innhold utenfor paragrafene
+# Forskrift om læreplan i samfunnskunnskap for voksne innvandrere
 
 # Forskrift om læreplan i samfunnskunnskap for voksne innvandrere
 

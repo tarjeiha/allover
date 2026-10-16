@@ -1,4 +1,4 @@
-# Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum: innhold utenfor paragrafene
+# Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum.
 
 # Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum.
 

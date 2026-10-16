@@ -117,78 +117,15 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om læreplan i norsk for voksne innvandrere
 
-**1. Om faget**
-
-
-**2. Kartlegging og organisering av opplæringen**
-
-
-**3. Kjerneelementer**
-
-
-**4. Tverrfaglige temaer**
-
-
-**5. Grunnleggende ferdigheter**
-
-
-**6. Nivåer og kompetansemål**
-
-
-**7. Vurderingsordninger**
-
-
-**8. Gyldighet og innføring**
-
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/laereplan-norsk/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/laereplan-norsk/tekst.md`
 
 ### Forskrift om læreplan i norsk for voksne innvandrere nivå C1
 
-**1. Innledning**
-
-
-**2. Nivåene i Rammeverket**
-
-
-**3. Om læreplanen for nivå C1**
-
-
-**4. Språksituasjonen i Norge**
-
-
-**5. Kompetansemål for nivå C1 (avansert bruker)**
-
-
-**6. Gyldighet og innføring**
-
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/laereplan-norsk-c1/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/laereplan-norsk-c1/tekst.md`
 
 ### Forskrift om læreplan i samfunnskunnskap for voksne innvandrere
 
-**1. Om faget**
-
-
-**2. Kompetansemål og vurdering**
-
-
-**3. Vurderingsordning**
-
-
-**4. Timetall**
-
-
-**5. Gyldighet og innføring**
-
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/laereplan-samfunnskunnskap/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/laereplan-samfunnskunnskap/tekst.md`
 
 ### Forskrift til integreringsloven (integreringsforskriften)
 

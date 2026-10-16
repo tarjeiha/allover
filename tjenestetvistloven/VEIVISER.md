@@ -99,11 +99,9 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Vedtak om at tjenestetvistloven gjøres gjeldende for undervisningspersonale ved helsefaghøgskoler som fremtidig skal bli statlige
 
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/tjenestetvistloven-undervisningspersonale/tekst.md`
 
 ### Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/delegering-tjenestetvistloven/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/delegering-tjenestetvistloven/tekst.md`
 <!-- AUTO-SLUTT -->

@@ -960,6 +960,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Kunngjøring av virkningstidspunktet for regulering av kravet til minsteinntekt i dagpengeordningen
 
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/minsteinntekt-virkningstidspunkt/tekst.md`
 
 ### Forskrift om overgangsregler i forbindelse med ikrafttredelse av endring av folketrygdloven § 4-9 fra 1. januar 2024
 
@@ -1163,10 +1164,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/endring-nedsettelse/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/endring-nedsettelse/tekst.md`
 
 ### Forskrift om fastsettelse av pensjonsgivende inntekt mv. for medlemmer med inntekt som ikke blir skattlagt av norske myndigheter
 
@@ -1453,10 +1451,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/viderefoering-forskrifter/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/viderefoering-forskrifter/tekst.md`
 
 ### Forskrift om Arbeidsgiver- og arbeidstakerregisteret
 

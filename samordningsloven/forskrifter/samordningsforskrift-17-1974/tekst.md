@@ -1,4 +1,4 @@
-# Forskrift om flere tjenestepensjoner, begrensning av fradraget (samordningsforskrift 17): innhold utenfor paragrafene
+# Forskrift om flere tjenestepensjoner, begrensning av fradraget (samordningsforskrift 17).
 
 # Forskrift om flere tjenestepensjoner, begrensning av fradraget (samordningsforskrift 17).
 

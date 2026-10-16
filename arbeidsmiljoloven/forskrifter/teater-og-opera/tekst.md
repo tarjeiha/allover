@@ -1,4 +1,4 @@
-# Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera: innhold utenfor paragrafene
+# Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera.
 
 # Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera.
 

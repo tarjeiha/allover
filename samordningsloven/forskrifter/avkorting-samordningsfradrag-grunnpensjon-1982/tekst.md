@@ -1,4 +1,4 @@
-# Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner: innhold utenfor paragrafene
+# Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner
 
 # Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner
 

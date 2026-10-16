@@ -1,4 +1,4 @@
-# Forskrift om fastsetting av fradrag i tjenestepensjon fra Statens pensjonskasse, pensjonsordningen for apoteketaten, pensjonsordningen for sykepleiere og kommunale tjenestepensjonsordninger for tilleggspensjon fra folketrygden: innhold utenfor paragrafene
+# Forskrift om fastsetting av fradrag i tjenestepensjon fra Statens pensjonskasse, pensjonsordningen for apoteketaten, pensjonsordningen for sykepleiere og kommunale tjenestepensjonsordninger for tilleggspensjon fra folketrygden.
 
 # Forskrift om fastsetting av fradrag i tjenestepensjon fra Statens pensjonskasse, pensjonsordningen for apoteketaten, pensjonsordningen for sykepleiere og kommunale tjenestepensjonsordninger for tilleggspensjon fra folketrygden.
 

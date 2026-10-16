@@ -365,10 +365,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/overgangsregler-innleie/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/overgangsregler-innleie/tekst.md`
 
 ### Forskrift om innleie av avløser fra avløserlag
 
@@ -412,10 +409,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/medbestemmelse-staten/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/medbestemmelse-staten/tekst.md`
 
 ### Forskrift om unntak fra arbeidsmiljøloven for visse typer arbeid og arbeidstakergrupper
 
@@ -431,10 +425,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/teater-og-opera/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/teater-og-opera/tekst.md`
 
 ### Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4)
 
@@ -544,10 +535,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/helse-og-sosialinstitusjoner/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/helse-og-sosialinstitusjoner/tekst.md`
 
 ### Forskrift om administrative ordninger på arbeidsmiljølovens område (forskrift om administrative ordninger)
 
@@ -945,6 +933,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere
 
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/sjofartsdirektoratet/tekst.md`
 
 ### Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv
 

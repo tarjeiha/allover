@@ -1,4 +1,4 @@
-# Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten: innhold utenfor paragrafene
+# Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten.
 
 # Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten.
 

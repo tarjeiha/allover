@@ -62,10 +62,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/delegering/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/delegering/tekst.md`
 
 ## Andre kilder
 

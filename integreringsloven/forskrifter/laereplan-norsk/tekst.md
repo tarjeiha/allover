@@ -1,4 +1,4 @@
-# Forskrift om læreplan i norsk for voksne innvandrere: innhold utenfor paragrafene
+# Forskrift om læreplan i norsk for voksne innvandrere
 
 # Forskrift om læreplan i norsk for voksne innvandrere
 

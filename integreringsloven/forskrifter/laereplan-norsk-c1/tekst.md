@@ -1,4 +1,4 @@
-# Forskrift om læreplan i norsk for voksne innvandrere nivå C1: innhold utenfor paragrafene
+# Forskrift om læreplan i norsk for voksne innvandrere nivå C1
 
 # Forskrift om læreplan i norsk for voksne innvandrere nivå C1
 

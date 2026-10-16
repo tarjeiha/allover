@@ -1,4 +1,4 @@
-# Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven: innhold utenfor paragrafene
+# Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven.
 
 # Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven.
 

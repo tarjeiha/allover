@@ -159,10 +159,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om flere tjenestepensjoner og grunnpensjon og omstillingsstønad fra folketrygden (samordningsforskrift 24)
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/samordningsforskrift-24-1966/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/samordningsforskrift-24-1966/tekst.md`
 
 ### Forskrift om samordning av enke- eller enkemannspensjon og uførepensjon fra forskjellige personskadetrygder (samordningsforskrift 12)
 
@@ -171,10 +168,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om fastsetting av fradrag i tjenestepensjon fra Statens pensjonskasse, pensjonsordningen for apoteketaten, pensjonsordningen for sykepleiere og kommunale tjenestepensjonsordninger for tilleggspensjon fra folketrygden
 
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/fastsetting-fradrag-tjenestepensjon-statens-1973/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/fastsetting-fradrag-tjenestepensjon-statens-1973/tekst.md`
 
 ### Forskrift om personskadetrygd – garantiregler (samordningsforskrift 34)
 
@@ -183,27 +177,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om flere tjenestepensjoner, begrensning av fradraget (samordningsforskrift 17)
 
-**1. De samordnede tjenestepensjoner når opp i full pensjon etter samordningslovens § 7. Det er ikke kvalitetstillegg etter samordningslovens § 7, nr. 1 annet ledd for første ordning**
-
-
-**2. De samordnede tjenestepensjoner når opp i full pensjon etter § 7. Det er beregnet kvalitetstillegg**
-
-
-**3. Summen av tjenestepensjonene når ikke opp i full pensjon etter § 7. Det er ikke beregnet kvalitetstillegg**
-
-
-**4. Summen av tjenestepensjonene når ikke opp i full pensjon etter § 7. Det er beregnet kvalitetstillegg**
-
-
-**1. Tjenestepensjonene er fullt ut samtidig opptjent**
-
-
-**2. Tjenestepensjonene er delvis samtidig opptjent**
-
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/samordningsforskrift-17-1974/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/samordningsforskrift-17-1974/tekst.md`
 
 ### Forskrift om begrensning av fradrag for alderspensjon fra folketrygden i pensjon fra personskadetrygd, når økt opptjening i folketrygden ellers fører til lavere samlet pensjon
 
@@ -226,18 +200,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner
 
-**1. Pensjoner av forskjellig art (egen- og etterlattepensjon).**
-
-
-**2. Pensjoner av samme art.**
-
-
-**3. Ikrafttreden.**
-
-
-**Innhold utenfor paragrafene**
-
-- Vedlegg, tabeller o.l. – `forskrifter/avkorting-samordningsfradrag-grunnpensjon-1982/utenfor-paragrafene.md`
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/avkorting-samordningsfradrag-grunnpensjon-1982/tekst.md`
 
 ### Forskrift om uførepensjon som også inneholder etterlattefordeler (samordningsforskrift 32)
 

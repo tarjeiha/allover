@@ -39,6 +39,7 @@ _Håndskrevet veiledning mangler ennå._
 
 ### Forskrift om delegering av myndighet til Kommunaldepartementet etter lov om statsgaranti ved konkurs m.v
 
+- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/delegering-lonnsgaranti/tekst.md`
 
 ### Forskrift om statsgaranti for lønnskrav ved konkurs m.v
 

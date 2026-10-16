@@ -1,4 +1,4 @@
-# Forskrift om flere tjenestepensjoner og grunnpensjon og omstillingsstønad fra folketrygden (samordningsforskrift 24): innhold utenfor paragrafene
+# Forskrift om flere tjenestepensjoner og grunnpensjon og omstillingsstønad fra folketrygden (samordningsforskrift 24)
 
 # Forskrift om flere tjenestepensjoner og grunnpensjon og omstillingsstønad fra folketrygden (samordningsforskrift 24)
 

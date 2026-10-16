@@ -1,4 +1,4 @@
-# Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet: innhold utenfor paragrafene
+# Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet.
 
 # Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet.
 

@@ -1,4 +1,4 @@
-# Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd: innhold utenfor paragrafene
+# Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd
 
 # Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd
 
