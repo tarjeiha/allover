@@ -61,16 +61,31 @@ def last_ned(mappe: Path) -> None:
             tar.extractall(mappe, filter="data")
 
 
+def filnavn_for(dokid: str) -> str:
+    """LOV-2006-05-19-16 -> nl-20060519-016.xml, FOR-2008-10-17-1119 -> sf-20081017-1119.xml"""
+    m = re.match(r"(LOV|FOR)-(\d{4})-(\d{2})-(\d{2})-(\d+)$", dokid)
+    if not m:
+        return ""
+    prefiks = "nl" if m.group(1) == "LOV" else "sf"
+    return f"{prefiks}-{m.group(2)}{m.group(3)}{m.group(4)}-{int(m.group(5)):03d}.xml"
+
+
 def lag_oppslag(kilde: Path) -> dict:
-    """legacyID -> filsti, lest med regex for å slippe å parse alle dokumentene."""
+    """legacyID og filnavn -> filsti. legacyID leses med regex for å slippe å parse alt."""
     monster = re.compile(r'class="legacyID"[^>]*>\s*([^<\s]+)')
     oppslag = {}
-    for fil in kilde.rglob("*.xml"):
-        hode = fil.read_text(encoding="utf-8", errors="ignore")[:20000]
-        m = monster.search(hode)
+    filer = [f for f in kilde.rglob("*") if f.is_file() and f.suffix in (".xml", ".html")]
+    print(f"{len(filer)} dokumenter i datasettene, f.eks. {[f.relative_to(kilde).as_posix() for f in filer[:3]]}")
+    for fil in filer:
+        oppslag[fil.name] = fil
+        m = monster.search(fil.read_text(encoding="utf-8", errors="ignore"))
         if m:
             oppslag[m.group(1).strip()] = fil
     return oppslag
+
+
+def finn(oppslag: dict, dokid: str):
+    return oppslag.get(dokid) or oppslag.get(filnavn_for(dokid))
 
 
 ORD = re.compile(r"\w+", re.UNICODE)
@@ -161,18 +176,20 @@ def main() -> int:
 
     for lov in config["lover"]:
         mappe = ROT / lov["mappe"]
-        if lov["lov"] not in oppslag:
-            feil.append(f"Fant ikke {lov['lov']} i datasettene")
+        lovfil = finn(oppslag, lov["lov"])
+        if not lovfil:
+            feil.append(f"Fant ikke {lov['lov']} ({filnavn_for(lov['lov'])}) i datasettene")
             continue
-        meta, kapitler = bygg_dokument(oppslag[lov["lov"]], mappe / "lov", lov["navn"], feil)
+        meta, kapitler = bygg_dokument(lovfil, mappe / "lov", lov["navn"], feil)
         linjer = ["## Kilder", "", f"- **Lov:** {kilde_linje(meta)}"]
         forskriftsblokker = []
         for fs in lov.get("forskrifter", []):
-            if fs["id"] not in oppslag:
-                feil.append(f"Fant ikke {fs['id']} i datasettene")
+            fsfil = finn(oppslag, fs["id"])
+            if not fsfil:
+                feil.append(f"Fant ikke {fs['id']} ({filnavn_for(fs['id'])}) i datasettene")
                 continue
             fmeta, fkap = bygg_dokument(
-                oppslag[fs["id"]], mappe / "forskrifter" / fs["slug"], fs["navn"], feil
+                fsfil, mappe / "forskrifter" / fs["slug"], fs["navn"], feil
             )
             linjer.append(f"- **Forskrift:** {kilde_linje(fmeta)}")
             forskriftsblokker.append((fs["navn"], fkap))
