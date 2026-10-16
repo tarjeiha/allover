@@ -106,7 +106,8 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 
 ## For redaktører
 
-- Merknader, rundskriv og EØS-tekster redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
+- Rundskriv legges i `innboks/`, så legges de inn automatisk under riktig lov. Se `innboks/README.md`.
+- Merknader, EØS-tekster og rundskriv som ble flyttet fra de gamle skillene, redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
 - Lov- og forskriftstekst bygges fra Lovdata med `verktoy/bygg.py` og skal aldri redigeres for hånd. Blokker mellom `AUTO-START` og `AUTO-SLUTT` overskrives ved hvert bygg.
 - Nytt regelverk legges til i `regelverk.json`. Skriv deretter den håndskrevne delen av `VEIVISER.md`, og legg til en linje i temalisten over.
 - Endringer gjøres som pull request og godkjennes av eieren av mappen, se `.github/CODEOWNERS`.
