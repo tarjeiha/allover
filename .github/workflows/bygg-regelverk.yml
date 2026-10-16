@@ -31,8 +31,10 @@ jobs:
       - name: Bygg fra Lovdatas åpne datasett
         run: python3 verktoy/bygg.py
 
+      # Legges inn også når dekningskontrollen feiler, så feilene kan undersøkes
+      # på grenen. Jobben er likevel rød, og grenen skal ikke flettes før den er grønn.
       - name: Legg inn på grenen
-        if: github.event_name == 'push'
+        if: github.event_name == 'push' && !cancelled()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

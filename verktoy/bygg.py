@@ -106,6 +106,15 @@ def dekning(kilde_tekst: str, md: str) -> float:
 
 
 def bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
+    """Som _bygg_dokument, men en feil i ett dokument stopper ikke resten av bygget."""
+    try:
+        return _bygg_dokument(sti, utmappe, ref, feil)
+    except Exception as e:  # noqa: BLE001
+        feil.append(f"{ref} ({sti.name}): {type(e).__name__}: {e}")
+        return None, None
+
+
+def _bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
     """Skriver én fil per paragraf og returnerer (metadata, kapitler med oppføringer)."""
     if utmappe.exists():
         shutil.rmtree(utmappe)
@@ -230,6 +239,8 @@ def main() -> int:
             feil.append(f"Fant ikke {lov['lov']} ({filnavn_for(lov['lov'])}) i datasettene")
             continue
         meta, kapitler = bygg_dokument(lovfil, mappe / "lov", lov["navn"], feil)
+        if meta is None:
+            continue
         linjer = ["## Kilder", "", f"- **Lov:** {kilde_linje(meta)}"]
         forskriftsblokker = []
         for fs in lov.get("forskrifter", []):
@@ -240,6 +251,8 @@ def main() -> int:
             fmeta, fkap = bygg_dokument(
                 fsfil, mappe / "forskrifter" / fs["slug"], fs["navn"], feil
             )
+            if fmeta is None:
+                continue
             linjer.append(f"- **Forskrift:** {kilde_linje(fmeta)}")
             forskriftsblokker.append((fs["navn"], fkap))
 

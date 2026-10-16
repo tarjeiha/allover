@@ -292,7 +292,9 @@ def parse_dokument(path):
 def slug_paragraf(name):
     """'§4a' -> '4a', '§ 12' -> '12'"""
     s = (name or "").replace("§", "").strip()
-    return re.sub(r"\s+", "", s).lower() or "ukjent"
+    s = re.sub(r"\s+", "", s).lower()
+    # Noen dokumenter har interne navn som "utll1/a1"; de må bli gyldige filnavn
+    return re.sub(r"[^\w.-]+", "-", s).strip("-") or "ukjent"
 
 
 if __name__ == "__main__":
