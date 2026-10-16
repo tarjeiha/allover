@@ -1,0 +1,11 @@
+# § 5. Unntak frå rett til kopi
+
+**Kilde:** Offentlegforskrifta § 5
+
+**1. ledd**
+
+Det kan ikkje givast elektronisk kopi av materiale som ein tredjeperson har immaterielle rettar til, så langt materialet har økonomisk verdi, og det medfører fare for at materialet kan bli misbrukt i kommersiell samanheng om kopi blir gitt. Unntaket etter fyrste punktum gjeld ikkje for søknadar, argumentasjonsskriv, høyringsfråsegner og liknande vanleg materiale som blir sendt inn i samband med ei sak.
+
+**2. ledd**
+
+Retten til kopi gjeld ikkje for journalar og dokument som er avleverte til arkivdepot, og som er i så dårleg stand at dei kan bli skadde eller øydelagde ved kopiering.
