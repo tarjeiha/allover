@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: AAP190 Mottakere av arbeidsavklaringspenger. Innvandrerbakgrunn. Januar til august 2026
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: 3. Innvandrer - Alder
+# Mottakere av arbeidsavklaringspenger. Innvandrerbakgrunn. Tidsserie måned
+# Innvandrerbakgrunn og kjønn. Antall
+# Periode: 2026 01 - 2026 08
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+Ikke-innvandrer	I alt	126920	126632	126504	125021	124354	124065	124038	124494
+Ikke-innvandrer	19 år og under	2201	2166	2077	2010	2008	2061	2043	2049
+Ikke-innvandrer	20-24 år	12004	11969	11868	11834	11763	11731	11688	11730
+Ikke-innvandrer	25-29 år	15349	15304	15268	15026	14942	15026	14977	15072
+Ikke-innvandrer	30-39 år	31599	31512	31527	31199	31146	31176	31219	31385
+Ikke-innvandrer	40-49 år	25307	25279	25318	25102	24967	24940	24911	25137
+Ikke-innvandrer	50-59 år	26903	26863	26788	26353	26065	25834	25859	25781
+Ikke-innvandrer	60 år og over	13557	13539	13658	13497	13463	13297	13341	13340
+Innvandrer	I alt	44590	44804	44912	44465	44490	44554	44754	45041
+Innvandrer	19 år og under	147	138	127	118	121	120	121	130
+Innvandrer	20-24 år	1034	1050	1051	1036	1054	1060	1057	1063
+Innvandrer	25-29 år	1898	1899	1917	1912	1889	1902	1877	1879
+Innvandrer	30-39 år	8715	8711	8685	8591	8551	8602	8643	8694
+Innvandrer	40-49 år	14888	14954	14981	14876	14938	14984	15080	15205
+Innvandrer	50-59 år	12676	12773	12813	12678	12640	12621	12680	12755
+Innvandrer	60 år og over	5232	5279	5338	5254	5297	5265	5296	5315

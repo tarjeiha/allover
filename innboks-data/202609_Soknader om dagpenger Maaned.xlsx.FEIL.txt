@@ -1,0 +1,2 @@
+202609_Soknader om dagpenger Maaned.xlsx ble ikke lagt inn.
+3060 tall i xlsx-filen ble ikke likt i TSV-en etter konvertering.

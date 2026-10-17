@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: 202609 ARBS058 Mottakere av dagpenger. Varighet. Tidsserie, maaned
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: Beholdning. Gjennomsnittl(1)
+# Mottakere av dagpenger. Varighet. Tidsserie, måned
+# Rapport oppdatert: 02.10.2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	39	38	38	39	39	40	41	41	41
+03 Oslo - Oslove	41	40	40	41	41	41	42	43	42
+11 Rogaland	38	37	37	37	38	39	39	39	39
+15 Møre og Romsdal	36	35	35	37	37	37	38	39	37
+18 Nordland - Nordlánnda	35	33	33	34	34	36	37	38	37
+31 Østfold	41	40	41	41	42	43	43	43	44
+32 Akershus	41	41	41	42	42	43	43	43	43
+33 Buskerud	39	38	38	40	41	42	43	43	43
+34 Innlandet	36	36	36	37	38	39	40	41	40
+39 Vestfold	39	39	39	40	41	42	42	42	42
+40 Telemark	37	35	36	37	37	39	39	39	40
+42 Agder	37	36	36	37	39	40	40	40	39
+46 Vestland	38	38	38	39	40	41	42	42	41
+50 Trøndelag - Trööndelage	36	35	35	36	37	38	40	40	39
+55 Troms - Romsa - Tromssa	35	33	34	35	34	36	38	38	37
+56 Finnmark - Finnmárku - Finmarkku	38	37	37	36	37	39	39	40	40
+Ukjent	32	31	32	32	33	33	36	38	39

@@ -1,0 +1,11 @@
+# Kilde: Nav
+# Tabell: 202609 ARBS058 Mottakere av dagpenger. Varighet. Tidsserie, maaned
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: Beholdning. Gjennomsnittlig ant
+# Mottakere av dagpenger. Varighet. Tidsserie, måned
+# Rapport oppdatert: 02.10.2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	39	38	38	39	39	40	41	41	41
+Kvinner	38	38	38	39	39	40	41	41	40
+Menn	39	38	38	39	39	40	41	42	42

@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: AAP120 Mottakere av arbeidsavklaringspenger. Alder og kjonn. Januar til august 2026
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: 2b. Alder Kjønn Prosent av befo
+# Mottakere av arbeidsavklaringspenger. Alder og kjønn. Tidsserie måned
+# Alder og kjønn. Prosent av befolkningen
+# Periode: 2026 01 - 2026 08
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+Kvinner	I alt	5.8	5.8	5.8	5.7	5.7	5.7	5.7	5.7
+Kvinner	18-19 år	2.1	2	2	1.9	1.9	1.9	1.9	2
+Kvinner	20-24 år	4.7	4.7	4.7	4.7	4.7	4.7	4.7	4.7
+Kvinner	25-29 år	5.6	5.6	5.6	5.5	5.5	5.6	5.6	5.6
+Kvinner	30-39 år	6.3	6.3	6.3	6.3	6.3	6.3	6.3	6.3
+Kvinner	40-49 år	7	7	7	7	6.9	7	7	7
+Kvinner	50-59 år	6.4	6.4	6.4	6.3	6.3	6.2	6.2	6.2
+Kvinner	60 år og over	4.1	4.1	4.1	4	4	4	4	4
+Menn	I alt	3.9	3.9	3.9	3.8	3.8	3.8	3.8	3.8
+Menn	18-19 år	1.4	1.3	1.3	1.2	1.2	1.3	1.2	1.2
+Menn	20-24 år	3.1	3.1	3.1	3	3	3	3	3
+Menn	25-29 år	3.9	3.9	3.9	3.8	3.7	3.8	3.8	3.8
+Menn	30-39 år	3.9	3.9	3.9	3.8	3.8	3.8	3.8	3.9
+Menn	40-49 år	4.1	4.1	4.1	4.1	4.1	4.1	4.1	4.1
+Menn	50-59 år	4.2	4.2	4.2	4.2	4.1	4.1	4.1	4.1
+Menn	60 år og over	4.1	4.1	4.2	4.1	4.1	4.1	4.1	4.1

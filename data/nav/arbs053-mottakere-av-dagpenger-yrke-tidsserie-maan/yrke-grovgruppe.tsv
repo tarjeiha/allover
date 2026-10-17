@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: 202609 ARBS053 Mottakere av dagpenger. Yrke. Tidsserie, maaned
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: Yrke grovgruppe
+# Mottakere av dagpenger. Yrke. Tidsserie, måned
+# Yrke grovgruppe
+# Januar - september 2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	49715	51971	51410	50436	48984	47764	47260	46099	45843
+Ledere	2818	2897	2858	2797	2796	2835	2889	2841	2855
+Ingeniør- og ikt-fag	3693	3801	3773	3829	3889	4069	4104	4073	3998
+Undervisning	1838	1820	1797	1805	1785	1839	1972	2005	2195
+Akademiske yrker	1211	1311	1282	1269	1249	1266	1301	1243	1235
+Helse, pleie og omsorg	3282	3447	3373	3388	3347	3355	3267	3179	3241
+Barne- og ungdomsarbeid	1952	1909	1844	1827	1805	1774	1815	1969	2101
+Meglere og konsulenter	1715	1757	1725	1760	1735	1794	1819	1779	1748
+Kontorarbeid	4121	4252	4247	4249	4150	4021	3939	3838	3851
+Butikk- og salgsarbeid	4055	4287	4230	4190	4136	4133	4152	3961	3964
+Jordbruk, skogbruk og fiske	809	893	851	607	490	433	401	370	370
+Bygg og anlegg	6400	6816	6899	6565	5903	5236	4992	4765	4622
+Industriarbeid	5307	5666	5594	5528	5394	5149	4903	4813	4565
+Reiseliv og transport	4641	5033	5013	4887	4704	4542	4444	4301	4309
+Serviceyrker og annet arbeid	5324	5505	5415	5285	5190	4954	4884	4672	4532
+Ingen yrkesbakgrunn eller uoppgitt	*	*	*	*	*	*	*	*	*
+Ukjent	2547	2574	2506	2447	2409	2361	2375	2287	2254

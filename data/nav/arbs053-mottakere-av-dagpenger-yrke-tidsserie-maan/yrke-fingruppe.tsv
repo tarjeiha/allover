@@ -1,0 +1,83 @@
+# Kilde: Nav
+# Tabell: 202609 ARBS053 Mottakere av dagpenger. Yrke. Tidsserie, maaned
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: Yrke fingruppe
+# Mottakere av dagpenger. Yrke. Tidsserie, måned
+# Yrke fingruppe
+# Januar - september 2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	49715	51971	51410	50436	48984	47764	47260	46099	45843
+Politikere og toppledere	1257	1298	1278	1235	1221	1241	1254	1219	1216
+Politikere og toppledere	*	*	*	*	*	*	*	*	*
+Administrative og merkantile ledere	1561	1599	1580	1562	1575	1594	1635	1622	1639
+Administrative og merkantile ledere	*	*	*	*	*	*	*	*	*
+Andre naturvitenskapelige yrker	131	134	147	147	149	154	159	152	138
+Ikt-yrker	1748	1784	1757	1750	1802	1885	1907	1924	1913
+Sivilingeniører og sivilarkitekter	909	959	953	1007	1000	1035	1051	1012	979
+Ingeniører og teknikere	905	924	916	925	938	995	987	985	968
+Førskolelærere	151	150	157	150	143	146	161	152	179
+Grunnskolelærere	651	612	585	581	570	574	636	700	806
+Lærere i videregående skole	194	196	192	191	178	184	194	193	249
+Lærere på universitet og høyskoler og spesialister	635	649	645	660	666	712	750	739	736
+Annet undervisningspersonale	168	169	175	178	183	180	185	180	190
+Ledere innen undervisning og barnevern	39	44	43	45	45	43	46	41	35
+Saksbehandlere i offentlig sektor	374	424	413	416	410	390	390	378	380
+Journalister og informasjonsmedarbeidere	258	272	269	266	274	296	309	279	289
+Samfunnsvitenskapelige yrker	29	29	29	25	28	27	28	30	28
+Juridiske yrker	44	51	56	52	49	54	55	47	50
+Akademiske yrker i privat sektor	396	402	385	380	367	374	394	380	360
+Andre akademiske yrker	110	133	130	130	121	125	125	129	128
+Andre akademiske yrker	*	*	*	*	*	*	*	*	*
+Medisinske yrker (leger, tannleger, veterinærer, farmasøyter)	156	156	144	160	152	148	140	139	142
+Sykepleiere og jordmødre	242	263	252	252	252	255	255	252	255
+Sosionomer og barnevernspedagoger	670	721	709	741	750	751	730	730	766
+Omsorgs- og pleiearbeidere	1817	1895	1889	1860	1836	1827	1765	1683	1691
+Annet helsepersonell	378	394	361	355	337	352	351	350	364
+Mellomledere innen helse- pleie og omsorg	19	18	18	20	20	22	26	25	23
+Skoleassistenter	272	267	263	266	251	263	289	301	327
+Barnehage- og skolefritidsassistenter	1680	1642	1581	1561	1554	1511	1526	1668	1774
+Salgskonsulenter og liknende	918	945	923	937	931	958	967	942	905
+Meglere	225	242	239	246	254	251	247	237	241
+Økonomer og revisorer	572	570	563	577	550	585	605	600	602
+Lavere saksbehandlere innen offentlig administrasjon	17	16	15	15	17	19	20	15	16
+Sekretærer	193	192	191	179	180	186	184	183	192
+Økonomi- og kontormedarbeidere	1365	1401	1381	1394	1355	1330	1357	1325	1332
+Lager- og transportmedarbeidere	1493	1543	1589	1594	1562	1489	1410	1392	1404
+Resepsjonister og sentralbordoperatører	800	822	787	783	751	724	703	670	675
+Andre funksjonærer	253	278	284	284	285	273	265	253	232
+Butikkarbeid	2500	2700	2651	2600	2551	2554	2580	2444	2449
+Annet salgsarbeid	1555	1587	1579	1590	1585	1579	1572	1517	1515
+Jordbruk, skogbruk og fiske	809	893	851	607	490	433	401	370	370
+Rørleggere	487	531	537	541	509	482	480	453	414
+Snekkere og tømrere	1811	1836	1838	1810	1677	1527	1470	1416	1319
+Elektrikere	424	421	418	469	504	462	462	465	497
+Andre bygningsarbeidere	2039	2118	2081	1896	1630	1402	1310	1240	1192
+Anleggsarbeidere	865	1051	1116	967	797	661	601	576	589
+Hjelpearbeidere innen bygg og anlegg	588	657	678	640	562	503	479	443	438
+Mellomledere innen bygg og anlegg	186	202	231	242	224	199	190	172	173
+Mekanikere	731	787	727	668	641	610	611	625	609
+Prosess- og maskinoperatører	1167	1205	1171	1136	1059	985	992	982	957
+Næringsmiddelarbeid	1581	1726	1753	1786	1788	1746	1540	1452	1326
+Automatikere og elektriske montører	495	518	515	530	543	507	487	475	454
+Andre håndverkere	315	353	344	314	318	304	315	350	348
+Hjelpearbeid innen industrien	331	336	324	324	311	303	289	281	271
+Støpere, sveisere, platearbeidere	544	586	606	619	585	541	507	486	450
+Støpere, sveisere, platearbeidere	*	*	*	*	*	*	*	*	*
+Mellomledere innen industriarbeid	143	155	154	151	149	153	162	162	150
+Maritime yrker	184	202	214	217	198	186	179	160	176
+Førere av transportmidler	1682	1785	1759	1751	1705	1665	1612	1608	1618
+Reiseledere, guider og reisebyråmedarbeidere	179	179	181	171	181	187	179	164	159
+Reiseledere, guider og reisebyråmedarbeidere	*	*	*	*	*	*	*	*	*
+Konduktører og kabinpersonale	37	47	41	36	34	58	59	58	55
+Kokker	914	987	978	910	860	814	800	766	771
+Hovmestere, servitører og hjelpepersonell	1301	1458	1471	1432	1369	1287	1268	1218	1210
+Mellomledere innen reiseliv og transport	344	375	369	370	357	345	347	327	320
+Yrker innen politi, brannvesen, toll og forsvar	126	166	158	144	153	166	176	151	138
+Velvære	233	240	238	235	238	228	226	228	239
+Rengjøring	1968	2019	2004	1960	1899	1846	1782	1728	1708
+Vakthold og vaktmestere	830	874	914	878	824	694	672	612	602
+Annet arbeid	1049	1084	1053	1041	1050	1018	1006	988	945
+Yrker innen kunst, sport og kultur	1118	1122	1048	1027	1026	1002	1022	965	900
+Ingen yrkesbakgrunn eller uoppgitt	*	*	*	*	*	*	*	*	*
+Ukjent	2547	2574	2506	2447	2409	2361	2375	2287	2254

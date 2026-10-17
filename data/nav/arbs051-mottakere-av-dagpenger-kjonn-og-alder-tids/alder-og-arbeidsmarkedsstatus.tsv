@@ -1,0 +1,41 @@
+# Kilde: Nav
+# Tabell: 202609 ARBS051 Mottakere av dagpenger. Kjonn og alder. Tidsserie, maaned
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: Alder og arbeidsmarkedsstatus
+# Mottakere av dagpenger. Kjønn og alder. Tidsserie, måned
+# Alder og arbeidsmarkedsstatus
+# Januar - september 2026
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Helt ledige	I alt	31468	31859	31043	29829	28517	28134	31675	29180	27272
+Helt ledige	19 år og under	57	54	59	70	59	67	141	94	86
+Helt ledige	20-24 år	2201	2248	2226	2056	1983	1922	2257	1995	1753
+Helt ledige	25-29 år	3576	3634	3460	3300	3176	3113	3399	3077	2957
+Helt ledige	30-39 år	10210	10313	9996	9634	9163	9086	10090	9389	8749
+Helt ledige	40-49 år	7194	7336	7239	6989	6722	6692	7527	6968	6514
+Helt ledige	50-59 år	5143	5169	5001	4811	4599	4486	5133	4742	4439
+Helt ledige	60 år og over	3087	3105	3062	2969	2815	2768	3128	2915	2774
+Delvis ledige	I alt	9930	11254	11409	11392	11505	11065	7663	8466	9655
+Delvis ledige	19 år og under	16	20	21	21	18	26	19	27	31
+Delvis ledige	20-24 år	737	920	908	917	955	910	636	549	597
+Delvis ledige	25-29 år	990	1137	1115	1104	1113	1087	776	812	907
+Delvis ledige	30-39 år	2662	3057	3092	3083	3159	3042	2041	2310	2778
+Delvis ledige	40-49 år	2383	2596	2670	2632	2664	2561	1825	2066	2371
+Delvis ledige	50-59 år	2021	2292	2293	2309	2237	2155	1476	1673	1874
+Delvis ledige	60 år og over	1121	1232	1310	1326	1359	1284	890	1029	1097
+Arbeidssøkere på tiltak	I alt	3948	4293	4351	4520	4374	3971	3476	4096	4467
+Arbeidssøkere på tiltak	19 år og under	16	17	16	14	12	9	8	11	12
+Arbeidssøkere på tiltak	20-24 år	428	500	517	527	502	403	356	361	394
+Arbeidssøkere på tiltak	25-29 år	681	726	757	755	700	635	576	631	707
+Arbeidssøkere på tiltak	30-39 år	1163	1260	1322	1354	1322	1237	1078	1306	1402
+Arbeidssøkere på tiltak	40-49 år	947	1005	946	1002	988	912	789	969	1099
+Arbeidssøkere på tiltak	50-59 år	571	618	639	692	671	603	530	637	661
+Arbeidssøkere på tiltak	60 år og over	142	167	154	176	179	172	139	181	192
+Andre	I alt	4369	4565	4607	4695	4588	4594	4446	4357	4449
+Andre	19 år og under	16	15	17	17	17	15	13	13	15
+Andre	20-24 år	414	432	449	448	436	422	414	399	383
+Andre	25-29 år	554	606	602	605	595	602	578	571	618
+Andre	30-39 år	1256	1288	1301	1318	1292	1293	1250	1224	1248
+Andre	40-49 år	1116	1155	1166	1200	1142	1166	1125	1092	1092
+Andre	50-59 år	750	794	803	813	818	798	783	770	794
+Andre	60 år og over	263	275	269	294	288	298	283	288	299

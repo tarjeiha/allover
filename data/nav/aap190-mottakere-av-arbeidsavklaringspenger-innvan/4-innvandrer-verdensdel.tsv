@@ -1,0 +1,17 @@
+# Kilde: Nav
+# Tabell: AAP190 Mottakere av arbeidsavklaringspenger. Innvandrerbakgrunn. Januar til august 2026
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: 4. Innvandrer - Verdensdel
+# Mottakere av arbeidsavklaringspenger. Innvandrerbakgrunn. Tidsserie måned
+# Innvandrerbakgrunn og kjønn. Antall¹
+# Periode: 2026 01 - 2026 08
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+I alt	170871	170802	170778	168868	168239	168022	168193	168945
+Afrika	5727	5753	5736	5697	5676	5706	5725	5781
+Asia	15744	15777	15801	15594	15636	15654	15739	15842
+Europa	20818	20971	21047	20876	20896	20914	21000	21139
+Nord-Amerika	613	612	618	615	612	607	615	618
+Oceania	48	49	52	48	48	48	46	47
+Sør-Amerika	1001	1008	1020	1017	1017	1028	1030	1024
+Ikke-innvandrer	126920	126632	126504	125021	124354	124065	124038	124494

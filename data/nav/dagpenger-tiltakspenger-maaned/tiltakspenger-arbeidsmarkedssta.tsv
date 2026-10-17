@@ -1,37 +1,37 @@
 # Kilde: Nav
-# Tabell: Mottakere av dagpenger og tiltakspenger, tidsserie måned (ARBS050), januar 2021–august 2026
+# Tabell: Mottakere av dagpenger og tiltakspenger, tidsserie måned (ARBS050)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
-# Oppdatert: 03.09.2026
+# Lagt inn: 2026-10-17
 # Ark: Tiltakspenger arbeidsmarkedssta
 # Mottakere av dagpenger, tiltakspenger. Tidsserie, måned
 # Tiltakspenger arbeidsmarkedsstatus
 # Helt ledige
 gruppe	år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober	November	Desember
-	2026	5	17	16	14	11	12	*	7				
+	2026	5	17	16	14	11	12	4	8	6			
 	2025	25	30	34	21	25	35	13	15	28	15	6	17
 	2024	15	24	32	22	26	44	19	34	24	33	26	32
 	2023	18	9	14	13	10	16	12	14	20	35	27	16
 	2022	17	19	22	36	23	38	16	30	14	18	18	15
 	2021	25	23	19	29	33	40	19	31	20	19	19	29
-Delvis ledige	2026	*	*	4	*	5	5	*	*				
+Delvis ledige	2026	*	*	4	*	5	5	*	*	*			
 Delvis ledige	2025	15	9	9	17	18	16	10	10	11	8	6	7
 Delvis ledige	2024	8	6	12	19	14	18	6	8	6	12	12	15
 Delvis ledige	2023	6	9	*	4	*	5	*	16	4	8	9	7
 Delvis ledige	2022	8	9	9	19	15	13	10	11	14	12	11	9
 Delvis ledige	2021	9	12	10	5	14	23	11	15	10	12	9	23
-Arbeidssøkere på tiltak	2026	4154	4576	4818	4892	4875	3797	3429	3185				
+Arbeidssøkere på tiltak	2026	4154	4576	4818	4892	4875	3797	3429	3186	3816			
 Arbeidssøkere på tiltak	2025	6153	6717	6972	6286	6085	4430	3305	3397	3803	3998	4134	4159
 Arbeidssøkere på tiltak	2024	4908	5508	5706	5868	5580	4252	3559	3843	4819	5615	6213	6179
 Arbeidssøkere på tiltak	2023	3872	4012	4131	4018	3846	2906	2506	2700	3471	4299	4727	4761
 Arbeidssøkere på tiltak	2022	4866	5074	5153	5719	5808	4272	3561	3489	3855	4097	4232	4037
 Arbeidssøkere på tiltak	2021	5879	6507	6247	6255	6088	4972	4084	4204	4848	5166	5444	5273
-Andre på tiltak	2026	690	789	848	896	929	729	746	707				
+Andre på tiltak	2026	690	789	848	896	929	729	746	707	800			
 Andre på tiltak	2025	98	126	96	797	814	619	532	515	564	650	683	714
 Andre på tiltak	2024	70	74	76	75	77	54	49	59	84	100	94	102
 Andre på tiltak	2023	48	52	53	54	45	41	42	49	57	64	65	55
 Andre på tiltak	2022	66	66	58	67	67	59	45	40	48	40	53	56
 Andre på tiltak	2021	69	76	63	71	68	65	45	61	68	69	68	75
-Andre	2026	3466	3796	3966	3970	4102	3676	3508	3345				
+Andre	2026	3466	3796	3966	3970	4102	3676	3509	3347	3765			
 Andre	2025	3946	4201	4278	4291	4251	3378	2960	2978	3301	3421	3566	3558
 Andre	2024	3456	3649	3656	3758	3687	3148	2839	3002	3418	3852	4086	4062
 Andre	2023	3546	3559	3634	3562	3450	2830	2561	2595	2961	3282	3519	3430

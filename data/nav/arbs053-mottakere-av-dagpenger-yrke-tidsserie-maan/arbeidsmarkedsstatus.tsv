@@ -1,0 +1,15 @@
+# Kilde: Nav
+# Tabell: 202609 ARBS053 Mottakere av dagpenger. Yrke. Tidsserie, maaned
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus
+# Mottakere av dagpenger. Yrke. Tidsserie, måned
+# Arbeidsmarkedsstatus²
+# Januar - september 2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	49715	51971	51410	50436	48984	47764	47260	46099	45843
+Helt ledige	31468	31859	31043	29829	28517	28134	31675	29180	27272
+Delvis ledige	9930	11254	11409	11392	11505	11065	7663	8466	9655
+Arbeidssøkere på tiltak	3948	4293	4351	4520	4374	3971	3476	4096	4467
+Andre	4369	4565	4607	4695	4588	4594	4446	4357	4449
+Andel helt ledige med dagpenger. Prosent	45.650786	47.728839	47.487418	47.769966	48.935221	48.420074	49.476726	46.441304	45.902412

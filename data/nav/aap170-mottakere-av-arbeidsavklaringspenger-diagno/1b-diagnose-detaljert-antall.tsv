@@ -1,0 +1,45 @@
+# Kilde: Nav
+# Tabell: AAP170 Mottakere av arbeidsavklaringspenger. Diagnose og kjonn. Januar til august 2026
+# Kildeside: ukjent (ny tabell, legg den til i data/nav/kilder.json)
+# Lagt inn: 2026-10-17
+# Ark: 1b. Diagnose detaljert. Antall
+# Mottakere av arbeidsavklaringspenger. Diagnose og kjønn. Tidsserie måned
+# Diagnosefingruppe. Antall
+# Periode: 2026 01 - 2026 08
+rad		Jan	Feb	Mar	Apr	Mai	Jun	Jul	Aug
+I alt		171521	171446	171425	169495	168853	168628	168800	169543
+Allment	Annet allment inkl. avklaring/prosedyrer	1035	1032	1033	1024	1012	1011	1013	1017
+Allment	Infeksjonssykdommer	265	258	253	250	247	243	247	246
+Allment	Skader/forgiftning/komplikasjoner	1874	1859	1868	1812	1813	1809	1814	1830
+Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	8810	8829	8813	8728	8685	8665	8713	8768
+Allment	Symptomer på sykdom inkl.smerte/feber	981	992	1008	1003	1018	1024	1031	1044
+Andre lidelser	Skader/komplikasjoner	73	77	77	79	81	81	83	80
+Andre lidelser		8230	8190	8187	8093	8021	8030	8036	8056
+Hjerte- og karsykdommer		4364	4362	4368	4303	4272	4241	4246	4245
+Kreft		5328	5281	5308	5230	5190	5200	5226	5246
+Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2971	2967	2966	2955	2958	2949	2946	2960
+Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	33	32	33	32	29	29	29	31
+Muskel- og skjelettlidelser	Artrose	3888	3895	3872	3800	3764	3756	3730	3727
+Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	2164	2137	2125	2085	2058	2032	2024	2034
+Muskel- og skjelettlidelser	Brudd og skade	3194	3182	3161	3143	3131	3086	3084	3113
+Muskel- og skjelettlidelser	Nakke/ skulderlidelser	8517	8546	8544	8455	8396	8298	8312	8330
+Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	1037	1039	1031	1024	1037	1023	1025	1028
+Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	3045	3067	3077	3052	3051	3041	3060	3095
+Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1486	1474	1474	1454	1443	1410	1408	1400
+Muskel- og skjelettlidelser	Rygglidelser	12667	12640	12619	12452	12430	12338	12344	12413
+Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	8756	8765	8722	8594	8544	8516	8561	8524
+Psykiske lidelser	Andre psykiske plager	5272	5261	5267	5228	5199	5224	5230	5259
+Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	14692	14773	14794	14675	14738	14810	14817	14987
+Psykiske lidelser	Angst-, tvangs- og stresslidelser	17144	17112	17136	16991	16980	17069	17106	17207
+Psykiske lidelser	Depresjon/bipolar lidelse	21722	21628	21597	21321	21180	21101	21041	21087
+Psykiske lidelser	Hukommelsesforstyrrelse/demens	771	774	774	754	747	741	728	736
+Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	4896	4908	4885	4800	4764	4751	4728	4771
+Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	8312	8377	8404	8363	8349	8375	8383	8495
+Psykiske lidelser	Psykose/schizofreni	1866	1870	1859	1835	1834	1850	1852	1844
+Psykiske lidelser	Søvnforstyrrelse	930	940	927	923	924	936	934	925
+Sykdommer i fordøyelsesorganene		4056	4061	4075	4041	4007	4024	4015	4037
+Sykdommer i luftveiene	Ukjent	1610	1610	1593	1560	1553	1544	1547	1515
+Sykdommer i nervesystemet	Andre lidelser i nervesystemet	5152	5126	5123	5023	5008	4989	4994	4968
+Sykdommer i nervesystemet	Migrene/ hodepine	5213	5244	5317	5304	5309	5351	5415	5457
+Sykdommer i nervesystemet	Skader i hode/ nervesystem	985	975	980	971	958	964	967	959
+Ukjent		182	163	155	138	123	117	111	109
