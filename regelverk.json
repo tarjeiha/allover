@@ -2,7 +2,7 @@
   "baseurl": "https://raw.githubusercontent.com/tarjeiha/allover/main",
   "lover": [
     {
-      "mappe": "offentleglova",
+      "mappe": "regelverk/offentleglova",
       "navn": "Offentleglova",
       "lov": "LOV-2006-05-19-16",
       "forskrifter": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "mappe": "afp-loven",
+      "mappe": "regelverk/afp-loven",
       "navn": "AFP-loven for medlemmer av Statens pensjonskasse",
       "lov": "LOV-2010-06-25-28",
       "forskrifter": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "mappe": "aldersgrenseloven",
+      "mappe": "regelverk/aldersgrenseloven",
       "navn": "Aldersgrenseloven for statsansatte",
       "lov": "LOV-1956-12-21-1",
       "forskrifter": [],
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "mappe": "allmenngjoringsloven",
+      "mappe": "regelverk/allmenngjoringsloven",
       "navn": "Allmenngjøringsloven",
       "lov": "LOV-1993-06-04-58",
       "forskrifter": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "mappe": "arbeidsmarkedsloven",
+      "mappe": "regelverk/arbeidsmarkedsloven",
       "navn": "Arbeidsmarkedsloven",
       "lov": "LOV-2004-12-10-76",
       "forskrifter": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "mappe": "arbeidsmiljoloven",
+      "mappe": "regelverk/arbeidsmiljoloven",
       "navn": "Arbeidsmiljøloven",
       "lov": "LOV-2005-06-17-62",
       "forskrifter": [
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "mappe": "arbeidstvistloven",
+      "mappe": "regelverk/arbeidstvistloven",
       "navn": "Arbeidstvistloven",
       "lov": "LOV-2012-01-27-9",
       "forskrifter": [],
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "mappe": "arkivlova",
+      "mappe": "regelverk/arkivlova",
       "navn": "Arkivlova",
       "lov": "LOV-2025-06-20-96",
       "forskrifter": [
@@ -376,7 +376,7 @@
       ]
     },
     {
-      "mappe": "diskrimineringsombudsloven",
+      "mappe": "regelverk/diskrimineringsombudsloven",
       "navn": "Diskrimineringsombudsloven",
       "lov": "LOV-2017-06-16-50",
       "forskrifter": [],
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "mappe": "ferieloven",
+      "mappe": "regelverk/ferieloven",
       "navn": "Ferieloven",
       "lov": "LOV-1988-04-29-21",
       "forskrifter": [
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "mappe": "folketrygdloven",
+      "mappe": "regelverk/folketrygdloven",
       "navn": "Folketrygdloven",
       "lov": "LOV-1997-02-28-19",
       "forskrifter": [
@@ -694,7 +694,7 @@
       ]
     },
     {
-      "mappe": "forvaltningsloven",
+      "mappe": "regelverk/forvaltningsloven",
       "navn": "Forvaltningsloven",
       "lov": "LOV-1967-02-10",
       "forskrifter": [
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "mappe": "forvaltningsloven-2025",
+      "mappe": "regelverk/forvaltningsloven-2025",
       "navn": "Forvaltningsloven 2025 (ny lov, ikke i kraft)",
       "lov": "LOV-2025-06-20-81",
       "forskrifter": [],
@@ -721,7 +721,7 @@
       ]
     },
     {
-      "mappe": "integreringsloven",
+      "mappe": "regelverk/integreringsloven",
       "navn": "Integreringsloven",
       "lov": "LOV-2020-11-06-127",
       "forskrifter": [
@@ -767,7 +767,7 @@
       ]
     },
     {
-      "mappe": "karanteneloven",
+      "mappe": "regelverk/karanteneloven",
       "navn": "Karanteneloven",
       "lov": "LOV-2015-06-19-70",
       "forskrifter": [
@@ -783,7 +783,7 @@
       ]
     },
     {
-      "mappe": "likestillings-og-diskrimineringsloven",
+      "mappe": "regelverk/likestillings-og-diskrimineringsloven",
       "navn": "Likestillings- og diskrimineringsloven",
       "lov": "LOV-2017-06-16-51",
       "forskrifter": [],
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "mappe": "spk-loven",
+      "mappe": "regelverk/spk-loven",
       "navn": "Lov om Statens pensjonskasse",
       "lov": "LOV-1949-07-28-26",
       "forskrifter": [
@@ -877,7 +877,7 @@
       ]
     },
     {
-      "mappe": "lonnsgarantiloven",
+      "mappe": "regelverk/lonnsgarantiloven",
       "navn": "Lønnsgarantiloven",
       "lov": "LOV-1973-12-14-61",
       "forskrifter": [
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "mappe": "nav-loven",
+      "mappe": "regelverk/nav-loven",
       "navn": "NAV-loven",
       "lov": "LOV-2006-06-16-20",
       "forskrifter": [
@@ -954,7 +954,7 @@
       ]
     },
     {
-      "mappe": "permitteringslonnsloven",
+      "mappe": "regelverk/permitteringslonnsloven",
       "navn": "Permitteringslønnsloven",
       "lov": "LOV-1988-05-06-22",
       "forskrifter": [
@@ -970,7 +970,7 @@
       ]
     },
     {
-      "mappe": "personopplysningsloven",
+      "mappe": "regelverk/personopplysningsloven",
       "navn": "Personopplysningsloven",
       "lov": "LOV-2018-06-15-38",
       "forskrifter": [
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "mappe": "samordningsloven",
+      "mappe": "regelverk/samordningsloven",
       "navn": "Samordningsloven",
       "lov": "LOV-1957-07-06-26",
       "forskrifter": [
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "mappe": "sosialtjenesteloven",
+      "mappe": "regelverk/sosialtjenesteloven",
       "navn": "Sosialtjenesteloven",
       "lov": "LOV-2009-12-18-131",
       "forskrifter": [
@@ -1230,7 +1230,7 @@
       ]
     },
     {
-      "mappe": "spraklova",
+      "mappe": "regelverk/spraklova",
       "navn": "Språklova",
       "lov": "LOV-2021-05-21-42",
       "forskrifter": [],
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "mappe": "statsansatteloven",
+      "mappe": "regelverk/statsansatteloven",
       "navn": "Statsansatteloven",
       "lov": "LOV-2017-06-16-67",
       "forskrifter": [
@@ -1257,7 +1257,7 @@
       ]
     },
     {
-      "mappe": "statsborgerloven",
+      "mappe": "regelverk/statsborgerloven",
       "navn": "Statsborgerloven",
       "lov": "LOV-2005-06-10-51",
       "forskrifter": [
@@ -1273,7 +1273,7 @@
       ]
     },
     {
-      "mappe": "tjenestetvistloven",
+      "mappe": "regelverk/tjenestetvistloven",
       "navn": "Tjenestetvistloven",
       "lov": "LOV-1958-07-18-2",
       "forskrifter": [
@@ -1304,7 +1304,7 @@
       ]
     },
     {
-      "mappe": "tolkeloven",
+      "mappe": "regelverk/tolkeloven",
       "navn": "Tolkeloven",
       "lov": "LOV-2021-06-11-79",
       "forskrifter": [
@@ -1320,7 +1320,7 @@
       ]
     },
     {
-      "mappe": "utlendingsloven",
+      "mappe": "regelverk/utlendingsloven",
       "navn": "Utlendingsloven",
       "lov": "LOV-2008-05-15-35",
       "forskrifter": [
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "mappe": "utredningsinstruksen",
+      "mappe": "regelverk/utredningsinstruksen",
       "navn": "Utredningsinstruksen",
       "lov": "FOR-2016-02-19-184",
       "forskrifter": [],
@@ -1347,7 +1347,7 @@
   ],
   "avtaler": [
     {
-      "mappe": "hovedtariffavtalen",
+      "mappe": "regelverk/hovedtariffavtalen",
       "navn": "Hovedtariffavtalen i staten",
       "periode": "1. mai 2026 – 30. april 2028",
       "utgiver": "regjeringen.no, Digitaliserings- og forvaltningsdepartementet",
@@ -1361,7 +1361,7 @@
   ],
   "eu": [
     {
-      "mappe": "eu/forordning-883-2004",
+      "mappe": "regelverk/eu/forordning-883-2004",
       "navn": "Trygdeforordningen",
       "kortnavn": "Trygdeforordningen",
       "nummer": "(EF) nr. 883/2004",
@@ -1371,7 +1371,7 @@
       "eos": "Versjonen er kontrollert mot folketrygdloven § 1-3 a første ledd: endringene M1–M9 i denne versjonen er de som er gjort til norsk lov. Kontrollen ble gjort da teksten lå i den gamle dagpengeskillen, og må gjentas hvis § 1-3 a endres."
     },
     {
-      "mappe": "eu/forordning-987-2009",
+      "mappe": "regelverk/eu/forordning-987-2009",
       "navn": "Gjennomføringsforordningen til trygdeforordningen",
       "kortnavn": "Gjennomføringsforordningen",
       "nummer": "(EF) nr. 987/2009",
@@ -1381,7 +1381,7 @@
       "eos": "Versjonen er kontrollert mot folketrygdloven § 1-3 a andre ledd: endringene M1–M6 i denne versjonen er de som er gjort til norsk lov. Kontrollen ble gjort da teksten lå i den gamle dagpengeskillen, og må gjentas hvis § 1-3 a endres."
     },
     {
-      "mappe": "eu/forordning-492-2011",
+      "mappe": "regelverk/eu/forordning-492-2011",
       "navn": "Forordningen om fri bevegelighet for arbeidstakere",
       "kortnavn": "Forordning 492/2011",
       "nummer": "(EU) nr. 492/2011",
@@ -1390,7 +1390,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/forordning-2016-679",
+      "mappe": "regelverk/eu/forordning-2016-679",
       "navn": "Personvernforordningen (GDPR)",
       "kortnavn": "Personvernforordningen",
       "nummer": "(EU) 2016/679",
@@ -1400,7 +1400,7 @@
       "eos": "Personopplysningsloven § 1 første ledd gjør forordningen til norsk lov med tilpasningene i EØS-avtalen vedlegg XI og protokoll 1. Basen har forordningsteksten slik den ble vedtatt i EU, med rettelser."
     },
     {
-      "mappe": "eu/direktiv-89-391",
+      "mappe": "regelverk/eu/direktiv-89-391",
       "navn": "Rammedirektivet for helse, miljø og sikkerhet",
       "kortnavn": "Rammedirektivet for HMS",
       "nummer": "89/391/EØF",
@@ -1409,7 +1409,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-96-71",
+      "mappe": "regelverk/eu/direktiv-96-71",
       "navn": "Utsendingsdirektivet",
       "kortnavn": "Utsendingsdirektivet",
       "nummer": "96/71/EF",
@@ -1418,7 +1418,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-97-81",
+      "mappe": "regelverk/eu/direktiv-97-81",
       "navn": "Deltidsdirektivet",
       "kortnavn": "Deltidsdirektivet",
       "nummer": "97/81/EF",
@@ -1427,7 +1427,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-98-59",
+      "mappe": "regelverk/eu/direktiv-98-59",
       "navn": "Masseoppsigelsesdirektivet",
       "kortnavn": "Masseoppsigelsesdirektivet",
       "nummer": "98/59/EF",
@@ -1436,7 +1436,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-1999-70",
+      "mappe": "regelverk/eu/direktiv-1999-70",
       "navn": "Direktivet om midlertidig ansettelse",
       "kortnavn": "Direktivet om midlertidig ansettelse",
       "nummer": "1999/70/EF",
@@ -1445,7 +1445,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2000-43",
+      "mappe": "regelverk/eu/direktiv-2000-43",
       "navn": "Direktivet om likebehandling uavhengig av rase eller etnisk opprinnelse",
       "kortnavn": "Rasediskrimineringsdirektivet",
       "nummer": "2000/43/EF",
@@ -1454,7 +1454,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2000-78",
+      "mappe": "regelverk/eu/direktiv-2000-78",
       "navn": "Rammedirektivet om likebehandling i arbeidslivet",
       "kortnavn": "Rammedirektivet om likebehandling",
       "nummer": "2000/78/EF",
@@ -1463,7 +1463,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2001-23",
+      "mappe": "regelverk/eu/direktiv-2001-23",
       "navn": "Virksomhetsoverdragelsesdirektivet",
       "kortnavn": "Virksomhetsoverdragelsesdirektivet",
       "nummer": "2001/23/EF",
@@ -1472,7 +1472,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2002-14",
+      "mappe": "regelverk/eu/direktiv-2002-14",
       "navn": "Direktivet om informasjon og konsultasjon",
       "kortnavn": "Informasjons- og konsultasjonsdirektivet",
       "nummer": "2002/14/EF",
@@ -1481,7 +1481,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2003-88",
+      "mappe": "regelverk/eu/direktiv-2003-88",
       "navn": "Arbeidstidsdirektivet",
       "kortnavn": "Arbeidstidsdirektivet",
       "nummer": "2003/88/EF",
@@ -1490,7 +1490,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2004-38",
+      "mappe": "regelverk/eu/direktiv-2004-38",
       "navn": "Bevegelsesdirektivet (unionsborgerdirektivet)",
       "kortnavn": "Bevegelsesdirektivet",
       "nummer": "2004/38/EF",
@@ -1499,7 +1499,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2006-54",
+      "mappe": "regelverk/eu/direktiv-2006-54",
       "navn": "Likebehandlingsdirektivet (kjønn i arbeidslivet)",
       "kortnavn": "Likebehandlingsdirektivet",
       "nummer": "2006/54/EF",
@@ -1508,7 +1508,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2008-94",
+      "mappe": "regelverk/eu/direktiv-2008-94",
       "navn": "Insolvensdirektivet (lønnsgaranti)",
       "kortnavn": "Insolvensdirektivet",
       "nummer": "2008/94/EF",
@@ -1517,7 +1517,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2008-104",
+      "mappe": "regelverk/eu/direktiv-2008-104",
       "navn": "Vikarbyrådirektivet",
       "kortnavn": "Vikarbyrådirektivet",
       "nummer": "2008/104/EF",
@@ -1526,7 +1526,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2014-67",
+      "mappe": "regelverk/eu/direktiv-2014-67",
       "navn": "Håndhevingsdirektivet til utsendingsdirektivet",
       "kortnavn": "Håndhevingsdirektivet",
       "nummer": "2014/67/EU",
@@ -1535,7 +1535,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2019-1152",
+      "mappe": "regelverk/eu/direktiv-2019-1152",
       "navn": "Direktivet om tydelige og forutsigbare arbeidsvilkår",
       "kortnavn": "Arbeidsvilkårsdirektivet",
       "nummer": "(EU) 2019/1152",
@@ -1544,7 +1544,7 @@
       "sprak": "EN"
     },
     {
-      "mappe": "eu/direktiv-2019-1158",
+      "mappe": "regelverk/eu/direktiv-2019-1158",
       "navn": "Direktivet om balanse mellom arbeid og privatliv",
       "kortnavn": "Balansedirektivet",
       "nummer": "(EU) 2019/1158",

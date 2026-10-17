@@ -5,7 +5,7 @@ forskriftstekst viser til dem.
 
 Brukes av bygg.py. Hva som hentes styres av "eu" i regelverk.json:
 
-    {"mappe": "eu/forordning-883-2004", "navn": "Trygdeforordningen",
+    {"mappe": "regelverk/eu/forordning-883-2004", "navn": "Trygdeforordningen",
      "celex": "32004R0883", "versjon": "02004R0883-20190731", "sprak": "EN",
      "eos": "Kontrollert mot folketrygdloven § 1-3 a ..."}
 

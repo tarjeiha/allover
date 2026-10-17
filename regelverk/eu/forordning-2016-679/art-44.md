@@ -1,0 +1,11 @@
+# Personvernforordningen artikkel 44
+
+**General principle for transfers**
+
+**Kilde:** Personvernforordningen (GDPR) (Forordning 2016/679), EUR-Lex 02016R0679-20160504, språk EN.
+
+Dette er EU-tekst, ikke norsk lov- eller forskriftstekst. Hvilken versjon som gjelder i Norge, avgjøres av EØS-avtalen og norsk gjennomføring: se `regelverk/eu/forordning-2016-679/VEIVISER.md`.
+
+---
+
+Any transfer of personal data which are undergoing processing or are intended for processing after transfer to a third country or to an international organisation shall take place only if, subject to the other provisions of this Regulation, the conditions laid down in this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another international organisation. All provisions in this Chapter shall be applied in order to ensure that the level of protection of natural persons guaranteed by this Regulation is not undermined.

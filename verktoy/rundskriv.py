@@ -11,7 +11,7 @@ For hver fil i innboks/ (PDF, Word, ODT, HTML, Markdown eller tekst):
      og NAV-rundskriv med nummer som R08-00 hører til folketrygdloven.
      Starter filnavnet med en lovmappe (f.eks. arbeidsmiljoloven-...), gjelder den.
   3. Har rundskrivet overskrifter som «Til § 8-4», deles det i én fil per paragraf.
-  4. Alt legges i <lov>/rundskriv/<navn>/, originalen i original/ under samme mappe.
+  4. Alt legges i regelverk/<lov>/rundskriv/<navn>/, originalen i original/ under samme mappe.
 
 Er loven uklar, mangler teksten (f.eks. skannet PDF) eller blir noe av teksten borte
 ved oppdelingen, legges ingenting inn. Filen blir liggende i innboksen, og en fil
@@ -96,8 +96,9 @@ def ser_ut_som_eu_rettsakt(tekst: str) -> bool:
 def finn_lov(fil: Path, tekst: str, lover: list) -> tuple:
     """Returnerer (lov, begrunnelse) eller (None, begrunnelse)."""
     for lov in lover:
-        if fil.name.lower().startswith(lov["mappe"] + "-"):
-            return lov, f"filnavnet starter med «{lov['mappe']}»"
+        navn = Path(lov["mappe"]).name
+        if fil.name.lower().startswith(navn + "-"):
+            return lov, f"filnavnet starter med «{navn}»"
     liten = tekst.lower()
     treff = Counter()
     for lov in lover:
@@ -190,7 +191,7 @@ def legg_inn(fil: Path, lover: list, dato: str) -> str:
     if lov is None:
         raise ValueError(grunn)
     tittel = tittel_fra(tekst, fil)
-    navn = slug(re.sub(rf"^{re.escape(lov['mappe'])}-", "", fil.stem))
+    navn = slug(re.sub(rf"^{re.escape(Path(lov['mappe']).name)}-", "", fil.stem))
     mappe = ROT / lov["mappe"] / "rundskriv" / navn
     deler = del_opp(tekst)
     samlet = "\n".join(d for _, d in deler)
@@ -244,7 +245,7 @@ def legg_inn(fil: Path, lover: list, dato: str) -> str:
 def er_tariffavtale(fil: Path, avtale: dict) -> bool:
     """Hovedtariffavtalen kjennes igjen på filnavnet. Den går ikke gjennom rundskrivløpet."""
     return fil.suffix.lower() in (".docx", ".pdf") and fil.name.lower().startswith(
-        avtale.get("filprefiks", avtale["mappe"])
+        avtale.get("filprefiks", Path(avtale["mappe"]).name)
     )
 
 
