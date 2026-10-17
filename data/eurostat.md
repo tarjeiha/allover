@@ -2,7 +2,20 @@
 
 Eurostat er EUs statistikkbyrå og eier av tallene. Bruk det til å sammenligne Norge med andre land. Norge er med i de fleste arbeidsmarkedstabellene (EØS). Tallene følger felles EU-definisjoner og kan avvike fra SSB og Nav (se «Forbehold»).
 
-## Slik henter du tall
+## Tall som ligger i basen
+
+En fast pakke er hentet til TSV i `data/eurostat/` (Norge, Sverige, Danmark, Finland, Tyskland og EU27, fra 2005 der Eurostat har tall):
+
+| Fil | Innhold |
+|---|---|
+| `une_rt_a.tsv` | Arbeidsledighet, prosent av arbeidsstyrken, 15–74 og 15–24 år, etter kjønn |
+| `lfsi_emp_a.tsv` | Sysselsatte som andel av befolkningen, 15–64 og 20–64 år, etter kjønn |
+| `lfsa_ergan.tsv` | Sysselsettingsrate 20–64 år etter statsborgerskap (`NAT` innenlandsk, `FOR` utenlandsk, `NEU27_2020_FOR` fra land utenfor EU) |
+| `ilc_peps01n.tsv` | Risiko for fattigdom eller sosial eksklusjon, prosent, etter kjønn |
+
+Hver fil har én rad per land og filterkombinasjon og én kolonne per år. Øverst står kilde, tabellkode, Eurostats oppdateringsdato og spørringen som ble brukt. `<kode>.flagg.tsv` har Eurostats flagg per tall. Flagg `b` betyr brudd i serien, `p` foreløpig tall, `e` estimert og `u` lav pålitelighet. Vis flagg bare når de gjelder tallene i svaret. Pakken er definert i `data/eurostat/pakke.json`, og jobben «Hent Eurostat-tall» oppdaterer filene hver mandag. Er svaret avhengig av en tabell eller et land som ikke er i pakken, hent fra API-et under.
+
+## Slik henter du tall fra API-et
 
 Eurostat har et åpent API uten innlogging. Mal:
 
