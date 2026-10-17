@@ -1,0 +1,63 @@
+name: Hent Eurostat-tall
+
+on:
+  schedule:
+    # Hver mandag kl. 05.30 UTC
+    - cron: "30 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: eurostat-hent
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hent tabellene
+        id: hent
+        run: |
+          python3 verktoy/eurostat_hent.py | tee "$RUNNER_TEMP/rapport.txt"
+        continue-on-error: true
+
+      - name: Legg inn på main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/eurostat
+          git diff --cached --quiet && exit 0
+          { echo "Eurostat: oppdaterte tall"; echo; grep -E '^(skrev|uendret)' "$RUNNER_TEMP/rapport.txt"; } > "$RUNNER_TEMP/melding.txt"
+          git commit -q -F "$RUNNER_TEMP/melding.txt"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
+
+      - name: Varsle om feil
+        if: steps.hent.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tittel="Eurostat-henting: feil"
+          { echo "@tarjeiha: den automatiske hentingen av Eurostat-tall stoppet på noe. Se under, eller be Claude se på det."; echo; cat "$RUNNER_TEMP/rapport.txt"; } > "$RUNNER_TEMP/sak.txt"
+          nr=$(gh issue list --state open --search "\"$tittel\" in:title" --json number --jq '.[0].number')
+          if [ -n "$nr" ]; then
+            gh issue comment "$nr" --body-file "$RUNNER_TEMP/sak.txt"
+          else
+            gh issue create --title "$tittel" --assignee tarjeiha --body-file "$RUNNER_TEMP/sak.txt"
+          fi
+
+      - name: Vis resultatet
+        if: always()
+        run: cat "$RUNNER_TEMP/rapport.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true

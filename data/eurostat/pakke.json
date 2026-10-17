@@ -1,0 +1,14 @@
+{
+ "land": ["NO", "SE", "DK", "FI", "DE", "EU27_2020"],
+ "fra_aar": 2005,
+ "tabeller": [
+  {"kode": "une_rt_a", "tittel": "Arbeidsledighet etter kjønn og alder, årlig (prosent av arbeidsstyrken)",
+   "filter": {"unit": ["PC_ACT"], "sex": ["T", "M", "F"], "age": ["Y15-74", "Y15-24"]}},
+  {"kode": "lfsi_emp_a", "tittel": "Sysselsatte som andel av befolkningen etter kjønn og alder, årlig",
+   "filter": {"indic_em": ["EMP_LFS"], "unit": ["PC_POP"], "sex": ["T", "M", "F"], "age": ["Y15-64", "Y20-64"]}},
+  {"kode": "lfsa_ergan", "tittel": "Sysselsettingsrate etter statsborgerskap, årlig (prosent)",
+   "filter": {"unit": ["PC"], "sex": ["T"], "age": ["Y20-64"], "citizen": ["NAT", "FOR", "NEU27_2020_FOR"]}},
+  {"kode": "ilc_peps01n", "tittel": "Personer med risiko for fattigdom eller sosial eksklusjon, etter kjønn (prosent)",
+   "filter": {"unit": ["PC"], "sex": ["T", "M", "F"], "age": ["TOTAL"]}}
+ ]
+}
