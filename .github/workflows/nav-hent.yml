@@ -1,0 +1,73 @@
+name: Hent nye Nav-filer
+
+on:
+  schedule:
+    # Hver mandag kl. 05.00 UTC (07.00 norsk sommertid, 06.00 vintertid)
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: data-innboks
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: pip install openpyxl==3.1.5
+
+      - name: Hent nye filer fra nav.no
+        run: python3 verktoy/nav_hent.py || echo "HENTEFEIL=1" >> "$GITHUB_ENV"
+
+      - name: Legg inn data
+        run: python3 verktoy/data_innboks.py
+
+      - name: Legg inn på main
+        run: |
+          [ -f data-innboks-rapport.txt ] || exit 0
+          mv data-innboks-rapport.txt "$RUNNER_TEMP/melding.txt"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A ':!nav-hent-rapport.txt'
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$RUNNER_TEMP/melding.txt"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
+
+      - name: Varsle om feil
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          : > "$RUNNER_TEMP/sak.txt"
+          grep -q "Ikke lagt inn" "$RUNNER_TEMP/melding.txt" 2>/dev/null && cat "$RUNNER_TEMP/melding.txt" >> "$RUNNER_TEMP/sak.txt"
+          [ -n "$HENTEFEIL" ] && cat nav-hent-rapport.txt >> "$RUNNER_TEMP/sak.txt"
+          [ -s "$RUNNER_TEMP/sak.txt" ] || exit 0
+          tittel="Nav-henting: feil"
+          { echo "@tarjeiha: den automatiske hentingen av Nav-filer stoppet på noe. Se under, eller be Claude se på det."; echo; cat "$RUNNER_TEMP/sak.txt"; } > "$RUNNER_TEMP/sak2.txt"
+          nr=$(gh issue list --state open --search "\"$tittel\" in:title" --json number --jq '.[0].number')
+          if [ -n "$nr" ]; then
+            gh issue comment "$nr" --body-file "$RUNNER_TEMP/sak2.txt"
+          else
+            gh issue create --title "$tittel" --assignee tarjeiha --body-file "$RUNNER_TEMP/sak2.txt"
+          fi
+
+      - name: Vis resultatet
+        if: always()
+        run: |
+          cat nav-hent-rapport.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+          cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true

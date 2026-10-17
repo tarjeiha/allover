@@ -58,7 +58,7 @@ def les_ark(ws):
         r = r[venstre:]
         r = r[:max(i + 1 for i, c in enumerate(r) if c is not None)]
         celler = [c for c in r if c is not None]
-        if er_overskrift(r) and len(celler) >= 3:
+        if er_overskrift(r) and (len(celler) >= 3 or (len(celler) == 2 and r[0] is None)):
             blokk = {"gruppe": ventende or "", "etikett": tekst(r[0]), "kolonner": [tekst(c) for c in r[1:]], "rader": []}
             blokker.append(blokk)
             ventende, rad_gruppe = None, ""
@@ -109,16 +109,27 @@ def heltall_aar(v):
     return v == int(v) and (1990 <= v <= 2100 or (199001 <= v <= 210012 and 1 <= v % 100 <= 12))
 
 
+def er_nummerrad(tall):
+    """Rad med månedsnummer 1, 2, 3 ... (over månedsnavn): en overskrift, ikke data."""
+    return len(tall) >= 3 and [int(t) for t in tall] == list(range(1, len(tall) + 1)) and all(t == int(t) for t in tall)
+
+
 def tall_i_xlsx(wb):
-    """Alle tall i datarkene, bortsett fra heltall som kan være årstall."""
+    """Alle tall i datarkene, bortsett fra heltall som kan være årstall eller perioder.
+
+    Tall som står som tekst («62», «03», «100 ») telles også, siden TSV-en ikke skiller dem fra tall.
+    Rader som bare teller 1, 2, 3 ... (månedsnummer over månedsnavn) er overskrifter og telles ikke."""
     ut = Counter()
     for ws in wb:
         if ws.title.startswith("Om"):
             continue
         for rad in ws.iter_rows(values_only=True):
-            for c in rad:
-                if isinstance(c, str) and re.fullmatch(r"\d{4}", c.strip()):
-                    c = int(c)  # årstall som tekst i overskrift, telles som i TSV-en
+            celler = [c for c in rad if c is not None and tekst(c)]
+            if er_nummerrad([c for c in celler if isinstance(c, (int, float)) and not isinstance(c, bool)]):
+                continue
+            for c in celler:
+                if isinstance(c, str) and re.fullmatch(r"-?\d+([.]\d+)?", c.strip()):
+                    c = float(c.strip())
                 if isinstance(c, (int, float)) and not isinstance(c, bool) and not heltall_aar(c):
                     ut[round(round(float(c), 6), 3)] += 1
     return ut
@@ -130,11 +141,15 @@ def tall_i_tsv(mappe):
         for linje in fil.read_text(encoding="utf-8").splitlines():
             if linje.startswith("#"):
                 continue
+            tall = []
             for c in linje.split("\t"):
                 try:
-                    v = float(c)
+                    tall.append(float(c))
                 except ValueError:
                     continue
+            if er_nummerrad(tall):
+                continue
+            for v in tall:
                 if not heltall_aar(v):
                     ut[round(v, 3)] += 1
     return ut

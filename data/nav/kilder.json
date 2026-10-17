@@ -85,14 +85,14 @@
    "kvartalsfiler": true
   },
   {
-   "monster": "innvandrerstatus",
+   "monster": "sykefraværetterinnvandrerstatus",
    "mappe": "sykefravar-innvandrerstatus",
    "tittel": "Legemeldt sykefravær etter innvandrerstatus",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
    "kvartalsfiler": true
   },
   {
-   "monster": "fødeland|fodeland",
+   "monster": "sykefraværetter(fødeland|fodeland)",
    "mappe": "sykefravar-fodeland",
    "tittel": "Legemeldt sykefravær etter fødeland",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
