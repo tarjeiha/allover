@@ -109,6 +109,11 @@ def heltall_aar(v):
     return v == int(v) and (1990 <= v <= 2100 or (199001 <= v <= 210012 and 1 <= v % 100 <= 12))
 
 
+def er_nummerrad(tall):
+    """Rad med månedsnummer 1, 2, 3 ... (over månedsnavn): en overskrift, ikke data."""
+    return len(tall) >= 3 and [int(t) for t in tall] == list(range(1, len(tall) + 1)) and all(t == int(t) for t in tall)
+
+
 def tall_i_xlsx(wb):
     """Alle tall i datarkene, bortsett fra heltall som kan være årstall eller perioder.
 
@@ -120,7 +125,7 @@ def tall_i_xlsx(wb):
             continue
         for rad in ws.iter_rows(values_only=True):
             celler = [c for c in rad if c is not None and tekst(c)]
-            if len(celler) >= 3 and celler == list(range(1, len(celler) + 1)):
+            if er_nummerrad([c for c in celler if isinstance(c, (int, float)) and not isinstance(c, bool)]):
                 continue
             for c in celler:
                 if isinstance(c, str) and re.fullmatch(r"-?\d+([.]\d+)?", c.strip()):
@@ -136,11 +141,15 @@ def tall_i_tsv(mappe):
         for linje in fil.read_text(encoding="utf-8").splitlines():
             if linje.startswith("#"):
                 continue
+            tall = []
             for c in linje.split("\t"):
                 try:
-                    v = float(c)
+                    tall.append(float(c))
                 except ValueError:
                     continue
+            if er_nummerrad(tall):
+                continue
+            for v in tall:
                 if not heltall_aar(v):
                     ut[round(v, 3)] += 1
     return ut
