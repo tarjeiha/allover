@@ -205,6 +205,288 @@
    "mappe": "aap-diagnose-kjonn-kvartal",
    "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, kvartal (AAP370)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "tabell12ant",
+   "mappe": "uforetrygd-andel-fylke-alder-kvartal",
+   "tittel": "Mottakere av uføretrygd, andel av befolkningen etter fylke og alder (tabell 12)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+  },
+  {
+   "monster": "tabell18",
+   "mappe": "uforetrygd-barnetillegg-fylke-kvartal",
+   "tittel": "Uføre med barnetillegg etter fylke (tabell 18)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+  },
+  {
+   "monster": "tabell20ant",
+   "mappe": "uforetrygd-kommune-kvartal",
+   "tittel": "Uføretrygdede etter kommune (tabell 20)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+  },
+  {
+   "monster": "pst300",
+   "mappe": "uforetrygd-fylke-kjonn-maaned",
+   "tittel": "Mottakere av uføretrygd etter fylke og kjønn, måned (PST300)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst301",
+   "mappe": "uforetrygd-fylke-alder-maaned",
+   "tittel": "Mottakere av uføretrygd etter fylke og alder, måned (PST301)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst302",
+   "mappe": "uforetrygd-fylke-kommune-maaned",
+   "tittel": "Mottakere av uføretrygd etter fylke og kommune, måned (PST302)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst306",
+   "mappe": "uforetrygd-uforegrad-kjonn-maaned",
+   "tittel": "Mottakere av uføretrygd etter uføregrad og kjønn, måned (PST306)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst310",
+   "mappe": "uforetrygd-innvandrerstatus-maaned",
+   "tittel": "Mottakere av uføretrygd etter innvandrerstatus, kjønn og alder, måned (PST310)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst311",
+   "mappe": "uforetrygd-nye-alder-kjonn-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter alder og kjønn, måned (PST311)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst312",
+   "mappe": "uforetrygd-nye-fylke-alder-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter fylke og alder, måned (PST312)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst313",
+   "mappe": "uforetrygd-nye-fylke-kjonn-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter fylke og kjønn, måned (PST313)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst314",
+   "mappe": "uforetrygd-nye-fylke-uforegrad-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter fylke og uføregrad, måned (PST314)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst316",
+   "mappe": "uforetrygd-nye-uforegrad-kjonn-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter uføregrad og kjønn, måned (PST316)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst317",
+   "mappe": "uforetrygd-avgang-kjonn-alder-maaned",
+   "tittel": "Avgang mottakere av uføretrygd etter kjønn og alder, måned (PST317)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "tabell1upantall",
+   "mappe": "uforetrygd-diagnose-beholdning-aar",
+   "tittel": "Uføretrygd: beholdning etter diagnose og kjønn, år (tabell 1)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
+  },
+  {
+   "monster": "tabell2upnye",
+   "mappe": "uforetrygd-diagnose-nye-aar",
+   "tittel": "Uføretrygd: nye mottakere etter diagnose og kjønn, år (tabell 2)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
+  },
+  {
+   "monster": "tabell3uf",
+   "mappe": "uforetrygd-enkeltdiagnoser-aar",
+   "tittel": "Uføretrygd: de mest brukte enkeltdiagnosene (tabell 3)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
+  },
+  {
+   "monster": "ned120",
+   "mappe": "nedsatt-arbeidsevne-alder-kjonn-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter alder og kjønn, måned (NED120)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned150",
+   "mappe": "nedsatt-arbeidsevne-fylke-alder-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter fylke og alder, måned (NED150)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned155",
+   "mappe": "nedsatt-arbeidsevne-kommune-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter kommune, måned (NED155)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned190",
+   "mappe": "nedsatt-arbeidsevne-innvandrerbakgrunn-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter innvandrerbakgrunn, måned (NED190)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned320",
+   "mappe": "nedsatt-arbeidsevne-alder-kjonn-kvartal",
+   "tittel": "Personer med nedsatt arbeidsevne etter alder og kjønn, kvartal (NED320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "pst010",
+   "mappe": "alderspensjon-kjonn-alder-fylke",
+   "tittel": "Alderspensjonister etter kjønn, alder og fylke, tidsserie (PST010)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst072",
+   "mappe": "alderspensjon-nye-kjonn-alder",
+   "tittel": "Nye alderspensjonister etter kjønn og alder, tidsserie (PST072)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst020",
+   "mappe": "alderspensjon-utbetalt-aar",
+   "tittel": "Utbetalt alderspensjon, årlig beløp (PST020)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst011",
+   "mappe": "alderspensjon-kommune",
+   "tittel": "Alderspensjonister etter kommune (PST011)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst040",
+   "mappe": "alderspensjon-andel-62-66",
+   "tittel": "Alderspensjonister, andel av befolkningen 62–66 år (PST040)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst041",
+   "mappe": "alderspensjon-andel-62-75",
+   "tittel": "Alderspensjonister, andel av befolkningen 62–75 år (PST041)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst071",
+   "mappe": "alderspensjon-nye-kvartal",
+   "tittel": "Nye alderspensjonister, kvartal (PST071)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst012",
+   "mappe": "alderspensjon-bosted",
+   "tittel": "Alderspensjonister etter bosted (Norge/utlandet) (PST012)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst013",
+   "mappe": "alderspensjon-innvandrer",
+   "tittel": "Alderspensjonister etter innvandrerbakgrunn (PST013)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst022",
+   "mappe": "alderspensjon-delytelse-mnd",
+   "tittel": "Alderspensjon etter delytelse og tillegg, siste måned (PST022)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst023",
+   "mappe": "alderspensjon-delytelse-tidsserie",
+   "tittel": "Alderspensjon etter delytelse og tillegg, tidsserie (PST023)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst050",
+   "mappe": "alderspensjon-gradert-mnd",
+   "tittel": "Alderspensjonister med gradert uttak, siste måned (PST050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst051",
+   "mappe": "alderspensjon-gradert-tidsserie",
+   "tittel": "Alderspensjonister med gradert uttak, tidsserie (PST051)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst060",
+   "mappe": "alderspensjon-minste-mnd",
+   "tittel": "Minstepensjonister, siste måned (PST060)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst061",
+   "mappe": "alderspensjon-minste-tidsserie",
+   "tittel": "Minstepensjonister, tidsserie (PST061)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst062",
+   "mappe": "alderspensjon-minste-kommune",
+   "tittel": "Minstepensjonister etter kommune (PST062)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst064",
+   "mappe": "alderspensjon-minste-satser",
+   "tittel": "Minstepensjonister og sats (PST064)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst063",
+   "mappe": "alderspensjon-minste-tillegg",
+   "tittel": "Tillegg med utgangspunkt i minste pensjonsnivå (PST063)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst024",
+   "mappe": "alderspensjon-gjenlevendetillegg",
+   "tittel": "Alderspensjonister med gjenlevendetillegg (PST024)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst081",
+   "mappe": "alderspensjon-inntekts-garanti",
+   "tittel": "Alderspensjonister med inntekts- og garantipensjon (PST081)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst082",
+   "mappe": "alderspensjon-nye-inntekts-garanti",
+   "tittel": "Nye alderspensjonister med inntekts- og garantipensjon (PST082)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst083",
+   "mappe": "alderspensjon-inntekts-garanti-mnd",
+   "tittel": "Alderspensjonister med inntekts- og garantipensjon, siste måned (PST083)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst080",
+   "mappe": "alderspensjon-avgangsalder",
+   "tittel": "Gjennomsnittlig avgangsalder fra arbeidslivet (PST080)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst021",
+   "mappe": "alderspensjon-utbetalt-maaned",
+   "tittel": "Utbetalt alderspensjon, månedlig beløp (PST021)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst084",
+   "mappe": "alderspensjon-utbetaling-inntekts-garanti",
+   "tittel": "Årlig utbetaling til alderspensjonister med inntekts- og garantipensjon (PST084)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
   }
  ]
 }
