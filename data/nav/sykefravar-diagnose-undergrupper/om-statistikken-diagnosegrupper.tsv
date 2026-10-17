@@ -1,0 +1,43 @@
+# Kilde: Nav
+# Tabell: Legemeldt sykefravær etter diagnoseundergrupper (SYFRA2402)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar
+# Lagt inn: 2026-10-17
+# Ark: Om statistikken_Diagnosegrupper
+gruppe	rad	Diagnose undergrupper	Diagnosene er klassifisert etter ICPC – kodeverket. Hoveddiagnosene er gruppert etter organkapitlene, med unntak av kreftdiagnosene som er en egen hovedgruppe. Gruppene inneholder følgende ICPC2 diagnosekoder:
+Diagnose hovedgrupper	Allment		Organkappittel A, unntatt A79.
+gruppe	rad	Annet allmennt inkl. avklaring/ prosedyrer	Diagnoser i organkapittel A som ikke inngår i en av de andre undergruppene.
+gruppe	rad	Infeksjonssykdommer	A70 - A78.
+gruppe	rad	Skader/forgiftning/komplikasjoner	A80 - A82 og A84 - A89.
+gruppe	rad	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	A04
+gruppe	rad	Symptomer på sykdom inkl. smerter/feber	A01 - A03, A05 - A11 og A29.
+I alt	Andre lidelser		Organkaptittel B, F, H, S, T, U, X, Y og Z, unntatt kreftdiagnosene som er en egen hovedgruppe.
+I alt	Hjerte- og karsykdommer		Organkapittel K, unntatt K72.
+I alt	Kreft		A79, B72, B73, B74, D74, D75, D76, D77, F74, H75, K72, L71, N74, R84, R85, S77, T71, T73, U75, U76, U77, W72, X75, X76, X77, Y77 og Y78.
+I alt	Sykdom i fordøyelseorganene		Organkapittel D, unntatt D74 - D77.
+I alt	Muskel- og skjelettlidelser		Organkapittel L, unntatt L71.
+gruppe	rad	Andre spesifikke sykdommer i muskel og skjelettsystemet	L70, L82, L94, L95, L97, L98 og L99.
+gruppe	rad	Annet muskel- skjelett inkl. avklaringer/prosedyrer	Diagnoser i organkapittel L som ikke inngår i en av de andre undergruppene
+gruppe	rad	Artrose	L89, L90 og L91.
+gruppe	rad	Betennelse/ overbelastning i sener/ ledd/ slimposer	L87 og L93.
+gruppe	rad	Brudd og skade	L72 - L81 og L96.
+gruppe	rad	Nakke/ skulderlidelser	L01, L08, L83 og L92.
+gruppe	rad	Plager i bryst/kjeve/armer/hånd	L04, L05, L07 og L09 - L12.
+gruppe	rad	Plager i hofte/knær/ben/fot	L13 - L17.
+gruppe	rad	Revmatiske lidelser, inkl. leddgikt	L88
+gruppe	rad	Rygglidelser	L02, L03, L84, L85 og L86.
+gruppe	rad	Smerter og plager i muskler/ledd inkl. fibromyalgi	L18, L19, L20 og L29.
+I alt	Psykiske lidelser		Organkapittel P
+gruppe	rad	Andre psykiske plager	Diagnoser i organkapittel A som ikke inngår i en av de andre undergruppene.
+gruppe	rad	Andre spesifikke psykiske sykdommer inkl. adhd/ autisme	P71, P75, P77, P78, P80, P81, P85, P86 og P99.
+gruppe	rad	Angst-, tvangs- og stresslidelser	P74, P79 og P82.
+gruppe	rad	Depresjon/bipolar lidelse	P73 og P76.
+gruppe	rad	Hukommelsesforstyrrelse/demens	P20 og P70.
+gruppe	rad	Misbruk av alkohol/narkotika/legemidler	P15 - P19
+gruppe	rad	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	P02 og P29.
+gruppe	rad	Psykose/schizofreni	P72 og P98.
+gruppe	rad	Søvnforstyrrelse	P06
+I alt	Sykdommer i luftveiene		Organkapittel R, unntatt R84 og R85.
+gruppe	rad	Andre lidelser i luftveiene	R01 - R09, R21, R23 - R69
+gruppe	rad	Luftveisinfeksjoner	R71, R72, R74, R75, R76, R77, R78, R80, R81, R83, R991, R992, R993, R994, R995, R996, R997, R998 og R999.
+I alt	Svangerskapssykdommer		Organkapittel W, unntatt W72.
+I alt	Ukjent		Sykefravær som mangler diagnosekode.

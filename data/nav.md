@@ -11,12 +11,12 @@ Full liste med mappe, tabell, filer, kildeside og dato står i `data/nav/indeks.
 | Mappe | Innhold | Periode |
 |---|---|---|
 | `sykefravar-tidsserie-kvartal/` | Legemeldt sykefravær per kvartal: prosent, tapte dagsverk, tilfeller, sykmeldte | 1. kv. 2002 – 2. kv. 2026 |
-| `sykefravar-<tema>/k1/` … `k4/` | Sykefravær etter bosted, næring, sektor, yrke, alder, diagnose (hovedgrupper, undergrupper, enkeltdiagnoser), gradert fravær, varighet (fylke/diagnose og varighetsgrupper), innvandrerstatus og fødeland. **Hvert kvartal er en egen mappe** (`k2` = 2. kvartal). | 2010–2026 for hvert kvartal som er lagt inn |
+| `sykefravar-<tema>/` | Sykefravær etter bosted, næring, sektor, yrke, alder, diagnose (hovedgrupper, undergrupper, enkeltdiagnoser), gradert fravær, varighet (fylke/diagnose og varighetsgrupper), innvandrerstatus og fødeland. **Alle kvartaler ligger i samme fil**, med kolonnen `kvartal` (`K1`–`K4`) først på hver rad. | 2010–2026 for hvert kvartal som er lagt inn |
 | `dagpenger-*-maaned/`, `tilleggsstonader-arbeidssokere-maaned/` | Dagpengemottakere (hovedtall, kjønn/alder, fylke/kommune, yrke, varighet, godkjent utdanning), søknader om dagpenger, tilleggsstønader | Måned, til og med september 2026 |
 | `aap-*-maaned/` | AAP-mottakere etter alder/kjønn, fylke, kommune, diagnose, innvandrerbakgrunn | jan.–aug. 2026 |
 | `aap-*-kvartal/` | AAP-mottakere etter alder/kjønn og diagnose | juni 2010–2026 |
 
-**Kvartal i sykefraværstabellene:** Navs filer har ett kvartal per fil, så sammenligning mellom kvartaler krever at du leser flere mapper. Bare `sykefravar-tidsserie-kvartal` har alle kvartal i én fil. Sjekk i `indeks.tsv` hvilke kvartaler som er lagt inn for tabellen.
+**Kvartal i sykefraværstabellene:** Nav leverer én fil per kvartal, men i basen er de slått sammen til én TSV per tabell og ark. Kolonnen `kvartal` sier hvilket kvartal raden gjelder, og årskolonnene viser utviklingen for samme kvartal fra år til år. Kvartaler som ikke er publisert for et år (f.eks. 3. og 4. kvartal 2026) har tom celle. Linjen `# Kvartaler:` øverst viser hvilke kvartaler som er lagt inn. Originalfilene ligger i `original/`.
 
 ## Slik brukes dem
 

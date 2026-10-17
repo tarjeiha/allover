@@ -1,5 +1,5 @@
 {
- "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da legges hvert kvartal i egen undermappe (k1–k4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
+ "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da slås kvartalene sammen til én fil per ark med kolonnen «kvartal» (K1–K4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
  "tabeller": [
   {
    "monster": "syfra2002",

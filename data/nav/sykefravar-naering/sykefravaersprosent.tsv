@@ -1,0 +1,235 @@
+# Kilde: Nav
+# Tabell: Legemeldt sykefravær etter næring (SYFRA520)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar
+# Lagt inn: 2026-10-17
+# Kvartaler: K1 K2 K3 K4
+# Ark: Sykefraværsprosent
+kvartal	kategori	2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026	Endringsprosent
+K1	I alt	5.6	6	5.5	5.6	5.4	5.3	5.1	5.4	5.4	5.3	6	5.5	6.2	6.1	6.2	6.1	6.1	0.9
+K1	Bergverksdrift og utvinning	3.1	3.8	3.5	3.5	3.3	3.5	3.7	4	3.9	3.5	3.8	3.7	4.5	4.1	3.9	3.9	4	2.8
+K1	Bygge- og anleggsvirksomhet	5.8	6.1	5.3	5.5	5.2	4.9	4.8	5	5.1	4.9	5.9	5.3	6	5.9	6.3	6	6	0.1
+K1	Elektrisitet-, vann og renovasjon	4.6	4.8	4.4	4.6	4.3	4.3	4.1	4.3	4.5	4.4	4.6	4.1	4.9	4.7	4.9	4.7	4.8	3.3
+K1	Faglig, vitenskapelig og teknisk tjenesteyting	3.2	3.5	3.3	3.3	3.1	3.1	3.1	3.3	3.4	3.3	3.6	3.2	3.8	3.7	4	4	4	1.7
+K1	Finansierings- og forsikringsvirksomhet	3.8	4	3.9	4	3.6	3.6	3.6	3.8	3.8	3.6	3.8	3.1	3.5	3.7	4	3.9	4	0.7
+K1	Forretningsmessig tjenesteyting	6.4	6.5	5.8	6.1	5.6	5.8	5.3	5.7	5.5	5.4	6.4	5.9	6.8	6.7	6.8	6.6	6.6	-0.2
+K1	Helse- og sosialtjenester	7.7	8.4	8	8.2	7.8	8	7.6	7.9	8	7.9	8.8	8.4	9.3	8.9	9	8.8	9	2.1
+K1	Industri	5.3	5.5	4.9	4.9	4.6	4.4	4.3	4.6	4.6	4.5	5	4.6	5.3	5.1	5.1	4.9	5	1.1
+K1	Informasjon og kommunikasjon	3.4	3.6	3.4	3.4	3.2	3.1	3	3.1	3	2.9	3.1	2.5	3.1	3.2	3.4	3.4	3.3	-0.4
+K1	Jordbruk, skogbruk og fiske	4.7	4.7	4.1	4.4	4.1	4.2	3.9	4.2	4.2	4.1	4.8	4.3	4.7	4.7	4.8	4.8	4.6	-5.2
+K1	Off. adm., forsvar, sosialforsikring	4.2	4.8	4.6	4.6	4.3	4.4	4.3	4.6	4.7	4.6	4.9	4.3	5	5.2	5.1	5	4.9	-1.5
+K1	Omsetning og drift av fast eiendom	4.5	4.3	4.2	4.2	4.1	3.8	3.6	3.8	3.7	3.6	4.4	3.5	3.9	4.2	4.6	4.2	4	-4.3
+K1	Overnattings- og serveringsvirksomhet	6.7	6.5	5.8	6.1	5.6	5.1	4.6	4.8	4.8	4.8	5.5	5.4	5.6	5.6	6.1	5.9	5.9	0.1
+K1	Private tjenester ellers	5.4	5.9	5.6	5.5	5.2	5	4.8	5	5.1	5	5.3	5.1	5.6	5.6	5.7	5.6	5.5	-2.1
+K1	Transport og lagring	6.8	6.9	6.3	6.5	6.2	6.1	6	5.9	6.1	5.9	6.6	6.2	6.8	6.8	6.9	6.8	6.8	1.1
+K1	Ukjent	3.3	4.1	4	3.7	4.4	3.1	3.7	2.4	2.4	3.1	3.6	2.7	3.3	4.1	3.9	4.3	3.5	-17.5
+K1	Undervisning	5.2	5.9	5.6	5.7	5.4	5.5	5.2	5.6	5.7	5.7	6	6.1	6.7	6.6	6.6	6.4	6.5	1.5
+K1	Varehandel, reparasjon av motorvogner	5.4	5.7	5.1	5.3	5.2	4.6	4.5	4.8	4.9	4.8	5.8	5	5.9	5.6	5.7	5.7	5.6	-0.3
+K1	Kvinner	7.1	7.7	7.2	7.4	7	7	6.7	7	7.1	7	7.7	7.3	8.1	7.9	8.1	7.9	8	1.5
+K1	Bergverksdrift og utvinning	4.1	5	4.9	4.5	4.3	4.3	4.6	5	4.9	4.5	4.5	4.4	5.1	4.7	4.7	4.9	5.2	6
+K1	Bygge- og anleggsvirksomhet	5.9	6.1	5.8	5.8	5.9	5.4	5.3	5.6	5.8	5.5	6.8	5.8	6.7	6.6	7.5	6.9	7.1	2.4
+K1	Elektrisitet-, vann og renovasjon	5.4	6.2	5.6	5.6	5.5	5.4	5.4	5.4	5.6	5.5	5.8	4.9	5.9	6	6.3	6.5	6.2	-4.9
+K1	Faglig, vitenskapelig og teknisk tjenesteyting	4.6	5.1	4.9	4.8	4.6	4.4	4.3	4.6	4.7	4.6	5	4.5	5.3	5.3	5.7	5.6	5.8	2.5
+K1	Finansierings- og forsikringsvirksomhet	5.3	5.6	5.5	5.8	5.3	5.1	5.3	5.5	5.5	5.4	5.5	4.6	5.3	5.5	5.7	5.8	6	3.5
+K1	Forretningsmessig tjenesteyting	8.2	8.4	7.8	8	7.4	7.6	6.8	7.3	7	7	7.9	7.2	8.4	8.2	8.3	8.2	8.3	0.7
+K1	Helse- og sosialtjenester	8.3	9.2	8.7	8.9	8.6	8.7	8.3	8.7	8.8	8.7	9.6	9.3	10.1	9.7	9.9	9.7	9.9	2
+K1	Industri	6.8	7.6	6.9	6.7	6.4	5.9	5.9	6.2	6.2	6.2	6.5	6	7	6.6	6.8	6.6	6.7	1
+K1	Informasjon og kommunikasjon	5.5	5.9	5.8	5.6	5.4	5	5	5.3	5.1	4.9	4.9	4.1	4.9	5.1	5.7	5.5	5.6	2.2
+K1	Jordbruk, skogbruk og fiske	5.7	6	5.1	5.9	5.4	5.4	4.9	5.4	5.4	5.3	5.5	5.4	5.7	5.8	6.1	5.9	6.2	4.2
+K1	Off. adm., forsvar, sosialforsikring	5.7	6.6	6.3	6.3	5.9	5.9	5.9	6.2	6.3	6.2	6.6	5.7	6.5	6.8	6.9	6.7	6.6	-1.1
+K1	Omsetning og drift av fast eiendom	5.4	5.4	5.2	5.1	5.4	4.8	4.5	4.9	4.4	4.7	5.4	4.5	4.8	5.1	5.8	4.9	5.1	3.2
+K1	Overnattings- og serveringsvirksomhet	7.5	7.6	6.7	7.1	6.6	6.2	5.4	5.8	5.7	5.9	6.5	6.3	6.6	6.6	7.2	6.9	7	1.3
+K1	Private tjenester ellers	6.6	7.2	6.8	6.7	6.2	6	5.9	6.1	6	6	6.4	6.2	6.8	6.8	6.9	6.8	6.7	-2
+K1	Transport og lagring	8	8.5	8	8.2	7.8	7.8	7.3	7.5	7.7	7.5	8.1	7.5	8.2	8.3	8.4	8.3	8.7	4
+K1	Ukjent	3	5.7	4.2	4.7	5.5	4.3	5.4	2.9	2.9	4.5	3.7	4.7	4.7	4.7	4.9	4.4	5.5	23.2
+K1	Undervisning	6.3	7.1	6.8	6.9	6.6	6.6	6.3	6.7	6.8	7	7.3	7.4	8.2	8	8	7.7	7.9	2.8
+K1	Varehandel, reparasjon av motorvogner	6.8	7.2	6.6	6.8	6.7	6	5.7	6.2	6.3	6.3	7.4	6.6	7.5	7.3	7.3	7.3	7.3	-0.7
+K1	Menn	4.4	4.6	4.1	4.3	4	3.9	3.8	4	4	3.9	4.5	4	4.7	4.5	4.6	4.5	4.5	-0.1
+K1	Bergverksdrift og utvinning	2.9	3.5	3.2	3.2	3.1	3.3	3.4	3.7	3.6	3.3	3.7	3.5	4.3	3.9	3.7	3.7	3.7	1.4
+K1	Bygge- og anleggsvirksomhet	5.8	6.1	5.3	5.5	5.2	4.8	4.8	4.9	5	4.8	5.8	5.3	5.9	5.8	6.2	5.9	5.9	-0.2
+K1	Elektrisitet-, vann og renovasjon	4.5	4.4	4.1	4.3	3.9	4.1	3.8	4.1	4.2	4.2	4.3	3.9	4.6	4.4	4.5	4.1	4.4	7.4
+K1	Faglig, vitenskapelig og teknisk tjenesteyting	2.4	2.5	2.3	2.3	2.2	2.2	2.2	2.3	2.4	2.3	2.6	2.3	2.7	2.5	2.7	2.7	2.7	0.4
+K1	Finansierings- og forsikringsvirksomhet	2.4	2.5	2.4	2.4	2.2	2.2	2.2	2.3	2.2	2.1	2.3	1.8	2.1	2.2	2.5	2.3	2.2	-4.1
+K1	Forretningsmessig tjenesteyting	5	4.9	4.4	4.8	4.4	4.4	4.2	4.6	4.5	4.3	5.4	4.9	5.7	5.7	5.7	5.4	5.4	-0.7
+K1	Helse- og sosialtjenester	4.9	5.1	5	5	4.7	4.7	4.5	4.7	4.7	4.7	5.4	5	5.8	5.4	5.5	5.3	5.5	4.2
+K1	Industri	4.8	4.9	4.4	4.4	4.1	3.9	3.9	4.1	4.1	4	4.5	4.2	4.8	4.6	4.6	4.4	4.4	1
+K1	Informasjon og kommunikasjon	2.5	2.6	2.4	2.5	2.3	2.3	2.2	2.2	2.2	2.1	2.3	1.8	2.4	2.4	2.4	2.5	2.4	-3.1
+K1	Jordbruk, skogbruk og fiske	4.3	4.3	3.8	3.9	3.7	3.8	3.5	3.9	3.8	3.7	4.5	3.9	4.3	4.3	4.3	4.4	4	-9.9
+K1	Off. adm., forsvar, sosialforsikring	2.8	3.2	3	3.1	2.9	2.9	2.8	2.9	3.1	3	3.1	2.8	3.3	3.4	3.2	3.2	3.1	-2.4
+K1	Omsetning og drift av fast eiendom	4	3.7	3.7	3.6	3.4	3.2	3.1	3.3	3.3	2.9	3.8	3	3.4	3.7	4	3.8	3.4	-10.1
+K1	Overnattings- og serveringsvirksomhet	5.5	4.9	4.7	4.8	4.3	3.8	3.6	3.7	3.7	3.6	4.4	4.4	4.5	4.5	5	4.9	4.8	-1.9
+K1	Private tjenester ellers	3.9	4.2	4	3.9	3.8	3.6	3.4	3.7	3.8	3.6	4	3.7	4	4	4.2	4.2	4.1	-2
+K1	Transport og lagring	6.4	6.5	5.8	6	5.7	5.7	5.6	5.6	5.7	5.4	6.2	5.9	6.4	6.4	6.5	6.4	6.4	0.2
+K1	Ukjent	3.7	3	3.8	2.9	3.7	2.5	2.7	2.1	2.2	2.5	3.6	1.8	2.6	3.9	3.5	4.2	2.6	-38.6
+K1	Undervisning	3.4	3.7	3.5	3.6	3.4	3.4	3.1	3.4	3.4	3.3	3.6	3.5	4	4	3.9	3.8	3.7	-3.2
+K1	Varehandel, reparasjon av motorvogner	4.3	4.5	4	4.1	4	3.6	3.5	3.7	3.9	3.8	4.7	3.9	4.8	4.5	4.7	4.5	4.5	0.1
+K2	I alt	5.3	5.4	5	5	5	4.8	4.7	4.8	4.7	4.7	5	5.1	5.2	5.5	5.9	5.6	5.7	2.5
+K2	Bergverksdrift og utvinning	3.1	3.4	3.2	3.1	3.2	3.4	3.6	3.6	3.4	3.2	3.3	3.7	3.9	3.8	3.8	3.6	3.9	8.9
+K2	Bygge- og anleggsvirksomhet	5.3	5.2	4.6	4.7	4.6	4.3	4.3	4.3	4.2	4.2	4.9	4.6	4.7	5.1	5.5	5.3	5.3	0.4
+K2	Elektrisitet-, vann og renovasjon	4.2	4.3	3.9	3.9	3.9	3.8	3.7	3.8	3.7	3.9	3.7	3.9	4.2	4.2	4.4	4.3	4.4	1.9
+K2	Faglig, vitenskapelig og teknisk tjenesteyting	3.2	3.2	3	2.9	3	2.9	2.9	3	2.8	2.9	3	3.1	3.3	3.4	3.9	3.7	3.8	3.2
+K2	Finansierings- og forsikringsvirksomhet	3.6	3.6	3.4	3.4	3.4	3.3	3.4	3.4	3.1	3.3	2.8	3	3.2	3.4	3.8	3.7	3.7	1.4
+K2	Forretningsmessig tjenesteyting	6	5.8	5.1	5.3	5.2	5.1	4.9	5	4.8	4.8	5.6	5.3	5.5	5.9	6.2	5.9	5.9	0.9
+K2	Helse- og sosialtjenester	7.4	7.7	7.2	7.2	7.2	7.2	7.1	7.1	7	7.1	7.4	7.9	7.9	8.1	8.6	8.2	8.4	2.9
+K2	Industri	5	4.8	4.4	4.4	4.4	4	4.1	4.1	3.9	3.9	4.3	4.3	4.5	4.6	4.8	4.5	4.7	4
+K2	Informasjon og kommunikasjon	3.3	3.2	3	2.9	3	2.8	2.8	2.7	2.6	2.6	2.3	2.5	2.7	3	3.3	3.1	3.2	3.1
+K2	Jordbruk, skogbruk og fiske	4.1	3.8	3.5	3.7	3.7	3.6	3.4	3.5	3.5	3.5	3.7	3.7	3.9	3.9	4.2	4	4.2	4.1
+K2	Off. adm., forsvar, sosialforsikring	4.2	4.4	4.1	4.1	4.1	4	4	4.1	3.9	4.1	3.7	4.1	4.6	4.7	5	4.7	4.7	-0.8
+K2	Omsetning og drift av fast eiendom	4.3	4.1	3.8	3.7	3.7	3.5	3.2	3.4	3.3	3.4	3.9	3.3	3.5	3.8	4.2	4	3.8	-4.2
+K2	Overnattings- og serveringsvirksomhet	6.2	5.9	5.5	5.5	5.3	4.6	4.3	4.3	4.2	4.2	5.1	4.5	4.3	5.2	5.7	5.3	5.5	3.9
+K2	Private tjenester ellers	5.4	5.5	5.1	4.9	4.9	4.6	4.6	4.5	4.4	4.5	4.6	4.8	4.7	5	5.5	5.2	5.3	0.3
+K2	Transport og lagring	6.3	6.2	5.7	5.7	5.7	5.6	5.5	5.3	5.2	5.2	6	5.5	5.7	6.1	6.3	6	6.2	3
+K2	Ukjent	3	4.2	3.2	5	3.3	2.2	2.9	2.6	2.3	3.2	3.9	2.7	2.6	3.9	3.5	3.9	3.3	-16.4
+K2	Undervisning	4.9	5.2	5	4.9	5	4.9	4.7	4.9	4.8	5	4.7	5.6	5.5	5.7	6.2	5.8	6	4
+K2	Varehandel, reparasjon av motorvogner	5.2	5.2	4.7	4.7	4.8	4.3	4.2	4.4	4.3	4.4	5	4.6	4.7	5.2	5.4	5.2	5.3	1.5
+K2	Kvinner	6.8	7	6.6	6.5	6.6	6.3	6.2	6.3	6.1	6.3	6.4	6.8	6.8	7.1	7.7	7.3	7.5	2.9
+K2	Bergverksdrift og utvinning	3.9	4.4	4.2	4	4.2	4.1	4.4	4.6	4.2	4	3.5	4.4	4.5	4.4	4.6	4.6	5.2	11.9
+K2	Bygge- og anleggsvirksomhet	5.5	5.8	5.1	5.4	5.4	5	5	5.1	5.1	4.9	5.7	5.4	5.7	6	7	6.5	6.5	-0.7
+K2	Elektrisitet-, vann og renovasjon	5.4	5.4	5.1	4.8	5.2	5	4.8	4.9	4.3	5.2	4.4	4.7	5.2	5.3	6.1	5.9	5.8	-2.1
+K2	Faglig, vitenskapelig og teknisk tjenesteyting	4.5	4.8	4.5	4.2	4.4	4.1	4.1	4.1	4	4.2	4.2	4.4	4.7	4.9	5.8	5.4	5.6	3.8
+K2	Finansierings- og forsikringsvirksomhet	5	5.2	4.9	4.9	4.8	4.8	4.8	4.9	4.6	4.8	4	4.5	4.8	4.9	5.5	5.6	5.7	1.5
+K2	Forretningsmessig tjenesteyting	7.8	7.8	7.1	7.2	6.9	6.7	6.5	6.6	6.2	6.2	6.9	6.7	6.8	7.4	7.9	7.5	7.6	0.7
+K2	Helse- og sosialtjenester	8	8.3	7.8	7.9	7.9	7.8	7.7	7.8	7.6	7.8	8	8.7	8.6	8.9	9.4	9	9.3	3.2
+K2	Industri	6.7	6.7	6.1	6	6	5.5	5.5	5.7	5.4	5.4	5.5	5.8	5.9	6	6.5	6.3	6.4	2.5
+K2	Informasjon og kommunikasjon	5.3	5.4	5.1	5	5.2	4.6	4.7	4.6	4.5	4.2	3.8	4.1	4.3	4.9	5.6	5.3	5.5	3.5
+K2	Jordbruk, skogbruk og fiske	5.1	5.4	4.6	5.2	4.9	4.4	4.3	4.6	4.1	4.2	4.5	4.6	4.8	5.1	5.3	5.1	5.4	6
+K2	Off. adm., forsvar, sosialforsikring	5.7	5.9	5.6	5.5	5.5	5.3	5.4	5.5	5.3	5.5	4.9	5.5	6	6.1	6.7	6.3	6.4	0.2
+K2	Omsetning og drift av fast eiendom	5.2	5.4	4.8	4.6	4.8	4.5	4	4.5	3.9	4.2	4.7	4	4.2	4.5	5.3	4.7	4.8	2.3
+K2	Overnattings- og serveringsvirksomhet	7	6.9	6.3	6.4	6.3	5.4	5.2	5.2	5	5.1	5.9	5.3	5.1	6.1	6.7	6.1	6.4	4.2
+K2	Private tjenester ellers	6.5	6.6	6.2	5.9	6	5.5	5.6	5.4	5.2	5.4	5.4	5.8	5.7	6.1	6.7	6.3	6.3	-0.7
+K2	Transport og lagring	7.6	7.6	7.3	7.4	7.2	7.1	6.9	6.7	6.8	6.7	6.8	6.6	7.2	7.5	8	7.6	8	4.9
+K2	Ukjent	3	4.5	3.9	4.4	4.1	3.5	3.6	3.9	3.3	5	4.4	4.1	3.8	4.5	4.6	4.8	4.9	0.9
+K2	Undervisning	5.9	6.2	6	5.9	6	5.9	5.7	5.9	5.8	6.1	5.7	6.8	6.7	6.9	7.6	7	7.4	5.4
+K2	Varehandel, reparasjon av motorvogner	6.6	6.7	6.2	6.2	6.4	5.7	5.5	5.7	5.6	5.8	6.5	6.2	6.1	6.7	7.1	6.8	6.9	1.5
+K2	Menn	4.1	4.1	3.7	3.7	3.7	3.5	3.5	3.5	3.4	3.4	3.8	3.7	3.9	4	4.2	4	4.1	1.7
+K2	Bergverksdrift og utvinning	2.8	3.1	2.9	2.9	2.9	3.2	3.4	3.3	3.1	3.1	3.3	3.6	3.8	3.6	3.6	3.3	3.6	7.5
+K2	Bygge- og anleggsvirksomhet	5.2	5.2	4.5	4.7	4.6	4.2	4.2	4.2	4.1	4.1	4.8	4.5	4.7	5	5.4	5.2	5.2	0.5
+K2	Elektrisitet-, vann og renovasjon	4	4	3.6	3.7	3.6	3.5	3.5	3.5	3.5	3.6	3.5	3.7	3.9	3.8	3.9	3.8	4	4.1
+K2	Faglig, vitenskapelig og teknisk tjenesteyting	2.3	2.2	2	2	2.1	2	2.1	2.1	2	2	2.2	2.1	2.2	2.3	2.5	2.5	2.6	2.7
+K2	Finansierings- og forsikringsvirksomhet	2.4	2.3	2.1	2.1	2.1	2	2.1	2	1.9	1.9	1.7	1.7	2	2.1	2.3	2.1	2.2	1.9
+K2	Forretningsmessig tjenesteyting	4.5	4.3	3.8	4	3.9	3.9	3.8	3.9	3.9	3.8	4.7	4.3	4.5	4.8	5	4.7	4.7	1.6
+K2	Helse- og sosialtjenester	4.7	4.8	4.5	4.5	4.4	4.4	4.3	4.3	4.2	4.2	4.7	4.7	5	4.9	5.2	5	5.1	1.9
+K2	Industri	4.6	4.3	3.9	3.9	3.9	3.6	3.7	3.7	3.5	3.5	3.9	3.9	4	4.1	4.3	3.9	4.1	4.5
+K2	Informasjon og kommunikasjon	2.5	2.3	2.1	2.1	2.2	2	2	2	1.9	1.9	1.7	1.8	2.1	2.2	2.3	2.2	2.3	2.5
+K2	Jordbruk, skogbruk og fiske	3.7	3.3	3.1	3.2	3.3	3.3	3.1	3.1	3.3	3.2	3.4	3.3	3.5	3.4	3.8	3.6	3.7	2.9
+K2	Off. adm., forsvar, sosialforsikring	2.8	3	2.7	2.7	2.7	2.7	2.6	2.7	2.6	2.7	2.4	2.7	3	3.1	3.2	3	2.9	-3.2
+K2	Omsetning og drift av fast eiendom	3.8	3.4	3.3	3.2	3.2	2.9	2.8	2.9	3	2.9	3.5	2.8	3.1	3.3	3.7	3.6	3.3	-9.2
+K2	Overnattings- og serveringsvirksomhet	5.2	4.6	4.4	4.3	4.1	3.5	3.3	3.3	3.3	3.2	4.2	3.7	3.4	4.2	4.6	4.3	4.5	3.6
+K2	Private tjenester ellers	3.9	3.9	3.7	3.5	3.6	3.4	3.3	3.3	3.4	3.2	3.7	3.4	3.5	3.6	4	3.9	4	2.4
+K2	Transport og lagring	6	5.8	5.3	5.2	5.3	5.2	5.1	4.9	4.8	4.8	5.8	5.2	5.3	5.7	5.9	5.6	5.8	2.4
+K2	Ukjent	3.1	3.9	2.6	5	2.7	1.5	2.4	1.9	1.8	2.3	3.6	2	2.1	3.6	3.1	3.5	2.6	-26.7
+K2	Undervisning	3.2	3.3	3.2	3.2	3.1	3	2.8	3	2.9	2.9	2.9	3.2	3.3	3.4	3.6	3.4	3.4	-1.5
+K2	Varehandel, reparasjon av motorvogner	4.1	4.1	3.6	3.6	3.7	3.3	3.3	3.4	3.3	3.5	4	3.6	3.7	4.1	4.3	4.1	4.2	1.3
+K3	I alt	4.8	4.5	4.4	4.3	4.4	4.2	4.1	4.2	4.1	4.2	4.4	4.5	4.6	4.8	5.1	4.8		-6.3
+K3	Bergverksdrift og utvinning	3	3.2	3	3	3.2	3.3	3.4	3.4	3.2	3.1	3.4	3.8	3.8	3.7	3.8	3.6		-5.3
+K3	Bygge- og anleggsvirksomhet	4.8	4.4	4.2	4.2	4.2	4	3.9	3.9	3.8	3.9	4.3	4.3	4.4	4.8	5.1	4.9		-5.3
+K3	Elektrisitet-, vann og renovasjon	3.9	3.5	3.7	3.5	3.6	3.3	3.4	3.4	3.4	3.5	3.4	3.7	3.8	3.9	4.1	3.9		-4.8
+K3	Faglig, vitenskapelig og teknisk tjenesteyting	3	2.8	2.7	2.6	2.7	2.6	2.6	2.7	2.6	2.7	2.7	2.8	3	3.2	3.6	3.3		-8.5
+K3	Finansierings- og forsikringsvirksomhet	3.4	3.1	3.2	2.9	3	3	3	3	2.8	2.9	2.6	2.7	3	3.1	3.5	3.2		-5.9
+K3	Forretningsmessig tjenesteyting	5.5	5	4.9	4.8	4.7	4.7	4.5	4.5	4.4	4.5	5	5	5.2	5.5	5.8	5.4		-6.6
+K3	Helse- og sosialtjenester	6.4	6.1	6.2	5.9	6.1	6	5.9	6.1	5.9	6	6.4	6.7	6.7	6.8	7.3	6.9		-5.8
+K3	Industri	4.7	4.1	4.1	3.9	4	3.7	3.7	3.7	3.6	3.6	3.9	4	4.1	4.2	4.4	4.1		-6.1
+K3	Informasjon og kommunikasjon	2.9	2.8	2.7	2.6	2.7	2.5	2.5	2.4	2.3	2.3	2.2	2.3	2.6	2.8	3	2.8		-8
+K3	Jordbruk, skogbruk og fiske	3.8	3.3	3.3	3.2	3.4	3.2	3.1	3.2	3.1	3.2	3.4	3.4	3.5	3.6	4	3.6		-10.1
+K3	Off. adm., forsvar, sosialforsikring	3.8	3.7	3.7	3.5	3.6	3.5	3.5	3.6	3.6	3.6	3.5	3.7	4.1	4.1	4.5	4		-11.9
+K3	Omsetning og drift av fast eiendom	3.8	3.5	3.6	3.4	3.5	3	2.9	3.1	3	3	3.2	2.9	3.2	3.5	3.7	3.7		-0.6
+K3	Overnattings- og serveringsvirksomhet	5.8	5.2	5.1	5	5.1	4.1	3.9	3.9	3.8	3.9	4	3.6	4.1	4.8	5.1	4.9		-3.7
+K3	Private tjenester ellers	4.9	4.5	4.6	4.3	4.4	4.1	4	4	3.9	3.9	4	4.1	4.3	4.5	4.7	4.5		-4.4
+K3	Transport og lagring	6.1	5.6	5.4	5.3	5.3	5.4	5.1	5	4.9	4.9	5.3	5.2	5.5	5.8	6.1	5.8		-3.4
+K3	Ukjent	4.7	4.4	2.7	4	3.2	2.2	2.7	2.5	2.7	2.7	3.1	2.3	2.9	3.6	3.5	3.4		-3.9
+K3	Undervisning	3.7	3.6	3.7	3.5	3.6	3.5	3.3	3.5	3.4	3.6	3.8	4	4	4.1	4.4	4		-8.5
+K3	Varehandel, reparasjon av motorvogner	4.8	4.4	4.3	4.3	4.4	3.8	3.8	4	3.9	4.1	4.2	4.2	4.4	4.7	5	4.7		-5.9
+K3	Kvinner	5.9	5.6	5.6	5.4	5.5	5.3	5.2	5.4	5.2	5.3	5.5	5.8	5.8	6.1	6.5	6.1		-6.6
+K3	Bergverksdrift og utvinning	3.7	3.9	3.6	3.7	3.9	3.7	4.1	4	3.9	3.7	3.5	4.1	4.2	4.3	4.5	4.4		-2
+K3	Bygge- og anleggsvirksomhet	4.9	4.8	4.6	4.6	4.7	4.5	4.4	4.7	4.5	4.4	4.8	4.9	5	5.5	6	5.8		-4.4
+K3	Elektrisitet-, vann og renovasjon	4.7	4.2	4.3	4	4.7	4.3	4	4.3	4.1	4.6	4	4.3	4.7	4.8	5.5	5		-10.4
+K3	Faglig, vitenskapelig og teknisk tjenesteyting	4.1	4.1	3.9	3.7	3.8	3.6	3.5	3.7	3.7	3.8	3.7	3.9	4.2	4.4	5.1	4.6		-9.7
+K3	Finansierings- og forsikringsvirksomhet	4.5	4.4	4.5	4.1	4.3	4.3	4.2	4.2	4.1	4.2	3.7	4	4.3	4.3	5.1	4.8		-5
+K3	Forretningsmessig tjenesteyting	7	6.5	6.6	6.4	6.3	6	5.9	5.9	5.6	5.8	6	6.1	6.4	6.8	7.2	6.8		-4.8
+K3	Helse- og sosialtjenester	6.8	6.6	6.6	6.4	6.6	6.5	6.3	6.6	6.4	6.6	7	7.4	7.2	7.5	8	7.5		-5.7
+K3	Industri	6	5.5	5.4	5.2	5.2	4.9	4.8	4.9	4.8	4.8	4.9	5.2	5.2	5.4	5.8	5.5		-4.7
+K3	Informasjon og kommunikasjon	4.7	4.5	4.5	4.1	4.3	4	4.1	3.9	3.8	3.7	3.4	3.6	4	4.5	4.9	4.5		-8.2
+K3	Jordbruk, skogbruk og fiske	5	4.4	4.2	4.6	4.4	4.1	3.6	4.5	3.5	3.8	3.8	4.1	4.3	4.7	4.7	4.6		-3.7
+K3	Off. adm., forsvar, sosialforsikring	5	4.9	5	4.7	4.7	4.6	4.6	4.8	4.7	4.8	4.5	4.9	5.3	5.4	5.9	5.3		-11.3
+K3	Omsetning og drift av fast eiendom	4.6	4.4	4.4	4.1	4.4	3.7	3.6	3.7	3.7	3.7	3.9	3.4	3.7	4.2	4.4	4.2		-3
+K3	Overnattings- og serveringsvirksomhet	6.5	5.9	5.8	5.8	5.8	4.7	4.6	4.6	4.4	4.5	4.6	4.1	4.8	5.6	5.8	5.6		-3.8
+K3	Private tjenester ellers	5.8	5.4	5.5	5.1	5.4	4.9	4.8	4.8	4.5	4.7	4.7	4.9	5.1	5.4	5.7	5.3		-6.3
+K3	Transport og lagring	7.1	6.7	6.7	6.8	6.4	6.7	6.4	6.3	6.3	6.2	6.3	6	6.7	7.1	7.7	7.3		-5.8
+K3	Ukjent	5	5.4	3.3	4.4	4.4	3.2	4.7	3.5	4.4	3.1	3.7	2.7	3.4	3.9	5	4.3		-13.9
+K3	Undervisning	4.3	4.1	4.3	4	4.2	4.1	3.9	4.1	4	4.2	4.5	4.8	4.7	4.9	5.2	4.7		-8.6
+K3	Varehandel, reparasjon av motorvogner	6.1	5.7	5.5	5.5	5.6	4.9	4.8	5.1	5	5.2	5.4	5.5	5.6	6	6.4	5.9		-7.4
+K3	Menn	3.9	3.5	3.5	3.4	3.4	3.2	3.2	3.2	3.1	3.2	3.4	3.4	3.6	3.7	3.9	3.7		-5.9
+K3	Bergverksdrift og utvinning	2.8	3	2.9	2.8	3	3.2	3.3	3.3	3.1	2.9	3.3	3.7	3.7	3.6	3.6	3.4		-6.4
+K3	Bygge- og anleggsvirksomhet	4.8	4.4	4.2	4.2	4.2	3.9	3.9	3.9	3.7	3.8	4.3	4.2	4.3	4.7	5	4.8		-5.5
+K3	Elektrisitet-, vann og renovasjon	3.7	3.4	3.5	3.4	3.4	3.1	3.2	3.2	3.3	3.2	3.2	3.5	3.6	3.6	3.6	3.5		-2.2
+K3	Faglig, vitenskapelig og teknisk tjenesteyting	2.2	2	2	1.9	2	2	2	2	1.9	1.9	2	2	2.1	2.2	2.4	2.2		-6.8
+K3	Finansierings- og forsikringsvirksomhet	2.3	2.1	1.9	1.8	1.9	1.8	1.9	1.8	1.7	1.8	1.6	1.6	1.9	2	2.1	1.9		-7.6
+K3	Forretningsmessig tjenesteyting	4.2	3.8	3.8	3.7	3.7	3.7	3.5	3.5	3.5	3.6	4.2	4.2	4.3	4.5	4.8	4.4		-8.1
+K3	Helse- og sosialtjenester	4.2	4.1	4.1	3.9	3.9	3.8	3.8	3.8	3.7	3.7	4.1	4.2	4.4	4.4	4.7	4.4		-6
+K3	Industri	4.3	3.7	3.7	3.5	3.6	3.3	3.4	3.4	3.3	3.3	3.6	3.6	3.8	3.8	3.9	3.7		-6.9
+K3	Informasjon og kommunikasjon	2.2	2.1	1.9	1.9	2	1.9	1.8	1.8	1.7	1.8	1.7	1.7	2	2.1	2.2	2		-7.8
+K3	Jordbruk, skogbruk og fiske	3.4	2.9	2.9	2.8	3	2.9	2.9	2.8	3	3	3.2	3.2	3.2	3.2	3.7	3.3		-13.1
+K3	Off. adm., forsvar, sosialforsikring	2.7	2.6	2.5	2.4	2.5	2.5	2.4	2.5	2.4	2.4	2.3	2.5	2.9	2.8	3	2.6		-13.3
+K3	Omsetning og drift av fast eiendom	3.3	3.1	3.1	3	3.1	2.6	2.5	2.7	2.6	2.6	2.8	2.6	2.9	3.1	3.3	3.4		1.3
+K3	Overnattings- og serveringsvirksomhet	4.7	4.2	4.2	4	4.1	3.3	3	3.1	3	3.1	3.3	3	3.3	3.9	4.3	4.1		-3.6
+K3	Private tjenester ellers	3.6	3.3	3.4	3.2	3.1	3.1	2.9	3	3	2.9	3.1	3	3.2	3.3	3.5	3.5		-0.4
+K3	Transport og lagring	5.8	5.3	5.1	4.9	5	5.1	4.8	4.7	4.6	4.6	5.1	5	5.2	5.5	5.6	5.5		-2.5
+K3	Ukjent	4.5	3.4	2.1	3.6	2.3	1.6	1.7	1.9	1.8	2.5	2.8	2.2	2.6	3.4	2.9	2.9		3.1
+K3	Undervisning	2.6	2.5	2.6	2.5	2.5	2.4	2.2	2.4	2.2	2.3	2.4	2.5	2.6	2.6	2.7	2.5		-8.3
+K3	Varehandel, reparasjon av motorvogner	3.9	3.5	3.4	3.3	3.5	3	3	3.1	3.1	3.2	3.4	3.3	3.6	3.8	4	3.8		-4.3
+K4	I alt	5.7	5.2	5.3	5.1	5.2	4.9	5	5.1	5	5.1	5.4	5.7	5.7	6	5.8	5.8		-1.1
+K4	Bergverksdrift og utvinning	3.4	3.4	3.2	3.3	3.5	3.6	3.8	3.8	3.5	3.4	3.8	4.3	4.2	4	4	4		2
+K4	Bygge- og anleggsvirksomhet	5.6	4.9	5	4.9	4.8	4.4	4.5	4.5	4.5	4.7	4.9	5.3	5.3	5.8	5.7	5.6		-1.7
+K4	Elektrisitet-, vann og renovasjon	4.5	4	4.4	4.1	4.2	4.1	4.1	4.2	4.2	4.1	3.9	4.7	4.6	4.8	4.4	4.6		3.9
+K4	Faglig, vitenskapelig og teknisk tjenesteyting	3.4	3.2	3.2	3.1	3.2	3.1	3.1	3.2	3.1	3.3	3.2	3.5	3.7	4	3.9	3.9		-1.1
+K4	Finansierings- og forsikringsvirksomhet	4	3.7	3.8	3.6	3.5	3.6	3.6	3.6	3.5	3.6	3.1	3.4	3.6	3.9	3.9	3.9		0.7
+K4	Forretningsmessig tjenesteyting	6.3	5.6	5.6	5.4	5.5	5.3	5.3	5.2	5.1	5.4	5.7	6	6.3	6.7	6.3	6.3		-1.2
+K4	Helse- og sosialtjenester	7.9	7.5	7.6	7.4	7.5	7.3	7.4	7.7	7.4	7.7	8.1	8.7	8.4	8.7	8.4	8.4		0.2
+K4	Industri	5.4	4.8	4.8	4.6	4.6	4.3	4.3	4.4	4.3	4.3	4.5	4.9	5	5.1	4.9	4.8		-1.5
+K4	Informasjon og kommunikasjon	3.4	3.2	3.2	3.1	3.1	2.9	3	2.8	2.8	2.8	2.6	2.9	3.1	3.5	3.3	3.2		-2.4
+K4	Jordbruk, skogbruk og fiske	4.5	4	3.9	3.8	3.8	3.5	3.6	3.8	3.7	3.9	4.1	4.3	4.2	4.4	4.6	4.3		-6.1
+K4	Off. adm., forsvar, sosialforsikring	4.5	4.4	4.4	4.2	4.2	4.2	4.2	4.5	4.4	4.5	4.3	4.7	5	5	4.9	4.6		-6.4
+K4	Omsetning og drift av fast eiendom	4.2	4.1	3.9	4	3.9	3.5	3.7	3.5	3.7	3.6	3.6	3.6	4	4.6	4.2	4.1		-2.9
+K4	Overnattings- og serveringsvirksomhet	6.4	5.7	5.7	5.5	5.4	4.5	4.6	4.6	4.4	4.7	4.9	4.6	5.1	5.8	5.7	5.6		-1.1
+K4	Private tjenester ellers	5.6	5.3	5.3	5	5.2	4.7	4.7	4.8	4.7	4.7	5	5.1	5.2	5.5	5.4	5.3		-2
+K4	Transport og lagring	6.6	6	6.1	5.9	5.8	5.8	5.8	5.7	5.4	5.6	5.9	6.2	6.3	6.7	6.5	6.5		-0.3
+K4	Ukjent	5.5	4.6	3.1	3.7	4.3	3	3	3	3.1	3.5	3.1	3.1	4	4.1	4.8	3.6		-23.8
+K4	Undervisning	5.2	5	5.2	4.9	5.1	4.9	4.9	5.2	5.2	5.4	5.7	6	5.9	6.2	5.9	5.9		-1.3
+K4	Varehandel, reparasjon av motorvogner	5.5	5	5	4.9	4.9	4.4	4.5	4.7	4.6	4.8	4.9	5.2	5.4	5.7	5.5	5.4		-1.9
+K4	Kvinner	7.3	6.8	6.9	6.7	6.8	6.4	6.5	6.8	6.6	6.8	7	7.5	7.4	7.8	7.6	7.5		-0.7
+K4	Bergverksdrift og utvinning	4.4	4.4	4.2	4.3	4.5	4.4	4.7	4.8	4.4	4.2	4.4	5	4.7	4.9	4.9	5.2		7
+K4	Bygge- og anleggsvirksomhet	5.9	5.5	5.7	5.6	5.5	5.2	5.2	5.5	5.5	5.9	5.7	6.2	6	7.2	6.8	7		2.5
+K4	Elektrisitet-, vann og renovasjon	6	5.2	5.2	5.4	5.4	5.5	5.2	5.2	5.3	5.2	5.1	5.8	5.7	6.1	6.2	6.1		-2.7
+K4	Faglig, vitenskapelig og teknisk tjenesteyting	5	4.8	4.7	4.6	4.6	4.3	4.4	4.5	4.5	4.6	4.5	5	5.2	5.7	5.7	5.7		-1.1
+K4	Finansierings- og forsikringsvirksomhet	5.5	5.4	5.5	5.1	5.2	5.2	5.4	5.2	5.1	5.3	4.6	5.1	5.3	5.6	5.7	5.8		2.6
+K4	Forretningsmessig tjenesteyting	8.3	7.4	7.4	7.2	7.4	6.8	7	6.9	6.6	6.8	7	7.4	7.7	8.3	7.9	7.9		-0.1
+K4	Helse- og sosialtjenester	8.6	8.1	8.3	8.1	8.2	8	8	8.4	8.1	8.4	8.9	9.5	9.2	9.5	9.3	9.3		0.2
+K4	Industri	7.3	6.6	6.7	6.3	6.2	5.8	5.8	6	5.9	5.8	5.8	6.5	6.4	6.7	6.7	6.6		-0.7
+K4	Informasjon og kommunikasjon	5.7	5.5	5.5	5.3	5.1	4.8	5	4.7	4.7	4.6	4.1	4.6	5	5.7	5.4	5.3		-1.1
+K4	Jordbruk, skogbruk og fiske	5.7	5.1	5.2	5.1	5.1	4.4	4.4	5	4.6	5	5.2	5.3	5.1	5.7	5.7	5.7		-0.5
+K4	Off. adm., forsvar, sosialforsikring	6.2	5.9	6	5.8	5.8	5.7	5.6	6	5.9	6.1	5.6	6.2	6.5	6.6	6.6	6.2		-7
+K4	Omsetning og drift av fast eiendom	5.1	5.1	4.8	5	5.2	4.6	4.6	4.4	4.8	4.4	4.6	4.3	4.8	5.7	4.9	5		1.1
+K4	Overnattings- og serveringsvirksomhet	7.4	6.6	6.7	6.4	6.4	5.3	5.5	5.5	5.3	5.6	5.7	5.3	6	6.9	6.6	6.6		-0.2
+K4	Private tjenester ellers	6.7	6.3	6.4	5.9	6.3	5.6	5.7	5.8	5.6	5.6	6	6.2	6.2	6.6	6.4	6.3		-2.3
+K4	Transport og lagring	8.4	7.8	7.7	7.7	7.6	7.3	7.3	7.5	7.1	7.3	7.2	7.7	8	8.4	8.3	8.4		1.4
+K4	Ukjent	5.2	4.9	4.2	4.4	5.3	4.1	4.9	4	4.7	3.4	4.4	4	4.7	5	6.4	4.9		-22.7
+K4	Undervisning	6.3	6	6.3	5.9	6.1	5.9	5.9	6.3	6.2	6.5	6.9	7.3	7.1	7.4	7.1	7.1		-0.6
+K4	Varehandel, reparasjon av motorvogner	6.9	6.4	6.3	6.3	6.3	5.6	5.7	6	5.9	6.1	6.4	6.8	6.9	7.2	7.1	6.9		-2.3
+K4	Menn	4.4	4	4	3.8	3.8	3.7	3.7	3.7	3.7	3.8	3.9	4.2	4.3	4.5	4.4	4.3		-1.7
+K4	Bergverksdrift og utvinning	3.1	3.2	3	3	3.2	3.4	3.5	3.6	3.2	3.2	3.6	4.1	4	3.7	3.7	3.7		0
+K4	Bygge- og anleggsvirksomhet	5.6	4.8	5	4.8	4.8	4.4	4.4	4.5	4.4	4.6	4.9	5.2	5.3	5.6	5.6	5.4		-2.3
+K4	Elektrisitet-, vann og renovasjon	4.2	3.8	4.2	3.8	3.9	3.7	3.9	3.9	3.9	3.7	3.6	4.4	4.2	4.4	3.9	4.2		7.4
+K4	Faglig, vitenskapelig og teknisk tjenesteyting	2.4	2.2	2.2	2.2	2.2	2.2	2.2	2.3	2.1	2.3	2.3	2.4	2.5	2.7	2.6	2.6		-1.2
+K4	Finansierings- og forsikringsvirksomhet	2.7	2.3	2.3	2.2	2.1	2	2.1	2.2	2	2.1	1.8	2	2.2	2.4	2.3	2.3		-2.5
+K4	Forretningsmessig tjenesteyting	4.8	4.3	4.3	4.1	4.2	4.2	4.2	4.1	4.1	4.4	4.7	5	5.2	5.5	5.2	5.1		-1.6
+K4	Helse- og sosialtjenester	4.9	4.8	4.7	4.6	4.5	4.4	4.5	4.6	4.4	4.6	4.9	5.3	5.3	5.4	5.2	5.3		1.4
+K4	Industri	4.9	4.3	4.3	4.1	4.1	3.8	3.9	3.9	3.9	3.9	4.1	4.5	4.6	4.6	4.4	4.3		-2
+K4	Informasjon og kommunikasjon	2.5	2.3	2.3	2.2	2.4	2.1	2.2	2	2.1	2.1	1.9	2.1	2.3	2.5	2.5	2.4		-3.7
+K4	Jordbruk, skogbruk og fiske	4.1	3.6	3.5	3.4	3.3	3.2	3.3	3.3	3.3	3.5	3.7	3.9	3.9	3.9	4.2	3.9		-8.9
+K4	Off. adm., forsvar, sosialforsikring	3	2.9	2.9	2.7	2.7	2.7	2.8	2.9	2.8	2.9	2.8	3.1	3.3	3.3	3.1	3		-5.3
+K4	Omsetning og drift av fast eiendom	3.8	3.6	3.4	3.4	3.3	2.9	3.1	3	3.1	3.1	3	3.2	3.6	4	3.9	3.6		-5.9
+K4	Overnattings- og serveringsvirksomhet	4.9	4.5	4.4	4.3	4	3.6	3.4	3.5	3.4	3.6	4.1	3.7	4.1	4.6	4.7	4.6		-2.7
+K4	Private tjenester ellers	4.2	3.9	3.9	3.7	3.7	3.5	3.4	3.6	3.5	3.5	3.7	3.7	3.9	4.1	4	4		-1.2
+K4	Transport og lagring	6.2	5.5	5.7	5.4	5.3	5.4	5.4	5.3	5	5.2	5.6	5.9	5.9	6.2	6	6		-0.8
+K4	Ukjent	5.6	4.5	2.3	3.1	3.6	2.4	2	2.6	2.5	3.5	2.4	2.6	3.8	3.7	4	3		-25.2
+K4	Undervisning	3.3	3.3	3.3	3.1	3.1	3	3	3.2	3.1	3.1	3.3	3.6	3.6	3.6	3.6	3.4		-4
+K4	Varehandel, reparasjon av motorvogner	4.4	3.9	3.9	3.8	3.9	3.5	3.5	3.7	3.6	3.8	3.9	4.2	4.3	4.7	4.5	4.4		-1.4
