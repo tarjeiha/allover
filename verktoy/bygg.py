@@ -301,7 +301,7 @@ def skriv_nevnte(nevnt: dict) -> None:
 
 def refid_for(sti: Path) -> str:
     """DokumentID i gjeldende tekst: 'NL/lov/1988-04-29-21' -> 'lov/1988-04-29-21'."""
-    m = re.search(r'class="dokid"[^>]*>\s*([^<\s]+)', sti.read_text(encoding="utf-8", errors="ignore"))
+    m = re.search(r'<dd class="dokid"[^>]*>\s*([^<\s]+)', sti.read_text(encoding="utf-8", errors="ignore"))
     return m.group(1).split("/", 1)[1] if m and "/" in m.group(1) else ""
 
 

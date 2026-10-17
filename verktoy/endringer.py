@@ -35,8 +35,9 @@ GRENSE_DAGER = 90
 MAPPE = "vedtatte-endringer"
 
 DATO = re.compile(r"\d{4}-\d{2}-\d{2}")
-ENDRER = re.compile(r'<dd class="changesToDocuments">(.*?)</dd>', re.S)
-TITTEL = re.compile(r'<dd class="title">(.*?)</dd>', re.S)
+ENDRER = re.compile(r'<dd class="changesToDocuments"[^>]*>(.*?)</dd>', re.S)
+TITTEL = re.compile(r'<dd class="title"[^>]*>(.*?)</dd>', re.S)
+LI = re.compile(r"<li[^>]*>\s*([^<\s]+)")
 MAANED = {m: i + 1 for i, m in enumerate(
     ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august",
      "september", "oktober", "november", "desember"])}
@@ -181,6 +182,9 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
     maal: refid ('lov/1988-04-29-21') -> sti til gjeldende dokument.
     Returnerer refid -> liste av akter med endringer som ikke er tatt inn.
     """
+    print(f"Lovtidend: ser etter endringer i {len(maal)} dokumenter")
+    if not maal:
+        raise ValueError("fant ikke DokumentID i noen av dokumentene i basen")
     kandidater = []
     vedtak_for: dict = {}
     for navn, raa in _dokumenter(filer):
@@ -192,7 +196,7 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
             for ref in _aktref(tittel + " " + _dd(soup, "miscInformation")):
                 vedtak_for.setdefault(ref, []).append(v)
         endrer = ENDRER.search(raa)
-        if endrer and any(r in maal for r in re.findall(r"<li>([^<]+)</li>", endrer.group(1))):
+        if endrer and any(r in maal for r in LI.findall(endrer.group(1))):
             kandidater.append(zlib.compress(raa.encode("utf-8")))
     print(f"Lovtidend: {len(kandidater)} endringsakter berører regelverk i basen")
     sjekket = 0
