@@ -56,6 +56,8 @@ def er_overskrift(rad):
 def les_ark(ws):
     rader = [[(c if tekst(c) else None) for c in r] for r in ws.iter_rows(values_only=True)]
     rader = [r for r in rader if any(c is not None for c in r)]
+    if not rader:
+        return [], [], []  # tomt ark
     venstre = min(next(i for i, c in enumerate(r) if c is not None) for r in rader)
     ingress, noter, blokker, blokk, ventende, rad_gruppe = [], [], [], None, None, ""
     for r in rader:

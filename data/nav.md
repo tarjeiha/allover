@@ -22,6 +22,12 @@ Full liste med mappe, tabell, filer, kildeside og dato står i `data/nav/indeks.
 | `ledige-stillinger-*/` | Tilgang av ledige stillinger etter kilde, fylke og yrke | Måned (til sep. 2026) og år |
 | `tiltaksdeltakere-*/`, `tiltak-nedsatt-arbeidsevne-*/` | Tiltaksdeltakere etter tiltakstype, demografi og fylke, og personer med nedsatt arbeidsevne på tiltak | Måned (til sep. 2026) og år (til 2025) |
 | `arbeidsindikator-*/` | Navs arbeidsindikator: resultater og tidsserier for landet, fylker, tiltak og avtaler | Mars 2026 |
+| `afp-privat-*/` | AFP i privat sektor: mottakere etter kjønn og fylke, nye mottakere og gjennomsnittlig årlig pensjon. Gjelder ikke AFP i offentlig sektor | Tidsserier til 2. kv. 2026 og år til 2025 |
+| `gjenlevende-*/`, `barnepensjon-*/`, `omstillingsstonad/` | Ytelser til gjenlevende: antall og andel med redusert ytelse, utbetalt pensjon, barnepensjonister og omstillingsstønad | Tidsserier til 2. kv. 2026 og år til 2025 |
+| `krigspensjon/`, `supplerende-stonad-alderspensjon/` | Mottakere av krigspensjon og av supplerende stønad til alderspensjonister | Tidsserier til 2. kv. 2026 |
+| `kontantstotte-fylke-kommune/` | Barn med kontantstøtte etter fylke og kommune | September 2026 |
+| `utbetalinger-*/` | Utbetalinger fra Nav i Norge (per fylke, kommune, kjønn, alder, innvandrer) og til utlandet, med tidsserier 2013–2025 | 2025 |
+| `utenforskap-*/`, `trygdesvindel/`, `stonadsmottakere-2007-2016/` | Utenforskap fra arbeidslivet (20–29 og 20–66 år), trygdesvindel og personer med stønad 2007–2016 | 2025 (stønadsmottakere til 2016) |
 
 **Kvartal i sykefraværstabellene:** Nav leverer én fil per kvartal, men i basen er de slått sammen til én TSV per tabell og ark. Kolonnen `kvartal` sier hvilket kvartal raden gjelder, og årskolonnene viser utviklingen for samme kvartal fra år til år. Kvartaler som ikke er publisert for et år (f.eks. 3. og 4. kvartal 2026) har tom celle. Linjen `# Kvartaler:` øverst viser hvilke kvartaler som er lagt inn. Originalfilene ligger i `original/`.
 
@@ -34,4 +40,4 @@ Full liste med mappe, tabell, filer, kildeside og dato står i `data/nav/indeks.
 
 ## Nav-statistikk som ikke er lagt inn
 
-Se `data/nav-oversikt.md` for oversikt over filer og sider. Gjelder bl.a. familieytelser, AFP, sosialhjelp, grunnstønad og hjelpestønad (arbeidssøkere og stillinger er lagt inn), og dagpenger etter alder/fylke for tidligere måneder. For slike spørsmål: vis til Navs statistikkside, og ikke svar fra hukommelsen.
+Se `data/nav-oversikt.md` for oversikt over filer og sider. Gjelder bl.a. barnetrygd, barnebidrag, enslig mor eller far, pleiepenger, foreldrepenger, AFP i offentlig sektor, sosialhjelp, grunnstønad og hjelpestønad. Nav publiserer ikke disse som xlsx (kun nettabeller, pdf eller bilder), og dagpenger etter alder/fylke for tidligere måneder. For slike spørsmål: vis til Navs statistikkside, og ikke svar fra hukommelsen.
