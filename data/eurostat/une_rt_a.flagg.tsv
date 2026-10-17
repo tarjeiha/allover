@@ -1,0 +1,46 @@
+# Kilde: Eurostat, tabell une_rt_a
+# Tabell: Arbeidsledighet etter kjønn og alder, årlig (prosent av arbeidsstyrken)
+# Eurostat-tittel: Unemployment by sex and age - annual data
+# Oppdatert hos Eurostat: 2026-09-10T23:00:00+0200
+# Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_rt_a?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=DE&geo=EU27_2020&unit=PC_ACT&sex=T&sex=M&sex=F&age=Y15-74&age=Y15-24
+# geo: EU27_2020=European Union - 27 countries (from 2020); DK=Denmark; DE=Germany; FI=Finland; SE=Sweden; NO=Norway
+# age: Y15-24=From 15 to 24 years; Y15-74=From 15 to 74 years
+# unit: PC_ACT=Percentage of population in the labour force
+# sex: T=Total; M=Males; F=Females
+geo	age	unit	sex	aar	flagg
+DK	Y15-24	PC_ACT	F	2016	b
+DK	Y15-24	PC_ACT	F	2017	b
+DK	Y15-24	PC_ACT	F	2023	b
+DE	Y15-24	PC_ACT	F	2010	b
+DE	Y15-24	PC_ACT	F	2011	b
+DE	Y15-24	PC_ACT	F	2020	b
+DK	Y15-24	PC_ACT	M	2016	b
+DK	Y15-24	PC_ACT	M	2017	b
+DK	Y15-24	PC_ACT	M	2023	b
+DE	Y15-24	PC_ACT	M	2010	b
+DE	Y15-24	PC_ACT	M	2011	b
+DE	Y15-24	PC_ACT	M	2020	b
+DK	Y15-24	PC_ACT	T	2016	b
+DK	Y15-24	PC_ACT	T	2017	b
+DK	Y15-24	PC_ACT	T	2023	b
+DE	Y15-24	PC_ACT	T	2010	b
+DE	Y15-24	PC_ACT	T	2011	b
+DE	Y15-24	PC_ACT	T	2020	b
+DK	Y15-74	PC_ACT	F	2016	b
+DK	Y15-74	PC_ACT	F	2017	b
+DK	Y15-74	PC_ACT	F	2023	b
+DE	Y15-74	PC_ACT	F	2010	b
+DE	Y15-74	PC_ACT	F	2011	b
+DE	Y15-74	PC_ACT	F	2020	b
+DK	Y15-74	PC_ACT	M	2016	b
+DK	Y15-74	PC_ACT	M	2017	b
+DK	Y15-74	PC_ACT	M	2023	b
+DE	Y15-74	PC_ACT	M	2010	b
+DE	Y15-74	PC_ACT	M	2011	b
+DE	Y15-74	PC_ACT	M	2020	b
+DK	Y15-74	PC_ACT	T	2016	b
+DK	Y15-74	PC_ACT	T	2017	b
+DK	Y15-74	PC_ACT	T	2023	b
+DE	Y15-74	PC_ACT	T	2010	b
+DE	Y15-74	PC_ACT	T	2011	b
+DE	Y15-74	PC_ACT	T	2020	b

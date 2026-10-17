@@ -1,0 +1,28 @@
+# Kilde: Eurostat, tabell ilc_peps01n
+# Tabell: Personer med risiko for fattigdom eller sosial eksklusjon, etter kjønn (prosent)
+# Eurostat-tittel: Persons at risk of poverty or social exclusion by age and sex
+# Oppdatert hos Eurostat: 2026-10-05T23:00:00+0200
+# Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_peps01n?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=DE&geo=EU27_2020&unit=PC&sex=T&sex=M&sex=F&age=TOTAL
+# geo: EU27_2020=European Union - 27 countries (from 2020); DK=Denmark; DE=Germany; FI=Finland; SE=Sweden; NO=Norway
+# unit: PC=Percentage
+# age: TOTAL=Total
+# sex: T=Total; M=Males; F=Females
+geo	unit	age	sex	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+NO	PC	TOTAL	F	16.2	16.1	16.2	16.4	16.3	17.5	18.0	17.8	16.6	16.1	16.8
+SE	PC	TOTAL	F	19.5	18.9	17.7	19.0	19.1	18.8	18.2	19.6	19.3	17.4	18.8
+DK	PC	TOTAL	F	19.1	18.2	17.4	17.4	17.2	17.2	18.1	17.5	18.9	18.2	18.6
+FI	PC	TOTAL	F	16.9	16.5	16.1	16.9	14.8	14.7	14.0	17.1	16.4	17.2	17.3
+DE	PC	TOTAL	F	21.3	21.3	20.1	19.6	18.4	21.2	21.7	21.9	22.1	21.9	21.9
+EU27_2020	PC	TOTAL	F	24.9	24.7	23.4	22.7	22.1	22.5	22.6	22.7	22.3	21.9	21.9
+NO	PC	TOTAL	M	13.2	12.8	14.7	15.2	15.0	15.2	15.4	14.9	15.1	15.2	15.4
+SE	PC	TOTAL	M	16.9	16.6	16.7	16.4	17.6	16.6	16.3	17.6	17.4	17.6	18.5
+DK	PC	TOTAL	M	18.0	16.9	18.2	17.5	17.3	16.4	16.4	16.7	16.9	17.8	17.2
+FI	PC	TOTAL	M	16.9	16.5	15.9	16.3	14.2	15.0	14.4	15.5	15.2	16.3	17.1
+DE	PC	TOTAL	M	18.6	18.3	17.4	17.4	16.1	19.5	20.2	20.3	20.5	20.2	20.5
+EU27_2020	PC	TOTAL	M	23.1	22.5	21.4	20.6	20.0	20.4	20.7	20.4	20.3	20.0	19.8
+NO	PC	TOTAL	T	14.7	14.4	15.4	15.8	15.6	16.3	16.7	16.3	15.8	15.7	16.1
+SE	PC	TOTAL	T	18.2	17.7	17.2	17.7	18.4	17.7	17.2	18.6	18.4	17.5	18.6
+DK	PC	TOTAL	T	18.6	17.5	17.8	17.5	17.3	16.8	17.3	17.1	17.9	18.0	17.9
+FI	PC	TOTAL	T	16.9	16.5	16.0	16.6	14.5	14.9	14.2	16.3	15.8	16.8	17.2
+DE	PC	TOTAL	T	20.0	19.8	18.8	18.5	17.3	20.4	21.0	21.1	21.3	21.1	21.2
+EU27_2020	PC	TOTAL	T	24.0	23.7	22.4	21.7	21.1	21.5	21.7	21.6	21.3	21.0	20.9

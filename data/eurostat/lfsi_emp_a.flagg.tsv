@@ -1,0 +1,47 @@
+# Kilde: Eurostat, tabell lfsi_emp_a
+# Tabell: Sysselsatte som andel av befolkningen etter kjønn og alder, årlig
+# Eurostat-tittel: Employment and labour force by sex and age - annual data
+# Oppdatert hos Eurostat: 2026-09-10T23:00:00+0200
+# Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=DE&geo=EU27_2020&indic_em=EMP_LFS&unit=PC_POP&sex=T&sex=M&sex=F&age=Y15-64&age=Y20-64
+# geo: EU27_2020=European Union - 27 countries (from 2020); DK=Denmark; DE=Germany; FI=Finland; SE=Sweden; NO=Norway
+# indic_em: EMP_LFS=Total employment (resident population concept - LFS)
+# sex: T=Total; M=Males; F=Females
+# age: Y15-64=From 15 to 64 years; Y20-64=From 20 to 64 years
+# unit: PC_POP=Percentage of total population
+geo	indic_em	sex	age	unit	aar	flagg
+DK	EMP_LFS	F	Y15-64	PC_POP	2016	b
+DK	EMP_LFS	F	Y15-64	PC_POP	2017	b
+DK	EMP_LFS	F	Y15-64	PC_POP	2023	b
+DE	EMP_LFS	F	Y15-64	PC_POP	2010	b
+DE	EMP_LFS	F	Y15-64	PC_POP	2011	b
+DE	EMP_LFS	F	Y15-64	PC_POP	2020	b
+DK	EMP_LFS	F	Y20-64	PC_POP	2016	b
+DK	EMP_LFS	F	Y20-64	PC_POP	2017	b
+DK	EMP_LFS	F	Y20-64	PC_POP	2023	b
+DE	EMP_LFS	F	Y20-64	PC_POP	2010	b
+DE	EMP_LFS	F	Y20-64	PC_POP	2011	b
+DE	EMP_LFS	F	Y20-64	PC_POP	2020	b
+DK	EMP_LFS	M	Y15-64	PC_POP	2016	b
+DK	EMP_LFS	M	Y15-64	PC_POP	2017	b
+DK	EMP_LFS	M	Y15-64	PC_POP	2023	b
+DE	EMP_LFS	M	Y15-64	PC_POP	2010	b
+DE	EMP_LFS	M	Y15-64	PC_POP	2011	b
+DE	EMP_LFS	M	Y15-64	PC_POP	2020	b
+DK	EMP_LFS	M	Y20-64	PC_POP	2016	b
+DK	EMP_LFS	M	Y20-64	PC_POP	2017	b
+DK	EMP_LFS	M	Y20-64	PC_POP	2023	b
+DE	EMP_LFS	M	Y20-64	PC_POP	2010	b
+DE	EMP_LFS	M	Y20-64	PC_POP	2011	b
+DE	EMP_LFS	M	Y20-64	PC_POP	2020	b
+DK	EMP_LFS	T	Y15-64	PC_POP	2016	b
+DK	EMP_LFS	T	Y15-64	PC_POP	2017	b
+DK	EMP_LFS	T	Y15-64	PC_POP	2023	b
+DE	EMP_LFS	T	Y15-64	PC_POP	2010	b
+DE	EMP_LFS	T	Y15-64	PC_POP	2011	b
+DE	EMP_LFS	T	Y15-64	PC_POP	2020	b
+DK	EMP_LFS	T	Y20-64	PC_POP	2016	b
+DK	EMP_LFS	T	Y20-64	PC_POP	2017	b
+DK	EMP_LFS	T	Y20-64	PC_POP	2023	b
+DE	EMP_LFS	T	Y20-64	PC_POP	2010	b
+DE	EMP_LFS	T	Y20-64	PC_POP	2011	b
+DE	EMP_LFS	T	Y20-64	PC_POP	2020	b
