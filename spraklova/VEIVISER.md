@@ -26,6 +26,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 - **Lov:** Lov om språk (språklova) – LOV-2021-05-21-42. Sist endret i kraft: 2025-07-01. Forvaltes av: Kultur- og likestillingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Språklova

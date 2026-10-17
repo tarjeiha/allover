@@ -27,6 +27,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om statens ansatte mv. (statsansatteloven) – LOV-2017-06-16-67. Sist endret i kraft: 2026-01-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 - **Forskrift:** Forskrift til lov om statens ansatte mv. – FOR-2017-06-21-838. Sist endret i kraft: 2026-01-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Statsansatteloven

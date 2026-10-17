@@ -27,6 +27,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og statsansatte (karanteneloven) – LOV-2015-06-19-70. Sist endret i kraft: 2025-07-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 - **Forskrift:** Forskrift til lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og statsansatte – FOR-2015-12-02-1380. Sist endret i kraft: 2017-07-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Karanteneloven

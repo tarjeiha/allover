@@ -26,6 +26,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 - **Lov:** Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven) – LOV-2017-06-16-50. Sist endret i kraft: 2026-01-01. Forvaltes av: Kultur- og likestillingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Diskrimineringsombudsloven

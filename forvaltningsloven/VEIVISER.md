@@ -30,6 +30,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) – LOV-1967-02-10. Sist endret i kraft: 2026-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
 - **Forskrift:** Forskrift til forvaltningsloven (forvaltningslovforskriften) – FOR-2006-12-15-1456. Sist endret i kraft: 2025-11-14. Forvaltes av: Justis- og beredskapsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Forvaltningsloven** (LOV-2025-06-20-81). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: Forvaltningsloven. Ny tekst: `vedtatte-endringer/lov-2025-06-20-81.md`
+
 ## Innhold
 
 ### Forvaltningsloven

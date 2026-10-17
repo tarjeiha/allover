@@ -27,6 +27,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om behandling av personopplysninger (personopplysningsloven) – LOV-2018-06-15-38. Sist endret i kraft: 2022-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
 - **Forskrift:** Forskrift om behandling av personopplysninger – FOR-2018-06-15-876. Sist endret i kraft: 2022-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Personopplysningsloven

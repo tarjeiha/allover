@@ -34,6 +34,10 @@ Merknadsfilen dekker også lønnsgarantiloven.
 - **Lov:** Lov om lønnsplikt under permittering (permitteringslønnsloven) – LOV-1988-05-06-22. Sist endret i kraft: 2022-03-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om lønnsplikt under permittering – FOR-2016-06-21-764. Sist endret i kraft: 2026-09-02. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Permitteringslønnsloven

@@ -74,6 +74,10 @@ Merknadene er delt etter kapitlene i loven, se tabellen nederst.
 - **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere. – FOR-1983-04-29-3349. **Ikke i kraft:** ukjent dato. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv. – FOR-2024-04-11-607. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Arbeidsmiljøloven

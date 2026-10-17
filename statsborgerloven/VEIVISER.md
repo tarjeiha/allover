@@ -32,6 +32,10 @@ Merknadsfilen er flyttet fra en tidligere skill. Der den viser til «denne skill
 - **Lov:** Lov om norsk statsborgerskap (statsborgerloven) – LOV-2005-06-10-51. Sist endret i kraft: 2024-12-20. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften) – FOR-2006-06-30-756. Sist endret i kraft: 2022-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Statsborgerloven

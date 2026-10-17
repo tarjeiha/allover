@@ -27,6 +27,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om dokumentasjon og arkiv (arkivlova) – LOV-2025-06-20-96. Forvaltes av: Kultur- og likestillingsdepartementet.
 - **Forskrift:** Forskrift om dokumentasjon og arkiv (arkivforskrifta) – FOR-2025-12-17-2647. Forvaltes av: Kultur- og likestillingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Arkivlova

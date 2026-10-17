@@ -26,6 +26,10 @@ Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i 
 
 - **Lov:** Lov om aldersgrenser for statsansatte m.fl. – LOV-1956-12-21-1. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Aldersgrenseloven for statsansatte
