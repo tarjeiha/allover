@@ -1,40 +1,46 @@
-# EØS-koordinering av dagpenger
+> **Flyttet fra `folketrygdloven/eu-eos/`** 17.10.2026. Teksten kommer fra den gamle dagpengeskillen. Forordningsteksten hentes nå automatisk fra EUR-Lex og ligger i `eu/forordning-883-2004/` og `eu/forordning-987-2009/`. Merknadene til enkeltartikler står samlet her.
 
-Denne mappen inneholder de EØS-rettslige reglene som styrer dagpenger over landegrensene, og som går foran folketrygdlovens egne regler når de kommer til anvendelse.
-
-## Hvorfor dette laget finnes
+# Trygdeforordningen og dagpenger
 
 Folketrygdloven § 1-3 a gjør trygdeforordningen og gjennomføringsforordningen til norsk lov. Det betyr at et spørsmål om dagpenger for en person som har arbeidet, bodd eller oppholder seg i et annet EØS-land ikke kan besvares ut fra kapittel 4 alene. Forordningen avgjør hvilken stat som er kompetent, om perioder fra andre land skal legges sammen, og om ytelsen kan tas med ut av landet.
 
-## Innhold
+## Norske gjennomføringsbestemmelser
 
-### Trygdeforordningen (883/2004) kapittel 6 – ytelser ved arbeidsløshet
-
-| Fil | Artikkel | Tema |
-|---|---|---|
-| `forordning-883/art-61.md` | 61 | Sammenlegging av perioder |
-| `forordning-883/art-62.md` | 62 | Beregning av ytelser |
-| `forordning-883/art-63.md` | 63 | Avgrenset opphevelse av bostedskrav |
-| `forordning-883/art-64.md` | 64 | Arbeidsløs som reiser til annen medlemsstat |
-| `forordning-883/art-65.md` | 65 | Bosatt i annen stat enn kompetent stat |
-| `forordning-883/art-65a.md` | 65a | Selvstendig næringsdrivende grensearbeidere |
-
-### Gjennomføringsforordningen (987/2009)
-
-| Fil | Artikkel | Tema |
-|---|---|---|
-| `forordning-987/art-54.md` | 54 | Sammenlegging og beregning |
-| `forordning-987/art-55.md` | 55 | Vilkår og begrensninger ved eksport |
-| `forordning-987/art-56.md` | 56 | Bosatt i annen stat enn kompetent stat |
-| `forordning-987/art-57.md` | 57 | Tjenestemenn |
-| `forordning-987/art-70.md` | 70 | Refusjon av dagpenger mellom stater |
-
-### Norske gjennomføringsbestemmelser
-
-Disse ligger i sine ordinære mapper, ikke her:
-
+- `folketrygdloven/lov/par-1-3a.md` – forordningene gjelder som lov
 - `folketrygdloven/lov/par-4-1a.md` – forholdet til trygdeforordningen i kapittel 4
-- `folketrygdloven/forskrifter/dagpengeforskriften/par-13-1.md` til `par-13-4.md` – kapittel 13 om EØS
+- `folketrygdloven/forskrifter/dagpengeforskriften/` kapittel 13 – EØS
+
+## Artikler som gjelder dagpenger
+
+Trygdeforordningen kapittel 6 (art. 61–65a) og gjennomføringsforordningen art. 54–57 og 70.
+
+## Merknader til enkeltartikler
+
+### Artikkel 61
+
+**Norsk tilknytning:** Dagpengeforskriften § 13-1 gir særlige regler om sammenlegging etter nordisk konvensjon om trygd artikkel 10, knyttet til vilkåret i artikkel 61 nr. 2. Gjennomføringsforordningen artikkel 54 nr. 1 utfyller bestemmelsen.
+
+### Artikkel 62
+
+**Norsk tilknytning:** Gjennomføringsforordningen artikkel 54 nr. 2 og 3 utfyller beregningsreglene, blant annet plikten for siste arbeidsstat til å oppgi inntektsopplysninger til bostedsstaten.
+
+### Artikkel 63
+
+**Merknad:** Dette er den sentrale avgrensningsbestemmelsen for dagpenger. Artikkel 7 (opphevelse av bostedskrav for kontantytelser) gjelder *ikke* generelt for dagpenger, men bare gjennom artikkel 64, 65 og 65a. Det er grunnen til at dagpenger ikke fritt kan eksporteres på linje med andre kontantytelser.
+
+EFTA-domstolen har behandlet forholdet mellom artikkel 7, 63 og 64 i sak E-13/20 og E-15/20. Rettspraksis er ikke en kildetype i basen, se avsnittet om kjente hull under.
+
+### Artikkel 64
+
+**Norsk tilknytning:** Dagpengeforskriften § 13-3 og § 13-4 gjennomfører artikkel 64 nr. 1 bokstav a og c. Gjennomføringsforordningen artikkel 55 gir saksbehandlingsreglene, blant annet kravet om å melde fra til NAV før avreise og å registrere seg som arbeidssøker i tilflyttingsstaten innen fristen.
+
+### Artikkel 65
+
+**Norsk tilknytning:** Refusjon mellom statene etter nr. 6 og 7 følger gjennomføringsforordningen artikkel 70. Norge står i vedlegg 5 til gjennomføringsforordningen og benytter forenklet beregning basert på gjennomsnittlig utbetalt ytelse.
+
+### Artikkel 65a
+
+**Merknad:** Artikkelen ble tilføyd ved forordning 465/2012 og gjelder helt arbeidsløse selvstendig næringsdrivende grensearbeidere. Gjennomføringsforordningen artikkel 55 nr. 7 gjør saksbehandlingsreglene i artikkel 55 nr. 2 til 6 tilsvarende gjeldende.
 
 ## Språk
 
@@ -44,11 +50,11 @@ Det finnes ingen offisiell norsk konsolidert versjon. EFTAs norske oversettelse 
 
 **Konsekvens for bruk:** når du gjengir eller forklarer en bestemmelse på norsk, oversetter du selv. Si fra at du gjør det, og gjengi den engelske ordlyden ved siden av når presisjonen betyr noe. Ikke gi inntrykk av at det finnes en autoritativ norsk ordlyd.
 
-## Forholdet til EØS-avtalen – verifisert
+## Forholdet til EØS-avtalen
 
 Tekstene er EU-rettslig konsolidert. For Norge er det folketrygdloven § 1-3 a som avgjør hvilke endringsforordninger som faktisk gjelder som lov, ikke EUR-Lex.
 
-**De to versjonene i denne mappen er kontrollert mot § 1-3 a og stemmer eksakt.**
+**De to versjonene i basen er kontrollert mot § 1-3 a og stemmer eksakt.**
 
 § 1-3 a første ledd lister for trygdeforordningen: 988/2009, 1244/2010, 465/2012, 1224/2012, 517/2013, 1372/2013, 1368/2014, 2017/492 og 2019/1149. Det er M1–M9 i `02004R0883 — EN — 31.07.2019 — 008.001`.
 
@@ -60,20 +66,11 @@ Tekstene er EU-rettslig konsolidert. For Norge er det folketrygdloven § 1-3 a s
 
 ## Kjente hull
 
-Disse er bevisst utelatt, ikke oversett:
+Disse kildene er ikke i basen:
 
-- **Trygdeforordningen art. 1–16** – definisjoner, likebehandling, sammenlegging, eksportabilitet og lovvalg. Tverrgående for alle ytelser; hører til en egen skill, ikke denne.
-- **Gjennomføringsforordningen art. 1–21** – dokumentutveksling, foreløpig lovvalg, bostedskriterier (art. 11), lovvalgsprosedyrer. Samme begrunnelse.
-- **Bilaterale trygdeavtaler utenfor EØS** – ikke dekket i noen skill.
+- **Bilaterale trygdeavtaler utenfor EØS** – ikke dekket i basen.
 - **Nordisk konvensjon om trygd (2012)** – dagpengeforskriften § 13-1 viser til konvensjonens artikkel 10, men konvensjonsteksten selv er ikke inkludert.
 - **Den administrative kommisjonens beslutninger og rekommandasjoner** – særlig U1–U4 og rekommandasjon U1–U2, som tolker art. 64, 65 og 987/2009 art. 54 og 70. Ikke inkludert.
-- **EFTA-domstolens og EU-domstolens praksis** – enkelte avgjørelser er nevnt som merknad i artikkelfilene, men rettspraksis er ikke en kildetype i denne skillen.
+- **EFTA-domstolens og EU-domstolens praksis** – enkelte avgjørelser er nevnt i merknadene over, men rettspraksis er ikke en kildetype i basen.
 
 Når et spørsmål krever noe fra listen over, si eksplisitt fra at kilden ikke er dekket.
-
-## Kilder
-
-- **883/2004:** EUR-Lex `02004R0883 — EN — 31.07.2019 — 008.001`, som omfatter endringene M1–M9 og korrigendum C1
-- **987/2009:** EUR-Lex `02009R0987 — EN — 01.01.2018 — 007.001`, som omfatter endringene M1–M6 og korrigendum C1
-
-Endringsmarkørene fra EUR-Lex er bevart i artikkelfilene som `[Endret ved M2 – forordning (EU) nr. 465/2012]` foran de leddene de gjelder, slik at det går fram hvilke deler av en artikkel som er nyere enn resten.

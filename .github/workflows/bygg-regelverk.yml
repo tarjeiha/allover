@@ -1,4 +1,4 @@
-name: Bygg regelverk fra Lovdata
+name: Bygg regelverk fra Lovdata og EUR-Lex
 
 on:
   # Når byggeverktøyet eller listen over regelverk endres på en bygg/-gren,
@@ -26,9 +26,14 @@ jobs:
           python-version: "3.12"
 
       - name: Installer avhengigheter
-        run: pip install beautifulsoup4==4.12.3 lxml==5.3.0
+        run: |
+          pip install beautifulsoup4==4.12.3 lxml==5.3.0
+          sudo apt-get install -y -qq pandoc poppler-utils >/dev/null
 
-      - name: Bygg fra Lovdatas åpne datasett
+      - name: Sjekk Lovdatas åpne datasett
+        run: curl -sS https://api.lovdata.no/v1/publicData/list | head -c 3000; echo
+
+      - name: Bygg fra Lovdatas åpne datasett, EUR-Lex og kildefilene til tariffavtalene
         run: python3 verktoy/bygg.py
 
       # Legges inn også når dekningskontrollen feiler, så feilene kan undersøkes

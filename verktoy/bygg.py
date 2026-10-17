@@ -15,7 +15,8 @@ og for hele repoet:
     CLAUDE.md                                     bare blokken mellom AUTO-markørene
 
 Mappene merknader/, rundskriv/ og eu-eos/ under en lov bygges ikke, men listes
-i veiviseren og i indeks.tsv.
+i veiviseren og i indeks.tsv. EU-rettsakter (eu.py) og tariffavtaler (avtale.py) bygges
+i samme kjøring og listes i en egen blokk i CLAUDE.md.
 
 Håndskrevet tekst utenfor AUTO-markørene røres ikke. Lovtekst skal aldri
 redigeres for hånd, fordi den overskrives ved neste bygg.
@@ -37,6 +38,8 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+import avtale as avtalemodul  # noqa: E402
+import eu as eumodul  # noqa: E402
 from parse_lovdata import (  # noqa: E402
     har_innhold_utenfor_paragrafer,
     parse_dokument,
@@ -228,6 +231,17 @@ def rundskriv_per_paragraf(mappe: Path) -> dict:
     return kart
 
 
+def i_kraft(meta: dict) -> bool:
+    return bool(re.match(r"\d{4}-\d{2}-\d{2}", meta.get("ikraft") or ""))
+
+
+def status(meta: dict) -> str:
+    """Dato for siste endring i kraft, eller at dokumentet ikke er i kraft ennå."""
+    if not i_kraft(meta):
+        return f"Ikke i kraft ({meta.get('ikraft') or 'ukjent dato'})"
+    return meta["sist_endret"] or meta["ikraft"]
+
+
 def kilde_linje(meta: dict) -> str:
     deler = [meta["tittel"]]
     if meta["legacyID"]:
@@ -235,9 +249,51 @@ def kilde_linje(meta: dict) -> str:
     linje = " – ".join(deler)
     if meta["sist_endret"]:
         linje += f". Sist endret i kraft: {meta['sist_endret']}"
+    if not i_kraft(meta):
+        linje += f". **Ikke i kraft:** {meta.get('ikraft') or 'ukjent dato'}"
     if meta["departement"]:
         linje += f". Forvaltes av: {meta['departement']}"
     return linje + "."
+
+
+def eu_henvisninger(mappe: Path, lovnavn: str, eu_mapper: dict, norske: dict, nevnt: dict) -> list:
+    """Finner EU-rettsakter som lov- og forskriftsteksten viser til med nummer."""
+    treff: dict = {}
+    for fil in sorted(list((mappe / "lov").glob("*.md")) + list((mappe / "forskrifter").rglob("*.md"))):
+        for n in eumodul.finn_henvisninger(fil.read_text(encoding="utf-8")):
+            treff.setdefault(n, []).append(fil)
+    if not treff:
+        return []
+    ut = ["## EU-rettsakter som teksten viser til", "",
+          "Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.", ""]
+    for n in sorted(treff, key=lambda k: (k not in eu_mapper, k)):
+        filer = treff[n]
+        vis = ", ".join(f"`{f.relative_to(mappe).as_posix()}`" for f in filer[:8])
+        if len(filer) > 8:
+            vis += f" og {len(filer) - 8} til"
+        if n in eu_mapper:
+            a = eu_mapper[n]
+            ut.append(f"- **{eumodul.visningsnavn(n)}** ({a['navn']}) – i basen: `{a['mappe']}/VEIVISER.md`. Nevnt i {vis}")
+            norske.setdefault(n, {}).setdefault(lovnavn, []).extend(f.relative_to(ROT).as_posix() for f in filer)
+        else:
+            ut.append(f"- {eumodul.visningsnavn(n)} – ikke i basen. Nevnt i {vis}")
+            nevnt.setdefault(n, {})[lovnavn] = len(filer)
+    return ut + [""]
+
+
+def skriv_nevnte(nevnt: dict) -> None:
+    linjer = [
+        "# EU-rettsakter som norsk tekst i basen viser til, men som ikke ligger i basen",
+        "",
+        "Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke rettsakter som skal legges inn.",
+        "",
+        "| Rettsakt | Antall filer | Regelverk |",
+        "|---|---|---|",
+    ]
+    for n, lover in sorted(nevnt.items(), key=lambda kv: -sum(kv[1].values())):
+        linjer.append(f"| {eumodul.visningsnavn(n)} | {sum(lover.values())} | {', '.join(sorted(lover))} |")
+    (ROT / "eu").mkdir(exist_ok=True)
+    (ROT / "eu" / "nevnte-rettsakter.md").write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
 def main() -> int:
@@ -252,8 +308,12 @@ def main() -> int:
     config = json.loads((ROT / "regelverk.json").read_text(encoding="utf-8"))
 
     feil: list = []
+    merknader: list = []
     indeks = ["lov\tdokument\tparagraf\tsti"]
     lovliste = []
+    eu_mapper = {eumodul.nokkel_fra_celex(a["celex"]): a for a in config.get("eu", [])}
+    norske_henvisninger: dict = {}
+    nevnt_ikke_i_basen: dict = {}
 
     for lov in config["lover"]:
         mappe = ROT / lov["mappe"]
@@ -264,7 +324,8 @@ def main() -> int:
         meta, kapitler = bygg_dokument(lovfil, mappe / "lov", lov["navn"], feil)
         if meta is None:
             continue
-        linjer = ["## Kilder", "", f"- **Lov:** {kilde_linje(meta)}"]
+        etikett = "Lov" if lov["lov"].startswith("LOV") else "Forskrift/instruks"
+        linjer = ["## Kilder", "", f"- **{etikett}:** {kilde_linje(meta)}"]
         forskriftsblokker = []
         for fs in lov.get("forskrifter", []):
             fsfil = finn(oppslag, fs["id"])
@@ -280,6 +341,7 @@ def main() -> int:
             forskriftsblokker.append((fs["navn"], fkap))
 
         rundskriv = rundskriv_per_paragraf(mappe)
+        eu_avsnitt = eu_henvisninger(mappe, lov["navn"], eu_mapper, norske_henvisninger, nevnt_ikke_i_basen)
 
         def liste(navn, kap, er_loven=False):
             ut = [f"### {navn}", ""]
@@ -300,19 +362,40 @@ def main() -> int:
         linjer += liste(lov["navn"], kapitler, er_loven=True)
         for navn, fkap in forskriftsblokker:
             linjer += liste(navn, fkap)
+        linjer += eu_avsnitt
         ekstra = ekstra_kilder(mappe, lov["navn"], indeks)
         if ekstra:
             linjer += ["## Andre kilder", "", "Dette er ikke lov- eller forskriftstekst.", ""] + ekstra
 
         skjelett = f"# {lov['navn']}: veiviser\n\n_Håndskrevet veiledning mangler ennå._\n"
         erstatt_auto(mappe / "VEIVISER.md", "\n".join(linjer), skjelett)
-        lovliste.append(
-            f"| {lov['navn']} | `{lov['mappe']}/VEIVISER.md` | {meta['sist_endret'] or 'ukjent'} |"
-        )
+        lovliste.append(f"| {lov['navn']} | `{lov['mappe']}/VEIVISER.md` | {status(meta)} |")
+
+    # Tariffavtaler
+    for a in config.get("avtaler", []):
+        avtalemodul.prov_nedlasting(a, merknader)
+        avtalemodul.bygg_avtale(a, feil, merknader, indeks)
+
+    # EU-rettsakter
+    for a in config.get("eu", []):
+        info = eumodul.bygg_rettsakt(ROT, a, feil, merknader)
+        if not info:
+            continue
+        skjelett = f"# {a['navn']}: veiviser\n\n_Håndskrevet veiledning mangler ennå._\n"
+        erstatt_auto(ROT / a["mappe"] / "VEIVISER.md", eumodul.veiviser_blokk(ROT, info, norske_henvisninger), skjelett)
+        for _, tittel, fil in info["oppforinger"]:
+            indeks.append(f"{a['navn']}\tEU-rettsakt\t{tittel}\t{fil.relative_to(ROT).as_posix()}")
+        for fil in sorted((ROT / a["mappe"] / "merknader").glob("*.md")):
+            indeks.append(f"{a['navn']}\tMerknader\t{tittel_for(fil)}\t{fil.relative_to(ROT).as_posix()}")
+    skriv_nevnte(nevnt_ikke_i_basen)
 
     (ROT / "indeks.tsv").write_text("\n".join(indeks) + "\n", encoding="utf-8")
     tabell = ["| Regelverk | Veiviser | Sist endret i kraft |", "|---|---|---|"] + lovliste
     erstatt_auto(ROT / "CLAUDE.md", "\n".join(tabell), "# Regelverksbasen\n")
+    avtalemodul.oppdater_claude(config)
+
+    for m in merknader:
+        print(f"MERK: {m}")
 
     if feil:
         print("FEIL:")
