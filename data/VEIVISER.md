@@ -2,6 +2,8 @@
 
 Denne mappen er en katalog over hvor tall og statistikk finnes og hvilken tabell som svarer på hvilket spørsmål. Den inneholder ikke selve tallene. Tall hentes fra kilden, så de er oppdatert.
 
+Start med `data/sporsmal.md` når spørsmålet er stilt i hverdagsspråk. Den kobler vanlige spørsmål til riktig kilde og tabell.
+
 ## Regler
 
 1. **Hent tallene fra kilden, ikke fra katalogen.** Katalogen sier hvor du skal lete. Oppgi tabell, periode og når tabellen sist ble oppdatert.
