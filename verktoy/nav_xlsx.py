@@ -1,6 +1,6 @@
 """Gjør en xlsx-fil fra Navs statistikkside om til TSV-filer, ett ark per fil.
 
-Bruk: python3 verktoy/nav_xlsx.py <fil.xlsx> <utmappe> <tittel> <kildeside> <oppdatert> [neste]
+Bruk: python3 verktoy/nav_xlsx.py <fil.xlsx> <utmappe> <tittel> <kildeside> [oppdatert] [neste]
 
 Arkene hos Nav har en innledning (kilde, tittel, periode), en eller flere
 tabeller med overskriftsrad (årstall, måneder eller kvartaler) og mellomoverskrifter.
@@ -11,6 +11,8 @@ står i filen.
 import re
 import sys
 import unicodedata
+from collections import Counter
+from datetime import date
 from pathlib import Path
 
 import openpyxl
@@ -100,14 +102,48 @@ def skriv_ark(sti, ark, ingress, noter, blokker, meta):
     sti.write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
-def main(fil, ut, tittel, side, oppdatert, neste=""):
+def heltall_aar(v):
+    """Heltall mellom 1990 og 2100 telles ikke: de er oftest årstall i overskrifter, og står som tekst i TSV-en."""
+    return v == int(v) and 1990 <= v <= 2100
+
+
+def tall_i_xlsx(wb):
+    """Alle tall i datarkene, bortsett fra heltall som kan være årstall."""
+    ut = Counter()
+    for ws in wb:
+        if ws.title.startswith("Om"):
+            continue
+        for rad in ws.iter_rows(values_only=True):
+            for c in rad:
+                if isinstance(c, (int, float)) and not isinstance(c, bool) and not heltall_aar(c):
+                    ut[round(round(float(c), 6), 3)] += 1
+    return ut
+
+
+def tall_i_tsv(mappe):
+    ut = Counter()
+    for fil in Path(mappe).glob("*.tsv"):
+        for linje in fil.read_text(encoding="utf-8").splitlines():
+            if linje.startswith("#"):
+                continue
+            for c in linje.split("\t"):
+                try:
+                    v = float(c)
+                except ValueError:
+                    continue
+                if not heltall_aar(v):
+                    ut[round(v, 3)] += 1
+    return ut
+
+
+def main(fil, ut, tittel, side, oppdatert="", neste=""):
+    """Konverterer fil til ut. Returnerer antall TSV-filer og tall som mangler eller er lagt til (skal være 0)."""
     ut = Path(ut)
     ut.mkdir(parents=True, exist_ok=True)
     wb = openpyxl.load_workbook(fil, data_only=True)
-    meta = [("Kilde", "Nav"), ("Tabell", tittel), ("Kildeside", side), ("Oppdatert", oppdatert)]
-    if neste:
-        meta.append(("Neste publisering", neste))
-    om = [f"# {tittel}\n", f"Kilde: Nav, {side}", f"Oppdatert: {oppdatert}" + (f". Neste publisering: {neste}." if neste else ""), ""]
+    meta = [("Kilde", "Nav"), ("Tabell", tittel), ("Kildeside", side)]
+    meta.append(("Oppdatert", oppdatert) if oppdatert else ("Lagt inn", date.today().isoformat()))
+    om = [f"# {tittel}\n", f"Kilde: Nav, {side}", (f"Oppdatert: {oppdatert}" if oppdatert else f"Lagt inn: {date.today().isoformat()}") + (f". Neste publisering: {neste}." if neste else ""), ""]
     n = 0
     for ws in wb:
         ingress, noter, blokker = les_ark(ws)
@@ -117,10 +153,13 @@ def main(fil, ut, tittel, side, oppdatert, neste=""):
         skriv_ark(ut / f"{slug(ws.title)}.tsv", ws.title, ingress, noter, blokker, meta)
         n += 1
     (ut / "om.md").write_text("\n".join(om) + "\n", encoding="utf-8")
-    print(f"{n} TSV-filer i {ut}")
+    kilde, kopi = tall_i_xlsx(wb), tall_i_tsv(ut)
+    avvik = sum((kilde - kopi).values()) + sum((kopi - kilde).values())
+    print(f"{n} TSV-filer i {ut}, avvik i tall: {avvik}")
+    return n, avvik
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 6:
+    if len(sys.argv) < 5:
         sys.exit(__doc__)
     main(*sys.argv[1:])

@@ -2,7 +2,7 @@
 
 Nav publiserer tall som xlsx-filer på nav.no. Claude når ikke filene herfra, så utvalgte filer er lagt inn som TSV under `data/nav/<tabell>/`. Hver mappe har `om.md` (definisjoner fra Navs ark «Om statistikken») og én TSV per ark. Øverst i hver TSV står kilde, kildeside, oppdateringsdato og neste publisering som `#`-linjer. Tall står som i xlsx-filen. `****` og `*` betyr at tallet ikke er publisert eller er skjult av Nav.
 
-Filene er en kopi per angitt dato. Sjekk kildesiden hvis det kan ha kommet nyere tall. Konvertert med `verktoy/nav_xlsx.py`.
+Originalfilen ligger i `original/` i hver mappe, og `data/nav/indeks.tsv` lister alle tabellene med kildeside og dato. Filene er en kopi per angitt dato. Sjekk kildesiden hvis det kan ha kommet nyere tall. Nye filer legges i `innboks-data/` (se `innboks-data/README.md`) og konverteres automatisk med `verktoy/nav_xlsx.py`. Kjente tabeller står i `data/nav/kilder.json`.
 
 ## Tabeller i basen
 

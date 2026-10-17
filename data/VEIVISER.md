@@ -18,5 +18,5 @@ Denne mappen er en katalog over hvor tall og statistikk finnes og hvilken tabell
 
 ## Åpent
 
-- **Nav:** Bare utvalgte tabeller er lagt inn (se `data/nav.md`). Nav gir tall som xlsx-filer som Claude ikke kan laste ned, så flere tabeller må legges inn av saksbehandlerne. Det mangler en fast rutine (innboks med automatisk konvertering) og en vurdering av hvilke Nav-tabeller som brukes mest.
+- **Nav:** Bare utvalgte tabeller er lagt inn (se `data/nav.md`). Nav gir tall som xlsx-filer som Claude ikke kan laste ned, så flere tabeller må legges inn av saksbehandlerne. Nav-filer legges i `innboks-data/` og konverteres automatisk. Det mangler en vurdering av hvilke Nav-tabeller som brukes mest.
 - **Andre kilder** (IMDi, Arbeidstilsynet, Fafo, Eurostat m.fl.) er ikke vurdert.
