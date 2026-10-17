@@ -66,7 +66,7 @@ Si fra når svaret krever en av disse, i stedet for å svare ut fra ytelseskapit
 
 Når spørsmålet involverer arbeid, bosted eller opphold i et annet EØS-land, **les § 4-1 a først** (`folketrygdloven/lov/par-4-1a.md`). Den klassifiserer dagpenger som en ytelse ved arbeidsløshet etter trygdeforordningen og fastslår at kapitlet skal fravikes der forordningen krever det, jf. § 1-3 a tredje ledd.
 
-Deretter: `folketrygdloven/eu-eos/oversikt.md`, og derfra riktig artikkel. Kort veiviser:
+Deretter: `eu/forordning-883-2004/merknader/dagpenger.md`, og derfra riktig artikkel i `eu/forordning-883-2004/` eller `eu/forordning-987-2009/`. Kort veiviser:
 
 - Perioder fra andre EØS-land skal legges sammen → art. 61, jf. gjennomføringsforordningen art. 54
 - Skal ta med dagpenger til et annet land for å søke jobb → art. 64, jf. gjennomføringsforordningen art. 55
@@ -74,16 +74,16 @@ Deretter: `folketrygdloven/eu-eos/oversikt.md`, og derfra riktig artikkel. Kort 
 - Selvstendig næringsdrivende grensearbeider → art. 65a
 - Hvorfor dagpenger ikke fritt kan eksporteres → art. 63
 
-Trygdeforordningens generelle del (art. 1–16 om definisjoner, lovvalg og hvilken stat som er kompetent) er ikke dekket. Si eksplisitt fra når svaret avhenger av den.
+Trygdeforordningens generelle del (art. 1–16 om definisjoner, lovvalg og hvilken stat som er kompetent) ligger også i `eu/forordning-883-2004/`.
 
 ## Kryssreferanser utenfor folketrygdloven
 
 - **Arbeidsmiljøloven** – permisjonsrettigheter, stillingsvern, arbeidstid: `aid-aml`-familien
 - **NAV-loven** – organiseringen av etaten og NAV-kontoret: `nav-loven/merknader/generelt.md`
 - **Sosialtjenesteloven** – økonomisk sosialhjelp, subsidiær til folketrygdytelser: `sosialtjenesteloven/merknader/generelt.md`
-- **EØS-koordinering av dagpenger** – dekket i denne skillen, se `folketrygdloven/eu-eos/`. Trygdeforordningen (883/2004) artikkel 61–65a og gjennomføringsforordningen (987/2009) artikkel 54–57 og 70 ligger der, sammen med de norske gjennomføringsbestemmelsene i ftrl. § 1-3, § 4-1a og dagpengeforskriften kapittel 13. EØS-reglene går foran folketrygdlovens egne regler i grensekryssende saker – les `folketrygdloven/eu-eos/oversikt.md` før du svarer på spørsmål om arbeid, bosted eller opphold i annet EØS-land.
-- **EØS-koordinering utenfor dagpenger** – trygdeforordningens generelle del (art. 1–16 om definisjoner, likebehandling, sammenlegging, eksportabilitet og lovvalg) er **ikke** dekket. Den er tverrgående for alle ytelser og hører ikke hjemme i én ytelsesskill. Når et spørsmål krever den, si eksplisitt fra – ikke gjett.
-- **Utenfor dekket regelverk:** forvaltningsloven, trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven og kontantstøtteloven er **ikke** dekket i noen skill. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **EØS-koordinering av dagpenger** – trygdeforordningen og gjennomføringsforordningen ligger i `eu/forordning-883-2004/` og `eu/forordning-987-2009/`, med merknader i `eu/forordning-883-2004/merknader/dagpenger.md`. EØS-reglene går foran folketrygdlovens egne regler i grensekryssende saker.
+- **EØS-koordinering utenfor dagpenger** – hele trygdeforordningen ligger i `eu/forordning-883-2004/`. Se veiviseren der om hvilken versjon som gjelder i Norge.
+- **Utenfor dekket regelverk:** trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven og kontantstøtteloven er **ikke** i basen. Forvaltningsloven ligger i `forvaltningsloven/`. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
 
 Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
 

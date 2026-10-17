@@ -1,0 +1,25 @@
+# Artikkel 45. Overføringer på grunnlag av en beslutning om tilstrekkelig beskyttelsesnivå
+
+**Kilde:** Personopplysningsloven Artikkel 45
+
+1. Personopplysninger kan overføres til en tredjestat eller en internasjonal organisasjon når Kommisjonen har fastslått at tredjestaten, et territorium eller en eller flere angitte sektorer i nevnte tredjestat eller den aktuelle internasjonale organisasjonen sikrer et tilstrekkelig beskyttelsesnivå. En slik overføring skal ikke kreve en særlig godkjenning.
+
+2. Ved vurderingen av om beskyttelsesnivå er tilstrekkelig skal Kommisjonen særlig ta hensyn til det følgende:
+
+a. prinsippet om rettsstaten, respekt for menneskerettighetene og grunnleggende friheter, relevant lovgivning, både generell og sektorbestemt, herunder om offentlig sikkerhet, forsvar, nasjonal sikkerhet og strafferett og offentlige myndigheters tilgang til personopplysninger samt gjennomføring av nevnte lovgivning, regler om vern av personopplysninger, regler om yrkesutøvelse og sikkerhetstiltak, herunder regler om videreoverføring av personopplysninger til en annen tredjestat eller internasjonal organisasjon som gjelder i nevnte stat eller internasjonale organisasjon, rettspraksis samt effektive og håndhevbare rettigheter for de registrerte og rett til effektiv administrativ og rettslig prøving for de registrerte hvis personopplysninger overføres,
+b. om det finnes en eller flere velfungerende, uavhengige tilsynsmyndigheter i tredjestaten eller som en internasjonal organisasjon er underlagt, med ansvar for å sikre og håndheve at reglene for vern av personopplysninger overholdes, herunder tilstrekkelig håndhevingsmyndighet, for å bistå og gi råd til de registrerte når de utøver sine rettigheter, og for samarbeid med tilsynsmyndighetene i medlemsstatene, og
+c. de internasjonale forpliktelsene som den berørte tredjestaten eller den internasjonale organisasjonen har påtatt seg, eller andre forpliktelser som følger av rettslig bindende konvensjoner eller instrumenter og av tredjestatens eller organisasjonens deltaking i multilaterale eller regionale systemer, særlig i forbindelse med vern av personopplysninger.
+
+3. Etter å ha vurdert om beskyttelsesnivået er tilstrekkelig, kan Kommisjonen ved hjelp av gjennomføringsrettsakter beslutte at en tredjestat, et territorium eller en eller flere angitte sektorer i en tredjestat eller en internasjonal organisasjon sikrer et tilstrekkelig beskyttelsesnivå i henhold til nr. 2 i denne artikkel. I gjennomføringsrettsaktene skal det fastsettes en mekanisme for regelmessig gjennomgåelse, som skal foretas minst hvert fjerde år, der det skal tas hensyn til all relevant utvikling i tredjestaten eller den internasjonale organisasjonen. I gjennomføringsrettsakten skal dens geografiske og sektorvise virkeområde angis samt, dersom det er relevant, den eller de tilsynsmyndigheter som er nevnt i nr. 2 bokstav b) i denne artikkel. Gjennomføringsrettsakten skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 93 nr. 2.
+
+4. Kommisjonen skal fortløpende overvåke utviklingen i tredjestater og internasjonale organisasjoner som kan påvirke virkemåten til beslutninger truffet i henhold til nr. 3 i denne artikkel samt beslutninger truffet på grunnlag av artikkel 25 nr. 6 i direktiv 95/46/EF .
+
+5. Når tilgjengelig informasjon, særlig etter gjennomgåelsen nevnt i nr. 3 i denne artikkel, viser at en tredjestat, et territorium eller en eller flere angitte sektorer i en tredjestat eller en internasjonal organisasjon ikke lenger sikrer et tilstrekkelig beskyttelsesnivå i henhold til nr. 2 i denne artikkel, skal Kommisjonen i det omfang som er nødvendig, oppheve, endre eller midlertidig oppheve beslutningen nevnt i nr. 3 i denne artikkel ved hjelp av gjennomføringsrettsakter uten tilbakevirkende kraft. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 93 nr. 2. I behørig begrunnede, tvingende hastetilfeller skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 93 nr. 3.
+
+6. Kommisjonen skal innlede samråd med tredjestaten eller den internasjonale organisasjonen med henblikk på å avhjelpe situasjonen som har gitt opphav til beslutningen truffet i henhold til nr. 5.
+
+7. En beslutning i henhold til nr. 5 i denne artikkel berører ikke overføringer av personopplysninger til tredjestaten, et territorium eller en eller flere angitte sektorer i nevnte tredjestat eller den aktuelle internasjonale organisasjonen som utføres i henhold til artikkel 46-49.
+
+8. Kommisjonen skal i Den europeiske unions tidende og på sitt nettsted offentliggjøre en liste over tredjestatene, territoriene og de angitte sektorene i en tredjestat samt internasjonale organisasjoner som den har fastslått ikke eller ikke lenger sikrer et tilstrekkelig beskyttelsesnivå.
+
+9. Beslutninger truffet av Kommisjonen på grunnlag av artikkel 25 nr. 6 i direktiv 95/46/EF skal fortsette å gjelde fram til de endres, erstattes eller oppheves ved en kommisjonsbeslutning truffet i samsvar med nr. 3 eller 5 i denne artikkel.

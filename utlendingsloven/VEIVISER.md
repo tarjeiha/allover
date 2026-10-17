@@ -791,6 +791,32 @@ Fellene under gjelder arbeidsinnvandring og EØS-reglene.
 
 - Vedlegg, tabeller o.l. – `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`
 
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.
+
+- **Direktiv 2004/38** (Bevegelsesdirektivet (unionsborgerdirektivet)) – i basen: `eu/direktiv-2004-38/VEIVISER.md`. Nevnt i `forskrifter/utlendingsforskriften/par-3-1.md`
+- **Forordning nr. 492/2011** (Forordningen om fri bevegelighet for arbeidstakere) – i basen: `eu/forordning-492-2011/VEIVISER.md`. Nevnt i `forskrifter/utlendingsforskriften/par-19-5b.md`
+- Direktiv 2008/115 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-18-14.md`
+- Forordning nr. 333/2002 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-15.md`
+- Forordning nr. 1931/2006 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-1a.md`
+- Forordning nr. 767/2008 – ikke i basen. Nevnt i `lov/par-102.md`
+- Forordning nr. 810/2009 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-4.md`, `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`
+- Forordning nr. 154/2012 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-4.md`, `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`
+- Forordning nr. 610/2013 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-2.md`, `forskrifter/utlendingsforskriften/par-3-4.md`, `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`
+- Forordning 2016/399 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-4a.md`, `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`
+- Forordning 2017/2226 – ikke i basen. Nevnt i `lov/par-100.md`
+- Forordning 2018/1240 – ikke i basen. Nevnt i `lov/par-9a.md`
+- Forordning 2018/1806 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-1.md`
+- Forordning 2019/1155 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-3-4.md`
+- Forordning 2019/817 – ikke i basen. Nevnt i `lov/par-9a.md`
+- Forordning 2021/1134 – ikke i basen. Nevnt i `lov/par-9a.md`
+- Forordning 2021/1152 – ikke i basen. Nevnt i `lov/par-9a.md`
+- Forordning 2024/1351 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-7-4.md`, `forskrifter/utlendingsforskriften/par-7-4a.md`, `lov/par-102a.md`, `lov/par-106.md`, `lov/par-106b.md`, `lov/par-32.md`, `lov/par-91.md`
+- Forordning 2024/1356 – ikke i basen. Nevnt i `lov/par-100.md`, `lov/par-5a.md`, `lov/par-81.md`, `lov/par-84a.md`, `lov/par-98a.md`, `lov/par-98d.md`, `lov/par-98g.md`, `lov/par-9a.md`
+- Forordning 2024/1358 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`, `lov/par-101.md`, `lov/par-98.md`, `lov/par-9a.md`
+- Forordning 2024/1359 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-7-4a.md`, `lov/par-32.md`
+
 ## Andre kilder
 
 Dette er ikke lov- eller forskriftstekst.

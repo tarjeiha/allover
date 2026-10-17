@@ -8,11 +8,13 @@
 
 3. I andre tilfeller enn nevnt i nr. 2, kan det som er utbetalt for mye, kreves tilbake dersom særlige grunner gjør det rimelig. Ved vurderingen av om det foreligger særlige grunner, skal det blant annet legges vekt på hvor lang tid det er gått siden den feilaktige utbetalingen fant sted, og om vedkommende har innrettet seg i tillit til utbetalingen. Kravet om tilbakebetaling etter dette nummeret er begrenset til det beløp som er i behold når vedkommende blir kjent med at utbetalingen var feilaktig.
 
-4. Skyldes feilutbetalingen at mottakeren ikke har gitt pensjons- og trygdeordningen melding som nevnt i bokstav a-c om en ytelse fra en annen ordning, skal det som er utbetalt for mye avregnes ved trekk i framtidig ytelse. Det er et vilkår at pensjons- og trygdeordningen har informert om meldeplikten etter § 26 . Avregningsordningen gjelder når mottakeren ikke har gitt melding om at Trekket kan foretas i mottakerens ytelser fra samme pensjons- og trygdeordning uansett pensjonsart. Det kan trekkes opp til et beløp på 10 pst. av samlet månedlig utbetaling av ytelser som omfattes av denne loven.
+4. Skyldes feilutbetalingen at mottakeren ikke har gitt pensjons- og trygdeordningen melding som nevnt i bokstav a-c om en ytelse fra en annen ordning, skal det som er utbetalt for mye avregnes ved trekk i framtidig ytelse. Det er et vilkår at pensjons- og trygdeordningen har informert om meldeplikten etter § 26 . Avregningsordningen gjelder når mottakeren ikke har gitt melding om at
 
 a. en ytelse er innvilget eller opphørt,
 b. en ytelse har fått endret uføregrad,
 c. en ytelse er blitt endret pga. inntekt.
+
+Trekket kan foretas i mottakerens ytelser fra samme pensjons- og trygdeordning uansett pensjonsart. Det kan trekkes opp til et beløp på 10 pst. av samlet månedlig utbetaling av ytelser som omfattes av denne loven.
 
 5. Trekk etter nr. 2 og nr. 4 avbryter foreldelse etter lov 18. mai 1979 nr. 18 om foreldelse av fordringer. Dersom slikt trekk opphører, varer virkningen av avbrutt foreldelse i ett år etter at trekket opphørte.
 

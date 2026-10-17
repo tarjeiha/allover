@@ -1,0 +1,29 @@
+# § 36. Håndheving av reglene om universell utforming av IKT
+
+**Kilde:** Likestillings- og diskrimineringsloven § 36
+
+**1. ledd**
+
+Digitaliseringsdirektoratet skal føre tilsyn med at kravene i § 18 , jf. § 41 om universell utforming av IKT og § 19 a andre ledd om redegjørelsesplikten, overholdes.
+
+**2. ledd**
+
+Digitaliseringsdirektoratet kan gi pålegg om retting til en virksomhet som ikke oppfyller plikten til universell utforming av IKT etter § 18 , redegjørelsesplikten etter § 19 a andre ledd og forskrift gitt i medhold av § 18 femte ledd og § 19 a tredje ledd, og kan treffe vedtak om tvangsmulkt for å sikre gjennomføring av pålegget dersom fristen for å etterkomme pålegget er oversittet. En part kan begjære at en beslutning om ileggelse av tvangsmulkt skal prøves på ny. Forvaltningsloven §§ 28 til 36 gjelder tilsvarende.
+
+**3. ledd**
+
+Digitaliseringsdirektoratet kan kreve de opplysningene som er nødvendige for å gjennomføre sine oppgaver etter loven, og kreve adgang til IKT-løsninger som nevnt i § 18 . Det samme gjelder klageinstansen ved klage over vedtak etter andre ledd.
+
+**4. ledd**
+
+Søksmål om gyldigheten av vedtak truffet av Digitaliseringsdirektoratet eller av klageinstansen må reises innen tre måneder etter at underretning om vedtaket er mottatt. Vedtaket kan ikke bringes inn for domstolene uten at klageadgangen er utnyttet og klagen er avgjort. Søksmål skal likevel i alle tilfelle kunne reises når det er gått seks måneder fra klage første gang ble fremsatt, og det ikke skyldes forsømmelse fra klagerens side at klageinstansens avgjørelse ikke foreligger.
+
+**5. ledd**
+
+Departementet kan i forskrift fastsette nærmere regler om gjennomføring av tilsyn, utmåling av tvangsmulkt, og hvordan vedtak om tvangsmulkt skal gjennomføres.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 11 juni 2021 nr. 77 (ikr. 1 jan 2022 iflg. res. 11 juni 2021 nr. 1910 ).

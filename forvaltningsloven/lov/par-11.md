@@ -1,0 +1,32 @@
+# § 11. (veiledningsplikt).
+
+**Kilde:** Forvaltningsloven § 11
+
+**1. ledd**
+
+Forvaltningsorganene har innenfor sitt sakområde en alminnelig veiledningsplikt. Formålet med veiledningen skal være å gi parter og andre interesserte adgang til å vareta sitt tarv i bestemte saker på best mulig måte. Omfanget av veiledningen må likevel tilpasses det enkelte forvaltningsorgans situasjon og kapasitet til å påta seg slik virksomhet.
+
+**2. ledd**
+
+Forvaltningsorganer som behandler saker med en eller flere private parter, skal av eget tiltak vurdere partenes behov for veiledning. Etter forespørsel fra en part og ellers når sakens art eller partens forhold gir grunn til det, skal forvaltningsorganet gi veiledning om:
+
+a. gjeldende lover og forskrifter og vanlig praksis på vedkommende sakområde, og
+b. regler for saksbehandlingen, særlig om parters rettigheter og plikter etter forvaltningsloven. Om mulig bør forvaltningsorganet også peke på omstendigheter som i det konkrete tilfellet særlig kan få betydning for resultatet.
+
+**3. ledd**
+
+Uavhengig av om sak pågår, plikter forvaltningsorganet innen sitt sakområde å gi veiledning som nevnt i annet ledd til en person som spør om sine rettigheter og plikter i et konkret forhold som har aktuell interesse for ham.
+
+**4. ledd**
+
+Dersom noen henvender seg til urette myndighet, skal det forvaltningsorgan som mottar henvendelsen, om mulig vise vedkommende til rett organ. Inneholder en henvendelse til et forvaltningsorgan feil, misforståelser, unøyaktigheter eller andre mangler som avsenderen bør rette, skal organet om nødvendig gi beskjed om dette. Organet bør samtidig gi frist til å rette opp mangelen og eventuelt gi veiledning om hvordan dette kan gjøres.
+
+**5. ledd**
+
+Kongen kan gi nærmere bestemmelse om utstrekningen av veiledningsplikten og om den måten veiledningen skal ytes på.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 12 jan 1995 nr. 4 (ikr. 1 apr 1995 iflg. res. 12 jan 1995 nr. 22 ).

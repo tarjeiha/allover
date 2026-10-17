@@ -819,6 +819,7 @@ Norge blir representert av:
 |  | Tadsjikistan | Dusjanbe 2 |
 |  | Turkmenistan | Asjkhabad 2 |
 
+
 ## Vedlegg 16. (Opphevet)
 
 ## Vedlegg 17. Liste over avtaler om arbeidsferie inngått mellom Norge og annen stat
@@ -1008,6 +1009,7 @@ Artikkel 19
 
 | For Kongeriket Norges regjering | For Den Russiske Føderasjons regjering |
 |---|---|
+
 
 ### Vedlegg til Avtalen mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Den Russiske Føderasjon og Kongeriket Norge
 

@@ -1,0 +1,25 @@
+# § 33. Arbeidstakeres rettigheter ved foreldrepermisjon
+
+**Kilde:** Likestillings- og diskrimineringsloven § 33
+
+**1. ledd**
+
+Arbeidstakere som er eller har vært i foreldrepermisjon etter arbeidsmiljøloven § 12-5 eller skipsarbeidsloven § 7-5 , har rett til å
+
+a. vende tilbake til samme, eventuelt tilsvarende, stilling,
+b. nyte godt av forbedringer av arbeidsvilkårene som arbeidstakeren ellers ville vært berettiget til under fraværet og
+c. fremme lønnskrav og bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.
+
+**2. ledd**
+
+Første ledd gjelder ikke fastsettelse eller endringer av lønns- og arbeidsvilkår som er en følge av andre forhold enn foreldrepermisjon.
+
+**3. ledd**
+
+Paragrafen her gjelder tilsvarende ved andre permisjoner knyttet til graviditet og fødsel etter arbeidsmiljøloven §§ 12-2 til 12-8 eller skipsarbeidsloven §§ 7-2 til 7-7 .
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 14 juni 2024 nr. 33 (i kraft 1 juli 2024 iflg. res. 14 juni 2024 nr. 961 ).

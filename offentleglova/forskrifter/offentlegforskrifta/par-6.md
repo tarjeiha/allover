@@ -4,12 +4,14 @@
 
 **1. ledd**
 
-Følgjande organ som fører elektronisk journal, skal gjere journalen tilgjengeleg for ålmenta på Internett: Plikta til å gjere journalen tilgjengeleg på Internett omfattar berre den sentrale eininga i eit direktorat eller eit tilsyn som også har regionale einingar. Utanriksdepartementet kan fastsetje at utanriksstasjonar som fører eigen elektronisk journal, skal gjere han tilgjengeleg for ålmenta på Internett. Det overordna departementet avgjer i tvilstilfelle om eit underlagt organ er omfatta av plikta til å gjere journalen tilgjengeleg på Internett.
+Følgjande organ som fører elektronisk journal, skal gjere journalen tilgjengeleg for ålmenta på Internett:
 
 a. alle departementa og Statsministerens kontor
 b. alle dei statlege direktorata som har heile landet som verkeområde
 c. alle dei statlege tilsyna som har heile landet som verkeområde
 d. statsforvaltarane
+
+Plikta til å gjere journalen tilgjengeleg på Internett omfattar berre den sentrale eininga i eit direktorat eller eit tilsyn som også har regionale einingar. Utanriksdepartementet kan fastsetje at utanriksstasjonar som fører eigen elektronisk journal, skal gjere han tilgjengeleg for ålmenta på Internett. Det overordna departementet avgjer i tvilstilfelle om eit underlagt organ er omfatta av plikta til å gjere journalen tilgjengeleg på Internett.
 
 **2. ledd**
 

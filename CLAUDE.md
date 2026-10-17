@@ -20,7 +20,12 @@ Basen har tre nivåer. Gå ikke dypere enn nødvendig.
 2. **`<regelverk>/VEIVISER.md`**: hva regelverket gjelder, kjente feller, hvilke merknader som finnes, og en liste over alle paragrafer med stien til filen.
 3. **Paragraffilene**: selve lov- og forskriftsteksten, én fil per paragraf.
 
-Noen regelverk har også `merknader/` (veiledning for bestemte temaer), `rundskriv/` (NAVs rundskriv, hentet manuelt) og `eu-eos/` (EØS-regler). Dette er ikke lov- eller forskriftstekst. Si fra i svaret når du bygger på dem, og si hvilken kilde det er.
+Noen regelverk har også `merknader/` (veiledning for bestemte temaer) og `rundskriv/` (rundskriv, lagt inn via innboksen eller hentet manuelt). Dette er ikke lov- eller forskriftstekst. Si fra i svaret når du bygger på dem, og si hvilken kilde det er.
+
+Basen har også to typer kilder som ikke er norsk lov eller forskrift, se tabellene under regelverkslisten:
+
+- **Tariffavtaler** (`hovedtariffavtalen/`): avtaletekst. Si at svaret bygger på tariffavtalen.
+- **EU-rettsakter** (`eu/`): EU-tekst fra EUR-Lex, oftest på engelsk. Veiviseren for hver rettsakt sier hvilken versjon som ligger i basen og om den er kontrollert mot EØS-avtalen. En EU-versjon kan inneholde endringer som ennå ikke gjelder i Norge. Si fra om det når det kan ha betydning, og oversett selv når du forklarer på norsk. Veiviserne til lovene lister hvilke EU-rettsakter lov- og forskriftsteksten viser til.
 
 Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks.tsv` har alle paragrafer i basen med sti, og kan brukes til å søke på tvers av regelverkene.
 
@@ -36,20 +41,60 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Arbeidsmarkedsloven | `arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 |
 | Arbeidsmiljøloven | `arbeidsmiljoloven/VEIVISER.md` | 2026-07-01 |
 | Arbeidstvistloven | `arbeidstvistloven/VEIVISER.md` | 2024-01-01 |
+| Arkivlova | `arkivlova/VEIVISER.md` | 2026-01-01, Kongen fastset |
+| Diskrimineringsombudsloven | `diskrimineringsombudsloven/VEIVISER.md` | 2026-01-01 |
 | Ferieloven | `ferieloven/VEIVISER.md` | 2024-01-01 |
 | Folketrygdloven | `folketrygdloven/VEIVISER.md` | 2026-10-01 |
+| Forvaltningsloven | `forvaltningsloven/VEIVISER.md` | 2026-01-01 |
+| Forvaltningsloven 2025 (ny lov, ikke i kraft) | `forvaltningsloven-2025/VEIVISER.md` | Ikke i kraft (Kongen bestemmer) |
 | Integreringsloven | `integreringsloven/VEIVISER.md` | 2026-07-01 |
+| Karanteneloven | `karanteneloven/VEIVISER.md` | 2025-07-01 |
+| Likestillings- og diskrimineringsloven | `likestillings-og-diskrimineringsloven/VEIVISER.md` | 2024-07-01 |
 | Lov om Statens pensjonskasse | `spk-loven/VEIVISER.md` | 2026-01-01 |
 | Lønnsgarantiloven | `lonnsgarantiloven/VEIVISER.md` | 2026-01-01 |
 | NAV-loven | `nav-loven/VEIVISER.md` | 2026-01-01 |
 | Permitteringslønnsloven | `permitteringslonnsloven/VEIVISER.md` | 2022-03-01 |
+| Personopplysningsloven | `personopplysningsloven/VEIVISER.md` | 2022-01-01 |
 | Samordningsloven | `samordningsloven/VEIVISER.md` | 2026-01-01 |
 | Sosialtjenesteloven | `sosialtjenesteloven/VEIVISER.md` | 2026-01-01 |
+| Språklova | `spraklova/VEIVISER.md` | 2025-07-01 |
+| Statsansatteloven | `statsansatteloven/VEIVISER.md` | 2026-01-01 |
 | Statsborgerloven | `statsborgerloven/VEIVISER.md` | 2024-12-20 |
 | Tjenestetvistloven | `tjenestetvistloven/VEIVISER.md` | 2012-03-01 |
 | Tolkeloven | `tolkeloven/VEIVISER.md` | 2022-06-15 |
 | Utlendingsloven | `utlendingsloven/VEIVISER.md` | 2026-10-01 |
+| Utredningsinstruksen | `utredningsinstruksen/VEIVISER.md` | 2024-11-01 |
 <!-- AUTO-SLUTT -->
+
+## Tariffavtaler og EU-rettsakter i basen
+
+<!-- AUTO-START andre kilder: genereres av verktoy/bygg.py, ikke rediger for hånd -->
+**EU-rettsakter** (EU-tekst fra EUR-Lex, ikke norsk lov; se veiviseren om hvilken versjon som gjelder i EØS)
+
+| Rettsakt | Nummer | Veiviser | EØS-versjon |
+|---|---|---|---|
+| Trygdeforordningen | (EF) nr. 883/2004 | `eu/forordning-883-2004/VEIVISER.md` | kontrollert |
+| Gjennomføringsforordningen til trygdeforordningen | (EF) nr. 987/2009 | `eu/forordning-987-2009/VEIVISER.md` | kontrollert |
+| Forordningen om fri bevegelighet for arbeidstakere | (EU) nr. 492/2011 | `eu/forordning-492-2011/VEIVISER.md` | ikke kontrollert |
+| Personvernforordningen (GDPR) | (EU) 2016/679 | `eu/forordning-2016-679/VEIVISER.md` | kontrollert |
+| Rammedirektivet for helse, miljø og sikkerhet | 89/391/EØF | `eu/direktiv-89-391/VEIVISER.md` | ikke kontrollert |
+| Utsendingsdirektivet | 96/71/EF | `eu/direktiv-96-71/VEIVISER.md` | ikke kontrollert |
+| Deltidsdirektivet | 97/81/EF | `eu/direktiv-97-81/VEIVISER.md` | ikke kontrollert |
+| Masseoppsigelsesdirektivet | 98/59/EF | `eu/direktiv-98-59/VEIVISER.md` | ikke kontrollert |
+| Direktivet om midlertidig ansettelse | 1999/70/EF | `eu/direktiv-1999-70/VEIVISER.md` | ikke kontrollert |
+| Direktivet om likebehandling uavhengig av rase eller etnisk opprinnelse | 2000/43/EF | `eu/direktiv-2000-43/VEIVISER.md` | ikke kontrollert |
+| Rammedirektivet om likebehandling i arbeidslivet | 2000/78/EF | `eu/direktiv-2000-78/VEIVISER.md` | ikke kontrollert |
+| Virksomhetsoverdragelsesdirektivet | 2001/23/EF | `eu/direktiv-2001-23/VEIVISER.md` | ikke kontrollert |
+| Direktivet om informasjon og konsultasjon | 2002/14/EF | `eu/direktiv-2002-14/VEIVISER.md` | ikke kontrollert |
+| Arbeidstidsdirektivet | 2003/88/EF | `eu/direktiv-2003-88/VEIVISER.md` | ikke kontrollert |
+| Bevegelsesdirektivet (unionsborgerdirektivet) | 2004/38/EF | `eu/direktiv-2004-38/VEIVISER.md` | ikke kontrollert |
+| Likebehandlingsdirektivet (kjønn i arbeidslivet) | 2006/54/EF | `eu/direktiv-2006-54/VEIVISER.md` | ikke kontrollert |
+| Insolvensdirektivet (lønnsgaranti) | 2008/94/EF | `eu/direktiv-2008-94/VEIVISER.md` | ikke kontrollert |
+| Vikarbyrådirektivet | 2008/104/EF | `eu/direktiv-2008-104/VEIVISER.md` | ikke kontrollert |
+| Håndhevingsdirektivet til utsendingsdirektivet | 2014/67/EU | `eu/direktiv-2014-67/VEIVISER.md` | ikke kontrollert |
+| Direktivet om tydelige og forutsigbare arbeidsvilkår | (EU) 2019/1152 | `eu/direktiv-2019-1152/VEIVISER.md` | ikke kontrollert |
+| Direktivet om balanse mellom arbeid og privatliv | (EU) 2019/1158 | `eu/direktiv-2019-1158/VEIVISER.md` | ikke kontrollert |
+<!-- AUTO-SLUTT andre kilder -->
 
 ## Temaer i hverdagsspråk
 
@@ -90,12 +135,24 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 | streik i staten, lønnsoppgjøret i staten, tariffavtaler for statsansatte, hovedsammenslutninger, Statens lønnsutvalg | Tjenestetvistloven |
 | når det offentlige må skaffe tolk, bruke familie eller barn som tolk, krav for å jobbe som tolk, klage på en tolk, tolk over skjerm eller telefon, kvalifisert tolk, Nasjonalt tolkeregister, statsautorisert tolk | Tolkeloven |
 | ansette noen fra land utenfor EU, flytte til Norge for å jobbe, arbeidstillatelse, registrere seg som EU-borger, jobbe i Norge som svenske eller danske, oppholdstillatelse, oppholdsrett, asyl, familiegjenforening, visum, utvisning | Utlendingsloven |
+| ansatt i staten, statsansatt, tilsetting i staten, kvalifikasjonsprinsippet, prøvetid i staten, oppsigelse eller avskjed i staten, suspensjon, ordensstraff, midlertidig ansettelse i staten, embetsmann, innstillingsråd, tilsettingsråd, fortrinnsrett i staten, ventelønn | Statsansatteloven |
+| karantene når man slutter i staten, saksforbud, gå fra staten til privat sektor, informasjonsplikt om ny jobb, Karantenenemnda | Karanteneloven |
+| enkeltvedtak, forhåndsvarsel, begrunnelse for vedtak, klagefrist, klage på vedtak fra forvaltningen, partsinnsyn, inhabilitet, habilitet, taushetsplikt i forvaltningen, veiledningsplikt, forskrift og høring av forskrift, omgjøring av vedtak | Forvaltningsloven |
+| ny forvaltningslov, når den nye forvaltningsloven trer i kraft, endringer i saksbehandlingsreglene | Forvaltningsloven 2025 (ny lov, ikke i kraft) |
+| journalføring, arkivplikt, arkivere e-post, bevare dokumenter, kassasjon, slette arkiv, arkivdanning, Arkivverket | Arkivlova |
+| utredning av tiltak, konsekvensutredning, utredningsinstruksen, seks spørsmål i utredningsinstruksen, samfunnsøkonomisk analyse, høringsfrist for statlige tiltak | Utredningsinstruksen |
+| nynorsk og bokmål i staten, språkkrav i offentlige dokumenter, klarspråk, målbruk, 25 prosent nynorsk, språkform i svar til innbyggere | Språklova |
+| diskriminering, likestilling, forskjellsbehandling på grunn av kjønn, etnisitet, religion, funksjonsnedsettelse, seksuell orientering eller alder, trakassering, seksuell trakassering, aktivitetsplikt, universell utforming, lik lønn for arbeid av lik verdi | Likestillings- og diskrimineringsloven |
+| Likestillings- og diskrimineringsombudet, Diskrimineringsnemnda, klage på diskriminering, oppreisning fra nemnda | Diskrimineringsombudsloven |
+| personvern, personopplysninger, GDPR, behandlingsgrunnlag, innsyn i egne opplysninger, sletting, personvernombud, avvik og brudd på personopplysningssikkerheten, Datatilsynet, kameraovervåking | Personopplysningsloven og personvernforordningen (EU) |
+| hovedtariffavtalen, HTA, lønn i staten, lønnstrinn, lokale forhandlinger, overtid i staten, ubekvem arbeidstid, beredskapsvakt, reisetid, velferdspermisjon, permisjon med lønn, ferie i staten, femte ferieuke, fellesbestemmelsene, særavtaler | Hovedtariffavtalen i staten |
+| EU-direktiv, EU-forordning, EØS-regler, hva sier direktivet, arbeidstidsdirektivet, vikarbyrådirektivet, utsendingsdirektivet, trygdeforordningen, fri bevegelighet for arbeidstakere | EU-rettsakter (`eu/`) |
 
 ## Regler for svar
 
 1. **Åpne alltid kildefilene før du svarer.** Svar ikke på regelverksspørsmål fra generell kunnskap. Les veiviseren og de paragrafene som er relevante, også unntak og henvisninger til andre paragrafer.
 2. **Oppgi kilde i svaret:** regelverk, paragraf og ledd, f.eks. «offentleglova § 14 første ledd». Brukeren skal kunne kontrollere svaret selv.
-3. **Skill mellom lov og forskrift.** Si hvilken av dem en regel står i.
+3. **Skill mellom kildetypene.** Si om en regel står i lov, forskrift, instruks, tariffavtale eller EU-rettsakt.
 4. **Når regelverket ikke er i basen.** Basen bygges ut gradvis.
    - Finnes det en egen skill for regelverket, bruk den.
    - Finnes det ingen, si tydelig at regelverket ikke er dekket. Nevn hvilket regelverk som trolig gjelder, og vis til Lovdata (lovdata.no). Ikke konkluder på spørsmålet.
@@ -108,6 +165,8 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 
 - Rundskriv legges i `innboks/`, så legges de inn automatisk under riktig lov. Se `innboks/README.md`.
 - Merknader, EØS-tekster og rundskriv som ble flyttet fra de gamle skillene, redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
+- Hovedtariffavtalen legges inn ved å laste opp Word-filen fra regjeringen.no i `innboks/` med filnavn som begynner på `hovedtariffavtale`. Gjør det ved hvert hovedoppgjør og mellomoppgjør.
+- EU-rettsakter legges til under `eu` i `regelverk.json` med en låst versjon. Feltet `eos` fylles bare ut når versjonen er kontrollert mot EØS-avtalen. `eu/nevnte-rettsakter.md` viser hvilke rettsakter norsk tekst i basen viser til, men som ikke er lagt inn.
 - Lov- og forskriftstekst bygges fra Lovdata med `verktoy/bygg.py` og skal aldri redigeres for hånd. Blokker mellom `AUTO-START` og `AUTO-SLUTT` overskrives ved hvert bygg.
 - Nytt regelverk legges til i `regelverk.json`. Skriv deretter den håndskrevne delen av `VEIVISER.md`, og legg til en linje i temalisten over.
 - Endringer gjøres som pull request og godkjennes av eieren av mappen, se `.github/CODEOWNERS`.

@@ -16,10 +16,12 @@ Dagpenger under arbeidsløshet, garantilott, sykepenger, omsorgspenger, pleiepen
 
 **4. ledd**
 
-Dersom fiskere og fangsfolk ikke har hatt inntekt som nevnt i andre ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i dagpengegrunnlaget dersom: Biintekt fra et arbeidsforhold som vedkommende fortsatt står i, regnes ikke med i dagpengegrunnlaget.
+Dersom fiskere og fangsfolk ikke har hatt inntekt som nevnt i andre ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i dagpengegrunnlaget dersom:
 
 a. vedkommende har arbeidet i fiske og fangst i de foregående 12 uker, og
 b. vedkommende i kalenderårene som ligger til grunn for beregningene i første ledd ikke var oppført, eller oppfylte betingelsene for opptak, på blad B i fiskermanntallet.
+
+Biintekt fra et arbeidsforhold som vedkommende fortsatt står i, regnes ikke med i dagpengegrunnlaget.
 
 **5. ledd**
 

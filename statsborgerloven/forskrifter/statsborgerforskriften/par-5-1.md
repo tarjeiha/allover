@@ -18,6 +18,7 @@
 | osv. |  |
 | t.o.m. 21 år: | 39 år |
 
+
 ---
 
 **Endringshistorikk:**

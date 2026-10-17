@@ -4,10 +4,12 @@
 
 **1. ledd**
 
-Trygden yter stønad til dekning av et medlems utgifter til: som omfattes av avtale mellom virksomheten og regionalt helseforetak, jf. lov 15. juni 2001 nr. 93 om helseforetak m.m. Avtalte volumbegrensninger har ikke virkning for et medlems rett til refusjon fra trygden.
+Trygden yter stønad til dekning av et medlems utgifter til:
 
 a. prøver og undersøkelser ved private medisinske laboratorier og
 b. radiologiske undersøkelser og behandling ved private røntgenavdelinger eller røntgeninstitutter
+
+som omfattes av avtale mellom virksomheten og regionalt helseforetak, jf. lov 15. juni 2001 nr. 93 om helseforetak m.m. Avtalte volumbegrensninger har ikke virkning for et medlems rett til refusjon fra trygden.
 
 **2. ledd**
 

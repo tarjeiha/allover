@@ -31,7 +31,7 @@ Lønnsgarantiloven har ingen egen merknadsfil. Bruk `permitteringslonnsloven/mer
 
 - **Lov:** Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven] – LOV-1973-12-14-61. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om avskrivning av statens krav etter lønnsgarantiordningen – FOR-1981-01-05-8825. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
-- **Forskrift:** Forskrift om delegering av myndighet til Kommunaldepartementet etter lov om statsgaranti ved konkurs m.v. – FOR-1985-09-20-1711. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om delegering av myndighet til Kommunaldepartementet etter lov om statsgaranti ved konkurs m.v. – FOR-1985-09-20-1711. **Ikke i kraft:** ukjent dato. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om statsgaranti for lønnskrav ved konkurs m.v. – FOR-1998-10-28-999. Sist endret i kraft: 2026-04-09. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
@@ -114,4 +114,10 @@ Lønnsgarantiloven har ingen egen merknadsfil. Bruk `permitteringslonnsloven/mer
 **Kap. 8. Ikrafttreden og overgangsregler**
 
 - § 8-1. Ikrafttreden og overgangsregler – `forskrifter/statsgaranti-lonnskrav/par-8-1.md`
+
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.
+
+- **Direktiv 2008/94** (Insolvensdirektivet (lønnsgaranti)) – i basen: `eu/direktiv-2008-94/VEIVISER.md`. Nevnt i `forskrifter/statsgaranti-lonnskrav/par-1-1.md`
 <!-- AUTO-SLUTT -->

@@ -6,9 +6,10 @@
 
 I denne forskriften betyr
 
-1. arbeidstid: Den tiden arbeidstakeren er på arbeidsplassen og står til disposisjon for arbeidsgiveren, dvs.: Arbeidstid skal ikke omfatte hvilepausene som er nevnt i § 15 og de periodene arbeidstakeren er tilgjengelig som nevnt i nummer 2.
+1. arbeidstid: Den tiden arbeidstakeren er på arbeidsplassen og står til disposisjon for arbeidsgiveren, dvs.:
   a. Den tiden som går med til transportarbeid på veg. Slikt arbeid omfatter bl.a. kjøring, lasting og lossing, hjelp til passasjerene i forbindelse med på- og avstigning fra kjøretøyet, rengjøring, teknisk vedlikehold og alt annet arbeid som har til formål å sikre kjøretøyet, lasten eller passasjerene, eller å utføre lov- eller forskriftsmessige plikter som har direkte sammenheng med den transporten som finner sted, herunder tilsyn med lasting og lossing, administrative formaliteter med politi-, toll- og immigrasjonsmyndigheter, osv.
   b. Periodene der arbeidstakeren ikke kan disponere tiden sin fritt og må være på arbeidsplassen sin, klar til å utføre det vanlige arbeidet sitt, og det blir utført konkrete arbeidsoppgaver som har sammenheng med tjenesten. Dette gjelder bl.a. ventetid i forbindelse med lasting og lossing når det ikke er kjent på forhånd hvor lenge dette kan ventes å vare.
+  Arbeidstid skal ikke omfatte hvilepausene som er nevnt i § 15 og de periodene arbeidstakeren er tilgjengelig som nevnt i nummer 2.
 2. perioder arbeidstakeren er tilgjengelig:
   a. Andre perioder enn pauser og hviletid der det ikke kreves at arbeidstakeren oppholder seg på arbeidsplassen sin, men kan anmodes om å påta seg kjøring, fortsette med kjøring eller påta seg annet arbeid. Dette gjelder bl.a. reisetid med ferje eller tog når kjøretøyet er om bord i ferja eller toget, ventetid ved grenser og ventetid som følge av trafikkforbud. Disse periodene skal være kjent for arbeidstakeren på forhånd, og arbeidstakeren skal være kjent med hvor lenge de kan forventes å vare.
   b. Tid som går med til opphold ved siden av føreren eller i køye mens kjøretøyet er i bevegelse når det er flere arbeidstakere i samme kjøretøy.

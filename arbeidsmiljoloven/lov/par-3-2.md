@@ -12,9 +12,11 @@ c. sakkyndig bistand når dette er nødvendig for å gjennomføre lovens krav.
 
 (3) Hvis det skal utføres arbeid som kan innebære særlig fare for liv eller helse, skal det utarbeides en skriftlig instruks om hvordan arbeidet skal utføres og hvilke sikkerhetstiltak som skal iverksettes.
 
-(4) Departementet kan gi forskrift om gjennomføringen av bestemmelsene i denne paragraf. Departementet kan også i forskrift gi nærmere bestemmelser om personlig verneutstyr, herunder om: Departementet kan i forskrift fastsette at reglene om personlig verneutstyr også skal gjelde for produsent, importør og leverandør.
+(4) Departementet kan gi forskrift om gjennomføringen av bestemmelsene i denne paragraf. Departementet kan også i forskrift gi nærmere bestemmelser om personlig verneutstyr, herunder om:
 
 a. utforming, merking mv.
 b. bruk, vedlikehold mv.
 c. prøving, sertifisering og godkjenning
 d. godkjenning av organer som skal utøve kontroll knyttet til produksjon av personlig verneutstyr.
+
+Departementet kan i forskrift fastsette at reglene om personlig verneutstyr også skal gjelde for produsent, importør og leverandør.

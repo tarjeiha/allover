@@ -1,0 +1,17 @@
+# § 45. Delegering til Justis- og beredskapsdepartementet
+
+**Kilde:** Forvaltningslovforskriften § 45
+
+**1. ledd**
+
+Kongens myndighet etter forvaltningsloven § 4 tredje ledd, § 5 første ledd første og annet punktum, § 6 femte ledd, § 11 femte ledd, § 13 annet ledd annet punktum og § 13c tredje ledd første punktum delegeres til Justis- og beredskapsdepartementet. Det samme gjelder for Kongens myndighet etter forvaltningsloven § 38 tredje ledd annet punktum og § 38 fjerde ledd. Myndighet etter § 11 femte ledd kan delegeres videre til andre departementer.
+
+**2. ledd**
+
+Saker om bruk av Kongens myndighet etter forvaltningsloven § 2 annet ledd tredje punktum, § 3 annet ledd første punktum, § 5 første ledd tredje punktum og annet ledd, § 19 tredje ledd, § 24 fjerde ledd, § 28 tredje ledd første punktum og fjerde ledd og § 36 tredje ledd fjerde og femte punktum fremmes for Kongen av Justis- og beredskapsdepartementet eller av vedkommende departement med Justis- og beredskapsdepartementets samtykke.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrifter 29 mai 2009 nr. 578 , 24 juni 2011 nr. 627 , 4 april 2014 nr. 392 .

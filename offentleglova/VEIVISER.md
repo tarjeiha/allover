@@ -96,4 +96,11 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - § 12. Iverksetjing og overgangsreglar – `forskrifter/offentlegforskrifta/par-12.md`
 - § 13. Oppheving av eldre forskrifter – `forskrifter/offentlegforskrifta/par-13.md`
 - § 14. Endringar i andre forskrifter – `forskrifter/offentlegforskrifta/par-14.md`
+
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.
+
+- Direktiv 2003/98 – ikke i basen. Nevnt i `forskrifter/offentlegforskrifta/par-1.md`, `lov/par-2.md`, `lov/par-30.md`, `lov/par-6.md`, `lov/par-7.md`, `lov/par-8.md`
+- Direktiv 2013/37 – ikke i basen. Nevnt i `lov/par-2.md`, `lov/par-30.md`, `lov/par-6.md`, `lov/par-7.md`, `lov/par-8.md`
 <!-- AUTO-SLUTT -->

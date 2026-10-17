@@ -11,10 +11,12 @@ b. i løpet av de siste tre ferdiglignede kalenderårene før det søkes om stø
 
 **2. ledd**
 
-For fiskere og fangstfolk som ikke fyller vilkårene i første ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i grunnlaget for minsteinntekt, dersom: Biinntekt fra et arbeidsforhold som vedkommende fortsatt står i inngår ikke i grunnlaget for minsteinntekt.
+For fiskere og fangstfolk som ikke fyller vilkårene i første ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i grunnlaget for minsteinntekt, dersom:
 
 a. vedkommende har arbeidet i fiske og fangst i de foregående 12 uker, og
 b. vedkommende i kalenderårene som ligger til grunn for beregningene i første ledd ikke var oppført, eller oppfylte betingelsene for opptak, på blad B i fiskermanntallet.
+
+Biinntekt fra et arbeidsforhold som vedkommende fortsatt står i inngår ikke i grunnlaget for minsteinntekt.
 
 **3. ledd**
 

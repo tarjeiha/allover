@@ -4,12 +4,14 @@
 
 **1. ledd**
 
-Unntaka i §§ 14 og 15 gjeld ikkje: § 14 gjeld likevel for dokument som blir utveksla mellom kommunale og fylkeskommunale kontrollutval og sekretariatet til utvalet. For kommunar og fylkeskommunar med parlamentarisk styreform gjeld §§ 14 og 15 likevel for saksframlegg med vedlegg og sakliste til førebuande møte i kommuneråd og fylkesråd der ein ikkje skal gjere vedtak eller leggje fram innstilling. §§ 14 og 15 gjeld også for dokument som eit folkevalt organ har kravd innsyn i etter kommuneloven § 11-13 .
+Unntaka i §§ 14 og 15 gjeld ikkje:
 
 a. saksframlegg med vedlegg til eit kommunalt eller fylkeskommunalt folkevalt organ,
 b. sakliste til møte i folkevalde organ i kommunar og fylkeskommunar,
 c. dokument frå eller til kommunale og fylkeskommunale kontrollutval, revisjonsorgan og klagenemnder, og
 d. dokument i saker der ei kommunal eller fylkeskommunal eining opptrer som ekstern part i høve til ei anna slik eining.
+
+§ 14 gjeld likevel for dokument som blir utveksla mellom kommunale og fylkeskommunale kontrollutval og sekretariatet til utvalet. For kommunar og fylkeskommunar med parlamentarisk styreform gjeld §§ 14 og 15 likevel for saksframlegg med vedlegg og sakliste til førebuande møte i kommuneråd og fylkesråd der ein ikkje skal gjere vedtak eller leggje fram innstilling. §§ 14 og 15 gjeld også for dokument som eit folkevalt organ har kravd innsyn i etter kommuneloven § 11-13 .
 
 **2. ledd**
 

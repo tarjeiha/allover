@@ -15,7 +15,7 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 ## Kjente feller
 
 - **Ytelseskapitlet er sjelden hele svaret.** Kapittel 1–3 og 21–22 gjelder alle ytelser. Grunnbeløpet fastsettes av Kongen og reguleres årlig fra 1. mai (§ 1-4 andre ledd), så de fleste satser må hentes fra forskriften om grunnbeløp og satser for riktig år. Oppgi aldri kronebeløp du ikke finner i en kildefil.
-- **EØS-reglene går foran.** Trygdeforordningen og gjennomføringsforordningen gjelder som lov, og loven skal fravikes der forordningene krever det (§ 1-3 a). De fleste ytelseskapitler har en egen § X-1 a om dette. For dagpenger slår § 4-1 a første ledd fast at dagpenger er en ytelse ved arbeidsløshet etter trygdeforordningen. Basen har bare forordningsartiklene om dagpenger (`eu-eos/`). Trygdeforordningens generelle del (art. 1–16 om lovvalg, sammenlegging og eksport) er ikke i basen. Si fra når svaret avhenger av den.
+- **EØS-reglene går foran.** Trygdeforordningen og gjennomføringsforordningen gjelder som lov, og loven skal fravikes der forordningene krever det (§ 1-3 a). De fleste ytelseskapitler har en egen § X-1 a om dette. For dagpenger slår § 4-1 a første ledd fast at dagpenger er en ytelse ved arbeidsløshet etter trygdeforordningen. Hele trygdeforordningen og gjennomføringsforordningen ligger i `eu/forordning-883-2004/` og `eu/forordning-987-2009/` (stier fra roten). Teksten er på engelsk.
 - **Følg hele henvisningskjeden før du konkluderer negativt.** Mange paragrafer viser til flere andre samtidig. Eksempel: sykepengegrunnlaget for frilansere følger av § 8-28 første til tredje ledd, § 8-29 og § 8-30 første til tredje ledd (§ 8-38 femte ledd). Les alle leddene i kjeden før du sier at noe ikke gjelder.
 - **Kapittel 11 og 11 A er to kapitler.** Kapittel 11 gjelder arbeidsavklaringspenger, kapittel 11 A tilleggsstønader til arbeidsrettede tiltak. Ikke forveksle § 11 A-4 (tilleggsstønader) med § 11-4 (alder).
 - **Rundskriv uten forskriftstekst.** For tilleggsstønadsforskriften (§ 11 A-4), de to institusjonsforskriftene (§ 12-19), overgangsreglene for barnetillegg (§ 12-15 og § 12-16) og forskriftene om stønadsformene i § 10-7 har basen NAVs kommentarer, men ikke selve forskriftsteksten. Si fra at forskriftsteksten ikke er kontrollert.
@@ -35,7 +35,7 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 |---|---|
 | Medlemskap, trygdetid, pensjonsgivende inntekt, omsorgspoeng, grunnbeløp (kap. 1–3) | `merknader/medlemskap-beregning.md` |
 | Dagpenger, permittering, minsteinntekt (kap. 4) | `merknader/dagpenger.md`, rundskriv `rundskriv/ftrl/kap-4/` |
-| Dagpenger og arbeid eller bosted i et annet EØS-land | `eu-eos/oversikt.md` (forordningsteksten er på engelsk) |
+| Dagpenger og arbeid eller bosted i et annet EØS-land | `eu/forordning-883-2004/merknader/dagpenger.md` fra roten (forordningsteksten er på engelsk) |
 | Dagpenger ved konkurs, lønnsgaranti | `permitteringslonnsloven/merknader/generelt.md`, `lonnsgarantiloven/VEIVISER.md` |
 | Grunnstønad og hjelpestønad (kap. 6) | `merknader/grunnstonad.md`, `merknader/temaoppslag-grunnstonad.md`, rundskriv `rundskriv/ftrl/kap-6/` |
 | Hjelpestønad ved en bestemt diagnose | `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md` |
@@ -1618,6 +1618,23 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 - § 6. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-6.md`
 - § 7. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-7.md`
 
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.
+
+- **Forordning nr. 883/2004** (Trygdeforordningen) – i basen: `eu/forordning-883-2004/VEIVISER.md`. Nevnt i `forskrifter/dagpengeforskriften/par-1-7.md`, `forskrifter/dagpengeforskriften/par-1-8.md`, `forskrifter/dagpengeforskriften/par-1-9.md`, `forskrifter/dagpengeforskriften/utenfor-paragrafene.md`, `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`, `lov/par-1-3a.md`
+- **Forordning nr. 987/2009** (Gjennomføringsforordningen til trygdeforordningen) – i basen: `eu/forordning-987-2009/VEIVISER.md`. Nevnt i `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `lov/par-1-3a.md`
+- Forordning nr. 1408/71 – ikke i basen. Nevnt i `forskrifter/bilaterale-trygdeavtaler/par-1.md`, `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`
+- Forordning nr. 988/2009 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1244/2010 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1224/2012 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 465/2012 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1372/2013 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 517/2013 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1368/2014 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning 2017/492 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning 2019/1149 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+
 ## Andre kilder
 
 Dette er ikke lov- eller forskriftstekst.
@@ -1676,10 +1693,4 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/` – 11 filer, start med `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md`
 - `rundskriv/ftrl/kap-8/` – 98 filer
 - `rundskriv/ftrl/kap-9/` – 18 filer
-
-### EU/EØS-regelverk
-
-- `eu-eos/forordning-883/` – 6 filer
-- `eu-eos/forordning-987/` – 5 filer
-- `eu-eos/` – 1 filer, start med `eu-eos/oversikt.md`
 <!-- AUTO-SLUTT -->
