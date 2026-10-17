@@ -1,0 +1,60 @@
+name: Hent NAVs rundskriv til folketrygdloven
+
+# Manuell engangskjøring: henter rundskrivene fra Lovdata til innboks/ og legger dem inn i basen.
+on:
+  workflow_dispatch:
+    inputs:
+      rundskriv:
+        description: "Rundskriv som skal hentes, atskilt med mellomrom (f.eks. r13-00 r14-00). Tomt gir alle som mangler."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rundskriv
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q --no-install-recommends poppler-utils pandoc libreoffice-writer-nogui
+          pip install beautifulsoup4==4.12.3 lxml==5.3.0
+
+      - name: Hent rundskriv fra Lovdata
+        env:
+          RUNDSKRIV: ${{ inputs.rundskriv }}
+        run: python3 verktoy/rundskriv_hent.py $RUNDSKRIV
+
+      - name: Legg inn rundskriv
+        run: python3 verktoy/rundskriv.py
+
+      - name: Legg inn på main
+        run: |
+          [ -f rundskriv-rapport.txt ] || exit 0
+          mv rundskriv-rapport.txt "$RUNNER_TEMP/melding.txt"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$RUNNER_TEMP/melding.txt"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
+
+      - name: Vis resultatet
+        if: always()
+        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Ingenting å legge inn." >> "$GITHUB_STEP_SUMMARY"

@@ -132,9 +132,12 @@ LEDD = re.compile(r"(første|andre|annet|tredje|fjerde|femte|sjette|sjuende|syve
                   re.IGNORECASE)
 
 
-def ser_ut_som_overskrift(rest: str) -> bool:
-    """«§ 8-10. Sykepengegrunnlag» og «§ 8-10 første ledd» er overskrifter, «§ 8-46 for vernepliktige,» er ikke."""
+def ser_ut_som_overskrift(rest: str, markdown_overskrift: bool = False) -> bool:
+    """«§ 8-10. Sykepengegrunnlag» og «§ 8-10 første ledd» er overskrifter, «§ 8-46 for vernepliktige,» er ikke.
+    I en Markdown-overskrift («### § 16-5 Krav til pleieforholdet») er også tittel med stor forbokstav en overskrift."""
     rest = rest.strip()
+    if markdown_overskrift and rest[:1].isupper():
+        return True
     return not rest or rest[0] in ".–-:" or bool(LEDD.match(rest))
 
 
@@ -149,7 +152,7 @@ def del_opp(tekst: str) -> list:
         if len(linje) > 160 or (bare_overskrifter and not linje.startswith("#")):
             continue
         m = PARAGRAFLINJE.match(linje)
-        if m and ser_ut_som_overskrift(linje[m.end():]):
+        if m and ser_ut_som_overskrift(linje[m.end():], linje.startswith("#")):
             starter.append((i, "§ " + re.sub(r"\s+", " ", m.group(1)).strip()))
     if len(starter) < 2:
         return [(None, tekst)]
