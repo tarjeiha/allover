@@ -58,7 +58,7 @@ def les_ark(ws):
         r = r[venstre:]
         r = r[:max(i + 1 for i, c in enumerate(r) if c is not None)]
         celler = [c for c in r if c is not None]
-        if er_overskrift(r) and len(celler) >= 3:
+        if er_overskrift(r) and (len(celler) >= 3 or (len(celler) == 2 and r[0] is None)):
             blokk = {"gruppe": ventende or "", "etikett": tekst(r[0]), "kolonner": [tekst(c) for c in r[1:]], "rader": []}
             blokker.append(blokk)
             ventende, rad_gruppe = None, ""
@@ -110,15 +110,21 @@ def heltall_aar(v):
 
 
 def tall_i_xlsx(wb):
-    """Alle tall i datarkene, bortsett fra heltall som kan være årstall."""
+    """Alle tall i datarkene, bortsett fra heltall som kan være årstall eller perioder.
+
+    Tall som står som tekst («62», «03», «100 ») telles også, siden TSV-en ikke skiller dem fra tall.
+    Rader som bare teller 1, 2, 3 ... (månedsnummer over månedsnavn) er overskrifter og telles ikke."""
     ut = Counter()
     for ws in wb:
         if ws.title.startswith("Om"):
             continue
         for rad in ws.iter_rows(values_only=True):
-            for c in rad:
-                if isinstance(c, str) and re.fullmatch(r"\d{4}", c.strip()):
-                    c = int(c)  # årstall som tekst i overskrift, telles som i TSV-en
+            celler = [c for c in rad if c is not None and tekst(c)]
+            if len(celler) >= 3 and celler == list(range(1, len(celler) + 1)):
+                continue
+            for c in celler:
+                if isinstance(c, str) and re.fullmatch(r"-?\d+([.]\d+)?", c.strip()):
+                    c = float(c.strip())
                 if isinstance(c, (int, float)) and not isinstance(c, bool) and not heltall_aar(c):
                     ut[round(round(float(c), 6), 3)] += 1
     return ut
