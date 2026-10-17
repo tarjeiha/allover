@@ -143,14 +143,18 @@ def _henvisninger(sti: Path) -> tuple:
     hode = soup.find("header")
     if hode:
         alle |= hrefs(hode)
-    return per_par, alle
+    sist = soup.find("dd", class_="lastChangeInForce")
+    sist = DATO.search(sist.get_text()) if sist else None
+    return per_par, alle, date.fromisoformat(sist.group(0)) if sist else None
 
 
 def _status(akt: dict, vedtak: list, idag: date) -> str | None:
     """Tekst om ikrafttredelse, eller None når akten er for gammel til å tas med."""
     grense = idag - timedelta(days=GRENSE_DAGER)
+    if not akt["ikraft"]:
+        return None
     datoer = [date.fromisoformat(d) for d in DATO.findall(akt["ikraft"])]
-    kongen = "Kongen bestemmer" in akt["ikraft"] or not datoer
+    kongen = re.search(r"Kongen (bestemmer|fastset)", akt["ikraft"]) or not datoer
     if not kongen:
         if max(datoer) < grense:
             return None
@@ -178,6 +182,12 @@ def _datotekst(datoer: list, idag: date) -> str:
     return f"I kraft fra {vis} (ulike deler til ulik tid). Deler som er i kraft, er ikke tatt inn i teksten i basen ennå."
 
 
+def _konsolidert(akt: dict, sist: date | None) -> bool:
+    """Gjeldende tekst er ajourført til og med alle de faste ikrafttredelsesdatoene i akten."""
+    datoer = [date.fromisoformat(d) for d in DATO.findall(akt["ikraft"])]
+    return bool(sist and datoer and not re.search(r"Kongen", akt["ikraft"]) and max(datoer) <= sist)
+
+
 def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
     """
     maal: refid ('lov/1988-04-29-21') -> sti til gjeldende dokument.
@@ -191,14 +201,15 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
     for navn, raa in _dokumenter(filer):
         tittel = TITTEL.search(raa)
         tittel = clean(re.sub(r"<[^>]+>", " ", tittel.group(1))) if tittel else ""
-        if re.search(r"ikraftsetting|ikrafttredelse|i kraft", tittel, re.I):
+        ikraftvedtak = re.search(r"ikraftsetting|ikrafttredelse|i kraft", tittel, re.I)
+        if ikraftvedtak:
             soup = BeautifulSoup(raa.split("</header>")[0], "lxml")
             v = {"id": _dd(soup, "legacyID"), "tittel": tittel, "ikraft": _dd(soup, "dateInForce")}
             for ref in set(_aktref(tittel + " " + _dd(soup, "miscInformation"))):
                 if v not in vedtak_for.setdefault(ref, []):
                     vedtak_for[ref].append(v)
         endrer = ENDRER.search(raa)
-        if endrer and any(r in maal for r in LI.findall(endrer.group(1))):
+        if endrer and not ikraftvedtak and any(r in maal for r in LI.findall(endrer.group(1))):
             kandidater.append(zlib.compress(raa.encode("utf-8")))
     print(f"Lovtidend: {len(kandidater)} endringsakter berører regelverk i basen")
     sjekket = 0
@@ -229,7 +240,7 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
                     continue
                 if mref not in henv:
                     henv[mref] = _henvisninger(maal[mref])
-                if akt["ref"] not in henv[mref][1]:
+                if akt["ref"] not in henv[mref][1] and not _konsolidert(akt, henv[mref][2]):
                     tekst = ["Endringsteksten er ikke merket per paragraf i Lovtidend. Les den på Lovdata: "
                              + lovdata_url(akt), ""]
                     ut.setdefault(mref, []).append(dict(akt, status=status, endringer=[{"paragraf": "", "linjer": tekst}]))
@@ -240,7 +251,9 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
                 continue
             if mref not in henv:
                 henv[mref] = _henvisninger(maal[mref])
-            per_par, alle = henv[mref]
+            per_par, alle, sist = henv[mref]
+            if _konsolidert(akt, sist):
+                continue
             endringer = []
             for ch in dc.find_all("article", class_="change"):
                 par = _paragraf(_del(ch))
