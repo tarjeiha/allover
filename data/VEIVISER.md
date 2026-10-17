@@ -9,6 +9,21 @@ Denne mappen er en katalog over hvor tall og statistikk finnes og hvilken tabell
 3. **Skill mellom kildene.** Samme begrep kan ha ulik definisjon hos ulike kilder. Si hvilken kilde tallet kommer fra.
 4. **Katalogen er kontrollert mot SSB 2026-10-17.** Tabeller kan bli avsluttet eller erstattet. Finner du ikke tabellen, søk på nytt.
 
+## Slik svarer du: kort svar og kvalitetssikringsversjon
+
+Brukere av basen er også ledere og kommunikasjonsmedarbeidere som ikke selv kan kvalitetssikre tallene. Svar derfor i to lag.
+
+**Standardsvar (kort).** Konklusjonen i 2–4 setninger med tallet, perioden og hva det måler. Kilde, eier og periode står i selve setningen («Nav, sykefraværsstatistikken, 2. kvartal 2026»), slik at svaret kan videresendes uten vedlegg. Tall du har regnet ut selv, og forbehold som kan gi et feil bilde (brudd i serien, ulik definisjon, ikke sesongjustert), står også her. Avslutt med én linje om at en kvalitetssikringsversjon finnes.
+
+**Kvalitetssikringsversjon (på forespørsel).** Samme tall som standardsvaret, i denne rekkefølgen:
+1. Svaret med nummererte kildehenvisninger [1], [2].
+2. Kilder: eier, tabell med tittel og kode, ark og rad/kolonne tallet står i, lenke til eierens side, når tabellen er publisert og når den ble hentet (se `data/nav/indeks.tsv`).
+3. Utregninger: formel og kildetall for alt du har regnet ut. Tall som eieren selv oppgir er merket «fra kilden».
+4. Forbehold: brudd, avgrensninger og begreper som lett forveksles.
+5. Til kvalitetssikrer: hva som er kontrollert maskinelt (konvertering tall for tall) og hva et menneske må vurdere (om tallet svarer på det som ble spurt om).
+
+**Regler for begge.** Ikke slå sammen eller sammenlign tall fra ulike kilder uten å si at definisjonene kan avvike. Si «ikke dekket» når tallet ikke finnes i katalogen eller hos kilden. Tall hentes fra kilden hos eieren, som eier kvaliteten, og svaret viser alltid til eieren.
+
 ## Kilder
 
 | Kilde | Fil | Status |
