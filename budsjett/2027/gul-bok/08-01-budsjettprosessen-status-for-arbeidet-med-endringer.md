@@ -1,0 +1,15 @@
+<!-- Kilde: Prop. 1 S (2026–2027) Statsbudsjettet (Gul bok), Finansdepartementet. Generert av verktoy/budsjett.py, skal ikke redigeres for hånd. -->
+
+# Budsjettprosessen – status for arbeidet med endringer
+
+*Del av: Omtale av særskilte saker*
+
+Finansdepartementet satte i 2024 i gang et arbeid med forbedringer av budsjettprosessen. Målet er å gi et bedre grunnlag for å vurdere samlet offentlig ressursbruk og tilrettelegge bedre for politikkutvikling og prioriteringer som kan gå over flere år. Forutsigbar styring og budsjettkontroll krever god forståelse for strukturelle utfordringer i økonomien, bærekraften i offentlige finanser og langsiktige konsekvenser av enkeltbeslutninger. I tillegg bør beslutningsmaterialet gi informasjon om resultatene av ressursbruken og hvordan ulike virkemidler samspiller på tvers av budsjettområder. Bakgrunnen for arbeidet og målene med det er nærmere omtalt i avsnitt 8.3 i Gul bok 2025 og i avsnitt 8.2 i Gul bok 2024.
+
+Som omtalt i Gul bok 2025 ser Finansdepartementet hen til hvordan andre land arbeider med og presenterer sine budsjetter og OECDs standarder for beste praksis. OECD har flere ganger, og senest i gjennomgangen av Norge i juni 2026, anbefalt et rammeverk for budsjettering på mellomlang sikt slik de aller fleste OECD-land nå har. I Nasjonalbudsjettet for 2026 ble det vist fremskrivinger av budsjettmessig handlingsrom for perioden 2027–2029. Slike fremskrivinger skal gi et bedre grunnlag for å vurdere handlingsrommet for ny politikk over noen år og vil være nyttig for eksempel i arbeid med større flerårige planer i enkeltsektorer. Nye fremskrivinger inngår i Nasjonalbudsjettet 2027, og det tas sikte på oppdateringer i de årlige budsjettfremleggene.
+
+Det vurderes hvordan informasjon om resultater og utvikling på viktige enkeltområder kan benyttes bedre i utarbeidelsen og presentasjonen av budsjettfremleggene. Som ledd i dette arbeidet har Finansdepartementet gitt Direktoratet for økonomistyring i oppdrag å vurdere tiltak som kan forbedre informasjonen som legges frem for Stortinget om fagdepartementenes budsjettområder.
+
+I det pågående arbeidet er det også gjort endringer i rutinene for regjeringens budsjettarbeid. Prosessen for å justere budsjettet i tråd med gjeldende politikk (tekniske justeringer) er endret slik at disse avklares i forkant av budsjettkonferansene. Dette frigjør kapasitet til mer strategisk og langsiktig arbeid i regjeringen. Budsjettmaterialet, særlig til regjeringens marskonferanse, har lagt større vekt på analyser av strukturelle utfordringer og aktuelle tiltak. Særlig har hovedutfordringene fra perspektivmeldingen med mangel på arbeidskraft og lav produktivitetsvekst blitt belyst og trukket inn i budsjettarbeidet. Også arbeidet med innsparinger og satsinger er gjort mer målrettet. Regjeringens plan for Norge som ble lagt frem i desember 2025, viser regjeringens prioriteringer i årene fremover og skal være førende også for prioriteringer i budsjettsammenheng.
+
+Finansdepartementet vil fortsette arbeidet med forbedringer av budsjettmaterialet stegvis og over tid, slik at det er tilstrekkelig kapasitet til gjennomføringen og mulig å justere underveis.
