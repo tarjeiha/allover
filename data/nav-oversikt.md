@@ -39,3 +39,22 @@ Andel av befolkningen etter fylke og alder 2025–2026 (tabell 12), med barnetil
 - **Familie (per 30.6.2026):** kontantstøtte, foreldrepenger/engangsstønad/svangerskapspenger, barnebidrag, enslig mor eller far, barnetrygd, pleiepenger sykt barn (2025)
 - **Pensjon (per 30.6.2026):** alderspensjon, ytelser til gjenlevende, AFP, krigspensjon, supplerende stønad
 - **Flere områder:** sosialhjelp (1. tertial 2026), grunnstønad og hjelpestønad (30.6.2026), utbetalinger i Norge og utlandet (2025), utenforskap fra arbeidslivet (2025), trygdemisbruk (2025), tall for tolk (2025)
+
+## Kildekart: hva som hentes automatisk (oppdatert 2026-10-17)
+
+Nav-henting (`.github/workflows/nav-hent.yml`) går hver mandag gjennom kildesidene som står i `data/nav/kilder.json`, laster ned nye xlsx-filer og legger dem inn. Hver tabells kildeside og siste innlegging står i `data/nav/indeks.tsv`. Alt under `https://www.nav.no/no/nav-og-samfunn/statistikk/`:
+
+| Side | Status |
+|---|---|
+| `sykefravar-statistikk/sykefravar` | Hentes (kvartal) |
+| `arbeidssokere-og-stillinger-statistikk/` helt-ledige, hovedtall-om-arbeidsmarkedet, ledige-stillinger, tiltaksdeltakere, arbeidsindikator, historisk-statistikk, stonader-til-arbeidssokere | Hentes |
+| `aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/` arbeidsavklaringspenger, nedsatt-arbeidsevne, uforetrygd (+ diagnoser, månedsstatistikk) | Hentes |
+| `pensjon-statistikk/` alderspensjon, avtalefestet-pensjon-afp, krigspensjon, supplerende-stonad, ytelser-til-gjenlevende | Hentes (AFP kun privat sektor) |
+| `familie-statistikk/kontantstotte` | Hentes |
+| `familie-statistikk/` barnetrygd, barnebidrag, enslig-mor-eller-far, pleiepenger-sykt-barn | Ingen xlsx (nettabeller) |
+| `familie-statistikk/` foreldrepenger (+ engangsstønad og svangerskapspenger) | Bare pdf |
+| `flere-statistikkomrader/` utbetalinger-til-personer-i-norge-per-fylke-og-kommune, utbetalinger-til-personer-i-utlandet, utenforskap-fra-arbeidslivet, trygdemisbruk, stonadsmottakere | Hentes |
+| `flere-statistikkomrader/` sosialhjelp | Bare pdf |
+| `flere-statistikkomrader/` grunnstonad, hjelpestonad | Bare bilder (png) |
+
+Nye filer på disse sidene som ikke passer et mønster i `kilder.json`, står i rapporten fra Nav-henting («uten treff i kilder.json»). Nye sider eller nye underområder hos Nav finnes ikke av seg selv: sjekk gruppesidene `arbeidssokere-og-stillinger-statistikk`, `aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk`, `pensjon-statistikk`, `familie-statistikk`, `flere-statistikkomrader` og `sykefravar-statistikk` for nye undersider.
