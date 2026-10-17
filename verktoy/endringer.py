@@ -41,7 +41,7 @@ LI = re.compile(r"<li[^>]*>\s*([^<\s]+)")
 MAANED = {m: i + 1 for i, m in enumerate(
     ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august",
      "september", "oktober", "november", "desember"])}
-AKTNAVN = re.compile(r"\b(lov|forskrift)\s+(\d{1,2})\.\s*([a-zæøå]+)\s+(\d{4})\s+nr\.\s*(\d+)", re.I)
+AKTNAVN = re.compile(r"\b(lov|forskrift)\s+(?:av\s+)?(\d{1,2})\.?\s*([a-zæøå]+)\.?\s+(\d{4})\s+nr\.?\s*(\d+)", re.I)
 
 
 def last_ned(mappe: Path) -> list:
@@ -73,8 +73,9 @@ def _aktref(tekst: str) -> list:
     """«lov 22. desember 2025 nr. 115» -> ['lov/2025-12-22-115']"""
     ut = []
     for typ, dag, mnd, aar, nr in AKTNAVN.findall(tekst):
-        if mnd.lower() in MAANED:
-            ut.append(f"{typ.lower()}/{aar}-{MAANED[mnd.lower()]:02d}-{int(dag):02d}-{nr}")
+        mnd = next((m for m in MAANED if m.startswith(mnd.lower()[:3])), "")
+        if mnd:
+            ut.append(f"{typ.lower()}/{aar}-{MAANED[mnd]:02d}-{int(dag):02d}-{nr}")
     return ut
 
 
@@ -193,8 +194,9 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
         if re.search(r"ikraftsetting|ikrafttredelse|i kraft", tittel, re.I):
             soup = BeautifulSoup(raa.split("</header>")[0], "lxml")
             v = {"id": _dd(soup, "legacyID"), "tittel": tittel, "ikraft": _dd(soup, "dateInForce")}
-            for ref in _aktref(tittel + " " + _dd(soup, "miscInformation")):
-                vedtak_for.setdefault(ref, []).append(v)
+            for ref in set(_aktref(tittel + " " + _dd(soup, "miscInformation"))):
+                if v not in vedtak_for.setdefault(ref, []):
+                    vedtak_for[ref].append(v)
         endrer = ENDRER.search(raa)
         if endrer and any(r in maal for r in LI.findall(endrer.group(1))):
             kandidater.append(zlib.compress(raa.encode("utf-8")))
@@ -218,6 +220,20 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
             continue
         sjekket += 1
         soup = BeautifulSoup(raa, "lxml")
+        if not soup.find("article", class_="document-change"):
+            # Eldre akter er ikke merket per paragraf. Da regnes endringen som tatt inn
+            # hvis gjeldende tekst viser til akten et sted.
+            hode = soup.find("dd", class_="changesToDocuments")
+            for mref in LI.findall(str(hode)) if hode else []:
+                if mref not in maal:
+                    continue
+                if mref not in henv:
+                    henv[mref] = _henvisninger(maal[mref])
+                if akt["ref"] not in henv[mref][1]:
+                    tekst = ["Endringsteksten er ikke merket per paragraf i Lovtidend. Les den på Lovdata: "
+                             + lovdata_url(akt), ""]
+                    ut.setdefault(mref, []).append(dict(akt, status=status, endringer=[{"paragraf": "", "linjer": tekst}]))
+            continue
         for dc in soup.find_all("article", class_="document-change"):
             mref = dc.get("data-document", "")
             if mref not in maal:
