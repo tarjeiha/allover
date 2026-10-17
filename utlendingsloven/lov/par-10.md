@@ -4,12 +4,14 @@
 
 **1. ledd**
 
-En søker har rett til visum for besøk inntil tre måneder i løpet av en periode på seks måneder når følgende vilkår er oppfylt: For øvrig må det være i samsvar med kriteriene for visumutstedelse som følger av Schengensamarbeidet å utstede visum. Kongen kan gi utfyllende bestemmelser i forskrift, herunder om krav til reise- og sykeforsikring som følger av Schengensamarbeidet.
+En søker har rett til visum for besøk inntil tre måneder i løpet av en periode på seks måneder når følgende vilkår er oppfylt:
 
 a. utlendingen er i besittelse av et gyldig reisedokument eller dokumenter som tillater grensepassering,
 b. utlendingen kan sannsynliggjøre det planlagte formålet med oppholdet og har tilstrekkelige midler til sitt livsopphold, både under oppholdet og til tilbakereise til sitt hjemland eller til transitt til et tredjeland der utlendingen er sikret rett til innreise, eller kan erverve slike midler på lovlig måte,
 c. utlendingen er ikke innmeldt i Schengen Informasjonssystem (SIS) med henblikk på nekting av innreise,
 d. utlendingen anses ikke som en trussel for Norges eller andre Schengenlands offentlige orden, indre sikkerhet, folkehelse eller deres internasjonale forbindelser, særlig hvis det ikke foreligger noen melding i medlemsstatenes nasjonale dataregistre med henblikk på nekting av innreise på samme grunnlag.
+
+For øvrig må det være i samsvar med kriteriene for visumutstedelse som følger av Schengensamarbeidet å utstede visum. Kongen kan gi utfyllende bestemmelser i forskrift, herunder om krav til reise- og sykeforsikring som følger av Schengensamarbeidet.
 
 **2. ledd**
 

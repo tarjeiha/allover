@@ -10,10 +10,12 @@
 
 4. Dersom den behandlingsansvarlige ikke treffer tiltak på anmodning fra den registrerte, skal den behandlingsansvarlige informere den registrerte uten opphold og senest én måned etter mottak av anmodningen om årsakene til dette og om muligheten for å inngi klage til en tilsynsmyndighet og for rettslig prøving.
 
-5. Informasjon som gis i henhold til artikkel 13 og 14, og enhver kommunikasjon og ethvert tiltak som treffes i henhold til artikkel 15-22 og 34, skal være gratis. Dersom anmodninger fra en registrert er åpenbart grunnløse eller overdrevne, særlig dersom de gjentas, kan den behandlingsansvarlige enten Den behandlingsansvarlige skal bære bevisbyrden for at en anmodning er åpenbart grunnløs eller overdreven.
+5. Informasjon som gis i henhold til artikkel 13 og 14, og enhver kommunikasjon og ethvert tiltak som treffes i henhold til artikkel 15-22 og 34, skal være gratis. Dersom anmodninger fra en registrert er åpenbart grunnløse eller overdrevne, særlig dersom de gjentas, kan den behandlingsansvarlige enten
 
 a. kreve et rimelig gebyr, idet det tas hensyn til administrasjonskostnadene for å gi informasjonen eller treffe de tiltak det anmodes om, eller
 b. nekte å etterkomme anmodningen.
+
+Den behandlingsansvarlige skal bære bevisbyrden for at en anmodning er åpenbart grunnløs eller overdreven.
 
 6. Uten at det berører artikkel 11, kan den behandlingsansvarlige, dersom det hersker rimelig tvil om identiteten til den fysiske personen som inngir anmodningen nevnt i artikkel 15-21, anmode om ytterligere opplysninger som er nødvendige for å kunne bekrefte den registrertes identitet.
 

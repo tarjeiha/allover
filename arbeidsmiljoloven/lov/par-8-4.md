@@ -8,10 +8,12 @@
 
 (3) Første ledd andre og tredje punktum og andre ledd kan fravikes i tariffavtale.
 
-(4) Med konsern menes etter denne paragrafen et morforetak og ett eller flere datterforetak. Et foretak er et morforetak dersom det på grunn av avtale eller gjennom eierskap har bestemmende innflytelse over et annet foretak. Et foretak skal alltid anses å ha bestemmende innflytelse hvis det Et foretak som et morforetak har slik bestemmende innflytelse over, anses som et datterforetak. Ved beregning av stemmerettigheter og rettigheter til å velge eller avsette styremedlemmer skal rettigheter som morforetaket og morforetakets datterforetak innehar, regnes med. Det samme gjelder rettigheter som innehas av noen som handler i eget navn, men for morforetakets eller et datterforetaks regning. Kommuner, fylkeskommuner, stiftelser og foreninger kan være morforetak etter denne paragrafen.
+(4) Med konsern menes etter denne paragrafen et morforetak og ett eller flere datterforetak. Et foretak er et morforetak dersom det på grunn av avtale eller gjennom eierskap har bestemmende innflytelse over et annet foretak. Et foretak skal alltid anses å ha bestemmende innflytelse hvis det
 
 a. eier så mange aksjer eller andeler i et annet foretak at de representerer flertallet av de stemmene som kan avgis på generalforsamlingen eller tilsvarende organ, eller
 b. har rett til å velge eller avsette mer enn halvparten av medlemmene i det andre foretakets styre.
+
+Et foretak som et morforetak har slik bestemmende innflytelse over, anses som et datterforetak. Ved beregning av stemmerettigheter og rettigheter til å velge eller avsette styremedlemmer skal rettigheter som morforetaket og morforetakets datterforetak innehar, regnes med. Det samme gjelder rettigheter som innehas av noen som handler i eget navn, men for morforetakets eller et datterforetaks regning. Kommuner, fylkeskommuner, stiftelser og foreninger kan være morforetak etter denne paragrafen.
 
 ---
 

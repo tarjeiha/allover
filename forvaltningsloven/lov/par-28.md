@@ -12,12 +12,14 @@ For enkeltvedtak som er truffet av forvaltningsorgan opprettet i medhold av lov 
 
 **3. ledd**
 
-Med mindre Kongen bestemmer annerledes, kan klageinstansens vedtak i klagesak ikke påklages. Klageinstansens vedtak om å avvise klagen kan likevel påklages, unntatt: Er det klagerett over et vedtak om å avvise en klage som er truffet av et kommunalt eller fylkeskommunalt organ som klageinstans, går klagen til statsforvalteren.
+Med mindre Kongen bestemmer annerledes, kan klageinstansens vedtak i klagesak ikke påklages. Klageinstansens vedtak om å avvise klagen kan likevel påklages, unntatt:
 
 a. når også underinstansen traff vedtak om å avvise klagen,
 b. når underinstansen har prøvd avvisningsspørsmålet og kommet til at vilkårene for realitetsbehandling er til stede,
 c. når Kongen vil være klageinstans,
 d. når klagen er avvist av en uavhengig klagenemnd.
+
+Er det klagerett over et vedtak om å avvise en klage som er truffet av et kommunalt eller fylkeskommunalt organ som klageinstans, går klagen til statsforvalteren.
 
 **4. ledd**
 

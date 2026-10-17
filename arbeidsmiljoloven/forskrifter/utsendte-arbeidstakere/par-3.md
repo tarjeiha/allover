@@ -18,10 +18,12 @@ Bestemmelsene i første ledd kommer bare til anvendelse dersom utsendt arbeidsta
 
 **3. ledd**
 
-Hvis utsendingsperioden for utsendt arbeidstaker som er fag- eller spesialarbeider ikke overstiger åtte dager, gjelder ikke bestemmelsene i ferieloven og i arbeidsmiljøloven § 10-6 ellevte ledd, samt bestemmelser nevnt i andre ledd om feriefritid, feriepenger og lønn, herunder overtidsgodtgjørelse, når: Dette unntaket kommer ikke til anvendelse for utsendt arbeidstaker som utfører arbeid innenfor byggebransjen som gjelder oppføring, reparasjon, vedlikehold, ombygging eller riving av bygninger. Dersom virksomheten i løpet av de siste 12 måneder har sendt ut andre arbeidstakere for det samme arbeidet, skal slike perioder medregnes ved beregningen av om utsendingsperioden overstiger åtte dager.
+Hvis utsendingsperioden for utsendt arbeidstaker som er fag- eller spesialarbeider ikke overstiger åtte dager, gjelder ikke bestemmelsene i ferieloven og i arbeidsmiljøloven § 10-6 ellevte ledd, samt bestemmelser nevnt i andre ledd om feriefritid, feriepenger og lønn, herunder overtidsgodtgjørelse, når:
 
 - arbeidet som utføres er førstegangsmontering eller installasjon som inngår i en avtale om levering av varer, og
 - arbeidet er nødvendig for å kunne ta varen i bruk.
+
+Dette unntaket kommer ikke til anvendelse for utsendt arbeidstaker som utfører arbeid innenfor byggebransjen som gjelder oppføring, reparasjon, vedlikehold, ombygging eller riving av bygninger. Dersom virksomheten i løpet av de siste 12 måneder har sendt ut andre arbeidstakere for det samme arbeidet, skal slike perioder medregnes ved beregningen av om utsendingsperioden overstiger åtte dager.
 
 ---
 

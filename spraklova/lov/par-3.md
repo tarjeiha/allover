@@ -4,12 +4,14 @@
 
 **1. ledd**
 
-Når det ikkje er fastsett noko anna, gjeld lova for Første punktum bokstav c og d omfattar ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private.
+Når det ikkje er fastsett noko anna, gjeld lova for
 
 a. staten, fylkeskommunane og kommunane
 b. andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift
 c. sjølvstendige rettssubjekt der staten, fylkeskommunar eller kommunar direkte eller indirekte har ein eigardel som gjev meir enn halvparten av røystene i det øvste organet i rettssubjektet
 d. sjølvstendige rettssubjekt der staten, fylkeskommunar eller kommunar direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.
+
+Første punktum bokstav c og d omfattar ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private.
 
 **2. ledd**
 

@@ -6,13 +6,18 @@
 
 (2) Åremålsperiodene for statsansatt som er øverste leder i en virksomhet, og for embetsmann, skal være seks år. Det kan fastsettes en kortere periode i særlige tilfeller. Ansettelse på åremål kan bare gjentas én gang for hver statsansatt i samme stilling og for hver embetsmann i samme embete.
 
-(3) Som utdanningsstilling etter statsansatteloven § 9 første ledd bokstav d), regnes: Nærmere regler om varighet, arbeidets omfang og innhold i stillingene, og om adgangen til å forlenge ansettelsesforholdet, kan gis av: Justis- og beredskapsdepartementet for stilling som dommerfullmektig, jf. domstolloven § 55g Arbeids- og sosialdepartementet for stilling som rettsfullmektig, jf. trygderettsloven § 3 fjerde ledd.
+(3) Som utdanningsstilling etter statsansatteloven § 9 første ledd bokstav d), regnes:
 
 a. spesialistkandidat
 b. stipendiat
 c. vitenskapelig assistent
 d. dommerfullmektig
 e. rettsfullmektig.
+
+Nærmere regler om varighet, arbeidets omfang og innhold i stillingene, og om adgangen til å forlenge ansettelsesforholdet, kan gis av:
+
+- Justis- og beredskapsdepartementet for stilling som dommerfullmektig, jf. domstolloven § 55g
+- Arbeids- og sosialdepartementet for stilling som rettsfullmektig, jf. trygderettsloven § 3 fjerde ledd.
 
 (4) Ansettelse på åremål kan benyttes for postdoktorstillinger, jf. statsansatteloven § 10 tredje ledd.
 

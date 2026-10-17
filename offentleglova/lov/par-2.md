@@ -4,12 +4,14 @@
 
 **1. ledd**
 
-Lova gjeld for Bokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.
+Lova gjeld for
 
 a. staten, fylkeskommunane og kommunane,
 b. andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift,
 c. sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det øvste organet i rettssubjektet, og
 d. sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.
+
+Bokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.
 
 **2. ledd**
 

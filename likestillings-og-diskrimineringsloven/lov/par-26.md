@@ -8,12 +8,14 @@ Alle arbeidsgivere skal, innenfor sin virksomhet, arbeide aktivt, målrettet og 
 
 **2. ledd**
 
-I alle offentlige virksomheter, uavhengig av størrelse, og i private virksomheter som jevnlig sysselsetter mer enn 50 ansatte, skal arbeidsgiver innenfor sin virksomhet Det samme gjelder arbeidsgiver i private virksomheter som jevnlig sysselsetter mellom 20 og 50 ansatte, når en av arbeidslivets parter i virksomheten krever det.
+I alle offentlige virksomheter, uavhengig av størrelse, og i private virksomheter som jevnlig sysselsetter mer enn 50 ansatte, skal arbeidsgiver innenfor sin virksomhet
 
 a. undersøke om det finnes risiko for diskriminering eller andre hindre for likestilling, herunder annethvert år kartlegge lønnsforhold fordelt etter kjønn og bruken av ufrivillig deltidsarbeid,
 b. analysere årsakene til identifiserte risikoer,
 c. iverksette tiltak som er egnet til å motvirke diskriminering, og bidra til økt likestilling og mangfold i virksomheten og
 d. vurdere resultater av arbeidet etter bokstav a til c.
+
+Det samme gjelder arbeidsgiver i private virksomheter som jevnlig sysselsetter mellom 20 og 50 ansatte, når en av arbeidslivets parter i virksomheten krever det.
 
 **3. ledd**
 

@@ -4,7 +4,7 @@
 
 **1. ledd**
 
-Dersom høye ankomster av asylsøkere gjør det nødvendig å tilpasse integreringstiltak til personer som er omfattet av loven, kan departementet av hensyn til kapasiteten i kommunen eller fylkeskommunen gi midlertidig forskrift om Forskrifter etter første punktum kan fravike bestemmelsene som nevnt i bokstav a til h.
+Dersom høye ankomster av asylsøkere gjør det nødvendig å tilpasse integreringstiltak til personer som er omfattet av loven, kan departementet av hensyn til kapasiteten i kommunen eller fylkeskommunen gi midlertidig forskrift om
 
 a. målgruppene for og rettigheter og plikter til opplæring i mottak, introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter §§ 5 , 8 , 9 , 26 , 27 , 28 , 37 c og 37 d
 b. retten til karriereveiledning etter §§ 11 og 37 b
@@ -14,6 +14,8 @@ e. retten til, beregningen av og reduksjon i introduksjonsstønaden etter kapitt
 f. varigheten og omfanget av opplæring og kravene til opplæringen etter §§ 30 til 33 og 37 d
 g. prøver i norsk og samfunnskunnskap etter § 37
 h. behandling av personopplysninger etter §§ 41 til 44 .
+
+Forskrifter etter første punktum kan fravike bestemmelsene som nevnt i bokstav a til h.
 
 **2. ledd**
 

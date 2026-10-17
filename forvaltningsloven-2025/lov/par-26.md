@@ -13,9 +13,11 @@ d. ektefelles, forlovedes eller samboers søsken eller slektning i rett opp- ell
 e. fosterbarn eller fosterforelder
 f. stebarn eller steforelder.
 
-(3) En person er inhabil når vedkommende Et varamedlem omfattes av bokstav b når vedkommende har deltatt i styrets behandling av saken.
+(3) En person er inhabil når vedkommende
 
 a. er eller har vært verge eller fullmektig for en part etter at saken ble innledet
 b. har ledende stilling eller verv i styret eller bedriftsforsamlingen i et foretak, en sammenslutning eller en stiftelse som er part i saken.
+
+Et varamedlem omfattes av bokstav b når vedkommende har deltatt i styrets behandling av saken.
 
 (4) En person i klageinstansen er inhabil hvis vedkommende har truffet avgjørelsen i saken i underinstansen. Dette gjelder likevel ikke ved klage til Kongen over en avgjørelse som er truffet av et departement.

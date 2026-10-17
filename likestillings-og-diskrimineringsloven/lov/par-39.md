@@ -4,12 +4,14 @@
 
 **1. ledd**
 
-Den som i fellesskap med minst to andre personer grovt overtrer forbudet mot å straffes med bøter eller fengsel inntil tre år. Den som tidligere er ilagt straff for overtredelse av denne bestemmelsen, kan straffes selv om overtredelsen ikke er grov.
+Den som i fellesskap med minst to andre personer grovt overtrer forbudet mot å
 
 a. diskriminere på grunn av etnisitet, religion eller livssyn i § 6 ,
 b. trakassere på grunn av etnisitet, religion eller livssyn i § 13 ,
 c. gjengjelde på grunn av etnisitet, religion eller livssyn i § 14 eller
 d. instruere om å diskriminere på grunn av etnisitet, religion eller livssyn i § 15 ,
+
+straffes med bøter eller fengsel inntil tre år. Den som tidligere er ilagt straff for overtredelse av denne bestemmelsen, kan straffes selv om overtredelsen ikke er grov.
 
 **2. ledd**
 

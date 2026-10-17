@@ -612,6 +612,7 @@ Tabellen angir skadefølger og medisinsk invaliditet i prosent (invaliditetsgrad
 | For yngre kvinner kan det gis et tillegg på 20 prosent invaliditet for funksjonssvikt i forbindelse med ev. amming. |  |
 | Ved fjerning av lymfeknuter (glandeltoalette) kan det etter vurdering gis tillegg for følgetilstander som nevnt i punkt 3.7 ovenfor. |  |
 
+
 ## Del III. Invaliditetstabell ved flerfingerskader (multiple fingerskader)
 
 Ved bilaterale amputasjoner på hendene/fingrene anvendes ren addisjon – ikke kumulativ. Det skal da ikke gjøres fradrag for skade på ikke beste hånd.
@@ -631,6 +632,7 @@ Tap av/på en finger, se del II punkt 3.1.
 | Nr. | Type skade | Invaliditet i prosent |
 |---|---|---|
 | 1-17 |  | y | 10 |
+
 
 Amputasjoner på to fingre
 
@@ -714,6 +716,7 @@ Amputasjoner på to fingre
 | 43 | 4y + | 5 | 7 |
 |  |  | ym | 6 |
 |  |  | y | 5 |
+
 
 Amputasjoner på tre fingre
 
@@ -935,6 +938,7 @@ Amputasjoner på tre fingre
 | 115 | 3y + 4y + | 5 | 12 |
 |  |  | ym | 10 |
 |  |  | y | 8 |
+
 
 Amputasjoner på fire fingre
 
@@ -1237,6 +1241,7 @@ Amputasjoner på fire fingre
 | 214 | 2y + 3y + 4y + | 5 | 15 |
 |  |  | ym | 14 |
 |  |  | y | 12 |
+
 
 Amputasjoner på fem fingre
 

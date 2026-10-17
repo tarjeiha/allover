@@ -4,11 +4,13 @@
 
 **1. ledd**
 
-Den som er blitt behandlet i strid med kan kreve oppreisning og erstatning.
+Den som er blitt behandlet i strid med
 
 a. bestemmelsene i kapittel 2 , med unntak av § 13 sjette ledd
 b. reglene om individuell tilrettelegging i §§ 20 til 23
 c. §§ 29 , 30 , 33 og 34
+
+kan kreve oppreisning og erstatning.
 
 **2. ledd**
 

@@ -4,10 +4,12 @@
 
 **1. ledd**
 
-Hovedsammenslutning av tjenestemannsorganisasjoner og yrkesorganisasjoner har forhandlingsrett såfremt: eller
+Hovedsammenslutning av tjenestemannsorganisasjoner og yrkesorganisasjoner har forhandlingsrett såfremt:
 
 1. den har minst 20.000 tjenestemenn som medlemmer og
 2. de tilsluttede forhandlingsberettigede tjenestemannsorganisasjoner og yrkesorganisasjoner (jf. annet og tredje ledd) representerer minst 5 virksomheter
+
+eller
 
 1. den har minst 40.000 tjenestemenn som medlemmer og
 2. de tilsluttede forhandlingsberettigede tjenestemannsorganisasjoner og yrkesorganisasjoner (jf. annet og tredje ledd) representerer minst 3 virksomheter.

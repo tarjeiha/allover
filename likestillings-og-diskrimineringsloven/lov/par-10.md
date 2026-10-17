@@ -4,10 +4,12 @@
 
 **1. ledd**
 
-Forskjellsbehandling på grunn av er bare tillatt der forskjellsbehandlingen er nødvendig for å beskytte kvinnen, fosteret eller barnet i forbindelse med graviditet, fødsel eller amming, eller der det foreligger andre åpenbare grunner. Forskjellsbehandlingen må ikke være uforholdsmessig inngripende overfor den som forskjellsbehandles.
+Forskjellsbehandling på grunn av
 
 a. graviditet, fødsel og amming, herunder fravær etter arbeidsmiljøloven §§ 12-1 , 12-2 , § 12-3 første ledd første punktum , §§ 12-4 og 12-8 eller skipsarbeidsloven §§ 7-1 , 7-2 , § 7-3 første ledd første punktum og § 7-4 , og
 b. permisjon forbeholdt hver av foreldrene, jf. folketrygdloven § 14-12 første ledd
+
+er bare tillatt der forskjellsbehandlingen er nødvendig for å beskytte kvinnen, fosteret eller barnet i forbindelse med graviditet, fødsel eller amming, eller der det foreligger andre åpenbare grunner. Forskjellsbehandlingen må ikke være uforholdsmessig inngripende overfor den som forskjellsbehandles.
 
 **2. ledd**
 
