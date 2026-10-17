@@ -264,17 +264,18 @@ def kapittel_for(art: Tag) -> str:
 
 def endringsliste(soup) -> list:
     """M- og C-merkene i en konsolidert tekst med navnet på endringsrettsakten."""
-    ut = []
+    ut, sett = [], set()
     for a in soup.find_all("a"):
         t = tekst(a)
-        if re.fullmatch(r"►[MCA]\d+", t):
+        if re.fullmatch(r"►[MCA]\d+", t) and t not in sett:
             rad = a.find_parent("tr")
-            if rad:
-                celler = rad.find_all("td")
-                if len(celler) >= 2:
-                    navn = tekst(celler[1])
-                    if navn and (t, navn) not in ut:
-                        ut.append((t[1:], navn))
+            celler = rad.find_all("td") if rad else []
+            # Bare oversikten øverst: merket står alene i første celle
+            if len(celler) >= 2 and tekst(celler[0]) == t:
+                navn = re.sub(r"^(Amended by|Corrected by):\s*", "", tekst(celler[1]))
+                if navn:
+                    sett.add(t)
+                    ut.append((t[1:], navn))
     return ut
 
 
@@ -307,7 +308,13 @@ def les_rettsakt(html: str) -> dict:
             {"nr": nr, "tittel": " – ".join(titler[:2]) or f"Annex {nr}", "avsnitt": blokker(div), "kilde": tekst(div)}
         )
     dok = soup.find(class_=["title-doc-first", "oj-doc-ti", "eli-main-title"])
-    tittel = " ".join(tekst(p) for p in soup.find_all("p", class_="title-doc-first")) or (tekst(dok) if dok else "")
+    deler = []
+    for p in soup.find_all("p", class_="title-doc-first"):
+        s = tekst(p)
+        if s in deler:
+            break
+        deler.append(s)
+    tittel = " ".join(deler) or (tekst(dok) if dok else "")
     return {"tittel": tittel, "artikler": artikler, "vedlegg": vedlegg, "endringer": endringsliste(soup)}
 
 

@@ -1,6 +1,17 @@
 # Gjennomføringsforordningen til trygdeforordningen: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Gjennomføringsforordningen til trygdeforordningen er EU-rettsakten (EF) nr. 987/2009. Teksten er hentet fra EUR-Lex på engelsk. Den er EU-tekst, ikke norsk lov- eller forskriftstekst.
+
+## Slik bruker du veiviseren
+
+Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **EU-versjonen er ikke nødvendigvis EØS-versjonen.** En rettsakt gjelder i Norge først når den er tatt inn i EØS-avtalen og gjennomført i norsk rett, og senere endringer kan komme år etter. Se «EØS» og eventuelle «Nyere EU-versjoner» under «Kilder», og si fra når svaret kan avhenge av det.
+- **En forordning gjøres til norsk lov ved at en norsk lov viser til den.** Finn den norske bestemmelsen i listen «Norske regler som viser til rettsakten», og sjekk om den har tilpasninger.
+- **Koblingene til norsk regelverk er funnet automatisk** ved søk etter rettsaktnummeret. Norske regler kan gjennomføre rettsakten uten å nevne nummeret, så en tom liste betyr ikke at rettsakten mangler norsk gjennomføring.
+- **Teksten er på engelsk.** Når du forklarer på norsk, oversetter du selv. Si fra om det, og gjengi den originale ordlyden når presisjonen betyr noe.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
