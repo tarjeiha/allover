@@ -1,6 +1,6 @@
 # SSB – hvilken tabell svarer på hva
 
-Tabellene er kontrollert mot SSB 2026-10-17 (id, tittel, periode og oppdateringsdato er lest fra SSBs API). Hent data med SSB-tilkoblingen: søk med `ssb_search`, les variablene med `ssb_table_metadata`, hent med `ssb_get_data`, og filtrer alltid på tid.
+Tabellene er kontrollert mot SSB 2026-10-17 (id, tittel, periode og oppdateringsdato er lest fra SSBs API). Hent data med SSB-tilkoblingen (arbeidsmåte, filtersyntaks og feilsøking: `data/ssb-bruk.md`): søk med `ssb_search`, les variablene med `ssb_table_metadata`, hent med `ssb_get_data`, og filtrer alltid på tid.
 
 ## Søketips (kontrollert)
 
