@@ -1,6 +1,25 @@
 # Karanteneloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Karanteneloven gjelder overgang til stilling eller verv utenfor statsforvaltningen, eller etablering av næringsvirksomhet, for politikere, embetsmenn og statsansatte. Den gjelder også politikeres overgang til embete eller stilling i departementene (§ 1). Loven gir regler om informasjonsplikt, karantene, saksforbud, godtgjørelse og reaksjoner ved overtredelse. Forskrift til karanteneloven utfyller loven med regler om fristberegning, tvangsmulkt, maksimalt overtredelsesgebyr og Karantenenemnda.
+
+Loven og forskriften forvaltes av Digitaliserings- og forvaltningsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Politikere og embetsverk har hvert sitt kapittel.** Med politiker menes nåværende eller tidligere medlemmer av regjeringen, statssekretærer og politiske rådgivere (§ 2 første ledd). Deres overgang til stillinger utenfor statsforvaltningen står i kapittel 2 (§§ 4 til 9), og overgang til departementene i kapittel 3 (§§ 10 til 12). Embetsmenns og statsansattes overgang står i kapittel 4 (§§ 13 til 17). Sjekk alltid hvilket kapittel saken hører til.
+- **Hvem som treffer vedtak.** For politikere treffer Karantenenemnda vedtak om karantene og saksforbud (§ 4). For embetsmenn og statsansatte er det ansettelsesmyndigheten (§§ 13 og 14).
+- **Karantene og saksforbud er to ulike tiltak.** Karantene er et tidsbegrenset forbud mot å tiltre ny stilling eller verv eller etablere næringsvirksomhet (§ 2 andre ledd). Saksforbud er et tidsbegrenset forbud mot å involvere seg i bestemte saker eller saksområder (§ 2 tredje ledd). Begge kan ilegges samtidig. Karantene kan vare inntil seks måneder og saksforbud inntil tolv måneder (§§ 6 og 7 første ledd, § 13 tredje ledd og § 14 femte ledd). Bare politikere kan få saksforbud i inntil 18 måneder, og da bare ved særlig tungtveiende grunner (§ 7 andre ledd).
+- **Ikke alle statsansatte er omfattet automatisk.** Ledere etter § 13 første ledd (departementsråd, assisterende departementsråd, ekspedisjonssjef og leder av annet statlig forvaltningsorgan) er omfattet direkte. For andre kreves en klausul i arbeidskontrakten, som bare kan fastsettes når stillingens karakter gir saklig grunn til det (§ 14 første ledd). Uten klausul kan karantene og saksforbud bare ilegges når ansettelsesmyndigheten ikke med rimelighet kunne tatt inn klausul og tungtveiende hensyn til tilliten tilsier det (§ 14 fjerde ledd).
+- **Informasjonsplikten har ulike frister.** Politikere skal gi opplysninger ved overganger innen 18 måneder etter fratreden, senest tre uker før overgangen (§ 5 andre og fjerde ledd). Plikten gjelder også visse endringer i ny stilling (§ 5 tredje ledd). Embetsmenn og statsansatte skal gi opplysninger uten ugrunnet opphold, og plikten gjelder overganger innen tolv måneder etter fratreden (§ 15 første og tredje ledd). Arbeidsgiver kan pålegge informasjonsplikt for flere enn dem som er nevnt i § 15 første ledd (§ 15 andre ledd).
+- **Ingen tiltredelse før vedtak.** Vedtak skal treffes innen to uker etter at informasjonsplikten er oppfylt, og vedkommende kan ikke tiltre eller etablere virksomhet før endelig vedtak er truffet (§ 9 første ledd og § 17 første ledd). Se forskriften § 1 om fristberegning.
+- **Ingen klage, men krav om ny vurdering.** Vedtak etter loven kan ikke påklages (§ 3 andre ledd). Parten kan i stedet kreve ny vurdering innen fem virkedager for vedtak om karantene og saksforbud og forbud etter §§ 10 og 11 (§ 3 tredje ledd), og innen tre uker for vedtak om reaksjoner (§ 3 fjerde ledd). Ny vurdering må være krevd og gitt før søksmål kan reises (§ 3 femte ledd).
+- **Overgang til departementene.** En politiker som går over til visse ledende stillinger i sitt eget departement, kan ikke utøve stillingens funksjoner i seks måneder, eller tre måneder ved overgang til et annet departement (§ 10 første ledd). Ved overgang til andre stillinger i departementene kan departementet bestemme begrensninger etter § 11. Vedkommende får stillingens lønn i perioden (§ 12).
+- **Godtgjørelse og unntak.** Den som får karantene, får godtgjørelse tilsvarende tidligere lønn med feriepenger, med fradrag for annen inntekt (§ 8 første og tredje ledd, § 16 første og andre ledd). For politikere gis det ikke godtgjørelse ved overgang til næringsvirksomhet opprettet etter tiltredelsen, til egen virksomhet uten tidligere reell drift, eller til bistilling eller bierverv (§ 8 andre ledd).
+- **Reaksjoner.** Ved overtredelse kan det gis pålegg og tvangsmulkt, inndragning, overtredelsesgebyr og opphør og tilbakekreving av godtgjørelse (§§ 18 til 21). Maksimalt overtredelsesgebyr følger av forskriften § 4. Loven omfatter ikke overgang til partipolitisk arbeid eller politiske verv i Stortinget, kommuner og fylkeskommuner (§ 1 tredje ledd).
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

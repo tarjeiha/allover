@@ -1,6 +1,26 @@
 # Forvaltningsloven 2025 (ny lov, ikke i kraft): veiviser
 
-_Håndskrevet veiledning mangler ennå._
+> **Denne loven er ikke i kraft.** Den trer i kraft fra den tiden Kongen bestemmer, og Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid (§ 99 første ledd). Gjeldende regler står i forvaltningsloven fra 1967, se veiviseren i `forvaltningsloven/`. Svar bare fra denne loven når brukeren spør om den nye loven, og si da tydelig at den ikke gjelder ennå.
+
+Den nye forvaltningsloven skal erstatte forvaltningsloven fra 1967, som oppheves fra den tiden den nye loven trer i kraft (§ 99 andre ledd). Den gir regler om saksbehandling, delegering, habilitet, taushetsplikt, skjønnsutøvelse, enkeltvedtak, klage, omgjøring og ugyldighet, administrative sanksjoner, nemnder og forskrifter. Ingen forskrifter til loven er i basen.
+
+Loven forvaltes av Justis- og beredskapsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Ikke bruk denne loven for dagens regler.** Så lenge loven ikke er satt i kraft (§ 99 første ledd), skal spørsmål om gjeldende saksbehandlingsregler besvares fra `forvaltningsloven/`. Sjekk feltet «Ikke i kraft» under «Kilder» før du svarer, i tilfelle loven er satt i kraft siden.
+- **Paragrafnumrene er endret.** Den nye loven har en helt ny nummerering. Forhåndsvarsel står i § 42 (i dag § 16), partsinnsyn i § 46 (i dag § 18), begrunnelse i § 56 (i dag § 24), klagerett i § 61 (i dag § 28) og klagefrist i § 63 (i dag § 29). Bland ikke numrene når du sammenligner med gjeldende lov.
+- **Definisjonene står i § 7.** Et enkeltvedtak er en avgjørelse som er bestemmende for rettighetene eller pliktene til én eller flere bestemte private personer, og som avslutter en sak eller en del av den (§ 7 første ledd). Bestemmelsen lister eksempler i bokstav a–e. Forskrift er definert i § 7 andre ledd og part i § 7 tredje ledd.
+- **Ansettelsessaker står i en egen paragraf.** Ansettelse, oppsigelse, suspensjon, avskjed, forflytting og ordensstraff regnes som enkeltvedtak (§ 8 første ledd), men i ansettelsessaker gjelder ikke reglene om begrunnelse, klage og omgjøring i § 72 andre ledd (§ 8 andre ledd).
+- **Skriftlighet og automatisering er nye regler.** Saksbehandlingen skal være skriftlig, med unntak i § 9 andre ledd. Muntlige opplysninger av betydning skal skrives ned (§ 9 tredje ledd). Organet kan automatisere saksbehandlingen når kravene til saksbehandlingen ellers er oppfylt (§ 11 første ledd), men kan ikke uten særlig hjemmel treffe automatiserte avgjørelser som er omfattet av personvernforordningen artikkel 22 (§ 11 tredje ledd).
+- **Flere kan klage.** I tillegg til parten kan andre som i vesentlig grad berøres av vedtaket, og visse foreninger og stiftelser klage (§ 61 første ledd), med unntak for saker av svært personlig karakter (§ 61 andre ledd). Klageinstansens vedtak kan ikke påklages (§ 61 tredje ledd).
+- **Klagefristen ved elektronisk melding.** Klagefristen er fortsatt tre uker (§ 63 første ledd). Når vedtaket er gjort tilgjengelig i et elektronisk informasjonssystem, regnes meldingen som kommet fram når varsel er sendt etter § 10 tredje ledd (§ 63 første ledd andre punktum).
+- **Habilitet er delt i to paragrafer.** Forhold som gir inhabilitet uten videre står i § 26, og den konkrete vurderingen i § 27. Den som traff avgjørelsen i underinstansen, er inhabil i klageinstansen (§ 26 fjerde ledd).
+- **Taushetsplikt om personlige forhold.** § 31 andre ledd lister opplysninger som ikke er taushetsbelagte, bl.a. postadresse, e-postadresse, telefonnummer og arbeidsgiver. Listen er ikke den samme som i gjeldende lov § 13 andre ledd.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

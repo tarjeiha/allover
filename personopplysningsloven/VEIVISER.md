@@ -1,6 +1,25 @@
 # Personopplysningsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Personopplysningsloven gjør personvernforordningen, forordning (EU) 2016/679, til norsk lov med de tilpasningene som følger av EØS-avtalen (§ 1). Det meste av reglene om behandling av personopplysninger står derfor i forordningen. Loven selv har utfyllende og avvikende norske regler, blant annet om virkeområde, særlige kategorier av opplysninger, fødselsnummer, unntak fra den registrertes rettigheter, Datatilsynet, Personvernnemnda og sanksjoner. Personopplysningsforskriften regulerer blant annet Svalbard og Jan Mayen, overføring til tredjestater og Personvernnemndas saksbehandling.
+
+Loven og forskriften forvaltes av Justis- og beredskapsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Svaret står som regel i forordningen.** Spørsmål om behandlingsgrunnlag, samtykke, informasjon, innsyn, sletting, databehandlere, sikkerhet og avvik må bygge på forordningens artikler, for eksempel artikkel 6 om behandlingens lovlighet og artikkel 15 om innsyn. Sjekk deretter loven for norske særregler. Et svar som bare viser til loven eller bare til forordningen, er ofte ufullstendig.
+- **Forordningen finnes i basen i to versjoner.** Den norske teksten slik den er tatt inn i loven, ligger i lovmappen som `lov/par-gdpr-a1.md` til `lov/par-gdpr-a99.md`, og fortalen ligger i `lov/utenfor-paragrafene.md`. Den engelske EU-teksten ligger i `eu/forordning-2016-679/` (sti fra roten av basen), med oversikt i `eu/forordning-2016-679/VEIVISER.md`. Bruk den norske teksten når du siterer, men sammenlign med den engelske når setningsrekkefølgen virker rar. I den norske filen for artikkel 6 er for eksempel siste punktum i nr. 1 og listen i nr. 3 plassert feil.
+- **Forordningen går foran annen lov ved konflikt** (§ 2 fjerde ledd). Loven og forordningen gjelder likevel ikke når annet er bestemt i eller med hjemmel i lov (§ 2 første ledd), og ikke for rent personlige aktiviteter eller saker etter rettspleielovene (§ 2 andre ledd).
+- **Offentlige myndigheter kan ikke bruke berettiget interesse.** Etter forordningen artikkel 6 nr. 1 kan bokstav f ikke brukes av offentlige myndigheter når de utfører sine oppgaver. Grunnlag etter bokstav c og e skal være fastsatt i unionsretten eller nasjonal rett (artikkel 6 nr. 3).
+- **Norske grunnlag for særlige kategorier.** Opplysninger etter forordningen artikkel 9 nr. 1 kan behandles når det er nødvendig for å gjennomføre arbeidsrettslige plikter eller rettigheter (§ 6), etter tillatelse fra Datatilsynet eller forskrift (§ 7), og for arkiv, forskning og statistikk på vilkårene i § 9. § 11 har tilsvarende regler for opplysninger om straffedommer og lovovertredelser.
+- **Fødselsnummer krever saklig behov.** Fødselsnummer og andre entydige identifikasjonsmidler kan bare behandles når det er saklig behov for sikker identifisering og metoden er nødvendig (§ 12 første ledd).
+- **Innsynsretten har norske unntak.** § 16 første ledd begrenser retten til informasjon og innsyn etter forordningen artikkel 13, 14 og 15, blant annet for opplysninger underlagt taushetsplikt (bokstav d) og interne saksforberedende dokumenter (bokstav e). Avslag må begrunnes skriftlig med presis henvisning til unntakshjemmelen (§ 16 tredje ledd).
+- **Barn og samtykke.** Aldersgrensen for barns samtykke til informasjonssamfunnstjenester etter forordningen artikkel 8 nr. 1 er 13 år i Norge (§ 5).
+- **Kameraovervåking og arbeidsgivers innsyn i e-post står andre steder.** Personopplysningsloven § 31 gjelder bare uekte kameraovervåkingsutstyr og skilting som gir inntrykk av overvåking. Kameraovervåking i virksomhet og arbeidsgivers innsyn i e-postkasse er regulert i forskrifter med hjemmel i arbeidsmiljøloven §§ 9-5 og 9-6. De ligger i basen under `arbeidsmiljoloven/forskrifter/kameraovervaking/` og `arbeidsmiljoloven/forskrifter/innsyn-epost/` (stier fra roten av basen). Personopplysningsforskriften har ikke regler om dette.
+- **Tilsyn, klage og sanksjoner.** Datatilsynet er tilsynsmyndighet og kan ikke instrueres i enkeltsaker (§ 20 første ledd). Datatilsynets vedtak kan påklages til Personvernnemnda (§ 22 andre ledd). Datatilsynet kan ilegge også offentlige myndigheter overtredelsesgebyr (§ 26 andre ledd). Etter § 30 kan det kreves oppreisning for ikke-økonomisk skade i tillegg til erstatning etter forordningen artikkel 82.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

@@ -1,6 +1,26 @@
 # Likestillings- og diskrimineringsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Likestillings- og diskrimineringsloven forbyr diskriminering og trakassering på alle samfunnsområder (§ 2 første ledd), gir regler om universell utforming og individuell tilrettelegging, og pålegger offentlige myndigheter og arbeidsgivere å arbeide aktivt for likestilling. Kapittel 5 har særlige regler for arbeidsforhold. FNs rasediskrimineringskonvensjon gjelder som norsk lov etter § 5, og konvensjonsteksten ligger i basen på norsk (`lov/par-rdkn-a*.md`) og engelsk (`lov/par-rdke-a*.md`).
+
+Loven forvaltes av Kultur- og likestillingsdepartementet. Reglene om hvordan loven håndheves, står i diskrimineringsombudsloven, som er en egen lov i basen (`diskrimineringsombudsloven/VEIVISER.md`).
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Diskrimineringsgrunnlagene er uttømmende listet.** § 6 første ledd nevner kjønn, graviditet, permisjon ved fødsel eller adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk, alder og kombinasjoner av disse. Forbudet gjelder også antatte, tidligere og fremtidige forhold (andre ledd) og diskriminering på grunn av tilknytning til en annen person (tredje ledd).
+- **Alder i arbeidsforhold står i arbeidsmiljøloven.** Loven gjelder ikke diskriminering på grunn av alder i forhold som reguleres av arbeidsmiljøloven kapittel 13 (§ 2 andre ledd). Slike spørsmål må besvares etter arbeidsmiljøloven, som også er i basen.
+- **Forskjellsbehandling er ikke det samme som diskriminering.** Diskriminering er direkte eller indirekte forskjellsbehandling (§§ 7 og 8) som ikke er lovlig etter §§ 9, 10 eller 11 (§ 6 fjerde ledd). Indirekte forskjellsbehandling er en tilsynelatende nøytral regel eller praksis som stiller noen dårligere (§ 8). Vurder derfor alltid unntakene før du konkluderer.
+- **Unntakene har ulike vilkår.** Den generelle regelen i § 9 første ledd krever saklig formål, nødvendighet og at forskjellsbehandlingen ikke er uforholdsmessig inngripende. I arbeidsforhold er direkte forskjellsbehandling på grunn av blant annet kjønn og etnisitet bare tillatt når egenskapen har avgjørende betydning for arbeidet (§ 9 andre ledd). For graviditet, fødsel, amming og permisjon gjelder de strengere reglene i § 10, og ved ansettelse, oppsigelse og forlengelse av midlertidig stilling er slik forskjellsbehandling aldri tillatt (§ 10 tredje ledd). Positiv særbehandling vurderes etter § 11.
+- **Trakassering er et eget forbud.** § 13 forbyr trakassering på grunn av diskrimineringsgrunnlagene og seksuell trakassering, med definisjoner i andre og tredje ledd. Arbeidsgivere skal forebygge og søke å hindre trakassering (sjette ledd). Bevisbyrderegelen i § 37 og retten til oppreisning og erstatning i § 38 gjelder ikke for denne forebyggingsplikten (§ 37 andre ledd bokstav a og § 38 første ledd bokstav a).
+- **Arbeidsgivers aktivitetsplikt har to nivåer.** Alle arbeidsgivere har den generelle plikten i § 26 første ledd. Merk at alder ikke er med i opplistingen der. Den konkrete fremgangsmåten i fire trinn (undersøke, analysere, iverksette tiltak, vurdere) gjelder alle offentlige virksomheter og private virksomheter med mer enn 50 ansatte, og private med 20 til 50 ansatte når en av partene krever det (§ 26 andre ledd). Arbeidet skal dokumenteres (fjerde ledd).
+- **Redegjørelsesplikten følger av § 26 a.** Den gjelder arbeidsgivere med plikter etter § 26 andre ledd og gis i årsberetning, årsrapport eller et annet offentlig tilgjengelig dokument (§ 26 a andre ledd). Offentlige myndigheter har i tillegg en egen aktivitets- og redegjørelsesplikt som myndighetsutøvere (§ 24).
+- **Arbeidssøkere har eget vern.** Forbudene gjelder alle sider av arbeidsforholdet, fra utlysning til opphør (§ 29). Arbeidsgiver kan ikke spørre om graviditet, planer om barn, religion, etnisitet, funksjonsnedsettelse eller seksuell orientering i ansettelsesprosessen, med unntakene i § 30 andre og tredje ledd.
+- **Delt bevisbyrde.** Diskriminering skal anses å ha skjedd når det foreligger omstendigheter som gir grunn til å tro det, og den ansvarlige ikke sannsynliggjør at det ikke har skjedd (§ 37 første ledd). Regelen gjelder bare bestemmelsene som er listet i § 37 andre ledd.
+- **Håndheving står i en annen lov.** § 35 viser til diskrimineringsombudsloven for Diskrimineringsnemndas myndighet. Spørsmål om klage, vedtak, oppreisning og frister i nemnda må besvares etter den loven. Etter § 38 andre ledd er arbeidsgivers ansvar for oppreisning og erstatning objektivt, men i saker om trakassering kreves det at den ansvarlige kan bebreides.
+- **Bokstavlister kan stå etter setningen de hører til.** I noen paragraffiler er bokstavpunktene plassert etter hele leddet, slik at setningen ser ufullstendig ut (f.eks. § 10 første ledd, § 26 andre ledd og § 38 første ledd). Les hele leddet før du siterer.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

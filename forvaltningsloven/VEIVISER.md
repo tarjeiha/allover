@@ -1,6 +1,28 @@
 # Forvaltningsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Forvaltningsloven gir de alminnelige reglene for saksbehandlingen i forvaltningen: habilitet, veiledning, taushetsplikt, saksforberedelse ved enkeltvedtak, begrunnelse, klage og omgjøring, forskrifter, administrative sanksjoner og tvangsmulkt. Forvaltningslovforskriften utfyller, presiserer og gjør unntak fra loven (forskriften § 1), bl.a. om partsinnsyn i tilsettingssaker, unntak fra begrunnelsesplikten og klageretten, og beregning av saksbehandlingsfrister.
+
+Loven forvaltes av Justis- og beredskapsdepartementet.
+
+En ny forvaltningslov er vedtatt (`forvaltningsloven-2025/`), men den er ikke satt i kraft. Til den trer i kraft, gjelder reglene i denne mappen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Den nye loven er ikke i kraft.** Forvaltningsloven 2025 trer i kraft fra den tiden Kongen bestemmer, og loven fra 1967 oppheves først da (forvaltningsloven 2025 § 99). Svar fra denne loven når spørsmålet gjelder dagens regler.
+- **Enkeltvedtak eller forskrift.** Et enkeltvedtak gjelder rettigheter eller plikter til en eller flere bestemte personer, en forskrift gjelder et ubestemt antall eller en ubestemt krets (§ 2 første ledd bokstav b og c). Kapittel IV–VI gjelder bare saker om enkeltvedtak, og kapittel VII bare forskrifter (§ 3 første ledd). Avvisning av en sak og bruk av særlige tvangsmidler regnes også som enkeltvedtak (§ 2 tredje ledd).
+- **Saker om offentlige tjenesteforhold.** Ansettelse, oppsigelse, suspensjon, avskjed og forflytting regnes som enkeltvedtak (§ 2 andre ledd). Vedtak i ansettelsessaker er likevel unntatt fra reglene om begrunnelse, klage og omgjøring etter § 35 tredje ledd, om ikke organet bestemmer noe annet (§ 3 andre ledd). Partsinnsyn i tilsettingssaker følger forvaltningslovforskriften §§ 14–19, ikke § 18 i loven (forskriften § 14 første ledd).
+- **Forhåndsvarsel.** En part som ikke allerede har uttalt seg, skal varsles og få en frist til å uttale seg før vedtak treffes (§ 16 første ledd). Varsel kan bare unnlates i tilfellene i § 16 tredje ledd. Opplysninger om parten som kommer inn under saksforberedelsen, skal i utgangspunktet forelegges parten (§ 17 andre ledd).
+- **Begrunnelse.** Enkeltvedtak skal grunngis samtidig med at vedtaket treffes (§ 24 første ledd). Unntaket i § 24 andre ledd gjelder bare innvilgede søknader der ingen antas å bli misfornøyd, og fordeling av tillatelser og fordeler, og aldri klagesaker. Begrunnelsen skal vise til reglene og nevne de faktiske forholdene vedtaket bygger på, og bør nevne hovedhensynene ved skjønnsutøvelsen (§ 25).
+- **Underretning, klagefrist og klageinstans.** Underretningen skal opplyse om klageadgang, klagefrist, klageinstans, framgangsmåten ved klage og retten til å se sakens dokumenter (§ 27 tredje ledd). Klagefristen er 3 uker fra underretningen kom fram til parten (§ 29 første ledd), og avbrytes hvis parten krever begrunnelse etter § 24 andre ledd (§ 29 tredje ledd). Klagen går til nærmeste overordnede organ (§ 28 første ledd), med egne regler for kommunale vedtak (§ 28 andre ledd). Klageinstansens vedtak kan som hovedregel ikke påklages (§ 28 tredje ledd).
+- **For sen klage.** En klage kan tas under behandling etter fristen på vilkårene i § 31 første ledd, men aldri som klagesak når det har gått mer enn ett år siden vedtaket (§ 31 tredje ledd). Det er nok at klagen er levert til en posttjeneste før fristen går ut (§ 30).
+- **Partsinnsyn er ikke offentleglova.** Parten har rett til å gjøre seg kjent med sakens dokumenter, også etter vedtak, med unntakene i §§ 18 a–19 (§ 18 første ledd). Organet skal likevel vurdere å gi innsyn der det kan unnta (§ 18 andre ledd). Avslag skal være skriftlig, vise til bestemmelsen ned på ledd og bokstav og kan påklages (§ 21). Se forvaltningslovforskriften § 13a for organinterne dokumenter som ikke kan unntas.
+- **Habilitet.** § 6 første ledd lister forhold som gjør en tjenestemann ugild uten videre. I tillegg kommer den skjønnsmessige regelen om «særegne forhold» i § 6 andre ledd. Er den overordnede ugild, kan heller ikke en direkte underordnet i samme organ avgjøre saken (§ 6 tredje ledd). Reglene gjelder alle som utfører tjeneste eller arbeid for et forvaltningsorgan (§ 10), og tjenestemannen avgjør i utgangspunktet selv om han er ugild (§ 8 første ledd).
+- **Taushetsplikt.** Taushetsplikten etter § 13 første ledd gjelder personlige forhold og visse forretningsforhold. Fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted er som hovedregel ikke personlige forhold (§ 13 andre ledd). Plikten gjelder også etter at tjenesten er avsluttet (§ 13 tredje ledd). Unntakene står i §§ 13 a og 13 b, bl.a. at opplysninger kan gjøres kjent for sakens parter (§ 13 b første ledd nr. 1).
+- **Saksbehandlingstid.** Saken skal avgjøres uten ugrunnet opphold (§ 11 a første ledd). I saker om enkeltvedtak skal det gis foreløpig svar hvis henvendelsen ikke kan besvares innen en måned (§ 11 a tredje ledd).
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

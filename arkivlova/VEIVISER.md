@@ -1,6 +1,25 @@
 # Arkivlova: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Arkivlova gir reglar om korleis offentlege organ skal forvalte dokumentasjon som arkiv, kva som skal takast vare på for ettertida, kassasjon, avlevering til Nasjonalarkivet og privatarkiv. Arkivforskrifta utfyller loven, bl.a. med reglar om kva som skal forvaltast som arkiv, oppbevaringstider, dokumentasjonsplan, journalføring og avlevering. Lov- og forskriftsteksten er på nynorsk og siteres på nynorsk.
+
+Loven og forskriften forvaltes av Kultur- og likestillingsdepartementet.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Ny lov fra 1. januar 2026, men ikke alt.** Arkivlova gjelder fra 1. januar 2026 for §§ 1–10 og §§ 12–25 (note til § 24). § 11 om utførsel og lagring av arkiv utenfor Norge gjelder fra den tiden Kongen fastsetter. Fram til da gjelder arkivloven fra 1992 § 9 innledningen og bokstav b videre (note til § 11). Arkivforskrifta gjelder fra 1. januar 2026 (forskriften § 52).
+- **Gamle forskrifter kan fortsatt gjelde.** Forskrifter gitt med hjemmel i arkivloven fra 1992 gjelder også etter at den nye loven har trådt i kraft (§ 24 andre ledd). Riksarkivarens forskrift fra 2017 er likevel opphevet (arkivforskrifta § 52). Den gamle loven og eldre forskrifter er ikke i basen.
+- **Arkivplikten gjelder «dokumentasjon», ikke bare saksdokumenter.** Organene skal forvalte dokumentasjon som blir til som ledd i virksomheten, som arkiv (§ 5 første ledd). «Dokumentasjon» omfatter dokumenter etter offentleglova § 4 første ledd og annen informasjon organet har lagret i sine informasjonssystemer om saksbehandlingen, oppgaveløsningen eller andre vesentlige forhold (§ 2 bokstav e). Hva organet særlig skal legge vekt på når det avgjør hva som skal forvaltes som arkiv, står i arkivforskrifta § 1.
+- **Journalføring står i forskriften.** Organet skal føre journal for å legge til rette for offentlig innsyn, og registrere alle inngående og utgående saksdokumenter etter offentleglova § 4 som er eller blir saksbehandlet og «har verdi som stadfesting av dei tilhøva dei gjeld» (arkivforskrifta § 14 første ledd). Organinterne dokumenter journalføres så langt organet finner det tjenlig, men dokumentene i § 14 andre ledd bokstav a–c skal alltid journalføres. Dokumenter i innsynssaker er som hovedregel unntatt (§ 14 tredje ledd).
+- **Hva journalen skal inneholde.** Metadataene som skal registreres løpende, står i arkivforskrifta § 15 første ledd bokstav a–f. Journalen skal være tilgjengelig for innsyn etter offentleglova, og en hel journalregistrering kan bare unntas når det trengs for ikke å røpe opplysninger med lovfestet taushetsplikt (§ 15 andre ledd).
+- **Kassasjon krever hjemmel.** Et organ kan bare kassere dokumentasjon som ikke skal tas vare på etter forskrift fra Nasjonalarkivet, eller når Nasjonalarkivet har gitt tillatelse (§ 13 første ledd). Plikt til å slette opplysninger etter andre lover gir bare grunnlag for kassasjon når det er klart fastsatt eller forutsatt at opplysningene ikke skal finnes i arkivene for ettertiden (§ 13 andre ledd).
+- **Oppbevaringstider fastsetter organet selv.** For dokumentasjon som ikke skal tas vare på for ettertiden, skal organet selv fastsette oppbevaringstider ut fra hensynene i arkivforskrifta § 3 andre ledd.
+- **Dokumentasjonsplan.** Hvert organ skal ha en oppdatert dokumentasjonsplan (§ 8 første ledd). Minimumsinnholdet står i § 8 andre ledd og arkivforskrifta § 12.
+- **Avlevering.** Statlige organer skal avlevere arkivene sine til Nasjonalarkivet (§ 14 første ledd). Bare dokumentasjon som skal tas vare på for ettertiden, skal følge med, og det avleverende organet dekker kostnadene (§ 14 femte ledd). Utvalg opprettet ved kongelig resolusjon eller lov har egne regler i arkivforskrifta § 4.
+- **Oppgaver som løses av andre.** Når et organ avtaler at et rettssubjekt utenfor loven skal løse lovpålagte oppgaver for organet, skal organet sørge for at pliktene etter loven følges opp (§ 7 første ledd).
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

@@ -24,6 +24,10 @@ Jobben legger ikke inn noe den er usikker på. Filen blir da liggende her, og en
 - Teksten viser ikke tydelig til en lov som finnes i basen. Gi filen et navn som starter med lovmappen, eller legg loven inn i basen først.
 - Teksten viser til flere lover omtrent like mye. Gi filen et navn som starter med lovmappen.
 - Filen er en skannet PDF uten tekstlag.
-- Filen er ikke et rundskriv, men en EU-rettsakt (forordning, direktiv). Innboksen tar foreløpig bare rundskriv.
+- Filen er ikke et rundskriv, men en EU-rettsakt (forordning, direktiv). EU-rettsakter legges inn ved å føye dem til under `eu` i `regelverk.json`, så hentes de fra EUR-Lex.
 
 Rett opp og last opp filen på nytt. `.FEIL.txt`-filen forsvinner når filen er lagt inn.
+
+## Hovedtariffavtalen
+
+Hovedtariffavtalen i staten legges også inn her. Last ned Word-filen fra regjeringen.no og last den opp med et filnavn som begynner på `hovedtariffavtale`, for eksempel `hovedtariffavtale_2026-2028.docx`. Den deles da opp i `hovedtariffavtalen/`, og forrige versjon flyttes til `hovedtariffavtalen/kilde/tidligere/`. Gjør det ved hvert hovedoppgjør og mellomoppgjør. Husk å oppdatere perioden under `avtaler` i `regelverk.json` når en ny periode begynner.
