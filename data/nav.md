@@ -33,6 +33,8 @@ Full liste med mappe, tabell, filer, kildeside og dato står i `data/nav/indeks.
 
 ## Slik brukes dem
 
+Kildeprofiler for sykefravær, dagpenger og helt ledige, AAP og uføretrygd (hvilken tabell som svarer på hva, og forbehold) står i `data/nav-profiler.md`. Når Nav sist oppdaterte hver kildeside står i `data/nav/sider.json`.
+
 - Sykefravær er **legemeldt** fravær og ikke sesongjustert. Sammenlign samme kvartal på tvers av år. SSBs sykefraværstall (se `data/ssb.md`) inkluderer egenmeldt fravær og kan avvike. Si hvilken kilde tallet kommer fra.
 - Brudd i sykefraværsserien: 2009 ny næringsgruppering (SN2007), 2015 innføring av A-ordningen. Fra 1. kvartal 2022 nytt mottak for sykmeldinger. Fra 1. kvartal 2026 ny gruppeinndeling av diagnoser, og kreft er egen hovedgruppe.
 - Dagpenger: det er brudd i statistikken over arbeidsledige fra november 2018 (ny registreringsmetode), se `om.md`.

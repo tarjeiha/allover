@@ -14,9 +14,14 @@ For hver kildeside i data/nav/kilder.json:
      og data_innboks.py leser den inn med de samme kontrollene som ved manuell opplasting.
 Med --tor lastes ingenting ned til innboks-data/; skriptet viser bare hva som ville blitt hentet.
 
+Navs sider viser «Publisert dd.mm.åååå | Oppdatert dd.mm.åååå». Datoen «Oppdatert» for hver kildeside
+lagres i data/nav/sider.json, sammen med datoen siden sist endret seg for oss. Filene har ingen egen
+publiseringsdato hos Nav, så sidens dato er den beste tilgjengelige.
+
 Rapporten skrives til nav-hent-rapport.txt. Selve innlegging og feilvarsling skjer i
 data_innboks.py og arbeidsflyten nav-hent.yml.
 """
+import datetime
 import hashlib
 import html
 import json
@@ -40,8 +45,19 @@ def hent(url):
         return r.read()
 
 
-def xlsx_lenker(side):
+SIDEDATO = re.compile(r"Publisert (\d\d\.\d\d\.\d{4})\s*\|\s*Oppdatert (\d\d\.\d\d\.\d{4})")
+
+
+def sidedato(tekst):
+    """Returnerer («publisert», «oppdatert») fra sidens overskrift, ellers None."""
+    m = SIDEDATO.search(re.sub(r"<[^>]+>", "", tekst))
+    return m.groups() if m else None
+
+
+def xlsx_lenker(side, datoer=None):
     tekst = hent(side).decode("utf-8", "replace")
+    if datoer is not None:
+        datoer[side] = sidedato(tekst)
     ut = {}
     for m in LENKE.finditer(tekst):
         url = urllib.parse.urljoin("https://www.nav.no", html.unescape(m.group(1)))
@@ -61,15 +77,32 @@ def kjente_hasher():
     return ut
 
 
+def lagre_sidedatoer(datoer):
+    """Oppdaterer data/nav/sider.json. Linjen endres bare når Navs «Oppdatert»-dato har endret seg."""
+    fil = NAV / "sider.json"
+    gammel = json.loads(fil.read_text(encoding="utf-8")) if fil.exists() else {}
+    iday = datetime.date.today().isoformat()
+    ny = dict(gammel)
+    for side, d in datoer.items():
+        if not d:
+            continue
+        publisert, oppdatert = d
+        if gammel.get(side, {}).get("oppdatert_hos_nav") != oppdatert:
+            ny[side] = {"publisert_hos_nav": publisert, "oppdatert_hos_nav": oppdatert, "sett_endret": iday}
+    if ny != gammel:
+        fil.write_text(json.dumps(ny, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+
+
 def main(tor=False):
     tabeller = json.loads((NAV / "kilder.json").read_text(encoding="utf-8"))["tabeller"]
     sider = sorted({t["kildeside"] for t in tabeller if t["kildeside"].startswith("http")})
     kjente = kjente_hasher()
     nye, uendret, ukjente, feil = [], 0, [], []
     sett = set()
+    datoer = {}
     for side in sider:
         try:
-            lenker = xlsx_lenker(side)
+            lenker = xlsx_lenker(side, datoer)
         except Exception as e:  # noqa: BLE001
             feil.append(f"{side}: kunne ikke leses ({e})")
             continue
@@ -96,6 +129,8 @@ def main(tor=False):
             if not tor:
                 INNBOKS.mkdir(exist_ok=True)
                 (INNBOKS / navn).write_bytes(data)
+    if not tor:
+        lagre_sidedatoer(datoer)
     linjer = [f"Nav-henting: {len(nye)} ny(e) fil(er), {uendret} uendret, {len(ukjente)} uten treff i kilder.json, {len(feil)} feil", ""]
     if nye:
         linjer += ["Nye filer:"] + [f"- {n}" for n in nye] + [""]
