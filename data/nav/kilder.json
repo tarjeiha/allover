@@ -842,6 +842,162 @@
    "mappe": "kontantstotte-fylke-kommune",
    "tittel": "Kontantstøtte, barn med kontantstøtte etter fylke og kommune (KON001x)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte"
+  },
+  {
+   "monster": "^u300",
+   "mappe": "utbetalinger-statsregnskap-innland-utland",
+   "tittel": "Utbetalinger innland og utland, statsregnskap (U300)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u310",
+   "mappe": "utbetalinger-innland-utland-tidsserie",
+   "tittel": "Utbetalinger innland og utland, tidsserie beløp (U310)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalingernorge",
+   "mappe": "utbetalinger-norge",
+   "tittel": "Utbetalinger i Norge etter ytelse (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalingerinnlandkommuner",
+   "mappe": "utbetalinger-innland-kommuner",
+   "tittel": "Utbetalinger innland etter kommune (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalingerinnland18nordland",
+   "mappe": "utbetalinger-fylke-18-nordland",
+   "tittel": "Utbetalinger Nordland (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u510",
+   "mappe": "utbetalinger-innland-kjonn-alder-innvandrer",
+   "tittel": "Utbetalinger innland etter kjønn, alder og innvandrer (U510)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u100",
+   "mappe": "utbetalinger-utland",
+   "tittel": "Utbetalinger til utlandet (U100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-utlandet"
+  },
+  {
+   "monster": "^u110",
+   "mappe": "utbetalinger-utland-tidsserie",
+   "tittel": "Utbetalinger til utlandet, tidsserie beløp (U110)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-utlandet"
+  },
+  {
+   "monster": "^utenforskapfraarbeidslivet2029",
+   "mappe": "utenforskap-20-29",
+   "tittel": "Utenforskap fra arbeidslivet, 20–29 år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utenforskap-fra-arbeidslivet"
+  },
+  {
+   "monster": "^utenforskapfraarbeidslivet2066",
+   "mappe": "utenforskap-20-66",
+   "tittel": "Utenforskap fra arbeidslivet, 20–66 år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utenforskap-fra-arbeidslivet"
+  },
+  {
+   "monster": "^trygdesvindelstatistikk",
+   "mappe": "trygdesvindel",
+   "tittel": "Trygdesvindel, statistikk for året",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/trygdemisbruk"
+  },
+  {
+   "monster": "^personermedstonadfrafolketrygden",
+   "mappe": "stonadsmottakere-2007-2016",
+   "tittel": "Personer med stønad fra folketrygden og andre ordninger, 2007–2016",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/stonadsmottakere"
+  },
+  {
+   "monster": "^u500utbetalinger03oslo",
+   "mappe": "utbetalinger-fylke-03-oslo",
+   "tittel": "Utbetalinger Oslo (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger11rogaland",
+   "mappe": "utbetalinger-fylke-11-rogaland",
+   "tittel": "Utbetalinger Rogaland (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger15more",
+   "mappe": "utbetalinger-fylke-15-more",
+   "tittel": "Utbetalinger Møre og Romsdal (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger31ostfold",
+   "mappe": "utbetalinger-fylke-31-ostfold",
+   "tittel": "Utbetalinger Østfold (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger32akershus",
+   "mappe": "utbetalinger-fylke-32-akershus",
+   "tittel": "Utbetalinger Akershus (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger33buskerud",
+   "mappe": "utbetalinger-fylke-33-buskerud",
+   "tittel": "Utbetalinger Buskerud (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger34innlandet",
+   "mappe": "utbetalinger-fylke-34-innlandet",
+   "tittel": "Utbetalinger Innlandet (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger39vestfold",
+   "mappe": "utbetalinger-fylke-39-vestfold",
+   "tittel": "Utbetalinger Vestfold (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger40telemark",
+   "mappe": "utbetalinger-fylke-40-telemark",
+   "tittel": "Utbetalinger Telemark (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger42agder",
+   "mappe": "utbetalinger-fylke-42-agder",
+   "tittel": "Utbetalinger Agder (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger46vestland",
+   "mappe": "utbetalinger-fylke-46-vestland",
+   "tittel": "Utbetalinger Vestland (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger50trondelag",
+   "mappe": "utbetalinger-fylke-50-trondelag",
+   "tittel": "Utbetalinger Trøndelag (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger55troms",
+   "mappe": "utbetalinger-fylke-55-troms",
+   "tittel": "Utbetalinger Troms (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger56finnmark",
+   "mappe": "utbetalinger-fylke-56-finnmark",
+   "tittel": "Utbetalinger Finnmark (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
   }
  ]
 }
