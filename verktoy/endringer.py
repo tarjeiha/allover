@@ -21,6 +21,7 @@ import re
 import shutil
 import tarfile
 import urllib.request
+import zlib
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -192,13 +193,16 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
                 vedtak_for.setdefault(ref, []).append(v)
         endrer = ENDRER.search(raa)
         if endrer and any(r in maal for r in re.findall(r"<li>([^<]+)</li>", endrer.group(1))):
-            kandidater.append(raa)
+            kandidater.append(zlib.compress(raa.encode("utf-8")))
     print(f"Lovtidend: {len(kandidater)} endringsakter berører regelverk i basen")
+    sjekket = 0
 
     henv = {}
     ut: dict = {}
-    for raa in kandidater:
-        soup = BeautifulSoup(raa, "lxml")
+    for pakket in kandidater:
+        raa = zlib.decompress(pakket).decode("utf-8")
+        # Hodet først: de fleste aktene er i kraft for lenge siden og trenger ikke parses helt
+        soup = BeautifulSoup(raa.split("</header>", 1)[0], "lxml")
         akt = {
             "ref": _dd(soup, "refid"), "id": _dd(soup, "legacyID"), "tittel": _dd(soup, "title"),
             "korttittel": _dd(soup, "titleShort"), "ikraft": _dd(soup, "dateInForce"),
@@ -208,6 +212,8 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
         status = _status(akt, vedtak_for.get(akt["ref"], []), idag)
         if status is None:
             continue
+        sjekket += 1
+        soup = BeautifulSoup(raa, "lxml")
         for dc in soup.find_all("article", class_="document-change"):
             mref = dc.get("data-document", "")
             if mref not in maal:
@@ -228,6 +234,7 @@ def finn_ventende(filer: list, maal: dict, idag: date) -> dict:
                 endringer.append({"paragraf": "", "linjer": _render(dc)})
             if endringer:
                 ut.setdefault(mref, []).append(dict(akt, status=status, endringer=endringer))
+    print(f"Lovtidend: {sjekket} kan være ikke i kraft, {sum(len(v) for v in ut.values())} med endringer som ikke er tatt inn")
     return ut
 
 
