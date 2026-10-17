@@ -1,0 +1,11 @@
+{
+  "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom og understreker. Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
+  "tabeller": [
+    {"monster": "syfra2002", "mappe": "sykefravar-tidsserie-kvartal", "tittel": "Legemeldt sykefravær per kvartal, tidsserie 2002–", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
+    {"monster": "syfra520", "mappe": "sykefravar-naering", "tittel": "Legemeldt sykefravær etter næring (SYFRA520)", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
+    {"monster": "syfra550", "mappe": "sykefravar-alder", "tittel": "Legemeldt sykefravær etter alder (SYFRA550)", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
+    {"monster": "syfra2400", "mappe": "sykefravar-diagnose-hovedgrupper", "tittel": "Legemeldt sykefravær etter diagnosehovedgrupper (SYFRA2400)", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
+    {"monster": "arbs050", "mappe": "dagpenger-tiltakspenger-maaned", "tittel": "Mottakere av dagpenger og tiltakspenger, tidsserie måned (ARBS050)", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"},
+    {"monster": "aap320", "mappe": "aap-alder-kjonn-kvartal", "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn (AAP320)", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"}
+  ]
+}
