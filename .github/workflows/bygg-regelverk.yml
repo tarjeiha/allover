@@ -14,6 +14,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
 
 jobs:
   bygg:
@@ -28,15 +29,20 @@ jobs:
       - name: Installer avhengigheter
         run: |
           pip install beautifulsoup4==4.12.3 lxml==5.3.0
-          sudo apt-get update -qq
-          # LibreOffice gir riktig nummerering av lister i Word-filer (hovedtariffavtalen)
-          sudo apt-get install -y -qq --no-install-recommends pandoc poppler-utils libreoffice-writer-nogui >/dev/null
 
       - name: Sjekk Lovdatas åpne datasett
         run: curl -sS https://api.lovdata.no/v1/publicData/list | head -c 3000; echo
 
-      - name: Bygg fra Lovdatas åpne datasett, EUR-Lex og kildefilene til tariffavtalene
+      - name: Bygg fra Lovdatas åpne datasett og EUR-Lex
         run: python3 verktoy/bygg.py
+
+      # Tariffavtalene bygges av innboksen. Her åpnes bare en sak når det er tid for ny utgave.
+      - name: Varsle om ny utgave av tariffavtalene
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 verktoy/avtale.py --varsle
 
       # Legges inn også når dekningskontrollen feiler, så feilene kan undersøkes
       # på grenen. Jobben er likevel rød, og grenen skal ikke flettes før den er grønn.

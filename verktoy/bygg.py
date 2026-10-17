@@ -16,8 +16,9 @@ og for hele repoet:
     CLAUDE.md                                     bare blokken mellom AUTO-markørene
 
 Mappene merknader/, rundskriv/ og eu-eos/ under en lov bygges ikke, men listes
-i veiviseren og i indeks.tsv. EU-rettsakter (eu.py) og tariffavtaler (avtale.py) bygges
-i samme kjøring og listes i en egen blokk i CLAUDE.md.
+i veiviseren og i indeks.tsv. EU-rettsakter (eu.py) bygges i samme kjøring. Tariffavtaler
+(avtale.py) bygges bare av innboksen; her tas radene deres i indeks.tsv med videre. Begge
+listes i en egen blokk i CLAUDE.md.
 
 Håndskrevet tekst utenfor AUTO-markørene røres ikke. Lovtekst skal aldri
 redigeres for hånd, fordi den overskrives ved neste bygg.
@@ -412,10 +413,10 @@ def main() -> int:
         merk = " · **vedtatte endringer venter**" if har_ventende else ""
         lovliste.append(f"| {lov['navn']} | `{lov['mappe']}/VEIVISER.md` | {status(meta)}{merk} |")
 
-    # Tariffavtaler
+    # Tariffavtaler bygges bare av innboksen når en ny utgave lastes opp. Her tas radene med videre.
+    forrige = (ROT / "indeks.tsv").read_text(encoding="utf-8").splitlines() if (ROT / "indeks.tsv").exists() else []
     for a in config.get("avtaler", []):
-        avtalemodul.prov_nedlasting(a, merknader)
-        avtalemodul.bygg_avtale(a, feil, merknader, indeks)
+        indeks += [linje for linje in forrige if linje.startswith(f"{a['navn']}\t")]
 
     # EU-rettsakter
     for a in config.get("eu", []):
