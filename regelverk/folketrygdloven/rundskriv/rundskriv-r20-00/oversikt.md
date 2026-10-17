@@ -1,0 +1,86 @@
+# Rundskriv til ftrl kap 20: Ny alderspensjon
+
+Rundskriv til Folketrygdloven. Lagt inn 2026-10-17 fra `original/folketrygdloven-rundskriv-r20-00.html`. Dette er ikke lov- eller forskriftstekst.
+
+## Innhold
+
+- Innledning og tekst uten paragraf – `innledning.md`
+- § 20-1 – `par-20-1.md`
+- § 20-1 a – `par-20-1a.md`
+- § 20-2 – `par-20-2.md`
+- § 20-3 – `par-20-3.md`
+- § 20-4 – `par-20-4.md`
+- § 20-5 – `par-20-5.md`
+- § 20-6 – `par-20-6.md`
+- § 2-1 – `par-2-1.md`
+- § 2-2 – `par-2-2.md`
+- § 2-3 – `par-2-3.md`
+- § 2-4 – `par-2-4.md`
+- § 20-7 – `par-20-7.md`
+- § 2-1 – `par-2-1-2.md`
+- § 2-5 – `par-2-5.md`
+- § 2-6 – `par-2-6.md`
+- § 20-7a – `par-20-7a.md`
+- § 2-1 – `par-2-1-3.md`
+- § 2-7 – `par-2-7.md`
+- § 20-8 – `par-20-8.md`
+- § 3-1 – `par-3-1.md`
+- § 3-2 – `par-3-2.md`
+- § 3-3 – `par-3-3.md`
+- § 3-4 – `par-3-4.md`
+- § 3-5 – `par-3-5.md`
+- § 3-6 – `par-3-6.md`
+- § 3-7 – `par-3-7.md`
+- § 3-8 – `par-3-8.md`
+- § 3-9 – `par-3-9.md`
+- § 3-10 – `par-3-10.md`
+- § 3-11 – `par-3-11.md`
+- § 3-12 – `par-3-12.md`
+- § 3-13 – `par-3-13.md`
+- § 20-9 – `par-20-9.md`
+- § 20-10 – `par-20-10.md`
+- § 20-11 – `par-20-11.md`
+- § 20-12 – `par-20-12.md`
+- § 20-13 – `par-20-13.md`
+- § 4-1 – `par-4-1.md`
+- § 4-2 – `par-4-2.md`
+- § 4-3 – `par-4-3.md`
+- § 4-4 – `par-4-4.md`
+- § 4-5 – `par-4-5.md`
+- § 4-6 – `par-4-6.md`
+- § 20-14 – `par-20-14.md`
+- § 20-15 – `par-20-15.md`
+- § 20-16 – `par-20-16.md`
+- § 20-17 – `par-20-17.md`
+- § 6-1 – `par-6-1.md`
+- § 6-8 – `par-6-8.md`
+- § 6-9 – `par-6-9.md`
+- § 6-10 – `par-6-10.md`
+- § 20-18 – `par-20-18.md`
+- § 1 – `par-1.md`
+- § 2a – `par-2a.md`
+- § 3 – `par-3.md`
+- § 3a – `par-3a.md`
+- § 4 – `par-4.md`
+- § 5 – `par-5.md`
+- § 7-1 – `par-7-1.md`
+- § 7-2 – `par-7-2.md`
+- § 8-1 – `par-8-1.md`
+- § 8-2 – `par-8-2.md`
+- § 20-19 – `par-20-19.md`
+- § 20-19a – `par-20-19a.md`
+- § 20-19 a – `par-20-19a-2.md`
+- § 20-20 – `par-20-20.md`
+- § 9-1 – `par-9-1.md`
+- § 9-2 – `par-9-2.md`
+- § 9-3 – `par-9-3.md`
+- § 9-4 – `par-9-4.md`
+- § 9-5 – `par-9-5.md`
+- § 20-21 – `par-20-21.md`
+- § 10-1 – `par-10-1.md`
+- § 10-2 – `par-10-2.md`
+- § 10-3 – `par-10-3.md`
+- § 10-4 – `par-10-4.md`
+- § 10-5 – `par-10-5.md`
+- § 20-22 – `par-20-22.md`
+- § 20-23 – `par-20-23.md`

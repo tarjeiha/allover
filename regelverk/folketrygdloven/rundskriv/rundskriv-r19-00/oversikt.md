@@ -1,0 +1,82 @@
+# Rundskriv til ftrl kap 19 – Alderspensjon
+
+Rundskriv til Folketrygdloven. Lagt inn 2026-10-17 fra `original/folketrygdloven-rundskriv-r19-00.html`. Dette er ikke lov- eller forskriftstekst.
+
+## Innhold
+
+- Innledning og tekst uten paragraf – `innledning.md`
+- § 19-1 – `par-19-1.md`
+- § 19-1 a – `par-19-1a.md`
+- § 19-2 – `par-19-2.md`
+- § 19-2a – `par-19-2a.md`
+- § 19-3 – `par-19-3.md`
+- § 19-3a – `par-19-3a.md`
+- § 19-4 – `par-19-4.md`
+- § 19-5 – `par-19-5.md`
+- § 19-6 – `par-19-6.md`
+- § 19-7 – `par-19-7.md`
+- § 4-1 – `par-4-1.md`
+- § 4-2 – `par-4-2.md`
+- § 4-3 – `par-4-3.md`
+- § 4-4 – `par-4-4.md`
+- § 4-5 – `par-4-5.md`
+- § 4-6 – `par-4-6.md`
+- § 19-8 – `par-19-8.md`
+- § 5-1 – `par-5-1.md`
+- § 5-3 – `par-5-3.md`
+- § 5-4 – `par-5-4.md`
+- § 5-5 – `par-5-5.md`
+- § 5-6 – `par-5-6.md`
+- § 5-7 – `par-5-7.md`
+- § 5-8 – `par-5-8.md`
+- § 5-9 – `par-5-9.md`
+- § 5-10 – `par-5-10.md`
+- § 19-9 – `par-19-9.md`
+- § 19-9a – `par-19-9a.md`
+- § 4-7 i – `par-4-7i.md`
+- § 4-7 – `par-4-7.md`
+- § 19-10 – `par-19-10.md`
+- § 19-11 – `par-19-11.md`
+- § 19-12 – `par-19-12.md`
+- § 19-13 – `par-19-13.md`
+- § 6-1 – `par-6-1.md`
+- § 6-2 – `par-6-2.md`
+- § 6-3 – `par-6-3.md`
+- § 6-4 – `par-6-4.md`
+- § 6-6 – `par-6-6.md`
+- § 6-7 – `par-6-7.md`
+- § 11-1 – `par-11-1.md`
+- § 11-2 – `par-11-2.md`
+- § 11-3 – `par-11-3.md`
+- § 11-4 – `par-11-4.md`
+- § 11-5 – `par-11-5.md`
+- § 11-6 – `par-11-6.md`
+- § 11-6a – `par-11-6a.md`
+- § 11-7 – `par-11-7.md`
+- § 11-8 – `par-11-8.md`
+- § 11-9 – `par-11-9.md`
+- § 11-10 – `par-11-10.md`
+- § 19-14 – `par-19-14.md`
+- § 1 – `par-1.md`
+- § 2a – `par-2a.md`
+- § 3 – `par-3.md`
+- § 3a – `par-3a.md`
+- § 4 – `par-4.md`
+- § 5 – `par-5.md`
+- § 7-1 – `par-7-1.md`
+- § 7-2 – `par-7-2.md`
+- § 8-1 – `par-8-1.md`
+- § 8-2 – `par-8-2.md`
+- § 19-15 – `par-19-15.md`
+- § 19-16 – `par-19-16.md`
+- § 10A-1 – `par-10a-1.md`
+- § 10A-2 – `par-10a-2.md`
+- § 10A-3 – `par-10a-3.md`
+- § 10A-4 – `par-10a-4.md`
+- § 10A-5 – `par-10a-5.md`
+- § 19-17 – `par-19-17.md`
+- § 19-18 – `par-19-18.md`
+- § 19-19 – `par-19-19.md`
+- § 19-20 – `par-19-20.md`
+- § 19-21 – `par-19-21.md`
+- § 19-22 – `par-19-22.md`
