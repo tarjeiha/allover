@@ -90,6 +90,8 @@ def skriv_ark(sti, ark, ingress, noter, blokker, meta, prefiks=None):
     forrige = None
     delt = any(g for b in blokker for g, _ in b["rader"])
     for b in blokker:
+        if prefiks and not b["rader"]:
+            continue  # overskriftslinje uten data (tittellinje med dato) i filer som slås sammen
         ar = b["rader"] and all(re.fullmatch(r"(19|20)\d\d", r[0]) for _, r in b["rader"] if r)
         navn = "år" if ar else "kategori" if re.fullmatch(r"\d\. kvartal", b["etikett"]) else b["etikett"] if len(etiketter) == 1 and b["etikett"] else "rad"
         gruppe = b["gruppe"] or (b["etikett"] or "I alt" if len(etiketter) > 1 else "")
