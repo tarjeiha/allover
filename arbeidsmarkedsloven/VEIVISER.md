@@ -45,10 +45,7 @@ Merknadene er delt i to filer: loven og tiltaksforskriften, og de øvrige forskr
 
 ## Vedtatte endringer som ikke er i kraft
 
-Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
-
-- **Ikrafts. av lov 2018:38, personopplysningsloven** (FOR-2018-06-15-875). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: Arbeidsmarkedsloven. Ny tekst: `vedtatte-endringer/for-2018-06-15-875.md`
-- **Endr. i tiltaksforskriften** (FOR-2025-09-18-2712). Trådte i kraft 2026-09-01, men er ikke tatt inn i teksten i basen ennå. Endrer: Forskrift om arbeidsmarkedstiltak (tiltaksforskriften). Ny tekst: `vedtatte-endringer/for-2025-09-18-2712.md`
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 ## Innhold
 

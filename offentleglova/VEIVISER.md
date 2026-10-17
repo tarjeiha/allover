@@ -29,9 +29,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 ## Vedtatte endringer som ikke er i kraft
 
-Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
-
-- **Ikrafts. av lov 2018:38, personopplysningsloven** (FOR-2018-06-15-875). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: Offentleglova. Ny tekst: `vedtatte-endringer/for-2018-06-15-875.md`
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 ## Innhold
 

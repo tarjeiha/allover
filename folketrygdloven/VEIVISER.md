@@ -116,9 +116,7 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 
 ## Vedtatte endringer som ikke er i kraft
 
-Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
-
-- **Ikrafts. av lov 2018:38, personopplysningsloven** (FOR-2018-06-15-875). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: Folketrygdloven. Ny tekst: `vedtatte-endringer/for-2018-06-15-875.md`
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 ## Innhold
 
