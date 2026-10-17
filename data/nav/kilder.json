@@ -764,6 +764,84 @@
    "mappe": "arbeidsindikator-tiltak-avtaler",
    "tittel": "Arbeidsindikator, tidsserie tiltak, avtaler (tabell 6)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "pst610",
+   "mappe": "afp-privat-mottakere",
+   "tittel": "AFP i privat sektor, mottakere etter kjønn og fylke (PST610)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/avtalefestet-pensjon-afp"
+  },
+  {
+   "monster": "pst611",
+   "mappe": "afp-privat-nye",
+   "tittel": "AFP i privat sektor, nye mottakere (PST611)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/avtalefestet-pensjon-afp"
+  },
+  {
+   "monster": "pst620",
+   "mappe": "afp-privat-pensjon-aar",
+   "tittel": "AFP i privat sektor, gjennomsnittlig årlig pensjon (PST620)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/avtalefestet-pensjon-afp"
+  },
+  {
+   "monster": "pst410",
+   "mappe": "krigspensjon",
+   "tittel": "Mottakere av krigspensjon (PST410)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/krigspensjon"
+  },
+  {
+   "monster": "pst510",
+   "mappe": "supplerende-stonad-alderspensjon",
+   "tittel": "Supplerende stønad til alderspensjonister (PST510)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/supplerende-stonad"
+  },
+  {
+   "monster": "pst320",
+   "mappe": "gjenlevende-redusert-ytelse",
+   "tittel": "Ytelser til gjenlevende, antall og andel med redusert ytelse (PST320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst321",
+   "mappe": "gjenlevende-antall",
+   "tittel": "Ytelser til gjenlevende, antall etter alder, kjønn og fylke (PST321)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst324",
+   "mappe": "gjenlevende-utbetalt-aar",
+   "tittel": "Utbetalt pensjon til gjenlevende ektefelle, årlig (PST324)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst351",
+   "mappe": "barnepensjon-antall",
+   "tittel": "Barnepensjonister, antall etter alder, kjønn og fylke (PST351)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst352",
+   "mappe": "barnepensjon-type",
+   "tittel": "Barnepensjonister etter type, alder og kjønn (PST352)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst353",
+   "mappe": "barnepensjon-utbetalt-aar",
+   "tittel": "Utbetalt barnepensjon, årlig (PST353)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst354",
+   "mappe": "omstillingsstonad",
+   "tittel": "Omstillingsstønad, antall etter alder, kjønn og fylke (PST354)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "kon001x",
+   "mappe": "kontantstotte-fylke-kommune",
+   "tittel": "Kontantstøtte, barn med kontantstøtte etter fylke og kommune (KON001x)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte"
   }
  ]
 }
