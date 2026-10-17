@@ -27,7 +27,7 @@ jobs:
       - name: Installer avhengigheter
         run: |
           sudo apt-get update -q
-          sudo apt-get install -y -q poppler-utils pandoc
+          sudo apt-get install -y -q --no-install-recommends poppler-utils pandoc libreoffice-writer-nogui
           pip install beautifulsoup4==4.12.3 lxml==5.3.0
 
       - name: Legg inn rundskriv

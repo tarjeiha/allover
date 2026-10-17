@@ -71,6 +71,12 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 ## Tariffavtaler og EU-rettsakter i basen
 
 <!-- AUTO-START andre kilder: genereres av verktoy/bygg.py, ikke rediger for hånd -->
+**Tariffavtaler** (ikke lov eller forskrift)
+
+| Avtale | Veiviser | Periode |
+|---|---|---|
+| Hovedtariffavtalen i staten | `hovedtariffavtalen/VEIVISER.md` | 1. mai 2026 – 30. april 2028 |
+
 **EU-rettsakter** (EU-tekst fra EUR-Lex, ikke norsk lov; se veiviseren om hvilken versjon som gjelder i EØS)
 
 | Rettsakt | Nummer | Veiviser | EØS-versjon |

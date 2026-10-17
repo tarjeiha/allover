@@ -28,7 +28,9 @@ jobs:
       - name: Installer avhengigheter
         run: |
           pip install beautifulsoup4==4.12.3 lxml==5.3.0
-          sudo apt-get install -y -qq pandoc poppler-utils >/dev/null
+          sudo apt-get update -qq
+          # LibreOffice gir riktig nummerering av lister i Word-filer (hovedtariffavtalen)
+          sudo apt-get install -y -qq --no-install-recommends pandoc poppler-utils libreoffice-writer-nogui >/dev/null
 
       - name: Sjekk Lovdatas åpne datasett
         run: curl -sS https://api.lovdata.no/v1/publicData/list | head -c 3000; echo

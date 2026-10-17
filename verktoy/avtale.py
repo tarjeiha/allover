@@ -21,6 +21,7 @@ import json
 import re
 import shutil
 import subprocess
+import tempfile
 import sys
 import urllib.request
 from collections import Counter
@@ -41,9 +42,53 @@ AUTO_SLUTT = "<!-- AUTO-SLUTT -->"
 def til_tekst(fil: Path) -> str:
     if fil.suffix.lower() == ".pdf":
         return subprocess.run(["pdftotext", str(fil), "-"], capture_output=True, text=True, check=True).stdout
-    return subprocess.run(
+    md = subprocess.run(
         ["pandoc", str(fil), "-t", "gfm", "--wrap=none"], capture_output=True, text=True, check=True
     ).stdout
+    return rett_nummerering(md, word_som_tekst(fil))
+
+
+def word_som_tekst(fil: Path) -> str:
+    """Teksten slik LibreOffice viser den, med Word sin nummerering av lister («4.», «b.»)."""
+    with tempfile.TemporaryDirectory() as tmp:
+        subprocess.run(
+            ["soffice", "--headless", "--convert-to", "txt:Text (encoded):UTF8", "--outdir", tmp, str(fil)],
+            capture_output=True, text=True, check=True, timeout=300,
+        )
+        return (Path(tmp) / f"{fil.stem}.txt").read_text(encoding="utf-8")
+
+
+LISTEPUNKT_MD = re.compile(r"^(\s*)(\d+)\.(\s+)(.*)$")
+LISTEPUNKT_LO = re.compile(r"^\s*((?:\d{1,2}|[a-zæøå]|[ivx]{1,4})[.)])\s+(.*)$")
+
+
+def _bokstaver(s: str, n: int = 30) -> str:
+    s = re.sub(r"\[\^[^\]]+\]", "", s)
+    return "".join(c for c in s.lower() if c.isalpha())[:n]
+
+
+def rett_nummerering(md: str, lo: str) -> str:
+    """
+    Pandoc nummererer lister i Word-filer feil når flere lister bygger på samme listemal: nummeret
+    fortsetter fra forrige liste («20.» i stedet for «4.»), og bokstavlister blir tall. Nummeret
+    hentes derfor fra LibreOffice-teksten, som følger Word. Punktene pares på teksten.
+    """
+    lo_punkter = [(m.group(1), _bokstaver(m.group(2))) for m in map(LISTEPUNKT_LO.match, lo.splitlines()) if m]
+    ut, j, rettet = [], 0, 0
+    for linje in md.splitlines():
+        m = LISTEPUNKT_MD.match(linje)
+        if m:
+            nokkel = _bokstaver(m.group(4))
+            for k in range(j, min(j + 40, len(lo_punkter))):
+                etikett, tekst = lo_punkter[k]
+                if nokkel and tekst and (tekst.startswith(nokkel) or nokkel.startswith(tekst)):
+                    if etikett != f"{m.group(2)}.":
+                        rettet += 1
+                    linje = f"{m.group(1)}{etikett}{m.group(3)}{m.group(4)}"
+                    j = k + 1
+                    break
+        ut.append(linje)
+    return "\n".join(ut) + "\n"
 
 
 def renset(linje: str) -> str:
@@ -101,6 +146,104 @@ def del_opp(tekst: str) -> list:
     return deler
 
 
+TOC_LINJE = re.compile(r"^\[(.+?)\s*\[\d+\]\(#[^)]*\)\]\(#[^)]*\)\s*$")
+TOC_NUMMER = re.compile(r"^(§\s*\d+|Vedlegg\s+\d+:?|\d+(?:\.\d+)*)\s+(.*)$")
+FOTNOTE_DEF = re.compile(r"^\[\^([^\]]+)\]:")
+
+
+def _norm(s: str) -> str:
+    s = re.sub(r"\[\^[^\]]+\]", "", s)
+    return re.sub(r"[^\w]+", " ", renset(s).lower()).strip()
+
+
+def del_opp_etter_overskrifter(tekst: str):
+    """
+    Deler en Word-fil konvertert med pandoc etter overskriftene, med nummereringen fra
+    innholdsfortegnelsen. Word sin automatiske nummerering («2.5.1», «Del 3») blir ikke med i
+    overskriftene ved konvertering, men står i innholdsfortegnelsen. Returnerer (deler, tekst uten
+    innholdsfortegnelse), eller None når dokumentet ikke har en innholdsfortegnelse å bygge på.
+    """
+    linjer = tekst.splitlines()
+    # Innholdsfortegnelsen: lenkelinjer, noen ganger brutt over to linjer
+    toc, i, slutt = [], 0, 0
+    buffer = ""
+    for n, l in enumerate(linjer):
+        if l.startswith("[") or buffer:
+            buffer = (buffer + " " + l.strip()).strip()
+            m = TOC_LINJE.match(buffer)
+            if m:
+                tm = TOC_NUMMER.match(renset(m.group(1)))
+                if tm:
+                    toc.append((re.sub(r"\s+", " ", tm.group(1)).rstrip(":"), tm.group(2).strip()))
+                buffer, slutt = "", n + 1
+            elif len(buffer) > 400:
+                buffer = ""
+        elif l.strip() and toc and not l.startswith("#"):
+            break
+    if len(toc) < 20:
+        return None
+    kropp = linjer[slutt:]
+
+    # Fotnoter samles og legges til delen som viser til dem
+    fotnoter, rest, aktiv = {}, [], None
+    for l in kropp:
+        m = FOTNOTE_DEF.match(l)
+        if m:
+            aktiv = m.group(1)
+            fotnoter[aktiv] = [l]
+        elif aktiv and (l.startswith("    ") or not l.strip()):
+            fotnoter[aktiv].append(l)
+        else:
+            aktiv = None
+            rest.append(l)
+
+    deler = [("innledning", "Innledning", [])]
+    refs_i_overskrift: dict = {}
+    neste = 0
+    for l in rest:
+        if l.startswith("#"):
+            tittel = _norm(l)
+            treff = next((k for k in range(neste, min(neste + 4, len(toc))) if _norm(toc[k][1]) == tittel
+                          or _norm(f"{toc[k][0]} {toc[k][1]}") == tittel), None)
+            if treff is not None:
+                neste = treff + 1
+                nr, tit = toc[treff]
+                hrefs = re.findall(r"\[\^([^\]]+)\]", l)
+                tit = re.sub(r"\[\^[^\]]+\]", "", renset(tit))
+                deler_nr = nr.split(".")
+                if nr.startswith("§"):
+                    n = re.sub(r"\D", "", nr)
+                    deler.append((f"par-{n}", f"§ {n} {tit}", []))
+                    refs_i_overskrift[deler[-1][0]] = hrefs
+                    continue
+                if nr.startswith("Vedlegg"):
+                    n = re.sub(r"\D", "", nr)
+                    deler.append((f"vedlegg-{n}", f"Vedlegg {n}: {tit}", []))
+                    refs_i_overskrift[deler[-1][0]] = hrefs
+                    continue
+                if len(deler_nr) == 1:
+                    deler.append((f"del-{nr}", f"Del {nr} {tit}", []))
+                    refs_i_overskrift[deler[-1][0]] = hrefs
+                    continue
+                if len(deler_nr) == 2:
+                    deler.append((f"punkt-{deler_nr[0]}-{deler_nr[1]}", f"{nr} {tit}", []))
+                    refs_i_overskrift[deler[-1][0]] = hrefs
+                    continue
+                # Underpunkter (2.5.1) blir overskrifter i punktfilen, med nummeret tilbake
+                deler[-1][2].append(f"### {nr} {tit}" + "".join(f"[^{h}]" for h in hrefs))
+                continue
+        deler[-1][2].append(l)
+
+    for nokkel, _, innhold in deler:
+        brukt = list(dict.fromkeys(refs_i_overskrift.get(nokkel, [])
+                                   + re.findall(r"\[\^([^\]]+)\]", "\n".join(l for l in innhold if not FOTNOTE_DEF.match(l)))))
+        if brukt:
+            innhold.append("")
+            for f in brukt:
+                innhold.extend(fotnoter.get(f, []))
+    return deler, "\n".join(kropp)
+
+
 def dekning(kilde: str, md: str) -> float:
     k = Counter(ORD.findall(kilde.lower()))
     u = Counter(ORD.findall(md.lower()))
@@ -152,7 +295,11 @@ def bygg_avtale(avtale: dict, feil: list, merknader: list, indeks: list) -> str 
     except Exception as e:  # noqa: BLE001
         feil.append(f"{avtale['navn']}: kunne ikke lese {kilde.name}: {e}")
         return None
-    deler = del_opp(tekst)
+    oppdelt = del_opp_etter_overskrifter(tekst) if kilde.suffix.lower() == ".docx" else None
+    if oppdelt:
+        deler, tekst = oppdelt
+    else:
+        deler = del_opp(tekst)
     antall_par = sum(1 for k, _, _ in deler if k.startswith("par-"))
     antall_del = sum(1 for k, _, _ in deler if k.startswith("del-"))
     if antall_del < 5 or antall_par < 10:
@@ -200,7 +347,7 @@ def bygg_avtale(avtale: dict, feil: list, merknader: list, indeks: list) -> str 
         "",
         f"- **Avtale:** {avtale['navn']} {avtale.get('periode', '')}".rstrip(),
         f"- **Kildefil:** `kilde/{kilde.name}` ({avtale.get('utgiver', 'regjeringen.no')})",
-        f"- **Oppdelt:** {date.today().isoformat()}",
+        f"- **Sjekksum for kildefilen:** {hashlib.sha256(kilde.read_bytes()).hexdigest()[:12]}",
         "",
         "Dette er tariffavtaletekst, ikke lov- eller forskriftstekst.",
         "",
