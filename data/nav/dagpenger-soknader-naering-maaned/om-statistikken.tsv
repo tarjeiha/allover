@@ -1,0 +1,33 @@
+# Kilde: Nav
+# Tabell: Søknader om dagpenger etter næring, én måned
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Perioder: 2025-12 2026-01 2026-02 2026-03 2026-04 2026-05 2026-06 2026-07 2026-08
+# Ark: Om statistikken
+# Merknad: Statistikken viser søknader om ordinære dagpenger og dagpenger under permittering etter start korona-krise uke 11, mandag 9. mars, fordelt på næring. Statistikken viser registrert næring i Aa-register for de personer som har hatt et arbeidsforhold i løpet av tre måneder før dagpengesøknad. Statistikken omfatter førstegangssøknad om dagpenger og søknad om gjenopptak.
+# Merknad: Innhold i rapporten
+# Merknad: Antall søknader om dagpenger = Antall mottatte søknader om ordinære dagpenger og dagpenger under permittering (både førstegangssøknad og gjenopptak).
+# Merknad: Antall personer som har søkt dagpenger = Samme som antall søknader om dagpenger , men juster slik at en person telles kun en gang, hvis person har sendt flere søknader i perioden
+# Merknad: - Antall jobber(arbeidsforhold) = Antall jobber (arbeidsforhold) registrert i Aa-register og over 1 times arbeid per uke (planlagt eller gjennomført). For personer som har arbeidsforhold i ulike virksomheter telles en jobb for hver virksomhet, for personer med flere arbeidsforhold i samme virksomhet telles kun ett arbeidsforhold. Definisjon er lagt nære SSB definisjon av tabell 11652, men det er ikke benyttet inntektsdata for definisjon av arbeidsforhold.
+# Merknad: Andel av jobber(arbeidsforhold) = Antall arbeidsforhold for personer som har søkt dagpenger dividert med antall jobber (arbeidsforhold) i alt
+# Merknad: - Antall virksomheter: Ett foretak består av en eller flere virksomheter. F.eks foretaket "Den norske hotellkjeden AS" med 10 virksomheter, en for hvert hotell i ulike kommuner. For å kunne fordele på fylker brukes i denne statistikken antall virksomheter. Da det finnes flere virksomheter enn foretak i Norge, så vil tall for antall ansatte per virksomhet være lavere enn antall ansatte per foretak. En virksomhet har en næring. Noen få virksomheter skifter næring og vil i denne statistikken være i to nærinsgrupper.
+# Merknad: Tall
+# Merknad: Fordelingsvariabler
+# Merknad: Type dagpenger: Ordinære dagpenger, dagpenger under permittering.
+# Merknad: Fylke, kommune
+# Merknad: Nærring og næringsgruppe
+# Merknad: Oppdatering og statistikkperiode
+# Merknad: Månedlig
+# Merknad: * = Tall under 4, ingen verdi eller tall kan ikke oppgis
+# Merknad: Spesialtegn
+# Merknad: Kilde
+# Merknad: NAV (dokumentarkiv og Aa-register)
+# Merknad: 2021 sep: Korrigert prikking av tabeller for fylke og kommune slik at kun tall under 4 prikkes. Tidligere rapporter prikket feilaktig tall under 4 permitterte.
+# Merknad: 2020 des: Rettet arkfane "Næring. Kommune. Andel" til tall for "Andel arbeidsforhold med søknad om dagpenger" fra gal verdi "Andel arbeidsforhold med søknad om dagpenger under permittering" som har vært vist de siste månedene.
+# Merknad: 2020 aug: Endret til å vise alle næringer for 2-siffer-tabellene.
+# Merknad: 2020 aug: Tilpasset layout til normalt antall dagpengesøknader. Viser kun 25 største næringer for detaljert næringstabell. Endret fylkes- og kommunetabell til å vise samlet for søknad om ordinære og dagpenger under permittering. Flere tall i arkfane forklaring.
+# Merknad: 2020 mai: Rapport endret fra å bruke antall ansatte til antall jobber (arbeidsforhold) som telleenhet. Hensikt med endring: Dette gir bedre forholdstall for næring hvor mange personer har ekstrajobb som f.eks. serveringsvirksomhet. Endringen fører til stor endring i andel for næringene: Jordbruk, skogbruk, fiske, hotell- og servicevirksomhet og private tjenster ellers. For øvrige næringer er endringene mindre. Tabeller etter gammel beregningsmetode kan utleveres på forespørsel de to neste uker.
+# Merknad: Endringer i rapporten
+# Merknad: 25. mars: Rapport ny
+# Merknad: Media: Presse@nav.no. Spørsmål om statistikken: nav.statistikk@nav.no eller steinar.folkvord@nav.no
+# Merknad: Kontakt

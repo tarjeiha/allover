@@ -1,0 +1,206 @@
+# Kilde: Nav
+# Tabell: Søknader om dagpenger etter næring, én måned
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Perioder: 2025-12 2026-01 2026-02 2026-03 2026-04 2026-05 2026-06 2026-07 2026-08
+# Ark: Næring
+# Søknader om dagpenger. Næring. En måned
+maaned	rad		Dagpenger - antall arbeidsforhold	Dagpenger - andel av arbeidsforhold	Dagpenger - antall virksomheter
+2025-12	Antall som har søkt om dagpenger		12516		
+2025-12	- herav i Aa-register		10629		
+2025-12	Antall arbeidsforhold i Aa-register		13203	0.003901	8409
+2025-12	Jordbruk, skogbruk og fiske		274	0.004111	194
+2025-12	Bergverksdrift og utvinning		77	0.001036	51
+2025-12	Industri		1865	0.007397	633
+2025-12	Elektrisitet-, vann og renovasjon		73	0.001726	65
+2025-12	Bygge- og anleggsvirksomhet		2022	0.007048	1272
+2025-12	Varehandel, reparasjon av motorvogner		1377	0.003173	1189
+2025-12	Transport og lagring		650	0.003956	457
+2025-12	Overnattings- og serveringsvirksomhet		1286	0.006996	943
+2025-12	Informasjon og kommunikasjon		611	0.004898	335
+2025-12	Finansierings- og forsikringsvirksomhet		54	0.000972	40
+2025-12	Omsetning og drift av fast eiendom		135	0.002959	119
+2025-12	Faglig, vitenskapelig og teknisk tjenesteyting		614	0.003394	474
+2025-12	Forretningsmessig tjenesteyting		1879	0.009103	846
+2025-12	Off. adm., forsvar, sosialforsikring		204	0.001117	133
+2025-12	Undervisning		390	0.001564	277
+2025-12	Helse- og sosialtjenester		1032	0.001605	845
+2025-12	Private tjenester ellers		604	0.0034	496
+2025-12	Ukjent		40	*	26
+2025-12			16	*	14
+2026-01	Antall som har søkt om dagpenger		15287		
+2026-01	- herav i Aa-register		12458		
+2026-01	Antall arbeidsforhold i Aa-register		15536	0.004621	10190
+2026-01	Jordbruk, skogbruk og fiske		247	0.003644	194
+2026-01	Bergverksdrift og utvinning		104	0.001411	57
+2026-01	Industri		1684	0.00683	706
+2026-01	Elektrisitet-, vann og renovasjon		77	0.001828	63
+2026-01	Bygge- og anleggsvirksomhet		2521	0.008943	1516
+2026-01	Varehandel, reparasjon av motorvogner		1833	0.004263	1541
+2026-01	Transport og lagring		794	0.004822	571
+2026-01	Overnattings- og serveringsvirksomhet		1671	0.009351	1224
+2026-01	Informasjon og kommunikasjon		580	0.004673	386
+2026-01	Finansierings- og forsikringsvirksomhet		61	0.001106	50
+2026-01	Omsetning og drift av fast eiendom		146	0.003154	128
+2026-01	Faglig, vitenskapelig og teknisk tjenesteyting		787	0.004381	586
+2026-01	Forretningsmessig tjenesteyting		2221	0.011146	938
+2026-01	Off. adm., forsvar, sosialforsikring		172	0.000957	121
+2026-01	Undervisning		472	0.001896	347
+2026-01	Helse- og sosialtjenester		1381	0.002135	1133
+2026-01	Private tjenester ellers		696	0.003898	558
+2026-01	Ukjent		72	*	56
+2026-01			17	*	15
+2026-02	Antall som har søkt om dagpenger		11772		
+2026-02	- herav i Aa-register		9732		
+2026-02	Antall arbeidsforhold i Aa-register		11942	0.00357	7647
+2026-02	Jordbruk, skogbruk og fiske		218	0.003311	148
+2026-02	Bergverksdrift og utvinning		59	0.000805	29
+2026-02	Industri		1933	0.007905	537
+2026-02	Elektrisitet-, vann og renovasjon		60	0.001437	57
+2026-02	Bygge- og anleggsvirksomhet		2055	0.007315	1282
+2026-02	Varehandel, reparasjon av motorvogner		1217	0.002858	1086
+2026-02	Transport og lagring		632	0.003827	445
+2026-02	Overnattings- og serveringsvirksomhet		1002	0.005725	823
+2026-02	Informasjon og kommunikasjon		389	0.003151	270
+2026-02	Finansierings- og forsikringsvirksomhet		34	0.000619	31
+2026-02	Omsetning og drift av fast eiendom		108	0.002324	98
+2026-02	Faglig, vitenskapelig og teknisk tjenesteyting		661	0.003701	469
+2026-02	Forretningsmessig tjenesteyting		1577	0.008003	722
+2026-02	Off. adm., forsvar, sosialforsikring		119	0.00067	92
+2026-02	Undervisning		312	0.001244	243
+2026-02	Helse- og sosialtjenester		1017	0.001578	856
+2026-02	Private tjenester ellers		435	0.002467	386
+2026-02	Ukjent		88	*	52
+2026-02			26	*	21
+2026-03	Antall som har søkt om dagpenger		12067		
+2026-03	- herav i Aa-register		9725		
+2026-03	Antall arbeidsforhold i Aa-register		12067	0.0037	7799
+2026-03	Jordbruk, skogbruk og fiske		172	0.002821	133
+2026-03	Bergverksdrift og utvinning		79	0.001087	44
+2026-03	Industri		1784	0.007388	602
+2026-03	Elektrisitet-, vann og renovasjon		58	0.001418	51
+2026-03	Bygge- og anleggsvirksomhet		1977	0.007181	1088
+2026-03	Varehandel, reparasjon av motorvogner		1324	0.003242	1183
+2026-03	Transport og lagring		656	0.004056	441
+2026-03	Overnattings- og serveringsvirksomhet		1052	0.006257	853
+2026-03	Informasjon og kommunikasjon		540	0.004437	322
+2026-03	Finansierings- og forsikringsvirksomhet		49	0.000891	40
+2026-03	Omsetning og drift av fast eiendom		118	0.002599	113
+2026-03	Faglig, vitenskapelig og teknisk tjenesteyting		679	0.003859	486
+2026-03	Forretningsmessig tjenesteyting		1506	0.00782	752
+2026-03	Off. adm., forsvar, sosialforsikring		105	0.000601	81
+2026-03	Undervisning		321	0.001329	247
+2026-03	Helse- og sosialtjenester		1042	0.001663	875
+2026-03	Private tjenester ellers		468	0.00272	390
+2026-03	Ukjent		121	*	82
+2026-03			16	*	16
+2026-04	Antall som har søkt om dagpenger		10132		
+2026-04	- herav i Aa-register		7987		
+2026-04	Antall arbeidsforhold i Aa-register		9743	0.002992	6590
+2026-04	Jordbruk, skogbruk og fiske		130	0.002182	102
+2026-04	Bergverksdrift og utvinning		69	0.000953	35
+2026-04	Industri		1405	0.005821	502
+2026-04	Elektrisitet-, vann og renovasjon		68	0.00166	58
+2026-04	Bygge- og anleggsvirksomhet		1194	0.004402	816
+2026-04	Varehandel, reparasjon av motorvogner		1072	0.00267	969
+2026-04	Transport og lagring		624	0.003877	390
+2026-04	Overnattings- og serveringsvirksomhet		933	0.005561	750
+2026-04	Informasjon og kommunikasjon		435	0.003577	301
+2026-04	Finansierings- og forsikringsvirksomhet		40	0.000731	35
+2026-04	Omsetning og drift av fast eiendom		84	0.001836	77
+2026-04	Faglig, vitenskapelig og teknisk tjenesteyting		569	0.003263	425
+2026-04	Forretningsmessig tjenesteyting		1255	0.006554	630
+2026-04	Off. adm., forsvar, sosialforsikring		87	0.000501	70
+2026-04	Undervisning		267	0.001091	210
+2026-04	Helse- og sosialtjenester		877	0.001387	748
+2026-04	Private tjenester ellers		518	0.003004	382
+2026-04	Ukjent		106	*	80
+2026-04			10	*	10
+2026-05	Antall som har søkt om dagpenger		9536		
+2026-05	- herav i Aa-register		7355		
+2026-05	Antall arbeidsforhold i Aa-register		8973	0.00278	6222
+2026-05	Jordbruk, skogbruk og fiske		113	0.001921	87
+2026-05	Bergverksdrift og utvinning		61	0.000842	31
+2026-05	Industri		1371	0.005726	459
+2026-05	Elektrisitet-, vann og renovasjon		53	0.001297	43
+2026-05	Bygge- og anleggsvirksomhet		939	0.003501	700
+2026-05	Varehandel, reparasjon av motorvogner		1043	0.002621	938
+2026-05	Transport og lagring		476	0.002992	370
+2026-05	Overnattings- og serveringsvirksomhet		716	0.004289	614
+2026-05	Informasjon og kommunikasjon		517	0.004329	315
+2026-05	Finansierings- og forsikringsvirksomhet		50	0.000919	46
+2026-05	Omsetning og drift av fast eiendom		84	0.001796	79
+2026-05	Faglig, vitenskapelig og teknisk tjenesteyting		642	0.00371	422
+2026-05	Forretningsmessig tjenesteyting		1062	0.005567	594
+2026-05	Off. adm., forsvar, sosialforsikring		81	0.000498	71
+2026-05	Undervisning		363	0.001501	290
+2026-05	Helse- og sosialtjenester		808	0.001288	697
+2026-05	Private tjenester ellers		437	0.002521	374
+2026-05	Ukjent		148	*	83
+2026-05			9	*	9
+2026-06	Antall som har søkt om dagpenger		11105		
+2026-06	- herav i Aa-register		8426		
+2026-06	Antall arbeidsforhold i Aa-register		10313	0.003189	7282
+2026-06	Jordbruk, skogbruk og fiske		119	0.002018	93
+2026-06	Bergverksdrift og utvinning		251	0.003457	53
+2026-06	Industri		1192	0.004972	489
+2026-06	Elektrisitet-, vann og renovasjon		46	0.001123	43
+2026-06	Bygge- og anleggsvirksomhet		946	0.003524	704
+2026-06	Varehandel, reparasjon av motorvogner		1116	0.002781	1002
+2026-06	Transport og lagring		537	0.003406	413
+2026-06	Overnattings- og serveringsvirksomhet		779	0.004602	646
+2026-06	Informasjon og kommunikasjon		626	0.005219	367
+2026-06	Finansierings- og forsikringsvirksomhet		67	0.001231	53
+2026-06	Omsetning og drift av fast eiendom		79	0.00162	72
+2026-06	Faglig, vitenskapelig og teknisk tjenesteyting		624	0.00361	456
+2026-06	Forretningsmessig tjenesteyting		1196	0.006148	638
+2026-06	Off. adm., forsvar, sosialforsikring		136	0.000839	111
+2026-06	Undervisning		813	0.003434	633
+2026-06	Helse- og sosialtjenester		1152	0.001862	980
+2026-06	Private tjenester ellers		479	0.002706	410
+2026-06	Ukjent		148	*	112
+2026-06			7	*	7
+2026-07	Antall som har søkt om dagpenger		10777		
+2026-07	- herav i Aa-register		8157		
+2026-07	Antall arbeidsforhold i Aa-register		10045	0.003079	7227
+2026-07	Jordbruk, skogbruk og fiske		127	0.002088	97
+2026-07	Bergverksdrift og utvinning		303	0.004168	42
+2026-07	Industri		925	0.003843	441
+2026-07	Elektrisitet-, vann og renovasjon		37	0.000889	30
+2026-07	Bygge- og anleggsvirksomhet		923	0.003435	679
+2026-07	Varehandel, reparasjon av motorvogner		1044	0.002578	934
+2026-07	Transport og lagring		494	0.003141	390
+2026-07	Overnattings- og serveringsvirksomhet		829	0.004754	687
+2026-07	Informasjon og kommunikasjon		407	0.003367	262
+2026-07	Finansierings- og forsikringsvirksomhet		60	0.001095	49
+2026-07	Omsetning og drift av fast eiendom		97	0.001919	86
+2026-07	Faglig, vitenskapelig og teknisk tjenesteyting		512	0.00297	418
+2026-07	Forretningsmessig tjenesteyting		1178	0.006008	635
+2026-07	Off. adm., forsvar, sosialforsikring		162	0.000993	119
+2026-07	Undervisning		913	0.003883	705
+2026-07	Helse- og sosialtjenester		1322	0.002119	1078
+2026-07	Private tjenester ellers		480	0.002676	422
+2026-07	Ukjent		217	*	139
+2026-07			15	*	14
+2026-08	Antall som har søkt om dagpenger		12809		
+2026-08	- herav i Aa-register		9855		
+2026-08	Antall arbeidsforhold i Aa-register		12266	0.003708	8821
+2026-08	Jordbruk, skogbruk og fiske		178	0.002782	148
+2026-08	Bergverksdrift og utvinning		95	0.001304	53
+2026-08	Industri		1104	0.00454	544
+2026-08	Elektrisitet-, vann og renovasjon		91	0.002144	72
+2026-08	Bygge- og anleggsvirksomhet		1055	0.003924	812
+2026-08	Varehandel, reparasjon av motorvogner		1541	0.003757	1331
+2026-08	Transport og lagring		550	0.003472	422
+2026-08	Overnattings- og serveringsvirksomhet		1089	0.005965	872
+2026-08	Informasjon og kommunikasjon		543	0.004503	370
+2026-08	Finansierings- og forsikringsvirksomhet		64	0.00117	55
+2026-08	Omsetning og drift av fast eiendom		99	0.001893	91
+2026-08	Faglig, vitenskapelig og teknisk tjenesteyting		618	0.003572	484
+2026-08	Forretningsmessig tjenesteyting		1577	0.007901	701
+2026-08	Off. adm., forsvar, sosialforsikring		224	0.001374	150
+2026-08	Undervisning		773	0.003311	584
+2026-08	Helse- og sosialtjenester		1857	0.002941	1469
+2026-08	Private tjenester ellers		562	0.003009	479
+2026-08	Ukjent		229	*	167
+2026-08			17	*	17

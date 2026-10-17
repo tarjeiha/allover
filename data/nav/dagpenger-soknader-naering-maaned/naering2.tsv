@@ -1,0 +1,827 @@
+# Kilde: Nav
+# Tabell: Søknader om dagpenger etter næring, én måned
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Perioder: 2025-12 2026-01 2026-02 2026-03 2026-04 2026-05 2026-06 2026-07 2026-08
+# Ark: Næring2
+# Søknader om dagpenger. Næring. En måned
+maaned	gruppe	rad			Dagpenger - antall arbeidsforhold	Dagpenger - andel av arbeidsforhold	Dagpenger - antall virksomheter
+2025-12	I alt		Antall som har søkt om dagpenger		12516		
+2025-12	I alt		- herav i Aa-register		10629		
+2025-12	Antall arbeidsforhold i Aa-register	00	Uoppgitt		16	*	14
+2025-12	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		155	0.003773	119
+2025-12	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		54	0.010266	24
+2025-12	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		65	0.0032	51
+2025-12	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		5	0.000175	5
+2025-12	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		21	0.004974	21
+2025-12	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		51	0.001254	25
+2025-12	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		1115	0.019143	227
+2025-12	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		21	0.005325	14
+2025-12	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		23	0.006791	11
+2025-12	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		7	0.004648	7
+2025-12	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		129	0.010361	54
+2025-12	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		19	0.007154	9
+2025-12	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		26	0.006706	14
+2025-12	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		21	0.002082	14
+2025-12	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		7	0.002086	5
+2025-12	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		29	0.005723	14
+2025-12	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		71	0.006739	37
+2025-12	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		17	0.001567	10
+2025-12	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		126	0.00406	67
+2025-12	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		7	0.000643	6
+2025-12	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		27	0.002668	15
+2025-12	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		37	0.001947	26
+2025-12	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		12	0.004084	7
+2025-12	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		45	0.002461	23
+2025-12	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		40	0.00947	18
+2025-12	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		10	0.002462	10
+2025-12	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		76	0.003112	45
+2025-12	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		18	0.000875	16
+2025-12	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		10	0.002732	8
+2025-12	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		42	0.002968	38
+2025-12	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		586	0.006867	393
+2025-12	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		203	0.006094	95
+2025-12	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		1233	0.007328	784
+2025-12	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		230	0.003734	203
+2025-12	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		403	0.003295	322
+2025-12	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		744	0.002974	664
+2025-12	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		348	0.004346	282
+2025-12	Antall arbeidsforhold i Aa-register	50	Sjøfart		68	0.002965	43
+2025-12	Antall arbeidsforhold i Aa-register	51	Lufttransport		13	0.001918	6
+2025-12	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		140	0.003575	91
+2025-12	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		81	0.005283	35
+2025-12	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		377	0.007492	245
+2025-12	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		909	0.006809	698
+2025-12	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		49	0.002533	40
+2025-12	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		220	0.020387	79
+2025-12	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		35	0.006192	6
+2025-12	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		21	0.002012	17
+2025-12	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		266	0.003679	177
+2025-12	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		20	0.003207	16
+2025-12	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		15	0.000456	13
+2025-12	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		4	0.000344	4
+2025-12	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		35	0.003157	23
+2025-12	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		135	0.002959	119
+2025-12	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		42	0.001038	35
+2025-12	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		110	0.005495	89
+2025-12	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		256	0.003626	187
+2025-12	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		50	0.00253	36
+2025-12	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		64	0.005889	54
+2025-12	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		87	0.005779	68
+2025-12	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		5	0.001199	5
+2025-12	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		71	0.005516	54
+2025-12	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		1112	0.013178	364
+2025-12	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		45	0.004548	37
+2025-12	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		114	0.007561	54
+2025-12	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		465	0.006766	287
+2025-12	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		72	0.004658	50
+2025-12	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		204	0.001117	133
+2025-12	Antall arbeidsforhold i Aa-register	85	Undervisning		390	0.001564	277
+2025-12	Antall arbeidsforhold i Aa-register	86	Helsetjenester		264	0.000987	213
+2025-12	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		261	0.00156	231
+2025-12	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		507	0.002438	401
+2025-12	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		75	0.004061	53
+2025-12	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		46	0.003224	34
+2025-12	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		15	0.009585	11
+2025-12	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		223	0.003345	187
+2025-12	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		127	0.002697	110
+2025-12	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		14	0.006217	13
+2025-12	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		97	0.003988	81
+2025-12	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		6	0.002273	6
+2025-12	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2025-12	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		40	*	26
+2026-01	I alt		Antall som har søkt om dagpenger		15287		
+2026-01	I alt		- herav i Aa-register		12458		
+2026-01	Antall arbeidsforhold i Aa-register	00	Uoppgitt		17	*	15
+2026-01	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		134	0.003161	112
+2026-01	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		28	0.005266	22
+2026-01	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		85	0.004235	60
+2026-01	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		4	0.000141	4
+2026-01	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		23	0.005545	17
+2026-01	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		76	0.001882	35
+2026-01	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		927	0.016943	248
+2026-01	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		19	0.004889	13
+2026-01	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		17	0.005084	15
+2026-01	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		6	0.003979	6
+2026-01	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		92	0.00753	46
+2026-01	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		25	0.006472	15
+2026-01	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		30	0.002993	22
+2026-01	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		4	0.001203	4
+2026-01	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		27	0.005483	18
+2026-01	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		69	0.006702	31
+2026-01	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		19	0.001771	14
+2026-01	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		130	0.004252	87
+2026-01	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		12	0.001084	11
+2026-01	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		25	0.002486	14
+2026-01	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		48	0.002544	37
+2026-01	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		26	0.009028	12
+2026-01	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		61	0.003371	18
+2026-01	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		36	0.008643	21
+2026-01	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		14	0.003429	8
+2026-01	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		94	0.003896	63
+2026-01	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		11	0.000538	11
+2026-01	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		8	0.002188	8
+2026-01	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		57	0.004054	43
+2026-01	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		787	0.009376	487
+2026-01	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		231	0.007038	98
+2026-01	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		1503	0.009101	931
+2026-01	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		250	0.004113	220
+2026-01	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		467	0.003833	336
+2026-01	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		1116	0.004511	985
+2026-01	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		419	0.005259	354
+2026-01	Antall arbeidsforhold i Aa-register	50	Sjøfart		64	0.002857	45
+2026-01	Antall arbeidsforhold i Aa-register	51	Lufttransport		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		184	0.004758	116
+2026-01	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		124	0.007213	53
+2026-01	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		431	0.008982	282
+2026-01	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		1240	0.009487	942
+2026-01	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		67	0.003496	50
+2026-01	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		183	0.016693	99
+2026-01	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		17	0.003043	5
+2026-01	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		30	0.002875	15
+2026-01	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		270	0.003764	208
+2026-01	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		13	0.002088	9
+2026-01	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		25	0.00076	21
+2026-01	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		7	0.000606	7
+2026-01	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		29	0.002704	22
+2026-01	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		146	0.003154	128
+2026-01	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		57	0.001431	54
+2026-01	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		127	0.006346	105
+2026-01	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		321	0.004583	233
+2026-01	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		57	0.00295	35
+2026-01	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		86	0.007805	60
+2026-01	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		129	0.008458	90
+2026-01	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		10	0.002407	9
+2026-01	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		90	0.007033	66
+2026-01	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		1274	0.015494	372
+2026-01	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		51	0.005303	44
+2026-01	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		144	0.012041	58
+2026-01	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		546	0.008123	331
+2026-01	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		116	0.00751	67
+2026-01	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		172	0.000957	121
+2026-01	Antall arbeidsforhold i Aa-register	85	Undervisning		472	0.001896	347
+2026-01	Antall arbeidsforhold i Aa-register	86	Helsetjenester		353	0.001298	285
+2026-01	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		453	0.002698	389
+2026-01	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		575	0.002778	459
+2026-01	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		92	0.005084	70
+2026-01	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		60	0.004371	48
+2026-01	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		13	0.008904	12
+2026-01	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		262	0.003866	216
+2026-01	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		125	0.0026	106
+2026-01	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		10	0.004478	9
+2026-01	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		126	0.005217	89
+2026-01	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		6	0.002264	6
+2026-01	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-01	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		72	*	56
+2026-02	I alt		Antall som har søkt om dagpenger		11772		
+2026-02	I alt		- herav i Aa-register		9732		
+2026-02	Antall arbeidsforhold i Aa-register	00	Uoppgitt		26	*	21
+2026-02	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		78	0.001917	63
+2026-02	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		29	0.005702	18
+2026-02	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		111	0.00553	67
+2026-02	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		4	0.000963	4
+2026-02	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		50	0.001245	22
+2026-02	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		1118	0.020713	194
+2026-02	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		41	0.010778	11
+2026-02	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		11	0.003324	8
+2026-02	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		6	0.003995	6
+2026-02	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		118	0.009714	42
+2026-02	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		19	0.007339	7
+2026-02	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		19	0.004918	12
+2026-02	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		49	0.004928	11
+2026-02	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		28	0.005752	15
+2026-02	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		81	0.00786	39
+2026-02	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		23	0.002196	11
+2026-02	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		138	0.004509	57
+2026-02	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		5	0.000453	4
+2026-02	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		39	0.003898	15
+2026-02	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		35	0.001866	22
+2026-02	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		12	0.004221	4
+2026-02	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		74	0.004135	17
+2026-02	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		15	0.003583	12
+2026-02	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		35	0.00861	8
+2026-02	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		63	0.00264	40
+2026-02	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		11	0.000546	11
+2026-02	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		4	0.001057	4
+2026-02	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		7	0.001924	7
+2026-02	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		35	0.002518	33
+2026-02	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		596	0.007136	394
+2026-02	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		161	0.004868	70
+2026-02	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		1298	0.007898	818
+2026-02	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		197	0.003287	171
+2026-02	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		278	0.002287	232
+2026-02	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		742	0.003037	683
+2026-02	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		313	0.003937	274
+2026-02	Antall arbeidsforhold i Aa-register	50	Sjøfart		50	0.002251	38
+2026-02	Antall arbeidsforhold i Aa-register	51	Lufttransport		5	0.00074	*
+2026-02	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		153	0.003999	88
+2026-02	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		111	0.006023	43
+2026-02	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		239	0.005172	185
+2026-02	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		763	0.005923	638
+2026-02	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		39	0.002051	24
+2026-02	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		122	0.011604	65
+2026-02	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		14	0.002523	*
+2026-02	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		20	0.001953	16
+2026-02	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		183	0.002548	152
+2026-02	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		11	0.001749	10
+2026-02	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		10	0.000306	9
+2026-02	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		22	0.002056	20
+2026-02	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		108	0.002324	98
+2026-02	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		52	0.001296	46
+2026-02	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		89	0.004471	78
+2026-02	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		323	0.004638	199
+2026-02	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		28	0.001565	23
+2026-02	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		69	0.006327	47
+2026-02	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		92	0.005737	68
+2026-02	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		8	0.001951	8
+2026-02	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		62	0.004913	48
+2026-02	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		914	0.011296	302
+2026-02	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		34	0.003663	30
+2026-02	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		105	0.008809	43
+2026-02	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		368	0.0055	247
+2026-02	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		94	0.006103	52
+2026-02	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		119	0.00067	92
+2026-02	Antall arbeidsforhold i Aa-register	85	Undervisning		312	0.001244	243
+2026-02	Antall arbeidsforhold i Aa-register	86	Helsetjenester		250	0.00093	215
+2026-02	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		349	0.002079	307
+2026-02	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		418	0.002011	334
+2026-02	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		75	0.004325	57
+2026-02	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		37	0.00273	31
+2026-02	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		14	0.01341	12
+2026-02	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		136	0.002019	130
+2026-02	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		99	0.002076	86
+2026-02	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		9	0.004034	9
+2026-02	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		58	0.002412	55
+2026-02	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		4	0.001513	4
+2026-02	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-02	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		88	*	52
+2026-03	I alt		Antall som har søkt om dagpenger		12067		
+2026-03	I alt		- herav i Aa-register		9725		
+2026-03	Antall arbeidsforhold i Aa-register	00	Uoppgitt		16	*	16
+2026-03	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		80	0.002177	70
+2026-03	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		16	0.003466	12
+2026-03	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		76	0.003874	51
+2026-03	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		27	0.006603	13
+2026-03	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		49	0.001229	28
+2026-03	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		1053	0.019764	207
+2026-03	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		34	0.009002	8
+2026-03	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		5	0.001523	5
+2026-03	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		65	0.005401	43
+2026-03	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		32	0.012451	6
+2026-03	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		15	0.00404	13
+2026-03	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		51	0.005194	15
+2026-03	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		24	0.004985	19
+2026-03	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		42	0.004149	27
+2026-03	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		20	0.001914	17
+2026-03	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		166	0.00548	84
+2026-03	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		14	0.001267	7
+2026-03	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		38	0.003797	21
+2026-03	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		39	0.002116	24
+2026-03	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		40	0.014425	8
+2026-03	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		57	0.003224	23
+2026-03	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		23	0.005544	19
+2026-03	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		14	0.003481	11
+2026-03	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		50	0.00215	43
+2026-03	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		18	0.000916	17
+2026-03	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		8	0.00228	7
+2026-03	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		30	0.002182	25
+2026-03	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		489	0.005988	329
+2026-03	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		136	0.004178	64
+2026-03	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		1352	0.008393	695
+2026-03	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		191	0.003265	176
+2026-03	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		345	0.002893	299
+2026-03	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		788	0.003416	708
+2026-03	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		318	0.004056	262
+2026-03	Antall arbeidsforhold i Aa-register	50	Sjøfart		54	0.00247	34
+2026-03	Antall arbeidsforhold i Aa-register	51	Lufttransport		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		148	0.00393	87
+2026-03	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		133	0.007784	55
+2026-03	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		260	0.005863	205
+2026-03	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		792	0.006398	648
+2026-03	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		39	0.002065	31
+2026-03	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		192	0.02004	76
+2026-03	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		24	0.004334	6
+2026-03	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		32	0.003123	21
+2026-03	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		233	0.003273	169
+2026-03	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		20	0.003187	19
+2026-03	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		11	0.000337	11
+2026-03	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		35	0.003264	26
+2026-03	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		118	0.002599	113
+2026-03	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		44	0.001117	40
+2026-03	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		110	0.005631	90
+2026-03	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		320	0.004653	211
+2026-03	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		41	0.002316	28
+2026-03	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		80	0.007478	57
+2026-03	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		80	0.005065	56
+2026-03	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		4	0.000986	4
+2026-03	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		59	0.004725	45
+2026-03	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		847	0.010769	301
+2026-03	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		68	0.007552	49
+2026-03	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		104	0.0088	54
+2026-03	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		318	0.004844	237
+2026-03	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		110	0.007342	66
+2026-03	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		105	0.000601	81
+2026-03	Antall arbeidsforhold i Aa-register	85	Undervisning		321	0.001329	247
+2026-03	Antall arbeidsforhold i Aa-register	86	Helsetjenester		258	0.000983	207
+2026-03	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		313	0.001946	280
+2026-03	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		471	0.002317	388
+2026-03	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		107	0.006534	68
+2026-03	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		30	0.002296	27
+2026-03	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		15	0.014793	12
+2026-03	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		152	0.002298	132
+2026-03	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		82	0.001759	72
+2026-03	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		11	0.005037	11
+2026-03	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		64	0.002701	61
+2026-03	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		7	0.002743	7
+2026-03	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-03	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		121	*	82
+2026-04	I alt		Antall som har søkt om dagpenger		10132		
+2026-04	I alt		- herav i Aa-register		7987		
+2026-04	Antall arbeidsforhold i Aa-register	00	Uoppgitt		10	*	10
+2026-04	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		63	0.001771	46
+2026-04	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		11	0.002378	10
+2026-04	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		56	0.002889	46
+2026-04	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		8	0.148148	*
+2026-04	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		5	0.00018	4
+2026-04	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		6	0.001469	6
+2026-04	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		49	0.001236	23
+2026-04	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		917	0.017149	191
+2026-04	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		22	0.005906	10
+2026-04	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		9	0.002762	7
+2026-04	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		44	0.003667	34
+2026-04	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		5	0.001933	*
+2026-04	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		12	0.003242	12
+2026-04	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		7	0.000714	4
+2026-04	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		5	0.001503	5
+2026-04	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		23	0.004753	13
+2026-04	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		44	0.004381	25
+2026-04	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		10	0.000958	8
+2026-04	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		99	0.003287	54
+2026-04	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		17	0.001533	11
+2026-04	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		20	0.001995	16
+2026-04	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		42	0.002285	24
+2026-04	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		9	0.003243	7
+2026-04	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		45	0.002574	15
+2026-04	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		19	0.004579	13
+2026-04	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		12	0.002986	11
+2026-04	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		41	0.001745	36
+2026-04	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		11	0.000555	9
+2026-04	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		4	0.001122	4
+2026-04	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		52	0.003837	44
+2026-04	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		374	0.004613	256
+2026-04	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		109	0.003411	49
+2026-04	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		711	0.004495	511
+2026-04	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		139	0.002397	131
+2026-04	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		303	0.002665	260
+2026-04	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		630	0.002742	578
+2026-04	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		292	0.003751	252
+2026-04	Antall arbeidsforhold i Aa-register	50	Sjøfart		46	0.002114	32
+2026-04	Antall arbeidsforhold i Aa-register	51	Lufttransport		17	0.002524	5
+2026-04	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		103	0.002745	69
+2026-04	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		166	0.009726	32
+2026-04	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		263	0.00585	198
+2026-04	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		670	0.005456	552
+2026-04	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		40	0.002107	29
+2026-04	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		99	0.010018	56
+2026-04	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		17	0.00308	5
+2026-04	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		34	0.003341	21
+2026-04	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		222	0.003135	169
+2026-04	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		23	0.0037	21
+2026-04	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		9	0.000279	9
+2026-04	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		9	0.000762	7
+2026-04	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		22	0.002071	19
+2026-04	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		84	0.001836	77
+2026-04	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		40	0.001021	34
+2026-04	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		98	0.005056	84
+2026-04	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		247	0.003653	171
+2026-04	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		34	0.001921	31
+2026-04	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		72	0.006591	45
+2026-04	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		75	0.004846	57
+2026-04	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		61	0.004843	48
+2026-04	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		676	0.008698	252
+2026-04	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		76	0.008517	54
+2026-04	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		75	0.006356	43
+2026-04	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		288	0.004396	175
+2026-04	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		79	0.005289	58
+2026-04	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		87	0.000501	70
+2026-04	Antall arbeidsforhold i Aa-register	85	Undervisning		267	0.001091	210
+2026-04	Antall arbeidsforhold i Aa-register	86	Helsetjenester		216	0.00082	180
+2026-04	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		271	0.001648	250
+2026-04	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		390	0.00191	318
+2026-04	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		73	0.004483	54
+2026-04	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		31	0.002369	27
+2026-04	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		8	0.006861	7
+2026-04	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		233	0.003485	152
+2026-04	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		77	0.001657	68
+2026-04	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		9	0.004089	9
+2026-04	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		79	0.003394	58
+2026-04	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		5	0.001853	4
+2026-04	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-04	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		106	*	80
+2026-05	I alt		Antall som har søkt om dagpenger		9536		
+2026-05	I alt		- herav i Aa-register		7355		
+2026-05	Antall arbeidsforhold i Aa-register	00	Uoppgitt		9	*	9
+2026-05	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		53	0.001514	43
+2026-05	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		10	0.002179	10
+2026-05	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		50	0.002603	34
+2026-05	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		6	0.109091	*
+2026-05	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		4	0.001	4
+2026-05	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		47	0.001179	22
+2026-05	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		776	0.014646	182
+2026-05	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		11	0.003037	5
+2026-05	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		4	0.001249	4
+2026-05	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		126	0.010657	28
+2026-05	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		9	0.00244	6
+2026-05	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		10	0.003021	*
+2026-05	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		10	0.002085	10
+2026-05	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		20	0.00197	18
+2026-05	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		11	0.001058	9
+2026-05	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		103	0.003433	65
+2026-05	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		9	0.000803	4
+2026-05	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		121	0.012127	15
+2026-05	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		26	0.001417	18
+2026-05	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		13	0.004738	8
+2026-05	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		30	0.001754	17
+2026-05	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		28	0.006781	19
+2026-05	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		7	0.00175	7
+2026-05	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		47	0.002035	31
+2026-05	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		15	0.000761	10
+2026-05	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		5	0.001391	5
+2026-05	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		29	0.002138	25
+2026-05	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		334	0.004137	234
+2026-05	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		65	0.002034	41
+2026-05	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		540	0.003472	425
+2026-05	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		191	0.003293	177
+2026-05	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		268	0.002369	238
+2026-05	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		584	0.002575	523
+2026-05	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		251	0.003286	228
+2026-05	Antall arbeidsforhold i Aa-register	50	Sjøfart		41	0.001885	28
+2026-05	Antall arbeidsforhold i Aa-register	51	Lufttransport		29	0.004281	8
+2026-05	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		87	0.002315	75
+2026-05	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		68	0.004098	31
+2026-05	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		158	0.003514	131
+2026-05	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		558	0.004575	483
+2026-05	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		48	0.002553	37
+2026-05	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		181	0.017709	66
+2026-05	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		12	0.002176	4
+2026-05	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		27	0.003083	17
+2026-05	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		225	0.00322	171
+2026-05	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		24	0.003838	20
+2026-05	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		22	0.000681	22
+2026-05	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		5	0.000432	4
+2026-05	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		23	0.00218	20
+2026-05	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		84	0.001796	79
+2026-05	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		57	0.001474	47
+2026-05	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		77	0.004027	56
+2026-05	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		276	0.004104	180
+2026-05	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		77	0.004374	25
+2026-05	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		59	0.005378	40
+2026-05	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		88	0.005627	66
+2026-05	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		8	0.002111	8
+2026-05	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		43	0.003402	35
+2026-05	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		601	0.007805	255
+2026-05	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		52	0.005701	41
+2026-05	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		53	0.00443	36
+2026-05	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		248	0.003802	184
+2026-05	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		65	0.004385	43
+2026-05	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		81	0.000498	71
+2026-05	Antall arbeidsforhold i Aa-register	85	Undervisning		363	0.001501	290
+2026-05	Antall arbeidsforhold i Aa-register	86	Helsetjenester		213	0.000821	185
+2026-05	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		190	0.001159	178
+2026-05	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		405	0.001987	334
+2026-05	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		71	0.004442	61
+2026-05	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		17	0.001285	16
+2026-05	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		5	0.004322	5
+2026-05	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		167	0.002461	133
+2026-05	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		94	0.00203	85
+2026-05	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		7	0.003218	7
+2026-05	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		70	0.003023	61
+2026-05	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		4	0.001283	4
+2026-05	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-05	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		148	*	83
+2026-06	I alt		Antall som har søkt om dagpenger		11105		
+2026-06	I alt		- herav i Aa-register		8426		
+2026-06	Antall arbeidsforhold i Aa-register	00	Uoppgitt		7	*	7
+2026-06	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		54	0.001539	41
+2026-06	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		15	0.003159	14
+2026-06	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		50	0.002613	38
+2026-06	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		11	0.002753	11
+2026-06	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		238	0.005966	40
+2026-06	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		642	0.012162	150
+2026-06	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		5	0.001376	5
+2026-06	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		15	0.00468	9
+2026-06	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		8	0.005563	7
+2026-06	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		71	0.005992	33
+2026-06	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		6	0.002414	5
+2026-06	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		56	0.014985	13
+2026-06	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		20	0.002058	14
+2026-06	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		10	0.003022	7
+2026-06	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		7	0.001455	7
+2026-06	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		18	0.001744	16
+2026-06	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		11	0.001049	10
+2026-06	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		81	0.002677	59
+2026-06	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		19	0.001687	15
+2026-06	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		27	0.002708	15
+2026-06	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		36	0.001969	25
+2026-06	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		16	0.005968	10
+2026-06	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		30	0.00175	19
+2026-06	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		19	0.004631	16
+2026-06	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		23	0.005821	8
+2026-06	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		68	0.002937	43
+2026-06	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		19	0.000967	18
+2026-06	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		21	0.001532	20
+2026-06	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		319	0.003951	232
+2026-06	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		77	0.002402	46
+2026-06	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		550	0.003534	426
+2026-06	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		234	0.004012	204
+2026-06	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		301	0.002656	265
+2026-06	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		581	0.00253	533
+2026-06	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		298	0.003898	251
+2026-06	Antall arbeidsforhold i Aa-register	50	Sjøfart		45	0.002067	37
+2026-06	Antall arbeidsforhold i Aa-register	51	Lufttransport		10	0.001472	7
+2026-06	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		95	0.002498	80
+2026-06	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		89	0.006091	38
+2026-06	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		163	0.003557	128
+2026-06	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		616	0.004989	518
+2026-06	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		43	0.002272	36
+2026-06	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		243	0.022721	80
+2026-06	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		27	0.004951	9
+2026-06	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		25	0.002836	16
+2026-06	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		264	0.003784	204
+2026-06	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		24	0.003816	22
+2026-06	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		26	0.000804	21
+2026-06	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		8	0.000688	5
+2026-06	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		33	0.003145	27
+2026-06	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		79	0.00162	72
+2026-06	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		49	0.001273	46
+2026-06	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		99	0.005192	73
+2026-06	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		224	0.003328	180
+2026-06	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		63	0.00359	38
+2026-06	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		78	0.007042	44
+2026-06	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		104	0.006661	69
+2026-06	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		7	0.001865	6
+2026-06	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		49	0.003845	40
+2026-06	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		711	0.008911	280
+2026-06	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		50	0.005307	45
+2026-06	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		53	0.004314	32
+2026-06	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		256	0.003903	188
+2026-06	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		77	0.00523	53
+2026-06	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		136	0.000839	111
+2026-06	Antall arbeidsforhold i Aa-register	85	Undervisning		813	0.003434	633
+2026-06	Antall arbeidsforhold i Aa-register	86	Helsetjenester		244	0.000942	205
+2026-06	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		226	0.001419	210
+2026-06	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		682	0.003401	565
+2026-06	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		72	0.004521	58
+2026-06	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		27	0.001958	22
+2026-06	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		5	0.004359	5
+2026-06	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		175	0.00253	148
+2026-06	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		117	0.002483	105
+2026-06	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		7	0.003199	6
+2026-06	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		68	0.002909	58
+2026-06	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		6	0.001529	6
+2026-06	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-06	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		148	*	112
+2026-07	I alt		Antall som har søkt om dagpenger		10777		
+2026-07	I alt		- herav i Aa-register		8157		
+2026-07	Antall arbeidsforhold i Aa-register	00	Uoppgitt		15	*	14
+2026-07	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		65	0.001765	52
+2026-07	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		59	0.003084	42
+2026-07	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		5	0.00018	*
+2026-07	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		7	0.001732	7
+2026-07	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		288	0.007204	31
+2026-07	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		435	0.0081	145
+2026-07	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		6	0.001631	6
+2026-07	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		8	0.002493	6
+2026-07	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		7	0.004954	7
+2026-07	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		32	0.002695	22
+2026-07	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		17	0.006743	7
+2026-07	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		87	0.023823	17
+2026-07	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		9	0.000916	5
+2026-07	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		6	0.001818	4
+2026-07	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		11	0.002268	9
+2026-07	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		18	0.001743	15
+2026-07	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		11	0.00102	10
+2026-07	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		62	0.002038	49
+2026-07	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		23	0.00204	9
+2026-07	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		26	0.002599	15
+2026-07	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		28	0.001527	24
+2026-07	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		4	0.001534	*
+2026-07	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		27	0.001587	18
+2026-07	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		33	0.008023	16
+2026-07	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		11	0.002879	10
+2026-07	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		62	0.002715	42
+2026-07	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		9	0.000448	9
+2026-07	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		24	0.001727	18
+2026-07	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		296	0.003639	234
+2026-07	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		94	0.00293	48
+2026-07	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		533	0.003433	397
+2026-07	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		178	0.003055	160
+2026-07	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		281	0.002483	222
+2026-07	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		585	0.002505	552
+2026-07	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		279	0.003705	248
+2026-07	Antall arbeidsforhold i Aa-register	50	Sjøfart		57	0.002598	37
+2026-07	Antall arbeidsforhold i Aa-register	51	Lufttransport		4	0.000598	*
+2026-07	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		89	0.002329	72
+2026-07	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		65	0.004291	30
+2026-07	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		162	0.003453	137
+2026-07	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		667	0.005233	550
+2026-07	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		31	0.001632	28
+2026-07	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		146	0.012788	57
+2026-07	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		23	0.004117	10
+2026-07	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		13	0.001469	10
+2026-07	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		175	0.002507	139
+2026-07	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		19	0.003043	18
+2026-07	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		23	0.000708	20
+2026-07	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		6	0.000512	5
+2026-07	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		31	0.00294	24
+2026-07	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		97	0.001919	86
+2026-07	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		57	0.00149	49
+2026-07	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		85	0.004435	73
+2026-07	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		198	0.002942	162
+2026-07	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		28	0.00159	25
+2026-07	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		60	0.005318	47
+2026-07	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		75	0.00499	54
+2026-07	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		9	0.002383	8
+2026-07	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		41	0.003148	34
+2026-07	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		719	0.009109	290
+2026-07	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		39	0.004106	33
+2026-07	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		80	0.006206	42
+2026-07	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		220	0.003296	178
+2026-07	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		79	0.005268	58
+2026-07	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		162	0.000993	119
+2026-07	Antall arbeidsforhold i Aa-register	85	Undervisning		913	0.003883	705
+2026-07	Antall arbeidsforhold i Aa-register	86	Helsetjenester		226	0.000861	182
+2026-07	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		283	0.001734	246
+2026-07	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		813	0.004103	650
+2026-07	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		85	0.005206	57
+2026-07	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		29	0.001947	26
+2026-07	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		193	0.002816	176
+2026-07	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		90	0.001882	86
+2026-07	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		4	0.001848	4
+2026-07	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		72	0.003047	66
+2026-07	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		4	0.0009	4
+2026-07	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-07	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		217	*	139
+2026-08	I alt		Antall som har søkt om dagpenger		12809		
+2026-08	I alt		- herav i Aa-register		9855		
+2026-08	Antall arbeidsforhold i Aa-register	00	Uoppgitt		17	*	17
+2026-08	Antall arbeidsforhold i Aa-register	01	Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell		98	0.002521	77
+2026-08	Antall arbeidsforhold i Aa-register	02	Skogbruk og tjenester tilknyttet skogbruk		12	0.002337	11
+2026-08	Antall arbeidsforhold i Aa-register	03	Fiske, fangst og akvakultur		68	0.003405	60
+2026-08	Antall arbeidsforhold i Aa-register	05	Bryting av steinkull og brunkull		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	06	Utvinning av råolje og naturgass		8	0.000289	6
+2026-08	Antall arbeidsforhold i Aa-register	07	Bryting av metallholdig malm		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	08	Bryting og bergverksdrift ellers		13	0.003185	11
+2026-08	Antall arbeidsforhold i Aa-register	09	Tjenester tilknyttet bergverksdrift og utvinning		71	0.001768	34
+2026-08	Antall arbeidsforhold i Aa-register	10	Produksjon av nærings- og nytelsesmidler		476	0.008635	167
+2026-08	Antall arbeidsforhold i Aa-register	11	Produksjon av drikkevarer		24	0.006446	10
+2026-08	Antall arbeidsforhold i Aa-register	12	Produksjon av tobakksvarer		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	13	Produksjon av tekstiler		20	0.0062	8
+2026-08	Antall arbeidsforhold i Aa-register	14	Produksjon av klær		5	0.003519	4
+2026-08	Antall arbeidsforhold i Aa-register	15	Produksjon av lær og lærvarer		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	16	Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler		45	0.00376	36
+2026-08	Antall arbeidsforhold i Aa-register	17	Produksjon av papir og papirvarer		20	0.007822	6
+2026-08	Antall arbeidsforhold i Aa-register	18	Trykking og reproduksjon av innspilte opptak		19	0.005441	9
+2026-08	Antall arbeidsforhold i Aa-register	19	Produksjon av kull- og raffinerte petroleumsprodukter		4	0.003918	*
+2026-08	Antall arbeidsforhold i Aa-register	20	Produksjon av kjemikalier og kjemiske produkter		34	0.003391	17
+2026-08	Antall arbeidsforhold i Aa-register	21	Produksjon av farmasøytiske råvarer og preparater		9	0.002726	7
+2026-08	Antall arbeidsforhold i Aa-register	22	Produksjon av gummi- og plastprodukter		27	0.005498	19
+2026-08	Antall arbeidsforhold i Aa-register	23	Produksjon av andre ikke-metallholdige mineralprodukter		27	0.002609	18
+2026-08	Antall arbeidsforhold i Aa-register	24	Produksjon av metaller		35	0.003176	20
+2026-08	Antall arbeidsforhold i Aa-register	25	Produksjon av metallvarer, unntatt maskiner og utstyr		103	0.003391	68
+2026-08	Antall arbeidsforhold i Aa-register	26	Produksjon av datamaskiner og elektroniske og optiske produkter		7	0.000616	5
+2026-08	Antall arbeidsforhold i Aa-register	27	Produksjon av elektrisk utstyr		37	0.003717	19
+2026-08	Antall arbeidsforhold i Aa-register	28	Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted		45	0.002431	27
+2026-08	Antall arbeidsforhold i Aa-register	29	Produksjon av motorvogner og tilhengere		14	0.005327	9
+2026-08	Antall arbeidsforhold i Aa-register	30	Produksjon av andre transportmidler		54	0.003176	19
+2026-08	Antall arbeidsforhold i Aa-register	31	Produksjon av møbler		21	0.005048	17
+2026-08	Antall arbeidsforhold i Aa-register	32	Annen industriproduksjon		11	0.002842	11
+2026-08	Antall arbeidsforhold i Aa-register	33	Reparasjon og installasjon av maskiner og utstyr		67	0.002909	47
+2026-08	Antall arbeidsforhold i Aa-register	35	Elektrisitets-, gass-, damp- og varmtvannsforsyning		15	0.000734	13
+2026-08	Antall arbeidsforhold i Aa-register	36	Uttak fra kilde, rensing og distribusjon av vann		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	37	Oppsamling og behandling av avløpsvann		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	38	Innsamling, behandling, disponering og gjenvinning av avfall		71	0.004971	54
+2026-08	Antall arbeidsforhold i Aa-register	39	Miljørydding, miljørensing og lignende virksomhet		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	41	Oppføring av bygninger		390	0.004794	287
+2026-08	Antall arbeidsforhold i Aa-register	42	Anleggsvirksomhet		89	0.002773	55
+2026-08	Antall arbeidsforhold i Aa-register	43	Spesialisert bygge- og anleggsvirksomhet		576	0.003707	470
+2026-08	Antall arbeidsforhold i Aa-register	45	Handel med og reparasjon av motorvogner		236	0.004075	211
+2026-08	Antall arbeidsforhold i Aa-register	46	Agentur- og engroshandel, unntatt med motorvogner		395	0.003463	309
+2026-08	Antall arbeidsforhold i Aa-register	47	Detaljhandel, unntatt med motorvogner		910	0.003821	811
+2026-08	Antall arbeidsforhold i Aa-register	49	Landtransport og rørtransport		268	0.003547	237
+2026-08	Antall arbeidsforhold i Aa-register	50	Sjøfart		79	0.003498	47
+2026-08	Antall arbeidsforhold i Aa-register	51	Lufttransport		9	0.001349	5
+2026-08	Antall arbeidsforhold i Aa-register	52	Lagring og andre tjenester tilknyttet transport		140	0.003635	99
+2026-08	Antall arbeidsforhold i Aa-register	53	Post og distribusjonsvirksomhet		54	0.003588	34
+2026-08	Antall arbeidsforhold i Aa-register	55	Overnattingsvirksomhet		277	0.005477	218
+2026-08	Antall arbeidsforhold i Aa-register	56	Serveringsvirksomhet		812	0.006152	654
+2026-08	Antall arbeidsforhold i Aa-register	58	Forlagsvirksomhet		81	0.004182	63
+2026-08	Antall arbeidsforhold i Aa-register	59	Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak		150	0.013011	75
+2026-08	Antall arbeidsforhold i Aa-register	60	Radio- og fjernsynskringkasting		34	0.00602	13
+2026-08	Antall arbeidsforhold i Aa-register	61	Telekommunikasjon		16	0.00182	14
+2026-08	Antall arbeidsforhold i Aa-register	62	Tjenester tilknyttet informasjonsteknologi		242	0.00351	191
+2026-08	Antall arbeidsforhold i Aa-register	63	Informasjonstjenester		20	0.003179	14
+2026-08	Antall arbeidsforhold i Aa-register	64	Finansieringsvirksomhet		25	0.000774	22
+2026-08	Antall arbeidsforhold i Aa-register	65	Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning		5	0.000424	5
+2026-08	Antall arbeidsforhold i Aa-register	66	Tjenester tilknyttet finansierings- og forsikringsvirksomhet		34	0.003206	28
+2026-08	Antall arbeidsforhold i Aa-register	68	Omsetning og drift av fast eiendom		99	0.001893	91
+2026-08	Antall arbeidsforhold i Aa-register	69	Juridisk og regnskapsmessig tjenesteyting		49	0.001286	46
+2026-08	Antall arbeidsforhold i Aa-register	70	Hovedkontortjenester, administrativ rådgivning		98	0.005043	77
+2026-08	Antall arbeidsforhold i Aa-register	71	Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse		248	0.003687	185
+2026-08	Antall arbeidsforhold i Aa-register	72	Forskning og utviklingsarbeid		51	0.002894	43
+2026-08	Antall arbeidsforhold i Aa-register	73	Annonse- og reklamevirksomhet og markedsundersøkelser		76	0.006708	56
+2026-08	Antall arbeidsforhold i Aa-register	74	Annen faglig, vitenskapelig og teknisk virksomhet		83	0.005392	65
+2026-08	Antall arbeidsforhold i Aa-register	75	Veterinærtjenester		13	0.003353	12
+2026-08	Antall arbeidsforhold i Aa-register	77	Utleie- og leasingvirksomhet		43	0.003278	35
+2026-08	Antall arbeidsforhold i Aa-register	78	Arbeidskrafttjenester		1056	0.013241	320
+2026-08	Antall arbeidsforhold i Aa-register	79	Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester		37	0.00367	31
+2026-08	Antall arbeidsforhold i Aa-register	80	Vakttjeneste og etterforsking		95	0.007127	58
+2026-08	Antall arbeidsforhold i Aa-register	81	Tjenester tilknyttet eiendomsdrift		266	0.00391	203
+2026-08	Antall arbeidsforhold i Aa-register	82	Annen forretningsmessig tjenesteyting		80	0.005234	54
+2026-08	Antall arbeidsforhold i Aa-register	84	Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning		224	0.001374	150
+2026-08	Antall arbeidsforhold i Aa-register	85	Undervisning		773	0.003311	584
+2026-08	Antall arbeidsforhold i Aa-register	86	Helsetjenester		517	0.001949	372
+2026-08	Antall arbeidsforhold i Aa-register	87	Pleie- og omsorgstjenester i institusjon		489	0.002933	404
+2026-08	Antall arbeidsforhold i Aa-register	88	Sosiale omsorgstjenester uten botilbud		851	0.004265	693
+2026-08	Antall arbeidsforhold i Aa-register	90	Kunstnerisk virksomhet og underholdningsvirksomhet		62	0.003448	51
+2026-08	Antall arbeidsforhold i Aa-register	91	Drift av biblioteker, arkiver, museer og annen kulturvirksomhet		51	0.003273	40
+2026-08	Antall arbeidsforhold i Aa-register	92	Lotteri og totalisatorspill		7	0.006151	7
+2026-08	Antall arbeidsforhold i Aa-register	93	Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer		218	0.00308	179
+2026-08	Antall arbeidsforhold i Aa-register	94	Aktiviteter i medlemsorganisasjoner		111	0.00222	103
+2026-08	Antall arbeidsforhold i Aa-register	95	Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk		12	0.005556	11
+2026-08	Antall arbeidsforhold i Aa-register	96	Annen personlig tjenesteyting		88	0.003707	75
+2026-08	Antall arbeidsforhold i Aa-register	97	Lønnet arbeid i private husholdninger		13	0.002619	13
+2026-08	Antall arbeidsforhold i Aa-register	99	Internasjonale organisasjoner og organer		*	*	*
+2026-08	Antall arbeidsforhold i Aa-register	Ukjent	Ukjent		229	*	167
