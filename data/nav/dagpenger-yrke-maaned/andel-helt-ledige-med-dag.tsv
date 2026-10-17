@@ -1,0 +1,78 @@
+# Kilde: Nav
+# Tabell: Mottakere av dagpenger etter yrke, tidsserie måned (ARBS053)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Ark: Andel helt ledige med dag
+# Mottakere av dagpenger. Yrke. Tidsserie, måned
+# Andel helt ledige med dagpenger. Yrke fingruppe
+# Januar - september 2026
+# Merknad: Ukjent
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt	45.650786	47.728839	47.487418	47.769966	48.935221	48.420074	49.476726	46.441304	45.902412
+Politikere og toppledere	Politikere og toppledere	*	*	*	*	*	*	*	*	*
+Administrative og merkantile ledere	Administrative og merkantile ledere	*	*	*	*	*	*	*	*	*
+Administrative og merkantile ledere	Andre naturvitenskapelige yrker	54.189944	55.191257	62.84153	60.10929	63.636364	65.19337	68.947368	64.130435	61.077844
+Administrative og merkantile ledere	Ikt-yrker	57.445806	59.572352	59.677419	57.751362	59.541604	60.638821	61.493739	60.009268	58.3411
+Administrative og merkantile ledere	Sivilingeniører og sivilarkitekter	57.734807	59.761687	55.526316	58.833922	59.466912	64.537655	67.059815	62.761126	59.150943
+Administrative og merkantile ledere	Ingeniører og teknikere	56.848702	58.195212	57.771788	58.608059	59.007353	61.783439	64.442568	62.510602	60.720412
+Administrative og merkantile ledere	Førskolelærere	48.387097	49.707602	52.97619	53.793103	53.378378	49.431818	48.221344	44.642857	53.475936
+Administrative og merkantile ledere	Grunnskolelærere	54.983923	54.67128	53.550864	50.566038	49.50495	40.489914	39.834711	41.845294	55.970149
+Administrative og merkantile ledere	Lærere i videregående skole	53.439153	54.651163	48.837209	47.126437	44.067797	42.792793	38.297872	37.321937	57.87037
+Administrative og merkantile ledere	Lærere på universitet og høyskoler og spesialister	54.975124	57.455013	58.870968	57.989691	60.026385	55.980861	58.817635	58.804348	57.837181
+Administrative og merkantile ledere	Annet undervisningspersonale	42.857143	47.647059	50	50	45.930233	48.148148	51.054852	42.616034	45.901639
+Administrative og merkantile ledere	Ledere innen undervisning og barnevern	48.93617	54.347826	52.5	56.410256	56.097561	61.904762	66.666667	72.5	53.488372
+Administrative og merkantile ledere	Saksbehandlere i offentlig sektor	52.192067	58.860759	59.496568	63.953488	61.835749	57.981221	62.5	56.207675	56.941176
+Administrative og merkantile ledere	Journalister og informasjonsmedarbeidere	55	58.394161	59.70696	58.364312	55.893536	62.962963	63.450292	54.093567	58.419244
+Administrative og merkantile ledere	Samfunnsvitenskapelige yrker	37.254902	37.254902	38.77551	37.777778	46.875	36.111111	47.619048	55	48.837209
+Administrative og merkantile ledere	Juridiske yrker	32.653061	39.130435	42.222222	38.271605	35.294118	39.759036	37.755102	39.08046	37.209302
+Administrative og merkantile ledere	Akademiske yrker i privat sektor	59.128631	62.046908	59.737418	59.857482	58.227848	59.90099	64.530892	57.752809	60.779221
+Andre akademiske yrker	Andre akademiske yrker	*	*	*	*	*	*	*	*	*
+Andre akademiske yrker	Medisinske yrker (leger, tannleger, veterinærer, farmasøyter)	45.493562	41.630901	42.180095	45.070423	48.404255	46.368715	46.969697	37.179487	36.32287
+Andre akademiske yrker	Sykepleiere og jordmødre	39.820359	42.727273	41.104294	43.464052	44.307692	42.675159	43.98827	37.190083	41.142857
+Andre akademiske yrker	Sosionomer og barnevernspedagoger	47.601476	52.887139	50.918635	52.216066	55.251799	53.606789	53.167421	52.397661	53.505535
+Andre akademiske yrker	Omsorgs- og pleiearbeidere	42.413487	43.140878	42.577031	42.722117	42.663996	44.977511	44.61326	39.903212	37.471681
+Andre akademiske yrker	Annet helsepersonell	54.861111	56.327543	53.076923	52.604167	55.397727	56.097561	54.854369	51.294118	54.336735
+Andre akademiske yrker	Mellomledere innen helse- pleie og omsorg	60	50	50	48.148148	43.333333	55.555556	56.25	46.875	53.571429
+Andre akademiske yrker	Skoleassistenter	33.660934	37.00565	34.005764	34.259259	32.911392	28.717949	32.982456	35.699797	38.04878
+Andre akademiske yrker	Barnehage- og skolefritidsassistenter	39.289192	39.781022	40.806184	39.794816	41.881299	38.5	37.115247	34.383105	39.161169
+Andre akademiske yrker	Salgskonsulenter og liknende	59.146919	62.190476	60.480769	59.392789	61.25498	64.143426	65.716912	61.95547	59.778226
+Andre akademiske yrker	Meglere	54.285714	55.789474	58.527132	58.633094	61.21673	66.527197	63.235294	62.162162	65.39924
+Andre akademiske yrker	Økonomer og revisorer	56.442577	56.045519	55.735294	57.593123	56.33383	59.745763	61.627907	58.034529	58.77551
+Andre akademiske yrker	Lavere saksbehandlere innen offentlig administrasjon	33.333333	39.130435	47.368421	40	57.894737	55	59.090909	47.368421	47.619048
+Andre akademiske yrker	Sekretærer	51.293103	48.45815	48	51.707317	55.276382	55.555556	54.418605	51.54185	53.777778
+Andre akademiske yrker	Økonomi- og kontormedarbeidere	54.556962	58.099063	56.579826	58.033241	58.793605	57.305773	58.977636	55.759494	56.224066
+Andre akademiske yrker	Lager- og transportmedarbeidere	52.642706	52.611534	53.418124	55.166475	58.73817	58.725048	57.220544	53.281623	53.075571
+Andre akademiske yrker	Resepsjonister og sentralbordoperatører	49.600798	49.193548	49.304813	50.686499	51.779141	51.668727	51.168224	46.936416	44.418872
+Andre akademiske yrker	Andre funksjonærer	44.479495	50.628931	49.221184	50.322581	56.690141	56.890459	55.864198	53.287197	50
+Andre akademiske yrker	Butikkarbeid	36.394293	39.61952	39.218968	38.618926	39.506173	39.540365	43.052838	38.893431	35.54298
+Andre akademiske yrker	Annet salgsarbeid	47.985348	49.460347	49.282297	49.782504	51.131222	50.480526	51.484674	49.484029	49.247743
+Andre akademiske yrker	Jordbruk, skogbruk og fiske	45.968412	51.632833	53.544061	44.186047	41.057543	39.741519	40	34.550989	32.282282
+Andre akademiske yrker	Rørleggere	58.947368	56.798623	58.823529	62.342342	63.905325	61.215933	64.413519	62.605042	58.114035
+Andre akademiske yrker	Snekkere og tømrere	57.166806	57.992245	60.080826	63.418217	65.852304	65.883807	65.665489	61.025943	60.846906
+Andre akademiske yrker	Elektrikere	53.195489	52.110092	46.622735	53.913043	61.046512	58.366534	57.431193	53.687822	48.666667
+Andre akademiske yrker	Andre bygningsarbeidere	56.795132	58.086084	60.805369	62.324857	62.4	62.732919	61.710794	57.726958	54.108635
+Andre akademiske yrker	Anleggsarbeidere	49.617737	56.053812	54.181307	61.750246	65.860215	66.611018	61.011905	56.848306	58.220211
+Andre akademiske yrker	Hjelpearbeidere innen bygg og anlegg	47.959184	50.644783	52.251185	54.458162	55.850234	55.276382	51.026856	48.366013	49.384886
+Andre akademiske yrker	Mellomledere innen bygg og anlegg	45.909091	49.107143	52.340426	61.971831	61.340206	62.285714	60.512821	57.062147	57.923497
+Andre akademiske yrker	Mekanikere	49.663138	55.161627	52.8	53.180662	53.804348	50.748299	51.194969	48.218527	48.451053
+Andre akademiske yrker	Prosess- og maskinoperatører	57.378277	57.471264	55.529954	58.853721	56.945722	55.514365	56.275977	54.600694	53.656307
+Andre akademiske yrker	Næringsmiddelarbeid	43.920728	50.081833	50.345929	51.524711	54.545455	57.954545	57.433578	53.684211	51.17158
+Andre akademiske yrker	Automatikere og elektriske montører	57.565789	59.098497	55.466238	58.392857	64.007782	62.135922	60.073937	54.59364	50.259965
+Andre akademiske yrker	Andre håndverkere	49.885057	52.941176	51.12782	52.222222	50.724638	47.109827	47.772277	53.887399	52.762431
+Andre akademiske yrker	Hjelpearbeid innen industrien	45.515695	45.299145	45.080092	50	51.851852	49.112426	47.043011	44.063325	39.650873
+Støpere, sveisere, platearbeidere	Støpere, sveisere, platearbeidere	*	*	*	*	*	*	*	*	*
+Støpere, sveisere, platearbeidere	Mellomledere innen industriarbeid	56.315789	57.923497	62.285714	62.790698	60.233918	58.139535	64.088398	67.857143	60.35503
+Støpere, sveisere, platearbeidere	Maritime yrker	42.809365	48.951049	50.883392	49.469965	50	49.561404	43.902439	38.235294	40.647482
+Støpere, sveisere, platearbeidere	Førere av transportmidler	54.234973	55.720054	52.423299	52.867715	54.21748	55.339295	55.060729	56.10766	55.561331
+Reiseledere, guider og reisebyråmedarbeidere	Reiseledere, guider og reisebyråmedarbeidere	*	*	*	*	*	*	*	*	*
+Reiseledere, guider og reisebyråmedarbeidere	Konduktører og kabinpersonale	58.333333	66.037736	64	43.75	40.322581	65.384615	59.615385	62.264151	49.152542
+Reiseledere, guider og reisebyråmedarbeidere	Kokker	47.399329	54.089219	54.553991	52.532274	54.954955	56.49652	54.077253	50.272628	47.455867
+Reiseledere, guider og reisebyråmedarbeidere	Hovmestere, servitører og hjelpepersonell	36.009281	39.856802	39.250493	40.208333	41.510539	41.342121	40.817439	36.586696	34.649611
+Reiseledere, guider og reisebyråmedarbeidere	Mellomledere innen reiseliv og transport	56.683168	59.367397	58.578431	57.552083	59.895833	60.273973	63.060686	58.465608	57.703081
+Reiseledere, guider og reisebyråmedarbeidere	Yrker innen politi, brannvesen, toll og forsvar	44.247788	50.952381	58.479532	53.846154	59.119497	66.242038	61.722488	55.714286	58.536585
+Reiseledere, guider og reisebyråmedarbeidere	Velvære	33.595801	33.333333	34.615385	34.54039	35.820896	35.311573	40.294118	35.483871	42.307692
+Reiseledere, guider og reisebyråmedarbeidere	Rengjøring	42.316785	44.114002	44.688027	43.413422	44.310036	44.020716	46.289593	43.524514	41.068053
+Reiseledere, guider og reisebyråmedarbeidere	Vakthold og vaktmestere	45.970696	48.966165	50.236072	50.980392	51.99035	46.870839	48.557089	42.574257	40.222772
+Reiseledere, guider og reisebyråmedarbeidere	Annet arbeid	46.174497	46.87924	46.028369	45.199409	48.251192	48.197492	48.4375	45.441284	42.362679
+Reiseledere, guider og reisebyråmedarbeidere	Yrker innen kunst, sport og kultur	50	51.800554	49.757986	49.451645	49.791232	48.098664	53.473344	48.651163	45.77167
+Reiseledere, guider og reisebyråmedarbeidere	Ingen yrkesbakgrunn eller uoppgitt	*	*	*	*	*	*	*	*	*

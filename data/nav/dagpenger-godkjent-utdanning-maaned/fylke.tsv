@@ -1,0 +1,27 @@
+# Kilde: Nav
+# Tabell: Dagpengemottakere med godkjent utdanning, måned (A365)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Ark: Fylke
+# Dagpengemottakere med godkjent utdanning. Måned
+# Fylke siste måned
+# 202609
+# Ny ordning
+rad	Antall godkjent utdanning	Introduksjons-programmet	Norsk og samfunns-kunnskap for innvandrere	Grunnskole og videregående skole	Fagskole-utdanning	Høyere utdanning	Kurs og annen opplæring	Andel med godkjent utdanning
+I alt	670	*	35	224	195	189	25	0.014128
+03 Oslo - Oslove	141	*	8	40	35	49	8	0.016203
+11 Rogaland	61	*	6	24	20	11	*	0.016804
+15 Møre og Romsdal	16	*	*	5	*	7	*	0.008691
+18 Nordland - Nordlánnda	17	*	4	*	6	4	*	0.014178
+31 Østfold	60	*	*	29	16	14	*	0.018916
+32 Akershus	95	*	4	28	34	23	6	0.012484
+33 Buskerud	39	*	*	19	9	11	*	0.01603
+34 Innlandet	36	*	*	11	12	10	*	0.015404
+39 Vestfold	37	*	*	14	14	6	*	0.016207
+40 Telemark	15	*	*	4	4	7	*	0.011169
+42 Agder	28	*	*	7	12	8	*	0.011915
+46 Vestland	54	*	4	16	17	13	4	0.013187
+50 Trøndelag - Trööndelage	59	*	*	19	15	20	4	0.016267
+55 Troms - Romsa - Tromssa	4	*	*	*	*	*	*	0.004957
+56 Finnmark - Finnmárku - Finmarkku	7	*	*	4	*	*	*	0.011945
+Ukjent	*	*	*	*	*	*	*	*

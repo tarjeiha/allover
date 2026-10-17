@@ -1,0 +1,14 @@
+# Kilde: Nav
+# Tabell: Dagpengemottakere med godkjent utdanning, måned (A365)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Ark: Innvandrerstatus
+# Dagpengemottakere med godkjent utdanning. Måned
+# Innvandrerstatus siste måned
+# 202609
+# Ny ordning
+rad	Antall godkjent utdanning	Introduksjons-programmet	Norsk og samfunns-kunnskap for innvandrere	Grunnskole og videregående skole	Fagskole-utdanning	Høyere utdanning	Kurs og annen opplæring	Andel med godkjent utdanning
+I alt	670	*	35	224	195	189	25	0.014128
+Ikke-innvandrer	356	*	*	78	139	127	12	0.013577
+Innvandrer	314	*	35	146	56	62	13	0.014813
+Ukjent	*	*	*	*	*	*	*	

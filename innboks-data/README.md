@@ -14,6 +14,7 @@ Du trenger ikke velge mappe. Jobben kjenner igjen tabellene i `data/nav/kilder.j
 
 - Hvert ark med en tabell blir en TSV-fil i `data/nav/<tabell>/`, med kilde og dato øverst. Definisjoner fra arket «Om statistikken» havner i `om.md`.
 - Originalfilen legges i `data/nav/<tabell>/original/`, og `data/nav/indeks.tsv` oppdateres.
+- **Sykefravær per kvartal:** Navs sykefraværstabeller har én fil per kvartal. Jobben leser kvartalet fra filen og legger det i `data/nav/<tabell>/k1`–`k4`. Last opp bare nyeste utgave for hvert kvartal. En eldre utgave av samme kvartal erstatter den nyere.
 - **Ny versjon:** Laster du opp samme tabell på nytt, erstattes den gamle.
 - **Ny tabell** som jobben ikke kjenner, får mappenavn etter filen og kildeside «ukjent». Be Claude eller redaktøren føye den til i `data/nav/kilder.json`, og oppdatere `data/nav.md` med hva tabellen inneholder.
 

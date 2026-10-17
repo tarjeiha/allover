@@ -37,8 +37,10 @@ def overskriftscelle(v):
     if isinstance(v, bool) or v is None:
         return False
     if isinstance(v, int):
-        return 1990 <= v <= 2100
+        return 1990 <= v <= 2100 or (199001 <= v <= 210012 and 1 <= v % 100 <= 12)  # år eller åååmm
     s = str(v).strip()
+    if re.fullmatch(r"\d{4}", s):
+        return True  # årstall som tekst, f.eks. «2026» i en overskriftsrad
     return bool(s) and not set(s) <= {"*", "-", "."} and not re.fullmatch(r"[\d\s.,]+", s)
 
 
@@ -103,8 +105,8 @@ def skriv_ark(sti, ark, ingress, noter, blokker, meta):
 
 
 def heltall_aar(v):
-    """Heltall mellom 1990 og 2100 telles ikke: de er oftest årstall i overskrifter, og står som tekst i TSV-en."""
-    return v == int(v) and 1990 <= v <= 2100
+    """Heltall mellom 1990 og 2100, og åååmm-koder, telles ikke: de er årstall og perioder i overskrifter og radetiketter."""
+    return v == int(v) and (1990 <= v <= 2100 or (199001 <= v <= 210012 and 1 <= v % 100 <= 12))
 
 
 def tall_i_xlsx(wb):
@@ -115,6 +117,8 @@ def tall_i_xlsx(wb):
             continue
         for rad in ws.iter_rows(values_only=True):
             for c in rad:
+                if isinstance(c, str) and re.fullmatch(r"\d{4}", c.strip()):
+                    c = int(c)  # årstall som tekst i overskrift, telles som i TSV-en
                 if isinstance(c, (int, float)) and not isinstance(c, bool) and not heltall_aar(c):
                     ut[round(round(float(c), 6), 3)] += 1
     return ut

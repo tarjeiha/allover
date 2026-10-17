@@ -1,0 +1,41 @@
+# Kilde: Nav
+# Tabell: Mottakere av arbeidsavklaringspenger etter fylke og alder, måned (AAP150)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger
+# Lagt inn: 2026-10-17
+# Ark: 1c. Fylke Kjønn. Andel av befol
+# Mottakere av arbeidsavklaringspenger. Fylke og alder. Tidsserie måned
+# Fylke og alder. Andel av befolkningen
+# Periode: 2026 01 - 2026 08
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+Kvinner	I alt	5.8	5.8	5.8	5.7	5.7	5.7	5.7	5.7
+Kvinner	Agder	7.2	7.1	7.1	7.1	7	7	7	7
+Kvinner	Akershus	5.5	5.5	5.5	5.4	5.4	5.4	5.4	5.4
+Kvinner	Buskerud	5.9	5.9	6	5.9	5.9	5.9	5.9	6
+Kvinner	Finnmark - Finnmárku - Finmarkku	5.3	5.3	5.2	5.1	5.2	5.1	5.2	5.2
+Kvinner	Innlandet	5.6	5.6	5.6	5.5	5.5	5.5	5.5	5.6
+Kvinner	Møre og Romsdal	5.9	5.9	5.9	5.9	6	5.9	5.9	6
+Kvinner	Nordland - Nordlánnda	6	5.9	6	5.9	5.8	5.8	5.8	5.8
+Kvinner	Rogaland	5.5	5.6	5.5	5.5	5.5	5.5	5.5	5.5
+Kvinner	Telemark	5.9	5.9	5.9	5.8	5.7	5.6	5.7	5.7
+Kvinner	Troms - Romsa - Tromssa	5.5	5.5	5.5	5.5	5.5	5.5	5.4	5.4
+Kvinner	Trøndelag - Trööndelage	5.6	5.6	5.6	5.6	5.6	5.5	5.5	5.6
+Kvinner	Vestfold	6.1	6.1	6.1	6.1	6.1	6.1	6.1	6.1
+Kvinner	Vestland	5.6	5.6	5.6	5.6	5.5	5.5	5.5	5.6
+Kvinner	Østfold	7.8	7.8	7.8	7.7	7.6	7.6	7.6	7.7
+Kvinner	Oslo - Oslove	5	5	5	5	5	5	5	5
+Menn	I alt	3.8	3.8	3.8	3.7	3.7	3.7	3.7	3.7
+Menn	Agder	4.7	4.6	4.7	4.6	4.6	4.5	4.5	4.5
+Menn	Akershus	3.7	3.7	3.7	3.6	3.6	3.6	3.6	3.7
+Menn	Buskerud	4.2	4.2	4.2	4.1	4.1	4.1	4.1	4.1
+Menn	Finnmark - Finnmárku - Finmarkku	4.3	4.2	4.3	4.2	4.1	4.2	4.2	4.1
+Menn	Innlandet	3.8	3.8	3.7	3.7	3.7	3.7	3.7	3.7
+Menn	Møre og Romsdal	3.6	3.6	3.6	3.6	3.6	3.6	3.5	3.6
+Menn	Nordland - Nordlánnda	3.9	3.8	3.7	3.7	3.7	3.7	3.6	3.6
+Menn	Rogaland	3.3	3.3	3.3	3.3	3.3	3.3	3.3	3.3
+Menn	Telemark	4	3.9	3.9	3.8	3.8	3.7	3.7	3.7
+Menn	Troms - Romsa - Tromssa	3.7	3.6	3.6	3.5	3.5	3.5	3.6	3.5
+Menn	Trøndelag - Trööndelage	3.2	3.2	3.2	3.2	3.2	3.2	3.2	3.2
+Menn	Vestfold	4	4	4	3.9	3.9	3.9	3.9	3.9
+Menn	Vestland	3.5	3.4	3.4	3.4	3.4	3.4	3.4	3.4
+Menn	Østfold	5.4	5.4	5.4	5.4	5.3	5.3	5.3	5.3
+Menn	Oslo - Oslove	3.8	3.8	3.8	3.7	3.7	3.7	3.7	3.8

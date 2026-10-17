@@ -1,2 +1,0 @@
-202609_A365 Dagpengemottakere med godkjent utdanning. Maaned.xlsx ble ikke lagt inn.
-34 tall i xlsx-filen ble ikke likt i TSV-en etter konvertering.
