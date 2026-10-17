@@ -269,7 +269,7 @@ def eu_henvisninger(mappe: Path, lovnavn: str, eu_mapper: dict, norske: dict, ne
     if not treff:
         return []
     ut = ["## EU-rettsakter som teksten viser til", "",
-          "Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.", ""]
+          "Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.", ""]
     for n in sorted(treff, key=lambda k: (k not in eu_mapper, k)):
         filer = treff[n]
         vis = ", ".join(f"`{f.relative_to(mappe).as_posix()}`" for f in filer[:8])
@@ -296,8 +296,8 @@ def skriv_nevnte(nevnt: dict) -> None:
     ]
     for n, lover in sorted(nevnt.items(), key=lambda kv: -sum(kv[1].values())):
         linjer.append(f"| {eumodul.visningsnavn(n)} | {sum(lover.values())} | {', '.join(sorted(lover))} |")
-    (ROT / "eu").mkdir(exist_ok=True)
-    (ROT / "eu" / "nevnte-rettsakter.md").write_text("\n".join(linjer) + "\n", encoding="utf-8")
+    (ROT / "regelverk" / "eu").mkdir(parents=True, exist_ok=True)
+    (ROT / "regelverk" / "eu" / "nevnte-rettsakter.md").write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
 def refid_for(sti: Path) -> str:

@@ -416,7 +416,7 @@ def varsler(config: dict, idag: date) -> list:
             continue
         start, slutt = datoer
         hvordan = (f"Last ned Word-filen fra regjeringen.no og legg den i `innboks/` med et filnavn som begynner på "
-                   f"`{a.get('filprefiks', a['mappe'])}`. Da deles den opp og legges inn automatisk. Lukk saken når det er gjort.")
+                   f"`{a.get('filprefiks', Path(a['mappe']).name)}`. Da deles den opp og legges inn automatisk. Lukk saken når det er gjort.")
         mellom = date(start.year + 1, 6, 1)
         if mellom < slutt and idag >= mellom:
             ut.append((f"Se etter ny utgave av {a['navn']} etter mellomoppgjøret {mellom.year}",
@@ -453,7 +453,7 @@ def main() -> int:
         return 2
     kilde = Path(sys.argv[1]).resolve()
     config = json.loads((ROT / "regelverk.json").read_text(encoding="utf-8"))
-    avtale = next((a for a in config.get("avtaler", []) if kilde.name.lower().startswith(a.get("filprefiks", a["mappe"]))), None)
+    avtale = next((a for a in config.get("avtaler", []) if kilde.name.lower().startswith(a.get("filprefiks", Path(a["mappe"]).name))), None)
     if not avtale:
         print(f"Fant ingen avtale i regelverk.json som passer filnavnet {kilde.name}")
         return 2
