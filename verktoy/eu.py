@@ -83,8 +83,8 @@ def visningsnavn(n: str) -> str:
     t, aar, nr = n.split("-")
     aar, nr = int(aar), int(nr)
     if t == "L":
-        return f"Direktiv {aar if aar >= 2000 else aar % 100}/{nr}"
-    return f"Forordning {aar}/{nr}" if aar >= 2015 else f"Forordning nr. {nr}/{aar if aar >= 2000 else aar % 100}"
+        return f"Direktiv {aar if aar >= 1999 else aar % 100}/{nr}"
+    return f"Forordning {aar}/{nr}" if aar >= 2015 else f"Forordning nr. {nr}/{aar if aar >= 1999 else aar % 100}"
 
 
 def finn_henvisninger(tekst: str) -> set:
