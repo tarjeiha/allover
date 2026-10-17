@@ -1,11 +1,210 @@
 {
-  "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom og understreker. Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
-  "tabeller": [
-    {"monster": "syfra2002", "mappe": "sykefravar-tidsserie-kvartal", "tittel": "Legemeldt sykefravær per kvartal, tidsserie fra 2002", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
-    {"monster": "syfra520", "mappe": "sykefravar-naering", "tittel": "Legemeldt sykefravær etter næring (SYFRA520), bare 2. kvartal hvert år", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
-    {"monster": "syfra550", "mappe": "sykefravar-alder", "tittel": "Legemeldt sykefravær etter alder (SYFRA550), bare 2. kvartal hvert år", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
-    {"monster": "syfra2400", "mappe": "sykefravar-diagnose-hovedgrupper", "tittel": "Legemeldt sykefravær etter diagnosehovedgrupper (SYFRA2400), bare 2. kvartal hvert år", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"},
-    {"monster": "arbs050", "mappe": "dagpenger-tiltakspenger-maaned", "tittel": "Mottakere av dagpenger og tiltakspenger, tidsserie måned (ARBS050)", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"},
-    {"monster": "aap320", "mappe": "aap-alder-kjonn-kvartal", "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn (AAP320)", "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"}
-  ]
+ "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da legges hvert kvartal i egen undermappe (k1–k4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
+ "tabeller": [
+  {
+   "monster": "syfra2002",
+   "mappe": "sykefravar-tidsserie-kvartal",
+   "tittel": "Legemeldt sykefravær per kvartal, tidsserie fra 2002 (SYFRA2002)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"
+  },
+  {
+   "monster": "syfra510",
+   "mappe": "sykefravar-bosted",
+   "tittel": "Legemeldt sykefravær etter bosted (SYFRA510)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra520",
+   "mappe": "sykefravar-naering",
+   "tittel": "Legemeldt sykefravær etter næring (SYFRA520)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra530",
+   "mappe": "sykefravar-sektor",
+   "tittel": "Legemeldt sykefravær etter sektor (SYFRA530)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra540",
+   "mappe": "sykefravar-yrke",
+   "tittel": "Legemeldt sykefravær etter yrke (SYFRA540)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra550",
+   "mappe": "sykefravar-alder",
+   "tittel": "Legemeldt sykefravær etter alder (SYFRA550)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2400",
+   "mappe": "sykefravar-diagnose-hovedgrupper",
+   "tittel": "Legemeldt sykefravær etter diagnosehovedgrupper (SYFRA2400)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2402",
+   "mappe": "sykefravar-diagnose-undergrupper",
+   "tittel": "Legemeldt sykefravær etter diagnoseundergrupper (SYFRA2402)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2401",
+   "mappe": "sykefravar-enkeltdiagnoser",
+   "tittel": "Legemeldt sykefravær etter enkeltdiagnoser (SYFRA2401)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2501",
+   "mappe": "sykefravar-gradert-diagnose",
+   "tittel": "Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "gjennomsnittligvarighet",
+   "mappe": "sykefravar-varighet-fylke-diagnose",
+   "tittel": "Gjennomsnittlig varighet for avsluttede sykefraværstilfeller etter fylke og diagnosegrupper",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "varighetsgruppe",
+   "mappe": "sykefravar-varighetsgrupper",
+   "tittel": "Varighet for avsluttede sykefraværstilfeller etter varighetsgrupper",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "innvandrerstatus",
+   "mappe": "sykefravar-innvandrerstatus",
+   "tittel": "Legemeldt sykefravær etter innvandrerstatus",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "fødeland|fodeland",
+   "mappe": "sykefravar-fodeland",
+   "tittel": "Legemeldt sykefravær etter fødeland",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "arbs050",
+   "mappe": "dagpenger-tiltakspenger-maaned",
+   "tittel": "Mottakere av dagpenger og tiltakspenger, tidsserie måned (ARBS050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs051",
+   "mappe": "dagpenger-kjonn-alder-maaned",
+   "tittel": "Mottakere av dagpenger etter kjønn og alder, tidsserie måned (ARBS051)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs052",
+   "mappe": "dagpenger-fylke-kommune-maaned",
+   "tittel": "Mottakere av dagpenger etter fylke og kommune, tidsserie måned (ARBS052)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs053",
+   "mappe": "dagpenger-yrke-maaned",
+   "tittel": "Mottakere av dagpenger etter yrke, tidsserie måned (ARBS053)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs057",
+   "mappe": "tilleggsstonader-arbeidssokere-maaned",
+   "tittel": "Mottakere av tilleggsstønader for arbeidssøkere, tidsserie måned (ARBS057)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs058",
+   "mappe": "dagpenger-varighet-maaned",
+   "tittel": "Mottakere av dagpenger etter varighet, tidsserie måned (ARBS058)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "a365",
+   "mappe": "dagpenger-godkjent-utdanning-maaned",
+   "tittel": "Dagpengemottakere med godkjent utdanning, måned (A365)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "soknaderomdagpengermaaned",
+   "mappe": "dagpenger-soknader-maaned",
+   "tittel": "Søknader om dagpenger, tidsserie måned",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "aap120",
+   "mappe": "aap-alder-kjonn-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn, måned (AAP120)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap150",
+   "mappe": "aap-fylke-alder-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter fylke og alder, måned (AAP150)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap155",
+   "mappe": "aap-kommune-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter kommune, måned (AAP155)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap160",
+   "mappe": "aap-diagnose-alder-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og alder, måned (AAP160)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap170",
+   "mappe": "aap-diagnose-kjonn-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, måned (AAP170)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap180",
+   "mappe": "aap-diagnose-detaljer-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger, diagnose detaljer, måned (AAP180)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap190",
+   "mappe": "aap-innvandrerbakgrunn-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter innvandrerbakgrunn, måned (AAP190)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap320",
+   "mappe": "aap-alder-kjonn-kvartal",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap360",
+   "mappe": "aap-diagnose-alder-kvartal",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og alder, kvartal (AAP360)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap370",
+   "mappe": "aap-diagnose-kjonn-kvartal",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, kvartal (AAP370)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  }
+ ]
 }

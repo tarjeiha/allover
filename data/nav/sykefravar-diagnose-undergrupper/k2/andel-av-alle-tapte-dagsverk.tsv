@@ -1,0 +1,123 @@
+# Kilde: Nav
+# Tabell: Legemeldt sykefravær etter diagnoseundergrupper (SYFRA2402), 2. kvartal
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar
+# Lagt inn: 2026-10-17
+# Ark: Andel av alle tapte dagsverk
+kategori		2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+I alt		99.9	100	100	100	100	99.8	99.9	99.8	100.2	100.1	99.7	99.7	100	100	99.9	100.1	99.9
+Hovedgruppe	Undergruppe																	
+Allment	Annet allment inkl. avklaring/prosedyrer	0.7	0.8	0.8	0.8	0.8	0.8	0.8	0.7	0.6	0.7	1	1	0.7	0.7	0.7	0.8	0.7
+Allment	Infeksjonssykdommer	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.3	0.3	0.3	0.2	0.4	0.3	0.3	0.3	0.3
+Allment	Skader/forgiftning/komplikasjoner	1.2	1.2	1.3	1.3	1.4	1.5	1.6	1.5	1.5	1.5	1.3	1.4	1.4	1.4	1.4	1.4	1.4
+Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2.7	2.9	3.1	2.9	3	3.1	2.9	2.8	2.8	3	2.6	3.6	4.4	4.8	5	4.7	4.9
+Allment	Symptomer på sykdom inkl.smerte/feber	0.7	0.7	0.7	0.7	0.7	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6
+Andre lidelser	Skader/komplikasjoner	0.5	0.5	0.4	0.4	0.5	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.3	0.4	0.3	0.3	0.3
+Andre lidelser		6.3	6.3	6.5	6.4	6.3	6.7	6.9	6.8	6.6	6.5	6	5.9	5.6	5.6	5.5	5.6	5.5
+Hjerte- og karsykdommer		4.6	4.5	4.5	4.5	4.2	3.9	4.2	3.9	3.7	3.7	3.7	3.3	3.2	3.1	2.9	3	2.9
+Kreft		2.7	2.7	2.9	2.9	3	3.2	3.3	3.3	3.3	3.3	3.4	3	3.1	3.1	2.9	3.1	3
+Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2.3	2.3	2.3	2.3	2.4	2.3	2.4	2.3	2.3	2.2	2.1	2	1.8	1.8	1.7	1.8	1.8
+Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+Muskel- og skjelettlidelser	Artrose	2.4	2.4	2.4	2.4	2.4	2.4	2.6	2.7	2.6	2.5	2.4	2.3	2.1	2.1	1.9	2	2
+Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	3.2	3.2	3.1	3.1	3.1	2.9	3.1	3.1	3.1	2.9	3	3.1	2.4	2.5	2.5	2.4	2.4
+Muskel- og skjelettlidelser	Brudd og skade	5.8	5.7	5.7	6.2	5.6	5.6	5.9	6	6.6	5.8	5.3	5.1	5.2	5.2	4.8	4.7	4.7
+Muskel- og skjelettlidelser	Nakke/ skulderlidelser	9.3	9.3	8.8	8.6	8.8	8.4	8.2	8.1	7.9	7.5	7.6	7.4	6.2	6.5	6.4	6.1	6.1
+Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	1.1	1.2	1.2	1.2	1.2	1.1	1	1	1.1	1.1	1	1.2	1.1	1.3	1.3	1.3	1.4
+Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	2.9	2.9	3.1	3.2	3.2	3.2	2.9	2.7	2.9	2.9	2.9	3.2	3.2	3.5	3.6	3.7	3.9
+Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	0.9	0.8	0.8	0.8	0.8	0.9	0.9	0.9	0.8	0.8	0.8	0.6	0.7	0.6	0.5	0.5	0.5
+Muskel- og skjelettlidelser	Rygglidelser	10.6	10.2	9.7	9.8	9.8	9.5	9.2	9.1	9	9	9.4	9.1	8.2	8.5	8.4	8.5	8.2
+Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	2.7	2.7	2.6	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.2	2.3	2.1	2	1.9	1.9	1.9
+Psykiske lidelser	Andre psykiske plager	1.9	2	1.9	1.7	1.8	2	2	1.8	1.8	1.7	1.7	1.8	1.9	2.3	2.4	2.4	2.5
+Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	0.8	0.8	0.7	0.7	0.7	0.6	0.7	0.8	0.7	0.8	0.7	0.8	0.9	1	1	1.1	1.1
+Psykiske lidelser	Angst-, tvangs- og stresslidelser	1.4	1.3	1.3	1.4	1.4	1.4	1.7	1.8	1.8	2.1	2.4	2.2	2.3	2.5	2.6	2.5	2.6
+Psykiske lidelser	Depresjon/bipolar lidelse	6.9	6.7	6.4	6.2	6.2	6.1	6.6	7.4	7.4	7.7	7.9	7.3	6.8	6.8	6.7	6.1	6.2
+Psykiske lidelser	Hukommelsesforstyrrelse/demens	*	*	*	*	*	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.3	0.3	0.3	0.3
+Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	0.3	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.2	0.2	0.2	0.3	0.3	0.3	0.3	0.3
+Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	7.3	8	8.1	8.3	8.7	8.8	7.9	7.9	8.2	8.6	7.7	9.3	9.8	11.6	13.4	13.3	13.8
+Psykiske lidelser	Psykose/schizofreni	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0.2	*
+Psykiske lidelser	Søvnforstyrrelse	0.6	0.6	0.7	0.7	0.7	0.8	0.9	0.8	0.9	1	0.9	1	0.9	0.9	1.1	1.1	1.2
+Svangerskapssykdommer		5.7	5.3	5.4	5.3	5.1	5.2	5	5.2	5.3	5.3	4.9	5	4.5	4.7	4.8	5.2	5.3
+Sykdommer i fordøyelsesorganene		3.9	4.1	4.2	4.3	4.4	4.4	4.4	4.3	4.3	4.3	3.8	3.7	3.9	4.1	3.9	4	4
+Sykdommer i luftveiene	Andre lidelser i luftveiene	1.8	1.8	1.7	1.8	1.7	1.7	1.6	1.6	1.6	1.7	3.1	1.7	1.6	1.3	1.3	1.3	1.1
+Sykdommer i luftveiene	Luftveisinfeksjoner	3.1	3.1	3.6	3.5	3.2	3.5	3.3	3.4	3.1	3.5	4.5	4.5	8.3	4.1	3.4	3.6	2.8
+Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.7	2.9	2.8	2.8	3	2.9	3	3	3.1	2.9	2.8	2.9	2.7	2.7	2.7	2.7	2.7
+Sykdommer i nervesystemet	Migrene/ hodepine	1.6	1.6	1.7	1.7	1.8	1.8	1.9	1.9	2	2.1	2	2.5	2.2	2.4	2.5	2.6	2.8
+Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.4	0.4	0.5	0.5	0.5	0.5	0.5	0.5	0.7	0.6	0.6	0.6	0.6	0.6	0.7	0.7	0.6
+Ukjent		0.3	0.3	0.3	0.3	0.3	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3	*	*	*
+Kvinner		99.9	100.1	100.2	100	99.9	99.7	100	100.2	100	100.2	100.3	100.1	100.4	100	100.3	99.9	99.8
+Hovedgruppe	Undergruppe																	
+Allment	Annet allment inkl. avklaring/prosedyrer	0.8	0.7	0.7	0.8	0.8	0.8	0.8	0.7	0.6	0.6	1	0.9	0.7	0.7	0.7	0.7	0.6
+Allment	Infeksjonssykdommer	0.3	0.4	0.4	0.4	0.3	0.3	0.4	0.3	0.3	0.3	0.3	0.2	0.4	0.3	0.3	0.3	0.2
+Allment	Skader/forgiftning/komplikasjoner	1	1	1	1.1	1.2	1.2	1.4	1.3	1.3	1.3	1.1	1.3	1.2	1.2	1.2	1.2	1.2
+Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	3.3	3.7	3.9	3.7	3.7	3.9	3.6	3.6	3.4	3.7	3.3	4.4	5.5	6	6.2	5.8	6
+Allment	Symptomer på sykdom inkl.smerte/feber	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.5	0.5	0.5	0.5	0.5	0.6	0.6	0.6	0.6	0.6
+Andre lidelser	Skader/komplikasjoner	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Andre lidelser		6.6	6.5	6.8	6.8	6.6	6.9	7.1	7.1	6.9	6.7	6.2	6.2	5.8	5.8	5.7	5.7	5.8
+Hjerte- og karsykdommer		2.8	2.7	2.7	2.8	2.7	2.4	2.7	2.5	2.3	2.4	2.4	2.2	2	2	1.8	1.9	1.8
+Kreft		2.5	2.6	2.8	2.7	2.9	3.1	3.2	3.2	3.3	3.2	3.4	2.9	3	3	2.9	3.1	3
+Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2.1	2.1	2.1	2.1	2.1	2.1	2.2	2.1	2	2	1.9	1.7	1.5	1.5	1.4	1.5	1.4
+Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+Muskel- og skjelettlidelser	Artrose	2.4	2.4	2.4	2.4	2.5	2.3	2.6	2.7	2.5	2.4	2.3	2.2	1.9	1.9	1.7	1.7	1.8
+Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	3.1	3.1	3	3.1	3	2.9	3	3	3	2.9	3	3	2.3	2.3	2.4	2.3	2.2
+Muskel- og skjelettlidelser	Brudd og skade	4	3.9	3.9	4.4	3.8	3.9	4.1	4.2	4.8	4.1	3.8	3.7	3.7	3.7	3.4	3.2	3.3
+Muskel- og skjelettlidelser	Nakke/ skulderlidelser	9	9	8.5	8.2	8.4	8	7.7	7.6	7.2	6.8	6.8	6.7	5.3	5.5	5.3	5	5
+Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	1	1	1	1	1	1	0.9	0.8	0.9	0.9	0.9	1	1	1.1	1	1.1	1.1
+Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	2.4	2.4	2.6	2.6	2.7	2.7	2.5	2.4	2.4	2.5	2.5	2.8	2.7	2.9	2.9	3.1	3.2
+Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	0.9	0.9	0.9	0.9	0.9	1	1	1	0.9	0.9	0.9	0.7	0.7	0.6	0.6	0.6	0.5
+Muskel- og skjelettlidelser	Rygglidelser	8.7	8.3	8	8	8.1	7.8	7.5	7.4	7.1	7.2	7.2	7.3	6.4	6.5	6.4	6.4	6.3
+Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	3.6	3.5	3.4	3.3	3.3	3.2	3.2	3.2	3.1	3.1	2.9	3.1	2.7	2.6	2.5	2.4	2.4
+Psykiske lidelser	Andre psykiske plager	2.1	2.2	2.1	1.9	1.9	2.2	2.2	2	2	1.9	2	2	2.1	2.5	2.6	2.6	2.7
+Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	0.8	0.8	0.8	0.7	0.7	0.7	0.8	0.8	0.7	0.8	0.8	0.8	1	1	1.1	1.2	1.2
+Psykiske lidelser	Angst-, tvangs- og stresslidelser	1.4	1.3	1.3	1.4	1.5	1.4	1.7	1.9	2	2.3	2.7	2.5	2.6	2.8	3	2.8	3
+Psykiske lidelser	Depresjon/bipolar lidelse	7.1	7	6.6	6.3	6.3	6.3	6.9	7.8	7.8	8.1	8.3	7.6	7	6.9	6.8	6.1	6.2
+Psykiske lidelser	Hukommelsesforstyrrelse/demens	*	*	*	*	*	*	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.3	0.2	0.2
+Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	8.4	9.4	9.6	9.7	10.2	10.2	9.2	9.2	9.6	9.9	9.1	10.8	11.6	13.7	15.5	15.4	15.8
+Psykiske lidelser	Psykose/schizofreni	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+Psykiske lidelser	Søvnforstyrrelse	0.6	0.6	0.7	0.7	0.7	0.8	0.8	0.8	0.9	1	0.9	1	0.9	1	1.1	1.1	1.2
+Svangerskapssykdommer		9.9	9.1	9.1	9	8.6	8.6	8.3	8.6	8.8	8.7	8.4	8.2	7.5	7.7	7.8	8.5	8.6
+Sykdommer i fordøyelsesorganene		3.7	3.8	3.9	4	4.1	4	4	4	4	4	3.7	3.4	3.6	3.8	3.7	3.8	3.7
+Sykdommer i luftveiene	Andre lidelser i luftveiene	1.6	1.6	1.5	1.6	1.5	1.5	1.5	1.4	1.4	1.4	2.9	1.5	1.3	1.1	1.1	1.1	0.9
+Sykdommer i luftveiene	Luftveisinfeksjoner	3.2	3.2	3.6	3.5	3.2	3.4	3.2	3.3	3.1	3.4	4.2	3.8	8.3	3.9	3.3	3.4	2.6
+Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.8	2.9	2.9	2.9	3.1	3	3.1	3	3.2	3	2.8	3	2.7	2.7	2.7	2.7	2.7
+Sykdommer i nervesystemet	Migrene/ hodepine	2	2	2.1	2.1	2.2	2.2	2.3	2.4	2.5	2.7	2.6	3.2	2.9	3.1	3.2	3.4	3.6
+Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.3	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6
+Ukjent		0.4	0.5	0.4	0.4	0.4	0.4	0.4	0.3	0.3	0.3	0.3	0.3	0.3	0.3	*	*	*
+Menn		100	100	100.3	100	99.9	99.8	99.9	100	100	99.7	100.2	99.7	99.9	99.9	100	100.1	100.1
+Hovedgruppe	Undergruppe																	
+Allment	Annet allment inkl. avklaring/prosedyrer	0.7	0.8	0.8	0.8	0.8	0.8	0.8	0.7	0.7	0.7	1.1	1.1	0.7	0.8	0.8	0.9	0.9
+Allment	Infeksjonssykdommer	0.5	0.5	0.5	0.5	0.4	0.5	0.5	0.4	0.4	0.4	0.4	0.3	0.4	0.4	0.4	0.4	0.3
+Allment	Skader/forgiftning/komplikasjoner	1.5	1.5	1.7	1.7	1.7	1.8	2	1.8	1.8	1.7	1.6	1.7	1.7	1.7	1.7	1.7	1.8
+Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	1.8	2	2.1	1.9	2	2	1.8	1.7	1.8	2	1.7	2.3	2.9	3.1	3.2	3	3.1
+Allment	Symptomer på sykdom inkl.smerte/feber	0.9	0.8	0.9	0.9	0.8	0.7	0.7	0.7	0.7	0.7	0.7	0.6	0.7	0.7	0.7	0.7	0.7
+Andre lidelser	Skader/komplikasjoner	0.8	0.8	0.8	0.7	0.8	0.7	0.7	0.7	0.8	0.7	0.6	0.7	0.6	0.6	0.6	0.6	0.6
+Andre lidelser		5.9	6	6.1	6	5.9	6.3	6.5	6.5	6.2	6.2	5.7	5.6	5.4	5.3	5.3	5.3	5.1
+Hjerte- og karsykdommer		7	7	7.2	6.9	6.5	6.2	6.6	6.2	5.8	5.7	5.6	5.2	5	4.8	4.7	4.9	4.6
+Kreft		2.8	2.8	3	3.1	3.2	3.3	3.4	3.5	3.4	3.4	3.5	3.1	3.2	3.2	3	3.1	3.1
+Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2.6	2.6	2.6	2.7	2.7	2.5	2.6	2.7	2.7	2.6	2.5	2.4	2.2	2.2	2.1	2.3	2.3
+Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+Muskel- og skjelettlidelser	Artrose	2.4	2.5	2.4	2.3	2.4	2.5	2.7	2.8	2.7	2.7	2.7	2.5	2.4	2.4	2.2	2.3	2.4
+Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	3.3	3.3	3.2	3.1	3.2	3	3.2	3.2	3.2	3	3	3.2	2.6	2.7	2.8	2.7	2.6
+Muskel- og skjelettlidelser	Brudd og skade	8.2	8.1	8.2	8.7	8.2	8.1	8.5	8.9	9.3	8.4	7.4	7.4	7.5	7.5	7	6.9	6.9
+Muskel- og skjelettlidelser	Nakke/ skulderlidelser	9.6	9.8	9.2	9	9.4	9	9	8.8	8.9	8.5	8.6	8.4	7.6	8	8.1	7.6	7.8
+Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	1.3	1.3	1.5	1.3	1.4	1.3	1.3	1.2	1.3	1.3	1.2	1.5	1.4	1.5	1.7	1.7	1.7
+Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	3.5	3.6	3.8	4	3.9	3.9	3.5	3.2	3.6	3.6	3.5	3.9	4	4.3	4.6	4.7	4.9
+Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	0.9	0.8	0.8	0.7	0.7	0.8	0.8	0.7	0.6	0.7	0.7	0.6	0.6	0.5	0.5	0.4	0.5
+Muskel- og skjelettlidelser	Rygglidelser	13.2	12.7	12.1	12.2	12.2	12.2	11.9	11.8	11.9	11.8	12.4	11.9	10.8	11.5	11.5	11.8	11.2
+Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	1.6	1.6	1.5	1.5	1.5	1.4	1.3	1.3	1.3	1.2	1.2	1.2	1.1	1.1	1.1	1.2	1.1
+Psykiske lidelser	Andre psykiske plager	1.7	1.7	1.6	1.5	1.5	1.8	1.7	1.5	1.5	1.5	1.4	1.5	1.7	2	2.1	2.1	2.3
+Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	0.7	0.7	0.7	0.6	0.7	0.6	0.6	0.7	0.6	0.7	0.6	0.8	0.9	0.9	0.9	1	1
+Psykiske lidelser	Angst-, tvangs- og stresslidelser	1.4	1.3	1.3	1.4	1.4	1.3	1.5	1.6	1.5	1.8	1.9	1.8	1.8	1.9	2	2	2
+Psykiske lidelser	Depresjon/bipolar lidelse	6.7	6.3	6.1	6	5.9	5.7	6	6.7	6.7	7	7.4	6.7	6.5	6.6	6.5	6.1	6.1
+Psykiske lidelser	Hukommelsesforstyrrelse/demens	*	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.2	0.3	0.2	0.3	0.3	0.3	0.3	0.3	0.3
+Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	0.5	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.5	0.4	0.4	0.4	0.5	0.6	0.5	0.5	0.7
+Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	5.9	6.2	6.1	6.4	6.6	6.7	5.9	6	6.1	6.5	5.7	6.9	7.1	8.5	10	9.9	10.8
+Psykiske lidelser	Psykose/schizofreni	0.2	0.2	0.2	*	0.2	*	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Psykiske lidelser	Søvnforstyrrelse	0.6	0.6	0.6	0.7	0.7	0.8	0.9	0.8	0.9	0.9	0.9	0.9	0.9	0.9	1	1.1	1.2
+Svangerskapssykdommer		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+Sykdommer i fordøyelsesorganene		4.2	4.3	4.7	4.7	4.8	4.8	4.8	4.7	4.7	4.8	4.1	4.2	4.2	4.5	4.3	4.4	4.5
+Sykdommer i luftveiene	Andre lidelser i luftveiene	2.1	2	2	2	2	2	1.9	2	1.9	2	3.5	2	1.9	1.7	1.6	1.6	1.5
+Sykdommer i luftveiene	Luftveisinfeksjoner	3.1	3.1	3.5	3.5	3.1	3.6	3.3	3.5	3.3	3.6	5	5.6	8.4	4.4	3.7	3.9	3.2
+Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.6	2.8	2.7	2.7	2.8	2.9	2.9	2.8	2.9	2.8	2.9	2.9	2.8	2.7	2.7	2.7	2.7
+Sykdommer i nervesystemet	Migrene/ hodepine	1.1	1.1	1.1	1.2	1.2	1.2	1.1	1.2	1.1	1.2	1.2	1.3	1.3	1.3	1.4	1.4	1.4
+Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.5	0.5	0.6	0.5	0.6	0.6	0.6	0.6	0.7	0.7	0.6	0.6	0.6	0.7	0.7	0.7	0.6
+Ukjent		*	*	*	*	*	*	*	*	*	*	*	*	*	0.4	*	*	*

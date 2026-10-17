@@ -1,19 +1,22 @@
 # Nav-statistikk i basen
 
-Nav publiserer tall som xlsx-filer på nav.no. Claude når ikke filene herfra, så utvalgte filer er lagt inn som TSV under `data/nav/<tabell>/`. Hver mappe har `om.md` (definisjoner fra Navs ark «Om statistikken») og én TSV per ark. Øverst i hver TSV står kilde, kildeside, oppdateringsdato og neste publisering som `#`-linjer. Tall står som i xlsx-filen. `****` og `*` betyr at tallet ikke er publisert eller er skjult av Nav.
+Nav publiserer tall som xlsx-filer på nav.no. Claude når ikke filene herfra, så filene er lagt inn som TSV under `data/nav/<tabell>/`. Hver mappe har `om.md` (definisjoner fra Navs ark «Om statistikken») og én TSV per ark. Øverst i hver TSV står kilde, kildeside, oppdateringsdato og neste publisering som `#`-linjer. Tall står som i xlsx-filen. `****` og `*` betyr at tallet ikke er publisert eller er skjult av Nav.
 
 Originalfilen ligger i `original/` i hver mappe, og `data/nav/indeks.tsv` lister alle tabellene med kildeside og dato. Filene er en kopi per angitt dato. Sjekk kildesiden hvis det kan ha kommet nyere tall. Nye filer legges i `innboks-data/` (se `innboks-data/README.md`) og konverteres automatisk med `verktoy/nav_xlsx.py`. Kjente tabeller står i `data/nav/kilder.json`.
 
 ## Tabeller i basen
 
-| Mappe | Innhold | Periode | Oppdatert | Kildeside |
-|---|---|---|---|---|
-| `data/nav/sykefravar-tidsserie-kvartal/` | Legemeldt sykefravær per kvartal: sykefraværsprosent, tapte dagsverk, tilfeller, sykmeldte. Alle, kvinner og menn | 1. kv. 2002 – 2. kv. 2026 | 04.09.2026 (neste 26.11.2026) | nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar |
-| `data/nav/sykefravar-naering/` | Sykefraværsprosent og tapte dagsverk etter næring (SN2007, to siffer) | **Bare 2. kvartal** hvert år 2010–2026 | 04.09.2026 | samme |
-| `data/nav/sykefravar-alder/` | Sykefraværsprosent og tapte dagsverk etter alder | **Bare 2. kvartal** hvert år 2010–2026 | 04.09.2026 | samme |
-| `data/nav/sykefravar-diagnose-hovedgrupper/` | Tapte dagsverk, andel, per 10 000, tilfeller og sykmeldte etter diagnosehovedgruppe, alle/kvinner/menn | **Bare 2. kvartal** hvert år 2010–2026 | 04.09.2026 | samme |
-| `data/nav/dagpenger-tiltakspenger-maaned/` | Mottakere av dagpenger og tiltakspenger per måned, også etter arbeidsmarkedsstatus | jan. 2021 – aug. 2026 | 03.09.2026 | nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere |
-| `data/nav/aap-alder-kjonn-kvartal/` | Mottakere av arbeidsavklaringspenger etter alder og kjønn, antall og andel av befolkningen | juni hvert år 2010–2026 | 15.09.2026 (side) | nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger |
+Full liste med mappe, tabell, filer, kildeside og dato står i `data/nav/indeks.tsv`. Mappene er gruppert slik:
+
+| Mappe | Innhold | Periode |
+|---|---|---|
+| `sykefravar-tidsserie-kvartal/` | Legemeldt sykefravær per kvartal: prosent, tapte dagsverk, tilfeller, sykmeldte | 1. kv. 2002 – 2. kv. 2026 |
+| `sykefravar-<tema>/k1/` … `k4/` | Sykefravær etter bosted, næring, sektor, yrke, alder, diagnose (hovedgrupper, undergrupper, enkeltdiagnoser), gradert fravær, varighet (fylke/diagnose og varighetsgrupper), innvandrerstatus og fødeland. **Hvert kvartal er en egen mappe** (`k2` = 2. kvartal). | 2010–2026 for hvert kvartal som er lagt inn |
+| `dagpenger-*-maaned/`, `tilleggsstonader-arbeidssokere-maaned/` | Dagpengemottakere (hovedtall, kjønn/alder, fylke/kommune, yrke, varighet, godkjent utdanning), søknader om dagpenger, tilleggsstønader | Måned, til og med september 2026 |
+| `aap-*-maaned/` | AAP-mottakere etter alder/kjønn, fylke, kommune, diagnose, innvandrerbakgrunn | jan.–aug. 2026 |
+| `aap-*-kvartal/` | AAP-mottakere etter alder/kjønn og diagnose | juni 2010–2026 |
+
+**Kvartal i sykefraværstabellene:** Navs filer har ett kvartal per fil, så sammenligning mellom kvartaler krever at du leser flere mapper. Bare `sykefravar-tidsserie-kvartal` har alle kvartal i én fil. Sjekk i `indeks.tsv` hvilke kvartaler som er lagt inn for tabellen.
 
 ## Slik brukes dem
 
@@ -22,6 +25,6 @@ Originalfilen ligger i `original/` i hver mappe, og `data/nav/indeks.tsv` lister
 - Dagpenger: det er brudd i statistikken over arbeidsledige fra november 2018 (ny registreringsmetode), se `om.md`.
 - Nav gir ikke ut diagnosedata per virksomhet.
 
-## Nav-statistikk som finnes, men ikke er lagt inn
+## Nav-statistikk som ikke er lagt inn
 
-Se `data/nav-oversikt.md` for oversikt over filer og sider. Gjelder bl.a. sykefravær etter bosted, sektor, yrke og enkeltdiagnoser, dagpenger etter alder, fylke, yrke og varighet, AAP etter fylke, kommune og diagnose, uføretrygd, familieytelser, pensjon, sosialhjelp, grunnstønad og hjelpestønad. For slike spørsmål: vis til Navs statistikkside, og ikke svar fra hukommelsen.
+Se `data/nav-oversikt.md` for oversikt over filer og sider. Gjelder bl.a. uføretrygd, familieytelser, pensjon, sosialhjelp, grunnstønad og hjelpestønad, og dagpenger etter alder/fylke for tidligere måneder. For slike spørsmål: vis til Navs statistikkside, og ikke svar fra hukommelsen.

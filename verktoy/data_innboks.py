@@ -11,6 +11,9 @@ For hver .xlsx-fil i innboks-data/:
   2. Hvert ark konverteres med verktoy/nav_xlsx.py. Er et tall i xlsx-filen borte i TSV-en
      (eller omvendt), legges ingenting inn.
   3. Originalen flyttes til data/nav/<mappe>/original/, og data/nav/indeks.tsv bygges på nytt.
+Tabeller med "kvartalsfiler": true i kilder.json (Navs sykefraværstabeller) leveres som egne filer
+per kvartal. Kvartalet leses fra overskriftsraden i filen («2. kvartal»), og tabellen legges i
+data/nav/<mappe>/k<kvartal>/. En ny fil for samme tabell og kvartal erstatter den gamle.
 En ny fil med samme tabell erstatter den gamle. Feiler en fil, blir den liggende, og
 <filnavn>.FEIL.txt forklarer hvorfor.
 
@@ -43,12 +46,33 @@ def finn_tabell(fil, tabeller):
     return {"mappe": mappe, "tittel": fil.stem.replace("_", " "), "kildeside": "ukjent (ny tabell, legg den til i data/nav/kilder.json)"}
 
 
+def finn_kvartal(fil):
+    """Kvartalet (1-4) fra første celle som ser ut som «2. kvartal» i et ark som har tall."""
+    import openpyxl
+    wb = openpyxl.load_workbook(fil, read_only=True, data_only=True)
+    funnet = set()
+    for ws in wb.worksheets:
+        for i, rad in enumerate(ws.iter_rows(values_only=True)):
+            if i > 12:
+                break
+            for c in rad:
+                m = re.match(r"^\s*([1-4])\.\s*kvartal\s*$", str(c), re.I) if c is not None else None
+                if m:
+                    funnet.add(m.group(1))
+    wb.close()
+    if len(funnet) != 1:
+        raise ValueError(
+            "Fant ikke ett entydig kvartal i overskriftsradene (fant: "
+            + (", ".join(sorted(funnet)) or "ingen") + ")."
+        )
+    return funnet.pop()
+
+
 def bygg_indeks():
     rader = ["mappe\ttabell\tfiler\tkildeside\tlagt_inn_eller_oppdatert"]
-    for mappe in sorted(p for p in NAV.iterdir() if p.is_dir()):
+    tsvmapper = sorted({p.parent for p in NAV.rglob("*.tsv") if p.name != "indeks.tsv"})
+    for mappe in tsvmapper:
         tsv = sorted(mappe.glob("*.tsv"))
-        if not tsv:
-            continue
         meta = {}
         for linje in tsv[0].read_text(encoding="utf-8").splitlines():
             if not linje.startswith("# "):
@@ -57,7 +81,7 @@ def bygg_indeks():
                 k, v = linje[2:].split(": ", 1)
                 meta.setdefault(k, v)
         rader.append("\t".join([
-            f"data/nav/{mappe.name}", meta.get("Tabell", ""), " ".join(f.name for f in tsv),
+            f"data/nav/{mappe.relative_to(NAV).as_posix()}", meta.get("Tabell", ""), " ".join(f.name for f in tsv),
             meta.get("Kildeside", ""), meta.get("Oppdatert") or meta.get("Lagt inn", ""),
         ]))
     (NAV / "indeks.tsv").write_text("\n".join(rader) + "\n", encoding="utf-8")
@@ -70,18 +94,28 @@ def main():
     for fil in filer:
         feilfil = fil.with_name(fil.name + ".FEIL.txt")
         t = finn_tabell(fil, tabeller)
+        ny = None
         mappe = NAV / t["mappe"]
-        ny = Path(str(mappe) + ".ny")
+        tittel = t["tittel"]
+        sti = t["mappe"]
         try:
+            if t.get("kvartalsfiler"):
+                k = finn_kvartal(fil)
+                mappe = mappe / f"k{k}"
+                sti = f"{t['mappe']}/k{k}"
+                tittel = f"{tittel}, {k}. kvartal"
+            ny = Path(str(mappe) + ".ny")
+            ny.parent.mkdir(parents=True, exist_ok=True)
             if ny.exists():
                 shutil.rmtree(ny)
-            antall, avvik = nav_xlsx.main(fil, ny, t["tittel"], t["kildeside"])
+            antall, avvik = nav_xlsx.main(fil, ny, tittel, t["kildeside"])
             if antall == 0:
                 raise ValueError("Fant ingen ark med tabeller (overskriftsrad med årstall, måneder eller kvartaler).")
             if avvik:
                 raise ValueError(f"{avvik} tall i xlsx-filen ble ikke likt i TSV-en etter konvertering.")
         except Exception as e:  # noqa: BLE001
-            shutil.rmtree(ny, ignore_errors=True)
+            if ny is not None:
+                shutil.rmtree(ny, ignore_errors=True)
             feilfil.write_text(f"{fil.name} ble ikke lagt inn.\n{e}\n", encoding="utf-8")
             feil.append(f"{fil.name}: {e}")
             continue
@@ -91,7 +125,7 @@ def main():
         (mappe / "original").mkdir()
         shutil.move(str(fil), mappe / "original" / fil.name)
         feilfil.unlink(missing_ok=True)
-        lagt.append(f"{fil.name} -> data/nav/{t['mappe']}")
+        lagt.append(f"{fil.name} -> data/nav/{sti}")
     if lagt or feil:
         bygg_indeks()
         tekst = ["Data: legg inn " + str(len(lagt)) + " fil(er) fra innboks-data", ""] + lagt

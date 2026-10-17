@@ -1,0 +1,27 @@
+# Kilde: Nav
+# Tabell: Dagpengemottakere med godkjent utdanning, måned (A365)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Ark: Tidsserie år
+# Dagpengemottakere med godkjent utdanning. Måned
+# Tidsserie år
+# Antall innom ordningen i løpet av året
+# Ny ordning ble innført oktober 2021.
+# Merknad: Dette omfatter de som avslutter ordningen mens de er i Nav. Personer som avsluttet dagpengeperiode (f.eks pga arbeid) før planlagt slutt på utdanning er ikke med. Statistkk for avgang kun for ny ordning fra oktober 2021.
+# Merknad: Utdanningskategori og avslutningsårsak registreres kun for ny ordning fra oktober 2021.
+gruppe	år	Antall innom utdanning	Introduksjons-programmet	Norsk og samfunns-kunnskap for innvandrere	Grunnskole og videregående skole	Fagskole-utdanning	Høyere utdanning	Kurs og annen opplæring	Antall godkjent utdanning gml ordning
+År	2026	1874	15	138	605	484	526	113	*
+År	2025	2252	15	169	782	563	613	139	*
+År	2024	1922	13	173	720	439	434	118	25
+År	2023	1777	9	172	718	374	368	105	31
+År	2022	3042	14	172	1098	434	447	236	641
+År	2021	4089	4	22	217	104	70	34	3638
+År	2020	8025	*	*	*	*	*	*	8025
+År	2019	1690	*	*	*	*	*	*	1690
+gruppe	år	Antall avsluttet utdanning	Andre årsaker	Avbrutt utdanning	Fullført utdanning	Vesentlig avvik fra opplærings
+Antall som avsluttet utdanning med dagpenger i året	2026	1014	8	52	953	*
+Antall som avsluttet utdanning med dagpenger i året	2025	1061	9	77	978	*
+Antall som avsluttet utdanning med dagpenger i året	2024	916	17	62	842	*
+Antall som avsluttet utdanning med dagpenger i året	2023	861	15	48	797	*
+Antall som avsluttet utdanning med dagpenger i året	2022	637	7	29	604	*
+Antall som avsluttet utdanning med dagpenger i året	2021	22	*	5	17	*

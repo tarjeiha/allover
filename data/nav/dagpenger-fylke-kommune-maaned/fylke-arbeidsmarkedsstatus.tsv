@@ -1,0 +1,77 @@
+# Kilde: Nav
+# Tabell: Mottakere av dagpenger etter fylke og kommune, tidsserie måned (ARBS052)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-10-17
+# Ark: Fylke arbeidsmarkedsstatus
+# Mottakere av dagpenger. Fylke og kommune. Tidsserie, måned
+# Fylke arbeidsmarkedsstatus
+# Januar - september 2026
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Helt ledige	I alt	31468	31859	31043	29829	28517	28134	31675	29180	27272
+Helt ledige	03 Oslo - Oslove	5909	5997	5678	5476	5377	5428	6243	5726	5282
+Helt ledige	11 Rogaland	2390	2388	2363	2336	2252	2232	2496	2306	2144
+Helt ledige	15 Møre og Romsdal	1170	1188	1198	1140	1095	1076	1251	1107	979
+Helt ledige	18 Nordland - Nordlánnda	807	784	804	787	731	700	761	723	666
+Helt ledige	31 Østfold	2199	2152	2121	2031	1933	1906	2119	1965	1878
+Helt ledige	32 Akershus	5070	5112	4935	4819	4670	4668	5261	4846	4652
+Helt ledige	33 Buskerud	1675	1677	1722	1554	1432	1418	1595	1474	1422
+Helt ledige	34 Innlandet	1644	1654	1566	1531	1413	1369	1549	1415	1296
+Helt ledige	39 Vestfold	1492	1547	1512	1379	1323	1338	1438	1314	1262
+Helt ledige	40 Telemark	898	938	879	878	813	771	877	809	766
+Helt ledige	42 Agder	1485	1535	1493	1405	1281	1257	1433	1310	1244
+Helt ledige	46 Vestland	2872	2888	2810	2723	2559	2486	2811	2549	2311
+Helt ledige	50 Trøndelag - Trööndelage	2273	2352	2330	2191	2096	2006	2304	2163	2066
+Helt ledige	55 Troms - Romsa - Tromssa	446	468	445	461	496	475	537	495	416
+Helt ledige	56 Finnmark - Finnmárku - Finmarkku	335	323	358	372	347	358	382	365	321
+Helt ledige	Ukjent	803	856	829	746	699	646	618	613	567
+Delvis ledige	I alt	9930	11254	11409	11392	11505	11065	7663	8466	9655
+Delvis ledige	03 Oslo - Oslove	1577	1704	1796	1831	1894	1844	1187	1450	1688
+Delvis ledige	11 Rogaland	683	789	776	748	807	790	590	658	760
+Delvis ledige	15 Møre og Romsdal	401	488	467	437	471	469	296	360	454
+Delvis ledige	18 Nordland - Nordlánnda	289	377	397	374	414	378	254	252	247
+Delvis ledige	31 Østfold	672	751	736	730	738	719	534	587	639
+Delvis ledige	32 Akershus	1391	1534	1605	1560	1558	1475	1055	1192	1318
+Delvis ledige	33 Buskerud	535	600	610	624	621	546	365	402	444
+Delvis ledige	34 Innlandet	618	695	718	696	715	698	485	492	544
+Delvis ledige	39 Vestfold	511	588	584	586	602	563	397	448	513
+Delvis ledige	40 Telemark	348	393	394	386	405	384	280	304	352
+Delvis ledige	42 Agder	519	639	628	651	629	616	471	456	528
+Delvis ledige	46 Vestland	999	1074	1100	1119	1071	1012	684	748	886
+Delvis ledige	50 Trøndelag - Trööndelage	883	1067	1040	1074	1012	939	671	708	829
+Delvis ledige	55 Troms - Romsa - Tromssa	179	185	209	199	210	259	148	163	192
+Delvis ledige	56 Finnmark - Finnmárku - Finmarkku	146	167	157	157	158	170	124	108	115
+Delvis ledige	Ukjent	179	203	192	220	200	203	122	138	146
+Arbeidssøkere på tiltak	I alt	3948	4293	4351	4520	4374	3971	3476	4096	4467
+Arbeidssøkere på tiltak	03 Oslo - Oslove	723	714	752	780	688	709	587	684	794
+Arbeidssøkere på tiltak	11 Rogaland	265	270	308	310	294	277	261	281	316
+Arbeidssøkere på tiltak	15 Møre og Romsdal	127	131	131	137	138	146	129	166	184
+Arbeidssøkere på tiltak	18 Nordland - Nordlánnda	122	146	131	144	126	100	88	85	101
+Arbeidssøkere på tiltak	31 Østfold	233	298	280	319	302	268	235	304	291
+Arbeidssøkere på tiltak	32 Akershus	529	609	590	653	657	610	531	693	714
+Arbeidssøkere på tiltak	33 Buskerud	261	283	266	263	291	267	246	286	287
+Arbeidssøkere på tiltak	34 Innlandet	224	237	245	234	261	223	177	205	242
+Arbeidssøkere på tiltak	39 Vestfold	268	305	306	305	294	248	237	266	285
+Arbeidssøkere på tiltak	40 Telemark	166	175	189	174	163	145	121	123	132
+Arbeidssøkere på tiltak	42 Agder	330	338	324	330	311	284	271	276	281
+Arbeidssøkere på tiltak	46 Vestland	261	329	352	369	370	292	244	353	417
+Arbeidssøkere på tiltak	50 Trøndelag - Trööndelage	277	289	301	317	291	252	218	234	267
+Arbeidssøkere på tiltak	55 Troms - Romsa - Tromssa	110	112	119	125	136	103	86	85	98
+Arbeidssøkere på tiltak	56 Finnmark - Finnmárku - Finmarkku	32	34	25	28	27	22	19	21	28
+Arbeidssøkere på tiltak	Ukjent	20	23	32	32	25	25	26	34	30
+Andre	I alt	4369	4565	4607	4695	4588	4594	4446	4357	4449
+Andre	03 Oslo - Oslove	600	597	587	609	613	610	581	580	588
+Andre	11 Rogaland	202	215	215	239	230	227	218	220	215
+Andre	15 Møre og Romsdal	164	177	176	167	164	165	163	163	173
+Andre	18 Nordland - Nordlánnda	81	88	93	98	101	100	106	104	106
+Andre	31 Østfold	305	313	305	309	318	302	300	295	322
+Andre	32 Akershus	686	735	739	746	744	734	742	743	770
+Andre	33 Buskerud	262	274	267	282	273	278	267	253	256
+Andre	34 Innlandet	215	216	211	224	218	226	218	194	211
+Andre	39 Vestfold	241	246	257	253	236	240	233	223	227
+Andre	40 Telemark	101	103	108	97	94	90	82	91	84
+Andre	42 Agder	172	171	175	190	198	204	182	189	205
+Andre	46 Vestland	269	295	288	289	279	280	273	270	274
+Andre	50 Trøndelag - Trööndelage	376	405	427	437	432	439	421	403	415
+Andre	55 Troms - Romsa - Tromssa	64	69	71	63	66	73	68	66	69
+Andre	56 Finnmark - Finnmárku - Finmarkku	24	29	32	33	36	28	27	30	32
+Andre	Ukjent	607	632	656	659	586	598	565	533	502
