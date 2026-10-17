@@ -40,6 +40,7 @@ NETTLESER = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/130.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en;q=0.9,nb;q=0.8",
 }
 MIN_DEKNING = 0.98
 ORD = re.compile(r"\w+", re.UNICODE)
@@ -357,15 +358,22 @@ def bygg_rettsakt(rot: Path, akt: dict, feil: list, merknader: list) -> dict | N
     mappe = rot / akt["mappe"]
     sprak = akt.get("sprak", "EN")
     url = EURLEX.format(sprak=sprak, celex=akt["versjon"])
-    try:
-        html = hent(url).decode("utf-8", errors="replace")
-    except Exception as e:  # noqa: BLE001
-        feil.append(f"{akt['navn']}: kunne ikke hente {url}: {e}")
-        return None
-    data = les_rettsakt(html)
+    data, html = {"artikler": []}, ""
+    for forsok in range(3):
+        try:
+            html = hent(url).decode("utf-8", errors="replace")
+        except Exception as e:  # noqa: BLE001
+            feil.append(f"{akt['navn']}: kunne ikke hente {url}: {e}")
+            return None
+        data = les_rettsakt(html)
+        if data["artikler"]:
+            break
+        time.sleep(10 * (forsok + 1))  # EUR-Lex svarer av og til med en ventside
     if not data["artikler"]:
-        feil.append(f"{akt['navn']}: fant ingen artikler i {url}")
+        utdrag = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))[:300]
+        feil.append(f"{akt['navn']}: fant ingen artikler i {url} ({len(html)} tegn: {utdrag})")
         return None
+    time.sleep(2)
 
     for gammel in list(mappe.glob("art-*.md")) + list(mappe.glob("vedlegg-*.md")):
         gammel.unlink()
