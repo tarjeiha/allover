@@ -73,6 +73,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 
 | Rettsakt | Nummer | Veiviser | EØS-versjon |
 |---|---|---|---|
+| Trygdeforordningen | (EF) nr. 883/2004 | `eu/forordning-883-2004/VEIVISER.md` | kontrollert |
 | Gjennomføringsforordningen til trygdeforordningen | (EF) nr. 987/2009 | `eu/forordning-987-2009/VEIVISER.md` | kontrollert |
 | Forordningen om fri bevegelighet for arbeidstakere | (EU) nr. 492/2011 | `eu/forordning-492-2011/VEIVISER.md` | ikke kontrollert |
 | Personvernforordningen (GDPR) | (EU) 2016/679 | `eu/forordning-2016-679/VEIVISER.md` | ikke kontrollert |
@@ -90,6 +91,9 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Likebehandlingsdirektivet (kjønn i arbeidslivet) | 2006/54/EF | `eu/direktiv-2006-54/VEIVISER.md` | ikke kontrollert |
 | Insolvensdirektivet (lønnsgaranti) | 2008/94/EF | `eu/direktiv-2008-94/VEIVISER.md` | ikke kontrollert |
 | Vikarbyrådirektivet | 2008/104/EF | `eu/direktiv-2008-104/VEIVISER.md` | ikke kontrollert |
+| Håndhevingsdirektivet til utsendingsdirektivet | 2014/67/EU | `eu/direktiv-2014-67/VEIVISER.md` | ikke kontrollert |
+| Direktivet om tydelige og forutsigbare arbeidsvilkår | (EU) 2019/1152 | `eu/direktiv-2019-1152/VEIVISER.md` | ikke kontrollert |
+| Direktivet om balanse mellom arbeid og privatliv | (EU) 2019/1158 | `eu/direktiv-2019-1158/VEIVISER.md` | ikke kontrollert |
 <!-- AUTO-SLUTT andre kilder -->
 
 ## Temaer i hverdagsspråk
