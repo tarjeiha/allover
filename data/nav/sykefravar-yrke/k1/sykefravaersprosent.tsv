@@ -1,0 +1,130 @@
+# Kilde: Nav
+# Tabell: Legemeldt sykefravær etter yrke (SYFRA540), 1. kvartal
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar
+# Lagt inn: 2026-10-17
+# Ark: Sykefraværsprosent
+kategori	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026	Endringsprosent
+I alt	5.4	5.3	5.1	5.4	5.4	5.3	6	5.5	6.2	6.1	6.2	6.1	6.1	0.9
+Administrasjonsrådgivere	4.4	4.5	4.5	4.8	4.9	4.8	5	4.3	5.1	5.3	5.4	5.3	5.4	2.5
+Administrerende direktører	3.6	3.3	3.4	3.4	3.5	3.5	4	3.4	3.5	4	4.3	4.1	4.1	-2.2
+Agenter og meglere	4.4	4	4	4.1	4.1	4.1	4.5	3.6	4.1	4.2	4.5	4.3	4.4	2.3
+Andre helseyrker	6.7	6.7	6.6	7.1	6.8	6.8	7.8	7.2	8.2	8.1	7.8	7.7	7.9	3.5
+Andre hjelpearbeidere	5.6	6.3	5.9	5.8	5.8	5.2	5.9	6.1	7.3	6.9	7	6.7	6.6	-2.1
+Andre lærere	5.5	5.6	5.2	5.6	5.8	5.8	5.9	5.9	7.3	6.8	6.6	6.6	6.9	5.8
+Andre medisinske yrker	5.1	4.7	4.8	4.9	5	5	6.3	5.5	6.3	5.9	6.2	6.3	6.2	-0.9
+Andre salgsyrker	6.2	5.7	5	5.2	5.5	5.4	6.1	5.5	6.3	6	6.2	5.7	6	5.8
+Andre yrker innen personlig tjenesteyting	5.6	5.2	5.2	5.9	5.6	5.9	6.3	5.3	6.3	6.7	6.6	6.1	6.1	1.3
+Arbeidsledere innen bergfag, industri, bygg og anlegg	4	4.2	4.3	4.3	4.6	3.9	4.6	4.5	4.8	4.6	5.2	4.7	4.7	-1.3
+Arkitekter, designere mv.	3.4	3.1	3.2	3.1	3.6	3.5	4.1	3.4	4.3	4.4	4.8	4.5	4.7	5.7
+Barnehage- og skoleassistenter mv.	9	9	8.4	8.8	8.9	8.8	9.7	9.7	11.1	10.2	10.1	10.1	10.1	0.1
+Befal med sersjant grad	0.6	1	0.7	1.1	1.5	1.3	1.9	1.5	2.6	2.5	2.5	2.2	2.4	9.4
+Bibliotekarer, arkivarer mv.	3.9	4.6	4	4.9	5	4.4	4.8	4.9	5.5	5.3	5.4	5.3	5.3	0.4
+Bil-, drosje- og varebilførere	7.9	7.2	6.8	7	6.6	6.5	8.2	7.4	7.1	7.8	7.8	7.8	8.3	6.6
+Billettselgere	6.6	6.9	3.9	5.9	5.4	5.1	5.2	5.2	4.6	5.3	6	6.4	7.6	18.5
+Bilvaskere, vinduspussere mv.	5.7	6.1	5.4	5.4	5.8	5.1	6.5	5.6	7.7	7.9	8.1	6.9	7.2	4
+Biologiske yrker mv.	2.5	2.3	2.2	2.5	2.5	2.8	2.8	2.8	3.3	3.6	3.7	4	4.2	3.2
+Bioteknikere mv.	4.1	4.4	3.8	4.3	4.7	4.9	5.1	4.3	4.7	4.7	4.6	5	5.3	4.9
+Butikkselgere	5.7	5.2	4.8	5.3	5.3	5.3	6.5	5.8	6.8	6.3	6.4	6.2	6.1	-2.7
+Bygningsarbeidere	5.8	5.4	5.2	5.7	5.7	5.6	6.7	6.2	7	7.2	7.6	7.2	7.1	-0.7
+Bygningstekniske arbeidere	5.9	5.5	5.8	5.7	5.9	5.5	6.9	6.3	7.3	6.9	7.4	7.3	7	-4.5
+Daglige ledere, andre tjenesteytende virksomheter	5.4	3.8	4.4	4.1	4.5	4.2	4.6	4.3	4.8	5.4	5	5.2	5.2	1.1
+Databasedesignere, systemadministratorer mv.	2.7	2.6	2.7	2.7	2.8	2.8	3.6	2.6	3.2	3	3.3	3.5	3.6	3.7
+Dataregistrere og stenografer	3.7	5	3.5	5.3	4.6	5.4	4.8	3.2	4.8	3.3	4.9	3.5	3.9	14.1
+Dekks- og maskinmannskap (skip)	5.2	6.1	7.1	7.1	6.9	6.6	7.6	7.6	7.9	7.2	8.1	7.5	7.5	0
+Dyrepleiere	6.6	7	6.2	5.1	5.4	5.7	7.2	6.5	8.3	6.8	7	7.7	7.6	-1
+Elektrikere mv.	4	4.2	4.2	4.4	4.5	4.1	5.4	4.6	5.8	5	5.1	4.7	4.8	2.3
+Finansrådgivere	3	3.2	3.1	3.3	3.3	3.3	3.4	2.9	3.2	3.5	3.7	3.6	3.8	5.6
+Forfattere, journalister mv.	4.2	4	3.9	4.2	4.2	4.1	4.7	3.9	4.3	4.8	4.9	4.7	4.5	-4
+Forretningstjenesteyrker	3.6	3.7	3.7	3.7	3.8	3.6	4	3.5	4.1	4.4	4.7	4.5	4.6	3.7
+Frisører, kosmetologer mv.	7.5	7.4	7.1	7.5	7.4	7.4	7.8	9	8.9	8.6	8.6	8.4	7.8	-7.8
+Fysikere, kjemikere mv.	1.4	1.7	1.9	2.1	2.3	2.1	2.1	2.2	2.5	2.6	2.7	2.9	3.1	7.6
+Grafiske arbeidere	5.2	5	4.6	5.4	4.8	4.5	4.8	4	4.7	5.3	5.3	5.9	4.5	-24.5
+Grunnskole- og førskole-/barnehagelærere	6.7	6.7	6.5	6.8	7.1	7.1	7.6	8.1	9	8.4	8.5	8	8.3	3.2
+Havbruksarbeidere og fiskere	4.7	4.9	4.5	4.4	4.5	4.1	5.1	4.7	5.4	5.2	5.2	5.5	5.1	-8
+Hjelpearbeidere i bergverk, bygg og anlegg	5.8	5.8	5.3	5.9	5.5	5.4	6.5	6.2	7	6.9	7.5	7.4	7.1	-3.5
+Hjelpearbeidere i industri	5.9	5.2	5.8	5.8	5.5	5.2	5.9	5.2	6.2	5.8	6.1	5.1	5.2	2.5
+Hjelpearbeidere i jordbruk, skogbruk og fiske	4.9	5.6	4.4	5.4	5.2	5.6	5.8	6	5.8	7	7.2	6.5	6.6	0.8
+Hjelpearbeidere innen transport og lager	5.8	5.8	5.7	4.8	5.1	4.7	6.3	5.3	7	6.1	6.9	6.3	6.6	3.6
+Husdyr-, egg- og melkeprodusenter	4.1	3.4	3.7	4.2	4.1	4.5	4.4	4.6	4.8	5	4.5	5.1	4.4	-13.7
+Ingeniører	2.9	3	2.9	3.3	3.2	3.1	3.5	3.1	3.7	3.5	3.6	3.6	3.6	0.2
+Juridiske yrker	2.3	2.5	2.7	2.6	3.1	2.8	3.1	2.9	3.2	3.5	3.9	3.6	3.6	-0.4
+Kjøkkenassistenter	5.9	6.3	5.6	5.9	5.5	5.6	6.1	6.3	6.4	6.5	7.1	6.8	6.4	-6.6
+Kokker	6.3	6.2	5.8	6.3	6	6	7	6.5	6.7	6.4	6.8	6.7	6.7	-0.5
+Kontormedarbeidere	5.8	5.7	5.5	5.8	6	5.7	6.4	5.5	6.1	6.4	6.6	6.3	6.4	1.3
+Korn-, grønnsaks-, frukt- og bærprodusenter, gartnere	6.1	5.6	5.4	5.5	6.5	6	7.4	5.6	7.1	6.4	6.8	7.1	6.8	-4
+Kundebehandlere, penger og pengespill	6.3	6	5.7	6.1	5.3	6	6.3	6.1	7.5	7.4	6.2	7.2	7.3	1.6
+Lager- og transportmedarbeidere	5.7	5.4	5.3	5.4	5.6	5.5	6.3	5.7	7	6.5	6.5	6.4	6.5	0.9
+Lastebil-, buss- og trikkeførere	7.7	7.4	7.2	7.1	7.1	6.9	7.8	7.6	8.1	8.6	8.9	8.6	8.6	0.2
+Ledere av administrative enheter	2.9	3.1	2.9	3	3.3	3	3.3	2.8	3.3	3.4	3.5	3.4	3.5	2.2
+Ledere av IKT-enheter	2.6	2.3	2.3	2.2	2.1	2.2	2.6	2	2.2	2.5	2.5	2.5	2.5	0.3
+Ledere av produksjon, utvinning, bygg og anlegg, transport	3.1	3.1	3	3.2	3.2	3.2	3.6	3.2	3.5	3.7	4	3.7	3.8	0.8
+Ledere av salgs-, PR- og forskningsenheter	2.7	2.5	2.4	2.7	2.7	2.7	2.9	2.3	2.7	3.1	3.2	3.2	3	-4.2
+Ledere av utdanning, helse- og sosialtjenester	4	3.9	3.8	4.1	4.2	4.2	4.4	4	4.6	4.7	4.7	4.4	4.4	1.6
+Ledere i gartnerier, akvakultur mv.	4.8	3.8	3.1	3.5	3.2	4	3.7	3	3.1	3.5	4.7	3.6	3.6	-1.4
+Ledere i hotell og restaurant	5.5	4.9	3.8	4.7	5	4.8	5.8	5.9	6	5.9	6.3	6.1	5.8	-6.2
+Leger	3	2.8	2.7	3.1	3.3	3.1	3.9	3.4	4.3	4.1	4.3	4	4.2	5.5
+Lektorer mv (videregående skole)	4.8	5	4.6	4.9	5	5	4.9	5.4	5.6	5.6	5.4	5.4	5.4	-1.1
+Lokomotiv og T-baneførere mv.	5.1	5.3	5.4	4.5	6.1	5	7.2	6.1	6.8	5.2	6.2	5.7	5.6	-1.7
+Malere, overflatebehandlere, feiere mv.	6.6	6	6.4	6.2	6.2	6	7.1	7	7.5	7.7	8	8.1	8.3	1.8
+Matematikere, statistikere mv.	3	3.3	3.5	3	4.1	4.4	3.3	2.1	3.8	3	3.7	2.9	3.2	11.2
+Mekanikere og reparatører	4.8	4.7	4.6	4.9	4.8	4.6	5.5	4.9	5.9	5.4	5.4	5.4	5.6	2
+Menige	2.1	2.1	1.7	2.3	2.1	2.2	2.1	1.6	2.3	2	1.6	2	1.8	-12.4
+Montører	5.9	5.4	5.7	5.8	5.3	5.7	6.2	5.8	6.9	5.9	6.3	5.9	6.2	4.3
+Møbelsnekkere	5.2	6.1	4.8	5.2	5.2	5.1	6.4	5.5	7	6.2	6.6	6.6	5.9	-11.9
+Offiserer fra fenrik og høyere grad	1.7	1.9	1.8	2	2.1	1.9	2.3	2.1	2.4	2.4	2.1	2.1	2.1	2.1
+Operatører av andre stasjonære maskiner	6.7	6.2	5.1	5.5	5.4	5.4	6.5	5.5	6.4	5.6	6.1	6	6.6	10
+Operatører av mobile maskiner mv.	5.5	5.4	5.3	5.2	5.2	5.1	5.9	5.4	5.7	6	6	5.6	5.8	2.9
+Operatører innen bearbeiding og produksjon av tekstiler, pels, skinn og lær	7.6	7.1	6.8	7	7.2	6.8	8.2	6.9	8.5	8	8	7.5	7.1	-4.4
+Operatører innen borefag mv.	4.1	4.5	4.7	5.4	4.9	4.6	5	4.9	5.8	5.4	5.5	5.5	5.4	-1.3
+Operatører innen gummi, plast og papirproduksjon	6.6	6.3	6.5	6.3	6.7	5.9	6.9	6.3	7.2	7.3	7	7.5	6.7	-10.9
+Operatører innen næringsmiddelproduksjon	6.6	6.4	5.7	6.1	6.1	6.1	6.5	6.6	7.9	7.2	7.2	6.8	6.9	0.6
+Operatører innen produksjon av kjemiske produkter	5.2	4.9	4.8	4.8	4.8	5	5.5	4.7	5.6	5.6	5.5	5.4	5.5	1.2
+Operatører innen treforedling og trelast	6.3	5.3	5.3	5.5	5.8	6.1	6.6	5.9	7	7.4	7.3	6.6	6.6	0.6
+Operatører metallproduksjon	5.9	6	5.5	6.3	5.7	5.7	6.5	5.6	6.7	6.3	6.3	5.8	6.3	9
+Operatører og brukerstøtte, IKT	3	3.2	3.1	3.4	3.4	3.1	3.2	2.6	3.3	3.4	3.6	3.6	3.6	-0.9
+Persontransportpersonell	7.9	8.5	8	7.9	7.8	8.6	8.8	8.2	9.3	8.3	8.1	8.5	8.6	0.8
+Plante- og husdyrprodusenter (kombinasjonsbruk)	4.2	4.8	4.2	4.8	4.3	4.5	4.8	4.3	4.8	3.9	4.7	4.4	4.5	4.2
+Pleiemedarbeidere	8.5	9.2	8.6	8.8	8.8	8.7	9.7	9.4	9.8	9.6	9.8	9.6	9.8	2.1
+Politikere og toppledere i offentlig administrasjon	2.4	3	2.3	2.7	2.7	2.9	2.7	2.8	3	3.7	3.2	3.2	3.3	3.6
+Postbud, arkiv- og personalkontor-medarbeidere	7.3	7.1	6.3	6.7	6.4	6.3	6.2	5.8	7.1	6.3	7.3	7	6.5	-6.1
+Presisjonsarbeidere og kunsthåndverkere	4.8	5.3	4.5	5.2	4.1	4.3	5.3	5.7	5.8	5.4	6.4	5.6	5.4	-4
+Profesjonelle kunstnere	4.1	3.8	4.1	4	4.1	4.3	3.8	3.1	4.3	4.1	4.1	4.2	4.3	2.4
+Programvare- og applikasjonsutviklere/analytikere	2.5	2.5	2.5	2.6	2.6	2.6	2.6	2.2	2.8	2.8	3	3	3	2
+Prosesskontrollører	4.1	4	3.7	3.7	4	3.4	4	3.8	4.1	3.8	3.7	3.9	3.7	-4.9
+Radiografer, proteseteknikere, reseptarer mv.	6.4	5.1	5.2	5.8	5.5	5.5	6.6	6.1	6.6	6.4	6.5	6.5	7	6.3
+Regnskaps- og lønnsmedarbeidere mv.	4.3	4.3	4.2	4.4	4.5	4.5	4.6	4.1	4.7	4.5	4.5	4.9	4.9	1.7
+Reisebyrå-, resepsjons- og andre opplysningsmedarbeidere	5.7	5.3	5	5.1	5.3	5	6	5.2	6.2	6.3	6.8	6.7	6.5	-2.7
+Reklamedistributører mv.	4.7	6	2.9	4.4	5.5	5.9	7.6	4	5.7	5.6	7.3	6.4	7.4	15.8
+Renholdere	8.5	8.8	8	8.2	8	7.8	8.7	8.2	9.3	9.1	9.1	9.1	9	-0.7
+Renholdsledere og vaktmestre	5.7	5.9	5.4	6	6	5.5	6.2	5.9	6.4	6.2	6.5	6.2	6.2	-0.4
+Renovasjons- og gjenvinningsarbeidere	7.3	7.2	6.7	7.6	7.3	7.7	7.6	7.8	8.4	8.4	8.4	8.3	8.6	4.7
+Rådgivere innen salg, markedsføring mv.	3.6	3.2	3.5	3.8	3.7	3.8	3.7	3.1	3.9	4.1	4.6	4.4	4.2	-4.5
+Samfunnsvitenskapelige, humanistiske og religiøse yrker	5.8	6.2	6.1	6.4	6.9	7	7.5	6.7	7.9	7.9	8	8.1	7.9	-2.3
+Sekretærer og arbeidsledere for kontorpersonell	5.1	4.6	4.4	4.9	4.8	4.7	5	4.4	4.9	5	5.3	5	5.4	8.1
+Serviceelektronikere og tele- og IKT-installatører mv.	4.6	4.8	4.4	4.8	4.9	4.6	5.8	4.8	5.9	5.4	5.7	5.2	5.1	-0.9
+Servitører og bartendere	4.8	4.4	4	4.2	4.1	4.3	5	5.1	5.2	5	5.4	5.2	5.1	-1.1
+Sikkerhetsarbeidere	5.7	5.5	5.4	5.8	5.8	5.5	6.7	6	7.1	7	7	6.6	6.4	-2.8
+Sivilingeniører elektroteknologi	1.7	1.9	1.9	2	2.3	2.2	2.2	1.7	2.5	2.3	2.5	2.5	2.6	3.2
+Sivilingeniører (unntatt elektroteknologi)	2.3	2.3	2.5	2.6	2.9	2.6	2.9	2.6	3.1	3.1	3.2	3.3	3.3	0.1
+Skipoffiserer, flygere, flygeledere mv.	3.7	4.5	4.9	4.6	4.9	4.5	5.1	4.9	5.4	5.1	5.3	4.8	5	3.2
+Skogbrukere	4.5	5.4	6	5.5	5.5	5.2	5.8	5.1	5.1	5.3	5.5	5.2	5	-4.6
+Skreddere, møbeltapetserere mv.	6	6	6.8	7.4	4.9	5.3	7.3	4.5	7	7.5	8	6.4	5.6	-13.9
+Slaktere, fiskehandlere, konditorer mv.	6.7	6.5	5.5	6.3	6.3	6	6.6	6.1	7.3	7	7.2	7.3	6.7	-7.5
+Smeder, verktøymakere mv.	4.3	3.8	4.5	4.7	4.6	4.2	5.2	4.6	5.6	5	5	5	4.7	-7.3
+Støpere, sveisere, platearbeidere mv.	5.5	5.7	5.7	5.7	5.5	5.2	6.4	6	7.1	6.4	6.3	6.2	6.6	6.2
+Sykepleiere og spesialsykepleiere	8.1	8.1	7.8	8.1	8.3	8.4	9.2	8.9	9.6	9.2	9.5	9.2	9.4	2.4
+Teknikere innen kringkasting og telekom	4	4.6	3.9	4.4	4.5	3.7	4.5	4.6	5.4	4.6	5.1	5	5.1	1.7
+Torg og markedsselgere	3.9	4.7	3.4	4.8	4.1	4.8	4.4	4.1	5	3.3	4.6	4.7	3.9	-18
+Ukjent	4.9	5.2	5.7	5.6	5.3	5.8	6.6	4.3	6.1		5.6	6	3.6	-39.1
+Universitets- og høyskolelektorer/-lærere	3	2.9	2.9	3	3.2	3.1	3.3	3.3	3.6	3.8	3.9	3.9	3.8	-2.5
+Uoppgitt / yrker som ikke kan identifiseres	4.4									5.2				
+Varehandelssjefer	5.6	4.7	4.7	4.9	5.2	5.2	6.4	5.4	6.1	6.1	6.3	6.2	6.4	2.7
+Veterinærer	3.3	3.4	3.4	3.9	3.7	3.4	5.5	4.1	5.7	5.2	5.2	5.6	6	6.8
+Yrker innen alternativ medisin	8.7	6.7	3.7	5.2	6	6	7.1	5.9	8.3	5.3	6.9	6.1	6.4	4.3
+Yrker innen estetiske fag	6.1	5.9	5.3	5.5	5.7	5.5	6.1	5.6	5.7	6	6.2	6	6	-0.4
+Yrker innen finanstjenester	3.8	3.8	3.8	4.1	4.1	4	4.2	3.7	4.2	4.1	4.4	4.5	4.6	1.8
+Yrker innen offentlig forvaltning	4.6	5.5	5.3	5.6	5.6	5.6	6	5.1	6.2	6.2	6.3	6.1	6	-1.7
+Yrker innen sosialarbeid og kultur	7.8	7.5	6.7	7.6	7.4	8	8.5	7.6	8.6	8.5	8.5	8.4	9.1	8
+Yrker innen sport og idrett	5.1	4.5	4	4.5	4.1	4.3	5.1	4.7	4.5	4.7	5.2	5.6	5.2	-6.6
+Yrkesdykkere, skytebaser mv.	5.5	6.3	4.6	5.8	5.7	5.7	6.8	5.9	6.2	5.8	5.9	5.9	5.7	-2.9
+Yrkesfaglærere	4.9	5.4	4.8	5.4	5.5	5.5	5.8	4.4	5.5	4.7	5.1	4	5.4	35.1

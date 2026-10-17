@@ -1,0 +1,84 @@
+# Kilde: Nav
+# Tabell: Legemeldt sykefravær etter enkeltdiagnoser (SYFRA2401), 1. kvartal
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar
+# Lagt inn: 2026-10-17
+# Ark: Antall tilfeller
+gruppe	rad	1. kvartal		2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+I alt			Alle tilfeller	550434	514864	565460	578585	564461	651360	521151	844133	702376	655471	701632	658006
+Hovedgruppe	Allment og uspesifisert	A04	Slapphet/tretthet	12882	11813	13376	12254	13098	12542	13882	21619	23580	23722	21842	23165
+Hovedgruppe	Muskel-/skjelettlidelser	L01	Nakke symptomer/plager	7331	6792	6814	6119	6059	5747	6218	5442	6862	6728	6675	6521
+Hovedgruppe	Muskel-/skjelettlidelser	L02	Rygg symptomer/plager	9725	9246	9191	8761	9932	10294	11490	12227	15616	16439	16484	16776
+Hovedgruppe	Muskel-/skjelettlidelser	L03	Korsrygg symptomer/plager	12472	11412	12492	12374	11768	11460	11490	10561	11748	10737	10815	10618
+Hovedgruppe	Muskel-/skjelettlidelser	L08	Skulder symptomer/plager	7573	7495	7784	7542	8023	8038	9004	8304	10625	11019	11030	11592
+Hovedgruppe	Muskel-/skjelettlidelser	L15	Kne symptomer/plager	6382	5807	6186	6108	6347	6385	6672	6969	8670	8654	9234	9568
+Hovedgruppe	Muskel-/skjelettlidelser	L18	Utbredte muskelsmerter/fibromyalgi	7421	7260	8175	7354	7387	7263	7514	6872	7135	7125	6831	7019
+Hovedgruppe	Muskel-/skjelettlidelser	L84	Ryggsyndrom uten smerteutstråling	9889	8980	10170	9432	9855	9992	9890	8954	9858	9819	9693	9092
+Hovedgruppe	Muskel-/skjelettlidelser	L86	Ryggsyndrom med smerteutstråling	12139	11839	13286	12493	12577	13009	12488	11656	12411	12513	12249	11970
+Hovedgruppe	Muskel-/skjelettlidelser	L87	Bursitt/tendinitt/synovitt IKA	8720	8453	9490	8609	8732	9042	9371	8199	8686	8597	8713	8689
+Hovedgruppe	Muskel-/skjelettlidelser	L92	Skuldersyndrom	11745	11005	12138	11027	10670	10540	10524	8583	8826	8249	7701	7367
+Hovedgruppe	Muskel-/skjelettlidelser	L99	Muskel-skjelettsykdom IKA	6718	6265	6767	6004	6351	6325	5874	5720	6196	5834	6176	6082
+Hovedgruppe	Psykiske lidelser	P02	Psykisk ubalanse situasjonsbetinget	22212	20403	22263	21845	23534	23943	24103	26215	33223	35642	36585	40683
+Hovedgruppe	Psykiske lidelser	P03	Depresjonsfølelse	4595	4384	4120	3373	3554	3401	3735	4103	5874	6263	6331	6436
+Hovedgruppe	Psykiske lidelser	P29	Psykiske symptomer/plager IKA	13446	11882	13646	12983	14618	14209	15615	17554	23197	25932	25525	26361
+Hovedgruppe	Psykiske lidelser	P74	Angstlidelse	3421	3181	3853	3594	4545	5201	4910	4934	5595	5731	5435	5475
+Hovedgruppe	Psykiske lidelser	P76	Depressiv lidelse	17339	17286	21473	20927	22343	24485	22772	22308	23234	22878	21317	21095
+Hovedgruppe	Sykdom i fordøyelsesorganene	D01	Abdominalsmerte/krampe generell	5422	5088	5535	5047	5280	5147	4980	5708	7456	6698	6510	6475
+Hovedgruppe	Sykdom i fordøyelsesorganene	D73	Gastroenteritt antatt infeksiøs	7633	6200	8587	9396	7874	7339	2003	8492	15709	14347	12206	14405
+Hovedgruppe	Sykdommer i luftveiene	R74	Akutt øvre luftveisinfeksjon	30783	28289	33261	37324	37893	53854	14967	31471	62505	50717	64939	51194
+Hovedgruppe	Sykdommer i luftveiene	R80	Influensa	38358	29600	30237	57700	32152	31557	1443	5814	30715	20866	42900	24739
+Hovedgruppe	Sykdommer i luftveiene	R83	Luftveisinfeksjon IKA	6872	5534	6241	7325	8615	14895	3649	7646	16292	13741	23860	15315
+Hovedgruppe	Sykdommer i luftveiene	R992	Påvist covid-19	*	*	*	*	*	206	16622	270807	13903	6274	1434	614
+Hovedgruppe	Sykdommer i nervesystemet	N01	Hodepine	5681	5274	5531	5420	5966	6121	7032	7956	8305	7746	7367	7417
+Hovedgruppe	Sykdommer i nervesystemet	N89	Migrene	4910	5055	5904	6021	6930	7443	7331	7808	10117	10596	11483	12442
+I alt	Kvinner		Alle tilfeller	343250	320994	352998	355024	348040	387474	320009	503864	425375	397397	423744	399500
+I alt	Allment og uspesifisert	A04	Slapphet/tretthet	9667	8972	10244	9304	9948	9347	10524	16109	17575	17726	16367	17310
+I alt	Muskel-/skjelettlidelser	L01	Nakke symptomer/plager	5083	4741	4683	4176	4094	3758	4182	3541	4350	4258	4230	4042
+I alt	Muskel-/skjelettlidelser	L02	Rygg symptomer/plager	5366	5017	5049	4570	5198	5186	6078	6301	7781	8049	8153	8118
+I alt	Muskel-/skjelettlidelser	L03	Korsrygg symptomer/plager	6987	6293	6743	6603	6165	5778	6050	5442	5865	5237	5538	5421
+I alt	Muskel-/skjelettlidelser	L08	Skulder symptomer/plager	4330	4217	4307	3953	4371	4101	4734	4137	5364	5429	5460	5739
+I alt	Muskel-/skjelettlidelser	L15	Kne symptomer/plager	3056	2821	2932	2884	3017	2884	3154	3228	4211	3994	4389	4498
+I alt	Muskel-/skjelettlidelser	L18	Utbredte muskelsmerter/fibromyalgi	6181	5958	6788	6072	6025	5913	6290	5593	5793	5779	5496	5651
+I alt	Muskel-/skjelettlidelser	L84	Ryggsyndrom uten smerteutstråling	4849	4381	4828	4441	4579	4496	4674	4070	4423	4496	4288	4040
+I alt	Muskel-/skjelettlidelser	L86	Ryggsyndrom med smerteutstråling	5907	5757	6526	5978	6010	5973	6000	5487	5611	5705	5431	5363
+I alt	Muskel-/skjelettlidelser	L87	Bursitt/tendinitt/synovitt IKA	5476	5251	6015	5320	5458	5526	5904	4967	5172	5167	5297	5337
+I alt	Muskel-/skjelettlidelser	L92	Skuldersyndrom	6999	6430	7142	6431	6135	5919	5873	4669	4608	4331	4068	3913
+I alt	Muskel-/skjelettlidelser	L99	Muskel-skjelettsykdom IKA	3481	3259	3569	3149	3258	3261	2982	2838	3066	2769	2943	2931
+I alt	Psykiske lidelser	P02	Psykisk ubalanse situasjonsbetinget	15803	14421	15772	15468	16604	16650	17071	18469	23151	24710	25449	28123
+I alt	Psykiske lidelser	P03	Depresjonsfølelse	3199	3029	2950	2271	2435	2286	2570	2740	3860	4011	4119	4059
+I alt	Psykiske lidelser	P29	Psykiske symptomer/plager IKA	9656	8522	9759	9258	10297	9798	11207	12390	16415	18393	17971	18467
+I alt	Psykiske lidelser	P74	Angstlidelse	2261	2097	2526	2416	3089	3499	3363	3301	3736	3844	3640	3695
+I alt	Psykiske lidelser	P76	Depressiv lidelse	11444	11397	14355	13793	14850	16026	14874	14239	14824	14600	13536	13232
+I alt	Sykdom i fordøyelsesorganene	D01	Abdominalsmerte/krampe generell	3680	3433	3728	3368	3517	3364	3200	3677	4977	4394	4335	4299
+I alt	Sykdom i fordøyelsesorganene	D73	Gastroenteritt antatt infeksiøs	4344	3598	4873	5485	4471	3977	1017	5006	9077	8309	6920	8283
+I alt	Sykdommer i luftveiene	R74	Akutt øvre luftveisinfeksjon	18540	17134	20057	22217	22368	30576	8959	18483	35713	28651	36799	28823
+I alt	Sykdommer i luftveiene	R80	Influensa	21756	16592	16995	32230	17912	17073	811	3199	16827	11258	23531	13365
+I alt	Sykdommer i luftveiene	R83	Luftveisinfeksjon IKA	4166	3388	3814	4403	5142	8613	2136	4530	9452	8043	13628	8918
+I alt	Sykdommer i luftveiene	R992	Påvist covid-19	*	*	*	*	*	104	8121	155581	8533	3823	886	391
+I alt	Sykdommer i nervesystemet	N01	Hodepine	4072	3694	3809	3763	4154	4143	5022	5494	5539	5225	4916	5019
+I alt	Sykdommer i nervesystemet	N89	Migrene	3845	3978	4523	4729	5512	5783	5776	6062	7965	8288	9062	9895
+I alt	Menn		Alle tilfeller	207184	193869	212459	223561	216421	263883	201140	340266	277001	258074	277888	258506
+I alt	Allment og uspesifisert	A04	Slapphet/tretthet	3215	2841	3132	2950	3150	3195	3358	5510	6005	5996	5475	5855
+I alt	Muskel-/skjelettlidelser	L01	Nakke symptomer/plager	2248	2051	2131	1943	1965	1989	2036	1901	2512	2470	2445	2479
+I alt	Muskel-/skjelettlidelser	L02	Rygg symptomer/plager	4359	4229	4142	4191	4734	5108	5412	5926	7835	8390	8331	8658
+I alt	Muskel-/skjelettlidelser	L03	Korsrygg symptomer/plager	5485	5119	5749	5771	5603	5682	5440	5119	5883	5500	5277	5197
+I alt	Muskel-/skjelettlidelser	L08	Skulder symptomer/plager	3243	3278	3477	3589	3652	3937	4270	4167	5261	5590	5570	5853
+I alt	Muskel-/skjelettlidelser	L15	Kne symptomer/plager	3326	2986	3254	3224	3330	3501	3518	3741	4459	4660	4845	5070
+I alt	Muskel-/skjelettlidelser	L18	Utbredte muskelsmerter/fibromyalgi	1240	1302	1387	1282	1362	1350	1224	1279	1342	1346	1335	1368
+I alt	Muskel-/skjelettlidelser	L84	Ryggsyndrom uten smerteutstråling	5040	4599	5342	4991	5276	5496	5216	4884	5435	5323	5405	5052
+I alt	Muskel-/skjelettlidelser	L86	Ryggsyndrom med smerteutstråling	6232	6082	6760	6515	6567	7036	6488	6169	6800	6808	6818	6607
+I alt	Muskel-/skjelettlidelser	L87	Bursitt/tendinitt/synovitt IKA	3244	3202	3475	3289	3274	3516	3467	3232	3514	3430	3416	3352
+I alt	Muskel-/skjelettlidelser	L92	Skuldersyndrom	4746	4574	4996	4596	4535	4621	4651	3914	4218	3918	3633	3454
+I alt	Muskel-/skjelettlidelser	L99	Muskel-skjelettsykdom IKA	3237	3006	3198	2855	3093	3064	2892	2882	3130	3065	3233	3151
+I alt	Psykiske lidelser	P02	Psykisk ubalanse situasjonsbetinget	6409	5982	6491	6377	6930	7293	7032	7746	10072	10932	11136	12560
+I alt	Psykiske lidelser	P03	Depresjonsfølelse	1396	1355	1170	1102	1119	1115	1165	1363	2014	2252	2212	2377
+I alt	Psykiske lidelser	P29	Psykiske symptomer/plager IKA	3790	3360	3887	3725	4321	4411	4408	5164	6782	7539	7554	7894
+I alt	Psykiske lidelser	P74	Angstlidelse	1160	1084	1327	1178	1456	1702	1547	1633	1859	1887	1795	1780
+I alt	Psykiske lidelser	P76	Depressiv lidelse	5895	5889	7118	7134	7493	8459	7897	8068	8410	8278	7781	7863
+I alt	Sykdom i fordøyelsesorganene	D01	Abdominalsmerte/krampe generell	1742	1655	1807	1679	1763	1783	1780	2031	2479	2304	2175	2176
+I alt	Sykdom i fordøyelsesorganene	D73	Gastroenteritt antatt infeksiøs	3289	2602	3714	3911	3403	3362	986	3486	6632	6038	5286	6122
+I alt	Sykdommer i luftveiene	R74	Akutt øvre luftveisinfeksjon	12243	11155	13201	15107	15525	23278	6008	12988	26792	22066	28140	22371
+I alt	Sykdommer i luftveiene	R80	Influensa	16602	13008	13242	25470	14240	14484	632	2615	13888	9608	19369	11374
+I alt	Sykdommer i luftveiene	R83	Luftveisinfeksjon IKA	2706	2146	2427	2922	3473	6282	1513	3116	6840	5698	10232	6397
+I alt	Sykdommer i luftveiene	R992	Påvist covid-19	*	*	*	*	*	102	8500	115224	5370	2451	548	223
+I alt	Sykdommer i nervesystemet	N01	Hodepine	1609	1580	1722	1657	1812	1978	2010	2462	2766	2521	2451	2398
+I alt	Sykdommer i nervesystemet	N89	Migrene	1065	1077	1381	1292	1418	1660	1555	1746	2152	2308	2421	2547
