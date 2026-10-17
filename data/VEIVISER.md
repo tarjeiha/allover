@@ -14,7 +14,7 @@ Denne mappen er en katalog over hvor tall og statistikk finnes og hvilken tabell
 | Kilde | Fil | Status |
 |---|---|---|
 | Statistisk sentralbyrå (SSB) | `data/ssb.md` | Dekket for hovedtemaene. Hentes med SSB-tilkoblingen (skillen ssb-api). |
-| Nav | `data/nav.md` | Sykefravær (alle kvartal i samme fil, kolonnen `kvartal`), dagpenger og AAP lagt inn som TSV. Uføretrygd, familie, pensjon og sosialhjelp er ikke lagt inn. |
+| Nav | `data/nav.md` | Sykefravær (alle kvartal i samme fil, kolonnen `kvartal`), dagpenger, AAP, uføretrygd, nedsatt arbeidsevne og alderspensjon lagt inn som TSV. Familie, AFP og sosialhjelp er ikke lagt inn. |
 
 ## Åpent
 
