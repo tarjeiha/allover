@@ -16,7 +16,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
 
-- **Rettsakt:** REGULATION (EC) No 987/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 September 2009 laying down the procedure for implementing Regulation (EC) No 883/2004 on the coordination of social security systems REGULATION (EC) No 987/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 September 2009 laying down the procedure for implementing Regulation (EC) No 883/2004 on the coordination of social security systems
+- **Rettsakt:** REGULATION (EC) No 987/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 September 2009 laying down the procedure for implementing Regulation (EC) No 883/2004 on the coordination of social security systems
 - **Versjon i basen:** EUR-Lex 02009R0987-20180101, språk EN
 - **EØS:** Versjonen er kontrollert mot folketrygdloven § 1-3 a andre ledd: endringene M1–M6 i denne versjonen er de som er gjort til norsk lov. Kontrollen ble gjort da teksten lå i den gamle dagpengeskillen, og må gjentas hvis § 1-3 a endres.
 

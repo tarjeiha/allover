@@ -18,9 +18,9 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
 
-- **Rettsakt:** REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
+- **Rettsakt:** REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 - **Versjon i basen:** EUR-Lex 02016R0679-20160504, språk EN
-- **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **EØS:** Personopplysningsloven § 1 første ledd gjør forordningen til norsk lov med tilpasningene i EØS-avtalen vedlegg XI og protokoll 1. Basen har forordningsteksten slik den ble vedtatt i EU, med rettelser.
 
 **Endringsmerker i teksten** (▼ foran et ledd viser hvilken rettsakt teksten kommer fra):
 

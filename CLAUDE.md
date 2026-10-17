@@ -76,7 +76,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Trygdeforordningen | (EF) nr. 883/2004 | `eu/forordning-883-2004/VEIVISER.md` | kontrollert |
 | Gjennomføringsforordningen til trygdeforordningen | (EF) nr. 987/2009 | `eu/forordning-987-2009/VEIVISER.md` | kontrollert |
 | Forordningen om fri bevegelighet for arbeidstakere | (EU) nr. 492/2011 | `eu/forordning-492-2011/VEIVISER.md` | ikke kontrollert |
-| Personvernforordningen (GDPR) | (EU) 2016/679 | `eu/forordning-2016-679/VEIVISER.md` | ikke kontrollert |
+| Personvernforordningen (GDPR) | (EU) 2016/679 | `eu/forordning-2016-679/VEIVISER.md` | kontrollert |
 | Rammedirektivet for helse, miljø og sikkerhet | 89/391/EØF | `eu/direktiv-89-391/VEIVISER.md` | ikke kontrollert |
 | Utsendingsdirektivet | 96/71/EF | `eu/direktiv-96-71/VEIVISER.md` | ikke kontrollert |
 | Deltidsdirektivet | 97/81/EF | `eu/direktiv-97-81/VEIVISER.md` | ikke kontrollert |
