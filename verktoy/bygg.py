@@ -9,6 +9,7 @@ Bruk:
 Hva som bygges styres av regelverk.json. For hver lov skrives:
     <mappe>/lov/par-<nr>.md                       én fil per paragraf
     <mappe>/forskrifter/<slug>/par-<nr>.md        én fil per forskriftsparagraf
+    <mappe>/vedtatte-endringer/<akt>.md           vedtatte endringer som ikke er i kraft (endringer.py)
     <mappe>/VEIVISER.md                           bare blokken mellom AUTO-markørene
 og for hele repoet:
     indeks.tsv                                    alle paragrafer med sti
@@ -35,10 +36,12 @@ import sys
 import tarfile
 import urllib.request
 from collections import Counter
+from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import avtale as avtalemodul  # noqa: E402
+import endringer as endringsmodul  # noqa: E402
 import eu as eumodul  # noqa: E402
 from parse_lovdata import (  # noqa: E402
     har_innhold_utenfor_paragrafer,
@@ -296,6 +299,32 @@ def skriv_nevnte(nevnt: dict) -> None:
     (ROT / "eu" / "nevnte-rettsakter.md").write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
+def refid_for(sti: Path) -> str:
+    """DokumentID i gjeldende tekst: 'NL/lov/1988-04-29-21' -> 'lov/1988-04-29-21'."""
+    m = re.search(r'class="dokid"[^>]*>\s*([^<\s]+)', sti.read_text(encoding="utf-8", errors="ignore"))
+    return m.group(1).split("/", 1)[1] if m and "/" in m.group(1) else ""
+
+
+def vedtatte_endringer(kilde: Path, oppslag: dict, config: dict, lokal: bool, merknader: list) -> dict:
+    """Endringer fra Lovtidend som ikke er tatt inn i gjeldende tekst, per dokument (refid)."""
+    maal = {}
+    for lov in config["lover"]:
+        for dokid in [lov["lov"]] + [fs["id"] for fs in lov.get("forskrifter", [])]:
+            sti = finn(oppslag, dokid)
+            if sti and refid_for(sti):
+                maal[refid_for(sti)] = sti
+    try:
+        filer = sorted((kilde / "lovtidend").glob("*.tar.bz2")) if lokal else endringsmodul.last_ned(kilde / "lovtidend")
+        if not filer:
+            merknader.append("Fant ikke Lovtidend-datasettene; vedtatte endringer er ikke sjekket")
+            return {}
+        return endringsmodul.finn_ventende(filer, maal, date.today())
+    except Exception as e:  # noqa: BLE001
+        # Lovteksten skal fortsatt bygges selv om Lovtidend ikke kan leses
+        merknader.append(f"Vedtatte endringer er ikke sjekket: {type(e).__name__}: {e}")
+        return None
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--kilde", type=Path, help="mappe med utpakkede datasett")
@@ -314,6 +343,7 @@ def main() -> int:
     eu_mapper = {eumodul.nokkel_fra_celex(a["celex"]): a for a in config.get("eu", [])}
     norske_henvisninger: dict = {}
     nevnt_ikke_i_basen: dict = {}
+    ventende = vedtatte_endringer(kilde, oppslag, config, bool(args.kilde), merknader)
 
     for lov in config["lover"]:
         mappe = ROT / lov["mappe"]
@@ -327,6 +357,7 @@ def main() -> int:
         etikett = "Lov" if lov["lov"].startswith("LOV") else "Forskrift/instruks"
         linjer = ["## Kilder", "", f"- **{etikett}:** {kilde_linje(meta)}"]
         forskriftsblokker = []
+        dokumenter = [(refid_for(lovfil), lov["navn"], mappe / "lov")]
         for fs in lov.get("forskrifter", []):
             fsfil = finn(oppslag, fs["id"])
             if not fsfil:
@@ -339,6 +370,14 @@ def main() -> int:
                 continue
             linjer.append(f"- **Forskrift:** {kilde_linje(fmeta)}")
             forskriftsblokker.append((fs["navn"], fkap))
+            dokumenter.append((refid_for(fsfil), fs["navn"], mappe / "forskrifter" / fs["slug"]))
+
+        if ventende is None:
+            endringsavsnitt = ["## Vedtatte endringer som ikke er i kraft", "",
+                               "Kunne ikke sjekkes ved siste bygg. Sjekk Lovdata.", ""]
+        else:
+            endringsavsnitt = endringsmodul.skriv(ROT, mappe, dokumenter, ventende, indeks, lov["navn"])
+        har_ventende = (mappe / endringsmodul.MAPPE).is_dir()
 
         rundskriv = rundskriv_per_paragraf(mappe)
         eu_avsnitt = eu_henvisninger(mappe, lov["navn"], eu_mapper, norske_henvisninger, nevnt_ikke_i_basen)
@@ -358,7 +397,8 @@ def main() -> int:
                 ut.append("")
             return ut
 
-        linjer += ["", "## Innhold", ""]
+        linjer += [""] + endringsavsnitt
+        linjer += ["## Innhold", ""]
         linjer += liste(lov["navn"], kapitler, er_loven=True)
         for navn, fkap in forskriftsblokker:
             linjer += liste(navn, fkap)
@@ -369,7 +409,8 @@ def main() -> int:
 
         skjelett = f"# {lov['navn']}: veiviser\n\n_Håndskrevet veiledning mangler ennå._\n"
         erstatt_auto(mappe / "VEIVISER.md", "\n".join(linjer), skjelett)
-        lovliste.append(f"| {lov['navn']} | `{lov['mappe']}/VEIVISER.md` | {status(meta)} |")
+        merk = " · **vedtatte endringer venter**" if har_ventende else ""
+        lovliste.append(f"| {lov['navn']} | `{lov['mappe']}/VEIVISER.md` | {status(meta)}{merk} |")
 
     # Tariffavtaler
     for a in config.get("avtaler", []):

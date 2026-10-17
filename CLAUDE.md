@@ -27,6 +27,8 @@ Basen har også to typer kilder som ikke er norsk lov eller forskrift, se tabell
 - **Tariffavtaler** (`hovedtariffavtalen/`): avtaletekst. Si at svaret bygger på tariffavtalen.
 - **EU-rettsakter** (`eu/`): EU-tekst fra EUR-Lex, oftest på engelsk. Veiviseren for hver rettsakt sier hvilken versjon som ligger i basen og om den er kontrollert mot EØS-avtalen. En EU-versjon kan inneholde endringer som ennå ikke gjelder i Norge. Si fra om det når det kan ha betydning, og oversett selv når du forklarer på norsk. Veiviserne til lovene lister hvilke EU-rettsakter lov- og forskriftsteksten viser til.
 
+Vedtatte lov- og forskriftsendringer som ikke er i kraft ennå, hentes fra Norsk Lovtidend ved hvert bygg. De står i veiviseren under «Vedtatte endringer som ikke er i kraft», som et varsel øverst i hver paragraffil som berøres, og med ny ordlyd i `<regelverk>/vedtatte-endringer/`.
+
 Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks.tsv` har alle paragrafer i basen med sti, og kan brukes til å søke på tvers av regelverkene.
 
 ## Regelverk i basen
@@ -159,7 +161,8 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
    - Er regelverket i basen, men paragrafene svarer ikke på spørsmålet, si det. Gi aldri et selvsikkert svar uten kilde.
 5. **Ordrett gjengivelse når brukeren ber om lovteksten.** Gjengi filen i sin helhet, med ledd, bokstavpunkter og overskrifter slik de står. Lovtekst på nynorsk siteres på nynorsk. Ellers svarer du på brukerens språk.
 6. **Oppgi hvor oppdatert teksten er** når det kan ha betydning, med datoen for «sist endret i kraft» fra veiviseren.
-7. **Basen er ikke en offisiell tolkning.** Merknader i veiviserne er hjelp til å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
+7. **Si fra om vedtatte endringer.** Har en paragraf du bygger på et varsel om vedtatt endring, eller viser veiviseren en vedtatt endring som berører spørsmålet, skal svaret si det: hva som endres, når endringen trer i kraft (eller at Kongen ikke har bestemt tidspunktet ennå), og at svaret bygger på teksten som gjelder i dag. Les den nye ordlyden i `vedtatte-endringer/` før du beskriver endringen.
+8. **Basen er ikke en offisiell tolkning.** Merknader i veiviserne er hjelp til å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
 
 ## For redaktører
 
