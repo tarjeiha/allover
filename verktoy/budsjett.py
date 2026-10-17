@@ -1,6 +1,10 @@
 """Deler en Prop. 1 S (Word-fil fra regjeringen.no) opp i Markdown-filer.
 
-Bruk: python3 verktoy/budsjett.py <prop.docx> <utmappe>
+Bruk: python3 verktoy/budsjett.py <prop.docx> <utmappe> [kildenavn] [--generell]
+
+Med --generell (Gul bok, Nasjonalbudsjettet) deles dokumentet i én fil per
+overskrift på nivå 2 (eller nivå 1 der det ikke er nivå 2), én fil per vedlegg
+og én fil for forslag til vedtak.
 
 Oppdelingen følger stilene i Word-filen fra regjeringen.no:
 - Del I og delen med særlige temaer: én fil per overskrift på nivå 1.
@@ -160,9 +164,84 @@ def del_opp(sti, utmappe, kilde):
     return rekkefolge, poster
 
 
+def skriv_linje(liste, stil, tekst):
+    if stil in OVERSKRIFT:
+        liste.append(f"{OVERSKRIFT[stil]} {tekst}\n")
+    elif stil in LISTE:
+        liste.append(f"- {tekst}")
+    elif stil == "Tabellnavn" and re.fullmatch(r"\d+N\d+\w*", tekst):
+        pass
+    elif stil in ("Tabellnavn", "figur-tittel", "tabell-tittel"):
+        liste.append(f"\n**{tekst}**\n")
+    elif stil == "blokksit":
+        liste.append(f"> {tekst}\n")
+    else:
+        liste.append(f"{tekst}\n")
+
+
+def del_opp_generell(sti, utmappe, kilde):
+    dok = docx.Document(sti)
+    utmappe = Path(utmappe)
+    filer, rekkefolge = {}, []
+    gjeldende, h1, h1_tekst, h2, vedlegg = None, 0, "", 0, 0
+    startet = False
+
+    def ny(navn, tittel, overskrift):
+        nonlocal gjeldende
+        gjeldende = navn
+        if navn not in filer:
+            filer[navn] = [f"<!-- Kilde: {kilde}. Generert av verktoy/budsjett.py, skal ikke redigeres for hånd. -->", "", f"# {overskrift}\n"]
+            rekkefolge.append((navn, tittel))
+
+    venter_vedlegg = None
+    for b in blokker(dok):
+        if isinstance(b, Table):
+            if gjeldende:
+                md = tabell_md(b)
+                if md:
+                    filer[gjeldende] += [md, ""]
+            continue
+        stil, tekst = b.style.name, rens(b.text)
+        if not tekst or stil.startswith("i-") or stil == "is-dep" or "reset]" in tekst:
+            continue
+        if stil.startswith("a-tilraar") or stil == "a-vedtak-tit":
+            ny("forslag-til-vedtak.md", "Forslag til vedtak", "Forslag til vedtak")
+            continue
+        if stil == "vedlegg-nr":
+            venter_vedlegg = tekst
+            continue
+        if stil == "vedlegg-tit":
+            vedlegg += 1
+            ny(f"vedlegg-{vedlegg:02d}-{slug(tekst)}.md", tekst, f"{venter_vedlegg or 'Vedlegg'} {tekst}")
+            continue
+        if stil == "Heading 1" and gjeldende != "forslag-til-vedtak.md":
+            startet = True
+            h1, h2, h1_tekst = h1 + 1, 0, tekst
+            ny(f"{h1:02d}-00-{slug(tekst)}.md", tekst, tekst)
+            continue
+        if stil == "Heading 2" and startet and not gjeldende.startswith(("vedlegg", "forslag")):
+            h2 += 1
+            ny(f"{h1:02d}-{h2:02d}-{slug(tekst)}.md", f"{h1_tekst}: {tekst}", f"{tekst}\n\n*Del av: {h1_tekst}*")
+            continue
+        if not startet or gjeldende is None:
+            continue
+        skriv_linje(filer[gjeldende], stil, tekst)
+
+    utmappe.mkdir(parents=True, exist_ok=True)
+    tomme = []
+    for navn, linjer in filer.items():
+        if len(linjer) <= 3:
+            tomme.append(navn)
+            continue
+        (utmappe / navn).write_text("\n".join(linjer).rstrip() + "\n", encoding="utf-8")
+    return [r for r in rekkefolge if r[0] not in tomme], []
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         sys.exit(__doc__)
-    kilde = sys.argv[3] if len(sys.argv) > 3 else Path(sys.argv[1]).name
-    filer, poster = del_opp(sys.argv[1], sys.argv[2], kilde)
+    arg = [a for a in sys.argv[1:] if not a.startswith("--")]
+    kilde = arg[2] if len(arg) > 2 else Path(arg[0]).name
+    funksjon = del_opp_generell if "--generell" in sys.argv else del_opp
+    filer, poster = funksjon(arg[0], arg[1], kilde)
     print(f"{len(filer)} filer, {len(poster)} poster")
