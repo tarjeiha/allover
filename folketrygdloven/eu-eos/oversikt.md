@@ -64,7 +64,7 @@ Disse er bevisst utelatt, ikke oversett:
 
 - **Trygdeforordningen art. 1–16** – definisjoner, likebehandling, sammenlegging, eksportabilitet og lovvalg. Tverrgående for alle ytelser; hører til en egen skill, ikke denne.
 - **Gjennomføringsforordningen art. 1–21** – dokumentutveksling, foreløpig lovvalg, bostedskriterier (art. 11), lovvalgsprosedyrer. Samme begrunnelse.
-- **Bilaterale trygdeavtaler utenfor EØS** – ikke dekket i noen AID-skill.
+- **Bilaterale trygdeavtaler utenfor EØS** – ikke dekket i noen skill.
 - **Nordisk konvensjon om trygd (2012)** – dagpengeforskriften § 13-1 viser til konvensjonens artikkel 10, men konvensjonsteksten selv er ikke inkludert.
 - **Den administrative kommisjonens beslutninger og rekommandasjoner** – særlig U1–U4 og rekommandasjon U1–U2, som tolker art. 64, 65 og 987/2009 art. 54 og 70. Ikke inkludert.
 - **EFTA-domstolens og EU-domstolens praksis** – enkelte avgjørelser er nevnt som merknad i artikkelfilene, men rettspraksis er ikke en kildetype i denne skillen.

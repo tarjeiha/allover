@@ -1,6 +1,6 @@
 ---
-name: aid-regelverksbase
-description: Departementets felles regelverksbase. Bruk ved spørsmål om hva norsk lov eller forskrift sier - paragrafer, hjemmel, vilkår, rettigheter, unntak, eller om noe er lovlig eller påkrevd etter regelverket - også når spørsmålet stilles uten fagord. Skillen sjekker selv hvilke regelverk som er dekket. Last den før du svarer på slike spørsmål, og svar ikke fra hukommelsen.
+name: regelverksbase
+description: Felles regelverksbase for norsk lov og forskrift. Bruk ved spørsmål om hva norsk lov eller forskrift sier - paragrafer, hjemmel, vilkår, rettigheter, unntak, eller om noe er lovlig eller påkrevd etter regelverket - også når spørsmålet stilles uten fagord. Skillen sjekker selv hvilke regelverk som er dekket. Last den før du svarer på slike spørsmål, og svar ikke fra hukommelsen.
 ---
 
 # Regelverksbasen

@@ -4,7 +4,7 @@ Lov om arbeidsmarkedstjenester regulerer arbeidsmarkedstiltak og ytelser til del
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 Merknadene er delt i to filer: loven og tiltaksforskriften, og de øvrige forskriftene. Rundskriv og NAVs interne retningslinjer er ikke i basen.
 
 ## Kjente feller

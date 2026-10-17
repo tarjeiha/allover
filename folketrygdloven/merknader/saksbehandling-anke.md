@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-ftrl-saksbehandling-anke`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Folketrygdloven – saksbehandling og anke
 
@@ -20,7 +21,7 @@ Konkret fremgangsmåte:
 
 Dette er en tverrgående skill. Klage- og ankereglene gjelder alle ytelser, så spørsmål havner her uten at brukeren nevner kapittel 21.
 
-Skill mellom klage til NAV Klageinstans og anke til Trygderetten – det er to ulike trinn med ulike frister. **[Merknad 16.10.2026: Fristen er seks uker både for klage og anke, se folketrygdloven § 21-12 femte ledd.]** Forvaltningsloven gjelder i tillegg og er **ikke** dekket i noen AID-skill.
+Skill mellom klage til NAV Klageinstans og anke til Trygderetten – det er to ulike trinn med ulike frister. **[Merknad 16.10.2026: Fristen er seks uker både for klage og anke, se folketrygdloven § 21-12 femte ledd.]** Forvaltningsloven gjelder i tillegg og er **ikke** dekket i noen skill.
 
 **Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
@@ -65,7 +66,7 @@ Si fra når svaret krever en av disse, i stedet for å svare ut fra ytelseskapit
 - **Arbeidsmiljøloven** – permisjonsrettigheter, stillingsvern, arbeidstid: `aid-aml`-familien
 - **NAV-loven** – organiseringen av etaten og NAV-kontoret: `nav-loven/merknader/generelt.md`
 - **Sosialtjenesteloven** – økonomisk sosialhjelp, subsidiær til folketrygdytelser: `sosialtjenesteloven/merknader/generelt.md`
-- **Utenfor dekket regelverk:** forvaltningsloven, trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven, kontantstøtteloven og EØS-trygdeforordningen (883/2004) er **ikke** dekket i noen AID-skill. EØS-reglene er særlig viktige: de går foran folketrygdlovens egne regler i mange grensekryssende saker. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Utenfor dekket regelverk:** forvaltningsloven, trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven, kontantstøtteloven og EØS-trygdeforordningen (883/2004) er **ikke** dekket i noen skill. EØS-reglene er særlig viktige: de går foran folketrygdlovens egne regler i mange grensekryssende saker. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
 
 Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
 

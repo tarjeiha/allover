@@ -1,11 +1,12 @@
 > **Flyttet fra skillen `aid-utl-arbeid-eos`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Utlendingsloven – arbeidsinnvandring og EØS-borgeres rettigheter
 
-Oppslag i utvalgte deler av lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) og forskrift 15. oktober 2009 nr. 1286 (utlendingsforskriften). Skillen dekker Arbeids- og inkluderingsdepartementets ansvarsområde i loven: arbeidsinnvandring fra land utenfor EØS, og EØS- og EFTA-borgeres oppholdsrett.
+Oppslag i utvalgte deler av lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) og forskrift 15. oktober 2009 nr. 1286 (utlendingsforskriften). Skillen dekket disse delene av loven: arbeidsinnvandring fra land utenfor EØS, og EØS- og EFTA-borgeres oppholdsrett.
 
 ## Kritisk
 
@@ -33,6 +34,8 @@ Konkret fremgangsmåte:
 
 ## Hva som er dekket – og hva som ikke er det
 
+**[Merknad 17.10.2026: Tabellen gjelder den gamle skillen. Hele utlendingsloven og utlendingsforskriften ligger nå i basen, se `utlendingsloven/VEIVISER.md`. Kapitlene i høyre kolonne kan derfor slås opp.]**
+
 | Dekket | Ikke dekket |
 |---|---|
 | Lovens § 5 (nordiske borgere) og § 55 (krav om tillatelse for å arbeide) | Resten av kap. 1 og kap. 7 |
@@ -43,7 +46,7 @@ Konkret fremgangsmåte:
 
 **Studier** står i samme kapitler som arbeid og er derfor med, men skillen er avgrenset mot arbeidsinnvandring. Svar på studiespørsmål bare der de henger sammen med arbeid (for eksempel studenters adgang til å arbeide).
 
-**Allmenne vilkår brukes, men er ikke dekket.** Arbeidstillatelser bygger på de allmenne reglene i lovens kap. 7 og forskriften kap. 10 – blant annet krav til underhold, tillatelsens varighet, fornyelse og tilbakekall – og permanent oppholdstillatelse (lovens § 62, forskriften kap. 11). Når svaret avhenger av disse, **si eksplisitt at de ikke er dekket** – ikke svar fra hukommelsen.
+**Allmenne vilkår brukes (nå i basen, se merknaden over).** Arbeidstillatelser bygger på de allmenne reglene i lovens kap. 7 og forskriften kap. 10 – blant annet krav til underhold, tillatelsens varighet, fornyelse og tilbakekall – og permanent oppholdstillatelse (lovens § 62, forskriften kap. 11). Når svaret avhenger av disse, les paragrafene i `utlendingsloven/lov/` og `utlendingsloven/forskrifter/` – ikke svar fra hukommelsen.
 
 **Asyl, familieinnvandring, visum og statsborgerskap** hører ikke til denne skillen. Statsborgerskap ligger i `statsborgerloven/merknader/generelt.md`. Varig oppholdsrett for EØS-borgere (lovens §§ 115–116) er dekket her og kan være relevant for spørsmål om statsborgerskap.
 

@@ -1,6 +1,6 @@
 # allover
 
-Felles base med regelverk som Claude slår opp i når ansatte i departementet stiller spørsmål som krever regelverk.
+Felles base med regelverk som Claude slår opp i når noen stiller spørsmål som krever regelverk.
 
 Repoet er under utprøving. Første lov er offentleglova med offentlegforskrifta.
 

@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-ftrl-dagpenger`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Folketrygdloven – dagpenger under arbeidsløshet
 
@@ -82,7 +83,7 @@ Trygdeforordningens generelle del (art. 1–16 om definisjoner, lovvalg og hvilk
 - **Sosialtjenesteloven** – økonomisk sosialhjelp, subsidiær til folketrygdytelser: `sosialtjenesteloven/merknader/generelt.md`
 - **EØS-koordinering av dagpenger** – dekket i denne skillen, se `folketrygdloven/eu-eos/`. Trygdeforordningen (883/2004) artikkel 61–65a og gjennomføringsforordningen (987/2009) artikkel 54–57 og 70 ligger der, sammen med de norske gjennomføringsbestemmelsene i ftrl. § 1-3, § 4-1a og dagpengeforskriften kapittel 13. EØS-reglene går foran folketrygdlovens egne regler i grensekryssende saker – les `folketrygdloven/eu-eos/oversikt.md` før du svarer på spørsmål om arbeid, bosted eller opphold i annet EØS-land.
 - **EØS-koordinering utenfor dagpenger** – trygdeforordningens generelle del (art. 1–16 om definisjoner, likebehandling, sammenlegging, eksportabilitet og lovvalg) er **ikke** dekket. Den er tverrgående for alle ytelser og hører ikke hjemme i én ytelsesskill. Når et spørsmål krever den, si eksplisitt fra – ikke gjett.
-- **Utenfor dekket regelverk:** forvaltningsloven, trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven og kontantstøtteloven er **ikke** dekket i noen AID-skill. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Utenfor dekket regelverk:** forvaltningsloven, trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven og kontantstøtteloven er **ikke** dekket i noen skill. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
 
 Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
 

@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-nav-loven`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # NAV-loven (arbeids- og velferdsforvaltningsloven)
 
@@ -46,7 +47,7 @@ Konkret fremgangsmåte:
 
 Forskrift om individuell plan ved ytelse av velferdstjenester er hjemlet i flere lover samtidig: NAV-loven § 15, sosialtjenesteloven § 28, helse- og omsorgstjenesteloven og barnevernsloven. **Fullt innhold ligger i denne skillen** (`nav-loven/forskrifter/individuell-plan/`).
 
-Får du et spørsmål om individuell plan som kommer fra en sosialtjenestelov-kontekst, er det denne skillen som har teksten. Merk samtidig at forskriften også er hjemlet i helse- og omsorgslovgivning som ingen AID-skill dekker – se Kryssreferanser.
+Får du et spørsmål om individuell plan som kommer fra en sosialtjenestelov-kontekst, er det denne skillen som har teksten. Merk samtidig at forskriften også er hjemlet i helse- og omsorgslovgivning som ingen skill dekker – se Kryssreferanser.
 
 ## Kryssreferanser
 

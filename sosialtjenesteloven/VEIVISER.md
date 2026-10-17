@@ -4,7 +4,7 @@ Lov om sosiale tjenester i arbeids- og velferdsforvaltningen regulerer kommunens
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 Hovedrundskrivet til loven og de statlige veiledende satsene for økonomisk stønad er ikke i basen. Det er et større hull her enn for de fleste andre lover.
 
 ## Kjente feller

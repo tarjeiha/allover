@@ -6,7 +6,7 @@ Kapittel 5 (stønad ved helsetjenester) hører til Helse- og omsorgsdepartemente
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 Merknadsfilene er flyttet fra de gamle ftrl-skillene og er delt etter ytelse. Bruk tabellen nederst til å finne riktig fil. Der en merknadsfil viser til «andre skills», gjelder nå filene i denne mappen.
 

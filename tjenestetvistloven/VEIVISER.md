@@ -6,7 +6,7 @@ Loven forvaltes av Digitaliserings- og forvaltningsdepartementet, ikke Arbeids- 
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 Tjenestetvistloven har ingen egen merknadsfil. Bruk `arbeidstvistloven/merknader/generelt.md`, som dekker begge lovene.
 
 ## Kjente feller

@@ -4,7 +4,7 @@ Loven regulerer tjenestepensjon for statsansatte og andre medlemmer av Statens p
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 Merknadsfilene er flyttet fra to eldre skills og deler loven i alderspensjon (kap. 1–5 b og 8) og uføre- og familiepensjon (kap. 6–7).
 
 ## Kjente feller

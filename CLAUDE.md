@@ -1,6 +1,6 @@
 # Regelverksbasen
 
-Dette repoet er en felles base med lover og forskrifter for ansatte i departementet. Du (Claude) kommer hit fordi en bruker har stilt et spørsmål som kan kreve regelverk, og peker-skillen har sendt deg hit.
+Dette repoet er en felles base med lover og forskrifter. Du (Claude) kommer hit fordi en bruker har stilt et spørsmål som kan kreve regelverk, og peker-skillen har sendt deg hit.
 
 ## Slik henter du filer
 
@@ -102,7 +102,7 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
    - Er regelverket i basen, men paragrafene svarer ikke på spørsmålet, si det. Gi aldri et selvsikkert svar uten kilde.
 5. **Ordrett gjengivelse når brukeren ber om lovteksten.** Gjengi filen i sin helhet, med ledd, bokstavpunkter og overskrifter slik de står. Lovtekst på nynorsk siteres på nynorsk. Ellers svarer du på brukerens språk.
 6. **Oppgi hvor oppdatert teksten er** når det kan ha betydning, med datoen for «sist endret i kraft» fra veiviseren.
-7. **Basen er ikke departementets offisielle tolkning.** Merknader i veiviserne er hjelp til å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
+7. **Basen er ikke en offisiell tolkning.** Merknader i veiviserne er hjelp til å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
 
 ## For redaktører
 

@@ -6,7 +6,7 @@ Statsansattes stillingsvern for øvrig følger statsansatteloven, som ikke er i 
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i `spk-loven/merknader/alderspensjon-afp.md`.
 
 ## Kjente feller
