@@ -1,0 +1,44 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på arbeidspraksis, demografi, tidsserie måned (TILT120)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og fylke
+# TILT120 Tiltaksdeltakere på arbeidspraksis. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og fylke									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt arbeidsforberedende trening	7761	7497	7521	7518	7598	7661	8050	8007	8008	7991
+Januar 2026 - September 2026	03 Oslo - Oslove	990	967	941	934	928	918	1040	1092	1070	1020
+Januar 2026 - September 2026	11 Rogaland	545	512	523	532	548	552	563	554	553	569
+Januar 2026 - September 2026	15 Møre og Romsdal	211	197	196	194	197	195	227	228	235	231
+Januar 2026 - September 2026	18 Nordland - Nordlánnda	397	393	392	396	383	398	402	408	402	401
+Januar 2026 - September 2026	31 Østfold	574	545	552	555	580	575	601	584	586	584
+Januar 2026 - September 2026	32 Akershus	825	743	757	759	788	810	869	888	904	910
+Januar 2026 - September 2026	33 Buskerud	294	282	289	280	276	283	306	304	312	316
+Januar 2026 - September 2026	34 Innlandet	640	637	630	614	621	631	675	650	654	646
+Januar 2026 - September 2026	39 Vestfold	502	510	507	504	487	489	510	502	499	509
+Januar 2026 - September 2026	40 Telemark	367	367	374	360	364	368	364	364	369	370
+Januar 2026 - September 2026	42 Agder	487	494	486	484	494	475	491	483	485	488
+Januar 2026 - September 2026	46 Vestland	779	743	751	771	770	801	809	774	786	807
+Januar 2026 - September 2026	50 Trøndelag - Trööndelage	731	716	719	717	728	726	756	748	731	741
+Januar 2026 - September 2026	55 Troms - Romsa - Tromssa	288	270	273	286	298	311	308	295	282	269
+Januar 2026 - September 2026	56 Finnmark - Finnmárku - Finmarkku	127	118	129	129	132	125	124	126	133	123
+Januar 2026 - September 2026	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	Ukjent	4	*	*	*	*	*	4	6	6	6
+	I alt arbeidstrening	6973	6859	7350	7707	8261	8154	6985	5515	5604	6318
+	03 Oslo - Oslove	644	614	665	682	702	709	709	530	560	626
+	11 Rogaland	843	798	859	920	1038	996	805	679	696	800
+	15 Møre og Romsdal	415	405	429	472	471	484	445	319	324	384
+	18 Nordland - Nordlánnda	296	319	346	335	381	343	289	218	214	219
+	31 Østfold	357	322	355	364	410	424	373	328	304	334
+	32 Akershus	811	749	832	886	938	918	850	704	682	742
+	33 Buskerud	309	283	310	333	361	383	311	256	254	290
+	34 Innlandet	575	601	626	655	696	675	533	420	457	508
+	39 Vestfold	273	259	289	310	311	307	290	232	222	238
+	40 Telemark	190	208	204	222	210	199	187	155	152	177
+	42 Agder	488	510	546	567	616	613	443	307	348	443
+	46 Vestland	697	723	749	769	830	832	686	520	536	627
+	50 Trøndelag - Trööndelage	893	896	937	986	1066	1062	879	703	717	791
+	55 Troms - Romsa - Tromssa	108	97	125	123	139	126	114	94	80	73
+	56 Finnmark - Finnmárku - Finmarkku	68	71	73	77	82	75	65	49	57	59
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*
+	Ukjent	5	4	5	6	10	8	6	*	*	7

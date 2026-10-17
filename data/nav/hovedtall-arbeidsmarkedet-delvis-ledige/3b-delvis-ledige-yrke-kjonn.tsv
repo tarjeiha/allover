@@ -1,0 +1,42 @@
+# Kilde: Nav
+# Tabell: Hovedtall om arbeidsmarkedet, delvis ledige (HARB050)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
+# Lagt inn: 2026-10-17
+# Ark: 3b. Delvis ledige yrke kjønn
+# Hovedtall om arbeidsmarkedet delvis ledige. September 2026
+# 3b. Delvis ledige fordelt på yrke og kjønn
+# September 2026
+# Kvinner
+gruppe	rad		Antall	Endring fra i fjor Antall	Endring fra i fjor Prosent
+	I alt kvinner		12250	9	0
+	Ledere		430	1	0
+	Ingeniør- og ikt-fag		411	36	10
+	Undervisning		849	91	12
+	Akademiske yrker		339	31	10
+	Helse, pleie og omsorg		1719	29	2
+	Barne- og ungdomsarbeid		1366	-75	-5
+	Meglere og konsulenter		300	10	3
+	Kontorarbeid		920	-31	-3
+	Butikk- og salgsarbeid		1419	17	1
+	Jordbruk, skogbruk og fiske		104	-15	-13
+	Bygg og anlegg		86	4	5
+	Industriarbeid		750	116	18
+	Reiseliv og transport		934	55	6
+	Serviceyrker og annet arbeid		1568	-72	-4
+	Ingen yrkesbakgrunn eller uoppgitt		1055	-188	-15
+Menn	I alt menn		10673	129	1
+Menn	Ledere		744	74	11
+Menn	Ingeniør- og ikt-fag		907	144	19
+Menn	Undervisning		445	76	21
+Menn	Akademiske yrker		187	15	9
+Menn	Helse, pleie og omsorg		543	18	3
+Menn	Barne- og ungdomsarbeid		286	-49	-15
+Menn	Meglere og konsulenter		275	-4	-1
+Menn	Kontorarbeid		698	64	10
+Menn	Butikk- og salgsarbeid		933	-1	0
+Menn	Jordbruk, skogbruk og fiske		141	2	1
+Menn	Bygg og anlegg		1144	-149	-12
+Menn	Industriarbeid		1263	69	6
+Menn	Reiseliv og transport		1166	11	1
+Menn	Serviceyrker og annet arbeid		1203	-53	-4
+Menn	Ingen yrkesbakgrunn eller uoppgitt		738	-88	-11

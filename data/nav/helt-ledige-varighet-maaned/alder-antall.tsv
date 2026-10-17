@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter varighet og langtidsledige, tidsserie måned (HL080)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Alder Antall
+# Helt ledige. Varighet og langtidsledige. Tidsserie måned
+# Varighet som helt ledig og alder. Antall
+# Januar - september 2026
+# Korttidsledige
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt korttidsledige	49232	46980	45522	42370	38621	39291	44319	43393	40781
+	19 år og under	1457	1392	1332	1301	1144	1307	1245	1493	1422
+	20-24 år	6304	5822	5609	5234	4596	4691	5156	5610	5402
+	25-29 år	7188	6662	6369	5874	5382	5471	6200	6333	6099
+	30-39 år	14290	13731	13298	12474	11486	11802	13239	12806	12008
+	40-49 år	10111	9736	9606	8939	8283	8270	9512	8921	8114
+	50-59 år	6816	6665	6410	5936	5441	5475	6274	5730	5302
+	60 år og over	3066	2972	2898	2612	2289	2275	2693	2500	2434
+Langtidsledige	I alt langtidsledige	19700	19770	19849	20073	19654	18813	19701	19439	18632
+Langtidsledige	19 år og under	95	103	108	116	106	88	84	97	72
+Langtidsledige	20-24 år	890	932	969	1002	971	889	953	923	837
+Langtidsledige	25-29 år	1726	1762	1777	1775	1712	1606	1661	1624	1543
+Langtidsledige	30-39 år	6388	6357	6291	6334	6173	5891	6169	6045	5701
+Langtidsledige	40-49 år	4865	4882	4887	4875	4836	4733	4959	4894	4781
+Langtidsledige	50-59 år	3444	3443	3482	3546	3447	3249	3443	3447	3339
+Langtidsledige	60 år og over	2292	2291	2335	2425	2409	2357	2432	2409	2359

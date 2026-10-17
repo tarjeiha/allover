@@ -1,0 +1,16 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter varighet og langtidsledige, tidsserie måned (HL080)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Kjønn Antall
+# Helt ledige. Varighet og langtidsledige. Tidsserie måned
+# Varighet som helt ledig og kjønn. Antall
+# Januar - september 2026
+# Kvinner
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt kvinner	27056	25963	25250	24665	23560	24236	27734	26860	24410
+	Korttidsledige	19430	18249	17542	16875	15930	16947	20065	19315	17283
+	Langtidsledige	7626	7714	7708	7790	7630	7289	7669	7545	7127
+Menn	I alt menn	41876	40787	40121	37778	34715	33868	36286	35972	35003
+Menn	Korttidsledige	29802	28731	27980	25495	22691	22344	24254	24078	23498
+Menn	Langtidsledige	12074	12056	12141	12283	12024	11524	12032	11894	11505

@@ -1,0 +1,17 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på arbeidspraksis, demografi, tidsserie måned (TILT120)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og tiltak
+# TILT120 Tiltaksdeltakere på arbeidspraksis. Demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og tiltak									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	1864	1851	2097	2171	2391	2292	1751	1309	1336	1576
+Januar 2026 - September 2026	Arbeidsforberedende trening	24	24	21	26	27	26	25	26	19	18
+Januar 2026 - September 2026	Arbeidstrening	1840	1827	2076	2145	2364	2266	1726	1283	1317	1558
+	I alt Nedsatt arbeidsevne, på tiltak	12372	12044	12263	12498	12864	12911	12773	11806	11890	12297
+	Arbeidsforberedende trening	7727	7463	7489	7482	7558	7626	8016	7973	7975	7964
+	Arbeidstrening	4644	4581	4774	5016	5306	5285	4757	3833	3915	4333
+	I alt Andre på tiltak	498	461	511	556	604	612	511	407	386	436
+	Arbeidsforberedende trening	10	10	11	10	13	9	9	8	14	9
+	Arbeidstrening	488	451	500	546	591	603	502	399	372	427

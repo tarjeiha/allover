@@ -1,0 +1,33 @@
+# Kilde: Nav
+# Tabell: Hovedtall om arbeidsmarkedet, delvis ledige (HARB050)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
+# Lagt inn: 2026-10-17
+# Ark: 1. Delvis ledige alder kjønn
+# Hovedtall om arbeidsmarkedet delvis ledige. September 2026
+# 1. Delvis ledige fordelt på alder og kjønn
+# September 2026
+gruppe	rad		Antall	Prosent av arbeidsstyrken	Endring fra i fjor Antall	Endring fra i fjor Prosent	Prosent av arbeidsstyrken i fjor
+	I alt		22923	0.8	138	1	0.8
+	19 år og under		300	0.2	-15	-5	0.2
+	20-24 år		1986	0.8	-36	-2	0.8
+	25-29 år		2733	0.9	7	0	0.9
+	30-39 år		6202	0.9	-30	0	0.9
+	40-49 år		5579	0.9	124	2	0.9
+	50-59 år		4115	0.7	77	2	0.7
+	60 år og over		2008	0.5	11	1	0.5
+Kvinner	I alt kvinner		12250	0.9	9	0	0.9
+Kvinner	19 år og under		127	0.2	-6	-5	0.2
+Kvinner	20-24 år		887	0.8	-111	-11	0.9
+Kvinner	25-29 år		1500	1	-19	-1	1
+Kvinner	30-39 år		3577	1.1	-9	0	1.1
+Kvinner	40-49 år		3239	1.1	142	5	1.1
+Kvinner	50-59 år		2089	0.7	35	2	0.7
+Kvinner	60 år og over		831	0.5	-23	-3	0.5
+Menn	I alt menn		10673	0.7	129	1	0.7
+Menn	19 år og under		173	0.2	-9	-5	0.3
+Menn	20-24 år		1099	0.9	75	7	0.8
+Menn	25-29 år		1233	0.8	26	2	0.7
+Menn	30-39 år		2625	0.7	-21	-1	0.7
+Menn	40-49 år		2340	0.7	-18	-1	0.7
+Menn	50-59 år		2026	0.6	42	2	0.6
+Menn	60 år og over		1177	0.5	34	3	0.5

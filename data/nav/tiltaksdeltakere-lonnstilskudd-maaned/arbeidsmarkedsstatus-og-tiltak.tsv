@@ -1,0 +1,18 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på lønnstilskudd, demografi, tidsserie måned (TILT110)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og tiltak
+# TILT110 Tiltaksdeltakere på lønnstilskudd. Demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og tiltak									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	597	349	414	480	531	630	845	704	736	685
+Januar 2026 - September 2026	Midlertidig lønnstilskudd	582	349	414	480	531	630	774	647	725	685
+Januar 2026 - September 2026	Tilskudd til sommerjobb	15	*	*	*	*	*	71	57	11	*
+	I alt Nedsatt arbeidsevne, på tiltak	7209	6190	6415	6619	6910	7228	7889	7836	7798	7998
+	Midlertidig lønnstilskudd	3383	2399	2631	2833	3127	3431	3929	3852	4003	4238
+	Tilskudd til sommerjobb	45	*	*	*	*	*	168	209	30	*
+	Varig lønnstilskudd	3781	3791	3784	3786	3783	3797	3792	3775	3765	3760
+	I alt Andre på tiltak	909	568	630	676	778	901	1169	1228	1124	1105
+	Midlertidig lønnstilskudd	890	568	630	676	778	901	1082	1151	1120	1105
+	Tilskudd til sommerjobb	19	*	*	*	*	*	87	77	4	*

@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere etter hovedgruppe og demografi, tidsserie måned (TILT100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og fødelan
+# TILT100 Tiltaksdeltakere. Hovedgruppe og demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og fødeland innvandrere									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	11828	11301	12071	12496	13032	12580	11110	9593	11433	12838
+Januar 2026 - September 2026	Afrika	1066	984	1052	1109	1211	1160	1005	880	1044	1153
+Januar 2026 - September 2026	Asia	2268	2160	2272	2325	2470	2357	2105	1874	2267	2579
+Januar 2026 - September 2026	Europa	8037	7758	8326	8590	8837	8583	7564	6460	7632	8585
+Januar 2026 - September 2026	Nord-Amerika, SørAmerika og Oceania	421	371	394	422	480	451	398	359	447	466
+Januar 2026 - September 2026	Ukjent	36	28	27	50	34	29	38	20	43	55
+	I alt Nedsatt arbeidsevne, på tiltak	65785	64651	65676	66377	67472	67605	64939	60987	65671	68688
+	Afrika	3649	3531	3636	3684	3836	3874	3552	3231	3580	3916
+	Asia	6916	6722	6889	6918	7138	7212	6815	6248	6929	7370
+	Europa	52965	52208	52911	53485	54188	54206	52330	49391	52897	55069
+	Nord-Amerika, SørAmerika og Oceania	2210	2156	2202	2247	2266	2270	2192	2074	2213	2271
+	Ukjent	45	34	38	43	44	43	50	43	52	62
+	I alt Andre på tiltak	4549	3744	4066	4269	4624	4885	4902	4560	4834	5061
+	Afrika	379	299	325	361	379	429	385	367	402	466
+	Asia	662	547	600	622	661	696	686	676	716	758
+	Europa	3358	2788	3023	3145	3434	3608	3651	3361	3551	3657
+	Nord-Amerika, SørAmerika og Oceania	137	104	111	128	141	139	151	145	152	158
+	Ukjent	14	6	7	13	9	13	29	11	13	22

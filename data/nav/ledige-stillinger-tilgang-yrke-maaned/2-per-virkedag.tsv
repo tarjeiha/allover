@@ -1,0 +1,92 @@
+# Kilde: Nav
+# Tabell: Tilgang ledige stillinger etter yrke, tidsserie måned (STIL040)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
+# Lagt inn: 2026-10-17
+# Ark: 2. Per virkedag
+# Tilgang ledige stillinger. Yrke. Tidsserie måned
+# Per virkedag. Antall
+# Januar - september 2026
+# Ledere
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt ledere	61.703704	56.85	74.25	63.636364	88	47.92	46.75	44.65	56.16
+	Politikere og toppledere	11.740741	14.35	15.55	13	18.235294	9.72	8.65	9.65	12.64
+	Administrative og merkantile ledere	49.962963	42.5	58.7	50.636364	69.764706	38.2	38.1	35	43.52
+Ingeniør- og ikt-fag	I alt ingeniør- og ikt-fag	144.222222	143.85	177.2	147.045455	191.882353	108.28	111.35	87.3	141
+Ingeniør- og ikt-fag	Andre naturvitenskapelige yrker	5.592593	6.6	8.5	6.272727	6.176471	4.12	4.25	3.1	4.6
+Ingeniør- og ikt-fag	Ikt-yrker	49.703704	51.1	63.4	61.090909	75.647059	40	40.6	32.85	54.6
+Ingeniør- og ikt-fag	Sivilingeniører og sivilarkitekter	31.925926	31.8	40.5	29.590909	39.764706	22.44	26.8	19.5	32.52
+Ingeniør- og ikt-fag	Ingeniører og teknikere	57	54.35	64.8	50.090909	70.294118	41.72	39.7	31.85	49.28
+Undervisning	I alt undervisning	104.444444	139.95	188.15	190.318182	209.588235	126.16	45	77.8	94.8
+Undervisning	Førskolelærere	41.074074	38.05	65.45	73.272727	79.529412	48.88	17.6	27.35	41.64
+Undervisning	Grunnskolelærere	30.37037	48.5	50.1	45.636364	47.705882	26.44	7.05	15.25	18.04
+Undervisning	Lærere i videregående skole	6.444444	14.05	32.45	29.181818	32	14.08	2.7	7.55	9.64
+Undervisning	Lærere på universitet og høyskoler og spesialister	15.333333	24.15	23.35	24.772727	22.882353	19.84	10.25	10.8	13.88
+Undervisning	Annet undervisningspersonale	7.555556	7.25	8	8.545455	17.705882	11.36	4.5	8.7	5.52
+Undervisning	Ledere innen undervisning og barnevern	3.666667	7.95	8.8	8.909091	9.764706	5.56	2.9	8.15	6.08
+Akademiske yrker	I alt akademiske yrker	61.074074	70.55	80.85	73.227273	88.235294	48.2	46.35	47.95	56.88
+Akademiske yrker	Saksbehandlere i offentlig sektor	15.592593	20.75	16.6	20.545455	19.764706	12.52	11.95	11.85	15.2
+Akademiske yrker	Journalister og informasjonsmedarbeidere	9.111111	9.2	11	9.954545	11.529412	5.2	5.35	7.05	8.24
+Akademiske yrker	Samfunnsvitenskapelige yrker	2.037037	1.75	2.2	3.181818	5	2.08	1.75	1.4	3.84
+Akademiske yrker	Juridiske yrker	10.037037	12.25	14.35	14.363636	18.705882	6.24	5.4	8.55	10.16
+Akademiske yrker	Akademiske yrker i privat sektor	13.407407	12.75	16.95	13.409091	20.117647	10.84	14	11.5	10.16
+Akademiske yrker	Andre akademiske yrker	10.888889	13.85	19.75	11.772727	13.117647	11.32	7.9	7.6	9.28
+Helse, pleie og omsorg	I alt helse, pleie og omsorg	650.666667	637.25	612.55	525.363636	569.235294	399.08	258.9	354.9	400.76
+Helse, pleie og omsorg	Medisinske yrker (leger, tannleger, veterinærer, farmasøyter)	42.407407	33.85	38.35	43.545455	39.882353	32.92	17.7	21.95	28.48
+Helse, pleie og omsorg	Sykepleiere og jordmødre	205.703704	202.3	185.35	165.318182	192.823529	122.24	72.35	97.7	123.2
+Helse, pleie og omsorg	Sosionomer og barnevernspedagoger	58.814815	84.85	81.4	62.363636	76.647059	51.96	39.5	46.85	49.52
+Helse, pleie og omsorg	Omsorgs- og pleiearbeidere	298.703704	276.05	266.65	211.772727	216.058824	159.96	107.85	164.7	168.28
+Helse, pleie og omsorg	Annet helsepersonell	40.407407	35.25	35.2	37.181818	38.588235	27.36	17.3	20.2	26.76
+Helse, pleie og omsorg	Mellomledere innen helse- pleie og omsorg	4.62963	4.95	5.6	5.181818	5.235294	4.64	4.2	3.5	4.52
+Barne- og ungdomsarbeid	I alt barne- og ungdomsarbeid	134.259259	134.2	145.95	165.5	220.117647	106.92	64.35	107	112
+Barne- og ungdomsarbeid	Skoleassistenter	6.777778	9.6	12.7	13.318182	22.705882	10.32	4.7	7.7	8.2
+Barne- og ungdomsarbeid	Barnehage- og skolefritidsassistenter	127.481481	124.6	133.25	152.181818	197.411765	96.6	59.65	99.3	103.8
+Meglere og konsulenter	I alt meglere og konsulenter	55.407407	56.45	71.6	63.045455	88.823529	49.24	42.45	49.3	55.08
+Meglere og konsulenter	Salgskonsulenter og liknende	24.592593	30.9	34.35	27.863636	36.294118	20.84	17.75	24.55	23.92
+Meglere og konsulenter	Meglere	5.148148	6.05	6.75	5.318182	12.470588	5.64	4.1	3.6	5.72
+Meglere og konsulenter	Økonomer og revisorer	25.666667	19.5	30.5	29.863636	40.058824	22.76	20.6	21.15	25.44
+Kontorarbeid	I alt kontorarbeid	98.37037	142.1	155.35	126.409091	168.235294	93.16	68.45	80.3	102.08
+Kontorarbeid	Lavere saksbehandlere innen offentlig administrasjon	0.333333	0.85	0.5	0.909091	0.882353	0.4	0.25	0.3	0.52
+Kontorarbeid	Sekretærer	3.592593	2.85	3.4	2.681818	4.176471	3.04	0.9	1.5	2.76
+Kontorarbeid	Økonomi- og kontormedarbeidere	21	22.7	25.35	23.454545	31.470588	18.88	13.1	12.2	21.4
+Kontorarbeid	Lager- og transportmedarbeidere	37.333333	61.45	69	55.045455	76.705882	39.32	30	36.95	41.72
+Kontorarbeid	Resepsjonister og sentralbordoperatører	31.592593	49.9	49.85	37.454545	45.941176	26.4	19.3	21.9	29.28
+Kontorarbeid	Andre funksjonærer	4.518519	4.35	7.25	6.863636	9.058824	5.12	4.9	7.45	6.4
+Butikk- og salgsarbeid	I alt butikk- og salgsarbeid	202.407407	279.55	293.9	294.818182	382.235294	221.36	170.4	203	202.76
+Butikk- og salgsarbeid	Butikkarbeid	131.666667	184.95	188.35	185.363636	223.529412	138.84	109.7	136.65	129.16
+Butikk- og salgsarbeid	Annet salgsarbeid	70.740741	94.6	105.55	109.454545	158.705882	82.52	60.7	66.35	73.6
+Jordbruk, skogbruk og fiske	I alt jordbruk, skogbruk og fiske	25.296296	34.4	32.85	23	23.117647	13.28	7.6	5.75	6.72
+Jordbruk, skogbruk og fiske	Jordbruk, skogbruk og fiske	25.296296	34.4	32.85	23	23.117647	13.28	7.6	5.75	6.72
+Bygg og anlegg	I alt bygg og anlegg	128.296296	165.5	187.25	163.909091	208.294118	151.12	85.8	113.4	129.16
+Bygg og anlegg	Rørleggere	9	12.6	17.25	10.772727	10.411765	7.68	5.2	6.05	6.6
+Bygg og anlegg	Snekkere og tømrere	24.259259	24.3	22.35	28.363636	36.411765	29.6	16.65	27.8	26.6
+Bygg og anlegg	Elektrikere	28.703704	34.05	33.3	33.727273	38.823529	24.56	17.45	15.25	18.4
+Bygg og anlegg	Andre bygningsarbeidere	42.740741	56.95	70.2	53.363636	74.529412	58.2	31.3	42.4	51.96
+Bygg og anlegg	Anleggsarbeidere	16.814815	25.4	30.8	27.136364	36.411765	22.12	10.8	16.55	17.48
+Bygg og anlegg	Hjelpearbeidere innen bygg og anlegg	4	10	10.05	6.954545	7.294118	6.32	2.8	3.1	5.72
+Bygg og anlegg	Mellomledere innen bygg og anlegg	2.777778	2.2	3.3	3.590909	4.411765	2.64	1.6	2.25	2.4
+Industriarbeid	I alt industriarbeid	142.444444	162.15	189.05	135.954545	187.647059	115.88	77	91	123.6
+Industriarbeid	Mekanikere	36.740741	45.9	57.55	32.5	49	28.4	19.75	30.2	36.72
+Industriarbeid	Prosess- og maskinoperatører	28.777778	28.4	28.65	18.909091	28.176471	16.88	11.3	11.3	15.04
+Industriarbeid	Næringsmiddelarbeid	19.962963	31	37.1	28.136364	40.941176	25.68	15.6	19	19.72
+Industriarbeid	Automatikere og elektriske montører	26.037037	23.05	21.2	22.954545	27.411765	15.68	12.55	9.15	21.24
+Industriarbeid	Andre håndverkere	7.777778	9.45	11.7	7.272727	9.529412	8.56	5.35	5.1	5.88
+Industriarbeid	Hjelpearbeid innen industrien	7.37037	5.05	10.25	10.818182	12.470588	6.6	4.4	3.9	7.84
+Industriarbeid	Støpere, sveisere, platearbeidere	13.259259	16.75	19.4	13.545455	16.823529	11.48	5.15	10.65	14.52
+Industriarbeid	Mellomledere innen industriarbeid	2.518519	2.55	3.2	1.818182	3.294118	2.6	2.9	1.7	2.64
+Reiseliv og transport	I alt reiseliv og transport	137.703704	209.8	226.55	180.863636	214.941176	147.72	112.55	124.5	146.2
+Reiseliv og transport	Maritime yrker	10.740741	21.15	19.5	7.818182	11.294118	8.52	4.9	5.05	6.52
+Reiseliv og transport	Førere av transportmidler	40.222222	59.05	71.55	67.045455	79.941176	52.2	34.3	36.9	48.6
+Reiseliv og transport	Reiseledere, guider og reisebyråmedarbeidere	15.296296	22.8	13.05	6.409091	7.941176	6.68	6.95	11.6	5.4
+Reiseliv og transport	Konduktører og kabinpersonale	2.666667	0.1	0.65	1.227273	0.352941	5.48	3.2	0.3	0.52
+Reiseliv og transport	Kokker	22.185185	30.95	33.3	32.181818	34.882353	23.72	17.05	21.05	23.24
+Reiseliv og transport	Hovmestere, servitører og hjelpepersonell	39.62963	68.55	79.65	57.363636	69.176471	44.88	41.35	44.55	54.64
+Reiseliv og transport	Mellomledere innen reiseliv og transport	6.962963	7.2	8.85	8.818182	11.352941	6.24	4.8	5.05	7.28
+Serviceyrker og annet arbeid	I alt serviceyrker og annet arbeid	160.185185	254.45	281.15	218.909091	239.882353	156.24	131.1	142	153.84
+Serviceyrker og annet arbeid	Yrker innen politi, brannvesen, toll og forsvar	27.37037	30.6	17.15	18.090909	13.352941	8.68	10.7	9.3	13.96
+Serviceyrker og annet arbeid	Velvære	6.814815	7.75	8.8	10.090909	11.235294	7.16	6.85	7.45	11.12
+Serviceyrker og annet arbeid	Rengjøring	43.333333	72.45	77.2	58	55.470588	48	23.95	35.6	44.56
+Serviceyrker og annet arbeid	Vakthold og vaktmestere	37.962963	58.1	99.4	65.818182	82.705882	46.68	47.15	40.05	38.04
+Serviceyrker og annet arbeid	Annet arbeid	36.296296	74.5	66	54.090909	61.941176	37.8	35.4	40.75	36.08
+Serviceyrker og annet arbeid	Yrker innen kunst, sport og kultur	8.407407	11.05	12.6	12.818182	15.176471	7.92	7.05	8.85	10.08
+Ingen yrkesbakgrunn eller uoppgitt	I alt ingen yrkesbakgrunn eller uoppgitt	0.666667	0.85	0.75	0.272727	2.470588	0.84	0.45	0.5	0.48
+Ingen yrkesbakgrunn eller uoppgitt	Ingen yrkesbakgrunn eller uoppgitt	0.666667	0.85	0.75	0.272727	2.470588	0.84	0.45	0.5	0.48

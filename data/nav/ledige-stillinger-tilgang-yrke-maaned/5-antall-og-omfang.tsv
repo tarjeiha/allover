@@ -1,0 +1,55 @@
+# Kilde: Nav
+# Tabell: Tilgang ledige stillinger etter yrke, tidsserie måned (STIL040)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
+# Lagt inn: 2026-10-17
+# Ark: 5. Antall og omfang
+# Tilgang ledige stillinger. Yrke. Tidsserie måned
+# Antall
+# Januar - september 2026
+# Ledere
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt ledere	1666	1137	1485	1400	1496	1198	935	893	1404
+	Heltid	1601	1094	1435	1309	1393	1141	870	870	1338
+	Deltid	65	43	50	91	103	57	65	23	66
+Ingeniør- og ikt-fag	I alt ingeniør- og ikt-fag	3894	2877	3544	3235	3262	2707	2227	1746	3525
+Ingeniør- og ikt-fag	Heltid	3732	2742	3403	3105	3194	2571	2156	1671	3334
+Ingeniør- og ikt-fag	Deltid	162	135	141	130	68	136	71	75	191
+Undervisning	I alt undervisning	2820	2799	3763	4187	3563	3154	900	1556	2370
+Undervisning	Heltid	2183	2339	3198	3573	2683	2326	675	962	1656
+Undervisning	Deltid	637	460	565	614	880	828	225	594	714
+Akademiske yrker	I alt akademiske yrker	1649	1411	1617	1611	1500	1205	927	959	1422
+Akademiske yrker	Heltid	1424	1256	1448	1442	1357	1100	857	876	1255
+Akademiske yrker	Deltid	225	155	169	169	143	105	70	83	167
+Helse, pleie og omsorg	I alt helse, pleie og omsorg	17568	12745	12251	11558	9677	9977	5178	7098	10019
+Helse, pleie og omsorg	Heltid	10615	7602	7330	6867	5763	5863	3030	3502	5392
+Helse, pleie og omsorg	Deltid	6953	5143	4921	4691	3914	4114	2148	3596	4627
+Barne- og ungdomsarbeid	I alt barne- og ungdomsarbeid	3625	2684	2919	3641	3742	2673	1287	2140	2800
+Barne- og ungdomsarbeid	Heltid	1398	1286	1149	1666	1512	1150	612	663	939
+Barne- og ungdomsarbeid	Deltid	2227	1398	1770	1975	2230	1523	675	1477	1861
+Meglere og konsulenter	I alt meglere og konsulenter	1496	1129	1432	1387	1510	1231	849	986	1377
+Meglere og konsulenter	Heltid	1408	1024	1336	1292	1430	1128	812	920	1276
+Meglere og konsulenter	Deltid	88	105	96	95	80	103	37	66	101
+Kontorarbeid	I alt kontorarbeid	2656	2842	3107	2781	2860	2329	1369	1606	2552
+Kontorarbeid	Heltid	1935	2033	2324	2033	2213	1688	985	1111	1732
+Kontorarbeid	Deltid	721	809	783	748	647	641	384	495	820
+Butikk- og salgsarbeid	I alt butikk- og salgsarbeid	5465	5591	5878	6486	6498	5534	3408	4060	5069
+Butikk- og salgsarbeid	Heltid	2470	2235	2471	2413	2415	2215	1408	1442	1976
+Butikk- og salgsarbeid	Deltid	2995	3356	3407	4073	4083	3319	2000	2618	3093
+Jordbruk, skogbruk og fiske	I alt jordbruk, skogbruk og fiske	683	688	657	506	393	332	152	115	168
+Jordbruk, skogbruk og fiske	Heltid	631	633	596	413	342	274	109	82	122
+Jordbruk, skogbruk og fiske	Deltid	52	55	61	93	51	58	43	33	46
+Bygg og anlegg	I alt bygg og anlegg	3464	3310	3745	3606	3541	3778	1716	2268	3229
+Bygg og anlegg	Heltid	3276	3028	3496	3404	3393	3654	1618	2134	3127
+Bygg og anlegg	Deltid	188	282	249	202	148	124	98	134	102
+Industriarbeid	I alt industriarbeid	3846	3243	3781	2991	3190	2897	1540	1820	3090
+Industriarbeid	Heltid	3535	2939	3405	2738	2849	2579	1319	1614	2815
+Industriarbeid	Deltid	311	304	376	253	341	318	221	206	275
+Reiseliv og transport	I alt reiseliv og transport	3718	4196	4531	3979	3654	3693	2251	2490	3655
+Reiseliv og transport	Heltid	2505	2453	2707	2674	2325	2594	1434	1400	2291
+Reiseliv og transport	Deltid	1213	1743	1824	1305	1329	1099	817	1090	1364
+Serviceyrker og annet arbeid	I alt serviceyrker og annet arbeid	4325	5089	5623	4816	4078	3906	2622	2840	3846
+Serviceyrker og annet arbeid	Heltid	2494	2803	3094	2510	2172	2131	1301	1389	2066
+Serviceyrker og annet arbeid	Deltid	1831	2286	2529	2306	1906	1775	1321	1451	1780
+Ingen yrkesbakgrunn eller uoppgitt	I alt ingen yrkesbakgrunn eller uoppgitt	18	17	15	6	42	21	9	10	12
+Ingen yrkesbakgrunn eller uoppgitt	Heltid	5	12	5	4	23	13	6	5	9
+Ingen yrkesbakgrunn eller uoppgitt	Deltid	13	5	10	2	19	8	3	5	3

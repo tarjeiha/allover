@@ -1,0 +1,17 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere etter hovedgruppe og demografi, tidsserie måned (TILT100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og innvand
+# TILT100 Tiltaksdeltakere. Hovedgruppe og demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og innvandrer status									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	11828	11301	12071	12496	13032	12580	11110	9593	11433	12838
+Januar 2026 - September 2026	Ikke innvandrer	4816	4530	4859	5009	5223	5052	4729	4133	4673	5133
+Januar 2026 - September 2026	Innvandrer	7013	6771	7212	7487	7809	7528	6381	5460	6760	7705
+	I alt Nedsatt arbeidsevne, på tiltak	65785	64651	65676	66377	67472	67605	64939	60987	65671	68688
+	Ikke innvandrer	50906	50387	51005	51400	52075	52017	50408	47765	50675	52423
+	Innvandrer	14879	14264	14671	14977	15397	15588	14531	13222	14996	16265
+	I alt Andre på tiltak	4549	3744	4066	4269	4624	4885	4902	4560	4834	5061
+	Ikke innvandrer	2379	1947	2160	2288	2419	2537	2643	2380	2502	2535
+	Innvandrer	2170	1797	1906	1981	2205	2348	2259	2180	2332	2526

@@ -1,0 +1,34 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere etter hovedgruppe og demografi, tidsserie måned (TILT100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og tiltaks
+# TILT100 Tiltaksdeltakere. Hovedgruppe og demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og tiltaksgruppe									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	11828	11301	12071	12496	13032	12580	11110	9593	11433	12838
+Januar 2026 - September 2026	Lønnstilskudd	597	349	414	480	531	630	845	704	736	685
+Januar 2026 - September 2026	Arbeidspraksis	1864	1851	2097	2171	2391	2292	1751	1309	1336	1576
+Januar 2026 - September 2026	Opplæring	3362	3332	3554	3725	3787	3736	2647	2081	3261	4135
+Januar 2026 - September 2026	Oppfølging	5635	5413	5632	5768	5944	5573	5485	5171	5709	6023
+Januar 2026 - September 2026	Avklaringstiltak	305	275	297	285	314	293	322	266	330	360
+Januar 2026 - September 2026	Jobbskaping og egenetablering	65	81	77	67	65	56	60	62	61	59
+	I alt Nedsatt arbeidsevne, på tiltak	65785	64651	65676	66377	67472	67605	64939	60987	65671	68688
+	Lønnstilskudd	7209	6190	6415	6619	6910	7228	7889	7836	7798	7998
+	Arbeidspraksis	12372	12044	12263	12498	12864	12911	12773	11806	11890	12297
+	Opplæring	12139	12814	13167	13338	13453	13308	10092	7981	11596	13498
+	Oppfølging	15063	15094	15088	15009	15108	14972	15175	15130	14952	15043
+	Avklaringstiltak	3241	3010	3103	3210	3391	3445	3185	2649	3462	3716
+	Tilrettelagt arbeid	14397	14265	14305	14309	14354	14395	14466	14417	14484	14575
+	Arbeidsrettet rehabilitering	1065	1010	1066	1098	1087	1043	1033	840	1168	1240
+	Jobbskaping og egenetablering	*	6	*	*	*	*	*	*	*	4
+	Tilrettelegging	296	218	267	294	303	301	324	325	318	317
+	I alt Andre på tiltak	4549	3744	4066	4269	4624	4885	4902	4560	4834	5061
+	Lønnstilskudd	909	568	630	676	778	901	1169	1228	1124	1105
+	Arbeidspraksis	498	461	511	556	604	612	511	407	386	436
+	Opplæring	743	690	709	757	840	870	596	500	759	969
+	Oppfølging	1315	1166	1206	1185	1222	1291	1412	1434	1460	1455
+	Avklaringstiltak	311	282	296	297	339	333	330	262	343	321
+	Arbeidsrettet rehabilitering	165	157	159	172	186	193	165	127	168	161
+	Jobbskaping og egenetablering	*	*	*	*	*	4	*	*	4	*
+	Tilrettelegging	605	417	553	624	653	681	716	599	590	612

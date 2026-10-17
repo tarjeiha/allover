@@ -1,0 +1,61 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter utdanning, tidsserie måned (HL070)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Alder. Andel
+# Helt ledige. Utdanning. Tidsserie måned
+# Utdanningsnivå¹ og alder. Andel av arbeidsstyrken
+# Januar - september 2026
+# 24 år og under
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	2.3	2.1	2.1	2	1.8	1.8	1.9	2.1	2
+	Grunnskole	2.5	2.5	2.4	2.3	2.1	2.1	2.1	2.5	2.6
+	Videregående, avsluttende utdanning	1.8	1.6	1.5	1.5	1.3	1.3	1.7	1.6	1.4
+	Påbygging til videregående utdanning	1.2	1.4	1.5	1.8	2.1	1.2	1.5	1.8	1.3
+	Universitets- og høgskoleutdanning, lavere nivå	1	0.8	0.7	1	0.8	0.9	1.1	1.1	1
+	Universitets- og høgskoleutdanning, høyere nivå	1.7	1.2	0.6	2.5	1.5	2.3	1.7	1.5	1.1
+	Forskerutdanning	*	*	*	*	*	*	*	*	*
+	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+25-29 år	I alt	2.9	2.7	2.7	2.5	2.3	2.3	2.6	2.6	2.5
+25-29 år	Grunnskole	7.2	7	6.9	6.7	6.3	5.8	6.2	6.4	6.4
+25-29 år	Videregående, avsluttende utdanning	2.8	2.7	2.6	2.4	2.1	2.2	2.4	2.5	2.5
+25-29 år	Påbygging til videregående utdanning	1.8	1.6	1.6	1.9	1.6	1.5	1.7	1.7	1.6
+25-29 år	Universitets- og høgskoleutdanning, lavere nivå	1.9	1.7	1.5	1.5	1.4	1.6	2	2.1	1.9
+25-29 år	Universitets- og høgskoleutdanning, høyere nivå	1.3	1.2	1.2	1.3	1.2	1.3	1.7	1.6	1.3
+25-29 år	Forskerutdanning	*	*	*	*	*	*	4.2	2.1	2.6
+25-29 år	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+30-39 år	I alt	3	2.9	2.9	2.7	2.6	2.6	2.8	2.7	2.6
+30-39 år	Grunnskole	6.2	6.1	6	5.9	5.5	5.3	5.8	5.7	5.5
+30-39 år	Videregående, avsluttende utdanning	2.6	2.5	2.4	2.3	2.1	2.1	2.4	2.3	2.2
+30-39 år	Påbygging til videregående utdanning	1.7	1.6	1.6	1.6	1.4	1.5	1.8	1.7	1.5
+30-39 år	Universitets- og høgskoleutdanning, lavere nivå	2.1	2	2	2	1.9	2	2.3	2.2	2
+30-39 år	Universitets- og høgskoleutdanning, høyere nivå	1.9	1.8	1.8	1.9	1.7	1.8	2.1	2	1.8
+30-39 år	Forskerutdanning	3.2	3	2.6	2.7	2.9	2.7	3.7	3.5	2.9
+30-39 år	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+40-49 år	I alt	2.4	2.3	2.3	2.2	2.1	2.1	2.3	2.2	2.1
+40-49 år	Grunnskole	4.7	4.6	4.7	4.4	4.2	4.1	4.4	4.3	4.1
+40-49 år	Videregående, grunnutdanning	1.9	1.9	1.9	2.2	1.7	1.6	1.9	1.9	1.6
+40-49 år	Videregående, avsluttende utdanning	2	2	1.9	1.8	1.7	1.7	1.9	1.8	1.7
+40-49 år	Påbygging til videregående utdanning	1.5	1.4	1.4	1.4	1.3	1.4	1.7	1.4	1.4
+40-49 år	Universitets- og høgskoleutdanning, lavere nivå	1.6	1.5	1.5	1.5	1.5	1.5	1.8	1.6	1.5
+40-49 år	Universitets- og høgskoleutdanning, høyere nivå	1.9	1.9	1.8	1.9	1.9	1.9	2.3	2.1	1.9
+40-49 år	Forskerutdanning	2	2	1.9	2	2	2	2.5	2.3	2.1
+40-49 år	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+50-59 år	I alt	1.7	1.6	1.6	1.5	1.4	1.4	1.6	1.5	1.4
+50-59 år	Grunnskole	2.9	2.9	2.8	2.8	2.6	2.4	2.7	2.6	2.5
+50-59 år	Videregående, grunnutdanning	1.9	1.8	1.8	1.8	1.6	1.5	1.8	1.7	1.6
+50-59 år	Videregående, avsluttende utdanning	1.5	1.4	1.4	1.3	1.3	1.2	1.4	1.3	1.2
+50-59 år	Påbygging til videregående utdanning	1.1	1.1	1.1	1.1	1	1	1.1	1	1
+50-59 år	Universitets- og høgskoleutdanning, lavere nivå	1.2	1.1	1.1	1.1	1	1.1	1.2	1.2	1.1
+50-59 år	Universitets- og høgskoleutdanning, høyere nivå	1.4	1.4	1.3	1.4	1.4	1.4	1.6	1.5	1.4
+50-59 år	Forskerutdanning	1.2	1.2	1.1	1.3	1.1	1	1.3	1.4	1.3
+50-59 år	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+60 år og over	I alt	1.4	1.3	1.3	1.3	1.2	1.2	1.3	1.3	1.2
+60 år og over	Grunnskole	1.9	1.9	1.9	1.9	1.7	1.6	1.7	1.7	1.6
+60 år og over	Videregående, grunnutdanning	0.9	0.9	0.9	0.8	0.8	0.8	0.9	0.9	0.9
+60 år og over	Videregående, avsluttende utdanning	1.6	1.5	1.5	1.4	1.3	1.3	1.4	1.3	1.3
+60 år og over	Påbygging til videregående utdanning	1.3	1.3	1.4	1.4	1.3	1.3	1.4	1.4	1.3
+60 år og over	Universitets- og høgskoleutdanning, lavere nivå	1	1	0.9	0.9	0.9	0.9	1	1	1
+60 år og over	Universitets- og høgskoleutdanning, høyere nivå	1	1	1	1.1	1	1	1.2	1.1	1.1
+60 år og over	Forskerutdanning	0.6	0.7	0.6	0.7	0.6	0.7	0.7	0.6	0.6
+60 år og over	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*

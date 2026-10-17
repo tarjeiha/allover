@@ -1,0 +1,27 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter fylke og kommune, tidsserie måned (HL060)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: 2. Fylke Prosent av arbeidsstyr
+# Helt ledige. Fylke og kommune. Tidsserie måned
+# Fylke. Prosent av arbeidsstyrken²
+# Januar - september 2026
+rad		Januar		Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	2.3		2.2	2.2	2.1	1.9	1.9	2.1	2.1	2
+03	Oslo - Oslove	2.9		2.9	2.8	2.7	2.6	2.6	2.9	2.8	2.7
+11	Rogaland	2.2		2.1	2.1	2	1.9	1.9	2	2	1.9
+15	Møre og Romsdal	2		1.9	1.9	1.8	1.7	1.7	1.9	1.8	1.6
+18	Nordland - Nordlánnda	1.8		1.7	1.7	1.6	1.5	1.5	1.6	1.6	1.5
+31	Østfold	3.1		3	2.9	2.7	2.5	2.5	2.8	2.7	2.6
+32	Akershus	2.6		2.5	2.5	2.4	2.2	2.2	2.5	2.4	2.3
+33	Buskerud	2.5		2.4	2.5	2.2	2	2.1	2.3	2.3	2.2
+34	Innlandet	2.1		2	1.9	1.9	1.7	1.6	1.7	1.7	1.6
+39	Vestfold	2.7		2.6	2.5	2.3	2.1	2.2	2.3	2.3	2.2
+40	Telemark	2.7		2.6	2.5	2.4	2.2	2.1	2.3	2.3	2.2
+42	Agder	2.3		2.2	2.2	2	1.9	1.8	2	2.1	2
+46	Vestland	1.9		1.8	1.8	1.7	1.5	1.6	1.7	1.7	1.6
+50	Trøndelag - Trööndelage	2.1		2.1	2	1.9	1.8	1.7	1.9	2	1.9
+55	Troms - Romsa - Tromssa	1.3		1.3	1.3	1.3	1.3	1.2	1.3	1.3	1.2
+56	Finnmark - Finnmárku - Finmarkku	2.1		2.1	2.2	2.2	2.2	2.2	2.2	2.2	2.1
+97	Svalbard og øvrige områder	*		*	*	*	*	*	*	*	*
+Ukjent	Ukjent	*		*	*	*	*	*	*	*	*

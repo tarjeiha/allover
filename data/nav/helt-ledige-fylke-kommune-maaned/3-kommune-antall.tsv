@@ -1,0 +1,386 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter fylke og kommune, tidsserie måned (HL060)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: 3. Kommune Antall
+# Helt ledige. Fylke og kommune. Tidsserie måned
+# Kommune¹. Antall²
+# Januar - september 2026
+# Oslo - Oslove
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt Oslo - Oslove	12125	11917	11520	11132	10700	10839	12121	11649	11028
+	0301 Oslo - Oslove	12125	11917	11520	11132	10700	10839	12121	11649	11028
+Rogaland	I alt Rogaland	5815	5628	5534	5403	5127	5096	5436	5425	5110
+Rogaland	1101 Eigersund	197	198	256	247	211	166	215	182	180
+Rogaland	1103 Stavanger	2027	1993	1949	1935	1861	1787	1948	1940	1819
+Rogaland	1106 Haugesund	473	438	419	411	380	418	434	435	409
+Rogaland	1108 Sandnes	1147	1108	1097	1048	1039	1029	1028	1069	1003
+Rogaland	1111 Sokndal	31	30	39	31	27	26	27	25	27
+Rogaland	1112 Lund	16	19	20	15	9	9	13	15	12
+Rogaland	1114 Bjerkreim	26	35	26	21	16	21	23	18	14
+Rogaland	1119 Hå	174	159	149	148	124	134	137	129	128
+Rogaland	1120 Klepp	185	174	167	164	155	148	167	177	158
+Rogaland	1121 Time	195	174	185	175	169	170	175	183	164
+Rogaland	1122 Gjesdal	130	124	123	121	125	136	175	162	118
+Rogaland	1124 Sola	316	305	271	285	285	300	282	288	288
+Rogaland	1127 Randaberg	132	113	109	103	91	90	102	111	98
+Rogaland	1130 Strand	135	145	134	131	110	102	95	95	81
+Rogaland	1133 Hjelmeland	35	27	28	38	22	20	24	21	15
+Rogaland	1134 Suldal	24	26	19	16	10	13	18	9	11
+Rogaland	1135 Sauda	35	23	25	24	16	17	22	18	22
+Rogaland	1144 Kvitsøy	4	4	*	6	5	6	6	6	4
+Rogaland	1145 Bokn	13	10	9	8	9	9	7	10	13
+Rogaland	1146 Tysvær	79	83	79	69	69	66	70	68	73
+Rogaland	1149 Karmøy	370	364	358	348	336	364	394	403	413
+Rogaland	1151 Utsira	*	*	*	*	4	*	4	*	4
+Rogaland	1160 Vindafjord	69	75	68	58	54	64	70	58	56
+Møre og Romsdal	I alt Møre og Romsdal	2753	2629	2633	2504	2337	2324	2649	2518	2240
+Møre og Romsdal	1505 Kristiansund	267	245	246	215	209	191	224	239	230
+Møre og Romsdal	1506 Molde	327	312	304	308	313	345	356	288	268
+Møre og Romsdal	1508 Ålesund	666	651	638	624	552	552	625	588	529
+Møre og Romsdal	1511 Vanylven	36	42	36	37	34	31	27	32	19
+Møre og Romsdal	1514 Sande	18	22	21	16	15	18	16	22	17
+Møre og Romsdal	1515 Herøy (Møre og Romsdal)	124	113	164	137	124	86	113	94	78
+Møre og Romsdal	1516 Ulstein	77	72	72	76	75	68	77	76	61
+Møre og Romsdal	1517 Hareid	62	50	65	66	61	67	72	68	55
+Møre og Romsdal	1520 Ørsta	108	84	86	93	90	87	97	87	90
+Møre og Romsdal	1525 Stranda	49	48	39	41	47	42	43	40	38
+Møre og Romsdal	1528 Sykkylven	54	51	52	54	51	60	77	69	55
+Møre og Romsdal	1531 Sula	77	88	105	80	69	65	77	76	73
+Møre og Romsdal	1532 Giske	68	53	56	46	42	46	69	69	50
+Møre og Romsdal	1535 Vestnes	73	89	69	56	50	69	69	77	58
+Møre og Romsdal	1539 Rauma	56	45	43	48	48	44	39	43	33
+Møre og Romsdal	1547 Aukra	31	19	22	16	14	18	29	28	28
+Møre og Romsdal	1554 Averøy	56	48	46	52	67	57	71	62	60
+Møre og Romsdal	1557 Gjemnes	34	31	28	25	22	21	26	26	29
+Møre og Romsdal	1560 Tingvoll	33	29	23	26	22	14	22	23	26
+Møre og Romsdal	1563 Sunndal	83	79	74	82	75	77	81	82	63
+Møre og Romsdal	1566 Surnadal	73	66	58	63	38	38	37	37	40
+Møre og Romsdal	1573 Smøla	11	11	9	14	13	14	15	19	13
+Møre og Romsdal	1576 Aure	29	25	22	24	23	19	25	18	11
+Møre og Romsdal	1577 Volda	130	132	136	111	102	104	129	132	105
+Møre og Romsdal	1578 Fjord	12	24	22	14	6	9	19	17	14
+Møre og Romsdal	1579 Hustadvika	122	107	103	87	89	98	104	93	89
+Møre og Romsdal	1580 Haram	77	93	94	93	86	84	110	113	108
+Nordland - Nordlánnda	I alt Nordland - Nordlánnda	2213	2072	2086	1930	1865	1835	1979	1939	1833
+Nordland - Nordlánnda	1804 Bodø	521	452	424	384	358	386	395	385	369
+Nordland - Nordlánnda	1806 Narvik	159	131	136	131	128	124	130	117	123
+Nordland - Nordlánnda	1811 Bindal	20	23	22	20	24	24	27	26	22
+Nordland - Nordlánnda	1812 Sømna	12	11	14	9	10	12	11	14	10
+Nordland - Nordlánnda	1813 Brønnøy	57	49	46	52	44	48	62	52	48
+Nordland - Nordlánnda	1815 Vega	10	8	10	14	19	17	18	17	17
+Nordland - Nordlánnda	1816 Vevelstad	*	*	*	*	*	*	*	*	*
+Nordland - Nordlánnda	1818 Herøy (Nordland)	17	19	40	14	14	12	12	12	16
+Nordland - Nordlánnda	1820 Alstahaug	55	46	46	51	44	61	58	72	62
+Nordland - Nordlánnda	1822 Leirfjord	26	24	31	27	28	28	31	34	31
+Nordland - Nordlánnda	1824 Vefsn	109	94	107	93	82	69	67	79	78
+Nordland - Nordlánnda	1825 Grane	20	17	12	7	4	5	5	4	4
+Nordland - Nordlánnda	1826 Aarborte - Hattfjelldal	34	11	12	7	11	6	7	9	9
+Nordland - Nordlánnda	1827 Dønna	15	22	19	18	12	12	16	15	13
+Nordland - Nordlánnda	1828 Nesna	15	9	11	10	10	12	12	13	15
+Nordland - Nordlánnda	1832 Hemnes	41	35	36	34	29	30	33	35	29
+Nordland - Nordlánnda	1833 Rana - Raane	196	196	184	187	175	171	192	196	184
+Nordland - Nordlánnda	1834 Lurøy	26	36	20	18	20	17	21	18	23
+Nordland - Nordlánnda	1835 Træna	8	7	*	6	6	8	7	8	8
+Nordland - Nordlánnda	1836 Rødøy	10	10	12	12	9	14	14	11	12
+Nordland - Nordlánnda	1837 Meløy	45	37	34	35	35	42	38	38	38
+Nordland - Nordlánnda	1838 Gildeskål	30	24	26	25	26	19	17	24	16
+Nordland - Nordlánnda	1839 Beiarn	13	9	11	11	10	14	12	11	13
+Nordland - Nordlánnda	1840 Saltdal	41	49	66	52	41	35	54	41	39
+Nordland - Nordlánnda	1841 Fauske - Fuossko	74	102	107	86	68	67	69	70	65
+Nordland - Nordlánnda	1845 Sørfold - Fuolldá	9	23	33	16	10	12	8	10	10
+Nordland - Nordlánnda	1848 Steigen	19	15	13	14	10	12	15	10	10
+Nordland - Nordlánnda	1851 Lødingen	6	23	19	17	22	14	13	11	8
+Nordland - Nordlánnda	1853 Evenes - Evenášši	10	11	7	9	6	7	4	4	*
+Nordland - Nordlánnda	1856 Røst	7	*	*	14	31	19	20	14	11
+Nordland - Nordlánnda	1857 Værøy	18	9	18	32	28	12	30	30	18
+Nordland - Nordlánnda	1859 Flakstad	27	25	20	22	18	15	15	12	17
+Nordland - Nordlánnda	1860 Vestvågøy	125	98	93	97	94	99	105	103	116
+Nordland - Nordlánnda	1865 Vågan	137	98	84	95	111	82	112	112	112
+Nordland - Nordlánnda	1866 Hadsel	58	112	89	57	81	87	89	73	56
+Nordland - Nordlánnda	1867 Bø	23	27	32	30	15	13	19	27	22
+Nordland - Nordlánnda	1868 Øksnes	42	38	93	76	71	70	73	92	67
+Nordland - Nordlánnda	1870 Sortland - Suortá	82	90	82	71	81	74	86	67	58
+Nordland - Nordlánnda	1871 Andøy	25	18	17	21	20	21	18	20	18
+Nordland - Nordlánnda	1874 Moskenes	22	19	14	17	15	11	12	12	20
+Nordland - Nordlánnda	1875 Hábmer - Hamarøy	47	43	42	36	42	51	49	38	40
+Østfold	I alt Østfold	4675	4483	4393	4128	3860	3857	4235	4146	4007
+Østfold	3101 Halden	454	422	393	378	354	380	432	419	391
+Østfold	3103 Moss	777	763	743	697	654	647	702	699	713
+Østfold	3105 Sarpsborg	1028	1006	945	887	814	798	890	883	865
+Østfold	3107 Fredrikstad	1387	1298	1341	1265	1181	1185	1294	1232	1169
+Østfold	3110 Hvaler	51	64	57	53	44	42	50	51	44
+Østfold	3112 Råde	99	94	97	86	86	88	98	103	101
+Østfold	3114 Våler (Østfold)	67	59	55	55	53	59	62	57	49
+Østfold	3116 Skiptvet	45	41	46	41	35	33	35	32	41
+Østfold	3118 Indre Østfold	637	609	590	562	538	516	559	551	526
+Østfold	3120 Rakkestad	84	78	75	64	60	70	75	78	68
+Østfold	3122 Marker	37	36	36	31	30	27	25	30	27
+Østfold	3124 Aremark	9	13	15	9	11	12	13	11	13
+Akershus	I alt Akershus	10299	9982	9742	9486	8790	8787	9775	9536	9153
+Akershus	3201 Bærum	1513	1426	1396	1368	1288	1329	1525	1459	1433
+Akershus	3203 Asker	1168	1133	1106	1084	972	981	1111	1081	1022
+Akershus	3205 Lillestrøm	1432	1403	1356	1354	1228	1260	1375	1361	1301
+Akershus	3207 Nordre Follo	872	869	868	827	797	815	902	862	826
+Akershus	3209 Ullensaker	951	872	867	867	784	759	814	815	819
+Akershus	3212 Nesodden	303	289	270	265	230	231	277	249	239
+Akershus	3214 Frogn	203	185	192	164	177	168	185	194	181
+Akershus	3216 Vestby	228	225	210	194	181	170	201	200	191
+Akershus	3218 Ås	403	379	377	374	352	340	362	348	334
+Akershus	3220 Enebakk	148	144	155	146	133	128	159	160	155
+Akershus	3222 Lørenskog	875	876	866	880	843	828	907	881	861
+Akershus	3224 Rælingen	311	287	268	236	212	211	234	238	233
+Akershus	3226 Aurskog-Høland	254	245	237	192	172	161	182	191	184
+Akershus	3228 Nes	298	306	305	289	279	269	296	306	278
+Akershus	3230 Gjerdrum	90	91	85	82	75	75	85	76	68
+Akershus	3232 Nittedal	339	339	335	320	309	298	321	311	275
+Akershus	3234 Lunner	103	120	121	107	107	114	124	124	110
+Akershus	3236 Jevnaker	91	93	84	82	70	74	75	78	72
+Akershus	3238 Nannestad	267	250	229	238	207	192	211	191	176
+Akershus	3240 Eidsvoll	421	424	389	387	349	348	395	384	368
+Akershus	3242 Hurdal	29	26	26	30	25	36	34	27	27
+Buskerud	I alt Buskerud	3543	3375	3425	3071	2828	2879	3200	3205	3064
+Buskerud	3301 Drammen	1686	1611	1620	1510	1374	1370	1523	1519	1478
+Buskerud	3303 Kongsberg	287	280	275	228	209	208	257	258	249
+Buskerud	3305 Ringerike	426	418	426	358	336	358	391	394	350
+Buskerud	3310 Hole	93	91	91	86	81	86	92	87	90
+Buskerud	3312 Lier	358	333	342	283	262	271	307	327	298
+Buskerud	3314 Øvre Eiker	167	168	191	163	137	162	187	185	178
+Buskerud	3316 Modum	201	190	184	159	150	153	160	157	151
+Buskerud	3318 Krødsherad	38	32	36	32	33	30	34	34	32
+Buskerud	3320 Flå	15	12	9	9	9	8	8	8	10
+Buskerud	3322 Nesbyen	25	22	21	13	14	14	19	19	16
+Buskerud	3324 Gol	37	33	29	24	24	29	25	30	33
+Buskerud	3326 Hemsedal	25	21	24	29	38	35	38	38	38
+Buskerud	3328 Ål	40	34	36	34	32	31	33	26	24
+Buskerud	3330 Hol	33	24	28	36	43	40	33	37	32
+Buskerud	3332 Sigdal	37	33	30	31	27	29	33	33	33
+Buskerud	3334 Flesberg	32	39	42	33	27	18	22	19	22
+Buskerud	3336 Rollag	19	16	17	17	11	15	15	14	13
+Buskerud	3338 Nore og Uvdal	24	18	24	26	21	22	23	20	17
+Innlandet	I alt Innlandet	3900	3712	3615	3537	3200	3005	3272	3179	3036
+Innlandet	3401 Kongsvinger	192	194	187	198	180	194	211	213	202
+Innlandet	3403 Hamar	396	360	376	342	310	292	330	322	329
+Innlandet	3405 Lillehammer	230	228	201	235	207	172	203	188	171
+Innlandet	3407 Gjøvik	422	408	406	374	329	320	350	353	317
+Innlandet	3411 Ringsaker	409	410	358	337	305	269	300	282	280
+Innlandet	3412 Løten	96	92	98	81	74	62	72	69	72
+Innlandet	3413 Stange	205	200	196	192	185	157	184	190	175
+Innlandet	3414 Nord-Odal	44	41	45	49	43	42	36	37	40
+Innlandet	3415 Sør-Odal	114	113	110	93	84	73	84	86	93
+Innlandet	3416 Eidskog	65	66	75	64	56	51	53	59	58
+Innlandet	3417 Grue	54	50	49	41	44	48	49	47	38
+Innlandet	3418 Åsnes	93	90	74	70	73	68	64	57	49
+Innlandet	3419 Våler (Innlandet)	40	41	43	35	33	35	34	29	29
+Innlandet	3420 Elverum	222	199	196	210	185	197	227	209	189
+Innlandet	3421 Trysil	83	80	84	107	123	96	96	104	98
+Innlandet	3422 Åmot	28	36	35	26	24	35	35	29	36
+Innlandet	3423 Stor-Elvdal	14	14	11	10	7	5	6	9	5
+Innlandet	3424 Rendalen	13	16	11	8	9	12	11	11	9
+Innlandet	3425 Engerdal	13	14	12	11	18	10	8	14	14
+Innlandet	3426 Tolga	13	13	14	16	12	10	11	10	10
+Innlandet	3427 Tynset	44	46	45	42	35	44	42	39	36
+Innlandet	3428 Alvdal	20	22	20	20	16	12	10	10	12
+Innlandet	3429 Folldal	7	4	8	10	7	9	10	10	5
+Innlandet	3430 Os	25	24	19	18	18	18	17	19	22
+Innlandet	3431 Dovre	19	18	16	14	9	5	8	8	*
+Innlandet	3432 Lesja	9	10	5	5	4	9	9	7	9
+Innlandet	3433 Skjåk	16	12	10	11	8	4	7	6	9
+Innlandet	3434 Lom	17	18	14	7	7	5	6	5	8
+Innlandet	3435 Vågå	24	17	20	17	15	9	11	7	11
+Innlandet	3436 Nord-Fron	42	44	32	42	29	29	31	22	24
+Innlandet	3437 Sel	63	60	43	50	36	37	34	31	31
+Innlandet	3438 Sør-Fron	21	12	13	14	14	15	12	10	8
+Innlandet	3439 Ringebu	31	29	29	46	23	27	28	23	20
+Innlandet	3440 Øyer	59	43	45	45	37	32	32	38	38
+Innlandet	3441 Gausdal	40	34	39	46	39	32	37	30	30
+Innlandet	3442 Østre Toten	143	136	141	134	125	114	128	119	117
+Innlandet	3443 Vestre Toten	138	123	128	115	106	114	127	141	120
+Innlandet	3446 Gran	124	102	112	102	100	91	117	104	114
+Innlandet	3447 Søndre Land	77	74	80	75	68	55	60	51	49
+Innlandet	3448 Nordre Land	74	70	73	67	65	64	59	65	55
+Innlandet	3449 Sør-Aurdal	20	19	22	26	24	18	24	16	19
+Innlandet	3450 Etnedal	9	9	6	7	7	7	8	10	6
+Innlandet	3451 Nord-Aurdal	60	54	50	53	51	53	48	46	35
+Innlandet	3452 Vestre Slidre	17	19	19	21	18	12	12	11	10
+Innlandet	3453 Øystre Slidre	35	31	29	34	24	29	19	23	22
+Innlandet	3454 Vang	20	17	16	17	14	13	12	10	9
+Vestfold	I alt Vestfold	3404	3305	3166	2955	2727	2749	2962	2913	2752
+Vestfold	3901 Horten	439	433	429	386	371	387	404	405	372
+Vestfold	3903 Holmestrand	319	305	295	276	240	249	274	269	270
+Vestfold	3905 Tønsberg	911	893	824	766	695	709	767	754	715
+Vestfold	3907 Sandefjord	897	885	824	807	755	743	786	773	715
+Vestfold	3909 Larvik	527	486	485	446	402	418	468	458	426
+Vestfold	3911 Færder	311	303	309	274	264	243	263	254	254
+Telemark	I alt Telemark	2328	2294	2155	2046	1903	1837	1999	1980	1918
+Telemark	4001 Porsgrunn	554	528	487	464	460	434	476	473	480
+Telemark	4003 Skien	760	741	699	659	613	626	694	669	651
+Telemark	4005 Notodden	185	200	189	166	137	134	163	164	154
+Telemark	4010 Siljan	12	12	11	15	10	15	17	17	13
+Telemark	4012 Bamble	192	195	190	182	186	169	167	180	158
+Telemark	4014 Kragerø	130	128	111	111	89	80	92	94	90
+Telemark	4016 Drangedal	46	48	44	54	42	37	40	45	39
+Telemark	4018 Nome	82	79	71	77	73	67	68	60	59
+Telemark	4020 Midt-Telemark	152	154	152	137	117	116	123	125	130
+Telemark	4022 Seljord	31	32	30	29	27	25	25	30	26
+Telemark	4024 Hjartdal	18	15	16	14	12	15	13	12	14
+Telemark	4026 Tinn	58	51	39	46	51	42	42	31	24
+Telemark	4028 Kviteseid	20	28	22	20	18	13	13	14	11
+Telemark	4030 Nissedal	12	12	12	6	9	7	8	7	6
+Telemark	4032 Fyresdal	12	10	14	10	8	9	5	4	6
+Telemark	4034 Tokke	27	30	30	19	17	17	21	24	22
+Telemark	4036 Vinje	37	31	38	37	34	31	32	31	35
+Agder	I alt Agder	3656	3498	3463	3190	3026	2933	3250	3297	3126
+Agder	4201 Risør	91	77	73	70	65	56	63	65	64
+Agder	4202 Grimstad	284	272	269	245	268	247	258	271	251
+Agder	4203 Arendal	487	499	485	497	547	501	528	553	520
+Agder	4204 Kristiansand	1496	1390	1381	1303	1131	1126	1277	1334	1283
+Agder	4205 Lindesnes	257	250	245	201	193	192	207	201	183
+Agder	4206 Farsund	74	63	75	62	48	55	54	67	71
+Agder	4207 Flekkefjord	96	90	89	77	71	79	91	86	75
+Agder	4211 Gjerstad	35	38	41	34	34	28	28	29	29
+Agder	4212 Vegårshei	18	20	18	19	13	18	16	14	17
+Agder	4213 Tvedestrand	91	90	85	75	70	68	75	67	65
+Agder	4214 Froland	49	67	80	63	60	62	65	62	56
+Agder	4215 Lillesand	162	148	128	122	118	124	143	137	127
+Agder	4216 Birkenes	56	51	59	50	42	38	56	48	49
+Agder	4217 Åmli	16	16	15	17	16	11	13	8	9
+Agder	4218 Iveland	4	4	5	5	4	*	*	4	5
+Agder	4219 Evje og Hornnes	48	36	28	28	25	21	28	21	21
+Agder	4220 Bygland	10	10	9	6	7	7	7	8	9
+Agder	4221 Valle	6	9	12	7	11	12	11	5	7
+Agder	4222 Bykle	8	9	10	11	12	12	10	14	11
+Agder	4223 Vennesla	168	160	146	140	141	130	152	144	130
+Agder	4224 Åseral	9	6	6	7	7	6	5	*	*
+Agder	4225 Lyngdal	107	106	110	86	77	66	69	68	77
+Agder	4226 Hægebostad	18	19	14	9	9	13	17	21	10
+Agder	4227 Kvinesdal	59	59	69	46	47	50	59	51	40
+Agder	4228 Sirdal	7	9	11	10	10	9	15	16	14
+Vestland	I alt Vestland	6738	6460	6348	5967	5368	5485	6035	5874	5442
+Vestland	4601 Bergen	3524	3359	3270	3119	2883	3004	3276	3192	3045
+Vestland	4602 Kinn	201	225	235	278	230	179	205	196	154
+Vestland	4611 Etne	31	34	32	29	33	30	32	33	27
+Vestland	4612 Sveio	37	25	25	25	21	30	33	32	18
+Vestland	4613 Bømlo	88	75	85	70	79	88	91	74	78
+Vestland	4614 Stord	75	86	80	74	72	78	89	103	114
+Vestland	4615 Fitjar	23	21	16	11	11	17	20	20	14
+Vestland	4616 Tysnes	22	16	13	14	8	11	16	12	16
+Vestland	4617 Kvinnherad	84	80	73	79	74	70	68	62	65
+Vestland	4618 Ullensvang	100	93	81	64	51	57	59	64	62
+Vestland	4619 Eidfjord	14	16	18	10	10	7	9	9	8
+Vestland	4620 Ulvik	22	21	17	10	8	9	5	5	9
+Vestland	4621 Voss	141	129	138	140	115	113	118	109	104
+Vestland	4622 Kvam	68	67	64	53	51	50	42	47	42
+Vestland	4623 Samnanger	19	11	9	11	9	19	23	15	7
+Vestland	4624 Bjørnafjorden	265	221	224	203	177	176	205	184	172
+Vestland	4625 Austevoll	37	33	34	47	36	36	39	34	33
+Vestland	4626 Øygarden	474	478	465	415	377	405	451	425	381
+Vestland	4627 Askøy	293	246	252	223	201	209	251	241	224
+Vestland	4628 Vaksdal	39	45	44	38	34	30	39	35	34
+Vestland	4629 Modalen	9	6	8	5	4	4	4	*	*
+Vestland	4630 Osterøy	59	52	50	46	46	40	44	44	44
+Vestland	4631 Alver	207	219	206	205	168	188	206	199	136
+Vestland	4632 Austrheim	32	28	15	20	12	16	19	17	21
+Vestland	4633 Fedje	8	9	6	6	7	4	9	9	6
+Vestland	4634 Masfjorden	8	11	10	4	6	10	12	12	5
+Vestland	4635 Gulen	12	12	11	6	8	4	7	7	7
+Vestland	4636 Solund	7	4	*	*	*	*	*	*	*
+Vestland	4637 Hyllestad	8	6	9	5	*	*	*	*	5
+Vestland	4638 Høyanger	46	44	40	37	27	30	29	31	33
+Vestland	4639 Vik	21	25	25	20	19	15	19	17	16
+Vestland	4640 Sogndal	92	103	101	93	65	65	74	83	72
+Vestland	4641 Aurland	36	35	38	27	21	15	13	17	18
+Vestland	4642 Lærdal	20	16	15	13	10	12	9	10	11
+Vestland	4643 Årdal	74	69	60	57	48	45	49	51	51
+Vestland	4644 Luster	69	64	68	55	44	36	40	42	47
+Vestland	4645 Askvoll	35	26	19	16	19	25	27	29	25
+Vestland	4646 Fjaler	16	10	23	25	15	19	21	19	18
+Vestland	4647 Sunnfjord	180	173	174	151	138	133	153	146	133
+Vestland	4648 Bremanger	22	41	36	31	25	19	34	36	30
+Vestland	4649 Stad	77	87	114	122	110	91	89	101	48
+Vestland	4650 Gloppen	80	84	80	70	57	59	64	60	51
+Vestland	4651 Stryn	63	55	62	39	35	33	38	43	53
+Trøndelag - Trööndelage	I alt Trøndelag - Trööndelage	5392	5311	5194	4938	4479	4461	4969	5040	4768
+Trøndelag - Trööndelage	5001 Trondheim - Tråante	2451	2488	2450	2373	2193	2185	2447	2426	2295
+Trøndelag - Trööndelage	5006 Steinkjer - Stïentje	321	343	360	288	265	259	302	307	311
+Trøndelag - Trööndelage	5007 Namsos - Nåavmesjenjaelmie	105	110	105	101	90	95	97	111	105
+Trøndelag - Trööndelage	5014 Frøya	56	55	53	57	46	45	46	48	47
+Trøndelag - Trööndelage	5020 Osen	6	4	4	*	*	5	4	6	4
+Trøndelag - Trööndelage	5021 Oppdal	62	65	55	54	52	38	50	53	35
+Trøndelag - Trööndelage	5022 Rennebu	27	19	23	24	16	22	20	23	24
+Trøndelag - Trööndelage	5025 Røros - Rossen	57	48	45	42	36	31	35	35	30
+Trøndelag - Trööndelage	5026 Holtålen	20	13	16	13	9	13	11	10	10
+Trøndelag - Trööndelage	5027 Midtre Gauldal	42	46	42	36	36	32	31	33	34
+Trøndelag - Trööndelage	5028 Melhus	215	194	177	160	137	134	156	186	151
+Trøndelag - Trööndelage	5029 Skaun	74	69	69	68	68	61	65	63	72
+Trøndelag - Trööndelage	5031 Malvik	171	169	159	159	119	149	138	166	153
+Trøndelag - Trööndelage	5032 Selbu	33	41	41	41	28	30	29	28	22
+Trøndelag - Trööndelage	5033 Tydal	*	4	5	5	4	4	4	*	4
+Trøndelag - Trööndelage	5034 Meråker	41	40	36	35	34	34	33	31	31
+Trøndelag - Trööndelage	5035 Stjørdal	240	249	238	254	231	258	297	297	279
+Trøndelag - Trööndelage	5036 Frosta	34	32	27	23	20	20	22	22	22
+Trøndelag - Trööndelage	5037 Levanger - Levangke	173	156	151	143	120	128	167	167	155
+Trøndelag - Trööndelage	5038 Verdal	195	202	202	199	206	183	197	210	195
+Trøndelag - Trööndelage	5041 Snåase - Snåsa	18	14	14	17	14	9	15	15	12
+Trøndelag - Trööndelage	5042 Lierne	6	4	8	*	5	8	9	6	9
+Trøndelag - Trööndelage	5043 Raarvihke - Røyrvik	8	5	7	8	10	5	5	7	5
+Trøndelag - Trööndelage	5044 Namsskogan	18	16	13	15	15	12	11	14	18
+Trøndelag - Trööndelage	5045 Grong	20	19	21	17	12	11	16	17	19
+Trøndelag - Trööndelage	5046 Høylandet	11	10	10	9	7	7	12	15	14
+Trøndelag - Trööndelage	5047 Overhalla	29	37	33	30	24	29	22	24	22
+Trøndelag - Trööndelage	5049 Flatanger	10	12	9	12	8	8	7	8	9
+Trøndelag - Trööndelage	5052 Leka	7	6	4	5	7	6	6	6	7
+Trøndelag - Trööndelage	5053 Inderøy	89	82	85	80	69	71	87	82	74
+Trøndelag - Trööndelage	5054 Indre Fosen	117	102	107	102	93	83	99	97	91
+Trøndelag - Trööndelage	5055 Heim	77	87	92	68	59	64	63	67	65
+Trøndelag - Trööndelage	5056 Hitra	89	74	65	56	53	51	47	52	48
+Trøndelag - Trööndelage	5057 Ørland	128	105	93	109	98	91	93	106	107
+Trøndelag - Trööndelage	5058 Åfjord	55	36	30	30	26	29	45	26	25
+Trøndelag - Trööndelage	5059 Orkland	232	215	200	178	170	161	172	164	152
+Trøndelag - Trööndelage	5060 Nærøysund	144	130	129	102	85	82	100	100	103
+Trøndelag - Trööndelage	5061 Rindal	9	10	16	20	11	8	9	9	9
+Troms - Romsa - Tromssa	I alt Troms - Romsa - Tromssa	1211	1232	1208	1236	1176	1127	1213	1227	1078
+Troms - Romsa - Tromssa	5501 Tromsø	565	572	603	635	635	567	621	630	521
+Troms - Romsa - Tromssa	5503 Harstad - Hárstták	166	153	140	133	115	122	120	107	130
+Troms - Romsa - Tromssa	5510 Kvæfjord	16	18	12	11	14	18	20	20	23
+Troms - Romsa - Tromssa	5512 Dielddanuorri - Tjeldsund	18	20	18	19	14	16	24	24	18
+Troms - Romsa - Tromssa	5514 Ibestad	7	10	14	35	32	29	14	10	15
+Troms - Romsa - Tromssa	5516 Gratangen - Rivtták	10	18	10	6	12	10	7	8	6
+Troms - Romsa - Tromssa	5518 Loabák - Lavangen	12	15	13	17	16	12	11	9	11
+Troms - Romsa - Tromssa	5520 Bardu	13	14	15	11	9	15	15	16	10
+Troms - Romsa - Tromssa	5522 Salangen	11	23	14	5	6	8	9	10	12
+Troms - Romsa - Tromssa	5524 Målselv	47	43	35	29	29	51	52	42	26
+Troms - Romsa - Tromssa	5526 Sørreisa	23	25	19	21	20	16	20	20	17
+Troms - Romsa - Tromssa	5528 Dyrøy	16	13	13	13	13	10	8	9	6
+Troms - Romsa - Tromssa	5530 Senja	104	92	113	91	87	77	97	113	97
+Troms - Romsa - Tromssa	5532 Balsfjord	50	47	40	46	37	40	41	44	38
+Troms - Romsa - Tromssa	5534 Karlsøy	13	11	10	15	11	15	18	18	13
+Troms - Romsa - Tromssa	5536 Lyngen - Ivgu - Yykeä	18	13	18	16	13	11	11	13	15
+Troms - Romsa - Tromssa	5538 Storfjord - Omasvuotna - Omasvuono	13	17	19	14	11	15	13	13	17
+Troms - Romsa - Tromssa	5540 Gáivuotna - Kåfjord - Kaivuono	25	13	17	19	12	16	20	21	15
+Troms - Romsa - Tromssa	5542 Skjervøy	37	57	37	47	50	31	37	37	27
+Troms - Romsa - Tromssa	5544 Nordreisa - Ráisa - Raisi	32	41	32	39	26	36	39	49	50
+Troms - Romsa - Tromssa	5546 Kvænangen	15	17	16	14	14	12	16	14	11
+Finnmark - Finnmárku - Finmarkku	I alt Finnmark - Finnmárku - Finmarkku	854	829	863	891	856	858	894	866	818
+Finnmark - Finnmárku - Finmarkku	5601 Alta	224	226	237	233	213	213	216	218	189
+Finnmark - Finnmárku - Finmarkku	5603 Hammerfest - Hámmerfeasta	90	101	102	96	82	97	114	101	102
+Finnmark - Finnmárku - Finmarkku	5605 Sør-Varanger	93	89	87	104	98	89	74	70	70
+Finnmark - Finnmárku - Finmarkku	5607 Vadsø	70	69	61	62	62	58	57	55	59
+Finnmark - Finnmárku - Finmarkku	5610 Kárášjohka - Karasjok	35	27	31	32	26	28	36	24	17
+Finnmark - Finnmárku - Finmarkku	5612 Guovdageaidnu - Kautokeino	52	51	64	58	52	44	50	51	39
+Finnmark - Finnmárku - Finmarkku	5614 Loppa	5	4	*	10	11	12	15	20	18
+Finnmark - Finnmárku - Finmarkku	5616 Hasvik	8	5	7	17	33	35	38	40	28
+Finnmark - Finnmárku - Finmarkku	5618 Måsøy	28	26	15	20	21	37	28	23	29
+Finnmark - Finnmárku - Finmarkku	5620 Nordkapp	38	44	47	47	54	59	58	49	53
+Finnmark - Finnmárku - Finmarkku	5622 Porsanger - Porsángu - Porsanki	25	26	27	27	23	18	25	28	23
+Finnmark - Finnmárku - Finmarkku	5624 Lebesby	12	14	18	20	19	10	12	14	10
+Finnmark - Finnmárku - Finmarkku	5626 Gamvik	22	17	31	23	25	18	33	31	30
+Finnmark - Finnmárku - Finmarkku	5628 Deatnu - Tana	30	32	33	32	33	31	32	27	27
+Finnmark - Finnmárku - Finmarkku	5630 Berlevåg	27	11	12	10	9	11	9	14	18
+Finnmark - Finnmárku - Finmarkku	5632 Båtsfjord	38	26	30	42	42	46	46	43	49
+Finnmark - Finnmárku - Finmarkku	5634 Vardø	50	54	53	53	52	47	43	47	48
+Finnmark - Finnmárku - Finmarkku	5636 Unjárga - Nesseby	7	7	5	5	*	5	8	11	9
+Svalbard og øvrige områder	I alt Svalbard og øvrige områder	13	9	11	14	20	19	16	18	20
+Svalbard og øvrige områder	2100 Svalbard	13	9	11	14	20	19	16	18	20
+Ukjent	I alt Ukjent	13	14	15	15	13	13	15	20	20
+Ukjent	Ukjent	13	14	15	15	13	13	15	20	20

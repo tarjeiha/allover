@@ -1,0 +1,16 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på tilrettelagt arbeid, demografi, tidsserie måned (TILT170)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og innvandrer status
+# TILT170 Tiltaksdeltakere på tilrettelagt arbeid. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og innvandrer status									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt varig tilrettelagt arbeid i ordinær virksomhet	4340	4257	4288	4275	4310	4312	4368	4370	4399	4482
+Januar 2026 - September 2026	Ikke innvandrer	4134	4058	4088	4077	4109	4107	4158	4161	4186	4261
+Januar 2026 - September 2026	Innvandrer	206	199	200	198	201	205	210	209	213	221
+	I alt varig tilrettelagt arbeid i skjermet virksomhet	10051	10002	10012	10029	10039	10078	10093	10042	10080	10088
+	Ikke innvandrer	9415	9380	9390	9397	9404	9436	9451	9403	9438	9439
+	Innvandrer	636	622	622	632	635	642	642	639	642	649
+	I alt varig vernet arbeid (vva)	5	6	5	5	5	5	5	5	5	5
+	Ikke innvandrer	5	6	5	5	5	5	5	5	5	5

@@ -1,0 +1,46 @@
+# Kilde: Nav
+# Tabell: Hovedtall om arbeidsmarkedet, delvis ledige (HARB050)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
+# Lagt inn: 2026-10-17
+# Ark: 2b. Delvis ledige fylke kjønn
+# Hovedtall om arbeidsmarkedet delvis ledige. September 2026
+# 2b. Delvis ledige fordelt på fylke¹ og kjønn
+# September 2026
+# Kvinner
+gruppe	rad		Antall	Prosent av arbeidsstyrken	Endring fra i fjor Antall	Endring fra i fjor Prosent	Prosent av arbeidsstyrken i fjor
+	I alt kvinner		12250	0.9	9	0	0.9
+	Oslo - Oslove		1865	0.9	20	1	0.9
+	Rogaland		1079	0.9	62	6	0.8
+	Møre og Romsdal		599	0.9	12	2	0.9
+	Nordland - Nordlánnda		416	0.7	2	0	0.7
+	Østfold		790	1.1	-19	-2	1.1
+	Akershus		1532	0.8	-42	-3	0.8
+	Buskerud		602	0.9	-15	-2	0.9
+	Innlandet		794	0.9	-34	-4	0.9
+	Vestfold		612	1	-18	-3	1
+	Telemark		488	1.2	41	9	1.1
+	Agder		715	1	29	4	0.9
+	Vestland		1249	0.8	-33	-3	0.8
+	Trøndelag - Trööndelage		1038	0.9	60	6	0.8
+	Troms - Romsa - Tromssa		198	0.5	-21	-10	0.5
+	Finnmark - Finnmárku - Finmarkku		211	1.1	-42	-17	1.4
+	Svalbard og øvrige områder		*	*	-1	-50	*
+	Ukjent		61	*	8	15	*
+Menn	I alt menn		10673	0.7	129	1	0.7
+Menn	Oslo - Oslove		1799	0.9	99	6	0.8
+Menn	Rogaland		819	0.6	134	20	0.5
+Menn	Møre og Romsdal		475	0.6	34	8	0.6
+Menn	Nordland - Nordlánnda		364	0.6	-9	-2	0.6
+Menn	Østfold		609	0.8	-64	-10	0.8
+Menn	Akershus		1365	0.7	5	0	0.7
+Menn	Buskerud		450	0.6	-78	-15	0.7
+Menn	Innlandet		612	0.6	-61	-9	0.7
+Menn	Vestfold		575	0.9	46	9	0.8
+Menn	Telemark		389	0.8	28	8	0.8
+Menn	Agder		631	0.7	3	0	0.7
+Menn	Vestland		1012	0.5	-83	-8	0.6
+Menn	Trøndelag - Trööndelage		944	0.7	57	6	0.7
+Menn	Troms - Romsa - Tromssa		248	0.5	11	5	0.5
+Menn	Finnmark - Finnmárku - Finmarkku		202	1	-47	-19	1.2
+Menn	Svalbard og øvrige områder		*	*	-2	-67	*
+Menn	Ukjent		178	*	56	46	*

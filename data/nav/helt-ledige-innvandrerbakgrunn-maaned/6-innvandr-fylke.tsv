@@ -1,0 +1,104 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter innvandrerbakgrunn, tidsserie måned (HL085)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: 6. Innvandr fylke
+# Helt ledige. Innvandrerbakgrunn. Tidsserie måned
+# Innvandrerbakgrunn og fylke. Antall og andel av arbeidsstyrke²
+# Januar - september 2026
+# Ikke innvandrer
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+# 7
+# 8
+# 9
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+# 7
+# 8
+# 9
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt	35221	33852	33296	31503	29274	29617	33645	33283	31319
+I alt	Oslo - Oslove	5754	5572	5379	5198	4981	5299	6120	5879	5526
+I alt	Rogaland	2626	2539	2532	2464	2324	2366	2639	2654	2487
+I alt	Møre og Romsdal	1366	1270	1253	1220	1149	1147	1322	1309	1202
+I alt	Nordland - Nordlánnda	1176	1127	1110	998	949	898	997	1006	981
+I alt	Østfold	2431	2305	2286	2139	1980	2009	2257	2248	2143
+I alt	Akershus	4800	4656	4531	4413	4126	4133	4738	4553	4382
+I alt	Buskerud	1680	1570	1557	1403	1306	1366	1532	1543	1465
+I alt	Innlandet	2204	2067	2052	1999	1774	1648	1846	1819	1750
+I alt	Vestfold	1923	1887	1824	1664	1542	1574	1747	1712	1582
+I alt	Telemark	1344	1300	1251	1161	1103	1081	1225	1185	1145
+I alt	Agder	2147	2037	2021	1829	1723	1692	1920	1970	1836
+I alt	Vestland	3510	3376	3336	3033	2740	2872	3265	3276	3000
+I alt	Trøndelag - Trööndelage	3133	3064	3017	2808	2524	2475	2886	2947	2779
+I alt	Troms - Romsa - Tromssa	655	635	670	672	607	602	671	698	603
+I alt	Finnmark - Finnmárku - Finmarkku	452	431	457	479	415	428	456	449	406
+I alt	Svalbard og øvrige områder	9	6	8	12	19	16	13	17	16
+I alt	Ukjent	11	10	12	11	12	11	11	18	16
+I alt	Innvandrer	1	2	3	4	5	6	7	8	9
+I alt		1	2	3	4	5	6	7	8	9
+I alt	I alt	33711	32898	32075	30940	29001	28487	30375	29549	28094
+I alt	Oslo - Oslove	6371	6345	6141	5934	5719	5540	6001	5770	5502
+I alt	Rogaland	3189	3089	3002	2939	2803	2730	2797	2771	2623
+I alt	Møre og Romsdal	1387	1359	1380	1284	1188	1177	1327	1209	1038
+I alt	Nordland - Nordlánnda	1037	945	976	932	916	937	982	933	852
+I alt	Østfold	2244	2178	2107	1989	1880	1848	1978	1898	1864
+I alt	Akershus	5499	5326	5211	5073	4664	4654	5037	4983	4771
+I alt	Buskerud	1863	1805	1868	1668	1522	1513	1668	1662	1599
+I alt	Innlandet	1696	1645	1563	1538	1426	1357	1426	1360	1286
+I alt	Vestfold	1481	1418	1342	1291	1185	1175	1215	1201	1170
+I alt	Telemark	984	994	904	885	800	756	774	795	773
+I alt	Agder	1509	1461	1442	1361	1303	1241	1330	1327	1290
+I alt	Vestland	3228	3084	3012	2934	2628	2613	2770	2598	2442
+I alt	Trøndelag - Trööndelage	2259	2247	2177	2130	1955	1986	2083	2093	1989
+I alt	Troms - Romsa - Tromssa	556	597	538	564	569	525	542	529	475
+I alt	Finnmark - Finnmárku - Finmarkku	402	398	406	412	441	430	438	417	412
+I alt	Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*
+I alt	Ukjent	*	*	*	*	*	*	*	*	*
+I alt	Ikke innvandrer	1	2	3	4	5	6	7	8	9
+I alt		1	2	3	4	5	6	7	8	9
+I alt	I alt	1.5	1.4	1.4	1.3	1.2	1.2	1.4	1.4	1.3
+I alt	Oslo - Oslove	1.9	1.9	1.8	1.7	1.7	1.8	2	2	1.8
+I alt	Rogaland	1.2	1.2	1.2	1.2	1.1	1.1	1.2	1.3	1.2
+I alt	Møre og Romsdal	1.2	1.1	1.1	1.1	1	1	1.1	1.1	1
+I alt	Nordland - Nordlánnda	1.1	1.1	1.1	1	0.9	0.9	0.9	1	0.9
+I alt	Østfold	2	1.9	1.9	1.8	1.7	1.7	1.9	1.9	1.8
+I alt	Akershus	1.7	1.6	1.6	1.5	1.4	1.4	1.6	1.6	1.5
+I alt	Buskerud	1.6	1.5	1.5	1.3	1.2	1.3	1.5	1.5	1.4
+I alt	Innlandet	1.4	1.3	1.3	1.3	1.1	1	1.2	1.1	1.1
+I alt	Vestfold	1.8	1.8	1.8	1.6	1.5	1.5	1.7	1.6	1.5
+I alt	Telemark	1.9	1.8	1.7	1.6	1.5	1.5	1.7	1.6	1.6
+I alt	Agder	1.6	1.5	1.5	1.4	1.3	1.3	1.4	1.5	1.4
+I alt	Vestland	1.2	1.2	1.2	1.1	1	1	1.1	1.1	1
+I alt	Trøndelag - Trööndelage	1.4	1.4	1.4	1.3	1.2	1.2	1.3	1.4	1.3
+I alt	Troms - Romsa - Tromssa	0.9	0.8	0.9	0.9	0.8	0.8	0.9	0.9	0.8
+I alt	Finnmark - Finnmárku - Finmarkku	1.4	1.3	1.4	1.5	1.3	1.3	1.4	1.4	1.3
+Svalbard og øvrige områder	Ukjent	*	*	*	*	*	*	*	*	*
+Svalbard og øvrige områder	Innvandrer	1	2	3	4	5	6	7	8	9
+Svalbard og øvrige områder		1	2	3	4	5	6	7	8	9
+I alt	I alt	5.6	5.4	5.3	5.1	4.8	4.7	5	4.8	4.6
+I alt	Oslo - Oslove	5.5	5.5	5.3	5.2	5	4.8	5.2	5	4.8
+I alt	Rogaland	5.6	5.4	5.2	5.1	4.9	4.8	4.8	4.8	4.5
+I alt	Møre og Romsdal	5.7	5.5	5.6	5.2	4.8	4.8	5.4	4.9	4.2
+I alt	Nordland - Nordlánnda	5.7	5.2	5.4	5.2	5.1	5.2	5.3	5	4.6
+I alt	Østfold	7.2	7	6.7	6.4	6.1	5.9	6.3	6.1	6
+I alt	Akershus	5.3	5.1	5	4.9	4.5	4.5	4.8	4.8	4.6
+I alt	Buskerud	5.5	5.3	5.5	4.9	4.5	4.5	4.9	4.9	4.7
+I alt	Innlandet	6.3	6.2	5.8	5.8	5.3	5.1	5.3	5	4.7
+I alt	Vestfold	6.2	6	5.6	5.5	5	5	5.1	5	4.9
+I alt	Telemark	6.9	6.9	6.3	6.2	5.6	5.3	5.4	5.5	5.3
+I alt	Agder	5.7	5.5	5.4	5.2	4.9	4.7	5	4.9	4.8
+I alt	Vestland	5.4	5.1	5	4.9	4.4	4.3	4.5	4.2	4
+I alt	Trøndelag - Trööndelage	5.8	5.8	5.6	5.5	5.1	5.2	5.3	5.4	5.1
+I alt	Troms - Romsa - Tromssa	3.6	3.9	3.5	3.6	3.7	3.4	3.5	3.4	3
+I alt	Finnmark - Finnmárku - Finmarkku	5.5	5.5	5.6	5.7	6.1	5.9	5.9	5.6	5.6
+Svalbard og øvrige områder	Ukjent	*	*	*	*	*	*	*	*	*

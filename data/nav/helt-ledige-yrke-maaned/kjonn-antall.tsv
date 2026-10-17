@@ -1,0 +1,42 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter yrke, tidsserie måned (HL075)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Kjønn. Antall
+# Helt ledige. Yrke. Tidsserie måned
+# Kjønn. Antall
+# Januar - september 2026
+# Kvinner
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt kvinner	27056	25963	25250	24665	23560	24236	27734	26860	24410
+	Ledere	1028	1018	999	950	944	966	1111	1019	978
+	Ingeniør- og ikt-fag	1312	1250	1289	1261	1263	1228	1412	1332	1278
+	Undervisning	1219	1150	1070	1083	1071	1340	1982	1729	1258
+	Akademiske yrker	924	902	863	829	773	809	909	908	808
+	Helse, pleie og omsorg	2822	2721	2653	2572	2450	2457	2834	2920	2731
+	Barne- og ungdomsarbeid	1816	1685	1608	1605	1567	1814	2621	2430	1906
+	Meglere og konsulenter	959	965	927	934	911	916	1011	985	936
+	Kontorarbeid	2385	2288	2269	2181	2078	2122	2344	2320	2189
+	Butikk- og salgsarbeid	2864	2752	2687	2617	2545	2576	2775	2774	2708
+	Jordbruk, skogbruk og fiske	361	316	292	207	176	158	175	189	202
+	Bygg og anlegg	298	279	288	275	234	217	233	231	212
+	Industriarbeid	1263	1235	1244	1212	1202	1094	1295	1200	1014
+	Reiseliv og transport	2110	2011	1945	1872	1742	1687	1877	1829	1761
+	Serviceyrker og annet arbeid	3255	3072	2945	2930	2675	2678	2975	2846	2634
+	Ingen yrkesbakgrunn eller uoppgitt	4440	4319	4171	4137	3929	4174	4180	4148	3795
+Menn	I alt menn	41876	40787	40121	37778	34715	33868	36286	35972	35003
+Menn	Ledere	2083	1997	1967	1916	1885	1899	2085	1957	1921
+Menn	Ingeniør- og ikt-fag	3192	3121	3131	3165	3096	3136	3385	3290	3261
+Menn	Undervisning	811	765	737	743	730	819	1149	1116	864
+Menn	Akademiske yrker	626	614	592	571	541	540	617	597	548
+Menn	Helse, pleie og omsorg	1264	1196	1202	1196	1137	1140	1205	1262	1282
+Menn	Barne- og ungdomsarbeid	645	587	550	571	535	576	743	762	626
+Menn	Meglere og konsulenter	1090	1073	1051	1096	1027	1035	1123	1060	1054
+Menn	Kontorarbeid	2671	2604	2615	2414	2200	2144	2293	2336	2371
+Menn	Butikk- og salgsarbeid	3175	3006	2988	2971	2765	2795	2890	2930	2997
+Menn	Jordbruk, skogbruk og fiske	842	817	752	567	467	461	440	468	464
+Menn	Bygg og anlegg	8065	7976	7861	6783	5794	5200	5486	5435	5230
+Menn	Industriarbeid	5363	5238	5147	4748	4374	4189	4498	4416	4261
+Menn	Reiseliv og transport	4402	4334	4331	4166	3714	3584	3770	3780	3806
+Menn	Serviceyrker og annet arbeid	3678	3552	3438	3287	3096	2940	3163	3121	3041
+Menn	Ingen yrkesbakgrunn eller uoppgitt	3969	3907	3759	3584	3354	3410	3439	3442	3277

@@ -1,0 +1,17 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på tilrettelagt arbeid, demografi, tidsserie måned (TILT170)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og kjønn
+# TILT170 Tiltaksdeltakere på tilrettelagt arbeid. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og kjønn									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt varig tilrettelagt arbeid i ordinær virksomhet	4340	4257	4288	4275	4310	4312	4368	4370	4399	4482
+Januar 2026 - September 2026	Kvinner	1652	1619	1622	1633	1641	1646	1665	1664	1672	1706
+Januar 2026 - September 2026	Menn	2688	2638	2666	2642	2669	2666	2703	2706	2727	2776
+	I alt varig tilrettelagt arbeid i skjermet virksomhet	10051	10002	10012	10029	10039	10078	10093	10042	10080	10088
+	Kvinner	3826	3811	3820	3813	3817	3833	3842	3823	3835	3839
+	Menn	6226	6191	6192	6216	6222	6245	6251	6219	6245	6249
+	I alt varig vernet arbeid (vva)	5	6	5	5	5	5	5	5	5	5
+	Kvinner	*	*	*	*	*	*	*	*	*	*
+	Menn	4	5	4	4	4	4	4	4	4	4

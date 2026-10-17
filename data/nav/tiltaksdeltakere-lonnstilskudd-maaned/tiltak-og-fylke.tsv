@@ -1,0 +1,64 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på lønnstilskudd, demografi, tidsserie måned (TILT110)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og fylke
+# TILT110 Tiltaksdeltakere på lønnstilskudd. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og fylke									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt midlertidig lønnstilskudd	4854	3316	3675	3989	4436	4962	5785	5650	5848	6028
+Januar 2026 - September 2026	03 Oslo - Oslove	471	245	299	330	392	474	584	572	643	704
+Januar 2026 - September 2026	11 Rogaland	484	289	336	367	417	503	604	600	599	645
+Januar 2026 - September 2026	15 Møre og Romsdal	372	304	304	322	334	371	417	419	434	446
+Januar 2026 - September 2026	18 Nordland - Nordlánnda	271	238	253	246	270	260	291	283	288	307
+Januar 2026 - September 2026	31 Østfold	282	178	198	232	264	293	348	334	350	344
+Januar 2026 - September 2026	32 Akershus	358	202	241	287	323	351	425	431	468	497
+Januar 2026 - September 2026	33 Buskerud	209	134	146	164	180	207	255	250	253	292
+Januar 2026 - September 2026	34 Innlandet	443	399	409	412	429	453	480	478	477	449
+Januar 2026 - September 2026	39 Vestfold	225	170	184	200	199	233	267	248	256	266
+Januar 2026 - September 2026	40 Telemark	221	171	172	190	206	245	268	250	247	238
+Januar 2026 - September 2026	42 Agder	297	202	222	241	269	293	375	376	358	341
+Januar 2026 - September 2026	46 Vestland	481	270	339	380	463	527	583	551	599	615
+Januar 2026 - September 2026	50 Trøndelag - Trööndelage	473	356	398	417	456	474	539	515	545	559
+Januar 2026 - September 2026	55 Troms - Romsa - Tromssa	178	104	110	133	153	178	234	229	231	231
+Januar 2026 - September 2026	56 Finnmark - Finnmárku - Finmarkku	84	52	62	65	77	94	109	108	98	88
+Januar 2026 - September 2026	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	Ukjent	4	*	*	*	*	6	6	6	*	6
+gruppe	rad	Gjennomsnitt hittil i år	Juni	Juli	August
+	I alt tilskudd til sommerjobb	79	326	343	45
+	03 Oslo - Oslove	7	16	40	4
+	11 Rogaland	10	45	38	7
+	15 Møre og Romsdal	5	25	16	*
+	18 Nordland - Nordlánnda	6	27	24	*
+	31 Østfold	10	56	31	*
+	32 Akershus	*	5	9	*
+	33 Buskerud	*	18	5	*
+	34 Innlandet	7	24	33	*
+	39 Vestfold	4	12	23	*
+	40 Telemark	4	5	33	*
+	42 Agder	7	36	30	*
+	46 Vestland	9	37	32	10
+	50 Trøndelag - Trööndelage	*	6	14	5
+	55 Troms - Romsa - Tromssa	*	5	10	*
+	56 Finnmark - Finnmárku - Finmarkku	*	9	5	*
+	97 Svalbard og øvrige områder	*	*	*	*
+	Ukjent	*	*	*	*
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt varig lønnstilskudd	3781	3791	3784	3786	3783	3797	3792	3775	3765	3760
+	03 Oslo - Oslove	494	497	491	495	495	501	498	493	491	488
+	11 Rogaland	217	211	214	216	217	219	221	221	218	220
+	15 Møre og Romsdal	214	216	215	213	214	214	215	212	212	214
+	18 Nordland - Nordlánnda	154	156	156	155	151	154	157	155	154	152
+	31 Østfold	265	270	271	271	269	266	263	260	257	260
+	32 Akershus	424	414	421	428	424	428	430	430	426	413
+	33 Buskerud	245	254	250	246	243	244	242	242	243	240
+	34 Innlandet	214	211	208	213	213	212	213	217	218	219
+	39 Vestfold	168	168	167	168	170	169	169	168	168	167
+	40 Telemark	97	94	95	95	95	96	99	101	99	102
+	42 Agder	289	296	290	290	290	291	287	284	286	286
+	46 Vestland	496	507	506	496	496	496	493	492	491	488
+	50 Trøndelag - Trööndelage	284	283	283	282	284	286	284	281	283	290
+	55 Troms - Romsa - Tromssa	161	158	161	161	164	162	161	161	160	161
+	56 Finnmark - Finnmárku - Finmarkku	58	56	56	57	57	58	58	58	59	59
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*

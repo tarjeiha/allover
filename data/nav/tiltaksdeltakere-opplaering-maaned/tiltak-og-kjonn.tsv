@@ -1,0 +1,34 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og kjønn
+# TILT130 Tiltaksdeltakere på opplæring. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og kjønn									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt amo enkeltplass	2721	2709	2960	3105	3275	3317	2024	1444	2499	3155
+Januar 2026 - September 2026	Kvinner	1525	1578	1696	1770	1874	1919	1018	712	1353	1808
+Januar 2026 - September 2026	Menn	1196	1131	1264	1335	1401	1398	1006	732	1146	1347
+	I alt amo enkeltplass, forsøk	*	*	*	*	*	*	*	*	*	*
+	Kvinner	*	*	*	*	*	*	*	*	*	*
+	I alt amo kurs	4176	3919	4154	4351	4476	4357	3523	3011	4394	5396
+	Kvinner	2379	2289	2403	2521	2587	2486	1944	1667	2477	3041
+	Menn	1796	1630	1751	1830	1889	1871	1579	1344	1917	2355
+	I alt høyere utdanning	4745	5058	5086	5098	5069	5019	4191	3344	4692	5150
+	Kvinner	3102	3302	3324	3333	3315	3290	2741	2188	3075	3352
+	Menn	1643	1756	1762	1765	1754	1729	1450	1156	1617	1798
+	I alt høyere utdanning, forsøk	14	19	19	19	19	17	13	8	9	6
+	Kvinner	7	10	10	10	10	9	6	4	5	*
+	Menn	7	9	9	9	9	8	7	4	4	*
+	I alt opplæringstiltak av lengre varighet, forsøk	55	50	50	67	68	68	52	52	55	37
+	Kvinner	45	39	38	54	55	55	43	43	46	30
+	Menn	11	11	12	13	13	13	9	9	9	7
+	I alt vgs/yrkesfaglig utdanning	657	757	773	747	747	759	403	286	643	800
+	Kvinner	289	333	339	322	329	318	206	160	244	351
+	Menn	368	424	434	425	418	441	197	126	399	449
+	I alt vgs/yrkesfaglig utdanning enkeltplass	3858	4296	4363	4410	4405	4358	3116	2408	3316	4051
+	Kvinner	2257	2528	2581	2594	2593	2574	1808	1360	1911	2366
+	Menn	1601	1768	1782	1816	1812	1784	1308	1048	1405	1685
+	I alt vgs/yrkesfaglig utdanning enkeltplass, forsøk	16	27	23	21	20	18	12	8	7	6
+	Kvinner	6	10	10	8	7	5	4	*	*	*
+	Menn	10	17	13	13	13	13	8	5	4	4

@@ -1,0 +1,12 @@
+# Kilde: Nav
+# Tabell: Tilgang ledige stillinger etter kilde, tidsserie måned (STIL020)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
+# Lagt inn: 2026-10-17
+# Ark: 1. Antall
+# Tilgang ledige stillinger. Kilde. Tidsserie måned
+# Antall
+# Januar - september 2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	56893	49758	54348	52190	49006	44635	25370	30587	44538
+Meldt til NAV	3972	4008	4141	4692	4547	6014	2734	2815	4916
+Offentlig utlyst	52921	45750	50207	47498	44459	38621	22636	27772	39622

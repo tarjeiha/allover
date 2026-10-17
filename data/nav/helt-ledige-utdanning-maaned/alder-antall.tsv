@@ -1,0 +1,61 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter utdanning, tidsserie måned (HL070)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Alder. Antall
+# Helt ledige. Utdanning. Tidsserie måned
+# Utdanningsnivå¹ og alder. Antall
+# Januar - september 2026
+# 24 år og under
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	8754	8252	8025	7656	6820	6978	7443	8126	7735
+	Grunnskole	5023	4879	4818	4529	4107	4169	3743	4440	4486
+	Videregående, avsluttende utdanning	2426	2095	1973	2008	1657	1686	2537	2444	2103
+	Påbygging til videregående utdanning	26	32	33	36	42	24	39	47	35
+	Universitets- og høgskoleutdanning, lavere nivå	360	291	263	321	274	287	479	514	437
+	Universitets- og høgskoleutdanning, høyere nivå	11	8	4	10	6	9	27	23	18
+	Forskerutdanning	*	*	*	*	*	*	*	*	*
+	Uoppgitt eller ingen fullført utdanning	908	947	934	752	734	803	618	658	656
+25-29 år	I alt	8906	8421	8142	7650	7099	7078	7858	7963	7642
+25-29 år	Grunnskole	2371	2323	2302	2168	2031	1883	1925	1972	1973
+25-29 år	Videregående, avsluttende utdanning	2421	2278	2236	2048	1854	1864	2024	2044	2063
+25-29 år	Påbygging til videregående utdanning	166	149	145	169	143	131	171	170	162
+25-29 år	Universitets- og høgskoleutdanning, lavere nivå	2076	1857	1667	1697	1562	1728	2025	2142	1922
+25-29 år	Universitets- og høgskoleutdanning, høyere nivå	536	496	495	517	488	503	876	809	654
+25-29 år	Forskerutdanning	*	4	4	*	*	*	8	4	5
+25-29 år	Uoppgitt eller ingen fullført utdanning	1333	1314	1293	1048	1018	966	829	822	863
+30-39 år	I alt	20678	20088	19586	18804	17651	17689	19406	18842	17707
+30-39 år	Grunnskole	5030	4949	4831	4696	4353	4220	4477	4413	4252
+30-39 år	Videregående, avsluttende utdanning	4196	4016	3941	3725	3438	3375	3892	3784	3483
+30-39 år	Påbygging til videregående utdanning	464	439	428	430	391	402	508	491	444
+30-39 år	Universitets- og høgskoleutdanning, lavere nivå	4451	4259	4139	4117	3951	4137	4830	4624	4234
+30-39 år	Universitets- og høgskoleutdanning, høyere nivå	2541	2443	2388	2545	2351	2412	3063	2870	2578
+30-39 år	Forskerutdanning	254	236	202	202	215	206	312	293	242
+30-39 år	Uoppgitt eller ingen fullført utdanning	3742	3746	3657	3089	2952	2937	2324	2367	2474
+40-49 år	I alt	14976	14618	14496	13819	13120	13006	14474	13818	12897
+40-49 år	Grunnskole	3274	3171	3260	3105	2957	2869	3037	2951	2838
+40-49 år	Videregående, grunnutdanning	72	71	71	70	54	51	50	49	41
+40-49 år	Videregående, avsluttende utdanning	3386	3317	3222	3057	2755	2746	3232	3079	2877
+40-49 år	Påbygging til videregående utdanning	370	346	333	345	322	336	427	367	347
+40-49 år	Universitets- og høgskoleutdanning, lavere nivå	2921	2834	2750	2770	2699	2734	3257	3062	2839
+40-49 år	Universitets- og høgskoleutdanning, høyere nivå	2078	2007	1968	2099	2074	2056	2572	2409	2123
+40-49 år	Forskerutdanning	287	286	274	290	286	290	367	342	308
+40-49 år	Uoppgitt eller ingen fullført utdanning	2588	2586	2618	2083	1973	1924	1532	1559	1524
+50-59 år	I alt	10260	10108	9889	9477	8887	8721	9714	9174	8639
+50-59 år	Grunnskole	1926	1909	1841	1824	1638	1538	1713	1644	1579
+50-59 år	Videregående, grunnutdanning	545	521	522	494	465	435	506	482	436
+50-59 år	Videregående, avsluttende utdanning	2838	2781	2757	2577	2406	2318	2670	2481	2294
+50-59 år	Påbygging til videregående utdanning	335	329	335	312	287	284	329	298	289
+50-59 år	Universitets- og høgskoleutdanning, lavere nivå	2104	2046	2011	1994	1887	1954	2254	2110	1966
+50-59 år	Universitets- og høgskoleutdanning, høyere nivå	1091	1074	1031	1093	1073	1084	1312	1204	1136
+50-59 år	Forskerutdanning	134	132	120	143	124	118	154	169	148
+50-59 år	Uoppgitt eller ingen fullført utdanning	1287	1316	1272	1040	1007	990	776	786	791
+60 år og over	I alt	5358	5263	5233	5037	4698	4632	5125	4909	4793
+60 år og over	Grunnskole	1169	1153	1142	1113	997	973	1062	1007	958
+60 år og over	Videregående, grunnutdanning	366	347	356	326	296	302	348	348	331
+60 år og over	Videregående, avsluttende utdanning	1800	1771	1765	1656	1537	1489	1665	1613	1584
+60 år og over	Påbygging til videregående utdanning	240	241	258	246	242	237	255	255	247
+60 år og over	Universitets- og høgskoleutdanning, lavere nivå	1026	978	926	940	912	901	1049	983	973
+60 år og over	Universitets- og høgskoleutdanning, høyere nivå	399	402	415	434	411	419	505	473	468
+60 år og over	Forskerutdanning	48	50	47	49	48	51	54	49	50
+60 år og over	Uoppgitt eller ingen fullført utdanning	310	321	324	273	255	260	187	181	182

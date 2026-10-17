@@ -1,0 +1,12 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter varighet og langtidsledige, tidsserie måned (HL080)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Antall
+# Helt ledige. Varighet og langtidsledige. Tidsserie måned
+# Varighet som helt ledig. Antall
+# Januar - september 2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	68932	66750	65371	62443	58275	58104	64020	62832	59413
+Korttidsledige	49232	46980	45522	42370	38621	39291	44319	43393	40781
+Langtidsledige	19700	19770	19849	20073	19654	18813	19701	19439	18632

@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på tilrettelagt arbeid, demografi, tidsserie måned (TILT170)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og alder
+# TILT170 Tiltaksdeltakere på tilrettelagt arbeid. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og alder									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt varig tilrettelagt arbeid i ordinær virksomhet	4340	4257	4288	4275	4310	4312	4368	4370	4399	4482
+Januar 2026 - September 2026	19 år og under	24	30	28	24	23	20	20	17	23	30
+Januar 2026 - September 2026	20-24 år	397	396	396	386	389	396	405	402	396	407
+Januar 2026 - September 2026	25-29 år	774	783	786	776	780	768	768	760	770	779
+Januar 2026 - September 2026	30-39 år	1358	1306	1317	1320	1333	1342	1375	1387	1405	1434
+Januar 2026 - September 2026	40-49 år	781	762	771	772	777	781	792	787	784	803
+Januar 2026 - September 2026	50-59 år	739	727	731	736	740	737	736	746	746	753
+Januar 2026 - September 2026	60 år og over	267	253	259	261	268	268	272	271	275	276
+	I alt varig tilrettelagt arbeid i skjermet virksomhet	10051	10002	10012	10029	10039	10078	10093	10042	10080	10088
+	19 år og under	69	65	68	64	66	69	77	65	80	71
+	20-24 år	1226	1241	1224	1234	1218	1224	1229	1206	1225	1232
+	25-29 år	1523	1499	1503	1514	1507	1522	1532	1539	1541	1551
+	30-39 år	2572	2518	2545	2556	2582	2586	2580	2580	2595	2608
+	40-49 år	1828	1820	1828	1816	1817	1836	1842	1835	1830	1827
+	50-59 år	1944	1972	1962	1960	1956	1944	1932	1928	1929	1914
+	60 år og over	889	887	882	885	893	897	901	889	880	885
+	I alt varig vernet arbeid (vva)	5	6	5	5	5	5	5	5	5	5
+	60 år og over	5	6	5	5	5	5	5	5	5	5

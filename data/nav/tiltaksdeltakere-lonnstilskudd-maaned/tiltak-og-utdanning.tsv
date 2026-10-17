@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på lønnstilskudd, demografi, tidsserie måned (TILT110)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og utdanning
+# TILT110 Tiltaksdeltakere på lønnstilskudd. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og utdanning									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt midlertidig lønnstilskudd	4854	3316	3675	3989	4436	4962	5785	5650	5848	6028
+Januar 2026 - September 2026	Grunnskolenivå	1651	1106	1227	1330	1533	1708	2008	1951	1975	2023
+Januar 2026 - September 2026	Videregående skolenivå	1315	878	979	1049	1192	1319	1519	1596	1634	1665
+Januar 2026 - September 2026	Universitets- og høgskolenivå, kort inntil 4 år	861	581	627	684	804	879	972	1011	1082	1108
+Januar 2026 - September 2026	Universitets- og høgskolenivå, lang over 4 år	599	441	444	445	563	611	688	706	731	759
+Januar 2026 - September 2026	Uoppgitt eller ingen fullført utdanning	429	310	398	481	344	445	598	386	426	473
+gruppe	rad	Gjennomsnitt hittil i år	Juni	Juli	August
+	I alt tilskudd til sommerjobb	79	326	343	45
+	Grunnskolenivå	58	253	237	33
+	Videregående skolenivå	8	22	41	6
+	Universitets- og høgskolenivå, kort inntil 4 år	*	9	13	*
+	Universitets- og høgskolenivå, lang over 4 år	*	*	*	*
+	Uoppgitt eller ingen fullført utdanning	11	42	51	*
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt varig lønnstilskudd	3781	3791	3784	3786	3783	3797	3792	3775	3765	3760
+	Grunnskolenivå	1455	1456	1454	1456	1452	1459	1467	1453	1445	1453
+	Videregående skolenivå	1435	1442	1443	1438	1440	1442	1424	1429	1430	1423
+	Universitets- og høgskolenivå, kort inntil 4 år	597	598	592	596	596	602	603	596	597	589
+	Universitets- og høgskolenivå, lang over 4 år	244	241	242	243	244	244	247	249	244	246
+	Uoppgitt eller ingen fullført utdanning	51	54	53	53	51	50	51	48	49	49

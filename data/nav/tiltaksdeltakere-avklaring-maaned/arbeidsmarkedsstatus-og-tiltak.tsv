@@ -1,0 +1,14 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på avklaring, demografi, tidsserie måned (TILT150)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og tiltak
+# TILT150 Tiltaksdeltakere på avklaring. Demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og tiltak									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	305	275	297	285	314	293	322	266	330	360
+Januar 2026 - September 2026	Avklaring	305	275	297	285	314	293	322	266	330	360
+	I alt Nedsatt arbeidsevne, på tiltak	3241	3010	3103	3210	3391	3445	3185	2649	3462	3716
+	Avklaring	3241	3010	3103	3210	3391	3445	3185	2649	3462	3716
+	I alt Andre på tiltak	311	282	296	297	339	333	330	262	343	321
+	Avklaring	311	282	296	297	339	333	330	262	343	321

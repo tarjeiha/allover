@@ -1,0 +1,73 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter utdanning, tidsserie måned (HL070)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Varighet arbeidssøker. Antall
+# Helt ledige. Utdanning. Tidsserie måned
+# Utdanningsnivå¹ og varighet som arbeidssøker. Antall
+# Januar - september 2026
+# Under 4 uker
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	12789	11117	10299	8933	8135	9101	8410	11113	10651
+	Grunnskole	3672	3395	3052	2668	2362	2560	2119	3265	3256
+	Videregående, grunnutdanning	139	109	120	73	68	71	67	85	83
+	Videregående, avsluttende utdanning	3386	2653	2608	2076	1781	2015	2168	2605	2545
+	Påbygging til videregående utdanning	257	207	245	185	192	205	199	251	243
+	Universitets- og høgskoleutdanning, lavere nivå	2247	1845	1665	1585	1547	1971	1926	2441	2035
+	Universitets- og høgskoleutdanning, høyere nivå	960	869	793	797	739	798	916	1104	889
+	Forskerutdanning	90	66	53	73	76	68	61	83	61
+	Uoppgitt eller ingen fullført utdanning	2038	1973	1763	1476	1370	1413	954	1279	1539
+4-12 uker	I alt	13579	13642	12937	12205	10388	9657	11792	11279	11051
+4-12 uker	Grunnskole	3713	3729	3724	3545	2918	2534	2801	2760	3045
+4-12 uker	Videregående, grunnutdanning	177	169	158	150	123	107	120	119	119
+4-12 uker	Videregående, avsluttende utdanning	3507	3554	3200	2972	2444	2169	2851	2740	2625
+4-12 uker	Påbygging til videregående utdanning	309	303	259	292	241	236	331	277	241
+4-12 uker	Universitets- og høgskoleutdanning, lavere nivå	2402	2442	2212	2126	1883	1890	2625	2554	2399
+4-12 uker	Universitets- og høgskoleutdanning, høyere nivå	1087	1110	1052	1118	995	1007	1424	1322	1200
+4-12 uker	Forskerutdanning	111	130	106	88	90	103	141	124	97
+4-12 uker	Uoppgitt eller ingen fullført utdanning	2273	2205	2226	1914	1694	1611	1499	1383	1325
+13-25 uker	I alt	12694	12407	12299	11537	10759	10496	10995	9720	9266
+13-25 uker	Grunnskole	3540	3462	3404	3175	2988	2850	2754	2398	2208
+13-25 uker	Videregående, grunnutdanning	167	176	170	158	143	136	153	131	126
+13-25 uker	Videregående, avsluttende utdanning	2993	2963	2991	2849	2506	2443	2618	2288	2138
+13-25 uker	Påbygging til videregående utdanning	273	287	266	270	227	240	283	272	262
+13-25 uker	Universitets- og høgskoleutdanning, lavere nivå	2360	2122	2190	2208	2100	2059	2213	1999	2009
+13-25 uker	Universitets- og høgskoleutdanning, høyere nivå	1144	1062	1067	1132	1102	1096	1415	1217	1160
+13-25 uker	Forskerutdanning	139	127	121	128	121	108	123	134	120
+13-25 uker	Uoppgitt eller ingen fullført utdanning	2078	2208	2090	1617	1572	1564	1436	1281	1243
+26-51 uker	I alt	12062	12091	12358	12746	12226	11888	13909	13008	11706
+26-51 uker	Grunnskole	2928	2976	3200	3417	3354	3284	3522	3400	3114
+26-51 uker	Videregående, grunnutdanning	169	163	183	191	179	162	207	208	163
+26-51 uker	Videregående, avsluttende utdanning	2714	2804	2831	2969	2824	2747	3464	3203	2780
+26-51 uker	Påbygging til videregående utdanning	308	314	320	337	321	282	374	332	305
+26-51 uker	Universitets- og høgskoleutdanning, lavere nivå	2475	2502	2414	2568	2440	2405	2983	2621	2343
+26-51 uker	Universitets- og høgskoleutdanning, høyere nivå	1290	1246	1269	1442	1355	1280	1702	1513	1311
+26-51 uker	Forskerutdanning	143	151	155	166	158	148	228	200	180
+26-51 uker	Uoppgitt eller ingen fullført utdanning	2035	1935	1986	1656	1595	1580	1429	1531	1510
+52-77 uker	I alt	8109	7871	7602	7152	6982	7067	7597	7089	6687
+52-77 uker	Grunnskole	2129	2034	1948	1773	1671	1697	1767	1693	1738
+52-77 uker	Videregående, grunnutdanning	127	115	113	119	115	114	123	117	117
+52-77 uker	Videregående, avsluttende utdanning	1949	1803	1729	1659	1603	1619	1963	1875	1689
+52-77 uker	Påbygging til videregående utdanning	199	171	173	198	202	214	244	225	196
+52-77 uker	Universitets- og høgskoleutdanning, lavere nivå	1498	1413	1338	1395	1382	1464	1779	1648	1526
+52-77 uker	Universitets- og høgskoleutdanning, høyere nivå	917	891	809	874	865	900	1155	1029	920
+52-77 uker	Forskerutdanning	112	102	92	104	95	89	137	114	123
+52-77 uker	Uoppgitt eller ingen fullført utdanning	1178	1342	1400	1030	1049	970	429	388	378
+78-103 uker	I alt	4344	4280	4471	4541	4574	4586	5317	4943	4619
+78-103 uker	Grunnskole	1116	1117	1174	1209	1193	1157	1333	1285	1177
+78-103 uker	Videregående, grunnutdanning	68	74	74	68	56	71	93	92	88
+78-103 uker	Videregående, avsluttende utdanning	1141	1117	1150	1203	1213	1166	1428	1296	1253
+78-103 uker	Påbygging til videregående utdanning	116	115	117	112	106	108	136	125	126
+78-103 uker	Universitets- og høgskoleutdanning, lavere nivå	903	893	915	892	872	850	1090	998	932
+78-103 uker	Universitets- og høgskoleutdanning, høyere nivå	625	597	630	606	623	624	790	708	653
+78-103 uker	Forskerutdanning	62	67	58	63	65	75	108	106	82
+78-103 uker	Uoppgitt eller ingen fullført utdanning	313	300	353	388	446	535	339	333	308
+104 uker og mer	I alt	5355	5342	5405	5329	5211	5309	6000	5680	5433
+104 uker og mer	Grunnskole	1695	1671	1692	1648	1597	1570	1661	1626	1548
+104 uker og mer	Videregående, grunnutdanning	136	133	131	131	131	127	141	127	112
+104 uker og mer	Videregående, avsluttende utdanning	1377	1364	1385	1343	1276	1319	1528	1438	1374
+104 uker og mer	Påbygging til videregående utdanning	139	139	152	144	138	129	162	146	151
+104 uker og mer	Universitets- og høgskoleutdanning, lavere nivå	1053	1048	1022	1065	1061	1102	1278	1174	1127
+104 uker og mer	Universitets- og høgskoleutdanning, høyere nivå	633	655	681	729	724	778	953	895	844
+104 uker og mer	Forskerutdanning	69	65	62	65	71	77	97	96	90
+104 uker og mer	Uoppgitt eller ingen fullført utdanning	253	267	280	204	213	207	180	178	187

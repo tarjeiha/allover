@@ -1,0 +1,22 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på tilrettelagt arbeid, demografi, tidsserie måned (TILT170)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og utdanning
+# TILT170 Tiltaksdeltakere på tilrettelagt arbeid. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og utdanning									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt varig tilrettelagt arbeid i ordinær virksomhet	4340	4257	4288	4275	4310	4312	4368	4370	4399	4482
+Januar 2026 - September 2026	Grunnskolenivå	2982	2949	2958	2941	2955	2959	2999	2988	3012	3073
+Januar 2026 - September 2026	Videregående skolenivå	983	946	967	963	980	977	987	1000	1006	1017
+Januar 2026 - September 2026	Universitets- og høgskolenivå, kort inntil 4 år	275	264	268	276	275	275	276	278	277	286
+Januar 2026 - September 2026	Universitets- og høgskolenivå, lang over 4 år	37	35	32	34	36	35	39	39	40	41
+Januar 2026 - September 2026	Uoppgitt eller ingen fullført utdanning	64	63	63	61	64	66	67	65	64	65
+	I alt varig tilrettelagt arbeid i skjermet virksomhet	10051	10002	10012	10029	10039	10078	10093	10042	10080	10088
+	Grunnskolenivå	7977	7936	7942	7965	7964	7998	8009	7966	8002	8013
+	Videregående skolenivå	1493	1486	1487	1483	1496	1496	1495	1495	1497	1498
+	Universitets- og høgskolenivå, kort inntil 4 år	228	220	224	222	227	230	232	231	234	234
+	Universitets- og høgskolenivå, lang over 4 år	26	27	27	26	25	25	26	26	25	25
+	Uoppgitt eller ingen fullført utdanning	328	333	332	333	327	329	331	324	322	318
+	I alt varig vernet arbeid (vva)	5	6	5	5	5	5	5	5	5	5
+	Grunnskolenivå	5	6	5	5	5	5	5	5	5	5

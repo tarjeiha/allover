@@ -1,0 +1,152 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter utdanning, tidsserie måned (HL070)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Fylke. Andel
+# Helt ledige. Utdanning. Tidsserie måned
+# Utdanningsnivå¹ og fylke. Andel av arbeidsstyrken
+# Januar - september 2026
+# 03 Oslo - Oslove
+# Merknad: I alt
+# Merknad: Grunnskole
+# Merknad: Videregående, avsluttende utdanning
+# Merknad: Påbygging til videregående utdanning
+# Merknad: Universitets- og høgskoleutdanning, lavere nivå
+# Merknad: Universitets- og høgskoleutdanning, høyere nivå
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt	2.9	2.9	2.8	2.7	2.6	2.6	2.9	2.8	2.7
+I alt	Grunnskole	5.1	5.2	5.2	5.1	4.9	4.8	5.2	5.2	5
+I alt	Videregående, grunnutdanning	2.2	2.1	2	2.1	2	2	2.4	2.3	2.1
+I alt	Videregående, avsluttende utdanning	3.1	3	2.9	2.7	2.6	2.6	3.1	3	2.8
+I alt	Påbygging til videregående utdanning	3.1	2.9	2.7	2.8	2.6	2.5	3.1	3	2.6
+I alt	Universitets- og høgskoleutdanning, lavere nivå	2.3	2.2	2.1	2.1	2	2.1	2.6	2.4	2.2
+I alt	Universitets- og høgskoleutdanning, høyere nivå	1.7	1.6	1.6	1.6	1.6	1.6	1.9	1.8	1.6
+I alt	Forskerutdanning	1.8	1.8	1.7	1.7	1.8	1.7	2.3	2.2	1.9
+I alt	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+11 Rogaland	I alt	2.2	2.1	2.1	2	1.9	1.9	2	2	1.9
+11 Rogaland	Grunnskole	3.2	2.9	2.9	3	2.7	2.6	2.8	2.9	2.9
+11 Rogaland	Videregående, grunnutdanning	1.2	1	1.1	1.2	1.2	1.2	1.4	1.5	1.5
+11 Rogaland	Videregående, avsluttende utdanning	1.6	1.5	1.5	1.5	1.4	1.4	1.6	1.5	1.4
+11 Rogaland	Påbygging til videregående utdanning	1.2	1.2	1.2	1.3	1.3	1.2	1.3	1.4	1.2
+11 Rogaland	Universitets- og høgskoleutdanning, lavere nivå	1.5	1.5	1.4	1.5	1.4	1.4	1.6	1.7	1.5
+11 Rogaland	Universitets- og høgskoleutdanning, høyere nivå	1.9	1.9	1.9	2	2	2	2.2	2.1	1.9
+11 Rogaland	Forskerutdanning	2.9	2.6	2.1	2.1	2.5	2.4	2.9	2.9	2.9
+11 Rogaland	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+15 Møre og Romsdal	I alt	2	1.9	1.9	1.8	1.7	1.7	1.9	1.8	1.6
+15 Møre og Romsdal	Grunnskole	3	2.8	2.9	2.8	2.6	2.6	2.8	2.7	2.6
+15 Møre og Romsdal	Videregående, grunnutdanning	1	1.1	1.1	1.2	1.2	1.2	1.3	1.1	1
+15 Møre og Romsdal	Videregående, avsluttende utdanning	1.6	1.5	1.5	1.4	1.3	1.3	1.5	1.4	1.3
+15 Møre og Romsdal	Påbygging til videregående utdanning	1	1	0.9	1.1	1	1	1.2	1.1	1
+15 Møre og Romsdal	Universitets- og høgskoleutdanning, lavere nivå	1.1	1	1	1	0.9	1	1.3	1.3	1
+15 Møre og Romsdal	Universitets- og høgskoleutdanning, høyere nivå	1.5	1.4	1.5	1.7	1.5	1.6	2.1	2	1.6
+15 Møre og Romsdal	Forskerutdanning	0.9	0.8	1.2	1.4	1.2	1.6	2.4	2.1	1.5
+15 Møre og Romsdal	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+18 Nordland - Nordlánnda	I alt	1.8	1.7	1.7	1.6	1.5	1.5	1.6	1.6	1.5
+18 Nordland - Nordlánnda	Grunnskole	2.7	2.6	2.5	2.4	2.2	2.2	2.3	2.3	2.4
+18 Nordland - Nordlánnda	Videregående, grunnutdanning	0.7	0.8	0.7	0.7	0.6	0.5	0.7	0.7	0.7
+18 Nordland - Nordlánnda	Videregående, avsluttende utdanning	1.4	1.3	1.4	1.3	1.2	1.1	1.3	1.3	1.1
+18 Nordland - Nordlánnda	Påbygging til videregående utdanning	0.9	0.9	1	0.9	0.9	0.8	0.8	0.9	0.8
+18 Nordland - Nordlánnda	Universitets- og høgskoleutdanning, lavere nivå	1	0.9	0.9	0.9	0.9	0.9	1.1	1	0.9
+18 Nordland - Nordlánnda	Universitets- og høgskoleutdanning, høyere nivå	1.5	1.3	1.3	1.5	1.5	1.4	1.6	1.7	1.5
+18 Nordland - Nordlánnda	Forskerutdanning	0.7	1	0.9	0.9	0.9	1.2	1.4	1.8	1.2
+18 Nordland - Nordlánnda	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+31 Østfold	I alt	3.1	3	2.9	2.7	2.5	2.5	2.8	2.7	2.6
+31 Østfold	Grunnskole	5.3	5	5	4.7	4.4	4.3	4.6	4.7	4.6
+31 Østfold	Videregående, grunnutdanning	1.7	1.7	1.9	1.6	1.3	1.4	1.6	1.5	1.4
+31 Østfold	Videregående, avsluttende utdanning	2.7	2.5	2.5	2.4	2.1	2.1	2.4	2.3	2.2
+31 Østfold	Påbygging til videregående utdanning	2	1.9	2	1.7	1.7	1.8	2	1.9	1.7
+31 Østfold	Universitets- og høgskoleutdanning, lavere nivå	1.8	1.8	1.7	1.7	1.7	1.7	2	1.9	1.8
+31 Østfold	Universitets- og høgskoleutdanning, høyere nivå	1.7	1.6	1.5	1.6	1.5	1.6	2.1	2	1.8
+31 Østfold	Forskerutdanning	2.5	2.6	2.4	2.5	1.9	2	2.7	2.1	2
+31 Østfold	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+32 Akershus	I alt	2.6	2.5	2.5	2.4	2.2	2.2	2.5	2.4	2.3
+32 Akershus	Grunnskole	3.8	3.8	3.7	3.6	3.3	3.2	3.6	3.6	3.6
+32 Akershus	Videregående, grunnutdanning	1.7	1.6	1.6	1.6	1.5	1.4	1.7	1.6	1.4
+32 Akershus	Videregående, avsluttende utdanning	2.4	2.3	2.2	2.2	2	2	2.3	2.2	2.1
+32 Akershus	Påbygging til videregående utdanning	1.7	1.6	1.7	1.6	1.7	1.8	2	1.8	1.6
+32 Akershus	Universitets- og høgskoleutdanning, lavere nivå	1.8	1.7	1.6	1.6	1.6	1.6	1.9	1.8	1.8
+32 Akershus	Universitets- og høgskoleutdanning, høyere nivå	1.6	1.5	1.5	1.6	1.5	1.5	1.8	1.7	1.5
+32 Akershus	Forskerutdanning	1.9	1.7	1.5	1.7	1.6	1.7	1.9	1.8	1.7
+32 Akershus	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+33 Buskerud	I alt	2.5	2.4	2.5	2.2	2	2.1	2.3	2.3	2.2
+33 Buskerud	Grunnskole	3.9	3.9	3.9	3.5	3.2	3.4	3.6	3.8	3.7
+33 Buskerud	Videregående, grunnutdanning	1.6	1.4	1.3	1.2	1	1.1	1.4	1.4	1.2
+33 Buskerud	Videregående, avsluttende utdanning	2.1	2	2	1.9	1.7	1.6	2	2	1.8
+33 Buskerud	Påbygging til videregående utdanning	1.5	1.3	1.3	1.3	1.1	1.1	1.4	1.2	1
+33 Buskerud	Universitets- og høgskoleutdanning, lavere nivå	1.5	1.4	1.5	1.4	1.3	1.4	1.6	1.6	1.5
+33 Buskerud	Universitets- og høgskoleutdanning, høyere nivå	1.9	1.7	1.6	1.6	1.4	1.5	1.9	1.9	1.7
+33 Buskerud	Forskerutdanning	2.3	2.6	2.5	2.5	2.1	2.2	2.4	2.4	1.7
+33 Buskerud	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+34 Innlandet	I alt	2.1	2	1.9	1.9	1.7	1.6	1.7	1.7	1.6
+34 Innlandet	Grunnskole	3.3	3.2	3.2	3.1	3	2.6	2.8	2.8	2.9
+34 Innlandet	Videregående, grunnutdanning	1.1	1	1	1.1	0.9	0.8	0.9	0.8	0.8
+34 Innlandet	Videregående, avsluttende utdanning	1.8	1.7	1.6	1.6	1.3	1.3	1.5	1.4	1.3
+34 Innlandet	Påbygging til videregående utdanning	1.2	1.2	1.1	1.1	0.9	0.8	1.1	1	1
+34 Innlandet	Universitets- og høgskoleutdanning, lavere nivå	1.1	1	1	1.1	1	1	1.1	1.1	1
+34 Innlandet	Universitets- og høgskoleutdanning, høyere nivå	1.6	1.4	1.4	1.7	1.6	1.6	1.9	1.7	1.5
+34 Innlandet	Forskerutdanning	1.7	1.4	1.5	1.6	1.2	1.9	2.4	2.4	2.2
+34 Innlandet	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+39 Vestfold	I alt	2.7	2.6	2.5	2.3	2.1	2.2	2.3	2.3	2.2
+39 Vestfold	Grunnskole	4.6	4.5	4.3	4.1	3.6	3.5	3.7	3.8	3.7
+39 Vestfold	Videregående, grunnutdanning	1.6	1.7	1.7	1.5	1.4	1.4	1.6	1.5	1.6
+39 Vestfold	Videregående, avsluttende utdanning	2.3	2.2	2.1	2	1.7	1.8	1.9	1.8	1.7
+39 Vestfold	Påbygging til videregående utdanning	1.7	1.7	1.8	1.7	1.6	1.6	1.8	1.7	1.6
+39 Vestfold	Universitets- og høgskoleutdanning, lavere nivå	1.7	1.6	1.5	1.5	1.5	1.6	1.7	1.7	1.6
+39 Vestfold	Universitets- og høgskoleutdanning, høyere nivå	1.8	1.7	1.7	1.7	1.7	1.7	2.2	2	1.8
+39 Vestfold	Forskerutdanning	1.8	2	1.5	2.2	1.8	2.1	2.2	2.2	2
+39 Vestfold	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+40 Telemark	I alt	2.7	2.6	2.5	2.4	2.2	2.1	2.3	2.3	2.2
+40 Telemark	Grunnskole	4.9	4.8	4.8	4.4	4.1	3.8	4.1	4.3	4.3
+40 Telemark	Videregående, grunnutdanning	1.1	1.2	1.2	1.4	1.3	1.4	1.4	1.2	1.2
+40 Telemark	Videregående, avsluttende utdanning	2	2	1.7	1.7	1.6	1.6	1.7	1.6	1.6
+40 Telemark	Påbygging til videregående utdanning	1.2	1.1	1	1.1	0.9	1	1.3	1.2	1.2
+40 Telemark	Universitets- og høgskoleutdanning, lavere nivå	1.7	1.6	1.5	1.6	1.5	1.4	1.7	1.6	1.6
+40 Telemark	Universitets- og høgskoleutdanning, høyere nivå	2.2	2.3	2.2	2.3	2.1	2.2	2.7	2.5	2
+40 Telemark	Forskerutdanning	2	2.1	1.4	1.6	1.8	1.4	2.1	1.9	1
+40 Telemark	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+42 Agder	I alt	2.3	2.2	2.2	2	1.9	1.8	2	2.1	2
+42 Agder	Grunnskole	3.8	3.6	3.6	3.5	3.1	3	3.1	3.3	3.3
+42 Agder	Videregående, grunnutdanning	1.3	1.1	1.2	1.2	1.1	1	1.1	1.2	1
+42 Agder	Videregående, avsluttende utdanning	2	1.8	1.8	1.6	1.5	1.4	1.7	1.7	1.6
+42 Agder	Påbygging til videregående utdanning	1.5	1.5	1.6	1.5	1.3	1.1	1.4	1.3	1.4
+42 Agder	Universitets- og høgskoleutdanning, lavere nivå	1.5	1.4	1.4	1.3	1.3	1.3	1.5	1.5	1.4
+42 Agder	Universitets- og høgskoleutdanning, høyere nivå	1.7	1.7	1.7	1.8	1.8	1.9	2.3	2.1	1.9
+42 Agder	Forskerutdanning	1.9	1.8	1.5	1.6	2.5	2.2	2.8	2.9	2.5
+42 Agder	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+46 Vestland	I alt	1.9	1.8	1.8	1.7	1.5	1.6	1.7	1.7	1.6
+46 Vestland	Grunnskole	3	3	2.9	2.9	2.6	2.6	2.8	2.9	2.7
+46 Vestland	Videregående, grunnutdanning	1.1	1.1	1.1	1	1	1	1.2	1.1	1
+46 Vestland	Videregående, avsluttende utdanning	1.6	1.5	1.5	1.3	1.2	1.2	1.3	1.3	1.2
+46 Vestland	Påbygging til videregående utdanning	1.1	1	1	1	0.9	0.9	1.1	1	1
+46 Vestland	Universitets- og høgskoleutdanning, lavere nivå	1.3	1.1	1.1	1.1	1	1.1	1.3	1.2	1.2
+46 Vestland	Universitets- og høgskoleutdanning, høyere nivå	1.6	1.5	1.5	1.6	1.5	1.5	1.8	1.6	1.5
+46 Vestland	Forskerutdanning	1.7	1.8	1.7	1.7	1.6	1.4	1.8	1.8	1.6
+46 Vestland	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+50 Trøndelag - Trööndelage	I alt	2.1	2.1	2	1.9	1.8	1.7	1.9	2	1.9
+50 Trøndelag - Trööndelage	Grunnskole	3.5	3.6	3.5	3.4	3	2.9	3.1	3.4	3.3
+50 Trøndelag - Trööndelage	Videregående, grunnutdanning	1.3	1.2	1.1	0.9	0.8	0.7	0.8	0.8	0.7
+50 Trøndelag - Trööndelage	Videregående, avsluttende utdanning	1.8	1.8	1.8	1.7	1.5	1.4	1.7	1.7	1.6
+50 Trøndelag - Trööndelage	Påbygging til videregående utdanning	1.3	1.2	1.2	1.4	1.2	1.1	1.3	1.1	1.3
+50 Trøndelag - Trööndelage	Universitets- og høgskoleutdanning, lavere nivå	1.3	1.2	1.2	1.2	1.1	1.2	1.5	1.4	1.3
+50 Trøndelag - Trööndelage	Universitets- og høgskoleutdanning, høyere nivå	1.5	1.5	1.5	1.7	1.6	1.6	2	1.9	1.6
+50 Trøndelag - Trööndelage	Forskerutdanning	1.5	1.5	1.3	1.4	1.3	1.4	1.9	1.8	1.5
+50 Trøndelag - Trööndelage	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+55 Troms - Romsa - Tromssa	I alt	1.3	1.3	1.3	1.3	1.3	1.2	1.3	1.3	1.2
+55 Troms - Romsa - Tromssa	Grunnskole	1.9	1.9	1.9	2	1.8	1.8	1.9	2.1	2.1
+55 Troms - Romsa - Tromssa	Videregående, grunnutdanning	0.8	0.8	0.9	1.1	1	0.9	1.1	1.1	0.9
+55 Troms - Romsa - Tromssa	Videregående, avsluttende utdanning	1.1	1.1	1.1	1.2	1.1	0.9	1.2	1.1	0.9
+55 Troms - Romsa - Tromssa	Påbygging til videregående utdanning	0.8	0.9	0.8	0.7	0.7	0.9	0.9	0.8	0.7
+55 Troms - Romsa - Tromssa	Universitets- og høgskoleutdanning, lavere nivå	0.8	0.8	0.7	0.8	0.7	0.8	0.8	0.9	0.8
+55 Troms - Romsa - Tromssa	Universitets- og høgskoleutdanning, høyere nivå	1	1	1	1	0.9	1	1.1	1.2	0.9
+55 Troms - Romsa - Tromssa	Forskerutdanning	1.3	1.2	1.2	1.4	1.3	1.2	1.2	1	0.9
+55 Troms - Romsa - Tromssa	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+56 Finnmark - Finnmárku - Finmarkku	I alt	2.1	2.1	2.2	2.2	2.2	2.2	2.2	2.2	2.1
+56 Finnmark - Finnmárku - Finmarkku	Grunnskole	3.1	3	3.3	3.4	3.2	3	3.2	3.2	3.1
+56 Finnmark - Finnmárku - Finmarkku	Videregående, grunnutdanning	1.5	1.3	1.7	1.6	1.4	1.2	0.9	1	1.2
+56 Finnmark - Finnmárku - Finmarkku	Videregående, avsluttende utdanning	2	2	1.9	1.8	1.8	1.8	2	2	1.7
+56 Finnmark - Finnmárku - Finmarkku	Påbygging til videregående utdanning	1	1.3	1.3	1.3	1.3	1.1	1.5	1.3	1.1
+56 Finnmark - Finnmárku - Finmarkku	Universitets- og høgskoleutdanning, lavere nivå	1	0.9	0.9	1.1	1	1.1	1.1	1.1	1
+56 Finnmark - Finnmárku - Finmarkku	Universitets- og høgskoleutdanning, høyere nivå	1.4	1.5	1.4	1.6	1.7	1.8	2.1	1.8	1.5
+56 Finnmark - Finnmárku - Finmarkku	Forskerutdanning	1.6	1.1	1.1	1.1	1.1	1.1	1.1	2.2	1.6
+56 Finnmark - Finnmárku - Finmarkku	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+Forskerutdanning	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*

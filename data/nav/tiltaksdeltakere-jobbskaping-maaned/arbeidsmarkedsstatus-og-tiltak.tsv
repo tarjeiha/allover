@@ -1,0 +1,20 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på jobbskaping, egenetablering og tilrettelegging, demografi, tidsserie måned (TILT180)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og tiltak
+# TILT180 Tiltaksdeltakere på jobbskaping og egenetablering og tilrettelegging. Demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og tiltak									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	65	81	77	67	65	56	60	62	61	59
+Januar 2026 - September 2026	Egenetablering	65	81	77	67	65	56	60	62	61	59
+	I alt Nedsatt arbeidsevne, på tiltak	299	224	269	296	305	303	326	328	321	321
+	Egenetablering	*	6	*	*	*	*	*	*	*	4
+	Funksjonsassistanse	117	116	117	118	113	114	116	118	119	118
+	Inkluderingstilskudd	39	28	39	35	31	39	43	47	45	43
+	Tilskudd til ekspertbistand	141	74	111	141	159	148	165	160	154	156
+	I alt Andre på tiltak	608	420	555	626	655	685	719	602	594	614
+	Egenetablering	*	*	*	*	*	4	*	*	4	*
+	Funksjonsassistanse	206	196	205	205	203	208	211	208	208	208
+	Inkluderingstilskudd	24	19	23	20	21	25	27	31	28	22
+	Tilskudd til ekspertbistand	375	202	325	399	429	448	478	360	354	382

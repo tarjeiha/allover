@@ -1,0 +1,62 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på tilrettelagt arbeid, demografi, tidsserie måned (TILT170)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og fylke
+# TILT170 Tiltaksdeltakere på tilrettelagt arbeid. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og fylke									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt varig tilrettelagt arbeid i ordinær virksomhet	4340	4257	4288	4275	4310	4312	4368	4370	4399	4482
+Januar 2026 - September 2026	03 Oslo - Oslove	192	185	187	191	190	188	196	191	193	207
+Januar 2026 - September 2026	11 Rogaland	300	294	299	302	298	295	301	303	307	305
+Januar 2026 - September 2026	15 Møre og Romsdal	207	194	197	199	202	211	215	214	214	220
+Januar 2026 - September 2026	18 Nordland - Nordlánnda	309	301	302	302	307	308	308	315	319	323
+Januar 2026 - September 2026	31 Østfold	215	207	208	208	209	208	218	220	223	230
+Januar 2026 - September 2026	32 Akershus	420	416	419	406	421	425	425	422	418	431
+Januar 2026 - September 2026	33 Buskerud	273	271	274	277	273	272	270	265	273	279
+Januar 2026 - September 2026	34 Innlandet	271	260	265	267	271	272	273	274	275	279
+Januar 2026 - September 2026	39 Vestfold	149	146	147	147	147	148	150	150	153	156
+Januar 2026 - September 2026	40 Telemark	205	209	207	204	203	201	204	204	203	209
+Januar 2026 - September 2026	42 Agder	514	510	513	506	507	507	514	518	523	527
+Januar 2026 - September 2026	46 Vestland	463	441	446	451	463	466	471	471	476	481
+Januar 2026 - September 2026	50 Trøndelag - Trööndelage	618	629	628	617	618	610	616	615	608	622
+Januar 2026 - September 2026	55 Troms - Romsa - Tromssa	142	137	136	137	138	139	143	145	149	153
+Januar 2026 - September 2026	56 Finnmark - Finnmárku - Finmarkku	61	57	60	61	61	61	63	63	65	60
+Januar 2026 - September 2026	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	Ukjent	*	*	*	*	*	*	*	*	*	*
+	I alt varig tilrettelagt arbeid i skjermet virksomhet	10051	10002	10012	10029	10039	10078	10093	10042	10080	10088
+	03 Oslo - Oslove	649	643	640	643	639	649	655	650	659	661
+	11 Rogaland	818	814	821	821	817	818	819	816	819	821
+	15 Møre og Romsdal	463	459	464	464	462	465	465	462	462	462
+	18 Nordland - Nordlánnda	646	637	638	641	650	652	649	648	649	654
+	31 Østfold	716	714	713	713	715	716	722	715	717	721
+	32 Akershus	1012	1004	1006	1009	1016	1017	1014	1010	1018	1017
+	33 Buskerud	478	478	479	480	477	480	477	477	479	478
+	34 Innlandet	808	815	814	809	806	812	809	807	802	800
+	39 Vestfold	559	563	560	558	554	558	557	556	562	566
+	40 Telemark	419	414	415	414	422	420	421	419	424	422
+	42 Agder	801	807	805	801	800	801	806	801	796	794
+	46 Vestland	1093	1066	1076	1093	1096	1097	1101	1097	1100	1107
+	50 Trøndelag - Trööndelage	904	906	902	903	901	900	908	906	906	900
+	55 Troms - Romsa - Tromssa	465	465	464	463	464	469	467	459	466	465
+	56 Finnmark - Finnmárku - Finmarkku	216	213	213	215	218	221	218	216	217	216
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	4	*	*	*
+	I alt varig vernet arbeid (vva)	5	6	5	5	5	5	5	5	5	5
+	03 Oslo - Oslove	*	*	*	*	*	*	*	*	*	*
+	11 Rogaland	*	*	*	*	*	*	*	*	*	*
+	15 Møre og Romsdal	*	*	*	*	*	*	*	*	*	*
+	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*
+	31 Østfold	*	*	*	*	*	*	*	*	*	*
+	32 Akershus	*	*	*	*	*	*	*	*	*	*
+	33 Buskerud	*	*	*	*	*	*	*	*	*	*
+	34 Innlandet	*	*	*	*	*	*	*	*	*	*
+	39 Vestfold	*	*	*	*	*	*	*	*	*	*
+	40 Telemark	*	*	*	*	*	*	*	*	*	*
+	42 Agder	*	*	*	*	*	*	*	*	*	*
+	46 Vestland	*	*	*	*	*	*	*	*	*	*
+	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*
+	55 Troms - Romsa - Tromssa	*	*	*	*	*	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*

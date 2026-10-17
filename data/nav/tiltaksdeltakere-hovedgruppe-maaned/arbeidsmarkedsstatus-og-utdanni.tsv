@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere etter hovedgruppe og demografi, tidsserie måned (TILT100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Arbeidsmarkedsstatus og utdanni
+# TILT100 Tiltaksdeltakere. Hovedgruppe og demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og utdanning									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt Arbeidssøkere på tiltak	11828	11301	12071	12496	13032	12580	11110	9593	11433	12838
+Januar 2026 - September 2026	Grunnskolenivå	3316	3161	3446	3552	3804	3627	3165	2609	3036	3443
+Januar 2026 - September 2026	Videregående skolenivå	2679	2491	2633	2628	2927	2861	2497	2322	2719	3033
+Januar 2026 - September 2026	Universitets- og høgskolenivå, kort inntil 4 år	2385	2083	2175	2289	2686	2559	2297	2140	2527	2712
+Januar 2026 - September 2026	Universitets- og høgskolenivå, lang over 4 år	1724	1445	1498	1507	1963	1876	1669	1597	1894	2068
+Januar 2026 - September 2026	Uoppgitt eller ingen fullført utdanning	1724	2121	2319	2520	1652	1657	1482	925	1257	1582
+	I alt Nedsatt arbeidsevne, på tiltak	65785	64651	65676	66377	67472	67605	64939	60987	65671	68688
+	Grunnskolenivå	31188	30830	31208	31497	31801	31926	31023	29436	30830	32140
+	Videregående skolenivå	19104	18846	19123	19186	19806	19678	18689	17529	19195	19887
+	Universitets- og høgskolenivå, kort inntil 4 år	10011	9546	9724	9849	10375	10457	9950	9255	10199	10746
+	Universitets- og høgskolenivå, lang over 4 år	3181	2941	2994	3028	3325	3298	3146	3011	3344	3540
+	Uoppgitt eller ingen fullført utdanning	2301	2488	2627	2817	2165	2246	2131	1756	2103	2375
+	I alt Andre på tiltak	4549	3744	4066	4269	4624	4885	4902	4560	4834	5061
+	Grunnskolenivå	1422	1157	1262	1306	1444	1525	1555	1489	1496	1564
+	Videregående skolenivå	1166	934	983	1049	1186	1235	1240	1211	1315	1343
+	Universitets- og høgskolenivå, kort inntil 4 år	882	685	779	816	953	983	942	868	943	970
+	Universitets- og høgskolenivå, lang over 4 år	472	375	383	372	477	509	485	538	552	556
+	Uoppgitt eller ingen fullført utdanning	607	593	659	726	564	633	680	454	528	628

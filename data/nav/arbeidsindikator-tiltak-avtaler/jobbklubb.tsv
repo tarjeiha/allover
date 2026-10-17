@@ -1,0 +1,522 @@
+# Kilde: Nav
+# Tabell: Arbeidsindikator, tidsserie tiltak, avtaler (tabell 6)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator
+# Lagt inn: 2026-10-17
+# Ark: Jobbklubb
+# Arbeidsindikator for personer registrert hos Nav. Tidsserie. Gjennomsnittlig antall timer per uke neste tolv måneder. Jobbklubb.
+Regioner der avtalen gjelder	Tiltaksavtale	Måletidspunkt	Faktisk antall arbeidstimer	Forventet antall arbeidstimer	Indikator	Antall personer	Feilmargin
+Agder	Jobbklubb Lister - AMENTO KOMPETANSE AS	nov. 24	8.976	10.797	-1.821	25	3.891
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	aug. 23	5.322	6.669	-1.347	42	2.359
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	sep. 23	8.604	8.738	-0.134	42	3.469
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	okt. 23	11.374	8.973	2.401	27	4.861
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	nov. 23	12.456	10.674	1.782	59	2.909
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	des. 23	10.459	9.032	1.427	38	3.552
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	jan. 24	16.388	9.729	6.659	30	4.772
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	feb. 24	12.528	8.221	4.307	47	3.411
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mar. 24	11.305	9.052	2.253	38	3.333
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mai. 24	8.736	8.453	0.283	48	2.937
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	jun. 24	6.66	7.699	-1.039	43	2.726
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	sep. 24	9.578	7.423	2.155	43	3.503
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	okt. 24	10.823	9.979	0.844	32	3.217
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	nov. 24	10.569	11.065	-0.496	28	3.343
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	feb. 25	5.757	8.072	-2.315	47	2.264
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mar. 25	4.676	8.17	-3.494	47	2.318
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	apr. 25	9.316	8.995	0.321	32	3.398
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mai. 25	4.513	7.229	-2.716	43	2.645
+Innlandet	Jobbklubb | T1 | Hamarregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	jun. 25	1.656	6.356	-4.7	24	1.513
+Innlandet	Jobbklubb | T2 | Kongsvingerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	nov. 23	9.955	10.189	-0.234	35	3.2
+Innlandet	Jobbklubb | T2 | Kongsvingerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	des. 23	10.748	10.309	0.439	25	3.789
+Innlandet	Jobbklubb | T3 | Østerdalen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	nov. 23	11.366	9.893	1.473	20	5.545
+Innlandet	Jobbklubb | T3 | Østerdalen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	des. 23	8.11	8.392	-0.282	22	3.68
+Innlandet	Jobbklubb | T3 | Østerdalen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	apr. 24	14.735	9.724	5.011	29	4.814
+Innlandet	Jobbklubb | T3 | Østerdalen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mai. 24	13.752	10.998	2.754	37	3.413
+Innlandet	Jobbklubb | T3 | Østerdalen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	nov. 24	11.778	8.996	2.782	21	4.636
+Innlandet	Jobbklubb | T5 | Gjøvikregionen, Hadeland og Valdres - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	nov. 23	6.242	8.43	-2.188	37	2.682
+Innlandet	Jobbklubb | T5 | Gjøvikregionen, Hadeland og Valdres - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	des. 23	8.077	9.529	-1.452	22	4.437
+Innlandet	Jobbklubb | T5 | Gjøvikregionen, Hadeland og Valdres - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	feb. 24	10.615	8.682	1.933	24	3.738
+Innlandet	Jobbklubb | T5 | Gjøvikregionen, Hadeland og Valdres - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	sep. 24	6.322	7.879	-1.557	25	2.728
+Innlandet	Jobbklubb | T5 | Gjøvikregionen, Hadeland og Valdres - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	okt. 24	9.114	8.48	0.634	34	3.32
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	feb. 24	10.945	12.104	-1.159	20	5.218
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mar. 24	11.641	10.751	0.89	39	3.603
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	apr. 24	11.195	9.596	1.599	38	4.256
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mai. 24	10.608	10.162	0.446	34	3.762
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	jun. 24	10.454	10.047	0.407	29	4.099
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	sep. 24	10.628	8.026	2.602	37	2.841
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	okt. 24	10.414	9.818	0.596	34	2.963
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	nov. 24	10.514	11.161	-0.647	34	4.169
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	des. 24	9.997	9.957	0.04	27	4.01
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	jan. 25	12.406	8.545	3.861	20	5.706
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mar. 25	10.503	10.796	-0.293	32	3.625
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	apr. 25	8.419	9.668	-1.249	39	2.659
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	mai. 25	6.443	9.237	-2.794	42	2.117
+Innlandet	Jobbklubb | T6 | Lillehammerregionen - ARBEIDSLIVSRESSURS AS, ARBEIDSLIVSRESSURS AS AVD OSLO	jun. 25	6.787	9.74	-2.953	36	3.041
+Møre og Romsdal	Jobbklubb - Nordmøre - INKLUDIA UTVIKLING AS, VARDE KOMPETANSE AS	nov. 23	10.046	9.998	0.048	28	4.934
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	jul. 23	11.085	9.347	1.738	24	4.82
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	aug. 23	7.713	9.034	-1.321	92	2.217
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	sep. 23	8.895	9.273	-0.378	224	1.408
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	okt. 23	10.461	9.752	0.709	165	1.805
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	nov. 23	9.319	9.756	-0.437	157	1.658
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	des. 23	9.811	10.068	-0.257	164	1.711
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	jan. 24	8.343	9.361	-1.018	125	1.98
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	feb. 24	9.135	9.707	-0.572	214	1.542
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	mar. 24	10.004	10.252	-0.248	188	1.532
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	apr. 24	10.02	8.823	1.197	73	2.607
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	mai. 24	8.065	9.386	-1.321	145	1.708
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	jun. 24	8.454	9.433	-0.979	135	1.61
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	aug. 24	6.488	6.907	-0.419	27	3.077
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	sep. 24	8.65	8.363	0.287	51	3.079
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	okt. 24	8.498	8.521	-0.023	61	2.682
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	nov. 24	12.183	9.007	3.176	38	3.567
+Oslo	Jobbsøkerkurs - Oslo - FALCK NORGE AS AVD OSLO GRENSEVEIEN 107	des. 24	8.081	8.899	-0.818	50	3.024
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	jul. 23	8.154	10.545	-2.391	32	3.529
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	aug. 23	8.979	8.844	0.135	46	3.47
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	sep. 23	11.067	8.813	2.254	62	2.992
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	okt. 23	10.351	8.394	1.957	79	2.893
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	nov. 23	8.967	8.008	0.959	85	2.487
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	des. 23	7.453	7.805	-0.352	67	2.577
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	jan. 24	9.119	8.163	0.956	86	1.851
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	feb. 24	9.694	7.519	2.175	84	2.166
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	mar. 24	11.006	8.3	2.706	72	2.622
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	apr. 24	10.946	8.768	2.178	92	2.295
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	mai. 24	11.851	8.869	2.982	76	2.505
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	jun. 24	11.778	8.852	2.926	60	3.436
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	jul. 24	10.247	7.895	2.352	33	3.885
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	aug. 24	9.075	9.407	-0.332	59	3.2
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	sep. 24	10.089	9.906	0.183	58	2.987
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	okt. 24	11.49	9.525	1.965	69	2.588
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	nov. 24	10.968	9.334	1.634	70	2.798
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	des. 24	10.717	9.752	0.965	68	2.666
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	jan. 25	10.371	9.14	1.231	76	2.343
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	feb. 25	10.567	9.273	1.294	50	2.469
+Oslo	Karriereveiledning med praksis - Nord - IFRONT KARRIERE OSLO N	mar. 25	10.725	8.214	2.511	31	3.585
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	jul. 23	11.653	9.496	2.157	56	3.172
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	aug. 23	9.9	9.139	0.761	85	2.46
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	sep. 23	9.319	8.577	0.742	99	2.24
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	okt. 23	10.543	8.792	1.751	122	1.958
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	nov. 23	12.229	9.314	2.915	125	1.992
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	des. 23	13.323	9.772	3.551	110	2.033
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	jan. 24	10.961	9.223	1.738	131	1.822
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	feb. 24	11.049	9.21	1.839	130	1.678
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	mar. 24	10.343	9.227	1.116	116	1.785
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	apr. 24	9.9	8.877	1.023	140	1.768
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	mai. 24	9.083	9.215	-0.132	117	1.877
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	jun. 24	7.174	9.065	-1.891	130	1.794
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	jul. 24	6.311	7.96	-1.649	73	2.255
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	aug. 24	9.405	8.403	1.002	117	1.895
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	sep. 24	8.222	8.175	0.047	110	1.873
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	okt. 24	8.379	8.741	-0.362	149	1.403
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	nov. 24	9.801	9.569	0.232	147	1.702
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	des. 24	8.121	7.985	0.136	133	1.765
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	jan. 25	8.49	7.948	0.542	156	1.696
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	feb. 25	8.954	8.134	0.82	120	2.05
+Oslo	Karriereveiledning med praksis - Sentrum - AS3 NORGE AS, AS3 NORGE AS AVD OSLO	mar. 25	9.938	8.533	1.405	74	2.955
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	jul. 23	14.912	11.685	3.227	20	6.096
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	aug. 23	12.909	9.982	2.927	39	3.697
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	sep. 23	13.726	8.735	4.991	48	3.483
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	okt. 23	12.352	9.259	3.093	62	2.792
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	nov. 23	13.281	9.785	3.496	56	3.026
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	des. 23	13.79	8.873	4.917	41	3.932
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	jan. 24	11.344	8.104	3.24	62	2.891
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	feb. 24	11.714	9.081	2.633	69	2.598
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	mar. 24	13.193	9.743	3.45	55	3.091
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	apr. 24	12.91	8.864	4.046	72	2.927
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	mai. 24	11.536	8.753	2.783	56	2.898
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	jun. 24	10.57	8.657	1.913	62	2.669
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	jul. 24	11.881	9.523	2.358	33	3.484
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	aug. 24	11.313	8.702	2.611	59	3.064
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	sep. 24	10.358	7.838	2.52	57	3.129
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	okt. 24	8.423	8.539	-0.116	64	2.739
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	nov. 24	10.091	9.523	0.568	64	2.745
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	des. 24	9.72	8.708	1.012	57	2.495
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	jan. 25	8.465	8.222	0.243	70	2.296
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	feb. 25	11.111	8.725	2.386	52	3.254
+Oslo	Karriereveiledning med praksis - Sør - AS3 NORGE AS, AS3 NORGE AS AVD OSLO SØR	mar. 25	10.626	8.746	1.88	32	3.648
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	aug. 23	10.534	7.819	2.715	35	3.755
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	sep. 23	11.49	9.621	1.869	37	4.567
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	okt. 23	10.297	8.18	2.117	49	3.269
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	nov. 23	10.263	8.246	2.017	50	2.871
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	des. 23	12.242	8.607	3.635	40	3.799
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	jan. 24	11.471	9.711	1.76	50	3.23
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	feb. 24	9.589	9.134	0.455	52	3.044
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	mar. 24	10.723	9.086	1.637	45	3.544
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	apr. 24	9.729	9.152	0.577	57	2.927
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	mai. 24	9.749	9.437	0.312	61	3.072
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	jun. 24	10.552	9.106	1.446	49	3.495
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	jul. 24	11.634	9.853	1.781	22	5.361
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	aug. 24	7.784	8.263	-0.479	41	3.033
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	sep. 24	10.274	8.584	1.69	43	3.631
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	okt. 24	12.047	8.711	3.336	67	3.002
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	nov. 24	12.334	8.878	3.456	54	3.368
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	des. 24	11.605	10.649	0.956	47	3.578
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	jan. 25	9.575	9.535	0.04	45	2.576
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	feb. 25	10.314	8.896	1.418	40	2.995
+Oslo	Karriereveiledning med praksis - Vest - IFRONT KARRIERE OSLO N	mar. 25	8.735	7.892	0.843	25	3.65
+Oslo	Karriereveiledning og jobbsøk - Oslo - IFRONT KARRIERE AS, IFRONT KARRIERE OSLO KOJ	jun. 25	6.904	8.338	-1.434	216	1.19
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	jul. 23	8.871	8.03	0.841	39	3.982
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	aug. 23	10.96	8.409	2.551	52	3.401
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	sep. 23	12.407	8.441	3.966	59	3.315
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	okt. 23	14.245	9.309	4.936	62	3.192
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	nov. 23	15.947	10.404	5.543	46	3.943
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	des. 23	14.33	10.805	3.525	54	3.702
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	jan. 24	14.105	9.936	4.169	34	4.358
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	feb. 24	11.981	9.307	2.674	68	2.958
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	mar. 24	12.683	8.644	4.039	59	3.356
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	apr. 24	11.717	8.739	2.978	76	2.868
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	mai. 24	10.858	8.101	2.757	66	3.09
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	jun. 24	11.038	8.332	2.706	77	2.779
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	jul. 24	11.147	7.553	3.594	68	3.064
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	aug. 24	11.571	8.001	3.57	63	3.047
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	sep. 24	9.793	8.147	1.646	68	2.705
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	okt. 24	11.234	9.263	1.971	75	2.888
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	nov. 24	11.182	9.492	1.69	67	2.897
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	des. 24	12.059	9.533	2.526	93	2.397
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	jan. 25	12.727	9.244	3.483	82	2.627
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	feb. 25	12.714	8.682	4.032	94	2.324
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	mar. 25	12.997	8.786	4.211	109	2.199
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	apr. 25	12.976	8.227	4.749	89	2.433
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	mai. 25	12.783	9.142	3.641	103	2.278
+Oslo	Kompetanseformidling og nettverksbygging - FALCK NORGE AS, FALCK NORGE AS AVD OSLO GRØNLANDSLEIRET 31	jun. 25	13.462	9.051	4.411	90	2.405
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	nov. 23	10.403	10.487	-0.084	24	4.44
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	des. 23	8.847	9.005	-0.158	37	3.46
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	jan. 24	11.545	8.941	2.604	42	3.406
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	feb. 24	12.173	9.174	2.999	56	2.982
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	mar. 24	12.213	10.505	1.708	53	2.779
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	apr. 24	11.702	9.99	1.712	53	3.196
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	mai. 24	11.73	10.485	1.245	33	4.585
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	jun. 24	11.941	10.649	1.292	36	4.512
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	jul. 24	13.647	11.678	1.969	27	5.157
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	aug. 24	12.917	12.212	0.705	41	2.99
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	sep. 24	12.655	11.65	1.005	29	3.442
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	okt. 24	12.678	10.576	2.102	43	3.342
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	nov. 24	11.046	12.203	-1.157	37	2.751
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	des. 24	10.371	11.622	-1.251	35	3.281
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	jan. 25	11.521	10.395	1.126	38	3.931
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	feb. 25	11.383	9.806	1.577	36	3.914
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	mar. 25	12.682	10.071	2.611	37	4.054
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	apr. 25	10.122	9.74	0.382	36	3.072
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	mai. 25	9.605	10.211	-0.606	43	3.071
+Rogaland	16295/Jobbsøk for unge Sør-Rogaland - AS3 NORGE AS, AS3 NORGE AS AVD ROGALAND	jun. 25	7.746	9.134	-1.388	33	3.297
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	jul. 23	11.764	7.424	4.34	26	5.546
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	aug. 23	13.835	9.557	4.278	23	5.596
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	sep. 23	11.61	8.947	2.663	35	3.957
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	okt. 23	11.573	9.164	2.409	73	2.666
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	nov. 23	12.082	8.86	3.222	74	2.706
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	des. 23	12.306	9.435	2.871	78	2.539
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	jan. 24	11.278	9.491	1.787	90	2.045
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	feb. 24	11.35	10.645	0.705	96	2.036
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	mar. 24	11.493	10.985	0.508	86	2.296
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	apr. 24	11.84	10.427	1.413	83	2.342
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	mai. 24	10.458	10.092	0.366	53	2.53
+Vest-Viken	Aktiv på vei mot læreplass - Vest Viken - IFRONT KARRIERE AS, IFRONT KARRIERE DRAMMEN	jun. 24	7.234	8.622	-1.388	38	2.222
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	nov. 23	8.222	8.866	-0.644	51	2.811
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	des. 23	8.589	8.937	-0.348	46	3.01
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	jan. 24	5.661	7.859	-2.198	34	3.011
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	mar. 24	10.942	9.153	1.789	37	3.692
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	apr. 24	10.56	7.768	2.792	49	3.195
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	mai. 24	9.79	8.208	1.582	67	2.601
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	jun. 24	7.604	7.892	-0.288	31	3.162
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	sep. 24	10.817	8.181	2.636	70	2.675
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	okt. 24	10.118	8.742	1.376	68	2.524
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	nov. 24	7.879	7.605	0.274	65	2.344
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Drammen - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	apr. 25	1.2	4.551	-3.351	25	1.069
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	des. 23	9.174	8.555	0.619	34	4.122
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	feb. 24	13.149	8.55	4.599	20	5.528
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	mai. 24	8.966	6.999	1.967	20	6.034
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	aug. 24	11.864	6.538	5.326	21	5.481
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	sep. 24	13.167	8.638	4.529	20	5.129
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	okt. 24	10.698	8.371	2.327	36	2.99
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	nov. 24	8.288	8.165	0.123	20	4.831
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	jan. 25	13.268	12.617	0.651	20	6.093
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	feb. 25	14.645	9.896	4.749	20	5.485
+Vest-Viken	Jobbsøkerkurs - NAV Vest-Viken - Ringerike - FALCK NORGE AS, FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1	mar. 25	11.069	10.729	0.34	35	3.555
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	sep. 23	5.721	7.053	-1.332	28	3.362
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	okt. 23	8.862	7.193	1.669	53	2.832
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	nov. 23	9.142	7.623	1.519	69	2.651
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	des. 23	6.922	6.627	0.295	33	3.049
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	feb. 24	9.01	9.373	-0.363	28	3.522
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	mar. 24	9.116	8.656	0.46	29	4.083
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	apr. 24	9.697	8.3	1.397	23	4.74
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	okt. 24	1.333	6.097	-4.764	31	1.95
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	feb. 25	7.744	10.192	-2.448	30	3.777
+Vest-Viken	Jobbsøkerkurs Sandvika/Asker - PODIUM AS, PODIUM AVD SANDVIKA	mar. 25	6.424	9.393	-2.969	26	3.751
+Vest-Viken, Vestfold og Telemark	Studieforberedende uker - UNIVERSITETET I SØRØST-NORGE, UNIVERSITETET I SØRØST-NORGE CAMPUS VESTFOLD	mar. 25	5.253	7.377	-2.124	28	2.444
+Vestfold og Telemark	Arbeid først, Skien - JOBLEARN AS, JOBLEARN AS AVD 813401 TELEMARK KURS	sep. 23	8.726	7.508	1.218	54	2.761
+Vestfold og Telemark	Arbeid først, Skien - JOBLEARN AS, JOBLEARN AS AVD 813401 TELEMARK KURS	okt. 23	9.417	9.276	0.141	84	2.44
+Vestfold og Telemark	Arbeid først, Skien - JOBLEARN AS, JOBLEARN AS AVD 813401 TELEMARK KURS	nov. 23	9.042	10.927	-1.885	51	3.187
+Vestfold og Telemark	Arbeid først, Skien - JOBLEARN AS, JOBLEARN AS AVD 813401 TELEMARK KURS	des. 23	10.212	11.48	-1.268	21	5.007
+Vestfold og Telemark	Arbeid først, Skien - JOBLEARN AS, JOBLEARN AS AVD 813401 TELEMARK KURS	jan. 24	11.499	9.856	1.643	33	3.739
+Vestfold og Telemark	Arbeid først, Skien - JOBLEARN AS, JOBLEARN AS AVD 813401 TELEMARK KURS	feb. 24	10.572	10.475	0.097	34	3.397
+Vestfold og Telemark	Digital jobbklubb Ukraina - Vestfold og Telemark - FALCK NORGE AS, FALCK NORGE AS AVD OSLO SANDSTUVEIEN 70	okt. 24	10.025	8.201	1.824	26	3.931
+Vestfold og Telemark	Digital jobbklubb Ukraina - Vestfold og Telemark - FALCK NORGE AS, FALCK NORGE AS AVD OSLO SANDSTUVEIEN 70	nov. 24	8.497	7.851	0.646	28	3.022
+Vestfold og Telemark	Digital jobbklubb Ukraina - Vestfold og Telemark - FALCK NORGE AS, FALCK NORGE AS AVD OSLO SANDSTUVEIEN 70	feb. 25	9.26	8.427	0.833	22	3.169
+Vestfold og Telemark	Digital jobbklubb Ukraina - Vestfold og Telemark - FALCK NORGE AS, FALCK NORGE AS AVD OSLO SANDSTUVEIEN 70	mar. 25	9.325	10.553	-1.228	21	4.021
+Vestfold og Telemark	Ideutvikling Horten og Porsgrunn - SIRIUS ACT AS	mai. 25	4.417	7.412	-2.995	48	2.164
+Vestfold og Telemark	Ideutvikling Horten og Porsgrunn - SIRIUS ACT AS	jun. 25	5.307	7.486	-2.179	51	2.39
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	sep. 24	10.412	11.435	-1.023	53	2.573
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	okt. 24	9.389	9.806	-0.417	77	2.288
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	nov. 24	10.438	8.912	1.526	88	2.224
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	des. 24	12.066	9.65	2.416	70	2.896
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	jan. 25	14.806	11.416	3.39	48	3.529
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	feb. 25	13.956	11.02	2.936	61	2.907
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	mar. 25	13.526	9.835	3.691	64	2.794
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	apr. 25	12.135	10.241	1.894	51	3.069
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	mai. 25	10.55	9.397	1.153	57	2.887
+Vestfold og Telemark	Jobbklubb - Larvik, Sandefjord og Bamble - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	jun. 25	9.884	8.956	0.928	42	2.816
+Vestfold og Telemark	Jobbklubb Ukraina - Telemark - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	sep. 24	6.368	8.708	-2.34	29	3.119
+Vestfold og Telemark	Jobbklubb Ukraina - Telemark - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	okt. 24	6.861	7.64	-0.779	28	3.519
+Vestfold og Telemark	Jobbklubb Ukraina - Telemark - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	nov. 24	6.938	8.469	-1.531	38	3.258
+Vestfold og Telemark	Jobbklubb Ukraina - Telemark - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	des. 24	8.619	8.874	-0.255	29	3.603
+Vestfold og Telemark	Jobbklubb Ukraina - Telemark - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	jan. 25	7.573	8.621	-1.048	33	3.02
+Vestfold og Telemark	Jobbklubb Ukraina - Telemark - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	mar. 25	3.403	6.772	-3.369	28	2.034
+Vestfold og Telemark	Jobbklubb Ukraina - Vestfold - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	okt. 24	13.28	12.64	0.64	21	4.309
+Vestfold og Telemark	Jobbklubb Ukraina - Vestfold - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	nov. 24	10.491	9.007	1.484	24	4.591
+Vestfold og Telemark	Jobbklubb Ukraina - Vestfold - JOBLEARN AS, JOBLEARN AS AVD 813101 OSLO	des. 24	10.309	11.081	-0.772	23	4.914
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	jul. 23	3.284	7.363	-4.079	37	2.4
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	okt. 23	3.548	7.605	-4.057	42	2.25
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	nov. 23	3.487	7.226	-3.739	39	1.932
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	des. 23	4.796	6.781	-1.985	40	2.481
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	jan. 24	5.415	6.558	-1.143	40	2.748
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	feb. 24	6.231	6.537	-0.306	40	3.029
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	mar. 24	6.407	6.618	-0.211	38	3.192
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	apr. 24	4.43	6.67	-2.24	35	2.855
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	mai. 24	4.007	7.183	-3.176	40	2.19
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	jun. 24	3.978	7.554	-3.576	41	1.937
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	jul. 24	4.172	7.772	-3.6	42	2.13
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	aug. 24	4.383	8.065	-3.682	42	2.464
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	sep. 24	4.521	6.909	-2.388	41	2.374
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	okt. 24	5.048	6.623	-1.575	41	2.609
+Vestfold og Telemark	Utvikling av forretningside ¿ etablering av nye arbeidsplasser - SIRIUS ACT AS	nov. 24	5.517	6.443	-0.926	20	3.633
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	aug. 23	8.471	7.922	0.549	32	4.29
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	sep. 23	8.547	8.897	-0.35	94	2.283
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	okt. 23	10.496	9.956	0.54	137	1.649
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	nov. 23	11.669	10.101	1.568	186	1.562
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	des. 23	12.515	10.895	1.62	132	1.982
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	jan. 24	7.65	9.726	-2.076	111	1.949
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	feb. 24	8.101	9.563	-1.462	133	1.797
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	mar. 24	7.512	10.15	-2.638	68	2.508
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	apr. 24	7.823	8.382	-0.559	90	1.982
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	mai. 24	7.739	8.863	-1.124	71	2.047
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	jun. 24	8.667	8.792	-0.125	25	4.327
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	jul. 24	7.202	8.578	-1.376	23	3.567
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	aug. 24	7.078	11.504	-4.426	22	3.25
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	sep. 24	10.503	9.331	1.172	33	4.032
+Vestland	Jobbsøkerkurs - IFRONT KARRIERE VESTLAND	okt. 24	7.45	8.211	-0.761	28	4.06
+Vestland	Jobbsøkerkurs Vestland - IFRONT KARRIERE AS, IFRONT KARRIERE VESTLAND	nov. 24	9.165	9.073	0.092	46	2.879
+Vestland	Jobbsøkerkurs Vestland - IFRONT KARRIERE AS, IFRONT KARRIERE VESTLAND	des. 24	10.453	9.347	1.106	70	2.696
+Vestland	Jobbsøkerkurs Vestland - IFRONT KARRIERE AS, IFRONT KARRIERE VESTLAND	jan. 25	12.379	9.761	2.618	42	3.783
+Vestland	Jobbsøkerkurs Vestland - IFRONT KARRIERE AS, IFRONT KARRIERE VESTLAND	feb. 25	12.124	9.57	2.554	72	2.822
+Vestland	Jobbsøkerkurs Vestland - IFRONT KARRIERE AS, IFRONT KARRIERE VESTLAND	mar. 25	12.796	8.612	4.184	51	3.567
+Vestland	Jobbsøkerkurs Vestland - IFRONT KARRIERE AS, IFRONT KARRIERE VESTLAND	apr. 25	10.624	9.611	1.013	51	3.17
+Vestland	Jobbsøkerkurs Vestland - IFRONT KARRIERE AS, IFRONT KARRIERE VESTLAND	mai. 25	10.434	9.072	1.362	60	2.402
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	okt. 23	9.168	6.839	2.329	44	3.238
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	nov. 23	9.943	6.858	3.085	43	3.374
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	des. 23	11.037	7.928	3.109	46	2.9
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jan. 24	10.41	8.554	1.856	47	2.889
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	feb. 24	11.021	7.73	3.291	47	2.673
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mar. 24	11.763	8.735	3.028	46	2.839
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	apr. 24	11.619	7.507	4.112	45	3.269
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mai. 24	11.753	8.697	3.056	36	3.619
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	okt. 24	9.681	8.405	1.276	39	3.255
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	nov. 24	10.112	8.536	1.576	50	2.982
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	des. 24	10.482	8.131	2.351	53	2.905
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jan. 25	10.161	8.171	1.99	52	3.041
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	feb. 25	10.878	8.07	2.808	55	2.398
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mar. 25	11.174	8.127	3.047	49	2.931
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	apr. 25	12.265	8.419	3.846	44	3.032
+Øst-Viken	Aktiv på vei mot læreplass, Midt-Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mai. 25	13.648	7.231	6.417	33	4.006
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	okt. 23	7.457	7.77	-0.313	28	4.031
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	nov. 23	8.903	9.056	-0.153	47	2.814
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	des. 23	9.779	7.912	1.867	46	2.898
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jan. 24	9.855	8.55	1.305	49	2.836
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	feb. 24	11.754	8.315	3.439	46	2.745
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mar. 24	12.32	9.363	2.957	48	3.164
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	apr. 24	14.188	8.4	5.788	47	3.36
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mai. 24	16.919	8.886	8.033	40	4.077
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	okt. 24	7.458	6.46	0.998	35	2.985
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	nov. 24	8.829	7.389	1.44	51	2.404
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	des. 24	10.343	7.038	3.305	54	2.657
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jan. 25	10.688	7.714	2.974	58	2.504
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	feb. 25	10.615	6.347	4.268	51	2.928
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mar. 25	12.018	6.891	5.127	44	3.445
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	apr. 25	13.127	7.708	5.419	44	4.01
+Øst-Viken	Aktiv på vei mot læreplass, Nedre Viken - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mai. 25	13.377	8.93	4.447	41	3.569
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	nov. 23	10.841	9.298	1.543	32	3.988
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	des. 23	11.159	9.055	2.104	47	3.048
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jan. 24	9.807	8.069	1.738	48	3.017
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	feb. 24	9.468	8.235	1.233	45	3.113
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mar. 24	9.769	6.499	3.27	46	3.585
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	apr. 24	11.317	5.402	5.915	45	3.551
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mai. 24	10.487	6.625	3.862	40	3.569
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jun. 24	10.415	7.545	2.87	32	3.915
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jul. 24	12.326	6.246	6.08	22	5.44
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	okt. 24	4.911	6.87	-1.959	25	2.638
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	nov. 24	6.779	8.029	-1.25	60	2.243
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	des. 24	7.905	6.901	1.004	63	2.453
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jan. 25	9.253	7.48	1.773	73	2.591
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	feb. 25	9.808	6.745	3.063	70	2.786
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mar. 25	10.184	7.829	2.355	58	2.812
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	apr. 25	10.028	7.601	2.427	53	3.251
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	mai. 25	7.803	7.953	-0.15	59	2.405
+Øst-Viken	Aktiv på vei mot læreplass, Romerike - PODIUM AS, PODIUM AVD SANDAKERVEIEN OSLO	jun. 25	8.146	8.701	-0.555	44	3
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	aug. 23	8.181	11.445	-3.264	48	3.141
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	sep. 23	7.764	8.801	-1.037	69	2.279
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	okt. 23	9.654	9.611	0.043	69	2.381
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	nov. 23	10.1	9.736	0.364	66	2.68
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	des. 23	10.649	9.733	0.916	51	2.63
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jan. 24	11.007	9.634	1.373	63	2.75
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	feb. 24	11.743	9.655	2.088	59	2.952
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mar. 24	10.612	9.736	0.876	60	2.653
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	apr. 24	7.496	8.826	-1.33	66	2.457
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mai. 24	8.126	8.959	-0.833	66	2.228
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jun. 24	7.816	8.913	-1.097	64	2.149
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jul. 24	5.812	7.218	-1.406	55	1.95
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	aug. 24	5.734	7.341	-1.607	63	1.8
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	sep. 24	6.254	8.035	-1.781	50	1.793
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	okt. 24	7.944	8.854	-0.91	67	2.005
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	nov. 24	8.385	9.457	-1.072	69	2.527
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	des. 24	10.43	9.373	1.057	60	2.461
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jan. 25	10.328	8.67	1.658	56	2.728
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	feb. 25	7.915	6.832	1.083	97	1.955
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mar. 25	8.61	8.237	0.373	93	1.875
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	apr. 25	7.647	7.482	0.165	80	2.057
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mai. 25	6.812	7.491	-0.679	82	2.109
+Øst-Viken	Heltidsoppfølging - Fredrikstad - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jun. 25	6.818	5.892	0.926	74	2.256
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	apr. 24	8.205	6.628	1.577	21	3.932
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mai. 24	8.689	7.638	1.051	20	4.958
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jun. 24	6.046	5.931	0.115	21	4.089
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jul. 24	5.484	6.252	-0.768	21	3.861
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	aug. 24	5.201	5.133	0.068	21	4.285
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	sep. 24	4.563	5.495	-0.932	22	3.343
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	okt. 24	4.202	8.301	-4.099	24	3.289
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	nov. 24	3.903	8.671	-4.768	25	3.538
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	des. 24	4.917	6.47	-1.553	22	3.333
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jan. 25	5.519	7.849	-2.33	26	3.134
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	feb. 25	5.438	7.572	-2.134	27	2.479
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mar. 25	2.905	5.837	-2.932	23	2.438
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	apr. 25	2.632	6.633	-4.001	23	2.812
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mai. 25	3.848	7.902	-4.054	23	3.05
+Øst-Viken	Heltidsoppfølging - Halden - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jun. 25	4.495	6.766	-2.271	24	3.283
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jul. 23	3.522	4.777	-1.255	20	3.267
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	aug. 23	3.183	4.661	-1.478	24	2.382
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	sep. 23	3.825	5.318	-1.493	26	2.613
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	okt. 23	5.002	5.795	-0.793	29	2.823
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	nov. 23	5.441	6.674	-1.233	32	2.741
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	des. 23	5.838	7.084	-1.246	24	3.157
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jan. 24	6.561	5.572	0.989	26	2.692
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	feb. 24	6.801	5.473	1.328	26	3.117
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mar. 24	8.215	6.442	1.773	23	3.862
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	apr. 24	6.408	7.151	-0.743	26	2.904
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mai. 24	3.801	4.86	-1.059	25	2.365
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jun. 24	4.065	5.181	-1.116	24	2.281
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jul. 24	5.083	4.992	0.091	20	4.194
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	aug. 24	6	5.288	0.712	28	2.836
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	sep. 24	6.696	6.127	0.569	26	3.628
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	okt. 24	6.701	6.563	0.138	29	3.467
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	nov. 24	5.609	7.263	-1.654	29	3.206
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	des. 24	3.453	5.728	-2.275	25	2.032
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jan. 25	4.719	6.607	-1.888	27	2.119
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	feb. 25	4.419	5.678	-1.259	24	3.512
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mar. 25	4.822	7.131	-2.309	33	2.479
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	apr. 25	5.131	6.69	-1.559	32	2.479
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	mai. 25	4.745	6.13	-1.385	28	2.725
+Øst-Viken	Heltidsoppfølging - Sarpsborg - DELTA NÆRING AS, DELTA NÆRING AVD ASKIM	jun. 25	4.131	5.575	-1.444	24	3.069
+Øst-Viken	Jobbklubb for minoritetsspråklige - Follo - SIRIUS ACT AS	mar. 25	7.56	6.092	1.468	21	4.007
+Øst-Viken	Jobbklubb for minoritetsspråklige - Follo - SIRIUS ACT AS	apr. 25	8.601	6.225	2.376	20	4.249
+Øst-Viken	Jobbklubb for minoritetsspråklige - Fredrikstad - SIRIUS ACT AS	feb. 25	8.687	6.144	2.543	22	4.15
+Øst-Viken	Jobbklubb for minoritetsspråklige - Halden - SIRIUS ACT AS	mar. 25	7.406	6.693	0.713	20	3.846
+Øst-Viken	Jobbklubb for minoritetsspråklige - Sarpsborg - SIRIUS ACT AS	feb. 25	8.057	7.011	1.046	23	3.597
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	nov. 24	10.816	8.922	1.894	33	3.638
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	des. 24	10.435	8.578	1.857	34	3.865
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	jan. 25	4.804	6.499	-1.695	35	2.836
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	feb. 25	5.431	6.416	-0.985	35	3.006
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	mar. 25	7.955	8.492	-0.537	38	2.437
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	apr. 25	6.209	8.631	-2.422	57	1.767
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	mai. 25	8.06	8.772	-0.712	45	2.339
+Øst-Viken	Jobbklubb for minoritetsspråklige, Nedre Romerike - HAPRO JOBB OG KARRIERE AS	jun. 25	8.605	8.31	0.295	43	2.28
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	okt. 24	9.443	7.302	2.141	27	3.858
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	nov. 24	9.477	6.911	2.566	50	2.872
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	des. 24	10.434	7.881	2.553	49	2.983
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	jan. 25	12.348	7.103	5.245	44	3.556
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	feb. 25	13.167	8.237	4.93	41	3.583
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	mar. 25	11.407	9.17	2.237	45	3.116
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	apr. 25	11.083	9.038	2.045	58	2.882
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	mai. 25	9.978	8.16	1.818	45	3.184
+Øst-Viken	Jobbklubb for minoritetsspråklige, Øvre Romerike - HAPRO JOBB OG KARRIERE AS	jun. 25	11.624	8.03	3.594	38	3.66
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE AS, IFRONT KARRIERE FREDRIKSTAD	feb. 25	10.629	6.79	3.839	22	4.665
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE AS, IFRONT KARRIERE FREDRIKSTAD	apr. 25	6.468	8.066	-1.598	23	3.406
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	okt. 23	9.238	7.28	1.958	38	2.892
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	nov. 23	10.504	7.543	2.961	35	3.34
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	des. 23	10.49	8.028	2.462	52	2.522
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	jan. 24	7.504	6.316	1.188	40	2.489
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	feb. 24	8.183	7.115	1.068	35	3.042
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	mar. 24	8.103	8.151	-0.048	29	3.51
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	apr. 24	7.019	8.011	-0.992	30	3.501
+Øst-Viken	Jobbklubb for ungdom - Fredrikstad - IFRONT KARRIERE OSLO N	sep. 24	14.63	10.324	4.306	21	5.468
+Øst-Viken	Jobbklubb for ungdom - Halden - SIRIUS ACT AS	nov. 24	11.17	9.693	1.477	32	3.525
+Øst-Viken	Jobbklubb for ungdom - Halden - SIRIUS ACT AS	des. 24	11.478	8.356	3.122	20	5.028
+Øst-Viken	Jobbklubb for ungdom - Halden - SIRIUS ACT AS	mar. 25	12.958	8.83	4.128	27	4.206
+Øst-Viken	Jobbklubb for ungdom - Indre Østfold - IFRONT KARRIERE AS, IFRONT KARRIERE ASKIM	sep. 24	15.981	10.016	5.965	20	6.107
+Øst-Viken	Jobbklubb for ungdom - Indre Østfold - IFRONT KARRIERE AS, IFRONT KARRIERE ASKIM	mar. 25	7.86	8.797	-0.937	20	4.978
+Øst-Viken	Jobbklubb for ungdom - Indre Østfold - IFRONT KARRIERE AS, IFRONT KARRIERE ASKIM	apr. 25	8.417	9.583	-1.166	20	5.766
+Øst-Viken	Jobbklubb for ungdom - Moss - HAPRO JOBB OG KARRIERE AS	sep. 24	12.164	9.202	2.962	22	4.29
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	mar. 24	13.729	8.088	5.641	25	5.041
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	apr. 24	15.614	8.933	6.681	27	4.723
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	mai. 24	14.139	8.828	5.311	41	3.499
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	jun. 24	13.214	9.64	3.574	35	3.7
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	jul. 24	13.684	9.069	4.615	28	4.96
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	sep. 24	12.816	10.884	1.932	32	4.023
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	okt. 24	12.908	10.481	2.427	36	3.568
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	nov. 24	12.741	9.825	2.916	52	2.89
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	des. 24	13.862	14.743	-0.881	41	2.939
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	jan. 25	14.526	11.178	3.348	43	2.723
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	feb. 25	11.503	9.418	2.085	55	2.691
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	mar. 25	11.769	9.791	1.978	65	2.361
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	apr. 25	13.624	10.474	3.15	41	3.311
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	mai. 25	11.635	10.722	0.913	62	2.224
+Øst-Viken	Jobbklubb for ungdom - Nedre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE LILLESTRØM	jun. 25	10.463	11.161	-0.698	41	3.004
+Øst-Viken	Jobbklubb for ungdom - Sarpsborg - IFRONT KARRIERE SARPSBORG	okt. 23	9.994	11.02	-1.026	20	5.066
+Øst-Viken	Jobbklubb for ungdom - Sarpsborg - IFRONT KARRIERE SARPSBORG	jan. 24	11.934	9.205	2.729	20	4.624
+Øst-Viken	Jobbklubb for ungdom - Sarpsborg - IFRONT KARRIERE SARPSBORG	apr. 24	9.102	8.053	1.049	21	3.625
+Øst-Viken	Jobbklubb for ungdom - Sarpsborg - IFRONT KARRIERE SARPSBORG	sep. 24	13.006	10.568	2.438	22	3.893
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	mar. 24	12.299	8.933	3.366	21	4.709
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	apr. 24	12.822	8.295	4.527	21	5.453
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	mai. 24	12.579	8.774	3.805	30	4.768
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	jun. 24	12.91	10.45	2.46	32	4.193
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	jul. 24	13.323	9.594	3.729	31	4.641
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	sep. 24	14.067	10.897	3.17	32	4.116
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	okt. 24	12.923	8.003	4.92	40	3.616
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	nov. 24	13.795	10.465	3.33	58	2.957
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	des. 24	13.964	12.281	1.683	50	3.492
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	jan. 25	13.469	10.207	3.262	55	2.94
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	feb. 25	13.833	9.421	4.412	61	2.979
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	mar. 25	13.11	9.107	4.003	61	2.882
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	apr. 25	11.267	8.287	2.98	41	3.621
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	mai. 25	11.467	8.894	2.573	51	3.209
+Øst-Viken	Jobbklubb for ungdom - Øvre Romerike - IFRONT KARRIERE AS, IFRONT KARRIERE JESSHEIM	jun. 25	10.296	8.855	1.441	40	3.154
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	nov. 23	8.547	9.245	-0.698	60	2.389
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	des. 23	12.323	8.708	3.615	31	3.342
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	jan. 24	10.947	8.343	2.604	22	4.422
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	feb. 24	12.835	9.013	3.822	44	3.563
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	mar. 24	12.766	8.333	4.433	36	3.92
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	apr. 24	12.842	9.18	3.662	39	3.948
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	mai. 24	9.971	9.581	0.39	35	3.477
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	jun. 24	13.033	9.886	3.147	20	4.785
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	okt. 24	11.737	9.17	2.567	39	3.416
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	nov. 24	14.938	9.802	5.136	37	3.976
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	feb. 25	14.254	10.096	4.158	32	4.557
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	mar. 25	7.84	7.764	0.076	38	2.976
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	apr. 25	13.071	11.207	1.864	24	4.749
+Øst-Viken	Karriereveiledning - Nedre Romerike - OBITARENA AS, ORBITARENA AS	mai. 25	11.985	10.493	1.492	42	3.619
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	nov. 23	14.949	9.062	5.887	36	4.012
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	feb. 24	15.509	8.488	7.021	34	3.348
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	mar. 24	13.202	8.513	4.689	43	3.094
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	apr. 24	11.465	9.494	1.971	39	3.819
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	mai. 24	11.424	8.446	2.978	37	4.118
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	jun. 24	11.451	9.431	2.02	20	5.128
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	okt. 24	10.745	8.54	2.205	29	5.479
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	nov. 24	12.048	8.571	3.477	22	4.944
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	jan. 25	7.71	6.298	1.412	20	4.209
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	feb. 25	11.076	8.307	2.769	36	3.499
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	mar. 25	9.403	9.776	-0.373	36	3.848
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	apr. 25	15.768	10.859	4.909	21	6.605
+Øst-Viken	Karriereveiledning - Øvre Romerike - OBITARENA AS, ORBITARENA AS	mai. 25	9.453	9.112	0.341	36	4.187

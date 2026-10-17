@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: Tilgang ledige stillinger etter yrke, tidsserie måned (STIL040)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
+# Lagt inn: 2026-10-17
+# Ark: 3. Endring per virkedag
+# Tilgang ledige stillinger. Yrke. Tidsserie måned
+# Estimert endring per virkedag fra i fjor. Prosent
+# Januar - september 2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	-3	-3	22	-10	33	0	-14	-2	3
+Ledere	12	-7	31	-21	52	5	-6	15	17
+Ingeniør- og ikt-fag	-1	-9	28	-27	44	7	-12	-19	10
+Undervisning	-19	-15	12	10	21	7	-22	10	13
+Akademiske yrker	2	-7	15	-2	52	19	17	6	14
+Helse, pleie og omsorg	1	1	17	3	19	1	-13	12	6
+Barne- og ungdomsarbeid	6	2	31	29	47	7	-10	32	30
+Meglere og konsulenter	-7	-13	36	-16	70	11	-6	10	25
+Kontorarbeid	-15	-8	26	-28	47	-11	-17	-9	3
+Butikk- og salgsarbeid	11	1	17	-10	45	-2	-15	-11	-17
+Jordbruk, skogbruk og fiske	27	-37	-6	-19	76	27	14	10	-34
+Bygg og anlegg	1	7	43	-11	26	5	-28	-2	-9
+Industriarbeid	-7	-14	23	-30	19	-10	-30	-23	1
+Reiseliv og transport	-15	-6	17	-16	21	-5	-18	-23	-1
+Serviceyrker og annet arbeid	-10	14	31	-16	32	-9	-1	8	2
+Ingen yrkesbakgrunn eller uoppgitt	-94	-50	-12	-67	147	68	-46	-41	-37

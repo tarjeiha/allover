@@ -1,0 +1,24 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter varighet og langtidsledige, tidsserie måned (HL080)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Utdanningsnivå Antall
+# Helt ledige. Varighet og langtidsledige. Tidsserie måned
+# Varighet som helt ledig og utdanningsnivå. Antall
+# Januar - september 2026
+gruppe	rad	202601	202602	202603	202604	202605	202606	202607	202608	202609
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt korttidsledige	49232	46980	45522	42370	38621	39291	44319	43393	40781
+I alt	Grunnskolenivå	13738	13351	13073	12201	10967	10761	10925	11405	11298
+I alt	Videregående skolenivå	13993	13088	12726	11691	10234	10256	12519	11968	11071
+I alt	Universitets- og høgskolenivå, kort inntil 4 år	9116	8378	7963	7893	7447	8037	9759	9413	8524
+I alt	Universitets- og høgskolenivå, lang over 4 år	4896	4647	4458	4697	4451	4676	6371	5836	5041
+I alt	Uoppgitt eller ingen fullført utdanning	7489	7516	7302	5888	5522	5561	4745	4771	4847
+gruppe	rad	202601	202602	202603	202604	202605	202606	202607	202608	202609
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt langtidsledige	19700	19770	19849	20073	19654	18813	19701	19439	18632
+I alt	Grunnskolenivå	5055	5033	5121	5234	5116	4891	5032	5022	4788
+I alt	Videregående skolenivå	5658	5645	5649	5808	5655	5424	6134	5984	5665
+I alt	Universitets- og høgskolenivå, kort inntil 4 år	3822	3887	3793	3946	3838	3704	4135	4022	3847
+I alt	Universitets- og høgskolenivå, lang over 4 år	2486	2491	2490	2688	2628	2475	2879	2809	2689
+I alt	Uoppgitt eller ingen fullført utdanning	2679	2714	2796	2397	2417	2319	1521	1602	1643

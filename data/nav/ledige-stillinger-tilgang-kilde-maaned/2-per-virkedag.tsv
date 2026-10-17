@@ -1,0 +1,12 @@
+# Kilde: Nav
+# Tabell: Tilgang ledige stillinger etter kilde, tidsserie måned (STIL020)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
+# Lagt inn: 2026-10-17
+# Ark: 2. Per virkedag
+# Tilgang ledige stillinger. Kilde. Tidsserie måned
+# Per virkedag. Antall
+# Januar - september 2026
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	2107.148148	2487.9	2717.4	2372.272727	2882.705882	1785.4	1268.5	1529.35	1781.52
+Meldt til NAV	147.111111	200.4	207.05	213.272727	267.470588	240.56	136.7	140.75	196.64
+Offentlig utlyst	1960.037037	2287.5	2510.35	2159	2615.235294	1544.84	1131.8	1388.6	1584.88

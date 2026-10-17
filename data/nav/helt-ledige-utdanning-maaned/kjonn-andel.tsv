@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter utdanning, tidsserie måned (HL070)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Kjønn. Andel
+# Helt ledige. Utdanning. Tidsserie måned
+# Utdanningsnivå¹ og kjønn. Andel av arbeidsstyrken
+# Januar - september 2026
+# Kvinner
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	1.9	1.9	1.8	1.8	1.7	1.7	2	1.9	1.7
+	Grunnskole	2.9	2.7	2.7	2.7	2.6	2.6	2.9	3	2.8
+	Videregående, grunnutdanning	1	0.9	1	0.9	0.9	0.9	1.1	1	0.9
+	Videregående, avsluttende utdanning	1.6	1.5	1.4	1.4	1.4	1.4	1.7	1.6	1.4
+	Påbygging til videregående utdanning	1.6	1.5	1.5	1.5	1.4	1.5	1.7	1.6	1.4
+	Universitets- og høgskoleutdanning, lavere nivå	1.3	1.2	1.2	1.2	1.1	1.2	1.5	1.4	1.3
+	Universitets- og høgskoleutdanning, høyere nivå	1.7	1.6	1.6	1.7	1.6	1.6	2	1.9	1.6
+	Forskerutdanning	1.8	1.8	1.6	1.8	1.7	1.8	2.3	2.1	1.9
+	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*
+Menn	I alt	2.6	2.5	2.5	2.3	2.1	2.1	2.2	2.2	2.2
+Menn	Grunnskole	4.3	4.2	4.2	4	3.6	3.5	3.6	3.8	3.8
+Menn	Videregående, grunnutdanning	1.6	1.6	1.5	1.5	1.4	1.3	1.5	1.5	1.4
+Menn	Videregående, avsluttende utdanning	2.2	2.2	2.1	2	1.8	1.7	1.9	1.9	1.8
+Menn	Påbygging til videregående utdanning	1.4	1.3	1.3	1.3	1.2	1.2	1.4	1.3	1.3
+Menn	Universitets- og høgskoleutdanning, lavere nivå	2	1.9	1.8	1.8	1.7	1.7	2	1.9	1.9
+Menn	Universitets- og høgskoleutdanning, høyere nivå	1.6	1.6	1.6	1.6	1.6	1.6	1.8	1.7	1.6
+Menn	Forskerutdanning	1.7	1.6	1.5	1.6	1.6	1.5	1.9	1.9	1.7
+Menn	Uoppgitt eller ingen fullført utdanning	*	*	*	*	*	*	*	*	*

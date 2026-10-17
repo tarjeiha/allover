@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Tilgang ledige stillinger etter fylke, tidsserie måned (STIL030)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
+# Lagt inn: 2026-10-17
+# Ark: 3. Endring per virkedag. Fylke
+# Tilgang ledige stillinger. Fylke. Tidsserie måned
+# Endring per virkedag. Fylke
+# Januar - september 2026
+rad		Januar		Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	-3		-3	22	-10	33	0	-14	-2	3
+03	Oslo - Oslove	-2		4	32	-8	48	1	-6	2	11
+11	Rogaland	-11		-16	22	-15	36	3	-6	-16	2
+15	Møre og Romsdal	-6		-5	12	-10	34	6	-35	3	-5
+18	Nordland - Nordlánnda	-8		3	-3	-16	20	-7	8	-14	10
+31	Østfold	-6		-10	29	-11	40	6	9	38	17
+32	Akershus	-1		3	21	-10	43	6	-19	-3	-4
+33	Buskerud	4		-6	42	-10	25	-8	-16	0	5
+34	Innlandet	-7		3	15	-6	52	14	-19	2	-7
+39	Vestfold	-8		8	12	-7	35	-11	-12	-3	11
+40	Telemark	-10		-14	23	0	14	1	-31	-8	16
+42	Agder	4		-20	13	-8	37	9	-16	17	-4
+46	Vestland	4		-2	30	-5	22	5	-21	1	-8
+50	Trøndelag - Trööndelage	6		-2	31	-13	26	-11	-10	0	11
+55	Troms - Romsa - Tromssa	-10		2	10	-18	-7	-16	-35	-25	-4
+56	Finnmark - Finnmárku - Finmarkku	-7		-14	3	-20	29	-15	-16	5	0
+97	Svalbard og øvrige områder	-29		-3	-20	126	75	-45	-11	10	100

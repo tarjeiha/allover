@@ -1,0 +1,72 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på jobbskaping, egenetablering og tilrettelegging, demografi, tidsserie måned (TILT180)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og fylke
+# TILT180 Tiltaksdeltakere på jobbskaping og egenetablering og tilrettelegging. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og fylke									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt egenetablering	71	90	81	71	69	62	65	68	68	65
+Januar 2026 - September 2026	03 Oslo - Oslove	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	11 Rogaland	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	31 Østfold	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	32 Akershus	9	11	10	10	11	9	9	9	8	8
+Januar 2026 - September 2026	33 Buskerud	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	34 Innlandet	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	39 Vestfold	53	56	54	51	52	47	53	54	56	53
+Januar 2026 - September 2026	40 Telemark	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	42 Agder	6	18	14	8	4	4	*	*	*	*
+Januar 2026 - September 2026	46 Vestland	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*
+	I alt funksjonsassistanse	322	312	322	323	316	322	327	326	327	326
+	03 Oslo - Oslove	66	63	63	65	67	66	65	67	68	68
+	11 Rogaland	10	10	11	11	10	10	9	9	9	9
+	15 Møre og Romsdal	15	15	16	14	12	14	15	16	16	16
+	18 Nordland - Nordlánnda	9	9	9	9	9	9	9	9	9	9
+	31 Østfold	18	16	16	16	16	18	19	19	19	19
+	32 Akershus	35	38	36	36	33	34	34	34	36	35
+	33 Buskerud	9	10	10	10	9	9	9	9	9	9
+	34 Innlandet	39	36	39	40	40	40	38	39	38	38
+	39 Vestfold	10	9	10	10	9	9	11	11	10	9
+	40 Telemark	6	6	6	6	6	6	7	7	6	5
+	42 Agder	10	10	10	11	11	11	11	9	8	8
+	46 Vestland	48	45	47	47	47	48	51	49	50	51
+	50 Trøndelag - Trööndelage	26	24	27	26	25	26	27	25	26	27
+	55 Troms - Romsa - Tromssa	15	15	15	15	16	16	16	16	15	15
+	56 Finnmark - Finnmárku - Finmarkku	6	6	7	7	6	6	6	6	6	5
+	Ukjent	*	*	*	*	*	*	*	*	*	*
+	I alt inkluderingstilskudd	63	47	62	55	52	64	70	78	73	65
+	03 Oslo - Oslove	*	4	4	*	*	*	*	*	6	*
+	11 Rogaland	15	9	14	14	13	16	15	17	16	18
+	15 Møre og Romsdal	8	5	4	7	6	6	11	13	8	8
+	18 Nordland - Nordlánnda	5	5	8	6	*	4	5	5	7	*
+	31 Østfold	5	*	4	5	*	4	5	6	6	6
+	32 Akershus	4	*	*	*	5	7	5	4	4	6
+	33 Buskerud	*	*	*	*	*	*	*	*	*	*
+	34 Innlandet	4	*	*	*	6	4	5	4	4	5
+	39 Vestfold	*	*	*	*	*	*	*	*	*	*
+	40 Telemark	*	*	4	*	*	*	*	*	*	*
+	42 Agder	*	*	*	*	5	6	*	*	4	5
+	46 Vestland	*	*	5	*	*	4	6	4	*	*
+	50 Trøndelag - Trööndelage	5	*	4	5	4	5	8	7	6	6
+	55 Troms - Romsa - Tromssa	*	4	4	*	*	*	*	4	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	4	4	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*
+	I alt tilskudd til ekspertbistand	516	276	436	540	588	596	643	520	508	538
+	03 Oslo - Oslove	82	36	62	81	92	96	101	93	86	91
+	11 Rogaland	26	15	29	34	34	28	29	20	20	28
+	15 Møre og Romsdal	19	14	20	24	25	20	22	13	14	19
+	18 Nordland - Nordlánnda	25	16	21	26	29	27	27	23	31	24
+	31 Østfold	32	17	25	40	37	43	38	32	31	29
+	32 Akershus	100	43	88	106	114	116	127	110	107	93
+	33 Buskerud	21	9	20	28	25	18	24	20	21	21
+	34 Innlandet	18	7	15	27	27	21	18	12	12	23
+	39 Vestfold	26	13	29	32	31	20	23	19	27	38
+	40 Telemark	11	*	6	12	14	15	13	10	12	12
+	42 Agder	29	12	22	31	29	31	39	29	29	37
+	46 Vestland	55	54	57	53	59	60	60	50	48	56
+	50 Trøndelag - Trööndelage	32	*	5	5	31	51	69	50	39	37
+	55 Troms - Romsa - Tromssa	30	22	29	32	31	41	44	30	20	22
+	56 Finnmark - Finnmárku - Finmarkku	9	11	7	8	9	8	8	9	11	8
+	Ukjent	*	*	*	*	*	*	*	*	*	*

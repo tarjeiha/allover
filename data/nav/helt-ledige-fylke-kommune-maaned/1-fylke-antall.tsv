@@ -1,0 +1,27 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter fylke og kommune, tidsserie måned (HL060)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: 1. Fylke Antall
+# Helt ledige. Fylke og kommune. Tidsserie måned
+# Fylke. Antall²
+# Januar - september 2026
+rad		Januar		Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	68932		66750	65371	62443	58275	58104	64020	62832	59413
+03	Oslo - Oslove	12125		11917	11520	11132	10700	10839	12121	11649	11028
+11	Rogaland	5815		5628	5534	5403	5127	5096	5436	5425	5110
+15	Møre og Romsdal	2753		2629	2633	2504	2337	2324	2649	2518	2240
+18	Nordland - Nordlánnda	2213		2072	2086	1930	1865	1835	1979	1939	1833
+31	Østfold	4675		4483	4393	4128	3860	3857	4235	4146	4007
+32	Akershus	10299		9982	9742	9486	8790	8787	9775	9536	9153
+33	Buskerud	3543		3375	3425	3071	2828	2879	3200	3205	3064
+34	Innlandet	3900		3712	3615	3537	3200	3005	3272	3179	3036
+39	Vestfold	3404		3305	3166	2955	2727	2749	2962	2913	2752
+40	Telemark	2328		2294	2155	2046	1903	1837	1999	1980	1918
+42	Agder	3656		3498	3463	3190	3026	2933	3250	3297	3126
+46	Vestland	6738		6460	6348	5967	5368	5485	6035	5874	5442
+50	Trøndelag - Trööndelage	5392		5311	5194	4938	4479	4461	4969	5040	4768
+55	Troms - Romsa - Tromssa	1211		1232	1208	1236	1176	1127	1213	1227	1078
+56	Finnmark - Finnmárku - Finmarkku	854		829	863	891	856	858	894	866	818
+97	Svalbard og øvrige områder	13		9	11	14	20	19	16	18	20
+Ukjent	Ukjent	13		14	15	15	13	13	15	20	20

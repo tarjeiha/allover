@@ -1,0 +1,36 @@
+# Kilde: Nav
+# Tabell: Hovedtall om arbeidsmarkedet
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
+# Lagt inn: 2026-10-17
+# Ark: 5. Helt ledige varighet kjønn
+# Hovedtall om arbeidsmarkedet. September 2026
+# 5. Helt ledige fordelt på kjønn og varighet som arbeidssøker/med nedsatt arbeidsevne
+# September 2026
+gruppe	rad		Antall	Endring fra i fjor Antall	Endring fra i fjor Prosent
+	I alt		59413	-2542	-4
+	Under 4 uker		10651	55	1
+	4-12 uker		11051	-725	-6
+	13-25 uker		9266	-842	-8
+	26-51 uker		11706	-1277	-10
+	52-77 uker		6687	-393	-6
+	78-103 uker		4619	139	3
+	104 uker og mer		5433	501	10
+	Ukjent		*	*	*
+Kvinner	I alt kvinner		24410	-1779	-7
+Kvinner	Under 4 uker		4466	-235	-5
+Kvinner	4-12 uker		4576	-507	-10
+Kvinner	13-25 uker		3812	-521	-12
+Kvinner	26-51 uker		4483	-784	-15
+Kvinner	52-77 uker		2793	-232	-8
+Kvinner	78-103 uker		1800	119	7
+Kvinner	104 uker og mer		2480	381	18
+Kvinner	Ukjent		*	*	*
+Menn	I alt menn		35003	-763	-2
+Menn	Under 4 uker		6185	290	5
+Menn	4-12 uker		6475	-218	-3
+Menn	13-25 uker		5454	-321	-6
+Menn	26-51 uker		7223	-493	-6
+Menn	52-77 uker		3894	-161	-4
+Menn	78-103 uker		2819	20	1
+Menn	104 uker og mer		2953	120	4
+Menn	Ukjent		*	*	*

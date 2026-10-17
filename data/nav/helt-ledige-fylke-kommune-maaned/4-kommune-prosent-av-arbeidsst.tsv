@@ -1,0 +1,385 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter fylke og kommune, tidsserie måned (HL060)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: 4. Kommune Prosent av arbeidsst
+# Helt ledige. Fylke og kommune. Tidsserie måned
+# Kommune¹. Prosent av arbeidsstyrken²
+# Januar - september 2026
+# Oslo - Oslove
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt Oslo - Oslove	2.9	2.9	2.8	2.7	2.6	2.6	2.9	2.8	2.7
+I alt	0301 Oslo - Oslove	2.9	2.9	2.8	2.7	2.6	2.6	2.9	2.8	2.7
+Rogaland	I alt Rogaland	2.2	2.1	2.1	2	1.9	1.9	2	2	1.9
+Rogaland	1101 Eigersund	2.5	2.5	3.2	3.1	2.6	2.1	2.7	2.3	2.3
+Rogaland	1103 Stavanger	2.5	2.4	2.4	2.4	2.3	2.2	2.4	2.4	2.2
+Rogaland	1106 Haugesund	2.4	2.2	2.1	2.1	1.9	2.1	2.2	2.2	2.1
+Rogaland	1108 Sandnes	2.5	2.4	2.4	2.3	2.3	2.2	2.2	2.3	2.2
+Rogaland	1111 Sokndal	1.9	1.8	2.4	1.9	1.7	1.6	1.7	1.5	1.7
+Rogaland	1112 Lund	1	1.2	1.3	1	0.6	0.6	0.8	1	0.8
+Rogaland	1114 Bjerkreim	1.6	2.2	1.6	1.3	1	1.3	1.4	1.1	0.9
+Rogaland	1119 Hå	1.6	1.5	1.4	1.4	1.2	1.3	1.3	1.2	1.2
+Rogaland	1120 Klepp	1.6	1.5	1.4	1.4	1.3	1.3	1.4	1.5	1.3
+Rogaland	1121 Time	1.7	1.5	1.6	1.6	1.5	1.5	1.6	1.6	1.5
+Rogaland	1122 Gjesdal	1.9	1.8	1.8	1.8	1.8	2	2.5	2.4	1.7
+Rogaland	1124 Sola	2	1.9	1.7	1.8	1.8	1.9	1.8	1.8	1.8
+Rogaland	1127 Randaberg	2.1	1.8	1.7	1.6	1.4	1.4	1.6	1.8	1.6
+Rogaland	1130 Strand	1.9	2	1.9	1.8	1.5	1.4	1.3	1.3	1.1
+Rogaland	1133 Hjelmeland	2.5	1.9	2	2.7	1.6	1.4	1.7	1.5	1.1
+Rogaland	1134 Suldal	1.2	1.3	1	0.8	0.5	0.7	0.9	0.5	0.6
+Rogaland	1135 Sauda	1.5	1	1.1	1.1	0.7	0.7	1	0.8	1
+Rogaland	1144 Kvitsøy	1.3	1.3	*	2	1.6	2	2	2	1.3
+Rogaland	1145 Bokn	2.6	2	1.8	1.6	1.8	1.8	1.4	2	2.6
+Rogaland	1146 Tysvær	1.3	1.4	1.3	1.1	1.1	1.1	1.1	1.1	1.2
+Rogaland	1149 Karmøy	1.7	1.7	1.6	1.6	1.5	1.7	1.8	1.8	1.9
+Rogaland	1151 Utsira	*	*	*	*	3.2	*	3.2	*	3.2
+Rogaland	1160 Vindafjord	1.4	1.5	1.4	1.2	1.1	1.3	1.4	1.2	1.1
+Møre og Romsdal	I alt Møre og Romsdal	2	1.9	1.9	1.8	1.7	1.7	1.9	1.8	1.6
+Møre og Romsdal	1505 Kristiansund	2.2	2	2	1.8	1.7	1.6	1.9	2	1.9
+Møre og Romsdal	1506 Molde	1.9	1.8	1.8	1.8	1.8	2	2.1	1.7	1.6
+Møre og Romsdal	1508 Ålesund	2.1	2	2	1.9	1.7	1.7	1.9	1.8	1.6
+Møre og Romsdal	1511 Vanylven	2.5	2.9	2.5	2.5	2.3	2.1	1.9	2.2	1.3
+Møre og Romsdal	1514 Sande	1.5	1.8	1.8	1.3	1.3	1.5	1.3	1.8	1.4
+Møre og Romsdal	1515 Herøy (Møre og Romsdal)	2.7	2.5	3.6	3	2.7	1.9	2.5	2	1.7
+Møre og Romsdal	1516 Ulstein	1.7	1.6	1.6	1.7	1.6	1.5	1.7	1.7	1.3
+Møre og Romsdal	1517 Hareid	2.4	1.9	2.5	2.6	2.4	2.6	2.8	2.6	2.1
+Møre og Romsdal	1520 Ørsta	1.9	1.5	1.5	1.7	1.6	1.5	1.7	1.5	1.6
+Møre og Romsdal	1525 Stranda	2.1	2.1	1.7	1.8	2.1	1.8	1.9	1.7	1.7
+Møre og Romsdal	1528 Sykkylven	1.4	1.3	1.3	1.4	1.3	1.5	2	1.7	1.4
+Møre og Romsdal	1531 Sula	1.5	1.7	2	1.6	1.3	1.3	1.5	1.5	1.4
+Møre og Romsdal	1532 Giske	1.5	1.2	1.2	1	0.9	1	1.5	1.5	1.1
+Møre og Romsdal	1535 Vestnes	2	2.4	1.9	1.5	1.4	1.9	1.9	2.1	1.6
+Møre og Romsdal	1539 Rauma	1.5	1.2	1.2	1.3	1.3	1.2	1.1	1.2	0.9
+Møre og Romsdal	1547 Aukra	1.6	1	1.2	0.8	0.7	0.9	1.5	1.5	1.5
+Møre og Romsdal	1554 Averøy	1.9	1.6	1.5	1.7	2.2	1.9	2.4	2.1	2
+Møre og Romsdal	1557 Gjemnes	2.4	2.2	2	1.8	1.6	1.5	1.9	1.9	2.1
+Møre og Romsdal	1560 Tingvoll	2.2	2	1.6	1.8	1.5	0.9	1.5	1.6	1.8
+Møre og Romsdal	1563 Sunndal	2.4	2.3	2.1	2.3	2.1	2.2	2.3	2.3	1.8
+Møre og Romsdal	1566 Surnadal	2.4	2.2	1.9	2.1	1.3	1.3	1.2	1.2	1.3
+Møre og Romsdal	1573 Smøla	1	1	0.8	1.3	1.2	1.3	1.4	1.7	1.2
+Møre og Romsdal	1576 Aure	1.7	1.5	1.3	1.4	1.4	1.1	1.5	1.1	0.7
+Møre og Romsdal	1577 Volda	2.4	2.4	2.5	2	1.9	1.9	2.4	2.4	1.9
+Møre og Romsdal	1578 Fjord	0.9	1.8	1.7	1.1	0.5	0.7	1.5	1.3	1.1
+Møre og Romsdal	1579 Hustadvika	1.7	1.5	1.4	1.2	1.2	1.4	1.4	1.3	1.2
+Møre og Romsdal	1580 Haram	1.6	1.9	2	1.9	1.8	1.7	2.3	2.3	2.2
+Nordland - Nordlánnda	I alt Nordland - Nordlánnda	1.8	1.7	1.7	1.6	1.5	1.5	1.6	1.6	1.5
+Nordland - Nordlánnda	1804 Bodø	1.8	1.5	1.4	1.3	1.2	1.3	1.3	1.3	1.3
+Nordland - Nordlánnda	1806 Narvik	1.5	1.2	1.3	1.2	1.2	1.2	1.2	1.1	1.2
+Nordland - Nordlánnda	1811 Bindal	3.3	3.8	3.7	3.3	4	4	4.5	4.3	3.7
+Nordland - Nordlánnda	1812 Sømna	1.2	1.1	1.4	0.9	1	1.2	1.1	1.4	1
+Nordland - Nordlánnda	1813 Brønnøy	1.5	1.3	1.2	1.3	1.1	1.2	1.6	1.3	1.2
+Nordland - Nordlánnda	1815 Vega	1.7	1.4	1.7	2.4	3.3	2.9	3.1	2.9	2.9
+Nordland - Nordlánnda	1816 Vevelstad	*	*	*	*	*	*	*	*	*
+Nordland - Nordlánnda	1818 Herøy (Nordland)	1.9	2.1	4.4	1.6	1.6	1.3	1.3	1.3	1.8
+Nordland - Nordlánnda	1820 Alstahaug	1.5	1.2	1.2	1.4	1.2	1.6	1.5	1.9	1.7
+Nordland - Nordlánnda	1822 Leirfjord	2.4	2.2	2.9	2.5	2.6	2.6	2.9	3.2	2.9
+Nordland - Nordlánnda	1824 Vefsn	1.6	1.4	1.6	1.4	1.2	1	1	1.1	1.1
+Nordland - Nordlánnda	1825 Grane	2.9	2.4	1.7	1	0.6	0.7	0.7	0.6	0.6
+Nordland - Nordlánnda	1826 Aarborte - Hattfjelldal	5.6	1.8	2	1.2	1.8	1	1.2	1.5	1.5
+Nordland - Nordlánnda	1827 Dønna	2.3	3.3	2.9	2.7	1.8	1.8	2.4	2.3	2
+Nordland - Nordlánnda	1828 Nesna	1.8	1.1	1.3	1.2	1.2	1.5	1.5	1.6	1.8
+Nordland - Nordlánnda	1832 Hemnes	2	1.7	1.8	1.7	1.4	1.5	1.6	1.7	1.4
+Nordland - Nordlánnda	1833 Rana - Raane	1.5	1.5	1.4	1.4	1.3	1.3	1.4	1.5	1.4
+Nordland - Nordlánnda	1834 Lurøy	2.6	3.6	2	1.8	2	1.7	2.1	1.8	2.3
+Nordland - Nordlánnda	1835 Træna	3.3	2.9	*	2.5	2.5	3.3	2.9	3.3	3.3
+Nordland - Nordlánnda	1836 Rødøy	1.8	1.8	2.2	2.2	1.6	2.5	2.5	2	2.2
+Nordland - Nordlánnda	1837 Meløy	1.5	1.2	1.1	1.2	1.2	1.4	1.3	1.3	1.3
+Nordland - Nordlánnda	1838 Gildeskål	3.1	2.5	2.7	2.6	2.7	2	1.8	2.5	1.7
+Nordland - Nordlánnda	1839 Beiarn	2.9	2	2.4	2.4	2.2	3.1	2.6	2.4	2.9
+Nordland - Nordlánnda	1840 Saltdal	1.8	2.1	2.9	2.3	1.8	1.5	2.4	1.8	1.7
+Nordland - Nordlánnda	1841 Fauske - Fuossko	1.6	2.2	2.3	1.8	1.4	1.4	1.5	1.5	1.4
+Nordland - Nordlánnda	1845 Sørfold - Fuolldá	1.1	2.7	3.9	1.9	1.2	1.4	1	1.2	1.2
+Nordland - Nordlánnda	1848 Steigen	1.4	1.1	0.9	1	0.7	0.9	1.1	0.7	0.7
+Nordland - Nordlánnda	1851 Lødingen	0.7	2.6	2.2	1.9	2.5	1.6	1.5	1.3	0.9
+Nordland - Nordlánnda	1853 Evenes - Evenášši	1.5	1.6	1	1.3	0.9	1	0.6	0.6	*
+Nordland - Nordlánnda	1856 Røst	2.7	*	*	5.4	11.9	7.3	7.7	5.4	4.2
+Nordland - Nordlánnda	1857 Værøy	5.5	2.7	5.5	9.7	8.5	3.6	9.1	9.1	5.5
+Nordland - Nordlánnda	1859 Flakstad	4.4	4	3.2	3.5	2.9	2.4	2.4	1.9	2.7
+Nordland - Nordlánnda	1860 Vestvågøy	2.1	1.6	1.6	1.6	1.6	1.7	1.8	1.7	1.9
+Nordland - Nordlánnda	1865 Vågan	2.6	1.9	1.6	1.8	2.1	1.6	2.2	2.2	2.2
+Nordland - Nordlánnda	1866 Hadsel	1.4	2.7	2.1	1.4	1.9	2.1	2.1	1.7	1.3
+Nordland - Nordlánnda	1867 Bø	1.9	2.2	2.6	2.5	1.2	1.1	1.6	2.2	1.8
+Nordland - Nordlánnda	1868 Øksnes	1.9	1.7	4.2	3.4	3.2	3.1	3.3	4.1	3
+Nordland - Nordlánnda	1870 Sortland - Suortá	1.5	1.6	1.5	1.3	1.5	1.4	1.6	1.2	1.1
+Nordland - Nordlánnda	1871 Andøy	1.1	0.8	0.7	0.9	0.9	0.9	0.8	0.9	0.8
+Nordland - Nordlánnda	1874 Moskenes	4.4	3.8	2.8	3.4	3	2.2	2.4	2.4	4
+Nordland - Nordlánnda	1875 Hábmer - Hamarøy	3.6	3.3	3.2	2.8	3.2	3.9	3.8	2.9	3.1
+Østfold	I alt Østfold	3.1	3	2.9	2.7	2.5	2.5	2.8	2.7	2.6
+Østfold	3101 Halden	3.1	2.9	2.7	2.6	2.4	2.6	2.9	2.8	2.7
+Østfold	3103 Moss	3	3	2.9	2.7	2.5	2.5	2.7	2.7	2.8
+Østfold	3105 Sarpsborg	3.6	3.5	3.3	3.1	2.8	2.8	3.1	3.1	3
+Østfold	3107 Fredrikstad	3.4	3.1	3.2	3.1	2.9	2.9	3.1	3	2.8
+Østfold	3110 Hvaler	2.4	3	2.7	2.5	2.1	2	2.4	2.4	2.1
+Østfold	3112 Råde	2.5	2.4	2.5	2.2	2.2	2.2	2.5	2.6	2.6
+Østfold	3114 Våler (Østfold)	2.1	1.8	1.7	1.7	1.6	1.8	1.9	1.8	1.5
+Østfold	3116 Skiptvet	2.2	2	2.3	2	1.7	1.6	1.7	1.6	2
+Østfold	3118 Indre Østfold	2.7	2.6	2.5	2.4	2.3	2.2	2.4	2.4	2.2
+Østfold	3120 Rakkestad	2	1.8	1.8	1.5	1.4	1.7	1.8	1.8	1.6
+Østfold	3122 Marker	2.2	2.1	2.1	1.9	1.8	1.6	1.5	1.8	1.6
+Østfold	3124 Aremark	1.4	2	2.3	1.4	1.7	1.8	2	1.7	2
+Akershus	I alt Akershus	2.6	2.5	2.5	2.4	2.2	2.2	2.5	2.4	2.3
+Akershus	3201 Bærum	2.2	2	2	2	1.8	1.9	2.2	2.1	2.1
+Akershus	3203 Asker	2.2	2.1	2.1	2	1.8	1.8	2.1	2	1.9
+Akershus	3205 Lillestrøm	2.7	2.7	2.6	2.6	2.4	2.4	2.6	2.6	2.5
+Akershus	3207 Nordre Follo	2.6	2.6	2.5	2.4	2.3	2.4	2.6	2.5	2.4
+Akershus	3209 Ullensaker	3.9	3.5	3.5	3.5	3.2	3.1	3.3	3.3	3.3
+Akershus	3212 Nesodden	2.8	2.7	2.5	2.5	2.1	2.1	2.6	2.3	2.2
+Akershus	3214 Frogn	2.4	2.2	2.3	1.9	2.1	2	2.2	2.3	2.1
+Akershus	3216 Vestby	2.2	2.2	2.1	1.9	1.8	1.7	2	2	1.9
+Akershus	3218 Ås	3.3	3.1	3.1	3.1	2.9	2.8	3	2.9	2.8
+Akershus	3220 Enebakk	2.4	2.3	2.5	2.4	2.2	2.1	2.6	2.6	2.5
+Akershus	3222 Lørenskog	3.2	3.2	3.1	3.2	3.1	3	3.3	3.2	3.1
+Akershus	3224 Rælingen	2.8	2.5	2.4	2.1	1.9	1.9	2.1	2.1	2.1
+Akershus	3226 Aurskog-Høland	2.8	2.7	2.6	2.1	1.9	1.8	2	2.1	2
+Akershus	3228 Nes	2.3	2.4	2.4	2.3	2.2	2.1	2.3	2.4	2.2
+Akershus	3230 Gjerdrum	2.2	2.3	2.1	2	1.9	1.9	2.1	1.9	1.7
+Akershus	3232 Nittedal	2.4	2.4	2.4	2.3	2.2	2.1	2.3	2.2	2
+Akershus	3234 Lunner	2.1	2.4	2.5	2.2	2.2	2.3	2.5	2.5	2.2
+Akershus	3236 Jevnaker	2.6	2.6	2.4	2.3	2	2.1	2.1	2.2	2
+Akershus	3238 Nannestad	2.9	2.7	2.5	2.6	2.3	2.1	2.3	2.1	1.9
+Akershus	3240 Eidsvoll	2.9	2.9	2.7	2.6	2.4	2.4	2.7	2.6	2.5
+Akershus	3242 Hurdal	2	1.8	1.8	2	1.7	2.4	2.3	1.8	1.8
+Buskerud	I alt Buskerud	2.5	2.4	2.5	2.2	2	2.1	2.3	2.3	2.2
+Buskerud	3301 Drammen	3.1	3	3	2.8	2.6	2.6	2.8	2.8	2.8
+Buskerud	3303 Kongsberg	1.9	1.8	1.8	1.5	1.4	1.4	1.7	1.7	1.6
+Buskerud	3305 Ringerike	2.7	2.6	2.7	2.3	2.1	2.3	2.5	2.5	2.2
+Buskerud	3310 Hole	2.5	2.5	2.5	2.3	2.2	2.3	2.5	2.4	2.4
+Buskerud	3312 Lier	2.4	2.2	2.3	1.9	1.7	1.8	2	2.2	2
+Buskerud	3314 Øvre Eiker	1.6	1.6	1.8	1.5	1.3	1.5	1.8	1.7	1.7
+Buskerud	3316 Modum	2.8	2.7	2.6	2.2	2.1	2.2	2.3	2.2	2.1
+Buskerud	3318 Krødsherad	3.3	2.7	3.1	2.7	2.8	2.6	2.9	2.9	2.7
+Buskerud	3320 Flå	2.6	2.1	1.5	1.5	1.5	1.4	1.4	1.4	1.7
+Buskerud	3322 Nesbyen	1.5	1.3	1.3	0.8	0.8	0.8	1.1	1.1	1
+Buskerud	3324 Gol	1.4	1.2	1.1	0.9	0.9	1.1	0.9	1.1	1.2
+Buskerud	3326 Hemsedal	1.6	1.4	1.6	1.9	2.5	2.3	2.5	2.5	2.5
+Buskerud	3328 Ål	1.5	1.3	1.4	1.3	1.2	1.2	1.3	1	0.9
+Buskerud	3330 Hol	1.3	1	1.1	1.5	1.7	1.6	1.3	1.5	1.3
+Buskerud	3332 Sigdal	2	1.8	1.6	1.7	1.4	1.6	1.8	1.8	1.8
+Buskerud	3334 Flesberg	2.2	2.7	2.9	2.3	1.9	1.2	1.5	1.3	1.5
+Buskerud	3336 Rollag	2.6	2.2	2.3	2.3	1.5	2	2	1.9	1.7
+Buskerud	3338 Nore og Uvdal	1.8	1.3	1.8	1.9	1.6	1.6	1.7	1.5	1.3
+Innlandet	I alt Innlandet	2.1	2	1.9	1.9	1.7	1.6	1.7	1.7	1.6
+Innlandet	3401 Kongsvinger	2.3	2.4	2.3	2.4	2.2	2.4	2.6	2.6	2.5
+Innlandet	3403 Hamar	2.4	2.1	2.2	2	1.8	1.7	2	1.9	2
+Innlandet	3405 Lillehammer	1.5	1.5	1.3	1.6	1.4	1.1	1.3	1.2	1.1
+Innlandet	3407 Gjøvik	2.7	2.6	2.6	2.4	2.1	2	2.2	2.2	2
+Innlandet	3411 Ringsaker	2.2	2.2	1.9	1.8	1.7	1.5	1.6	1.5	1.5
+Innlandet	3412 Løten	2.5	2.4	2.5	2.1	1.9	1.6	1.9	1.8	1.9
+Innlandet	3413 Stange	1.9	1.9	1.9	1.8	1.8	1.5	1.7	1.8	1.7
+Innlandet	3414 Nord-Odal	1.9	1.8	2	2.2	1.9	1.9	1.6	1.6	1.8
+Innlandet	3415 Sør-Odal	2.9	2.8	2.8	2.3	2.1	1.8	2.1	2.2	2.3
+Innlandet	3416 Eidskog	2.4	2.5	2.8	2.4	2.1	1.9	2	2.2	2.2
+Innlandet	3417 Grue	2.8	2.6	2.5	2.1	2.3	2.5	2.5	2.4	1.9
+Innlandet	3418 Åsnes	2.8	2.8	2.3	2.1	2.2	2.1	2	1.7	1.5
+Innlandet	3419 Våler (Innlandet)	2.4	2.5	2.6	2.1	2	2.1	2.1	1.8	1.8
+Innlandet	3420 Elverum	2.1	1.9	1.8	2	1.7	1.8	2.1	1.9	1.8
+Innlandet	3421 Trysil	2.6	2.5	2.6	3.4	3.9	3	3	3.3	3.1
+Innlandet	3422 Åmot	1.4	1.7	1.7	1.3	1.2	1.7	1.7	1.4	1.7
+Innlandet	3423 Stor-Elvdal	1.4	1.4	1.1	1	0.7	0.5	0.6	0.9	0.5
+Innlandet	3424 Rendalen	1.5	1.9	1.3	1	1.1	1.4	1.3	1.3	1.1
+Innlandet	3425 Engerdal	2.1	2.3	2	1.8	3	1.6	1.3	2.3	2.3
+Innlandet	3426 Tolga	1.5	1.5	1.6	1.8	1.4	1.2	1.3	1.2	1.2
+Innlandet	3427 Tynset	1.4	1.5	1.5	1.4	1.1	1.4	1.4	1.3	1.2
+Innlandet	3428 Alvdal	1.5	1.6	1.5	1.5	1.2	0.9	0.7	0.7	0.9
+Innlandet	3429 Folldal	0.9	0.5	1	1.3	0.9	1.2	1.3	1.3	0.7
+Innlandet	3430 Os	2.5	2.4	1.9	1.8	1.8	1.8	1.7	1.9	2.2
+Innlandet	3431 Dovre	1.5	1.5	1.3	1.1	0.7	0.4	0.6	0.6	*
+Innlandet	3432 Lesja	0.9	1	0.5	0.5	0.4	0.9	0.9	0.7	0.9
+Innlandet	3433 Skjåk	1.4	1.1	0.9	1	0.7	0.4	0.6	0.5	0.8
+Innlandet	3434 Lom	1.5	1.6	1.2	0.6	0.6	0.4	0.5	0.4	0.7
+Innlandet	3435 Vågå	1.3	1	1.1	1	0.8	0.5	0.6	0.4	0.6
+Innlandet	3436 Nord-Fron	1.5	1.6	1.2	1.5	1.1	1.1	1.1	0.8	0.9
+Innlandet	3437 Sel	2.3	2.2	1.6	1.9	1.3	1.4	1.3	1.2	1.2
+Innlandet	3438 Sør-Fron	1.3	0.8	0.8	0.9	0.9	1	0.8	0.6	0.5
+Innlandet	3439 Ringebu	1.4	1.3	1.3	2.1	1.1	1.2	1.3	1.1	0.9
+Innlandet	3440 Øyer	2.3	1.7	1.8	1.8	1.4	1.3	1.3	1.5	1.5
+Innlandet	3441 Gausdal	1.2	1.1	1.2	1.4	1.2	1	1.1	0.9	0.9
+Innlandet	3442 Østre Toten	1.9	1.8	1.9	1.8	1.7	1.5	1.7	1.6	1.6
+Innlandet	3443 Vestre Toten	2	1.8	1.9	1.7	1.6	1.7	1.9	2.1	1.8
+Innlandet	3446 Gran	1.8	1.5	1.6	1.5	1.4	1.3	1.7	1.5	1.7
+Innlandet	3447 Søndre Land	3.1	2.9	3.2	3	2.7	2.2	2.4	2	1.9
+Innlandet	3448 Nordre Land	2.4	2.3	2.4	2.2	2.1	2.1	1.9	2.1	1.8
+Innlandet	3449 Sør-Aurdal	1.4	1.3	1.5	1.8	1.7	1.2	1.7	1.1	1.3
+Innlandet	3450 Etnedal	1.5	1.5	1	1.1	1.1	1.1	1.3	1.6	1
+Innlandet	3451 Nord-Aurdal	1.8	1.6	1.5	1.6	1.5	1.6	1.4	1.4	1.1
+Innlandet	3452 Vestre Slidre	1.4	1.6	1.6	1.7	1.5	1	1	0.9	0.8
+Innlandet	3453 Øystre Slidre	1.9	1.7	1.6	1.9	1.3	1.6	1.1	1.3	1.2
+Innlandet	3454 Vang	2.3	2	1.8	2	1.6	1.5	1.4	1.2	1
+Vestfold	I alt Vestfold	2.7	2.6	2.5	2.3	2.1	2.2	2.3	2.3	2.2
+Vestfold	3901 Horten	3.2	3.2	3.2	2.9	2.7	2.9	3	3	2.8
+Vestfold	3903 Holmestrand	2.3	2.2	2.1	2	1.7	1.8	2	2	2
+Vestfold	3905 Tønsberg	2.9	2.9	2.6	2.4	2.2	2.3	2.4	2.4	2.3
+Vestfold	3907 Sandefjord	2.7	2.7	2.5	2.5	2.3	2.3	2.4	2.4	2.2
+Vestfold	3909 Larvik	2.2	2.1	2.1	1.9	1.7	1.8	2	1.9	1.8
+Vestfold	3911 Færder	2.4	2.3	2.4	2.1	2	1.8	2	1.9	1.9
+Telemark	I alt Telemark	2.7	2.6	2.5	2.4	2.2	2.1	2.3	2.3	2.2
+Telemark	4001 Porsgrunn	3	2.9	2.6	2.5	2.5	2.4	2.6	2.6	2.6
+Telemark	4003 Skien	2.7	2.7	2.5	2.4	2.2	2.3	2.5	2.4	2.3
+Telemark	4005 Notodden	2.8	3.1	2.9	2.6	2.1	2.1	2.5	2.5	2.4
+Telemark	4010 Siljan	1	1	0.9	1.2	0.8	1.2	1.4	1.4	1.1
+Telemark	4012 Bamble	2.8	2.8	2.8	2.6	2.7	2.5	2.4	2.6	2.3
+Telemark	4014 Kragerø	2.7	2.7	2.3	2.3	1.9	1.7	1.9	2	1.9
+Telemark	4016 Drangedal	2.4	2.5	2.3	2.8	2.2	1.9	2.1	2.3	2
+Telemark	4018 Nome	2.6	2.5	2.3	2.5	2.3	2.1	2.2	1.9	1.9
+Telemark	4020 Midt-Telemark	2.8	2.9	2.8	2.6	2.2	2.2	2.3	2.3	2.4
+Telemark	4022 Seljord	2.1	2.2	2	2	1.8	1.7	1.7	2	1.8
+Telemark	4024 Hjartdal	2.2	1.9	2	1.7	1.5	1.9	1.6	1.5	1.7
+Telemark	4026 Tinn	2.1	1.8	1.4	1.6	1.8	1.5	1.5	1.1	0.9
+Telemark	4028 Kviteseid	1.6	2.3	1.8	1.6	1.5	1.1	1.1	1.1	0.9
+Telemark	4030 Nissedal	1.7	1.7	1.7	0.8	1.3	1	1.1	1	0.8
+Telemark	4032 Fyresdal	1.8	1.5	2.1	1.5	1.2	1.3	0.7	0.6	0.9
+Telemark	4034 Tokke	2.3	2.6	2.6	1.6	1.4	1.4	1.8	2	1.9
+Telemark	4036 Vinje	1.8	1.5	1.9	1.8	1.7	1.5	1.6	1.5	1.7
+Agder	I alt Agder	2.3	2.2	2.2	2	1.9	1.8	2	2.1	2
+Agder	4201 Risør	3	2.6	2.4	2.3	2.2	1.9	2.1	2.2	2.1
+Agder	4202 Grimstad	2.2	2.2	2.1	1.9	2.1	2	2	2.1	2
+Agder	4203 Arendal	2.2	2.3	2.2	2.2	2.5	2.3	2.4	2.5	2.3
+Agder	4204 Kristiansand	2.5	2.3	2.3	2.2	1.9	1.9	2.1	2.2	2.1
+Agder	4205 Lindesnes	2.2	2.2	2.1	1.7	1.7	1.7	1.8	1.7	1.6
+Agder	4206 Farsund	1.5	1.3	1.6	1.3	1	1.1	1.1	1.4	1.5
+Agder	4207 Flekkefjord	2.1	2	1.9	1.7	1.5	1.7	2	1.9	1.6
+Agder	4211 Gjerstad	2.9	3.2	3.4	2.9	2.9	2.4	2.4	2.4	2.4
+Agder	4212 Vegårshei	1.6	1.8	1.6	1.7	1.2	1.6	1.5	1.3	1.6
+Agder	4213 Tvedestrand	3	3	2.8	2.5	2.3	2.2	2.5	2.2	2.1
+Agder	4214 Froland	1.6	2.2	2.6	2.1	2	2	2.1	2	1.8
+Agder	4215 Lillesand	2.7	2.5	2.2	2.1	2	2.1	2.4	2.3	2.1
+Agder	4216 Birkenes	2	1.9	2.1	1.8	1.5	1.4	2	1.7	1.8
+Agder	4217 Åmli	2	2	1.8	2.1	2	1.3	1.6	1	1.1
+Agder	4218 Iveland	0.6	0.6	0.8	0.8	0.6	*	*	0.6	0.8
+Agder	4219 Evje og Hornnes	2.6	2	1.5	1.5	1.4	1.1	1.5	1.1	1.1
+Agder	4220 Bygland	1.8	1.8	1.6	1.1	1.2	1.2	1.2	1.4	1.6
+Agder	4221 Valle	0.9	1.4	1.8	1.1	1.7	1.8	1.7	0.8	1.1
+Agder	4222 Bykle	1.4	1.5	1.7	1.9	2	2	1.7	2.4	1.9
+Agder	4223 Vennesla	2.2	2	1.9	1.8	1.8	1.7	1.9	1.8	1.7
+Agder	4224 Åseral	1.7	1.2	1.2	1.3	1.3	1.2	1	*	*
+Agder	4225 Lyngdal	2	2	2	1.6	1.4	1.2	1.3	1.3	1.4
+Agder	4226 Hægebostad	1.8	1.9	1.4	0.9	0.9	1.3	1.7	2.1	1
+Agder	4227 Kvinesdal	1.9	1.9	2.2	1.5	1.5	1.6	1.9	1.7	1.3
+Agder	4228 Sirdal	0.7	0.8	1	0.9	0.9	0.8	1.4	1.5	1.3
+Vestland	I alt Vestland	1.9	1.8	1.8	1.7	1.5	1.6	1.7	1.7	1.6
+Vestland	4601 Bergen	2.2	2.1	2	1.9	1.8	1.9	2	2	1.9
+Vestland	4602 Kinn	2.2	2.5	2.6	3.1	2.5	2	2.3	2.2	1.7
+Vestland	4611 Etne	1.4	1.6	1.5	1.3	1.5	1.4	1.5	1.5	1.3
+Vestland	4612 Sveio	1.3	0.9	0.9	0.9	0.7	1	1.1	1.1	0.6
+Vestland	4613 Bømlo	1.4	1.2	1.3	1.1	1.2	1.4	1.4	1.2	1.2
+Vestland	4614 Stord	0.7	0.9	0.8	0.7	0.7	0.8	0.9	1	1.1
+Vestland	4615 Fitjar	1.4	1.3	1	0.7	0.7	1	1.2	1.2	0.9
+Vestland	4616 Tysnes	1.6	1.1	0.9	1	0.6	0.8	1.1	0.9	1.1
+Vestland	4617 Kvinnherad	1.3	1.2	1.1	1.2	1.1	1.1	1	0.9	1
+Vestland	4618 Ullensvang	1.7	1.6	1.4	1.1	0.9	1	1	1.1	1.1
+Vestland	4619 Eidfjord	2.7	3	3.4	1.9	1.9	1.3	1.7	1.7	1.5
+Vestland	4620 Ulvik	4.1	4	3.2	1.9	1.5	1.7	0.9	0.9	1.7
+Vestland	4621 Voss	1.7	1.5	1.6	1.6	1.3	1.3	1.4	1.3	1.2
+Vestland	4622 Kvam	1.6	1.6	1.5	1.2	1.2	1.2	1	1.1	1
+Vestland	4623 Samnanger	1.6	0.9	0.8	0.9	0.8	1.6	1.9	1.3	0.6
+Vestland	4624 Bjørnafjorden	1.9	1.6	1.6	1.5	1.3	1.3	1.5	1.3	1.2
+Vestland	4625 Austevoll	1.3	1.2	1.2	1.6	1.3	1.3	1.4	1.2	1.2
+Vestland	4626 Øygarden	2.3	2.3	2.2	2	1.8	2	2.2	2.1	1.8
+Vestland	4627 Askøy	1.9	1.6	1.6	1.4	1.3	1.3	1.6	1.5	1.4
+Vestland	4628 Vaksdal	2.1	2.4	2.4	2	1.8	1.6	2.1	1.9	1.8
+Vestland	4629 Modalen	4.6	3.1	4.1	2.6	2.1	2.1	2.1	*	*
+Vestland	4630 Osterøy	1.4	1.2	1.2	1.1	1.1	0.9	1	1	1
+Vestland	4631 Alver	1.3	1.4	1.3	1.3	1.1	1.2	1.3	1.3	0.9
+Vestland	4632 Austrheim	2.2	2	1	1.4	0.8	1.1	1.3	1.2	1.5
+Vestland	4633 Fedje	3.3	3.7	2.5	2.5	2.9	1.6	3.7	3.7	2.5
+Vestland	4634 Masfjorden	0.9	1.3	1.2	0.5	0.7	1.2	1.4	1.4	0.6
+Vestland	4635 Gulen	1	1	0.9	0.5	0.7	0.3	0.6	0.6	0.6
+Vestland	4636 Solund	1.8	1	*	*	*	*	*	*	*
+Vestland	4637 Hyllestad	1.3	0.9	1.4	0.8	*	*	*	*	0.8
+Vestland	4638 Høyanger	2.4	2.3	2.1	1.9	1.4	1.6	1.5	1.6	1.7
+Vestland	4639 Vik	1.6	1.9	1.9	1.5	1.4	1.1	1.4	1.3	1.2
+Vestland	4640 Sogndal	1.3	1.5	1.5	1.4	1	1	1.1	1.2	1.1
+Vestland	4641 Aurland	3.5	3.4	3.7	2.6	2.1	1.5	1.3	1.7	1.8
+Vestland	4642 Lærdal	1.8	1.4	1.3	1.1	0.9	1.1	0.8	0.9	1
+Vestland	4643 Årdal	2.9	2.7	2.4	2.2	1.9	1.8	1.9	2	2
+Vestland	4644 Luster	2.5	2.3	2.4	2	1.6	1.3	1.4	1.5	1.7
+Vestland	4645 Askvoll	2.4	1.8	1.3	1.1	1.3	1.7	1.9	2	1.7
+Vestland	4646 Fjaler	1.2	0.7	1.7	1.8	1.1	1.4	1.5	1.4	1.3
+Vestland	4647 Sunnfjord	1.4	1.4	1.4	1.2	1.1	1.1	1.2	1.2	1.1
+Vestland	4648 Bremanger	1.3	2.4	2.1	1.8	1.5	1.1	2	2.1	1.8
+Vestland	4649 Stad	1.6	1.8	2.3	2.5	2.2	1.8	1.8	2	1
+Vestland	4650 Gloppen	2.6	2.7	2.6	2.3	1.9	1.9	2.1	2	1.7
+Vestland	4651 Stryn	1.6	1.4	1.6	1	0.9	0.8	1	1.1	1.3
+Trøndelag - Trööndelage	I alt Trøndelag - Trööndelage	2.1	2.1	2	1.9	1.8	1.7	1.9	2	1.9
+Trøndelag - Trööndelage	5001 Trondheim - Tråante	2.1	2.1	2.1	2	1.8	1.8	2.1	2	1.9
+Trøndelag - Trööndelage	5006 Steinkjer - Stïentje	2.8	3	3.1	2.5	2.3	2.2	2.6	2.7	2.7
+Trøndelag - Trööndelage	5007 Namsos - Nåavmesjenjaelmie	1.4	1.4	1.4	1.3	1.2	1.3	1.3	1.5	1.4
+Trøndelag - Trööndelage	5014 Frøya	1.8	1.8	1.7	1.8	1.5	1.4	1.5	1.5	1.5
+Trøndelag - Trööndelage	5020 Osen	1.4	1	1	*	*	1.2	1	1.4	1
+Trøndelag - Trööndelage	5021 Oppdal	1.6	1.7	1.5	1.4	1.4	1	1.3	1.4	0.9
+Trøndelag - Trööndelage	5022 Rennebu	2.2	1.6	1.9	2	1.3	1.8	1.6	1.9	2
+Trøndelag - Trööndelage	5025 Røros - Rossen	2	1.7	1.6	1.5	1.2	1.1	1.2	1.2	1
+Trøndelag - Trööndelage	5026 Holtålen	2	1.3	1.6	1.3	0.9	1.3	1.1	1	1
+Trøndelag - Trööndelage	5027 Midtre Gauldal	1.4	1.5	1.4	1.2	1.2	1	1	1.1	1.1
+Trøndelag - Trööndelage	5028 Melhus	2.3	2.1	1.9	1.7	1.5	1.4	1.7	2	1.6
+Trøndelag - Trööndelage	5029 Skaun	1.6	1.5	1.5	1.5	1.5	1.3	1.4	1.4	1.6
+Trøndelag - Trööndelage	5031 Malvik	2.2	2.1	2	2	1.5	1.9	1.8	2.1	1.9
+Trøndelag - Trööndelage	5032 Selbu	1.5	1.8	1.8	1.8	1.3	1.4	1.3	1.3	1
+Trøndelag - Trööndelage	5033 Tydal	*	1.1	1.4	1.4	1.1	1.1	1.1	*	1.1
+Trøndelag - Trööndelage	5034 Meråker	3.7	3.6	3.3	3.2	3.1	3.1	3	2.8	2.8
+Trøndelag - Trööndelage	5035 Stjørdal	1.9	2	1.9	2	1.8	2.1	2.4	2.4	2.2
+Trøndelag - Trööndelage	5036 Frosta	2.6	2.4	2.1	1.8	1.5	1.5	1.7	1.7	1.7
+Trøndelag - Trööndelage	5037 Levanger - Levangke	1.7	1.5	1.5	1.4	1.2	1.2	1.6	1.6	1.5
+Trøndelag - Trööndelage	5038 Verdal	2.6	2.7	2.7	2.6	2.7	2.4	2.6	2.8	2.6
+Trøndelag - Trööndelage	5041 Snåase - Snåsa	1.8	1.4	1.4	1.7	1.4	0.9	1.5	1.5	1.2
+Trøndelag - Trööndelage	5042 Lierne	0.9	0.6	1.2	*	0.7	1.2	1.3	0.9	1.3
+Trøndelag - Trööndelage	5043 Raarvihke - Røyrvik	3.7	2.3	3.2	3.7	4.6	2.3	2.3	3.2	2.3
+Trøndelag - Trööndelage	5044 Namsskogan	4.6	4.1	3.4	3.9	3.9	3.1	2.8	3.6	4.6
+Trøndelag - Trööndelage	5045 Grong	1.9	1.8	2	1.6	1.1	1	1.5	1.6	1.8
+Trøndelag - Trööndelage	5046 Høylandet	1.7	1.5	1.5	1.4	1.1	1.1	1.8	2.3	2.1
+Trøndelag - Trööndelage	5047 Overhalla	1.4	1.8	1.6	1.5	1.2	1.4	1.1	1.2	1.1
+Trøndelag - Trööndelage	5049 Flatanger	1.7	2.1	1.6	2.1	1.4	1.4	1.2	1.4	1.6
+Trøndelag - Trööndelage	5052 Leka	2.5	2.2	1.4	1.8	2.5	2.2	2.2	2.2	2.5
+Trøndelag - Trööndelage	5053 Inderøy	2.5	2.3	2.4	2.3	2	2	2.5	2.3	2.1
+Trøndelag - Trööndelage	5054 Indre Fosen	2.4	2.1	2.2	2.1	1.9	1.7	2	2	1.9
+Trøndelag - Trööndelage	5055 Heim	2.6	2.9	3.1	2.3	2	2.2	2.1	2.3	2.2
+Trøndelag - Trööndelage	5056 Hitra	3	2.5	2.2	1.9	1.8	1.7	1.6	1.8	1.6
+Trøndelag - Trööndelage	5057 Ørland	2.4	2	1.7	2	1.8	1.7	1.7	2	2
+Trøndelag - Trööndelage	5058 Åfjord	2.6	1.7	1.4	1.4	1.2	1.4	2.1	1.2	1.2
+Trøndelag - Trööndelage	5059 Orkland	2.5	2.3	2.1	1.9	1.8	1.7	1.8	1.7	1.6
+Trøndelag - Trööndelage	5060 Nærøysund	2.8	2.6	2.5	2	1.7	1.6	2	2	2
+Trøndelag - Trööndelage	5061 Rindal	0.9	1	1.6	2	1.1	0.8	0.9	0.9	0.9
+Troms - Romsa - Tromssa	I alt Troms - Romsa - Tromssa	1.3	1.3	1.3	1.3	1.3	1.2	1.3	1.3	1.2
+Troms - Romsa - Tromssa	5501 Tromsø	1.2	1.2	1.3	1.4	1.4	1.2	1.3	1.4	1.1
+Troms - Romsa - Tromssa	5503 Harstad - Hárstták	1.3	1.2	1.1	1	0.9	0.9	0.9	0.8	1
+Troms - Romsa - Tromssa	5510 Kvæfjord	1.2	1.4	0.9	0.8	1.1	1.4	1.5	1.5	1.7
+Troms - Romsa - Tromssa	5512 Dielddanuorri - Tjeldsund	0.9	1	0.9	0.9	0.7	0.8	1.2	1.2	0.9
+Troms - Romsa - Tromssa	5514 Ibestad	1.2	1.7	2.4	6	5.5	5	2.4	1.7	2.6
+Troms - Romsa - Tromssa	5516 Gratangen - Rivtták	2	3.7	2	1.2	2.4	2	1.4	1.6	1.2
+Troms - Romsa - Tromssa	5518 Loabák - Lavangen	2.7	3.4	2.9	3.8	3.6	2.7	2.5	2	2.5
+Troms - Romsa - Tromssa	5520 Bardu	0.6	0.6	0.7	0.5	0.4	0.7	0.7	0.7	0.5
+Troms - Romsa - Tromssa	5522 Salangen	1.1	2.2	1.4	0.5	0.6	0.8	0.9	1	1.2
+Troms - Romsa - Tromssa	5524 Målselv	1.3	1.2	1	0.8	0.8	1.4	1.4	1.1	0.7
+Troms - Romsa - Tromssa	5526 Sørreisa	1.3	1.4	1.1	1.2	1.1	0.9	1.1	1.1	1
+Troms - Romsa - Tromssa	5528 Dyrøy	3.4	2.8	2.8	2.8	2.8	2.1	1.7	1.9	1.3
+Troms - Romsa - Tromssa	5530 Senja	1.4	1.2	1.5	1.2	1.2	1	1.3	1.5	1.3
+Troms - Romsa - Tromssa	5532 Balsfjord	1.8	1.7	1.5	1.7	1.3	1.5	1.5	1.6	1.4
+Troms - Romsa - Tromssa	5534 Karlsøy	1.2	1	0.9	1.4	1	1.4	1.7	1.7	1.2
+Troms - Romsa - Tromssa	5536 Lyngen - Ivgu - Yykeä	1.4	1	1.4	1.2	1	0.8	0.8	1	1.1
+Troms - Romsa - Tromssa	5538 Storfjord - Omasvuotna - Omasvuono	1.5	1.9	2.1	1.6	1.2	1.7	1.5	1.5	1.9
+Troms - Romsa - Tromssa	5540 Gáivuotna - Kåfjord - Kaivuono	2.8	1.5	1.9	2.1	1.3	1.8	2.2	2.3	1.7
+Troms - Romsa - Tromssa	5542 Skjervøy	2.7	4.2	2.7	3.5	3.7	2.3	2.7	2.7	2
+Troms - Romsa - Tromssa	5544 Nordreisa - Ráisa - Raisi	1.3	1.7	1.3	1.6	1.1	1.5	1.6	2.1	2.1
+Troms - Romsa - Tromssa	5546 Kvænangen	2.9	3.2	3	2.7	2.7	2.3	3	2.7	2.1
+Finnmark - Finnmárku - Finmarkku	I alt Finnmark - Finnmárku - Finmarkku	2.1	2.1	2.2	2.2	2.2	2.2	2.2	2.2	2.1
+Finnmark - Finnmárku - Finmarkku	5601 Alta	1.9	1.9	2	2	1.8	1.8	1.8	1.9	1.6
+Finnmark - Finnmárku - Finmarkku	5603 Hammerfest - Hámmerfeasta	1.4	1.6	1.6	1.5	1.3	1.5	1.8	1.6	1.6
+Finnmark - Finnmárku - Finmarkku	5605 Sør-Varanger	1.7	1.7	1.6	2	1.8	1.7	1.4	1.3	1.3
+Finnmark - Finnmárku - Finmarkku	5607 Vadsø	2.4	2.3	2.1	2.1	2.1	2	1.9	1.9	2
+Finnmark - Finnmárku - Finmarkku	5610 Kárášjohka - Karasjok	2.6	2	2.3	2.4	1.9	2.1	2.7	1.8	1.3
+Finnmark - Finnmárku - Finmarkku	5612 Guovdageaidnu - Kautokeino	3.3	3.3	4.1	3.7	3.3	2.8	3.2	3.3	2.5
+Finnmark - Finnmárku - Finmarkku	5614 Loppa	1.2	1	*	2.4	2.7	2.9	3.6	4.8	4.3
+Finnmark - Finnmárku - Finmarkku	5616 Hasvik	1.6	1	1.4	3.4	6.7	7.1	7.7	8.1	5.7
+Finnmark - Finnmárku - Finmarkku	5618 Måsøy	5.1	4.7	2.7	3.6	3.8	6.7	5.1	4.2	5.3
+Finnmark - Finnmárku - Finmarkku	5620 Nordkapp	2.3	2.7	2.9	2.9	3.3	3.6	3.6	3	3.3
+Finnmark - Finnmárku - Finmarkku	5622 Porsanger - Porsángu - Porsanki	1.2	1.3	1.3	1.3	1.1	0.9	1.2	1.4	1.1
+Finnmark - Finnmárku - Finmarkku	5624 Lebesby	1.9	2.2	2.9	3.2	3	1.6	1.9	2.2	1.6
+Finnmark - Finnmárku - Finmarkku	5626 Gamvik	4.5	3.5	6.3	4.7	5.1	3.7	6.7	6.3	6.1
+Finnmark - Finnmárku - Finmarkku	5628 Deatnu - Tana	2.1	2.3	2.3	2.3	2.3	2.2	2.3	1.9	1.9
+Finnmark - Finnmárku - Finmarkku	5630 Berlevåg	6.5	2.7	2.9	2.4	2.2	2.7	2.2	3.4	4.4
+Finnmark - Finnmárku - Finmarkku	5632 Båtsfjord	3.5	2.4	2.8	3.9	3.9	4.3	4.3	4	4.5
+Finnmark - Finnmárku - Finmarkku	5634 Vardø	5	5.4	5.3	5.3	5.2	4.7	4.3	4.7	4.8
+Finnmark - Finnmárku - Finmarkku	5636 Unjárga - Nesseby	1.7	1.7	1.2	1.2	*	1.2	1.9	2.7	2.2
+I alt Svalbard og øvrige områder	2100 Svalbard	*	*	*	*	*	*	*	*	*
+Ukjent	I alt Ukjent	*	*	*	*	*	*	*	*	*
+Ukjent	Ukjent	*	*	*	*	*	*	*	*	*

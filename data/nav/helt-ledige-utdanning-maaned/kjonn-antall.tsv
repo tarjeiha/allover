@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter utdanning, tidsserie måned (HL070)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Kjønn. Antall
+# Helt ledige. Utdanning. Tidsserie måned
+# Utdanningsnivå¹ og kjønn. Antall
+# Januar - september 2026
+# Kvinner
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt	27056	25963	25250	24665	23560	24236	27734	26860	24410
+	Grunnskole	5977	5759	5668	5675	5444	5452	5745	5850	5517
+	Videregående, grunnutdanning	308	287	308	278	266	277	318	304	263
+	Videregående, avsluttende utdanning	5238	4916	4783	4774	4490	4585	5601	5368	4725
+	Påbygging til videregående utdanning	605	598	588	593	550	575	689	656	587
+	Universitets- og høgskoleutdanning, lavere nivå	6420	6030	5753	5858	5608	5964	7313	7001	6204
+	Universitets- og høgskoleutdanning, høyere nivå	3611	3458	3379	3659	3498	3574	4802	4403	3832
+	Forskerutdanning	346	345	307	332	327	331	462	426	372
+	Uoppgitt eller ingen fullført utdanning	4551	4570	4464	3496	3377	3478	2804	2852	2910
+Menn	I alt	41876	40787	40121	37778	34715	33868	36286	35972	35003
+Menn	Grunnskole	12816	12625	12526	11760	10639	10200	10212	10577	10569
+Menn	Videregående, grunnutdanning	675	652	641	612	549	511	586	575	545
+Menn	Videregående, avsluttende utdanning	11829	11342	11111	10297	9157	8893	10419	10077	9679
+Menn	Påbygging til videregående utdanning	996	938	944	945	877	839	1040	972	937
+Menn	Universitets- og høgskoleutdanning, lavere nivå	6518	6235	6003	5981	5677	5777	6581	6434	6167
+Menn	Universitets- og høgskoleutdanning, høyere nivå	3045	2972	2922	3039	2905	2909	3553	3385	3145
+Menn	Forskerutdanning	380	363	340	355	349	337	433	431	381
+Menn	Uoppgitt eller ingen fullført utdanning	5617	5660	5634	4789	4562	4402	3462	3521	3580

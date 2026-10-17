@@ -1,0 +1,32 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på oppfølging, demografi, tidsserie måned (TILT140)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og innvandrer status
+# TILT140 Tiltaksdeltakere på oppfølging. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og innvandrer status									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt arbeid med støtte	6670	6804	6767	6621	6593	6588	6709	6883	6595	6470
+Januar 2026 - September 2026	Ikke innvandrer	5041	5144	5116	5026	5003	4994	5040	5175	4972	4898
+Januar 2026 - September 2026	Innvandrer	1629	1660	1651	1595	1590	1594	1669	1708	1623	1572
+	I alt digital oppfølging/jobbklubb	1118	1095	1134	1189	1268	978	1078	997	1155	1164
+	Ikke innvandrer	572	598	621	613	614	480	525	481	576	636
+	Innvandrer	546	497	513	576	654	498	553	516	579	528
+	I alt individuell jobbstøtte	3701	3619	3674	3737	3727	3717	3763	3761	3675	3639
+	Ikke innvandrer	3067	2988	3051	3109	3109	3079	3106	3105	3045	3012
+	Innvandrer	634	631	623	628	618	638	657	656	630	627
+	I alt individuell karrierestøtte (ips ung)	597	627	616	601	598	596	604	591	577	559
+	Ikke innvandrer	520	545	531	524	526	526	525	513	498	488
+	Innvandrer	77	82	85	77	72	70	79	78	79	71
+	I alt jobbklubb	937	839	1024	1116	1139	918	744	568	893	1191
+	Ikke innvandrer	445	433	491	530	541	460	375	279	389	510
+	Innvandrer	492	406	533	586	598	458	369	289	504	681
+	I alt mentor	228	202	208	231	232	239	260	215	235	232
+	Ikke innvandrer	155	140	144	163	159	170	158	148	158	156
+	Innvandrer	73	62	64	68	73	69	102	67	77	76
+	I alt oppfølging	8716	8455	8466	8428	8674	8758	8860	8664	8936	9204
+	Ikke innvandrer	5688	5591	5598	5550	5661	5660	5745	5610	5807	5968
+	Innvandrer	3028	2864	2868	2878	3013	3098	3115	3054	3129	3236
+	I alt utvidet oppfølging i opplæring	47	32	37	39	43	42	54	56	55	62
+	Ikke innvandrer	41	29	34	35	38	37	47	49	48	55
+	Innvandrer	5	*	*	4	5	5	7	7	7	7

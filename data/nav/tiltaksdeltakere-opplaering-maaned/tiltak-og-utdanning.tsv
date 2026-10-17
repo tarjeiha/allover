@@ -1,0 +1,55 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og utdanning
+# TILT130 Tiltaksdeltakere på opplæring. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og utdanning									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt amo enkeltplass	2721	2709	2960	3105	3275	3317	2024	1444	2499	3155
+Januar 2026 - September 2026	Grunnskolenivå	1062	1053	1159	1199	1293	1312	851	581	958	1156
+Januar 2026 - September 2026	Videregående skolenivå	627	576	643	666	760	730	540	387	604	734
+Januar 2026 - September 2026	Universitets- og høgskolenivå, kort inntil 4 år	343	303	342	362	421	423	249	208	340	442
+Januar 2026 - September 2026	Universitets- og høgskolenivå, lang over 4 år	231	204	221	219	304	311	154	136	230	300
+Januar 2026 - September 2026	Uoppgitt eller ingen fullført utdanning	457	573	595	659	497	541	230	132	367	523
+	I alt amo enkeltplass, forsøk	*	*	*	*	*	*	*	*	*	*
+	Grunnskolenivå	*	*	*	*	*	*	*	*	*	*
+	Universitets- og høgskolenivå, kort inntil 4 år	*	*	*	*	*	*	*	*	*	*
+	I alt amo kurs	4176	3919	4154	4351	4476	4357	3523	3011	4394	5396
+	Grunnskolenivå	1169	1044	1126	1124	1281	1248	1003	849	1254	1592
+	Videregående skolenivå	742	663	710	733	818	797	600	560	809	991
+	Universitets- og høgskolenivå, kort inntil 4 år	645	529	577	597	735	709	558	537	727	834
+	Universitets- og høgskolenivå, lang over 4 år	645	535	524	558	711	687	587	565	743	891
+	Uoppgitt eller ingen fullført utdanning	975	1148	1217	1339	931	916	775	500	861	1088
+	I alt høyere utdanning	4745	5058	5086	5098	5069	5019	4191	3344	4692	5150
+	Grunnskolenivå	768	866	864	866	741	740	637	513	790	899
+	Videregående skolenivå	2516	2694	2698	2691	2663	2628	2236	1833	2499	2701
+	Universitets- og høgskolenivå, kort inntil 4 år	1269	1294	1318	1331	1462	1453	1152	874	1204	1329
+	Universitets- og høgskolenivå, lang over 4 år	177	188	188	192	188	182	152	113	183	203
+	Uoppgitt eller ingen fullført utdanning	16	16	18	18	15	16	14	11	16	18
+	I alt høyere utdanning, forsøk	14	19	19	19	19	17	13	8	9	6
+	Videregående skolenivå	10	13	13	13	12	12	9	5	6	4
+	Universitets- og høgskolenivå, kort inntil 4 år	4	5	5	5	6	4	*	*	*	*
+	Universitets- og høgskolenivå, lang over 4 år	*	*	*	*	*	*	*	*	*	*
+	I alt opplæringstiltak av lengre varighet, forsøk	55	50	50	67	68	68	52	52	55	37
+	Grunnskolenivå	32	26	27	37	40	40	30	29	33	22
+	Videregående skolenivå	11	11	11	14	14	14	9	10	10	6
+	Universitets- og høgskolenivå, kort inntil 4 år	7	5	5	8	9	9	8	8	8	6
+	Universitets- og høgskolenivå, lang over 4 år	*	*	*	*	*	*	*	*	*	*
+	Uoppgitt eller ingen fullført utdanning	4	7	6	7	*	*	*	*	*	*
+	I alt vgs/yrkesfaglig utdanning	657	757	773	747	747	759	403	286	643	800
+	Grunnskolenivå	324	376	378	368	369	367	223	159	301	374
+	Videregående skolenivå	175	192	200	191	196	208	90	60	204	236
+	Universitets- og høgskolenivå, kort inntil 4 år	89	105	109	107	112	113	52	40	73	87
+	Universitets- og høgskolenivå, lang over 4 år	28	26	27	25	33	33	18	13	32	43
+	Uoppgitt eller ingen fullført utdanning	42	58	59	56	37	38	20	14	33	60
+	I alt vgs/yrkesfaglig utdanning enkeltplass	3858	4296	4363	4410	4405	4358	3116	2408	3316	4051
+	Grunnskolenivå	2153	2396	2428	2475	2471	2451	1752	1361	1815	2224
+	Videregående skolenivå	1198	1339	1354	1347	1380	1354	969	749	1059	1232
+	Universitets- og høgskolenivå, kort inntil 4 år	317	337	339	344	349	348	264	201	292	377
+	Universitets- og høgskolenivå, lang over 4 år	86	90	96	94	98	99	61	53	78	104
+	Uoppgitt eller ingen fullført utdanning	105	134	146	150	107	106	70	44	72	114
+	I alt vgs/yrkesfaglig utdanning enkeltplass, forsøk	16	27	23	21	20	18	12	8	7	6
+	Grunnskolenivå	5	7	5	5	5	5	5	5	5	5
+	Videregående skolenivå	8	15	13	12	12	11	5	*	*	*
+	Universitets- og høgskolenivå, kort inntil 4 år	*	5	5	4	*	*	*	*	*	*

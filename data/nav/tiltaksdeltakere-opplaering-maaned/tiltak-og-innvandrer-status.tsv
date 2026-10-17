@@ -1,0 +1,34 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og innvandrer status
+# TILT130 Tiltaksdeltakere på opplæring. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og innvandrer status									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt amo enkeltplass	2721	2709	2960	3105	3275	3317	2024	1444	2499	3155
+Januar 2026 - September 2026	Ikke innvandrer	1142	1122	1234	1262	1310	1288	1029	735	1051	1249
+Januar 2026 - September 2026	Innvandrer	1579	1587	1726	1843	1965	2029	995	709	1448	1906
+	I alt amo enkeltplass, forsøk	*	*	*	*	*	*	*	*	*	*
+	Ikke innvandrer	*	*	*	*	*	*	*	*	*	*
+	Innvandrer	*	*	*	*	*	*	*	*	*	*
+	I alt amo kurs	4176	3919	4154	4351	4476	4357	3523	3011	4394	5396
+	Ikke innvandrer	727	614	723	785	778	772	667	572	697	936
+	Innvandrer	3449	3305	3431	3566	3698	3585	2856	2439	3697	4460
+	I alt høyere utdanning	4745	5058	5086	5098	5069	5019	4191	3344	4692	5150
+	Ikke innvandrer	4122	4413	4438	4445	4409	4362	3636	2899	4055	4439
+	Innvandrer	623	645	648	653	660	657	555	445	637	711
+	I alt høyere utdanning, forsøk	14	19	19	19	19	17	13	8	9	6
+	Ikke innvandrer	14	18	18	18	18	16	13	8	9	6
+	Innvandrer	*	*	*	*	*	*	*	*	*	*
+	I alt opplæringstiltak av lengre varighet, forsøk	55	50	50	67	68	68	52	52	55	37
+	Innvandrer	55	50	50	67	68	68	52	52	55	37
+	I alt vgs/yrkesfaglig utdanning	657	757	773	747	747	759	403	286	643	800
+	Ikke innvandrer	321	376	382	379	371	384	172	105	337	380
+	Innvandrer	337	381	391	368	376	375	231	181	306	420
+	I alt vgs/yrkesfaglig utdanning enkeltplass	3858	4296	4363	4410	4405	4358	3116	2408	3316	4051
+	Ikke innvandrer	2648	2957	2993	3016	2990	2954	2176	1721	2317	2707
+	Innvandrer	1210	1339	1370	1394	1415	1404	940	687	999	1344
+	I alt vgs/yrkesfaglig utdanning enkeltplass, forsøk	16	27	23	21	20	18	12	8	7	6
+	Ikke innvandrer	14	24	21	19	18	17	11	7	6	6
+	Innvandrer	*	*	*	*	*	*	*	*	*	*

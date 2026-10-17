@@ -1,0 +1,358 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på avklaring, demografi, tidsserie måned (TILT150)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og kommune
+# TILT150 Tiltaksdeltakere på avklaring. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og kommune									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt avklaring	3857	3567	3696	3792	4044	4071	3837	3177	4135	4397
+Januar 2026 - September 2026	0301 Oslo - Oslove	502	425	464	457	519	596	442	443	583	587
+Januar 2026 - September 2026	1101 Eigersund	8	9	8	4	8	11	10	5	9	12
+Januar 2026 - September 2026	1103 Stavanger	66	69	69	67	62	59	66	64	66	69
+Januar 2026 - September 2026	1106 Haugesund	25	13	13	26	29	29	26	29	30	28
+Januar 2026 - September 2026	1108 Sandnes	68	60	55	60	69	85	87	63	65	68
+Januar 2026 - September 2026	1111 Sokndal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1112 Lund	*	*	*	*	*	*	*	*	*	4
+Januar 2026 - September 2026	1114 Bjerkreim	*	4	5	*	*	4	*	*	*	*
+Januar 2026 - September 2026	1119 Hå	11	15	16	11	11	10	9	*	10	16
+Januar 2026 - September 2026	1120 Klepp	13	20	9	14	17	17	16	8	8	10
+Januar 2026 - September 2026	1121 Time	11	13	14	14	8	9	7	6	11	13
+Januar 2026 - September 2026	1122 Gjesdal	11	9	14	10	11	7	13	16	13	9
+Januar 2026 - September 2026	1124 Sola	16	9	11	13	17	21	20	17	20	16
+Januar 2026 - September 2026	1127 Randaberg	6	5	5	5	8	4	5	7	7	11
+Januar 2026 - September 2026	1130 Strand	*	*	4	4	*	*	*	*	6	5
+Januar 2026 - September 2026	1134 Suldal	*	*	4	5	*	*	*	*	*	*
+Januar 2026 - September 2026	1135 Sauda	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1144 Kvitsøy	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1145 Bokn	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1146 Tysvær	6	5	*	*	8	10	8	7	8	7
+Januar 2026 - September 2026	1149 Karmøy	31	30	32	34	31	33	26	21	38	36
+Januar 2026 - September 2026	1160 Vindafjord	6	5	*	7	7	6	6	8	9	7
+Januar 2026 - September 2026	1505 Kristiansund	10	13	10	11	11	10	8	*	14	11
+Januar 2026 - September 2026	1506 Molde	9	5	7	8	11	9	12	*	9	22
+Januar 2026 - September 2026	1508 Ålesund	14	14	15	15	14	17	12	*	21	21
+Januar 2026 - September 2026	1511 Vanylven	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1514 Sande	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1515 Herøy (Møre og Romsdal)	*	*	*	*	*	6	6	*	*	4
+Januar 2026 - September 2026	1516 Ulstein	*	*	*	*	*	5	5	*	*	5
+Januar 2026 - September 2026	1517 Hareid	*	*	*	*	*	*	*	*	4	*
+Januar 2026 - September 2026	1520 Ørsta	4	7	*	5	*	*	7	*	6	5
+Januar 2026 - September 2026	1525 Stranda	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1528 Sykkylven	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1531 Sula	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1532 Giske	*	*	*	*	4	*	*	*	5	5
+Januar 2026 - September 2026	1535 Vestnes	*	*	4	5	*	*	4	*	*	4
+Januar 2026 - September 2026	1539 Rauma	4	9	10	8	*	*	*	*	*	*
+Januar 2026 - September 2026	1547 Aukra	*	*	*	5	*	*	*	*	*	*
+Januar 2026 - September 2026	1554 Averøy	4	*	*	6	6	6	*	*	5	6
+Januar 2026 - September 2026	1557 Gjemnes	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1560 Tingvoll	*	*	4	*	*	7	4	*	*	*
+Januar 2026 - September 2026	1563 Sunndal	*	*	*	*	6	*	*	*	7	7
+Januar 2026 - September 2026	1566 Surnadal	*	4	*	*	*	6	*	*	*	4
+Januar 2026 - September 2026	1573 Smøla	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1577 Volda	*	5	*	5	5	*	*	*	*	*
+Januar 2026 - September 2026	1578 Fjord	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1579 Hustadvika	9	7	9	5	9	12	11	*	13	10
+Januar 2026 - September 2026	1580 Haram	*	5	*	*	*	*	*	*	5	7
+Januar 2026 - September 2026	1804 Bodø	14	14	13	9	11	10	13	16	19	21
+Januar 2026 - September 2026	1806 Narvik	9	13	12	10	10	9	6	*	*	12
+Januar 2026 - September 2026	1811 Bindal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1812 Sømna	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1813 Brønnøy	6	7	5	5	7	7	5	5	6	8
+Januar 2026 - September 2026	1815 Vega	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1816 Vevelstad	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1818 Herøy (Nordland)	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1820 Alstahaug	*	4	*	6	*	*	*	*	*	*
+Januar 2026 - September 2026	1822 Leirfjord	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1824 Vefsn	7	6	10	9	8	9	6	*	7	7
+Januar 2026 - September 2026	1825 Grane	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1827 Dønna	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1828 Nesna	*	*	*	*	*	*	*	*	4	*
+Januar 2026 - September 2026	1832 Hemnes	*	*	*	*	*	*	4	6	5	4
+Januar 2026 - September 2026	1833 Rana - Raane	27	26	25	29	27	24	30	26	24	35
+Januar 2026 - September 2026	1834 Lurøy	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1835 Træna	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1836 Rødøy	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1837 Meløy	*	4	4	4	*	*	*	*	*	*
+Januar 2026 - September 2026	1838 Gildeskål	*	4	5	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1839 Beiarn	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1840 Saltdal	4	*	4	5	5	4	4	*	5	6
+Januar 2026 - September 2026	1841 Fauske - Fuossko	10	11	7	8	8	11	12	11	9	10
+Januar 2026 - September 2026	1845 Sørfold - Fuolldá	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1848 Steigen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1851 Lødingen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1853 Evenes - Evenášši	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1856 Røst	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1859 Flakstad	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1860 Vestvågøy	6	6	7	8	8	6	9	5	4	5
+Januar 2026 - September 2026	1865 Vågan	*	4	6	*	*	6	*	*	*	*
+Januar 2026 - September 2026	1866 Hadsel	5	*	4	6	9	5	*	4	5	5
+Januar 2026 - September 2026	1867 Bø	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1868 Øksnes	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1870 Sortland - Suortá	7	6	7	6	9	10	7	5	5	8
+Januar 2026 - September 2026	1871 Andøy	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1874 Moskenes	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	1875 Hábmer - Hamarøy	*	*	*	5	4	4	4	*	*	5
+Januar 2026 - September 2026	3101 Halden	52	45	39	44	45	45	64	58	70	61
+Januar 2026 - September 2026	3103 Moss	45	32	46	43	42	46	50	47	54	47
+Januar 2026 - September 2026	3105 Sarpsborg	109	79	77	117	127	114	125	111	120	115
+Januar 2026 - September 2026	3107 Fredrikstad	139	149	140	133	139	127	138	128	131	167
+Januar 2026 - September 2026	3110 Hvaler	6	*	*	6	5	5	6	6	11	9
+Januar 2026 - September 2026	3112 Råde	9	19	8	6	9	9	6	6	8	10
+Januar 2026 - September 2026	3114 Våler (Østfold)	9	4	8	9	6	7	11	11	11	11
+Januar 2026 - September 2026	3116 Skiptvet	5	*	9	9	7	5	*	4	*	*
+Januar 2026 - September 2026	3118 Indre Østfold	66	53	65	58	72	66	72	70	69	73
+Januar 2026 - September 2026	3120 Rakkestad	9	11	9	6	12	13	9	7	10	8
+Januar 2026 - September 2026	3122 Marker	5	*	6	8	*	*	4	4	5	6
+Januar 2026 - September 2026	3124 Aremark	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3201 Bærum	70	66	65	74	75	65	63	54	81	84
+Januar 2026 - September 2026	3203 Asker	67	59	62	60	71	69	68	65	72	73
+Januar 2026 - September 2026	3205 Lillestrøm	71	55	74	83	80	65	68	55	84	78
+Januar 2026 - September 2026	3207 Nordre Follo	38	23	19	35	40	43	45	43	46	45
+Januar 2026 - September 2026	3209 Ullensaker	39	29	34	27	46	47	31	31	53	53
+Januar 2026 - September 2026	3212 Nesodden	9	11	12	11	13	10	10	6	6	*
+Januar 2026 - September 2026	3214 Frogn	8	15	6	7	8	8	7	5	7	12
+Januar 2026 - September 2026	3216 Vestby	16	18	20	13	11	19	21	15	14	14
+Januar 2026 - September 2026	3218 Ås	7	8	6	8	12	6	6	5	8	5
+Januar 2026 - September 2026	3220 Enebakk	11	6	7	8	13	7	15	12	13	18
+Januar 2026 - September 2026	3222 Lørenskog	41	31	27	32	49	44	41	34	54	53
+Januar 2026 - September 2026	3224 Rælingen	10	6	12	13	13	6	12	9	11	8
+Januar 2026 - September 2026	3226 Aurskog-Høland	14	14	14	13	11	13	8	7	21	23
+Januar 2026 - September 2026	3228 Nes	18	7	16	17	16	11	18	13	27	34
+Januar 2026 - September 2026	3230 Gjerdrum	6	8	8	6	8	4	5	4	7	6
+Januar 2026 - September 2026	3232 Nittedal	12	11	11	15	9	8	13	9	13	21
+Januar 2026 - September 2026	3234 Lunner	6	9	8	9	10	7	*	*	*	8
+Januar 2026 - September 2026	3236 Jevnaker	6	5	7	*	7	6	7	10	7	5
+Januar 2026 - September 2026	3238 Nannestad	12	16	15	10	13	13	13	8	14	9
+Januar 2026 - September 2026	3240 Eidsvoll	21	18	16	20	25	30	21	13	19	29
+Januar 2026 - September 2026	3242 Hurdal	*	*	*	*	*	*	*	*	*	4
+Januar 2026 - September 2026	3301 Drammen	121	109	124	104	116	128	122	117	135	137
+Januar 2026 - September 2026	3303 Kongsberg	26	22	26	19	22	30	30	33	27	29
+Januar 2026 - September 2026	3305 Ringerike	28	19	24	36	34	30	27	25	27	28
+Januar 2026 - September 2026	3310 Hole	6	5	4	7	6	6	7	8	8	4
+Januar 2026 - September 2026	3312 Lier	21	21	18	27	22	22	16	19	19	24
+Januar 2026 - September 2026	3314 Øvre Eiker	14	15	12	10	15	14	12	12	21	18
+Januar 2026 - September 2026	3316 Modum	11	8	9	11	9	13	11	13	11	15
+Januar 2026 - September 2026	3318 Krødsherad	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3320 Flå	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3322 Nesbyen	*	*	*	*	*	*	*	5	5	6
+Januar 2026 - September 2026	3324 Gol	4	*	*	*	5	5	4	7	5	*
+Januar 2026 - September 2026	3326 Hemsedal	*	*	*	*	4	5	4	*	*	*
+Januar 2026 - September 2026	3328 Ål	4	4	7	7	*	4	*	*	*	*
+Januar 2026 - September 2026	3330 Hol	*	*	5	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3332 Sigdal	*	*	*	*	*	*	*	4	4	*
+Januar 2026 - September 2026	3334 Flesberg	*	*	*	*	*	*	4	6	*	*
+Januar 2026 - September 2026	3336 Rollag	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3338 Nore og Uvdal	*	*	*	*	*	4	*	*	*	*
+Januar 2026 - September 2026	3401 Kongsvinger	19	22	25	25	22	23	11	*	17	21
+Januar 2026 - September 2026	3403 Hamar	30	29	34	32	31	32	31	17	27	33
+Januar 2026 - September 2026	3405 Lillehammer	12	11	15	10	14	10	8	7	13	19
+Januar 2026 - September 2026	3407 Gjøvik	32	41	41	38	37	34	28	21	22	22
+Januar 2026 - September 2026	3411 Ringsaker	44	35	39	38	44	49	52	36	42	57
+Januar 2026 - September 2026	3412 Løten	6	5	7	12	8	*	*	6	6	5
+Januar 2026 - September 2026	3413 Stange	20	26	19	13	22	22	18	15	23	23
+Januar 2026 - September 2026	3414 Nord-Odal	*	*	*	*	5	5	*	*	6	*
+Januar 2026 - September 2026	3415 Sør-Odal	*	*	*	6	5	6	*	*	*	*
+Januar 2026 - September 2026	3416 Eidskog	4	5	7	5	5	7	*	*	*	5
+Januar 2026 - September 2026	3417 Grue	*	5	5	*	*	*	*	*	*	5
+Januar 2026 - September 2026	3418 Åsnes	5	8	7	4	*	4	7	*	6	5
+Januar 2026 - September 2026	3419 Våler (Innlandet)	*	4	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3420 Elverum	26	32	32	26	29	27	23	6	27	32
+Januar 2026 - September 2026	3421 Trysil	9	6	7	14	13	8	7	*	12	10
+Januar 2026 - September 2026	3422 Åmot	5	7	7	6	5	5	5	4	5	4
+Januar 2026 - September 2026	3423 Stor-Elvdal	*	5	4	*	*	*	4	*	*	*
+Januar 2026 - September 2026	3424 Rendalen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3425 Engerdal	*	*	4	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3426 Tolga	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3427 Tynset	5	8	7	7	6	6	4	*	*	*
+Januar 2026 - September 2026	3428 Alvdal	*	*	*	4	*	*	*	*	*	*
+Januar 2026 - September 2026	3429 Folldal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3430 Os	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3431 Dovre	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3432 Lesja	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3433 Skjåk	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3434 Lom	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3435 Vågå	*	4	4	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3436 Nord-Fron	*	*	*	4	*	*	*	*	*	*
+Januar 2026 - September 2026	3437 Sel	*	4	*	*	4	*	*	*	5	4
+Januar 2026 - September 2026	3438 Sør-Fron	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3439 Ringebu	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3440 Øyer	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3441 Gausdal	*	4	*	4	*	*	5	*	*	*
+Januar 2026 - September 2026	3442 Østre Toten	11	10	7	11	16	16	8	8	9	10
+Januar 2026 - September 2026	3443 Vestre Toten	8	5	8	10	12	14	12	6	4	4
+Januar 2026 - September 2026	3446 Gran	12	16	15	15	10	11	8	7	12	12
+Januar 2026 - September 2026	3447 Søndre Land	*	*	*	*	4	4	*	*	*	*
+Januar 2026 - September 2026	3448 Nordre Land	4	5	*	*	*	*	5	5	4	7
+Januar 2026 - September 2026	3449 Sør-Aurdal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3450 Etnedal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3451 Nord-Aurdal	7	5	8	10	9	6	8	*	5	6
+Januar 2026 - September 2026	3452 Vestre Slidre	*	*	*	*	*	*	*	*	4	4
+Januar 2026 - September 2026	3453 Øystre Slidre	*	5	4	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3454 Vang	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	3901 Horten	7	5	7	7	4	7	8	7	6	9
+Januar 2026 - September 2026	3903 Holmestrand	6	4	6	6	*	4	8	7	7	10
+Januar 2026 - September 2026	3905 Tønsberg	19	20	17	17	13	20	17	18	16	31
+Januar 2026 - September 2026	3907 Sandefjord	46	37	37	41	40	42	47	49	59	63
+Januar 2026 - September 2026	3909 Larvik	31	24	26	29	33	32	34	35	35	35
+Januar 2026 - September 2026	3911 Færder	6	5	6	8	4	5	6	6	6	8
+Januar 2026 - September 2026	4001 Porsgrunn	17	22	21	20	19	17	15	*	18	21
+Januar 2026 - September 2026	4003 Skien	12	17	11	15	11	10	10	5	15	18
+Januar 2026 - September 2026	4005 Notodden	7	9	11	6	8	4	8	5	4	6
+Januar 2026 - September 2026	4010 Siljan	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4012 Bamble	5	5	6	6	6	4	7	*	4	4
+Januar 2026 - September 2026	4014 Kragerø	5	*	5	5	5	7	4	5	4	*
+Januar 2026 - September 2026	4016 Drangedal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4018 Nome	*	6	4	*	4	4	*	*	*	4
+Januar 2026 - September 2026	4020 Midt-Telemark	*	*	4	*	*	6	6	*	4	*
+Januar 2026 - September 2026	4022 Seljord	*	*	*	*	*	*	*	*	5	4
+Januar 2026 - September 2026	4024 Hjartdal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4026 Tinn	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4028 Kviteseid	*	*	*	5	*	*	*	*	*	*
+Januar 2026 - September 2026	4030 Nissedal	*	*	*	*	*	*	*	*	*	4
+Januar 2026 - September 2026	4032 Fyresdal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4034 Tokke	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4036 Vinje	*	*	5	*	4	*	*	*	*	5
+Januar 2026 - September 2026	4201 Risør	10	9	10	9	10	11	11	9	9	10
+Januar 2026 - September 2026	4202 Grimstad	33	31	31	30	31	34	35	33	37	33
+Januar 2026 - September 2026	4203 Arendal	26	25	26	24	25	24	28	25	28	26
+Januar 2026 - September 2026	4204 Kristiansand	119	95	105	110	111	120	132	118	135	143
+Januar 2026 - September 2026	4205 Lindesnes	14	16	14	14	14	14	13	13	16	14
+Januar 2026 - September 2026	4206 Farsund	4	*	5	5	*	4	6	6	6	*
+Januar 2026 - September 2026	4207 Flekkefjord	*	4	*	*	4	*	*	*	*	5
+Januar 2026 - September 2026	4211 Gjerstad	5	6	5	4	4	6	5	5	6	*
+Januar 2026 - September 2026	4212 Vegårshei	*	*	*	5	*	*	*	*	*	*
+Januar 2026 - September 2026	4213 Tvedestrand	6	5	5	8	4	*	4	6	10	9
+Januar 2026 - September 2026	4214 Froland	9	4	7	11	12	11	11	9	7	5
+Januar 2026 - September 2026	4215 Lillesand	10	7	7	9	10	12	13	11	10	8
+Januar 2026 - September 2026	4216 Birkenes	4	*	*	5	4	5	4	5	5	5
+Januar 2026 - September 2026	4217 Åmli	*	*	*	*	*	*	*	*	*	4
+Januar 2026 - September 2026	4218 Iveland	*	5	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4219 Evje og Hornnes	5	4	*	*	6	6	5	5	7	5
+Januar 2026 - September 2026	4220 Bygland	*	*	*	*	*	*	*	*	4	*
+Januar 2026 - September 2026	4221 Valle	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4222 Bykle	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4223 Vennesla	18	21	19	14	14	16	18	18	18	22
+Januar 2026 - September 2026	4224 Åseral	*	*	*	*	*	*	4	4	*	*
+Januar 2026 - September 2026	4225 Lyngdal	*	4	*	*	5	*	*	*	*	*
+Januar 2026 - September 2026	4226 Hægebostad	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4227 Kvinesdal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4228 Sirdal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4601 Bergen	155	146	153	173	169	154	173	89	156	180
+Januar 2026 - September 2026	4602 Kinn	12	15	11	8	8	12	17	9	10	15
+Januar 2026 - September 2026	4611 Etne	*	*	*	*	7	5	*	*	*	*
+Januar 2026 - September 2026	4612 Sveio	*	*	*	*	*	5	*	*	*	*
+Januar 2026 - September 2026	4613 Bømlo	6	6	7	5	6	9	5	6	6	5
+Januar 2026 - September 2026	4614 Stord	10	15	11	11	12	14	4	4	7	11
+Januar 2026 - September 2026	4615 Fitjar	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4616 Tysnes	*	*	*	*	4	*	*	*	*	5
+Januar 2026 - September 2026	4617 Kvinnherad	6	11	5	*	8	6	4	*	12	6
+Januar 2026 - September 2026	4618 Ullensvang	4	7	6	6	5	*	*	*	4	*
+Januar 2026 - September 2026	4619 Eidfjord	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4620 Ulvik	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4621 Voss	5	4	6	5	6	5	*	*	5	6
+Januar 2026 - September 2026	4622 Kvam	*	*	4	4	4	*	*	*	*	*
+Januar 2026 - September 2026	4623 Samnanger	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4624 Bjørnafjorden	23	32	29	28	25	28	13	4	20	25
+Januar 2026 - September 2026	4625 Austevoll	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4626 Øygarden	23	17	22	22	27	23	15	16	30	31
+Januar 2026 - September 2026	4627 Askøy	16	12	17	19	20	23	13	*	19	20
+Januar 2026 - September 2026	4628 Vaksdal	*	*	*	*	4	4	*	*	*	*
+Januar 2026 - September 2026	4629 Modalen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4630 Osterøy	8	5	*	*	7	11	9	6	18	17
+Januar 2026 - September 2026	4631 Alver	27	22	18	18	28	43	33	12	31	38
+Januar 2026 - September 2026	4632 Austrheim	*	*	*	*	4	4	*	*	*	*
+Januar 2026 - September 2026	4634 Masfjorden	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4635 Gulen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4636 Solund	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4637 Hyllestad	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4638 Høyanger	*	*	*	*	*	*	*	*	4	4
+Januar 2026 - September 2026	4639 Vik	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4640 Sogndal	6	4	*	*	7	10	7	5	9	9
+Januar 2026 - September 2026	4641 Aurland	*	4	*	5	*	*	*	*	*	*
+Januar 2026 - September 2026	4642 Lærdal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4643 Årdal	*	*	*	4	*	*	*	*	*	*
+Januar 2026 - September 2026	4644 Luster	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4645 Askvoll	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4646 Fjaler	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4647 Sunnfjord	11	12	15	13	12	7	8	4	11	16
+Januar 2026 - September 2026	4648 Bremanger	4	6	7	6	5	*	*	*	4	*
+Januar 2026 - September 2026	4649 Stad	*	4	*	5	5	4	*	*	*	4
+Januar 2026 - September 2026	4650 Gloppen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	4651 Stryn	*	*	*	*	*	4	4	*	*	*
+Januar 2026 - September 2026	5001 Trondheim - Tråante	116	93	113	111	131	122	126	111	112	121
+Januar 2026 - September 2026	5006 Steinkjer - Stïentje	12	11	16	12	9	15	14	14	11	4
+Januar 2026 - September 2026	5007 Namsos - Nåavmesjenjaelmie	9	9	10	12	12	11	8	9	9	5
+Januar 2026 - September 2026	5014 Frøya	6	6	6	7	7	8	6	4	4	6
+Januar 2026 - September 2026	5020 Osen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5021 Oppdal	4	4	4	*	4	5	5	6	5	4
+Januar 2026 - September 2026	5022 Rennebu	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5025 Røros - Rossen	*	5	4	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5026 Holtålen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5027 Midtre Gauldal	*	*	*	4	*	*	*	*	*	*
+Januar 2026 - September 2026	5028 Melhus	15	14	18	14	15	12	16	11	18	20
+Januar 2026 - September 2026	5029 Skaun	*	4	*	*	4	5	4	4	4	*
+Januar 2026 - September 2026	5031 Malvik	8	*	9	12	10	9	8	8	7	6
+Januar 2026 - September 2026	5032 Selbu	4	5	4	*	*	4	*	*	5	6
+Januar 2026 - September 2026	5033 Tydal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5034 Meråker	*	*	*	*	*	*	*	4	*	*
+Januar 2026 - September 2026	5035 Stjørdal	24	27	23	22	20	19	26	25	27	24
+Januar 2026 - September 2026	5036 Frosta	*	*	4	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5037 Levanger - Levangke	16	16	15	16	16	13	19	21	18	11
+Januar 2026 - September 2026	5038 Verdal	7	7	7	6	4	7	7	11	9	9
+Januar 2026 - September 2026	5041 Snåase - Snåsa	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5042 Lierne	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5043 Raarvihke - Røyrvik	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5044 Namsskogan	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5046 Høylandet	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5047 Overhalla	*	4	*	*	4	*	*	*	*	*
+Januar 2026 - September 2026	5049 Flatanger	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5052 Leka	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5053 Inderøy	5	6	8	5	*	6	7	6	4	*
+Januar 2026 - September 2026	5054 Indre Fosen	14	7	12	14	14	11	19	16	15	14
+Januar 2026 - September 2026	5055 Heim	5	6	5	5	4	*	5	*	6	6
+Januar 2026 - September 2026	5056 Hitra	4	4	4	*	*	*	4	4	6	4
+Januar 2026 - September 2026	5057 Ørland	19	17	23	22	19	18	17	17	13	21
+Januar 2026 - September 2026	5058 Åfjord	4	*	*	*	5	5	6	*	4	5
+Januar 2026 - September 2026	5059 Orkland	21	21	19	22	22	15	20	15	27	25
+Januar 2026 - September 2026	5060 Nærøysund	7	6	6	7	7	7	7	7	6	7
+Januar 2026 - September 2026	5061 Rindal	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5501 Tromsø	81	89	85	90	85	86	83	63	61	89
+Januar 2026 - September 2026	5503 Harstad - Hárstták	23	21	20	22	31	28	27	15	18	24
+Januar 2026 - September 2026	5510 Kvæfjord	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5512 Dielddanuorri - Tjeldsund	*	5	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5514 Ibestad	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5516 Gratangen - Rivtták	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5518 Loabák - Lavangen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5520 Bardu	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5522 Salangen	*	4	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5524 Målselv	*	*	*	5	*	*	4	*	*	4
+Januar 2026 - September 2026	5526 Sørreisa	4	4	4	4	7	8	4	*	*	*
+Januar 2026 - September 2026	5528 Dyrøy	*	*	*	*	*	*	*	5	4	*
+Januar 2026 - September 2026	5530 Senja	18	19	12	11	16	23	15	18	23	22
+Januar 2026 - September 2026	5532 Balsfjord	6	*	*	4	8	9	8	9	8	7
+Januar 2026 - September 2026	5534 Karlsøy	4	5	7	5	*	*	*	6	5	4
+Januar 2026 - September 2026	5536 Lyngen - Ivgu - Yykeä	4	4	7	7	6	5	*	*	*	4
+Januar 2026 - September 2026	5538 Storfjord - Omasvuotna - Omasvuono	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5540 Gáivuotna - Kåfjord - Kaivuono	*	*	*	*	*	*	*	*	4	*
+Januar 2026 - September 2026	5542 Skjervøy	*	*	*	*	*	*	*	*	*	7
+Januar 2026 - September 2026	5544 Nordreisa - Ráisa - Raisi	4	4	*	4	5	5	5	*	*	*
+Januar 2026 - September 2026	5546 Kvænangen	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5601 Alta	15	13	18	18	14	19	12	4	16	18
+Januar 2026 - September 2026	5603 Hammerfest - Hámmerfeasta	5	4	7	6	8	4	*	*	6	6
+Januar 2026 - September 2026	5605 Sør-Varanger	*	5	*	*	5	5	*	*	*	*
+Januar 2026 - September 2026	5607 Vadsø	*	*	*	*	4	4	5	*	*	4
+Januar 2026 - September 2026	5610 Kárášjohka - Karasjok	*	*	*	*	*	*	*	*	*	4
+Januar 2026 - September 2026	5612 Guovdageaidnu - Kautokeino	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5614 Loppa	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5616 Hasvik	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5618 Måsøy	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5620 Nordkapp	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5622 Porsanger - Porsángu - Porsanki	*	4	*	*	*	*	*	*	*	6
+Januar 2026 - September 2026	5624 Lebesby	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5626 Gamvik	*	5	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5628 Deatnu - Tana	4	4	*	5	*	*	7	4	*	*
+Januar 2026 - September 2026	5634 Vardø	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	5636 Unjárga - Nesseby	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - September 2026	Ukjent	6	*	5	8	*	5	9	8	8	9

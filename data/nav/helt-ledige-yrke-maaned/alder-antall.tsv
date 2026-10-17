@@ -1,0 +1,122 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter yrke, tidsserie måned (HL075)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Alder. Antall
+# Helt ledige. Yrke. Tidsserie måned
+# Alder. Antall
+# Januar - september 2026
+# 19 år og under
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+	I alt 19 år og under	1552	1495	1440	1417	1250	1395	1329	1590	1494
+	Ledere	*	*	5	4	*	*	*	4	5
+	Ingeniør- og ikt-fag	8	*	7	7	7	8	7	14	12
+	Undervisning	5	*	*	*	4	*	*	*	*
+	Akademiske yrker	6	5	6	*	5	8	*	4	*
+	Helse, pleie og omsorg	44	43	44	39	36	43	42	52	57
+	Barne- og ungdomsarbeid	66	61	57	61	48	58	59	60	51
+	Meglere og konsulenter	7	6	7	6	5	5	5	*	*
+	Kontorarbeid	64	66	58	51	38	28	41	52	49
+	Butikk- og salgsarbeid	241	223	198	214	176	223	204	256	261
+	Jordbruk, skogbruk og fiske	33	33	25	24	18	25	20	35	37
+	Bygg og anlegg	112	104	113	90	63	67	63	67	74
+	Industriarbeid	110	97	94	97	86	100	100	137	122
+	Reiseliv og transport	111	105	96	81	74	84	95	121	93
+	Serviceyrker og annet arbeid	122	114	122	101	91	99	98	132	126
+	Ingen yrkesbakgrunn eller uoppgitt	622	629	606	636	598	642	589	653	603
+20-24 år	I alt 20-24 år	7194	6754	6578	6236	5567	5580	6109	6533	6239
+20-24 år	Ledere	28	26	27	23	22	26	27	20	24
+20-24 år	Ingeniør- og ikt-fag	151	126	130	131	128	127	133	157	156
+20-24 år	Undervisning	42	44	35	41	35	63	96	88	63
+20-24 år	Akademiske yrker	37	36	34	42	33	25	38	46	29
+20-24 år	Helse, pleie og omsorg	418	386	387	372	342	312	334	405	402
+20-24 år	Barne- og ungdomsarbeid	403	354	338	352	340	375	525	528	392
+20-24 år	Meglere og konsulenter	66	55	60	68	46	53	57	65	67
+20-24 år	Kontorarbeid	509	510	480	480	396	372	397	431	422
+20-24 år	Butikk- og salgsarbeid	1062	954	927	923	821	842	922	947	977
+20-24 år	Jordbruk, skogbruk og fiske	161	146	139	101	85	93	102	107	110
+20-24 år	Bygg og anlegg	920	911	914	774	645	565	638	648	623
+20-24 år	Industriarbeid	923	914	891	811	728	698	769	854	851
+20-24 år	Reiseliv og transport	722	623	632	581	494	476	538	582	581
+20-24 år	Serviceyrker og annet arbeid	735	695	641	626	561	555	592	592	584
+20-24 år	Ingen yrkesbakgrunn eller uoppgitt	1017	974	943	911	891	998	941	1063	958
+25-29 år	I alt 25-29 år	8914	8424	8146	7649	7094	7077	7861	7957	7642
+25-29 år	Ledere	164	136	130	124	107	132	148	142	121
+25-29 år	Ingeniør- og ikt-fag	503	462	447	433	428	435	490	486	470
+25-29 år	Undervisning	286	257	225	216	210	303	486	427	307
+25-29 år	Akademiske yrker	192	166	176	170	147	155	168	185	167
+25-29 år	Helse, pleie og omsorg	648	611	561	561	528	555	607	668	625
+25-29 år	Barne- og ungdomsarbeid	373	358	336	333	315	389	531	548	442
+25-29 år	Meglere og konsulenter	281	285	256	261	217	204	241	239	209
+25-29 år	Kontorarbeid	799	741	756	712	663	657	699	729	727
+25-29 år	Butikk- og salgsarbeid	975	939	929	881	829	830	861	909	911
+25-29 år	Jordbruk, skogbruk og fiske	162	156	124	91	67	69	69	78	92
+25-29 år	Bygg og anlegg	905	869	857	761	642	541	562	562	600
+25-29 år	Industriarbeid	881	842	794	695	658	616	662	639	668
+25-29 år	Reiseliv og transport	881	842	862	829	780	711	769	779	774
+25-29 år	Serviceyrker og annet arbeid	900	850	819	766	722	685	739	743	746
+25-29 år	Ingen yrkesbakgrunn eller uoppgitt	964	910	874	816	781	795	829	823	783
+30-39 år	I alt 30-39 år	20678	20088	19589	18808	17659	17693	19408	18851	17709
+30-39 år	Ledere	728	674	688	659	650	678	729	675	642
+30-39 år	Ingeniør- og ikt-fag	1516	1459	1480	1472	1449	1459	1590	1517	1486
+30-39 år	Undervisning	861	829	776	811	785	905	1225	1134	890
+30-39 år	Akademiske yrker	518	517	505	478	449	473	521	502	462
+30-39 år	Helse, pleie og omsorg	1365	1352	1327	1303	1245	1256	1433	1452	1360
+30-39 år	Barne- og ungdomsarbeid	777	709	678	688	677	737	1010	955	781
+30-39 år	Meglere og konsulenter	630	617	597	609	590	597	652	625	615
+30-39 år	Kontorarbeid	1629	1595	1565	1441	1362	1370	1470	1482	1438
+30-39 år	Butikk- og salgsarbeid	1704	1646	1608	1580	1563	1577	1655	1596	1611
+30-39 år	Jordbruk, skogbruk og fiske	297	276	263	205	163	149	154	168	156
+30-39 år	Bygg og anlegg	2204	2192	2159	1861	1641	1468	1514	1517	1429
+30-39 år	Industriarbeid	1799	1734	1696	1609	1509	1429	1533	1476	1338
+30-39 år	Reiseliv og transport	2134	2130	2057	2012	1799	1765	1904	1874	1851
+30-39 år	Serviceyrker og annet arbeid	2210	2113	2025	1978	1841	1811	1948	1849	1724
+30-39 år	Ingen yrkesbakgrunn eller uoppgitt	2306	2245	2165	2102	1936	2019	2070	2029	1926
+40-49 år	I alt 40-49 år	14976	14618	14493	13814	13119	13003	14471	13815	12895
+40-49 år	Ledere	864	827	825	807	792	748	848	767	763
+40-49 år	Ingeniør- og ikt-fag	1099	1099	1148	1146	1141	1148	1260	1194	1164
+40-49 år	Undervisning	471	430	421	415	432	494	741	679	493
+40-49 år	Akademiske yrker	376	360	335	320	318	328	368	355	310
+40-49 år	Helse, pleie og omsorg	853	809	830	788	767	776	902	910	865
+40-49 år	Barne- og ungdomsarbeid	496	489	451	439	431	518	786	692	521
+40-49 år	Meglere og konsulenter	489	492	481	483	500	515	527	510	487
+40-49 år	Kontorarbeid	935	888	915	868	817	813	905	886	882
+40-49 år	Butikk- og salgsarbeid	987	965	985	957	944	921	977	961	974
+40-49 år	Jordbruk, skogbruk og fiske	266	243	246	178	153	134	132	136	125
+40-49 år	Bygg og anlegg	1974	1957	1923	1683	1440	1329	1410	1369	1300
+40-49 år	Industriarbeid	1356	1356	1370	1280	1199	1140	1264	1185	1068
+40-49 år	Reiseliv og transport	1415	1388	1393	1324	1212	1186	1238	1192	1213
+40-49 år	Serviceyrker og annet arbeid	1565	1506	1443	1433	1360	1322	1477	1417	1311
+40-49 år	Ingen yrkesbakgrunn eller uoppgitt	1830	1809	1727	1693	1613	1631	1636	1562	1419
+50-59 år	I alt 50-59 år	10260	10108	9892	9482	8888	8724	9717	9177	8641
+50-59 år	Ledere	836	862	830	803	821	826	914	856	841
+50-59 år	Ingeniør- og ikt-fag	745	738	720	738	723	725	804	757	760
+50-59 år	Undervisning	277	263	264	247	244	284	431	376	262
+50-59 år	Akademiske yrker	285	286	264	248	234	241	288	285	256
+50-59 år	Helse, pleie og omsorg	506	481	482	484	455	440	500	483	470
+50-59 år	Barne- og ungdomsarbeid	250	214	210	222	206	218	315	293	244
+50-59 år	Meglere og konsulenter	326	331	338	351	337	333	380	357	359
+50-59 år	Kontorarbeid	699	673	673	625	586	621	674	629	600
+50-59 år	Butikk- og salgsarbeid	681	657	673	684	644	637	682	671	626
+50-59 år	Jordbruk, skogbruk og fiske	177	175	156	108	99	95	88	80	92
+50-59 år	Bygg og anlegg	1515	1508	1460	1263	1068	963	1015	988	945
+50-59 år	Industriarbeid	973	935	922	869	843	765	873	785	705
+50-59 år	Reiseliv og transport	845	867	832	815	747	720	751	714	707
+50-59 år	Serviceyrker og annet arbeid	961	928	928	919	851	811	926	899	836
+50-59 år	Ingen yrkesbakgrunn eller uoppgitt	1184	1190	1140	1106	1030	1045	1076	1004	938
+60 år og over	I alt 60 år og over	5358	5263	5233	5037	4698	4632	5125	4909	4793
+60 år og over	Ledere	490	487	461	446	436	452	528	512	503
+60 år og over	Ingeniør- og ikt-fag	482	484	488	499	483	462	513	497	491
+60 år og over	Undervisning	88	89	84	93	91	108	150	139	107
+60 år og over	Akademiske yrker	136	146	135	139	128	119	141	128	130
+60 år og over	Helse, pleie og omsorg	252	235	224	221	214	215	221	212	234
+60 år og over	Barne- og ungdomsarbeid	96	87	88	81	85	95	138	116	101
+60 år og over	Meglere og konsulenter	250	252	239	252	243	244	272	248	251
+60 år og over	Kontorarbeid	421	419	437	418	416	405	451	447	442
+60 år og over	Butikk- og salgsarbeid	389	374	355	349	333	341	364	364	345
+60 år og over	Jordbruk, skogbruk og fiske	107	104	91	67	58	54	50	53	54
+60 år og over	Bygg og anlegg	733	714	723	626	529	484	517	515	471
+60 år og over	Industriarbeid	584	595	624	599	553	535	592	540	523
+60 år og over	Reiseliv og transport	404	390	404	396	350	329	352	347	348
+60 år og over	Serviceyrker og annet arbeid	440	418	405	394	345	335	358	335	348
+60 år og over	Ingen yrkesbakgrunn eller uoppgitt	486	469	475	457	434	454	478	456	445

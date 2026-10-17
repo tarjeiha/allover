@@ -1,0 +1,39 @@
+# Kilde: Nav
+# Tabell: Tilgang ledige stillinger etter yrke, tidsserie måned (STIL040)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
+# Lagt inn: 2026-10-17
+# Ark: 4. Antall. Top 30 i perioden
+# Tilgang ledige stillinger. Yrke. Tidsserie måned
+# Antall. Top 30 fordelt på 4-siffer STYRK
+# Januar - september 2026
+rad			Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+5223	Butikkmedarbeidere		3494	3637	3717	4037	3760	3407	2156	2706	3180
+5311	Barnehage- og skolefritidsassistenter mv.		3442	2492	2665	3348	3356	2415	1193	1986	2595
+2223	Sykepleiere		4341	3109	2775	2786	2537	2213	1070	1446	2208
+5321	Helsefagarbeidere		3624	2447	2251	1979	1454	1527	893	1155	1724
+5329	Andre pleiemedarbeidere		2847	1836	1744	1338	1035	1161	528	964	1145
+5322	Hjemmehjelper		1594	1238	1338	1342	1184	1311	736	1175	1338
+2342	Førskolelærere		1109	761	1309	1612	1352	1222	352	547	1041
+3412	Miljøarbeidere innen sosiale fagfelt		1178	1203	1142	972	872	937	564	686	863
+9112	Renholdere i bedrifter		973	1202	1341	1110	782	1003	402	588	984
+4321	Lagermedarbeidere og materialforvaltere		680	796	1076	904	936	773	489	595	802
+5246	Gatekjøkken- og kafémedarbeidere mv.		609	957	893	805	858	707	372	452	654
+2341	Grunnskolelærere		820	970	1002	1004	811	661	141	305	451
+3322	Selgere (engros)		626	451	556	843	1147	823	423	480	597
+7411	Elektrikere		775	681	666	742	660	614	349	305	460
+7115	Tømrere og snekkere		655	486	447	624	619	740	333	556	665
+5414	Vektere		489	494	1050	609	628	390	477	335	446
+7231	Bilmekanikere		539	670	798	427	493	496	275	428	637
+3119	Andre ingeniører		754	486	598	577	653	524	342	324	489
+5120	Kokker		555	556	623	640	538	538	324	381	540
+1219	Andre administrative ledere		724	436	614	554	593	459	377	357	519
+5131	Servitører		479	539	754	599	470	430	332	360	578
+8332	Lastebil- og trailersjåfører		383	499	697	566	670	548	243	297	567
+9412	Kjøkkenassistenter		489	643	472	499	474	528	358	375	586
+2511	Systemanalytikere/-arkitekter		532	394	514	528	512	357	339	236	547
+2224	Vernepleiere		615	401	416	453	358	388	218	282	450
+8160	Operatører innen næringsmiddelproduksjon		409	468	459	414	514	442	234	275	354
+8322	Bil-, drosje- og varebilførere		354	369	456	586	510	440	252	241	352
+5419	Andre sikkerhetsarbeidere		269	329	524	439	500	425	357	327	314
+2211	Allmennpraktiserende leger		681	368	375	494	356	383	169	237	344
+9629	Andre hjelpearbeidere		214	835	500	324	281	275	116	356	325

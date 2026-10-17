@@ -1,0 +1,68 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-10-17
+# Ark: Tiltak og alder
+# TILT130 Tiltaksdeltakere på opplæring. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og alder									Rapport oppdatert: 02.10.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+Januar 2026 - September 2026	I alt amo enkeltplass	2721	2709	2960	3105	3275	3317	2024	1444	2499	3155
+Januar 2026 - September 2026	19 år og under	61	61	58	75	74	73	42	31	59	72
+Januar 2026 - September 2026	20-24 år	338	345	374	391	408	409	273	165	289	391
+Januar 2026 - September 2026	25-29 år	377	388	421	420	445	451	297	201	351	419
+Januar 2026 - September 2026	30-39 år	853	830	933	972	1030	1048	625	463	794	981
+Januar 2026 - September 2026	40-49 år	701	689	750	811	849	874	503	379	638	817
+Januar 2026 - September 2026	50-59 år	339	346	371	376	410	400	244	175	320	411
+Januar 2026 - September 2026	60 år og over	52	50	53	60	59	62	40	30	48	64
+	I alt amo enkeltplass, forsøk	*	*	*	*	*	*	*	*	*	*
+	20-24 år	*	*	*	*	*	*	*	*	*	*
+	40-49 år	*	*	*	*	*	*	*	*	*	*
+	I alt amo kurs	4176	3919	4154	4351	4476	4357	3523	3011	4394	5396
+	19 år og under	48	48	59	67	58	51	32	18	35	66
+	20-24 år	288	257	307	320	325	303	230	174	299	377
+	25-29 år	478	435	516	534	517	501	384	341	480	597
+	30-39 år	1298	1232	1273	1353	1395	1335	1148	988	1312	1648
+	40-49 år	1279	1189	1212	1258	1345	1344	1095	954	1413	1698
+	50-59 år	686	677	687	718	726	715	555	471	744	882
+	60 år og over	98	81	100	101	110	108	79	65	111	128
+	I alt høyere utdanning	4745	5058	5086	5098	5069	5019	4191	3344	4692	5150
+	19 år og under	*	*	*	*	*	*	*	*	4	4
+	20-24 år	624	692	669	651	621	599	513	425	694	748
+	25-29 år	1269	1334	1350	1360	1370	1361	1143	902	1234	1365
+	30-39 år	1697	1838	1846	1839	1813	1791	1507	1200	1647	1791
+	40-49 år	872	906	928	946	957	963	775	605	840	930
+	50-59 år	268	273	276	285	290	287	241	203	262	299
+	60 år og over	13	12	14	14	15	15	11	8	11	13
+	I alt høyere utdanning, forsøk	14	19	19	19	19	17	13	8	9	6
+	20-24 år	*	*	*	*	*	*	*	*	*	*
+	25-29 år	*	*	*	*	*	*	*	*	*	*
+	30-39 år	8	10	10	10	10	10	7	5	6	4
+	40-49 år	4	6	6	6	6	5	4	*	*	*
+	50-59 år	*	*	*	*	*	*	*	*	*	*
+	I alt opplæringstiltak av lengre varighet, forsøk	55	50	50	67	68	68	52	52	55	37
+	25-29 år	4	5	5	5	5	5	*	*	*	*
+	30-39 år	22	20	21	26	26	26	18	18	22	18
+	40-49 år	25	20	19	30	31	31	27	27	25	12
+	50-59 år	5	5	5	6	6	6	4	4	5	4
+	I alt vgs/yrkesfaglig utdanning	657	757	773	747	747	759	403	286	643	800
+	19 år og under	7	11	8	10	7	7	*	*	8	10
+	20-24 år	69	74	75	79	80	78	51	37	63	83
+	25-29 år	100	117	120	121	114	110	51	36	105	128
+	30-39 år	214	248	250	236	232	237	131	96	216	278
+	40-49 år	170	195	204	187	194	202	112	82	157	201
+	50-59 år	91	105	109	107	113	118	53	31	89	95
+	60 år og over	5	7	7	7	7	7	*	*	5	5
+	I alt vgs/yrkesfaglig utdanning enkeltplass	3858	4296	4363	4410	4405	4358	3116	2408	3316	4051
+	19 år og under	168	197	199	198	182	168	119	107	156	188
+	20-24 år	858	959	969	977	972	975	702	538	731	898
+	25-29 år	673	748	761	756	763	745	538	423	601	726
+	30-39 år	1189	1310	1343	1372	1384	1364	963	734	1011	1219
+	40-49 år	722	807	810	818	817	822	589	441	611	779
+	50-59 år	232	257	262	269	267	261	194	154	194	231
+	60 år og over	16	18	19	20	20	23	11	11	12	10
+	I alt vgs/yrkesfaglig utdanning enkeltplass, forsøk	16	27	23	21	20	18	12	8	7	6
+	20-24 år	*	5	4	*	*	*	*	*	*	*
+	25-29 år	*	*	*	*	*	*	*	*	*	*
+	30-39 år	7	13	12	10	9	8	5	*	*	*
+	40-49 år	*	6	5	5	5	4	*	*	*	*
+	50-59 år	*	*	*	*	*	*	*	*	*	*

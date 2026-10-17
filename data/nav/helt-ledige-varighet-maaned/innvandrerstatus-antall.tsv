@@ -1,0 +1,18 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter varighet og langtidsledige, tidsserie måned (HL080)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
+# Lagt inn: 2026-10-17
+# Ark: Innvandrerstatus Antall
+# Helt ledige. Varighet og langtidsledige. Tidsserie måned
+# Varighet som helt ledig og innvandrerstatus. Antall
+# Januar - september 2026
+gruppe	rad	202601	202602	202603	202604	202605	202606	202607	202608	202609
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt korttidsledige	49232	46980	45522	42370	38621	39291	44319	43393	40781
+I alt	Ikke innvandrer	26112	24696	24114	22185	20116	20773	24237	23988	22330
+I alt	Innvandrer	23120	22284	21408	20185	18505	18518	20082	19405	18451
+gruppe	rad	202601	202602	202603	202604	202605	202606	202607	202608	202609
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt	I alt langtidsledige	19700	19770	19849	20073	19654	18813	19701	19439	18632
+I alt	Ikke innvandrer	9109	9156	9182	9318	9158	8844	9408	9295	8989
+I alt	Innvandrer	10591	10614	10667	10755	10496	9969	10293	10144	9643
