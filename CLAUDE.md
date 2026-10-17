@@ -45,6 +45,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Diskrimineringsombudsloven | `diskrimineringsombudsloven/VEIVISER.md` | 2026-01-01 |
 | Ferieloven | `ferieloven/VEIVISER.md` | 2024-01-01 |
 | Folketrygdloven | `folketrygdloven/VEIVISER.md` | 2026-10-01 |
+| Forvaltningsloven | `forvaltningsloven/VEIVISER.md` | 2026-01-01 |
 | Forvaltningsloven 2025 (ny lov, ikke i kraft) | `forvaltningsloven-2025/VEIVISER.md` | Ikke i kraft (Kongen bestemmer) |
 | Integreringsloven | `integreringsloven/VEIVISER.md` | 2026-07-01 |
 | Karanteneloven | `karanteneloven/VEIVISER.md` | 2025-07-01 |
@@ -68,7 +69,27 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 ## Tariffavtaler og EU-rettsakter i basen
 
 <!-- AUTO-START andre kilder: genereres av verktoy/bygg.py, ikke rediger for hånd -->
-_Ingen ennå._
+**EU-rettsakter** (EU-tekst fra EUR-Lex, ikke norsk lov; se veiviseren om hvilken versjon som gjelder i EØS)
+
+| Rettsakt | Nummer | Veiviser | EØS-versjon |
+|---|---|---|---|
+| Gjennomføringsforordningen til trygdeforordningen | (EF) nr. 987/2009 | `eu/forordning-987-2009/VEIVISER.md` | kontrollert |
+| Forordningen om fri bevegelighet for arbeidstakere | (EU) nr. 492/2011 | `eu/forordning-492-2011/VEIVISER.md` | ikke kontrollert |
+| Personvernforordningen (GDPR) | (EU) 2016/679 | `eu/forordning-2016-679/VEIVISER.md` | ikke kontrollert |
+| Rammedirektivet for helse, miljø og sikkerhet | 89/391/EØF | `eu/direktiv-89-391/VEIVISER.md` | ikke kontrollert |
+| Utsendingsdirektivet | 96/71/EF | `eu/direktiv-96-71/VEIVISER.md` | ikke kontrollert |
+| Deltidsdirektivet | 97/81/EF | `eu/direktiv-97-81/VEIVISER.md` | ikke kontrollert |
+| Masseoppsigelsesdirektivet | 98/59/EF | `eu/direktiv-98-59/VEIVISER.md` | ikke kontrollert |
+| Direktivet om midlertidig ansettelse | 1999/70/EF | `eu/direktiv-1999-70/VEIVISER.md` | ikke kontrollert |
+| Direktivet om likebehandling uavhengig av rase eller etnisk opprinnelse | 2000/43/EF | `eu/direktiv-2000-43/VEIVISER.md` | ikke kontrollert |
+| Rammedirektivet om likebehandling i arbeidslivet | 2000/78/EF | `eu/direktiv-2000-78/VEIVISER.md` | ikke kontrollert |
+| Virksomhetsoverdragelsesdirektivet | 2001/23/EF | `eu/direktiv-2001-23/VEIVISER.md` | ikke kontrollert |
+| Direktivet om informasjon og konsultasjon | 2002/14/EF | `eu/direktiv-2002-14/VEIVISER.md` | ikke kontrollert |
+| Arbeidstidsdirektivet | 2003/88/EF | `eu/direktiv-2003-88/VEIVISER.md` | ikke kontrollert |
+| Bevegelsesdirektivet (unionsborgerdirektivet) | 2004/38/EF | `eu/direktiv-2004-38/VEIVISER.md` | ikke kontrollert |
+| Likebehandlingsdirektivet (kjønn i arbeidslivet) | 2006/54/EF | `eu/direktiv-2006-54/VEIVISER.md` | ikke kontrollert |
+| Insolvensdirektivet (lønnsgaranti) | 2008/94/EF | `eu/direktiv-2008-94/VEIVISER.md` | ikke kontrollert |
+| Vikarbyrådirektivet | 2008/104/EF | `eu/direktiv-2008-104/VEIVISER.md` | ikke kontrollert |
 <!-- AUTO-SLUTT andre kilder -->
 
 ## Temaer i hverdagsspråk

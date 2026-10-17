@@ -1,0 +1,9 @@
+# Forordning 492/2011 artikkel 29
+
+**Kilde:** Forordningen om fri bevegelighet for arbeidstakere (Forordning nr. 492/2011), EUR-Lex 32011R0492, språk EN.
+
+Dette er EU-tekst, ikke norsk lov- eller forskriftstekst. Hvilken versjon som gjelder i Norge, avgjøres av EØS-avtalen og norsk gjennomføring: se `eu/forordning-492-2011/VEIVISER.md`.
+
+---
+
+The Technical Committee shall be responsible for assisting the Commission in the preparation, promotion and follow-up of all technical work and measures for giving effect to this Regulation and any supplementary measures.

@@ -1,0 +1,42 @@
+# Vikarbyrådirektivet: veiviser
+
+_Håndskrevet veiledning mangler ennå._
+
+<!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
+## Kilder
+
+- **Rettsakt:** DIRECTIVE 2008/104/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 November 2008 on temporary agency work
+- **Versjon i basen:** EUR-Lex 32008L0104, språk EN
+- **EØS:** Ikke kontrollert mot EØS-avtalen. Sjekk hvilken versjon som er tatt inn før teksten legges til grunn.
+- **Konsoliderte EU-versjoner finnes:** 02008L0104-20081205. Basen har originalteksten uten senere endringer.
+
+## Norske regler som viser til rettsakten
+
+Ingen lov- eller forskriftstekst i basen nevner rettsakten med nummer.
+
+## Innhold
+
+
+**CHAPTER I**
+
+- Artikkel 1. Scope – `art-1.md`
+- Artikkel 2. Aim – `art-2.md`
+- Artikkel 3. Definitions – `art-3.md`
+- Artikkel 4. Review of restrictions or prohibitions – `art-4.md`
+
+**CHAPTER II**
+
+- Artikkel 5. The principle of equal treatment – `art-5.md`
+- Artikkel 6. Access to employment, collective facilities and vocational training – `art-6.md`
+- Artikkel 7. Representation of temporary agency workers – `art-7.md`
+- Artikkel 8. Information of workers' representatives – `art-8.md`
+
+**CHAPTER III**
+
+- Artikkel 9. Minimum requirements – `art-9.md`
+- Artikkel 10. Penalties – `art-10.md`
+- Artikkel 11. Implementation – `art-11.md`
+- Artikkel 12. Review by the Commission – `art-12.md`
+- Artikkel 13. Entry into force – `art-13.md`
+- Artikkel 14. Addressees – `art-14.md`
+<!-- AUTO-SLUTT -->
