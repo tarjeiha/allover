@@ -33,6 +33,10 @@ Hovedrundskrivet til loven og de statlige veiledende satsene for økonomisk stø
 - **Forskrift:** Forskrift om sosiale tjenester for personer uten fast bopel i Norge – FOR-2011-12-16-1251. Sist endret i kraft: 2025-03-07. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om bruk av vilkår etter sosialtjenesteloven – FOR-2020-12-16-2938. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Sosialtjenesteloven

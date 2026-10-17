@@ -32,6 +32,10 @@ Tjenestetvistloven har ingen egen merknadsfil. Bruk `arbeidstvistloven/merknader
 - **Forskrift:** Vedtak om at tjenestetvistloven gjøres gjeldende for undervisningspersonale ved helsefaghøgskoler som fremtidig skal bli statlige. – FOR-1983-10-28-1588. Sist endret i kraft: 1989-12-22. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 - **Forskrift:** Delegering av myndighet til Arbeids- og administrasjonsdepartementet etter lov om offentlige tjenestetvister § 6 nr. 1 første ledd annet punktum. – FOR-2002-05-15-450. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Tjenestetvistloven

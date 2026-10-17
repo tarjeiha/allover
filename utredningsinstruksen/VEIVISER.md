@@ -25,6 +25,10 @@ Finn punktet i filen under «Innhold», og åpne filen før du svarer. Merknaden
 
 - **Forskrift/instruks:** Instruks om utredning av statlige tiltak (utredningsinstruksen) – FOR-2016-02-19-184. Sist endret i kraft: 2024-11-01. Forvaltes av: Finansdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Utredningsinstruksen

@@ -34,6 +34,10 @@ Lønnsgarantiloven har ingen egen merknadsfil. Bruk `permitteringslonnsloven/mer
 - **Forskrift:** Forskrift om delegering av myndighet til Kommunaldepartementet etter lov om statsgaranti ved konkurs m.v. – FOR-1985-09-20-1711. **Ikke i kraft:** ukjent dato. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om statsgaranti for lønnskrav ved konkurs m.v. – FOR-1998-10-28-999. Sist endret i kraft: 2026-04-09. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Lønnsgarantiloven

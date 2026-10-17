@@ -36,6 +36,10 @@ Fellene under gjelder arbeidsinnvandring og EØS-reglene.
 - **Lov:** Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven) – LOV-2008-05-15-35. Sist endret i kraft: 2026-10-01. Forvaltes av: Justis- og beredskapsdepartementet.
 - **Forskrift:** Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) – FOR-2009-10-15-1286. Sist endret i kraft: 2026-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Justis- og beredskapsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Utlendingsloven

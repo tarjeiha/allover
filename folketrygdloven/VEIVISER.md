@@ -114,6 +114,10 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 - **Forskrift:** Forskrift om frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere – FOR-1997-03-11-210. Sist endret i kraft: 2010-03-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket. – FOR-1997-03-25-267. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Folketrygdloven

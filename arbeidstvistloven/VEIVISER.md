@@ -32,6 +32,10 @@ Merknadsfilen dekker også tjenestetvistloven.
 
 - **Lov:** Lov om arbeidstvister (arbeidstvistloven) – LOV-2012-01-27-9. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Arbeidstvistloven

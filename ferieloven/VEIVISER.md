@@ -34,6 +34,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Forskrift:** Forskrift om ferie for arbeidstakere på skip – FOR-1989-12-22-1285. Sist endret i kraft: 2017-08-07. Forvaltes av: Nærings- og fiskeridepartementet.
 - **Forskrift:** Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet. – FOR-1998-06-18-585. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Ferieloven

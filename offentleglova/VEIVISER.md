@@ -27,6 +27,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova) – LOV-2006-05-19-16. Sist endret i kraft: 2026-07-01. Forvaltes av: Justis- og beredskapsdepartementet.
 - **Forskrift:** Forskrift til offentleglova (offentlegforskrifta) – FOR-2008-10-17-1119. Sist endret i kraft: 2022-12-09. Forvaltes av: Justis- og beredskapsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Offentleglova

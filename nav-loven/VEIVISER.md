@@ -36,6 +36,10 @@ NAVs rundskriv til loven er ikke i basen. Spørsmål om hvordan skjønnet prakti
 - **Forskrift:** Forskrift om internrevisjon i Arbeids- og velferdsetaten. – FOR-2006-06-30-745. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om tilgang for Innkrevingsmyndigheten til opplysninger fra Arbeids- og velferdsetaten – FOR-2018-03-13-338. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### NAV-loven

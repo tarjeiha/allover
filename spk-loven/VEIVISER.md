@@ -48,6 +48,10 @@ Merknadsfilene er flyttet fra to eldre skills og deler loven i alderspensjon (ka
 - **Forskrift:** Forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør – FOR-2014-11-26-1467. Sist endret i kraft: 2026-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om opptjening av pensjonsrettigheter i lovfestet offentlig tjenestepensjonsordning for personer som har midlertidig uførepensjon og uførepensjon – FOR-2015-06-19-710. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Lov om Statens pensjonskasse

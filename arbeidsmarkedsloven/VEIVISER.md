@@ -43,6 +43,10 @@ Merknadene er delt i to filer: loven og tiltaksforskriften, og de øvrige forskr
 - **Forskrift:** Forskrift om forsøk med fireårig lønnstilskudd for unge – FOR-2026-02-04-163. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet – FOR-2024-07-02-1800. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Arbeidsmarkedsloven

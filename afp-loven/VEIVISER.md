@@ -30,6 +30,10 @@ Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i 
 - **Forskrift:** Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv. – FOR-2010-11-30-1494. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning) – FOR-2024-12-13-3109. Sist endret i kraft: 2025-12-19. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### AFP-loven for medlemmer av Statens pensjonskasse

@@ -30,6 +30,10 @@ Merknadsfilen er flyttet fra en tidligere skill. Der den viser til «denne skill
 - **Lov:** Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven) – LOV-2021-06-11-79. Sist endret i kraft: 2022-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift til tolkeloven (tolkeforskriften) – FOR-2021-09-13-2744. Sist endret i kraft: 2026-04-28. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Tolkeloven

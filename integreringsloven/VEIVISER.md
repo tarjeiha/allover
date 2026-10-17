@@ -39,6 +39,10 @@ Merknadsfilene er flyttet fra to tidligere skills. Der de viser til «denne skil
 - **Forskrift:** Overgangsregel om integreringsloven § 20 fjerde ledd – FOR-2024-06-25-1215. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A) – FOR-2026-06-12-1077. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Vedtatte endringer som ikke er i kraft
+
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+
 ## Innhold
 
 ### Integreringsloven
