@@ -34,4 +34,5 @@ Brukere av basen er også ledere og kommunikasjonsmedarbeidere som ikke selv kan
 ## Åpent
 
 - **Nav:** Utvalgte tabeller er lagt inn (se `data/nav.md`). Nav gir tall som xlsx-filer som Claude ikke kan laste ned, så flere tabeller må legges inn av saksbehandlerne. Nav-filer legges i `innboks-data/` og konverteres automatisk. Det mangler en vurdering av hvilke Nav-tabeller som brukes mest.
-- **Andre kilder** (IMDi, Arbeidstilsynet, Fafo, Eurostat m.fl.) er ikke vurdert.
+- **Eurostat:** Sammenligning mellom land, se `data/eurostat.md`.
+- **Andre kilder** (IMDi, Arbeidstilsynet, Statens pensjonskasse, Fafo m.fl.) er ikke vurdert.
