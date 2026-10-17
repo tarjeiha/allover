@@ -174,7 +174,7 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 
 - Rundskriv legges i `innboks/`, så legges de inn automatisk under riktig lov. Se `innboks/README.md`.
 - Merknader, EØS-tekster og rundskriv som ble flyttet fra de gamle skillene, redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
-- Hovedtariffavtalen legges inn ved å laste opp Word-filen fra regjeringen.no i `innboks/` med filnavn som begynner på `hovedtariffavtale`. Gjør det ved hvert hovedoppgjør og mellomoppgjør.
+- Hovedtariffavtalen legges inn ved å laste opp Word-filen fra regjeringen.no i `innboks/` med filnavn som begynner på `hovedtariffavtale`. Gjør det ved hvert hovedoppgjør og mellomoppgjør. Word-filen slettes etter oppdelingen, og bygget åpner en sak i GitHub når det er tid for ny utgave.
 - EU-rettsakter legges til under `eu` i `regelverk.json` med en låst versjon. Feltet `eos` fylles bare ut når versjonen er kontrollert mot EØS-avtalen. `eu/nevnte-rettsakter.md` viser hvilke rettsakter norsk tekst i basen viser til, men som ikke er lagt inn.
 - Lov- og forskriftstekst bygges fra Lovdata med `verktoy/bygg.py` og skal aldri redigeres for hånd. Blokker mellom `AUTO-START` og `AUTO-SLUTT` overskrives ved hvert bygg.
 - Nytt regelverk legges til i `regelverk.json`. Skriv deretter den håndskrevne delen av `VEIVISER.md`, og legg til en linje i temalisten over.

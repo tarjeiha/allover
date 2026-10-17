@@ -30,4 +30,4 @@ Rett opp og last opp filen på nytt. `.FEIL.txt`-filen forsvinner når filen er 
 
 ## Hovedtariffavtalen
 
-Hovedtariffavtalen i staten legges også inn her. Last ned Word-filen fra regjeringen.no og last den opp med et filnavn som begynner på `hovedtariffavtale`, for eksempel `hovedtariffavtale_2026-2028.docx`. Den deles da opp i `hovedtariffavtalen/`, og forrige versjon flyttes til `hovedtariffavtalen/kilde/tidligere/`. Gjør det ved hvert hovedoppgjør og mellomoppgjør. Husk å oppdatere perioden under `avtaler` i `regelverk.json` når en ny periode begynner.
+Hovedtariffavtalen i staten legges også inn her. Last ned Word-filen fra regjeringen.no og last den opp med et filnavn som begynner på `hovedtariffavtale`, for eksempel `hovedtariffavtale_2026-2028.docx`. Den deles da opp i `hovedtariffavtalen/`, perioden hentes fra forsiden og skrives i `regelverk.json`, og Word-filen slettes etterpå. Gjør det ved hvert hovedoppgjør og mellomoppgjør. Bygget åpner en sak i GitHub når det er tid for å se etter ny utgave.

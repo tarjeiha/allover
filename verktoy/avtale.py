@@ -3,8 +3,10 @@
 Tariffavtaler i basen (foreløpig hovedtariffavtalen i staten).
 
 Avtalene ligger ikke på Lovdata. Kildefilen (Word eller PDF fra regjeringen.no)
-legges i <mappe>/kilde/, enten via innboksen eller ved at bygget laster den ned.
-Dette skriptet deler den opp:
+lastes opp i innboksen. Innboksen (rundskriv.py) deler den opp med dette skriptet
+og sletter kildefilen etterpå; den finnes da bare i Git-historikken. Nattbygget
+rører ikke avtalene, men åpner en sak i GitHub når det er tid for å se etter ny
+utgave (varsle()). Oppdelingen gir:
 
     <mappe>/avtale/punkt-<n-m>.md             punkt i del 1, 2, 4 og 5
     <mappe>/avtale/fellesbestemmelsene/par-<n>.md   paragrafene i del 3
@@ -13,7 +15,8 @@ Dette skriptet deler den opp:
     <mappe>/VEIVISER.md                       bare blokken mellom AUTO-markørene
 
 Bruk alene:
-    python3 verktoy/avtale.py      # bygger alle avtaler i regelverk.json
+    python3 verktoy/avtale.py <kildefil>   # deler opp en kildefil på nytt for hånd
+    python3 verktoy/avtale.py --varsle     # åpner sak i GitHub når ny utgave ventes
 """
 
 import hashlib
@@ -23,7 +26,6 @@ import shutil
 import subprocess
 import tempfile
 import sys
-import urllib.request
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -31,10 +33,6 @@ from pathlib import Path
 ROT = Path(__file__).resolve().parent.parent
 ORD = re.compile(r"\w+", re.UNICODE)
 MIN_DEKNING = 0.99
-NETTLESER = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/130.0 Safari/537.36"
-}
 AUTO_START = "<!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->"
 AUTO_SLUTT = "<!-- AUTO-SLUTT -->"
 
@@ -251,50 +249,42 @@ def dekning(kilde: str, md: str) -> float:
     return 1.0 if not tot else sum(min(n, u[o]) for o, n in k.items()) / tot
 
 
-def gjeldende_kilde(mappe: Path):
-    filer = sorted(f for f in (mappe / "kilde").glob("*") if f.suffix.lower() in (".docx", ".pdf") and f.is_file())
-    return filer[-1] if filer else None
+MÅNEDER = ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august",
+           "september", "oktober", "november", "desember"]
+PERIODE = re.compile(
+    r"(\d{1,2})\.\s*(" + "|".join(MÅNEDER) + r")\s+(\d{4})\s*[–-]\s*(\d{1,2})\.\s*(" + "|".join(MÅNEDER) + r")\s+(\d{4})",
+    re.IGNORECASE,
+)
 
 
-def prov_nedlasting(avtale: dict, merknader: list) -> None:
-    """Laster ned kildefilen hvis den er tilgjengelig og har endret seg. Regjeringen.no stenger ofte
-    for GitHub sine servere; da brukes filen som ligger i repoet."""
-    url = avtale.get("kilde_url")
-    if not url:
-        return
-    mappe = ROT / avtale["mappe"]
-    try:
-        req = urllib.request.Request(url, headers=NETTLESER)
-        with urllib.request.urlopen(req, timeout=120) as r:
-            data = r.read()
-    except Exception as e:  # noqa: BLE001
-        merknader.append(f"{avtale['navn']}: fikk ikke lastet ned {url} ({e}). Bruker filen i {avtale['mappe']}/kilde/.")
-        return
-    navn = Path(url.split("?")[0]).name
-    gammel = gjeldende_kilde(mappe)
-    if gammel and hashlib.sha256(gammel.read_bytes()).hexdigest() == hashlib.sha256(data).hexdigest():
-        return
-    (mappe / "kilde").mkdir(parents=True, exist_ok=True)
-    if gammel and gammel.name != navn:
-        arkiv = mappe / "kilde" / "tidligere"
-        arkiv.mkdir(exist_ok=True)
-        shutil.move(str(gammel), arkiv / gammel.name)
-    (mappe / "kilde" / navn).write_bytes(data)
-    merknader.append(f"{avtale['navn']}: ny kildefil lastet ned fra {url}")
-
-
-def bygg_avtale(avtale: dict, feil: list, merknader: list, indeks: list) -> str | None:
-    """Bygger én avtale. Returnerer raden til tabellen i CLAUDE.md, eller None hvis kilden mangler."""
-    mappe = ROT / avtale["mappe"]
-    kilde = gjeldende_kilde(mappe)
-    if not kilde:
-        merknader.append(f"{avtale['navn']}: ingen kildefil i {avtale['mappe']}/kilde/ ennå. Last den opp i innboksen.")
+def finn_periode(tekst: str) -> str | None:
+    """Avtaleperioden fra forsiden, f.eks. «1. mai 2026 – 30. april 2028»."""
+    m = PERIODE.search(tekst[:3000])
+    if not m:
         return None
+    d1, m1, å1, d2, m2, å2 = m.groups()
+    return f"{d1}. {m1.lower()} {å1} – {d2}. {m2.lower()} {å2}"
+
+
+def _datoer(periode: str):
+    m = PERIODE.search(periode or "")
+    if not m:
+        return None
+    d1, m1, å1, d2, m2, å2 = m.groups()
+    return (date(int(å1), MÅNEDER.index(m1.lower()) + 1, int(d1)),
+            date(int(å2), MÅNEDER.index(m2.lower()) + 1, int(d2)))
+
+
+def bygg_avtale(avtale: dict, kilde: Path, feil: list, merknader: list, indeks: list) -> str | None:
+    """Deler opp én avtale fra kildefilen. Returnerer perioden som står i avtalen (kan være
+    tom streng), eller None hvis oppdelingen feilet."""
+    mappe = ROT / avtale["mappe"]
     try:
         tekst = til_tekst(kilde)
     except Exception as e:  # noqa: BLE001
         feil.append(f"{avtale['navn']}: kunne ikke lese {kilde.name}: {e}")
         return None
+    avtale["periode"] = finn_periode(tekst) or avtale.get("periode", "")
     oppdelt = del_opp_etter_overskrifter(tekst) if kilde.suffix.lower() == ".docx" else None
     if oppdelt:
         deler, tekst = oppdelt
@@ -346,7 +336,8 @@ def bygg_avtale(avtale: dict, feil: list, merknader: list, indeks: list) -> str 
         "## Kilder",
         "",
         f"- **Avtale:** {avtale['navn']} {avtale.get('periode', '')}".rstrip(),
-        f"- **Kildefil:** `kilde/{kilde.name}` ({avtale.get('utgiver', 'regjeringen.no')})",
+        f"- **Kildefil:** `{kilde.name}` ({avtale.get('utgiver', 'regjeringen.no')}), lagt inn "
+        f"{date.today().isoformat()}. Filen er slettet etter oppdelingen og finnes i Git-historikken.",
         f"- **Sjekksum for kildefilen:** {hashlib.sha256(kilde.read_bytes()).hexdigest()[:12]}",
         "",
         "Dette er tariffavtaletekst, ikke lov- eller forskriftstekst.",
@@ -362,7 +353,7 @@ def bygg_avtale(avtale: dict, feil: list, merknader: list, indeks: list) -> str 
         linjer.append(f"- {tittel} – `{fil.relative_to(mappe).as_posix()}`")
         indeks.append(f"{avtale['navn']}\tTariffavtale\t{tittel}\t{fil.relative_to(ROT).as_posix()}")
     erstatt_auto(mappe / "VEIVISER.md", "\n".join(linjer), f"# {avtale['navn']}: veiviser\n")
-    return f"| {avtale['navn']} | `{avtale['mappe']}/VEIVISER.md` | {avtale.get('periode', 'ukjent')} |"
+    return avtale["periode"]
 
 
 ANDRE_START = "<!-- AUTO-START andre kilder: genereres av verktoy/bygg.py, ikke rediger for hånd -->"
@@ -392,10 +383,14 @@ def oppdater_claude(config: dict) -> None:
 
 
 def oppdater_indeks(navn: str, rader: list) -> None:
-    """Bytter ut radene for én avtale i indeks.tsv (brukes når innboksen bygger avtalen)."""
+    """Bytter ut radene for én avtale i indeks.tsv på samme plass (brukes når innboksen bygger avtalen)."""
     fil = ROT / "indeks.tsv"
     linjer = fil.read_text(encoding="utf-8").splitlines() if fil.exists() else ["lov\tdokument\tparagraf\tsti"]
-    linjer = [linje for linje in linjer if not linje.startswith(f"{navn}\t")] + rader
+    gamle = [i for i, linje in enumerate(linjer) if linje.startswith(f"{navn}\t")]
+    plass = gamle[0] if gamle else len(linjer)
+    linjer = [linje for linje in linjer[:plass] if not linje.startswith(f"{navn}\t")] + rader + [
+        linje for linje in linjer[plass:] if not linje.startswith(f"{navn}\t")
+    ]
     fil.write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
@@ -410,15 +405,66 @@ def erstatt_auto(fil: Path, innhold: str, skjelett: str, start: str = AUTO_START
     fil.write_text(tekst, encoding="utf-8")
 
 
-def main() -> int:
-    config = json.loads((ROT / "regelverk.json").read_text(encoding="utf-8"))
-    feil, merknader, indeks = [], [], []
+def varsler(config: dict, idag: date) -> list:
+    """Saker som skal åpnes i GitHub: etter mellomoppgjøret (fra 1. juni året etter at perioden
+    starter) og når perioden er ute. Datoene kommer fra perioden i regelverk.json, som innboksen
+    oppdaterer fra forsiden av hver ny avtale."""
+    ut = []
     for a in config.get("avtaler", []):
-        print(bygg_avtale(a, feil, merknader, indeks))
+        datoer = _datoer(a.get("periode", ""))
+        if not datoer:
+            continue
+        start, slutt = datoer
+        hvordan = (f"Last ned Word-filen fra regjeringen.no og legg den i `innboks/` med et filnavn som begynner på "
+                   f"`{a.get('filprefiks', a['mappe'])}`. Da deles den opp og legges inn automatisk. Lukk saken når det er gjort.")
+        mellom = date(start.year + 1, 6, 1)
+        if mellom < slutt and idag >= mellom:
+            ut.append((f"Se etter ny utgave av {a['navn']} etter mellomoppgjøret {mellom.year}",
+                       f"Perioden er {a['periode']}. Mellomoppgjøret {mellom.year} kan ha endret avtalen. "
+                       f"Når regjeringen.no har lagt ut en oppdatert utgave, bør den inn i basen.\n\n{hvordan}"))
+        if idag > slutt:
+            ut.append((f"{a['navn']} {start.year}–{slutt.year} er utløpt",
+                       f"Avtalen i basen gjaldt {a['periode']}. Når den nye avtalen er lagt ut på regjeringen.no, "
+                       f"bør den inn i basen. Til da svarer basen ut fra den utløpte avtalen.\n\n{hvordan}"))
+    return ut
+
+
+def varsle() -> int:
+    """Åpner sakene fra varsler() i GitHub med gh, én gang per sak (også om den er lukket)."""
+    config = json.loads((ROT / "regelverk.json").read_text(encoding="utf-8"))
+    for tittel, tekst in varsler(config, date.today()):
+        finnes = subprocess.run(
+            ["gh", "issue", "list", "--state", "all", "--search", f"\"{tittel}\" in:title", "--json", "title", "--jq", ".[].title"],
+            capture_output=True, text=True, check=True, cwd=ROT,
+        ).stdout.splitlines()
+        if tittel in finnes:
+            print(f"Finnes allerede: {tittel}")
+            continue
+        subprocess.run(["gh", "issue", "create", "--title", tittel, "--body", tekst], check=True, cwd=ROT)
+        print(f"Åpnet sak: {tittel}")
+    return 0
+
+
+def main() -> int:
+    if sys.argv[1:] == ["--varsle"]:
+        return varsle()
+    if len(sys.argv) != 2:
+        print(__doc__)
+        return 2
+    kilde = Path(sys.argv[1]).resolve()
+    config = json.loads((ROT / "regelverk.json").read_text(encoding="utf-8"))
+    avtale = next((a for a in config.get("avtaler", []) if kilde.name.lower().startswith(a.get("filprefiks", a["mappe"]))), None)
+    if not avtale:
+        print(f"Fant ingen avtale i regelverk.json som passer filnavnet {kilde.name}")
+        return 2
+    feil, merknader, indeks = [], [], []
+    print(bygg_avtale(avtale, kilde, feil, merknader, indeks))
     for m in merknader:
         print("MERK:", m)
     for f in feil:
         print("FEIL:", f)
+    if not feil:
+        oppdater_indeks(avtale["navn"], indeks)
     return 1 if feil else 0
 
 

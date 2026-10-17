@@ -249,30 +249,39 @@ def er_tariffavtale(fil: Path, avtale: dict) -> bool:
 
 
 def legg_inn_avtale(fil: Path, avtale: dict, config: dict) -> str:
+    """Deler opp avtalen rett fra innboksen og sletter Word-filen når det har gått bra.
+    Filen finnes da bare i Git-historikken; nattbygget rører ikke avtalen."""
     import avtale as avtalemodul
 
-    mappe = ROT / avtale["mappe"] / "kilde"
-    tidligere = mappe / "tidligere"
-    tidligere.mkdir(parents=True, exist_ok=True)
-    flyttet = []
-    for gammel in [f for f in mappe.iterdir() if f.is_file()]:
-        shutil.move(str(gammel), tidligere / gammel.name)
-        flyttet.append(gammel.name)
-    ny = mappe / fil.name
-    shutil.move(str(fil), ny)
     feil, merknader, indeks = [], [], []
-    if not avtalemodul.bygg_avtale(avtale, feil, merknader, indeks) or feil:
-        # Rull tilbake: filen tilbake i innboksen, forrige kildefil og oppdeling tilbake på plass
-        shutil.move(str(ny), fil)
-        utmappe = str(ROT / avtale["mappe"] / "avtale")
-        subprocess.run(["git", "checkout", "--", utmappe], cwd=ROT, capture_output=True)
-        subprocess.run(["git", "clean", "-fdq", "--", utmappe], cwd=ROT, capture_output=True)
-        for navn in flyttet:
-            shutil.move(str(tidligere / navn), mappe / navn)
+    periode = avtalemodul.bygg_avtale(avtale, fil, feil, merknader, indeks)
+    if periode is None or feil:
+        # Rull tilbake: forrige oppdeling og veiviser tilbake på plass; filen blir liggende i innboksen
+        mappe = str(ROT / avtale["mappe"])
+        subprocess.run(["git", "checkout", "--", mappe], cwd=ROT, capture_output=True)
+        subprocess.run(["git", "clean", "-fdq", "--", mappe], cwd=ROT, capture_output=True)
         raise ValueError("; ".join(feil + merknader) or "oppdelingen feilet")
+    lagre_periode(avtale["mappe"], periode, config)
     avtalemodul.oppdater_indeks(avtale["navn"], indeks)
     avtalemodul.oppdater_claude(config)
-    return f"Lagt inn: {fil.name} -> {avtale['mappe']}/ ({len(indeks)} filer)"
+    fil.unlink()
+    return f"Lagt inn: {fil.name} -> {avtale['mappe']}/ ({len(indeks)} filer, periode {periode or 'ukjent'}). Word-filen er slettet."
+
+
+def lagre_periode(mappe: str, periode: str, config: dict) -> None:
+    """Skriver perioden fra forsiden av avtalen inn i regelverk.json. Varslene i nattbygget bygger på den."""
+    if not periode:
+        return
+    fil = ROT / "regelverk.json"
+    tekst = fil.read_text(encoding="utf-8")
+    data = json.loads(tekst)
+    for a in data.get("avtaler", []):
+        if a["mappe"] == mappe and a.get("periode") != periode:
+            a["periode"] = periode
+            fil.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    for a in config.get("avtaler", []):
+        if a["mappe"] == mappe:
+            a["periode"] = periode
 
 
 def main() -> int:

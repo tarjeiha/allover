@@ -24,13 +24,13 @@ Finn punktet i listen under «Innhold», og åpne filen før du svarer. Merknade
 
 ## Oppdatering
 
-Avtalen ligger ikke på Lovdata. Ved hvert oppgjør lastes Word-filen fra regjeringen.no opp i `innboks/` med et filnavn som begynner på `hovedtariffavtale`. Da deles den opp automatisk, og forrige kildefil flyttes til `kilde/tidligere/`.
+Avtalen ligger ikke på Lovdata. Ved hvert oppgjør lastes Word-filen fra regjeringen.no opp i `innboks/` med et filnavn som begynner på `hovedtariffavtale`. Da deles den opp automatisk, perioden hentes fra forsiden, og Word-filen slettes etterpå (den finnes i Git-historikken). Bygget åpner en sak i GitHub når det er tid for å se etter ny utgave: etter mellomoppgjøret og når perioden er ute.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
 
 - **Avtale:** Hovedtariffavtalen i staten 1. mai 2026 – 30. april 2028
-- **Kildefil:** `kilde/hovedtariffavtale_2026-2028.docx` (regjeringen.no, Digitaliserings- og forvaltningsdepartementet)
+- **Kildefil:** `hovedtariffavtale_2026-2028.docx` (regjeringen.no, Digitaliserings- og forvaltningsdepartementet), lagt inn 2026-10-17. Filen er slettet etter oppdelingen og finnes i Git-historikken.
 - **Sjekksum for kildefilen:** 66505ecbc65f
 
 Dette er tariffavtaletekst, ikke lov- eller forskriftstekst.
