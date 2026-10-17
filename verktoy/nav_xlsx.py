@@ -81,7 +81,7 @@ def les_ark(ws):
     return ingress, noter, blokker
 
 
-def skriv_ark(sti, ark, ingress, noter, blokker, meta):
+def skriv_ark(sti, ark, ingress, noter, blokker, meta, prefiks=None):
     etiketter = {b["etikett"] for b in blokker}
     gruppert = any(b["gruppe"] or any(g for g, _ in b["rader"]) for b in blokker) or len(etiketter) > 1
     linjer = [f"# {k}: {v}" for k, v in meta]
@@ -90,17 +90,19 @@ def skriv_ark(sti, ark, ingress, noter, blokker, meta):
     forrige = None
     delt = any(g for b in blokker for g, _ in b["rader"])
     for b in blokker:
+        if prefiks and not b["rader"]:
+            continue  # overskriftslinje uten data (tittellinje med dato) i filer som slås sammen
         ar = b["rader"] and all(re.fullmatch(r"(19|20)\d\d", r[0]) for _, r in b["rader"] if r)
         navn = "år" if ar else "kategori" if re.fullmatch(r"\d\. kvartal", b["etikett"]) else b["etikett"] if len(etiketter) == 1 and b["etikett"] else "rad"
         gruppe = b["gruppe"] or (b["etikett"] or "I alt" if len(etiketter) > 1 else "")
         kol = ([("gruppe")] if gruppert else []) + [navn] + b["kolonner"]
         if kol != forrige:
-            linjer.append("\t".join(kol))
+            linjer.append("\t".join(([prefiks[0]] if prefiks else []) + kol))
             forrige = kol
         for g, r in b["rader"]:
             r = r + [""] * (len(b["kolonner"]) + 1 - len(r))
             rg = g or gruppe or ("I alt" if delt else "")
-            linjer.append("\t".join(([rg] if gruppert else []) + r))
+            linjer.append("\t".join(([prefiks[1]] if prefiks else []) + ([rg] if gruppert else []) + r))
     sti.write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
@@ -155,8 +157,8 @@ def tall_i_tsv(mappe):
     return ut
 
 
-def main(fil, ut, tittel, side, oppdatert="", neste=""):
-    """Konverterer fil til ut. Returnerer antall TSV-filer og tall som mangler eller er lagt til (skal være 0)."""
+def main(fil, ut, tittel, side, oppdatert="", neste="", prefiks=None):
+    """Konverterer fil til ut. prefiks=(kolonnenavn, verdi) legger en kolonne først i hver TSV (brukes når perioder slås sammen). Returnerer antall TSV-filer og tall som mangler eller er lagt til (skal være 0)."""
     ut = Path(ut)
     ut.mkdir(parents=True, exist_ok=True)
     wb = openpyxl.load_workbook(fil, data_only=True)
@@ -169,7 +171,7 @@ def main(fil, ut, tittel, side, oppdatert="", neste=""):
         if not blokker:
             om += [f"## {ws.title}\n"] + [f"- {t}" for t in ingress] + [""]
             continue
-        skriv_ark(ut / f"{slug(ws.title)}.tsv", ws.title, ingress, noter, blokker, meta)
+        skriv_ark(ut / f"{slug(ws.title)}.tsv", ws.title, ingress, noter, blokker, meta, prefiks)
         n += 1
     (ut / "om.md").write_text("\n".join(om) + "\n", encoding="utf-8")
     kilde, kopi = tall_i_xlsx(wb), tall_i_tsv(ut)
