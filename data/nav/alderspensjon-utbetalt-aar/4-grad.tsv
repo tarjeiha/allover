@@ -1,0 +1,11 @@
+# Kilde: Nav
+# Tabell: Utbetalt alderspensjon, årlig beløp (PST020)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 4. Grad
+gruppe	rad	Kilde: NAV			Utbetalt alderspensjon. Kjønn, alder og fylke. 2015 - 2025
+gruppe	rad			2015		2016	2017	2018	2019	2020	2021	2022	2023	2024		2025
+Gjennomsnittlig årlig beløp og gradert uttak	I alt			222527.071889		228071.755387	232577.616825	237855.94978	244276.264223	248000.547832	257738.178804	269246.467229	287926.757357	300479.711551		310683.866392
+Gjennomsnittlig årlig beløp og gradert uttak	Fullt uttak			224534.845144		230185.224306	234762.082259	240208.367537	246720.907044	250564.327364	260495.554951	272242.662095	291222.566681	303988.737663		314290.960944
+Gjennomsnittlig årlig beløp og gradert uttak	Gradert uttak*			91166.940958		90421.721845	90631.851761	92417.205866	93878.710778	93436.127367	95113.639768	99346.7988	105226.621726	109400.355844		112662.456136
+gruppe	rad			Oppgis ikke		Oppgis ikke	Oppgis ikke	Oppgis ikke	Oppgis ikke	Oppgis ikke	Oppgis ikke	Oppgis ikke	Oppgis ikke	Oppgis ikke		Oppgis ikke

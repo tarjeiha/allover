@@ -1,0 +1,24 @@
+# Kilde: Nav
+# Tabell: Utbetalt alderspensjon, månedlig beløp (PST021)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 3. Grad
+gruppe	rad	Kilde: NAV				Utbetalt alderspensjon. Alder, kjønn, grad og fylke. Periode: 2025-6 til 2026-6
+gruppe	rad			2025			2025			2025		2025		2025		2025		2025		2026		2026		2026		2026		2026		2026
+gruppe	rad			Juni			Juli			August		September		Oktober		November		Desember		Januar		Februar		Mars		April		Mai		Juni
+I alt	I alt			26206.690005			26216.332609			26210.714266		26207.725039		26197.686443		26186.728821		26179.107483		26220.251721		26212.73033		26203.284271		26196.765659		27403.036885		27395.407369
+I alt	Fullt uttak			26511.282152			26519.342208			26512.952635		26508.889294		26499.937874		26491.221701		26484.00769		26522.538887		26514.148267		26506.208776		26498.486853		27717.964004		27710.524221
+I alt	Gradert uttak*			9505.701192			9516.310768			9511.853451		9499.865787		9468.119158		9449.218054		9443.805557		9491.178096		9483.485826		9409.609797		9366.693584		9791.696349		9752.354849
+gruppe	rad			Oppgis ikke			Oppgis ikke			Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke
+gruppe	rad				2025			2025			2025		2025		2025		2025		2025		2026		2026		2026		2026		2026		2026
+gruppe	rad				Juni			Juli			August		September		Oktober		November		Desember		Januar		Februar		Mars		April		Mai		Juni
+I alt		I alt			24209.314419			24235.639954			24241.814531		24250.290217		24251.707055		24253.915726		24257.737815		24291.600485		24294.147498		24296.363827		24301.399995		25417.173957		25420.954084
+I alt		Fullt uttak			24436.069483			24461.721392			24465.636573		24472.584499		24475.310135		24478.685674		24482.012332		24514.228707		24516.140357		24518.821021		24522.311311		25647.984304		25651.161249
+I alt		Gradert uttak*			9914.085453			9910.343441			9939.578337		9948.457972		9912.841943		9897.598096		9906.573159		9938.592978		9929.452412		9866.758244		9797.946801		10240.242428		10191.960457
+gruppe	rad	Ukjent grad			Oppgis ikke			Oppgis ikke			Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke
+gruppe	rad				2025			2025			2025		2025		2025		2025		2025		2026		2026		2026		2026		2026		2026
+gruppe	rad				Juni			Juli			August		September		Oktober		November		Desember		Januar		Februar		Mars		April		Mai		Juni
+I alt		I alt			28279.703386			28272.555254			28254.708815		28239.197773		28217.242923		28193.206853		28174.459319		28222.086795		28203.647208		28181.495523		28163.157571		29463.7709		29444.741408
+I alt		Fullt uttak			28675.359362			28665.571448			28648.822344		28632.761058		28611.558493		28591.108267		28573.917826		28617.773604		28598.164226		28578.752859		28559.828368		29877.532624		29859.7862
+I alt		Gradert uttak*			9179.551957			9201.558164			9173.696083		9147.007949		9117.652413		9097.533653		9082.747453		9141.844287		9135.835443		9055.501424		9036.063476		9447.108342		9417.478575
+gruppe	rad	Ukjent grad			Oppgis ikke			Oppgis ikke			Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke		Oppgis ikke

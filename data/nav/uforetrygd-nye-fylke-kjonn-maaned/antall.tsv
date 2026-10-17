@@ -1,0 +1,62 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd etter fylke og kjønn, måned (PST313)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk
+# Lagt inn: 2026-10-17
+# Ark: Antall
+# PST313 Nye mottakere av uføretrygd. Fylke. Kjønn. År. Måned.
+gruppe	rad	Antall									Rapport oppdatert: 02.09.2026
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+2026 :	I alt	3012	2670	3285	2549	2104	2100	2526	1761
+2026 :	03 Oslo - Oslove	245	253	377	280	194	185	229	200
+2026 :	11 Rogaland	212	230	203	175	145	170	186	108
+2026 :	15 Møre og Romsdal	146	104	96	95	109	119	109	46
+2026 :	18 Nordland - Nordlánnda	235	160	183	137	129	91	112	79
+2026 :	31 Østfold	168	212	230	196	136	183	180	131
+2026 :	32 Akershus	264	351	399	244	229	246	307	218
+2026 :	33 Buskerud	189	115	239	160	109	94	131	146
+2026 :	34 Innlandet	296	200	306	220	152	132	190	121
+2026 :	39 Vestfold	108	150	161	119	82	98	141	85
+2026 :	40 Telemark	129	76	104	99	88	75	103	72
+2026 :	42 Agder	285	169	251	189	160	147	187	124
+2026 :	46 Vestland	269	218	219	232	222	215	214	111
+2026 :	50 Trøndelag - Trööndelage	246	274	330	243	207	172	249	171
+2026 :	55 Troms - Romsa - Tromssa	122	67	77	75	75	72	97	68
+2026 :	56 Finnmark - Finnmárku - Finmarkku	48	42	41	38	26	33	44	31
+2026 :	98 Utland	*	*	*	*	*	*	*	*
+2026 :	Ukjent	*	*	*	*	*	*	*	*
+	Kvinner i alt	1768	1559	1886	1446	1222	1205	1456	977
+	03 Oslo - Oslove	134	135	193	150	121	95	123	107
+	11 Rogaland	118	157	124	99	84	100	119	62
+	15 Møre og Romsdal	101	63	64	55	76	70	78	28
+	18 Nordland - Nordlánnda	141	83	117	83	69	53	71	37
+	31 Østfold	96	130	121	110	71	99	107	75
+	32 Akershus	158	214	238	138	123	151	182	123
+	33 Buskerud	112	59	145	100	64	60	76	81
+	34 Innlandet	198	110	187	128	96	72	108	85
+	39 Vestfold	59	91	89	59	45	59	80	42
+	40 Telemark	73	40	67	56	47	39	65	40
+	42 Agder	168	97	144	109	93	80	104	67
+	46 Vestland	155	133	118	133	127	122	106	69
+	50 Trøndelag - Trööndelage	137	172	190	142	135	106	147	88
+	55 Troms - Romsa - Tromssa	75	31	45	50	42	51	57	34
+	56 Finnmark - Finnmárku - Finmarkku	26	26	23	17	18	18	22	20
+	98 Utland	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*
+	Menn i alt	1244	1111	1399	1103	882	895	1070	784
+	03 Oslo - Oslove	111	118	184	130	73	90	106	93
+	11 Rogaland	94	73	79	76	61	70	67	46
+	15 Møre og Romsdal	45	41	32	40	33	49	31	18
+	18 Nordland - Nordlánnda	94	77	66	54	60	38	41	42
+	31 Østfold	72	82	109	86	65	84	73	56
+	32 Akershus	106	137	161	106	106	95	125	95
+	33 Buskerud	77	56	94	60	45	34	55	65
+	34 Innlandet	98	90	119	92	56	60	82	36
+	39 Vestfold	49	59	72	60	37	39	61	43
+	40 Telemark	56	36	37	43	41	36	38	32
+	42 Agder	117	72	107	80	67	67	83	57
+	46 Vestland	114	85	101	99	95	93	108	42
+	50 Trøndelag - Trööndelage	109	102	140	101	72	66	102	83
+	55 Troms - Romsa - Tromssa	47	36	32	25	33	21	40	34
+	56 Finnmark - Finnmárku - Finmarkku	22	16	18	21	8	15	22	11
+	98 Utland	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*

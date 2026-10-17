@@ -1,0 +1,14 @@
+# Kilde: Nav
+# Tabell: Alderspensjonister med gradert uttak, tidsserie (PST051)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 1. Antall. Grad
+# Alderspensjonister med gradert uttak (20, 40, 50, 60 og 80 prosent). Juni 2016 - 2026
+# Grad. Alderspensjonister på nytt regelverk. Antall
+rad		2016		2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Totalt (20-80)		11421		12561	13818	14578	15719	16315	17389	18207	18913	19213	19242
+20		2976		3545	4071	4493	5282	5847	6132	6529	6763	7047	7413
+40		1529		1593	1708	1741	1752	1720	1913	1983	1966	1895	1928
+50		3208		3322	3338	3335	3374	3272	3359	3520	3603	3561	3517
+60		1481		1629	1805	1911	1972	2033	2238	2358	2520	2552	2381
+80		2227		2472	2896	3098	3339	3443	3747	3817	4061	4158	4003

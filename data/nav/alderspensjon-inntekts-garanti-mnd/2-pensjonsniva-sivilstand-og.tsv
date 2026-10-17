@@ -1,0 +1,46 @@
+# Kilde: Nav
+# Tabell: Alderspensjonister med inntekts- og garantipensjon, siste måned (PST083)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 2. Pensjonsnivå, sivilstand og 
+# Alderspensjonister med inntekts- og garantipensjon. Pensjonsnivå. Juni 2026
+# Pensjonsnivå, sivilstand og fylke
+# Over garantipensjonsnivået
+gruppe	rad		I alt	Enslige	Gift/samboende	Ukjent
+	I alt		317014	129838	187150	26
+	Østfold		19757	8099	11658	* *
+	Akershus		37176	14558	22618	* *
+	Oslo - Oslove		24916	12420	12496	* *
+	Innlandet		26742	11837	14905	* *
+	Buskerud		16077	6854	9223	* *
+	Vestfold		17102	7148	9954	* *
+	Telemark		12188	4974	7214	* *
+	Agder		18825	6990	11835	* *
+	Rogaland		26827	8874	17953	* *
+	Vestland		37860	14189	23671	* *
+	Møre og Romsdal		17895	6796	11099	* *
+	Trøndelag - Trööndelage		28266	11699	16567	* *
+	Nordland - Nordlánnda		16535	7237	9298	* *
+	Troms - Romsa - Tromssa		10210	4683	5527	* *
+	Finnmark - Finnmárku - Finmarkku		4448	2268	2180	* *
+	Ukjent		421	297	124	* *
+	Utland		1769	915	828	26
+gruppe	rad		I alt	Enslige	Gift/samboende
+På eller under garantipensjonsnivået	I alt		12165	3676	8489
+På eller under garantipensjonsnivået	Østfold		786	210	576
+På eller under garantipensjonsnivået	Akershus		929	274	655
+På eller under garantipensjonsnivået	Oslo - Oslove		525	161	364
+På eller under garantipensjonsnivået	Innlandet		1367	567	800
+På eller under garantipensjonsnivået	Buskerud		609	194	415
+På eller under garantipensjonsnivået	Vestfold		623	152	471
+På eller under garantipensjonsnivået	Telemark		540	133	407
+På eller under garantipensjonsnivået	Agder		837	174	663
+På eller under garantipensjonsnivået	Rogaland		1207	209	998
+På eller under garantipensjonsnivået	Vestland		1412	331	1081
+På eller under garantipensjonsnivået	Møre og Romsdal		785	195	590
+På eller under garantipensjonsnivået	Trøndelag - Trööndelage		1168	424	744
+På eller under garantipensjonsnivået	Nordland - Nordlánnda		503	187	316
+På eller under garantipensjonsnivået	Troms - Romsa - Tromssa		276	121	155
+På eller under garantipensjonsnivået	Finnmark - Finnmárku - Finmarkku		104	48	56
+På eller under garantipensjonsnivået	Ukjent		8	4	4
+På eller under garantipensjonsnivået	Utland		486	292	194

@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Uføretrygd: de mest brukte enkeltdiagnosene (tabell 3)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd
+# Lagt inn: 2026-10-17
+# Ark: Antall
+# Tabell: Mottakere av uføretrygd. Enkeltdiagnoser (primærdiagnose) år. Per desember 2017-2025. Antall.
+# Alder 18-29 år.
+ICD10	Enkeltdiagnoser - de mest brukte	2017	2018	2019	2020	2021	2022	2023	2024	2025
+F845	Aspergers syndrom	7.426619	8.146176	8.656865	9.056043	9.421642	9.653023	9.817948	10.369642	10.971053
+F70,F700-F709	Lett psykisk utviklingshemming	12.303897	11.800588	11.103912	10.834652	10.583022	10.27639	10.074747	9.927144	9.755549
+F840	Barneautisme	5.073381	5.007486	4.963867	4.952299	5.013993	5.101526	5.319393	5.596031	5.991987
+F90 (F900-F909)	Hyperkinetiske forstyrrelser (ADHD)	5.10501	5.118394	4.824321	4.736565	4.552239	4.533162	4.484798	4.608233	4.713456
+Q90 (Q900-Q909)	Downs syndrom	4.883603	4.408584	4.116621	4.017451	3.983209	4.138974	4.223414	4.281947	4.393823
+F841	Atypisk autisme	2.214069	2.351245	2.636432	2.77578	3.166978	3.501856	3.902417	4.10763	4.375816
+F431	Posttraumatisk stresslidelse (PTSD)	1.739626	2.256973	3.015201	3.264778	3.58209	3.896044	4.039987	4.138917	4.04718
+G933	Postviralt utmattelsessyndrom (ME)	1.480263	2.362336	3.060055	3.111367	3.446828	3.721868	3.897831	3.915434	3.718543
+F849	Uspesifisert gjennomgripende utviklingsforstyrrelse	1.100709	1.181168	1.305756	1.414258	1.693097	1.934271	2.1461	2.485138	2.86769
+F83	Blandet utviklingsforstyrrelse i spesifikke ferdigheter	1.59413	1.874341	2.033391	2.080637	2.070896	2.126782	2.201128	2.199079	2.219421
+F845	Aspergers syndrom	1174	1469	1737	1889	2020	2106	2141	2320	2437
+F70,F700-F709	Lett psykisk utviklingshemming	1945	2128	2228	2260	2269	2242	2197	2221	2167
+F840	Barneautisme	802	903	996	1033	1075	1113	1160	1252	1331
+F90 (F900-F909)	Hyperkinetiske forstyrrelser (ADHD)	807	923	968	988	976	989	978	1031	1047
+Q90 (Q900-Q909)	Downs syndrom	772	795	826	838	854	903	921	958	976
+F841	Atypisk autisme	350	424	529	579	679	764	851	919	972
+F431	Posttraumatisk stresslidelse (PTSD)	275	407	605	681	768	850	881	926	899
+G933	Postviralt utmattelsessyndrom (ME)	234	426	614	649	739	812	850	876	826
+F849	Uspesifisert gjennomgripende utviklingsforstyrrelse	174	213	262	295	363	422	468	556	637
+F83	Blandet utviklingsforstyrrelse i spesifikke ferdigheter	252	338	408	434	444	464	480	492	493

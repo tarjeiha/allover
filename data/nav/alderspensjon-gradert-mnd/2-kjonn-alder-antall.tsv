@@ -1,0 +1,33 @@
+# Kilde: Nav
+# Tabell: Alderspensjonister med gradert uttak, siste måned (PST050)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 2. Kjønn. Alder. Antall
+# Alderspensjonister med gradert uttak (20, 40, 50, 60, 80 prosent). Juni 2026
+# Alder og kjønn. Alderspensjonister på nytt regelverk. Antall
+# Kvinner
+gruppe	rad				I alt			Grad: 20	Grad: 40	Grad: 50	Grad: 60	Grad: 80
+			I alt		8320			2449	943	1764	1225	1939
+			62		1450			761	118	191	139	241
+			63		1453			537	147	277	171	321
+			64		1334			353	121	299	243	318
+			65		1288			311	171	340	200	266
+			66		1322			261	202	339	216	304
+			67		541			110	77	143	80	131
+			68		312			58	47	68	56	83
+			69		202			32	27	40	37	66
+			70-74		408			23	32	66	82	205
+			75-79		9			*	*	*		4
+			80-84		*						*	
+Menn			I alt		10922			4964	985	1753	1156	2064
+Menn			62		1980			1375	115	195	77	218
+Menn			63		1875			1004	143	269	171	288
+Menn			64		1797			778	161	310	186	362
+Menn			65		1678			675	185	326	193	299
+Menn			66		1628			591	182	305	232	318
+Menn			67		724			246	78	138	103	159
+Menn			68		414			129	47	73	60	105
+Menn			69		321			92	31	55	46	97
+Menn			70-74		491			72	42	79	86	212
+Menn			75-79		9			*	*	*	*	4
+Menn			80-84		5					*	*	*

@@ -1,0 +1,44 @@
+# Kilde: Nav
+# Tabell: Nye alderspensjonister med inntekts- og garantipensjon (PST082)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 2. Sivilstand, pensjonsnivå, fy
+# Nye alderspensjonister med inntekts- og garantipensjon. 1. - 2. kvartal 2026
+# Antall nye alderspensjonister med inntekts- og garantipensjon. Pensjonsnivå, sivilstand og fylke
+# Over garantipensjonsnivået
+gruppe	rad		I alt	Enslige	Gift/samboende	Ukjent
+	I alt		18849	8369	10478	*
+	Østfold		1213	553	660	* *
+	Akershus		2236	920	1316	* *
+	Oslo - Oslove		1724	873	851	* *
+	Innlandet		1567	753	814	* *
+	Buskerud		923	418	505	* *
+	Vestfold		1078	513	565	* *
+	Telemark		697	321	376	* *
+	Agder		1102	438	664	* *
+	Rogaland		1367	489	878	* *
+	Vestland		2217	875	1342	* *
+	Møre og Romsdal		989	416	573	* *
+	Trøndelag - Trööndelage		1712	795	917	* *
+	Nordland - Nordlánnda		1026	486	540	* *
+	Troms - Romsa - Tromssa		588	298	290	* *
+	Finnmark - Finnmárku - Finmarkku		274	146	128	* *
+	Utland		102	50	50	*
+	Ukjent		34	25	9	* *
+gruppe	rad		I alt	Enslige	Gift/samboende
+På eller under garantipensjonsnivået	I alt		244	149	95
+På eller under garantipensjonsnivået	Østfold		11	5	6
+På eller under garantipensjonsnivået	Akershus		31	14	17
+På eller under garantipensjonsnivået	Oslo - Oslove		19	9	10
+På eller under garantipensjonsnivået	Innlandet		16	13	*
+På eller under garantipensjonsnivået	Buskerud		12	5	7
+På eller under garantipensjonsnivået	Vestfold		11	6	5
+På eller under garantipensjonsnivået	Telemark		9	5	4
+På eller under garantipensjonsnivået	Agder		8	6	*
+På eller under garantipensjonsnivået	Rogaland		20	7	13
+På eller under garantipensjonsnivået	Vestland		20	14	6
+På eller under garantipensjonsnivået	Møre og Romsdal		14	7	7
+På eller under garantipensjonsnivået	Trøndelag - Trööndelage		12	11	*
+På eller under garantipensjonsnivået	Nordland - Nordlánnda		9	7	*
+På eller under garantipensjonsnivået	Troms - Romsa - Tromssa		*	*	* *
+På eller under garantipensjonsnivået	Utland		49	37	12

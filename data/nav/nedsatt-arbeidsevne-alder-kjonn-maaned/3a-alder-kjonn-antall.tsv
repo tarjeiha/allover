@@ -1,0 +1,18 @@
+# Kilde: Nav
+# Tabell: Personer med nedsatt arbeidsevne etter alder og kjønn, måned (NED120)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne
+# Lagt inn: 2026-10-17
+# Ark: 3a. Alder Kjønn Antall
+# Personer med nedsatt arbeidsevne. Alder og kjønn. Tidsserie måned
+# Alder og kjønn. Antall
+# Januar - august 2026
+rad	202601	202602	202603	202604	202605	202606	202607	202608
+rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+	246952	247601	247429	247913	248760	252419	253722	254569
+19 år og under	4549	4634	4726	4762	4871	5224	5161	5065
+20-24 år	20994	21113	21144	21222	21290	21625	21702	21791
+25-29 år	26640	26715	26640	26574	26595	27003	27153	27268
+30-39 år	59481	59587	59637	59845	60111	60861	61232	61397
+40-49 år	56895	57143	57102	57233	57506	58256	58536	58828
+50-59 år	53279	53324	53122	53107	53048	53672	53931	54041
+60 år og over	25114	25085	25058	25170	25339	25778	26007	26179

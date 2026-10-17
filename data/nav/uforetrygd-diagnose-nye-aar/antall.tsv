@@ -1,0 +1,78 @@
+# Kilde: Nav
+# Tabell: Uføretrygd: nye mottakere etter diagnose og kjønn, år (tabell 2)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd
+# Lagt inn: 2026-10-17
+# Ark: Antall
+# Tabell: Nye mottakere av uføretrygd etter hoveddiagnose (primærdiagnose), kjønn og år. 2013-2025.
+# Alder 18-29 år
+# I alt
+# Merknad: 1) De vanligste diagnosegruppene i denne gruppen er multippel sklerose, postviralt utmattelsessyndrom (ME) og epilepsi
+# Merknad: 2) De vanligste diagnosegruppene i denne gruppen er tidligere hjerteinfarkt og angina pectoris
+# Merknad: 1) De vanligste diagnosegruppene i denne gruppen er multippel sklerose, postviralt utmattelsessyndrom (ME) og epilepsi
+# Merknad: 2) De vanligste diagnosegruppene i denne gruppen er tidligere hjerteinfarkt og angina pectoris
+# Merknad: 1) De vanligste diagnosegruppene i denne gruppen er multippel sklerose, postviralt utmattelsessyndrom (ME) og epilepsi
+# Merknad: 2) De vanligste diagnosegruppene i denne gruppen er tidligere hjerteinfarkt og angina pectoris
+gruppe	Primærdiagnose:	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+	I ALT	1766	2677	2810	3029	3439	4456	4690	3645	3773	3781	3546	4007	3543
+	Svulster	23	29	37	24	37	52	64	50	50	45	44	58	46
+	Endokrine, ernærings- og metabolske sykdommer	19	17	18	13	24	50	47	29	31	36	27	50	28
+	Psykiske lidelser og atferdsforstyrrelser	1208	1882	1984	2148	2433	3125	3253	2587	2631	2627	2405	2786	2488
+	- Organiske psykiske lidelser/schizofrene og paranoide lidelser	145	229	196	186	220	289	271	214	220	235	203	204	190
+	- Depressive lidelser	22	47	56	51	47	87	78	73	57	56	51	64	33
+	- Andre affektive lidelser	36	64	51	68	70	105	113	95	72	97	64	77	52
+	- Nevroser og atferdsforstyrrelser	533	882	970	1099	1370	1820	1901	1536	1624	1602	1486	1792	1670
+	- Personlighetsforstyrrelser	94	150	149	170	230	311	426	312	290	290	275	237	194
+	- Psykiske lidelser på grunn av rusmiddel- eller tablettbruk	21	43	42	40	39	34	33	20	37	29	30	38	16
+	- Psykisk utviklingshemming	357	467	520	534	457	479	431	337	331	318	296	374	333
+	Sykdommer i nervesystemet 1)	171	259	266	313	364	530	561	399	450	474	458	478	388
+	Sykdommer i sirkulasjonssystemet 2)	14	21	20	21	17	27	30	19	25	26	23	27	24
+	Sykdommer i fordøyelsessystemet	8	24	16	26	27	38	55	35	43	46	51	39	34
+	Sykdommer i muskel-skjelettsystemet og bindevev	31	76	83	82	110	149	166	121	117	116	107	119	98
+	- Ryggsykdommer	*	24	25	16	22	21	41	31	31	24	20	25	22
+	- Andre muskel-skjelettsykdommer	*	52	58	66	88	128	125	90	86	92	87	94	76
+	Medfødte misdannelser og kromosomavvik	180	210	247	250	288	281	317	243	279	286	309	303	318
+	Skader, forgiftninger, og vold	54	73	66	65	72	92	91	68	71	56	46	58	43
+	Alle andre diagnoser	29	47	48	49	61	96	87	84	71	58	53	72	69
+	Diagnose mangler foreløpig	28	39	25	38	6	16	19	10	5	11	23	17	7
+Menn	I ALT	1033	1395	1559	1652	1838	2242	2283	1812	1864	1859	1745	1969	1745
+Menn	Svulster	16	16	16	10	19	22	28	17	22	21	20	23	22
+Menn	Endokrine, ernærings- og metabolske sykdommer	10	5	12	7	14	23	22	10	7	16	8	26	16
+Menn	Psykiske lidelser og atferdsforstyrrelser	733	1055	1178	1240	1397	1692	1723	1397	1421	1392	1332	1485	1298
+Menn	- Organiske psykiske lidelser/schizofrene og paranoide lidelser	101	157	140	142	160	191	198	145	149	153	132	143	133
+Menn	- Depressive lidelser	10	16	16	24	15	36	34	32	27	27	14	28	13
+Menn	- Andre affektive lidelser	18	17	11	19	22	32	38	36	21	39	17	26	13
+Menn	- Nevroser og atferdsforstyrrelser	336	540	624	685	813	1031	1023	859	891	859	859	959	887
+Menn	- Personlighetsforstyrrelser	50	61	72	66	104	127	178	128	114	115	104	93	58
+Menn	- Psykiske lidelser på grunn av rusmiddel- eller tablettbruk	16	29	25	24	27	21	19	12	24	19	22	18	8
+Menn	- Psykisk utviklingshemming	202	235	290	280	256	254	233	185	195	180	184	218	186
+Menn	Sykdommer i nervesystemet 1)	93	96	117	146	148	194	175	140	160	156	141	165	145
+Menn	Sykdommer i sirkulasjonssystemet 2)	4	9	10	9	10	14	12	7	14	12	11	11	9
+Menn	Sykdommer i fordøyelsessystemet	4	7	4	6	14	21	17	10	11	21	13	11	16
+Menn	Sykdommer i muskel-skjelettsystemet og bindevev	8	17	14	17	17	28	35	27	26	22	13	26	22
+Menn	- Ryggsykdommer	*	6	5	4	5	10	18	14	13	5	6	9	10
+Menn	- Andre muskel-skjelettsykdommer	*	11	9	13	12	18	17	13	13	17	7	17	12
+Menn	Medfødte misdannelser og kromosomavvik	96	102	133	137	153	143	176	126	141	157	154	150	158
+Menn	Skader, forgiftninger, og vold	34	44	36	39	38	51	48	38	34	33	26	36	27
+Menn	Alle andre diagnoser	16	20	24	19	24	44	37	35	25	23	19	29	29
+Menn	Diagnose mangler foreløpig	18	24	15	22	4	10	10	5	3	6	8	7	3
+Kvinner	I ALT	733	1282	1251	1377	1601	2214	2407	1833	1909	1922	1801	2038	1798
+Kvinner	Svulster	7	13	21	14	18	30	36	33	28	24	24	35	24
+Kvinner	Endokrine, ernærings- og metabolske sykdommer	9	12	6	6	10	27	25	19	24	20	19	24	12
+Kvinner	Psykiske lidelser og atferdsforstyrrelser	475	827	806	908	1036	1433	1530	1190	1210	1235	1073	1301	1190
+Kvinner	- Organiske psykiske lidelser/schizofrene og paranoide lidelser	44	72	56	44	60	98	73	69	71	82	71	61	57
+Kvinner	- Depressive lidelser	12	31	40	27	32	51	44	41	30	29	37	36	20
+Kvinner	- Andre affektive lidelser	18	47	40	49	48	73	75	59	51	58	47	51	39
+Kvinner	- Nevroser og atferdsforstyrrelser	197	342	346	414	557	789	878	677	733	743	627	833	783
+Kvinner	- Personlighetsforstyrrelser	44	89	77	104	126	184	248	184	176	175	171	144	136
+Kvinner	- Psykiske lidelser på grunn av rusmiddel- eller tablettbruk	5	14	17	16	12	13	14	8	13	10	8	20	8
+Kvinner	- Psykisk utviklingshemming	155	232	230	254	201	225	198	152	136	138	112	156	147
+Kvinner	Sykdommer i nervesystemet 1)	78	163	149	167	216	336	386	259	290	318	317	313	243
+Kvinner	Sykdommer i sirkulasjonssystemet 2)	10	12	10	12	7	13	18	12	11	14	12	16	15
+Kvinner	Sykdommer i fordøyelsessystemet	4	17	12	20	13	17	38	25	32	25	38	28	18
+Kvinner	Sykdommer i muskel-skjelettsystemet og bindevev	23	59	69	65	93	121	131	94	91	94	94	93	76
+Kvinner	- Ryggsykdommer	*	18	20	12	17	11	23	17	18	19	14	16	12
+Kvinner	- Andre muskel-skjelettsykdommer	*	41	49	53	76	110	108	77	73	75	80	77	64
+Kvinner	Medfødte misdannelser og kromosomavvik	84	108	114	113	135	138	141	117	138	129	155	153	160
+Kvinner	Skader, forgiftninger, og vold	20	29	30	26	34	41	43	30	37	23	20	22	16
+Kvinner	Alle andre diagnoser	13	27	24	30	37	52	50	49	46	35	34	43	40
+Kvinner	Diagnose mangler foreløpig	10	15	10	16	2	6	9	5	2	5	15	10	4

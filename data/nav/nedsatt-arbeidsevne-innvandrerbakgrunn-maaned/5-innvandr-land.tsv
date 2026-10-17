@@ -1,0 +1,48 @@
+# Kilde: Nav
+# Tabell: Personer med nedsatt arbeidsevne etter innvandrerbakgrunn, måned (NED190)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne
+# Lagt inn: 2026-10-17
+# Ark: 5. Innvandr land
+# Personer med nedsatt arbeidsevne. Innvandrerbakgrunn. Tidsserie måned
+# Innvandrerbakgrunn og fødeland. Viser de 30 landene hvor flest kommer fra. Antall¹
+# Januar - august 2026
+# Innvandrer
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+# 7
+# 8
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+I alt	Polen	8358	8463	8530	8595	8633	8752	8818	8876
+I alt	Syria	7152	7209	7212	7273	7357	7519	7589	7590
+I alt	Ukraina	5568	5700	5758	5834	5919	6157	6196	6199
+I alt	Somalia	4817	4832	4817	4824	4835	4885	4901	4914
+I alt	Irak	3828	3837	3799	3774	3788	3797	3795	3802
+I alt	Afghanistan	2568	2579	2566	2561	2577	2623	2637	2676
+I alt	Pakistan	2533	2530	2539	2541	2547	2576	2586	2588
+I alt	Eritrea	2230	2236	2250	2266	2268	2306	2327	2328
+gruppe	rad	2059	2064	2048	2031	2038	2060	2082	2099
+Iran	Litauen	1907	1937	1961	1995	1998	2022	2047	2069
+Iran	Sverige	1935	1935	1926	1927	1933	1954	1979	1995
+Iran	Russland	1808	1811	1813	1823	1835	1874	1888	1895
+Iran	Tyrkia	1513	1513	1493	1493	1497	1535	1539	1525
+Iran	Thailand	1420	1425	1421	1415	1440	1471	1481	1478
+Iran	Tyskland	1179	1177	1175	1172	1175	1187	1189	1184
+Iran	Etiopia	1107	1113	1105	1097	1099	1109	1115	1124
+Iran	Filippinene	1002	1002	998	1007	1023	1040	1047	1065
+Iran	Vietnam	969	969	955	943	945	950	948	946
+Iran	Romania	873	883	892	910	923	940	945	941
+Iran	Marokko	882	873	867	868	880	891	894	900
+Iran	Sri Lanka	855	847	840	838	840	840	846	849
+Iran	Jugoslavia	810	791	776	776	782	782	779	770
+Iran	Kongo	763	773	773	769	768	794	807	817
+Iran	Ukjent	788	778	769	772	770	756	758	759
+Iran	Kosovo	732	741	738	743	752	756	770	776
+Iran	Bosnia-Hercegovina	752	743	734	746	743	746	747	750
+Iran	Sudan	707	711	712	723	724	742	746	757
+Iran	Danmark	648	653	653	667	668	679	682	681
+Iran	Latvia	589	601	603	610	613	622	633	637
+Iran	India	592	593	595	606	613	627	625	628

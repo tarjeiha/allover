@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Uføretrygd: de mest brukte enkeltdiagnosene (tabell 3)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd
+# Lagt inn: 2026-10-17
+# Ark: Tilgang
+# Tabell: Nye mottakere av uføretrygd. Enkeltdiagnoser (primærdiagnose) år. Per desember 2017-2025. Antall.
+# Alder 18-29 år.
+ICD10	Enkeltdiagnoser - de mest brukte	2017	2018	2019	2020	2021	2022	2023	2024	2025
+F845	Aspergers syndrom	9.159639	9.605027	9.01919	9.849108	9.673999	9.732875	9.193457	11.829299	12.672876
+F70, F700-F709	Lett psykisk utviklingshemming	9.101483	7.854578	6.183369	6.639232	6.201961	5.76567	5.922166	6.887946	6.83037
+F431	Posttraumatisk stresslidelse (PTSD)	3.896482	4.533214	6.439232	5.925926	7.129605	7.008728	6.683587	6.513601	6.745696
+F90 (F900-F909)	Hyperkinetiske forstyrrelser (ADHD)	6.426287	5.902154	4.498934	5.541838	4.823748	5.36895	4.765933	5.814824	5.588484
+F840	Barneautisme	4.070951	3.029623	2.622601	2.770919	2.83594	3.041523	3.243091	3.843274	4.685295
+G933	Postviralt utmattelsessyndrom (ME)	3.373074	5.228905	5.714286	4.499314	5.48635	6.056599	6.034969	5.290741	4.515947
+F849	Uspesifisert gjennomgripende utviklingsforstyrrelse	1.163129	1.189408	1.385928	1.673525	2.491386	2.671251	2.594473	3.144497	3.415185
+F841	Atypisk autisme	2.064554	1.974865	2.622601	2.222222	3.445534	3.015075	3.496898	2.894934	3.274062
+Q90	Downs syndrom	2.762431	1.750449	1.791045	2.057613	1.908296	2.512563	2.368866	2.046419	2.681343
+F200	Paranoid schizofreni	2.878744	2.827648	2.665245	2.935528	2.358866	2.909283	2.622673	2.221113	2.568445
+F845	Aspergers syndrom	315	428	423	359	365	368	326	474	449
+F70, F700-F709	Lett psykisk utviklingshemming	313	350	290	242	234	218	210	276	242
+F431	Posttraumatisk stresslidelse (PTSD)	134	202	302	216	269	265	237	261	239
+F90 (F900-F909)	Hyperkinetiske forstyrrelser (ADHD)	221	263	211	202	182	203	169	233	198
+F840	Barneautisme	140	135	123	101	107	115	115	154	166
+G933	Postviralt utmattelsessyndrom (ME)	116	233	268	164	207	229	214	212	160
+F849	Uspesifisert gjennomgripende utviklingsforstyrrelse	40	53	65	61	94	101	92	126	121
+F841	Atypisk autisme	71	88	123	81	130	114	124	116	116
+Q90	Downs syndrom	95	78	84	75	72	95	84	82	95
+F200	Paranoid schizofreni	99	126	125	107	89	110	93	89	91

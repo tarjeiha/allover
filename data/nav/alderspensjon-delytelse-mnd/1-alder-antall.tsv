@@ -1,0 +1,15 @@
+# Kilde: Nav
+# Tabell: Alderspensjon etter delytelse og tillegg, siste måned (PST022)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 1. Alder. Antall
+# Alderspensjon etter delytelse. Kjønn og Alder. Juni 2026
+# Delytelse etter alder. Antall
+rad	Antall med alderspensjon i alt		Antall med tilleggspensjon	Antall med særtillegg	Antall med skjermingstillegg	Antall med forsørgingstillegg barn	Antall med forsørgingstillegg ektefelle	Antall med inntektspensjon	Antall med garantipensjon
+I alt	1097449		1054314	32084	235424		*	404166	134412
+62-66 år	82891		62633					82889	18156
+67-69 år	175515		172905		49984			174757	64884
+70-74 år	280040		275662		78496		*	146520	51371
+75-79 år	245241		240707		73867				*
+80-84 år	176420		171108	8817	33077				
+85+ år	137342		131299	23267			*		

@@ -1,0 +1,20 @@
+# Kilde: Nav
+# Tabell: Årlig utbetaling til alderspensjonister med inntekts- og garantipensjon (PST084)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 2. Alderspensjonister, sivilsta
+# Årlig utbetaling av pensjon for mottakere av inntekts- og garantipensjon. Desember 2025
+# Alderspensjonister med inntekts- og garantipensjon. Årlig utbetaling i G, bosted.
+# Norge
+gruppe	rad				Enslige		Gift/samboende	Totalt
+			0 G til 0,9 G		7		*	10
+			1,0 G til 1,9 G		9438		32692	42130
+			2,0 G til 2,9 G		97622		125147	222769
+			3 G og over		15237		24831	40068
+			I alt		122304		182673	304977
+gruppe	rad				Enslige		Gift/samboende	Ukjent		Totalt
+Utlandet			0 G til 0,9 G		182		137	*		338
+Utlandet			1,0 G til 1,9 G		111		139	*		251
+Utlandet			2,0 G til 2,9 G		678		525	*		1207
+Utlandet			3 G og over		133		151	*		284
+Utlandet			I alt		1104		952	24		2080

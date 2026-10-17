@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd etter alder og kjønn, måned (PST311)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk
+# Lagt inn: 2026-10-17
+# Ark:  Om statistikken
+# Merknad: Rapporten viser antall og andel personer med uføretrygd. Rapporten inneholder en fullstendig månedsserie per år.
+# Merknad: Innhold i rapporten
+# Merknad: Internt for NAV, men enkelte hovedtall eller delrapporter kan være grunnlag for ekstern publisering på nav.no.
+# Merknad: Målgruppe
+# Merknad: Antall og andel personer som har fått utbetalt uføretrygd. Antall uføretrygdede og antall personer i befolkningen 18-67 år: - Vi teller 11/12 av 18-åringene og 1/12 av 67-åringene. Dette skyldes at en person ikke kan bli uføretrygdet før måneden etter fylte 18 år, og blir alderspensjonist senest måneden etter fylte 67 år. - Nedre aldersgrense for uførepensjon ble hevet fra 16 til 18 år fra 1.1.1998. - Fra mars 2014 er det brudd i befolkningsgrunnlaget. Vi har byttet kilde for å beregne befolkningsandeler. Dette byttet gir imidlertid små utslag.
+# Merknad: Antall uføretrygdede og antall personer i befolkningen 18-67 år: - Vi teller 11/12 av 18-åringene og 1/12 av 67-åringene. Dette skyldes at en person ikke kan bli uføretrygdet før måneden etter fylte 18 år, og blir alderspensjonist senest måneden etter fylte 67 år. - Nedre aldersgrense for uførepensjon ble hevet fra 16 til 18 år fra 1.1.1998. - Fra mars 2014 er det brudd i befolkningsgrunnlaget. Vi har byttet kilde for å beregne befolkningsandeler. Dette byttet gir imidlertid små utslag.
+# Merknad: Tellebegreper
+# Merknad: Fordelingsvariabler
+# Merknad: Forspalte: Alder Nedtrekksmenyer: Alder Kjønn, måned
+# Merknad: - Pesys - Befolkning datavarehus
+# Merknad: Kildesystem
+# Merknad: Rapporten oppdateres månedlig, i begynnelsen av etterfølgende måned
+# Merknad: Oppdatering/statistikkperiode
+# Merknad: I november 2018 byttet vi geografivariabel slik at personer med ukjent bostedskommune er fordelt på forrige bostedskommune, slik at det blir færre med ukjent bostedskommune i statistikken. Antall med ukjent kommune går ned fra ca 1300 til ca 100 på landsplan og ca 1200 er fordelt på øvrige kommuner. De fleste av de 1300 er personer uten fast bopel. Små tall stjernes ut.
+# Merknad: Endringer
+rad	Om statistikken	Rapport oppdatert: 02.09.2026

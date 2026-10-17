@@ -1,0 +1,35 @@
+# Kilde: Nav
+# Tabell: Tillegg med utgangspunkt i minste pensjonsnivå (PST063)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 2. Kjønn og antall
+# Tillegg med utgangspunkt i minste pensjonsnivå. Antall. Periode: 2025-6 til 2026-6
+# Antall alderspensjonister med tillegg
+# Kvinner
+gruppe	rad		År		Måned			Særtillegg	Pensjonstillegg	Individuelt minstenivåtillegg	Pensjonistpar minstenivåtillegg
+			2026		Juni			27489	89890	93887	3645
+			2026		Mai			27866	89560	94620	3665
+			2026		April			28241	89210	94794	3684
+			2026		Mars			28612	88808	95540	3693
+			2026		Februar			28954	88496	96216	3707
+			2026		Januar			29381	88120	97011	3722
+			2025		Desember			29800	87871	97920	3736
+			2025		November			30198	87583	98680	3750
+			2025		Oktober			30573	87204	99449	3756
+			2025		September			30968	86793	100162	3764
+			2025		August			31401	86490	100936	3791
+			2025		Juli			31787	86137	101605	3812
+			2025		Juni			32138	85782	100841	3831
+Menn			2026		Juni			4595	25196	19270	2832
+Menn			2026		Mai			4662	24984	19392	2843
+Menn			2026		April			4710	24753	19365	2850
+Menn			2026		Mars			4774	24532	19470	2855
+Menn			2026		Februar			4833	24344	19605	2858
+Menn			2026		Januar			4902	24145	19731	2873
+Menn			2025		Desember			4959	23978	19920	2879
+Menn			2025		November			5008	23832	20023	2888
+Menn			2025		Oktober			5064	23621	20135	2880
+Menn			2025		September			5112	23413	20235	2879
+Menn			2025		August			5177	23188	20359	2900
+Menn			2025		Juli			5247	22969	20486	2909
+Menn			2025		Juni			5295	22796	20447	2918

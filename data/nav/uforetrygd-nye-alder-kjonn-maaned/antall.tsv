@@ -1,0 +1,30 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd etter alder og kjønn, måned (PST311)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk
+# Lagt inn: 2026-10-17
+# Ark: Antall
+# PST311 Nye mottakere av uføretrygd. Alder. Kjønn. År. Måned.
+# Merknad: 2026 :
+gruppe	rad	Antall									Rapport oppdatert: 02.09.2026
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+I alt	I alt	3012	2670	3285	2549	2104	2100	2526	1761
+I alt	18-19 år	88	91	83	81	99	81	91	99
+I alt	20-29 år	218	246	294	262	188	190	225	131
+I alt	30-39 år	459	422	515	376	310	298	365	207
+I alt	40-49 år	599	529	687	510	397	388	453	335
+I alt	50-59 år	1012	852	1043	767	644	677	803	588
+I alt	60-67 år	636	530	663	553	466	466	589	401
+Kvinner	Kvinner i alt	1768	1559	1886	1446	1222	1205	1456	977
+Kvinner	18-19 år	30	44	32	30	49	47	37	36
+Kvinner	20-29 år	113	116	157	142	100	101	117	65
+Kvinner	30-39 år	290	270	317	234	193	187	232	116
+Kvinner	40-49 år	375	325	442	312	235	229	270	199
+Kvinner	50-59 år	614	512	611	449	384	402	485	356
+Kvinner	60-67 år	346	292	327	279	261	239	315	205
+Menn	Menn i alt	1244	1111	1399	1103	882	895	1070	784
+Menn	18-19 år	58	47	51	51	50	34	54	63
+Menn	20-29 år	105	130	137	120	88	89	108	66
+Menn	30-39 år	169	152	198	142	117	111	133	91
+Menn	40-49 år	224	204	245	198	162	159	183	136
+Menn	50-59 år	398	340	432	318	260	275	318	232
+Menn	60-67 år	290	238	336	274	205	227	274	196

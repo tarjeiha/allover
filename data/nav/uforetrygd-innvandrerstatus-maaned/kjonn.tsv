@@ -1,0 +1,20 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd etter innvandrerstatus, kjønn og alder, måned (PST310)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk
+# Lagt inn: 2026-10-17
+# Ark: Kjønn
+# PST310 Mottakere av uføretrygd. Innvandrerstatus. Kjønn. Alder. År. Måned.
+gruppe	rad	Antall									Rapport oppdatert: 02.09.2026
+gruppe	rad	Januar	Februar	Mars	April	Mai	Juni	Juli	August
+2026 :	I alt	375730	376361	377805	378347	378446	378502	379106	378879
+2026 :	Ikke-innvandrer	321535	321930	322899	323154	323036	322917	323258	322932
+2026 :	Innvandrer	54195	54430	54904	55191	55408	55583	55846	55944
+2026 :	Ukjent	*	*	*	*	*	*	*	*
+	Kvinner i alt	221040	221480	222391	222709	222824	222863	223236	223085
+	Ikke-innvandrer	192573	192861	193494	193668	193634	193583	193814	193604
+	Innvandrer	28467	28618	28896	29040	29189	29279	29421	29479
+	Ukjent	*	*	*	*	*	*	*	*
+	Menn i alt	154690	154881	155414	155638	155622	155639	155870	155794
+	Ikke-innvandrer	128962	129069	129405	129486	129402	129334	129444	129328
+	Innvandrer	25728	25812	26008	26151	26219	26304	26425	26465
+	Ukjent	*	*	*	*	*	*	*	*

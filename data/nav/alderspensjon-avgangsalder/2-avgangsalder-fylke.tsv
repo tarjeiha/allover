@@ -1,0 +1,24 @@
+# Kilde: Nav
+# Tabell: Gjennomsnittlig avgangsalder fra arbeidslivet (PST080)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 2. Avgangsalder_fylke
+# Gjennomsnittlig avgangsalder (etter 50 år). Kjønn og fylke. Desember 2015 - 2025
+# Avgangsalder fra arbeid (alderen man slutter å være yrkesaktiv)
+rad	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Totalt	65.654028	65.622176	65.616028	65.680342	65.852793	65.640878	65.776226	65.910347	66.126483	66.355216	66.526448
+Agder	65.5	65.2	65.5	65.7	65.6	65.7	65.5	65.8	66	66	66.2
+Akershus	65.8	65.7	65.7	65.7	65.9	65.7	65.9	66.1	66.3	66.6	66.7
+Buskerud	65.7	65.7	65.8	65.7	65.8	65.6	65.8	66.4	66.1	66.6	66.7
+Finnmark - Finnmárku - Finmarkku	65.2	65.4	65.2	65.2	65.4	65.6	65.9	65.8	66.1	66.3	67.2
+Innlandet	65.5	65.5	65.5	65.5	65.7	65.4	65.5	65.7	66.1	66.2	66.3
+Møre og Romsdal	66.3	66.1	66	66.1	66.1	65.9	66.3	66.4	66.4	66.5	66.7
+Nordland - Nordlánnda	65.1	65.1	65.1	65.3	65.5	65.4	65.6	65.9	66.6	66.4	67
+Oslo	66.3	66.1	66	65.8	66.2	66	66	65.9	66.2	66.5	66.3
+Rogaland	65.7	65.6	65.6	65.9	65.8	65.6	65.7	65.7	66	66.2	66.5
+Telemark	65.1	65.4	65.4	64.9	65.2	65.4	65.2	65.8	65.8	65.9	66.4
+Troms - Romsa - Tromssa	65.5	65.6	65.8	66	65.8	65.9	66.2	66.2	66.4	66.5	66.7
+Trøndelag - Trööndelage	65.4	65.6	65.6	65.8	65.9	65.7	65.8	65.9	66.1	66.5	66.6
+Vestfold	65.3	65.4	65.2	65.3	65.7	64.9	65.4	65.6	65.7	65.9	66.5
+Vestland	65.9	65.9	65.9	66	66.2	65.9	66.1	66.3	66.4	66.4	66.8
+Østfold	65.1	65	64.9	65.1	65.4	65	65.2	65.3	65.4	66.1	65.6

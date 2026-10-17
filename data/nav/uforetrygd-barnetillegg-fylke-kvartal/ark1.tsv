@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Uføre med barnetillegg etter fylke (tabell 18)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-17
+# Ark: Ark1
+# Uføretrygdede med barnetillegg. Antall og andel etter fylke. 2024-2026
+rad	Uføretrygdede med barnetillegg			Andel uføre med barnetillegg (i prosent av alle uføre)			Andel av de uføretrydede som har barn under 18 år
+rad	2024-06-30 00:00:00	2025-06-30 00:00:00	2026-06-30 00:00:00	2024-06-30 00:00:00	2025-06-30 00:00:00	2026-06-30 00:00:00	2026-06-30 00:00:00
+Sum:	30123	30621	30700	8.1	8.2	8.1	18
+03 Oslo - Oslove	2753	2744	2757	8.7	8.6	8.5	18
+11 Rogaland	2254	2309	2285	8	8	7.8	20
+15 Møre og Romsdal	1149	1198	1210	7	7.2	7.3	18
+18 Nordland - Nordlánnda	1410	1434	1465	7.2	7.4	7.5	17
+31 Østfold	2335	2323	2298	8.6	8.5	8.4	18
+32 Akershus	2630	2722	2780	7.4	7.5	7.5	18
+33 Buskerud	1623	1694	1698	8.7	8.9	8.7	19
+34 Innlandet	2611	2674	2737	8	8.1	8.2	18
+39 Vestfold	1812	1840	1828	9	9.1	9	19
+40 Telemark	1247	1283	1294	8.3	8.3	8.3	18
+42 Agder	2854	2848	2867	10.1	10	9.8	21
+46 Vestland	2759	2756	2726	7.5	7.5	7.4	18
+50 Trøndelag - Trööndelage	2921	2994	2947	8.6	8.6	8.4	19
+55 Troms - Romsa - Tromssa	772	802	805	6.5	6.7	6.7	16
+56 Finnmark - Finnmárku - Finmarkku	415	414	413	7.4	7.3	7.3	17
+99 Bosatt i utlandet	492	489	500	6.7	6.6	6.7	14
+Ukjent	86	97	90	-	-	-	-

@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: Uføretrygdede etter kommune (tabell 20)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-17
+# Ark:  Om statistikken
+# Merknad: Statistikken viser antall mottakere av uføretrygd og antall andel av befolkningen per fylke, kommune og bydel. Vi teller 11/12 av 18-åringene og 1/12 av 67-åringene. Dette skyldes at en person ikke kan bli uføretrygdet før måneden etter fylte 18 år, og blir alderspensjonist senest måneden etter fylte 67 år. Nedre aldersgrense for uførepensjon ble hevet fra 16 til 18 år fra 1.1.1998.
+# Merknad: Innhold
+# Merknad: 1) Vi har byttet geografi for uførefelter fra «Bosted geografi - utland/ukjent» mappen 2) Vi har byttet befolkning til universet Befolkning_detaljert og beregnet tallet «Befolkning 18 11/12 til 67 1/12». 3) Vi har byttet befolkning geografi til felter fra «Bosted geografi - utland/ukjent»-mappen
+# Merknad: Endringer – hva er nytt
+# Merknad: Tellebegreper
+# Merknad: Antall mottakere av uføretrygd
+# Merknad: Andel av befolkning (prosent avrundet til en desimal)
+# Merknad: Fordelingsvariabler
+# Merknad: Geografi bosted: Fylke, kommune, bydel
+# Merknad: Kjønn
+# Merknad: Alder
+# Merknad: Tidsserie
+# Merknad: • Rapporten sammenligner fordelingen de 3 siste år
+# Merknad: Oppdatering/statistikkperiode
+# Merknad: Måned
+# Merknad: * benyttes ved tall under 4, blanke celler og andre grunner til at tall ikke kan vises som f.eks. kommunesammenslåinger.
+# Merknad: Spesialtegn
+# Merknad: Kilde
+# Merknad: NAV
+rad	Om statistikken	Rapport oppdatert: 16.07.2026

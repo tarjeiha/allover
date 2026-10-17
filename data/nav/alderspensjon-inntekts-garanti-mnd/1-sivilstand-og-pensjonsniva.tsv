@@ -1,0 +1,11 @@
+# Kilde: Nav
+# Tabell: Alderspensjonister med inntekts- og garantipensjon, siste måned (PST083)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 1. Sivilstand og pensjonsnivå
+# Alderspensjonister med inntekts- og garantipensjon. Pensjonsnivå. Juni 2026
+# Sivilstand og pensjonsnivå
+rad		I alt	Enslige	Gift/samboende	Ukjent
+I alt		329179	133514	195639	26
+Over garantipensjonsnivået		317014	129838	187150	26
+På eller under garantipensjonsnivået		12165	3676	8489	* *

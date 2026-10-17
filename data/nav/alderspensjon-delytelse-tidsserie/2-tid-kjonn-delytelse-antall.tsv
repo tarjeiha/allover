@@ -1,0 +1,30 @@
+# Kilde: Nav
+# Tabell: Alderspensjon etter delytelse og tillegg, tidsserie (PST023)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-17
+# Ark: 2. Tid kjønn delytelse antall
+# Merknad: Antall alderspensjonister fordelt på delytelse og kjønn
+gruppe	rad	Kilde: NAV			Alderspensjon etter delytelse. Kjønn og alder. Juni 2016 - 2026
+gruppe	år			Samlet antall alderspensjon			Antall med tilleggspensjon	Antall med særtillegg	Antall med skjermingstillegg	Antall med inntektspensjon	Antall med garantipensjon	Antall med forsørgings-tillegg barn		Antall med forsørgings-tillegg ektefelle
+Kvinner	2026			558936			533757	27489	144668	186673	95460			
+Kvinner	2025			546580			526623	32138	135906	154992	78901			
+Kvinner	2024			535657			516944	37315	96239	125010	63011	*		18
+Kvinner	2023			525044			508613	42817	98935	95726	46313	*		22
+Kvinner	2022			515482			498178	49343	101435	66749	30293	4		28
+Kvinner	2021			507146			488728	56481	103936	38896	14540	*		33
+Kvinner	2020			496766			477223	63420	100025	23682	7043	*		36
+Kvinner	2019			485511			464728	71230	91040	17141	5097	4		32
+Kvinner	2018			476354			454277	79426	82233	11510	3492	*		31
+Kvinner	2017			467301			443781	88516	72895	6347	2020	*		34
+Kvinner	2016			456802			431812	97911	62859	1648	557	*		40
+Menn	2026			538513			520557	4595	90756	217493	38952			*
+Menn	2025			526637			518071	5295	85373	187681	32356			*
+Menn	2024			514916			509833	6074	60117	158263	25633	204		537
+Menn	2023			504267			499228	6883	62828	130255	18813	294		791
+Menn	2022			494229			489125	7803	65600	102404	12626	400		1126
+Menn	2021			485234			479940	8748	68195	75981	7214	440		1287
+Menn	2020			474202			468669	9686	66424	57406	4428	556		1834
+Menn	2019			462399			456644	10762	61162	43686	3454	529		1852
+Menn	2018			451238			445247	11902	55895	30656	2485	531		1921
+Menn	2017			439065			432895	13090	50159	17287	1449	514		1928
+Menn	2016			425389			419051	14324	43880	4638	409	525		2026
