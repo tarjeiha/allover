@@ -76,7 +76,9 @@ Merknadene er delt etter kapitlene i loven, se tabellen nederst.
 
 ## Vedtatte endringer som ikke er i kraft
 
-Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Ikrafts. av lov 2018:38, personopplysningsloven** (FOR-2018-06-15-875). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: Arbeidsmiljøloven. Ny tekst: `vedtatte-endringer/for-2018-06-15-875.md`
 
 ## Innhold
 

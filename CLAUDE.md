@@ -36,17 +36,17 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 | Regelverk | Veiviser | Sist endret i kraft |
 |---|---|---|
-| Offentleglova | `offentleglova/VEIVISER.md` | 2026-07-01 |
+| Offentleglova | `offentleglova/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
 | AFP-loven for medlemmer av Statens pensjonskasse | `afp-loven/VEIVISER.md` | 2026-01-01 |
 | Aldersgrenseloven for statsansatte | `aldersgrenseloven/VEIVISER.md` | 2026-01-01 |
 | Allmenngjøringsloven | `allmenngjoringsloven/VEIVISER.md` | 2025-07-01 |
-| Arbeidsmarkedsloven | `arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 |
-| Arbeidsmiljøloven | `arbeidsmiljoloven/VEIVISER.md` | 2026-07-01 |
+| Arbeidsmarkedsloven | `arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 · **vedtatte endringer venter** |
+| Arbeidsmiljøloven | `arbeidsmiljoloven/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
 | Arbeidstvistloven | `arbeidstvistloven/VEIVISER.md` | 2024-01-01 |
 | Arkivlova | `arkivlova/VEIVISER.md` | 2026-01-01, Kongen fastset |
 | Diskrimineringsombudsloven | `diskrimineringsombudsloven/VEIVISER.md` | 2026-01-01 |
 | Ferieloven | `ferieloven/VEIVISER.md` | 2024-01-01 |
-| Folketrygdloven | `folketrygdloven/VEIVISER.md` | 2026-10-01 |
+| Folketrygdloven | `folketrygdloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
 | Forvaltningsloven | `forvaltningsloven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
 | Forvaltningsloven 2025 (ny lov, ikke i kraft) | `forvaltningsloven-2025/VEIVISER.md` | Ikke i kraft (Kongen bestemmer) |
 | Integreringsloven | `integreringsloven/VEIVISER.md` | 2026-07-01 |
@@ -54,7 +54,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Likestillings- og diskrimineringsloven | `likestillings-og-diskrimineringsloven/VEIVISER.md` | 2024-07-01 |
 | Lov om Statens pensjonskasse | `spk-loven/VEIVISER.md` | 2026-01-01 |
 | Lønnsgarantiloven | `lonnsgarantiloven/VEIVISER.md` | 2026-01-01 |
-| NAV-loven | `nav-loven/VEIVISER.md` | 2026-01-01 |
+| NAV-loven | `nav-loven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
 | Permitteringslønnsloven | `permitteringslonnsloven/VEIVISER.md` | 2022-03-01 |
 | Personopplysningsloven | `personopplysningsloven/VEIVISER.md` | 2022-01-01 |
 | Samordningsloven | `samordningsloven/VEIVISER.md` | 2026-01-01 |
