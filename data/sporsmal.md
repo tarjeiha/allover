@@ -30,7 +30,14 @@ Hvem som eier kvaliteten: Nav, SSB og Eurostat eier tallene. Svaret skal alltid 
 | Hvor mange er uføre? | Nav `uforetrygd-uforegrad-kjonn-maaned/antall.tsv` | |
 | Hvor stor andel er uføre i mitt fylke? | Nav `uforetrygd-andel-fylke-alder-kvartal/fylke-og-alder.tsv` | Andel av befolkningen 18–67 år. |
 | Hvor mange blir nye uføretrygdede? | Nav `uforetrygd-nye-*-maaned/` | |
-| Hvor mange får alderspensjon? | Nav `alderspensjon-*` | |
+| Hvor mange får alderspensjon? | Nav `alderspensjon-kjonn-alder-fylke/1-alder.tsv` (rad `I alt`, juni hvert år fra 2016) | Stand i juni. |
+| Hvor mange nye alderspensjonister kommer det? | Nav `alderspensjon-nye-kjonn-alder/` | Kvartalstall. |
+| Hvor mange tar ut gradert alderspensjon? | Nav `alderspensjon-gradert-tidsserie/1-antall-grad.tsv` | |
+| Hvor mange har minstepensjon? | Nav `alderspensjon-minste-tidsserie/1-antall.tsv` (antall og andel) | |
+| Hvor mye får en alderspensjonist i gjennomsnitt? | Nav `alderspensjon-utbetalt-aar/` (årlig beløp) | Sjekk ark og gruppering i filen før du oppgir et gjennomsnitt. |
+| Når slutter folk å jobbe? | Nav `alderspensjon-avgangsalder/1-avgangsalder-kjonn.tsv` | Gjennomsnittlig avgangsalder fra arbeidslivet. |
+| Hvor mange uføre har barnetillegg? | Nav `uforetrygd-barnetillegg-fylke-kvartal/ark1.tsv` | |
+| Hva er sykefraværet i mitt fylke? | Nav `sykefravar-bosted/sykefravaersprosent.tsv` (fylke, etter bosted, ikke arbeidssted). Kommune: SSB 12451 | |
 | Hvor mange er på AFP i privat sektor? | Nav `afp-privat-mottakere/` | Gjelder ikke AFP i offentlig sektor. |
 | Hvor mange får sosialhjelp? | SSB 08900 | Nav har ikke sosialhjelp som tabell. |
 
