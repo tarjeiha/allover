@@ -11,6 +11,8 @@ For hver .xlsx-fil i innboks-data/:
   2. Hvert ark konverteres med verktoy/nav_xlsx.py. Er et tall i xlsx-filen borte i TSV-en
      (eller omvendt), legges ingenting inn.
   3. Originalen flyttes til data/nav/<mappe>/original/, og data/nav/indeks.tsv bygges på nytt.
+Tabeller med "maanedsfiler": true leveres som én fil per måned (Søknader om dagpenger, næring); måneden
+leses fra «Januar 2026 fra 01.01 til 31.01», og månedene slås sammen med kolonnen «maaned».
 Tabeller med "kvartalsfiler": true i kilder.json (Navs sykefraværstabeller) leveres som egne filer
 per kvartal. Kvartalet leses fra overskriftsraden i filen («2. kvartal»). Originalene ligger i
 data/nav/<mappe>/original/, og TSV-filene bygges om fra alle originalene hver gang, slik at hver
@@ -74,30 +76,39 @@ def finn_kvartal(fil):
 def bygg_kvartalstabell(t, ekstra=None):
     """Bygger data/nav/<mappe>/ på nytt fra alle originaler. ekstra: ny fil som ikke er flyttet dit ennå.
 
+    Tabeller med kvartalsfiler får kolonnen «kvartal», tabeller med månedsfiler kolonnen «maaned».
     Returnerer feilmelding eller None. Mappen endres ikke hvis noe feiler.
     """
     mappe = NAV / t["mappe"]
     originaler = {}
+    etikett = "kvartal"
     for f in sorted((mappe / "original").glob("*.xlsx")) if (mappe / "original").exists() else []:
-        originaler[finn_kvartal(f)] = f
+        nokkel, etikett, _ = finn_periode(t, f)
+        originaler[nokkel] = f
     if ekstra is not None:
-        originaler[finn_kvartal(ekstra)] = ekstra  # ny fil for samme kvartal erstatter den gamle
+        nokkel, etikett, _ = finn_periode(t, ekstra)
+        originaler[nokkel] = ekstra  # ny fil for samme periode erstatter den gamle
     if not originaler:
         return None
     tmp = Path(str(mappe) + ".ny")
     shutil.rmtree(tmp, ignore_errors=True)
     kmapper = {}
+    maaned = etikett == "maaned"
     try:
-        for k, f in sorted(originaler.items(), key=lambda kv: int(kv[0])):
-            kmapper[int(k)] = tmp / f"k{k}"
-            _, avvik = nav_xlsx.main(f, kmapper[int(k)], f"{t['tittel']}, {k}. kvartal", t["kildeside"])
+        for k, f in sorted(originaler.items()):
+            kmapper[k] = tmp / f"p{k}"
+            tittel = f"{t['tittel']}, {k}" if maaned else f"{t['tittel']}, {k}. kvartal"
+            _, avvik = nav_xlsx.main(f, kmapper[k], tittel, t["kildeside"], prefiks=(etikett, k) if maaned else None)
             if avvik:
                 raise ValueError(f"{f.name}: {avvik} tall i xlsx-filen ble ikke likt i TSV-en etter konvertering.")
         ut = tmp / "ut"
-        nav_kvartal.slaa_sammen(kmapper, ut, t["tittel"])
+        if maaned:
+            nav_kvartal.slaa_sammen_perioder(kmapper, etikett, ut, t["tittel"], lambda k: f"{t['tittel']}, {k}")
+        else:
+            nav_kvartal.slaa_sammen({int(k): m for k, m in kmapper.items()}, ut, t["tittel"])
         avvik = nav_kvartal.kontroller(kmapper, ut)
         if avvik:
-            raise ValueError(f"{avvik} tall ble borte eller lagt til da kvartalene ble slått sammen.")
+            raise ValueError(f"{avvik} tall ble borte eller lagt til da periodene ble slått sammen.")
         if not list(ut.glob("*.tsv")):
             raise ValueError("Fant ingen ark med tabeller (overskriftsrad med årstall, måneder eller kvartaler).")
     except Exception as e:  # noqa: BLE001
@@ -107,8 +118,8 @@ def bygg_kvartalstabell(t, ekstra=None):
     orig.mkdir()
     for f in originaler.values():
         shutil.copy2(f, orig / f.name)
-    for k in range(1, 5):
-        shutil.rmtree(tmp / f"k{k}", ignore_errors=True)
+    for p in list(tmp.glob("p*")):
+        shutil.rmtree(p, ignore_errors=True)
     for f in list((tmp / "ut").iterdir()):
         shutil.move(str(f), tmp / f.name)
     (tmp / "ut").rmdir()
@@ -141,6 +152,40 @@ def flytt_gamle_kvartalsmapper(tabeller):
     return flyttet
 
 
+MAANEDER = ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "desember"]
+
+
+def finn_maaned(fil):
+    """Måneden (åååå-mm) fra teksten «Januar 2026 fra 01.01 til 31.01» i overskriftsradene."""
+    import openpyxl
+    wb = openpyxl.load_workbook(fil, read_only=True, data_only=True)
+    funnet = set()
+    for ws in wb.worksheets:
+        for i, rad in enumerate(ws.iter_rows(values_only=True)):
+            if i > 12:
+                break
+            for c in rad:
+                m = re.match(r"^\s*(" + "|".join(MAANEDER) + r")\s+(\d{4})\s+fra\b", str(c), re.I) if c is not None else None
+                if m:
+                    funnet.add(f"{m.group(2)}-{MAANEDER.index(m.group(1).lower()) + 1:02d}")
+    wb.close()
+    if len(funnet) != 1:
+        raise ValueError(
+            "Fant ikke en entydig måned i overskriftsradene (fant: "
+            + (", ".join(sorted(funnet)) or "ingen") + ")."
+        )
+    return funnet.pop()
+
+
+def finn_periode(t, fil):
+    """(nøkkel, kolonnenavn, etikett) for en fil i en tabell med kvartals- eller månedsfiler."""
+    if t.get("maanedsfiler"):
+        m = finn_maaned(fil)
+        return m, "maaned", m
+    k = finn_kvartal(fil)
+    return k, "kvartal", f"K{k}"
+
+
 def bygg_indeks():
     rader = ["mappe\ttabell\tfiler\tkildeside\tlagt_inn_eller_oppdatert"]
     tsvmapper = sorted({p.parent for p in NAV.rglob("*.tsv") if p.name != "indeks.tsv"})
@@ -169,7 +214,7 @@ def main():
     for fil in filer:
         feilfil = fil.with_name(fil.name + ".FEIL.txt")
         t = finn_tabell(fil, tabeller)
-        if t.get("kvartalsfiler"):
+        if t.get("kvartalsfiler") or t.get("maanedsfiler"):
             try:
                 melding = bygg_kvartalstabell(t, fil)
             except Exception as e:  # noqa: BLE001

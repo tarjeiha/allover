@@ -83,6 +83,43 @@ def slaa_sammen(kvartalsmapper, ut, tittel):
         (ut / "om.md").write_text(tekst.replace(f"{tittel}, {nyeste}. kvartal", tittel), encoding="utf-8")
 
 
+def slaa_sammen_perioder(mapper, etikett, ut, tittel, tittel_per_periode):
+    """Slår sammen TSV-er der hver rad og overskriftslinje allerede har perioden som første kolonne (nav_xlsx prefiks).
+
+    mapper: {periode: mappe}, sortert på periode. Kommentarlinjer tas fra den nyeste perioden.
+    En overskriftslinje skrives bare når den er ulik forrige overskrift.
+    """
+    ut = Path(ut)
+    ut.mkdir(parents=True, exist_ok=True)
+    perioder = sorted(mapper)
+    ark = {}
+    for p in perioder:
+        for fil in sorted(Path(mapper[p]).glob("*.tsv")):
+            ark.setdefault(fil.name, {})[p] = fil
+    for navn, per in ark.items():
+        nyeste = max(per)
+        linjer = []
+        for l in per[nyeste].read_text(encoding="utf-8").splitlines():
+            if not l.startswith("#"):
+                break
+            linjer.append(l.replace(tittel_per_periode(nyeste), tittel))
+        linjer.insert(min(4, len(linjer)), f"# Perioder: {' '.join(sorted(per))}")
+        forrige = None
+        for p in sorted(per):
+            for l in per[p].read_text(encoding="utf-8").splitlines():
+                if l.startswith("#"):
+                    continue
+                if l.startswith(etikett + "\t"):
+                    if l == forrige:
+                        continue
+                    forrige = l
+                linjer.append(l)
+        (ut / navn).write_text("\n".join(linjer) + "\n", encoding="utf-8")
+    om = Path(mapper[max(mapper)]) / "om.md"
+    if om.exists():
+        (ut / "om.md").write_text(om.read_text(encoding="utf-8").replace(tittel_per_periode(max(mapper)), tittel), encoding="utf-8")
+
+
 def tall_i_mappe(mappe):
     """Samme telling som nav_xlsx.tall_i_tsv, men uten kvartalskolonnen (K1–K4 er ikke tall)."""
     import nav_xlsx

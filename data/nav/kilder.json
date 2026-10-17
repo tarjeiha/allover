@@ -1,5 +1,5 @@
 {
- "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da slås kvartalene sammen til én fil per ark med kolonnen «kvartal» (K1–K4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
+ "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «maanedsfiler» betyr at Nav leverer én fil per måned (slås sammen med kolonnen «maaned»). «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da slås kvartalene sammen til én fil per ark med kolonnen «kvartal» (K1–K4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
  "tabeller": [
   {
    "monster": "syfra2002",
@@ -139,6 +139,13 @@
    "mappe": "dagpenger-godkjent-utdanning-maaned",
    "tittel": "Dagpengemottakere med godkjent utdanning, måned (A365)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "s(o|ø)knaderomdagpengern(ae|æ)ringenm(aa|å)ned",
+   "mappe": "dagpenger-soknader-naering-maaned",
+   "tittel": "Søknader om dagpenger etter næring, én måned",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere",
+   "maanedsfiler": true
   },
   {
    "monster": "soknaderomdagpengermaaned",
