@@ -328,6 +328,12 @@ Merknadsfilene er flyttet fra to eldre skills og deler loven i alderspensjon (ka
 - § 2. Opptjening av pensjonsrettigheter – `forskrifter/opptjening-pensjonsrettigheter-lovfestet-2015/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/opptjening-pensjonsrettigheter-lovfestet-2015/par-3.md`
 
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.
+
+- **Direktiv 2006/54** (Likebehandlingsdirektivet (kjønn i arbeidslivet)) – i basen: `eu/direktiv-2006-54/VEIVISER.md`. Nevnt i `lov/par-34.md`
+
 ## Andre kilder
 
 Dette er ikke lov- eller forskriftstekst.

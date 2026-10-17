@@ -1,0 +1,7 @@
+# § 7. Direkte forskjellsbehandling
+
+**Kilde:** Likestillings- og diskrimineringsloven § 7
+
+**1. ledd**
+
+Med direkte forskjellsbehandling menes at en person behandles dårligere enn andre blir, har blitt eller ville blitt behandlet i en tilsvarende situasjon, på grunn av forhold som nevnt i § 6 første ledd.

@@ -41,19 +41,28 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Arbeidsmarkedsloven | `arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 |
 | Arbeidsmiljøloven | `arbeidsmiljoloven/VEIVISER.md` | 2026-07-01 |
 | Arbeidstvistloven | `arbeidstvistloven/VEIVISER.md` | 2024-01-01 |
+| Arkivlova | `arkivlova/VEIVISER.md` | 2026-01-01, Kongen fastset |
+| Diskrimineringsombudsloven | `diskrimineringsombudsloven/VEIVISER.md` | 2026-01-01 |
 | Ferieloven | `ferieloven/VEIVISER.md` | 2024-01-01 |
 | Folketrygdloven | `folketrygdloven/VEIVISER.md` | 2026-10-01 |
+| Forvaltningsloven 2025 (ny lov, ikke i kraft) | `forvaltningsloven-2025/VEIVISER.md` | Ikke i kraft (Kongen bestemmer) |
 | Integreringsloven | `integreringsloven/VEIVISER.md` | 2026-07-01 |
+| Karanteneloven | `karanteneloven/VEIVISER.md` | 2025-07-01 |
+| Likestillings- og diskrimineringsloven | `likestillings-og-diskrimineringsloven/VEIVISER.md` | 2024-07-01 |
 | Lov om Statens pensjonskasse | `spk-loven/VEIVISER.md` | 2026-01-01 |
 | Lønnsgarantiloven | `lonnsgarantiloven/VEIVISER.md` | 2026-01-01 |
 | NAV-loven | `nav-loven/VEIVISER.md` | 2026-01-01 |
 | Permitteringslønnsloven | `permitteringslonnsloven/VEIVISER.md` | 2022-03-01 |
+| Personopplysningsloven | `personopplysningsloven/VEIVISER.md` | 2022-01-01 |
 | Samordningsloven | `samordningsloven/VEIVISER.md` | 2026-01-01 |
 | Sosialtjenesteloven | `sosialtjenesteloven/VEIVISER.md` | 2026-01-01 |
+| Språklova | `spraklova/VEIVISER.md` | 2025-07-01 |
+| Statsansatteloven | `statsansatteloven/VEIVISER.md` | 2026-01-01 |
 | Statsborgerloven | `statsborgerloven/VEIVISER.md` | 2024-12-20 |
 | Tjenestetvistloven | `tjenestetvistloven/VEIVISER.md` | 2012-03-01 |
 | Tolkeloven | `tolkeloven/VEIVISER.md` | 2022-06-15 |
 | Utlendingsloven | `utlendingsloven/VEIVISER.md` | 2026-10-01 |
+| Utredningsinstruksen | `utredningsinstruksen/VEIVISER.md` | 2024-11-01 |
 <!-- AUTO-SLUTT -->
 
 ## Tariffavtaler og EU-rettsakter i basen

@@ -1,0 +1,17 @@
+# § 16. Domstolsbehandling
+
+**Kilde:** Diskrimineringsombudsloven § 16
+
+**1. ledd**
+
+Vedtak og beslutninger om ileggelse av tvangsmulkt kan bringes inn for domstolene til full prøving av saken. Søksmål om overprøving av et vedtak eller en beslutning om ileggelse av tvangsmulkt må reises innen tre måneder fra det tidspunktet partene ble underrettet om vedtaket eller beslutningen om tvangsmulkt. Reises ikke søksmål innen fristen, har vedtaket eller beslutningen virkning som rettskraftig dom og kan fullbyrdes etter reglene som gjelder dommer. Nemnda eller nemndleder kan gi oppfriskning for oversittelse av fristen i annet punktum etter reglene i tvisteloven §§ 16-12 – 16-14 . Vedtaket om oppfriskning kan bringes inn for tingretten.
+
+**2. ledd**
+
+Søksmål om gyldigheten av nemndas vedtak og beslutninger rettes mot staten ved nemnda og anlegges for Oslo tingrett jf. tvisteloven § 4-4 (4) første punktum. Det samme gjelder lovligheten av forhold knyttet til ileggelse av tvangsmulkt etter § 13 .
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 18 juni 2021 nr. 93 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 1973 ).

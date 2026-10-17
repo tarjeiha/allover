@@ -71,7 +71,7 @@ Merknadene er delt etter kapitlene i loven, se tabellen nederst.
 - **Forskrift:** Forskrift om utsendte arbeidstakere – FOR-2005-12-16-1566. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart. – FOR-1986-02-21-540. Sist endret i kraft: 2010-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven med tilhørende forskrifter for sivil luftfart mv. – FOR-2018-12-20-2182. Forvaltes av: Arbeids- og inkluderingsdepartementet.
-- **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere. – FOR-1983-04-29-3349. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere. – FOR-1983-04-29-3349. **Ikke i kraft:** ukjent dato. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv. – FOR-2024-04-11-607. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Innhold
@@ -976,6 +976,24 @@ Merknadene er delt etter kapitlene i loven, se tabellen nederst.
 - § 2. Forholdet mellom arbeidsmiljøloven og skipssikkerhetsloven ved dykkeoperasjoner fra skip – `forskrifter/dykkeoperasjoner/par-2.md`
 - § 3. Unntak for Norsk Selskab til Skibbrudnes Redning – `forskrifter/dykkeoperasjoner/par-3.md`
 - § 4. Ikrafttredelse – `forskrifter/dykkeoperasjoner/par-4.md`
+
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.
+
+- **Direktiv 96/71** (Utsendingsdirektivet) – i basen: `eu/direktiv-96-71/VEIVISER.md`. Nevnt i `forskrifter/utsendte-arbeidstakere/par-12.md`, `forskrifter/utsendte-arbeidstakere/par-12a.md`, `lov/par-18-11.md`
+- **Direktiv 2014/67** (Håndhevingsdirektivet til utsendingsdirektivet) – i basen: `eu/direktiv-2014-67/VEIVISER.md`. Nevnt i `lov/par-14-7.md`, `lov/par-18-11.md`
+- Direktiv 91/533 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14e.md`
+- Direktiv 2000/79 – ikke i basen. Nevnt i `forskrifter/luftfartoy-besetning/par-11.md`, `forskrifter/luftfartoy-besetning/utenfor-paragrafene.md`
+- Direktiv 2006/22 – ikke i basen. Nevnt i `forskrifter/vegtransport/par-20.md`, `forskrifter/vegtransport/par-22.md`
+- Forordning nr. 561/2006 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14d.md`
+- Forordning nr. 1072/2009 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14d.md`
+- Forordning nr. 1073/2009 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14a.md`, `forskrifter/utsendte-arbeidstakere/par-14d.md`
+- Forordning nr. 1024/2012 – ikke i basen. Nevnt i `lov/par-18-11.md`
+- Forordning nr. 965/2012 – ikke i basen. Nevnt i `forskrifter/luftfartoy-besetning/par-2.md`, `forskrifter/luftfartoy-besetning/utenfor-paragrafene.md`
+- Forordning nr. 165/2014 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14a.md`, `forskrifter/utsendte-arbeidstakere/par-14d.md`
+- Forordning 2021/2179 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14.md`
+- Forordning 2022/695 – ikke i basen. Nevnt i `forskrifter/vegtransport/par-22.md`
 
 ## Andre kilder
 

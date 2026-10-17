@@ -1618,6 +1618,23 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 - § 6. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-6.md`
 - § 7. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-7.md`
 
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `eu/` er fra roten av basen.
+
+- **Forordning nr. 883/2004** (Trygdeforordningen) – i basen: `eu/forordning-883-2004/VEIVISER.md`. Nevnt i `forskrifter/dagpengeforskriften/par-1-7.md`, `forskrifter/dagpengeforskriften/par-1-8.md`, `forskrifter/dagpengeforskriften/par-1-9.md`, `forskrifter/dagpengeforskriften/utenfor-paragrafene.md`, `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`, `lov/par-1-3a.md`
+- **Forordning nr. 987/2009** (Gjennomføringsforordningen til trygdeforordningen) – i basen: `eu/forordning-987-2009/VEIVISER.md`. Nevnt i `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `lov/par-1-3a.md`
+- Forordning nr. 1408/71 – ikke i basen. Nevnt i `forskrifter/bilaterale-trygdeavtaler/par-1.md`, `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`
+- Forordning nr. 988/2009 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1244/2010 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1224/2012 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 465/2012 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1372/2013 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 517/2013 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning nr. 1368/2014 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning 2017/492 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+- Forordning 2019/1149 – ikke i basen. Nevnt i `lov/par-1-3a.md`
+
 ## Andre kilder
 
 Dette er ikke lov- eller forskriftstekst.
@@ -1676,10 +1693,4 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/` – 11 filer, start med `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md`
 - `rundskriv/ftrl/kap-8/` – 98 filer
 - `rundskriv/ftrl/kap-9/` – 18 filer
-
-### EU/EØS-regelverk
-
-- `eu-eos/forordning-883/` – 6 filer
-- `eu-eos/forordning-987/` – 5 filer
-- `eu-eos/` – 1 filer, start med `eu-eos/oversikt.md`
 <!-- AUTO-SLUTT -->
