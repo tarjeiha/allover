@@ -36,6 +36,7 @@ warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 EURLEX = "https://eur-lex.europa.eu/legal-content/{sprak}/TXT/HTML/?uri=CELEX:{celex}"
 SPARQL = "https://publications.europa.eu/webapi/rdf/sparql"
+CELLAR = "https://publications.europa.eu/resource/celex/{celex}"
 NETTLESER = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/130.0 Safari/537.36",
@@ -95,10 +96,13 @@ def finn_henvisninger(tekst: str) -> set:
 # ---------------------------------------------------------------------------
 
 
-def hent(url: str, forsok: int = 3) -> bytes:
+def hent(url: str, forsok: int = 3, ekstra: dict | None = None) -> bytes:
+    hoder = {**NETTLESER, **(ekstra or {})}
+    if ekstra:
+        hoder["Accept"] = "application/xhtml+xml, text/html"
     for i in range(forsok):
         try:
-            req = urllib.request.Request(url, headers=NETTLESER)
+            req = urllib.request.Request(url, headers=hoder)
             with urllib.request.urlopen(req, timeout=120) as r:
                 return r.read()
         except Exception:  # noqa: BLE001
@@ -358,22 +362,33 @@ def bygg_rettsakt(rot: Path, akt: dict, feil: list, merknader: list) -> dict | N
     mappe = rot / akt["mappe"]
     sprak = akt.get("sprak", "EN")
     url = EURLEX.format(sprak=sprak, celex=akt["versjon"])
-    data, html = {"artikler": []}, ""
-    for forsok in range(3):
+    # EUR-Lex svarer av og til med en ventside (AWS WAF) til automatiske oppslag. Da prøves
+    # Publikasjonskontorets CELLAR-tjeneste, som er laget for maskinell henting av samme tekst.
+    kilder = [url, CELLAR.format(celex=akt["versjon"])]
+    data, problemer = {"artikler": []}, []
+    for kilde in kilder:
         try:
-            html = hent(url).decode("utf-8", errors="replace")
+            html = hent(kilde, ekstra={"Accept-Language": "eng" if sprak == "EN" else sprak.lower()}
+                        if kilde.startswith(CELLAR[:30]) else None).decode("utf-8", errors="replace")
         except Exception as e:  # noqa: BLE001
-            feil.append(f"{akt['navn']}: kunne ikke hente {url}: {e}")
-            return None
+            problemer.append(f"{kilde}: {e}")
+            continue
         data = les_rettsakt(html)
         if data["artikler"]:
+            url = kilde
             break
-        time.sleep(10 * (forsok + 1))  # EUR-Lex svarer av og til med en ventside
+        problemer.append(f"{kilde}: ingen artikler ({len(html)} tegn)")
+        time.sleep(5)
+    time.sleep(3)
     if not data["artikler"]:
-        utdrag = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))[:300]
-        feil.append(f"{akt['navn']}: fant ingen artikler i {url} ({len(html)} tegn: {utdrag})")
+        tidligere = list(mappe.glob("art-*.md"))
+        melding = f"{akt['navn']}: fikk ikke hentet teksten ({'; '.join(problemer)[:400]})"
+        if tidligere:
+            merknader.append(melding + ". Beholder teksten fra forrige bygg.")
+            return {"akt": akt, "tittel": "", "oppforinger": eksisterende(mappe), "endringer": [], "nyere": [],
+                    "url": url, "beholdt": True}
+        feil.append(melding)
         return None
-    time.sleep(2)
 
     for gammel in list(mappe.glob("art-*.md")) + list(mappe.glob("vedlegg-*.md")):
         gammel.unlink()
@@ -423,6 +438,18 @@ def bygg_rettsakt(rot: Path, akt: dict, feil: list, merknader: list) -> dict | N
         merknader.append(f"{akt['navn']}: kunne ikke sjekke nyere versjoner: {e}")
     return {"akt": akt, "tittel": data["tittel"], "oppforinger": oppforinger, "endringer": data["endringer"],
             "nyere": nyere, "url": url}
+
+
+def eksisterende(mappe: Path) -> list:
+    """Oppføringer for artikkelfiler fra et tidligere bygg, når teksten ikke kunne hentes på nytt."""
+    ut = []
+    for fil in sorted(mappe.glob("art-*.md"), key=lambda f: [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", f.stem)]) + \
+            sorted(mappe.glob("vedlegg-*.md")):
+        linjer = fil.read_text(encoding="utf-8").splitlines()
+        tittel = linjer[0].lstrip("# ") if linjer else fil.stem
+        under = next((l.strip("*") for l in linjer[1:4] if l.startswith("**") and not l.startswith("**Kilde")), "")
+        ut.append(("", f"{tittel}" + (f". {under}" if under else ""), fil))
+    return ut
 
 
 def veiviser_blokk(rot: Path, info: dict, norske: dict) -> str:

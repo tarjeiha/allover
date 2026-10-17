@@ -381,8 +381,9 @@ def main() -> int:
         info = eumodul.bygg_rettsakt(ROT, a, feil, merknader)
         if not info:
             continue
-        skjelett = f"# {a['navn']}: veiviser\n\n_Håndskrevet veiledning mangler ennå._\n"
-        erstatt_auto(ROT / a["mappe"] / "VEIVISER.md", eumodul.veiviser_blokk(ROT, info, norske_henvisninger), skjelett)
+        if not info.get("beholdt"):
+            skjelett = f"# {a['navn']}: veiviser\n\n_Håndskrevet veiledning mangler ennå._\n"
+            erstatt_auto(ROT / a["mappe"] / "VEIVISER.md", eumodul.veiviser_blokk(ROT, info, norske_henvisninger), skjelett)
         for _, tittel, fil in info["oppforinger"]:
             indeks.append(f"{a['navn']}\tEU-rettsakt\t{tittel}\t{fil.relative_to(ROT).as_posix()}")
         for fil in sorted((ROT / a["mappe"] / "merknader").glob("*.md")):
