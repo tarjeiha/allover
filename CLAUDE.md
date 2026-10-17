@@ -47,7 +47,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Diskrimineringsombudsloven | `diskrimineringsombudsloven/VEIVISER.md` | 2026-01-01 |
 | Ferieloven | `ferieloven/VEIVISER.md` | 2024-01-01 |
 | Folketrygdloven | `folketrygdloven/VEIVISER.md` | 2026-10-01 |
-| Forvaltningsloven | `forvaltningsloven/VEIVISER.md` | 2026-01-01 |
+| Forvaltningsloven | `forvaltningsloven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
 | Forvaltningsloven 2025 (ny lov, ikke i kraft) | `forvaltningsloven-2025/VEIVISER.md` | Ikke i kraft (Kongen bestemmer) |
 | Integreringsloven | `integreringsloven/VEIVISER.md` | 2026-07-01 |
 | Karanteneloven | `karanteneloven/VEIVISER.md` | 2025-07-01 |
@@ -64,7 +64,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Statsborgerloven | `statsborgerloven/VEIVISER.md` | 2024-12-20 |
 | Tjenestetvistloven | `tjenestetvistloven/VEIVISER.md` | 2012-03-01 |
 | Tolkeloven | `tolkeloven/VEIVISER.md` | 2022-06-15 |
-| Utlendingsloven | `utlendingsloven/VEIVISER.md` | 2026-10-01 |
+| Utlendingsloven | `utlendingsloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
 | Utredningsinstruksen | `utredningsinstruksen/VEIVISER.md` | 2024-11-01 |
 <!-- AUTO-SLUTT -->
 

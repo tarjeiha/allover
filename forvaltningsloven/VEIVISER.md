@@ -32,7 +32,9 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 ## Vedtatte endringer som ikke er i kraft
 
-Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Forvaltningsloven** (LOV-2025-06-20-81). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: Forvaltningsloven. Ny tekst: `vedtatte-endringer/lov-2025-06-20-81.md`
 
 ## Innhold
 
