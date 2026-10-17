@@ -18,6 +18,10 @@ Full liste med mappe, tabell, filer, kildeside og dato står i `data/nav/indeks.
 | `uforetrygd-*/` | Mottakere av uføretrygd: fylke, kommune, alder, kjønn, uføregrad, innvandrerstatus, barnetillegg, nye mottakere og avgang, diagnoser | Måned (til aug. 2026), kvartal (til juni 2026) og år (til 2025) |
 | `nedsatt-arbeidsevne-*/` | Personer med nedsatt arbeidsevne etter alder, kjønn, fylke, kommune og innvandrerbakgrunn | Måned (jan.–aug. 2026) og 2. kvartal 2026 |
 | `alderspensjon-*/` | Alderspensjonister etter kjønn, alder, fylke, kommune, bosted, innvandrer, delytelse, gradert uttak, minstepensjon, inntekts- og garantipensjon, nye alderspensjonister, avgangsalder og utbetaling | Tidsserier og måneder til 2. kv. 2026; utbetaling og avgangsalder til 2025 |
+| `helt-ledige-*/`, `hovedtall-arbeidsmarkedet*/` | Helt ledige etter kjønn, alder, fylke, kommune, utdanning, yrke, varighet og innvandrerbakgrunn; hovedtall (permitterte, delvis ledige, sesongjustert, tilgang av arbeidssøkere); fylkesserier tilbake til 1951 (`helt-ledige-fylke-mnd-*`) | Måned (til sep. 2026), år og historiske serier |
+| `ledige-stillinger-*/` | Tilgang av ledige stillinger etter kilde, fylke og yrke | Måned (til sep. 2026) og år |
+| `tiltaksdeltakere-*/`, `tiltak-nedsatt-arbeidsevne-*/` | Tiltaksdeltakere etter tiltakstype, demografi og fylke, og personer med nedsatt arbeidsevne på tiltak | Måned (til sep. 2026) og år (til 2025) |
+| `arbeidsindikator-*/` | Navs arbeidsindikator: resultater og tidsserier for landet, fylker, tiltak og avtaler | Mars 2026 |
 
 **Kvartal i sykefraværstabellene:** Nav leverer én fil per kvartal, men i basen er de slått sammen til én TSV per tabell og ark. Kolonnen `kvartal` sier hvilket kvartal raden gjelder, og årskolonnene viser utviklingen for samme kvartal fra år til år. Kvartaler som ikke er publisert for et år (f.eks. 3. og 4. kvartal 2026) har tom celle. Linjen `# Kvartaler:` øverst viser hvilke kvartaler som er lagt inn. Originalfilene ligger i `original/`.
 
@@ -30,4 +34,4 @@ Full liste med mappe, tabell, filer, kildeside og dato står i `data/nav/indeks.
 
 ## Nav-statistikk som ikke er lagt inn
 
-Se `data/nav-oversikt.md` for oversikt over filer og sider. Gjelder bl.a. familieytelser, AFP, sosialhjelp, grunnstønad og hjelpestønad, og dagpenger etter alder/fylke for tidligere måneder. For slike spørsmål: vis til Navs statistikkside, og ikke svar fra hukommelsen.
+Se `data/nav-oversikt.md` for oversikt over filer og sider. Gjelder bl.a. familieytelser, AFP, sosialhjelp, grunnstønad og hjelpestønad (arbeidssøkere og stillinger er lagt inn), og dagpenger etter alder/fylke for tidligere måneder. For slike spørsmål: vis til Navs statistikkside, og ikke svar fra hukommelsen.
