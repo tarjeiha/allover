@@ -20,7 +20,6 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Arbeidssøkere har eget vern.** Forbudene gjelder alle sider av arbeidsforholdet, fra utlysning til opphør (§ 29). Arbeidsgiver kan ikke spørre om graviditet, planer om barn, religion, etnisitet, funksjonsnedsettelse eller seksuell orientering i ansettelsesprosessen, med unntakene i § 30 andre og tredje ledd.
 - **Delt bevisbyrde.** Diskriminering skal anses å ha skjedd når det foreligger omstendigheter som gir grunn til å tro det, og den ansvarlige ikke sannsynliggjør at det ikke har skjedd (§ 37 første ledd). Regelen gjelder bare bestemmelsene som er listet i § 37 andre ledd.
 - **Håndheving står i en annen lov.** § 35 viser til diskrimineringsombudsloven for Diskrimineringsnemndas myndighet. Spørsmål om klage, vedtak, oppreisning og frister i nemnda må besvares etter den loven. Etter § 38 andre ledd er arbeidsgivers ansvar for oppreisning og erstatning objektivt, men i saker om trakassering kreves det at den ansvarlige kan bebreides.
-- **Bokstavlister kan stå etter setningen de hører til.** I noen paragraffiler er bokstavpunktene plassert etter hele leddet, slik at setningen ser ufullstendig ut (f.eks. § 10 første ledd, § 26 andre ledd og § 38 første ledd). Les hele leddet før du siterer.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

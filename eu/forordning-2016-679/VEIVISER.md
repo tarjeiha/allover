@@ -2,7 +2,7 @@
 
 Personvernforordningen (GDPR) er EU-rettsakten (EU) 2016/679. Teksten er hentet fra EUR-Lex på engelsk. Den er EU-tekst, ikke norsk lov- eller forskriftstekst.
 
-**Bruk den norske teksten først.** Forordningen gjelder som norsk lov etter personopplysningsloven § 1, og den norske teksten ligger i `personopplysningsloven/lov/par-gdpr-a*.md` (stier fra roten). Den engelske teksten her er nyttig til sammenligning, blant annet der den norske filen har ledd eller bokstavlister i feil rekkefølge.
+**Bruk den norske teksten først.** Forordningen gjelder som norsk lov etter personopplysningsloven § 1, og den norske teksten ligger i `personopplysningsloven/lov/par-gdpr-a*.md` (stier fra roten). Den engelske teksten her er nyttig til sammenligning.
 
 ## Slik bruker du veiviseren
 
