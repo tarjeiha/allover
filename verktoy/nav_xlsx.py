@@ -44,6 +44,10 @@ def overskriftscelle(v):
     return bool(s) and not set(s) <= {"*", "-", "."} and not re.fullmatch(r"[\d\s.,]+", s)
 
 
+def er_tall(v):
+    return isinstance(v, (int, float)) and not isinstance(v, bool) and not (float(v) == int(v) and 1990 <= v <= 2100)
+
+
 def er_overskrift(rad):
     verdier = [c for c in rad[1:] if tekst(c)]
     return len(verdier) >= 2 and all(overskriftscelle(c) for c in verdier)
@@ -62,6 +66,11 @@ def les_ark(ws):
             blokk = {"gruppe": ventende or "", "etikett": tekst(r[0]), "kolonner": [tekst(c) for c in r[1:]], "rader": []}
             blokker.append(blokk)
             ventende, rad_gruppe = None, ""
+        elif not blokker and len(celler) >= 2 and any(er_tall(c) for c in celler[1:]) and not er_nummerrad([c for c in celler if isinstance(c, (int, float))]):
+            # Ark uten overskriftsrad: etikett og verdi(er) på hver rad (f.eks. «Figur 4» og «11. Tilgang» i Nav-filer).
+            blokk = {"gruppe": "", "etikett": "", "kolonner": [], "rader": [], "uten_overskrift": True}
+            blokker.append(blokk)
+            blokk["rader"].append((rad_gruppe, [tekst(c) for c in r]))
         elif not blokker:
             ingress += [tekst(c) for c in celler]
         elif len(celler) == 1 and isinstance(celler[0], str):
@@ -78,6 +87,12 @@ def les_ark(ws):
             blokk["rader"].append((rad_gruppe, [tekst(c) for c in r]))
     if ventende:
         noter.append(ventende)
+    for b in blokker:
+        if b.get("uten_overskrift"):
+            bredde = max(len(r) for _, r in b["rader"])
+            brukt = [j for j in range(1, bredde) if any(j < len(r) and r[j] for _, r in b["rader"])]
+            b["rader"] = [(g, [r[0]] + [r[j] if j < len(r) else "" for j in brukt]) for g, r in b["rader"]]
+            b["kolonner"] = ["verdi"] if len(brukt) == 1 else [f"verdi {i}" for i in range(1, len(brukt) + 1)]
     return ingress, noter, blokker
 
 
@@ -142,6 +157,8 @@ def tall_i_tsv(mappe):
     for fil in Path(mappe).glob("*.tsv"):
         for linje in fil.read_text(encoding="utf-8").splitlines():
             if linje.startswith("#"):
+                if re.fullmatch(r"# \d{4}", linje) and not heltall_aar(float(linje[2:])):
+                    ut[round(float(linje[2:]), 3)] += 1  # tittellinje med bare et årstall (f.eks. «1951» over en tabell)
                 continue
             tall = []
             for c in linje.split("\t"):

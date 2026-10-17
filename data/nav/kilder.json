@@ -494,6 +494,276 @@
    "mappe": "alderspensjon-utbetaling-inntekts-garanti",
    "tittel": "Årlig utbetaling til alderspensjonister med inntekts- og garantipensjon (PST084)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "hl050",
+   "mappe": "helt-ledige-kjonn-alder-maaned",
+   "tittel": "Helt ledige etter kjønn og alder, tidsserie måned (HL050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl060",
+   "mappe": "helt-ledige-fylke-kommune-maaned",
+   "tittel": "Helt ledige etter fylke og kommune, tidsserie måned (HL060)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl070",
+   "mappe": "helt-ledige-utdanning-maaned",
+   "tittel": "Helt ledige etter utdanning, tidsserie måned (HL070)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl075",
+   "mappe": "helt-ledige-yrke-maaned",
+   "tittel": "Helt ledige etter yrke, tidsserie måned (HL075)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl080",
+   "mappe": "helt-ledige-varighet-maaned",
+   "tittel": "Helt ledige etter varighet og langtidsledige, tidsserie måned (HL080)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl085",
+   "mappe": "helt-ledige-innvandrerbakgrunn-maaned",
+   "tittel": "Helt ledige etter innvandrerbakgrunn, tidsserie måned (HL085)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl090",
+   "mappe": "helt-ledige-fylke-aar",
+   "tittel": "Helt ledige etter fylke, tidsserie år (HL090)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "^2024hl065",
+   "mappe": "helt-ledige-fylke-historisk",
+   "tittel": "Antall helt ledige etter fylke, historisk (HL065, 2024)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "^2025hl065",
+   "mappe": "helt-ledige-og-tiltak-fylke-aar",
+   "tittel": "Helt ledige og arbeidssøkere på tiltak etter fylke, tidsserie år (HL065)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd5160",
+   "mappe": "helt-ledige-fylke-mnd-51-60",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_51-60)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd6170",
+   "mappe": "helt-ledige-fylke-mnd-61-70",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_61-70)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd7180",
+   "mappe": "helt-ledige-fylke-mnd-71-80",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_71-80)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd8190",
+   "mappe": "helt-ledige-fylke-mnd-81-90",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_81-90)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "^hl100",
+   "mappe": "helt-ledige-historisk",
+   "tittel": "Antall helt ledige, historisk (HL100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^harb011",
+   "mappe": "hovedtall-arbeidsmarkedet-fylke-kommune",
+   "tittel": "Hovedtall om arbeidsmarkedet etter fylke og kommune (HARB011)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^harb013",
+   "mappe": "hovedtall-arbeidsmarkedet-permitterte",
+   "tittel": "Hovedtall om arbeidsmarkedet, permitterte (HARB013)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^harb050",
+   "mappe": "hovedtall-arbeidsmarkedet-delvis-ledige",
+   "tittel": "Hovedtall om arbeidsmarkedet, delvis ledige (HARB050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^harb100",
+   "mappe": "hovedtall-arbeidsmarkedet-sesongjustert",
+   "tittel": "Sesongjusterte hovedtall om arbeidsmarkedet (HARB100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^hovedtallomarbeidsmarkedet[a-zæøå]+\\d{4}$",
+   "mappe": "hovedtall-arbeidsmarkedet",
+   "tittel": "Hovedtall om arbeidsmarkedet",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^tallgrunnlagarbeidsmarkedet",
+   "mappe": "hovedtall-arbeidsmarkedet-tallgrunnlag",
+   "tittel": "Tallgrunnlag for Arbeidsmarkedet nå",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "stil020",
+   "mappe": "ledige-stillinger-tilgang-kilde-maaned",
+   "tittel": "Tilgang ledige stillinger etter kilde, tidsserie måned (STIL020)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "stil030",
+   "mappe": "ledige-stillinger-tilgang-fylke-maaned",
+   "tittel": "Tilgang ledige stillinger etter fylke, tidsserie måned (STIL030)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "stil040",
+   "mappe": "ledige-stillinger-tilgang-yrke-maaned",
+   "tittel": "Tilgang ledige stillinger etter yrke, tidsserie måned (STIL040)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "2025stil090",
+   "mappe": "ledige-stillinger-tilgang-fylke-aar",
+   "tittel": "Tilgang ledige stillinger etter fylke, tidsserie år (STIL090)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "^202109stiltilgang",
+   "mappe": "ledige-stillinger-tilgang-tidsserie-2021",
+   "tittel": "Tilgang ledige stillinger, tidsserie måned (utgave 2021)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "tilt100",
+   "mappe": "tiltaksdeltakere-hovedgruppe-maaned",
+   "tittel": "Tiltaksdeltakere etter hovedgruppe og demografi, tidsserie måned (TILT100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt110",
+   "mappe": "tiltaksdeltakere-lonnstilskudd-maaned",
+   "tittel": "Tiltaksdeltakere på lønnstilskudd, demografi, tidsserie måned (TILT110)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt120",
+   "mappe": "tiltaksdeltakere-arbeidspraksis-maaned",
+   "tittel": "Tiltaksdeltakere på arbeidspraksis, demografi, tidsserie måned (TILT120)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt130",
+   "mappe": "tiltaksdeltakere-opplaering-maaned",
+   "tittel": "Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt140",
+   "mappe": "tiltaksdeltakere-oppfolging-maaned",
+   "tittel": "Tiltaksdeltakere på oppfølging, demografi, tidsserie måned (TILT140)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt150",
+   "mappe": "tiltaksdeltakere-avklaring-maaned",
+   "tittel": "Tiltaksdeltakere på avklaring, demografi, tidsserie måned (TILT150)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt160",
+   "mappe": "tiltaksdeltakere-rehabilitering-maaned",
+   "tittel": "Tiltaksdeltakere på arbeidsrettet rehabilitering, demografi, tidsserie måned (TILT160)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt170",
+   "mappe": "tiltaksdeltakere-tilrettelagt-arbeid-maaned",
+   "tittel": "Tiltaksdeltakere på tilrettelagt arbeid, demografi, tidsserie måned (TILT170)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt180",
+   "mappe": "tiltaksdeltakere-jobbskaping-maaned",
+   "tittel": "Tiltaksdeltakere på jobbskaping, egenetablering og tilrettelegging, demografi, tidsserie måned (TILT180)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "2025tilt090",
+   "mappe": "tiltaksdeltakere-arbeidssokere-fylke-aar",
+   "tittel": "Arbeidssøkere på tiltak etter fylke, tidsserie år (TILT090)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "2025tilt095",
+   "mappe": "tiltaksdeltakere-nedsatt-arbeidsevne-fylke-aar",
+   "tittel": "Personer med nedsatt arbeidsevne på tiltak etter fylke, tidsserie år (TILT095)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "nedsattarbeidsevnep(å|a)tiltakalder",
+   "mappe": "tiltak-nedsatt-arbeidsevne-alder-aar",
+   "tittel": "Nedsatt arbeidsevne på tiltak etter alder, tidsserie år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "nedsattarbeidsevnep(å|a)tiltakkjønn|nedsattarbeidsevnep(å|a)tiltakkjonn",
+   "mappe": "tiltak-nedsatt-arbeidsevne-kjonn-aar",
+   "tittel": "Nedsatt arbeidsevne på tiltak etter kjønn, tidsserie år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "nedsattarbeidsevnep(å|a)tiltaktiltakstype",
+   "mappe": "tiltak-nedsatt-arbeidsevne-tiltakstype-aar",
+   "tittel": "Nedsatt arbeidsevne på tiltak etter tiltakstype, 2011–2025",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "^tabell1,arbeidsindikator",
+   "mappe": "arbeidsindikator-resultater",
+   "tittel": "Arbeidsindikator, resultater (tabell 1)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell2,tidsserie,landet",
+   "mappe": "arbeidsindikator-tidsserie-landet",
+   "tittel": "Arbeidsindikator, tidsserie landet (tabell 2)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell3,tidsserie,fylkesenheter",
+   "mappe": "arbeidsindikator-tidsserie-fylke",
+   "tittel": "Arbeidsindikator, tidsserie fylkesenheter (tabell 3)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell4,tidsserie,tiltak,landet",
+   "mappe": "arbeidsindikator-tiltak-landet",
+   "tittel": "Arbeidsindikator, tidsserie tiltak, landet (tabell 4)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell5,tidsserie,tiltak,fylkesenheter",
+   "mappe": "arbeidsindikator-tiltak-fylke",
+   "tittel": "Arbeidsindikator, tidsserie tiltak, fylkesenheter (tabell 5)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell6,tidsserie,tiltak,avtaler",
+   "mappe": "arbeidsindikator-tiltak-avtaler",
+   "tittel": "Arbeidsindikator, tidsserie tiltak, avtaler (tabell 6)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
   }
  ]
 }
