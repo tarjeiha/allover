@@ -1,0 +1,34 @@
+# Kilde: Nav
+# Tabell: Utbetalinger innland og utland, statsregnskap (U300)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Avstemming
+# Statsregnskap. Utbetalinger innland og utland 2025
+# Differanse statsregnskap og utbetalingsstatistikk til personer*
+# 05.03.2026
+Kapittel	Stønadsområde		Statsregnskap. Mill kr	Tilskudd. Mill kr	Utbetalt til personer. Mill kr	Differanse. Mill kr
+I alt stønader og tilskudd fra Arbeids- og velferdsetaten			703548.335834	27075.149367	676389.495676	83.690792
+Arbeidsliv og sykdom			285654.70375	11740.134271	273839.485666	75.083813
+0634	Arbeidsmarkedstiltak		11620.145193	10719.805919	1078.108886	-177.769612
+0635	Ventelønn		0.133239	*	*	0.133239
+2541	Dagpenger		15365.463837	*	15267.246582	98.217255
+2542	Lønnsgaranti		917.971266	917.971266	*	0
+2543	Korona, selvstendig næringsdrivende mv		0	*	0.112695	-0.112695
+2620	Stønad til enslig mor eller far		1641.019117	*	1631.094791	9.924326
+2650	Sykepenger		70950.14096	54.241971	70893.213549	2.68544
+2651	Arbeidsavklaringspenger		51729.073716	48.115116	51540.246986	140.711614
+2655	Uføretrygd		133430.756423	*	133429.462177	1.294246
+Barn og foreldre			59239.117942	*	59235.963446	3.154496
+0844	Kontantstøtte		750.94101	*	750.981038	-0.040028
+0845	Barnetrygd		28749.548333	*	28747.070349	2.477984
+2530	Foreldrepenger		29738.628599	*	29737.912059	0.71654
+Pensjoner			342826.936049	4370.191121	338452.413584	4.331344
+0660	Krigspensjon		80.712435	*	80.706353	0.006082
+0666	Avtalefestet pensjon(AFP)		4370.191121	4370.191121	*	0
+0667	Supplerende stønad		705.577678	*	705.655316	-0.077638
+2670	Alderspensjon		334204.87197	*	334200.624707	4.247263
+2680	Ytelser til gjenlevende		3465.582845	*	3465.427208	0.155637
+Øvrig			15827.578093	10964.823974	4861.63298	1.121139
+0621	Tilskudd til sosiale tjenester		219.283818	219.283818	*	0
+2661	Grunn- og hjelpestønad og hjelpemidler		15098.649423	10745.540156	4352.146732	0.962535
+2686	Gravferdsstønad		509.644852	*	509.486248	0.158604

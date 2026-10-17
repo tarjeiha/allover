@@ -1,0 +1,1067 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Innlandet (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Kommune
+# Utbetalinger innland. Geografi 2025
+# Kommune
+# 06.03.2026
+# 3401 Kongsvinger- 34 Innlandet
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				2650.853711	2504.546743	0.058417		10615	0.586529	250000		9206.416667		0.508698	*
+Stønadsområde	Arbeidsliv og sykdom				1087.837921	1021.348362	0.0651		4742	0.262018	229400		3127.75		0.172823	29000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		3.916176	5.03191	*		179	0.009891	21900		62.25		0.00344	5200
+Stønadsområde		2541	Dagpenger		38.714365	35.98379	0.075883		402	0.022212	96300		146.333333		0.008086	22000
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		7.110096	5.595263	0.270735		57	0.00315	124700		38.5		0.002127	15400
+Stønadsområde		2650	Sykepenger		199.082208	187.295534	0.062931		1858	0.102663	107100		504.583333		0.027881	32900
+Stønadsområde		2651	Arbeidsavklaringspenger		188.954775	175.124046	0.078977		792	0.043762	238600		615.166667		0.033991	25600
+Stønadsområde		2655	Uføretrygd		650.060301	612.317819	0.061639		1977	0.109239	328800		1853.416667		0.10241	29200
+Stønadsområde	Barn og foreldre				141.781075	130.149407	0.089372		2234	0.123439	63500		1960.083333		0.108304	6000
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		1.1895	2.118	-0.438385		41	0.002265	29000		11.083333		0.000612	8900
+Stønadsområde		0845	Barnetrygd		82.168348	73.769505	0.113853		2072	0.114488	39700		1910.5		0.105564	3600
+Stønadsområde		2530	Foreldrepenger		58.423227	54.261902	0.07669		364	0.020113	160500		127.166667		0.007027	38300
+Stønadsområde	Pensjoner				1407.294369	1340.096584	0.050144		4708	0.260139	298900		4503.5		0.24884	26000
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	-0.362934		*	*	51400		2.25		0.000124	*
+Stønadsområde		0667	Supplerende stønad		1.304608	1.077629	0.210628		10	0.000553	130500		8.916667		0.000493	12200
+Stønadsområde		2670	Alderspensjon		1395.428036	1329.110854	0.049896		4610	0.254724	302700		4410.75		0.243715	26400
+Stønadsområde		2680	Ytelser til gjenlevende		10.407504	9.666021	0.07671		97	0.00536	107300		90		0.004973	9600
+Stønadsområde	Øvrig				13.940346	12.95239	0.076276		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		12.928036	12.068225	0.071246		628	0.0347	20600		603.833333		0.033365	1800
+Stønadsområde		2686	Gravferdsstønad		1.01231	0.884165	0.144933		43	0.002376	23500		3.583333		0.000198	23500
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				4288.254079	4008.110782	0.069894		17888	0.533429	240000		15188.916667		0.452941	*
+Stønadsområde	Arbeidsliv og sykdom				1542.624179	1424.235051	0.083125		7371	0.219807	209300		4440		0.132403	29000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		7.934004	7.872868	*		335	0.00999	23700		113.333333		0.00338	5800
+Stønadsområde		2541	Dagpenger		79.448513	67.67631	0.173949		816	0.024334	97400		294		0.008767	22500
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		9.185982	11.3101	-0.187807		106	0.003161	86700		63.75		0.001901	12000
+Stønadsområde		2650	Sykepenger		339.721313	322.527203	0.053311		3232	0.09638	105100		827.083333		0.024664	34200
+Stønadsområde		2651	Arbeidsavklaringspenger		277.918566	233.02149	0.192674		1244	0.037097	223400		936.583333		0.027929	24700
+Stønadsområde		2655	Uføretrygd		828.415801	781.82708	0.05959		2533	0.075535	327000		2344.75		0.069922	29400
+Stønadsområde	Barn og foreldre				307.484162	277.264978	0.10899		4282	0.127691	71800		3751.583333		0.111874	6800
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		2.9055	4.660658	-0.37659		107	0.003191	27200		30.416667		0.000907	8000
+Stønadsområde		0845	Barnetrygd		156.736888	137.932484	0.13633		3937	0.117403	39800		3642.083333		0.108609	3600
+Stønadsområde		2530	Foreldrepenger		147.841774	134.671836	0.097793		806	0.024035	183400		294.416667		0.00878	41800
+Stønadsområde	Pensjoner				2412.081472	2282.552018	0.056748		7862	0.234449	306800		7448.833333		0.222128	27000
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.033994		*	*	241100		2		6e-05	*
+Stønadsområde		0667	Supplerende stønad		7.778389	6.398721	0.215616		54	0.00161	144000		45.583333		0.001359	14200
+Stønadsområde		2670	Alderspensjon		2390.440826	2263.246468	0.0562		7717	0.230125	309800		7324.75		0.218428	27200
+Stønadsområde		2680	Ytelser til gjenlevende		13.380085	12.440509	0.075526		127	0.003787	105400		105.916667		0.003158	10500
+Stønadsområde	Øvrig				26.064266	24.058735	0.08336		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		22.540704	21.184068	0.06404		1116	0.03328	20200		1058.25		0.031558	1800
+Stønadsområde		2686	Gravferdsstønad		3.523562	2.874667	0.225729		326	0.009721	10800		27.75		0.000828	10600
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				3506.320039	3296.423256	0.063674		15002	0.51824	234000		12611.916667		0.435675	*
+Stønadsområde	Arbeidsliv og sykdom				1194.000948	1125.811104	0.06057		6042	0.208719	197600		3426.75		0.118376	29000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		5.560126	5.742034	*		263	0.009085	21100		90		0.003109	5100
+Stønadsområde		2541	Dagpenger		49.609631	50.494496	-0.017524		616	0.02128	80500		194.833333		0.00673	21200
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		6.253142	6.147561	0.017174		77	0.00266	81200		48.916667		0.00169	10700
+Stønadsområde		2650	Sykepenger		316.064342	301.411283	0.048615		3020	0.104325	104700		768.083333		0.026533	34300
+Stønadsområde		2651	Arbeidsavklaringspenger		198.333555	172.468805	0.149968		895	0.030918	221600		671.083333		0.023182	24600
+Stønadsområde		2655	Uføretrygd		618.180152	589.546925	0.048568		1908	0.065911	324000		1773.166667		0.061254	29100
+Stønadsområde	Barn og foreldre				275.187111	243.500346	0.13013		3724	0.128644	73900		3242		0.111994	7100
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		3.1305	2.9265	0.069708		108	0.003731	29000		31.333333		0.001082	8300
+Stønadsområde		0845	Barnetrygd		133.974128	117.932302	0.136026		3360	0.11607	39900		3125.916667		0.107984	3600
+Stønadsområde		2530	Foreldrepenger		138.082483	122.641544	0.125903		785	0.027118	175900		285.583333		0.009865	40300
+Stønadsområde	Pensjoner				2016.442189	1908.134769	0.056761		6587	0.227546	306100		6264.416667		0.216402	26800
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.004391		*	*	205000		2		6.9e-05	*
+Stønadsområde		0667	Supplerende stønad		4.331511	3.890216	0.113437		32	0.001105	135400		24.583333		0.000849	14700
+Stønadsområde		2670	Alderspensjon		1996.878293	1888.150587	0.057584		6442	0.222537	310000		6131.083333		0.211796	27100
+Stønadsområde		2680	Ytelser til gjenlevende		14.822469	15.685842	-0.055042		139	0.004802	106600		125.583333		0.004338	9800
+Stønadsområde	Øvrig				20.689791	18.977037	0.090254		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		17.565173	16.090484	0.09165		919	0.031747	19100		845.5		0.029208	1700
+Stønadsområde		2686	Gravferdsstønad		3.124618	2.886553	0.082474		193	0.006667	16200		16.25		0.000561	16000
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				4002.956965	3756.183043	0.065698		16828	0.539791	238000		14219.166667		0.456108	*
+Stønadsområde	Arbeidsliv og sykdom				1684.98305	1558.073296	0.081453		7743	0.248372	217600		4766.25		0.152887	29500
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		8.521778	6.948391	*		317	0.010168	26900		117.166667		0.003758	6100
+Stønadsområde		2541	Dagpenger		66.998617	56.508321	0.185642		744	0.023865	90100		256.833333		0.008238	21700
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		8.565501	8.049295	0.064131		85	0.002727	100800		57.416667		0.001842	12400
+Stønadsområde		2650	Sykepenger		403.923006	364.509446	0.108128		3520	0.112911	114800		959.333333		0.030773	35100
+Stønadsområde		2651	Arbeidsavklaringspenger		236.633476	224.516415	0.05397		1091	0.034996	216900		776.583333		0.02491	25400
+Stønadsområde		2655	Uføretrygd		960.340672	897.541428	0.069968		2967	0.095172	323700		2758.416667		0.088482	29000
+Stønadsområde	Barn og foreldre				265.833882	240.386639	0.10586		4018	0.128885	66200		3517.666667		0.112836	6300
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		3.384	4.901422	-0.309588		118	0.003785	28700		33.916667		0.001088	8300
+Stønadsområde		0845	Barnetrygd		144.707864	128.82499	0.12329		3690	0.118364	39200		3419.75		0.109695	3500
+Stønadsområde		2530	Foreldrepenger		117.742018	106.660227	0.103898		721	0.023128	163300		250.333333		0.00803	39200
+Stønadsområde	Pensjoner				2028.067084	1935.588313	0.047778		6900	0.221331	293900		6557.75		0.210353	25800
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.007334		*	*	134300		1		3.2e-05	*
+Stønadsområde		0667	Supplerende stønad		6.031106	5.428021	0.111106		46	0.001476	131100		38.75		0.001243	13000
+Stønadsområde		2670	Alderspensjon		2008.739408	1917.006689	0.047852		6757	0.216744	297300		6428		0.206191	26000
+Stønadsområde		2680	Ytelser til gjenlevende		13.16224	13.020251	0.010905		135	0.00433	97500		118.166667		0.00379	9300
+Stønadsområde	Øvrig				24.072949	22.134795	0.087561		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		22.116402	20.507884	0.078434		1059	0.03397	20900		1001.333333		0.03212	1800
+Stønadsområde		2686	Gravferdsstønad		1.956547	1.626911	0.202615		133	0.004266	14700		11.166667		0.000358	14600
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				4677.488237	4358.422082	0.073207		20121	0.558606	232000		16988.916667		0.471652	*
+Stønadsområde	Arbeidsliv og sykdom				1997.199929	1849.118735	0.080082		9232	0.256302	216300		5658.333333		0.157089	29400
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		6.210175	5.505855	*		322	0.008939	19300		109.416667		0.003038	4700
+Stønadsområde		2541	Dagpenger		62.592174	56.351471	0.110746		789	0.021904	79300		250.166667		0.006945	20900
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		8.754594	9.446995	-0.073293		112	0.003109	78200		69.25		0.001923	10500
+Stønadsområde		2650	Sykepenger		464.671147	439.670976	0.056861		4278	0.118767	108600		1152		0.031982	33600
+Stønadsområde		2651	Arbeidsavklaringspenger		359.962629	319.71541	0.125885		1594	0.044253	225800		1188.083333		0.032984	25200
+Stønadsområde		2655	Uføretrygd		1095.00921	1018.428028	0.075195		3332	0.092504	328600		3104.416667		0.086186	29400
+Stønadsområde	Barn og foreldre				353.640264	309.775039	0.141603		5003	0.138895	70700		4392.333333		0.121942	6700
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		3.304687	4.879782	-0.32278		124	0.003443	26700		34.5		0.000958	8000
+Stønadsområde		0845	Barnetrygd		177.185497	156.624084	0.131279		4562	0.126652	38800		4251.25		0.118025	3500
+Stønadsområde		2530	Foreldrepenger		173.15008	148.271173	0.167793		977	0.027124	177200		363.833333		0.010101	39700
+Stønadsområde	Pensjoner				2295.58023	2170.14156	0.057802		8042	0.223265	285400		7632.416667		0.211894	25100
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.007563		*	*	130800		1		2.8e-05	*
+Stønadsområde		0667	Supplerende stønad		3.868452	2.461416	0.571637		30	0.000833	128900		25		0.000694	12900
+Stønadsområde		2670	Alderspensjon		2270.0529	2146.640434	0.057491		7826	0.217268	290100		7439		0.206524	25400
+Stønadsområde		2680	Ytelser til gjenlevende		21.528052	20.909866	0.029564		213	0.005913	101100		189.166667		0.005252	9500
+Stønadsområde	Øvrig				31.067814	29.386748	0.057205		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		27.608722	26.235204	0.052354		1343	0.037285	20600		1250.25		0.03471	1800
+Stønadsområde		2686	Gravferdsstønad		3.459092	3.151544	0.097586		265	0.007357	13100		22.416667		0.000622	12900
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				1084.883154	1020.604555	0.062981		4582	0.575918	237000		3937.333333		0.494889	*
+Stønadsområde	Arbeidsliv og sykdom				468.991541	433.748522	0.081252		2149	0.270111	218200		1374.416667		0.172752	28400
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		3.942755	2.632399	*		130	0.01634	30300		59.5		0.007479	5500
+Stønadsområde		2541	Dagpenger		17.570064	13.296018	0.321453		199	0.025013	88300		67.166667		0.008442	21800
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.709983	1.678582	0.018707		23	0.002891	74300		14.583333		0.001833	9800
+Stønadsområde		2650	Sykepenger		89.884913	83.245049	0.079763		887	0.111488	101300		232.583333		0.029234	32200
+Stønadsområde		2651	Arbeidsavklaringspenger		77.29311	68.755176	0.124179		339	0.042609	228000		256.75		0.032271	25100
+Stønadsområde		2655	Uføretrygd		278.590716	264.141298	0.054703		849	0.106712	328100		799.25		0.100459	29000
+Stønadsområde	Barn og foreldre				71.186447	71.975534	-0.010963		1095	0.137632	65000		981.583333		0.123376	6000
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.66597	1.0065	-0.338331		28	0.003519	23800		7.583333		0.000953	7300
+Stønadsområde		0845	Barnetrygd		40.427932	36.275588	0.114467		1013	0.127325	39900		953.25		0.119815	3500
+Stønadsområde		2530	Foreldrepenger		30.092545	34.693446	-0.132616		186	0.023379	161800		64		0.008044	39200
+Stønadsområde	Pensjoner				536.79483	506.850851	0.059078		1861	0.233912	288400		1770		0.222474	25300
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*	0.426278		*	*	39700		1.166667		0.000147	*
+Stønadsområde		2670	Alderspensjon		531.529831	502.40606	0.057969		1817	0.228381	292500		1730.416667		0.217498	25600
+Stønadsområde		2680	Ytelser til gjenlevende		5.185678	4.389177	0.181469		44	0.00553	117900		39.583333		0.004975	10900
+Stønadsområde	Øvrig				7.910336	8.029648	-0.014859		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		7.11694	7.195022	-0.010852		337	0.042358	21100		313.583333		0.039415	1900
+Stønadsområde		2686	Gravferdsstønad		0.793396	0.834626	-0.049399		50	0.006285	15900		4.25		0.000534	15600
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				2788.127817	2644.333595	0.054378		11907	0.547725	234000		10122.5		0.465638	*
+Stønadsområde	Arbeidsliv og sykdom				1121.567484	1059.258046	0.058824		5226	0.240397	214600		3216.916667		0.147979	29100
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		5.70754	5.597124	*		255	0.01173	22400		96.583333		0.004443	4900
+Stønadsområde		2541	Dagpenger		43.824975	38.278167	0.144908		505	0.02323	86800		168.083333		0.007732	21700
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		5.617966	5.608815	0.001632		63	0.002898	89200		40.416667		0.001859	11600
+Stønadsområde		2650	Sykepenger		251.000786	241.900673	0.037619		2326	0.106997	107900		629.5		0.028957	33200
+Stønadsområde		2651	Arbeidsavklaringspenger		175.205467	166.191237	0.05424		794	0.036524	220700		587.75		0.027037	24800
+Stønadsområde		2655	Uføretrygd		640.21075	601.68203	0.064035		1950	0.089701	328300		1814.5		0.083468	29400
+Stønadsområde	Barn og foreldre				217.410833	201.104495	0.081084		3043	0.139979	71400		2666.083333		0.122641	6800
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		2.676	3.9555	-0.323474		91	0.004186	29400		27.5		0.001265	8100
+Stønadsområde		0845	Barnetrygd		111.780663	98.940587	0.129776		2774	0.127605	40300		2579.416667		0.118654	3600
+Stønadsområde		2530	Foreldrepenger		102.95417	98.208408	0.048323		585	0.02691	176000		209.833333		0.009652	40900
+Stønadsområde	Pensjoner				1430.862806	1366.455944	0.047134		4891	0.224987	292600		4646.583333		0.213744	25700
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		3.54751	2.995633	0.184227		31	0.001426	114400		27.166667		0.00125	10900
+Stønadsområde		2670	Alderspensjon		1414.422189	1349.904457	0.047794		4762	0.219053	297000		4526.583333		0.208224	26000
+Stønadsområde		2680	Ytelser til gjenlevende		12.893107	13.555854	-0.04889		123	0.005658	104800		110.75		0.005095	9700
+Stønadsområde	Øvrig				18.286694	17.51511	0.044052		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		16.072669	15.737516	0.021296		787	0.036202	20400		751.833333		0.034585	1800
+Stønadsområde		2686	Gravferdsstønad		2.214025	1.777594	0.245518		152	0.006992	14600		12.916667		0.000594	14300
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				799.344634	762.053319	0.048935		3145	0.630387	254000		2729.666667		0.547137	*
+Stønadsområde	Arbeidsliv og sykdom				333.551401	322.37541	0.034668		1392	0.279014	239600		949.083333		0.190235	29300
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.740254	1.301227	*		49	0.009822	15100		15.583333		0.003124	4000
+Stønadsområde		2541	Dagpenger		7.643768	8.418234	-0.091999		89	0.017839	85900		29.166667		0.005846	21800
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.442167	2.205132	-0.345995		12	0.002405	120200		8.5		0.001704	14100
+Stønadsområde		2650	Sykepenger		55.245357	59.377753	-0.069595		532	0.106635	103800		146.583333		0.029381	31400
+Stønadsområde		2651	Arbeidsavklaringspenger		52.701396	50.977792	0.033811		225	0.045099	234200		171.916667		0.034459	25500
+Stønadsområde		2655	Uføretrygd		215.778459	200.095272	0.078379		650	0.130287	332000		604.5		0.121167	29700
+Stønadsområde	Barn og foreldre				37.455475	32.22724	0.16223		559	0.112047	67000		500.75		0.100371	6200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.114	0.276	-0.586957		9	0.001804	12700		1.416667		0.000284	6700
+Stønadsområde		0845	Barnetrygd		19.821754	17.243384	0.149528		516	0.103428	38400		486.583333		0.097531	3400
+Stønadsområde		2530	Foreldrepenger		17.519721	14.707856	0.191181		103	0.020645	170100		36.666667		0.00735	39800
+Stønadsområde	Pensjoner				423.290218	402.677987	0.051188		1458	0.292243	290300		1376.833333		0.275974	25600
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		419.077073	398.575385	0.051437		1423	0.285228	294500		1343.833333		0.269359	26000
+Stønadsområde		2680	Ytelser til gjenlevende		4.213145	4.102602	0.026945		36	0.007216	117000		33		0.006615	10600
+Stønadsområde	Øvrig				5.04754	4.772682	0.05759		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		4.702674	4.40013	0.068758		226	0.0453	20800		215.083333		0.043112	1800
+Stønadsområde		2686	Gravferdsstønad		0.344866	0.372552	-0.074314		26	0.005211	13300		2.166667		0.000434	13300
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				1153.821304	1080.695112	0.067666		4679	0.573899	247000		4001.416667		0.490791	*
+Stønadsområde	Arbeidsliv og sykdom				500.181751	465.029666	0.075591		2210	0.271066	226300		1395.5		0.171164	29900
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.995964	1.555787	*		92	0.011284	21700		32.083333		0.003935	5200
+Stønadsområde		2541	Dagpenger		17.540126	13.266259	0.322161		184	0.022568	95300		66.5		0.008157	22000
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		2.114719	2.160287	-0.021093		18	0.002208	117500		13.416667		0.001646	13100
+Stønadsområde		2650	Sykepenger		103.37998	93.383815	0.107044		963	0.118116	107400		254.25		0.031185	33900
+Stønadsområde		2651	Arbeidsavklaringspenger		75.61579	75.775344	-0.002106		328	0.040231	230500		237.166667		0.029089	26600
+Stønadsområde		2655	Uføretrygd		299.535172	278.888174	0.074033		894	0.109653	335100		835.916667		0.102529	29900
+Stønadsområde	Barn og foreldre				62.72617	60.732124	0.032833		1018	0.124862	61600		909.083333		0.111503	5800
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.7995	0.7605	0.051282		30	0.00368	26700		7.916667		0.000971	8400
+Stønadsområde		0845	Barnetrygd		36.068869	31.695273	0.137989		935	0.114682	38600		882.833333		0.108283	3400
+Stønadsområde		2530	Foreldrepenger		25.857801	28.276351	-0.085533		171	0.020974	151200		56.166667		0.006889	38400
+Stønadsområde	Pensjoner				585.636075	549.933258	0.064922		1991	0.244205	294100		1902.833333		0.233391	25600
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.001734		*	*	101700		1		0.000123	*
+Stønadsområde		0667	Supplerende stønad		*	*	1.045272		*	*	161300		2.416667		0.000296	*
+Stønadsområde		2670	Alderspensjon		579.914596	544.488078	0.065064		1941	0.238072	298800		1858.583333		0.227963	26000
+Stønadsområde		2680	Ytelser til gjenlevende		5.136039	5.107148	0.005657		48	0.005887	107000		42.25		0.005182	10100
+Stønadsområde	Øvrig				5.277308	5.000064	0.055448		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		4.931763	4.712166	0.046602		243	0.029805	20300		227.5		0.027904	1800
+Stønadsområde		2686	Gravferdsstønad		0.345545	0.287898	0.200234		26	0.003189	13300		2.25		0.000276	12800
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				961.225747	901.907822	0.065769		3750	0.615057	256000		3289.25		0.539487	*
+Stønadsområde	Arbeidsliv og sykdom				406.564711	377.58877	0.076739		1637	0.268493	248400		1171.833333		0.192198	28900
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		2.594934	2.258681	*		82	0.013449	31600		38.416667		0.006301	5600
+Stønadsområde		2541	Dagpenger		13.870988	10.372891	0.337235		135	0.022142	102700		52.75		0.008652	21900
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.426055	0.996793	0.430643		11	0.001804	129600		7.25		0.001189	16400
+Stønadsområde		2650	Sykepenger		60.585414	61.6886	-0.017883		519	0.085124	116700		153.083333		0.025108	33000
+Stønadsområde		2651	Arbeidsavklaringspenger		60.049867	52.839221	0.136464		250	0.041004	240200		187.583333		0.030766	26700
+Stønadsområde		2655	Uføretrygd		268.037453	249.432584	0.074589		819	0.134328	327300		765		0.125472	29200
+Stønadsområde	Barn og foreldre				46.93857	40.71401	0.152885		679	0.111366	69100		588.833333		0.096578	6600
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.5985	0.747012	-0.198808		25	0.0041	23900		5.833333		0.000957	8600
+Stønadsområde		0845	Barnetrygd		24.309592	21.187732	0.147343		607	0.099557	40000		566.75		0.092956	3600
+Stønadsområde		2530	Foreldrepenger		22.030478	18.779266	0.173128		143	0.023454	154100		49.416667		0.008105	37200
+Stønadsområde	Pensjoner				503.245065	479.388971	0.049764		1769	0.290143	284500		1684.583333		0.276297	24900
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.007533		*	*	130800		1		0.000164	*
+Stønadsområde		0667	Supplerende stønad		1.055512	0.965794	0.092896		5	0.00082	211100		5		0.00082	17600
+Stønadsområde		2670	Alderspensjon		499.192434	475.01002	0.050909		1738	0.285058	287200		1656.666667		0.271718	25100
+Stønadsområde		2680	Ytelser til gjenlevende		2.866305	3.283321	-0.12701		28	0.004592	102400		24.916667		0.004087	9600
+Stønadsområde	Øvrig				4.477401	4.216071	0.061984		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		4.004658	3.775338	0.060742		216	0.035427	18500		199.333333		0.032694	1700
+Stønadsområde		2686	Gravferdsstønad		0.472743	0.440733	0.072629		27	0.004428	17500		2.416667		0.000396	16300
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				749.29353	712.616062	0.051469		2924	0.652533	256000		2517.333333		0.561779	*
+Stønadsområde	Arbeidsliv og sykdom				297.407398	281.559398	0.056287		1259	0.280964	236200		840.083333		0.187477	29500
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.194569	1.129173	*		48	0.010712	24900		18.833333		0.004203	5300
+Stønadsområde		2541	Dagpenger		9.977253	6.910062	0.443873		117	0.02611	85300		41.083333		0.009168	20200
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.855374	0.616443	0.387596		8	0.001785	106900		4.083333		0.000911	17500
+Stønadsområde		2650	Sykepenger		52.285283	52.032789	0.004853		449	0.100201	116400		123.75		0.027617	35200
+Stønadsområde		2651	Arbeidsavklaringspenger		43.826435	39.970656	0.096465		211	0.047088	207700		146.666667		0.032731	24900
+Stønadsområde		2655	Uføretrygd		189.268484	180.900275	0.046259		585	0.130551	323500		537.5		0.119951	29300
+Stønadsområde	Barn og foreldre				33.03927	25.783	0.281436		474	0.10578	69700		411.25		0.091776	6700
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.3465	0.495	-0.3		11	0.002455	31500		4		0.000893	7200
+Stønadsområde		0845	Barnetrygd		16.280896	14.661275	0.110469		432	0.096407	37700		396.916667		0.088578	3400
+Stønadsområde		2530	Foreldrepenger		16.411874	10.626725	0.544396		105	0.023432	156300		35.416667		0.007904	38600
+Stønadsområde	Pensjoner				415.068042	402.094712	0.032264		1443	0.322026	287600		1378.166667		0.307558	25100
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*	0.411075		*	*	190100		1.666667		0.000372	*
+Stønadsområde		2670	Alderspensjon		412.778361	399.91026	0.032177		1423	0.317563	290100		1360.166667		0.303541	25300
+Stønadsområde		2680	Ytelser til gjenlevende		1.909402	1.914956	-0.0029		19	0.00424	100500		17		0.003794	9400
+Stønadsområde	Øvrig				3.77882	3.178952	0.1887		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		2.754038	2.681438	0.027075		141	0.031466	19500		131.333333		0.029309	1700
+Stønadsområde		2686	Gravferdsstønad		1.024782	0.497514	1.059805		55	0.012274	18600		4.666667		0.001041	18300
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				1175.053352	1103.59149	0.064754		4586	0.63168	256000		4013.083333		0.552766	*
+Stønadsområde	Arbeidsliv og sykdom				502.157226	469.593605	0.069344		2041	0.281129	246000		1423.75		0.196109	29400
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.197123	1.734065	*		80	0.011019	15000		20		0.002755	5000
+Stønadsområde		2541	Dagpenger		16.411778	14.828437	0.106777		184	0.025344	89200		65.5		0.009022	20900
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.791008	2.376804	-0.246464		20	0.002755	89600		10.25		0.001412	14600
+Stønadsområde		2650	Sykepenger		73.619253	75.395932	-0.023565		678	0.093388	108600		181		0.024931	33900
+Stønadsområde		2651	Arbeidsavklaringspenger		73.348209	66.717559	0.099384		316	0.043526	232100		237.25		0.032679	25800
+Stønadsområde		2655	Uføretrygd		335.789855	308.540808	0.088316		1034	0.142424	324700		961.25		0.132404	29100
+Stønadsområde	Barn og foreldre				47.257395	44.195687	0.069276		804	0.110744	58800		700.666667		0.096511	5600
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.6825	0.831	-0.1787		25	0.003444	27300		7.166667		0.000987	7900
+Stønadsområde		0845	Barnetrygd		28.5323	25.985491	0.098009		748	0.10303	38100		683.833333		0.094192	3500
+Stønadsområde		2530	Foreldrepenger		18.042595	17.379196	0.038172		127	0.017493	142100		43.333333		0.005969	34700
+Stønadsområde	Pensjoner				619.147959	583.891817	0.060381		2145	0.295455	288600		2040.833333		0.281107	25300
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.071363		*	*	75000		1		0.000138	*
+Stønadsområde		0667	Supplerende stønad		1.182938	0.517563	1.285592		7	0.000964	169000		4.916667		0.000677	20000
+Stønadsområde		2670	Alderspensjon		613.810655	578.814228	0.060462		2112	0.290909	290600		2011		0.276997	25400
+Stønadsområde		2680	Ytelser til gjenlevende		4.079362	4.490018	-0.09146		30	0.004132	136000		26.916667		0.003708	12600
+Stønadsområde	Øvrig				6.490772	5.910381	0.098199		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		5.185544	4.967524	0.043889		264	0.036364	19600		251.75		0.034676	1700
+Stønadsområde		2686	Gravferdsstønad		1.305228	0.942857	0.384333		75	0.010331	17400		6.25		0.000861	17400
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				586.155888	560.61022	0.045568		2286	0.641594	256000		1977.916667		0.555127	*
+Stønadsområde	Arbeidsliv og sykdom				238.306192	227.797568	0.046131		1011	0.28375	235700		682		0.191412	29100
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.722307	1.290625	*		29	0.008139	24900		10.083333		0.00283	6000
+Stønadsområde		2541	Dagpenger		5.980599	6.076197	-0.015733		90	0.02526	66500		27.166667		0.007625	18300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.573384	0.89119	-0.356609		7	0.001965	81900		4.75		0.001333	10100
+Stønadsområde		2650	Sykepenger		42.026626	37.357392	0.124988		370	0.103845	113600		107.833333		0.030265	32500
+Stønadsområde		2651	Arbeidsavklaringspenger		33.513305	29.386105	0.140447		155	0.043503	216200		111		0.031154	25200
+Stønadsområde		2655	Uføretrygd		155.489971	152.796059	0.017631		474	0.133034	328000		439.666667		0.123398	29500
+Stønadsområde	Barn og foreldre				27.067182	21.561	0.255377		352	0.098793	76900		311.583333		0.08745	7200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.4065	0.7455	-0.454728		12	0.003368	33900		4.583333		0.001286	7400
+Stønadsområde		0845	Barnetrygd		13.536278	12.47351	0.085202		322	0.090373	42000		302.916667		0.085017	3700
+Stønadsområde		2530	Foreldrepenger		13.124404	8.34199	0.573294		75	0.02105	175000		25.583333		0.00718	42800
+Stønadsområde	Pensjoner				316.624163	307.501881	0.029666		1098	0.308167	288400		1039.666667		0.291795	25400
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.025626		*	*	137500		3		0.000842	*
+Stønadsområde		0667	Supplerende stønad		*	*	-0.483677		*	*	81800		1.666667		0.000468	*
+Stønadsområde		2670	Alderspensjon		313.030087	303.443172	0.031594		1070	0.300309	292600		1014.416667		0.284709	25700
+Stønadsområde		2680	Ytelser til gjenlevende		3.017935	3.339563	-0.096308		29	0.008139	104100		25.25		0.007087	10000
+Stønadsområde	Øvrig				4.158351	3.749771	0.108961		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		2.90985	3.107416	-0.063579		154	0.043222	18900		143.416667		0.040252	1700
+Stønadsområde		2686	Gravferdsstønad		1.248501	0.642355	0.943631		52	0.014594	24000		4.416667		0.00124	23600
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				2891.742186	2700.560095	0.070793		12071	0.552398	240000		10242.083333		0.468702	*
+Stønadsområde	Arbeidsliv og sykdom				1200.038366	1111.476698	0.079679		5539	0.253478	216700		3424		0.15669	29200
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		4.585932	3.451671	*		193	0.008832	23800		69.75		0.003192	5500
+Stønadsområde		2541	Dagpenger		48.257552	42.457444	0.13661		537	0.024574	89900		192.75		0.008821	20900
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		5.975453	5.540617	0.078482		62	0.002837	96400		40.583333		0.001857	12300
+Stønadsområde		2650	Sykepenger		276.09342	265.490705	0.039936		2494	0.114131	110700		693.083333		0.031717	33200
+Stønadsområde		2651	Arbeidsavklaringspenger		191.820931	178.14585	0.076763		870	0.039813	220500		626.916667		0.028689	25500
+Stønadsområde		2655	Uføretrygd		673.305078	616.390411	0.092335		2063	0.094408	326400		1918		0.087772	29300
+Stønadsområde	Barn og foreldre				212.040381	184.637628	0.148414		2950	0.134999	71900		2586.416667		0.118361	6800
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		2.34	2.8005	-0.164435		81	0.003707	28900		22.75		0.001041	8600
+Stønadsområde		0845	Barnetrygd		106.774812	95.224519	0.121295		2679	0.122597	39900		2499.166667		0.114368	3600
+Stønadsområde		2530	Foreldrepenger		102.925569	86.612609	0.188344		589	0.026954	174700		208.25		0.00953	41200
+Stønadsområde	Pensjoner				1460.916055	1387.561274	0.052866		4915	0.224922	297200		4665.666667		0.213512	26100
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.028894		*	*	144500		2		9.2e-05	*
+Stønadsområde		0667	Supplerende stønad		4.886511	3.465241	0.41015		32	0.001464	152700		24.166667		0.001106	16900
+Stønadsområde		2670	Alderspensjon		1443.619236	1372.576521	0.051759		4792	0.219293	301300		4560.333333		0.208692	26400
+Stønadsområde		2680	Ytelser til gjenlevende		12.1213	11.23862	0.07854		112	0.005125	108200		96		0.004393	10500
+Stønadsområde	Øvrig				18.747384	16.884495	0.110331		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		14.990211	14.444806	0.037758		726	0.033224	20600		681.333333		0.031179	1800
+Stønadsområde		2686	Gravferdsstønad		3.757173	2.439689	0.540021		183	0.008375	20500		16.166667		0.00074	19400
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				904.731119	855.510222	0.057534		3810	0.586154	237000		3269.083333		0.502936	*
+Stønadsområde	Arbeidsliv og sykdom				348.47786	324.750336	0.073064		1636	0.251692	213000		1033.666667		0.159026	28100
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.012559	0.947151	*		40	0.006154	25300		16.333333		0.002513	5200
+Stønadsområde		2541	Dagpenger		28.381208	23.813614	0.191806		293	0.045077	96900		111		0.017077	21300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.339474	0.627592	-0.459085		10	0.001538	33900		5.166667		0.000795	5500
+Stønadsområde		2650	Sykepenger		71.574821	70.549807	0.014529		657	0.101077	108900		193.333333		0.029744	30900
+Stønadsområde		2651	Arbeidsavklaringspenger		60.362921	51.539188	0.171204		259	0.039846	233100		191.083333		0.029397	26300
+Stønadsområde		2655	Uføretrygd		186.806877	177.272984	0.053781		602	0.092615	310300		560.916667		0.086295	27800
+Stønadsområde	Barn og foreldre				45.710144	41.99763	0.088398		735	0.113077	62200		652.5		0.100385	5800
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.4125	0.5415	-0.238227		14	0.002154	29500		3.916667		0.000603	8800
+Stønadsområde		0845	Barnetrygd		26.433193	23.943111	0.104		676	0.104	39100		634.166667		0.097564	3500
+Stønadsområde		2530	Foreldrepenger		18.864451	17.513019	0.077167		121	0.018615	155900		40.666667		0.006256	38700
+Stønadsområde	Pensjoner				503.819831	483.106919	0.042874		1777	0.273385	283500		1693.916667		0.260603	24800
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	-0.120239		*	*	56700		1.416667		0.000218	*
+Stønadsområde		0667	Supplerende stønad		*	*	-0.569961		*	*	25700		0.75		0.000115	*
+Stønadsområde		2670	Alderspensjon		500.34534	479.592344	0.043272		1744	0.268308	286900		1663.166667		0.255872	25100
+Stønadsområde		2680	Ytelser til gjenlevende		3.28399	3.206452	0.024182		32	0.004923	102600		30.416667		0.004679	9000
+Stønadsområde	Øvrig				6.723284	5.655337	0.188839		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		3.988031	4.01084	-0.005687		214	0.032923	18600		202.083333		0.03109	1600
+Stønadsområde		2686	Gravferdsstønad		2.735253	1.644497	0.663276		86	0.013231	31800		7.25		0.001115	31400
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				555.917168	527.248353	0.054374		2277	0.544216	244000		1957.083333		0.467754	*
+Stønadsområde	Arbeidsliv og sykdom				217.631494	205.367482	0.059717		943	0.225382	230800		612		0.146272	29600
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.287216	0.505142	*		58	0.013862	22200		21.166667		0.005059	5100
+Stønadsområde		2541	Dagpenger		6.917096	5.115701	0.352131		91	0.02175	76000		30.916667		0.007389	18600
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.104081	0.395835	1.789246		11	0.002629	100400		7.083333		0.001693	13000
+Stønadsområde		2650	Sykepenger		39.804118	39.456515	0.00881		355	0.084847	112100		92.416667		0.022088	35900
+Stønadsområde		2651	Arbeidsavklaringspenger		26.220014	25.25476	0.038221		132	0.031549	198600		87.666667		0.020953	24900
+Stønadsområde		2655	Uføretrygd		142.298969	134.639529	0.056888		422	0.10086	337200		394		0.094168	30100
+Stønadsområde	Barn og foreldre				35.426529	31.429425	0.127177		467	0.111616	75900		411.25		0.098291	7200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.402	0.3315	0.21267		14	0.003346	28700		4.333333		0.001036	7700
+Stønadsområde		0845	Barnetrygd		17.527713	15.640842	0.120637		427	0.102055	41000		397		0.094885	3700
+Stønadsområde		2530	Foreldrepenger		17.496816	15.457083	0.131961		98	0.023423	178500		37.416667		0.008943	39000
+Stønadsområde	Pensjoner				299.558934	287.41656	0.042247		1051	0.251195	285000		990.083333		0.236636	25200
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	-0.096402		*	*	104900		1.583333		0.000378	*
+Stønadsområde		0667	Supplerende stønad		*	*	0.02878		*	*	177700		1		0.000239	*
+Stønadsområde		2670	Alderspensjon		297.268105	284.949799	0.04323		1031	0.246415	288300		971.75		0.232254	25500
+Stønadsområde		2680	Ytelser til gjenlevende		1.90339	2.061921	-0.076885		20	0.00478	95200		18.083333		0.004322	8800
+Stønadsområde	Øvrig				3.300211	3.034886	0.087425		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		2.421421	2.377502	0.018473		116	0.027725	20900		108.833333		0.026012	1900
+Stønadsområde		2686	Gravferdsstønad		0.87879	0.657384	0.336799		53	0.012667	16600		4.583333		0.001095	16000
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				363.650908	348.98373	0.042028		1423	0.629089	256000		1242.5		0.549293	*
+Stønadsområde	Arbeidsliv og sykdom				144.727218	139.047407	0.040848		589	0.260389	245700		411		0.181698	29300
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.228274	0.130183	*		15	0.006631	15200		3.333333		0.001474	5700
+Stønadsområde		2541	Dagpenger		4.038331	3.737259	0.08056		40	0.017683	101000		14.833333		0.006558	22700
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.216462	0.634009	-0.658582		5	0.00221	43300		1.75		0.000774	10300
+Stønadsområde		2650	Sykepenger		20.090623	22.00592	-0.087036		193	0.085323	104100		48.333333		0.021368	34600
+Stønadsområde		2651	Arbeidsavklaringspenger		14.421748	15.235266	-0.053397		74	0.032714	194900		54.166667		0.023946	22200
+Stønadsområde		2655	Uføretrygd		105.73178	97.30477	0.086604		326	0.14412	324300		297.416667		0.131484	29600
+Stønadsområde	Barn og foreldre				14.160416	13.425552	0.054736		210	0.092838	67400		181.583333		0.080276	6500
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.1035	0.153	-0.323529		6	0.002653	17300		1.583333		0.0007	5400
+Stønadsområde		0845	Barnetrygd		7.379432	6.576994	0.122007		191	0.084439	38600		175.666667		0.07766	3500
+Stønadsområde		2530	Foreldrepenger		6.677484	6.695558	-0.002699		41	0.018126	162900		14.166667		0.006263	39300
+Stønadsområde	Pensjoner				203.292147	194.918471	0.04296		717	0.316976	283500		677.083333		0.29933	25000
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	-0.675296		*	*	38000		0.25		0.000111	*
+Stønadsområde		0667	Supplerende stønad		*	*	0.030531		*	*	156700		1		0.000442	*
+Stønadsområde		2670	Alderspensjon		201.528512	192.993569	0.044224		705	0.311671	285900		665.916667		0.294393	25200
+Stønadsområde		2680	Ytelser til gjenlevende		1.568912	1.65578	-0.052463		12	0.005305	130700		11		0.004863	11900
+Stønadsområde	Øvrig				1.471127	1.5923	-0.076099		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.977632	1.114516	-0.122819		64	0.028294	15300		61.083333		0.027004	1300
+Stønadsområde		2686	Gravferdsstønad		0.493495	0.477784	0.032883		32	0.014147	15400		2.666667		0.001179	15400
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				276.411904	267.123627	0.034771		1093	0.59145	253000		973		0.526515	*
+Stønadsområde	Arbeidsliv og sykdom				90.751991	91.346033	-0.006503		374	0.202381	242700		254		0.137446	29800
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.431227	0.464725	*		22	0.011905	19600		5.333333		0.002886	6700
+Stønadsområde		2541	Dagpenger		1.993029	2.006623	-0.006775		21	0.011364	94900		6.75		0.003653	24600
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	0.27988		*	*	88900		1.916667		0.001037	*
+Stønadsområde		2650	Sykepenger		13.456908	17.925935	-0.249305		126	0.068182	106800		33.333333		0.018038	33600
+Stønadsområde		2651	Arbeidsavklaringspenger		7.581187	9.19921	-0.175887		40	0.021645	189500		25.5		0.013799	24800
+Stønadsområde		2655	Uføretrygd		67.023059	61.541254	0.089075		202	0.109307	331800		187.5		0.101461	29800
+Stønadsområde	Barn og foreldre				12.462656	10.052678	0.239735		197	0.106602	63300		173		0.093615	6000
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		*	*	0		*	*	22500		0.75		0.000406	*
+Stønadsområde		0845	Barnetrygd		7.237916	5.950303	0.216395		185	0.100108	39100		167.166667		0.090458	3600
+Stønadsområde		2530	Foreldrepenger		5.15724	4.034875	0.278166		34	0.018398	151700		12.333333		0.006674	34800
+Stønadsområde	Pensjoner				171.922542	164.417146	0.045648		597	0.323052	288000		566.333333		0.306457	25300
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		170.990584	163.096177	0.048403		592	0.320346	288800		560.75		0.303436	25400
+Stønadsområde		2680	Ytelser til gjenlevende		0.931958	1.320969	-0.294489		6	0.003247	155300		5.583333		0.003021	13900
+Stønadsområde	Øvrig				1.274715	1.30777	-0.025276		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.87606	0.893358	-0.019363		50	0.027056	17500		46.333333		0.025072	1600
+Stønadsområde		2686	Gravferdsstønad		0.398655	0.414412	-0.038023		32	0.017316	12500		2.75		0.001488	12100
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				188.960945	178.947468	0.055958		810	0.627907	233000		664.916667		0.515439	*
+Stønadsområde	Arbeidsliv og sykdom				60.221407	59.978866	0.004044		302	0.234109	199400		173.166667		0.134238	29000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.225803	0.444064	*		11	0.008527	20500		3.916667		0.003036	4800
+Stønadsområde		2541	Dagpenger		2.932661	2.756706	0.063828		30	0.023256	97800		11.5		0.008915	21300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*			*	*			*			*
+Stønadsområde		2650	Sykepenger		13.560831	14.102302	-0.038396		137	0.106202	99000		32.166667		0.024935	35100
+Stønadsområde		2651	Arbeidsavklaringspenger		9.912625	9.053595	0.094883		42	0.032558	236000		31		0.024031	26600
+Stønadsområde		2655	Uføretrygd		33.589487	33.622199	-0.000973		111	0.086047	302600		100.166667		0.077649	27900
+Stønadsområde	Barn og foreldre				8.836707	6.110652	0.446115		153	0.118605	57800		113.083333		0.087661	6500
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		*	*	-0.714286		*	*	22500		0.5		0.000388	*
+Stønadsområde		0845	Barnetrygd		4.988668	4.637163	0.075802		142	0.110078	35100		110.333333		0.08553	3800
+Stønadsområde		2530	Foreldrepenger		3.803039	1.315989	1.889871		24	0.018605	158500		8.416667		0.006525	37700
+Stønadsområde	Pensjoner				118.883551	111.680177	0.0645		417	0.323256	285100		397.666667		0.308269	24900
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		118.616164	111.557949	0.063269		415	0.321705	285800		396.5		0.307364	24900
+Stønadsområde		2680	Ytelser til gjenlevende		*	*	1.187608		*	*	133700		1.166667		0.000904	*
+Stønadsområde	Øvrig				1.01928	1.177773	-0.13457		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.703698	0.682033	0.031765		35	0.027132	20100		30.833333		0.023902	1900
+Stønadsområde		2686	Gravferdsstønad		0.315582	0.49574	-0.363412		18	0.013953	17500		1.583333		0.001227	16600
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				165.790591	162.47671	0.020396		788	0.491578	210000		661		0.412352	*
+Stønadsområde	Arbeidsliv og sykdom				45.871708	44.311388	0.035213		263	0.164067	174400		136.666667		0.085257	28000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.365763	0.67003	*		21	0.0131	17400		5.5		0.003431	5500
+Stønadsområde		2541	Dagpenger		2.384677	2.318139	0.028703		22	0.013724	108400		9.333333		0.005822	21300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.069526	0.078374	-0.112895		4	0.002495	17400		2.5		0.00156	2300
+Stønadsområde		2650	Sykepenger		12.644283	12.518745	0.010028		131	0.081722	96500		30.666667		0.019131	34400
+Stønadsområde		2651	Arbeidsavklaringspenger		5.118785	5.55626	-0.078736		27	0.016843	189600		17.583333		0.010969	24300
+Stønadsområde		2655	Uføretrygd		25.288674	23.16984	0.091448		81	0.05053	312200		73.5		0.045852	28700
+Stønadsområde	Barn og foreldre				15.920125	18.338366	-0.131868		217	0.135371	73400		191.75		0.119619	6900
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.0765	0.195	-0.607692		5	0.003119	15300		0.833333		0.00052	7700
+Stønadsområde		0845	Barnetrygd		8.539536	7.311778	0.167915		201	0.12539	42500		187.833333		0.117176	3800
+Stønadsområde		2530	Foreldrepenger		7.304089	10.831588	-0.325668		42	0.026201	173900		14.25		0.00889	42700
+Stønadsområde	Pensjoner				103.293803	99.238097	0.040868		379	0.236432	272500		354.416667		0.221096	24300
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		102.299987	98.354808	0.040112		367	0.228946	278700		345		0.215221	24700
+Stønadsområde		2680	Ytelser til gjenlevende		0.993816	0.883289	0.125131		12	0.007486	82800		9.416667		0.005874	8800
+Stønadsområde	Øvrig				0.704955	0.588859	0.197154		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.501932	0.488604	0.027278		20	0.012477	25100		19.25		0.012009	2200
+Stønadsområde		2686	Gravferdsstønad		0.203023	0.100255	1.025066		10	0.006238	20300		0.916667		0.000572	18500
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				672.102469	629.116932	0.068327		2953	0.517163	228000		2497.666667		0.43742	*
+Stønadsområde	Arbeidsliv og sykdom				207.793123	191.599535	0.084518		1090	0.190893	190600		600.666667		0.105196	28800
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.406003	0.672424	*		59	0.010333	23800		21.583333		0.00378	5400
+Stønadsområde		2541	Dagpenger		6.498897	6.157796	0.055393		83	0.014536	78300		27.083333		0.004743	20000
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.874575	0.885472	-0.012306		12	0.002102	72900		6.166667		0.00108	11800
+Stønadsområde		2650	Sykepenger		63.070135	57.296906	0.10076		577	0.101051	109300		153.416667		0.026868	34300
+Stønadsområde		2651	Arbeidsavklaringspenger		30.936931	25.817833	0.198278		143	0.025044	216300		103.666667		0.018155	24900
+Stønadsområde		2655	Uføretrygd		105.006582	100.769104	0.042051		335	0.058669	313500		306.416667		0.053663	28600
+Stønadsområde	Barn og foreldre				59.759741	54.166918	0.103252		768	0.134501	77800		676.833333		0.118535	7400
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.471	0.27	0.744444		27	0.004729	17400		4.333333		0.000759	9100
+Stønadsområde		0845	Barnetrygd		29.013312	25.354127	0.144323		688	0.12049	42200		649.833333		0.113806	3700
+Stønadsområde		2530	Foreldrepenger		30.275429	28.542791	0.060703		177	0.030998	171000		65.666667		0.0115	38400
+Stønadsområde	Pensjoner				400.153315	379.600479	0.054143		1388	0.243082	288300		1310.083333		0.229437	25500
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		0.853189	0.674768	0.264418		5	0.000876	170600		5		0.000876	14200
+Stønadsområde		2670	Alderspensjon		395.877611	375.271862	0.054909		1355	0.237303	292200		1278.166667		0.223847	25800
+Stønadsområde		2680	Ytelser til gjenlevende		3.422515	3.653849	-0.063312		32	0.005604	107000		28.916667		0.005064	9900
+Stønadsområde	Øvrig				4.39629	3.75	0.172344		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		3.158346	2.757759	0.145258		147	0.025744	21500		129.666667		0.022709	2000
+Stønadsområde		2686	Gravferdsstønad		1.237944	0.992241	0.247624		59	0.010333	21000		4.916667		0.000861	21000
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				289.958728	265.826117	0.090783		1271	0.508807	228000		1095.583333		0.438584	*
+Stønadsområde	Arbeidsliv og sykdom				95.744995	83.970145	0.140227		472	0.188951	202800		271.916667		0.108854	29300
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.63892	0.792037	*		31	0.01241	20600		10		0.004003	5300
+Stønadsområde		2541	Dagpenger		1.315445	0.958761	0.372026		28	0.011209	47000		6.666667		0.002669	16400
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.40453	0.007134	55.704514		4	0.001601	101100		1.75		0.000701	19300
+Stønadsområde		2650	Sykepenger		25.267359	22.070752	0.144835		241	0.096477	104800		63.916667		0.025587	32900
+Stønadsområde		2651	Arbeidsavklaringspenger		12.700334	10.968793	0.157861		63	0.02522	201600		43.083333		0.017247	24600
+Stønadsområde		2655	Uføretrygd		55.418407	49.172668	0.127016		175	0.070056	316700		162.833333		0.065185	28400
+Stønadsområde	Barn og foreldre				23.273623	21.901651	0.062642		326	0.130504	71400		295.666667		0.118361	6600
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.1725	0.534	-0.676966		7	0.002802	24600		1.583333		0.000634	9100
+Stønadsområde		0845	Barnetrygd		13.100057	11.581298	0.131139		299	0.119696	43800		286.833333		0.114825	3800
+Stønadsområde		2530	Foreldrepenger		10.001066	9.786353	0.02194		62	0.02482	161300		22.5		0.009007	37000
+Stønadsområde	Pensjoner				169.375446	158.360676	0.069555		586	0.234588	289000		562.5		0.22518	25100
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		168.277846	157.177253	0.070625		577	0.230985	291600		553.5		0.221577	25300
+Stønadsområde		2680	Ytelser til gjenlevende		1.0976	1.183423	-0.072521		9	0.003603	122000		9		0.003603	10200
+Stønadsområde	Øvrig				1.564664	1.593645	-0.018185		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		1.478112	1.382555	0.069116		74	0.029624	20000		71.583333		0.028656	1700
+Stønadsområde		2686	Gravferdsstønad		0.086552	0.21109	-0.589976		5	0.002002	17300		0.416667		0.000167	17300
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				222.057825	207.927898	0.067956		905	0.591503	245000		781.166667		0.510566	*
+Stønadsområde	Arbeidsliv og sykdom				71.995165	67.474368	0.067		332	0.216993	216900		203.5		0.133007	29500
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.566941	0.272362	*		21	0.013725	27000		6.5		0.004248	7300
+Stønadsområde		2541	Dagpenger		2.321321	1.366612	0.698596		25	0.01634	92900		9.583333		0.006264	20200
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	0.109559		*	*	29500		2.333333		0.001525	*
+Stønadsområde		2650	Sykepenger		16.113461	18.198646	-0.114579		157	0.102614	102600		40.416667		0.026416	33200
+Stønadsområde		2651	Arbeidsavklaringspenger		10.964182	8.68836	0.261939		49	0.032026	223800		36.166667		0.023638	25300
+Stønadsområde		2655	Uføretrygd		41.940756	38.868623	0.079039		128	0.08366	327700		119.333333		0.077996	29300
+Stønadsområde	Barn og foreldre				11.441324	9.099671	0.257334		161	0.105229	71100		140.916667		0.092102	6800
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		*	*	-0.805556		*	*	5300		0.25		0.000163	*
+Stønadsområde		0845	Barnetrygd		5.875844	5.015738	0.171481		149	0.097386	39400		138		0.090196	3500
+Stønadsområde		2530	Foreldrepenger		5.55498	4.029933	0.37843		28	0.018301	198400		10.583333		0.006917	43700
+Stønadsområde	Pensjoner				137.395415	130.198836	0.055274		483	0.315686	284500		462.583333		0.302342	24800
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*	100400		0.333333		0.000218	*
+Stønadsområde		2670	Alderspensjon		136.299523	129.293217	0.054189		470	0.30719	290000		452.416667		0.295697	25100
+Stønadsområde		2680	Ytelser til gjenlevende		0.995535	0.905619	0.099287		13	0.008497	76600		10.166667		0.006645	8200
+Stønadsområde	Øvrig				1.225921	1.155023	0.061382		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.783826	0.747908	0.048025		48	0.031373	16300		43.083333		0.028159	1500
+Stønadsområde		2686	Gravferdsstønad		0.442095	0.407115	0.085922		23	0.015033	19200		1.916667		0.001253	19200
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				239.194722	231.109347	0.034985		1037	0.54955	231000		885.416667		0.469219	*
+Stønadsområde	Arbeidsliv og sykdom				81.73111	80.357263	0.017097		383	0.202968	213400		238.25		0.126259	28600
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.140132	0.121854	*		12	0.006359	11700		3.75		0.001987	3100
+Stønadsområde		2541	Dagpenger		4.616303	2.603413	0.773174		48	0.025437	96200		19.25		0.010201	20000
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	-0.594504		*	*	41400		1.916667		0.001016	*
+Stønadsområde		2650	Sykepenger		17.120542	21.807137	-0.214911		163	0.08638	105000		42.666667		0.022611	33400
+Stønadsområde		2651	Arbeidsavklaringspenger		16.759093	15.059201	0.112881		77	0.040806	217700		59.666667		0.03162	23400
+Stønadsområde		2655	Uføretrygd		42.970867	40.459433	0.062073		135	0.071542	318300		120.583333		0.063902	29700
+Stønadsområde	Barn og foreldre				13.843896	14.22534	-0.026814		210	0.111288	65900		178.5		0.094595	6500
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.1155	0.387	-0.70155		8	0.00424	14400		1.333333		0.000707	7200
+Stønadsområde		0845	Barnetrygd		7.265355	6.283487	0.156262		186	0.098569	39100		172.25		0.091282	3500
+Stønadsområde		2530	Foreldrepenger		6.463041	7.554853	-0.144518		43	0.022787	150300		14.666667		0.007772	36700
+Stønadsområde	Pensjoner				142.376571	135.273447	0.052509		522	0.27663	272800		492.75		0.261129	24100
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		141.34837	134.330525	0.052243		513	0.27186	275500		483.666667		0.256315	24400
+Stønadsområde		2680	Ytelser til gjenlevende		1.028201	0.942922	0.090441		10	0.005299	102800		9.083333		0.004814	9400
+Stønadsområde	Øvrig				1.243145	1.253297	-0.0081		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		1.21967	1.191563	0.023588		54	0.028617	22600		50		0.026497	2000
+Stønadsområde		2686	Gravferdsstønad		*	*	-0.61974		*	*	11700		0.166667		8.8e-05	*
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				340.06947	325.971522	0.043249		1404	0.55538	242000		1225.583333		0.484804	*
+Stønadsområde	Arbeidsliv og sykdom				100.860886	97.259294	0.037031		499	0.197389	202100		297.666667		0.117748	28200
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.6775	0.502708	*		21	0.008307	32300		9.166667		0.003626	6200
+Stønadsområde		2541	Dagpenger		2.610705	2.476597	0.05415		45	0.017801	58000		11.916667		0.004714	18300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.283018	0.446163	-0.365662		4	0.001582	70800		2.5		0.000989	9400
+Stønadsområde		2650	Sykepenger		22.063068	22.927525	-0.037704		224	0.088608	98500		59.583333		0.023569	30900
+Stønadsområde		2651	Arbeidsavklaringspenger		10.92521	8.686387	0.257739		57	0.022547	191700		37.666667		0.0149	24200
+Stønadsområde		2655	Uføretrygd		64.301385	62.219914	0.033453		209	0.082674	307700		191		0.075554	28100
+Stønadsområde	Barn og foreldre				16.319052	15.070125	0.082874		264	0.10443	61800		233.25		0.092267	5800
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.1425	0.4275	-0.666667		5	0.001978	28500		1.666667		0.000659	7100
+Stønadsområde		0845	Barnetrygd		9.792129	8.926351	0.096991		247	0.097706	39600		228.416667		0.090355	3600
+Stønadsområde		2530	Foreldrepenger		6.384423	5.716274	0.116885		42	0.016614	152000		14.333333		0.00567	37100
+Stønadsområde	Pensjoner				221.876172	212.45048	0.044367		763	0.30182	290800		734.083333		0.290381	25200
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		220.024655	210.490257	0.045296		751	0.297073	293000		722.166667		0.285667	25400
+Stønadsområde		2680	Ytelser til gjenlevende		1.851517	1.960223	-0.055456		13	0.005142	142400		12		0.004747	12900
+Stønadsområde	Øvrig				1.01336	1.191623	-0.149597		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.923162	0.920291	0.00312		50	0.019778	18500		49.583333		0.019614	1600
+Stønadsområde		2686	Gravferdsstønad		0.090198	0.271332	-0.667573		7	0.002769	12900		0.583333		0.000231	12900
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				241.537297	224.365629	0.076534		1041	0.522066	232000		902.75		0.452733	*
+Stønadsområde	Arbeidsliv og sykdom				61.674146	58.290377	0.05805		332	0.166499	185800		183.75		0.092151	28000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.236526	0.27398	*		9	0.004514	26300		3.333333		0.001672	5900
+Stønadsområde		2541	Dagpenger		1.265485	0.715646	0.768311		18	0.009027	70300		5.666667		0.002842	18600
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	0.7181		*	*	136300		2.833333		0.001421	*
+Stønadsområde		2650	Sykepenger		17.024716	15.299334	0.112775		180	0.090271	94600		46		0.023069	30800
+Stønadsområde		2651	Arbeidsavklaringspenger		7.338869	5.975927	0.228072		35	0.017553	209700		25.333333		0.012705	24100
+Stønadsområde		2655	Uføretrygd		35.399668	35.787505	-0.010837		117	0.058676	302600		106.083333		0.053201	27800
+Stønadsområde	Barn og foreldre				20.729697	14.639192	0.416041		244	0.122367	85000		214.5		0.107573	8100
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.1965	0.258	-0.238372		7	0.003511	28100		1.916667		0.000961	8500
+Stønadsområde		0845	Barnetrygd		8.880146	7.655107	0.160029		224	0.112337	39600		207.666667		0.104146	3600
+Stønadsområde		2530	Foreldrepenger		11.653051	6.726085	0.732516		57	0.028586	204400		22.333333		0.0112	43500
+Stønadsområde	Pensjoner				158.252658	150.576288	0.05098		555	0.278335	285100		526.5		0.264042	25000
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		156.975514	149.471694	0.050202		543	0.272317	289100		515.416667		0.258484	25400
+Stønadsområde		2680	Ytelser til gjenlevende		1.277144	1.104594	0.156211		13	0.00652	98200		11.083333		0.005558	9600
+Stønadsområde	Øvrig				0.880796	0.859772	0.024453		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.68644	0.685981	0.000669		41	0.020562	16700		40.083333		0.020102	1400
+Stønadsområde		2686	Gravferdsstønad		0.194356	0.173791	0.118332		10	0.005015	19400		0.833333		0.000418	19400
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				307.724637	287.2807	0.071164		1247	0.573597	247000		1092.25		0.502415	*
+Stønadsområde	Arbeidsliv og sykdom				102.011989	92.244029	0.105893		452	0.207912	225700		293.583333		0.135043	29000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.402849	0.403136	*		14	0.00644	28800		5.25		0.002415	6400
+Stønadsområde		2541	Dagpenger		2.91349	2.601938	0.119738		27	0.01242	107900		11.5		0.00529	21100
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	-0.71874		*	*	21100		1.416667		0.000652	*
+Stønadsområde		2650	Sykepenger		21.034574	19.893594	0.057354		196	0.090156	107300		54.25		0.024954	32300
+Stønadsområde		2651	Arbeidsavklaringspenger		12.104808	8.976342	0.348523		59	0.027139	205200		41.833333		0.019243	24100
+Stønadsområde		2655	Uføretrygd		65.492977	60.143992	0.088936		201	0.092456	325800		189.833333		0.08732	28800
+Stønadsområde	Barn og foreldre				19.80456	16.005952	0.237325		247	0.113615	80200		214.916667		0.098858	7700
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.0615	0.1605	-0.616822		4	0.00184	15400		1.083333		0.000498	4700
+Stønadsområde		0845	Barnetrygd		8.9378	7.806085	0.144979		218	0.100276	41000		203.25		0.093491	3700
+Stønadsområde		2530	Foreldrepenger		10.80526	8.039367	0.344044		55	0.025299	196500		24.083333		0.011078	37400
+Stønadsområde	Pensjoner				184.435804	177.539911	0.038841		654	0.300828	282000		625.166667		0.287565	24600
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		183.066904	175.945032	0.040478		644	0.296228	284300		615.166667		0.282965	24800
+Stønadsområde		2680	Ytelser til gjenlevende		1.3689	1.594879	-0.14169		11	0.00506	124400		10		0.0046	11400
+Stønadsområde	Øvrig				1.472284	1.490808	-0.012425		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		1.33388	1.293603	0.031136		58	0.026679	23000		52.666667		0.024226	2100
+Stønadsområde		2686	Gravferdsstønad		0.138404	0.197205	-0.298172		6	0.00276	23100		0.5		0.00023	23100
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				291.849649	278.343252	0.048524		1233	0.559184	237000		1073.583333		0.486886	*
+Stønadsområde	Arbeidsliv og sykdom				95.427593	92.376668	0.033027		438	0.198639	217900		266.916667		0.121051	29800
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.240731	0.529291	*		13	0.005896	18500		3.75		0.001701	5300
+Stønadsområde		2541	Dagpenger		1.704928	1.788601	-0.046781		27	0.012245	63100		7		0.003175	20300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	0.431912		*	*	118900		1.666667		0.000756	*
+Stønadsområde		2650	Sykepenger		22.136163	20.943981	0.056922		200	0.090703	110700		52		0.023583	35500
+Stønadsområde		2651	Arbeidsavklaringspenger		15.641273	15.040282	0.039959		66	0.029932	237000		51.833333		0.023507	25100
+Stønadsområde		2655	Uføretrygd		55.347866	53.825453	0.028284		171	0.077551	323700		157.166667		0.071277	29300
+Stønadsområde	Barn og foreldre				22.802578	18.708786	0.218817		273	0.12381	83500		241		0.109297	7900
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.42	0.5775	-0.272727		18	0.008163	23300		4.166667		0.00189	8400
+Stønadsområde		0845	Barnetrygd		9.512158	8.276504	0.149297		239	0.10839	39800		229.833333		0.104233	3400
+Stønadsområde		2530	Foreldrepenger		12.87042	9.854782	0.306008		72	0.032653	178800		28.5		0.012925	37600
+Stønadsområde	Pensjoner				172.364957	165.769457	0.039787		630	0.285714	273600		600.5		0.272336	23900
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	-1		*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		170.496697	163.921079	0.040115		613	0.278005	278100		584.416667		0.265042	24300
+Stønadsområde		2680	Ytelser til gjenlevende		1.86826	1.796052	0.040204		19	0.008617	98300		16.166667		0.007332	9600
+Stønadsområde	Øvrig				1.254521	1.488341	-0.157101		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		1.101916	1.177326	-0.064052		58	0.026304	19000		55		0.024943	1700
+Stønadsområde		2686	Gravferdsstønad		0.152605	0.311015	-0.509332		13	0.005896	11700		1.166667		0.000529	10900
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				478.375707	450.517796	0.061835		2005	0.565426	239000		1726		0.486746	*
+Stønadsområde	Arbeidsliv og sykdom				174.238981	166.094474	0.049035		798	0.225042	218300		497.666667		0.140346	29200
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.137788	1.060143	*		53	0.014946	21500		17.666667		0.004982	5400
+Stønadsområde		2541	Dagpenger		4.06435	4.21634	-0.036048		72	0.020305	56400		17.75		0.005006	19100
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.679865	0.346182	0.963895		5	0.00141	136000		3.25		0.000917	17400
+Stønadsområde		2650	Sykepenger		40.111865	37.88096	0.058893		353	0.099549	113600		106.25		0.029963	31500
+Stønadsområde		2651	Arbeidsavklaringspenger		30.681216	28.280848	0.084876		132	0.037225	232400		99.833333		0.028154	25600
+Stønadsområde		2655	Uføretrygd		97.563897	94.310001	0.034502		299	0.08432	326300		275.166667		0.077599	29500
+Stønadsområde	Barn og foreldre				31.793574	25.891984	0.227931		445	0.125494	71400		385.833333		0.108808	6900
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.456	0.645	-0.293023		18	0.005076	25300		5.416667		0.001528	7000
+Stønadsområde		0845	Barnetrygd		15.849478	13.933796	0.137485		400	0.112803	39600		372.833333		0.105142	3500
+Stønadsområde		2530	Foreldrepenger		15.488096	11.313188	0.36903		98	0.027637	158000		37.416667		0.010552	34500
+Stønadsområde	Pensjoner				269.723328	256.167128	0.052919		963	0.271574	280100		916.25		0.25839	24500
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.007531		*	*	130800		1		0.000282	*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		267.252947	253.313329	0.055029		946	0.266779	282500		899.5		0.253666	24800
+Stønadsområde		2680	Ytelser til gjenlevende		2.339543	2.723939	-0.141118		17	0.004794	137600		16.75		0.004724	11600
+Stønadsområde	Øvrig				2.619824	2.36421	0.108118		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		2.000048	2.061667	-0.029888		93	0.026227	21500		91.166667		0.02571	1800
+Stønadsområde		2686	Gravferdsstønad		0.619776	0.302543	1.048555		33	0.009306	18800		2.75		0.000776	18800
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				778.318036	735.619993	0.058044		3212	0.581463	242000		2763.416667		0.500256	*
+Stønadsområde	Arbeidsliv og sykdom				282.345827	269.916611	0.046048		1302	0.235699	216900		799.833333		0.144792	29400
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.653797	1.84235	*		65	0.011767	25400		22.083333		0.003998	6200
+Stønadsområde		2541	Dagpenger		11.37344	9.219767	0.233593		131	0.023715	86800		43.916667		0.00795	21600
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.453631	1.653872	-0.121074		17	0.003077	85500		11.666667		0.002112	10400
+Stønadsområde		2650	Sykepenger		64.968243	60.586415	0.072324		564	0.1021	115200		150.916667		0.02732	35900
+Stønadsområde		2651	Arbeidsavklaringspenger		32.016585	31.877638	0.004359		160	0.028965	200100		113.25		0.020501	23600
+Stønadsområde		2655	Uføretrygd		170.880131	164.736569	0.037293		529	0.095764	323000		487.583333		0.088266	29200
+Stønadsområde	Barn og foreldre				42.37396	35.927948	0.179415		644	0.116582	65800		566.833333		0.102613	6200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.3105	0.8625	-0.64		16	0.002896	19400		3.833333		0.000694	6800
+Stønadsområde		0845	Barnetrygd		24.334747	21.252974	0.145004		591	0.106988	41200		548.916667		0.099369	3700
+Stønadsområde		2530	Foreldrepenger		17.728713	13.812474	0.283529		107	0.01937	165700		41.083333		0.007437	36000
+Stønadsområde	Pensjoner				449.732527	426.328973	0.054896		1554	0.281318	289400		1477.75		0.267514	25400
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*	-0.30454		*	*	137000		1		0.000181	*
+Stønadsområde		2670	Alderspensjon		445.731774	422.175031	0.055799		1522	0.275525	292900		1447.416667		0.262023	25700
+Stønadsområde		2680	Ytelser til gjenlevende		3.863753	3.95695	-0.023553		36	0.006517	107300		30.583333		0.005536	10500
+Stønadsområde	Øvrig				3.865722	3.446461	0.12165		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		3.3535	3.138842	0.068388		167	0.030232	20100		158		0.028602	1800
+Stønadsområde		2686	Gravferdsstønad		0.512222	0.307619	0.665118		30	0.005431	17100		2.583333		0.000468	16500
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				783.659654	746.889544	0.049231		3306	0.600327	237000		2823.916667		0.512787	*
+Stønadsområde	Arbeidsliv og sykdom				286.161799	272.924859	0.0485		1349	0.244961	212100		827.25		0.150218	28800
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.944438	1.291937	*		64	0.011622	30400		23.583333		0.004282	6900
+Stønadsområde		2541	Dagpenger		8.02966	9.117962	-0.119358		136	0.024696	59000		35.833333		0.006507	18700
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.248581	1.270374	-0.017155		16	0.002905	78000		9.5		0.001725	11000
+Stønadsområde		2650	Sykepenger		65.452889	59.715515	0.096078		585	0.106228	111900		160.666667		0.029175	33900
+Stønadsområde		2651	Arbeidsavklaringspenger		38.893161	36.705894	0.059589		191	0.034683	203600		133.833333		0.024302	24200
+Stønadsområde		2655	Uføretrygd		170.59307	164.823177	0.035007		523	0.09497	326200		488		0.088614	29100
+Stønadsområde	Barn og foreldre				48.35392	42.797719	0.129825		718	0.13038	67300		606		0.110042	6600
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.72	0.9285	-0.224556		26	0.004721	27700		7.833333		0.001422	7700
+Stønadsområde		0845	Barnetrygd		24.915771	21.971296	0.134015		648	0.117668	38500		582.75		0.10582	3600
+Stønadsområde		2530	Foreldrepenger		22.718149	19.897923	0.141735		141	0.025604	161100		52		0.009443	36400
+Stønadsområde	Pensjoner				444.805796	427.102923	0.041449		1584	0.287634	280800		1506.916667		0.273637	24600
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		0.571872	0.328435	0.741203		4	0.000726	143000		2.416667		0.000439	19700
+Stønadsområde		2670	Alderspensjon		440.363438	422.978716	0.041101		1552	0.281823	283700		1476.25		0.268068	24900
+Stønadsområde		2680	Ytelser til gjenlevende		3.870486	3.795772	0.019683		33	0.005992	117300		29.583333		0.005372	10900
+Stønadsområde	Øvrig				4.338139	4.064043	0.067444		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		3.744557	3.519601	0.063915		174	0.031596	21500		165.5		0.030053	1900
+Stønadsområde		2686	Gravferdsstønad		0.593582	0.544442	0.090258		43	0.007808	13800		3.666667		0.000666	13500
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				404.481843	381.34373	0.060675		1737	0.557983	233000		1476.083333		0.474167	*
+Stønadsområde	Arbeidsliv og sykdom				153.336226	139.879725	0.096201		710	0.228076	216000		432.5		0.138934	29500
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.679047	1.310992	*		32	0.010279	21200		10.25		0.003293	5500
+Stønadsområde		2541	Dagpenger		5.856501	4.259821	0.374823		74	0.023771	79100		22.416667		0.007201	21800
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.628293	0.474175	0.325023		6	0.001927	104700		3.5		0.001124	15000
+Stønadsområde		2650	Sykepenger		37.850891	33.77272	0.120753		330	0.106007	114700		90.25		0.028991	35000
+Stønadsområde		2651	Arbeidsavklaringspenger		19.849682	18.109865	0.09607		97	0.03116	204600		67.083333		0.021549	24700
+Stønadsområde		2655	Uføretrygd		88.471812	81.952152	0.079554		279	0.089624	317100		256.416667		0.08237	28800
+Stønadsområde	Barn og foreldre				26.502174	26.580048	-0.00293		404	0.129778	65600		350.833333		0.112699	6300
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.310721	0.265508	0.170289		10	0.003212	31100		2.75		0.000883	9400
+Stønadsområde		0845	Barnetrygd		14.166265	13.418845	0.055699		363	0.116608	39000		337.5		0.108416	3500
+Stønadsområde		2530	Foreldrepenger		12.025188	12.895695	-0.067504		87	0.027947	138200		31.166667		0.010012	32200
+Stønadsområde	Pensjoner				222.816564	213.143647	0.045382		807	0.259235	276100		763.583333		0.245289	24300
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*	0.022631		*	*	125400		1		0.000321	*
+Stønadsområde		2670	Alderspensjon		220.415269	210.382002	0.047691		782	0.251205	281900		741.5		0.238195	24800
+Stønadsområde		2680	Ytelser til gjenlevende		2.275855	2.638981	-0.137601		25	0.008031	91000		22.083333		0.007094	8600
+Stønadsområde	Øvrig				1.826879	1.74031	0.049743		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		1.5182	1.585593	-0.042503		72	0.023129	21100		70.416667		0.02262	1800
+Stønadsområde		2686	Gravferdsstønad		0.308679	0.154717	0.99512		19	0.006103	16200		1.75		0.000562	14700
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				585.602205	556.740072	0.051841		2479	0.563793	236000		2114.5		0.480896	*
+Stønadsområde	Arbeidsliv og sykdom				214.883655	206.912747	0.038523		1004	0.228338	214000		622.666667		0.141612	28800
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.30113	1.291941	*		43	0.009779	30300		17.5		0.00398	6200
+Stønadsområde		2541	Dagpenger		8.3009	7.416178	0.119296		103	0.023425	80600		32.5		0.007391	21300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.746693	0.592927	0.259334		8	0.001819	93300		4.833333		0.001099	12900
+Stønadsområde		2650	Sykepenger		48.272369	51.945565	-0.070712		448	0.101888	107800		122.333333		0.027822	32900
+Stønadsområde		2651	Arbeidsavklaringspenger		27.87719	24.46903	0.139285		133	0.030248	209600		94.75		0.021549	24500
+Stønadsområde		2655	Uføretrygd		128.385373	121.197106	0.059311		402	0.091426	319400		374		0.085058	28600
+Stønadsområde	Barn og foreldre				37.923142	33.886829	0.119112		546	0.124176	69500		471.083333		0.107137	6700
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.356556	0.60377	-0.409451		18	0.004094	19800		4.5		0.001023	6600
+Stønadsområde		0845	Barnetrygd		19.250057	16.676534	0.15432		484	0.110075	39800		446.416667		0.101528	3600
+Stønadsområde		2530	Foreldrepenger		18.316529	16.606525	0.102972		114	0.025927	160700		46.333333		0.010537	32900
+Stønadsområde	Pensjoner				330.36702	313.42934	0.05404		1169	0.265863	282600		1112.333333		0.252976	24800
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		328.431562	311.360229	0.054828		1150	0.261542	285600		1096.583333		0.249394	25000
+Stønadsområde		2680	Ytelser til gjenlevende		1.935458	2.069111	-0.064594		19	0.004321	101900		15.75		0.003582	10200
+Stønadsområde	Øvrig				2.428388	2.511156	-0.03296		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		2.332947	2.286651	0.020246		113	0.025699	20600		106.75		0.024278	1800
+Stønadsområde		2686	Gravferdsstønad		0.095441	0.224505	-0.574883		11	0.002502	8700		0.916667		0.000208	8700
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				648.42982	606.646639	0.068876		2822	0.554094	230000		2381.75		0.467652	*
+Stønadsområde	Arbeidsliv og sykdom				247.98382	232.416454	0.06698		1227	0.240919	202100		720.416667		0.141452	28700
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.217529	1.211848	*		59	0.011585	20600		16.666667		0.003272	6100
+Stønadsområde		2541	Dagpenger		9.251582	7.112998	0.300659		120	0.023562	77100		37		0.007265	20800
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.200025	0.984301	0.219165		14	0.002749	85700		8.583333		0.001685	11700
+Stønadsområde		2650	Sykepenger		62.231115	63.556198	-0.020849		597	0.11722	104200		158.083333		0.031039	32800
+Stønadsområde		2651	Arbeidsavklaringspenger		39.41431	31.709316	0.242988		186	0.036521	211900		131.333333		0.025787	25000
+Stønadsområde		2655	Uføretrygd		134.669259	127.841793	0.053406		429	0.084233	313900		399.333333		0.078408	28100
+Stønadsområde	Barn og foreldre				47.58317	41.089942	0.158025		687	0.134891	69300		605.833333		0.118954	6500
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.321	1.0185	-0.684831		16	0.003142	20100		3.5		0.000687	7600
+Stønadsområde		0845	Barnetrygd		24.840305	22.513233	0.103365		634	0.124485	39200		587.5		0.115354	3500
+Stønadsområde		2530	Foreldrepenger		22.421865	17.558209	0.277002		126	0.02474	178000		47.666667		0.009359	39200
+Stønadsområde	Pensjoner				348.970062	329.296007	0.059746		1223	0.240134	285300		1161.25		0.228009	25000
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		1.56488	0.941447	0.662207		11	0.00216	142300		9.083333		0.001783	14400
+Stønadsområde		2670	Alderspensjon		343.573348	324.933362	0.057366		1183	0.23228	290400		1125.583333		0.221006	25400
+Stønadsområde		2680	Ytelser til gjenlevende		3.831834	3.421198	0.120027		35	0.006872	109500		30.5		0.005989	10500
+Stønadsområde	Øvrig				3.892768	3.844236	0.012625		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		3.230621	3.231479	-0.000266		155	0.030434	20800		144.166667		0.028307	1900
+Stønadsområde		2686	Gravferdsstønad		0.662147	0.612757	0.080603		42	0.008247	15800		3.5		0.000687	15800
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				794.424892	741.126201	0.071916		3377	0.547148	235000		2869.833333		0.464976	*
+Stønadsområde	Arbeidsliv og sykdom				289.50257	260.62827	0.110787		1348	0.218406	214800		817.333333		0.132426	29500
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.895012	1.221358	*		44	0.007129	20300		15.416667		0.002498	4800
+Stønadsområde		2541	Dagpenger		8.54192	11.089096	-0.229701		131	0.021225	65200		35.25		0.005711	20200
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.070132	0.61646	0.735931		12	0.001944	89200		8.666667		0.001404	10300
+Stønadsområde		2650	Sykepenger		74.09883	60.989073	0.214953		652	0.105638	113600		178.75		0.028961	34500
+Stønadsområde		2651	Arbeidsavklaringspenger		43.862419	37.632777	0.165538		185	0.029974	237100		141.333333		0.022899	25900
+Stønadsområde		2655	Uføretrygd		161.034257	149.079506	0.08019		496	0.080363	324700		468.25		0.075867	28700
+Stønadsområde	Barn og foreldre				56.640201	52.938221	0.06993		773	0.125243	73300		672		0.108879	7000
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.835512	0.8415	-0.007116		23	0.003727	36300		7.333333		0.001188	9500
+Stønadsområde		0845	Barnetrygd		27.681213	24.350387	0.136787		682	0.110499	40600		643.666667		0.104288	3600
+Stønadsområde		2530	Foreldrepenger		28.123476	27.746334	0.013592		166	0.026896	169400		63.083333		0.010221	37200
+Stønadsområde	Pensjoner				443.967636	424.166106	0.046683		1588	0.257291	279600		1499.416667		0.242939	24700
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*	1.182666		*	*	98800		3		0.000486	*
+Stønadsområde		2670	Alderspensjon		440.573887	421.010159	0.046469		1557	0.252268	283000		1470.833333		0.238307	25000
+Stønadsområde		2680	Ytelser til gjenlevende		3.097295	3.020125	0.025552		31	0.005023	99900		28.583333		0.004631	9000
+Stønadsområde	Øvrig				4.314485	3.393604	0.271358		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		3.22177	2.767378	0.164196		158	0.025599	20400		147.833333		0.023952	1800
+Stønadsområde		2686	Gravferdsstønad		1.092715	0.626226	0.744921		56	0.009073	19500		4.75		0.00077	19200
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				2039.319597	1943.413859	0.049349		8450	0.567838	241000		7234.916667		0.486185	*
+Stønadsområde	Arbeidsliv og sykdom				839.191041	799.361031	0.049827		3746	0.25173	224000		2347.25		0.157735	29800
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.455776	2.148051	*		87	0.005846	16700		26.583333		0.001786	4600
+Stønadsområde		2541	Dagpenger		22.588329	18.240516	0.23836		261	0.017539	86500		87.5		0.00588	21500
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		3.151104	3.529581	-0.10723		38	0.002554	82900		24.083333		0.001618	10900
+Stønadsområde		2650	Sykepenger		186.688404	181.55419	0.028279		1741	0.116995	107200		471.666667		0.031696	33000
+Stønadsområde		2651	Arbeidsavklaringspenger		113.353182	116.942019	-0.030689		513	0.034473	221000		361.416667		0.024287	26100
+Stønadsområde		2655	Uføretrygd		511.954246	476.946674	0.073399		1544	0.103756	331600		1450.5		0.097473	29400
+Stønadsområde	Barn og foreldre				130.270455	120.581487	0.080352		1962	0.131846	66400		1720.25		0.1156	6300
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		1.407588	1.7145	-0.17901		55	0.003696	25600		13.416667		0.000902	8700
+Stønadsområde		0845	Barnetrygd		67.784897	61.472719	0.102683		1795	0.120624	37800		1663.416667		0.111781	3400
+Stønadsområde		2530	Foreldrepenger		61.07797	57.394268	0.064182		363	0.024394	168300		132.75		0.008921	38300
+Stønadsområde	Pensjoner				1058.826939	1013.250717	0.04498		3666	0.246354	288800		3488.833333		0.234449	25300
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		2.357726	1.546064	0.524986		16	0.001075	147400		13.666667		0.000918	14400
+Stønadsområde		2670	Alderspensjon		1048.218802	1002.391764	0.045718		3584	0.240844	292500		3420.5		0.229857	25500
+Stønadsområde		2680	Ytelser til gjenlevende		8.250411	9.312889	-0.114087		78	0.005242	105800		63.083333		0.004239	10900
+Stønadsområde	Øvrig				11.031162	10.220624	0.079304		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		9.37197	8.971963	0.044584		458	0.030778	20500		421		0.028291	1900
+Stønadsområde		2686	Gravferdsstønad		1.659192	1.248661	0.328777		107	0.00719	15500		9.083333		0.00061	15200
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				1902.385605	1798.069057	0.058016		7876	0.578267	242000		6717.25		0.49319	*
+Stønadsområde	Arbeidsliv og sykdom				828.756553	779.409721	0.063313		3676	0.269897	225500		2327.916667		0.170919	29700
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		2.70398	2.407158	*		140	0.010279	19300		43.166667		0.003169	5200
+Stønadsområde		2541	Dagpenger		23.378848	19.323397	0.209873		277	0.020338	84400		101.5		0.007452	19200
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		4.173361	4.370275	-0.045058		39	0.002863	107000		24.416667		0.001793	14200
+Stønadsområde		2650	Sykepenger		176.977025	172.00996	0.028877		1642	0.120558	107800		443.083333		0.032532	33300
+Stønadsområde		2651	Arbeidsavklaringspenger		128.605335	118.481261	0.085449		544	0.039941	236400		414.833333		0.030458	25800
+Stønadsområde		2655	Uføretrygd		492.918004	462.81767	0.065037		1473	0.10815	334600		1381.5		0.101432	29700
+Stønadsområde	Barn og foreldre				119.642615	109.263696	0.09499		1837	0.134875	65100		1615.333333		0.1186	6200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		1.2975	2.314508	-0.439406		55	0.004038	23600		13.416667		0.000985	8100
+Stønadsområde		0845	Barnetrygd		63.295747	56.771436	0.114922		1683	0.123568	37600		1565.083333		0.114911	3400
+Stønadsområde		2530	Foreldrepenger		55.049368	50.177752	0.097087		340	0.024963	161900		119.5		0.008774	38400
+Stønadsområde	Pensjoner				941.167758	897.738411	0.048376		3245	0.238253	290000		3094.75		0.227221	25300
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.001773		*	*	101700		1		7.3e-05	*
+Stønadsområde		0667	Supplerende stønad		1.064808	1.03643	0.027381		8	0.000587	133100		6.583333		0.000483	13500
+Stønadsområde		2670	Alderspensjon		931.898485	888.150025	0.049258		3174	0.23304	293600		3029.25		0.222412	25600
+Stønadsområde		2680	Ytelser til gjenlevende		8.102769	8.45044	-0.041142		70	0.00514	115800		63		0.004626	10700
+Stønadsområde	Øvrig				12.818679	11.657229	0.099633		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		11.208006	10.608792	0.056483		534	0.039207	21000		510		0.037445	1800
+Stønadsområde		2686	Gravferdsstønad		1.610673	1.048437	0.536261		92	0.006755	17500		8		0.000587	16800
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				1943.556151	1814.484116	0.071134		7925	0.580034	245000		6709.916667		0.491101	*
+Stønadsområde	Arbeidsliv og sykdom				810.636233	748.961311	0.082347		3634	0.265974	223100		2273.416667		0.166392	29700
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		3.446679	3.302587	*		139	0.010173	24800		51.75		0.003788	5600
+Stønadsområde		2541	Dagpenger		18.399887	18.170115	0.012646		247	0.018078	74500		77.583333		0.005678	19800
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		4.026711	4.495099	-0.1042		39	0.002854	103200		26.5		0.00194	12700
+Stønadsområde		2650	Sykepenger		183.28688	165.023003	0.110675		1644	0.120325	111500		436.166667		0.031923	35000
+Stønadsområde		2651	Arbeidsavklaringspenger		111.539166	106.614424	0.046192		515	0.037693	216600		367.166667		0.026873	25300
+Stønadsområde		2655	Uføretrygd		489.93691	451.356083	0.085478		1494	0.109346	327900		1390.5		0.101771	29400
+Stønadsområde	Barn og foreldre				113.555657	99.983609	0.135743		1725	0.126253	65800		1521		0.111323	6200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		1.0485	1.3995	-0.250804		35	0.002562	30000		11		0.000805	7900
+Stønadsområde		0845	Barnetrygd		61.728623	54.516053	0.132302		1594	0.116665	38700		1476.166667		0.108041	3500
+Stønadsområde		2530	Foreldrepenger		50.778534	44.068056	0.152275		292	0.021372	173900		110.75		0.008106	38200
+Stønadsområde	Pensjoner				1007.032887	953.500226	0.056143		3379	0.24731	298000		3204.083333		0.234508	26200
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*	0.0707		*	*	92300		2		0.000146	*
+Stønadsområde		2670	Alderspensjon		997.99182	946.247543	0.054684		3299	0.241455	302500		3136		0.229525	26500
+Stønadsområde		2680	Ytelser til gjenlevende		8.856442	7.080249	0.250866		83	0.006075	106700		66.583333		0.004873	11100
+Stønadsområde	Øvrig				12.331374	12.03897	0.024288		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		9.341369	9.331953	0.001009		461	0.033741	20300		438.166667		0.03207	1800
+Stønadsområde		2686	Gravferdsstønad		2.990005	2.707017	0.104539		127	0.009295	23500		10.833333		0.000793	23000
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				858.814648	819.222444	0.048329		3371	0.601427	255000		2939.916667		0.524517	*
+Stønadsområde	Arbeidsliv og sykdom				397.832613	378.768702	0.050331		1621	0.289206	245400		1132.666667		0.202081	29300
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.216679	1.718726	*		64	0.011418	19000		20.333333		0.003628	5000
+Stønadsområde		2541	Dagpenger		11.225959	9.6548	0.162733		136	0.024264	82500		46		0.008207	20300
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.718398	0.954726	-0.247535		16	0.002855	44900		9.083333		0.001621	6600
+Stønadsområde		2650	Sykepenger		63.503717	65.095242	-0.024449		572	0.102052	111000		163.083333		0.029096	32400
+Stønadsområde		2651	Arbeidsavklaringspenger		47.568287	49.486421	-0.038761		212	0.037823	224400		148.833333		0.026554	26600
+Stønadsområde		2655	Uføretrygd		273.599573	251.858787	0.086321		831	0.14826	329200		783.583333		0.139801	29100
+Stønadsområde	Barn og foreldre				37.797287	35.536478	0.063619		648	0.115611	58300		579.833333		0.103449	5400
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.356326	0.967975	-0.631885		14	0.002498	25500		4.416667		0.000788	6700
+Stønadsområde		0845	Barnetrygd		23.512901	20.86465	0.126925		610	0.108831	38500		566.666667		0.1011	3500
+Stønadsområde		2530	Foreldrepenger		13.92806	13.703853	0.016361		88	0.0157	158300		34.666667		0.006185	33500
+Stønadsområde	Pensjoner				419.052648	400.814554	0.045503		1460	0.260482	287000		1385.416667		0.247175	25200
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		0.628578	0.545496	0.152305		5	0.000892	125700		4.916667		0.000877	10700
+Stønadsområde		2670	Alderspensjon		414.944915	396.897592	0.045471		1432	0.255486	289800		1359.333333		0.242522	25400
+Stønadsområde		2680	Ytelser til gjenlevende		3.479155	3.371466	0.031941		26	0.004639	133800		24.166667		0.004312	12000
+Stønadsområde	Øvrig				4.1321	4.10271	0.007164		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		3.633603	3.53557	0.027728		184	0.032828	19700		174.75		0.031178	1700
+Stønadsområde		2686	Gravferdsstønad		0.498497	0.56714	-0.121034		52	0.009277	9600		4.416667		0.000788	9400
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				994.989533	938.796514	0.059856		3995	0.61095	249000		3471.25		0.530853	*
+Stønadsområde	Arbeidsliv og sykdom				441.663754	426.670266	0.035141		1884	0.288117	234400		1269.083333		0.194079	29000
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		1.610859	2.13844	*		60	0.009176	26800		22.416667		0.003428	6000
+Stønadsområde		2541	Dagpenger		11.16674	11.721489	-0.047328		140	0.02141	79800		46.333333		0.007086	20100
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.714039	2.143396	-0.200316		17	0.0026	100800		12.833333		0.001963	11100
+Stønadsområde		2650	Sykepenger		77.835375	80.030524	-0.027429		736	0.112555	105800		197.666667		0.030229	32800
+Stønadsområde		2651	Arbeidsavklaringspenger		66.097616	61.604472	0.072935		291	0.044502	227100		211.75		0.032383	26000
+Stønadsområde		2655	Uføretrygd		283.239125	269.031945	0.052809		880	0.134577	321900		819.75		0.125363	28800
+Stønadsområde	Barn og foreldre				53.463412	45.293793	0.18037		816	0.12479	65500		723.25		0.110606	6200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.5715	0.5685	0.005277		25	0.003823	22900		8.333333		0.001274	5700
+Stønadsområde		0845	Barnetrygd		29.805965	26.98799	0.104416		749	0.114544	39800		699.25		0.106935	3600
+Stønadsområde		2530	Foreldrepenger		23.085947	17.737303	0.301548		139	0.021257	166100		56.916667		0.008704	33800
+Stønadsområde	Pensjoner				494.515293	461.538456	0.07145		1746	0.267013	283200		1657.166667		0.253428	24900
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*	0.374392		*	*	152300		1.166667		0.000178	*
+Stønadsområde		2670	Alderspensjon		488.259839	455.099357	0.072864		1694	0.259061	288200		1612.333333		0.246572	25200
+Stønadsområde		2680	Ytelser til gjenlevende		5.950809	6.217441	-0.042885		52	0.007952	114400		43.666667		0.006678	11400
+Stønadsområde	Øvrig				5.347074	5.293999	0.010026		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		4.649716	4.62275	0.005833		247	0.037773	18800		233.916667		0.035773	1700
+Stønadsområde		2686	Gravferdsstønad		0.697358	0.671249	0.038896		63	0.009635	11100		5.583333		0.000854	10400
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				421.105427	401.756329	0.048161		1721	0.608342	245000		1485.666667		0.525156	*
+Stønadsområde	Arbeidsliv og sykdom				161.926195	154.336417	0.049177		726	0.256628	223000		460.166667		0.162661	29300
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.586133	0.348767	*		25	0.008837	23400		10.75		0.0038	4500
+Stønadsområde		2541	Dagpenger		4.86165	3.467541	0.402045		50	0.017674	97200		19.083333		0.006746	21200
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*	0		0.166667		5.9e-05	*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	1.653756		*	*	174600		1.416667		0.000501	*
+Stønadsområde		2650	Sykepenger		37.077312	34.211587	0.083765		334	0.118063	111000		93.666667		0.033109	33000
+Stønadsområde		2651	Arbeidsavklaringspenger		18.046332	18.15118	-0.005776		83	0.029339	217400		56.666667		0.020031	26500
+Stønadsområde		2655	Uføretrygd		101.00547	98.025718	0.030398		321	0.113468	314700		297		0.104984	28300
+Stønadsområde	Barn og foreldre				24.556995	23.422111	0.048454		325	0.114882	75600		280.5		0.099152	7300
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.5385	0.7365	-0.268839		21	0.007423	25600		5.916667		0.002091	7600
+Stønadsområde		0845	Barnetrygd		11.875751	10.233079	0.160526		282	0.099682	42100		266.833333		0.094321	3700
+Stønadsområde		2530	Foreldrepenger		12.142744	12.452532	-0.024878		81	0.028632	149900		31		0.010958	32600
+Stønadsområde	Pensjoner				231.697755	221.278059	0.047089		825	0.291622	280800		782.166667		0.276482	24700
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.034483		*	*	6700		1		0.000353	*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		229.619036	219.529581	0.045959		809	0.285967	283800		767.75		0.271386	24900
+Stønadsområde		2680	Ytelser til gjenlevende		2.071999	1.741982	0.189449		16	0.005656	129500		14.416667		0.005096	12000
+Stønadsområde	Øvrig				2.924482	2.719742	0.075279		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		2.058002	2.171542	-0.052285		111	0.039236	18500		105.75		0.037381	1600
+Stønadsområde		2686	Gravferdsstønad		0.86648	0.5482	0.580591		45	0.015907	19300		3.833333		0.001355	18800
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				177.758669	168.264978	0.056421		725	0.573123	245000		630.25		0.498221	*
+Stønadsområde	Arbeidsliv og sykdom				64.965967	62.692633	0.036262		298	0.235573	218000		191.916667		0.151713	28200
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.431348	0.28128	*		23	0.018182	18800		7.833333		0.006192	4600
+Stønadsområde		2541	Dagpenger		1.177061	1.416646	-0.169121		15	0.011858	78500		4.666667		0.003689	21000
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	1.08264		*	*	105800		2.75		0.002174	*
+Stønadsområde		2650	Sykepenger		12.757632	15.40881	-0.172056		126	0.099605	101300		34.583333		0.027339	30700
+Stønadsområde		2651	Arbeidsavklaringspenger		7.696358	7.586007	0.014547		41	0.032411	187700		25.75		0.020356	24900
+Stønadsområde		2655	Uføretrygd		42.586182	37.847494	0.125205		134	0.105929	317800		122.583333		0.096904	29000
+Stønadsområde	Barn og foreldre				9.047366	8.424528	0.073932		129	0.101976	70100		112.666667		0.089065	6700
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.1275	0.1755	-0.273504		4	0.003162	31900		1.666667		0.001318	6400
+Stønadsområde		0845	Barnetrygd		4.756872	4.19166	0.134842		115	0.090909	41400		106.416667		0.084124	3700
+Stønadsområde		2530	Foreldrepenger		4.162994	4.057368	0.026033		28	0.022134	148700		13.083333		0.010343	26500
+Stønadsområde	Pensjoner				102.853054	96.287692	0.068185		365	0.288538	281800		349.166667		0.276021	24500
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*	0.000887		*	*	101600		2		0.001581	*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		101.628421	94.967835	0.070135		355	0.280632	286300		340.083333		0.268841	24900
+Stønadsområde		2680	Ytelser til gjenlevende		1.021433	1.116837	-0.085423		10	0.007905	102100		9.083333		0.007181	9400
+Stønadsområde	Øvrig				0.892282	0.860125	0.037386		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		0.712004	0.742381	-0.040918		36	0.028458	19800		35.833333		0.028327	1700
+Stønadsområde		2686	Gravferdsstønad		0.180278	0.117744	0.531101		14	0.011067	12900		1.166667		0.000922	12900
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				901.343023	838.539999	0.074896		3739	0.582762	241000		3201.833333		0.499039	*
+Stønadsområde	Arbeidsliv og sykdom				338.24279	309.409571	0.093188		1578	0.245948	214300		951		0.148223	29600
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.849775	0.781327	*		53	0.008261	16000		14.25		0.002221	5000
+Stønadsområde		2541	Dagpenger		13.077246	10.644045	0.228597		161	0.025094	81200		58.666667		0.009144	18600
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		1.952215	1.859011	0.050136		17	0.00265	114800		12.583333		0.001961	12900
+Stønadsområde		2650	Sykepenger		100.626892	95.304151	0.05585		798	0.124377	126100		243.916667		0.038017	34400
+Stønadsområde		2651	Arbeidsavklaringspenger		45.313449	37.624774	0.204351		215	0.03351	210800		148.083333		0.02308	25500
+Stønadsområde		2655	Uføretrygd		176.423213	163.196263	0.081049		548	0.085411	321900		509.833333		0.079463	28800
+Stønadsområde	Barn og foreldre				60.606993	52.193143	0.161206		836	0.130299	72500		730.666667		0.113882	6900
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.9225	1.134	-0.186508		32	0.004988	28800		10.25		0.001598	7500
+Stønadsområde		0845	Barnetrygd		29.190478	25.480024	0.145622		755	0.117675	38700		701.75		0.109375	3500
+Stønadsområde		2530	Foreldrepenger		30.494015	25.579119	0.192145		189	0.029458	161300		69.416667		0.010819	36600
+Stønadsområde	Pensjoner				496.974984	471.88034	0.05318		1692	0.263716	293700		1628.75		0.253858	25400
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		0.386801	0.227028	0.703759		4	0.000623	96700		3		0.000468	10700
+Stønadsområde		2670	Alderspensjon		492.620415	467.903576	0.052825		1655	0.257949	297700		1595.166667		0.248623	25700
+Stønadsområde		2680	Ytelser til gjenlevende		3.967768	3.749736	0.058146		36	0.005611	110200		31.583333		0.004923	10500
+Stønadsområde	Øvrig				5.518256	5.056945	0.091223		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		4.437573	4.294168	0.033395		227	0.03538	19500		211.75		0.033003	1700
+Stønadsområde		2686	Gravferdsstønad		1.080683	0.762777	0.416774		44	0.006858	24600		3.75		0.000584	24000
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				277.454524	260.714636	0.064208		1186	0.547806	234000		1004.666667		0.464049	*
+Stønadsområde	Arbeidsliv og sykdom				102.404001	99.599407	0.028159		504	0.232794	203200		290.75		0.134296	29400
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.287591	0.05897	*		14	0.006467	20500		3.75		0.001732	6400
+Stønadsområde		2541	Dagpenger		2.775157	1.492134	0.859858		39	0.018014	71200		11.916667		0.005504	19400
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	-0.832995		*	*	8800		0.25		0.000115	*
+Stønadsområde		2650	Sykepenger		23.586027	24.318508	-0.03012		241	0.111316	97900		61.666667		0.028483	31900
+Stønadsområde		2651	Arbeidsavklaringspenger		10.332129	13.324155	-0.224557		55	0.025404	187900		35.75		0.016513	24100
+Stønadsområde		2655	Uføretrygd		65.405549	60.300565	0.084659		203	0.093764	322200		187.083333		0.086413	29100
+Stønadsområde	Barn og foreldre				20.920706	19.144454	0.092782		286	0.132102	73100		242.333333		0.111932	7200
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.276	0.5085	-0.457227		14	0.006467	19700		2.166667		0.001001	10600
+Stønadsområde		0845	Barnetrygd		9.167725	8.070498	0.135955		257	0.118707	35700		232.416667		0.107352	3300
+Stønadsområde		2530	Foreldrepenger		11.476981	10.565456	0.086274		66	0.030485	173900		24.583333		0.011355	38900
+Stønadsområde	Pensjoner				152.612055	140.591793	0.085498		523	0.24157	291800		494.083333		0.228214	25700
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		152.170413	140.038917	0.086629		519	0.239723	293200		489.5		0.226097	25900
+Stønadsområde		2680	Ytelser til gjenlevende		0.441642	0.552876	-0.201192		5	0.002309	88300		4.583333		0.002117	8000
+Stønadsområde	Øvrig				1.517762	1.378982	0.100639		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		1.185217	1.077064	0.100415		69	0.031871	17200		63.833333		0.029484	1500
+Stønadsområde		2686	Gravferdsstønad		0.332545	0.301918	0.101441		16	0.00739	20800		1.333333		0.000616	20800
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				436.864167	389.94965	0.120309		1859	0.560108	235000		1561.916667		0.470599	*
+Stønadsområde	Arbeidsliv og sykdom				158.890411	135.749927	0.170464		762	0.229587	208500		434.25		0.130838	30500
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.650034	0.522283	*		27	0.008135	24100		9.666667		0.002913	5600
+Stønadsområde		2541	Dagpenger		5.995208	5.448781	0.100284		67	0.020187	89500		23.083333		0.006955	21600
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*	0		0.083333		2.5e-05	*
+Stønadsområde		2620	Stønad til enslig mor eller far		0.288473	0.728817	-0.60419		4	0.001205	72100		3.5		0.001055	6900
+Stønadsområde		2650	Sykepenger		53.801149	41.520094	0.295786		410	0.123531	131200		120.583333		0.036331	37200
+Stønadsområde		2651	Arbeidsavklaringspenger		23.154222	19.039547	0.216112		108	0.03254	214400		73.75		0.022221	26200
+Stønadsområde		2655	Uføretrygd		75.001325	68.490405	0.095063		247	0.07442	303600		220.25		0.06636	28400
+Stønadsområde	Barn og foreldre				29.948417	25.81104	0.160295		434	0.130762	69000		372.666667		0.112283	6700
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.471	0.3615	0.302905		18	0.005423	26200		4.916667		0.001481	8000
+Stønadsområde		0845	Barnetrygd		14.383375	13.084561	0.099263		387	0.116601	37200		355.916667		0.107236	3400
+Stønadsområde		2530	Foreldrepenger		15.094042	12.364979	0.220709		96	0.028924	157200		33.916667		0.010219	37100
+Stønadsområde	Pensjoner				244.966001	225.575797	0.085959		836	0.251883	293000		801.833333		0.241589	25500
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		242.608543	223.871482	0.083696		822	0.247665	295100		789		0.237722	25600
+Stønadsområde		2680	Ytelser til gjenlevende		2.357458	1.704315	0.383229		15	0.004519	157200		12.833333		0.003867	15300
+Stønadsområde	Øvrig				3.059338	2.812886	0.087615		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		2.559668	2.386308	0.072648		112	0.033745	22900		108.666667		0.032741	2000
+Stønadsområde		2686	Gravferdsstønad		0.49967	0.426578	0.171345		26	0.007834	19200		2.166667		0.000653	19200
+gruppe	rad				Utbetalt				Personer i løpet av året				Personer per måned
+gruppe	rad				Utbetalt mill kr 2025	Utbetalt mill kr 2024	Utbetalt. Endring fra året før. Prosent		Antall mottakere i løpet av året 2025	Andel av befolkning	Årlig per mottaker. Kr		Gj snitt antall mottakere per måned		Andel av befolkning	Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt				196.624951	184.652104	0.06484		889	0.534898	221000		748.416667		0.450311	*
+Stønadsområde	Arbeidsliv og sykdom				61.546774	58.403891	0.053813		326	0.196149	188800		181.916667		0.109456	28200
+Stønadsområde	Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		0.450498	0.176678	*		21	0.012635	21500		8.166667		0.004914	4600
+Stønadsområde		2541	Dagpenger		2.687442	2.438614	0.102037		41	0.024669	65500		11.416667		0.006869	19600
+Stønadsområde		2543	Korona, selvstendig næringsdrivende mv		*	*	*		*	*			*			*
+Stønadsområde		2620	Stønad til enslig mor eller far		*	*	-0.214433		*	*	144100		1.083333		0.000652	*
+Stønadsområde		2650	Sykepenger		16.190465	17.56426	-0.078215		159	0.095668	101800		42		0.025271	32100
+Stønadsområde		2651	Arbeidsavklaringspenger		8.38822	6.415782	0.307435		37	0.022262	226700		26.416667		0.015895	26500
+Stønadsområde		2655	Uføretrygd		33.541889	31.441612	0.066799		110	0.066185	304900		101.583333		0.061121	27500
+Stønadsområde	Barn og foreldre				13.831666	13.512915	0.023589		229	0.137786	60400		188.5		0.113418	6100
+Stønadsområde	Barn og foreldre	0844	Kontantstøtte		0.083921	0.2775	-0.697582		5	0.003008	16800		1.083333		0.000652	6500
+Stønadsområde		0845	Barnetrygd		7.747983	7.028466	0.102372		209	0.125752	37100		181.833333		0.109406	3600
+Stønadsområde		2530	Foreldrepenger		5.999762	6.206949	-0.03338		42	0.025271	142900		15.166667		0.009126	33000
+Stønadsområde	Pensjoner				119.448668	111.057089	0.075561		411	0.247292	290600		401.833333		0.241777	24800
+Stønadsområde	Pensjoner	0660	Krigspensjon		*	*			*	*			*			*
+Stønadsområde		0667	Supplerende stønad		*	*			*	*			*			*
+Stønadsområde		2670	Alderspensjon		118.244906	109.824222	0.076674		399	0.240072	296400		390.833333		0.235158	25200
+Stønadsområde		2680	Ytelser til gjenlevende		1.203762	1.232867	-0.023608		12	0.00722	100300		11		0.006619	9100
+Stønadsområde	Øvrig				1.797843	1.678209	0.071287		*	*			*		*	*
+Stønadsområde	Øvrig	2661	Grunn- og hjelpestønad		1.467468	1.28058	0.14594		58	0.034898	25300		51.25		0.030836	2400
+Stønadsområde		2686	Gravferdsstønad		0.330375	0.397629	-0.169138		11	0.006619	30000		1		0.000602	27500

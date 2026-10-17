@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger til utlandet (U100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-utlandet
+# Lagt inn: 2026-10-17
+# Ark: 3. Utenlandsk statsborger
+# U100 Utbetalinger til utlandet 2025
+gruppe	år		Andel til utenlandske statsborgere						Rapport oppdatert: 04.03.2026
+År 2025	2025								
+gruppe	rad			Utenlandsk statsborger utland. Mill kr	Andel beløp utenlandsk statsborgere	Antall mottakere utenlandsk statsborger	Andel mottakere utenlandsk statsborgere
+I alt		I alt		7185.533564	0.546672	83905	0.72691
+I alt	0844	Kontantstøtte		35.980088	0.953416	998	0.9532
+I alt	0845	Barnetrygd		301.922592	0.837595	12378	0.862218
+I alt	2530	Foreldrepenger		235.664929	0.840468	2257	0.855248
+I alt	2541	Dagpenger		402.468592	0.958671	5855	0.938301
+I alt	2650	Sykepenger		1334.186387	0.943073	14385	0.915717
+I alt	2651	Arbeidsavklaringspenger		539.554602	0.861756	1812	0.824761
+I alt	2655	Uføretrygd		553.186089	0.248928	3904	0.405063
+I alt	2661	Grunn- og hjelpestønad		3.634015	0.275283	183	0.208428
+I alt	2670	Alderspensjon		3367.76932	0.463246	45789	0.677252
+I alt	2680	Ytelser til gjenlevende		391.669527	0.824101	3477	0.836018
+I alt	9999	Øvrig		19.497423	0.805772	120	0.764331

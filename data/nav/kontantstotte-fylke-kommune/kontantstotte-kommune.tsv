@@ -1,0 +1,398 @@
+# Kilde: Nav
+# Tabell: Kontantstøtte, barn med kontantstøtte etter fylke og kommune (KON001x)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte
+# Lagt inn: 2026-10-17
+# Ark: Kontantstøtte kommune
+# KON001 Kontantstøtte. Barn med kontantstøtte. Fylke og kommune. September 2026
+# Tabell: Antall og andel barn med kontantstøtte. Kommune.
+Kommunenr	Kommunenavn	Antall barn i kontantstøttealder i kommunen	Antall barn med kontantstøtte i kommunen	Andel barn med kontantstøtte i kommunen
+	Landet	34636	34138	8.0783
+0312	Frogner	306	8	2.614379
+0313	St. Hanshaugen	262	6	2.290076
+0314	Sagene	419	19	4.534606
+0315	Grünerløkka	552	21	3.804348
+0316	Gamle Oslo	494	34	6.882591
+0318	Nordstrand	366	14	3.825137
+0319	Søndre Nordstrand	242	44	18.181818
+0321	Østensjø	382	13	3.403141
+0326	Alna	300	50	16.666667
+0327	Stovner	196	35	17.857143
+0328	Grorud	157	19	12.101911
+0330	Bjerke	280	18	6.428571
+0331	Nordre Aker	396	10	2.525253
+0334	Vestre Aker	413	6	1.452785
+0335	Ullern	279	6	2.150538
+1101	Eigersund	94	8	8.510638
+1106	Haugesund	223	16	7.174888
+1108	Sandnes	548	37	6.751825
+1111	Sokndal	17	7	41.176471
+1112	Lund	17	7	41.176471
+1114	Bjerkreim	14	*	*
+1119	Hå	120	30	25
+1120	Klepp	160	28	17.5
+1121	Time	154	11	7.142857
+1122	Gjesdal	87	11	12.643678
+1124	Sola	233	17	7.296137
+1127	Randaberg	100	*	*
+1130	Strand	94	23	24.468085
+1133	Hjelmeland	11	*	*
+1134	Suldal	21	*	*
+1135	Sauda	24	*	*
+1144	Kvitsøy	4	*	*
+1145	Bokn	7	*	*
+1146	Tysvær	87	12	13.793103
+1149	Karmøy	299	26	8.695652
+1151	Utsira	*	*	*
+1160	Vindafjord	72	8	11.111111
+1161	Stavanger	278	10	3.597122
+1161	Stavanger	278	10	3.597122
+1162	Stavanger	189	15	7.936508
+1162	Stavanger	189	15	7.936508
+1164	Stavanger	303	23	7.590759
+1164	Stavanger	303	23	7.590759
+1165		161	6	3.726708
+1166		29	7	24.137931
+1167		28	4	14.285714
+1202	Fana	316	16	5.063291
+1203	Åsane	270	13	4.814815
+1204	Arna	84	7	8.333333
+1205	Fyllingsdalen	208	7	3.365385
+1206	Laksevåg	244	12	4.918033
+1208	Årstad	278	13	4.676259
+1209	Bergenhus	177	5	2.824859
+1210	Ytrebygda	215	6	2.790698
+1505	Kristiansund	123	*	*
+1506	Molde	190	12	6.315789
+1508	Ålesund	365	15	4.109589
+1511	Vanylven	10	*	*
+1514	Sande	15	*	*
+1515	Herøy (Møre og Romsdal)	49	8	16.326531
+1516	Ulstein	66	7	10.606061
+1517	Hareid	17	*	*
+1520	Ørsta	61	5	8.196721
+1525	Stranda	20	*	*
+1528	Sykkylven	30	*	*
+1531	Sula	76	4	5.263158
+1532	Giske	62	7	11.290323
+1535	Vestnes	33	*	*
+1539	Rauma	44	8	18.181818
+1547	Aukra	28	*	*
+1554	Averøy	37	4	10.810811
+1557	Gjemnes	11	*	*
+1560	Tingvoll	12	*	*
+1563	Sunndal	38	*	*
+1566	Surnadal	41	*	*
+1573	Smøla	11	*	*
+1576	Aure	12	*	*
+1577	Volda	81	*	*
+1578	Fjord	11	*	*
+1579	Hustadvika	82	11	13.414634
+1580	Haram	55	*	*
+1804	Bodø	347	17	4.899135
+1806	Narvik	134	12	8.955224
+1811	Bindal	5	*	*
+1812	Sømna	10	*	*
+1813	Brønnøy	53	*	*
+1815	Vega	7	*	*
+1816	Vevelstad	*	*	*
+1818	Herøy (Nordland)	14	*	*
+1820	Alstahaug	46	*	*
+1822	Leirfjord	13	*	*
+1824	Vefsn	81	*	*
+1825	Grane	*	*	*
+1826	Aarborte - Hattfjelldal	*	*	*
+1827	Dønna	8	*	*
+1828	Nesna	10	*	*
+1832	Hemnes	30	*	*
+1833	Rana	138	*	*
+1834	Lurøy	9	*	*
+1835	Træna	*	*	*
+1836	Rødøy	4	*	*
+1837	Meløy	26	*	*
+1838	Gildeskål	12	*	*
+1839	Beiarn	4	*	*
+1840	Saltdal	18	*	*
+1841	Fauske - Fuossko	51	*	*
+1845	Sørfold	*	*	*
+1848	Steigen	19	*	*
+1851	Lødingen	9	*	*
+1853	Evenes - Evenášši	9	*	*
+1856	Røst	*	*	*
+1857	Værøy	*	*	*
+1859	Flakstad	5	*	*
+1860	Vestvågøy	64	5	7.8125
+1865	Vågan	54	4	7.407407
+1866	Hadsel	45	*	*
+1867	Bø	8	*	*
+1868	Øksnes	22	*	*
+1870	Sortland - Suortá	42	*	*
+1871	Andøy	19	*	*
+1874	Moskenes	*	*	*
+1875	Hábmer - Hamarøy	18	*	*
+3101	Halden	130	11	8.461538
+3103	Moss	297	32	10.774411
+3105	Sarpsborg	357	46	12.885154
+3107	Fredrikstad	461	44	9.544469
+3110	Hvaler	25	*	*
+3112	Råde	49	*	*
+3114	Våler (Viken)	44	4	9.090909
+3116	Skiptvet	12	*	*
+3118	Indre Østfold	282	42	14.893617
+3120	Rakkestad	48	4	8.333333
+3122	Marker	24	*	*
+3124	Aremark	6	*	*
+3201	Bærum	844	33	3.909953
+3203	Asker	609	31	5.090312
+3205	Lillestrøm	621	52	8.373591
+3207	Nordre Follo	485	38	7.835052
+3209	Ullensaker	279	39	13.978495
+3212	Nesodden	121	9	7.438017
+3214	Frogn	78	7	8.974359
+3216	Vestby	132	13	9.848485
+3218	Ås	177	12	6.779661
+3220	Enebakk	73	12	16.438356
+3222	Lørenskog	392	63	16.071429
+3224	Rælingen	125	16	12.8
+3226	Aurskog-Høland	84	7	8.333333
+3228	Nes	149	21	14.09396
+3230	Gjerdrum	30	4	13.333333
+3232	Nittedal	171	19	11.111111
+3234	Lunner	43	4	9.302326
+3236	Jevnaker	33	*	*
+3238	Nannestad	119	13	10.92437
+3240	Eidsvoll	172	15	8.72093
+3242	Hurdal	17	*	*
+3301	Drammen	585	60	10.25641
+3303	Kongsberg	141	13	9.219858
+3305	Ringerike	155	11	7.096774
+3310	Hole	46	*	*
+3312	Lier	165	8	4.848485
+3314	Øvre Eiker	112	13	11.607143
+3316	Modum	97	5	5.154639
+3318	Krødsherad	6	*	*
+3320	Flå	6	*	*
+3322	Nesbyen	16	5	31.25
+3324	Gol	26	*	*
+3326	Hemsedal	14	*	*
+3328	Ål	28	*	*
+3330	Hol	20	*	*
+3332	Sigdal	17	*	*
+3334	Flesberg	11	*	*
+3336	Rollag	11	4	36.363636
+3338	Nore og Uvdal	12	5	41.666667
+3401	Kongsvinger	91	5	5.494505
+3403	Hamar	209	13	6.220096
+3405	Lillehammer	179	12	6.703911
+3407	Gjøvik	158	19	12.025316
+3411	Ringsaker	229	19	8.296943
+3412	Løten	40	7	17.5
+3413	Stange	134	10	7.462687
+3414	Nord-Odal	23	*	*
+3415	Sør-Odal	33	7	21.212121
+3416	Eidskog	27	7	25.925926
+3417	Grue	25	*	*
+3418	Åsnes	33	6	18.181818
+3419	Våler (Innlandet)	22	6	27.272727
+3420	Elverum	128	11	8.59375
+3421	Trysil	30	*	*
+3422	Åmot	19	*	*
+3423	Stor-Elvdal	13	4	30.769231
+3424	Rendalen	10	*	*
+3425	Engerdal	4	*	*
+3426	Tolga	10	*	*
+3427	Tynset	38	4	10.526316
+3428	Alvdal	8	*	*
+3429	Folldal	12	*	*
+3430	Os	7	*	*
+3431	Dovre	18	*	*
+3432	Lesja	11	*	*
+3433	Skjåk	7	*	*
+3434	Lom	12	*	*
+3435	Vågå	22	*	*
+3436	Nord-Fron	24	*	*
+3437	Sel	30	*	*
+3438	Sør-Fron	18	*	*
+3439	Ringebu	19	*	*
+3440	Øyer	28	*	*
+3441	Gausdal	29	*	*
+3442	Østre Toten	88	10	11.363636
+3443	Vestre Toten	67	10	14.925373
+3446	Gran	68	4	5.882353
+3447	Søndre Land	26	*	*
+3448	Nordre Land	28	9	32.142857
+3449	Sør-Aurdal	13	*	*
+3450	Etnedal	5	*	*
+3451	Nord-Aurdal	38	4	10.526316
+3452	Vestre Slidre	17	*	*
+3453	Øystre Slidre	22	*	*
+3454	Vang	10	*	*
+3901	Horten	145	7	4.827586
+3903	Holmestrand	142	11	7.746479
+3905	Tønsberg	343	20	5.830904
+3907	Sandefjord	351	34	9.68661
+3909	Larvik	273	27	9.89011
+3911	Færder	159	16	10.062893
+4001	Porsgrunn	203	14	6.896552
+4003	Skien	290	28	9.655172
+4005	Notodden	80	6	7.5
+4010	Siljan	20	*	*
+4012	Bamble	67	4	5.970149
+4014	Kragerø	42	5	11.904762
+4016	Drangedal	20	4	20
+4018	Nome	31	5	16.129032
+4020	Midt-Telemark	59	7	11.864407
+4022	Seljord	10	*	*
+4024	Hjartdal	9	*	*
+4026	Tinn	25	*	*
+4028	Kviteseid	17	6	35.294118
+4030	Nissedal	12	*	*
+4032	Fyresdal	4	*	*
+4034	Tokke	6	*	*
+4036	Vinje	23	*	*
+4201	Risør	33	*	*
+4202	Grimstad	155	28	18.064516
+4203	Arendal	195	28	14.358974
+4204	Kristiansand	751	84	11.185087
+4205	Lindesnes	132	13	9.848485
+4206	Farsund	59	9	15.254237
+4207	Flekkefjord	65	15	23.076923
+4211	Gjerstad	11	*	*
+4212	Vegårshei	19	*	*
+4213	Tvedestrand	29	4	13.793103
+4214	Froland	43	11	25.581395
+4215	Lillesand	69	7	10.144928
+4216	Birkenes	38	6	15.789474
+4217	Åmli	10	*	*
+4218	Iveland	7	*	*
+4219	Evje og Hornnes	23	4	17.391304
+4220	Bygland	5	*	*
+4221	Valle	8	*	*
+4222	Bykle	7	*	*
+4223	Vennesla	124	17	13.709677
+4224	Åseral	5	*	*
+4225	Lyngdal	66	25	37.878788
+4226	Hægebostad	12	4	33.333333
+4227	Kvinesdal	39	14	35.897436
+4228	Sirdal	14	5	35.714286
+4602	Kinn	99	6	6.060606
+4611	Etne	10	*	*
+4612	Sveio	30	*	*
+4613	Bømlo	73	7	9.589041
+4614	Stord	106	7	6.603774
+4615	Fitjar	21	*	*
+4616	Tysnes	18	*	*
+4617	Kvinnherad	75	5	6.666667
+4618	Ullensvang	56	7	12.5
+4619	Eidfjord	4	*	*
+4620	Ulvik	10	*	*
+4621	Voss	108	5	4.62963
+4622	Kvam	38	*	*
+4623	Samnanger	16	*	*
+4624	Bjørnafjorden	210	12	5.714286
+4625	Austevoll	47	5	10.638298
+4626	Øygarden	238	26	10.92437
+4627	Askøy	198	15	7.575758
+4628	Vaksdal	21	*	*
+4629	Modalen	*	*	*
+4630	Osterøy	48	7	14.583333
+4631	Alver	161	16	9.937888
+4632	Austrheim	13	4	30.769231
+4633	Fedje	4	*	*
+4634	Masfjorden	5	*	*
+4635	Gulen	15	*	*
+4636	Solund	*	*	*
+4637	Hyllestad	4	*	*
+4638	Høyanger	12	*	*
+4639	Vik	22	7	31.818182
+4640	Sogndal	68	*	*
+4641	Aurland	4	*	*
+4642	Lærdal	21	5	23.809524
+4643	Årdal	19	*	*
+4644	Luster	33	5	15.151515
+4645	Askvoll	11	*	*
+4646	Fjaler	16	*	*
+4647	Sunnfjord	157	4	2.547771
+4648	Bremanger	18	*	*
+4649	Stad	67	5	7.462687
+4650	Gloppen	32	*	*
+4651	Stryn	39	*	*
+5006	Steinkjer	152	8	5.263158
+5007	Namsos - Nåavmesjenjaelmie	83	5	6.024096
+5014	Frøya	43	*	*
+5020	Osen	4	*	*
+5021	Oppdal	33	*	*
+5022	Rennebu	17	*	*
+5025	Røros - Rossen	22	*	*
+5026	Holtålen	14	*	*
+5027	Midtre Gauldal	34	*	*
+5028	Melhus	106	8	7.54717
+5029	Skaun	44	*	*
+5031	Malvik	90	*	*
+5032	Selbu	19	*	*
+5033	Tydal	4	*	*
+5034	Meråker	13	*	*
+5035	Stjørdal	140	10	7.142857
+5036	Frosta	17	*	*
+5037	Levanger	111	4	3.603604
+5038	Verdal	84	4	4.761905
+5041	Snåase - Snåsa	15	*	*
+5042	Lierne	10	*	*
+5043	Raarvihke - Røyrvik	*	*	*
+5044	Namsskogan	*	*	*
+5045	Grong	17	*	*
+5046	Høylandet	4	*	*
+5047	Overhalla	21	*	*
+5049	Flatanger	4	*	*
+5052	Leka	4	*	*
+5053	Inderøy	40	*	*
+5054	Indre Fosen	49	4	8.163265
+5055	Heim	24	*	*
+5056	Hitra	29	*	*
+5057	Ørland	81	11	13.580247
+5058	Åfjord	29	4	13.793103
+5059	Orkland	104	9	8.653846
+5060	Nærøysund	68	5	7.352941
+5061	Rindal	9	*	*
+5081	Midtbyen	332	9	2.710843
+5082	Østbyen	396	11	2.777778
+5083	Lerkendal	359	13	3.62117
+5085	Heimdal	299	24	8.026756
+5501	Tromsø	485	23	4.742268
+5503	Harstad - Hárstták	141	8	5.673759
+5510	Kvæfjord	11	*	*
+5512	Dielddanuorri - Tjeldsund	18	*	*
+5514	Ibestad	5	*	*
+5516	Gratangen	*	*	*
+5518	Loabák - Lavangen	5	*	*
+5520	Bardu	21	*	*
+5522	Salangen	7	*	*
+5524	Målselv	32	*	*
+5526	Sørreisa	21	*	*
+5528	Dyrøy	*	*	*
+5530	Senja	70	5	7.142857
+5532	Balsfjord	39	4	10.25641
+5534	Karlsøy	4	*	*
+5536	Lyngen	7	*	*
+5538	Storfjord - Omasvuotna - Omasvuono	9	*	*
+5540	Gáivuotna - Kåfjord - Kaivuono	9	*	*
+5542	Skjervøy	12	*	*
+5544	Nordreisa - Ráisa - Raisi	19	*	*
+5546	Kvænangen	*	*	*
+5601	Alta	171	25	14.619883
+5603	Hammerfest - Hámmerfeasta	49	*	*
+5605	Sør-Varanger	52	*	*
+5607	Vadsø	36	*	*
+5610	Kárášjohka - Karasjok	10	*	*
+5612	Guovdageaidnu - Kautokeino	20	5	25
+5614	Loppa	*	*	*
+5616	Hasvik	4	*	*
+5618	Måsøy	6	*	*
+5620	Nordkapp	16	*	*
+5622	Porsanger - Porsángu - Porsanki	16	*	*
+5624	Lebesby	7	*	*
+5626	Gamvik	*	*	*
+5628	Deatnu - Tana	15	*	*
+5630	Berlevåg	6	*	*
+5632	Båtsfjord	12	*	*
+5634	Vardø	6	*	*
+5636	Unjárga - Nesseby	4	*	*

@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Utbetalinger innland etter kjønn, alder og innvandrer (U510)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Alder. Kr per person
+# Utbetalinger innland. Kjønn alder innvandrer 2025
+# Alder. Kr per person i året
+# 04.03.2026
+gruppe	rad	År 2025		I alt	00-19 år	20-29 år	30-39 år	40-49 år	50-59 år	60-69 år	70-79 år		80 år og over
+I alt	Stønader i alt			233000	52000	146000	169000	150000	200000	266000	300000		304000
+Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		21000	19000	18000	21000	23000	20000	18000	*		*
+Arbeidsliv og sykdom	2541	Dagpenger		103000	30000	70000	104000	111000	111000	122000	*		*
+Arbeidsliv og sykdom	2543	Korona, selvstendig næringsdrivende mv		10000	*	*	*	*	*	*	*		*
+Arbeidsliv og sykdom	2620	Stønad til enslig mor eller far		103000	158000	132000	91000	74000	85000	85000	*		*
+Arbeidsliv og sykdom	2650	Sykepenger		112000	25000	80000	107000	116000	118000	122000	55000		*
+Arbeidsliv og sykdom	2651	Arbeidsavklaringspenger		239000	96000	171000	232000	246000	237000	226000	*		*
+Arbeidsliv og sykdom	2655	Uføretrygd		330000	225000	316000	312000	309000	311000	307000	27000		26000
+Barn og foreldre	0844	Kontantstøtte		29000	23000	27000	28000	29000	29000	32000	*		*
+Barn og foreldre	0845	Barnetrygd		40000	17000	28000	40000	39000	29000	27000	28000		22000
+Barn og foreldre	2530	Foreldrepenger		182000	91000	170000	184000	147000	118000	106000	*		*
+Pensjoner	0660	Krigspensjon		92000	*	*	*	*	*	*	65000		92000
+Pensjoner	0667	Supplerende stønad		138000	*	*	224000	183000	183000	109000	101000		130000
+Pensjoner	2670	Alderspensjon		308000	*	*	*	*	*	236000	300000		306000
+Pensjoner	2680	Ytelser til gjenlevende		112000	110000	20000	94000	96000	92000	117000	*		*
+Øvrig	2661	Grunn- og hjelpestønad		22000	32000	15000	14000	14000	14000	13000	13000		12000
+Øvrig	2686	Gravferdsstønad		18000	34000	27000	27000	26000	24000	21000	18000		16000

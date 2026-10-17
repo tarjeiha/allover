@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Finnmark (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 56 Finnmark - Finnmárku - Finmarkku
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		9647.892877		9102.204414		0.059951			40814		0.545474		236000			33600		0.449425		*
+Stønadsområde	Arbeidsliv og sykdom		4177.496902		3928.250207		0.06345			19614		0.262139		213000			11200		0.149885		31000
+Stønadsområde	Barn og foreldre		769.912196		693.809148		0.109689			10092		0.134878		76300			8700		0.116518		7400
+Stønadsområde	Pensjoner		4615.200809		4399.497008		0.049029			15505		0.207222		297700			14700		0.196112		26200
+Stønadsområde	Øvrig		85.28297		80.648051		0.057471			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	4 560 mill kr				1 113 mill kr					375 mill kr				205 mill kr					8 mill kr
+I alt		0.049281				0.064363					0.070109				0.094112					-0.258958
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	2 103 mill kr				724 mill kr					387 mill kr				70 mill kr					19 mill kr
+I alt		0.051746				0.092097					0.163234				0.018017					-0.054434

@@ -1,0 +1,24 @@
+# Kilde: Nav
+# Tabell: Utbetalinger til utlandet (U100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-utlandet
+# Lagt inn: 2026-10-17
+# Ark: 4. Kjønn og alder
+# U100 Utbetalinger til utlandet 2025
+# Merknad: #VALUE!
+gruppe	år	Kjønn og alder					Rapport oppdatert: 04.03.2026
+År 2025	2025						
+gruppe	rad	Utbetalt utland. Mill kr	Andel beløp utenlandsk statsborgere	Antall mottakere	Gj snitt års-utbetaling. Kr
+Kjønn	I alt	13144.130522	0.546672	115427	114000
+Kjønn	Kvinne	4592.321419	0.492203	43547	105000
+Kjønn	Mann	8551.809103	0.575922	71884	119000
+Kjønn	Ukjent	*	*	*	*
+Alder	I alt	13144.130522	0.546672	115427	114000
+Alder	00-09 år	24.209223	0.622433	420	58000
+Alder	10-19 år	120.518099	0.602783	1805	67000
+Alder	20-29 år	269.972085	0.814027	3982	68000
+Alder	30-39 år	1075.212627	0.81502	12655	85000
+Alder	40-49 år	1383.973132	0.742227	13949	99000
+Alder	50-59 år	1592.313546	0.561201	10462	152000
+Alder	60-69 år	2942.117864	0.515077	25816	114000
+Alder	70-79 år	3743.935044	0.452421	35297	106000
+Alder	80 år og over	1991.878902	0.437603	19023	105000

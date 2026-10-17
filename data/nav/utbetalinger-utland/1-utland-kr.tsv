@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger til utlandet (U100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-utlandet
+# Lagt inn: 2026-10-17
+# Ark: 1. Utland kr
+# U100 Utbetalinger til utlandet 2025
+gruppe	år		Utbetalt fra NAV per stønadsområde. Millioner kroner og andel til utland					Rapport oppdatert: 04.03.2026
+År 2025	2025							
+gruppe	rad			Utbetalt til personer. Mill kr	Utbetalt utland. Mill kr	Andel utbetalt utland
+I alt		I alt		676389.495676	13144.130522	0.019433
+I alt	0844	Kontantstøtte		750.981038	37.738088	0.050252
+I alt	0845	Barnetrygd		28747.070349	360.46381	0.012539
+I alt	2530	Foreldrepenger		29737.912059	280.397275	0.009429
+I alt	2541	Dagpenger		15267.246582	419.819252	0.027498
+I alt	2650	Sykepenger		70893.213549	1414.722482	0.019956
+I alt	2651	Arbeidsavklaringspenger		51540.246986	626.110283	0.012148
+I alt	2655	Uføretrygd		133429.462177	2222.276259	0.016655
+I alt	2661	Grunn- og hjelpestønad		4352.146732	13.201008	0.003033
+I alt	2670	Alderspensjon		334200.624707	7269.935985	0.021753
+I alt	2680	Ytelser til gjenlevende		3465.427208	475.26887	0.137146
+I alt	9999	Øvrig		4005.164289	24.19721	0.006042

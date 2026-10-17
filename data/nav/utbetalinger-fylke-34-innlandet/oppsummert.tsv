@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Innlandet (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 34 Innlandet
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		50998.986527		47977.637344		0.062974			212350		0.562675		240000			181200		0.480212		*
+Stønadsområde	Arbeidsliv og sykdom		20154.841992		18857.523439		0.068796			92192		0.244286		218600			57500		0.152232		29200
+Stønadsområde	Barn og foreldre		3324.350975		2981.45901		0.115008			48151		0.127588		69000			42200		0.111777		6600
+Stønadsområde	Pensjoner		27217.582678		25856.564141		0.052637			93225		0.247023		292000			88600		0.234851		25600
+Stønadsområde	Øvrig		302.210882		282.090754		0.071325			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	26 957 mill kr				4 428 mill kr					1 558 mill kr				721 mill kr					36 mill kr
+I alt		0.052723				0.049065					0.11708				0.137744					-0.294613
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	11 732 mill kr				3 099 mill kr					1 731 mill kr				256 mill kr					90 mill kr
+I alt		0.066863				0.093953					0.126602				0.045664					-0.019404

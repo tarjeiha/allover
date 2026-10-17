@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Møre og Romsdal (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 15 Møre og Romsdal
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		33432.456322		31488.767125		0.061726			144646		0.531523		231000			122000		0.448385		*
+Stønadsområde	Arbeidsliv og sykdom		12388.235482		11663.645803		0.062124			61370		0.225513		201900			35000		0.12872		29500
+Stønadsområde	Barn og foreldre		2749.110643		2475.169532		0.110676			37314		0.137116		73700			32700		0.120014		7000
+Stønadsområde	Pensjoner		18036.630393		17105.606903		0.054428			60618		0.22275		297500			57800		0.212478		26000
+Stønadsområde	Øvrig		258.479804		244.344887		0.057848			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	17 874 mill kr				3 498 mill kr					1 346 mill kr				526 mill kr					26 mill kr
+I alt		0.054619				0.058411					0.107466				0.036511					-0.240438
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	5 880 mill kr				2 367 mill kr					1 377 mill kr				236 mill kr					61 mill kr
+I alt		0.067266				0.063369					0.123633				0.054828					-0.078699

@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Østfold (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 31 Østfold
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		42453.023217		40118.791722		0.058183			176817		0.561368		240000			149500		0.474633		*
+Stønadsområde	Arbeidsliv og sykdom		18863.889184		17808.914812		0.059239			84893		0.269523		222200			53400		0.169577		29400
+Stønadsområde	Barn og foreldre		2999.851674		2772.84494		0.081868			43375		0.137709		69200			38000		0.120665		6600
+Stønadsområde	Pensjoner		20279.543308		19247.38535		0.053626			68003		0.2159		298200			64500		0.204926		26200
+Stønadsområde	Øvrig		309.739051		289.64662		0.069369			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	20 022 mill kr				4 161 mill kr					1 385 mill kr				977 mill kr					40 mill kr
+I alt		0.053218				0.033431					0.074236				0.131484					-0.305961
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	9 665 mill kr				3 849 mill kr					1 574 mill kr				278 mill kr					123 mill kr
+I alt		0.047244				0.108675					0.10455				0.056606					-0.044224

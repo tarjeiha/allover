@@ -1,0 +1,20 @@
+# Kilde: Nav
+# Tabell: Supplerende stønad til alderspensjonister (PST510)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/supplerende-stonad
+# Lagt inn: 2026-10-17
+# Ark: Kjønn
+# Merknad: Antall mottakere av supplerende stønad fordelt på alder
+gruppe	rad	Kilde: NAV		Supplerende stønad alderspensjon. Alder og kjønn. Juni 2025 - 2026
+gruppe	rad		2025			2026
+Kvinner		I alt	1961			2019
+Kvinner		67-69 år	408			418
+Kvinner		70-74 år	547			553
+Kvinner		75-79 år	429			456
+Kvinner		80-84 år	291			293
+Kvinner		85 år og eldre	286			299
+Menn		I alt	1295			1315
+Menn		67-69 år	317			286
+Menn		70-74 år	353			392
+Menn		75-79 år	278			284
+Menn		80-84 år	205			200
+Menn		85 år og eldre	142			153

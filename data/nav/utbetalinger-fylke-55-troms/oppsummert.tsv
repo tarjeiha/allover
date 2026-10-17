@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Troms (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 55 Troms - Romsa - Tromssa
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		21221.590611		20123.729173		0.054556			90111		0.528914		236000			74700		0.43855		*
+Stønadsområde	Arbeidsliv og sykdom		8640.997924		8248.100132		0.047635			41414		0.243083		208600			23600		0.13833		30600
+Stønadsområde	Barn og foreldre		1689.076953		1535.345421		0.100128			22840		0.134061		74000			19800		0.116271		7100
+Stønadsområde	Pensjoner		10722.784823		10181.660656		0.053147			35254		0.206926		304200			33600		0.197067		26600
+Stønadsområde	Øvrig		168.730911		158.622964		0.063723			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	10 622 mill kr				2 411 mill kr					859 mill kr				264 mill kr					16 mill kr
+I alt		0.053275				0.024207					0.095109				0.080467					-0.137659
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	4 334 mill kr				1 566 mill kr					814 mill kr				150 mill kr					39 mill kr
+I alt		0.05471				0.061019					0.111523				0.050355					-0.046531

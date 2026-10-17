@@ -1,0 +1,16 @@
+# Kilde: Nav
+# Tabell: Trygdesvindel, statistikk for året
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/trygdemisbruk
+# Lagt inn: 2026-10-17
+# Ark: Tabell 3-Sakstyper
+# Tabell 3: Sakstyper i anmeldelser 2025 1)
+# Merknad: 1) Antall sakstyper kan avvik fra antall anmeldte personer fordi en person kan være anmeldt for bedrageri av flere ytelser, for eksempel både sykepenger og uføretrygd. Tilsvarende kan antall sakstyper være lavere enn anmeldte personer fordi noen er anmeldt for medvirkning til bedrageri av samme ytelse. Områder med få saker er slått sammen til annet.
+rad	Antall saker	Anmeldt beløp
+I alt	329	86243008
+Arbeidsavklaringspenger	136	40215949
+Barnetrygd	2	550430
+Dagpenger	158	35342729
+Enslig forsørger stønad	2	454175
+Foreldrepenger/engangsstønad	8	2953027
+Sykepenger	13	3591361
+Annet	10	3135337

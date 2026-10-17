@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Vestland (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 46 Vestland
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		74956.659537		70400.404524		0.064719			331209		0.505216		226000			275500		0.420199		*
+Stønadsområde	Arbeidsliv og sykdom		28275.543635		26547.158987		0.065106			143997		0.219649		196400			80000		0.122096		29400
+Stønadsområde	Barn og foreldre		6948.857132		6295.24284		0.103827			91466		0.139519		76000			79800		0.121735		7300
+Stønadsområde	Pensjoner		39132.568449		36999.813584		0.057642			129314		0.197252		302600			123000		0.18755		26500
+Stønadsområde	Øvrig		599.690321		558.189113		0.07435			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	38 711 mill kr				8 040 mill kr					3 525 mill kr				1 326 mill kr					74 mill kr
+I alt		0.057805				0.034552					0.096095				0.09808					-0.23634
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	13 203 mill kr				5 440 mill kr					3 350 mill kr				537 mill kr					159 mill kr
+I alt		0.064853				0.107299					0.123231				0.066711					-0.033724

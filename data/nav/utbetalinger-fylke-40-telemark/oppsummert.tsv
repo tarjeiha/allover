@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Telemark (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 40 Telemark
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		24059.724491		22864.522934		0.052273			99742		0.561389		241000			85000		0.478361		*
+Stønadsområde	Arbeidsliv og sykdom		9767.764626		9274.225986		0.053216			44408		0.249947		220000			27700		0.155878		29400
+Stønadsområde	Barn og foreldre		1590.827037		1494.727361		0.064292			23514		0.132346		67700			20600		0.116114		6400
+Stønadsområde	Pensjoner		12543.22812		11946.567823		0.049944			42011		0.236455		298600			39900		0.22463		26200
+Stønadsområde	Øvrig		157.904708		149.001764		0.059751			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	12 382 mill kr				2 142 mill kr					702 mill kr				445 mill kr					20 mill kr
+I alt		0.049914				0.010832					0.03086				0.141659					-0.239126
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	5 484 mill kr				1 592 mill kr					869 mill kr				145 mill kr					68 mill kr
+I alt		0.065347				0.052805					0.103291				0.058678					-0.018941

@@ -1,0 +1,27 @@
+# Kilde: Nav
+# Tabell: Utbetalinger innland etter kjønn, alder og innvandrer (U510)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Innvandrer. Kr per person
+# Utbetalinger innland. Kjønn alder innvandrer 2025
+# Innvandrer. Kr per person i året
+# 04.03.2026
+gruppe	rad	År 2025		I alt	Ikke-innvandrer	Innvandrer
+I alt	Stønader i alt			233000	246000	168000
+Arbeidsliv og sykdom	0634	Tiltakspenger og tilleggstønader		21000	16000	25000
+Arbeidsliv og sykdom	2541	Dagpenger		103000	99000	109000
+Arbeidsliv og sykdom	2543	Korona, selvstendig næringsdrivende mv		10000	*	*
+Arbeidsliv og sykdom	2620	Stønad til enslig mor eller far		103000	87000	133000
+Arbeidsliv og sykdom	2650	Sykepenger		112000	112000	111000
+Arbeidsliv og sykdom	2651	Arbeidsavklaringspenger		239000	234000	254000
+Arbeidsliv og sykdom	2655	Uføretrygd		330000	337000	283000
+Barn og foreldre	0844	Kontantstøtte		29000	27000	32000
+Barn og foreldre	0845	Barnetrygd		40000	40000	40000
+Barn og foreldre	2530	Foreldrepenger		182000	189000	156000
+Pensjoner	0660	Krigspensjon		92000	93000	99000
+Pensjoner	0667	Supplerende stønad		138000	85000	140000
+Pensjoner	2670	Alderspensjon		308000	313000	233000
+Pensjoner	2680	Ytelser til gjenlevende		112000	109000	126000
+Pensjoner	Øvrig			*	*	*
+Pensjoner	2661	Grunn- og hjelpestønad		22000	22000	22000
+Pensjoner	2686	Gravferdsstønad		18000	18000	22000

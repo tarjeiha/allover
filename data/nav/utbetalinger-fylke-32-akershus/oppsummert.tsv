@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Akershus (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 32 Akershus
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		81812.269175		76798.41703		0.065286			363508		0.488584		225000			299900		0.403057		*
+Stønadsområde	Arbeidsliv og sykdom		31927.466053		29890.369063		0.068152			160490		0.215711		198900			87600		0.117804		30400
+Stønadsområde	Barn og foreldre		8090.184445		7392.258378		0.094413			113144		0.152075		71500			99100		0.133265		6800
+Stønadsområde	Pensjoner		41224.036901		38983.515908		0.057474			130617		0.17556		315600			123400		0.165924		27800
+Stønadsområde	Øvrig		570.581776		532.273681		0.071971			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	40 762 mill kr				9 427 mill kr					3 958 mill kr				2 469 mill kr					94 mill kr
+I alt		0.057409				0.02006					0.08456				0.174414					-0.290354
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	13 116 mill kr				6 568 mill kr					4 038 mill kr				507 mill kr					213 mill kr
+I alt		0.065938				0.114906					0.118483				0.060621					-0.025978

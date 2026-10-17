@@ -1,0 +1,24 @@
+# Kilde: Nav
+# Tabell: Kontantstøtte, barn med kontantstøtte etter fylke og kommune (KON001x)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte
+# Lagt inn: 2026-10-17
+# Ark: Kontantstøtte fylke
+# KON001 Kontantstøtte. Barn med kontantstøtte. Fylke og kommune. September 2026
+gruppe	rad	Tabell: Antall og andel barn med kontantstøtte. Kommune.				Rapport oppdatert: 13.10.2025
+gruppe	rad	Antall barn med kontantstøtte i kommunen	Antall barn i kontantstøttealder i kommunen	Andel barn med kontantstøtte i kommunen
+Fylke	Landet	2798	34636	8.0783
+Fylke	Østfold	187	1735	10.778098
+Fylke	Akershus	411	4754	8.645351
+Fylke	Oslo	303	5044	6.007137
+Fylke	Innlandet	210	2082	10.086455
+Fylke	Buskerud	136	1468	9.264305
+Fylke	Vestfold	115	1413	8.138712
+Fylke	Telemark	93	918	10.130719
+Fylke	Agder	286	1919	14.903596
+Fylke	Rogaland	366	4144	8.832046
+Fylke	Vestland	249	3943	6.314989
+Fylke	Møre og Romsdal	109	1580	6.898734
+Fylke	Trøndelag	161	2927	5.500512
+Fylke	Nordland	70	1351	5.181347
+Fylke	Troms	56	924	6.060606
+Fylke	Finnmark	46	434	10.599078

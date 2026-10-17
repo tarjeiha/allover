@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Rogaland (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 11 Rogaland
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		54210.90379		50652.455956		0.070252			243961		0.481989		222000			204800		0.404667		*
+Stønadsområde	Arbeidsliv og sykdom		21437.826089		19962.517044		0.073904			104891		0.207231		204400			60400		0.119408		29600
+Stønadsområde	Barn og foreldre		5752.497124		5243.115557		0.097152			76341		0.150825		75400			66600		0.131618		7200
+Stønadsområde	Pensjoner		26601.505602		25050.842021		0.061901			88123		0.174103		301900			83400		0.164802		26600
+Stønadsområde	Øvrig		419.074975		395.981334		0.05832			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	26 268 mill kr				5 512 mill kr					2 843 mill kr				1 007 mill kr					82 mill kr
+I alt		0.062382				0.05797					0.08377				0.157414					-0.261599
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	10 471 mill kr				4 234 mill kr					2 828 mill kr				400 mill kr					132 mill kr
+I alt		0.073245				0.08264					0.126981				0.051437					-0.053807

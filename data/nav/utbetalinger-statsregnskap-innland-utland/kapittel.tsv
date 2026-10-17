@@ -1,0 +1,35 @@
+# Kilde: Nav
+# Tabell: Utbetalinger innland og utland, statsregnskap (U300)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Kapittel
+# Statsregnskap. Utbetalinger innland og utland 2025
+# Kapittel
+# 05.03.2026
+gruppe	rad					Statsregnskap fordelt på			Utbetalt til personer fordelt på
+gruppe	rad	Stønadsområde		Statsregnskap. Mill kr		Tilskudd. Mill kr	Utbetalt til personer. Mill kr		Utbetalt Norge. Mill kr	Utbetalt utland. Mill kr
+Kapittel	I alt stønader og tilskudd fra Arbeids- og velferdsetaten			703548.335834		27075.149367	676389.495676		663245.365154	13144.130522
+Kapittel	Arbeidsliv og sykdom			285654.70375		11740.134271	273839.485666		269146.370338	4693.115328
+Kapittel	0634	Arbeidsmarkedstiltak		11620.145193		10719.805919	1078.108886		1075.149791	2.959095
+Kapittel	0635	Ventelønn		0.133239		*	*		*	*
+Kapittel	2541	Dagpenger		15365.463837		*	15267.246582		14847.42733	419.819252
+Kapittel	2542	Lønnsgaranti		917.971266		917.971266	*		*	*
+Kapittel	2543	Korona, selvstendig næringsdrivende mv		0		*	0.112695		0.112695	*
+Kapittel	2620	Stønad til enslig mor eller far		1641.019117		*	1631.094791		1623.866834	7.227957
+Kapittel	2650	Sykepenger		70950.14096		54.241971	70893.213549		69478.491067	1414.722482
+Kapittel	2651	Arbeidsavklaringspenger		51729.073716		48.115116	51540.246986		50914.136703	626.110283
+Kapittel	2655	Uføretrygd		133430.756423		*	133429.462177		131207.185918	2222.276259
+Kapittel	Barn og foreldre			59239.117942		*	59235.963446		58557.364273	678.599173
+Kapittel	0844	Kontantstøtte		750.94101		*	750.981038		713.24295	37.738088
+Kapittel	0845	Barnetrygd		28749.548333		*	28747.070349		28386.606539	360.46381
+Kapittel	2530	Foreldrepenger		29738.628599		*	29737.912059		29457.514784	280.397275
+Kapittel	Pensjoner			342826.936049		4370.191121	338452.413584		330693.235425	7759.178159
+Kapittel	0660	Krigspensjon		80.712435		*	80.706353		66.898043	13.80831
+Kapittel	0666	Avtalefestet pensjon(AFP)		4370.191121		4370.191121	*		*	*
+Kapittel	0667	Supplerende stønad		705.577678		*	705.655316		705.490322	0.164994
+Kapittel	2670	Alderspensjon		334204.87197		*	334200.624707		326930.688722	7269.935985
+Kapittel	2680	Ytelser til gjenlevende		3465.582845		*	3465.427208		2990.158338	475.26887
+Kapittel	Øvrig			15827.578093		10964.823974	4861.63298		4848.395118	13.237862
+Kapittel	0621	Tilskudd til sosiale tjenester		219.283818		219.283818	*		*	*
+Kapittel	2661	Grunn- og hjelpestønad og hjelpemidler		15098.649423		10745.540156	4352.146732		4338.945724	13.201008
+Kapittel	2686	Gravferdsstønad		509.644852		*	509.486248		509.449394	0.036854

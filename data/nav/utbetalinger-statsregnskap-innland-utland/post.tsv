@@ -1,0 +1,76 @@
+# Kilde: Nav
+# Tabell: Utbetalinger innland og utland, statsregnskap (U300)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Post
+# Statsregnskap. Utbetalinger innland og utland 2025
+# Post
+# 05.03.2026
+rad							Statsregnskap fordelt på			Utbetalt til personer fordelt på
+rad	Stønadsområde		Post Nr	Kapittel Post Navn	Statsregnskap. Mill kr		Tilskudd. Mill kr	Utbetalt til personer. Mill kr		Utbetalt Norge. Mill kr	Utbetalt utland. Mill kr
+I alt stønader og tilskudd fra Arbeids- og velferdsetaten					703548.335834		27075.149367	676389.495676		663245.365154	13144.130522
+Arbeidsliv og sykdom					285654.70375		11740.134271	273839.485666		269146.370338	4693.115328
+0634	Arbeidsmarkedstiltak		00	Uspesifisert	*		*	1040.648206		1037.723373	2.924833
+0634	Arbeidsmarkedstiltak		01	Driftsutgifter Arbeidsmarkedstiltak	724.05742		724.05742	*		*	*
+0634	Arbeidsmarkedstiltak		21	Arbeidsmarkedstiltak Evaluering, utviklingstiltak mv	51.803449		51.803449	*		*	*
+0634	Arbeidsmarkedstiltak		70	Tilskudd ifm Arbeidsmarkedstiltak	9.723191		9.723191	9.723191		9.712971	0.01022
+0634	Arbeidsmarkedstiltak		76	Tiltak for arbeidssøkere	8307.120512		7406.781238	27.737434		27.713392	0.024042
+0634	Arbeidsmarkedstiltak		77	Varig tilrettelagt arbeid	2264.804334		2264.804334	*		*	*
+0634	Arbeidsmarkedstiltak		78	Tilskudd til arbeids- og utdanningsreiser	120.65598		120.65598	*		*	*
+0634	Arbeidsmarkedstiltak		79	Funksjonsassistanse i arbeidslivet	141.980306		141.980306	*		*	*
+0634	Arbeidsmarkedstiltak		nt	Ukjent	*		*	5.5e-05		5.5e-05	*
+0635	Ventelønn		01	Driftsutgifter Ventelønn	0.133239		*	*		*	*
+2541	Dagpenger		70	Dagpenger	15365.463837		*	15267.246582		14847.42733	419.819252
+2542	Lønnsgaranti		70	Statsgaranti for lønnskrav ved konkurs	917.971266		917.971266	*		*	*
+2543	Korona, selvstendig næringsdrivende mv		70	Stønad til selvstendig næringsdrivende og frilansere	0		*	0.112695		0.112695	*
+2620	Stønad til enslig mor eller far		70	Overgangsstønad	1573.847957		*	1573.80167		1566.61038	7.19129
+2620	Stønad til enslig mor eller far		72	Stønad til barnetilsyn til enslige foreldre i arbeid	57.968288		*	53.451551		53.414884	0.036667
+2620	Stønad til enslig mor eller far		73	Tilleggsstønader og stønad til skolepenger	9.202872		*	3.84157		3.84157	*
+2650	Sykepenger		70	Sykepenger for arbeidstagere mv	61661.263489		*	61659.521132		60340.666763	1318.854369
+2650	Sykepenger		71	Sykepenger for selvstendige	1778.462496		*	1778.29478		1764.167552	14.127228
+2650	Sykepenger		72	Pleie-, opplærings- og omsorgspenger mv.	3891.267698		*	3891.103378		3881.36418	9.739198
+2650	Sykepenger		75	Feriepenger av sykepenger m.v.	3564.905306		*	3564.294259		3492.292572	72.001687
+2650	Sykepenger		76	Tilskudd til ekspertbistand og kompetansetiltak for sykmeldte	54.241971		54.241971	*		*	*
+2651	Arbeidsavklaringspenger		70	Arbeidsavklaringspenger	51540.801178		*	51540.246986		50914.136703	626.110283
+2651	Arbeidsavklaringspenger		71	Arbeidsavklaringspenger, tilleggsstønad	140.157422		*	*		*	*
+2651	Arbeidsavklaringspenger		72	Arbeidsavklaringspenger, legeerklæringer	48.115116		48.115116	*		*	*
+2655	Uføretrygd		70	Uføretrygd	133308.023116		*	133306.72887		131095.497351	2211.231519
+2655	Uføretrygd		75	Menerstatning ved yrkesskade	93.942567		*	93.942567		91.546421	2.396146
+2655	Uføretrygd		76	Yrkesskadetrygd, gammel lovgivning	28.79074		*	28.79074		20.142146	8.648594
+Barn og foreldre					59239.117942			59235.963446		58557.364273	678.599173
+0844	Kontantstøtte		70	Tilskudd Kontantstøtte	750.94101		*	750.981038		713.24295	37.738088
+0845	Barnetrygd		70	Tilskudd Barnetrygd	28749.548333		*	28747.070349		28386.606539	360.46381
+2530	Foreldrepenger		70	Foreldrepenger ved fødsel	28265.178873		*	28264.770239		28000.571859	264.19838
+2530	Foreldrepenger		71	Engangsstønad v/fødsel	730.557699		*	730.279755		726.017947	4.261808
+2530	Foreldrepenger		72	Feriepenger av foreldrepenger	726.729448		*	726.699486		714.762399	11.937087
+2530	Foreldrepenger		73	Foreldrepenger ved adopsjon	16.162579		*	16.162579		16.162579	*
+Pensjoner					342826.936049		4370.191121	338452.413584		330693.235425	7759.178159
+0660	Krigspensjon		70	Krigspensjon tilskudd Militære	17.544412		*	17.544412		13.737297	3.807115
+0660	Krigspensjon		71	Krigspensjon tilskudd Sivile	63.168023		*	63.161941		53.160746	10.001195
+0666	Avtalefestet pensjon(AFP)		70	Tilskudd Avtalefestet pensjon (AFP)	4370.191121		4370.191121	*		*	*
+0667	Supplerende stønad		70	Tilskudd Supplerende stønad	415.377211		*	433.360812		433.195818	0.164994
+0667	Supplerende stønad		71	Tilskudd til uføre flyktninger med kort botid	290.200467		*	272.294504		272.294504	*
+2670	Alderspensjon		70	Alderdom grunnpensjon	95452.640185		*	95451.184774		93213.274783	2237.909991
+2670	Alderspensjon		71	Tilleggspensjon	194144.311833		*	194142.326887		190459.683047	3682.64384
+2670	Alderspensjon		72	Inntektspensjon	34299.529395		*	34299.398531		33707.687425	591.711106
+2670	Alderspensjon		73	Særtillegg, pensjonstillegg mv.	10308.390557		*	10307.714515		9550.043467	757.671048
+2680	Ytelser til gjenlevende		70	Omstillingsstønad	1699.52171		*	1699.549859		1365.185625	334.364234
+2680	Ytelser til gjenlevende		71	Barnepensjon	1764.711762		*	1764.679181		1623.774545	140.904636
+2680	Ytelser til gjenlevende		74	Tilleggsstønader og stønad til skolepenger	0.147199		*	0.06094		0.06094	*
+2680	Ytelser til gjenlevende		75	Stønad til barnetilsyn	1.202174		*	1.137228		1.137228	*
+Øvrig					15827.578093		10964.823974	4861.63298		4848.395118	13.237862
+0621	Tilskudd til sosiale tjenester		21	Spesielle driftsutgifter ifm Tilskudd til sosiale tjenester og sosial inkludering	49.934537		49.934537	*		*	*
+0621	Tilskudd til sosiale tjenester		63	Sosiale tjenester og tiltak for vanskeligstilte	39.071587		39.071587	*		*	*
+0621	Tilskudd til sosiale tjenester		70	Frivillig arbeid ifm Tilskudd til sosiale tjenester og sosial inkludering	113.787694		113.787694	*		*	*
+0621	Tilskudd til sosiale tjenester		74	Tilskudd til pensjonistenes organisasjoner	16.49		16.49	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		70	Grunnstønad	1823.417036		*	1823.225897		1816.961947	6.26395
+2661	Grunn- og hjelpestønad og hjelpemidler		71	Hjelpestønad	2529.692231		*	2528.920835		2521.983777	6.937058
+2661	Grunn- og hjelpestønad og hjelpemidler		72	Stønad til servicehund	7.489145		7.489145	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		73	Hjelpemidler m.v. under arbeid eller utdanning	120.941556		120.941556	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		74	Tilskudd til biler	1058.424879		1058.424879	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		75	Bedring av funksjonsevnen, hjelpemidler	5148.865975		5148.865975	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		76	Bedring av funksjonsevnen, andre formål	454.940281		454.940281	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		77	Ortopediske hjelpemidler	2762.300302		2762.300302	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		78	Høreapparater	1133.236181		1133.236181	*		*	*
+2661	Grunn- og hjelpestønad og hjelpemidler		79	Aktivitetshj.midler personer over 26 år	59.341837		59.341837	*		*	*
+2686	Gravferdsstønad		70	Stønad ved gravferd	509.644852		*	509.486248		509.449394	0.036854

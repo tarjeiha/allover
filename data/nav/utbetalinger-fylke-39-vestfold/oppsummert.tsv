@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Vestfold (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 39 Vestfold
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		33823.630825		31947.879093		0.058713			141416		0.547066		239000			119800		0.463521		*
+Stønadsområde	Arbeidsliv og sykdom		13654.440964		12908.417867		0.057794			63009		0.243749		216700			38500		0.148878		29600
+Stønadsområde	Barn og foreldre		2427.608745		2245.68441		0.081011			35439		0.137095		68500			31000		0.12009		6500
+Stønadsområde	Pensjoner		17505.21348		16564.917736		0.056764			57735		0.223347		303200			54900		0.212304		26600
+Stønadsområde	Øvrig		236.367636		228.85908		0.032809			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	17 304 mill kr				3 161 mill kr					1 105 mill kr				772 mill kr					33 mill kr
+I alt		0.057034				0.027837					0.063406				0.107074					-0.243545
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	7 273 mill kr				2 323 mill kr					1 290 mill kr				209 mill kr					83 mill kr
+I alt		0.052474				0.105742					0.108777				0.014471					-0.038113

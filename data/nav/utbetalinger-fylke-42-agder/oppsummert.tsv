@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Agder (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 42 Agder
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		41480.210649		38844.103224		0.067864			173766		0.53947		239000			147800		0.458857		*
+Stønadsområde	Arbeidsliv og sykdom		18693.988989		17514.733426		0.067329			82932		0.257469		225400			53200		0.165194		29300
+Stønadsområde	Barn og foreldre		3359.666941		3014.519506		0.114495			45950		0.142655		73100			40300		0.12508		6900
+Stønadsområde	Pensjoner		19128.948919		18042.719696		0.060203			64325		0.199702		297400			61000		0.18948		26100
+Stønadsområde	Øvrig		297.6058		272.130596		0.093614			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	18 867 mill kr				4 018 mill kr					1 595 mill kr				726 mill kr					50 mill kr
+I alt		0.059987				0.038652					0.125426				0.136794					-0.277619
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	10 209 mill kr				3 536 mill kr					1 715 mill kr				279 mill kr					110 mill kr
+I alt		0.068545				0.08426					0.122132				0.08495					-0.044362

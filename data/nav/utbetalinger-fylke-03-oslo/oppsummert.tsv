@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Oslo (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 03 Oslo
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		70266.745788		64638.583388		0.087071			320188		0.442692		219000			254400		0.351708		*
+Stønadsområde	Arbeidsliv og sykdom		30089.313614		27278.275239		0.10305			157011		0.217083		191600			84900		0.117351		29500
+Stønadsområde	Barn og foreldre		8844.717398		7943.219525		0.113493			101479		0.140305		87200			86700		0.119814		8500
+Stønadsområde	Pensjoner		30880.837135		29001.881207		0.064787			96648		0.133626		319500			91100		0.125965		28200
+Stønadsområde	Øvrig		451.877641		415.207417		0.088318			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	30 441 mill kr				8 482 mill kr					5 309 mill kr				2 988 mill kr					121 mill kr
+I alt		0.064945				0.05429					0.104295				0.207492					-0.170426
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	11 461 mill kr				6 769 mill kr					3 414 mill kr				402 mill kr					253 mill kr
+I alt		0.081953				0.171005					0.142187				0.082912					0.023591

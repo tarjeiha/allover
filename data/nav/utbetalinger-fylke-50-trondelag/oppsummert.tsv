@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Trøndelag (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 50 Trøndelag - Trööndelage
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		58199.208308		54521.097645		0.067462			252544		0.519024		230000			212000		0.4358		*
+Stønadsområde	Arbeidsliv og sykdom		23879.335616		22190.995674		0.076082			114395		0.235103		208700			67300		0.138368		29600
+Stønadsområde	Barn og foreldre		5018.086705		4588.070719		0.093725			67925		0.139598		73900			59600		0.122531		7000
+Stønadsområde	Pensjoner		28818.881821		27302.219178		0.055551			96716		0.198769		298000			91900		0.188802		26100
+Stønadsområde	Øvrig		482.904166		439.812074		0.097978			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	28 539 mill kr				6 271 mill kr					2 516 mill kr				1 094 mill kr					55 mill kr
+I alt		0.055503				0.056919					0.072357				0.257494					-0.155543
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	12 336 mill kr				3 974 mill kr					2 447 mill kr				423 mill kr					129 mill kr
+I alt		0.07156				0.082348					0.124207				0.057086					-0.063591

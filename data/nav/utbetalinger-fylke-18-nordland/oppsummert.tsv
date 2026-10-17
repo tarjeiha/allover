@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Utbetalinger Nordland (U500)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune
+# Lagt inn: 2026-10-17
+# Ark: Oppsummert
+# Utbetalinger fra NAV til innbyggere i 18 Nordland - Nordlánnda
+# 2025
+# Merknad: Utbetalinger til personer bosatt i Norge og endring fra året før
+gruppe	rad		Utbetalt							Personer i løpet av året							Personer per måned
+gruppe	rad		Utbetalt mill kr 2025		Utbetalt mill kr 2024		Utbetalt. Endring fra året før. Prosent			Antall mottakere i løpet av året 2025		Andel av befolkning		Årlig per mottaker. Kr			Gj snitt antall mottakere per måned		Andel av befolkning		Månedlig per mottaker. Kr
+Stønadsområde	Stønader i alt		32803.752664		31033.049441		0.057059			135998		0.559437		241000			115100		0.473389		*
+Stønadsområde	Arbeidsliv og sykdom		13310.669954		12576.110969		0.058409			60512		0.24892		220000			36500		0.150138		30400
+Stønadsområde	Barn og foreldre		2350.076906		2176.301107		0.079849			33011		0.135793		71200			28800		0.118354		6800
+Stønadsområde	Pensjoner		16897.340586		16052.111077		0.052655			56548		0.232614		298800			53800		0.221152		26200
+Stønadsområde	Øvrig		245.665218		228.526288		0.074998			*		*		*			*		*		*
+gruppe	rad	Alderspensjon				Sykepenger					Foreldrepenger				Dagpenger					Kontantstøtte
+gruppe	rad	16 751 mill kr				3 392 mill kr					1 149 mill kr				412 mill kr					23 mill kr
+I alt		0.052694				0.051447					0.047342				0.135807					-0.165727
+gruppe	rad	Uføretrygd				Arbeidsavklaringspenger					Barnetrygd				Grunn- og hjelpestønad					Stønad til enslig mor eller far
+gruppe	rad	7 132 mill kr				2 270 mill kr					1 178 mill kr				214 mill kr					57 mill kr
+I alt		0.052306				0.074116					0.120274				0.063625					-0.087596

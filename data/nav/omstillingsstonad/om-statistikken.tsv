@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Omstillingsstønad, antall etter alder, kjønn og fylke (PST354)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
+# Lagt inn: 2026-10-17
+# Ark: Om statistikken
+# PST354 Omstillingsstønad. Antall. Alder, kjønn og fylke. Tidsserie
+# Merknad: Omstillingsstønad er ny ytelse fra 2024. Omstillingsstønad sikrer inntekt for de som har mistet ektefelle, partner eller samboer med felles barn. Etter en overgangsperiode på seks måneder etter dødsfallet er det et vilkår for rett til omstillingsstønad at den gjenlevende er i aktivitet med sikte på å komme i arbeid. Tabellen viser antall som er i overgangsperioden på under 6 måneder, antall som har aktivitetsplikt og antall som har unntak. For mer informasjon, se https://lovdata.no/lov/1997-02-28-19/§17-7, https://www.nav.no/omstillingsstonad og "Om statistikken" på nav.no. I henhold til Statistikklovens § 7-1 har NAV valgt å erstatte verdier i celler hvor tallene er mindre enn 4 med spesialtegn «*». Dette for å sikre at verdiene ikke kan føres tilbake til identifiserbare enkeltpersoner.
+# Merknad: Innhold i rapporten
+# Merknad: Tellebegreper
+# Merknad: Antall med ytelse omstillingsstønad.
+# Merknad: Fordelingsvariabler
+# Merknad: Kjønn Alder Fylke Aktivitetsplikt og type aktivitet
+# Merknad: Oppdatering/statistikkperiode
+# Merknad: Måned
+# Merknad: https://lovdata.no/lov/1997-02-28-19/§17-7 https://www.nav.no/omstillingsstonad "Om statistikken" på nav.no.
+# Merknad: Lenker
+# Merknad: For 2025 mangler kjønn, alder og bosted for enkelte mottakere. Sum av undergruppenene i denne rapporten vil derfor ikke summere seg til totaltallet for 2025.
+# Merknad: Merknader
+# Merknad: Det er i 2026 avdekket en feil i datagrunnlaget som gjorde at for mange personer kom med som mottakere av omstillingsstønad. Alle tall i tabellen er oppdatert i forbindelse med publisering av tall for mars 2026. Tallene er nedjustert om lag 20 % til 25 % for hver enkelt måned. Se Om statistikken for mer informasjon.
+# Merknad: Endringer
+rad	Om statistikken	Rapport oppdatert: 20.08.2026
