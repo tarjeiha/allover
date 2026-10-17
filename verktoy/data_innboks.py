@@ -12,8 +12,10 @@ For hver .xlsx-fil i innboks-data/:
      (eller omvendt), legges ingenting inn.
   3. Originalen flyttes til data/nav/<mappe>/original/, og data/nav/indeks.tsv bygges på nytt.
 Tabeller med "kvartalsfiler": true i kilder.json (Navs sykefraværstabeller) leveres som egne filer
-per kvartal. Kvartalet leses fra overskriftsraden i filen («2. kvartal»), og tabellen legges i
-data/nav/<mappe>/k<kvartal>/. En ny fil for samme tabell og kvartal erstatter den gamle.
+per kvartal. Kvartalet leses fra overskriftsraden i filen («2. kvartal»). Originalene ligger i
+data/nav/<mappe>/original/, og TSV-filene bygges om fra alle originalene hver gang, slik at hver
+tabell blir én fil med kolonnen «kvartal» (K1–K4). En ny fil for samme tabell og kvartal erstatter
+den gamle. Eldre mapper k1–k4 flyttes til denne strukturen første gang skriptet kjører.
 En ny fil med samme tabell erstatter den gamle. Feiler en fil, blir den liggende, og
 <filnavn>.FEIL.txt forklarer hvorfor.
 
@@ -26,6 +28,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+import nav_kvartal  # noqa: E402
 import nav_xlsx  # noqa: E402
 
 ROT = Path(__file__).resolve().parent.parent
@@ -68,6 +71,76 @@ def finn_kvartal(fil):
     return funnet.pop()
 
 
+def bygg_kvartalstabell(t, ekstra=None):
+    """Bygger data/nav/<mappe>/ på nytt fra alle originaler. ekstra: ny fil som ikke er flyttet dit ennå.
+
+    Returnerer feilmelding eller None. Mappen endres ikke hvis noe feiler.
+    """
+    mappe = NAV / t["mappe"]
+    originaler = {}
+    for f in sorted((mappe / "original").glob("*.xlsx")) if (mappe / "original").exists() else []:
+        originaler[finn_kvartal(f)] = f
+    if ekstra is not None:
+        originaler[finn_kvartal(ekstra)] = ekstra  # ny fil for samme kvartal erstatter den gamle
+    if not originaler:
+        return None
+    tmp = Path(str(mappe) + ".ny")
+    shutil.rmtree(tmp, ignore_errors=True)
+    kmapper = {}
+    try:
+        for k, f in sorted(originaler.items(), key=lambda kv: int(kv[0])):
+            kmapper[int(k)] = tmp / f"k{k}"
+            _, avvik = nav_xlsx.main(f, kmapper[int(k)], f"{t['tittel']}, {k}. kvartal", t["kildeside"])
+            if avvik:
+                raise ValueError(f"{f.name}: {avvik} tall i xlsx-filen ble ikke likt i TSV-en etter konvertering.")
+        ut = tmp / "ut"
+        nav_kvartal.slaa_sammen(kmapper, ut, t["tittel"])
+        avvik = nav_kvartal.kontroller(kmapper, ut)
+        if avvik:
+            raise ValueError(f"{avvik} tall ble borte eller lagt til da kvartalene ble slått sammen.")
+        if not list(ut.glob("*.tsv")):
+            raise ValueError("Fant ingen ark med tabeller (overskriftsrad med årstall, måneder eller kvartaler).")
+    except Exception as e:  # noqa: BLE001
+        shutil.rmtree(tmp, ignore_errors=True)
+        return str(e)
+    orig = tmp / "original"
+    orig.mkdir()
+    for f in originaler.values():
+        shutil.copy2(f, orig / f.name)
+    for k in range(1, 5):
+        shutil.rmtree(tmp / f"k{k}", ignore_errors=True)
+    for f in list((tmp / "ut").iterdir()):
+        shutil.move(str(f), tmp / f.name)
+    (tmp / "ut").rmdir()
+    if mappe.exists():
+        shutil.rmtree(mappe)
+    tmp.rename(mappe)
+    if ekstra is not None:
+        ekstra.unlink()
+    return None
+
+
+def flytt_gamle_kvartalsmapper(tabeller):
+    """Flytter originaler fra data/nav/<mappe>/k1–k4/original/ til <mappe>/original/ og bygger tabellen på nytt."""
+    flyttet = []
+    for t in tabeller:
+        if not t.get("kvartalsfiler"):
+            continue
+        mappe = NAV / t["mappe"]
+        gamle = [m for m in (mappe / f"k{k}" for k in range(1, 5)) if m.exists()]
+        if not gamle:
+            continue
+        (mappe / "original").mkdir(exist_ok=True)
+        for m in gamle:
+            for f in (m / "original").glob("*.xlsx"):
+                shutil.move(str(f), mappe / "original" / f.name)
+        feil = bygg_kvartalstabell(t)
+        if feil:
+            raise RuntimeError(f"{t['mappe']}: {feil}")
+        flyttet.append(t["mappe"])
+    return flyttet
+
+
 def bygg_indeks():
     rader = ["mappe\ttabell\tfiler\tkildeside\tlagt_inn_eller_oppdatert"]
     tsvmapper = sorted({p.parent for p in NAV.rglob("*.tsv") if p.name != "indeks.tsv"})
@@ -91,19 +164,28 @@ def main():
     tabeller = json.loads((NAV / "kilder.json").read_text(encoding="utf-8"))["tabeller"]
     filer = sorted(p for p in INNBOKS.iterdir() if p.suffix.lower() == ".xlsx") if INNBOKS.exists() else []
     lagt, feil = [], []
+    for m in flytt_gamle_kvartalsmapper(tabeller):
+        lagt.append(f"data/nav/{m}: kvartalsmappene k1–k4 er slått sammen til én fil per tabell")
     for fil in filer:
         feilfil = fil.with_name(fil.name + ".FEIL.txt")
         t = finn_tabell(fil, tabeller)
+        if t.get("kvartalsfiler"):
+            try:
+                melding = bygg_kvartalstabell(t, fil)
+            except Exception as e:  # noqa: BLE001
+                melding = str(e)
+            if melding:
+                feilfil.write_text(f"{fil.name} ble ikke lagt inn.\n{melding}\n", encoding="utf-8")
+                feil.append(f"{fil.name}: {melding}")
+                continue
+            feilfil.unlink(missing_ok=True)
+            lagt.append(f"{fil.name} -> data/nav/{t['mappe']}")
+            continue
         ny = None
         mappe = NAV / t["mappe"]
         tittel = t["tittel"]
         sti = t["mappe"]
         try:
-            if t.get("kvartalsfiler"):
-                k = finn_kvartal(fil)
-                mappe = mappe / f"k{k}"
-                sti = f"{t['mappe']}/k{k}"
-                tittel = f"{tittel}, {k}. kvartal"
             ny = Path(str(mappe) + ".ny")
             ny.parent.mkdir(parents=True, exist_ok=True)
             if ny.exists():
