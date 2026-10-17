@@ -17,7 +17,7 @@ kan leses direkte. Vi leser id, men verifiserer også mot rekkefølge.
 import re
 import sys
 from pathlib import Path
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment, NavigableString
 
 
 def clean(text):
@@ -69,6 +69,42 @@ def ledd_nummer(article):
     return int(m.group(1)) if m else None
 
 
+def render_blandet(node, indent=0):
+    """
+    Tekst, lister og tabeller i dokumentrekkefølge, som avsnitt.
+
+    Tekst som står ETTER en liste i samme ledd (f.eks. et siste punktum etter
+    bokstavlisten) må komme etter listen. Å trekke ut listene først og lese
+    resten som én tekst flyttet slik tekst foran listen.
+    """
+    avsnitt = []
+    buffer = []
+
+    def tøm():
+        s = clean(" ".join(buffer))
+        if s:
+            avsnitt.append([s])
+        buffer.clear()
+
+    for c in node.children:
+        if isinstance(c, NavigableString):
+            if not isinstance(c, Comment):
+                buffer.append(str(c))
+        elif c.name in ("ol", "ul"):
+            tøm()
+            avsnitt.append(render_list(c, indent))
+        elif c.name == "table":
+            tøm()
+            avsnitt.append(render_tabell(c))
+        elif c.find(["ol", "ul", "table"]):
+            tøm()
+            avsnitt.extend(render_blandet(c, indent))
+        else:
+            buffer.append(c.get_text(" "))
+    tøm()
+    return avsnitt
+
+
 def render_list(ol, indent=0):
     """Render ol/ul med bokstav- eller tallmarkører."""
     lines = []
@@ -77,18 +113,19 @@ def render_list(ol, indent=0):
         marker = (li.get("data-name") or "").strip()
         if not marker:
             marker = "-"
-        # Innholdet i li ligger typisk i article.listArticle > article.legalP
-        parts = []
-        for sub in li.find_all(["article", "ol", "ul"], recursive=True):
-            pass
-        # Hent tekst fra direkte legalP-etterkommere, men ikke fra nestede lister
-        inner_lists = li.find_all(["ol", "ul"], recursive=True)
-        for lst in inner_lists:
-            lst.extract()
-        text = render_inline(li)
-        lines.append(f"{pad}{marker} {text}".rstrip())
-        for lst in inner_lists:
-            lines.extend(render_list(lst, indent + 1))
+        # Innholdet i li ligger typisk i article.listArticle > article.legalP.
+        # Nestede lister og tekst etter dem beholdes i rekkefølge.
+        deler = render_blandet(li, indent + 1)
+        if deler and len(deler[0]) == 1 and not deler[0][0].startswith(("|", "  ")):
+            lines.append(f"{pad}{marker} {deler[0][0]}".rstrip())
+            deler = deler[1:]
+        else:
+            lines.append(f"{pad}{marker}")
+        for d in deler:
+            if len(d) == 1 and not d[0].startswith(("|", " ")):
+                lines.append(f"{pad}  {d[0]}")
+            else:
+                lines.extend(d)
     return lines
 
 
@@ -142,23 +179,11 @@ def render_paragraf(art, lovref):
         if "legalP" in cls:
             seq += 1
             n = ledd_nummer(child) or seq
-            # Lister og tabeller trekkes ut FØR teksten leses. Tabeller kan ligge
-            # vilkårlig dypt inne i leddet, ikke bare som direkte barn.
-            lists = child.find_all(["ol", "ul"], recursive=False)
-            tables = child.find_all("table")
-            for e in lists + tables:
-                e.extract()
-            body = render_inline(child)
             out.append(f"**{n}. ledd**")
             out.append("")
-            if body:
-                out.append(body)
+            for avsnitt in render_blandet(child):
+                out.extend(avsnitt)
                 out.append("")
-            for lst in lists:
-                out.extend(render_list(lst))
-                out.append("")
-            for tab in tables:
-                out.extend(render_tabell(tab))
         elif child.name in ("ol", "ul"):
             # Liste direkte under paragrafen, uten legalP-wrapper
             out.extend(render_list(child))
@@ -168,20 +193,10 @@ def render_paragraf(art, lovref):
             out.extend(render_tabell(child))
         else:
             # Generisk blokk (bl.a. article.defaultP). Kan inneholde både
-            # lister og tabeller som må ut av løpende tekst.
-            lists = child.find_all(["ol", "ul"], recursive=False)
-            tables = child.find_all("table")
-            for e in lists + tables:
-                e.extract()
-            txt = render_inline(child)
-            if txt:
-                out.append(txt)
+            # lister og tabeller, i den rekkefølgen de står.
+            for avsnitt in render_blandet(child):
+                out.extend(avsnitt)
                 out.append("")
-            for lst in lists:
-                out.extend(render_list(lst))
-                out.append("")
-            for tab in tables:
-                out.extend(render_tabell(tab))
 
     if noter:
         out.append("**Noter:**")
@@ -353,19 +368,9 @@ def render_blokk(node, nivaa=2):
             out.extend(render_list(child))
             out.append("")
         else:
-            lister = child.find_all(["ol", "ul"], recursive=False)
-            tabeller = child.find_all("table", recursive=False)
-            for e in lister + tabeller:
-                e.extract()
-            txt = render_inline(child)
-            if txt:
-                out.append(txt)
+            for avsnitt in render_blandet(child):
+                out.extend(avsnitt)
                 out.append("")
-            for lst in lister:
-                out.extend(render_list(lst))
-                out.append("")
-            for tab in tabeller:
-                out.extend(render_tabell(tab))
     return out
 
 
