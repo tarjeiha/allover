@@ -13,7 +13,7 @@ Denne mappen er en katalog over hvor tall og statistikk finnes og hvilken tabell
 
 Brukere av basen er også ledere og kommunikasjonsmedarbeidere som ikke selv kan kvalitetssikre tallene. Svar derfor i to lag.
 
-**Standardsvar (kort).** Konklusjonen i 2–4 setninger med tallet, perioden og hva det måler. Kilde, eier og periode står i selve setningen («Nav, sykefraværsstatistikken, 2. kvartal 2026»), slik at svaret kan videresendes uten vedlegg. Tall du har regnet ut selv, og forbehold som kan gi et feil bilde (brudd i serien, ulik definisjon, ikke sesongjustert), står også her. Avslutt med én linje om at en kvalitetssikringsversjon finnes.
+**Standardsvar (kort).** Konklusjonen i 2–4 setninger med tallet, perioden og hva det måler. Kilde, eier og periode står i selve setningen («Nav, sykefraværsstatistikken, 2. kvartal 2026»), slik at svaret kan videresendes uten vedlegg. Tall du har regnet ut selv, og forbehold som kan gi et feil bilde, står også her. Nevn brudd i serien og andre avgrensninger bare når de berører perioden eller tallene i svaret. Brudd som ligger utenfor perioden det spørres om, hører hjemme i kvalitetssikringsversjonen om de skal med. Avslutt med én linje om at en kvalitetssikringsversjon finnes.
 
 **Kvalitetssikringsversjon (på forespørsel).** Samme tall som standardsvaret, i denne rekkefølgen:
 1. Svaret med nummererte kildehenvisninger [1], [2].
@@ -22,7 +22,7 @@ Brukere av basen er også ledere og kommunikasjonsmedarbeidere som ikke selv kan
 4. Forbehold: brudd, avgrensninger og begreper som lett forveksles.
 5. Til kvalitetssikrer: hva som er kontrollert maskinelt (konvertering tall for tall) og hva et menneske må vurdere (om tallet svarer på det som ble spurt om).
 
-**Regler for begge.** Ikke slå sammen eller sammenlign tall fra ulike kilder uten å si at definisjonene kan avvike. Si «ikke dekket» når tallet ikke finnes i katalogen eller hos kilden. Tall hentes fra kilden hos eieren, som eier kvaliteten, og svaret viser alltid til eieren.
+**Regler for begge.** Ikke slå sammen eller sammenlign tall fra ulike kilder uten å si at definisjonene kan avvike. Si «ikke dekket» når tallet ikke finnes i katalogen eller hos kilden. Tall hentes fra kilden hos eieren, som eier kvaliteten, og svaret viser alltid til eieren. Nevner du at en annen kilde har et annet tall for samme begrep (for eksempel AKU hos SSB og registrerte helt ledige hos Nav), vis tallet eller tilby det i samme setning.
 
 ## Kilder
 
