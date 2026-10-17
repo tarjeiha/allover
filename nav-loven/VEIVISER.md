@@ -4,7 +4,7 @@ Arbeids- og velferdsforvaltningsloven regulerer organiseringen av Arbeids- og ve
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 NAVs rundskriv til loven er ikke i basen. Spørsmål om hvordan skjønnet praktiseres, kan bare besvares på ordlydsnivå.
 
 ## Kjente feller

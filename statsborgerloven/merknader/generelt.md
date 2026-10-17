@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-statsborgerloven`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Statsborgerloven
 
@@ -51,6 +52,8 @@ Konkret fremgangsmåte:
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
+
+**[Merknad 17.10.2026: Utlendingsloven og utlendingsforskriften ligger nå i basen, se `utlendingsloven/VEIVISER.md`. Les § 62 og forskriften kapittel 11 der i stedet for å si at de ikke er dekket. Avsnittet under er fra den gamle skillen.]**
 
 **Ikke dekket: utlendingsloven.** Dette er det viktigste hullet. Statsborgerloven § 7 første ledd bokstav d gjør vilkårene for permanent oppholdstillatelse i utlendingsloven § 62 til et vilkår for statsborgerskap, og beregning av oppholdstid bygger gjennomgående på oppholdstillatelser etter utlendingsloven. Utlendingsloven hører under Justis- og beredskapsdepartementet og er ikke med her. Når et spørsmål forutsetter en vurdering etter utlendingsloven – typisk om søkeren i det hele tatt fyller vilkårene for permanent opphold – **si eksplisitt fra at den delen ikke kan besvares fra denne skillen.**
 

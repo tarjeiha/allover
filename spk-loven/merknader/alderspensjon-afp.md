@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-spk-alderspensjon-afp`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Statens pensjonskasse – alderspensjon, AFP og aldersgrenser
 
@@ -61,7 +62,7 @@ Spørsmål som «hva får jeg i pensjon som statsansatt» eller «hva skjer med 
 
 ## Andre kryssreferanser
 
-- **Ikke dekket i noen AID-skill:** privat AFP og AFP-tilskottsloven, pensjonsordningen for sykepleiere, pensjonsordningen for apotekvirksomhet, kommunale og fylkeskommunale tjenestepensjonsordninger (KLP m.fl.), pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer, høyesterettspensjonsloven, yrkesskadeforsikringsloven, obligatorisk tjenestepensjon, foretaks- og innskuddspensjon. Flere av disse nevnes i paragrafene her. **Si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Ikke dekket i noen skill:** privat AFP og AFP-tilskottsloven, pensjonsordningen for sykepleiere, pensjonsordningen for apotekvirksomhet, kommunale og fylkeskommunale tjenestepensjonsordninger (KLP m.fl.), pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer, høyesterettspensjonsloven, yrkesskadeforsikringsloven, obligatorisk tjenestepensjon, foretaks- og innskuddspensjon. Flere av disse nevnes i paragrafene her. **Si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
 - **Tariffavtaler:** AFP og flere pensjonsvilkår forutsetter tariffavtale (hovedtariffavtalen i staten). Avtaleteksten er ikke dekket.
 - **Arbeidsrett** (stillingsvern, fratreden): `aid-aml`-familien. Statsansattes stillingsvern følger statsansatteloven, som ikke er dekket.
 

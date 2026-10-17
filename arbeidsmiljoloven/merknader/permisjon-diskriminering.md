@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-aml-permisjon-diskriminering`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Arbeidsmiljøloven – permisjon og diskrimineringsvern
 
@@ -20,7 +21,7 @@ Konkret fremgangsmåte:
 
 **Denne skillen dekker retten til fri, ikke retten til penger.** Arbeidsmiljøloven kapittel 12 gir rett til permisjon; ytelsene under permisjonen (foreldrepenger, omsorgspenger, pleiepenger) følger av folketrygdloven og ligger i `folketrygdloven/merknader/sykepenger.md` og andre ftrl-skills. Et spørsmål om «permisjon med lønn» krever nesten alltid begge kilder – si fra om det.
 
-**Kapittel 13 er ikke det generelle diskrimineringsvernet.** Likestillings- og diskrimineringsloven dekker kjønn, etnisitet, religion, funksjonsnedsettelse og seksuell orientering, og er **ikke** dekket i noen AID-skill. Arbeidsmiljøloven kapittel 13 dekker bare de grunnlagene som står der. Ved spørsmål om diskriminering på andre grunnlag: si eksplisitt at regelverket ikke er dekket.
+**Kapittel 13 er ikke det generelle diskrimineringsvernet.** Likestillings- og diskrimineringsloven dekker kjønn, etnisitet, religion, funksjonsnedsettelse og seksuell orientering, og er **ikke** dekket i noen skill. Arbeidsmiljøloven kapittel 13 dekker bare de grunnlagene som står der. Ved spørsmål om diskriminering på andre grunnlag: si eksplisitt at regelverket ikke er dekket.
 
 **Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
@@ -53,7 +54,7 @@ Disse er hjemlet i arbeidsmiljøloven, men er egne fagfelt med egne brukere. Ved
 
 - **Folketrygdloven** – ytelser ved sykdom, permisjon og uførhet: `aid-ftrl`-familien
 - **NAV-loven og sosialtjenesteloven** – `nav-loven/merknader/generelt.md`, `sosialtjenesteloven/merknader/generelt.md`
-- **Utenfor dekket regelverk:** ferieloven, likestillings- og diskrimineringsloven, statsansatteloven, permitteringslønnsloven, personopplysningsloven og tariffavtaleverket er **ikke** dekket i noen AID-skill. Arbeidsmiljøloven regulerer ikke ferie, og statsansatte har egne regler som går foran på flere punkter. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Utenfor dekket regelverk:** ferieloven, likestillings- og diskrimineringsloven, statsansatteloven, permitteringslønnsloven, personopplysningsloven og tariffavtaleverket er **ikke** dekket i noen skill. Arbeidsmiljøloven regulerer ikke ferie, og statsansatte har egne regler som går foran på flere punkter. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
 
 Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
 

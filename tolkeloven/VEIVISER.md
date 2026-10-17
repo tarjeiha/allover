@@ -6,7 +6,7 @@ Loven trådte i kraft i 2022. IMDis veiledning om tolkeloven ligger ikke i basen
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 Merknadsfilen er flyttet fra en tidligere skill. Der den viser til «denne skillen» eller til andre skills, gjelder denne veiviseren.
 
 ## Kjente feller

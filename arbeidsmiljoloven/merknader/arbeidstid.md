@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-aml-arbeidstid`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Arbeidsmiljøloven – arbeidstid
 
@@ -53,7 +54,7 @@ Disse er hjemlet i arbeidsmiljøloven, men er egne fagfelt med egne brukere. Ved
 
 - **Folketrygdloven** – ytelser ved sykdom, permisjon og uførhet: `aid-ftrl`-familien
 - **NAV-loven og sosialtjenesteloven** – `nav-loven/merknader/generelt.md`, `sosialtjenesteloven/merknader/generelt.md`
-- **Utenfor dekket regelverk:** ferieloven, likestillings- og diskrimineringsloven, statsansatteloven, permitteringslønnsloven, personopplysningsloven og tariffavtaleverket er **ikke** dekket i noen AID-skill. Arbeidsmiljøloven regulerer ikke ferie, og statsansatte har egne regler som går foran på flere punkter. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Utenfor dekket regelverk:** ferieloven, likestillings- og diskrimineringsloven, statsansatteloven, permitteringslønnsloven, personopplysningsloven og tariffavtaleverket er **ikke** dekket i noen skill. Arbeidsmiljøloven regulerer ikke ferie, og statsansatte har egne regler som går foran på flere punkter. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
 
 Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
 

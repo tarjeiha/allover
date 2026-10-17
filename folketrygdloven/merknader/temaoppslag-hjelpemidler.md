@@ -1,7 +1,8 @@
 > **Flyttet fra skillen `aid-ftrl-hjelpemidler`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele loven ligger nå i basen, så der teksten sier at
-> «denne skillen» bare dekker enkelte kapitler eller viser til andre skills, gjelder det ikke lenger:
-> se veiviseren til loven. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
+> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
+> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
+> Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Temaoppslag kapittel 10 (stønad til bedring av arbeidsevne og funksjonsevne i dagliglivet)
 

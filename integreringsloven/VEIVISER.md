@@ -6,7 +6,7 @@ Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Rund
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke departementets tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 Merknadsfilene er flyttet fra to tidligere skills. Der de viser til «denne skillen» eller til andre skills, gjelder denne veiviseren.
 
 ## Kjente feller
