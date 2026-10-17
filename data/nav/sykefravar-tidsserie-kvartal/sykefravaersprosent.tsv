@@ -1,0 +1,86 @@
+# Kilde: Nav
+# Tabell: Legemeldt sykefravær per kvartal, tidsserie 2002–2026
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar
+# Oppdatert: 04.09.2026
+# Neste publisering: 26.11.2026
+# Ark: Sykefraværsprosent
+# Legemeldt sykefravær per kvartal
+# Sykefraværsprosent
+# Merknad: *Sesongvariasjon: Det er tydelig innslag av sesongvariasjon i sykefraværet. Derfor sammenliknes sykefraværet i et kvartal best med samme kvartal i tidligere år. *Brudd i statistikken: Det er viktig å ta hensynt til følgende brudd i statistikken når man kommenterer utviklingen: - 2009: Ny næringsgruppering (SN2007) - 2015: Innføring av A - ordningen Les mer her:
+# Merknad: https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar/om-statistikken-sykefravaer
+gruppe	år	1. kvartal	2. kvartal	3. kvartal	4. kvartal
+I alt	2026	6.1	5.7	****	****
+I alt	2025	6.1	5.6	4.8	5.8
+I alt	2024	6.2	5.9	5.1	5.8
+I alt	2023	6.1	5.5	4.8	6
+I alt	2022	6.2	5.2	4.6	5.7
+I alt	2021	5.5	5.1	4.5	5.7
+I alt	2020	6	5	4.4	5.4
+I alt	2019	5.3	4.7	4.2	5.1
+I alt	2018	5.4	4.7	4.1	5
+I alt	2017	5.4	4.8	4.2	5.1
+I alt	2016	5.1	4.7	4.1	5
+I alt	2015	5.3	4.8	4.2	4.9
+I alt	2014	5.4	5	4.4	5.2
+I alt	2013	5.6	5	4.3	5.1
+I alt	2012	5.5	5	4.4	5.3
+I alt	2011	6	5.4	4.5	5.2
+I alt	2010	5.6	5.3	4.8	5.7
+I alt	2009	6.2	6	5.5	6
+I alt	2008	5.9	5.8	5	5.8
+I alt	2007	5.9	5.4	4.9	5.6
+I alt	2006	6.1	5.6	4.9	5.6
+I alt	2005	5.6	5.3	4.7	5.6
+I alt	2004	7	6.2	4.7	5.3
+I alt	2003	7.1	6.8	6.1	7.2
+I alt	2002	6.8	6.4	5.8	6.8
+Kvinner	2026	8	7.5	****	****
+Kvinner	2025	7.9	7.3	6.1	7.5
+Kvinner	2024	8.1	7.7	6.5	7.6
+Kvinner	2023	7.9	7.1	6.1	7.8
+Kvinner	2022	8.1	6.8	5.8	7.4
+Kvinner	2021	7.3	6.8	5.8	7.5
+Kvinner	2020	7.7	6.4	5.5	7
+Kvinner	2019	7	6.3	5.3	6.8
+Kvinner	2018	7.1	6.1	5.2	6.6
+Kvinner	2017	7	6.3	5.4	6.8
+Kvinner	2016	6.7	6.2	5.2	6.5
+Kvinner	2015	7	6.3	5.3	6.4
+Kvinner	2014	7	6.6	5.5	6.8
+Kvinner	2013	7.4	6.5	5.4	6.7
+Kvinner	2012	7.2	6.6	5.6	6.9
+Kvinner	2011	7.7	7	5.6	6.8
+Kvinner	2010	7.1	6.8	5.9	7.3
+Kvinner	2009	7.8	7.6	6.7	7.6
+Kvinner	2008	7.6	7.5	6.2	7.3
+Kvinner	2007	7.6	7	6	7.2
+Kvinner	2006	7.8	7.1	6.1	7.1
+Kvinner	2005	7.1	6.7	5.7	7.1
+Kvinner	2004	8.7	7.8	5.7	6.6
+Kvinner	2003	8.8	8.5	7.4	8.9
+Kvinner	2002	8.5	7.9	7	8.4
+Menn	2026	4.5	4.1	****	****
+Menn	2025	4.5	4	3.7	4.3
+Menn	2024	4.6	4.2	3.9	4.4
+Menn	2023	4.5	4	3.7	4.5
+Menn	2022	4.7	3.9	3.6	4.3
+Menn	2021	4	3.7	3.4	4.2
+Menn	2020	4.5	3.8	3.4	3.9
+Menn	2019	3.9	3.4	3.2	3.8
+Menn	2018	4	3.4	3.1	3.7
+Menn	2017	4	3.5	3.2	3.7
+Menn	2016	3.8	3.5	3.2	3.7
+Menn	2015	3.9	3.5	3.2	3.7
+Menn	2014	4	3.7	3.4	3.8
+Menn	2013	4.3	3.7	3.4	3.8
+Menn	2012	4.1	3.7	3.5	4
+Menn	2011	4.6	4.1	3.5	4
+Menn	2010	4.4	4.1	3.9	4.4
+Menn	2009	4.9	4.7	4.5	4.8
+Menn	2008	4.5	4.4	4	4.5
+Menn	2007	4.6	4.2	3.9	4.3
+Menn	2006	4.7	4.3	4	4.4
+Menn	2005	4.5	4.2	3.8	4.4
+Menn	2004	5.7	4.9	3.9	4.2
+Menn	2003	5.8	5.5	5.2	5.9
+Menn	2002	5.4	5.1	4.9	5.5

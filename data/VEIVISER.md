@@ -14,9 +14,9 @@ Denne mappen er en katalog over hvor tall og statistikk finnes og hvilken tabell
 | Kilde | Fil | Status |
 |---|---|---|
 | Statistisk sentralbyrå (SSB) | `data/ssb.md` | Dekket for hovedtemaene. Hentes med SSB-tilkoblingen (skillen ssb-api). |
-| Nav | Ikke dekket ennå | Se «Åpent» under. |
+| Nav | `data/nav.md` | Seks utvalgte tabeller lagt inn som TSV (sykefravær, dagpenger, AAP). Resten av Navs statistikk er ikke lagt inn. |
 
 ## Åpent
 
-- **Nav:** Tall om ledighet, ytelser og tiltak fra Nav er ikke lagt inn. Claude når ikke nav.no fra skymiljøet, så katalogen må skrives med hjelp av saksbehandlere som kjenner tabellene. Det som mangler: hvilke tabeller og filer folk bruker, hvordan de hentes, og forskjellen mellom Navs tall og SSBs tall.
+- **Nav:** Bare utvalgte tabeller er lagt inn (se `data/nav.md`). Nav gir tall som xlsx-filer som Claude ikke kan laste ned, så flere tabeller må legges inn av saksbehandlerne. Det mangler en fast rutine (innboks med automatisk konvertering) og en vurdering av hvilke Nav-tabeller som brukes mest.
 - **Andre kilder** (IMDi, Arbeidstilsynet, Fafo, Eurostat m.fl.) er ikke vurdert.
