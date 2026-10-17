@@ -1,0 +1,76 @@
+# Spørsmålskatalog: fra hverdagsspørsmål til tabell
+
+Brukere stiller spørsmål uten fagord. Tabellen under kobler vanlige spørsmål til kilden som svarer på dem. Bruk den til å velge tabell, og følg svarreglene i `data/VEIVISER.md` («Slik svarer du»). Stier til Nav-tabeller er relative til `data/nav/`, og til Eurostat-tabeller til `data/eurostat/`. Profiler med forbehold per område står i `data/nav-profiler.md`.
+
+Katalogen er et førsteutkast bygget ut fra tabellene som finnes i basen, ikke ut fra hvilke spørsmål brukerne faktisk stiller. Legg til spørsmål som dukker opp, og stryk de som ikke brukes.
+
+Hvem som eier kvaliteten: Nav, SSB og Eurostat eier tallene. Svaret skal alltid si hvem tallet kommer fra.
+
+## Arbeidsmarked og ledighet
+
+| Spørsmål | Kilde og tabell | Merknad |
+|---|---|---|
+| Hvor mange er arbeidsledige nå? | Nav `hovedtall-arbeidsmarkedet/1-hovedgrupper-kjonn.tsv` (registrerte helt ledige) og SSB 13760 (AKU) | To ulike tall. Si hvilket du bruker, og vis eller tilby det andre. |
+| Hva er ledigheten blant kvinner/menn/unge/innvandrere? | Nav `helt-ledige-kjonn-alder-maaned/`, `helt-ledige-innvandrerbakgrunn-maaned/`. SSB 13760 og 14714 | |
+| Hvor mange er ledige i min kommune/mitt fylke? | Nav `helt-ledige-fylke-kommune-maaned/` | Nav-tall. |
+| Hvor mange får dagpenger? | Nav `dagpenger-kjonn-alder-maaned/alder.tsv` (rad `I alt`) | Dagpengemottakere er en del av helt ledige. |
+| Hvor mange er permittert? | Nav `hovedtall-arbeidsmarkedet-permitterte/` | |
+| Hvor mange ledige stillinger finnes? | Nav `ledige-stillinger-tilgang-*` | Tilgang av stillinger Nav kjenner til, ikke alle ledige stillinger i økonomien. |
+| Hvor mange er på tiltak fra Nav? | Nav `tiltaksdeltakere-hovedgruppe-maaned/` | |
+| Hvor mange går mellom jobb og ledighet? | SSB 11433 | |
+
+## Helse og trygd
+
+| Spørsmål | Kilde og tabell | Merknad |
+|---|---|---|
+| Hva er sykefraværet? | Nav `sykefravar-tidsserie-kvartal/sykefravaersprosent.tsv` (legemeldt). SSB 12439 inkluderer egenmeldt | Sammenlign samme kvartal på tvers av år. |
+| Sykefravær i en næring/sektor/yrke/aldersgruppe/diagnose? | Nav `sykefravar-naering/`, `-sektor/`, `-yrke/`, `-alder/`, `-diagnose-hovedgrupper/` | Alle kvartaler i samme fil, kolonnen `kvartal`. |
+| Hvor mange er sykmeldte? | Nav `sykefravar-tidsserie-kvartal/antall-sykmeldte.tsv` | Unike personer i kvartalet. |
+| Hvor mange er på AAP? | Nav `aap-alder-kjonn-kvartal/1a-alder-i-alt-antall.tsv` (juni, 2010–), `aap-alder-kjonn-maaned/` (siste måneder) | |
+| Hvor mange er uføre? | Nav `uforetrygd-uforegrad-kjonn-maaned/antall.tsv` | |
+| Hvor stor andel er uføre i mitt fylke? | Nav `uforetrygd-andel-fylke-alder-kvartal/fylke-og-alder.tsv` | Andel av befolkningen 18–67 år. |
+| Hvor mange blir nye uføretrygdede? | Nav `uforetrygd-nye-*-maaned/` | |
+| Hvor mange får alderspensjon? | Nav `alderspensjon-*` | |
+| Hvor mange er på AFP i privat sektor? | Nav `afp-privat-mottakere/` | Gjelder ikke AFP i offentlig sektor. |
+| Hvor mange får sosialhjelp? | SSB 08900 | Nav har ikke sosialhjelp som tabell. |
+
+## Familie, ytelser og penger
+
+| Spørsmål | Kilde og tabell | Merknad |
+|---|---|---|
+| Hvor mange får kontantstøtte? | Nav `kontantstotte-fylke-kommune/` | |
+| Hvor mye betaler Nav ut? | Nav `utbetalinger-*` | |
+| Hva er barnetrygd, foreldrepenger, grunnstønad, hjelpestønad? | Ikke dekket som tall | Nav publiserer ikke disse som xlsx. Vis til Navs statistikkside. Satser kan stå i budsjettvedtaket (`budsjett/VEIVISER.md`). |
+| Hva er grunnbeløpet? | `regelverk/folketrygdloven/` og budsjettvedtaket | |
+
+## Lønn, priser og befolkning
+
+| Spørsmål | Kilde og tabell | Merknad |
+|---|---|---|
+| Hva tjener folk? | SSB 09174, 09175, 11652 | |
+| Hvor høy er prisveksten? | SSB 14700 (KPI) | Basisår 2025=100. |
+| Hvor mange bor i Norge/kommunen? | SSB 05803, 10211, 05810 | |
+| Hvor mange innvandrere? | SSB 05184 | |
+
+## Sammenligning med andre land
+
+| Spørsmål | Kilde og tabell | Merknad |
+|---|---|---|
+| Hvordan ligger Norge an på ledighet? | Eurostat `une_rt_a.tsv` | ILO-definisjon (AKU). Ikke Navs registrerte ledige. |
+| Hvordan er sysselsettingen sammenlignet med Norden og EU? | Eurostat `lfsi_emp_a.tsv` | |
+| Hvordan er sysselsettingen blant innvandrere? | Eurostat `lfsa_ergan.tsv` (kolonnen `citizen`) | Norge. Statsborgerskap, ikke landbakgrunn. |
+| Hvor mange er i risiko for fattigdom? | Eurostat `ilc_peps01n.tsv` | |
+
+## Eksempler på korte svar
+
+Eksemplene er regnet ut fra tallene i basen 2026-10-17. Hvert svar avslutter med linjen om kvalitetssikringsversjon (utelatt her).
+
+**«Hva er sykefraværet?»** Legemeldt sykefravær var 5,7 prosent i 2. kvartal 2026, mot 5,6 prosent i 2. kvartal 2025 (Nav, sykefraværsstatistikken, publisert 04.09.2026).
+
+**«Hvor mange er arbeidsledige?»** Nav hadde 59 413 registrerte som helt ledige i september 2026, 2,0 prosent av arbeidsstyrken og 2 542 færre enn i september 2025 (Nav, hovedtall om arbeidsmarkedet). Vil du ha tall for arbeidsledige etter SSBs arbeidskraftsundersøkelse (AKU) i tillegg? De måles på en annen måte.
+
+**«Hvor mange er på AAP?»** 168 628 mottok arbeidsavklaringspenger i juni 2026, 3 067 flere enn i juni 2025 (Nav, AAP etter alder og kjønn).
+
+**«Er ledigheten i Norge høy sammenlignet med andre land?»** Arbeidsledigheten blant 15–74-åringer var 4,5 prosent i Norge i 2025, mot 8,8 i Sverige, 6,4 i Danmark, 9,7 i Finland, 3,8 i Tyskland og 6,0 i EU (Eurostat, `une_rt_a`, ILO-definisjon). Sysselsettingsraten for 20–64-åringer var 79,5 prosent i Norge, 81,8 i Sverige, 79,8 i Danmark og 76,1 i EU (Eurostat, `lfsi_emp_a`).
+
+**«Hvor mange får barnetrygd?»** Ikke dekket. Nav publiserer ikke barnetrygd som tabell i basen. Se Navs statistikkside for barnetrygd.

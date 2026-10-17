@@ -59,6 +59,9 @@ jobs:
           : > "$RUNNER_TEMP/sak.txt"
           grep -q "Ikke lagt inn" "$RUNNER_TEMP/melding.txt" 2>/dev/null && cat "$RUNNER_TEMP/melding.txt" >> "$RUNNER_TEMP/sak.txt"
           [ -n "$HENTEFEIL" ] && cat nav-hent-rapport.txt >> "$RUNNER_TEMP/sak.txt"
+          if [ -z "$HENTEFEIL" ] && grep -qE "[1-9][0-9]* uten treff i kilder.json" nav-hent-rapport.txt 2>/dev/null; then
+            { echo "Nav har lagt ut xlsx-filer som ikke står i data/nav/kilder.json. De er ikke hentet."; echo; cat nav-hent-rapport.txt; } >> "$RUNNER_TEMP/sak.txt"
+          fi
           [ -s "$RUNNER_TEMP/sak.txt" ] || exit 0
           tittel="Nav-henting: feil"
           { echo "@tarjeiha: den automatiske hentingen av Nav-filer stoppet på noe. Se under, eller be Claude se på det."; echo; cat "$RUNNER_TEMP/sak.txt"; } > "$RUNNER_TEMP/sak2.txt"
