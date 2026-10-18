@@ -1,0 +1,30 @@
+# Kilde: OECD, tabell OECD.WISE.INE,DSD_WISE_IDD@DF_IDD
+# Tabell: Inntektsfordeling og fattigdom: Gini og andel under fattigdomsgrensen
+# OECD-tittel: Income distribution database
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.WISE.INE,DSD_WISE_IDD@DF_IDD/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD..INC_DISP_GINI+PR_INC_DISP......?startPeriod=2005&format=csvfilewithlabels
+# FREQ (lik for alle rader): A=Annual
+# STATISTICAL_OPERATION (lik for alle rader): _Z=Not applicable​​
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; SWE=Sweden; USA=United States
+# MEASURE: INC_DISP_GINI=Gini (disposable income); PR_INC_DISP=Poverty rate based on disposable income
+# UNIT_MEASURE: 0_TO_1=0-1 scale; PT_POP=Percentage of population
+# AGE: Y18T25=From 18 to 25 years; Y18T65=From 18 to 65 years; Y26T40=From 26 to 40 years; Y41T50=From 41 to 50 years; Y51T65=From 51 to 65 years; Y66T75=From 66 to 75 years; Y_GE76=76 years or over; Y_GT65=Over 65 years; Y_LT18=Less than 18 years; _T=Total
+# METHODOLOGY: METH2011=Income definition until 2011; METH2012=Income definition since 2012
+# DEFINITION: D_CUR=Current definition; D_PREV=Previous definition - with overlap year
+# POVERTY_LINE: PL_50=50% of the national median disposable income; PL_60=60% of the national median disposable income; _Z=Not applicable
+REF_AREA	MEASURE	UNIT_MEASURE	AGE	METHODOLOGY	DEFINITION	POVERTY_LINE	periode	flagg	betydning
+NLD	INC_DISP_GINI	0_TO_1	Y18T65	METH2012	D_CUR	_Z	2024	P	Provisional value
+NLD	INC_DISP_GINI	0_TO_1	Y_GT65	METH2012	D_CUR	_Z	2024	P	Provisional value
+NLD	INC_DISP_GINI	0_TO_1	_T	METH2012	D_CUR	_Z	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y18T25	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y18T65	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y18T65	METH2012	D_CUR	PL_60	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y26T40	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y41T50	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y51T65	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y66T75	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y_GE76	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y_GT65	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y_GT65	METH2012	D_CUR	PL_60	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	Y_LT18	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	_T	METH2012	D_CUR	PL_50	2024	P	Provisional value
+NLD	PR_INC_DISP	PT_POP	_T	METH2012	D_CUR	PL_60	2024	P	Provisional value

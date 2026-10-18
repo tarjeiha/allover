@@ -1,7 +1,7 @@
 # Kilde: OECD, tabell OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR
 # Tabell: Netto kompensasjonsgrad ved arbeidsledighet for modellhusholdninger, etter varighet
 # OECD-tittel: Net replacement rates in unemployment
-# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.....AW67+AW100..M2+M12+M60...?startPeriod=2005&format=csvfilewithlabels
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.....AW67+AW100._Z+NOEARN_UNEMP_WO_CONBEN.M2+M12+M60...?startPeriod=2005&format=csvfilewithlabels
 # MEASURE (lik for alle rader): NHIDU=Net household income during unemployment
 # UNIT_MEASURE (lik for alle rader): PT_INC_DISP_HH_BJL=Percentage of disposable household income before job loss
 # AGE_CHILDREN (lik for alle rader): Y4_6=4 and 6 years
@@ -9,7 +9,7 @@
 # REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
 # HOUSEHOLD_TYPE: C_C0=Couple, no children; C_C2=Couple, 2 children; S_C0=Single person, no children; S_C2=Single person, 2 children
 # INCOME_PREV: AW100=100% of average wage; AW67=67% of average wage
-# INCOME_PART: AW100=100% of average wage; AW67=67% of average wage; MINW=Minimum wage; NOEARN_UNEMP_WO_CONBEN=No earnings, unemployed without contributory benefits; _Z=Not applicable
+# INCOME_PART: NOEARN_UNEMP_WO_CONBEN=No earnings, unemployed without contributory benefits; _Z=Not applicable
 # UNEMP_DURATION: M12=12 months; M2=2 months; M60=60 months
 # SOC_ASS_BENEFIT: NO=No; YES=Yes
 # HOUSE_BENEFIT: NO=No; YES=Yes

@@ -1,0 +1,27 @@
+# Kilde: OECD, tabell OECD.ELS.HD,DSD_HEALTH_STAT@DF_AWDI
+# Tabell: Sykefravær: fraværsdager per heltidsansatt lønnstaker per år
+# OECD-tittel: Sick leave from work
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.HD,DSD_HEALTH_STAT@DF_AWDI/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD............?startPeriod=2005&format=csvfilewithlabels
+# FREQ (lik for alle rader): A=Annual
+# MEASURE (lik for alle rader): WKAB=Sick leave of full-time dependent employees, annual averages
+# UNIT_MEASURE (lik for alle rader): WK_Y_PS=Weeks per year per person
+# AGE (lik for alle rader): _T=Total
+# SEX (lik for alle rader): _T=Total
+# SOCIO_ECON_STATUS (lik for alle rader): _Z=Not applicable
+# DEATH_CAUSE (lik for alle rader): _Z=Not applicable
+# CALC_METHODOLOGY (lik for alle rader): _Z=Not applicable
+# GESTATION_THRESHOLD (lik for alle rader): _Z=Not applicable
+# HEALTH_STATUS (lik for alle rader): _Z=Not applicable
+# DISEASE (lik for alle rader): _Z=Not applicable
+# CANCER_SITE (lik for alle rader): _Z=Not applicable
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; SWE=Sweden; USA=United States
+REF_AREA	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+NOR	4.5	4.5	5	4.6	5.1	4.8	4.5	4.7	4.6	4.6	4.8	4.7	4.7	4.8	5.1	5.1	5.2	5.5	5.6	5.9	5.7
+SWE	4.8	4.4	3.9	3.4	3.1	2.8	2.9	3.1	3.2	3.3	3.6	3.6	3.4	3.3	3.3	3.9	3.4	3.6	3.4	3.3	3.2
+DNK	2.2	2.4	2.8	2.6	2.3	2.2	2	2	1.8	1.9	1.9	2.2	2.2	2.1	2.2	2.2	2.2	2.5	2	2.1	2.1
+FIN	3.4	4.9	4.9	4.9	4.7	4.5	4.7	4.6	4.7	4.4	4.3	4.2	4.1	4.5	4.2	4.2	4.9	5.3	5.2	5	4.8
+ISL	2.1	1.9	1.8	1.5	2.1	1.7	1.7	1.9	1.8	1.7	1.6	1.7	1.8	1.6	1.6	1.9	2.1	3.1	3.2	2.2	2.3
+DEU	2.2	2	2.3	2.5	2.9	2.8	3.1	3.2	3.5	3.2	3.5	3.5	3.6	3.6	3.5		2.6	2.7	3.5	3.6	3.5
+NLD	2.8	2.8	2.7	2.8	2.9	2.6	2.6	2.5	2.3	2	2.3	2.4	2.4	2.5	2.4	2.5	2.3	2.8	2.6	2.7	2.7
+GBR	2.5	2.4	2.4	2.2	2.2	2.1	2	2	2	1.9	1.9	1.9	1.8	1.9	1.8	1.6					
+USA	1.4	1.2	1.2	1.2	1.2	1.1	1.1	1	1	1	1	1	1	1	0.9	1.4	1.4	1.6	1.2	1.2	1.1

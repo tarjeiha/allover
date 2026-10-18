@@ -1,0 +1,18 @@
+# Kilde: OECD, tabell OECD.ELS.SAE,DSD_HW@DF_AVG_ANN_HRS_WKD
+# Tabell: Gjennomsnittlig antall utførte arbeidstimer per sysselsatt per år
+# OECD-tittel: Average annual hours actually worked per worker
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_HW@DF_AVG_ANN_HRS_WKD/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD............?startPeriod=2005&format=csvfilewithlabels
+# MEASURE (lik for alle rader): HW=Hours worked
+# UNIT_MEASURE (lik for alle rader): H_Y_PS=Hours per year per person
+# SEX (lik for alle rader): _Z=Not applicable
+# AGE (lik for alle rader): _Z=Not applicable
+# LABOUR_FORCE_STATUS (lik for alle rader): EMP=Employment
+# WORK_PERIOD (lik for alle rader): A=Annual
+# HOURS_TYPE (lik for alle rader): ACTUAL=Actual
+# WORK_TIME_ARNGMNT (lik for alle rader): _Z=Not applicable
+# AGGREGATION_OPERATION (lik for alle rader): MEAN=Mean
+# HOUR_BANDS (lik for alle rader): _Z=Not applicable
+# JOB_COVERAGE (lik for alle rader): _T=Total
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# WORKER_STATUS: ICSE93_1=Employees; _T=Total
+REF_AREA	WORKER_STATUS	periode	flagg	betydning
