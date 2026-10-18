@@ -86,7 +86,10 @@ def les_rader(sti: Path):
         import openpyxl
 
         wb = openpyxl.load_workbook(sti, read_only=True, data_only=True)
-        ark = wb.worksheets[0]
+        # Gul bok-filene har først et ark «Forklaring», så «Data»: ta arket med de forventede kolonnene
+        ark = next((a for a in wb.worksheets
+                    if FORVENTET_KOLONNER <= {str(c).strip() for c in next(a.iter_rows(max_row=1, values_only=True), ())}),
+                   wb.worksheets[0])
         return [["" if c is None else c for c in rad] for rad in ark.iter_rows(values_only=True)]
     tekst = sti.read_text(encoding="utf-8-sig")
     skille = max([";", "\t", ","], key=lambda s: tekst.split("\n", 1)[0].count(s))
