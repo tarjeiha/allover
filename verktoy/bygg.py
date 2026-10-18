@@ -113,6 +113,49 @@ def dekning(kilde_tekst: str, md: str) -> float:
     return funnet / totalt
 
 
+LISTEPUNKT = re.compile(r"^\s*(?:[0-9a-zæøå]{1,4}[.)]|\([0-9a-zæøå]{1,4}\)|-|•)(?:\s|$)", re.I)
+
+
+def struktur(kilde, md: str) -> list:
+    """Sammenligner tabeller, noter og listepunkter i kildeparagrafen med den genererte filen.
+
+    Ordkontrollen fanger ikke en tabell som er flatet ut til løpende tekst eller noter
+    som er falt bort uten å ta mye tekst med seg. Her telles strukturen per paragraf.
+    Endringshistorikken (changesToParent) og noteapparatet holdes utenfor tellingen av
+    tabeller og lister. Returnerer en liste med avvik (tom når alt stemmer).
+    """
+    def utenfor(el):
+        for f in el.parents:
+            if f is kilde:
+                return False
+            klasser = f.get("class") or []
+            if f.name == "footer" or "changesToParent" in klasser:
+                return True
+        return False
+
+    tabeller = sum(1 for t in kilde.find_all("table") if not utenfor(t))
+    punkter = sum(1 for li in kilde.find_all("li") if not utenfor(li))
+    noter = {" ".join(n.get_text(" ", strip=True).split())
+             for n in kilde.find_all("article", class_="footnote")} - {""}
+
+    kropp = re.split(r"^\*\*Noter:\*\*$|^---$", md, maxsplit=1, flags=re.M)[0]
+    md_tabeller = len(re.findall(r"^\|(?:---\|)+$", kropp, flags=re.M))
+    md_punkter = sum(1 for linje in kropp.splitlines() if LISTEPUNKT.match(linje))
+    md_noter = 0
+    if "**Noter:**" in md:
+        del_noter = md.split("**Noter:**", 1)[1].split("\n---", 1)[0]
+        md_noter = sum(1 for linje in del_noter.splitlines() if linje.startswith("- "))
+
+    avvik = []
+    if md_tabeller < tabeller:
+        avvik.append(f"{tabeller} tabell(er) i kilden, {md_tabeller} i filen")
+    if md_noter < len(noter):
+        avvik.append(f"{len(noter)} note(r) i kilden, {md_noter} i filen")
+    if md_punkter < punkter:
+        avvik.append(f"{punkter} listepunkt(er) i kilden, {md_punkter} i filen")
+    return avvik
+
+
 def bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
     """Som _bygg_dokument, men en feil i ett dokument stopper ikke resten av bygget."""
     try:
@@ -133,7 +176,8 @@ def _bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
     for kap in kapitler:
         oppforinger = []
         for art in kap["paragrafer"]:
-            kildetekst = copy.copy(art).get_text(" ")
+            kildekopi = copy.copy(art)
+            kildetekst = kildekopi.get_text(" ")
             md = render_paragraf(art, ref)
             slug = slug_paragraf(art.get("data-name"))
             brukte[slug] += 1
@@ -144,6 +188,8 @@ def _bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
             d = dekning(kildetekst, md)
             if d < MIN_DEKNING:
                 feil.append(f"{fil.relative_to(ROT)}: bare {d:.1%} av ordene i kilden er med")
+            for a in struktur(kildekopi, md):
+                feil.append(f"{fil.relative_to(ROT)}: {a}")
             tittel = md.splitlines()[0].lstrip("# ").strip()
             oppforinger.append((tittel, fil))
         resultat.append((kap["tittel"], oppforinger))
