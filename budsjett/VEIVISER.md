@@ -12,6 +12,14 @@ Denne mappen har statsbudsjettdokumenter for Arbeids- og inkluderingsdepartement
 - **Overslagsløyvingar.** Poster merket «overslagsløyving» (f.eks. dagpenger) er anslag. Utgiftene følger regelverket, ikke beløpet.
 - **Kapittelnumrene sier hva slags kapittel det er.** Kap. 600–699 er ordinære utgiftskapitler, 2470 er Statens pensjonskasse, 2541–2686 er folketrygden, 3000-kapitlene er inntekter som hører til 600-kapitlene, og 5000-kapitlene er andre inntekter og utgifter (f.eks. 5470 Statens pensjonskasse og 5705 Refusjon av dagpengar). Se programkategori-filene for inndelingen.
 
+<!-- AUTO-START budsjettår: genereres av verktoy/budsjett_innboks.py, ikke rediger for hånd -->
+## Budsjettår i basen
+
+Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
+
+- **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
+<!-- AUTO-SLUTT budsjettår -->
+
 ## Budsjettår 2027
 
 | Dokument | Sti | Innhold |
@@ -191,4 +199,4 @@ Filer i proposisjonen:
 
 ## Oppdatering
 
-Filene i `prop-1-s-aid/` lages med `python3 verktoy/budsjett.py <prop.docx> budsjett/ÅR/prop-1-s-aid "<kildenavn>"` og skal ikke redigeres for hånd. Gul bok og Nasjonalbudsjettet deles med samme skript og valget `--generell`. Gul bok-datagrunnlaget og figurdataene er Excel-filene fra regjeringen.no gjort om til TSV.
+Nye år legges inn ved å laste opp Word- og Excel-filene i `innboks-budsjett/` (se `innboks-budsjett/README.md`). Da kjører `verktoy/budsjett_innboks.py` automatisk. Manuelt: filene i `prop-1-s-aid/` lages med `python3 verktoy/budsjett.py <prop.docx> budsjett/ÅR/prop-1-s-aid "<kildenavn>"` og skal ikke redigeres for hånd. Gul bok og Nasjonalbudsjettet deles med samme skript og valget `--generell`. Gul bok-datagrunnlaget og figurdataene er Excel-filene fra regjeringen.no gjort om til TSV.
