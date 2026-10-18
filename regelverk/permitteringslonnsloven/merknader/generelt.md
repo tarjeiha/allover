@@ -57,6 +57,6 @@ Les hele referansekjeden før du trekker en negativ konklusjon.
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Ikke i basen: rundskriv og praksis.** NAV Lønnsgarantis retningslinjer og Arbeids- og velferdsdirektoratets rundskriv inngår ikke. Beløpsgrensen i lønnsgarantiordningen er knyttet til grunnbeløpet – sjekk gjeldende G via `regelverk/folketrygdloven/VEIVISER.md` (merknaden `medlemskap-beregning.md`) framfor å oppgi et kronebeløp fra hukommelsen.
+**Ikke i basen: rundskriv og praksis.** NAV Lønnsgarantis retningslinjer og Arbeids- og velferdsdirektoratets rundskriv inngår ikke. Beløpsgrensen i lønnsgarantiordningen er knyttet til grunnbeløpet – sjekk gjeldende G via `regelverk/folketrygdloven/VEIVISER.md` (merknaden `regelverk/folketrygdloven/merknader/medlemskap-beregning.md`) framfor å oppgi et kronebeløp fra hukommelsen.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».

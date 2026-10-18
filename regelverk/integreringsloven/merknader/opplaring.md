@@ -11,7 +11,7 @@ Læreplanene er forskrifter med presist formulerte kompetansemål. Gjengivelse f
 Fremgangsmåte:
 
 1. Finn riktig forskrift i `regelverk/integreringsloven/VEIVISER.md`
-2. Åpne forskriftens `oversikt.md` for å finne riktig del
+2. Åpne forskriftsmappen og finn riktig del
 3. Åpne selve delfilen og les den faktiske teksten
 4. Skill tydelig mellom de tre læreplanene – de har ulike målgrupper og nivåer
 
