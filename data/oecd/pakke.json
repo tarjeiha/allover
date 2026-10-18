@@ -1,18 +1,48 @@
 {
- "land": ["NOR", "SWE", "DNK", "FIN", "ISL", "DEU", "NLD", "GBR", "USA", "OECD"],
+ "land": [
+  "NOR",
+  "SWE",
+  "DNK",
+  "FIN",
+  "ISL",
+  "DEU",
+  "NLD",
+  "GBR",
+  "USA",
+  "OECD"
+ ],
  "fra_aar": 2005,
  "tabeller": [
   {
    "fil": "arbeidsmarkedstiltak",
    "tabell": "OECD.ELS.JAI,DSD_LMP@DF_LMP",
    "tittel": "Offentlige utgifter til og deltakere i arbeidsmarkedstiltak etter tiltakstype (LMP)",
-   "filter": {"UNIT_MEASURE": ["PT_B1GQ", "PT_LF"]}
+   "filter": {
+    "UNIT_MEASURE": [
+     "PT_B1GQ",
+     "PT_LF"
+    ]
+   }
   },
   {
    "fil": "kompensasjonsgrad-ledighet",
    "tabell": "OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR",
    "tittel": "Netto kompensasjonsgrad ved arbeidsledighet for modellhusholdninger, etter varighet",
-   "filter": {"INCOME_PREV": ["AW67", "AW100"], "UNEMP_DURATION": ["M2", "M12", "M60"]}
+   "filter": {
+    "INCOME_PREV": [
+     "AW67",
+     "AW100"
+    ],
+    "UNEMP_DURATION": [
+     "M2",
+     "M12",
+     "M60"
+    ],
+    "INCOME_PART": [
+     "_Z",
+     "NOEARN_UNEMP_WO_CONBEN"
+    ]
+   }
   },
   {
    "fil": "minsteinntektsytelser",
@@ -38,7 +68,20 @@
    "fil": "sosiale-utgifter",
    "tabell": "OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG",
    "tittel": "Sosiale utgifter etter formål og ytelse (SOCX), prosent av BNP",
-   "filter": {"UNIT_MEASURE": ["PT_B1GQ"], "SPENDING_TYPE": ["_T", "C", "K"]}
+   "filter": {
+    "UNIT_MEASURE": [
+     "PT_B1GQ"
+    ],
+    "SPENDING_TYPE": [
+     "_T",
+     "C",
+     "K"
+    ],
+    "EXPEND_SOURCE": [
+     "ES10",
+     "ES50"
+    ]
+   }
   },
   {
    "fil": "organisasjonsgrad",
@@ -74,13 +117,24 @@
    "fil": "inntektsfordeling",
    "tabell": "OECD.WISE.INE,DSD_WISE_IDD@DF_IDD",
    "tittel": "Inntektsfordeling og fattigdom: Gini og andel under fattigdomsgrensen",
-   "filter": {"MEASURE": ["INC_DISP_GINI", "PR_INC_DISP"]}
+   "filter": {
+    "MEASURE": [
+     "INC_DISP_GINI",
+     "PR_INC_DISP"
+    ]
+   }
   },
   {
    "fil": "skattekile",
    "tabell": "OECD.CTP.TPS,DSD_TAX_WAGES_COMP@DF_TW_COMP",
    "tittel": "Skatt på arbeid (Taxing Wages): skattekile og netto lønn for modellhusholdninger",
-   "filter": {"MEASURE": ["AV_TW", "AV_RITEESSC", "NIAT"]}
+   "filter": {
+    "MEASURE": [
+     "AV_TW",
+     "AV_RITEESSC",
+     "NIAT"
+    ]
+   }
   },
   {
    "fil": "sysselsetting-alder",

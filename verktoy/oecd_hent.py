@@ -14,13 +14,15 @@ For hver tabell lages to filer:
   <fil>.flagg.tsv   OECDs merking av tall som ikke er vanlige verdier (estimert, foreløpig, brudd m.fl.)
 Øverst i hver fil står kilde, tabell, spørring og koder med etiketter som #-linjer.
 Filene skrives bare på nytt når innholdet har endret seg.
-Tall skrives som OECD oppgir dem. Tom celle betyr at OECD ikke har tall.
+Tall skrives som OECD oppgir dem, bortsett fra at støy fra enkel presisjon (51.099998)
+rundes til 7 gjeldende siffer. Tom celle betyr at OECD ikke har tall.
 """
 import csv
 import io
 import json
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -33,10 +35,30 @@ FASTE = {"STRUCTURE", "STRUCTURE_ID", "STRUCTURE_NAME", "ACTION", "TIME_PERIOD",
          "OBS_STATUS", "OBS_STATUS2", "OBS_STATUS3", "UNIT_MULT", "DECIMALS", "CONF_STATUS", "BASE_PER"}
 
 
-def les(url):
+PAUSE = 4  # sekunder mellom kall; OECD begrenser antall kall per minutt (HTTP 429)
+
+
+def les(url, forsok=4):
     req = urllib.request.Request(url, headers={"User-Agent": "regelverksbasen/1.0 (tarjeiha/allover)"})
-    with urllib.request.urlopen(req, timeout=180) as r:
-        return r.read().decode("utf-8-sig")
+    for i in range(forsok):
+        time.sleep(PAUSE)
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                return r.read().decode("utf-8-sig")
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or i == forsok - 1:
+                raise
+            time.sleep(65)
+
+
+def tall(v):
+    """OECD lagrer noen serier med enkel presisjon (51.099998). Slike verdier rundes til 7 gjeldende siffer."""
+    if "." in v and len(v.split(".")[1]) >= 6:
+        try:
+            return f"{float(v):.7g}"
+        except ValueError:
+            return v
+    return v
 
 
 def dimensjoner(byraa, flyt):
@@ -87,8 +109,10 @@ def til_tsv(t, url, dims, tekst, land):
             etiketter[d].setdefault(r[pos[d]], r[i] if i is not None else r[pos[d]])
         p = r[pos["TIME_PERIOD"]]
         perioder.add(p)
-        serier.setdefault(k, {})[p] = r[pos["OBS_VALUE"]]
-        if status_kol is not None and r[status_kol] not in ("", "A"):
+        verdi = tall(r[pos["OBS_VALUE"]])
+        serier.setdefault(k, {})[p] = verdi
+        # Flagg tas bare med for tall som finnes (tomme celler forklarer seg selv).
+        if verdi and status_kol is not None and r[status_kol] not in ("", "A"):
             tekst_ = r[status_lbl] if status_lbl is not None else ""
             flagg.append(list(k) + [p, r[status_kol], tekst_])
     # Variabler med bare én verdi i hele uttrekket tas bort fra radene og nevnes i hodet.
