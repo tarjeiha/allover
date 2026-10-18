@@ -1,18 +1,14 @@
-> **Flyttet fra skillen `aid-tolkeloven`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-tolkeloven`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Tolkeloven
 
 Oppslag i lov 11. juni 2021 nr. 79 om offentlige organers ansvar for bruk av tolk mv., med tolkeforskriften.
 
-## Kritisk
+## Vanlige feil
 
-**Åpne alltid de faktiske kildefilene i denne skillen før du svarer.** Ikke svar fra generell kunnskap om tolking i offentlig sektor. Tolkeloven er relativt ny (i kraft 2022) og innførte plikter som ikke fantes tidligere – blant annet et generelt krav om å bruke kvalifisert tolk.
+Tolkeloven er relativt ny (i kraft 2022) og innførte plikter som ikke fantes tidligere – blant annet et generelt krav om å bruke kvalifisert tolk. Generell kunnskap om tolking i offentlig sektor kan derfor være utdatert.
 
-Konkret fremgangsmåte:
+Fremgangsmåte:
 
 1. Slå opp i `regelverk/tolkeloven/VEIVISER.md` for å finne riktig paragraf
 2. Åpne selve paragraffilen (`regelverk/tolkeloven/lov/par-<nr>.md`)
@@ -20,8 +16,6 @@ Konkret fremgangsmåte:
 4. Gjengi leddnummer når du siterer, og oppgi paragraf i svaret
 
 Vær særlig oppmerksom på § 3 om forholdet til annen lovgivning. Tolkeloven supplerer sektorregelverk – den erstatter det ikke. Plikten til å bruke tolk kan følge av andre lover i tillegg.
-
-**Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
 ## Innhold
 
@@ -33,7 +27,7 @@ Vær særlig oppmerksom på § 3 om forholdet til annen lovgivning. Tolkeloven s
 - Kapittel 4: Nasjonalt tolkeregister, statsautorisasjon og reaksjoner (§§ 17–22) – registeret, bevilling, varsling, tilbakekall, advarsel og utestenging, klagenemnd
 - Kapittel 5: Avsluttende bestemmelser (§§ 23–24)
 
-**Forskrifter** – `forskrifter/`:
+**Forskrifter** – `regelverk/tolkeloven/forskrifter/`:
 
 | Mappe | Forskrift |
 |---|---|
@@ -41,26 +35,23 @@ Vær særlig oppmerksom på § 3 om forholdet til annen lovgivning. Tolkeloven s
 
 ## Om tolkeforskriftens hjemmelsgrunnlag
 
-Tolkeforskriften er primært forskrift til tolkeloven (hjemmel i §§ 7, 9, 11, 14, 17 og 18), men har også hjemmel i integreringsloven § 45, domstolloven og straffeprosessloven. **[Merknad 16.10.2026: Dette er ikke bekreftet. Integreringsloven § 45 er opphevet ved tolkeloven, og tolkeforskriften § 1 lister ingen hjemler. Se `regelverk/tolkeloven/VEIVISER.md`.]** Fullt innhold ligger i denne skillen.
+En tidligere versjon av denne merknaden oppga at tolkeforskriften har hjemmel i tolkeloven §§ 7, 9, 11, 14, 17 og 18, og i tillegg i integreringsloven § 45, domstolloven og straffeprosessloven. Dette er ikke bekreftet i basen. Tolkeforskriften § 1 sier bare at forskriften utfyller og presiserer tolkeloven, og integreringsloven § 45 er opphevet ved tolkeloven. Oppgi ikke hjemmelsgrunnlaget uten å kontrollere det på Lovdata.
 
-Ved spørsmål som kommer fra en integreringskontekst er det altså denne skillen som har både loven og forskriften.
+Spørsmål om tolk i integreringssaker besvares etter tolkeloven og tolkeforskriften.
 
 ## Kryssreferanser
 
-- **Integreringsloven** – opplæring i norsk og samfunnskunnskap: `regelverk/integreringsloven/merknader/rettigheter.md`. Tolkebehov og norskopplæring er beslektede, men rettslig atskilte spørsmål.
+- **Integreringsloven** – opplæring i norsk og samfunnskunnskap: `regelverk/integreringsloven/VEIVISER.md`. Tolkebehov og norskopplæring er beslektede, men rettslig atskilte spørsmål.
 - **Læreplanene for voksne innvandrere** – `regelverk/integreringsloven/merknader/opplaring.md`
-- **Utenfor dekket regelverk:** forvaltningsloven (§ 11 om veiledningsplikt og § 17 om utredningsplikt ligger i bakgrunnen for tolkeplikten), pasient- og brukerrettighetsloven, domstolloven og straffeprosessloven er **ikke** med. Tolkeloven § 3 viser uttrykkelig til annen lovgivning – når spørsmålet gjelder tolkeplikt i en konkret sektor (helse, domstol, barnevern), **si eksplisitt fra at sektorregelverket ikke er dekket** og at tolkeloven alene ikke gir hele bildet.
+- **Forvaltningsloven** – § 11 om veiledningsplikt og § 17 om utredningsplikt ligger i bakgrunnen for tolkeplikten: `regelverk/forvaltningsloven/VEIVISER.md`.
+- **Sektorlovene er ikke i basen:** pasient- og brukerrettighetsloven, domstolloven og straffeprosessloven er ikke med. Tolkeloven § 3 viser uttrykkelig til annen lovgivning. Når spørsmålet gjelder tolkeplikt i en konkret sektor (helse, domstol, barnevern), **si eksplisitt fra at sektorregelverket ikke er dekket** og at tolkeloven alene ikke gir hele bildet.
 
-Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
+Les hele referansekjeden før du trekker en negativ konklusjon.
 
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Ikke dekket: rundskriv og veiledning.** IMDis veiledning om tolkeloven og fortolkninger fra departementet inngår ikke. Når et spørsmål gjelder hvordan plikten praktiseres i sektorene, si fra at kun lov- og forskriftstekst er gjennomgått.
+**Ikke i basen: rundskriv og veiledning.** IMDis veiledning om tolkeloven og fortolkninger fra departementet er ikke i basen. Når et spørsmål gjelder hvordan plikten praktiseres i sektorene, si fra at kun lov- og forskriftstekst er gjennomgått.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
-
-## Endringslogg
-
-Se `endringslogg.md`.

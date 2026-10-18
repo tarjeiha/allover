@@ -2,7 +2,7 @@
 
 Loven fastsetter den alminnelige aldersgrensen for den som har stilling innlemmet i Statens pensjonskasse, adgangen til lavere aldersgrenser (særaldersgrenser) og adgangen til å fortsette etter aldersgrensen. Loven har ingen forskrifter i basen. Den forvaltes av Arbeids- og inkluderingsdepartementet.
 
-Statsansattes stillingsvern for øvrig følger statsansatteloven, som ikke er i basen.
+Statsansattes stillingsvern for øvrig følger statsansatteloven, se `regelverk/statsansatteloven/VEIVISER.md`.
 
 ## Slik bruker du veiviseren
 

@@ -1,4 +1,4 @@
-> **Flyttet fra `regelverk/folketrygdloven/eu-eos/`** 17.10.2026. Teksten kommer fra den gamle dagpengeskillen. Forordningsteksten hentes nå automatisk fra EUR-Lex og ligger i `regelverk/eu/forordning-883-2004/` og `regelverk/eu/forordning-987-2009/`. Merknadene til enkeltartikler står samlet her.
+> **Flyttet fra skillen `aid-ftrl-dagpenger`** 16.10.2026, flyttet hit fra `regelverk/folketrygdloven/eu-eos/` 17.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Trygdeforordningen og dagpenger
 
@@ -8,7 +8,12 @@ Folketrygdloven § 1-3 a gjør trygdeforordningen og gjennomføringsforordningen
 
 - `regelverk/folketrygdloven/lov/par-1-3a.md` – forordningene gjelder som lov
 - `regelverk/folketrygdloven/lov/par-4-1a.md` – forholdet til trygdeforordningen i kapittel 4
-- `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/` kapittel 13 – EØS
+- Dagpengeforskriften (`regelverk/folketrygdloven/forskrifter/dagpengeforskriften/`):
+  - § 1-4: unntak fra oppholdskravet i folketrygdloven § 4-2 ved jobbintervju i et annet EØS-land
+  - § 1-7: unntak fra oppholdskravet for den som tar med dagpengene for å søke arbeid etter artikkel 64
+  - § 1-8: unntak fra oppholdskravet for den som får dagpenger etter artikkel 65 nr. 1
+  - § 1-9: unntak fra oppholdskravet for utsendte arbeidstakere etter artikkel 12 nr. 1 som er delvis arbeidsløse eller delvis permitterte (helt arbeidsløse eller helt permitterte bare når de fortsatt kan anses som utsendte)
+  - Kapittel 13 (supplerende regler til trygdeforordningen): § 13-1 gjelder bare sammenlegging etter nordisk konvensjon om trygd, se artikkel 61 under. § 13-3 og § 13-4 supplerer artikkel 64. § 13-2 er opphevet ved forskrift 30. juli 2026 nr. 1599 med virkning fra 1. november 2026. Kapittel 13 er altså ikke en samlet gjennomføring av forordningen
 
 ## Artikler som gjelder dagpenger
 
@@ -32,7 +37,7 @@ EFTA-domstolen har behandlet forholdet mellom artikkel 7, 63 og 64 i sak E-13/20
 
 ### Artikkel 64
 
-**Norsk tilknytning:** Dagpengeforskriften § 13-3 og § 13-4 gjennomfører artikkel 64 nr. 1 bokstav a og c. Gjennomføringsforordningen artikkel 55 gir saksbehandlingsreglene, blant annet kravet om å melde fra til NAV før avreise og å registrere seg som arbeidssøker i tilflyttingsstaten innen fristen.
+**Norsk tilknytning:** Dagpengeforskriften § 13-4 supplerer artikkel 64 nr. 1 bokstav a, og § 13-3 setter en øvre grense på tre måneder for forlengelse etter bokstav c. Dagpengeforskriften § 1-7 unntar fra oppholdskravet i perioden som er innvilget på PD U2. Gjennomføringsforordningen artikkel 55 gir saksbehandlingsreglene, blant annet kravet om å melde fra til NAV før avreise og å registrere seg som arbeidssøker i tilflyttingsstaten innen fristen.
 
 ### Artikkel 65
 
@@ -68,7 +73,8 @@ Tekstene er EU-rettslig konsolidert. For Norge er det folketrygdloven § 1-3 a s
 
 Disse kildene er ikke i basen:
 
-- **Bilaterale trygdeavtaler utenfor EØS** – ikke dekket i basen.
+- **NAVs rundskriv til trygdeforordningen (R45-00).** NAVs rundskriv til folketrygdloven kapittel 4 ligger i `regelverk/folketrygdloven/rundskriv/ftrl/kap-4/`, men praksis etter forordningen må ellers bygges på forordningsteksten, lov og forskrift.
+- **Bilaterale trygdeavtaler utenfor EØS** – avtaletekstene er ikke i basen. Forskriften som gjør dem gjeldende, med liste over avtalene, ligger i `regelverk/folketrygdloven/forskrifter/bilaterale-trygdeavtaler/`.
 - **Nordisk konvensjon om trygd (2012)** – dagpengeforskriften § 13-1 viser til konvensjonens artikkel 10, men konvensjonsteksten selv er ikke inkludert.
 - **Den administrative kommisjonens beslutninger og rekommandasjoner** – særlig U1–U4 og rekommandasjon U1–U2, som tolker art. 64, 65 og 987/2009 art. 54 og 70. Ikke inkludert.
 - **EFTA-domstolens og EU-domstolens praksis** – enkelte avgjørelser er nevnt i merknadene over, men rettspraksis er ikke en kildetype i basen.

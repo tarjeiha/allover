@@ -14,7 +14,7 @@ Hovedrundskrivet til loven og de statlige veiledende satsene for økonomisk stø
 - **Vilkår: «kan» for de fleste, «skal» under 30 år.** Etter § 20 første ledd kan det settes vilkår for økonomisk stønad. For personer under 30 år skal det stilles vilkår om aktivitet, med mindre tungtveiende grunner taler mot det (§ 20 a første ledd). Begge paragrafene krever at vilkårene har nær sammenheng med vedtaket og ikke er uforholdsmessig byrdefulle. Se også forskrift om bruk av vilkår.
 - **Individuell plan: rettigheten står her, forskriften står i NAV-loven-mappen.** Retten til individuell plan følger av § 28, og for deltakere i kvalifiseringsprogram av § 33. Forskriften om individuell plan ligger under `regelverk/nav-loven/`, se `regelverk/nav-loven/VEIVISER.md`.
 - **Kvalifiseringsprogrammet er kommunalt.** Programmet gjelder personer mellom 18 og 67 år med vesentlig nedsatt arbeids- og inntektsevne og ingen eller svært begrensede ytelser til livsopphold (§ 29 første ledd), og det er kommunen som innvilger det (§ 29 tredje ledd). Det er ikke et statlig arbeidsmarkedstiltak etter arbeidsmarkedsloven.
-- **Klagereglene bygger på forvaltningsloven.** Enkeltvedtak kan påklages til statsforvalteren (§ 47), men forvaltningsloven er ikke i basen. Si fra når svaret avhenger av den.
+- **Klagereglene bygger på forvaltningsloven.** Enkeltvedtak kan påklages til statsforvalteren (§ 47). Forvaltningsloven gjelder i tillegg, se `regelverk/forvaltningsloven/VEIVISER.md`.
 
 ## Merknader og andre kilder
 

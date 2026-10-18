@@ -1,8 +1,4 @@
-> **Flyttet fra skillen `aid-ftrl-sykepenger`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-ftrl-sykepenger`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Temaoppslag kapittel 8 (sykepenger)
 
@@ -53,4 +49,4 @@
 | Oppholdskrav | § 8-9 | § 9-4 |
 | Feriepenger | § 8-33 | § 9-17 |
 
-Kap. 8 har vesentlig flere paragrafer enn kap. 9 (57 mot 19) - kap. 8 skiller bl.a. mellom arbeidstakere, selvstendig næringsdrivende, frilansere og kombinerte inntekter (del II-V), noe kap. 9 ikke gjør på samme måte. Ikke anta at strukturen ellers er parallell utover det tabellen viser. Se generell regel om henvisningskjeder i SKILL.md før negative konklusjoner ved sammenligning.
+Kap. 8 har vesentlig flere paragrafer enn kap. 9 (57 mot 19) - kap. 8 skiller bl.a. mellom arbeidstakere, selvstendig næringsdrivende, frilansere og kombinerte inntekter (del II-V), noe kap. 9 ikke gjør på samme måte. Ikke anta at strukturen ellers er parallell utover det tabellen viser. Se regelen om henvisningskjeder i `regelverk/folketrygdloven/merknader/sykepenger.md` før negative konklusjoner ved sammenligning.
