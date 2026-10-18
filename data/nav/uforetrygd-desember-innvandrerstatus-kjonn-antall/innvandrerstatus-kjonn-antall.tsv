@@ -1,0 +1,21 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 31.12.2016-2025. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-innvandrerstatus--og-kjonn.pr.31.12.2016-2025.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 31.12.2016-2025. Antall.	I alt	318244	325875	339245	352197	357563	360943	364437	366627	373036	374918
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 31.12.2016-2025. Antall.	Ikke-innvandrer	288491	293773	303562	313143	315501	316704	317923	317953	321166	320935
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 31.12.2016-2025. Antall.	Innvandrer	29753	32102	35683	39054	42062	44230	46291	48674	51869	53982
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 31.12.2016-2025. Antall.	Ukjent	-	-	-	-	-	9	223	-	1	1
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Kvinner.	I alt	184660	189318	197637	205470	208684	211063	213383	215078	219161	220529
+Kvinner.	Ikke-innvandrer	169827	173137	179426	185530	187134	188287	189280	189725	192115	192193
+Kvinner.	Innvandrer	14833	16181	18211	19940	21550	22774	24017	25353	27046	28336
+Kvinner.	Ukjent	-	-	-	-	-	2	86	-	-	-
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Menn	I alt	133584	136557	141608	146727	148879	149880	151054	151549	153875	154389
+Menn	Ikke-innvandrer	118664	120636	124136	127613	128367	128417	128643	128228	129051	128742
+Menn	Innvandrer	14920	15921	17472	19114	20512	21456	22274	23321	24823	25646
+Menn	Ukjent	-	-	-	-	-	7	137	-	1	1

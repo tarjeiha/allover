@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-utbetalingsgrad-og-alder.pr.31.12.2025.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	I alt	Uoppgitt	Tom. 49	50	51-69	70-80	81-99	100
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	I alt	374918	370	8396	15779	17890	11485	14114	306884
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	18-29	22213	2	172	155	347	284	466	20787
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	30-39	44926	54	887	1143	1653	1210	1479	38500
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	40-44	29192	44	818	1190	1512	899	1099	23630
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	45-49	36617	39	1111	1625	2012	1312	1546	28972
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	50-54	52122	48	1553	2702	3106	1902	2228	40583
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	55-59	70784	64	1826	3683	4004	2403	2952	55852
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	60-64	82410	76	1582	3843	3892	2509	3103	67405
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	65-67	36652	41	447	1438	1364	966	1241	31155
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Antall.	Uoppgitt	2	2	-	-	-	-	-	-
+gruppe	rad	I alt	Uoppgitt	Tom. 49	50	51-69	70-80	81-99	100
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	18-29	5.9	0.5	2.0	1.0	1.9	2.5	3.3	6.8
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	30-39	12.0	14.6	10.6	7.2	9.2	10.5	10.5	12.5
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	40-44	7.8	11.9	9.7	7.5	8.5	7.8	7.8	7.7
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	45-49	9.8	10.5	13.2	10.3	11.2	11.4	11.0	9.4
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	50-54	13.9	13.0	18.5	17.1	17.4	16.6	15.8	13.2
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	55-59	18.9	17.3	21.7	23.3	22.4	20.9	20.9	18.2
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	60-64	22.0	20.5	18.8	24.4	21.8	21.8	22.0	22.0
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	65-67	9.8	11.1	5.3	9.1	7.6	8.4	8.8	10.2
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 31.12.2025. Prosent.	Uoppgitt	0.0	0.5	-	-	-	-	-	-

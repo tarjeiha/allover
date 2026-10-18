@@ -1,0 +1,58 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-mottakere-av-uforetrygd-etter-uforegrad-og-kjonn.1.kvartal-4.kvartal-2016-2025.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	I alt	29418	31687	36669	36685	28975	28114	28671	26901	30788	26052
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	Tom. 49	467	575	772	792	603	627	602	530	596	532
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	50	2694	2835	3168	3269	2413	2331	2023	1725	1846	1587
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	51-69	2273	2223	2583	2757	2116	2194	2370	2149	2337	1920
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	70-80	1317	1415	1795	1889	1517	1371	1454	1259	1262	1116
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	81-99	612	728	929	1026	704	723	741	708	899	711
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	100	22055	23911	27421	26952	21622	20868	21460	20530	23847	20186
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Antall.	Ukjent	-	-	1	-	-	-	21	-	1	-
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Kvinner	I alt	16830	18140	21459	21279	16677	16310	16560	15594	17734	14926
+Kvinner	Tom. 49	351	442	569	597	441	460	451	377	450	400
+Kvinner	50	2014	2116	2375	2377	1793	1754	1492	1283	1374	1174
+Kvinner	51-69	1571	1529	1841	1946	1513	1579	1717	1553	1697	1359
+Kvinner	70-80	816	922	1174	1239	987	891	917	851	829	717
+Kvinner	81-99	317	426	532	600	411	417	420	430	532	435
+Kvinner	100	11761	12705	14968	14520	11532	11209	11549	11100	12851	10841
+Kvinner	Ukjent	-	-	-	-	-	-	14	-	1	-
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Menn	I alt	12588	13547	15210	15406	12298	11804	12111	11307	13054	11126
+Menn	Tom. 49	116	133	203	195	162	167	151	153	146	132
+Menn	50	680	719	793	892	620	577	531	442	472	413
+Menn	51-69	702	694	742	811	603	615	653	596	640	561
+Menn	70-80	501	493	621	650	530	480	537	408	433	399
+Menn	81-99	295	302	397	426	293	306	321	278	367	276
+Menn	100	10294	11206	12453	12432	10090	9659	9911	9430	10996	9345
+Menn	Ukjent	-	-	1	-	-	-	7	-	-	-
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Tom. 49	1.6	1.8	2.1	2.2	2.1	2.2	2.1	2.0	1.9	2.0
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	50	9.2	8.9	8.6	8.9	8.3	8.3	7.1	6.4	6.0	6.1
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	51-69	7.7	7.0	7.0	7.5	7.3	7.8	8.3	8.0	7.6	7.4
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	70-80	4.5	4.5	4.9	5.1	5.2	4.9	5.1	4.7	4.1	4.3
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	81-99	2.1	2.3	2.5	2.8	2.4	2.6	2.6	2.6	2.9	2.7
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	100	75.0	75.5	74.8	73.5	74.6	74.2	74.8	76.3	77.5	77.5
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Ukjent	-	-	0.0	-	-	-	0.1	-	0.0	-
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Kvinner i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Tom. 49	2.1	2.4	2.7	2.8	2.6	2.8	2.7	2.4	2.5	2.7
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	50	12.0	11.7	11.1	11.2	10.8	10.8	9.0	8.2	7.7	7.9
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	51-69	9.3	8.4	8.6	9.1	9.1	9.7	10.4	10.0	9.6	9.1
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	70-80	4.8	5.1	5.5	5.8	5.9	5.5	5.5	5.5	4.7	4.8
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	81-99	1.9	2.3	2.5	2.8	2.5	2.6	2.5	2.8	3.0	2.9
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	100	69.9	70.0	69.8	68.2	69.1	68.7	69.7	71.2	72.5	72.6
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Ukjent	-	-	-	-	-	-	0.1	-	0.0	-
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Menn i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Tom. 49	0.9	1.0	1.3	1.3	1.3	1.4	1.2	1.4	1.1	1.2
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	50	5.4	5.3	5.2	5.8	5.0	4.9	4.4	3.9	3.6	3.7
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	51-69	5.6	5.1	4.9	5.3	4.9	5.2	5.4	5.3	4.9	5.0
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	70-80	4.0	3.6	4.1	4.2	4.3	4.1	4.4	3.6	3.3	3.6
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	81-99	2.3	2.2	2.6	2.8	2.4	2.6	2.7	2.5	2.8	2.5
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	100	81.8	82.7	81.9	80.7	82.0	81.8	81.8	83.4	84.2	84.0
+Nye mottakere av uføretrygd, etter uføregrad og kjønn. 1. kvartal-4. kvartal 2016-2025. Prosent.	Ukjent	-	-	0.0	-	-	-	0.1	-	-	-

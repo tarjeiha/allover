@@ -1,0 +1,17 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-hvor-uforegrad-er-forskjellig-fra-utbetalingsgrad.pr.31.12.2025.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	Uføregrad				
+gruppe	rad	I alt	Tom. 50	51-69	70-99	100
+gruppe	rad					
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	I alt	19567	1855	1782	2239	13691
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	Tom. 39	2767	883	446	284	1154
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	40-49	2317	972	446	220	679
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	50-59	1986	-	751	375	860
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	60-69	1875	-	139	608	1128
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	70-79	2031	-	-	482	1549
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	80-89	2702	-	-	211	2491
+Mottakere av uføretrygd hvor uføregrad er forskjellig fra utbetalingsgrad. Pr. 31.12.2025. Antall.	90-99	5889	-	-	59	5830

@@ -1,0 +1,58 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-uforegrad-og-kjonn.pr.31.12.2016-2025.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	I alt	318244	325875	339245	352197	357563	360943	364437	366627	373036	374918
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	Tom. 49	1026	1483	2055	2558	2848	3080	3289	3396	3516	3561
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	50	25836	25005	24589	23998	22912	21833	20621	19388	18301	17253
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	51-69	13767	14158	14770	15417	15558	15594	15879	15981	16196	15994
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	70-80	9715	9941	10510	11038	11166	11112	11218	11191	11000	10758
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	81-99	3547	3980	4581	5202	5451	5665	5930	6135	6425	6488
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	100	264353	271308	282740	293984	299628	303539	307476	310533	317596	320862
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Antall.	Ukjent	-	-	-	-	-	120	24	3	2	2
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Kvinner	I alt	184660	189318	197637	205470	208684	211063	213383	215078	219161	220529
+Kvinner	Tom. 49	699	1064	1511	1897	2108	2272	2429	2483	2577	2636
+Kvinner	50	19618	19073	18753	18213	17403	16611	15712	14786	13987	13187
+Kvinner	51-69	9512	9856	10310	10795	10954	11052	11280	11412	11633	11514
+Kvinner	70-80	6010	6207	6621	6996	7132	7096	7120	7172	7082	6935
+Kvinner	81-99	1938	2196	2572	2932	3095	3235	3392	3582	3784	3833
+Kvinner	100	146883	150922	157870	164637	167992	170728	173433	175643	180098	182424
+Kvinner	Ukjent	-	-	-	-	-	69	17	-	-	-
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Menn	I alt	133584	136557	141608	146727	148879	149880	151054	151549	153875	154389
+Menn	Tom. 49	327	419	544	661	740	808	860	913	939	925
+Menn	50	6218	5932	5836	5785	5509	5222	4909	4602	4314	4066
+Menn	51-69	4255	4302	4460	4622	4604	4542	4599	4569	4563	4480
+Menn	70-80	3705	3734	3889	4042	4034	4016	4098	4019	3918	3823
+Menn	81-99	1609	1784	2009	2270	2356	2430	2538	2553	2641	2655
+Menn	100	117470	120386	124870	129347	131636	132811	134043	134890	137498	138438
+Menn	Ukjent	-	-	-	-	-	51	7	3	2	2
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Tom. 49	0.3	0.5	0.6	0.7	0.8	0.9	0.9	0.9	0.9	0.9
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	50	8.1	7.7	7.2	6.8	6.4	6.0	5.7	5.3	4.9	4.6
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	51-69	4.3	4.3	4.4	4.4	4.4	4.3	4.4	4.4	4.3	4.3
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	70-80	3.1	3.1	3.1	3.1	3.1	3.1	3.1	3.1	2.9	2.9
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	81-99	1.1	1.2	1.4	1.5	1.5	1.6	1.6	1.7	1.7	1.7
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	100	83.1	83.3	83.3	83.5	83.8	84.1	84.4	84.7	85.1	85.6
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Ukjent	-	-	-	-	-	0.0	0.0	0.0	0.0	0.0
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Kvinner i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Tom. 49	0.4	0.6	0.8	0.9	1.0	1.1	1.1	1.2	1.2	1.2
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	50	10.6	10.1	9.5	8.9	8.3	7.9	7.4	6.9	6.4	6.0
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	51-69	5.2	5.2	5.2	5.3	5.2	5.2	5.3	5.3	5.3	5.2
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	70-80	3.3	3.3	3.4	3.4	3.4	3.4	3.3	3.3	3.2	3.1
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	81-99	1.0	1.2	1.3	1.4	1.5	1.5	1.6	1.7	1.7	1.7
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	100	79.5	79.7	79.9	80.1	80.5	80.9	81.3	81.7	82.2	82.7
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Ukjent	-	-	-	-	-	0.0	0.0	-	-	-
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Menn i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Tom. 49	0.2	0.3	0.4	0.5	0.5	0.5	0.6	0.6	0.6	0.6
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	50	4.7	4.3	4.1	3.9	3.7	3.5	3.2	3.0	2.8	2.6
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	51-69	3.2	3.2	3.1	3.2	3.1	3.0	3.0	3.0	3.0	2.9
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	70-80	2.8	2.7	2.7	2.8	2.7	2.7	2.7	2.7	2.5	2.5
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	81-99	1.2	1.3	1.4	1.5	1.6	1.6	1.7	1.7	1.7	1.7
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	100	87.9	88.2	88.2	88.2	88.4	88.6	88.7	89.0	89.4	89.7
+Mottakere av uføretrygd, etter uføregrad og kjønn. Pr. 31.12.2016-2025. Prosent.	Ukjent	-	-	-	-	-	0.0	0.0	0.0	0.0	0.0

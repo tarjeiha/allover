@@ -1,0 +1,88 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-mottakere-av-uforetrygd-etter-kjonn-og-alder.1.halvar-2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	I alt	16010	18146	19445	17278	14930	14244	13738	15215	13840	15720
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	18-19	425	481	431	443	446	442	458	550	563	523
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	20-24	530	656	693	698	606	541	474	593	517	591
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	25-29	655	984	1195	1049	847	853	789	828	769	807
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	30-34	813	1075	1308	1270	1010	985	1002	1056	952	1098
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	35-39	1063	1411	1704	1353	1172	1093	1090	1145	1049	1282
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	40-44	1570	1808	2006	1608	1410	1271	1326	1347	1194	1428
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	45-49	2134	2367	2491	2151	1742	1679	1595	1652	1400	1682
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	50-54	2482	2711	2953	2638	2253	2152	1919	2213	1971	2147
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	55-59	2762	2871	3023	2821	2386	2389	2305	2683	2445	2848
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	60-64	2833	3032	2931	2595	2404	2267	2157	2480	2366	2660
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	65-67	743	750	710	652	653	564	623	668	614	654
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Antall.	Uoppgitt	-	-	-	-	1	8	-	-	-	-
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner.	Kvinner i alt	9170	10536	11327	10031	8604	8204	7985	8721	7932	9086
+Kvinner.	18-19	162	185	170	168	174	168	184	217	249	232
+Kvinner.	20-24	217	302	366	354	284	271	231	301	246	279
+Kvinner.	25-29	364	554	668	591	499	474	472	494	439	450
+Kvinner.	30-34	467	663	809	767	624	581	600	631	556	668
+Kvinner.	35-39	654	871	1021	829	735	668	700	695	630	823
+Kvinner.	40-44	994	1139	1323	1050	890	818	821	803	728	894
+Kvinner.	45-49	1330	1498	1562	1335	1092	1058	1032	1028	850	1024
+Kvinner.	50-54	1453	1620	1740	1600	1342	1338	1137	1354	1223	1298
+Kvinner.	55-59	1534	1607	1637	1571	1332	1313	1334	1528	1448	1674
+Kvinner.	60-64	1570	1662	1636	1401	1272	1204	1146	1329	1254	1420
+Kvinner.	65-67	425	435	395	365	360	307	328	341	309	324
+Kvinner.	Uoppgitt	-	-	-	-	-	4	-	-	-	-
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn.	Menn i alt	6840	7610	8118	7247	6326	6040	5753	6494	5908	6634
+Menn.	18-19	263	296	261	275	272	274	274	333	314	291
+Menn.	20-24	313	354	327	344	322	270	243	292	271	312
+Menn.	25-29	291	430	527	458	348	379	317	334	330	357
+Menn.	30-34	346	412	499	503	386	404	402	425	396	430
+Menn.	35-39	409	540	683	524	437	425	390	450	419	459
+Menn.	40-44	576	669	683	558	520	453	505	544	466	534
+Menn.	45-49	804	869	929	816	650	621	563	624	550	658
+Menn.	50-54	1029	1091	1213	1038	911	814	782	859	748	849
+Menn.	55-59	1228	1264	1386	1250	1054	1076	971	1155	997	1174
+Menn.	60-64	1263	1370	1295	1194	1132	1063	1011	1151	1112	1240
+Menn.	65-67	318	315	315	287	293	257	295	327	305	330
+Menn.	Uoppgitt	-	-	-	-	1	4	-	-	-	-
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	18-19	2.7	2.7	2.2	2.6	3.0	3.1	3.3	3.6	4.1	3.3
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	20-24	3.3	3.6	3.6	4.0	4.1	3.8	3.5	3.9	3.7	3.8
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	25-29	4.1	5.4	6.1	6.1	5.7	6.0	5.7	5.4	5.6	5.1
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	30-34	5.1	5.9	6.7	7.4	6.8	6.9	7.3	6.9	6.9	7.0
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	35-39	6.6	7.8	8.8	7.8	7.8	7.7	7.9	7.5	7.6	8.2
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	40-44	9.8	10.0	10.3	9.3	9.4	8.9	9.7	8.9	8.6	9.1
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	45-49	13.3	13.0	12.8	12.4	11.7	11.8	11.6	10.9	10.1	10.7
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	50-54	15.5	14.9	15.2	15.3	15.1	15.1	14.0	14.5	14.2	13.7
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	55-59	17.3	15.8	15.5	16.3	16.0	16.8	16.8	17.6	17.7	18.1
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	60-64	17.7	16.7	15.1	15.0	16.1	15.9	15.7	16.3	17.1	16.9
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	65-67	4.6	4.1	3.7	3.8	4.4	4.0	4.5	4.4	4.4	4.2
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	Uoppgitt	-	-	-	-	0.0	0.1	-	-	-	-
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	Kvinner i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	18-19	1.8	1.8	1.5	1.7	2.0	2.0	2.3	2.5	3.1	2.6
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	20-24	2.4	2.9	3.2	3.5	3.3	3.3	2.9	3.5	3.1	3.1
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	25-29	4.0	5.3	5.9	5.9	5.8	5.8	5.9	5.7	5.5	5.0
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	30-34	5.1	6.3	7.1	7.6	7.3	7.1	7.5	7.2	7.0	7.4
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	35-39	7.1	8.3	9.0	8.3	8.5	8.1	8.8	8.0	7.9	9.1
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	40-44	10.8	10.8	11.7	10.5	10.3	10.0	10.3	9.2	9.2	9.8
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	45-49	14.5	14.2	13.8	13.3	12.7	12.9	12.9	11.8	10.7	11.3
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	50-54	15.8	15.4	15.4	16.0	15.6	16.3	14.2	15.5	15.4	14.3
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	55-59	16.7	15.3	14.5	15.7	15.5	16.0	16.7	17.5	18.3	18.4
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	60-64	17.1	15.8	14.4	14.0	14.8	14.7	14.4	15.2	15.8	15.6
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	65-67	4.6	4.1	3.5	3.6	4.2	3.7	4.1	3.9	3.9	3.6
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	Uoppgitt	-	-	-	-	-	0.0	-	-	-	-
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	Menn i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	18-19	3.8	3.9	3.2	3.8	4.3	4.5	4.8	5.1	5.3	4.4
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	20-24	4.6	4.7	4.0	4.7	5.1	4.5	4.2	4.5	4.6	4.7
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	25-29	4.3	5.7	6.5	6.3	5.5	6.3	5.5	5.1	5.6	5.4
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	30-34	5.1	5.4	6.1	6.9	6.1	6.7	7.0	6.5	6.7	6.5
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	35-39	6.0	7.1	8.4	7.2	6.9	7.0	6.8	6.9	7.1	6.9
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	40-44	8.4	8.8	8.4	7.7	8.2	7.5	8.8	8.4	7.9	8.0
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	45-49	11.8	11.4	11.4	11.3	10.3	10.3	9.8	9.6	9.3	9.9
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	50-54	15.0	14.3	14.9	14.3	14.4	13.5	13.6	13.2	12.7	12.8
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	55-59	18.0	16.6	17.1	17.2	16.7	17.8	16.9	17.8	16.9	17.7
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	60-64	18.5	18.0	16.0	16.5	17.9	17.6	17.6	17.7	18.8	18.7
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	65-67	4.6	4.1	3.9	4.0	4.6	4.3	5.1	5.0	5.2	5.0
+Nye mottakere av uføretrygd, etter kjønn og alder. 1. halvår 2017-2026. Prosent.	Uoppgitt	-	-	-	-	0.0	0.1	-	-	-	-

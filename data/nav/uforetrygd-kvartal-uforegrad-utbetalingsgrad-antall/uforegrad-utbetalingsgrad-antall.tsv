@@ -1,0 +1,15 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-uforegrad-og-utbetalingsgrad.pr.30.06.2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	Uføregrad					
+gruppe	rad	I alt	Tom. 49	50	51-69	70-99	100
+Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.	Utbetalingsgrad i alt	378502	3600	16897	16237	17413	324355
+Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.	Uoppgitt	247	6	20	15	14	192
+Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.	Tom. 49	6843	3594	1449	678	274	848
+Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.	50	15553	-	15428	65	16	44
+Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.	51-69	17900	-	-	15479	920	1501
+Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.	70-99	26864	-	-	-	16189	10675
+Mottakere av uføretrygd etter uføregrad og utbetalingsgrad. Pr. 30.06.2026. Antall.	100	311095	-	-	-	-	311095

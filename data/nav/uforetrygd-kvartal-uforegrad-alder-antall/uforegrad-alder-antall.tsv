@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-uforegrad-og-alder.pr.30.06.2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	I alt	Tom. 49	50	51-69	70-80	81-99	100
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	I alt	378502	3600	16897	16237	10785	6628	324355
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	18-29	22290	64	150	284	243	255	21294
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	30-39	46094	382	1214	1423	1115	694	41266
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	40-44	29733	335	1265	1316	873	534	25410
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	45-49	37057	454	1774	1868	1245	755	30961
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	50-54	51860	600	2852	2775	1769	1006	42858
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	55-59	71240	817	4011	3730	2232	1323	59127
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	60-64	83680	724	4153	3625	2417	1449	71312
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Antall.	65-67	36548	224	1478	1216	891	612	32127
+gruppe	rad	I alt	Tom. 49	50	51-69	70-80	81-99	100
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	18-29	5.9	1.8	0.9	1.7	2.3	3.8	6.6
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	30-39	12.2	10.6	7.2	8.8	10.3	10.5	12.7
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	40-44	7.9	9.3	7.5	8.1	8.1	8.1	7.8
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	45-49	9.8	12.6	10.5	11.5	11.5	11.4	9.5
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	50-54	13.7	16.7	16.9	17.1	16.4	15.2	13.2
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	55-59	18.8	22.7	23.7	23.0	20.7	20.0	18.2
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	60-64	22.1	20.1	24.6	22.3	22.4	21.9	22.0
+Mottakere av uføretrygd, etter uføregrad og alder. Pr. 30.06.2026. Prosent.	65-67	9.7	6.2	8.7	7.5	8.3	9.2	9.9

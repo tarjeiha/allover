@@ -1,0 +1,24 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 30.06.2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-kjonn-og-ytelse.pr.30.06.2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 30.06.2017-2026. Antall.	I alt	321837	332084	346825	357505	360652	362766	366323	369803	374803	378502
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 30.06.2017-2026. Antall.	Med forsørgingstillegg for ektefelle 1)	460	321	231	175	131	109	82	66	-	-
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 30.06.2017-2026. Antall.	Med forsørgingstillegg for barn	23319	25185	27019	28147	29438	29021	30640	30123	30621	30700
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 30.06.2017-2026. Antall.	Minsteytelse 2)	71622	72935	79846	83995	85853	87432	89672	91856	98762	100967
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 30.06.2017-2026. Antall.	Gjenlevendetillegg 3)	6241	5954	5803	5662	5353	5115	4877	4429	3730	3138
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner	I alt	186861	193118	202254	208693	210580	212237	214722	217045	220392	222863
+Kvinner	Med forsørgingstillegg for ektefelle 1)	39	28	24	18	11	10	9	8	-	-
+Kvinner	Med forsørgingstillegg for barn	12555	13927	15287	16195	17119	17090	18316	18230	18590	18854
+Kvinner	Minsteytelse 2)	52389	52796	56767	58952	59642	60310	61452	62488	67159	68384
+Kvinner	Gjenlevendetillegg 3)	5860	5574	5429	5310	5016	4800	4545	4132	3476	2926
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn	I alt	134976	138966	144571	148812	150072	150529	151601	152758	154411	155639
+Menn	Med forsørgingstillegg for ektefelle 1)	421	293	207	157	120	99	73	58	-	-
+Menn	Med forsørgingstillegg for barn	10764	11258	11732	11952	12319	11931	12324	11893	12031	11846
+Menn	Minsteytelse 2)	19233	20139	23079	25043	26211	27122	28220	29368	31603	32583
+Menn	Gjenlevendetillegg 3)	381	380	374	352	337	315	332	297	254	212

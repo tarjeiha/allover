@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-fylke-og-alder.pr.31.12.2025.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	I alt	18-29	30-39	40-44	45-49	50-54	55-59	60-64	65-67	Uoppgitt
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	I alt	374918	22213	44926	29192	36617	52122	70784	82410	36652	2
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	03 Oslo	32063	1918	3483	2453	3326	4522	6084	7156	3121	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	11 Rogaland	28986	1925	3749	2477	3210	3903	5251	5950	2521	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	15 Møre og Romsdal	16483	989	1959	1322	1602	2258	3031	3574	1748	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	18 Nordland - Nordlánnda	19379	980	2200	1438	1708	2517	3754	4629	2153	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	31 Østfold	27162	1605	3084	1998	2552	3908	5333	6057	2625	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	32 Akershus	36456	2258	4035	2671	3530	5123	7147	8191	3501	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	33 Buskerud	19095	1365	2421	1545	1956	2695	3450	3922	1741	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	34 Innlandet	33066	1785	3941	2465	3038	4698	6415	7467	3257	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	39 Vestfold	20299	1219	2600	1597	1943	2730	3778	4414	2018	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	40 Telemark	15531	870	1901	1243	1512	2165	2945	3407	1487	1
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	42 Agder	28712	1671	3683	2580	3019	4155	5174	5897	2533	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	46 Vestland	36827	2370	4616	2981	3597	5199	6760	7820	3484	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	50 Trøndelag - Trööndelage	34613	2260	4725	2697	3310	4536	6345	7369	3371	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	55 Troms - Romsa - Tromssa	11906	608	1333	818	1052	1716	2344	2782	1252	1
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	56 Finnmark - Finnmárku - Finmarkku	5605	294	653	380	448	795	1180	1272	583	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	98 Bosatt i utlandet	7401	54	373	403	670	1015	1537	2222	1127	-
+Mottakere av uføretrygd, etter fylke og alder. Pr. 31.12.2025. Antall.	Ukjent	1334	42	170	124	144	187	256	281	130	-
