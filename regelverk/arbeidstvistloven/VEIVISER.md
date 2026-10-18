@@ -6,8 +6,7 @@ Loven forvaltes av Arbeids- og inkluderingsdepartementet.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Merknadsfilen dekker også tjenestetvistloven.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
@@ -16,16 +15,23 @@ Merknadsfilen dekker også tjenestetvistloven.
 - **Fredsplikt.** Rettstvist må aldri løses ved streik eller lockout (§ 8 første ledd). Interessetvist kan først løses ved arbeidskamp når vilkårene i §§ 18 og 25 er oppfylt, og ved revisjon må tariffavtalens gyldighetstid være utløpt (§ 8 andre ledd).
 - **Arbeidsretten behandler rettstvister, ikke interessetvister.** Domsmyndigheten gjelder rettstvister, brudd på fredsplikten og erstatningsansvar etter § 9 (§ 34 første ledd). Interessetvister løses gjennom forhandling, mekling og eventuelt arbeidskamp.
 - **Frister må gjengis nøyaktig.** Plassoppsigelse som ledd i interessetvist skal være skriftlig, og fristen er 14 dager hvis ikke annet er avtalt skriftlig (§ 15 første ledd). For statsansatte er fristen 3 måneder (tjenestetvistloven § 22 nr. 2). Les også §§ 16 til 18 og § 25 om melding til riksmekleren, tidspunkt for streik og meklingens avslutning.
+- **Tvungen lønnsnemnd følger ikke av arbeidstvistloven eller tjenestetvistloven.** Den vedtas ved særskilt lov i hvert enkelt tilfelle.
+
+## Ikke i basen
+
+- **Hovedavtalene** (Hovedavtalen LO–NHO og Hovedavtalen i staten) og andre tariffavtaler enn Hovedtariffavtalen i staten. Mye av det som styrer et konkret oppgjør, står i hovedavtalene. Gjelder spørsmålet forhandlingsordningen i praksis eller partenes egne prosedyrer, si at avtaleverket ikke er i basen.
+- **Lov om lønnsnemnd i arbeidstvister og tvisteloven.**
+- **Arbeidsrettens praksis.** Den er sentral for hvordan bestemmelsene forstås. Ved tolkningsspørsmål, si at bare lovteksten er gjennomgått.
 
 ## Merknader og andre kilder
 
 | Tema | Les |
 |---|---|
-| sektor, interessetvist og rettstvist, hva som ikke er dekket | `merknader/generelt.md` |
 | streik og tariffavtaler i staten | `regelverk/tjenestetvistloven/VEIVISER.md` |
 | allmenngjøring av tariffavtaler | `regelverk/allmenngjoringsloven/VEIVISER.md` |
 | ferie under arbeidskamp | `regelverk/ferieloven/VEIVISER.md` |
-| dagpenger under streik og lockout | `regelverk/folketrygdloven/VEIVISER.md` |
+| dagpenger under streik og lockout (folketrygdloven § 4-22) | `regelverk/folketrygdloven/VEIVISER.md` |
+| rettstvist etter tariffavtalen i staten (del 8) | `regelverk/hovedtariffavtalen/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
@@ -123,11 +129,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 64. Ikraftsetting – `lov/par-64.md`
 - § 65. Endringer i andre lover – `lov/par-65.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Arbeidstvistloven og tjenestetvistloven – `merknader/generelt.md`
 <!-- AUTO-SLUTT -->

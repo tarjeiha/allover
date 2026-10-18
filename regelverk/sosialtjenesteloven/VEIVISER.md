@@ -4,8 +4,8 @@ Lov om sosiale tjenester i arbeids- og velferdsforvaltningen regulerer kommunens
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Hovedrundskrivet til loven og de statlige veiledende satsene for økonomisk stønad er ikke i basen. Det er et større hull her enn for de fleste andre lover.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+Hovedrundskrivet til loven og de statlige veiledende satsene for økonomisk stønad er ikke i basen. Det er et større hull her enn for de fleste andre lover: hovedrundskrivet er den sentrale kilden til hvordan skjønnet praktiseres. Helse- og omsorgstjenesteloven, husleieloven og barnevernsloven er heller ikke i basen. Spørsmål om hvordan skjønnet utøves, kan bare besvares på ordlydsnivå.
 
 ## Kjente feller
 
@@ -20,7 +20,6 @@ Hovedrundskrivet til loven og de statlige veiledende satsene for økonomisk stø
 
 | Tema | Les |
 |---|---|
-| økonomisk stønad, vilkår, midlertidig botilbud, kvalifiseringsprogram | `regelverk/sosialtjenesteloven/merknader/generelt.md` |
 | NAV-kontoret, behovsvurdering, individuell plan | `regelverk/nav-loven/VEIVISER.md` |
 | ytelser fra folketrygden | `regelverk/folketrygdloven/VEIVISER.md` |
 | introduksjonsprogram for nyankomne | `regelverk/integreringsloven/VEIVISER.md` |
@@ -164,11 +163,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 1. Plikten til å stille vilkår om aktivitet – `forskrifter/bruk-av-vilkar/par-1.md`
 - § 2. Ikrafttredelse – `forskrifter/bruk-av-vilkar/par-2.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Sosialtjenesteloven – `merknader/generelt.md`
 <!-- AUTO-SLUTT -->

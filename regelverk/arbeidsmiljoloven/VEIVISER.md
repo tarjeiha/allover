@@ -6,8 +6,7 @@ Loven forvaltes av Arbeids- og inkluderingsdepartementet.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Merknadene er delt etter kapitlene i loven, se tabellen nederst.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
@@ -16,24 +15,24 @@ Merknadene er delt etter kapitlene i loven, se tabellen nederst.
 - **Statsansatte.** Etter § 1-2 tredje ledd kan det gis forskrift om hvor langt kapittel 14 til 17 gjelder for arbeidstakere som omfattes av statsansatteloven, og for embetsmenn. Se `regelverk/statsansatteloven/VEIVISER.md` når spørsmålet gjelder statsansatte.
 - **Arbeidstid kan fravikes ved tariffavtale.** Fagforening med innstillingsrett kan inngå tariffavtale som fraviker kapittel 10, med unntakene som står i § 10-12 fjerde ledd. Flere paragrafer har egne ledd om avtaleadgang. Hovedregelen alene gir ofte feil svar for tariffbundne virksomheter.
 - **Bransjeforskrifter om arbeidstid går foran.** Departementet kan gi særlige regler for arbeid av særegen art (§ 10-12 åttende ledd). Det er gjort for bl.a. vegtransport, luftfart, jernbane, politi, avlastere og medleverordninger. Sjekk forskriftslisten når spørsmålet gjelder en bestemt bransje.
+- **Varslingsreglene er endret flere ganger.** Kapittel 2 A har fått vesentlig utvidet innhold, og eldre fremstillinger er ofte utdaterte. Les gjeldende tekst.
 - **Kontrolltiltak krever også personvernregelverket.** § 9-1 første ledd gir vilkårene, men etter andre ledd gjelder personopplysningsloven for behandling av opplysninger om arbeidstakere ved kontrolltiltak. Se `regelverk/personopplysningsloven/VEIVISER.md` og personvernforordningen (GDPR) i `regelverk/eu/forordning-2016-679/VEIVISER.md`.
 - **Kapittel 12 gir rett til fri, ikke rett til penger.** Ytelsene under permisjon (foreldrepenger, omsorgspenger, pleiepenger) følger av folketrygdloven, se `regelverk/folketrygdloven/VEIVISER.md`. Koblingen står bl.a. i § 12-5 første ledd og § 12-9 femte ledd. Unntak der arbeidsmiljøloven selv gir lønn: svangerskapskontroll (§ 12-1) og ammefri (§ 12-8 andre ledd).
-- **Kapittel 13 er ikke det generelle diskrimineringsvernet.** § 13-1 dekker politisk syn, medlemskap i arbeidstakerorganisasjon, alder, deltid og midlertidig ansettelse. For kjønn, graviditet, etnisitet, religion, funksjonsnedsettelse, seksuell orientering m.m. gjelder likestillings- og diskrimineringsloven (§ 13-1 fjerde ledd), se `regelverk/likestillings-og-diskrimineringsloven/VEIVISER.md`.
-- **Midlertidig ansettelse og innleie er strammet inn.** Utgangspunktet er fast ansettelse (§ 14-9 første ledd). Innleie fra bemanningsforetak er bare tillatt i samme utstrekning som midlertidig ansettelse etter § 14-9 andre ledd bokstav b til e (§ 14-12 første ledd), altså ikke for arbeid av midlertidig karakter. Overgangsreglene for innleie kan avgjøre hvilken regel som gjelder for eldre avtaler.
+- **Kapittel 13 er ikke det generelle diskrimineringsvernet.** § 13-1 dekker politisk syn, medlemskap i arbeidstakerorganisasjon, alder, deltid og midlertidig ansettelse. For kjønn, graviditet, etnisitet, religion, funksjonsnedsettelse, seksuell orientering m.m. gjelder likestillings- og diskrimineringsloven (§ 13-1 fjerde ledd), se `regelverk/likestillings-og-diskrimineringsloven/VEIVISER.md`. Håndhevingen (ombudet og Diskrimineringsnemnda) står i diskrimineringsombudsloven, se `regelverk/diskrimineringsombudsloven/VEIVISER.md`.
+- **Midlertidig ansettelse og innleie er strammet inn.** Utgangspunktet er fast ansettelse (§ 14-9 første ledd). Innleie fra bemanningsforetak er bare tillatt i samme utstrekning som midlertidig ansettelse etter § 14-9 andre ledd bokstav b til e (§ 14-12 første ledd), altså ikke for arbeid av midlertidig karakter. Overgangsreglene for innleie (`forskrifter/overgangsregler-innleie/`) kan avgjøre hvilken regel som gjelder for eldre avtaler.
 - **Oppsigelse: skill mellom saklig grunn og saksbehandling.** Det materielle vilkåret står i § 15-7. Drøfting, frister og formkrav står i §§ 15-1 til 15-4, med egne virkninger av formfeil i § 15-5. Spørsmålet gjelder ofte bare den ene siden.
 - **Administrative reaksjoner og straff er to spor.** Pålegg, tvangsmulkt, stansing og overtredelsesgebyr står i kapittel 18 (§§ 18-6 til 18-10). Straffansvar står i kapittel 19, og § 19-1 fjerde ledd unntar bl.a. kapittel 8, 12, 13, 15 og 16 fra straffansvaret. Vilkår og prosess er forskjellige.
 - **Ferie står ikke i arbeidsmiljøloven.** Feriefritid og feriepenger reguleres av ferieloven (ferieloven § 1), se `regelverk/ferieloven/VEIVISER.md`.
+
+## Ikke i basen
+
+- **HMS-forskriftene** (bl.a. forskrift om utførelse av arbeid, tiltaks- og grenseverdier, organisering, ledelse og medvirkning, arbeidsplassforskriften, produsentforskriften, byggherreforskriften og internkontrollforskriften), **kjemikalie- og produktregelverket** (REACH, CLP, biocider, maskiner, eksplosjonsfarlig område, personlig verneutstyr, storulykke) og **petroleums- og havbunnsforskriftene** (ramme-, styrings-, aktivitets- og innretningsforskriften, landanlegg, havbunnsmineraler, CO2-transport). Ved spørsmål om grenseverdier, kjemikalier, maskinsikkerhet eller sokkelvirksomhet: si at forskriften ikke er i basen, og svar ikke ut fra lovens generelle bestemmelser som om de var uttømmende.
+- **Forarbeider (særlig Ot.prp. nr. 49 (2004–2005)), rettspraksis og Arbeidstilsynets kommentarer.** De har stor vekt for tolkningen. Skjønnsmessige vurderinger som saklig grunn, forsvarlighet og rimelighet kan bare besvares på ordlydsnivå, og svaret skal si det.
 
 ## Merknader og andre kilder
 
 | Tema | Les |
 |---|---|
-| hvem loven gjelder for, arbeidstaker eller oppdragstaker, hjemmekontor, utsendte arbeidstakere (kap. 1) | `merknader/virkeomrade.md` |
-| plikter, varsling, HMS-arbeid, verneombud, AMU, kontrolltiltak (kap. 2, 2A, 3–9) | `merknader/arbeidsmiljo-medvirkning.md` |
-| arbeidstid, overtid, nattarbeid, barn og ungdom (kap. 10–11) | `merknader/arbeidstid.md` |
-| permisjon og diskrimineringsvern (kap. 12–13) | `merknader/permisjon-diskriminering.md` |
-| ansettelse, innleie, oppsigelse, virksomhetsoverdragelse, tvister (kap. 14–17) | `merknader/ansettelse-opphor.md` |
-| Arbeidstilsynet, pålegg, straff, HMS-kort, godkjenningsordninger (kap. 18–20) | `merknader/tilsyn-godkjenning.md` |
 | ytelser under sykdom og permisjon | `regelverk/folketrygdloven/VEIVISER.md` |
 | meldeplikt til NAV ved masseoppsigelser og permitteringer | `regelverk/arbeidsmarkedsloven/VEIVISER.md` |
 
@@ -999,16 +998,4 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 - Forordning 2021/2179 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14.md`
 - Forordning 2022/695 – ikke i basen. Nevnt i `forskrifter/vegtransport/par-22.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Arbeidsmiljøloven – ansettelse og opphør – `merknader/ansettelse-opphor.md`
-- Arbeidsmiljøloven – arbeidsmiljø og medvirkning – `merknader/arbeidsmiljo-medvirkning.md`
-- Arbeidsmiljøloven – arbeidstid – `merknader/arbeidstid.md`
-- Arbeidsmiljøloven – permisjon og diskrimineringsvern – `merknader/permisjon-diskriminering.md`
-- Arbeidsmiljøloven – tilsyn, straff og godkjenningsordninger – `merknader/tilsyn-godkjenning.md`
-- Arbeidsmiljøloven – virkeområde – `merknader/virkeomrade.md`
 <!-- AUTO-SLUTT -->

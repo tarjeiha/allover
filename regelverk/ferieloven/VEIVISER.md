@@ -2,11 +2,11 @@
 
 Ferieloven sikrer arbeidstakere årlig feriefritid og feriepenger. Den regulerer feriens lengde, opptjeningsår og ferieår, feriefastsetting, ferie under sykdom, permisjon og arbeidskamp, og beregning og utbetaling av feriepenger. Forskriftene gjelder ferie på Svalbard, ferie for arbeidstakere på skip (Nærings- og fiskeridepartementet) og delegering av myndighet.
 
-Loven forvaltes av Arbeids- og inkluderingsdepartementet.
+Loven forvaltes av Arbeids- og inkluderingsdepartementet. Arbeidstilsynets veiledning og departementets fortolkningsuttalelser er ikke i basen. Ferievilkårene er i praksis ofte avtaleregulert på toppen av loven, og av tariffavtalene er bare Hovedtariffavtalen i staten i basen.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
@@ -21,7 +21,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 | Tema | Les |
 |---|---|
-| feriedager, feriepengesats, opptjening, sykdom i ferien, hva som ikke er dekket | `merknader/generelt.md` |
+| ferie i staten og den femte ferieuken for statsansatte | `regelverk/hovedtariffavtalen/VEIVISER.md` (del 6) |
 | sykepenger og foreldrepenger | `regelverk/folketrygdloven/VEIVISER.md` |
 | arbeidstid, permisjon og oppsigelse | `regelverk/arbeidsmiljoloven/VEIVISER.md` |
 | feriepenger når arbeidsgiver går konkurs | `regelverk/lonnsgarantiloven/VEIVISER.md` |
@@ -92,11 +92,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/delegering/tekst.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Ferieloven – `merknader/generelt.md`
 <!-- AUTO-SLUTT -->

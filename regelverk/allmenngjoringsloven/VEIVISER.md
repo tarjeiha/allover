@@ -6,22 +6,27 @@ Loven forvaltes av Arbeids- og inkluderingsdepartementet.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
-- **Oppgi aldri minstelønn fra hukommelsen.** Satsene endres normalt ved hver tariffrevisjon, og forskriftene har egne regler om regulering av lønn i virketiden (i de fleste forskriftene § 4, i byggeplassforskriften § 5). Gjengi satsen fra forskriften med paragrafhenvisning, oppgi datoen for «sist endret i kraft», og si at satsen kan være endret etter dette.
+- **Oppgi aldri minstelønn fra hukommelsen.** Satsene endres normalt ved hver tariffrevisjon, og forskriftene har egne regler om regulering av lønn i virketiden (i de fleste forskriftene § 4, i byggeplassforskriften § 5). Gjengi satsen fra forskriften med paragrafhenvisning, oppgi datoen for «sist endret i kraft», og si at satsen kan være endret etter dette. Før satsen brukes i noe som får konsekvenser, vis til Arbeidstilsynets oversikt over allmenngjorte satser eller Lovdata.
 - **Sjekk virkeområdet før satsen.** Hver bransjeforskrift gjelder bare avgrensede typer arbeid, og avgrensningen er ofte snevrere enn navnet antyder. Virkeområdet står i § 2. Lønnsbestemmelsen står i § 3 i de fleste forskriftene, men i § 4 i byggeplassforskriften.
-- **Allmenngjøring setter et gulv, ikke en fasit.** Vilkårene i vedtaket gjelder som ufravikelige minstevilkår (§ 6 fjerde ledd). Arbeidsavtale eller tariffavtale kan gi mer. Flere forskrifter unntar grupper fra virkeområdet, f.eks. lærlinger og personer på arbeidsmarkedstiltak (byggeplassforskriften § 2 andre ledd).
+- **Allmenngjøring setter et gulv, ikke en fasit.** Vilkårene i vedtaket gjelder som ufravikelige minstevilkår (§ 6 fjerde ledd). Arbeidsavtale eller tariffavtale kan gi mer. Flere forskrifter unntar grupper fra virkeområdet, f.eks. lærlinger og personer på arbeidsmarkedstiltak (byggeplassforskriften § 2 andre ledd). Flere forskrifter regulerer også arbeidstid og tillegg, men bare innenfor sitt virkeområde.
 - **Ansvar i kontraktskjeden følger av forskriften om informasjons- og påseplikt, ikke av bransjeforskriften.** Lovens § 12 gir hjemmel for informasjons-, påse- og dokumentasjonsplikt for oppdragsgivere og oppdragstakere. Forskriften gjelder der det utføres arbeid innenfor virkeområdet til en allmenngjøringsforskrift (forskriften § 2 første ledd), og regulerer også tillitsvalgtes innsynsrett.
 - **Arbeidstilsynet håndhever.** Arbeidstilsynet fører tilsyn med allmenngjorte vilkår og med oppdragsgivers plikter etter § 12, og kan gi pålegg og treffe enkeltvedtak (§ 11). Se også `regelverk/arbeidsmiljoloven/VEIVISER.md` for reaksjonene i arbeidsmiljøloven kapittel 18.
 - **Utsendte arbeidstakere.** Lovens formål er å sikre utenlandske arbeidstakere likeverdige lønns- og arbeidsvilkår (§ 1). Hvilke norske regler som gjelder for arbeidstakere sendt til Norge, følger av arbeidsmiljøloven § 1-7 og forskrift om utsendte arbeidstakere, se `regelverk/arbeidsmiljoloven/VEIVISER.md`.
+
+## Ikke i basen
+
+- **De allmenngjorte tariffavtalene selv.** Bare forskriftene som allmenngjør deler av dem, er i basen.
+- **Forskrift om lønns- og arbeidsvilkår i offentlige kontrakter.** Det er en egen ordning som ofte forveksles med allmenngjøring. Gjelder spørsmålet krav i offentlige anskaffelser, si at forskriften ikke er i basen, og vis til Lovdata.
+- **Tariffnemndas vedtak og begrunnelser**, og dokumentasjonskravene i nemndas saksbehandling.
 
 ## Merknader og andre kilder
 
 | Tema | Les |
 |---|---|
-| minstelønn, allmenngjøringsordningen, påseplikt, hva som ikke er dekket | `merknader/generelt.md` |
 | utsendte arbeidstakere, arbeidstid, innleie, Arbeidstilsynets reaksjoner | `regelverk/arbeidsmiljoloven/VEIVISER.md` |
 | tariffavtaler og arbeidstvister | `regelverk/arbeidstvistloven/VEIVISER.md` |
 
@@ -287,11 +292,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 10. Ikrafttreden og opphør – `forskrifter/skips-og-verftsindustrien/par-10.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Allmenngjøringsloven – `merknader/generelt.md`
 <!-- AUTO-SLUTT -->

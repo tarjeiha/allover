@@ -170,7 +170,7 @@ Følgende er ikke dekket. Spørsmål om dem skal ikke besvares fra hukommelsen, 
 4. **Når regelverket ikke er i basen.** Basen bygges ut gradvis.
    - Finnes det en egen skill for regelverket, bruk den.
    - Finnes det ingen, si tydelig at regelverket ikke er dekket. Nevn hvilket regelverk som trolig gjelder, og vis til Lovdata (lovdata.no). Ikke konkluder på spørsmålet.
-   - Er regelverket i basen, men paragrafene svarer ikke på spørsmålet, si det. Gi aldri et selvsikkert svar uten kilde.
+   - Er regelverket i basen, men paragrafene svarer ikke på spørsmålet, si det. Skriv «ingen bestemmelse funnet i det jeg har gått gjennom», ikke «finnes ikke». Gi aldri et selvsikkert svar uten kilde.
 5. **Ordrett gjengivelse når brukeren ber om lovteksten.** Gjengi filen i sin helhet, med ledd, bokstavpunkter og overskrifter slik de står. Lovtekst på nynorsk siteres på nynorsk. Ellers svarer du på brukerens språk.
 6. **Oppgi hvor oppdatert teksten er** når det kan ha betydning, med datoen for «sist endret i kraft» fra veiviseren.
 7. **Si fra om vedtatte endringer.** Har en paragraf du bygger på et varsel om vedtatt endring, eller viser veiviseren en vedtatt endring som berører spørsmålet, skal svaret si det: hva som endres, når endringen trer i kraft (eller at Kongen ikke har bestemt tidspunktet ennå), og at svaret bygger på teksten som gjelder i dag. Les den nye ordlyden i `vedtatte-endringer/` før du beskriver endringen.

@@ -2,12 +2,12 @@
 
 Utlendingsloven regulerer utlendingers adgang til riket og opphold her: visum og grensekontroll, oppholdstillatelser for arbeid og studier, beskyttelse, familieinnvandring, permanent oppholdstillatelse, utvisning, EØS- og EFTA-borgeres oppholdsrett og saksbehandling. Utlendingsforskriften utfyller loven, og mange vilkår står bare i forskriften.
 
-Loven forvaltes av Justis- og beredskapsdepartementet. Forskriften er fastsatt av både Justis- og beredskapsdepartementet og Arbeids- og inkluderingsdepartementet. Regelverket endres ofte, særlig forskriften. UDIs rundskriv og praksisnotater, UNEs praksis og departementenes instrukser (GI-rundskriv) ligger ikke i basen.
+Loven forvaltes av Justis- og beredskapsdepartementet. Forskriften er fastsatt av både Justis- og beredskapsdepartementet og Arbeids- og inkluderingsdepartementet. Regelverket endres ofte, særlig forskriften. UDIs rundskriv og praksisnotater, UNEs praksis og departementenes instrukser (GI-rundskriv) ligger ikke i basen. Basen kan derfor ikke svare på behandlingstider, gebyrer, lønnskrav i kroner eller kvoter som ikke står i forskriftsteksten. EØS-avtalens hoveddel og utmeldingsavtalen med Storbritannia er heller ikke i basen.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Hele loven og forskriften ligger i basen, men merknadene gjelder bare arbeidsinnvandring og EØS-reglene (lovens §§ 5, 55, kap. 3 og kap. 13, forskriften kap. 1, 6 og 19). For asyl, familieinnvandring, visum og andre deler finnes ingen merknader.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+Hele loven og forskriften ligger i basen, men fellene under gjelder bare arbeidsinnvandring og EØS-reglene (lovens §§ 5, 55, kap. 3 og kap. 13, forskriften kap. 1, 6 og 19). For asyl, familieinnvandring, visum, studier og andre deler finnes ingen merknader.
 
 ## Kjente feller
 
@@ -20,15 +20,18 @@ Fellene under gjelder arbeidsinnvandring og EØS-reglene.
   - Borgere utenfor EØS må ha oppholdstillatelse for å arbeide (§ 55 første ledd), etter kap. 3 og forskriften kap. 6. Unntak fra kravet står i forskriften §§ 1-1, 1-1A, 1-1B og 1-3.
 - **Oppholdsrett er ikke oppholdstillatelse.** En EØS-borger har rett uten vedtak. Registreringsbeviset bekrefter retten og utstedes straks når dokumentasjonen er lagt fram (§ 117 første ledd). Beskriv ikke EØS-borgerens situasjon som en tillatelse som innvilges.
 - **Varig oppholdsrett og permanent oppholdstillatelse er forskjellige ordninger.** Varig oppholdsrett for EØS-borgere og familiemedlemmer står i §§ 115–116. Permanent oppholdstillatelse står i § 62. Begge kan ha betydning for statsborgerskap, jf. statsborgerloven § 7 første ledd bokstav d, se `regelverk/statsborgerloven/VEIVISER.md`.
-- **EØS-borgere har egne regler om bortvisning og utvisning.** Se §§ 121–124 og forskriften §§ 19-28 til 19-30.
-- **Arbeidstillatelsen bygger også på allmenne regler.** Kap. 3 og forskriften kap. 6 må ofte leses sammen med de allmenne reglene i loven og forskriften om blant annet underhold, varighet, fornyelse og tilbakekall. § 23 femte ledd gir hjemmel til forskrift om blant annet permanent oppholdstillatelse og tilbakekall.
+- **EØS-borgere har egne regler om bortvisning og utvisning.** Se §§ 121–124 og forskriften §§ 19-28 til 19-30. Utvisning av andre utlendinger står i lovens kap. 8 og forskriften kap. 14.
+- **Arbeidstillatelsen bygger også på allmenne regler.** Kap. 3 og forskriften kap. 6 må ofte leses sammen med de allmenne reglene i lovens kap. 7 og forskriften kap. 10 om blant annet underhold, varighet, fornyelse og tilbakekall, og med reglene om permanent oppholdstillatelse (§ 62, forskriften kap. 11). § 23 femte ledd gir hjemmel til forskrift om blant annet permanent oppholdstillatelse og tilbakekall.
+- **EU-rettsaktene bak kap. 13 er ikke kontrollert mot EØS-avtalen.** Bevegelsesdirektivet 2004/38/EF (`regelverk/eu/direktiv-2004-38/VEIVISER.md`) og forordning (EU) nr. 492/2011 (`regelverk/eu/forordning-492-2011/VEIVISER.md`, jf. forskriften § 19-5b) ligger i basen som EU-tekst. Les veiviseren for rettsakten før du bruker den.
 - **Tariffkravet henger sammen med allmenngjøring.** Etter § 23 første ledd bokstav b skal lønns- og arbeidsvilkår ikke være dårligere enn etter gjeldende tariffavtale eller regulativ for bransjen. Se `regelverk/allmenngjoringsloven/VEIVISER.md`. Arbeidsgivers plikter står i `regelverk/arbeidsmiljoloven/VEIVISER.md`.
 
 ## Merknader og andre kilder
 
 | Tema | Les |
 |---|---|
-| Arbeidsinnvandring fra land utenfor EØS, EØS- og EFTA-borgeres oppholdsrett, nordiske og britiske borgere | `merknader/arbeid-eos.md` |
+| innleie og utsendte arbeidstakere | `regelverk/arbeidsmiljoloven/VEIVISER.md`, `regelverk/eu/direktiv-96-71/VEIVISER.md`, `regelverk/eu/direktiv-2014-67/VEIVISER.md` |
+| trygderettigheter for EØS-borgere | `regelverk/folketrygdloven/VEIVISER.md`, `regelverk/eu/forordning-883-2004/VEIVISER.md` |
+| saksbehandling (lovens kap. 11 har egne regler i tillegg) | `regelverk/forvaltningsloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
@@ -823,11 +826,4 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 - Forordning 2024/1358 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`, `lov/par-101.md`, `lov/par-98.md`, `lov/par-9a.md`
 - Forordning 2024/1359 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-7-4a.md`, `lov/par-32.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Utlendingsloven – arbeidsinnvandring og EØS-borgeres rettigheter – `merknader/arbeid-eos.md`
 <!-- AUTO-SLUTT -->

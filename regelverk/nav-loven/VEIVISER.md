@@ -4,7 +4,7 @@ Arbeids- og velferdsforvaltningsloven regulerer organiseringen av Arbeids- og ve
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 NAVs rundskriv til loven er ikke i basen. Spørsmål om hvordan skjønnet praktiseres, kan bare besvares på ordlydsnivå.
 
 ## Kjente feller
@@ -18,10 +18,10 @@ NAVs rundskriv til loven er ikke i basen. Spørsmål om hvordan skjønnet prakti
 
 | Tema | Les |
 |---|---|
-| NAV-kontoret, taushetsplikt, behovsvurdering, aktivitetsplan, individuell plan | `regelverk/nav-loven/merknader/generelt.md` |
 | økonomisk sosialhjelp, kvalifiseringsprogram | `regelverk/sosialtjenesteloven/VEIVISER.md` |
 | arbeidsmarkedstiltak, registrering som arbeidssøker | `regelverk/arbeidsmarkedsloven/VEIVISER.md` |
 | ytelser fra folketrygden | `regelverk/folketrygdloven/VEIVISER.md` |
+| behandling av personopplysninger (§ 4a) | `regelverk/personopplysningsloven/VEIVISER.md` og `regelverk/eu/forordning-2016-679/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
@@ -170,11 +170,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 2. Hvem kan gis elektronisk tilgang – `forskrifter/innkrevingsmyndigheten-tilgang/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/innkrevingsmyndigheten-tilgang/par-3.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- NAV-loven (arbeids- og velferdsforvaltningsloven) – `merknader/generelt.md`
 <!-- AUTO-SLUTT -->
