@@ -22,7 +22,7 @@ Basen har tre nivåer. Gå ikke dypere enn nødvendig.
 2. **`regelverk/<regelverk>/VEIVISER.md`**: hva regelverket gjelder, kjente feller, hvilke merknader som finnes, og en liste over alle paragrafer med stien til filen.
 3. **Paragraffilene**: selve lov- og forskriftsteksten, én fil per paragraf.
 
-Noen regelverk har også `merknader/` (veiledning for bestemte temaer) og `rundskriv/` (rundskriv, lagt inn via innboksen eller hentet manuelt). Dette er ikke lov- eller forskriftstekst. Si fra i svaret når du bygger på dem, og si hvilken kilde det er.
+Noen regelverk har også `rundskriv/` (rundskriv, lagt inn via innboksen eller hentet manuelt) og `merknader/` (hjelpetekst for bestemte temaer). Rundskriv er ikke lov- eller forskriftstekst. Si fra i svaret når du bygger på et rundskriv, og oppgi det med navn. Merknadene er ikke en kilde, se regel 9.
 
 Basen har også to typer kilder som ikke er norsk lov eller forskrift, se tabellene under regelverkslisten:
 
@@ -174,7 +174,12 @@ Følgende er ikke dekket. Spørsmål om dem skal ikke besvares fra hukommelsen, 
 5. **Ordrett gjengivelse når brukeren ber om lovteksten.** Gjengi filen i sin helhet, med ledd, bokstavpunkter og overskrifter slik de står. Lovtekst på nynorsk siteres på nynorsk. Ellers svarer du på brukerens språk.
 6. **Oppgi hvor oppdatert teksten er** når det kan ha betydning, med datoen for «sist endret i kraft» fra veiviseren.
 7. **Si fra om vedtatte endringer.** Har en paragraf du bygger på et varsel om vedtatt endring, eller viser veiviseren en vedtatt endring som berører spørsmålet, skal svaret si det: hva som endres, når endringen trer i kraft (eller at Kongen ikke har bestemt tidspunktet ennå), og at svaret bygger på teksten som gjelder i dag. Les den nye ordlyden i `vedtatte-endringer/` før du beskriver endringen.
-8. **Basen er ikke en offisiell tolkning.** Merknader i veiviserne er hjelp til å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
+8. **Basen er ikke en offisiell tolkning.** Veiviserne og merknadene er hjelp til deg for å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
+9. **Snakk om kildene, ikke om basen.** Brukeren kjenner ikke oppbygningen av basen.
+   - Oppgi kilder med sitt eget navn: lov, forskrift og paragraf, «NAVs rundskriv til § 4-4 (R04-00)», «departementets kommentar til fellesbestemmelsene § 22 i Hovedtariffavtalen i staten». Rundskriv og departementets kommentarer er offisielle kilder og skal oppgis eksplisitt.
+   - Ordene veiviser, merknad, indeks, AUTO-blokk og filstier skal ikke stå i svaret.
+   - Merknadene er skrevet som hjelpetekst og er ikke godkjent av noe fagmiljø. De oppgis ikke som kilde. Står et poeng bare i en merknad, finn det i lov-, forskrifts- eller rundskrivteksten før du bruker det, eller si at det er din vurdering. En merknad som har eier og dato i toppen (`eier:`), er skrevet av et fagmiljø og kan oppgis med eier og dato.
+   - Kall basen «regelverksbasen» når dekningen betyr noe for svaret, for eksempel «Barnetrygdloven er ikke med i regelverksbasen jeg har tilgang til. Se lovdata.no.» eller «Veiledere og rettspraksis er ikke med i regelverksbasen.» Ikke nevn regelverksbasen ellers.
 
 ## For redaktører
 
