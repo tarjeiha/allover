@@ -1,0 +1,17 @@
+name: test-nav-henting
+on:
+  push:
+    branches: [claude/test-nav-henting]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 verktoy/eurostat_hent.py
+      - name: Resultat
+        run: |
+          ls -l data/eurostat | awk '{print $5, $9}'
+          for k in une_ltu_a edat_lfse_20 gov_10a_exp trng_lfse_01; do echo "=== $k"; grep -v "^# \(Spørring\)" data/eurostat/$k.tsv | cut -c1-170 | sed -n 1,12p; grep -E "^(NO|SE)\b" data/eurostat/$k.tsv | cut -c1-200 | head -6; done

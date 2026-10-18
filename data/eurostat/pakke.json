@@ -1,14 +1,199 @@
 {
- "land": ["NO", "SE", "DK", "FI", "DE", "EU27_2020"],
+ "land": [
+  "NO",
+  "SE",
+  "DK",
+  "FI",
+  "IS",
+  "DE",
+  "AT",
+  "BE",
+  "BG",
+  "HR",
+  "CY",
+  "CZ",
+  "EE",
+  "FR",
+  "EL",
+  "HU",
+  "IE",
+  "IT",
+  "LV",
+  "LT",
+  "LU",
+  "MT",
+  "NL",
+  "PL",
+  "PT",
+  "RO",
+  "SK",
+  "SI",
+  "ES",
+  "EU27_2020"
+ ],
  "fra_aar": 2005,
  "tabeller": [
-  {"kode": "une_rt_a", "tittel": "Arbeidsledighet etter kjønn og alder, årlig (prosent av arbeidsstyrken)",
-   "filter": {"unit": ["PC_ACT"], "sex": ["T", "M", "F"], "age": ["Y15-74", "Y15-24"]}},
-  {"kode": "lfsi_emp_a", "tittel": "Sysselsatte som andel av befolkningen etter kjønn og alder, årlig",
-   "filter": {"indic_em": ["EMP_LFS"], "unit": ["PC_POP"], "sex": ["T", "M", "F"], "age": ["Y15-64", "Y20-64"]}},
-  {"kode": "lfsa_ergan", "tittel": "Sysselsettingsrate etter statsborgerskap, årlig (prosent)",
-   "filter": {"unit": ["PC"], "sex": ["T"], "age": ["Y20-64"], "citizen": ["NAT", "FOR", "NEU27_2020_FOR"]}},
-  {"kode": "ilc_peps01n", "tittel": "Personer med risiko for fattigdom eller sosial eksklusjon, etter kjønn (prosent)",
-   "filter": {"unit": ["PC"], "sex": ["T", "M", "F"], "age": ["TOTAL"]}}
+  {
+   "kode": "une_rt_a",
+   "tittel": "Arbeidsledighet etter kjønn og alder, årlig (prosent av arbeidsstyrken)",
+   "filter": {
+    "unit": [
+     "PC_ACT"
+    ],
+    "sex": [
+     "T",
+     "M",
+     "F"
+    ],
+    "age": [
+     "Y15-74",
+     "Y15-24"
+    ]
+   }
+  },
+  {
+   "kode": "lfsi_emp_a",
+   "tittel": "Sysselsatte som andel av befolkningen etter kjønn og alder (15–64, 20–64 og 55–64 år), årlig",
+   "filter": {
+    "indic_em": [
+     "EMP_LFS"
+    ],
+    "unit": [
+     "PC_POP"
+    ],
+    "sex": [
+     "T",
+     "M",
+     "F"
+    ],
+    "age": [
+     "Y15-64",
+     "Y20-64",
+     "Y55-64"
+    ]
+   }
+  },
+  {
+   "kode": "lfsa_ergan",
+   "tittel": "Sysselsettingsrate etter statsborgerskap, årlig (prosent)",
+   "filter": {
+    "unit": [
+     "PC"
+    ],
+    "sex": [
+     "T"
+    ],
+    "age": [
+     "Y20-64"
+    ],
+    "citizen": [
+     "NAT",
+     "FOR",
+     "NEU27_2020_FOR"
+    ]
+   }
+  },
+  {
+   "kode": "ilc_peps01n",
+   "tittel": "Personer med risiko for fattigdom eller sosial eksklusjon, etter kjønn (prosent)",
+   "filter": {
+    "unit": [
+     "PC"
+    ],
+    "sex": [
+     "T",
+     "M",
+     "F"
+    ],
+    "age": [
+     "TOTAL"
+    ]
+   }
+  },
+  {
+   "kode": "une_ltu_a",
+   "tittel": "Langtidsledighet (12 måneder eller mer) etter kjønn, årlig (prosent av arbeidsstyrken og av de ledige)",
+   "filter": {
+    "indic_em": [
+     "LTU"
+    ],
+    "unit": [
+     "PC_ACT",
+     "PC_UNE"
+    ],
+    "sex": [
+     "T",
+     "M",
+     "F"
+    ],
+    "age": [
+     "Y15-74"
+    ]
+   }
+  },
+  {
+   "kode": "edat_lfse_20",
+   "tittel": "Unge som verken er i jobb eller utdanning (NEET), 15–24 og 15–29 år, etter kjønn, årlig (prosent)",
+   "filter": {
+    "unit": [
+     "PC"
+    ],
+    "sex": [
+     "T",
+     "M",
+     "F"
+    ],
+    "age": [
+     "Y15-24",
+     "Y15-29"
+    ],
+    "training": [
+     "NO_FE_NO_NFE"
+    ],
+    "wstatus": [
+     "NEMP"
+    ]
+   }
+  },
+  {
+   "kode": "gov_10a_exp",
+   "tittel": "Offentlige utgifter til sosial beskyttelse (COFOG GF10) og undergrupper, prosent av BNP, årlig",
+   "filter": {
+    "unit": [
+     "PC_GDP"
+    ],
+    "sector": [
+     "S13"
+    ],
+    "na_item": [
+     "TE"
+    ],
+    "cofog99": [
+     "GF10",
+     "GF1001",
+     "GF1002",
+     "GF1004",
+     "GF1005"
+    ]
+   }
+  },
+  {
+   "kode": "trng_lfse_01",
+   "tittel": "Deltakelse i utdanning og opplæring siste fire uker, 25–64 og 55–64 år, etter kjønn, årlig (prosent)",
+   "filter": {
+    "unit": [
+     "PC"
+    ],
+    "sex": [
+     "T",
+     "M",
+     "F"
+    ],
+    "age": [
+     "Y25-64",
+     "Y55-64"
+    ]
+   }
+  }
  ]
 }
