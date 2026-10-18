@@ -186,6 +186,7 @@ Følgende er ikke dekket. Spørsmål om dem skal ikke besvares fra hukommelsen, 
 - Rundskriv legges i `innboks/`, så legges de inn automatisk under riktig lov. Se `innboks/README.md`.
 - Merknader, EØS-tekster og rundskriv som ble flyttet fra de gamle skillene, redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
 - `verktoy/sjekk_tekst.py` kontrollerer merknader og den håndskrevne delen av veiviserne ved hver pull request: at stiene finnes, og at ingen tekst sier at et regelverk i basen «ikke er i basen». Hva som er i basen, står bare i tabellene over. Skriv det ikke i merknadene.
+- Budsjettdokumenter (Prop. 1 S, Gul bok, Nasjonalbudsjettet og datagrunnlaget) legges i `innboks-budsjett/` med filnavn etter mønsteret i `innboks-budsjett/README.md`, og legges da inn under `budsjett/<år>/`.
 - Hovedtariffavtalen legges inn ved å laste opp Word-filen fra regjeringen.no i `innboks/` med filnavn som begynner på `hovedtariffavtale`. Gjør det ved hvert hovedoppgjør og mellomoppgjør. Word-filen slettes etter oppdelingen, og bygget åpner en sak i GitHub når det er tid for ny utgave.
 - EU-rettsakter legges til under `eu` i `regelverk.json` med en låst versjon. Feltet `eos` fylles bare ut når versjonen er kontrollert mot EØS-avtalen. `regelverk/eu/nevnte-rettsakter.md` viser hvilke rettsakter norsk tekst i basen viser til, men som ikke er lagt inn.
 - Lov- og forskriftstekst bygges fra Lovdata med `verktoy/bygg.py` og skal aldri redigeres for hånd. Blokker mellom `AUTO-START` og `AUTO-SLUTT` overskrives ved hvert bygg.

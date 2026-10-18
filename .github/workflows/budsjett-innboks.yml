@@ -1,0 +1,50 @@
+name: Legg inn budsjett fra innboksen
+
+on:
+  # Når noen legger en fil i innboks-budsjett/ på main, legges den inn med en gang.
+  push:
+    branches: [main]
+    paths: ["innboks-budsjett/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: budsjett-innboks
+  cancel-in-progress: false
+
+jobs:
+  budsjett:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: pip install python-docx==1.1.2 openpyxl==3.1.5
+
+      - name: Legg inn budsjettdokumenter
+        run: python3 verktoy/budsjett_innboks.py
+
+      - name: Legg inn på main
+        run: |
+          [ -f budsjett-rapport.txt ] || exit 0
+          mv budsjett-rapport.txt "$RUNNER_TEMP/melding.txt"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$RUNNER_TEMP/melding.txt"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
+
+      - name: Vis resultatet
+        if: always()
+        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Innboksen var tom." >> "$GITHUB_STEP_SUMMARY"
