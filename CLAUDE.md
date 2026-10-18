@@ -158,6 +158,10 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 | hovedtariffavtalen, HTA, lønn i staten, lønnstrinn, lokale forhandlinger, overtid i staten, ubekvem arbeidstid, beredskapsvakt, reisetid, velferdspermisjon, permisjon med lønn, ferie i staten, femte ferieuke, fellesbestemmelsene, særavtaler | Hovedtariffavtalen i staten |
 | EU-direktiv, EU-forordning, EØS-regler, hva sier direktivet, arbeidstidsdirektivet, vikarbyrådirektivet, utsendingsdirektivet, trygdeforordningen, fri bevegelighet for arbeidstakere | EU-rettsakter (`regelverk/eu/`) |
 
+## Kjente regelverk som ikke er i basen
+
+Følgende er ikke dekket. Spørsmål om dem skal ikke besvares fra hukommelsen, se regel 4 under: barnetrygdloven, kontantstøtteloven, trygderettsloven, yrkesskadeforsikringsloven, straffeloven, domstolloven og skatteloven. Listen er ikke uttømmende. Er regelverket ikke i tabellen over, er det ikke i basen.
+
 ## Regler for svar
 
 1. **Åpne alltid kildefilene før du svarer.** Svar ikke på regelverksspørsmål fra generell kunnskap. Les veiviseren og de paragrafene som er relevante, også unntak og henvisninger til andre paragrafer.
