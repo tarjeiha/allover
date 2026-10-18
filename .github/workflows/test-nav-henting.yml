@@ -1,0 +1,17 @@
+name: test-nav-henting
+on:
+  push:
+    branches: [claude/test-nav-henting]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test regjeringen.no
+        run: |
+          for u in "https://www.regjeringen.no/" "https://www.regjeringen.no/no/dokumenter/prop.-1-s-20252026/id3109440/" "https://www.regjeringen.no/no/sub/statsbudsjett/id2467/" "https://www.regjeringen.no/no/dep/aid/id165/"; do
+            echo "=== $u"
+            curl -sL -m 40 -A "Mozilla/5.0" -o out.html -D hdr.txt -w "status=%{http_code} size=%{size_download} final=%{url_effective}\n" "$u"
+            head -3 hdr.txt | tr -d '\r'
+            grep -io "<title>[^<]*" out.html | head -1
+            grep -o 'href="[^"]*\.\(docx\|xlsx\|pdf\)[^"]*"' out.html | head -5
+          done
