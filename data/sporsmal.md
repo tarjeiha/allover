@@ -1,10 +1,10 @@
 # Spørsmålskatalog: fra hverdagsspørsmål til tabell
 
-Brukere stiller spørsmål uten fagord. Tabellen under kobler vanlige spørsmål til kilden som svarer på dem. Bruk den til å velge tabell, og følg svarreglene i `data/VEIVISER.md` («Slik svarer du»). Stier til Nav-tabeller er relative til `data/nav/`, og til Eurostat-tabeller til `data/eurostat/`. Profiler med forbehold per område står i `data/nav-profiler.md`.
+Brukere stiller spørsmål uten fagord. Tabellen under kobler vanlige spørsmål til kilden som svarer på dem. Bruk den til å velge tabell, og følg svarreglene i `data/VEIVISER.md` («Slik svarer du»). Stier til Nav-tabeller er relative til `data/nav/`, til Eurostat-tabeller til `data/eurostat/` og til OECD-tabeller til `data/oecd/`. Profiler med forbehold per område står i `data/nav-profiler.md`.
 
 Katalogen er et førsteutkast bygget ut fra tabellene som finnes i basen, ikke ut fra hvilke spørsmål brukerne faktisk stiller. Legg til spørsmål som dukker opp, og stryk de som ikke brukes.
 
-Hvem som eier kvaliteten: Nav, SSB og Eurostat eier tallene. Svaret skal alltid si hvem tallet kommer fra.
+Hvem som eier kvaliteten: Nav, SSB, Eurostat og OECD eier tallene. Svaret skal alltid si hvem tallet kommer fra.
 
 ## Arbeidsmarked og ledighet
 
@@ -73,6 +73,20 @@ Hvem som eier kvaliteten: Nav, SSB og Eurostat eier tallene. Svaret skal alltid 
 | Hvordan er sysselsettingen blant eldre (55–64) sammenlignet med andre land? | Eurostat `lfsi_emp_a.tsv` (`age=Y55-64`) | |
 | Hva bruker landet på sosial beskyttelse (alderdom, uførhet, familie, arbeidsledighet)? | Eurostat `gov_10a_exp.tsv` | Prosent av BNP. 2025 mangler for flere land. |
 | Hvor stor andel av voksne deltar i utdanning og opplæring? | Eurostat `trng_lfse_01.tsv` | Siste fire uker, 25–64 og 55–64 år. |
+| Hvor mye bruker Norge på arbeidsmarkedstiltak sammenlignet med andre land? | OECD `arbeidsmarkedstiltak.tsv` (`LMP_10T70` aktive, `LMP_80_90` passive) | Prosent av BNP. |
+| Hvor mye av inntekten beholder man som arbeidsledig? | OECD `kompensasjonsgrad-ledighet.tsv` | Modellhusholdninger. Si hvilken husholdning og varighet. |
+| Hvor høy er sosialhjelpen sammenlignet med andre land? | OECD `minsteinntektsytelser.tsv` | Modellhusholdninger, prosent av medianinntekten. |
+| Er aktivitetskravene strengere i Norge enn i andre land? | OECD `aktivitetskrav.tsv` | Skala 1–5. |
+| Hvor sterkt er stillingsvernet i Norge? | OECD `stillingsvern.tsv` | Sammenlign bare innen samme versjon. |
+| Hvor høy pensjon får man i forhold til lønnen, sammenlignet med andre land? | OECD `pensjoner.tsv` (`NPRR100`, `NPRR50`) | Fremskrevet for en som begynner å jobbe i dag. |
+| Hva bruker landet på uføre, sykdom, familie og alderdom? | OECD `sosiale-utgifter.tsv`, Eurostat `gov_10a_exp.tsv` | OECD har flere ytelsestyper, men siste år er 2021. Eurostat er nyere. |
+| Hvor mange er fagorganisert eller dekket av tariffavtale? | OECD `organisasjonsgrad.tsv`, `tariffavtaledekning.tsv` | |
+| Hvordan er lønnsnivået og lønnsgapet mellom kvinner og menn sammenlignet med andre land? | OECD `gjennomsnittslonn.tsv` (`USD_PPP`), `lonnsgap-kjonn.tsv` (`MEDIAN`) | |
+| Har Norge høyt sykefravær sammenlignet med andre land? | OECD `sykefravar.tsv` | Uker per heltidsansatt. Ikke samme mål som Navs sykefraværsprosent. |
+| Hvordan går det med innvandrere i arbeidsmarkedet sammenlignet med andre land? | OECD `innvandrere-arbeidsmarked.tsv` | Fødeland (`FB`/`NB`), ikke statsborgerskap som i Eurostat. |
+| Hvor stor er inntektsforskjellen (Gini) og fattigdommen sammenlignet med andre land? | OECD `inntektsfordeling.tsv` | 50 og 60 prosent av median. Eurostat `ilc_peps01n.tsv` bruker et annet mål. |
+| Hvor mye skatt betaler en vanlig lønnstaker sammenlignet med andre land? | OECD `skattekile.tsv` | Modellhusholdninger. |
+| Hvordan ligger Norge an mot USA og Storbritannia på sysselsetting og arbeidstid? | OECD `sysselsetting-alder.tsv`, `arbeidstimer.tsv` | Arbeidstimer: sammenlign utvikling, ikke nivå. |
 
 ## Eksempler på korte svar
 
