@@ -1,0 +1,96 @@
+{
+ "land": ["NOR", "SWE", "DNK", "FIN", "ISL", "DEU", "NLD", "GBR", "USA", "OECD"],
+ "fra_aar": 2005,
+ "tabeller": [
+  {
+   "fil": "arbeidsmarkedstiltak",
+   "tabell": "OECD.ELS.JAI,DSD_LMP@DF_LMP",
+   "tittel": "Offentlige utgifter til og deltakere i arbeidsmarkedstiltak etter tiltakstype (LMP)",
+   "filter": {"UNIT_MEASURE": ["PT_B1GQ", "PT_LF"]}
+  },
+  {
+   "fil": "kompensasjonsgrad-ledighet",
+   "tabell": "OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR",
+   "tittel": "Netto kompensasjonsgrad ved arbeidsledighet for modellhusholdninger, etter varighet",
+   "filter": {"INCOME_PREV": ["AW67", "AW100"], "UNEMP_DURATION": ["M2", "M12", "M60"]}
+  },
+  {
+   "fil": "minsteinntektsytelser",
+   "tabell": "OECD.ELS.JAI,DSD_TAXBEN_IA@DF_IA",
+   "tittel": "Nivå på minsteinntektsytelser (sosialhjelp) for modellhusholdninger uten arbeid"
+  },
+  {
+   "fil": "aktivitetskrav",
+   "tabell": "OECD.ELS.JAI,DSD_TAXBEN_SBE@DF_SBE",
+   "tittel": "Hvor strenge aktivitets- og søkekravene er for mottakere av ytelser ved ledighet (1–5)"
+  },
+  {
+   "fil": "stillingsvern",
+   "tabell": "OECD.ELS.JAI,DSD_EPL@DF_EPL",
+   "tittel": "Stillingsvern: hvor strenge reglene er for oppsigelse og midlertidige ansettelser (0–6)"
+  },
+  {
+   "fil": "pensjoner",
+   "tabell": "OECD.ELS.SPD,DSD_PAG@DF_PAG",
+   "tittel": "Pensions at a Glance: kompensasjonsgrad, pensjonsalder, inntekt og fattigdom blant eldre, levealder"
+  },
+  {
+   "fil": "sosiale-utgifter",
+   "tabell": "OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG",
+   "tittel": "Sosiale utgifter etter formål og ytelse (SOCX), prosent av BNP",
+   "filter": {"UNIT_MEASURE": ["PT_B1GQ"], "SPENDING_TYPE": ["_T", "C", "K"]}
+  },
+  {
+   "fil": "organisasjonsgrad",
+   "tabell": "OECD.ELS.SAE,DSD_TUD_CBC@DF_TUD",
+   "tittel": "Organisasjonsgrad: fagforeningsmedlemmer i prosent av lønnstakerne"
+  },
+  {
+   "fil": "tariffavtaledekning",
+   "tabell": "OECD.ELS.SAE,DSD_TUD_CBC@DF_CBC",
+   "tittel": "Tariffavtaledekning: lønnstakere omfattet av tariffavtale i prosent"
+  },
+  {
+   "fil": "gjennomsnittslonn",
+   "tabell": "OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE",
+   "tittel": "Gjennomsnittlig årslønn per heltidsekvivalent"
+  },
+  {
+   "fil": "lonnsgap-kjonn",
+   "tabell": "OECD.ELS.SAE,DSD_EARNINGS@GENDER_WAGE_GAP",
+   "tittel": "Lønnsgap mellom kvinner og menn, heltidsansatte"
+  },
+  {
+   "fil": "sykefravar",
+   "tabell": "OECD.ELS.HD,DSD_HEALTH_STAT@DF_AWDI",
+   "tittel": "Sykefravær: fraværsdager per heltidsansatt lønnstaker per år"
+  },
+  {
+   "fil": "innvandrere-arbeidsmarked",
+   "tabell": "OECD.ELS.IMD,DSD_MIG@DF_MIG_NUP_SEX",
+   "tittel": "Sysselsetting, ledighet og yrkesdeltakelse for innvandrere og innfødte, etter kjønn"
+  },
+  {
+   "fil": "inntektsfordeling",
+   "tabell": "OECD.WISE.INE,DSD_WISE_IDD@DF_IDD",
+   "tittel": "Inntektsfordeling og fattigdom: Gini og andel under fattigdomsgrensen",
+   "filter": {"MEASURE": ["INC_DISP_GINI", "PR_INC_DISP"]}
+  },
+  {
+   "fil": "skattekile",
+   "tabell": "OECD.CTP.TPS,DSD_TAX_WAGES_COMP@DF_TW_COMP",
+   "tittel": "Skatt på arbeid (Taxing Wages): skattekile og netto lønn for modellhusholdninger",
+   "filter": {"MEASURE": ["AV_TW", "AV_RITEESSC", "NIAT"]}
+  },
+  {
+   "fil": "sysselsetting-alder",
+   "tabell": "OECD.ELS.SAE,DSD_LFS@DF_LFS_INDIC",
+   "tittel": "Sysselsetting, yrkesdeltakelse og ledighet etter kjønn og alder"
+  },
+  {
+   "fil": "arbeidstimer",
+   "tabell": "OECD.ELS.SAE,DSD_HW@DF_AVG_ANN_HRS_WKD",
+   "tittel": "Gjennomsnittlig antall utførte arbeidstimer per sysselsatt per år"
+  }
+ ]
+}

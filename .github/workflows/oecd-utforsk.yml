@@ -1,47 +1,26 @@
-# Midlertidig: utforsker OECDs SDMX-API. Slettes før PR.
+# Midlertidig: tester oecd_hent.py på grenen og legger tallene inn der. Slettes før PR.
 on:
   push:
     branches: [claude/project-thread-6twhus]
-    paths: [.github/workflows/oecd-utforsk.yml, verktoy/oecd_utforsk.txt]
+    paths: [.github/workflows/oecd-utforsk.yml, verktoy/oecd_hent.py, data/oecd/pakke.json]
 permissions:
-  contents: read
+  contents: write
 jobs:
-  utforsk:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Utforsk
+      - name: Hent
+        run: python3 verktoy/oecd_hent.py || true
+      - name: Vis
         run: |
-          curl -sL -m 120 'https://sdmx.oecd.org/public/rest/dataflow/all?detail=allstubs' -o flows.xml
-          python3 - <<'PY'
-          import re
-          x=open('flows.xml',encoding='utf-8').read()
-          n=0
-          for m in re.finditer(r'<structure:Dataflow id="([^"]+)" agencyID="([^"]+)" version="([^"]+)".*?<common:Name xml:lang="en">([^<]*)</common:Name>', x, re.S):
-              n+=1
-              id_,ag,ver,name=m.groups()
-              if re.search(r'labour|labor|employ|unemploy|pension|social|benefit|wage|earn|tax|income|povert|migra|disab|sick|LMP|SOCX|replacement|minimum|union|collective|protection|gender|youth|NEET|older|ageing|aging|retire|working|job|work|inequal|skill|adult|refugee|foreign',name+id_,re.I):
-                  print(f"{ag}|{id_}|{ver}|{name}")
-          print("TOTALT", n)
-          PY
-          python3 - <<'PY2'
-          import csv, io, time, urllib.request, collections
-          for line in open('verktoy/oecd_utforsk.txt'):
-              f=line.strip()
-              if not f: continue
-              url=f"https://sdmx.oecd.org/public/rest/data/{f}/all?lastNObservations=1&format=csvfilewithlabels"
-              t=time.time()
-              try:
-                  raw=urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'allover'}),timeout=180).read()
-              except Exception as e:
-                  print("===",f,"FEIL",e); continue
-              rows=list(csv.DictReader(io.StringIO(raw.decode('utf-8-sig'))))
-              nor=[r for r in rows if r.get('REF_AREA')=='NOR']
-              cols=[c for c in (rows[0].keys() if rows else []) if c.isupper() and c not in ('STRUCTURE','STRUCTURE_ID','ACTION','OBS_VALUE','REF_AREA','TIME_PERIOD','OBS_STATUS','UNIT_MULT','DECIMALS','CONF_STATUS')]
-              print("===",f,f"{len(raw)//1024} kB {time.time()-t:.1f}s rader={len(rows)} NOR={len(nor)} land={len({r.get('REF_AREA') for r in rows})}")
-              print("  siste aar NOR:",collections.Counter(r['TIME_PERIOD'] for r in nor).most_common(4))
-              for c in cols:
-                  vals=collections.Counter(f"{r[c]}={r.get(next((k for k in r if k.lower()==c.lower() and k!=c), c),'')}" for r in nor)
-                  labels=collections.Counter()
-                  print(f"  {c}: {len(vals)} verdier", "; ".join(v for v,_ in vals.most_common(6))[:300])
-          PY2
+          for f in data/oecd/*.tsv; do case "$f" in *.flagg.tsv) continue;; esac
+            echo "=== $f $(wc -l < "$f") linjer $(du -k "$f" | cut -f1) kB"; grep '^#' "$f" | cut -c1-400; grep -v '^#' "$f" | head -4 | cut -c1-300; done
+      - name: Legg inn på grenen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/oecd
+          git diff --cached --quiet && exit 0
+          git commit -qm "OECD: testhenting"
+          git push
