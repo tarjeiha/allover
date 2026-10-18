@@ -12,7 +12,7 @@ NAVs rundskriv til loven er ikke i basen. Spørsmål om hvordan skjønnet prakti
 - **Loven regulerer organet, ikke ytelsene.** Etaten forvalter arbeidsmarkedsloven, folketrygdloven og andre lover (§ 4 andre ledd). Ytelsene (sykepenger, AAP, uføretrygd, hjelpemidler) står i `regelverk/folketrygdloven/VEIVISER.md`, tiltakene i `regelverk/arbeidsmarkedsloven/VEIVISER.md`.
 - **NAV-kontoret yter også kommunale tjenester.** Kontoret skal ivareta kommunens oppgaver etter sosialtjenesteloven (§ 13 andre ledd). Økonomisk stønad og kvalifiseringsprogram står i `regelverk/sosialtjenesteloven/VEIVISER.md`.
 - **Forskriften om individuell plan har flere hjemler.** Den gjelder individuell plan etter sosialtjenesteloven §§ 28 og 33, NAV-loven § 15 og flere helse- og barnevernslover (forskriften § 1). Hele forskriften ligger i denne mappen, også når spørsmålet kommer fra sosialtjenesteloven. Helse- og omsorgslovene og barnevernsloven er ikke i basen.
-- **Taushetsplikten bygger på forvaltningsloven.** § 7 første ledd viser til forvaltningsloven §§ 13 til 13 e og 13 g, som ikke er i basen. Si fra når svaret avhenger av forvaltningsloven.
+- **Taushetsplikten bygger på forvaltningsloven.** § 7 første ledd viser til forvaltningsloven §§ 13 til 13 e og 13 g. Les dem i `regelverk/forvaltningsloven/VEIVISER.md` når svaret avhenger av dem.
 
 ## Merknader og andre kilder
 

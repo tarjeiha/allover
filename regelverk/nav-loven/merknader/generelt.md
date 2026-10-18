@@ -1,25 +1,19 @@
-> **Flyttet fra skillen `aid-nav-loven`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-nav-loven`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # NAV-loven (arbeids- og velferdsforvaltningsloven)
 
 Oppslag i lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen med tilhørende sentrale forskrifter.
 
-## Kritisk
+## Vanlige feil
 
-**Åpne alltid de faktiske kildefilene i denne skillen før du svarer.** Ikke svar fra generell kunnskap om NAV eller om hva loven «pleier å si». Lovteksten er ajourført fra Lovdata og kan avvike fra det du husker – bestemmelser er flyttet, endret og opphevet flere ganger.
+Lovteksten er ajourført fra Lovdata og kan avvike fra det du husker – bestemmelser er flyttet, endret og opphevet flere ganger.
 
-Konkret fremgangsmåte:
+Fremgangsmåte:
 
 1. Slå opp i `regelverk/nav-loven/VEIVISER.md` for å finne riktig paragraf
 2. Åpne selve paragraffilen (`regelverk/nav-loven/lov/par-<nr>.md`)
 3. Sjekk om en forskrift regulerer samme spørsmål – se `regelverk/nav-loven/VEIVISER.md`
 4. Gjengi leddnummer når du siterer, og oppgi paragraf i svaret
-
-**Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
 ## Innhold
 
@@ -30,7 +24,7 @@ Konkret fremgangsmåte:
 - Kapittel 3: Felles lokale kontorer (§§ 13–16) – NAV-kontoret, samarbeid og oppgavedeling, § 14a om behovsvurdering og rett til aktivitetsplan, § 15 om individuell plan
 - Kapittel 4: Sluttbestemmelser (§§ 17–19)
 
-**Forskrifter** – `forskrifter/` – åtte forskrifter med hjemmel i loven:
+**Forskrifter** – `regelverk/nav-loven/forskrifter/` – åtte forskrifter med hjemmel i loven:
 
 | Mappe | Forskrift |
 |---|---|
@@ -43,30 +37,28 @@ Konkret fremgangsmåte:
 | `internrevisjon/` | Internrevisjon i Arbeids- og velferdsetaten |
 | `innkrevingsmyndigheten-tilgang/` | Innkrevingsmyndighetens tilgang til NAV-opplysninger |
 
-## Individuell plan – fullt innhold ligger her
+## Individuell plan – forskriften ligger under NAV-loven
 
-Forskrift om individuell plan ved ytelse av velferdstjenester er hjemlet i flere lover samtidig: NAV-loven § 15, sosialtjenesteloven § 28, helse- og omsorgstjenesteloven og barnevernsloven. **Fullt innhold ligger i denne skillen** (`regelverk/nav-loven/forskrifter/individuell-plan/`).
+Forskrift om individuell plan ved ytelse av velferdstjenester er hjemlet i flere lover samtidig: NAV-loven § 15, sosialtjenesteloven § 28, helse- og omsorgstjenesteloven og barnevernsloven. **Hele forskriften ligger under NAV-loven** (`regelverk/nav-loven/forskrifter/individuell-plan/`).
 
-Får du et spørsmål om individuell plan som kommer fra en sosialtjenestelov-kontekst, er det denne skillen som har teksten. Merk samtidig at forskriften også er hjemlet i helse- og omsorgslovgivning som ingen skill dekker – se Kryssreferanser.
+Får du et spørsmål om individuell plan som kommer fra en sosialtjenestelov-kontekst, er det her forskriftsteksten ligger. Merk samtidig at forskriften også er hjemlet i helse- og omsorgslovgivning som ikke er i basen, se Kryssreferanser.
 
 ## Kryssreferanser
 
-- **Sosialtjenesteloven** – NAV-kontoret yter både statlige og kommunale tjenester. Spørsmål om økonomisk stønad, kvalifiseringsprogram eller andre kommunale sosialtjenester hører til `regelverk/sosialtjenesteloven/merknader/generelt.md`.
-- **Folketrygdloven** – ytelsene NAV forvalter (sykepenger, AAP, uføretrygd, hjelpemidler) ligger i `aid-ftrl`-familien. NAV-loven regulerer *organet*, ikke ytelsene.
-- **Utenfor dekket regelverk:** forvaltningsloven, personopplysningsloven, helse- og omsorgstjenesteloven og barnevernsloven er ikke med i denne skillen. Når en bestemmelse viser dit, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett på innholdet.
+- **Sosialtjenesteloven** – NAV-kontoret yter både statlige og kommunale tjenester. Spørsmål om økonomisk stønad, kvalifiseringsprogram eller andre kommunale sosialtjenester hører til sosialtjenesteloven, se `regelverk/sosialtjenesteloven/VEIVISER.md`.
+- **Folketrygdloven** – ytelsene NAV forvalter (sykepenger, AAP, uføretrygd, hjelpemidler) står i folketrygdloven, se `regelverk/folketrygdloven/VEIVISER.md`. NAV-loven regulerer *organet*, ikke ytelsene.
+- **Forvaltningsloven** – taushetsplikten i § 7 bygger på forvaltningsloven §§ 13 til 13 e og 13 g, se `regelverk/forvaltningsloven/VEIVISER.md`.
+- **Personopplysningsloven og personvernforordningen** – behandling av personopplysninger (§ 4a), se `regelverk/personopplysningsloven/VEIVISER.md` og `regelverk/eu/forordning-2016-679/VEIVISER.md`.
+- **Ikke i basen:** helse- og omsorgstjenesteloven og barnevernsloven. Når en bestemmelse viser dit, **si eksplisitt fra at kilden ikke er i basen** og vis til Lovdata. Ikke gjett på innholdet.
 
-Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
+Les hele referansekjeden før du trekker en negativ konklusjon.
 
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Ikke dekket: rundskriv.** Denne skillen inneholder lovtekst og forskriftstekst, men ingen rundskriv. NAVs rundskriv til NAV-loven er ikke tilgjengelig gjennom Lovdatas åpne API og er ikke lagt inn. Det betyr at forvaltningens egen praktisering av skjønnsbestemmelser ikke er dekket her – til forskjell fra `aid-ftrl`-familien, som har rundskriv.
+**Ikke i basen: rundskriv.** Basen har lov- og forskriftstekst til NAV-loven, men ingen rundskriv. NAVs rundskriv til NAV-loven er ikke tilgjengelig gjennom Lovdatas åpne API og er ikke lagt inn. Det betyr at forvaltningens egen praktisering av skjønnsbestemmelser ikke er dekket her, til forskjell fra folketrygdloven, der NAVs rundskriv ligger under `regelverk/folketrygdloven/rundskriv/`.
 
 Når et spørsmål gjelder hvordan en skjønnsbestemmelse praktiseres i forvaltningen, si fra at kun lov- og forskriftstekst er gjennomgått, og at rundskriv ikke inngår i materialet.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
-
-## Endringslogg
-
-Se `endringslogg.md`.

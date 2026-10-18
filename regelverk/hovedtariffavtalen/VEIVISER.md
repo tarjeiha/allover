@@ -17,7 +17,7 @@ Finn punktet i listen under «Innhold», og åpne filen før du svarer. Merknade
 
 ## Kjente feller
 
-- **Lov går foran.** Avtalen bygger på blant annet statsansatteloven, arbeidsmiljøloven og ferieloven. Sjekk loven når avtalen viser til den, og si fra hvis svaret avhenger av begge.
+- **Lov går foran.** Avtalen bygger på blant annet statsansatteloven, arbeidsmiljøloven og ferieloven, som alle er i basen (`regelverk/statsansatteloven/VEIVISER.md`, `regelverk/arbeidsmiljoloven/VEIVISER.md`, `regelverk/ferieloven/VEIVISER.md`). Sjekk loven når avtalen viser til den, og si fra hvis svaret avhenger av begge.
 - **Særavtaler står ikke her.** Reiseregulativene og andre særavtaler i staten er egne avtaler og ligger ikke i basen.
 - **Riktig periode.** Teksten gjelder perioden som står under «Kilder». Beløp og satser endres ved hvert oppgjør.
 - **Lokale avtaler.** Mange bestemmelser åpner for lokale avtaler eller retningslinjer i virksomheten. Si fra at den lokale avtalen kan ha betydning.

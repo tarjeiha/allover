@@ -7,7 +7,7 @@ Loven forvaltes av Justis- og beredskapsdepartementet. Forskriften er fastsatt a
 ## Slik bruker du veiviseren
 
 Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Hele loven og forskriften ligger i basen, men merknadene gjelder bare arbeidsinnvandring og EØS-reglene (lovens §§ 5, 55, kap. 3 og kap. 13, forskriften kap. 1, 6 og 19). For asyl, familieinnvandring, visum og andre deler finnes ingen merknader. Der merknadsfilen sier at noe ikke er dekket, gjelder ikke det lenger for lov- og forskriftsteksten.
+Hele loven og forskriften ligger i basen, men merknadene gjelder bare arbeidsinnvandring og EØS-reglene (lovens §§ 5, 55, kap. 3 og kap. 13, forskriften kap. 1, 6 og 19). For asyl, familieinnvandring, visum og andre deler finnes ingen merknader.
 
 ## Kjente feller
 

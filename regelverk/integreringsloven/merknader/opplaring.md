@@ -1,18 +1,14 @@
-> **Flyttet fra skillen `aid-integreringsloven-opplaring`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-integreringsloven-opplaring`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Integreringsloven – opplæringsinnhold
 
 Oppslag i læreplanforskriftene for voksne innvandrere.
 
-## Kritisk
+## Vanlige feil
 
-**Åpne alltid de faktiske kildefilene i denne skillen før du svarer.** Ikke svar fra generell kunnskap om norskopplæring eller språknivåer. Læreplanene er forskrifter med presist formulerte kompetansemål – gjengivelse fra hukommelsen blir upresis.
+Læreplanene er forskrifter med presist formulerte kompetansemål. Gjengivelse fra hukommelsen om norskopplæring eller språknivåer blir upresis.
 
-Konkret fremgangsmåte:
+Fremgangsmåte:
 
 1. Finn riktig forskrift i `regelverk/integreringsloven/VEIVISER.md`
 2. Åpne forskriftens `oversikt.md` for å finne riktig del
@@ -21,11 +17,9 @@ Konkret fremgangsmåte:
 
 Merk at læreplanene er **seksjonsinndelte, ikke paragrafinndelte**. De har ikke paragrafnumre å vise til; henvis i stedet til forskriftens navn og seksjonsoverskrift (f.eks. «læreplan i norsk, punkt 3 Kjerneelementer»).
 
-**Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
-
 ## Innhold
 
-**Forskrifter** – `forskrifter/`:
+**Forskrifter** – `regelverk/integreringsloven/forskrifter/`:
 
 | Mappe | Forskrift | Struktur |
 |---|---|---|
@@ -33,39 +27,31 @@ Merk at læreplanene er **seksjonsinndelte, ikke paragrafinndelte**. De har ikke
 | `laereplan-norsk-c1/` | Læreplan i norsk for voksne innvandrere nivå C1 | Seksjonsinndelt, 6 deler |
 | `laereplan-samfunnskunnskap/` | Læreplan i samfunnskunnskap for voksne innvandrere | Seksjonsinndelt, 5 deler |
 
-## Tolking ligger i aid-tolkeloven
+## Tolk hører under tolkeloven
 
-Tolkeforskriften lå tidligere i denne skillen, men er flyttet til `regelverk/tolkeloven/merknader/generelt.md` sammen med tolkeloven selv. Grunnen er at forskriften primært er forskrift til tolkeloven, og at en forskrift uten sin hjemmelslov gir ufullstendig bilde av plikten til å bruke tolk.
+Spørsmål om bruk av tolk, kvalifikasjonskrav for tolker eller Nasjonalt tolkeregister besvares etter tolkeloven og tolkeforskriften, se `regelverk/tolkeloven/VEIVISER.md`. Integreringsloven § 45 om tolk er opphevet.
 
-Ved spørsmål om bruk av tolk, kvalifikasjonskrav for tolker eller Nasjonalt tolkeregister: si fra at dette ligger i `regelverk/tolkeloven/merknader/generelt.md`, og svar ikke fra denne skillen.
+## Forholdet til rettighetsreglene
 
-## Forholdet til aid-integreringsloven-rettigheter
+- **Denne merknaden** gjelder *innholdet* i opplæringen: kompetansemål, språknivåer, timetall, vurderingsordning.
+- **`regelverk/integreringsloven/merknader/rettigheter.md`** gjelder *rettighetsgrunnlaget*: integreringsloven kapittel 6 om hvem som har rett og plikt til opplæring i norsk og samfunnskunnskap, omfang og prøvekrav, samt integreringsforskriften.
 
-Skillen er delt i to fordi kildematerialet er for stort for én skill.
+Ved spørsmål om **hvem** som har rett eller plikt til opplæring, hvor mange timer som utløses, eller konsekvenser av å ikke fullføre, må svaret bygge på lovens kapittel 6 og integreringsforskriften, ikke bare på læreplanene.
 
-- **Denne skillen** har *innholdet* i opplæringen: kompetansemål, språknivåer, timetall, vurderingsordning.
-- **`regelverk/integreringsloven/merknader/rettigheter.md`** har *rettighetsgrunnlaget*: integreringsloven kapittel 6 om hvem som har rett og plikt til opplæring i norsk og samfunnskunnskap, omfang og prøvekrav, samt integreringsforskriften.
-
-Ved spørsmål om **hvem** som har rett eller plikt til opplæring, hvor mange timer som utløses, eller konsekvenser av å ikke fullføre: si fra at rettighetsgrunnlaget ligger i `regelverk/integreringsloven/merknader/rettigheter.md`, og ikke svar fra denne skillen alene.
-
-Mange praktiske spørsmål treffer begge – f.eks. «hvilket nivå må man ha for statsborgerskap» krever både kravet (rettighetssiden, og dels statsborgerloven) og nivåbeskrivelsen (denne skillen). Si fra når svaret krever begge kilder.
+Mange praktiske spørsmål treffer begge. «Hvilket nivå må man ha for statsborgerskap» krever både kravet (statsborgerloven § 8 og statsborgerforskriften kap. 4, se `regelverk/statsborgerloven/VEIVISER.md`) og nivåbeskrivelsen i læreplanene. Språkkravet for statsborgerskap fastsettes i statsborgerregelverket, ikke i læreplanene.
 
 ## Kryssreferanser
 
-- **Integreringsloven** – `regelverk/integreringsloven/merknader/rettigheter.md`
-- **Tolkeloven og tolkeforskriften** – `regelverk/tolkeloven/merknader/generelt.md`
-- **Utenfor dekket regelverk:** statsborgerloven, opplæringsloven og utlendingsloven er **ikke** med. Statsborgerloven er særlig relevant fordi språkkrav for statsborgerskap fastsettes der, ikke i læreplanene. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Integreringsloven, rett og plikt** – `regelverk/integreringsloven/merknader/rettigheter.md`
+- **Tolkeloven og tolkeforskriften** – `regelverk/tolkeloven/VEIVISER.md`
+- **Statsborgerloven** – språkkrav og statsborgerprøve: `regelverk/statsborgerloven/VEIVISER.md`
+- **Utlendingsloven** – `regelverk/utlendingsloven/VEIVISER.md`
+- **Opplæringsloven** er ikke i basen. Når et spørsmål krever den, si fra at kilden ikke er dekket, og ikke gjett.
 
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettet for gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Ikke dekket: rundskriv og veiledningsmateriell.** Denne skillen inneholder forskriftstekst. Veiledninger til læreplanene, prøveinstrukser og HK-dir/IMDis fortolkninger inngår ikke.
-
-**Ingen lovtekst i denne skillen.** Dette er en ren forskriftsskill som kun inneholder de tre læreplanene. Rettighetsgrunnlaget ligger i `regelverk/integreringsloven/merknader/rettigheter.md`.
+**Ikke i basen: veiledningsmateriell.** Veiledninger til læreplanene, prøveinstrukser og HK-dir/IMDis fortolkninger er ikke i basen.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
-
-## Endringslogg
-
-Se `endringslogg.md`.

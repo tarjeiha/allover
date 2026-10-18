@@ -1,18 +1,14 @@
-> **Flyttet fra skillen `aid-statsborgerloven`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-statsborgerloven`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Statsborgerloven
 
 Oppslag i lov 10. juni 2005 nr. 51 om norsk statsborgerskap, med statsborgerforskriften.
 
-## Kritisk
+## Vanlige feil
 
-**Åpne alltid de faktiske kildefilene i denne skillen før du svarer.** Ikke svar fra generell kunnskap om statsborgerskap. Loven er endret gjentatte ganger på sentrale punkter, og flere av endringene går motsatt vei av hverandre: prinsippet om ett statsborgerskap ble opphevet i 2020, botidskravet er endret flere ganger, og reglene om tap ved straffbare forhold og av hensyn til grunnleggende nasjonale interesser kom til i 2018–2019. Generell kunnskap om statsborgerrett er derfor uvanlig upålitelig på dette området.
+Loven er endret gjentatte ganger på sentrale punkter, og flere av endringene går motsatt vei av hverandre: prinsippet om ett statsborgerskap ble opphevet i 2020, botidskravet er endret flere ganger, og reglene om tap ved straffbare forhold og av hensyn til grunnleggende nasjonale interesser kom til i 2018–2019. Generell kunnskap om statsborgerrett er derfor uvanlig upålitelig på dette området.
 
-Konkret fremgangsmåte:
+Fremgangsmåte:
 
 1. Slå opp i `regelverk/statsborgerloven/VEIVISER.md` for å finne riktig paragraf
 2. Åpne selve paragraffilen (`regelverk/statsborgerloven/lov/par-<nr>.md`)
@@ -20,8 +16,6 @@ Konkret fremgangsmåte:
 4. Gjengi leddnummer og bokstav når du siterer, og oppgi paragraf i svaret
 
 **Vær særlig oppmerksom på overgangsreglene.** Flere endringslover gjelder bare for søknader fremmet etter et bestemt tidspunkt, eller bare for handlinger begått etter ikrafttredelsen. Endringshistorikken nederst i hver paragraffil angir dette. Når spørsmålet gjelder en søknad eller et forhold tilbake i tid, sjekk om overgangsregler slår inn før du svarer.
-
-**Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
 ## Innhold
 
@@ -37,7 +31,7 @@ Konkret fremgangsmåte:
 - Kapittel 7: Gebyr og straff (§§ 32–33)
 - Kapittel 8: Sluttbestemmelser (§§ 34–37) – ikrafttredelse, europeisk statsborgerkonvensjon, overgangsregler
 
-**Forskrifter** – `forskrifter/`:
+**Forskrifter** – `regelverk/statsborgerloven/forskrifter/`:
 
 | Mappe | Forskrift |
 |---|---|
@@ -45,28 +39,22 @@ Konkret fremgangsmåte:
 
 ## Kryssreferanser
 
-- **Statsborgerprøven og norskprøven som sådan** – selve prøveordningene er regulert i integreringsforskriften §§ 56–57, som ligger i `regelverk/integreringsloven/merknader/rettigheter.md`. **[Merknad 16.10.2026: §§ 56–57 gjelder registre og utlevering av opplysninger. Prøvene er regulert i integreringsforskriften kap. 8 (§§ 34–43), se `regelverk/integreringsloven/VEIVISER.md`.]** Statsborgerloven § 8 stiller kravet; unntakene fra kravet står i statsborgerforskriften kap. 4 (her); prøvens innhold og gjennomføring ligger i integreringsregelverket. Ved spørsmål om hva prøven består i eller hvordan den avlegges, si fra at det ligger utenfor denne skillen.
+- **Norskprøven og prøven i samfunnskunnskap** – prøveordningene er regulert i integreringsforskriften kap. 8 (§§ 34–43), se `regelverk/integreringsloven/VEIVISER.md`. Statsborgerloven § 8 stiller kravet, og unntakene fra kravet står i statsborgerforskriften kap. 4. Integreringsforskriften §§ 56–57 gjelder direktoratenes ansvar for registre og utlevering av prøveresultater, også fra statsborgerprøven. Utover dette er ingen regler om innholdet i eller gjennomføringen av statsborgerprøven funnet i basen.
 - **Opplæring i norsk og samfunnskunnskap** – `regelverk/integreringsloven/merknader/rettigheter.md` (rett og plikt) og `regelverk/integreringsloven/merknader/opplaring.md` (læreplanene). Statsborgerforskriften kap. 4 viser til gjennomført opplæring som unntaksgrunnlag.
-- **Tolk i statsborgersaker** – `regelverk/tolkeloven/merknader/generelt.md`.
+- **Utlendingsloven** – permanent oppholdstillatelse (§ 62 og utlendingsforskriften kap. 11), oppholdstillatelser som grunnlag for oppholdstid, og EØS-borgeres og nordiske borgeres oppholdsgrunnlag (lovens § 5 og kap. 13, med varig oppholdsrett i §§ 115–116): `regelverk/utlendingsloven/VEIVISER.md`. Se også `regelverk/utlendingsloven/merknader/arbeid-eos.md` for EØS-borgere og nordiske borgere.
+- **Forvaltningsloven** – alminnelige saksbehandlingsregler: `regelverk/forvaltningsloven/VEIVISER.md`.
+- **Tolk i statsborgersaker** – `regelverk/tolkeloven/VEIVISER.md`.
 
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**[Merknad 17.10.2026: Utlendingsloven og utlendingsforskriften ligger nå i basen, se `regelverk/utlendingsloven/VEIVISER.md`. Les § 62 og forskriften kapittel 11 der i stedet for å si at de ikke er dekket. Avsnittet under er fra den gamle skillen.]**
+**Utlendingsloven må ofte med.** Statsborgerloven § 7 første ledd bokstav d gjør vilkårene for permanent oppholdstillatelse i utlendingsloven § 62 til et vilkår for statsborgerskap, og beregning av oppholdstid bygger gjennomgående på oppholdstillatelser etter utlendingsloven. Når et spørsmål forutsetter en vurdering etter utlendingsloven – typisk om søkeren i det hele tatt fyller vilkårene for permanent opphold – les § 62 og utlendingsforskriften kap. 11, se `regelverk/utlendingsloven/VEIVISER.md`.
 
-**Ikke dekket: utlendingsloven.** Dette er det viktigste hullet. Statsborgerloven § 7 første ledd bokstav d gjør vilkårene for permanent oppholdstillatelse i utlendingsloven § 62 til et vilkår for statsborgerskap, og beregning av oppholdstid bygger gjennomgående på oppholdstillatelser etter utlendingsloven. Utlendingsloven hører under Justis- og beredskapsdepartementet og er ikke med her. Når et spørsmål forutsetter en vurdering etter utlendingsloven – typisk om søkeren i det hele tatt fyller vilkårene for permanent opphold – **si eksplisitt fra at den delen ikke kan besvares fra denne skillen.**
+**Ikke i basen: annet tilgrensende regelverk.** Tvisteloven (som kap. 6 del II bygger direkte på), straffeloven kapitlene 16–18 (som § 26 a viser til), adopsjonsloven og folkeregisterloven er ikke i basen.
 
-**Delvis unntak – EØS- og nordiske borgere:** oppholdsrett og varig oppholdsrett for EØS-borgere (utlendingsloven §§ 112–116) og reglene om nordiske borgere (utlendingsloven § 5) er dekket i `regelverk/utlendingsloven/merknader/arbeid-eos.md`. Henvis dit når spørsmålet gjelder en EØS-borgers eller nordisk borgers oppholdsgrunnlag. Permanent oppholdstillatelse etter § 62 er fortsatt ikke dekket i noen skill.
+**Ikke i basen: rundskriv, instrukser og praksis.** UDIs rundskriv og praksisnotater og departementets instrukser til UDI etter § 28 er ikke tilgjengelige via Lovdatas åpne API. Statsborgerfeltet er i uvanlig stor grad styrt gjennom slike instrukser, og lov- og forskriftstekst alene gir derfor et ufullstendig bilde av hvordan saker faktisk avgjøres. Si fra om dette når spørsmålet gjelder praktisering, ikke rettsregelen som sådan.
 
-**Ikke dekket: annet tilgrensende regelverk.** Forvaltningsloven, tvisteloven (som kap. 6 del II bygger direkte på), straffeloven kapitlene 16–18 (som § 26 a viser til), adopsjonsloven og folkeregisterloven inngår ikke.
-
-**Ikke dekket: rundskriv, instrukser og praksis.** UDIs rundskriv og praksisnotater og departementets instrukser til UDI etter § 28 er ikke tilgjengelige via Lovdatas åpne API. Statsborgerfeltet er i uvanlig stor grad styrt gjennom slike instrukser, og lov- og forskriftstekst alene gir derfor et ufullstendig bilde av hvordan saker faktisk avgjøres. Si fra om dette når spørsmålet gjelder praktisering, ikke rettsregelen som sådan.
-
-**Ikke dekket: nordisk avtale.** Kapittel 4 gjennomfører en avtale mellom de nordiske landene. Selve avtaleteksten er ikke med.
+**Ikke i basen: nordisk avtale.** Kapittel 4 gjennomfører en avtale mellom de nordiske landene. Selve avtaleteksten er ikke med.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
-
-## Endringslogg
-
-Se `endringslogg.md`.

@@ -22,6 +22,7 @@ Tjenestetvistloven har ingen egen merknadsfil. Bruk `regelverk/arbeidstvistloven
 |---|---|
 | sektor, interessetvist og rettstvist, hva som ikke er dekket | `regelverk/arbeidstvistloven/merknader/generelt.md` |
 | streik og tariffavtaler i privat og kommunal sektor | `regelverk/arbeidstvistloven/VEIVISER.md` |
+| lønn og arbeidsvilkår etter tariffavtalen i staten | `regelverk/hovedtariffavtalen/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

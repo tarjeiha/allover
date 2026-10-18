@@ -1,18 +1,14 @@
-> **Flyttet fra skillen `aid-sosialtjenesteloven`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-sosialtjenesteloven`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Sosialtjenesteloven
 
 Oppslag i lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen, med tilhørende sentrale forskrifter.
 
-## Kritisk
+## Vanlige feil
 
-**Åpne alltid de faktiske kildefilene i denne skillen før du svarer.** Ikke svar fra generell kunnskap om sosialhjelp eller NAV. Loven er endret flere ganger – blant annet er reglene om vilkår (§§ 20 og 20a) og kvalifiseringsprogram justert – og ordlyden i den ajourførte teksten er det som gjelder.
+Loven er endret flere ganger – blant annet er reglene om vilkår (§§ 20 og 20a) og kvalifiseringsprogram justert – og ordlyden i den ajourførte teksten er det som gjelder.
 
-Konkret fremgangsmåte:
+Fremgangsmåte:
 
 1. Slå opp i `regelverk/sosialtjenesteloven/VEIVISER.md` for å finne riktig paragraf
 2. Åpne selve paragraffilen (`regelverk/sosialtjenesteloven/lov/par-<nr>.md`)
@@ -20,8 +16,6 @@ Konkret fremgangsmåte:
 4. Gjengi leddnummer når du siterer, og oppgi paragraf i svaret
 
 Vær særlig nøye med skjønnsbestemmelsene. Loven bruker gjennomgående formuleringer som «forsvarlig livsopphold» og «særlige tilfeller» uten å tallfeste dem. Ikke fyll ut skjønnet med tall eller satser du ikke finner i kildene – se Kildegrunnlag og dekningshull.
-
-**Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
 ## Innhold
 
@@ -34,7 +28,7 @@ Vær særlig nøye med skjønnsbestemmelsene. Loven bruker gjennomgående formul
 - Kapittel 5: Saksbehandlingen (§§ 41–49a) – forvaltningslovens anvendelse, taushetsplikt, opplysningsplikt til barnevernet, klage over kommunens vedtak og statsforvalterens kompetanse i klagesaker
 - Kapittel 6: Ikrafttredelse og overgangsbestemmelser (§§ 50–52)
 
-**Forskrifter** – `forskrifter/`:
+**Forskrifter** – `regelverk/sosialtjenesteloven/forskrifter/`:
 
 | Mappe | Forskrift |
 |---|---|
@@ -42,36 +36,33 @@ Vær særlig nøye med skjønnsbestemmelsene. Loven bruker gjennomgående formul
 | `uten-fast-bopel/` | Sosiale tjenester for personer uten fast bopel i Norge |
 | `bruk-av-vilkar/` | Bruk av vilkår etter sosialtjenesteloven |
 
-## Individuell plan – innholdet ligger i aid-nav-loven
+## Individuell plan – forskriften ligger under NAV-loven
 
-Sosialtjenesteloven § 28 gir rett til individuell plan. Selve forskriften om individuell plan ved ytelse av velferdstjenester er hjemlet i flere lover samtidig (sosialtjenesteloven § 28, NAV-loven § 15, helse- og omsorgstjenesteloven, barnevernsloven), og **fullt forskriftsinnhold ligger i skillen `regelverk/nav-loven/merknader/generelt.md`**, ikke her.
+Sosialtjenesteloven § 28 gir rett til individuell plan. Selve forskriften om individuell plan ved ytelse av velferdstjenester er hjemlet i flere lover samtidig (sosialtjenesteloven § 28, NAV-loven § 15, helse- og omsorgstjenesteloven, barnevernsloven), og **hele forskriften ligger under `regelverk/nav-loven/forskrifter/individuell-plan/`**, ikke her. Se `regelverk/nav-loven/VEIVISER.md`.
 
-Ved spørsmål om individuell plan: les § 28 i denne skillen for rettighetsgrunnlaget, og si eksplisitt fra at forskriftsteksten ligger i `regelverk/nav-loven/merknader/generelt.md`. Ikke gjengi forskriftens innhold fra hukommelsen.
+Ved spørsmål om individuell plan: les sosialtjenesteloven § 28 for rettighetsgrunnlaget, og les deretter forskriften under `regelverk/nav-loven/forskrifter/individuell-plan/`. Ikke gjengi forskriftens innhold fra hukommelsen.
 
-Merk at § 33 gir en egen bestemmelse om individuell plan for deltakere i kvalifiseringsprogram – den ligger i denne skillen.
+Merk at § 33 gir en egen bestemmelse om individuell plan for deltakere i kvalifiseringsprogram. Den står i sosialtjenesteloven.
 
 ## Kryssreferanser
 
-- **NAV-loven** – organiseringen av NAV-kontoret, taushetsplikt i etaten, § 14a om behovsvurdering: `regelverk/nav-loven/merknader/generelt.md`. Sosialtjenesteloven regulerer de *kommunale* tjenestene i NAV-kontoret.
-- **Folketrygdloven** – statlige ytelser (AAP, uføretrygd, sykepenger): `aid-ftrl`-familien. Sosialhjelp er subsidiær til folketrygdytelser, og § 26 om refusjon i ytelser fra folketrygden berører grensesnittet direkte.
-- **Integreringsloven** – introduksjonsprogram og introduksjonsstønad: `regelverk/integreringsloven/merknader/rettigheter.md`. Grensen mot kvalifiseringsprogrammet er en praktisk problemstilling.
-- **Utenfor dekket regelverk:** forvaltningsloven (klagereglene i kapittel 5 bygger på den), helse- og omsorgstjenesteloven, husleieloven og barnevernsloven er ikke med. Når en bestemmelse viser dit, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **NAV-loven** – organiseringen av NAV-kontoret, taushetsplikt i etaten, § 14a om behovsvurdering: `regelverk/nav-loven/VEIVISER.md`. Sosialtjenesteloven regulerer de *kommunale* tjenestene i NAV-kontoret.
+- **Folketrygdloven** – statlige ytelser (AAP, uføretrygd, sykepenger): `regelverk/folketrygdloven/VEIVISER.md`. Sosialhjelp er subsidiær til folketrygdytelser, og § 26 om refusjon i ytelser fra folketrygden berører grensesnittet direkte.
+- **Integreringsloven** – introduksjonsprogram og introduksjonsstønad: `regelverk/integreringsloven/VEIVISER.md`. Grensen mot kvalifiseringsprogrammet er en praktisk problemstilling.
+- **Forvaltningsloven** – saksbehandlingen og klagereglene i kapittel 5 bygger på den, se `regelverk/forvaltningsloven/VEIVISER.md`.
+- **Ikke i basen:** helse- og omsorgstjenesteloven, husleieloven og barnevernsloven. Når en bestemmelse viser dit, **si eksplisitt fra at kilden ikke er i basen** og vis til Lovdata. Ikke gjett.
 
-Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
+Les hele referansekjeden før du trekker en negativ konklusjon.
 
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Ikke dekket: rundskriv og statlige veiledende satser.** Denne skillen inneholder lovtekst og forskriftstekst, men ingen rundskriv. For sosialtjenesteloven er dette et større hull enn for de fleste andre lover: hovedrundskrivet til loven (Arbeids- og velferdsdirektoratets rundskriv til lov om sosiale tjenester i NAV) er den sentrale kilden til hvordan skjønnsbestemmelsene praktiseres, og de statlige veiledende retningslinjene for utmåling av økonomisk stønad fastsettes i eget rundskriv som justeres årlig.
+**Ikke i basen: rundskriv og statlige veiledende satser.** Basen har lov- og forskriftstekst til sosialtjenesteloven, men ingen rundskriv. For sosialtjenesteloven er dette et større hull enn for de fleste andre lover: hovedrundskrivet til loven (Arbeids- og velferdsdirektoratets rundskriv til lov om sosiale tjenester i NAV) er den sentrale kilden til hvordan skjønnsbestemmelsene praktiseres, og de statlige veiledende retningslinjene for utmåling av økonomisk stønad fastsettes i eget rundskriv som justeres årlig.
 
 Praktisk konsekvens:
 
-- Spørsmål om **satser og beløp** kan ikke besvares fra denne skillen. Si fra at satsene fastsettes i årlig rundskriv som ikke inngår i materialet.
+- Spørsmål om **satser og beløp** kan ikke besvares fra basen. Si fra at satsene fastsettes i årlig rundskriv som ikke inngår i materialet.
 - Spørsmål om **hvordan skjønnet utøves** kan besvares på ordlydsnivå, men si fra at forvaltningens praktisering ikke er dekket.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
-
-## Endringslogg
-
-Se `endringslogg.md`.

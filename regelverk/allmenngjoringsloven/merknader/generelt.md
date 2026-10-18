@@ -1,27 +1,21 @@
-> **Flyttet fra skillen `aid-allmenngjoringsloven`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-allmenngjoringsloven`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Allmenngjøringsloven
 
 Oppslag i lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler mv., med alle gjeldende allmenngjøringsforskrifter og forskrift om informasjons- og påseplikt og innsynsrett.
 
-## Kritisk
+## Vanlige feil
 
-**Åpne alltid de faktiske kildefilene i denne skillen før du svarer.** Ikke oppgi minstelønnssatser fra hukommelsen under noen omstendighet. Satsene endres ved hver tariffrevisjon – normalt årlig – og en sats fra hukommelsen vil nesten alltid være utdatert. En feil minstelønnssats i et svar kan få direkte økonomiske konsekvenser for både arbeidsgiver og arbeidstaker.
+**Ikke oppgi minstelønnssatser fra hukommelsen under noen omstendighet. Satsene endres ved hver tariffrevisjon – normalt årlig – og en sats fra hukommelsen vil nesten alltid være utdatert. En feil minstelønnssats i et svar kan få direkte økonomiske konsekvenser for både arbeidsgiver og arbeidstaker.
 
-Konkret fremgangsmåte ved spørsmål om minstelønn:
+Fremgangsmåte ved spørsmål om minstelønn:
 
 1. Finn riktig bransje i `regelverk/allmenngjoringsloven/VEIVISER.md`
-2. Åpne bransjeforskriftens `oversikt.md` og sjekk **virkeområdebestemmelsen** (normalt § 2) – forskriftene gjelder bare avgrensede typer arbeid, og avgrensningen er ofte snevrere enn bransjenavnet antyder
-3. Åpne lønnsbestemmelsen (normalt § 4) **[Merknad 16.10.2026: Lønnsbestemmelsen står i § 3 i de fleste forskriftene, i § 4 i byggeplassforskriften. Se `regelverk/allmenngjoringsloven/VEIVISER.md`.]** og gjengi satsene med paragrafhenvisning
-4. **Oppgi alltid datoen for siste endring** fra forskriftens oversikt, og si eksplisitt at satsen kan være revidert etter dette
+2. Åpne bransjeforskriftens **virkeområdebestemmelse** (§ 2) – forskriftene gjelder bare avgrensede typer arbeid, og avgrensningen er ofte snevrere enn bransjenavnet antyder
+3. Åpne lønnsbestemmelsen (§ 3 i de fleste forskriftene, § 4 i byggeplassforskriften) og gjengi satsene med paragrafhenvisning
+4. **Oppgi alltid datoen for siste endring** («sist endret i kraft» i veiviseren), og si eksplisitt at satsen kan være revidert etter dette
 
 Ved spørsmål om selve ordningen – vilkår, prosess, Tariffnemndas myndighet – gå til `regelverk/allmenngjoringsloven/lov/`.
-
-**Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
 
 ## Innhold
 
@@ -53,21 +47,17 @@ Allmenngjorte satser er **minstevilkår**. De sier ikke hva en arbeidstaker fakt
 - **Arbeidsmiljøloven** – arbeidstid, lønnstillegg for ubekvem arbeidstid og innleie: `regelverk/arbeidsmiljoloven/merknader/arbeidstid.md`, `regelverk/arbeidsmiljoloven/merknader/ansettelse-opphor.md`. Flere allmenngjøringsforskrifter regulerer også arbeidstid og tillegg, men bare innenfor sitt virkeområde.
 - **Utsendte arbeidstakere** – `regelverk/arbeidsmiljoloven/merknader/virkeomrade.md`. Forskriften om utsendte arbeidstakere fastsetter hvilke norske regler som gjelder for arbeidstakere sendt til Norge, og henger tett sammen med allmenngjøringen.
 - **Arbeidstilsynets håndheving** – `regelverk/arbeidsmiljoloven/merknader/tilsyn-godkjenning.md`. Arbeidstilsynet fører tilsyn med allmenngjorte vilkår og kan gi pålegg, tvangsmulkt og overtredelsesgebyr.
-- **Tariffavtaler og arbeidstvister** – `regelverk/arbeidstvistloven/merknader/generelt.md`
-- **Utenfor dekket regelverk:** selve tariffavtalene som er allmenngjort er **ikke** dekket – bare forskriftene som allmenngjør deler av dem. Forskrift om lønns- og arbeidsvilkår i offentlige kontrakter er heller ikke med, og den er en egen ordning som ofte forveksles med allmenngjøring. Når et spørsmål gjelder krav i offentlige anskaffelser, **si eksplisitt fra at dette regelverket ikke er dekket**.
+- **Tariffavtaler og arbeidstvister** – `regelverk/arbeidstvistloven/VEIVISER.md`
+- **Ikke i basen:** selve tariffavtalene som er allmenngjort er **ikke** i basen – bare forskriftene som allmenngjør deler av dem. Forskrift om lønns- og arbeidsvilkår i offentlige kontrakter er heller ikke med, og den er en egen ordning som ofte forveksles med allmenngjøring. Når et spørsmål gjelder krav i offentlige anskaffelser, **si eksplisitt fra at dette regelverket ikke er i basen**, og vis til Lovdata.
 
-Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
+Les hele referansekjeden før du trekker en negativ konklusjon.
 
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Satsene har en holdbarhetsdato.** Hver forskrifts `oversikt.md` oppgir dato for siste ikrafttrådte endring. Sjekk den, oppgi den i svaret, og henvis brukeren til Arbeidstilsynets oversikt over allmenngjorte satser eller Lovdata for verifisering før satsen brukes i noe som får konsekvenser.
+**Satsene har en holdbarhetsdato.** Veiviseren oppgir for hver forskrift datoen for siste endring i kraft («sist endret i kraft»). Sjekk den, oppgi den i svaret, og henvis brukeren til Arbeidstilsynets oversikt over allmenngjorte satser eller Lovdata for verifisering før satsen brukes i noe som får konsekvenser.
 
-**Ikke dekket: Tariffnemndas vedtak og begrunnelser.** Nemndas vedtak med begrunnelse for hvorfor en avtale er allmenngjort, og dokumentasjonskravene i saksbehandlingen, inngår ikke.
+**Ikke i basen: Tariffnemndas vedtak og begrunnelser.** Nemndas vedtak med begrunnelse for hvorfor en avtale er allmenngjort, og dokumentasjonskravene i saksbehandlingen, inngår ikke.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
-
-## Endringslogg
-
-Se `endringslogg.md`.

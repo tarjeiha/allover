@@ -8,13 +8,15 @@ Kapittel 5 (stønad ved helsetjenester) hører til Helse- og omsorgsdepartemente
 
 Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
-Merknadsfilene er flyttet fra de gamle ftrl-skillene og er delt etter ytelse. Bruk tabellen nederst til å finne riktig fil. Der en merknadsfil viser til «andre skills», gjelder nå filene i denne mappen.
+Merknadsfilene er flyttet fra de gamle ftrl-skillene og er delt etter ytelse. Bruk tabellen nederst til å finne riktig fil.
 
-NAVs rundskriv ligger i `rundskriv/` og dekker nesten hele loven. Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom det som står i loven eller forskriften og det NAV legger til grunn i rundskrivet. Rundskrivene kan være eldre enn lovteksten, så sjekk datoen i rundskrivfilen, og vær forsiktig med satser og beløp. Er en paragraf opphevet eller endret etter rundskrivets dato, gjelder lovteksten. Rundskrivene ligger i to mappestrukturer:
+NAVs rundskriv ligger i `rundskriv/` og dekker nesten hele loven. Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom det som står i loven eller forskriften og det NAV legger til grunn i rundskrivet. Rundskrivene kan være eldre enn lovteksten, så sjekk datoen i rundskrivfilen, og vær forsiktig med satser og beløp. Er en paragraf opphevet eller endret etter rundskrivets dato, gjelder lovteksten. Rundskrivene ligger i tre mappestrukturer:
 
-- `rundskriv/ftrl/kap-N/` for kapittel 4, 6, 8, 9, 10, 11, 11 A og 12 (én fil per paragraf, med `index.md` der paragrafen er delt).
+- `rundskriv/ftrl/kap-N/` for kapittel 4, 6, 8, 9, 10, 11, 11 A og 12 (én fil per paragraf, eller flere filer der kommentaren er delt).
 - `rundskriv/rundskriv-rNN-00/` for kapittel 1, 2, 3, 5, 7, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 og 25 (`oversikt.md`, `innledning.md` og `par-X-Y.md` per paragraf). Kapittel 3 har også tilleggsdeler `rundskriv-r03-01` til `r03-05`. Kapittel 5, 23 og 24 hører til andre departementer (se over), men rundskrivene ligger i basen.
 - `rundskriv/forskrifter/<forskrift>/` for NAVs kommentarer til enkeltforskrifter.
+
+Filnavnene varierer mellom kapitlene, for eksempel `rundskriv/ftrl/kap-4/4-04.md`, `rundskriv/ftrl/kap-6/par-6-1.md` og `rundskriv/ftrl/kap-11a/par-11a-1.md`. Der kommentaren til en paragraf er delt, ligger den enten i en egen mappe med `00-innledning.md` (som `rundskriv/ftrl/kap-4/4-05/`) eller i filer som `par-8-9-00-oversikt.md`, `par-8-9-01-forste-ledd.md` osv. Ikke gjett stien. Slå opp paragrafen i `indeks.tsv` på roten, der alle rundskrivfilene står med sti (dokumentet heter «Rundskriv»), eller list mappen. Bare `oversikt.md` i `rundskriv-rNN-00/`-mappene mangler i indeksen.
 
 ## Kjente feller
 
@@ -31,7 +33,7 @@ NAVs rundskriv ligger i `rundskriv/` og dekker nesten hele loven. Rundskriv er f
 - **Enslig mor eller far: aleneomsorg og samliv.** De fleste tvilsspørsmål gjelder § 15-4. Den som bor med en person hun eller han har barn med, eller lever i et ekteskapslignende forhold, regnes ikke som enslig (tredje ledd). Ingen av foreldrene har aleneomsorg ved nære boforhold (fjerde ledd). Medlemmet har bevisbyrden (femte ledd).
 - **Foreldrepenger gir penger, ikke rett til fri.** Retten til permisjon følger av arbeidsmiljøloven kapittel 12, se `regelverk/arbeidsmiljoloven/VEIVISER.md`. Skill også mellom svangerskapspenger (§ 14-4), som gjelder gravide som må slutte i arbeidet eller er utsatt for risikofaktorer, og foreldrepenger (§ 14-5 flg.).
 - **Yrkesskade gir særfordeler i andre kapitler.** § 13-2 andre ledd lister bestemmelsene, blant annet § 8-55 (sykepenger), § 11-22 (AAP), § 12-17 (uføretrygd) og § 13-17 (menerstatning). Yrkesskadedekning etter kapittel 13 er noe annet enn yrkesskadeforsikring etter yrkesskadeforsikringsloven, som ikke er i basen.
-- **Klage og anke er to trinn.** Vedtak påklages først til NAV (nærmeste overordnede organ), og klageinstansens vedtak kan deretter ankes til Trygderetten (§ 21-12 første ledd). Fristen er seks uker for begge (femte ledd). Domstolene kan først brukes når klage og anke er brukt fullt ut (sjette ledd). Forvaltningsloven gjelder ved siden av kapittel 21 (§ 21-1), men er ikke i basen.
+- **Klage og anke er to trinn.** Vedtak påklages først til NAV (nærmeste overordnede organ), og klageinstansens vedtak kan deretter ankes til Trygderetten (§ 21-12 første ledd). Fristen er seks uker for begge (femte ledd). Domstolene kan først brukes når klage og anke er brukt fullt ut (sjette ledd). Forvaltningsloven gjelder ved siden av kapittel 21 (§ 21-1), se `regelverk/forvaltningsloven/VEIVISER.md`.
 - **Tilbakekreving, foreldelse og gebyr vurderes hver for seg.** Vilkårene for å kreve tilbake står i § 22-15, foreldelse i § 22-14. Overtredelsesgebyr og tvangsmulkt etter § 25-3 gjelder arbeidsgivere og oppdragsgivere som bryter meldeplikten til Aa-registeret (første ledd), ikke mottakere av ytelser.
 
 ## Merknader og andre kilder

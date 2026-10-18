@@ -1,54 +1,27 @@
-> **Flyttet fra skillen `aid-ftrl-medlemskap-beregning`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-ftrl-medlemskap-beregning`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Folketrygdloven – medlemskap og beregningsregler
 
 Oppslag i lov 28. februar 1997 nr. 19 om folketrygd, kapittel 1, 2 og 3.
 
-## Kritisk
+## Vanlige feil
 
-**Åpne alltid de faktiske kildefilene i denne skillen før du svarer.** Ikke svar fra generell kunnskap om folketrygden. Loven er endret svært hyppig, og eldre fremstillinger av sentrale bestemmelser er ofte utdaterte.
+Ikke svar fra generell kunnskap om folketrygden. Loven er endret svært hyppig, og eldre fremstillinger av sentrale bestemmelser er ofte utdaterte.
 
-Konkret fremgangsmåte:
+Fremgangsmåte:
 
 1. Slå opp i `regelverk/folketrygdloven/VEIVISER.md` for å finne riktig paragraf
 2. Åpne selve paragraffilen (`regelverk/folketrygdloven/lov/par-<nr>.md`)
 3. Sjekk om en forskrift regulerer samme spørsmål – se `regelverk/folketrygdloven/VEIVISER.md`
 4. Gjengi leddnummer når du siterer, og oppgi paragraf i svaret
 
-Dette er en tverrgående skill. Nesten alle ytelsesspørsmål i folketrygden forutsetter medlemskap etter kapittel 2 og beregning etter kapittel 3, men brukeren spør sjelden om det direkte.
+Kapittel 1–3 er tverrgående. Nesten alle ytelsesspørsmål i folketrygden forutsetter medlemskap etter kapittel 2 og beregning etter kapittel 3, men brukeren spør sjelden om det direkte.
 
-**Grunnbeløpet ligger her.** Satsene fastsettes årlig i forskrift (`regelverk/folketrygdloven/forskrifter/grunnbelop-og-satser/`). Andre ftrl-skills viser hit for beløp. Sjekk alltid hvilket år forskriften gjelder for før du oppgir tall.
+**Grunnbeløpet hører til dette området.** Satsene fastsettes årlig i forskrift (`regelverk/folketrygdloven/forskrifter/grunnbelop-og-satser/`). Merknadene om de enkelte ytelsene viser hit for beløp. Sjekk alltid hvilket år forskriften gjelder for før du oppgir tall.
 
-**Når brukeren ber om å se/vise lovteksten eller forskriftsteksten:** gjengi kildefilen ordrett og i sin helhet – inkludert bokstavpunkter, underoverskrifter og leddnummerering slik de står i kildefilen. Ikke sammenfatt, omformuler eller utelat strukturelementer med mindre brukeren eksplisitt ber om et sammendrag.
+## Kapitler uten merknad
 
-## Folketrygdloven er delt på mange skills
-
-Loven har 26 kapitler og er for stor for én skill. Den er delt etter ytelse, med to tverrgående skills i tillegg. Kartet:
-
-| Skill | Kapitler |
-|---|---|
-| `regelverk/folketrygdloven/merknader/medlemskap-beregning.md` | 1, 2, 3 – medlemskap, trygdetid, pensjonsgivende inntekt, grunnbeløp |
-| `regelverk/folketrygdloven/merknader/dagpenger.md` | 4 |
-| `regelverk/folketrygdloven/merknader/grunnstonad.md` | 6 |
-| `regelverk/folketrygdloven/merknader/sykepenger.md` | 8, 9 |
-| `regelverk/folketrygdloven/merknader/hjelpemidler.md` | 10 |
-| `regelverk/folketrygdloven/merknader/aap.md` | 11, 11 A |
-| `regelverk/folketrygdloven/merknader/uforetrygd.md` | 12 |
-| `regelverk/folketrygdloven/merknader/yrkesskade.md` | 13 |
-| `regelverk/folketrygdloven/merknader/foreldrepenger.md` | 14 |
-| `regelverk/folketrygdloven/merknader/enslig-forsorger.md` | 15 |
-| `regelverk/folketrygdloven/merknader/etterlatte-gravferd.md` | 7, 16, 17, 17 A, 18 |
-| `regelverk/folketrygdloven/merknader/alderspensjon.md` | 19, 20 |
-| `regelverk/folketrygdloven/merknader/saksbehandling-anke.md` | 21 |
-| `regelverk/folketrygdloven/merknader/utbetaling-tilbakekreving.md` | 22, 25, 26 |
-
-**Ikke dekket i noen skill:** kapittel 5 (stønad ved helsetjenester), 23 og 24 (finansiering og avgifter). Disse hører til Helse- og omsorgsdepartementet og Finansdepartementet. Ved spørsmål om egenandeler, legemidler, behandlingsrefusjon eller trygdeavgift: **si eksplisitt at kapittelet ikke er dekket**.
-
-**Når spørsmålet ligger utenfor dine kapitler:** si hvilken skill som dekker det. Ikke svar fra hukommelsen om paragrafer du ikke har filene til.
+Merknadene er delt etter ytelse, se tabellen nederst i den håndskrevne delen av `regelverk/folketrygdloven/VEIVISER.md`. Kapittel 5 (stønad ved helsetjenester), 23 og 24 (finansiering og avgifter) hører til Helse- og omsorgsdepartementet og Finansdepartementet og har ingen merknad. Lovteksten og NAVs rundskriv til disse kapitlene (R05-00, R23-00 og R24-00) ligger i basen. Forskriftene om egenandeler, legemidler og behandlingsrefusjon er ikke i basen. Si fra om det ved slike spørsmål.
 
 ## Tverrgående kapitler gjelder også her
 
@@ -63,23 +36,21 @@ Si fra når svaret krever en av disse, i stedet for å svare ut fra ytelseskapit
 
 ## Kryssreferanser utenfor folketrygdloven
 
-- **Arbeidsmiljøloven** – permisjonsrettigheter, stillingsvern, arbeidstid: `aid-aml`-familien
-- **NAV-loven** – organiseringen av etaten og NAV-kontoret: `regelverk/nav-loven/merknader/generelt.md`
-- **Sosialtjenesteloven** – økonomisk sosialhjelp, subsidiær til folketrygdytelser: `regelverk/sosialtjenesteloven/merknader/generelt.md`
-- **Utenfor dekket regelverk:** forvaltningsloven er dekket i `regelverk/forvaltningsloven/`. Trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven og kontantstøtteloven er ikke dekket i basen. Trygdeforordningen (883/2004) og gjennomføringsforordningen ligger i `regelverk/eu/forordning-883-2004/` og `regelverk/eu/forordning-987-2009/` (engelsk tekst, se veiviserne der). EØS-reglene er særlig viktige: de går foran folketrygdlovens egne regler i mange grensekryssende saker. Når et spørsmål krever noe som ikke er dekket i basen, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Arbeidsmiljøloven** – permisjonsrettigheter, stillingsvern, arbeidstid: `regelverk/arbeidsmiljoloven/VEIVISER.md`
+- **NAV-loven** – organiseringen av etaten og NAV-kontoret: `regelverk/nav-loven/VEIVISER.md`
+- **Sosialtjenesteloven** – økonomisk sosialhjelp, subsidiær til folketrygdytelser: `regelverk/sosialtjenesteloven/VEIVISER.md`
+- **Forvaltningsloven** gjelder med de særreglene som står i kapittel 21 (§ 21-1): `regelverk/forvaltningsloven/VEIVISER.md`
+- **EØS:** Trygdeforordningen (883/2004) og gjennomføringsforordningen (987/2009) ligger i `regelverk/eu/forordning-883-2004/VEIVISER.md` og `regelverk/eu/forordning-987-2009/VEIVISER.md` (engelsk tekst). EØS-reglene er særlig viktige: de går foran folketrygdlovens egne regler i mange grensekryssende saker (§ 1-3 a).
+- **Ikke i basen:** trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven og kontantstøtteloven. Når et spørsmål krever en kilde som ikke er i basen, si eksplisitt fra om det. Ikke gjett.
 
-Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
+Les hele referansekjeden før du trekker en negativ konklusjon.
 
 ## Kildegrunnlag og dekningshull
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Rundskriv:** NAVs rundskriv til dette området ligger i `regelverk/folketrygdloven/rundskriv/rundskriv-r01-00/`, `regelverk/folketrygdloven/rundskriv/rundskriv-r02-00/`, `regelverk/folketrygdloven/rundskriv/rundskriv-r03-00/` (innledning, `oversikt.md` og én fil per paragraf der rundskrivet er delt, lagt inn 2026-10-17 fra Lovdata). Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom lovtekst og det NAV legger til grunn, og si hvilket rundskriv svaret bygger på. Rundskrivene kan være eldre enn lovteksten: sjekk datoen i toppen av rundskrivfilen, og vær særlig forsiktig med satser og beløp (for eksempel står gravferdssatsen fra 2018 i rundskriv R07-00). Er paragrafen opphevet eller endret etter rundskrivets dato, gjelder lovteksten.
+**Rundskriv:** NAVs rundskriv til dette området ligger i `regelverk/folketrygdloven/rundskriv/rundskriv-r01-00/`, `regelverk/folketrygdloven/rundskriv/rundskriv-r02-00/`, `regelverk/folketrygdloven/rundskriv/rundskriv-r03-00/` (innledning, `oversikt.md` og én fil per paragraf der rundskrivet er delt, lagt inn 2026-10-17 fra Lovdata). Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom lovtekst og det NAV legger til grunn, og si hvilket rundskriv svaret bygger på. Rundskrivene kan være eldre enn lovteksten: sjekk datoen i toppen av rundskrivfilen, og vær særlig forsiktig med satser og beløp (for eksempel står gravferdssatsen fra 2018 i rundskriv R07-00). Er paragrafen opphevet eller endret etter rundskrivets dato, gjelder lovteksten. NAVs EØS-rundskriv (R45-00) er ikke i basen.
 
 **Satser og beløp:** de fleste satsene i folketrygden er knyttet til grunnbeløpet, som fastsettes årlig. Grunnbeløpsforskriften ligger i `regelverk/folketrygdloven/forskrifter/grunnbelop-og-satser/`. Oppgi aldri kronebeløp du ikke finner i en kildefil.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
-
-## Endringslogg
-
-Se `endringslogg.md`.

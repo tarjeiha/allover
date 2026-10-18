@@ -1,8 +1,4 @@
-> **Flyttet fra skillen `aid-ftrl-aap`** 16.10.2026. Teksten er ellers uendret, bortsett fra stiene.
-> Alle stier er relative til basens rot. Hele lov- og forskriftsteksten ligger nå i basen. Der teksten
-> sier at «denne skillen» bare dekker enkelte kapitler, at et regelverk «ikke er dekket», eller viser til
-> andre skills, kan det være utdatert: sjekk tabellen i CLAUDE.md og veiviseren til loven.
-> Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-ftrl-aap`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Temaoppslag kapittel 11 (arbeidsavklaringspenger)
 
@@ -23,4 +19,4 @@
 
 **Merk:** § 11-16 og § 11-21 er opphevet. Ingen del-inndeling (romertall) i lovteksten for dette kapitlet.
 
-**Kapittel 11 A (tilleggsstønader til arbeidsrettede tiltak):** ingen egen temaoppslagstabell er bygget for dette kapitlet ennå. Se lovtekst direkte (§ 11 A-1 til § 11 A-6) og forskrift om stønader til dekning av utgifter knyttet til å komme i eller å beholde arbeid (tilleggsstønadsforskriften) i `regelverk/folketrygdloven/rundskriv/forskrifter/tilleggsstonadsforskriften/`.
+**Kapittel 11 A (tilleggsstønader til arbeidsrettede tiltak):** ingen egen temaoppslagstabell er laget for dette kapitlet. Se lovteksten direkte (§ 11 A-1 til § 11 A-5, med § 11 A-1 a), NAVs rundskriv i `regelverk/folketrygdloven/rundskriv/ftrl/kap-11a/` og NAVs kommentarer til forskrift om stønader til dekning av utgifter knyttet til å komme i eller å beholde arbeid (tilleggsstønadsforskriften) i `regelverk/folketrygdloven/rundskriv/forskrifter/tilleggsstonadsforskriften/`. Selve forskriftsteksten er ikke i basen.

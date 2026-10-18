@@ -10,7 +10,7 @@ Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i 
 ## Kjente feller
 
 - **Fødselsår avgjør regelsettet. Avklar det først.** Kapittel 1 gjelder arbeidstakere født i 1962 eller tidligere (§ 1). Kapittel 2 gjelder arbeidstakere født i 1963 eller senere (§ 7 første ledd). Ordningene er bygd helt ulikt, så et svar fra feil kapittel blir galt.
-- **Retten forutsetter tariffavtale.** Loven gir rammene, men retten til AFP er knyttet til tariffavtale der staten er part eller tariffavtale godkjent av departementet (§ 2 og § 7 første ledd). Tariffavtalene ligger ikke i basen.
+- **Retten forutsetter tariffavtale.** Loven gir rammene, men retten til AFP er knyttet til tariffavtale der staten er part eller tariffavtale godkjent av departementet (§ 2 og § 7 første ledd). AFP i staten er regulert i hovedtariffavtalen i staten punkt 4.2 (født 1962 eller tidligere) og punkt 4.3 (født 1963 eller senere), se `regelverk/hovedtariffavtalen/VEIVISER.md`. Punkt 4.3 viser videre til AFP-avtalen av 3. mars 2018 mellom Arbeids- og sosialdepartementet og hovedorganisasjonene, som ikke er i basen.
 - **Privat AFP er ikke i basen.** Loven viser flere steder til AFP-tilskottsloven, blant annet i § 7 andre ledd og § 9 første ledd bokstav c. Den loven er ikke dekket. Si det tydelig, og vis til Lovdata.
 
 ## Merknader og andre kilder
@@ -18,6 +18,7 @@ Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i 
 | Tema | Les |
 |---|---|
 | offentlig AFP, gammel og ny ordning | `regelverk/spk-loven/merknader/alderspensjon-afp.md` |
+| AFP i hovedtariffavtalen i staten | `regelverk/hovedtariffavtalen/VEIVISER.md` |
 | alderspensjon fra Statens pensjonskasse | `regelverk/spk-loven/VEIVISER.md` |
 | samordning med folketrygden | `regelverk/samordningsloven/VEIVISER.md` |
 | alderspensjon fra folketrygden | `regelverk/folketrygdloven/VEIVISER.md` |
