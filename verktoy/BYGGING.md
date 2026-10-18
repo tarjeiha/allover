@@ -58,7 +58,7 @@ Alle parsefeil som er funnet hittil, har vært stille. De gir ingen feilmelding,
 - **Tap i én enhet drukner i totalen.** Femten paragrafer mistet hele noteapparatet uten at den samlede dekningen falt merkbart.
 - **Innhold på feil plass mister ingen ord.** I EU-teksten ble et avsnitt delt midt i en setning, en artikkel fikk feil endringsmarkør, og en kapitteloverskrift havnet på slutten av forrige artikkel.
 
-**Slik er det i dag:** `bygg.py`, `eu.py` og `avtale.py` kontrollerer ordene per paragraf eller artikkel, med en terskel på 98–99 %. De kontrollerer ikke struktur: om kilden har tabell, noter eller liste, sjekkes ikke mot om filen har det. Den gamle `verifiser_dekning.py` i skillbyggeren gjorde dette, med terskelen null. Den er ikke flyttet hit.
+**Slik er det i dag:** `bygg.py` kontrollerer hver paragraf på to måter. Minst 98 % av ordene i kilden skal være med, og filen skal ha minst like mange tabeller, noter og listepunkter som kilden (`struktur()`). Endringshistorikken telles ikke med. Avvik gjør bygget rødt. `eu.py` og `avtale.py` kontrollerer bare ordene.
 
 **Til du har bygget noe nytt:** Les minst én ferdig fil i sin helhet før du sier at en lov er ferdig. Velg den paragrafen med mest sammensatt struktur (tabeller, noter, mange endringsmarkører), fordi det er der feilene samler seg. Hvis kilden har tabeller, skal testsettet ha et kontrollspørsmål om tabellinnholdet med kjent fasit, f.eks. «hvilken menerstatning gir 45 % invaliditet».
 
