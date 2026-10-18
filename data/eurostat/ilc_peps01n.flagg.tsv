@@ -2,8 +2,8 @@
 # Tabell: Personer med risiko for fattigdom eller sosial eksklusjon, etter kjønn (prosent)
 # Eurostat-tittel: Persons at risk of poverty or social exclusion by age and sex
 # Oppdatert hos Eurostat: 2026-10-05T23:00:00+0200
-# Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_peps01n?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=DE&geo=EU27_2020&unit=PC&sex=T&sex=M&sex=F&age=TOTAL
-# geo: EU27_2020=European Union - 27 countries (from 2020); DK=Denmark; DE=Germany; FI=Finland; SE=Sweden; NO=Norway
+# Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_peps01n?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=IS&geo=DE&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=EE&geo=FR&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=EU27_2020&unit=PC&sex=T&sex=M&sex=F&age=TOTAL
+# geo: EU27_2020=European Union - 27 countries (from 2020); BE=Belgium; BG=Bulgaria; CZ=Czechia; DK=Denmark; DE=Germany; EE=Estonia; IE=Ireland; EL=Greece; ES=Spain; FR=France; HR=Croatia; IT=Italy; CY=Cyprus; LV=Latvia; LT=Lithuania; LU=Luxembourg; HU=Hungary; MT=Malta; NL=Netherlands; AT=Austria; PL=Poland; PT=Portugal; RO=Romania; SI=Slovenia; SK=Slovakia; FI=Finland; SE=Sweden; IS=Iceland; NO=Norway
 # unit: PC=Percentage
 # age: TOTAL=Total
 # sex: T=Total; M=Males; F=Females
@@ -14,15 +14,69 @@ DK	PC	TOTAL	F	2020	b
 FI	PC	TOTAL	F	2019	b
 FI	PC	TOTAL	F	2022	b
 DE	PC	TOTAL	F	2020	b
+BE	PC	TOTAL	F	2019	b
+BG	PC	TOTAL	F	2016	b
+HR	PC	TOTAL	F	2023	b
+HR	PC	TOTAL	F	2024	b
+FR	PC	TOTAL	F	2020	b
+FR	PC	TOTAL	F	2022	b
+HU	PC	TOTAL	F	2019	b
+IE	PC	TOTAL	F	2019	b
+IE	PC	TOTAL	F	2020	b
+LT	PC	TOTAL	F	2024	p
+LT	PC	TOTAL	F	2025	p
+LU	PC	TOTAL	F	2016	b
+LU	PC	TOTAL	F	2020	b
+LU	PC	TOTAL	F	2021	b
+LU	PC	TOTAL	F	2022	b
+LU	PC	TOTAL	F	2025	b
+NL	PC	TOTAL	F	2016	b
+SK	PC	TOTAL	F	2025	b
 NO	PC	TOTAL	M	2021	b
 NO	PC	TOTAL	M	2023	b
 DK	PC	TOTAL	M	2020	b
 FI	PC	TOTAL	M	2019	b
 FI	PC	TOTAL	M	2022	b
 DE	PC	TOTAL	M	2020	b
+BE	PC	TOTAL	M	2019	b
+BG	PC	TOTAL	M	2016	b
+HR	PC	TOTAL	M	2023	b
+HR	PC	TOTAL	M	2024	b
+FR	PC	TOTAL	M	2020	b
+FR	PC	TOTAL	M	2022	b
+HU	PC	TOTAL	M	2019	b
+IE	PC	TOTAL	M	2019	b
+IE	PC	TOTAL	M	2020	b
+LT	PC	TOTAL	M	2024	p
+LT	PC	TOTAL	M	2025	p
+LU	PC	TOTAL	M	2016	b
+LU	PC	TOTAL	M	2020	b
+LU	PC	TOTAL	M	2021	b
+LU	PC	TOTAL	M	2022	b
+LU	PC	TOTAL	M	2025	b
+NL	PC	TOTAL	M	2016	b
+SK	PC	TOTAL	M	2025	b
 NO	PC	TOTAL	T	2021	b
 NO	PC	TOTAL	T	2023	b
 DK	PC	TOTAL	T	2020	b
 FI	PC	TOTAL	T	2019	b
 FI	PC	TOTAL	T	2022	b
 DE	PC	TOTAL	T	2020	b
+BE	PC	TOTAL	T	2019	b
+BG	PC	TOTAL	T	2016	b
+HR	PC	TOTAL	T	2023	b
+HR	PC	TOTAL	T	2024	b
+FR	PC	TOTAL	T	2020	b
+FR	PC	TOTAL	T	2022	b
+HU	PC	TOTAL	T	2019	b
+IE	PC	TOTAL	T	2019	b
+IE	PC	TOTAL	T	2020	b
+LT	PC	TOTAL	T	2024	p
+LT	PC	TOTAL	T	2025	p
+LU	PC	TOTAL	T	2016	b
+LU	PC	TOTAL	T	2020	b
+LU	PC	TOTAL	T	2021	b
+LU	PC	TOTAL	T	2022	b
+LU	PC	TOTAL	T	2025	b
+NL	PC	TOTAL	T	2016	b
+SK	PC	TOTAL	T	2025	b
