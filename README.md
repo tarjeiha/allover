@@ -8,6 +8,6 @@ Felles base som Claude slår opp i når noen stiller spørsmål som krever regel
 
 - **For Claude:** start i [`CLAUDE.md`](CLAUDE.md).
 - **For brukere:** installer peker-skillen i [`skills/`](skills/). Den sier fra til Claude når basen skal brukes, og henter innholdet herfra. Du trenger ikke oppdatere noe selv.
-- **For redaktører:** endringer gjøres som pull request og godkjennes av eieren av mappen (se [`.github/CODEOWNERS`](.github/CODEOWNERS)). Lovtekst redigeres ikke for hånd. Den bygges fra Lovdata (se [`verktoy/`](verktoy/)).
+- **For redaktører:** endringer gjøres som pull request og godkjennes av eieren av mappen (se [`.github/CODEOWNERS`](.github/CODEOWNERS)). Lovtekst redigeres ikke for hånd. Den bygges fra Lovdata (se [`verktoy/`](verktoy/)). Hvordan nytt regelverk legges til og kontrolleres, står i [`verktoy/BYGGING.md`](verktoy/BYGGING.md).
 
 Lovtekst og forskrifter er hentet fra Lovdatas åpne datasett. Se [`LICENSE.md`](LICENSE.md).
