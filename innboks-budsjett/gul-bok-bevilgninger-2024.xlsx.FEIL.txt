@@ -1,0 +1,5 @@
+gul-bok-bevilgninger-2024.xlsx ble ikke lagt inn.
+
+Årsak: første rad mangler kolonnene beløp, kap_nr, post_nr. Fant: Begrepsforklaringer, 
+
+Rett opp og last opp filen på nytt. Denne filen forsvinner når filen er lagt inn.

@@ -18,6 +18,12 @@ Denne mappen har statsbudsjettdokumenter for Arbeids- og inkluderingsdepartement
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
 - **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
+- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`)
+- **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`)
+- **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`)
+- **2023:** Prop. 1 S AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`)
+- **2022:** Prop. 1 S AID (`budsjett/2022/prop-1-s-aid/`), Gul bok (`budsjett/2022/gul-bok/`)
+- **2021:** Prop. 1 S AID (`budsjett/2021/prop-1-s-aid/`)
 <!-- AUTO-SLUTT budsjettår -->
 
 ## Budsjettår 2027
