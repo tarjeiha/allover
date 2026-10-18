@@ -4,6 +4,9 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: 1) Personer med minsteytelse. Minste årlige ytelse: 2,48 G og fra 1.juli 2024: 2,329 ganger folketrygdens grunnbeløp for enslige uføre.2,28 G og fra 1.juli 2024: 2,529 ganger folketrygdens grunnbeløp for uføre som bor sammen med ektefelle eller samboer. Minste årlige ytelse er 2,379 ganger grunnbeløpet dersom vedkommende mottar en uføretrygd som er en omregnet uførepensjon. (Fra 1. september 2016 2,33 ganger folketrygdens grunnbeløp).
+# Merknad: Tallene for minsteytelse for 2015-2017 er rettet og oppdatert
+# Merknad: 2) Uføretrygdet med gjenlevendetillegg
 gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
 Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.	I alt	318244	325875	339245	352197	357563	360943	364437	366627	373036	374918
 Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.	Med forsørgingstillegg for ektefelle	533	390	280	203	148	119	91	75	59	-

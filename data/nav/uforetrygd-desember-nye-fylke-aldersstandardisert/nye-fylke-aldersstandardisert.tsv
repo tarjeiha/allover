@@ -4,6 +4,8 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *)Befolkningen i alderen 18-67 år. 11/12 av 18-åringene og 1/12 av 67-åringene er inkludert.
+# Merknad: **) Aldersstandardisert: andelen uførepensjonister man ville hatt i fylket hvis befolkningen i fylket hadde samme fordeling etter alder (og kjønn) som befolkningen i landet.
 gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
 Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter fylke. Aldersstandardiserte tall. 1. kvartal-4. kvartal 2016-2025 **). Per tusen.	I alt	9.6	10.3	11.9	11.9	9.4	9.1	9.2	8.6	9.7	8.1
 Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter fylke. Aldersstandardiserte tall. 1. kvartal-4. kvartal 2016-2025 **). Per tusen.	03 Oslo	5.7	7.1	10.0	10.1	9.1	6.7	7.7	7.5	8.0	5.8

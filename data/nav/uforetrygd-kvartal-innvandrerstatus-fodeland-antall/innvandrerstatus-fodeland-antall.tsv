@@ -4,6 +4,7 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *) Innvandrer er definert som en person født i utlandet. I tillegg er begge foreldre født i utlandet eller en foreldre født i utlandet og den andre med ukjent fødeland, eller begge foreldre har ukjent fødeland.
 gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
 Mottakere av uføretrygd, etter innvandrerstatus *) og fødeland. Tabellen viser landene hvor flest kommer fra. Pr. 30.06.2017-2026. Antall.	I alt	30791	33795	37459	40787	42384	45269	47605	50194	52922	55583
 Mottakere av uføretrygd, etter innvandrerstatus *) og fødeland. Tabellen viser landene hvor flest kommer fra. Pr. 30.06.2017-2026. Antall.	Alle andre land	6052	6733	7564	8264	8841	9436	9649	10176	10779	11471

@@ -4,6 +4,8 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *) Poengtallet til "unge uføre" gis tidligst f.o.m. den kalendermåneden mottakeren fyller 20 år. 18- og 19-åringene er derfor ikke med.
+# Merknad: *) Poengtallet til "unge uføre" gis tidligst f.o.m. den kalendermåneden mottakeren fyller 20 år. 18- og 19-åringene er derfor ikke med.
 gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
 Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 31.12.2016-2025. Antall.	I alt	64823	67881	71539	74812	77105	79173	80909	82526	84595	86362
 Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 31.12.2016-2025. Antall.	20-24	5049	5473	6070	6605	6732	6779	6632	6508	6591	6692

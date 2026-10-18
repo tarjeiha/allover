@@ -4,6 +4,10 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: 1) Ektefelletillegg bortfaller fra 1. januar 2025
+# Merknad: 2) Personer med minsteytelse.
+# Merknad: 3) Uføretrygdet med gjenlevendetillegg
+# Merknad: Fra 2015 beregnes uføretrygden av 66 prosent av gjennomsnittsinntekten de 3 beste av de 5 siste årene før personen ble ufør (for årlig inntekt opptil seks ganger grunnbeløpet i folketrygden). Da uføretrygdede skattes som lønnsmottakere fra 2015, er størrelsen på pensjonen høyere enn tidligere. Gjenlevendetillegg er inkludert
 gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
 Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.06.2017-2026. Beløp i kroner.	I alt	252131	261116	269076	273497	287028	300496	319937	334424	353611	371196
 Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.06.2017-2026. Beløp i kroner.	Med forsørgingstillegg for ektefelle 1)	281980	286193	283339	277812	286439	296914	325561	340188	-	-

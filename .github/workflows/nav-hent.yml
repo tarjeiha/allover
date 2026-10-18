@@ -42,6 +42,7 @@ jobs:
             mv data-innboks-rapport.txt "$RUNNER_TEMP/melding.txt"
           else
             echo "Nav: oppdaterte sidedatoer" > "$RUNNER_TEMP/melding.txt"
+            grep -qE "^Nav-webtabeller: [1-9]" nav-webtabell-rapport.txt 2>/dev/null && echo "Nav: oppdaterte webtabeller" > "$RUNNER_TEMP/melding.txt"
           fi
           if grep -qE "^Nav-webtabeller: [1-9]" nav-webtabell-rapport.txt 2>/dev/null; then
             { echo; cat nav-webtabell-rapport.txt; } >> "$RUNNER_TEMP/melding.txt"

@@ -4,6 +4,9 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
 gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
 Mottakere av uføretrygd, etter fylke og uføregrad. Pr. 31.12.2016-2025. Antall.	I alt	318244	325875	339245	352197	357563	360943	364437	366627	373036	374918
 Mottakere av uføretrygd, etter fylke og uføregrad. Pr. 31.12.2016-2025. Antall.	03 Oslo	24014	24664	26388	28214	29755	30060	30743	31348	32120	32063

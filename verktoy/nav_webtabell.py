@@ -50,8 +50,18 @@ class Webtabell(HTMLParser):
         self._celle = None
         self._span = 1
         self._del = None
+        self._fri = []
+        self.merknader = []
+
+    def tom_fri(self):
+        t = rens("".join(self._fri))
+        if t:
+            self.merknader.append(t)
+        self._fri = []
 
     def handle_starttag(self, tag, attrs):
+        if tag in ("h2", "h3", "table", "p", "div", "br") and self._tabell is None:
+            self.tom_fri()
         if tag in ("h2", "h3") and self._tabell is None:
             self._tekst = []
         elif tag == "table":
@@ -94,6 +104,8 @@ class Webtabell(HTMLParser):
             self._celle.append(data)
         elif self._tekst is not None:
             self._tekst.append(data)
+        elif self._tabell is None:
+            self._fri.append(data)
 
 
 def rens(t):
@@ -118,7 +130,8 @@ def innhold(side_html):
 def les(original):
     p = Webtabell()
     p.feed(original)
-    return p.deler
+    p.tom_fri()
+    return p.deler + [("merknad", m) for m in p.merknader]
 
 
 def til_tsv(deler):
@@ -127,6 +140,8 @@ def til_tsv(deler):
     for type_, d in deler:
         if type_ == "overskrift":
             overskrift = d
+            continue
+        if type_ != "tabell":
             continue
         for rad in d["hode"]:
             linjer.append("\t".join(["gruppe", "rad"] + rad[1:]))
@@ -166,7 +181,7 @@ def navn_fra_url(url):
     """mottakere-av-uforetrygd-etter-kjonn-og-alder.pr.31.12.2016-2025.antall -> kjonn-alder-antall"""
     s = urllib.parse.unquote(url.rstrip("/").rsplit("/", 1)[-1]).lower()
     s = re.sub(r"\.pr\.[\d.\-]+", ".", s)
-    s = re.sub(r"\.\d\.kvartal-\d\.kvartal-[\d\-]+", ".", s)
+    s = re.sub(r"\.\d\.(?:kvartal|halvar)(?:-\d\.kvartal)?-[\d\-]+", ".", s)
     s = re.sub(r"\.\d{4}(?:-\d{4})?(?=[.-]|$)", ".", s)
     s = re.sub(r"[^a-z0-9]+", "-", s.replace(".", "-")).strip("-")
     for gammel, ny in KORTFORMER:
@@ -204,7 +219,7 @@ def legg_inn(url, prefiks, arkivside, beskrivelse, tor):
         f"# Arkivside: {arkivside}",
         f"# Lagt inn: {iday}",
         "# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.",
-    ]
+    ] + [f"# Merknad: {d}" for t, d in deler if t == "merknad"]
     linjer = hode + til_tsv(deler)
     antall, avvik = kontroller(deler, linjer)
     if avvik:

@@ -196,6 +196,24 @@
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
   },
   {
+   "monster": "aap320.*fjerdekvartal",
+   "mappe": "aap-alder-kjonn-desember",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn, desember 2010–2025 (AAP320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-oktober-desember-2025"
+  },
+  {
+   "monster": "aap360.*fjerdekvartal",
+   "mappe": "aap-diagnose-alder-desember",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og alder, desember (AAP360)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-oktober-desember-2025"
+  },
+  {
+   "monster": "aap370.*fjerdekvartal",
+   "mappe": "aap-diagnose-kjonn-desember",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, desember (AAP370)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-oktober-desember-2025"
+  },
+  {
    "monster": "aap320",
    "mappe": "aap-alder-kjonn-kvartal",
    "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP320)",
@@ -300,19 +318,19 @@
   {
    "monster": "tabell1upantall",
    "mappe": "uforetrygd-diagnose-beholdning-aar",
-   "tittel": "Uføretrygd: beholdning etter diagnose og kjønn, år (tabell 1)",
+   "tittel": "Uføretrygd 18–29 år: beholdning etter diagnose og kjønn, år (tabell 1)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
   },
   {
    "monster": "tabell2upnye",
    "mappe": "uforetrygd-diagnose-nye-aar",
-   "tittel": "Uføretrygd: nye mottakere etter diagnose og kjønn, år (tabell 2)",
+   "tittel": "Uføretrygd 18–29 år: nye mottakere etter diagnose og kjønn, år (tabell 2)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
   },
   {
    "monster": "tabell3uf",
    "mappe": "uforetrygd-enkeltdiagnoser-aar",
-   "tittel": "Uføretrygd: de mest brukte enkeltdiagnosene (tabell 3)",
+   "tittel": "Uføretrygd 18–29 år: de mest brukte enkeltdiagnosene (tabell 3)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
   },
   {

@@ -4,6 +4,7 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *) Innvandrer er definert som en person født i utlandet. I tillegg er begge foreldre født i utlandet eller en foreldre født i utlandet og den andre med ukjent fødeland, eller begge foreldre har ukjent fødeland.
 gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
 Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 31.12.2016-2025. Antall.	I alt	318244	325875	339245	352197	357563	360943	364437	366627	373036	374918
 Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 31.12.2016-2025. Antall.	Ikke-innvandrer	288491	293773	303562	313143	315501	316704	317923	317953	321166	320935

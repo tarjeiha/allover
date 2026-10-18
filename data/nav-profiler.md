@@ -26,7 +26,7 @@ Stier er relative til `data/nav/`. «Kilde» er Navs side; når siden sist ble o
 ## Arbeidsavklaringspenger (AAP)
 
 - **Kilde:** Nav, «Mottakere av arbeidsavklaringspenger (AAP)». `https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger`.
-- **Lang serie:** `aap-alder-kjonn-kvartal/1a-alder-i-alt-antall.tsv` (juni hvert år, 2010–2026). Raden `I alt` er landet.
+- **Lang serie:** `aap-alder-kjonn-desember/1a-alder-i-alt-antall.tsv` (desember hvert år, 2010–2025) og `aap-alder-kjonn-kvartal/` (siste kvartal Nav har publisert, i dag juni 2010–2026). Raden `I alt` er landet. Bruk desemberserien når AAP skal ses sammen med uføretrygd per 31. desember.
 - **Siste måneder:** `aap-alder-kjonn-maaned/` (inneværende år), `aap-fylke-alder-maaned/`, `aap-kommune-maaned/`, `aap-diagnose-*`.
 - **Måler:** mottakere av AAP. Tellebegrepet står i `om.md` og i Navs «Om statistikken»; les det før du kaller tallet «ved årets slutt» eller «i løpet av året».
 - **Små tall:** celler under 4 er erstattet med `*`.
@@ -35,9 +35,11 @@ Stier er relative til `data/nav/`. «Kilde» er Navs side; når siden sist ble o
 ## Uføretrygd
 
 - **Kilde:** Nav, uføretrygd. `https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/`.
-- **Antall mottakere:** `uforetrygd-uforegrad-kjonn-maaned/antall.tsv` (landet, per uføregrad og kjønn), `uforetrygd-fylke-alder-maaned/antall.tsv` (fylke og alder), inneværende år per måned.
+- **Lang serie:** `uforetrygd-desember-kjonn-alder-antall/` (antall per 31. desember 2016–2025, i alt, kvinner og menn etter alder) og `uforetrygd-desember-andel-kjonn-alder-prosent/` (andel av befolkningen). Nye mottakere og avgang per år: `uforetrygd-desember-nye-kjonn-alder-antall/` og `uforetrygd-desember-avgang-kjonn-alder-antall/` (hele året, 1.–4. kvartal). Mappene `uforetrygd-desember-*` har alle webtabellene på Navs arkivside for 31. desember; `uforetrygd-kvartal-*` har de samme tabellene for siste kvartal (i dag 30. juni 2017–2026, nye og avgang i 1. halvår).
+- **Før 2016:** `stonadsmottakere-2007-2016/tabell.tsv`, raden `Uføretrygd 4)`. Tallet for 2016 (318 244) er det samme som i desemberserien. Uføretrygd erstattet uførepensjon i 2015.
+- **Siste måneder:** `uforetrygd-uforegrad-kjonn-maaned/antall.tsv` (landet, per uføregrad og kjønn), `uforetrygd-fylke-alder-maaned/antall.tsv` (fylke og alder), inneværende år per måned.
 - **Andel av befolkningen:** `uforetrygd-fylke-alder-maaned/andel-av-befolkningen.tsv`; kvartalsvis `uforetrygd-andel-fylke-alder-kvartal/`. Andelen gjelder befolkningen 18–67 år.
-- **Nye mottakere og avgang:** `uforetrygd-nye-*-maaned/`, `uforetrygd-avgang-kjonn-alder-maaned/`. Diagnoser per år: `uforetrygd-diagnose-*-aar/`.
+- **Nye mottakere og avgang:** `uforetrygd-nye-*-maaned/`, `uforetrygd-avgang-kjonn-alder-maaned/`. Diagnoser per år: `uforetrygd-diagnose-*-aar/`, **bare 18–29 år**. Nav koder ikke diagnose for uføretrygdede over 30 år, så det finnes ingen diagnosetabell for alle aldre.
 - **Måler:** personer som har fått utbetalt uføretrygd i måneden. Uføregrad og barnetillegg ligger i egne tabeller.
 - **Små tall:** celler under 4 er erstattet med `*`.
 - **Annen kilde:** som for AAP har SSB andre tall; se Navs forklaringsside.

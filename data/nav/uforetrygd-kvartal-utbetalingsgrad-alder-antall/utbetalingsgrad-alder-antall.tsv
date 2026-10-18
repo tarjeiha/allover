@@ -4,6 +4,8 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: Utbetalingsgrad: Når en uføretrygdet har inntekt over inntektsgrensen settes uføretrygden ned. Utbetalingsgrad er en betegnelse på hvor stor andel av uføretrygden som utbetales.
+# Merknad: Utbetalingsgrad: Når en uføretrygdet har inntekt over inntektsgrensen settes uføretrygden ned. Utbetalingsgrad er en betegnelse på hvor stor andel av uføretrygden som utbetales.
 gruppe	rad	I alt	Uoppgitt	Tom. 49	50	51-69	70-80	81-99	100
 Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.06.2026. Antall.	I alt	378502	247	6843	15553	17900	11400	15464	311095
 Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.06.2026. Antall.	18-29	22290	5	107	147	337	276	561	20857

@@ -4,6 +4,9 @@
 # Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
 # Lagt inn: 2026-10-18
 # Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *)Uføremottakere med uoppgitt uføregrad er inkl blant "Uføregrad 100"
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
 gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
 Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-4. kvartal 2016-2025. Antall.	I alt	29418	31687	36669	36685	28975	28114	28671	26901	30788	26052
 Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-4. kvartal 2016-2025. Antall.	03 Oslo	2121	2702	3873	3994	3696	2703	3141	3049	3265	2418
