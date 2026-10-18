@@ -102,7 +102,12 @@ def main():
             continue
         fil = MAPPE / f"{kode}.tsv"
         ny, flagg = til_tsv(kode, t["tittel"], url, j, pakke["land"])
-        if fil.exists() and f"# Oppdatert hos Eurostat: {j.get('updated', '')}" in fil.read_text(encoding="utf-8"):
+        if fil.exists():
+            gammel = fil.read_text(encoding="utf-8")
+        else:
+            gammel = ""
+        # Hopp over bare når både oppdateringsdato og spørring (land, filtre) er like
+        if f"# Oppdatert hos Eurostat: {j.get('updated', '')}" in gammel and f"# Spørring: {url}" in gammel:
             print(f"uendret {kode} ({j.get('updated')})")
             continue
         fil.write_text(ny, encoding="utf-8")
