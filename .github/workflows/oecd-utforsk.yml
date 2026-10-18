@@ -1,0 +1,29 @@
+# Midlertidig: utforsker OECDs SDMX-API. Slettes før PR.
+on:
+  push:
+    branches: [claude/project-thread-6twhus]
+    paths: [.github/workflows/oecd-utforsk.yml, verktoy/oecd_utforsk.txt]
+permissions:
+  contents: read
+jobs:
+  utforsk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Utforsk
+        run: |
+          curl -sL -m 120 'https://sdmx.oecd.org/public/rest/dataflow/all?detail=allstubs' -o flows.xml
+          python3 - <<'PY'
+          import re
+          x=open('flows.xml',encoding='utf-8').read()
+          n=0
+          for m in re.finditer(r'<structure:Dataflow id="([^"]+)" agencyID="([^"]+)" version="([^"]+)".*?<common:Name xml:lang="en">([^<]*)</common:Name>', x, re.S):
+              n+=1
+              id_,ag,ver,name=m.groups()
+              if re.search(r'labour|labor|employ|unemploy|pension|social|benefit|wage|earn|tax|income|povert|migra|disab|sick|LMP|SOCX|replacement|minimum|union|collective|protection|gender|youth|NEET|older|ageing|aging|retire|working|job|work|inequal|skill|adult|refugee|foreign',name+id_,re.I):
+                  print(f"{ag}|{id_}|{ver}|{name}")
+          print("TOTALT", n)
+          PY
+          if [ -s verktoy/oecd_utforsk.txt ]; then
+            while read -r u; do [ -z "$u" ] && continue; echo "=== $u"; curl -sL -m 60 "$u" | head -c 6000; echo; done < verktoy/oecd_utforsk.txt
+          fi
