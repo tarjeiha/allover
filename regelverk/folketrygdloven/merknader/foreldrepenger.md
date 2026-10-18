@@ -66,7 +66,7 @@ Si fra når svaret krever en av disse, i stedet for å svare ut fra ytelseskapit
 - **Arbeidsmiljøloven** – permisjonsrettigheter, stillingsvern, arbeidstid: `aid-aml`-familien
 - **NAV-loven** – organiseringen av etaten og NAV-kontoret: `regelverk/nav-loven/merknader/generelt.md`
 - **Sosialtjenesteloven** – økonomisk sosialhjelp, subsidiær til folketrygdytelser: `regelverk/sosialtjenesteloven/merknader/generelt.md`
-- **Utenfor dekket regelverk:** forvaltningsloven, trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven, kontantstøtteloven og EØS-trygdeforordningen (883/2004) er **ikke** dekket i noen skill. EØS-reglene er særlig viktige: de går foran folketrygdlovens egne regler i mange grensekryssende saker. Når et spørsmål krever disse, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
+- **Utenfor dekket regelverk:** forvaltningsloven er dekket i `regelverk/forvaltningsloven/`. Trygderettsloven, yrkesskadeforsikringsloven, barnetrygdloven og kontantstøtteloven er ikke dekket i basen. Trygdeforordningen (883/2004) og gjennomføringsforordningen ligger i `regelverk/eu/forordning-883-2004/` og `regelverk/eu/forordning-987-2009/` (engelsk tekst, se veiviserne der). EØS-reglene er særlig viktige: de går foran folketrygdlovens egne regler i mange grensekryssende saker. Når et spørsmål krever noe som ikke er dekket i basen, **si eksplisitt fra at kilden ikke er dekket** – ikke gjett.
 
 Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en negativ konklusjon.
 
@@ -74,11 +74,9 @@ Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en 
 
 **Kilde:** Lovdata API, datasettene for gjeldende lover og gjeldende sentrale forskrifter, lisensiert NLOD 2.0. Konsolidert (ajourført) tekst.
 
-**Ikke dekket: NAVs rundskriv.** Denne skillen inneholder lovtekst og forskriftstekst, men ingen rundskriv. Det er en forskjell fra de eldste skillene i ftrl-familien (`regelverk/folketrygdloven/merknader/sykepenger.md`, `regelverk/folketrygdloven/merknader/aap.md`, `regelverk/folketrygdloven/merknader/uforetrygd.md`, `regelverk/folketrygdloven/merknader/grunnstonad.md`, `regelverk/folketrygdloven/merknader/hjelpemidler.md`), som har rundskriv med.
+**Rundskriv:** NAVs rundskriv til dette området ligger i `regelverk/folketrygdloven/rundskriv/rundskriv-r14-00/` (innledning, `oversikt.md` og én fil per paragraf der rundskrivet er delt, lagt inn 2026-10-17 fra Lovdata). Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom lovtekst og det NAV legger til grunn, og si hvilket rundskriv svaret bygger på. Rundskrivene kan være eldre enn lovteksten: sjekk datoen i toppen av rundskrivfilen, og vær særlig forsiktig med satser og beløp (for eksempel står gravferdssatsen fra 2018 i rundskriv R07-00). Er paragrafen opphevet eller endret etter rundskrivets dato, gjelder lovteksten.
 
-Folketrygdloven er et rettsområde der NAVs rundskriv er den sentrale kilden til hvordan skjønnsbestemmelsene praktiseres. Når et spørsmål gjelder forvaltningspraksis, si fra at kun lov- og forskriftstekst er gjennomgått.
-
-**Satser og beløp:** de fleste satsene i folketrygden er knyttet til grunnbeløpet, som fastsettes årlig. Grunnbeløpsforskriften ligger i `regelverk/folketrygdloven/merknader/medlemskap-beregning.md`. Oppgi aldri kronebeløp du ikke finner i en kildefil.
+**Satser og beløp:** de fleste satsene i folketrygden er knyttet til grunnbeløpet, som fastsettes årlig. Grunnbeløpsforskriften ligger i `regelverk/folketrygdloven/forskrifter/grunnbelop-og-satser/`. Oppgi aldri kronebeløp du ikke finner i en kildefil.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
 

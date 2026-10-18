@@ -2,7 +2,7 @@
 
 Folketrygdloven regulerer medlemskap i folketrygden og ytelsene derfra: dagpenger, sykepenger, pleiepenger, arbeidsavklaringspenger, uføretrygd, foreldrepenger, stønad til enslig mor eller far, ytelser ved dødsfall, alderspensjon, grunnstønad, hjelpestønad og hjelpemidler. Den har også felles regler om saksbehandling, utbetaling og tilbakekreving. Over 50 forskrifter utfyller loven, blant annet dagpengeforskriften, uføretrygdforskriften, forskrift om alderspensjon og den årlige forskriften om grunnbeløp og satser.
 
-Kapittel 5 (stønad ved helsetjenester) hører til Helse- og omsorgsdepartementet, og kapittel 23 og 24 (finansiering og avgifter) til Finansdepartementet. Merknadene og rundskrivene i basen dekker ikke disse kapitlene.
+Kapittel 5 (stønad ved helsetjenester) hører til Helse- og omsorgsdepartementet, og kapittel 23 og 24 (finansiering og avgifter) til Finansdepartementet. Merknadene i basen dekker ikke disse kapitlene, men NAVs rundskriv til kapittel 5, 23 og 24 ligger i basen (se under).
 
 ## Slik bruker du veiviseren
 
@@ -10,7 +10,11 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 Merknadsfilene er flyttet fra de gamle ftrl-skillene og er delt etter ytelse. Bruk tabellen nederst til å finne riktig fil. Der en merknadsfil viser til «andre skills», gjelder nå filene i denne mappen.
 
-NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10, 11, 11 A og 12, i tillegg til enkelte forskrifter. Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom det som står i loven eller forskriften og det NAV legger til grunn i rundskrivet. For andre kapitler er bare lov- og forskriftstekst tilgjengelig, og det bør du si når spørsmålet gjelder praksis.
+NAVs rundskriv ligger i `rundskriv/` og dekker nesten hele loven. Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom det som står i loven eller forskriften og det NAV legger til grunn i rundskrivet. Rundskrivene kan være eldre enn lovteksten, så sjekk datoen i rundskrivfilen, og vær forsiktig med satser og beløp. Er en paragraf opphevet eller endret etter rundskrivets dato, gjelder lovteksten. Rundskrivene ligger i to mappestrukturer:
+
+- `rundskriv/ftrl/kap-N/` for kapittel 4, 6, 8, 9, 10, 11, 11 A og 12 (én fil per paragraf, med `index.md` der paragrafen er delt).
+- `rundskriv/rundskriv-rNN-00/` for kapittel 1, 2, 3, 5, 7, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 og 25 (`oversikt.md`, `innledning.md` og `par-X-Y.md` per paragraf). Kapittel 3 har også tilleggsdeler `rundskriv-r03-01` til `r03-05`. Kapittel 5, 23 og 24 hører til andre departementer (se over), men rundskrivene ligger i basen.
+- `rundskriv/forskrifter/<forskrift>/` for NAVs kommentarer til enkeltforskrifter.
 
 ## Kjente feller
 
@@ -23,6 +27,7 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 - **Dagpenger: forskriften og overgangsreglene.** Dagpengeforskriften utfyller kapittel 4 på de fleste punkter, så et svar fra loven alene er ofte ufullstendig. Endringene i kapittel 4 fra 1. januar 2023 og i § 4-9 fra 1. januar 2024 har egne overgangsforskrifter. Sjekk dem når spørsmålet gjelder et bestemt tidspunkt.
 - **Alderspensjon: fødselsåret avgjør regelsettet.** Kapittel 19 gjelder personer født til og med 1962, kapittel 20 personer født fra og med 1954. Årskullene 1954–1962 får en forholdsmessig andel etter begge (§ 19-1 andre ledd og § 20-1 andre ledd). Avklar fødselsår før du svarer på beregningsspørsmål.
 - **Etterlatte: gamle eller nye regler.** Omstillingsstønad etter § 17-5 kan gis i inntil tre år etter dødsfallet. Kapittel 17 A gjelder dem som hadde rett til pensjon eller overgangsstønad med virkning før 1. januar 2024 (§ 17 A-1 første ledd). Kapittel 16 er opphevet, men § 17 A-1 viser fortsatt til det. Avklar hvilket regelsett personen hører under.
+- **Enslig mor eller far: aktivitetskravet er opphevet.** § 15-6 er opphevet ved lov 12. juni 2026 nr. 27, i kraft 1. juli 2026. Rundskriv R15-00 og overgangsforskriften fra 2024 kan beskrive det gamle kravet. Overgangsregler for 2026-endringen ligger ikke i basen.
 - **Enslig mor eller far: aleneomsorg og samliv.** De fleste tvilsspørsmål gjelder § 15-4. Den som bor med en person hun eller han har barn med, eller lever i et ekteskapslignende forhold, regnes ikke som enslig (tredje ledd). Ingen av foreldrene har aleneomsorg ved nære boforhold (fjerde ledd). Medlemmet har bevisbyrden (femte ledd).
 - **Foreldrepenger gir penger, ikke rett til fri.** Retten til permisjon følger av arbeidsmiljøloven kapittel 12, se `regelverk/arbeidsmiljoloven/VEIVISER.md`. Skill også mellom svangerskapspenger (§ 14-4), som gjelder gravide som må slutte i arbeidet eller er utsatt for risikofaktorer, og foreldrepenger (§ 14-5 flg.).
 - **Yrkesskade gir særfordeler i andre kapitler.** § 13-2 andre ledd lister bestemmelsene, blant annet § 8-55 (sykepenger), § 11-22 (AAP), § 12-17 (uføretrygd) og § 13-17 (menerstatning). Yrkesskadedekning etter kapittel 13 er noe annet enn yrkesskadeforsikring etter yrkesskadeforsikringsloven, som ikke er i basen.
@@ -33,24 +38,24 @@ NAVs rundskriv ligger i `rundskriv/` og finnes bare for kapittel 4, 6, 8, 9, 10,
 
 | Tema | Les |
 |---|---|
-| Medlemskap, trygdetid, pensjonsgivende inntekt, omsorgspoeng, grunnbeløp (kap. 1–3) | `merknader/medlemskap-beregning.md` |
+| Medlemskap, trygdetid, pensjonsgivende inntekt, omsorgspoeng, grunnbeløp (kap. 1–3) | `merknader/medlemskap-beregning.md`, rundskriv `rundskriv/rundskriv-r01-00/`, `r02-00/`, `r03-00/` (og `r03-01` til `r03-05`) |
 | Dagpenger, permittering, minsteinntekt (kap. 4) | `merknader/dagpenger.md`, rundskriv `rundskriv/ftrl/kap-4/` |
 | Dagpenger og arbeid eller bosted i et annet EØS-land | `regelverk/eu/forordning-883-2004/merknader/dagpenger.md` fra roten (forordningsteksten er på engelsk) |
 | Dagpenger ved konkurs, lønnsgaranti | `regelverk/permitteringslonnsloven/merknader/generelt.md`, `regelverk/lonnsgarantiloven/VEIVISER.md` |
 | Grunnstønad og hjelpestønad (kap. 6) | `merknader/grunnstonad.md`, `merknader/temaoppslag-grunnstonad.md`, rundskriv `rundskriv/ftrl/kap-6/` |
 | Hjelpestønad ved en bestemt diagnose | `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md` |
-| Gravferdsstønad, båretransport, omstillingsstønad, barnepensjon (kap. 7, 16, 17, 17 A, 18) | `merknader/etterlatte-gravferd.md` |
+| Gravferdsstønad, båretransport, omstillingsstønad, barnepensjon (kap. 7, 16, 17, 17 A, 18) | `merknader/etterlatte-gravferd.md`, rundskriv `rundskriv/rundskriv-r07-00/` (gravferd, satsen kan være gammel), `r16-00/`, `r17-00/`, `r18-00/` |
 | Sykepenger, omsorgspenger, pleiepenger, opplæringspenger (kap. 8 og 9) | `merknader/sykepenger.md`, `merknader/temaoppslag-sykepenger.md`, rundskriv `rundskriv/ftrl/kap-8/` og `rundskriv/ftrl/kap-9/` |
 | Hjelpemidler, tolk, bil, høreapparat (kap. 10) | `merknader/hjelpemidler.md`, `merknader/temaoppslag-hjelpemidler.md`, rundskriv `rundskriv/ftrl/kap-10/` |
 | Stønadsformene i § 10-7 (start her) | `rundskriv/ftrl/kap-10/paragraf-10-7/oversikt.md`, forskriftskommentarer i `rundskriv/forskrifter/` |
 | Arbeidsavklaringspenger og tilleggsstønader (kap. 11 og 11 A) | `merknader/aap.md`, `merknader/temaoppslag-aap.md`, rundskriv `rundskriv/ftrl/kap-11/` og `rundskriv/ftrl/kap-11a/`, `rundskriv/forskrifter/tilleggsstonadsforskriften/` |
 | Uføretrygd (kap. 12) | `merknader/uforetrygd.md`, `merknader/temaoppslag-uforetrygd.md`, rundskriv `rundskriv/ftrl/kap-12/` og forskriftskommentarer i `rundskriv/forskrifter/` |
-| Yrkesskade og yrkessykdom (kap. 13) | `merknader/yrkesskade.md` |
-| Svangerskapspenger, foreldrepenger, engangsstønad (kap. 14) | `merknader/foreldrepenger.md` |
-| Stønad til enslig mor eller far (kap. 15) | `merknader/enslig-forsorger.md` |
-| Alderspensjon (kap. 19 og 20) | `merknader/alderspensjon.md` |
-| Saksbehandling, klage og anke (kap. 21) | `merknader/saksbehandling-anke.md` |
-| Utbetaling, tilbakekreving, foreldelse, Aa-registeret (kap. 22, 25, 26) | `merknader/utbetaling-tilbakekreving.md` |
+| Yrkesskade og yrkessykdom (kap. 13) | `merknader/yrkesskade.md`, rundskriv `rundskriv/rundskriv-r13-00/` |
+| Svangerskapspenger, foreldrepenger, engangsstønad (kap. 14) | `merknader/foreldrepenger.md`, rundskriv `rundskriv/rundskriv-r14-00/` |
+| Stønad til enslig mor eller far (kap. 15) | `merknader/enslig-forsorger.md`, rundskriv `rundskriv/rundskriv-r15-00/` (aktivitetskravet i § 15-6 er opphevet fra 1. juli 2026) |
+| Alderspensjon (kap. 19 og 20) | `merknader/alderspensjon.md`, rundskriv `rundskriv/rundskriv-r19-00/` og `r20-00/` |
+| Saksbehandling, klage og anke (kap. 21) | `merknader/saksbehandling-anke.md`, rundskriv `rundskriv/rundskriv-r21-00/` |
+| Utbetaling, tilbakekreving, foreldelse, Aa-registeret (kap. 22, 25, 26) | `merknader/utbetaling-tilbakekreving.md`, rundskriv `rundskriv/rundskriv-r22-00/` og `r25-00/` |
 | Permisjon ved fødsel og sykdom i familien | `regelverk/arbeidsmiljoloven/VEIVISER.md` |
 | NAV-kontoret og etatens organisering | `regelverk/nav-loven/VEIVISER.md` |
 | Økonomisk sosialhjelp (subsidiær til folketrygdytelser) | `regelverk/sosialtjenesteloven/VEIVISER.md` |
