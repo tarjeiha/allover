@@ -67,6 +67,11 @@ Hvem som eier kvaliteten: Nav, SSB og Eurostat eier tallene. Svaret skal alltid 
 | Hvordan er sysselsettingen sammenlignet med Norden og EU? | Eurostat `lfsi_emp_a.tsv` | |
 | Hvordan er sysselsettingen blant innvandrere? | Eurostat `lfsa_ergan.tsv` (kolonnen `citizen`) | Norge. Statsborgerskap, ikke landbakgrunn. |
 | Hvor mange er i risiko for fattigdom? | Eurostat `ilc_peps01n.tsv` | |
+| Hvordan ligger Norge an på langtidsledighet? | Eurostat `une_ltu_a.tsv` | Oppgi `PC_UNE` eller `PC_ACT`. AKU-basert. |
+| Hvor mange unge er verken i jobb eller utdanning, sammenlignet med andre land? | Eurostat `edat_lfse_20.tsv` | NEET etter Eurostats definisjon. |
+| Hvordan er sysselsettingen blant eldre (55–64) sammenlignet med andre land? | Eurostat `lfsi_emp_a.tsv` (`age=Y55-64`) | |
+| Hva bruker landet på sosial beskyttelse (alderdom, uførhet, familie, arbeidsledighet)? | Eurostat `gov_10a_exp.tsv` | Prosent av BNP. 2025 mangler for flere land. |
+| Hvor stor andel av voksne deltar i utdanning og opplæring? | Eurostat `trng_lfse_01.tsv` | Siste fire uker, 25–64 og 55–64 år. |
 
 ## Eksempler på korte svar
 
