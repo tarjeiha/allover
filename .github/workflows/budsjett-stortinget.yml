@@ -1,0 +1,48 @@
+name: Hent budsjettvedtak fra Stortinget
+
+on:
+  schedule:
+    # Hver mandag kl. 05.15 UTC. Budsjettvedtakene kommer i desember (saldert), juni (RNB) og desember (nysaldering).
+    - cron: "15 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: budsjett-stortinget
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Råfilene fra Stortinget mellomlagres, så bare nye sesjoner hentes på nytt
+      - uses: actions/cache@v4
+        with:
+          path: .cache/stortinget
+          key: stortinget-${{ github.run_id }}
+          restore-keys: stortinget-
+
+      - name: Hent og les vedtak
+        run: python3 verktoy/stortinget_budsjett.py | tee "$RUNNER_TEMP/rapport.txt"
+
+      - name: Legg inn på main
+        run: |
+          { echo "Budsjettvedtak fra Stortinget"; echo; cat "$RUNNER_TEMP/rapport.txt"; } > "$RUNNER_TEMP/melding.txt"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add budsjett
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$RUNNER_TEMP/melding.txt"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
