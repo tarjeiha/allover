@@ -1,0 +1,633 @@
+# Kilde: OECD, tabell OECD.ELS.SPD,DSD_PAG@DF_PAG
+# Tabell: Pensions at a Glance: kompensasjonsgrad, pensjonsalder, inntekt og fattigdom blant eldre, levealder
+# OECD-tittel: Pensions at a glance
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_PAG@DF_PAG/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD......?startPeriod=2005&format=csvfilewithlabels
+# FREQ (lik for alle rader): A=Annual
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; SWE=Sweden; USA=United States
+# MEASURE: ATRAEP=Average tax rate of average earner pensioners; ATRPPAE=Average tax rate of pensioners with pension equal to average earnings; ATRW=Average tax rate of workers; AWGW=Average worker gross wage; CIOP=Capital income of older people; CRPLF22=Current retirement age for a person who entered the labour force at age 22; EDIOP=Equivalised disposable income of older people; EIOP=Employment income of older people; ELMEA=Effective labour market exit age; ER=Employment rate; EYLME=Expected years after labour market exit; FR=Fertility rate; FRPLF22=Future retirement age for a person who entered the labour force at age 22; GPRR100=Gross pension replacement rate at 100% of average wage; GPRR200=Gross pension replacement rate at 200% of average wage; GPRR50=Gross pension replacement rate at 50% of average wage; GPW100=Gross pension wealth at 100% of average wage; GPW200=Gross pension wealth at 200% of average wage; GPW50=Gross pension wealth at 50% of average wage; LE=Life expectancy; NPRR100=Net pension replacement rate at 100% of average wage; NPRR200=Net pension replacement rate at 200% of average wage; NPRR50=Net pension replacement rate at 50% of average wage; NPW100=Net pension wealth at 100% of average wage; NPW200=Net pension wealth at 200% of average wage; NPW50=Net pension wealth at 50% of average wage; OAIP=Old age income poverty rate below 50% of median income; OAWAR=Old-age to working-age ratio; OCOP=Occupational transfers to older people; PEP=Public expenditure on pensions; PPEP=Projections of public expenditure on pensions; PTOP=Public transfers to older people
+# UNIT_MEASURE: CH_W=Children per woman; FCTR_WG_SAL_G_I_INC=Factor of gross individual wage at the same income level; FCTR_WG_SAL_N_I_INC=Factor of net individual wage at the same income level; PT_B1GQ=Percentage of GDP; PT_B6G_A_POP_Y_GT65=Percentage of gross disposable income of the population aged over 65 years; PT_B6N_A=Percentage of average disposable income; PT_EARN_A=Percentage of average earnings; PT_EARN_G_PRE_RET_INC=Percentage of gross pre-retirement earnings at the same income level; PT_EARN_N_PRE_RET_INC=Percentage of net pre-retirement earnings at the same income level; PT_PENS=Percentage of pension; PT_POP_AGE=Percentage of population in the same age; PT_POP_SEX_AGE=Percentage of population in the same sex and age; PT_POP_Y20T64=Percentage of population aged 20-64 years; USD_EXC=US dollars, exchange rate converted; XDC=National currency; Y=Years
+# SEX: F=Female; M=Male; _T=Total; _Z=Not applicable
+# AGE: BIRTH=At birth; Y55T59=From 55 to 59 years; Y60T64=From 60 to 64 years; Y65=65 years; Y65T69=From 65 to 69 years; Y66T75=From 66 to 75 years; Y_GE65=65 years or over; Y_GE66=66 years or over; Y_GE76=76 years or over; _T=Total; _Z=Not applicable
+# OPTIONALITY: M=Mandatory; MV=Mandatory and voluntary; _Z=Not applicable
+REF_AREA	MEASURE	UNIT_MEASURE	SEX	AGE	OPTIONALITY	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2030	2035	2040	2045	2050	2054	2055	2060	2065	2084
+NOR	ATRAEP	PT_PENS	M	_Z	_Z																				14.4											
+SWE	ATRAEP	PT_PENS	M	_Z	_Z																				20											
+DNK	ATRAEP	PT_PENS	M	_Z	_Z																				32.1											
+FIN	ATRAEP	PT_PENS	M	_Z	_Z																				20.7											
+ISL	ATRAEP	PT_PENS	M	_Z	_Z																				16.4											
+DEU	ATRAEP	PT_PENS	M	_Z	_Z																				21.6											
+NLD	ATRAEP	PT_PENS	M	_Z	_Z																				17.4											
+GBR	ATRAEP	PT_PENS	M	_Z	_Z																				9											
+USA	ATRAEP	PT_PENS	M	_Z	_Z																				2.2											
+NOR	ATRPPAE	PT_EARN_A	M	_Z	_Z																				26.4											
+SWE	ATRPPAE	PT_EARN_A	M	_Z	_Z																				23.4											
+DNK	ATRPPAE	PT_EARN_A	M	_Z	_Z																				33.4											
+FIN	ATRPPAE	PT_EARN_A	M	_Z	_Z																				31											
+ISL	ATRPPAE	PT_EARN_A	M	_Z	_Z																				28.4											
+DEU	ATRPPAE	PT_EARN_A	M	_Z	_Z																				32.3											
+NLD	ATRPPAE	PT_EARN_A	M	_Z	_Z																				25.3											
+GBR	ATRPPAE	PT_EARN_A	M	_Z	_Z																				9											
+USA	ATRPPAE	PT_EARN_A	M	_Z	_Z																				10.8											
+NOR	ATRW	PT_EARN_A	M	_Z	_Z																				13.7											
+SWE	ATRW	PT_EARN_A	M	_Z	_Z																				3.1											
+DNK	ATRW	PT_EARN_A	M	_Z	_Z																				3.8											
+FIN	ATRW	PT_EARN_A	M	_Z	_Z																				9.6											
+ISL	ATRW	PT_EARN_A	M	_Z	_Z																				14.8											
+DEU	ATRW	PT_EARN_A	M	_Z	_Z																				16.4											
+NLD	ATRW	PT_EARN_A	M	_Z	_Z																				18.3											
+GBR	ATRW	PT_EARN_A	M	_Z	_Z																				15.9											
+USA	ATRW	PT_EARN_A	M	_Z	_Z																				22.2											
+NOR	AWGW	USD_EXC	_Z	_Z	_Z																				67455.7											
+SWE	AWGW	USD_EXC	_Z	_Z	_Z																				48819											
+DNK	AWGW	USD_EXC	_Z	_Z	_Z																				71003.2											
+FIN	AWGW	USD_EXC	_Z	_Z	_Z																				55039.5											
+ISL	AWGW	USD_EXC	_Z	_Z	_Z																				85469.5											
+DEU	AWGW	USD_EXC	_Z	_Z	_Z																				65856.4											
+NLD	AWGW	USD_EXC	_Z	_Z	_Z																				68451.6											
+GBR	AWGW	USD_EXC	_Z	_Z	_Z																				64378.9											
+USA	AWGW	USD_EXC	_Z	_Z	_Z																				70627											
+NOR	AWGW	XDC	_Z	_Z	_Z																				763733											
+SWE	AWGW	XDC	_Z	_Z	_Z																				537302											
+DNK	AWGW	XDC	_Z	_Z	_Z																				509093											
+FIN	AWGW	XDC	_Z	_Z	_Z																				52893											
+ISL	AWGW	XDC	_Z	_Z	_Z																				11811028											
+DEU	AWGW	XDC	_Z	_Z	_Z																				63288											
+NLD	AWGW	XDC	_Z	_Z	_Z																				65782											
+GBR	AWGW	XDC	_Z	_Z	_Z																				51310											
+USA	AWGW	XDC	_Z	_Z	_Z																				70627											
+NOR	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										8.5		7.1		7.2		9.8		6.9													
+SWE	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										11.9		12.9		12.1		12.4		15													
+DNK	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										20.4		22.2		22.6		22.8		22													
+FIN	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										9.2		8.5		8.1		10.2		9.4													
+ISL	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										2.4		13.4		9.7		9.7		9.7													
+DEU	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										10.6		10		9.3		9.3		10													
+NLD	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										8.9		5.8		5.8		5.8		8.1													
+GBR	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										12.1		11.3		11.7		11.3		12.9													
+USA	CIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										13.9		15.9		15.9		23.3		23.2													
+NOR	CRPLF22	Y	F	_Z	_Z																				67											
+SWE	CRPLF22	Y	F	_Z	_Z																				66											
+DNK	CRPLF22	Y	F	_Z	_Z																				67											
+FIN	CRPLF22	Y	F	_Z	_Z																				65											
+ISL	CRPLF22	Y	F	_Z	_Z																				67											
+DEU	CRPLF22	Y	F	_Z	_Z																				66.2											
+NLD	CRPLF22	Y	F	_Z	_Z																				67											
+GBR	CRPLF22	Y	F	_Z	_Z																				66											
+USA	CRPLF22	Y	F	_Z	_Z																				66.7											
+NOR	CRPLF22	Y	M	_Z	_Z																				67											
+SWE	CRPLF22	Y	M	_Z	_Z																				66											
+DNK	CRPLF22	Y	M	_Z	_Z																				67											
+FIN	CRPLF22	Y	M	_Z	_Z																				65											
+ISL	CRPLF22	Y	M	_Z	_Z																				67											
+DEU	CRPLF22	Y	M	_Z	_Z																				66.2											
+NLD	CRPLF22	Y	M	_Z	_Z																				67											
+GBR	CRPLF22	Y	M	_Z	_Z																				66											
+USA	CRPLF22	Y	M	_Z	_Z																				66.7											
+NOR	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		83.8													
+SWE	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		82.8													
+DNK	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		75.2													
+FIN	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		81.7													
+ISL	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		90.8													
+DEU	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		84.2													
+NLD	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		77.8													
+GBR	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		80.7													
+USA	EDIOP	PT_B6N_A	F	Y_GE66	_Z																		89.1													
+NOR	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		96.1													
+SWE	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		95.9													
+DNK	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		85.1													
+FIN	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		93.6													
+ISL	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		99.5													
+DEU	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		89.6													
+NLD	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		85.3													
+GBR	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		87.9													
+USA	EDIOP	PT_B6N_A	M	Y_GE66	_Z																		100.9													
+NOR	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										100.3		101.1		100.6		99.5		97.9													
+SWE	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										97.7		97		97.5		98.1		100.4													
+DNK	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										84.9		86.2		86.6		86.9		86													
+FIN	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										94.1		90.5		89.9		89.2		91													
+ISL	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										93.7		100.5		103.8		103.8		103.8													
+DEU	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										93.8		92.5		92.5		90.2		86.5													
+NLD	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										89.4		91.2		91.2		85.3		87.1													
+GBR	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										90.2		90.6		86.4		90.5		90.8													
+USA	EDIOP	PT_B6N_A	_Z	Y66T75	_Z										102.8		102.1		102.1		99.1		100.7													
+NOR	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										90.4		91.6		91.4		90		89.6													
+SWE	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										85.9		85.5		86.3		86.5		88.9													
+DNK	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										79.5		80.9		81.3		82		79.7													
+FIN	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										85.7		83.2		82.6		83.6		86.9													
+ISL	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										85.7		94.3		95		95		95													
+DEU	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										88.5		88.6		88.8		87.6		86.6													
+NLD	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										83.4		85.6		85.6		79.2		81.2													
+GBR	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										82.6		83.6		81.3		86.4		84													
+USA	EDIOP	PT_B6N_A	_Z	Y_GE66	_Z										94.5		93.8		93.8		93.2		94.5													
+NOR	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										75.7		77		77.4		77		78.7													
+SWE	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										68		68.1		70.8		71.9		75.8													
+DNK	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										71		72.7		73.1		75		72.4													
+FIN	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										74		73.1		72.2		75.9		82.1													
+ISL	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										74.7		84.7		77.5		77.5		77.5													
+DEU	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										83.5		85.1		85.5		85.3		86.7													
+NLD	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										74.1		76.9		76.9		69.8		72.7													
+GBR	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										72.3		73.9		74.3		81		75.6													
+USA	EDIOP	PT_B6N_A	_Z	Y_GE76	_Z										82.1		80.9		80.9		83.8		84.9													
+NOR	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										18.5		18.6		18.7		18.2		19.3													
+SWE	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										17.5		16.9		17.2		17		16.3													
+DNK	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										16.7		16.7		17		17.2		20.2													
+FIN	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										10		9.7		10.2		9.5		9.9													
+ISL	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										29.5		28		32.2		32.2		32.2													
+DEU	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										15.2		14.6		17.9		18.1		20.1													
+NLD	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										9.8		9.9		9.9		11.9		12.8													
+GBR	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										14.9		17.5		15.3		14.2		14.8													
+USA	EIOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										35.2		35.3		35.3		31.9		33.2													
+NOR	ELMEA	Y	F	_Z	_Z	61.4	61.8	62.6	63.7	63.7	63.1	63.5	63.4	62.9	63.3	63.6	63.4	63.1	63.3	62.7	63.1	62.5	62.4	62.3	63.4											
+SWE	ELMEA	Y	F	_Z	_Z	61.9	62	62.3	62.6	63	62.7	63.8	63.7	63.6	63.6	63.9	64.1	64.5	64.6	65	64.9	64.6	64.5	64.5	65											
+DNK	ELMEA	Y	F	_Z	_Z	61.4	61.8	61.2	61.2	60.9	61.1	60.4	60.9	60.7	60	60.5	62.2	62.2	61.9	63.3	63.5	63.9	63.8	64	63.5											
+FIN	ELMEA	Y	F	_Z	_Z	59.7	60.1	60.5	60.7	60.8	61.1	61.1	61.5	61.7	61.8	62.2	62	62.5	63	63	63.6	63.7	63.8	63.5	62.9											
+ISL	ELMEA	Y	F	_Z	_Z	62.5	63.9	63.3	64.1	64.1	65.3	64.7	65.9	66.5	66	67.1	65.9	65.2	64.1	64.3	63.5	64.5	65.8	65.7	65.9											
+DEU	ELMEA	Y	F	_Z	_Z	60	60.3	60.1	59.8	59.8	61.1	60.9	61.1	61.5	62	61.6	62.4	62.7	62.9	63.3	63.1	62.9	63.4	63.8	63.9											
+NLD	ELMEA	Y	F	_Z	_Z	60.4	60.3	60.2	60.5	59.2	60.1	60.5	60.7	60.9	61.1	60.9	61.5	62	61.8	62.6	62.8	63.5	63.9	64.7	64.7											
+GBR	ELMEA	Y	F	_Z	_Z	60.7	60.8	60.9	60.9	61.4	61.3	61.5	61.7	61.5	61.7	61.8	62.1	62.2	62.5	62.8	63.1	62.9	62.8	63.1	63.1											
+USA	ELMEA	Y	F	_Z	_Z	61.3	62	62.3	62.4	62.9	63.4	62.9	63	62.7	62.6	62.7	63.3	63.8	64.3	64.8	64.7	65.2	65.3	65.5	66.7											
+NOR	ELMEA	Y	M	_Z	_Z	62.7	63	63	64.3	63.6	63	62.9	63.4	62.7	63.9	64	64.8	63.9	64.7	64.9	64.9	65.1	64.9	63.5	64											
+SWE	ELMEA	Y	M	_Z	_Z	63.8	63.6	64.3	64.6	65	64.5	64.9	65.2	65	64.4	64.7	64.9	65.1	65.6	66	65.8	65.4	65.5	65.2	65.1											
+DNK	ELMEA	Y	M	_Z	_Z	62.5	62.5	62.1	62.1	62.4	62.6	62.5	62.1	61.6	62	62.3	62.5	64	64.3	64.5	63.8	65.8	64.5	66.2	66.3											
+FIN	ELMEA	Y	M	_Z	_Z	59.6	59.7	59.3	60.4	60.3	60.7	61.3	61.8	61.3	60.9	61.3	62.1	62.8	63.2	63.5	63	62.9	63.7	63	63.5											
+ISL	ELMEA	Y	M	_Z	_Z	66.5	66.9	67.5	67.4	67.9	66.6	66.2	65.9	66.6	67.8	68.2	67.6	68.4	66.3	66	66	66.5	68.3	69.1	68.7											
+DEU	ELMEA	Y	M	_Z	_Z	60.9	61	61.1	60.2	61	61.1	61.2	61.3	61.5	61.8	61.9	62.3	62.6	63	63.4	63.1	63.4	63.7	64	64.2											
+NLD	ELMEA	Y	M	_Z	_Z	60.4	59.8	60.8	61.6	61.6	61.9	62.6	62.5	62.3	62.3	62.7	62.5	62.5	64	64.2	63.9	64.1	65	64.9	65											
+GBR	ELMEA	Y	M	_Z	_Z	61.8	62.4	62	62.3	63.2	62.9	62.6	62.6	63.1	62.7	63	63.1	63.2	63.3	63.4	63.6	63.5	63.2	63.7	63.8											
+USA	ELMEA	Y	M	_Z	_Z	62.2	62.4	62.5	63.1	63	62.9	62.5	62.2	62.4	63.1	63.3	64	64.6	65	65.3	64.9	64.8	65.2	65.5	67.3											
+NOR	ER	PT_POP_AGE	_Z	Y55T59	_Z																				78.1											
+SWE	ER	PT_POP_AGE	_Z	Y55T59	_Z																				85.8											
+DNK	ER	PT_POP_AGE	_Z	Y55T59	_Z																				80.9											
+FIN	ER	PT_POP_AGE	_Z	Y55T59	_Z																				78.9											
+ISL	ER	PT_POP_AGE	_Z	Y55T59	_Z																				84.6											
+DEU	ER	PT_POP_AGE	_Z	Y55T59	_Z																				83.4											
+NLD	ER	PT_POP_AGE	_Z	Y55T59	_Z																				81.6											
+GBR	ER	PT_POP_AGE	_Z	Y55T59	_Z																				74.1											
+USA	ER	PT_POP_AGE	_Z	Y55T59	_Z																				71.8											
+NOR	ER	PT_POP_AGE	_Z	Y60T64	_Z																				68.5											
+SWE	ER	PT_POP_AGE	_Z	Y60T64	_Z																				69.5											
+DNK	ER	PT_POP_AGE	_Z	Y60T64	_Z																				68.5											
+FIN	ER	PT_POP_AGE	_Z	Y60T64	_Z																				64.5											
+ISL	ER	PT_POP_AGE	_Z	Y60T64	_Z																				77.2											
+DEU	ER	PT_POP_AGE	_Z	Y60T64	_Z																				66.7											
+NLD	ER	PT_POP_AGE	_Z	Y60T64	_Z																				68.7											
+GBR	ER	PT_POP_AGE	_Z	Y60T64	_Z																				58.2											
+USA	ER	PT_POP_AGE	_Z	Y60T64	_Z																				56.7											
+NOR	ER	PT_POP_AGE	_Z	Y65T69	_Z																				33.7											
+SWE	ER	PT_POP_AGE	_Z	Y65T69	_Z																				29.3											
+DNK	ER	PT_POP_AGE	_Z	Y65T69	_Z																				31.3											
+FIN	ER	PT_POP_AGE	_Z	Y65T69	_Z																				20.4											
+ISL	ER	PT_POP_AGE	_Z	Y65T69	_Z																				48.6											
+DEU	ER	PT_POP_AGE	_Z	Y65T69	_Z																				20.8											
+NLD	ER	PT_POP_AGE	_Z	Y65T69	_Z																				28.2											
+GBR	ER	PT_POP_AGE	_Z	Y65T69	_Z																				26.7											
+USA	ER	PT_POP_AGE	_Z	Y65T69	_Z																				32.4											
+NOR	EYLME	Y	F	_Z	_Z	23.7	23.4	22.7	21.9	22	22.6	22.5	22.4	23.1	23	22.7	22.9	23.2	23.2	23.9	23.7	24.1	23.9	24.3	23.5											
+SWE	EYLME	Y	F	_Z	_Z	23.2	23.3	22.9	22.9	22.7	22.9	22.2	22.1	22.4	22.6	22.3	22.3	21.9	21.9	22	21.5	22.3	22.3	22.7	22.3											
+DNK	EYLME	Y	F	_Z	_Z	22	21.6	22.2	22.5	22.8	22.8	23.9	23.6	23.9	24.8	24.4	23	23.2	23.3	22.4	22.4	21.9	21.7	22.1	22.7											
+FIN	EYLME	Y	F	_Z	_Z	25.2	25.1	24.9	24.7	24.8	24.5	24.7	24.4	24.4	24.2	24.1	24.2	24	23.6	23.8	23.3	23	22.8	23.4	24											
+ISL	EYLME	Y	F	_Z	_Z	23	21.4	22.1	21.1	21.6	20.9	21.5	20.4	19.6	20.8	19.4	20.2	21	22.2	22.5	23.1	22.2	20.9	21.2	20.7											
+DEU	EYLME	Y	F	_Z	_Z	24.4	24.3	24.6	24.9	24.9	23.9	24.3	24.1	23.7	23.7	23.7	23.3	23	22.8	22.6	22.7	23.2	22.2	22.3	22.4											
+NLD	EYLME	Y	F	_Z	_Z	23.9	24.1	24.5	24.2	25.7	24.9	24.7	24.5	24.4	24.5	24.4	23.9	23.6	23.7	23.3	22.6	22	22.1	21.6	21.7											
+GBR	EYLME	Y	F	_Z	_Z	23.2	23.4	23.5	23.5	23.5	23.8	23.9	23.6	23.8	23.9	23.5	23.4	23.4	23.1	23.2	22.2	22.7	23.1	22.9	22.9											
+USA	EYLME	Y	F	_Z	_Z	22.6	22.3	22.2	22.1	22	21.7	22	22.1	22.4	22.6	22.4	22.1	21.7	21.3	21	20	19.7	20.4	20.8	19.8											
+NOR	EYLME	Y	M	_Z	_Z	19	19.1	18.9	18.1	18.9	19.5	19.7	19.5	20.3	19.6	19.6	19.3	20.1	19.6	19.6	19.8	19.7	19.2	20.8	20.7											
+SWE	EYLME	Y	M	_Z	_Z	18.3	18.7	18.3	18.2	18.1	18.6	18.4	18.3	18.7	19.4	19.1	19.1	19.1	18.7	18.7	18.2	19.2	19	19.4	19.7											
+DNK	EYLME	Y	M	_Z	_Z	18	18	18.6	18.7	18.7	18.8	19.2	19.7	20.2	20.2	20	20	18.9	18.5	18.7	19.2	17.6	18.5	17.5	17.9											
+FIN	EYLME	Y	M	_Z	_Z	20.8	20.8	21.2	20.7	20.7	20.5	20.4	20	20.6	21.1	20.9	20.3	20	19.8	19.7	20.2	20.1	18.7	19.9	19.8											
+ISL	EYLME	Y	M	_Z	_Z	17	16.9	16.2	16.3	16.1	16.9	17.7	19.1	17.4	17	16.9	16.5	16.7	18.7	19	19.1	19	16.8	16.5	16.6											
+DEU	EYLME	Y	M	_Z	_Z	19.6	19.9	19.9	20.7	20.2	20.2	20.5	20.4	20.2	20.4	19.9	19.9	19.7	19.3	19.3	19.3	19.2	18.6	18.9	19											
+NLD	EYLME	Y	M	_Z	_Z	20	20.9	20.3	19.9	20.1	20.1	19.8	19.9	20.3	20.7	20.1	20.4	20.6	19.4	19.5	19	18.9	18.6	18.9	19											
+GBR	EYLME	Y	M	_Z	_Z	19.3	19.1	19.5	19.5	19.2	19.6	20.2	20.2	19.8	20.4	19.9	20	20.1	20.1	20.2	19	19.7	20.2	20	19.8											
+USA	EYLME	Y	M	_Z	_Z	18.9	19.1	19.2	18.8	19.2	19.3	19.7	20	19.9	19.5	19.2	18.9	18.4	18.3	18.1	17.2	17.3	17.9	18.3	17											
+NOR	FR	CH_W	_Z	_Z	_Z																				1.4											
+SWE	FR	CH_W	_Z	_Z	_Z																				1.4											
+DNK	FR	CH_W	_Z	_Z	_Z																				1.5											
+FIN	FR	CH_W	_Z	_Z	_Z																				1.3											
+ISL	FR	CH_W	_Z	_Z	_Z																				1.5											
+DEU	FR	CH_W	_Z	_Z	_Z																				1.5											
+NLD	FR	CH_W	_Z	_Z	_Z																				1.4											
+GBR	FR	CH_W	_Z	_Z	_Z																				1.5											
+USA	FR	CH_W	_Z	_Z	_Z																				1.6											
+NOR	FRPLF22	Y	F	_Z	_Z																				67											
+SWE	FRPLF22	Y	F	_Z	_Z																				70											
+DNK	FRPLF22	Y	F	_Z	_Z																				74											
+FIN	FRPLF22	Y	F	_Z	_Z																				68											
+ISL	FRPLF22	Y	F	_Z	_Z																				67											
+DEU	FRPLF22	Y	F	_Z	_Z																				67											
+NLD	FRPLF22	Y	F	_Z	_Z																				70											
+GBR	FRPLF22	Y	F	_Z	_Z																				68											
+USA	FRPLF22	Y	F	_Z	_Z																				67											
+NOR	FRPLF22	Y	M	_Z	_Z																				67											
+SWE	FRPLF22	Y	M	_Z	_Z																				70											
+DNK	FRPLF22	Y	M	_Z	_Z																				74											
+FIN	FRPLF22	Y	M	_Z	_Z																				68											
+ISL	FRPLF22	Y	M	_Z	_Z																				67											
+DEU	FRPLF22	Y	M	_Z	_Z																				67											
+NLD	FRPLF22	Y	M	_Z	_Z																				70											
+GBR	FRPLF22	Y	M	_Z	_Z																				68											
+USA	FRPLF22	Y	M	_Z	_Z																				67											
+NOR	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				46.1											
+SWE	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				63.7											
+DNK	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				72.7											
+FIN	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				57.8											
+ISL	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				43.9											
+DEU	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				42.1											
+NLD	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				74.7											
+GBR	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				44.7											
+USA	GPRR100	PT_EARN_G_PRE_RET_INC	F	_Z	M																				39.7											
+NOR	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				46.1											
+SWE	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				63.7											
+DNK	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				72.7											
+FIN	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				57.8											
+ISL	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				43.9											
+DEU	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				42.1											
+NLD	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				74.7											
+GBR	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				44.7											
+USA	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	M																				39.7											
+NOR	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				46.1											
+SWE	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				63.7											
+DNK	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				72.7											
+FIN	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				57.8											
+ISL	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				43.9											
+DEU	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				42.1											
+NLD	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				74.7											
+GBR	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				44.7											
+USA	GPRR100	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				39.7											
+NOR	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				28.4											
+SWE	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				78.3											
+DNK	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				53.6											
+FIN	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				57.8											
+ISL	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				43.4											
+DEU	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				30.2											
+NLD	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				68.8											
+GBR	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				29.9											
+USA	GPRR200	PT_EARN_G_PRE_RET_INC	F	_Z	M																				28.5											
+NOR	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				28.4											
+SWE	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				78.3											
+DNK	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				53.6											
+FIN	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				57.8											
+ISL	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				43.4											
+DEU	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				30.2											
+NLD	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				68.8											
+GBR	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				29.9											
+USA	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	M																				28.5											
+NOR	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				28.4											
+SWE	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				78.3											
+DNK	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				53.6											
+FIN	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				57.8											
+ISL	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				43.4											
+DEU	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				30.2											
+NLD	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				68.8											
+GBR	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				29.9											
+USA	GPRR200	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				28.5											
+NOR	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				59.5											
+SWE	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				64.2											
+DNK	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				115.2											
+FIN	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				57.8											
+ISL	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				69.3											
+DEU	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				46.3											
+NLD	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				86.6											
+GBR	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				65.6											
+USA	GPRR50	PT_EARN_G_PRE_RET_INC	F	_Z	M																				50.5											
+NOR	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				59.5											
+SWE	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				64.2											
+DNK	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				115.2											
+FIN	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				57.8											
+ISL	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				69.3											
+DEU	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				46.3											
+NLD	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				86.6											
+GBR	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				65.6											
+USA	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	M																				50.5											
+NOR	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				59.5											
+SWE	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				64.2											
+DNK	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				115.2											
+FIN	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				57.8											
+ISL	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				69.3											
+DEU	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				46.3											
+NLD	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				86.6											
+GBR	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				65.6											
+USA	GPRR50	PT_EARN_G_PRE_RET_INC	M	_Z	MV																				50.5											
+NOR	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				10.4											
+SWE	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				11.8											
+DNK	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				11.9											
+FIN	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				12											
+ISL	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				8.9											
+DEU	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				9.9											
+NLD	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				14.4											
+GBR	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				9.3											
+USA	GPW100	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				7.8											
+NOR	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				9.6											
+SWE	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				10.7											
+DNK	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				10.8											
+FIN	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				10.6											
+ISL	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				8.3											
+DEU	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				9											
+NLD	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				13.3											
+GBR	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				8.6											
+USA	GPW100	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				7.3											
+NOR	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				6.4											
+SWE	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				14.7											
+DNK	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				8.5											
+FIN	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				12											
+ISL	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				8.7											
+DEU	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				7.1											
+NLD	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				12.9											
+GBR	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				6.1											
+USA	GPW200	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				5.6											
+NOR	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				5.9											
+SWE	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				13.4											
+DNK	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				7.8											
+FIN	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				10.6											
+ISL	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				8.2											
+DEU	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				6.5											
+NLD	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				11.9											
+GBR	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				5.7											
+USA	GPW200	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				5.3											
+NOR	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				13.5											
+SWE	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				11.9											
+DNK	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				19.2											
+FIN	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				12											
+ISL	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				14.8											
+DEU	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				10.9											
+NLD	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				17.3											
+GBR	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				13.9											
+USA	GPW50	FCTR_WG_SAL_G_I_INC	F	_Z	_Z																				9.9											
+NOR	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				12.4											
+SWE	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				10.8											
+DNK	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				17.4											
+FIN	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				10.6											
+ISL	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				13.7											
+DEU	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				9.9											
+NLD	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				15.9											
+GBR	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				13											
+USA	GPW50	FCTR_WG_SAL_G_I_INC	M	_Z	_Z																				9.3											
+NOR	LE	Y	F	BIRTH	_Z																				85											
+SWE	LE	Y	F	BIRTH	_Z																				85.2											
+DNK	LE	Y	F	BIRTH	_Z																				84											
+FIN	LE	Y	F	BIRTH	_Z																				84.8											
+ISL	LE	Y	F	BIRTH	_Z																				84.5											
+DEU	LE	Y	F	BIRTH	_Z																				83.9											
+NLD	LE	Y	F	BIRTH	_Z																				83.9											
+GBR	LE	Y	F	BIRTH	_Z																				83.3											
+USA	LE	Y	F	BIRTH	_Z																				82											
+NOR	LE	Y	F	Y65	_Z																				87.1										90.6	
+SWE	LE	Y	F	Y65	_Z																				87.3										90.9	
+DNK	LE	Y	F	Y65	_Z																				86.5										90	
+FIN	LE	Y	F	Y65	_Z																				87.1										90.8	
+ISL	LE	Y	F	Y65	_Z																				86.5										90.1	
+DEU	LE	Y	F	Y65	_Z																				86.5										90.1	
+NLD	LE	Y	F	Y65	_Z																				86.4										90.1	
+GBR	LE	Y	F	Y65	_Z																				86.3										89.8	
+USA	LE	Y	F	Y65	_Z																				86.2										89.6	
+NOR	LE	Y	M	BIRTH	_Z																				81.9											
+SWE	LE	Y	M	BIRTH	_Z																				81.6											
+DNK	LE	Y	M	BIRTH	_Z																				80.2											
+FIN	LE	Y	M	BIRTH	_Z																				79.4											
+ISL	LE	Y	M	BIRTH	_Z																				81.6											
+DEU	LE	Y	M	BIRTH	_Z																				79.2											
+NLD	LE	Y	M	BIRTH	_Z																				80.7											
+GBR	LE	Y	M	BIRTH	_Z																				79.5											
+USA	LE	Y	M	BIRTH	_Z																				77											
+NOR	LE	Y	M	Y65	_Z																				84.9										88.8	
+SWE	LE	Y	M	Y65	_Z																				84.7										88.8	
+DNK	LE	Y	M	Y65	_Z																				83.8										88.1	
+FIN	LE	Y	M	Y65	_Z																				83.7										87.9	
+ISL	LE	Y	M	Y65	_Z																				84.6										88.4	
+DEU	LE	Y	M	Y65	_Z																				83.4										88	
+NLD	LE	Y	M	Y65	_Z																				84										88.4	
+GBR	LE	Y	M	Y65	_Z																				83.8										88.2	
+USA	LE	Y	M	Y65	_Z																				83.7										87.9	
+NOR	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				54.9											
+SWE	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				66.3											
+DNK	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				77.1											
+FIN	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				65.7											
+ISL	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				53.3											
+DEU	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				53.3											
+NLD	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				96											
+GBR	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				54.2											
+USA	NPRR100	PT_EARN_N_PRE_RET_INC	F	_Z	M																				51.3											
+NOR	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				54.9											
+SWE	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				66.3											
+DNK	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				77.1											
+FIN	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				65.7											
+ISL	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				53.3											
+DEU	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				53.3											
+NLD	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				96											
+GBR	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				54.2											
+USA	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	M																				51.3											
+NOR	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				54.9											
+SWE	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				66.3											
+DNK	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				77.1											
+FIN	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				65.7											
+ISL	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				53.3											
+DEU	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				67.9											
+NLD	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				96											
+GBR	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				54.2											
+USA	NPRR100	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				100.7											
+NOR	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				36.6											
+SWE	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				84.4											
+DNK	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				63.6											
+FIN	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				63.9											
+ISL	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				51.5											
+DEU	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				38.8											
+NLD	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				89.7											
+GBR	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				39.5											
+USA	NPRR200	PT_EARN_N_PRE_RET_INC	F	_Z	M																				40											
+NOR	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				36.6											
+SWE	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				84.4											
+DNK	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				63.6											
+FIN	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				63.9											
+ISL	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				51.5											
+DEU	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				38.8											
+NLD	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				89.7											
+GBR	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				39.5											
+USA	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	M																				40											
+NOR	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				36.6											
+SWE	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				84.4											
+DNK	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				63.6											
+FIN	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				63.9											
+ISL	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				51.5											
+DEU	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				52.7											
+NLD	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				89.7											
+GBR	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				39.5											
+USA	NPRR200	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				92.2											
+NOR	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				74.4											
+SWE	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				67.4											
+DNK	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				116.7											
+FIN	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				63.8											
+ISL	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				77.7											
+DEU	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				57.7											
+NLD	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				97.2											
+GBR	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				76.2											
+USA	NPRR50	PT_EARN_N_PRE_RET_INC	F	_Z	M																				62.5											
+NOR	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				74.4											
+SWE	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				67.4											
+DNK	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				116.7											
+FIN	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				63.8											
+ISL	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				77.7											
+DEU	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				57.7											
+NLD	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				97.2											
+GBR	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				76.2											
+USA	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	M																				62.5											
+NOR	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				74.4											
+SWE	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				67.4											
+DNK	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				116.7											
+FIN	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				63.8											
+ISL	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				77.7											
+DEU	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				71.6											
+NLD	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				97.2											
+GBR	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				76.2											
+USA	NPRR50	PT_EARN_N_PRE_RET_INC	M	_Z	MV																				111.4											
+NOR	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				12.4											
+SWE	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				12.5											
+DNK	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				12.6											
+FIN	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				13.6											
+ISL	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				10.8											
+DEU	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				12.5											
+NLD	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				18.4											
+GBR	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				11.2											
+USA	NPW100	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				10											
+NOR	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.5											
+SWE	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.4											
+DNK	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.4											
+FIN	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				12.1											
+ISL	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				10											
+DEU	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.4											
+NLD	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				17											
+GBR	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				10.4											
+USA	NPW100	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				9.4											
+NOR	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				8.2											
+SWE	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				16											
+DNK	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				10.1											
+FIN	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				13.2											
+ISL	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				10.4											
+DEU	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				9.1											
+NLD	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				16.8											
+GBR	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				8											
+USA	NPW200	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				7.8											
+NOR	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				7.6											
+SWE	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				14.5											
+DNK	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				9.2											
+FIN	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.7											
+ISL	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				9.7											
+DEU	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				8.3											
+NLD	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				15.6											
+GBR	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				7.5											
+USA	NPW200	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				7.4											
+NOR	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				16.9											
+SWE	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				12.8											
+DNK	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				19.5											
+FIN	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				13.2											
+ISL	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				16.6											
+DEU	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				13.6											
+NLD	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				19.4											
+GBR	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				16.2											
+USA	NPW50	FCTR_WG_SAL_N_I_INC	F	_Z	_Z																				12.2											
+NOR	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				15.6											
+SWE	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.6											
+DNK	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				17.7											
+FIN	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.7											
+ISL	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				15.4											
+DEU	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				12.4											
+NLD	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				17.9											
+GBR	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				15.1											
+USA	NPW50	FCTR_WG_SAL_N_I_INC	M	_Z	_Z																				11.5											
+NOR	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										6.3		6.2		6.2		5.1		5.3													
+SWE	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										13.1		14.8		14.8		14.5		9													
+DNK	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										4		3.7		3.7		5.2		5.7													
+FIN	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										6.8		7.6		8.2		7.7		6.3													
+ISL	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										7.1		3.9		1.7		1.7		1.7													
+DEU	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										11.5		10.6		10.4		12.7		15.2													
+NLD	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										3.9		3.5		3.5		6.9		4.7													
+GBR	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										16		17.7		18		14.9		16.5													
+USA	OAIP	PT_POP_SEX_AGE	F	Y_GE66	_Z										23.9		25.9		25.9		25.3		25.4													
+NOR	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										1.9		2.1		2.2		2.3		2.6													
+SWE	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										6.4		7.3		7.5		7.2		5.4													
+DNK	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										2.3		2.1		2.2		3.2		4.2													
+FIN	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										3.2		4.6		6		4.5		2.9													
+ISL	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										3.5		1.7		4.5		4.5		4.5													
+DEU	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										6.8		7.4		7.6		8.6		10													
+NLD	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										3.4		2.8		2.8		6.1		4.5													
+GBR	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										11.1		12.5		12.6		11.1		13.3													
+USA	OAIP	PT_POP_SEX_AGE	M	Y_GE66	_Z										17.2		19.6		19.6		19.8		19.9													
+NOR	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										2.2		2.4		2.5		2.7		3.2													
+SWE	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										6.6		7.9		8.5		8.3		6.2													
+DNK	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										2.1		2		2		2.8		3.8													
+FIN	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										2.9		3.7		4.3		4.9		4													
+ISL	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										4.9		2.4		4		4		4													
+DEU	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										8.4		8.9		9.6		12.1		14.9													
+NLD	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										2.5		2		2		4.4		3.3													
+GBR	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										10.4		12.1		12.8		11		12													
+USA	OAIP	PT_POP_SEX_AGE	_T	Y66T75	_Z										17.6		19.7		19.7		20.1		20.4													
+NOR	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										4.3		4.3		4.3		3.8		4.1													
+SWE	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										10		11.3		11.4		11.1		7.3													
+DNK	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										3.2		3		3		4.3		5													
+FIN	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										5.2		6.3		7.2		6.3		4.8													
+ISL	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										5.4		2.8		3.1		3.1		3.1													
+DEU	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										9.5		9.6		9.1		11		12.6													
+NLD	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										3.7		3.1		3.1		6.5		4.6													
+GBR	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										13.8		15.3		15.5		13.1		15													
+USA	OAIP	PT_POP_SEX_AGE	_T	Y_GE66	_Z										20.9		23.1		23.1		22.8		22.9													
+NOR	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										7.3		7.3		7.2		5.4		5.2													
+SWE	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										15.2		16.5		15.4		14.5		8.6													
+DNK	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										4.9		4.5		4.5		6.3		6.4													
+FIN	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										8.5		10		11.3		8.3		5.7													
+ISL	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										6.1		3.5		1.1		1.1		1.1													
+DEU	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										10.3		9.4		8.8		9.8		11													
+NLD	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										5.5		4.9		4.9		9.7		6.5													
+GBR	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										18.5		19.7		19.2		16		18.8													
+USA	OAIP	PT_POP_SEX_AGE	_T	Y_GE76	_Z										25.7		28.3		28.3		27.2		26.7													
+NOR	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										8.1		8.4		8.4		7.9		8													
+SWE	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										9		9.3		9.3		9.2		8													
+DNK	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										5.5		5.8		6.1		6.5		6.3													
+FIN	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										6.3		6.3		6.5		6.7		6.8													
+ISL	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										6.5		5.4		4.9		4.9		4.9													
+DEU	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										9.5		10.4		9.8		10.9		11.8													
+NLD	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										7.9		8.3		8.3		8.5		7													
+GBR	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										10.9		11.9		12.4		11.2		12.6													
+USA	OAIP	PT_POP_SEX_AGE	_T	_T	_Z										16.8		17.8		17.8		15.1		18.1													
+NOR	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				31.9							51.9				65.6
+SWE	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				36.8							49.4				63
+DNK	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				36.2							47.4				59.4
+FIN	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				42.8							54				68.7
+ISL	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				26							45.4				68.1
+DEU	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				39.8							59.7				58.8
+NLD	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				34.8							48.9				62.2
+GBR	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				34							46.1				59.5
+USA	OAWAR	PT_POP_Y20T64	_Z	Y_GE65	_Z																				30.8							42.9				52.7
+NOR	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										13.8		13.9		14		14.2		14.7													
+SWE	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										17.4		17.8		18.6		19		18.4													
+DNK	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										14.5		14.5		14.5		15.2		14.7													
+FIN	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										0		0		0		0		0													
+ISL	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										0		0		0		0		0													
+DEU	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										4.9		4.8		4.4		4.6		3.9													
+NLD	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										37.7		39.1		39.1		39.6		38.9													
+GBR	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										29.9		28.6		30.1		32.6		29.7													
+USA	OCOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										8.1		7.6		7.6		5.5		5.4													
+NOR	PEP	PT_B1GQ	_Z	_Z	_Z						5.3										7.6	6.5														
+SWE	PEP	PT_B1GQ	_Z	_Z	_Z						8										8.5	8														
+DNK	PEP	PT_B1GQ	_Z	_Z	_Z						7.1										8.2	7.5														
+FIN	PEP	PT_B1GQ	_Z	_Z	_Z						9.8										12.6	12.2														
+ISL	PEP	PT_B1GQ	_Z	_Z	_Z						1.5										3	2.9														
+DEU	PEP	PT_B1GQ	_Z	_Z	_Z						10.7										11.2	10.8														
+NLD	PEP	PT_B1GQ	_Z	_Z	_Z						5.9										6.8	6.4														
+GBR	PEP	PT_B1GQ	_Z	_Z	_Z						8.3										7.8	7.1														
+USA	PEP	PT_B1GQ	_Z	_Z	_Z						6.6										7.4	7.3														
+NOR	PPEP	PT_B1GQ	_Z	_Z	_Z																			11.1		11.5	12.1	12.2	12.1	12	12		12.1	12.2		
+SWE	PPEP	PT_B1GQ	_Z	_Z	_Z																			8		7.9	7.6	7.5	7.2	7	7		7	7.3		
+DNK	PPEP	PT_B1GQ	_Z	_Z	_Z																			8.7		8.9	9.3	9.2	8.8	8.3	7.8		7.2	6.9		
+FIN	PPEP	PT_B1GQ	_Z	_Z	_Z																			13.1		13.2	13.3	13.2	12.6	12.3	12.4		12.8	13.3		
+ISL	PPEP	PT_B1GQ	_Z	_Z	_Z																										3.5					
+DEU	PPEP	PT_B1GQ	_Z	_Z	_Z																			10.2		10.5	10.8	11.2	11.1	11	11		11.1	11.2		
+NLD	PPEP	PT_B1GQ	_Z	_Z	_Z																			6.6		6.8	7.3	7.7	8	7.9	7.9		7.9	8		
+GBR	PPEP	PT_B1GQ	_Z	_Z	_Z																			7.6		8.2	7.9	8.2	8.3	8.3	8.5		8.9	9.5		
+USA	PPEP	PT_B1GQ	_Z	_Z	_Z																			5.2		5.3	5.6	5.8	5.9	5.9	5.9		6	6.1		
+NOR	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										59.2		60.4		60.1		57.8		59.1													
+SWE	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										53.3		52.4		52.2		51.6		50.3													
+DNK	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										48.4		46.6		45.9		44.8		43.2													
+FIN	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										80.8		81.8		81.7		80.3		80.7													
+ISL	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										68.1		58.6		58.1		58.1		58.1													
+DEU	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										69.2		70.6		68.3		68		66.1													
+NLD	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										43.7		45.2		45.2		42.7		40.3													
+GBR	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										43		42.6		42.8		41.9		42.5													
+USA	PTOP	PT_B6G_A_POP_Y_GT65	_Z	Y_GE66	_Z										42.8		41.3		41.3		39.3		38.3													

@@ -1,0 +1,13 @@
+# Kilde: OECD, tabell OECD.ELS.JAI,DSD_TAXBEN_IA@DF_IA
+# Tabell: Nivå på minsteinntektsytelser (sosialhjelp) for modellhusholdninger uten arbeid
+# OECD-tittel: Adequacy of minimum income benefits
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_TAXBEN_IA@DF_IA/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.......?startPeriod=2005&format=csvfilewithlabels
+# MEASURE (lik for alle rader): GMINISJF=Net annualised income of selected jobless families that claim minimum income benefits
+# AGE_CHILDREN (lik for alle rader): Y4_6=4 and 6 years
+# INCOME_PART (lik for alle rader): _Z=Not applicable
+# FREQ (lik for alle rader): A=Annual
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# UNIT_MEASURE: PT_INC_DISP_HH_MEDIAN=Percentage of median disposable household income; XDC=National currency
+# HOUSEHOLD_TYPE: C_C0=Couple, no children; C_C2=Couple, 2 children; S_C0=Single person, no children; S_C2=Single person, 2 children
+# HOUSE_BENEFIT: NO=No; YES=Yes
+REF_AREA	UNIT_MEASURE	HOUSEHOLD_TYPE	HOUSE_BENEFIT	periode	flagg	betydning

@@ -1,0 +1,10 @@
+# Kilde: OECD, tabell OECD.ELS.JAI,DSD_TAXBEN_SBE@DF_SBE
+# Tabell: Hvor strenge aktivitets- og søkekravene er for mottakere av ytelser ved ledighet (1–5)
+# OECD-tittel: Strictness of activation requirements for benefit recipients
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_TAXBEN_SBE@DF_SBE/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD....?startPeriod=2005&format=csvfilewithlabels
+# UNIT_MEASURE (lik for alle rader): 1_TO_5=1-5 scale
+# FREQ (lik for alle rader): A=Annual
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; SWE=Sweden; USA=United States
+# MEASURE: ALMPSAN=Sanctions for refusals to participate in ALMPs; AVAIL=Availability requirements overall score; AVALMP=Availability requirements for ALMP participation; DOCJSA=Job-search requirements for documentation of job-search activities; FIRSAN=Sanctions for refusals of job offers; GEOMOB=Availability requirements for geographical mobility; JSM=Job-search requirements for frequency of job-search activities; JSR=Job-search requirements overall score; OCCMOB=Availability requirements for occupational mobility; OTHREA=Availability requirements for other valid reasons; OVER=Strictness of activation requirements overall score; REPALMP=Sanctions for repeated refusals to participate in ALMPs; REPSAN=Sanctions for repeated refusals of job offers; SAN=Sanctions overall score; VOLSAN=Sanctions for voluntary resignation from employment
+# BENEFIT_TIER: FLT=First lower-tier benefits (e.g. unemployment assistance); FT=First-tier unemployment benefits (e.g. unemployment insurance); SLT=Second lower-tier benefits (e.g. social assistance)
+REF_AREA	MEASURE	BENEFIT_TIER	periode	flagg	betydning
