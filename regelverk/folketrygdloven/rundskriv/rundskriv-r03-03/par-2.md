@@ -4,7 +4,7 @@ lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r03-03.html"
 lagt_inn: "2026-10-17"
 paragraf: "§ 2"
-gjelder: "lov"
+gjelder: "forskrift"
 ---
 
 # Rundskriv til ftrl kap 3 Del III – Særregler for tilleggspensjon til uføretrygdede – § 2
