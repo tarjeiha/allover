@@ -1,7 +1,7 @@
 name: Hent adresse (tunnel)
 
 # Manuell jobb som henter en adresse fra en tillatt vert og skriver svaret til loggen.
-# Brukes når Claude ikke selv når kilden (Eurostat, Nav, SSB, Lovdata). Lagrer ingenting i repoet.
+# Brukes når Claude ikke selv når kilden (Eurostat, Nav, SSB, Lovdata, Stortinget, DFØ, regjeringen.no). Lagrer ingenting i repoet.
 on:
   workflow_dispatch:
     inputs:
@@ -33,7 +33,7 @@ jobs:
           set -u
           host=$(printf '%s' "$URL" | sed -nE 's#^https://([^/:?]+)([:/?].*)?$#\1#p' | tr 'A-Z' 'a-z')
           case "$host" in
-            ec.europa.eu|www.nav.no|data.ssb.no|www.ssb.no|lovdata.no|api.lovdata.no|data.norge.no) ;;
+            ec.europa.eu|www.nav.no|data.ssb.no|www.ssb.no|lovdata.no|api.lovdata.no|data.norge.no|www.stortinget.no|stortinget.no|data.stortinget.no|www.dfo.no|dfo.no|www.statsregnskapet.no|statsregnskapet.no|www.regjeringen.no) ;;
             *) echo "Verten '$host' er ikke tillatt."; exit 1 ;;
           esac
           case "$METODE" in GET|HEAD) ;; *) echo "Ugyldig metode"; exit 1 ;; esac
