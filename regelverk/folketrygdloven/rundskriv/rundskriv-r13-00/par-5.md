@@ -4,7 +4,7 @@ lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r13-00.html"
 lagt_inn: "2026-10-17"
 paragraf: "§ 5"
-gjelder: "lov"
+gjelder: "forskrift"
 ---
 
 # Rundskriv til ftrl kap 13 – Yrkesskadedekning – § 5

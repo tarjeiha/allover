@@ -4,7 +4,7 @@ lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r19-00.html"
 lagt_inn: "2026-10-17"
 paragraf: "§ 10A-4"
-gjelder: "lov"
+gjelder: "forskrift"
 ---
 
 # Rundskriv til ftrl kap 19 – Alderspensjon – § 10A-4

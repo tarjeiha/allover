@@ -174,6 +174,16 @@ def gjelder_forskrift(tittel: str, fil: Path) -> bool:
     return "forskrift" in (tittel + " " + fil.stem).lower()
 
 
+FORSKRIFTSDEL = re.compile(r"^(\[FOR-\d{4}-\d{2}-\d{2}-\d+-§|Bestemmelsen utfyller \S*loven\b)")
+
+
+def del_gjelder_forskrift(del_tekst: str) -> bool:
+    """NAVs rundskriv kommenterer ofte både loven og forskrifter til den. En del om en forskriftsparagraf
+    begynner med lenke til forskriften («[FOR-2009-12-22-1810-§2-1](…)») eller med «Bestemmelsen utfyller …loven»."""
+    linjer = [l.strip() for l in del_tekst.splitlines() if l.strip() and not l.startswith("#")]
+    return bool(linjer) and bool(FORSKRIFTSDEL.match(linjer[0]))
+
+
 def oppdater_indeks(rel: str, lovnavn: str, rader: list) -> None:
     """Rundskrivet skal kunne finnes med en gang. Veiviseren oppdateres ved neste bygg."""
     sti = ROT / "indeks.tsv"
@@ -226,7 +236,7 @@ def legg_inn(fil: Path, lover: list, dato: str) -> str:
         meta = dict(hode)
         if par:
             meta["paragraf"] = par
-            meta["gjelder"] = "forskrift" if forskrift else "lov"
+            meta["gjelder"] = "forskrift" if forskrift or del_gjelder_forskrift(del_tekst) else "lov"
         fm = "\n".join(f'{k}: "{v}"' for k, v in meta.items())
         overskrift = f"{tittel} – {par}" if par else tittel
         (mappe / f"{s}.md").write_text(

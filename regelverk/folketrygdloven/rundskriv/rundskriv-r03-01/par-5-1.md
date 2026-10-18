@@ -4,7 +4,7 @@ lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r03-01.html"
 lagt_inn: "2026-10-17"
 paragraf: "§ 5-1"
-gjelder: "lov"
+gjelder: "forskrift"
 ---
 
 # Rundskriv til ftrl kap 3 Del I – Grunnpensjon og særtillegg – § 5-1
