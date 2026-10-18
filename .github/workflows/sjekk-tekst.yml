@@ -1,0 +1,27 @@
+name: Sjekk håndskrevet tekst
+
+on:
+  # Merknader og veivisere skrives for hånd. Kontrollen fanger døde stier og utsagn om at
+  # regelverk som er i basen, «ikke er i basen».
+  pull_request:
+    paths: ["regelverk/**", "regelverk.json", "verktoy/sjekk_tekst.py"]
+  push:
+    branches: [main]
+    paths: ["regelverk/**", "regelverk.json", "verktoy/sjekk_tekst.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sjekk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sjekk merknader og veivisere
+        run: python3 verktoy/sjekk_tekst.py

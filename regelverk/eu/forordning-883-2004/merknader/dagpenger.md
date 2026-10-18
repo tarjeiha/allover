@@ -1,4 +1,4 @@
-> **Flyttet fra skillen `aid-ftrl-dagpenger`** 16.10.2026, flyttet hit fra `regelverk/folketrygdloven/eu-eos/` 17.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra skillen `aid-ftrl-dagpenger`** 16.10.2026, flyttet hit fra mappen eu-eos under folketrygdloven 17.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Trygdeforordningen og dagpenger
 
