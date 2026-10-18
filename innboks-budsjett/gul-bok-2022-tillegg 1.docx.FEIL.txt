@@ -1,5 +1,0 @@
-gul-bok-2022-tillegg 1.docx ble ikke lagt inn.
-
-Årsak: filnavnet passer ikke. Bruk prop-1-s-ÅR-aid.docx, gul-bok-ÅR.docx, nasjonalbudsjettet-ÅR.docx eller gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027)
-
-Rett opp og last opp filen på nytt. Denne filen forsvinner når filen er lagt inn.

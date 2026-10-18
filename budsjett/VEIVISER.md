@@ -22,7 +22,7 @@ Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilba
 - **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
 - **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
 - **2023:** Prop. 1 S AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`)
-- **2022:** Prop. 1 S AID (`budsjett/2022/prop-1-s-aid/`), Gul bok (`budsjett/2022/gul-bok/`)
+- **2022:** Prop. 1 S AID (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`)
 - **2021:** Prop. 1 S AID (`budsjett/2021/prop-1-s-aid/`)
 <!-- AUTO-SLUTT budsjettår -->
 
