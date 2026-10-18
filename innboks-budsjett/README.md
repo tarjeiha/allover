@@ -11,9 +11,12 @@ Legg budsjettdokumenter her, så legges de inn i `budsjett/` automatisk i løpet
 | Filnavn | Dokument | Havner i |
 |---|---|---|
 | `prop-1-s-ÅR-aid.docx` | AIDs Prop. 1 S | `budsjett/ÅR/prop-1-s-aid/` |
+| `prop-1-s-ÅR-tillegg-N.docx` | Prop. 1 S Tillegg N (endring av forslaget, alle departementer) | `budsjett/ÅR/prop-1-s-tillegg-N/` |
 | `gul-bok-ÅR.docx` | Prop. 1 S Gul bok | `budsjett/ÅR/gul-bok/` |
 | `nasjonalbudsjettet-ÅR.docx` | Meld. St. 1 Nasjonalbudsjettet | `budsjett/ÅR/nasjonalbudsjettet/` |
 | `gul-bok-bevilgninger-ÅR.xlsx` | Datagrunnlag til Gul bok (alle departementer, kroner) | `budsjett/ÅR/gul-bok-bevilgninger.tsv` |
+
+AIDs Prop. 1 S kan også lastes opp med originalnavnet fra regjeringen.no, f.eks. `prp202520260001aidddddocx.docx` (eller `asd` for årene før 2022). Budsjettåret er da siste år i sesjonen. Andre dokumenter må døpes om.
 
 Du kan laste opp flere filer samtidig. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene).
 
