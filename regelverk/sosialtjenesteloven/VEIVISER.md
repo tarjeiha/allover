@@ -162,5 +162,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 1. Plikten til å stille vilkår om aktivitet – `forskrifter/bruk-av-vilkar/par-1.md`
 - § 2. Ikrafttredelse – `forskrifter/bruk-av-vilkar/par-2.md`
-
 <!-- AUTO-SLUTT -->

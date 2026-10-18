@@ -338,5 +338,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
 
 - **Direktiv 2006/54** (Likebehandlingsdirektivet (kjønn i arbeidslivet)) – i basen: `regelverk/eu/direktiv-2006-54/VEIVISER.md`. Nevnt i `lov/par-34.md`
-
 <!-- AUTO-SLUTT -->

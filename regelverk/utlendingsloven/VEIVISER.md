@@ -825,5 +825,4 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 - Forordning 2024/1356 – ikke i basen. Nevnt i `lov/par-100.md`, `lov/par-5a.md`, `lov/par-81.md`, `lov/par-84a.md`, `lov/par-98a.md`, `lov/par-98d.md`, `lov/par-98g.md`, `lov/par-9a.md`
 - Forordning 2024/1358 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/utenfor-paragrafene.md`, `lov/par-101.md`, `lov/par-98.md`, `lov/par-9a.md`
 - Forordning 2024/1359 – ikke i basen. Nevnt i `forskrifter/utlendingsforskriften/par-7-4a.md`, `lov/par-32.md`
-
 <!-- AUTO-SLUTT -->

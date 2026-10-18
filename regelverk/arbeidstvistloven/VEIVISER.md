@@ -128,5 +128,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 64. Ikraftsetting – `lov/par-64.md`
 - § 65. Endringer i andre lover – `lov/par-65.md`
-
 <!-- AUTO-SLUTT -->

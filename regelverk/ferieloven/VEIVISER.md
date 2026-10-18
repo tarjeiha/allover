@@ -91,5 +91,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 ### Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet
 
 - Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/delegering/tekst.md`
-
 <!-- AUTO-SLUTT -->

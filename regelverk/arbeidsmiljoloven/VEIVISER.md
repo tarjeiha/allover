@@ -997,5 +997,4 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 - Forordning nr. 165/2014 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14a.md`, `forskrifter/utsendte-arbeidstakere/par-14d.md`
 - Forordning 2021/2179 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14.md`
 - Forordning 2022/695 – ikke i basen. Nevnt i `forskrifter/vegtransport/par-22.md`
-
 <!-- AUTO-SLUTT -->
