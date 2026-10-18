@@ -33,12 +33,12 @@ jobs:
           set -u
           host=$(printf '%s' "$URL" | sed -nE 's#^https://([^/:?]+)([:/?].*)?$#\1#p' | tr 'A-Z' 'a-z')
           case "$host" in
-            ec.europa.eu|ec.europa.eu.*|www.nav.no|data.ssb.no|www.ssb.no|lovdata.no|api.lovdata.no|data.norge.no) ;;
+            ec.europa.eu|www.nav.no|data.ssb.no|www.ssb.no|lovdata.no|api.lovdata.no|data.norge.no) ;;
             *) echo "Verten '$host' er ikke tillatt."; exit 1 ;;
           esac
           case "$METODE" in GET|HEAD) ;; *) echo "Ugyldig metode"; exit 1 ;; esac
           [[ "$MAKS_KB" =~ ^[0-9]+$ ]] || { echo "Ugyldig maks_kb"; exit 1; }
-          args=(-sL -m 60 -A "Mozilla/5.0 (regelverksbasen; tarjeiha/allover)" -D headers.txt -o svar.bin -w "%{http_code} %{content_type} %{size_download} %{url_effective}\n")
+          args=(-sL --max-redirs 3 --proto =https --proto-redir =https -m 60 -A "Mozilla/5.0 (regelverksbasen; tarjeiha/allover)" -D headers.txt -o svar.bin -w "%{http_code} %{content_type} %{size_download} %{url_effective}\n")
           [ "$METODE" = HEAD ] && args+=(-I)
           curl "${args[@]}" "$URL" | tee status.txt
           echo "=== HODER"; cat headers.txt | head -40
