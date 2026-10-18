@@ -2,15 +2,15 @@
 
 Tolkeloven regulerer offentlige organers ansvar for å bruke tolk, krav om kvalifisert tolk, fjerntolking, forbud mot å bruke barn som tolk, krav til tolken om god tolkeskikk, taushetsplikt og habilitet, og Nasjonalt tolkeregister med statsautorisasjon og reaksjoner. Tolkeforskriften utfyller loven, blant annet om god tolkeskikk og registeret.
 
-Loven trådte i kraft i 2022. IMDis veiledning om tolkeloven ligger ikke i basen.
+Loven trådte i kraft i 2022 og innførte blant annet et generelt krav om kvalifisert tolk, så eldre kunnskap om tolking i offentlig sektor kan være utdatert. IMDis veiledning og departementets fortolkninger ligger ikke i basen. Det gjør heller ikke sektorlovene, som pasient- og brukerrettighetsloven, domstolloven og straffeprosessloven.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
-- **Tolkeloven supplerer sektorlovgivningen.** Loven gjelder med mindre annet er bestemt i eller i medhold av annen lov (§ 3). Plikten til å bruke tolk kan også følge av sektorlover (§ 6 første ledd første punktum). Gjelder spørsmålet en bestemt sektor, som helse, domstol eller barnevern, gir tolkeloven alene ikke hele bildet. Sektorlovene ligger ikke i basen.
+- **Tolkeloven supplerer sektorlovgivningen.** Loven gjelder med mindre annet er bestemt i eller i medhold av annen lov (§ 3). Plikten til å bruke tolk kan også følge av sektorlover (§ 6 første ledd første punktum). Gjelder spørsmålet en bestemt sektor, som helse, domstol eller barnevern, gir tolkeloven alene ikke hele bildet. Si da fra at sektorregelverket ikke er i basen.
 - **Plikten etter § 6 bygger på en vurdering.** Der annen lov ikke regulerer tolkeplikten, skal organet bruke tolk når det er nødvendig for å ivareta rettssikkerhet eller yte forsvarlig hjelp og tjeneste. Det skal legges vekt på om partene kan kommunisere forsvarlig uten tolk, og på sakens alvor og karakter (§ 6 første ledd). Ellers bør organet vurdere tolk (§ 6 andre ledd).
 - **Kravet om kvalifisert tolk har unntak og dispensasjon.** § 7 første ledd krever kvalifisert tolk når det er plikt til tolk etter § 6. Kravet kan fravikes etter § 7 andre ledd, og etter § 7 femte ledd er det dispensasjon fra kravet fram til 31. desember 2026. Kvalifisert tolk er en tolk som fyller kravene til oppføring i Nasjonalt tolkeregister (§ 7 tredje ledd, jf. § 17).
 - **Barn skal ikke brukes som tolk.** Forbudet i § 4 gjelder også annen formidling av informasjon. Unntak gjelder bare i nødssituasjoner eller der det er forsvarlig ut fra hensynet til barnet og omstendighetene (§ 4 andre ledd).
@@ -21,7 +21,8 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 | Tema | Les |
 |---|---|
-| Plikt til å bruke tolk, krav til tolker, tolkeregisteret | `merknader/generelt.md` |
+| veiledningsplikt (§ 11) og utredningsplikt (§ 17), som ligger i bakgrunnen for tolkeplikten | `regelverk/forvaltningsloven/VEIVISER.md` |
+| opplæring i norsk og samfunnskunnskap | `regelverk/integreringsloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
@@ -114,11 +115,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 20. Gebyr – `forskrifter/tolkeforskriften/par-20.md`
 - § 21. Ikrafttredelse – `forskrifter/tolkeforskriften/par-21.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Tolkeloven – `merknader/generelt.md`
 <!-- AUTO-SLUTT -->

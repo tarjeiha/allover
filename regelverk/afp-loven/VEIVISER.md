@@ -4,8 +4,7 @@ Loven regulerer avtalefestet pensjon (offentlig AFP) for arbeidstakere i stillin
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i `regelverk/spk-loven/merknader/alderspensjon-afp.md`.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
@@ -17,7 +16,6 @@ Loven har ingen egen merknadsfil. Merknadene står sammen med alderspensjonen i 
 
 | Tema | Les |
 |---|---|
-| offentlig AFP, gammel og ny ordning | `regelverk/spk-loven/merknader/alderspensjon-afp.md` |
 | AFP i hovedtariffavtalen i staten | `regelverk/hovedtariffavtalen/VEIVISER.md` |
 | alderspensjon fra Statens pensjonskasse | `regelverk/spk-loven/VEIVISER.md` |
 | samordning med folketrygden | `regelverk/samordningsloven/VEIVISER.md` |

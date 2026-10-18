@@ -6,8 +6,7 @@ Loven forvaltes av Arbeids- og inkluderingsdepartementet.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Lønnsgarantiloven har ingen egen merknadsfil. Bruk `regelverk/permitteringslonnsloven/merknader/generelt.md`, som dekker begge lovene.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
@@ -15,13 +14,12 @@ Lønnsgarantiloven har ingen egen merknadsfil. Bruk `regelverk/permitteringslonn
 - **Garantien bygger på dekningsloven.** Kravene dekkes i den utstrekning de har fortrinnsrett etter dekningsloven kapittel 9, med begrensningene i § 1 tredje ledd. Dekningsloven og konkursloven er ikke i basen. Si fra når spørsmålet gjelder hvilke krav som har fortrinnsrett.
 - **Beløpsgrensen er knyttet til grunnbeløpet.** Garantien er begrenset til to ganger folketrygdens grunnbeløp på fristdagen (§ 1 tredje ledd nr. 1). Oppgi ikke et kronebeløp fra hukommelsen. Gjeldende G finnes via `regelverk/folketrygdloven/VEIVISER.md`.
 - **Feriepenger dekkes innenfor egne grenser.** Garantien omfatter feriepenger (§ 1 andre ledd), men bare feriepenger opptjent i året for fristdagen og året før (§ 1 tredje ledd nr. 3). Opptjeningen følger ferieloven, se `regelverk/ferieloven/VEIVISER.md`.
-- **Sjekk forskriften.** Søknadsfrister og saksbehandling står i forskrift om statsgaranti for lønnskrav ved konkurs (bl.a. kapittel 3 om søknad og § 3-4 om søknadsfrister), ikke i loven.
+- **Sjekk forskriften.** Søknadsfrister og saksbehandling står i forskrift om statsgaranti for lønnskrav ved konkurs (bl.a. kapittel 3 om søknad og § 3-4 om søknadsfrister), ikke i loven. NAV Lønnsgarantis retningslinjer og Arbeids- og velferdsdirektoratets rundskriv er ikke i basen.
 
 ## Merknader og andre kilder
 
 | Tema | Les |
 |---|---|
-| lønnsgaranti, beløpsgrenser, hva som ikke er dekket | `regelverk/permitteringslonnsloven/merknader/generelt.md` |
 | lønnsplikt under permittering | `regelverk/permitteringslonnsloven/VEIVISER.md` |
 | feriepenger | `regelverk/ferieloven/VEIVISER.md` |
 | grunnbeløpet | `regelverk/folketrygdloven/VEIVISER.md` |

@@ -4,16 +4,17 @@ Loven regulerer tjenestepensjon for statsansatte og andre medlemmer av Statens p
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Merknadene er delt i to filer: alderspensjon (kap. 1–5 b og 8) og uføre- og familiepensjon (kap. 6–7).
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+SPKs praksis og departementets tolkningsuttalelser er ikke i basen. Det er heller ikke privat AFP og AFP-tilskottsloven, pensjonsordningene for sykepleiere og for apotekvirksomhet, kommunale og fylkeskommunale tjenestepensjonsordninger (KLP m.fl.), pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer, høyesterettspensjonsloven, yrkesskadeforsikringsloven, obligatorisk tjenestepensjon og foretaks- og innskuddspensjon. Flere av dem nevnes i paragrafene.
 
 ## Kjente feller
 
+- **Eldre fremstillinger er ofte utdaterte.** Reglene er lagt om i flere runder: påslagspensjon og ny AFP for årskull fra 1963, tidligpensjon og særalderspåslag ved særaldersgrense, og ny uførepensjon fra 2015. Etterlatteytelsene i folketrygden ble lagt om fra 2024.
 - **Fødselsår avgjør regelsettet. Avklar det først.** Kapittel 5 (bruttopensjon) gjelder medlemmer født i 1962 eller tidligere (§ 20 a). Kapittel 5 a (påslagspensjon) gjelder medlemmer født i 1963 eller senere (§ 26 a), og det samme gjør kapittel 5 b om tidligpensjon og særalderspåslag ved særaldersgrense (§ 26 m). Et svar fra feil kapittel blir galt selv om begrepene ligner.
-- **Ytelsene samordnes med folketrygden.** Etter § 4 samordnes ytelsene etter samordningsloven. Bruttopensjonen til de eldre årskullene reduseres mot alderspensjon fra folketrygden, og garantien i § 24 b andre ledd bygger på samordnet pensjon. Si fra når svaret avhenger av samordning, og se `regelverk/samordningsloven/VEIVISER.md`.
+- **Ytelsene samordnes med folketrygden.** Etter § 4 samordnes ytelsene etter samordningsloven. Bruttopensjonen til de eldre årskullene reduseres mot alderspensjon fra folketrygden, og garantien i § 24 b andre ledd bygger på samordnet pensjon. Si fra når svaret avhenger av samordning, og se `regelverk/samordningsloven/VEIVISER.md`. Spørsmål som «hva får jeg i pensjon som statsansatt» eller «hva skjer med pensjonen hvis jeg blir ufør» krever nesten alltid både SPK-loven og folketrygdloven, og ofte samordningsloven.
 - **Aldersgrense og pensjonsrett er to spørsmål.** Plikten til å fratre og særaldersgrensene står i aldersgrenseloven § 2. Retten til pensjon ved fratreden står her, se § 21 første og andre ledd (kap. 5) og kapittel 5 b fra § 26 m. Svar på begge sider når spørsmålet gjelder å gå av tidlig, og se `regelverk/aldersgrenseloven/VEIVISER.md`.
 - **AFP står i egen lov og forutsetter tariffavtale.** Retten til alderspensjon fra 65 år etter § 21 tredje ledd forutsetter tariffavtale der staten er part eller tariffavtale godkjent av departementet. Offentlig AFP står i AFP-loven, se `regelverk/afp-loven/VEIVISER.md`. AFP i staten er regulert i hovedtariffavtalen i staten punkt 4.2 og 4.3, se `regelverk/hovedtariffavtalen/VEIVISER.md`.
-- **Uførepensjonen følger folketrygdens vedtak.** Et medlem med arbeidsavklaringspenger får midlertidig uførepensjon, og et medlem med uføretrygd får uførepensjon (§ 27 andre ledd). Graden settes normalt lik graden i folketrygden (§ 27 tredje ledd). Vilkårene i folketrygden står i `regelverk/folketrygdloven/VEIVISER.md`.
+- **Uførepensjonen følger folketrygdens vedtak.** Et medlem med arbeidsavklaringspenger får midlertidig uførepensjon, og et medlem med uføretrygd får uførepensjon (§ 27 andre ledd). Graden settes normalt lik graden i folketrygden (§ 27 tredje ledd). Vilkårene i folketrygden står i `regelverk/folketrygdloven/VEIVISER.md`. SPK-loven har ingen egne yrkesskaderegler. Samordning av personskadetrygd står i samordningsloven.
 - **Uførepensjon innvilget før 2015 har egne regler.** Forskrift om overgangsregler for uførepensjon gjelder når uførepensjonen er innvilget med virkningstidspunkt før 1. januar 2015 (forskriften § 1). Avklar tidspunktet før du svarer.
 - **Reduksjon av uførepensjon har to spor.** Reduksjon mot inntekt står i § 29 med egen forskrift om reduksjon og etteroppgjør. Reduksjon mot ytelser fra folketrygden skjer etter samordningsloven (§ 4).
 - **Basen kan ikke beregne en konkret pensjon.** Beregningen krever opptjeningsdata, grunnbeløp og forholdstall eller delingstall (se f.eks. § 26 c andre ledd). Vis til SPKs beregningstjenester for tall.
@@ -22,12 +23,12 @@ Merknadene er delt i to filer: alderspensjon (kap. 1–5 b og 8) og uføre- og f
 
 | Tema | Les |
 |---|---|
-| alderspensjon, påslagspensjon, særaldersgrense, oppsatt pensjon, vartpenger, medlemskap | `regelverk/spk-loven/merknader/alderspensjon-afp.md` |
-| uførepensjon, midlertidig uførepensjon, enke- og enkemannspensjon, barnepensjon | `regelverk/spk-loven/merknader/ufore-familiepensjon.md` |
 | samordning med folketrygden | `regelverk/samordningsloven/VEIVISER.md` |
 | offentlig AFP i staten | `regelverk/afp-loven/VEIVISER.md` |
 | aldersgrenser og plikt til å fratre | `regelverk/aldersgrenseloven/VEIVISER.md` |
 | alderspensjon, uføretrygd og etterlatteytelser fra folketrygden | `regelverk/folketrygdloven/VEIVISER.md` |
+| AFP i staten (tariffavtale, punkt 4.2 og 4.3) | `regelverk/hovedtariffavtalen/VEIVISER.md` |
+| stillingsvern og fratreden for statsansatte | `regelverk/statsansatteloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
@@ -338,12 +339,4 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 
 - **Direktiv 2006/54** (Likebehandlingsdirektivet (kjønn i arbeidslivet)) – i basen: `regelverk/eu/direktiv-2006-54/VEIVISER.md`. Nevnt i `lov/par-34.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Statens pensjonskasse – alderspensjon, AFP og aldersgrenser – `merknader/alderspensjon-afp.md`
-- Statens pensjonskasse – uførepensjon og familiepensjon – `merknader/ufore-familiepensjon.md`
 <!-- AUTO-SLUTT -->

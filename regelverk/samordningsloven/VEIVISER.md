@@ -4,8 +4,8 @@ Loven regulerer hvordan pensjoner og trygdeytelser som en person får samtidig f
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-De fleste detaljreglene står i forskriftene. Sjekk alltid årstall og virkeområde i forskriftsteksten før du bruker den.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+De fleste detaljreglene står i forskriftene. Sjekk alltid årstall og virkeområde i forskriftsteksten før du bruker den. Hvilke andre pensjonsordninger som ikke er i basen, og hvordan statspensjonen henger sammen med folketrygden, står i `regelverk/spk-loven/VEIVISER.md`.
 
 ## Kjente feller
 
@@ -18,9 +18,7 @@ De fleste detaljreglene står i forskriftene. Sjekk alltid årstall og virkeomr�
 
 | Tema | Les |
 |---|---|
-| samordning av tjenestepensjon, personskadetrygd og folketrygd | `regelverk/samordningsloven/merknader/generelt.md` |
-| alderspensjon fra Statens pensjonskasse | `regelverk/spk-loven/merknader/alderspensjon-afp.md` |
-| uføre- og familiepensjon fra Statens pensjonskasse | `regelverk/spk-loven/merknader/ufore-familiepensjon.md` |
+| pensjon fra Statens pensjonskasse | `regelverk/spk-loven/VEIVISER.md` |
 | ytelser fra folketrygden | `regelverk/folketrygdloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
@@ -407,11 +405,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 2. Samordningsgaranti – `forskrifter/samordningsgaranti-innforing-2023/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/samordningsgaranti-innforing-2023/par-3.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Samordningsloven – samordning av pensjons- og trygdeytelser – `merknader/generelt.md`
 <!-- AUTO-SLUTT -->

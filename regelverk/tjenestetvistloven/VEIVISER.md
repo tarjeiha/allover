@@ -6,8 +6,7 @@ Loven forvaltes av Digitaliserings- og forvaltningsdepartementet, ikke Arbeids- 
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Tjenestetvistloven har ingen egen merknadsfil. Bruk `regelverk/arbeidstvistloven/merknader/generelt.md`, som dekker begge lovene.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
@@ -20,7 +19,7 @@ Tjenestetvistloven har ingen egen merknadsfil. Bruk `regelverk/arbeidstvistloven
 
 | Tema | Les |
 |---|---|
-| sektor, interessetvist og rettstvist, hva som ikke er dekket | `regelverk/arbeidstvistloven/merknader/generelt.md` |
+| hovedavtalene, tvungen lønnsnemnd og hva som ikke er i basen | `regelverk/arbeidstvistloven/VEIVISER.md` |
 | streik og tariffavtaler i privat og kommunal sektor | `regelverk/arbeidstvistloven/VEIVISER.md` |
 | lønn og arbeidsvilkår etter tariffavtalen i staten | `regelverk/hovedtariffavtalen/VEIVISER.md` |
 

@@ -2,11 +2,11 @@
 
 Integreringsloven regulerer tidlig kvalifisering, introduksjonsprogram og introduksjonsstønad, opplæring i norsk og samfunnskunnskap og kommunens og fylkeskommunens ansvar. Integreringsforskriften utfyller det meste av loven. Tre læreplanforskrifter fastsetter innholdet i opplæringen, og egne overgangsregler gjelder kapittel 6A og § 20 fjerde ledd.
 
-Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Rundskriv og veiledning fra IMDi og departementet ligger ikke i basen.
+Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Rundskriv og veiledning fra IMDi og departementet, veiledninger til læreplanene, prøveinstrukser og HK-dirs fortolkninger ligger ikke i basen. Opplæringsloven er heller ikke i basen.
 
 ## Slik bruker du veiviseren
 
-Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
@@ -23,8 +23,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 | Tema | Les |
 |---|---|
-| Introduksjonsprogram, introduksjonsstønad, rett og plikt til opplæring, kapittel 6A | `merknader/rettigheter.md` |
-| Innholdet i opplæringen: læreplaner, språknivåer, kompetansemål, timetall | `merknader/opplaring.md` |
+| kvalifiseringsprogram | `regelverk/sosialtjenesteloven/VEIVISER.md` |
+| språkkrav og statsborgerprøve for statsborgerskap | `regelverk/statsborgerloven/VEIVISER.md` |
+| kollektiv beskyttelse (utlendingsloven § 34) | `regelverk/utlendingsloven/VEIVISER.md` |
+| bruk av tolk | `regelverk/tolkeloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
@@ -303,12 +305,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 1. Overgangsregler om integreringsloven kapittel 6A – `forskrifter/overgangsregler-ukraina-kap6a/par-1.md`
 
-## Andre kilder
-
-Dette er ikke lov- eller forskriftstekst.
-
-### Merknader
-
-- Integreringsloven – opplæringsinnhold – `merknader/opplaring.md`
-- Integreringsloven – rettigheter og program – `merknader/rettigheter.md`
 <!-- AUTO-SLUTT -->
