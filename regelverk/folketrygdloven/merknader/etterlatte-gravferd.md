@@ -76,6 +76,8 @@ Les hele referansekjeden innenfor det skillen faktisk dekker før du trekker en 
 
 **Rundskriv:** NAVs rundskriv til dette området ligger i `regelverk/folketrygdloven/rundskriv/rundskriv-r07-00/`, `regelverk/folketrygdloven/rundskriv/rundskriv-r16-00/`, `regelverk/folketrygdloven/rundskriv/rundskriv-r17-00/`, `regelverk/folketrygdloven/rundskriv/rundskriv-r18-00/` (innledning, `oversikt.md` og én fil per paragraf der rundskrivet er delt, lagt inn 2026-10-17 fra Lovdata). Rundskriv er forvaltningspraksis, ikke lov. Skill i svaret mellom lovtekst og det NAV legger til grunn, og si hvilket rundskriv svaret bygger på. Rundskrivene kan være eldre enn lovteksten: sjekk datoen i toppen av rundskrivfilen, og vær særlig forsiktig med satser og beløp (for eksempel står gravferdssatsen fra 2018 i rundskriv R07-00). Er paragrafen opphevet eller endret etter rundskrivets dato, gjelder lovteksten.
 
+**Egenandel ved båretransport:** rundskriv R07-00 er ikke internt konsekvent. Egenandelen er 10 prosent av full gravferdsstønad. Innledningen og kommentaren til § 7-2 oppgir 2 334 kroner (10 prosent av 23 337, fra 2018), mens kommentaren til § 7-3 fortsatt har 1 795 kroner, som er en eldre sats. Bruk 10 prosent av gjeldende gravferdsstønad, og si fra at beløpene i rundskrivet er fra 2018.
+
 **Satser og beløp:** de fleste satsene i folketrygden er knyttet til grunnbeløpet, som fastsettes årlig. Grunnbeløpsforskriften ligger i `regelverk/folketrygdloven/forskrifter/grunnbelop-og-satser/`. Oppgi aldri kronebeløp du ikke finner i en kildefil.
 
 Bruk formuleringen «ingen bestemmelse funnet i gjennomgått materiale» framfor «finnes ikke».
