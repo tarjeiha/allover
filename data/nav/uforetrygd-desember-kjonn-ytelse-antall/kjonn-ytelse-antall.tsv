@@ -1,0 +1,27 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-kjonn-og-ytelse.pr.31.12.2016-2025.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: 1) Personer med minsteytelse. Minste årlige ytelse: 2,48 G og fra 1.juli 2024: 2,329 ganger folketrygdens grunnbeløp for enslige uføre.2,28 G og fra 1.juli 2024: 2,529 ganger folketrygdens grunnbeløp for uføre som bor sammen med ektefelle eller samboer. Minste årlige ytelse er 2,379 ganger grunnbeløpet dersom vedkommende mottar en uføretrygd som er en omregnet uførepensjon. (Fra 1. september 2016 2,33 ganger folketrygdens grunnbeløp).
+# Merknad: Tallene for minsteytelse for 2015-2017 er rettet og oppdatert
+# Merknad: 2) Uføretrygdet med gjenlevendetillegg
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.	I alt	318244	325875	339245	352197	357563	360943	364437	366627	373036	374918
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.	Med forsørgingstillegg for ektefelle	533	390	280	203	148	119	91	75	59	-
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.	Med forsørgingstillegg for barn	21173	23681	25069	27272	26574	27809	28727	29535	29005	29178
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.	Minsteytelse 1)	70539	72907	76867	81936	84733	86309	88431	90246	97522	99419
+Mottakere av uføretrygd, etter kjønn og ytelse. Pr. 31.12.2016-2025. Antall.	Gjenlevendetillegg 2)	6399	6095	5860	5699	5438	5214	4961	4699	4066	3433
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Kvinner	I alt	184660	189318	197637	205470	208684	211063	213383	215078	219161	220529
+Kvinner	Med forsørgingstillegg for ektefelle	41	35	25	20	14	11	9	9	7	-
+Kvinner	Med forsørgingstillegg for barn	11372	12863	14088	15551	15517	16356	17008	17741	17714	17884
+Kvinner	Minsteytelse 1)	51888	52998	55021	57820	59097	59785	60725	61626	66476	67446
+Kvinner	Gjenlevendetillegg 2)	6022	5719	5481	5341	5094	4886	4647	4379	3790	3199
+gruppe	rad	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025
+Menn	I alt	133584	136557	141608	146727	148879	149880	151054	151549	153875	154389
+Menn	Med forsørgingstillegg for ektefelle	492	355	255	183	134	108	82	66	52	-
+Menn	Med forsørgingstillegg for barn	9801	10818	10981	11721	11057	11453	11719	11794	11291	11294
+Menn	Minsteytelse 1)	18651	19909	21846	24116	25636	26524	27706	28620	31046	31973
+Menn	Gjenlevendetillegg 2)	377	376	379	358	344	328	314	320	276	234

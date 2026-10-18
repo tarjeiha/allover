@@ -26,10 +26,11 @@ Hvem som eier kvaliteten: Nav, SSB og Eurostat eier tallene. Svaret skal alltid 
 | Hva er sykefraværet? | Nav `sykefravar-tidsserie-kvartal/sykefravaersprosent.tsv` (legemeldt). SSB 12439 inkluderer egenmeldt | Sammenlign samme kvartal på tvers av år. |
 | Sykefravær i en næring/sektor/yrke/aldersgruppe/diagnose? | Nav `sykefravar-naering/`, `-sektor/`, `-yrke/`, `-alder/`, `-diagnose-hovedgrupper/` | Alle kvartaler i samme fil, kolonnen `kvartal`. |
 | Hvor mange er sykmeldte? | Nav `sykefravar-tidsserie-kvartal/antall-sykmeldte.tsv` | Unike personer i kvartalet. |
-| Hvor mange er på AAP? | Nav `aap-alder-kjonn-kvartal/1a-alder-i-alt-antall.tsv` (juni, 2010–), `aap-alder-kjonn-maaned/` (siste måneder) | |
-| Hvor mange er uføre? | Nav `uforetrygd-uforegrad-kjonn-maaned/antall.tsv` | |
+| Hvor mange er på AAP? | Nav `aap-alder-kjonn-desember/1a-alder-i-alt-antall.tsv` (desember, 2010–2025), `aap-alder-kjonn-kvartal/` (siste kvartal), `aap-alder-kjonn-maaned/` (siste måneder) | Si hvilken måned tallet gjelder. |
+| Hvor mange er uføre? | Nav `uforetrygd-uforegrad-kjonn-maaned/antall.tsv` (siste måneder) | |
+| Hvordan har antall uføre utviklet seg? | Nav `uforetrygd-desember-kjonn-alder-antall/` (31.12 2016–2025), før 2016 `stonadsmottakere-2007-2016/` | Andel av befolkningen: `uforetrygd-desember-andel-kjonn-alder-prosent/`, aldersstandardisert per fylke: `uforetrygd-desember-andel-fylke-kjonn-aldersstandardisert-prosent/`. |
 | Hvor stor andel er uføre i mitt fylke? | Nav `uforetrygd-andel-fylke-alder-kvartal/fylke-og-alder.tsv` | Andel av befolkningen 18–67 år. |
-| Hvor mange blir nye uføretrygdede? | Nav `uforetrygd-nye-*-maaned/` | |
+| Hvor mange blir nye uføretrygdede? | Nav `uforetrygd-desember-nye-kjonn-alder-antall/` (per år 2016–2025), `uforetrygd-desember-avgang-kjonn-alder-antall/` (avgang), `uforetrygd-nye-*-maaned/` (inneværende år) | |
 | Hvor mange får alderspensjon? | Nav `alderspensjon-kjonn-alder-fylke/1-alder.tsv` (rad `I alt`, juni hvert år fra 2016) | Stand i juni. |
 | Hvor mange nye alderspensjonister kommer det? | Nav `alderspensjon-nye-kjonn-alder/` | Kvartalstall. |
 | Hvor mange tar ut gradert alderspensjon? | Nav `alderspensjon-gradert-tidsserie/1-antall-grad.tsv` | |

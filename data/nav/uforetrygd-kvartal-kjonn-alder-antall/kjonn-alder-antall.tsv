@@ -1,0 +1,88 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-kjonn-og-alder.pr.30.06.2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	I alt	321837	332084	346825	357505	360652	362766	366323	369803	374803	378502
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	18-19	1326	1422	1424	1432	1419	1386	1484	1589	1701	1692
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	20-24	5391	5877	6502	7109	6990	6989	6762	6796	6867	7041
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	25-29	8241	9580	11158	12305	12792	13235	13502	13698	13873	13557
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	30-34	10498	11706	13579	15353	16568	17664	18861	19620	20116	20633
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	35-39	14521	16005	17907	19362	20042	20871	21786	22779	24149	25461
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	40-44	22869	23415	24846	25784	26188	26697	27685	28215	28948	29733
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	45-49	35373	36890	38404	39291	38574	37696	36890	36733	36731	37057
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	50-54	47800	49852	52517	54191	54291	54042	53890	53230	52929	51860
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	55-59	60006	61122	62995	64904	66512	67764	68867	70230	70918	71240
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	60-64	79102	79383	80373	80762	79906	79626	79900	80197	81744	83680
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	65-67	36703	36827	37111	37003	37353	36735	36669	36714	36825	36548
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Antall.	Uoppgitt	7	5	9	9	17	61	27	2	2	-
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner.	Kvinner i alt	186861	193118	202254	208693	210580	212237	214722	217045	220392	222863
+Kvinner.	18-19	511	543	550	558	563	533	579	619	668	696
+Kvinner.	20-24	2192	2415	2703	3000	2926	2920	2847	2864	2895	2948
+Kvinner.	25-29	3809	4472	5383	5979	6245	6501	6660	6772	6868	6708
+Kvinner.	30-34	5353	6089	7170	8237	8889	9461	10047	10517	10727	11030
+Kvinner.	35-39	7896	8793	9996	10923	11333	11919	12547	13022	13887	14603
+Kvinner.	40-44	13400	13845	14822	15383	15553	15815	16307	16656	17090	17637
+Kvinner.	45-49	21312	22200	23313	23902	23498	23084	22766	22585	22466	22525
+Kvinner.	50-54	28562	29858	31561	32721	33061	33150	33027	32796	32703	32137
+Kvinner.	55-59	35418	36172	37315	38542	39441	40384	41298	42340	43193	43727
+Kvinner.	60-64	46691	46846	47443	47484	46930	46759	47063	47270	48298	49465
+Kvinner.	65-67	21715	21884	21993	21960	22135	21685	21569	21604	21597	21387
+Kvinner.	Uoppgitt	2	1	5	4	6	26	12	-	-	-
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn.	Menn i alt	134976	138966	144571	148812	150072	150529	151601	152758	154411	155639
+Menn.	18-19	815	879	874	874	856	853	905	970	1033	996
+Menn.	20-24	3199	3462	3799	4109	4064	4069	3915	3932	3972	4093
+Menn.	25-29	4432	5108	5775	6326	6547	6734	6842	6926	7005	6849
+Menn.	30-34	5145	5617	6409	7116	7679	8203	8814	9103	9389	9603
+Menn.	35-39	6625	7212	7911	8439	8709	8952	9239	9757	10262	10858
+Menn.	40-44	9469	9570	10024	10401	10635	10882	11378	11559	11858	12096
+Menn.	45-49	14061	14690	15091	15389	15076	14612	14124	14148	14265	14532
+Menn.	50-54	19238	19994	20956	21470	21230	20892	20863	20434	20226	19723
+Menn.	55-59	24588	24950	25680	26362	27071	27380	27569	27890	27725	27513
+Menn.	60-64	32411	32537	32930	33278	32976	32867	32837	32927	33446	34215
+Menn.	65-67	14988	14943	15118	15043	15218	15050	15100	15110	15228	15161
+Menn.	Uoppgitt	5	4	4	5	11	35	15	2	2	-
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	18-19	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.4
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	20-24	1.7	1.8	1.9	2.0	1.9	1.9	1.8	1.8	1.8	1.9
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	25-29	2.6	2.9	3.2	3.4	3.5	3.6	3.7	3.7	3.7	3.6
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	30-34	3.3	3.5	3.9	4.3	4.6	4.9	5.1	5.3	5.4	5.5
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	35-39	4.5	4.8	5.2	5.4	5.6	5.8	5.9	6.2	6.4	6.7
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	40-44	7.1	7.1	7.2	7.2	7.3	7.4	7.6	7.6	7.7	7.9
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	45-49	11.0	11.1	11.1	11.0	10.7	10.4	10.1	9.9	9.8	9.8
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	50-54	14.9	15.0	15.1	15.2	15.1	14.9	14.7	14.4	14.1	13.7
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	55-59	18.6	18.4	18.2	18.2	18.4	18.7	18.8	19.0	18.9	18.8
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	60-64	24.6	23.9	23.2	22.6	22.2	21.9	21.8	21.7	21.8	22.1
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	65-67	11.4	11.1	10.7	10.4	10.4	10.1	10.0	9.9	9.8	9.7
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	Uoppgitt	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	Kvinner i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	18-19	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	20-24	1.2	1.3	1.3	1.4	1.4	1.4	1.3	1.3	1.3	1.3
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	25-29	2.0	2.3	2.7	2.9	3.0	3.1	3.1	3.1	3.1	3.0
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	30-34	2.9	3.2	3.5	3.9	4.2	4.5	4.7	4.8	4.9	4.9
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	35-39	4.2	4.6	4.9	5.2	5.4	5.6	5.8	6.0	6.3	6.6
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	40-44	7.2	7.2	7.3	7.4	7.4	7.5	7.6	7.7	7.8	7.9
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	45-49	11.4	11.5	11.5	11.5	11.2	10.9	10.6	10.4	10.2	10.1
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	50-54	15.3	15.5	15.6	15.7	15.7	15.6	15.4	15.1	14.8	14.4
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	55-59	19.0	18.7	18.4	18.5	18.7	19.0	19.2	19.5	19.6	19.6
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	60-64	25.0	24.3	23.5	22.8	22.3	22.0	21.9	21.8	21.9	22.2
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	65-67	11.6	11.3	10.9	10.5	10.5	10.2	10.0	10.0	9.8	9.6
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	Uoppgitt	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-	-	-
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	Menn i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	18-19	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.7	0.6
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	20-24	2.4	2.5	2.6	2.8	2.7	2.7	2.6	2.6	2.6	2.6
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	25-29	3.3	3.7	4.0	4.3	4.4	4.5	4.5	4.5	4.5	4.4
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	30-34	3.8	4.0	4.4	4.8	5.1	5.4	5.8	6.0	6.1	6.2
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	35-39	4.9	5.2	5.5	5.7	5.8	5.9	6.1	6.4	6.6	7.0
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	40-44	7.0	6.9	6.9	7.0	7.1	7.2	7.5	7.6	7.7	7.8
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	45-49	10.4	10.6	10.4	10.3	10.0	9.7	9.3	9.3	9.2	9.3
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	50-54	14.3	14.4	14.5	14.4	14.1	13.9	13.8	13.4	13.1	12.7
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	55-59	18.2	18.0	17.8	17.7	18.0	18.2	18.2	18.3	18.0	17.7
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	60-64	24.0	23.4	22.8	22.4	22.0	21.8	21.7	21.6	21.7	22.0
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	65-67	11.1	10.8	10.5	10.1	10.1	10.0	10.0	9.9	9.9	9.7
+Mottakere av uføretrygd, etter kjønn og alder. Pr. 30.06.2017-2026. Prosent.	Uoppgitt	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-

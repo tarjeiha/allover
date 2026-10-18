@@ -1,0 +1,63 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-mottakere-av-uforetrygd-etter-fylke-og-uforegrad.1.halvar-2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *)Uføremottakere med uoppgitt uføregrad er inkl blant "Uføregrad 100"
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	I alt	16010	18146	19445	17278	14930	14244	13738	15215	13840	15720
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	03 Oslo - Oslove	1430	1686	2095	2174	1365	1664	1467	1481	1169	1534
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	11 Rogaland	1304	1545	1408	1267	1237	916	1050	1202	1205	1135
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	15 Møre og Romsdal	667	808	840	694	621	612	626	677	624	669
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	18 Nordland - Nordlánnda	1014	1093	1163	1043	889	694	634	718	752	935
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	31 Østfold	1238	1574	1040	876	847	753	796	827	943	1125
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	32 Akershus	1607	2029	1954	1786	1561	1431	1476	1509	1385	1733
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	33 Buskerud	833	951	1034	969	805	861	767	877	781	906
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	34 Innlandet	1188	1136	1552	1360	1350	1387	1220	1520	1223	1306
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	39 Vestfold	913	1028	983	824	746	663	652	796	644	718
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	40 Telemark	644	639	797	611	518	545	447	539	558	571
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	42 Agder	1086	1226	1524	1352	1093	992	919	978	1016	1201
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	46 Vestland	1625	1698	1780	1465	1307	1348	1426	1470	1200	1375
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	50 Trøndelag - Trööndelage	1357	1684	1856	1523	1553	1391	1341	1639	1427	1472
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	55 Troms - Romsa - Tromssa	530	432	865	655	506	484	449	450	498	488
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	56 Finnmark - Finnmárku - Finmarkku	281	391	356	350	272	276	233	214	156	228
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. halvår 2017-2026. Antall.	Bosatt i utlandet/Ukjent	293	226	198	329	260	227	235	318	259	324
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Uføregrad under 100.	I alt	3993	4631	5282	4559	3832	3645	3428	3495	3249	3614
+Uføregrad under 100.	03 Oslo - Oslove	270	336	477	452	265	381	288	238	219	265
+Uføregrad under 100.	11 Rogaland	319	389	368	319	311	205	250	247	267	264
+Uføregrad under 100.	15 Møre og Romsdal	177	245	271	200	176	191	204	180	182	203
+Uføregrad under 100.	18 Nordland - Nordlánnda	278	276	341	279	263	185	169	173	204	223
+Uføregrad under 100.	31 Østfold	249	366	218	222	179	193	178	178	194	193
+Uføregrad under 100.	32 Akershus	390	506	535	484	398	340	301	334	317	356
+Uføregrad under 100.	33 Buskerud	193	202	257	233	195	211	180	193	150	189
+Uføregrad under 100.	34 Innlandet	347	318	465	391	363	371	346	403	305	349
+Uføregrad under 100.	39 Vestfold	235	281	295	243	197	163	154	190	189	212
+Uføregrad under 100.	40 Telemark	162	188	236	180	157	162	132	145	125	138
+Uføregrad under 100.	42 Agder	279	311	432	349	302	267	278	253	248	301
+Uføregrad under 100.	46 Vestland	435	470	530	403	366	378	393	338	298	337
+Uføregrad under 100.	50 Trøndelag - Trööndelage	408	501	559	513	453	395	370	435	376	375
+Uføregrad under 100.	55 Troms - Romsa - Tromssa	159	134	219	173	121	125	113	121	113	124
+Uføregrad under 100.	56 Finnmark - Finnmárku - Finmarkku	61	86	56	79	64	60	53	43	32	50
+Uføregrad under 100.	Bosatt i utlandet/Ukjent	31	22	23	39	22	18	19	24	30	35
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Uføregrad 100 *).	I alt	12017	13515	14163	12719	11098	10599	10310	11720	10591	12106
+Uføregrad 100 *).	03 Oslo - Oslove	1160	1350	1618	1722	1100	1283	1179	1243	950	1269
+Uføregrad 100 *).	11 Rogaland	985	1156	1040	948	926	711	800	955	938	871
+Uføregrad 100 *).	15 Møre og Romsdal	490	563	569	494	445	421	422	497	442	466
+Uføregrad 100 *).	18 Nordland - Nordlánnda	736	817	822	764	626	509	465	545	548	712
+Uføregrad 100 *).	31 Østfold	989	1208	822	654	668	560	618	649	749	932
+Uføregrad 100 *).	32 Akershus	1217	1523	1419	1302	1163	1091	1175	1175	1068	1377
+Uføregrad 100 *).	33 Buskerud	640	749	777	736	610	650	587	684	631	717
+Uføregrad 100 *).	34 Innlandet	841	818	1087	969	987	1016	874	1117	918	957
+Uføregrad 100 *).	39 Vestfold	678	747	688	581	549	500	498	606	455	506
+Uføregrad 100 *).	40 Telemark	482	451	561	431	361	383	315	394	433	433
+Uføregrad 100 *).	42 Agder	807	915	1092	1003	791	725	641	725	768	900
+Uføregrad 100 *).	46 Vestland	1190	1228	1250	1062	941	970	1033	1132	902	1038
+Uføregrad 100 *).	50 Trøndelag - Trööndelage	949	1183	1297	1010	1100	996	971	1204	1051	1097
+Uføregrad 100 *).	55 Troms - Romsa - Tromssa	371	298	646	482	385	359	336	329	385	364
+Uføregrad 100 *).	56 Finnmark - Finnmárku - Finmarkku	220	305	300	271	208	216	180	171	124	178
+Uføregrad 100 *).	Bosatt i utlandet/Ukjent	262	204	175	290	238	209	216	294	229	289

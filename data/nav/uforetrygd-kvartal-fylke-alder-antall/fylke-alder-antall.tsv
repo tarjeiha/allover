@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-fylke-og-alder.pr.30.06.2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-10-18
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	I alt	18-29	30-39	40-44	45-49	50-54	55-59	60-64	65-67
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	I alt	378502	22290	46094	29733	37057	51860	71240	83680	36548
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	03 Oslo - Oslove	32327	1923	3606	2476	3322	4564	6086	7296	3054
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	11 Rogaland	29234	1915	3819	2497	3250	3855	5278	6034	2586
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	15 Møre og Romsdal	16588	992	2004	1350	1606	2255	3082	3581	1718
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	18 Nordland - Nordlánnda	19581	1004	2269	1452	1767	2542	3740	4677	2130
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	31 Østfold	27519	1631	3132	2045	2608	3923	5332	6201	2647
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	32 Akershus	37024	2296	4133	2760	3629	5034	7220	8389	3563
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	33 Buskerud	19413	1400	2461	1612	1991	2697	3500	4040	1712
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	34 Innlandet	33390	1811	4053	2508	3062	4616	6496	7569	3275
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	39 Vestfold	20335	1187	2610	1635	1946	2757	3723	4467	2010
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	40 Telemark	15615	869	1937	1272	1505	2147	2971	3461	1453
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	42 Agder	29115	1652	3820	2604	3077	4127	5322	5956	2557
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	46 Vestland	36982	2360	4756	3013	3646	5116	6793	7871	3427
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	50 Trøndelag - Trööndelage	34929	2252	4883	2741	3345	4545	6354	7494	3315
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	55 Troms - Romsa - Tromssa	11989	607	1389	818	1061	1698	2399	2773	1244
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	56 Finnmark - Finnmárku - Finmarkku	5649	286	677	394	435	780	1182	1317	578
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	98 Utland	7484	57	372	422	668	1016	1517	2272	1160
+Mottakere av uføretrygd, etter fylke og alder. Pr. 30.06.2026. Antall.	99 Uoppgitt	1328	48	173	134	139	188	245	282	119

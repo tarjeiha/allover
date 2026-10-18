@@ -1,0 +1,15 @@
+{
+ "_om": "Nav-sider med webtabeller (HTML-tabeller under /tabeller/) som hentes av verktoy/nav_webtabell.py. Hver tabell på siden legges i data/nav/<prefiks>-<navn>/. Arkivsider med fast periode endres ikke; når Nav legger ut et nytt arkiv (f.eks. per 31. desember 2017–2026), legges den nye siden til her.",
+ "sider": [
+  {
+   "side": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-31.desember-2016-2025",
+   "prefiks": "uforetrygd-desember",
+   "beskrivelse": "Uføretrygd per 31. desember 2016–2025 (nye mottakere og avgang: hele året, 1.–4. kvartal)."
+  },
+  {
+   "side": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd",
+   "prefiks": "uforetrygd-kvartal",
+   "beskrivelse": "Uføretrygd, siste kvartal (nye mottakere og avgang: hittil i året)."
+  }
+ ]
+}

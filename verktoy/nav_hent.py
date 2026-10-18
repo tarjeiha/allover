@@ -117,6 +117,9 @@ def main(tor=False):
             if t["kildeside"].startswith("ukjent"):
                 ukjente.append(f"{navn} (på {side})")
                 continue
+            if "arkiv" in side and t["kildeside"] != side:
+                # Arkivsider har også eldre utgaver av løpende tabeller. Bare tabeller som hører til arkivsiden hentes derfra.
+                continue
             try:
                 data = hent(url)
             except Exception as e:  # noqa: BLE001
