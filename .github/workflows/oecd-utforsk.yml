@@ -24,6 +24,24 @@ jobs:
                   print(f"{ag}|{id_}|{ver}|{name}")
           print("TOTALT", n)
           PY
-          if [ -s verktoy/oecd_utforsk.txt ]; then
-            while read -r u; do [ -z "$u" ] && continue; echo "=== $u"; curl -sL -m 60 "$u" | head -c 6000; echo; done < verktoy/oecd_utforsk.txt
-          fi
+          python3 - <<'PY2'
+          import csv, io, time, urllib.request, collections
+          for line in open('verktoy/oecd_utforsk.txt'):
+              f=line.strip()
+              if not f: continue
+              url=f"https://sdmx.oecd.org/public/rest/data/{f}/all?lastNObservations=1&format=csvfilewithlabels"
+              t=time.time()
+              try:
+                  raw=urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'allover'}),timeout=180).read()
+              except Exception as e:
+                  print("===",f,"FEIL",e); continue
+              rows=list(csv.DictReader(io.StringIO(raw.decode('utf-8-sig'))))
+              nor=[r for r in rows if r.get('REF_AREA')=='NOR']
+              cols=[c for c in (rows[0].keys() if rows else []) if c.isupper() and c not in ('STRUCTURE','STRUCTURE_ID','ACTION','OBS_VALUE','REF_AREA','TIME_PERIOD','OBS_STATUS','UNIT_MULT','DECIMALS','CONF_STATUS')]
+              print("===",f,f"{len(raw)//1024} kB {time.time()-t:.1f}s rader={len(rows)} NOR={len(nor)} land={len({r.get('REF_AREA') for r in rows})}")
+              print("  siste aar NOR:",collections.Counter(r['TIME_PERIOD'] for r in nor).most_common(4))
+              for c in cols:
+                  vals=collections.Counter(f"{r[c]}={r.get(next((k for k in r if k.lower()==c.lower() and k!=c), c),'')}" for r in nor)
+                  labels=collections.Counter()
+                  print(f"  {c}: {len(vals)} verdier", "; ".join(v for v,_ in vals.most_common(6))[:300])
+          PY2
