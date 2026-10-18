@@ -1,0 +1,48 @@
+name: Hent adresse (tunnel)
+
+# Manuell jobb som henter en adresse fra en tillatt vert og skriver svaret til loggen.
+# Brukes når Claude ikke selv når kilden (Eurostat, Nav, SSB, Lovdata). Lagrer ingenting i repoet.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Adressen som skal hentes (https, tillatt vert)"
+        required: true
+      maks_kb:
+        description: "Maks antall kB av svaret som skrives til loggen"
+        required: false
+        default: "200"
+      metode:
+        description: "GET eller HEAD"
+        required: false
+        default: "GET"
+
+permissions:
+  contents: read
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent
+        env:
+          URL: ${{ inputs.url }}
+          MAKS_KB: ${{ inputs.maks_kb }}
+          METODE: ${{ inputs.metode }}
+        run: |
+          set -u
+          host=$(printf '%s' "$URL" | sed -nE 's#^https://([^/:?]+)([:/?].*)?$#\1#p' | tr 'A-Z' 'a-z')
+          case "$host" in
+            ec.europa.eu|ec.europa.eu.*|www.nav.no|data.ssb.no|www.ssb.no|lovdata.no|api.lovdata.no|data.norge.no) ;;
+            *) echo "Verten '$host' er ikke tillatt."; exit 1 ;;
+          esac
+          case "$METODE" in GET|HEAD) ;; *) echo "Ugyldig metode"; exit 1 ;; esac
+          [[ "$MAKS_KB" =~ ^[0-9]+$ ]] || { echo "Ugyldig maks_kb"; exit 1; }
+          args=(-sL -m 60 -A "Mozilla/5.0 (regelverksbasen; tarjeiha/allover)" -D headers.txt -o svar.bin -w "%{http_code} %{content_type} %{size_download} %{url_effective}\n")
+          [ "$METODE" = HEAD ] && args+=(-I)
+          curl "${args[@]}" "$URL" | tee status.txt
+          echo "=== HODER"; cat headers.txt | head -40
+          echo "=== SVAR (opptil ${MAKS_KB} kB av $(wc -c < svar.bin) byte)"
+          head -c $((MAKS_KB * 1024)) svar.bin
+          echo
+          echo "=== SLUTT"
