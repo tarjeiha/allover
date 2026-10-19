@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.JAI,DSD_EPL@DF_EPL
 # Tabell: Stillingsvern: hvor strenge reglene er for oppsigelse og midlertidige ansettelser (0–6)
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Strictness of employment protection
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_EPL@DF_EPL/.NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD...?startPeriod=2005&format=csvfilewithlabels
 # FREQ (lik for alle rader): A=Annual

@@ -13,12 +13,15 @@ For hver tabell lages to filer:
   <fil>.tsv         én rad per serie (land og filterdimensjoner), én kolonne per periode
   <fil>.flagg.tsv   OECDs merking av tall som ikke er vanlige verdier (estimert, foreløpig, brudd m.fl.)
 Øverst i hver fil står kilde, tabell, spørring og koder med etiketter som #-linjer.
-Filene skrives bare på nytt når innholdet har endret seg.
+Filene skrives bare på nytt når innholdet har endret seg. Linjen «# Tall endret:» sier
+når det skjedde, og regnes ikke med når innholdet sammenlignes. OECDs SDMX-CSV har ingen
+publiseringsdato, så datoen er den nærmeste vi kommer.
 Tall skrives som OECD oppgir dem, bortsett fra at støy fra enkel presisjon (51.099998)
 rundes til 7 gjeldende siffer. Tom celle betyr at OECD ikke har tall.
 """
 import csv
 import io
+import datetime
 import json
 import re
 import sys
@@ -144,6 +147,20 @@ def til_tsv(t, url, dims, tekst, land):
     return "\n".join(tsv) + "\n", "\n".join(flagg_ut) + "\n", len(tsv) - len(hode_ut) - 1
 
 
+DATO = "# Tall endret: "
+
+
+def uten_dato(tekst):
+    return "".join(l for l in tekst.splitlines(keepends=True) if not l.startswith(DATO))
+
+
+def med_dato(tekst, dato):
+    """Setter inn datolinjen etter «# Tabell:»."""
+    linjer = tekst.splitlines(keepends=True)
+    linjer.insert(2, f"{DATO}{dato} (datoen den ukentlige hentingen sist fant endrede tall hos OECD)\n")
+    return "".join(linjer)
+
+
 def main():
     pakke = json.loads((MAPPE / "pakke.json").read_text(encoding="utf-8"))
     feil = 0
@@ -161,11 +178,12 @@ def main():
             feil += 1
             continue
         gammel = fil.read_text(encoding="utf-8") if fil.exists() else ""
-        if gammel == ny:
+        if uten_dato(gammel) == ny:
             print(f"uendret {t['fil']}")
             continue
-        fil.write_text(ny, encoding="utf-8")
-        (MAPPE / f"{t['fil']}.flagg.tsv").write_text(flagg, encoding="utf-8")
+        idag = datetime.date.today().isoformat()
+        fil.write_text(med_dato(ny, idag), encoding="utf-8")
+        (MAPPE / f"{t['fil']}.flagg.tsv").write_text(med_dato(flagg, idag), encoding="utf-8")
         print(f"skrev {t['fil']}: {n} serier")
     return 1 if feil else 0
 

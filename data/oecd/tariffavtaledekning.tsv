@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.SAE,DSD_TUD_CBC@DF_CBC
 # Tabell: Tariffavtaledekning: lønnstakere omfattet av tariffavtale i prosent
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Collective bargaining coverage
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_TUD_CBC@DF_CBC/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD..?startPeriod=2005&format=csvfilewithlabels
 # MEASURE (lik for alle rader): ERB=Employees with the right to bargain

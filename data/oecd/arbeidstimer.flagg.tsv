@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.SAE,DSD_HW@DF_AVG_ANN_HRS_WKD
 # Tabell: Gjennomsnittlig antall utførte arbeidstimer per sysselsatt per år
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Average annual hours actually worked per worker
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_HW@DF_AVG_ANN_HRS_WKD/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD............?startPeriod=2005&format=csvfilewithlabels
 # MEASURE (lik for alle rader): HW=Hours worked

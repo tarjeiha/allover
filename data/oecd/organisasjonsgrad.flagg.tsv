@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.SAE,DSD_TUD_CBC@DF_TUD
 # Tabell: Organisasjonsgrad: fagforeningsmedlemmer i prosent av lønnstakerne
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Trade union density
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_TUD_CBC@DF_TUD/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD..?startPeriod=2005&format=csvfilewithlabels
 # MEASURE (lik for alle rader): TUD=Trade union density

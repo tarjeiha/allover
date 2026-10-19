@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.JAI,DSD_TAXBEN_IA@DF_IA
 # Tabell: Nivå på minsteinntektsytelser (sosialhjelp) for modellhusholdninger uten arbeid
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Adequacy of minimum income benefits
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_TAXBEN_IA@DF_IA/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.......?startPeriod=2005&format=csvfilewithlabels
 # MEASURE (lik for alle rader): GMINISJF=Net annualised income of selected jobless families that claim minimum income benefits

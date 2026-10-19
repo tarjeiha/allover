@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR
 # Tabell: Netto kompensasjonsgrad ved arbeidsledighet for modellhusholdninger, etter varighet
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Net replacement rates in unemployment
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.....AW67+AW100._Z+NOEARN_UNEMP_WO_CONBEN.M2+M12+M60...?startPeriod=2005&format=csvfilewithlabels
 # MEASURE (lik for alle rader): NHIDU=Net household income during unemployment
