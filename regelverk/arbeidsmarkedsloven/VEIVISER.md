@@ -444,5 +444,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 5. Innhold – `forskrifter/pilot-oppfolging-vta/par-5.md`
 - § 6. Avgjørelsesmyndighet – `forskrifter/pilot-oppfolging-vta/par-6.md`
 - § 7. Ikrafttredelse – `forskrifter/pilot-oppfolging-vta/par-7.md`
-
 <!-- AUTO-SLUTT -->

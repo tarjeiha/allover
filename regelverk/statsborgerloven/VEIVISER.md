@@ -241,5 +241,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `forskrifter/statsborgerforskriften/utenfor-paragrafene.md`
-
 <!-- AUTO-SLUTT -->

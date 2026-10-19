@@ -169,5 +169,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 1. Elektronisk tilgang til opplysninger fra Arbeids- og velferdsetaten – `forskrifter/innkrevingsmyndigheten-tilgang/par-1.md`
 - § 2. Hvem kan gis elektronisk tilgang – `forskrifter/innkrevingsmyndigheten-tilgang/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/innkrevingsmyndigheten-tilgang/par-3.md`
-
 <!-- AUTO-SLUTT -->
