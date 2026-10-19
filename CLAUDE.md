@@ -14,7 +14,7 @@ Hent med `curl -sL <adresse>` i kodeverktøyet hvis du har det, ellers med nettl
 
 ## Slik finner du fram
 
-Repoet har tre deler. Lover, forskrifter, tariffavtaler og EU-rettsakter ligger under `regelverk/`, og resten av denne filen gjelder dem. Statsbudsjettet ligger under `budsjett/` (start i `budsjett/VEIVISER.md`), og en katalog over hvor tall og statistikk finnes ligger under `data/` (start i `data/VEIVISER.md`).
+Repoet har fire deler. Lover, forskrifter, tariffavtaler og EU-rettsakter ligger under `regelverk/`, og resten av denne filen gjelder dem. Statsbudsjettet ligger under `budsjett/` (start i `budsjett/VEIVISER.md`), og en katalog over hvor tall og statistikk finnes ligger under `data/` (start i `data/VEIVISER.md`). Stortingets anmodningsvedtak, spørsmål, interpellasjoner og representantforslag ligger under `stortinget/` (start i `stortinget/VEIVISER.md`, og bruk søkeskriptet der).
 
 Basen har tre nivåer. Gå ikke dypere enn nødvendig.
 
@@ -151,6 +151,7 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 | ny forvaltningslov, når den nye forvaltningsloven trer i kraft, endringer i saksbehandlingsreglene | Forvaltningsloven 2025 (ny lov, ikke i kraft) |
 | journalføring, arkivplikt, arkivere e-post, bevare dokumenter, kassasjon, slette arkiv, arkivdanning, Arkivverket | Arkivlova |
 | utredning av tiltak, konsekvensutredning, utredningsinstruksen, seks spørsmål i utredningsinstruksen, samfunnsøkonomisk analyse, høringsfrist for statlige tiltak | Utredningsinstruksen |
+| har Stortinget bedt regjeringen om noe, anmodningsvedtak, er det stilt spørsmål om et tema, spørsmål eller interpellasjon til en statsråd, representantforslag, hva skjedde med forslaget om X, har et parti foreslått noe, ble forslaget vedtatt eller nedstemt | Stortinget (`stortinget/VEIVISER.md`) |
 | nynorsk og bokmål i staten, språkkrav i offentlige dokumenter, klarspråk, målbruk, 25 prosent nynorsk, språkform i svar til innbyggere | Språklova |
 | diskriminering, likestilling, forskjellsbehandling på grunn av kjønn, etnisitet, religion, funksjonsnedsettelse, seksuell orientering eller alder, trakassering, seksuell trakassering, aktivitetsplikt, universell utforming, lik lønn for arbeid av lik verdi | Likestillings- og diskrimineringsloven |
 | Likestillings- og diskrimineringsombudet, Diskrimineringsnemnda, klage på diskriminering, oppreisning fra nemnda | Diskrimineringsombudsloven |
