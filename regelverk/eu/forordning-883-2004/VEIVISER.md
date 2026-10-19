@@ -12,6 +12,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **En forordning gjøres til norsk lov ved at en norsk lov viser til den.** Finn den norske bestemmelsen i listen «Norske regler som viser til rettsakten», og sjekk om den har tilpasninger.
 - **Koblingene til norsk regelverk er funnet automatisk** ved søk etter rettsaktnummeret. Norske regler kan gjennomføre rettsakten uten å nevne nummeret, så en tom liste betyr ikke at rettsakten mangler norsk gjennomføring.
 - **Teksten er på engelsk.** Når du forklarer på norsk, oversetter du selv. Si fra om det, og gjengi den originale ordlyden når presisjonen betyr noe.
+- **Navs EØS-rundskriv (R45-00).** Navs rundskriv til EØS-avtalens bestemmelser om trygd kommenterer forordningen og gjennomføringsforordningen på norsk. Start i `rundskriv/r45-00/oversikt.md`. Kapittel 1 er generelt (EØS-avtalen, definisjonene i artikkel 1, koordineringsprinsippene i artikkel 4–10), kapittel 2 gjelder lovvalg (avdeling II), og resten følger folketrygdlovens kapitler. Et rundskriv er ikke rettsaktstekst. Oppgi det med navn, og sjekk ordlyden i artikkelen. Rundskrivet sier også hva som er tatt inn i EØS-avtalen, for eksempel beslutninger og anbefalinger fra Den administrative kommisjon.
 - **Dagpenger.** Merknader om artiklene om dagpenger og om kontrollen mot folketrygdloven § 1-3 a står i `merknader/dagpenger.md`.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->

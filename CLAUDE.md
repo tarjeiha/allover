@@ -157,6 +157,7 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 | personvern, personopplysninger, GDPR, behandlingsgrunnlag, innsyn i egne opplysninger, sletting, personvernombud, avvik og brudd på personopplysningssikkerheten, Datatilsynet, kameraovervåking | Personopplysningsloven og personvernforordningen (EU) |
 | hovedtariffavtalen, HTA, lønn i staten, lønnstrinn, lokale forhandlinger, overtid i staten, ubekvem arbeidstid, beredskapsvakt, reisetid, velferdspermisjon, permisjon med lønn, ferie i staten, femte ferieuke, fellesbestemmelsene, særavtaler | Hovedtariffavtalen i staten |
 | EU-direktiv, EU-forordning, EØS-regler, hva sier direktivet, arbeidstidsdirektivet, vikarbyrådirektivet, utsendingsdirektivet, trygdeforordningen, fri bevegelighet for arbeidstakere | EU-rettsakter (`regelverk/eu/`) |
+| bor eller jobber i et annet EØS-land og trygd, EØS-rundskrivet, R45, lovvalg i EØS, eksport av ytelser, sammenlegging av trygdetid, attest A1, EØS-pensjon, Navs EØS-rundskriv | Trygdeforordningen med Navs rundskriv R45-00 (`regelverk/eu/forordning-883-2004/VEIVISER.md`) |
 
 ## Kjente regelverk som ikke er i basen
 
