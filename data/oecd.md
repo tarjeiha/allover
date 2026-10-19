@@ -35,7 +35,7 @@ Hver fil har én rad per land og filterkombinasjon og én kolonne per år. Øver
 - **Pensjon.** Kompensasjonsgraden i Pensions at a Glance er fremskrevet for en person som begynner å jobbe i dag og jobber hele karrieren. Den sier ikke hva dagens pensjonister får.
 - **SOCX ligger etter.** Siste år for Norge er 2021. Si hvilket år tallet gjelder.
 - **Sykefravær.** OECD måler fraværsuker per heltidsansatt lønnstaker per år. Nav måler tapte dagsverk som andel av avtalte dagsverk. Tallene kan ikke sammenlignes direkte.
-- **Overlapp med Eurostat og SSB.** Ledighet og sysselsetting finnes hos alle tre. Definisjonene er like (ILO), men tallene kan avvike på grunn av revisjoner og aldersgrupper. Si hvilken kilde du bruker.
+- **Overlapp med Eurostat og SSB.** Ledighet og sysselsetting finnes hos alle tre. Definisjonene er like (ILO), men tallene kan avvike på grunn av revisjoner og aldersgrupper. For Norge avviker OECDs ledighetstall fra Eurostats før 2025 (ledighet 15–24 år i 2019: 10,0 hos OECD og 11,7 hos Eurostat). Bruk Eurostat eller SSB for norske tidsserier og europeiske land, og OECD for land utenfor Europa. Bruk én kilde per sammenligning, og si hvilken.
 
 ## Slik henter du tall fra API-et
 
