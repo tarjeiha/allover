@@ -27,6 +27,22 @@ Feller:
 - **2027 er et forslag.** Satsene for 2027 er regjeringens forslag i Prop. 1 S (2026–2027), ikke vedtatt.
 - **Årsbeløp.** Satsene er per år. Prop. 1 S oppgir ofte satsen per måned (sats 1 for grunnstønad er 752 kroner per måned i 2027, altså 9 024 kroner per år).
 
+## Svar på budsjettspørsmål fra Stortinget (`budsjett/ÅR/sporsmal/RUNDE/`)
+
+Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Lastes opp som samledokumenter fra Finansdepartementets system via `innboks-budsjett/`. Foreløpig er bare AIDs svar til statsbudsjettet 2026 lagt inn.
+
+| Fil | Innhold |
+|---|---|
+| `sporsmal.tsv` | Ett svar per rad: parti, spørsmålsnummer, dato, kategori, departement, kapittel og post slik spørsmålet oppgir det, kapittelnumrene (`kapitler`, skilt med semikolon), undertittel, antall tabeller og filnavn. Start her og filtrer på `kapitler` eller søk i `undertittel`. |
+| `PARTI-NR.md` | Hele spørsmålet og svaret, med tabellene som Markdown-tabeller. |
+
+Feller:
+
+- **Nummeret gjelder per parti.** Høyre og Rødt kan begge ha et spørsmål nr. 1. Oppgi alltid parti og nummer, for eksempel «svar på spørsmål nr. 1014 fra Høyre til statsbudsjettet 2026».
+- **Anslagene gjelder da svaret ble gitt.** Svarene bygger på forslaget og anslagene på svartidspunktet. Senere vedtak og nye anslag kan gi andre tall.
+- **Svarene er ikke regjeringens politikk.** De beregner virkningen av partienes egne forslag. Si at det er et svar på et spørsmål fra partiet.
+- **Kapittel og post er partiets egen angivelse** og kan være upresis («D», «1.1», «Generelt»). `kapitler` er tom når feltet ikke har et kapittelnummer.
+
 ## Stortingets vedtak (`budsjett/ÅR/stortinget/`)
 
 Hentes automatisk fra data.stortinget.no hver mandag (`verktoy/stortinget_budsjett.py`). Gjelder alle departementer, fra og med sesjonen 2021–2022. For 2021 er bare ny saldering med. Alle beløp gjelder budsjettåret i mappenavnet.
@@ -53,7 +69,7 @@ Feller:
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
 - **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
-- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
+- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, statsbudsjettet (297 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
 - **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
 - **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
 - **2023:** Prop. 1 S AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`)
