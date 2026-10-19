@@ -101,7 +101,8 @@ def velg_saker(saker):
     for s in saker:
         tittel = re.sub(r"\s+", " ", s.get("korttittel") or "")
         henv = s.get("henvisning") or ""
-        m = re.search(r"statsbudsjettet\s+(\d{4})", tittel, re.I)
+        # RNB-sakene for 2023 heter bare «Revidert nasjonalbudsjett 2023» og «Tilleggsbevilgninger og omprioriteringer 2023».
+        m = re.search(r"(?:statsbudsjettet|Revidert nasjonalbudsjett|omprioriteringer)\s+(\d{4})", tittel, re.I)
         if not m or re.search(r"Riksrevisjon|Svalbard", tittel):
             continue
         for nr, a, b in re.findall(r"Innst\. (\d+) S \((\d{4})-(\d{4})\)", henv):
@@ -110,7 +111,7 @@ def velg_saker(saker):
             aar = int(m.group(1))
             if aar == y1:
                 fase = "nysaldering"
-            elif re.search(r"Revidert nasjonalbudsjett|Tilleggsbevilgninger og omprioriteringer|Tilleggsløyvingar og omprioriteringar", tittel):
+            elif re.search(r"Revidert nasjonalbudsjett|Tilleggsbevilgninger og omprioriteringer", tittel):
                 fase = "rnb"
             elif re.match(r"(Statsbudsjettet|Endring av Prop\. 1 S|Finansinnstillingen)", tittel):
                 fase = "rammer" if int(nr) == 2 else "saldert"

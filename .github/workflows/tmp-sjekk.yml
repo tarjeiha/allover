@@ -2,19 +2,27 @@ name: tmp sjekk
 on:
   push:
     branches: [claude/project-thread-nbcnhe]
+permissions:
+  contents: write
 jobs:
   s:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/cache/restore@v4
+        with:
+          path: .cache/stortinget
+          key: stortinget-x
+          restore-keys: stortinget-
+      - run: python3 verktoy/stortinget_budsjett.py | tee "$RUNNER_TEMP/rapport.txt"
       - run: |
-          for s in 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026; do
-            curl -sL "https://data.stortinget.no/eksport/saker?sesjonid=$s&format=json" -o s.json
-            python3 - "$s" <<'P'
-          import json,sys,re
-          d=json.load(open("s.json"))
-          for x in d.get("saker_liste",[]):
-              t=re.sub(r"\s+"," ",x.get("korttittel") or ""); h=x.get("henvisning") or ""
-              if re.search(r"omprioriter|[Rr]evidert|nasjonalbudsjett|tilleggs",t+" "+(x.get("tittel") or "")):
-                  print(sys.argv[1], x["id"], "|", t, "|", h, "|", (x.get("komite") or {}).get("navn"))
-          P
-          done
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add budsjett
+          git diff --cached --stat | tail -15
+          git diff --cached --quiet && exit 0
+          { echo "Budsjettvedtak fra Stortinget: ny kjøring etter rettinger"; echo; cat "$RUNNER_TEMP/rapport.txt"; } > m.txt
+          git commit -q -F m.txt && git push
