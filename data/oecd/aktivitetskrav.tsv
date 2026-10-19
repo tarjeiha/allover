@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.JAI,DSD_TAXBEN_SBE@DF_SBE
 # Tabell: Hvor strenge aktivitets- og søkekravene er for mottakere av ytelser ved ledighet (1–5)
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Strictness of activation requirements for benefit recipients
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_TAXBEN_SBE@DF_SBE/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD....?startPeriod=2005&format=csvfilewithlabels
 # UNIT_MEASURE (lik for alle rader): 1_TO_5=1-5 scale

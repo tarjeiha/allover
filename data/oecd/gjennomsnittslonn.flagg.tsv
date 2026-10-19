@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE
 # Tabell: Gjennomsnittlig årslønn per heltidsekvivalent
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Average annual wages
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD......?startPeriod=2005&format=csvfilewithlabels
 # MEASURE (lik for alle rader): WG=Wages

@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG
 # Tabell: Sosiale utgifter etter formål og ytelse (SOCX), prosent av BNP
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Social expenditure aggregates
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD...PT_B1GQ.ES10+ES50._T+C+K..?startPeriod=2005&format=csvfilewithlabels
 # FREQ (lik for alle rader): A=Annual

@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.CTP.TPS,DSD_TAX_WAGES_COMP@DF_TW_COMP
 # Tabell: Skatt på arbeid (Taxing Wages): skattekile og netto lønn for modellhusholdninger
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Labour taxation – OECD comparative country indicators
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_WAGES_COMP@DF_TW_COMP/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.AV_TW+AV_RITEESSC+NIAT.....?startPeriod=2005&format=csvfilewithlabels
 # FREQ (lik for alle rader): A=Annual

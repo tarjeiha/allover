@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.IMD,DSD_MIG@DF_MIG_NUP_SEX
 # Tabell: Sysselsetting, ledighet og yrkesdeltakelse for innvandrere og innfødte, etter kjønn
+# Tall endret: 2026-10-18 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Labour market outcomes of immigrants - Employment, unemployment, and participation rates by sex
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.IMD,DSD_MIG@DF_MIG_NUP_SEX/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.......?startPeriod=2005&format=csvfilewithlabels
 # CITIZENSHIP (lik for alle rader): _Z=Not applicable

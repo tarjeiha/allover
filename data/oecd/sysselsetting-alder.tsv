@@ -1,5 +1,6 @@
 # Kilde: OECD, tabell OECD.ELS.SAE,DSD_LFS@DF_LFS_INDIC
 # Tabell: Sysselsetting, yrkesdeltakelse og ledighet etter kjønn og alder
+# Tall endret: 2026-10-19 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
 # OECD-tittel: Employment and unemployment by five-year age group and sex - indicators
 # Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_LFS@DF_LFS_INDIC/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD....Y15T24+Y25T54+Y55T64+Y15T64+Y20T64+Y15T74+Y65T69.?startPeriod=2005&format=csvfilewithlabels
 # REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
