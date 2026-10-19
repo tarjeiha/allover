@@ -28,7 +28,7 @@ jobs:
 
       - name: Legg inn på main
         run: |
-          { echo "Nav: pressemeldinger"; echo; cat nav-tekster-rapport.txt; } > "$RUNNER_TEMP/melding.txt"
+          { echo "Nav: pressemeldinger"; echo; cat nav-tekster-rapport.txt 2>/dev/null || echo "Skriptet stoppet før rapporten ble skrevet. Se loggen."; } > "$RUNNER_TEMP/melding.txt"
           rm -f nav-tekster-rapport.txt
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

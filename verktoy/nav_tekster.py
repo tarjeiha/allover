@@ -32,10 +32,8 @@ import urllib.request
 from html.parser import HTMLParser
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent))
-from nav_hent import UA  # noqa: E402
-
 ROT = Path(__file__).resolve().parent.parent
+UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
 TEKSTER = ROT / "data" / "nav" / "tekster"
 FRA = "2024-01-01"
 NAVNO = "https://www.nav.no"
