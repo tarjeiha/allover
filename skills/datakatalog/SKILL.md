@@ -1,6 +1,6 @@
 ---
 name: datakatalog
-description: Felles datakatalog for norsk statistikk og tall - SSB, Nav (sykefravær, dagpenger, AAP, uføretrygd, alderspensjon, helt ledige) Eurostat (sammenligning mellom Norge, Norden, Tyskland og EU) og OECD (arbeidsmarkedspolitikk, ytelsesnivå, pensjon, stillingsvern og skatt sammenlignet med andre land, også USA og Storbritannia). Bruk ved alle spørsmål om tall, statistikk, utvikling over tid eller sammenligning mellom land, også uten fagord, f.eks. «hvor mange er sykmeldt», «hvordan går det med ledigheten», «er Norge høyere enn Sverige». Last den før du henter tall, også når du skal bruke SSB-tilkoblingen. Svar ikke fra hukommelsen.
+description: Felles datakatalog for norsk statistikk og tall - SSB, Nav (sykefravær, dagpenger, AAP, uføretrygd, alderspensjon, helt ledige), Eurostat (sammenligning mellom Norge, Norden, Tyskland og EU) og OECD (arbeidsmarkedspolitikk, ytelsesnivå, pensjon, stillingsvern og skatt sammenlignet med andre land, også USA og Storbritannia). Bruk ved alle spørsmål om tall, statistikk, utvikling over tid eller sammenligning mellom land, også uten fagord, f.eks. «hvor mange er sykmeldt», «hvordan går det med ledigheten», «er Norge høyere enn Sverige». Last den før du henter tall, også når du skal bruke SSB-tilkoblingen. Svar ikke fra hukommelsen.
 ---
 
 # Datakatalogen
