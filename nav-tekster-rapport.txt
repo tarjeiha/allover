@@ -1,0 +1,4 @@
+Nav-tekster: 0 ny(e), 0 endret, 0 uendret, 1 utenfor, 1 feil
+
+Feil:
+- fant ingen pressemeldinger i sitemap.xml (har Nav endret oppbygningen?)
