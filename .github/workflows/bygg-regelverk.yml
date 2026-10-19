@@ -59,6 +59,15 @@ jobs:
             git push
           fi
 
+      - name: Oppsummer endringene
+        if: github.event_name != 'push'
+        run: |
+          git add -A
+          python3 verktoy/byggoppsummering.py --ut "$RUNNER_TEMP/endringer.md"
+          { echo "Automatisk bygget fra Lovdatas åpne datasett (NLOD 2.0)."; echo; cat "$RUNNER_TEMP/endringer.md"; } > "$RUNNER_TEMP/oppsummering.md"
+          cat "$RUNNER_TEMP/oppsummering.md" >> "$GITHUB_STEP_SUMMARY"
+          git reset -q
+
       - name: Foreslå oppdatering som pull request
         if: github.event_name != 'push'
         uses: peter-evans/create-pull-request@v7
@@ -66,8 +75,5 @@ jobs:
           branch: bygg/lovdata-oppdatering
           commit-message: "Oppdater lovtekst fra Lovdata"
           title: "Oppdatert lovtekst fra Lovdata"
-          body: |
-            Automatisk bygget fra Lovdatas åpne datasett (NLOD 2.0).
-
-            Sjekk endringene i lov- og forskriftstekst før de tas inn.
+          body-path: ${{ runner.temp }}/oppsummering.md
           delete-branch: true
