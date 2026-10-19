@@ -151,7 +151,7 @@ def oppdater_veiviser():
         kjente = [("prop-1-s-aid", "Prop. 1 S AID")]
         kjente += [(p.name, f"Prop. 1 S Tillegg {p.name.rsplit('-', 1)[1]} (alle departementer)")
                    for p in sorted(mappe.glob("prop-1-s-tillegg-*")) if p.is_dir()]
-        kjente += [("gul-bok", "Gul bok"), ("nasjonalbudsjettet", "Nasjonalbudsjettet")]
+        kjente += [("gul-bok", "Gul bok"), ("nasjonalbudsjettet", "Nasjonalbudsjettet"), ("stortinget", "Stortingets vedtak")]
         for navn, tekst in kjente:
             if (mappe / navn).is_dir():
                 funn.append(f"{tekst} (`budsjett/{mappe.name}/{navn}/`)")
