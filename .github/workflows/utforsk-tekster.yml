@@ -10,17 +10,25 @@ jobs:
     steps:
       - run: |
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
-          curl -sL -A "$UA" https://www.nav.no/robots.txt | head -30
-          curl -sL -A "$UA" -o sm.xml -w "%{http_code} %{size_download}\n" https://www.nav.no/sitemap.xml
-          head -c 600 sm.xml; echo
-          grep -o '<loc>[^<]*</loc>' sm.xml | wc -l
-          grep -o '<loc>[^<]*sitemap[^<]*</loc>' sm.xml | head
-          grep -o '<url><loc>[^<]*/nyheter/[^<]*</loc>[^/]*<lastmod>[^<]*' sm.xml | sed 's/<[^>]*>/ /g' | grep statistikk | sort -k2 | head -200
-          echo === antall statistikk-nyheter; grep -o '<loc>[^<]*statistikk[^<]*/nyheter/[^<]*</loc>' sm.xml | wc -l
-          echo === side html sjekk
+          echo "=== WAYBACK"
+          curl -sL -m 120 "https://web.archive.org/cdx/search/cdx?url=www.nav.no/no/nav-og-samfunn/statistikk/&matchType=prefix&filter=original:.*/nyheter/.*&collapse=urlkey&fl=original,timestamp&limit=5000" -o wb.txt -w "%{http_code} %{size_download}\n"
+          sed -E 's/[?#].*//; s#^http://#https://#; s#:80/#/#' wb.txt | awk '{print $1}' | sort -u > wb-urls.txt
+          wc -l wb-urls.txt; cat wb-urls.txt | head -400
+          echo "=== NEXT_DATA"
           curl -sL -A "$UA" https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/veksten-i-aap-mottakere-flater-ut -o p.html
-          grep -o '"publish[^,]*' p.html | head; grep -o 'og:[a-z]*" content="[^"]*' p.html | head
-          grep -o '__NEXT_DATA__' p.html | head -1; wc -c p.html
-          echo === nyheter-liste
-          curl -sL -A "$UA" -o l.html -w "%{http_code}\n" https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter
-          grep -o 'href="[^"]*/nyheter/[^"]*"' l.html | sort -u | head -50
+          python3 - <<'PY'
+          import json,re
+          t=open('p.html').read()
+          m=re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>',t,re.S)
+          d=json.loads(m.group(1))
+          c=d['props']['pageProps']['content']
+          print('keys',list(c.keys()))
+          for k in ('displayName','type','publish','createdTime','modifiedTime','language'):
+              print(k, c.get(k))
+          print('data keys', list((c.get('data') or {}).keys()))
+          s=json.dumps(c.get('data'),ensure_ascii=False)
+          print(s[:6000])
+          PY
+          echo "=== 2024-side"
+          curl -sL -A "$UA" -o q.html -w "%{http_code}\n" https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/11000-flere-aap-mottakere-siste-aar
+          grep -o '"publish":{[^}]*}' q.html | head -2
