@@ -96,8 +96,10 @@ def wayback_kopi(url):
     if not kopi.get("available") or kopi.get("status") != "200":
         return None, None
     ts = kopi["timestamp"]
-    rå = f"https://web.archive.org/web/{ts}id_/{url}"
-    return hent(rå), f"https://web.archive.org/web/{ts}/{url}"
+    try:
+        return hent(f"https://web.archive.org/web/{ts}id_/{url}", tidsfrist=120), f"https://web.archive.org/web/{ts}/{url}"
+    except Exception:  # noqa: BLE001
+        return None, None
 
 
 def sidedata(tekst):
@@ -241,23 +243,10 @@ def skriv_indeks(indeks):
     (TEKSTER / "indeks.tsv").write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
-def main(tor=False, wayback=False):
-    indeks = les_indeks()
-    feil, nye, endret, uendret, utenfor = [], [], [], 0, 0
-    try:
-        kandidater = fra_sitemap()
-    except Exception as e:  # noqa: BLE001
-        kandidater = set()
-        feil.append(f"sitemap.xml kunne ikke leses ({e})")
-    if not kandidater and not feil:
-        feil.append("fant ingen pressemeldinger i sitemap.xml (har Nav endret oppbygningen?)")
-    if wayback:
-        try:
-            kandidater |= fra_wayback()
-        except Exception as e:  # noqa: BLE001
-            feil.append(f"Internet Archive kunne ikke leses ({e})")
-    kandidater |= set(indeks)
-    for url in sorted(kandidater):
+def sjekk(kandidater, indeks, feil, nye, endret, tor, wayback, teller):
+    for i, url in enumerate(kandidater, 1):
+        if i % 50 == 0:
+            print(f"... {i} av {len(kandidater)} adresser sjekket", flush=True)
         lagret = indeks.get(url)
         if lagret and lagret.get("kopi"):
             continue  # Hentet fra kopi: siden er borte hos Nav og endres ikke.
@@ -274,13 +263,13 @@ def main(tor=False, wayback=False):
             time.sleep(1)
         c = sidedata(tekst)
         if not c or (c.get("data") or {}).get("contentType") != "pressRelease":
-            utenfor += 1
+            teller["utenfor"] += 1
             continue
         if publiseringsdato(c) < FRA:
-            utenfor += 1
+            teller["utenfor"] += 1
             continue
         if lagret and lagret.get("endret") == (c.get("modifiedTime") or "")[:10]:
-            uendret += 1
+            teller["uendret"] += 1
             continue
         sti, md, mangler, rad = bygg_fil(url, c, kopi)
         if mangler:
@@ -294,8 +283,31 @@ def main(tor=False, wayback=False):
             sti.parent.mkdir(parents=True, exist_ok=True)
             sti.write_text(md, encoding="utf-8")
             indeks[url] = rad
-    if not tor and indeks:
-        skriv_indeks(indeks)
+
+
+def main(tor=False, wayback=False):
+    indeks = les_indeks()
+    feil, nye, endret = [], [], []
+    try:
+        kandidater = fra_sitemap()
+    except Exception as e:  # noqa: BLE001
+        kandidater = set()
+        feil.append(f"sitemap.xml kunne ikke leses ({e})")
+    if not kandidater and not feil:
+        feil.append("fant ingen pressemeldinger i sitemap.xml (har Nav endret oppbygningen?)")
+    if wayback:
+        try:
+            kandidater |= fra_wayback()
+        except Exception as e:  # noqa: BLE001
+            feil.append(f"Internet Archive kunne ikke leses ({e})")
+    kandidater |= set(indeks)
+    teller = {"uendret": 0, "utenfor": 0}
+    try:
+        sjekk(sorted(kandidater), indeks, feil, nye, endret, tor, wayback, teller)
+    finally:
+        if not tor and indeks:
+            skriv_indeks(indeks)
+    uendret, utenfor = teller["uendret"], teller["utenfor"]
     linjer = [f"Nav-tekster: {len(nye)} ny(e), {len(endret)} endret, {uendret} uendret, {utenfor} utenfor, {len(feil)} feil", ""]
     if nye:
         linjer += ["Nye pressemeldinger:"] + [f"- {n}" for n in sorted(nye, reverse=True)] + [""]
