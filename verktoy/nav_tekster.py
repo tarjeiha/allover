@@ -76,13 +76,17 @@ OMRADER = ["aap-nedsatt-arbeidsevne-og-uforetrygd", "arbeidssokere-og-stillinger
            "familie", "flere-statistikkomrader"]
 
 
-def fra_wayback():
+def fra_wayback(feil):
     """Adresser Internet Archive har lagret (HTTP 200) siden 2024, med tidspunkt for en kopi."""
     ut = {}
     for omrade in OMRADER:
         cdx = (f"https://web.archive.org/cdx/search/cdx?url=www.nav.no/no/nav-og-samfunn/statistikk/{omrade}-statistikk/nyheter/"
                "&matchType=prefix&collapse=urlkey&filter=statuscode:200&fl=original,timestamp&from=2024&limit=5000")
-        tekst = hent(cdx, tidsfrist=180) or ""
+        try:
+            tekst = hent(cdx, tidsfrist=180) or ""
+        except Exception as e:  # noqa: BLE001
+            feil.append(f"Internet Archive: {omrade} kunne ikke leses ({e})")
+            continue
         for linje in tekst.splitlines():
             deler = linje.split()
             u = rens_url(deler[0]) if len(deler) == 2 else None
@@ -303,11 +307,8 @@ def main(tor=False, wayback=False):
         feil.append("fant ingen pressemeldinger i sitemap.xml (har Nav endret oppbygningen?)")
     arkiv = {}
     if wayback:
-        try:
-            arkiv = fra_wayback()
-            kandidater |= set(arkiv)
-        except Exception as e:  # noqa: BLE001
-            feil.append(f"Internet Archive kunne ikke leses ({e})")
+        arkiv = fra_wayback(feil)
+        kandidater |= set(arkiv)
     kandidater |= set(indeks)
     teller = {"uendret": 0, "utenfor": 0}
     try:
