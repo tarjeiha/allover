@@ -21,6 +21,7 @@ Med --tor skrives ingenting; skriptet viser bare hva som ville blitt lagt inn.
 
 Rapporten skrives til nav-tekster-rapport.txt.
 """
+import datetime
 import html
 import json
 import re
@@ -188,12 +189,20 @@ def tall_i(tekst):
 
 
 def publiseringsdato(c):
-    """Navs første publiseringsdato. Noen eldre saker er publisert på nytt og har publiseringsdato etter
-    «sist endret»; da brukes datoen saken ble opprettet."""
+    """Navs første publiseringsdato. Pressemeldinger klargjøres og endres før de publiseres, så «sist endret»
+    ligger ofte noen dager før publisering. Noen eldre saker er likevel publisert på nytt, med publiseringsdato
+    lenge etter siste endring (f.eks. ett år). Ligger publiseringen mer enn 30 dager etter siste endring,
+    brukes datoen saken ble opprettet."""
     forst = (c.get("publish") or {}).get("first") or ""
     endret = c.get("modifiedTime") or ""
-    if not forst or (endret and forst[:10] > endret[:10]):
-        return (c.get("createdTime") or forst)[:10]
+    if not forst:
+        return (c.get("createdTime") or "")[:10]
+    try:
+        dager = (datetime.date.fromisoformat(forst[:10]) - datetime.date.fromisoformat(endret[:10])).days
+    except ValueError:
+        dager = 0
+    if dager > 30 and c.get("createdTime"):
+        return c["createdTime"][:10]
     return forst[:10]
 
 
