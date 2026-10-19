@@ -1,0 +1,66 @@
+name: Hent Nav-pressemeldinger
+
+on:
+  schedule:
+    # Hverdager kl. 07.45 UTC (09.45 sommertid, 08.45 vintertid). Nav publiserer statistikk kl. 08.
+    - cron: "45 7 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      wayback:
+        description: "Let også etter eldre pressemeldinger i Internet Archive (fra 2024)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: data-innboks
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hent pressemeldinger fra nav.no
+        run: python3 verktoy/nav_tekster.py ${{ inputs.wayback && '--wayback' || '' }} || echo "TEKSTFEIL=1" >> "$GITHUB_ENV"
+
+      - name: Legg inn på main
+        run: |
+          { echo "Nav: pressemeldinger"; echo; cat nav-tekster-rapport.txt 2>/dev/null || echo "Skriptet stoppet før rapporten ble skrevet. Se loggen."; } > "$RUNNER_TEMP/melding.txt"
+          rm -f nav-tekster-rapport.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/nav/tekster
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$RUNNER_TEMP/melding.txt"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin "${GITHUB_REF_NAME}"
+          done
+          exit 1
+
+      - name: Varsle om feil
+        if: always() && env.TEKSTFEIL == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tittel="Nav-pressemeldinger: feil"
+          { echo "@tarjeiha: hentingen av Nav-pressemeldinger stoppet på noe. Se under, eller be Claude se på det."; echo; tail -n +2 "$RUNNER_TEMP/melding.txt"; } > "$RUNNER_TEMP/sak.txt"
+          nr=$(gh issue list --state open --search "\"$tittel\" in:title" --json number --jq '.[0].number')
+          if [ -n "$nr" ]; then
+            gh issue comment "$nr" --body-file "$RUNNER_TEMP/sak.txt"
+          else
+            gh issue create --title "$tittel" --assignee tarjeiha --body-file "$RUNNER_TEMP/sak.txt"
+          fi
+
+      - name: Vis resultatet
+        if: always()
+        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true

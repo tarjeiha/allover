@@ -31,7 +31,7 @@ Brukere av basen er også ledere og kommunikasjonsmedarbeidere som ikke selv kan
 | Kilde | Fil | Status |
 |---|---|---|
 | Statistisk sentralbyrå (SSB) | `data/ssb.md` | Dekket for hovedtemaene. Hentes med SSB-tilkoblingen, se arbeidsmåte og filtersyntaks i `data/ssb-bruk.md`. |
-| Nav | `data/nav.md` | Sykefravær (alle kvartal i samme fil, kolonnen `kvartal`), dagpenger, AAP, uføretrygd, nedsatt arbeidsevne, alderspensjon, helt ledige, ledige stillinger, tiltaksdeltakere og arbeidsindikator lagt inn som TSV. AFP i privat sektor, gjenlevendeytelser, krigspensjon, supplerende stønad, kontantstøtte, utbetalinger, utenforskap og trygdesvindel er lagt inn. Barnetrygd, foreldrepenger og sosialhjelp finnes ikke som xlsx hos Nav. |
+| Nav | `data/nav.md` | Sykefravær (alle kvartal i samme fil, kolonnen `kvartal`), dagpenger, AAP, uføretrygd, nedsatt arbeidsevne, alderspensjon, helt ledige, ledige stillinger, tiltaksdeltakere og arbeidsindikator lagt inn som TSV. AFP i privat sektor, gjenlevendeytelser, krigspensjon, supplerende stønad, kontantstøtte, utbetalinger, utenforskap og trygdesvindel er lagt inn. Barnetrygd, foreldrepenger og sosialhjelp finnes ikke som xlsx hos Nav. Navs pressemeldinger om statistikken ligger som tekst fra januar 2024. |
 | Eurostat | `data/eurostat.md` | Sammenligning mellom Norge, Norden og EU på arbeidsmarked, fattigdom og offentlige utgifter. Fast pakke som TSV, oppdateres hver mandag. |
 | OECD | `data/oecd.md` | Sammenligning med andre land på arbeidsmarkedspolitikk, ytelsesnivå, aktivitetskrav, stillingsvern, pensjon, sosiale utgifter, skatt på arbeid og organisering, også med USA, Storbritannia og OECD-snittet. Fast pakke som TSV, oppdateres hver mandag. |
 

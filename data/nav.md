@@ -42,6 +42,15 @@ Kildeprofiler for sykefravær, dagpenger og helt ledige, AAP og uføretrygd (hvi
 - Dagpenger: det er brudd i statistikken over arbeidsledige fra november 2018 (ny registreringsmetode), se `om.md`.
 - Nav gir ikke ut diagnosedata per virksomhet.
 
+## Navs pressemeldinger om statistikk
+
+Navs egne pressemeldinger om statistikken (AAP, uføretrygd, arbeidsledighet, sykefravær, pensjon, familie og andre områder) ligger som tekst i `data/nav/tekster/<område>/<dato>-<navn>.md`, fra januar 2024. `data/nav/tekster/indeks.tsv` lister dem med dato, område, tittel og adresse, nyeste først. Jobben «Hent Nav-pressemeldinger» sjekker nav.no hver hverdag etter kl. 08 og legger inn nye. Tekstene slettes ikke, også når Nav tar dem ned.
+
+- Teksten er Navs egen. Tallene i filen er kontrollert mot Navs side. Figurer er lenket, ikke lagret.
+- Nav tar ned pressemeldinger etter omtrent ett år. Eldre tekster er hentet fra Internet Archives kopi av Navs side, og filen sier det. Oppgi da Nav som kilde og nevn at siden ikke lenger ligger ute.
+- Bruk pressemeldingen til å si hva Nav selv peker på og forklarer. Tallene hentes fra tabellene over. Pressemeldingen og tabellene kan ha ulik periode.
+- En pressemelding er Navs framstilling, ikke departementets vurdering.
+
 ## Nav-statistikk som ikke er lagt inn
 
 Se `data/nav-oversikt.md` for oversikt over filer og sider. Gjelder bl.a. barnetrygd, barnebidrag, enslig mor eller far, pleiepenger, foreldrepenger, AFP i offentlig sektor, sosialhjelp, grunnstønad og hjelpestønad. Nav publiserer ikke disse som xlsx (kun nettabeller, pdf eller bilder), og dagpenger etter alder/fylke for tidligere måneder. For slike spørsmål: vis til Navs statistikkside, og ikke svar fra hukommelsen.
