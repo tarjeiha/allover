@@ -77,28 +77,25 @@ OMRADER = ["aap-nedsatt-arbeidsevne-og-uforetrygd", "arbeidssokere-og-stillinger
 
 
 def fra_wayback():
-    ut = set()
+    """Adresser Internet Archive har lagret (HTTP 200) siden 2024, med tidspunkt for en kopi."""
+    ut = {}
     for omrade in OMRADER:
         cdx = (f"https://web.archive.org/cdx/search/cdx?url=www.nav.no/no/nav-og-samfunn/statistikk/{omrade}-statistikk/nyheter/"
-               "&matchType=prefix&collapse=urlkey&fl=original&from=2024&limit=5000")
+               "&matchType=prefix&collapse=urlkey&filter=statuscode:200&fl=original,timestamp&from=2024&limit=5000")
         tekst = hent(cdx, tidsfrist=180) or ""
-        ut |= {u for u in map(rens_url, tekst.split()) if u}
+        for linje in tekst.splitlines():
+            deler = linje.split()
+            u = rens_url(deler[0]) if len(deler) == 2 else None
+            if u:
+                ut[u] = deler[1]
         time.sleep(2)
     return ut
 
 
-def wayback_kopi(url):
-    """Returnerer (html, kopiadresse) for nyeste kopi i Internet Archive, eller (None, None)."""
+def wayback_kopi(url, ts):
+    """Returnerer (html, kopiadresse) for kopien i Internet Archive, eller (None, None)."""
     try:
-        svar = json.loads(hent("https://archive.org/wayback/available?url=" + urllib.parse.quote(url, safe="")) or "{}")
-    except Exception:  # noqa: BLE001
-        return None, None
-    kopi = svar.get("archived_snapshots", {}).get("closest", {})
-    if not kopi.get("available") or kopi.get("status") != "200":
-        return None, None
-    ts = kopi["timestamp"]
-    try:
-        return hent(f"https://web.archive.org/web/{ts}id_/{url}", tidsfrist=120), f"https://web.archive.org/web/{ts}/{url}"
+        return hent(f"https://web.archive.org/web/{ts}id_/{url}", forsok=2, tidsfrist=60), f"https://web.archive.org/web/{ts}/{url}"
     except Exception:  # noqa: BLE001
         return None, None
 
@@ -252,7 +249,7 @@ def skriv_indeks(indeks):
     (TEKSTER / "indeks.tsv").write_text("\n".join(linjer) + "\n", encoding="utf-8")
 
 
-def sjekk(kandidater, indeks, feil, nye, endret, tor, wayback, teller):
+def sjekk(kandidater, indeks, feil, nye, endret, tor, arkiv, teller):
     for i, url in enumerate(kandidater, 1):
         if i % 50 == 0:
             print(f"... {i} av {len(kandidater)} adresser sjekket", flush=True)
@@ -266,9 +263,9 @@ def sjekk(kandidater, indeks, feil, nye, endret, tor, wayback, teller):
             continue
         kopi = None
         if tekst is None:
-            if lagret or not wayback:
+            if lagret or url not in arkiv:
                 continue  # Tatt ned hos Nav. Det vi har, beholdes.
-            tekst, kopi = wayback_kopi(url)
+            tekst, kopi = wayback_kopi(url, arkiv[url])
             time.sleep(1)
         c = sidedata(tekst)
         if not c or (c.get("data") or {}).get("contentType") != "pressRelease":
@@ -304,15 +301,17 @@ def main(tor=False, wayback=False):
         feil.append(f"sitemap.xml kunne ikke leses ({e})")
     if not kandidater and not feil:
         feil.append("fant ingen pressemeldinger i sitemap.xml (har Nav endret oppbygningen?)")
+    arkiv = {}
     if wayback:
         try:
-            kandidater |= fra_wayback()
+            arkiv = fra_wayback()
+            kandidater |= set(arkiv)
         except Exception as e:  # noqa: BLE001
             feil.append(f"Internet Archive kunne ikke leses ({e})")
     kandidater |= set(indeks)
     teller = {"uendret": 0, "utenfor": 0}
     try:
-        sjekk(sorted(kandidater), indeks, feil, nye, endret, tor, wayback, teller)
+        sjekk(sorted(kandidater), indeks, feil, nye, endret, tor, arkiv, teller)
     finally:
         if not tor and indeks:
             skriv_indeks(indeks)
