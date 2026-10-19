@@ -42,11 +42,11 @@ NYHET = re.compile(r"^https://www\.nav\.no/no/nav-og-samfunn/statistikk/([a-z0-9
 TALL = re.compile(r"\d{1,3}(?:[ \u00a0]\d{3})+(?:,\d+)?|\d+(?:,\d+)?")
 
 
-def hent(url, forsok=3):
+def hent(url, forsok=3, tidsfrist=60):
     for i in range(forsok):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=tidsfrist) as r:
                 return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code == 404:
@@ -71,11 +71,19 @@ def fra_sitemap():
     return {u for u in map(rens_url, re.findall(r"<loc>([^<]+)</loc>", tekst)) if u}
 
 
+OMRADER = ["aap-nedsatt-arbeidsevne-og-uforetrygd", "arbeidssokere-og-stillinger", "sykefravar", "pensjon",
+           "familie", "flere-statistikkomrader"]
+
+
 def fra_wayback():
-    cdx = ("https://web.archive.org/cdx/search/cdx?url=www.nav.no/no/nav-og-samfunn/statistikk/"
-           "&matchType=prefix&filter=original:.*/nyheter/.*&collapse=urlkey&fl=original&from=2024&limit=20000")
-    tekst = hent(cdx) or ""
-    return {u for u in map(rens_url, tekst.split()) if u}
+    ut = set()
+    for omrade in OMRADER:
+        cdx = (f"https://web.archive.org/cdx/search/cdx?url=www.nav.no/no/nav-og-samfunn/statistikk/{omrade}-statistikk/nyheter/"
+               "&matchType=prefix&collapse=urlkey&fl=original&from=2024&limit=5000")
+        tekst = hent(cdx, tidsfrist=180) or ""
+        ut |= {u for u in map(rens_url, tekst.split()) if u}
+        time.sleep(2)
+    return ut
 
 
 def wayback_kopi(url):
@@ -177,11 +185,21 @@ def tall_i(tekst):
     return sorted(re.sub(r"\s", "", t) for t in TALL.findall(re.sub(r"\s+", " ", tekst)))
 
 
+def publiseringsdato(c):
+    """Navs første publiseringsdato. Noen eldre saker er publisert på nytt og har publiseringsdato etter
+    «sist endret»; da brukes datoen saken ble opprettet."""
+    forst = (c.get("publish") or {}).get("first") or ""
+    endret = c.get("modifiedTime") or ""
+    if not forst or (endret and forst[:10] > endret[:10]):
+        return (c.get("createdTime") or forst)[:10]
+    return forst[:10]
+
+
 def bygg_fil(url, c, kopi):
     omrade, navn = NYHET.match(url).groups()
     omrade = omrade.removesuffix("-statistikk")
     data = c.get("data") or {}
-    publisert = (c.get("publish") or {}).get("first") or c.get("createdTime") or ""
+    publisert = publiseringsdato(c)
     tittel = c.get("displayName", "").strip()
     ingress = re.sub(r"\s+", " ", data.get("ingress") or "").strip()
     brod = (data.get("text") or {}).get("processedHtml") or ""
@@ -258,8 +276,7 @@ def main(tor=False, wayback=False):
         if not c or (c.get("data") or {}).get("contentType") != "pressRelease":
             utenfor += 1
             continue
-        publisert = ((c.get("publish") or {}).get("first") or c.get("createdTime") or "")[:10]
-        if publisert < FRA:
+        if publiseringsdato(c) < FRA:
             utenfor += 1
             continue
         if lagret and lagret.get("endret") == (c.get("modifiedTime") or "")[:10]:
