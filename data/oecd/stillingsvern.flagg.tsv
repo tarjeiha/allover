@@ -1,0 +1,10 @@
+# Kilde: OECD, tabell OECD.ELS.JAI,DSD_EPL@DF_EPL
+# Tabell: Stillingsvern: hvor strenge reglene er for oppsigelse og midlertidige ansettelser (0–6)
+# OECD-tittel: Strictness of employment protection
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.JAI,DSD_EPL@DF_EPL/.NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD...?startPeriod=2005&format=csvfilewithlabels
+# FREQ (lik for alle rader): A=Annual
+# UNIT_MEASURE (lik for alle rader): 0_TO_6=0-6 scale
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# MEASURE: EPL_CD=Collective dismissals; EPL_OV=Individual and collective dismissals (regular contracts); EPL_R=Individual dismissals (regular contracts); EPL_T=Temporary contracts
+# VERSION: VERSION1=Version 1 (1985-2019); VERSION2=Version 2 (1998-2019); VERSION3=Version 3 (2008-2019); VERSION4=Version 4 (2013-2019)
+REF_AREA	MEASURE	VERSION	periode	flagg	betydning

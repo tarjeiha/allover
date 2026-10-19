@@ -1,0 +1,48 @@
+# Kilde: OECD, tabell OECD.ELS.HD,DSD_HEALTH_STAT@DF_AWDI
+# Tabell: Sykefravær: fraværsdager per heltidsansatt lønnstaker per år
+# OECD-tittel: Sick leave from work
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.HD,DSD_HEALTH_STAT@DF_AWDI/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD............?startPeriod=2005&format=csvfilewithlabels
+# FREQ (lik for alle rader): A=Annual
+# MEASURE (lik for alle rader): WKAB=Sick leave of full-time dependent employees, annual averages
+# UNIT_MEASURE (lik for alle rader): WK_Y_PS=Weeks per year per person
+# AGE (lik for alle rader): _T=Total
+# SEX (lik for alle rader): _T=Total
+# SOCIO_ECON_STATUS (lik for alle rader): _Z=Not applicable
+# DEATH_CAUSE (lik for alle rader): _Z=Not applicable
+# CALC_METHODOLOGY (lik for alle rader): _Z=Not applicable
+# GESTATION_THRESHOLD (lik for alle rader): _Z=Not applicable
+# HEALTH_STATUS (lik for alle rader): _Z=Not applicable
+# DISEASE (lik for alle rader): _Z=Not applicable
+# CANCER_SITE (lik for alle rader): _Z=Not applicable
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; SWE=Sweden; USA=United States
+REF_AREA	periode	flagg	betydning
+ISL	2017	D	Definition differs
+ISL	2018	D	Definition differs
+ISL	2019	D	Definition differs
+ISL	2020	D	Definition differs
+ISL	2021	D	Definition differs
+ISL	2022	D	Definition differs
+ISL	2023	D	Definition differs
+ISL	2024	D	Definition differs
+ISL	2025	D	Definition differs
+USA	2005	D	Definition differs
+USA	2006	D	Definition differs
+USA	2007	D	Definition differs
+USA	2008	D	Definition differs
+USA	2009	D	Definition differs
+USA	2010	D	Definition differs
+USA	2011	D	Definition differs
+USA	2012	D	Definition differs
+USA	2013	D	Definition differs
+USA	2014	D	Definition differs
+USA	2015	D	Definition differs
+USA	2016	D	Definition differs
+USA	2017	D	Definition differs
+USA	2018	D	Definition differs
+USA	2019	D	Definition differs
+USA	2020	D	Definition differs
+USA	2021	D	Definition differs
+USA	2022	D	Definition differs
+USA	2023	D	Definition differs
+USA	2024	D	Definition differs
+USA	2025	D	Definition differs

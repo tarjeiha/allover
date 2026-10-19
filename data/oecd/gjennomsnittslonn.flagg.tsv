@@ -1,0 +1,12 @@
+# Kilde: OECD, tabell OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE
+# Tabell: Gjennomsnittlig årslønn per heltidsekvivalent
+# OECD-tittel: Average annual wages
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD......?startPeriod=2005&format=csvfilewithlabels
+# MEASURE (lik for alle rader): WG=Wages
+# PAY_PERIOD (lik for alle rader): A=Annual
+# AGGREGATION_OPERATION (lik for alle rader): MEAN=Mean
+# SEX (lik for alle rader): _Z=Not applicable
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# UNIT_MEASURE: DKK=Danish krone; EUR=Euro; GBP=Pound sterling; ISK=Iceland krona; NOK=Norwegian krone; SEK=Swedish krona; USD=US dollar; USD_PPP=US dollars, PPP converted
+# PRICE_BASE: Q=Constant prices; V=Current prices
+REF_AREA	UNIT_MEASURE	PRICE_BASE	periode	flagg	betydning

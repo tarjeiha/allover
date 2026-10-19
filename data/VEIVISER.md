@@ -32,9 +32,10 @@ Brukere av basen er også ledere og kommunikasjonsmedarbeidere som ikke selv kan
 |---|---|---|
 | Statistisk sentralbyrå (SSB) | `data/ssb.md` | Dekket for hovedtemaene. Hentes med SSB-tilkoblingen, se arbeidsmåte og filtersyntaks i `data/ssb-bruk.md`. |
 | Nav | `data/nav.md` | Sykefravær (alle kvartal i samme fil, kolonnen `kvartal`), dagpenger, AAP, uføretrygd, nedsatt arbeidsevne, alderspensjon, helt ledige, ledige stillinger, tiltaksdeltakere og arbeidsindikator lagt inn som TSV. AFP i privat sektor, gjenlevendeytelser, krigspensjon, supplerende stønad, kontantstøtte, utbetalinger, utenforskap og trygdesvindel er lagt inn. Barnetrygd, foreldrepenger og sosialhjelp finnes ikke som xlsx hos Nav. |
+| Eurostat | `data/eurostat.md` | Sammenligning mellom Norge, Norden og EU på arbeidsmarked, fattigdom og offentlige utgifter. Fast pakke som TSV, oppdateres hver mandag. |
+| OECD | `data/oecd.md` | Sammenligning med andre land på arbeidsmarkedspolitikk, ytelsesnivå, aktivitetskrav, stillingsvern, pensjon, sosiale utgifter, skatt på arbeid og organisering, også med USA, Storbritannia og OECD-snittet. Fast pakke som TSV, oppdateres hver mandag. |
 
 ## Åpent
 
 - **Nav:** Utvalgte tabeller er lagt inn (se `data/nav.md`). Nav gir tall som xlsx-filer som Claude ikke kan laste ned, så flere tabeller må legges inn av saksbehandlerne. Nav-filer legges i `innboks-data/` og konverteres automatisk. Det mangler en vurdering av hvilke Nav-tabeller som brukes mest.
-- **Eurostat:** Sammenligning mellom land, se `data/eurostat.md`.
 - **Andre kilder** (IMDi, Arbeidstilsynet, Statens pensjonskasse, Fafo m.fl.) er ikke vurdert.

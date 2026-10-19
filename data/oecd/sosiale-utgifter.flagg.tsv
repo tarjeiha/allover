@@ -1,0 +1,13 @@
+# Kilde: OECD, tabell OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG
+# Tabell: Sosiale utgifter etter formål og ytelse (SOCX), prosent av BNP
+# OECD-tittel: Social expenditure aggregates
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD...PT_B1GQ.ES10+ES50._T+C+K..?startPeriod=2005&format=csvfilewithlabels
+# FREQ (lik for alle rader): A=Annual
+# MEASURE (lik for alle rader): SOCX=Social expenditure
+# UNIT_MEASURE (lik for alle rader): PT_B1GQ=Percentage of GDP
+# PRICE_BASE (lik for alle rader): _Z=Not applicable
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# EXPEND_SOURCE: ES10=Public; ES50=Net total
+# SPENDING_TYPE: C=In cash spending; K=In kind spending; _T=Total
+# PROGRAMME_TYPE: TP01=Old age and survivors; TP11=Old age; TP111=Pension; TP112=Early retirement pension; TP113=Other cash benefits; TP121=Residential care / Home; TP122=Other benefits in kind; TP21=Survivors; TP211=Pension; TP212=Other cash benefits; TP221=Funeral expenses; TP222=Other benefits in kind; TP31=Incapacity related; TP311=Disability pensions; TP312=Pensions (occupational injury and disease); TP313=Paid sick leave (occupational injury and disease); TP314=Paid sick leave (other sickness daily allowances); TP315=Other cash benefits; TP321=Residential care / Home; TP322=Rehabilitation services; TP323=Other benefits in kind; TP41=Health; TP51=Family; TP511=Family allowances; TP512=Maternity and parental leave; TP513=Other cash benefits; TP521=Early childhood education and care (ECEC); TP522=Home help / Accomodation; TP523=Other benefits in kind; TP60=Active labour market programmes; TP601=PES and Administration; TP602=Training; TP603=Job Rotation and Job Sharing; TP604=Employment Incentives; TP605=Supported Employment and Rehabilitation; TP606=Direct Job Creation; TP607=Start; TP71=Unemployment; TP711=Unemployment compensation / severance pay; TP712=Early retirement for labour market reasons; TP82=Housing; TP821=Housing assistance; TP822=Other benefits in kind; TP91=Other social policy areas; TP911=Income maintenance; TP912=Other cash benefits; TP921=Social assistance; TP922=Other benefits in kind; _T=Total
+REF_AREA	EXPEND_SOURCE	SPENDING_TYPE	PROGRAMME_TYPE	periode	flagg	betydning

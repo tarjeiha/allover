@@ -1,0 +1,13 @@
+# Kilde: OECD, tabell OECD.ELS.IMD,DSD_MIG@DF_MIG_NUP_SEX
+# Tabell: Sysselsetting, ledighet og yrkesdeltakelse for innvandrere og innfødte, etter kjønn
+# OECD-tittel: Labour market outcomes of immigrants - Employment, unemployment, and participation rates by sex
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.IMD,DSD_MIG@DF_MIG_NUP_SEX/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.......?startPeriod=2005&format=csvfilewithlabels
+# CITIZENSHIP (lik for alle rader): _Z=Not applicable
+# FREQ (lik for alle rader): A=Annual
+# EDUCATION_LEV (lik for alle rader): _Z=Not applicable
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; SWE=Sweden; USA=United States
+# MEASURE: EMP_WAP=Employment rate; LF_RATE=Labour force participation rate; UNE_RATE=Unemployment rate
+# SEX: F=Female; M=Male; _T=Total
+# BIRTH_PLACE: FB=Foreign-born; NB=Native-born
+# UNIT_MEASURE: PT_LF_SUB=Percentage of labour force in the same subgroup; PT_POP_SUB=Percentage of population in the same subgroup; PT_WAP_SUB=Percentage of working age population in the same subgroup
+REF_AREA	MEASURE	SEX	BIRTH_PLACE	UNIT_MEASURE	periode	flagg	betydning

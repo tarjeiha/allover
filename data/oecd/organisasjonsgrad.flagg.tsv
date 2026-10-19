@@ -1,0 +1,30 @@
+# Kilde: OECD, tabell OECD.ELS.SAE,DSD_TUD_CBC@DF_TUD
+# Tabell: Organisasjonsgrad: fagforeningsmedlemmer i prosent av lønnstakerne
+# OECD-tittel: Trade union density
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_TUD_CBC@DF_TUD/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD..?startPeriod=2005&format=csvfilewithlabels
+# MEASURE (lik for alle rader): TUD=Trade union density
+# UNIT_MEASURE (lik for alle rader): PT_SAL=Percentage of employees
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+REF_AREA	periode	flagg	betydning
+NOR	2019	B	Time series break
+FIN	2008	B	Time series break
+OECD	2005	E	Estimated value
+OECD	2006	E	Estimated value
+OECD	2007	E	Estimated value
+OECD	2008	E	Estimated value
+OECD	2009	E	Estimated value
+OECD	2010	E	Estimated value
+OECD	2011	E	Estimated value
+OECD	2012	E	Estimated value
+OECD	2013	E	Estimated value
+OECD	2014	E	Estimated value
+OECD	2015	E	Estimated value
+OECD	2016	E	Estimated value
+OECD	2017	E	Estimated value
+OECD	2018	E	Estimated value
+OECD	2019	E	Estimated value
+OECD	2020	E	Estimated value
+OECD	2021	E	Estimated value
+OECD	2022	E	Estimated value
+OECD	2023	E	Estimated value
+OECD	2024	E	Estimated value

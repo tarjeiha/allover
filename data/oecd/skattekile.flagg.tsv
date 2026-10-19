@@ -1,0 +1,12 @@
+# Kilde: OECD, tabell OECD.CTP.TPS,DSD_TAX_WAGES_COMP@DF_TW_COMP
+# Tabell: Skatt på arbeid (Taxing Wages): skattekile og netto lønn for modellhusholdninger
+# OECD-tittel: Labour taxation – OECD comparative country indicators
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_WAGES_COMP@DF_TW_COMP/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.AV_TW+AV_RITEESSC+NIAT.....?startPeriod=2005&format=csvfilewithlabels
+# FREQ (lik for alle rader): A=Annual
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; SWE=Sweden; USA=United States
+# MEASURE: AV_RITEESSC=Average rate of income tax and employees' social security contributions; AV_TW=Average tax wedge; NIAT=Net income after taxes
+# UNIT_MEASURE: PT_COS_LB=Percentage of labour costs; PT_WG_EARN_G=Percentage of gross wage earnings; USD_PPP=US dollars, PPP converted; XDC=National currency
+# HOUSEHOLD_TYPE: C_C0=Couple, no children; C_C2=Couple, 2 children; S_C0=Single person, no children; S_C2=Single person, 2 children
+# INCOME_PRINCIPAL: AW100=100% of average wage; AW167=167% of average wage; AW67=67% of average wage
+# INCOME_SPOUSE: AW100=100% of average wage; AW67=67% of average wage; NOEARN_UNEMP=No earnings, unemployed; _Z=Not applicable
+REF_AREA	MEASURE	UNIT_MEASURE	HOUSEHOLD_TYPE	INCOME_PRINCIPAL	INCOME_SPOUSE	periode	flagg	betydning

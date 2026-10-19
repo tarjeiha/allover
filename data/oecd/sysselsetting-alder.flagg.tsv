@@ -1,0 +1,11 @@
+# Kilde: OECD, tabell OECD.ELS.SAE,DSD_LFS@DF_LFS_INDIC
+# Tabell: Sysselsetting, yrkesdeltakelse og ledighet etter kjønn og alder
+# OECD-tittel: Employment and unemployment by five-year age group and sex - indicators
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_LFS@DF_LFS_INDIC/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD.....?startPeriod=2005&format=csvfilewithlabels
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# MEASURE: EMP_RATIO=Employment to population ratio; LF_RATE=Labour force participation rate; UNE_RATE=Unemployment rate
+# UNIT_MEASURE: PT_LF_SUB=Percentage of labour force in the same subgroup; PT_POP_SUB=Percentage of population in the same subgroup
+# SEX: F=Female; M=Male; _T=Total
+# AGE: Y15T19=From 15 to 19 years; Y15T24=From 15 to 24 years; Y15T29=From 15 to 29 years; Y15T64=From 15 to 64 years; Y15T74=From 15 to 74 years; Y20T24=From 20 to 24 years; Y20T64=From 20 to 64 years; Y25T29=From 25 to 29 years; Y25T34=From 25 to 34 years; Y25T39=From 25 to 39 years; Y25T54=From 25 to 54 years; Y25T64=From 25 to 64 years; Y30T34=From 30 to 34 years; Y35T39=From 35 to 39 years; Y35T44=From 35 to 44 years; Y40T44=From 40 to 44 years; Y40T49=From 40 to 49 years; Y45T49=From 45 to 49 years; Y45T54=From 45 to 54 years; Y50T54=From 50 to 54 years; Y55T59=From 55 to 59 years; Y55T64=From 55 to 64 years; Y60T64=From 60 to 64 years; Y65T69=From 65 to 69 years; Y65T74=From 65 to 74 years; Y70T74=From 70 to 74 years; Y75T79=From 75 to 79 years; Y80T99=From 80 to 99 years; Y_GE65=65 years or over; Y_GE70=70 years or over; Y_GE75=75 years or over; Y_GE80=80 years or over; _T=Total; _U=Unknown
+# LABOUR_FORCE_STATUS: EMP=Employment; LF=Labour force; UNE=Unemployment
+REF_AREA	MEASURE	UNIT_MEASURE	SEX	AGE	LABOUR_FORCE_STATUS	periode	flagg	betydning
