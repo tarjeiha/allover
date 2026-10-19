@@ -476,6 +476,8 @@ def main() -> int:
             indeks.append(f"{a['navn']}\tEU-rettsakt\t{tittel}\t{fil.relative_to(ROT).as_posix()}")
         for fil in sorted((ROT / a["mappe"] / "merknader").glob("*.md")):
             indeks.append(f"{a['navn']}\tMerknader\t{tittel_for(fil)}\t{fil.relative_to(ROT).as_posix()}")
+        # Rundskriv til rettsakten (R45) bygges av sin egen jobb, verktoy/r45.py. Her tas radene med videre.
+        indeks += [linje for linje in forrige if linje.split("\t")[-1].startswith(a["mappe"] + "/rundskriv/")]
     skriv_nevnte(nevnt_ikke_i_basen)
 
     (ROT / "indeks.tsv").write_text("\n".join(indeks) + "\n", encoding="utf-8")

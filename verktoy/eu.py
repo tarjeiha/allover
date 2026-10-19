@@ -492,6 +492,12 @@ def veiviser_blokk(rot: Path, info: dict, norske: dict) -> str:
     if merknadsfiler:
         linjer += ["", "## Merknader", "", "Dette er ikke rettsaktstekst.", ""]
         linjer += [f"- `{f.relative_to(mappe).as_posix()}`" for f in merknadsfiler]
+    rundskriv = sorted((mappe / "rundskriv").glob("*/oversikt.md")) if (mappe / "rundskriv").is_dir() else []
+    if rundskriv:
+        linjer += ["", "## Rundskriv", "", "Dette er ikke rettsaktstekst.", ""]
+        for f in rundskriv:
+            tittel = f.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
+            linjer.append(f"- {tittel} – start med `{f.relative_to(mappe).as_posix()}`")
     linjer += ["", "## Innhold", ""]
     forrige = None
     for kap, tittel, fil in info["oppforinger"]:

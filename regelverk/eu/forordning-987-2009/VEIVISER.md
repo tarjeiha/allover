@@ -12,6 +12,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 - **En forordning gjøres til norsk lov ved at en norsk lov viser til den.** Finn den norske bestemmelsen i listen «Norske regler som viser til rettsakten», og sjekk om den har tilpasninger.
 - **Koblingene til norsk regelverk er funnet automatisk** ved søk etter rettsaktnummeret. Norske regler kan gjennomføre rettsakten uten å nevne nummeret, så en tom liste betyr ikke at rettsakten mangler norsk gjennomføring.
 - **Teksten er på engelsk.** Når du forklarer på norsk, oversetter du selv. Si fra om det, og gjengi den originale ordlyden når presisjonen betyr noe.
+- **Navs EØS-rundskriv (R45-00)** kommenterer også denne forordningen, blant annet bostedskriteriene (artikkel 11), sammenlegging av trygdetid (artikkel 12) og saksbehandling og refusjon. Det ligger under trygdeforordningen: start i `regelverk/eu/forordning-883-2004/rundskriv/r45-00/oversikt.md` fra roten.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

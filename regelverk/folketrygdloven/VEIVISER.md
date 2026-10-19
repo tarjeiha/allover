@@ -39,7 +39,8 @@ Filnavnene varierer mellom kapitlene, for eksempel `rundskriv/ftrl/kap-4/4-04.md
 - **Yrkesskade gir særfordeler i andre kapitler.** § 13-2 andre ledd lister bestemmelsene, blant annet § 8-55 (sykepenger), § 11-22 (AAP), § 12-17 (uføretrygd) og § 13-17 (menerstatning). Yrkesskadedekning etter kapittel 13 er noe annet enn yrkesskadeforsikring etter yrkesskadeforsikringsloven, som ikke er i basen.
 - **Klage og anke er to trinn.** Vedtak påklages først til NAV (nærmeste overordnede organ), og klageinstansens vedtak kan deretter ankes til Trygderetten (§ 21-12 første ledd). Fristen er seks uker for begge (femte ledd). Domstolene kan først brukes når klage og anke er brukt fullt ut (sjette ledd). Forvaltningsloven gjelder ved siden av kapittel 21 (§ 21-1), se `regelverk/forvaltningsloven/VEIVISER.md`.
 - **Tilbakekreving, foreldelse og gebyr vurderes hver for seg.** Vilkårene for å kreve tilbake står i § 22-15, foreldelse i § 22-14. Overtredelsesgebyr og tvangsmulkt etter § 25-3 gjelder arbeidsgivere og oppdragsgivere som bryter meldeplikten til Aa-registeret (første ledd), ikke mottakere av ytelser.
-- **Ikke i basen:** NAVs EØS-rundskriv (R45-00) og forskriftene om egenandeler, legemidler og behandlingsrefusjon (kapittel 5). Si fra ved slike spørsmål.
+- **EØS-saker har et eget rundskriv.** Når personen bor, arbeider eller har trygdetid i et annet EØS-land, gjelder trygdeforordningen (EF) nr. 883/2004 ved siden av loven. Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00) har kapitler med samme nummer som lovens kapitler (kapittel 8 gjelder sykepenger osv.), og ligger under trygdeforordningen. Start i `regelverk/eu/forordning-883-2004/rundskriv/r45-00/oversikt.md` fra roten. Les både rundskrivet til lovkapitlet og R45-kapitlet.
+- **Ikke i basen:** forskriftene om egenandeler, legemidler og behandlingsrefusjon (kapittel 5). Si fra ved slike spørsmål.
 
 ## Merknader og andre kilder
 
@@ -47,7 +48,8 @@ Filnavnene varierer mellom kapitlene, for eksempel `rundskriv/ftrl/kap-4/4-04.md
 |---|---|
 | Medlemskap, trygdetid, pensjonsgivende inntekt, omsorgspoeng, grunnbeløp (kap. 1–3) | Rundskriv `rundskriv/rundskriv-r01-00/`, `r02-00/`, `r03-00/` (og `r03-01` til `r03-05`) |
 | Dagpenger, permittering, minsteinntekt (kap. 4) | `merknader/dagpenger.md`, rundskriv `rundskriv/ftrl/kap-4/` |
-| Dagpenger og arbeid eller bosted i et annet EØS-land | `regelverk/eu/forordning-883-2004/merknader/dagpenger.md` fra roten (forordningsteksten er på engelsk) |
+| Dagpenger og arbeid eller bosted i et annet EØS-land | `regelverk/eu/forordning-883-2004/merknader/dagpenger.md` fra roten (forordningsteksten er på engelsk), og R45 kapittel 4 |
+| Alle ytelser ved bosted, arbeid eller trygdetid i et annet EØS-land, medlemskap og lovvalg i EØS | Navs EØS-rundskriv R45-00: `regelverk/eu/forordning-883-2004/rundskriv/r45-00/oversikt.md` fra roten (kapittel 2 for medlemskap og lovvalg, ellers samme kapittelnummer som i loven) |
 | Dagpenger ved konkurs, lønnsgaranti | `regelverk/lonnsgarantiloven/VEIVISER.md` |
 | Grunnstønad og hjelpestønad (kap. 6) | Rundskriv `rundskriv/ftrl/kap-6/` (R06-00, hentet manuelt 28.08.2026) |
 | Hjelpestønad ved en bestemt diagnose | `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md` (R06-04-FOR, ti diagnoser, gjelder § 6-4 og § 6-5 og supplerer kommentarene i R06-00) |

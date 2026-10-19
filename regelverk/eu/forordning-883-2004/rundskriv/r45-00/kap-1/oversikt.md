@@ -1,0 +1,61 @@
+# R45 Kapittel 1 – Om EØS-avtalen og dens bestemmelser om trygd
+
+Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00). Kilde: https://lovdata.no/nav/rundskriv/r45-00. Sist endret hos Nav: 2026-10-19.
+
+## Innhold
+
+- Kapittel 1 – Om EØS-avtalen og dens bestemmelser om trygd (innledning) – `00-innledning.md`
+- 1.1 Oversikt over rundskrivet – `1-1-oversikt-over-rundskrivet.md`
+- 1.2 Begrepene EØS-land, EØS-området, EU-land og EFTA/EØS-land – `1-2-begrepene-eos-land-eos-omradet-eu-land-og-efta-eos.md`
+- 1.3.1 Primærretten (bakgrunnsretten): EUs avtaleverk – traktatene – `1-3-1-primaerretten-bakgrunnsretten-eus-avtaleverk.md`
+- 1.3.2 Prinsippet om nærhet og forholdsmessighet (subsidiaritetsprinsippet) – `1-3-2-prinsippet-om-naerhet-og-forholdsmessighet.md`
+- 1.3.3 Sekundærretten: Forordninger og direktiver – `1-3-3-sekundaerretten-forordninger-og-direktiver.md`
+- 1.3.4 Trygdeforordningene – `1-3-4-trygdeforordningene.md`
+- 1.3.5 Beslutninger og anbefalinger fra den administrative kommisjon – `1-3-5-beslutninger-og-anbefalinger-fra-den.md`
+- 1.3.6 Arbeidstakerforordningen – `1-3-6-arbeidstakerforordningen.md`
+- 1.3.7 EURES-forordningen – `1-3-7-eures-forordningen.md`
+- 1.3.8 Avgjørelser fra EU-domstolen og EFTA-domstolen – `1-3-8-avgjorelser-fra-eu-domstolen-og-efta-domstolen.md`
+- 1.3.9 Tilbakevirkende kraft for dommer fra EU- og EFTA-domstolen – `1-3-9-tilbakevirkende-kraft-for-dommer-fra-eu-og-efta.md`
+- 2 EØS-avtalen – `2-eos-avtalen.md`
+- 2.1 Sentrale forpliktelser etter EØS-avtalen – `2-1-sentrale-forpliktelser-etter-eos-avtalen.md`
+- 2.2 EØS-avtalens bestemmelser om fri bevegelighet for personer – `2-2-eos-avtalens-bestemmelser-om-fri-bevegelighet-for.md`
+- 2.3 Trygdekoordinering i EØS-avtalen – `2-3-trygdekoordinering-i-eos-avtalen.md`
+- 2.4 EØS-avtalens restriksjonsforbud – `2-4-eos-avtalens-restriksjonsforbud.md`
+- 2.4.1 Direkte og indirekte diskriminering – `2-4-1-direkte-og-indirekte-diskriminering.md`
+- 2.4.2 Legitime hensyn som kan begrunne restriksjoner – `2-4-2-legitime-hensyn-som-kan-begrunne-restriksjoner.md`
+- 2.4.3 Restriksjoner på trygdeområdet – krav om forholdsmessighet – `2-4-3-restriksjoner-pa-trygdeomradet-krav-om.md`
+- 2.4.4 Fri bevegelighet og EØS-rettens bestemmelser om oppholdsrett i annet EØS-land – `2-4-4-fri-bevegelighet-og-eos-rettens-bestemmelser-om.md`
+- 2.4.5 Arbeidstakerforordningen artikkel 7.2 – rett til sosiale fordeler – `2-4-5-arbeidstakerforordningen-artikkel-7-2-rett-til.md`
+- 3 EØS-avtalens geografiske virkeområde – `3-eos-avtalens-geografiske-virkeomrade.md`
+- 4 Trygdeforordningen og gjennomføringsforordningen – `4-trygdeforordningen-og-gjennomforingsforordningen.md`
+- 5.1 «Omfattet av lovgivningen» – trygdedekning – `5-1-omfattet-av-lovgivningen-trygdedekning.md`
+- 5.2 Enstatsprinsippet – å være omfattet av trygdelovgivningen i den kompetente stat – `5-2-enstatsprinsippet-a-vaere-omfattet-av.md`
+- 5.3 Trygdedekning i arbeidsland og bostedsland – `5-3-trygdedekning-i-arbeidsland-og-bostedsland.md`
+- 5.4 Kriterier for å avgjøre bostedsland – `5-4-kriterier-for-a-avgjore-bostedsland.md`
+- 5.5 Fortsatt utbetaling av ytelser fra stat som tidligere var kompetent – `5-5-fortsatt-utbetaling-av-ytelser-fra-stat-som.md`
+- 5.6 Familiemedlemmers rettigheter – `5-6-familiemedlemmers-rettigheter.md`
+- 6 Begrepsdefinisjoner – trygdeforordningen artikkel 1 – `6-begrepsdefinisjoner-trygdeforordningen-artikkel-1.md`
+- 6.1 Artikkel 1 bokstav a og b – «lønnet arbeid» og «selvstendig næring» – `6-1-artikkel-1-bokstav-a-og-b-lonnet-arbeid-og.md`
+- 6.2 Artikkel 1 bokstavene d og e – «tjenestemann» og «særordning for tjenestemenn» – `6-2-artikkel-1-bokstavene-d-og-e-tjenestemann-og.md`
+- 6.3 Artikkel 1 bokstav f – «grensearbeider» – `6-3-artikkel-1-bokstav-f-grensearbeider.md`
+- 6.4 Artikkel 1, bokstav g og h – «flyktning» og «statsløs» – `6-4-artikkel-1-bokstav-g-og-h-flyktning-og-statslos.md`
+- 6.5 Artikkel 1 bokstav i – «familiemedlem» – `6-5-artikkel-1-bokstav-i-familiemedlem.md`
+- 6.6 Artikkel 1 bokstav j – «bosted» og bokstav k – «opphold» – `6-6-artikkel-1-bokstav-j-bosted-og-bokstav-k-opphold.md`
+- 6.7 Artikkel 1 bokstav l – «lovgivning» – `6-7-artikkel-1-bokstav-l-lovgivning.md`
+- 6.8 Artikkel 1 bokstavene m, q og s – «kompetent myndighet/ -institusjon/-stat» – `6-8-artikkel-1-bokstavene-m-q-og-s-kompetent-myndighet.md`
+- 6.9 Artikkel 1 bokstav t, u og v – «trygdetid», «ansettelsestid / perioder med selvstendig næringsvirksomhet» og «botid» – `6-9-artikkel-1-bokstav-t-u-og-v-trygdetid.md`
+- 6.10 Artikkel 1 bokstav va – naturalytelser – `6-10-artikkel-1-bokstav-va-naturalytelser.md`
+- 6.11 Artikkel 1 bokstav w – pensjon – `6-11-artikkel-1-bokstav-w-pensjon.md`
+- 6.12 Artikkel 1 bokstav x – Ytelser ved tidligpensjonering – `6-12-artikkel-1-bokstav-x-ytelser-ved.md`
+- 6.13 Artikkel 1 bokstav y – «gravferdshjelp» – `6-13-artikkel-1-bokstav-y-gravferdshjelp.md`
+- 6.14 – Artikkel 1 bokstav z – «familieytelser» – `6-14-artikkel-1-bokstav-z-familieytelser.md`
+- 7 Personkrets – trygdeforordningen artikkel 2 – `7-personkrets-trygdeforordningen-artikkel-2.md`
+- 8 Ytelser som er omfattet av trygdekoordineringen – trygdeforordningen artiklene 3 og 9 – `8-ytelser-som-er-omfattet-av-trygdekoordineringen.md`
+- 9 Koordineringsprinsipper – `9-koordineringsprinsipper.md`
+- 9.1 Likebehandling på grunnlag av nasjonalitet – trygdeforordningen artikkel 4 – `9-1-likebehandling-pa-grunnlag-av-nasjonalitet.md`
+- 9.2 Likebehandling med hensyn til ytelser, inntekter, faktiske forhold eller hendelser – trygdeforordningen artikkel 5 – `9-2-likebehandling-med-hensyn-til-ytelser-inntekter.md`
+- 9. 3 Sammenlegging av trygdetid – trygdeforordningen artikkel 6 – `9-3-sammenlegging-av-trygdetid-trygdeforordningen.md`
+- 9. 4 Utbetaling av ytelser i andre land – trygdeforordningen artikkel 7 – `9-4-utbetaling-av-ytelser-i-andre-land.md`
+- 9. 5 Proratisering (delpensjonsprinsippet) – `9-5-proratisering-delpensjonsprinsippet.md`
+- 10 Andre trygdeavtaler mellom medlemsstatene – forordningens artikkel 8 – `10-andre-trygdeavtaler-mellom-medlemsstatene.md`
+- 11 Bestemmelse om sammenfall av ytelser – trygdeforordningen artikkel 10 – `11-bestemmelse-om-sammenfall-av-ytelser.md`

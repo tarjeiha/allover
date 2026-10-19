@@ -14,6 +14,7 @@ Byggingen skjer nå her i repoet. Skillene er tynne pekere som henter `CLAUDE.md
 | `eu.py` | EU-rettsakter fra EUR-Lex med låst versjon | `bygg.py` |
 | `rundskriv.py` | Rundskriv fra `innboks/` (PDF, Word, HTML m.m.) | `rundskriv.yml` |
 | `rundskriv_hent.py` | Henter NAVs rundskriv til folketrygdloven fra Lovdata til innboksen | `rundskriv-hent.yml`, manuelt |
+| `r45.py` | Henter Navs EØS-rundskriv R45-00 fra Lovdata og deler det opp under trygdeforordningen (`regelverk/eu/forordning-883-2004/rundskriv/r45-00/`), bare når «Sist endret» er ny. Innboksen passer ikke for R45, som er delt i kapitler og punkter, ikke paragrafer | `r45-hent.yml`, hver natt |
 | `avtale.py` | Deler opp hovedtariffavtalen fra Word | innboksen |
 | `budsjett.py` | Deler opp Prop. 1 S, Gul bok og Nasjonalbudsjettet | manuelt |
 | `sjekk_tekst.py` | Kontrollerer håndskrevne veivisere og merknader | `sjekk-tekst.yml` |
