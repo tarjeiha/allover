@@ -101,7 +101,8 @@ def velg_saker(saker):
     for s in saker:
         tittel = re.sub(r"\s+", " ", s.get("korttittel") or "")
         henv = s.get("henvisning") or ""
-        m = re.search(r"statsbudsjettet\s+(\d{4})", tittel, re.I)
+        # RNB-sakene for 2023 heter bare «Revidert nasjonalbudsjett 2023» og «Tilleggsbevilgninger og omprioriteringer 2023».
+        m = re.search(r"(?:statsbudsjettet|Revidert nasjonalbudsjett|omprioriteringer)\s+(\d{4})", tittel, re.I)
         if not m or re.search(r"Riksrevisjon|Svalbard", tittel):
             continue
         for nr, a, b in re.findall(r"Innst\. (\d+) S \((\d{4})-(\d{4})\)", henv):
@@ -245,7 +246,8 @@ def partiforslag(rot, flertall):
         hode = [tekst(e) for e in th.iter("entry")]
         if len(hode) < 5 or not hode[3].startswith("Prop. 1 S"):
             continue
-        partier = hode[4:]
+        # Flertallets kolonne heter iblant «Komiteens tilråding (A, Sp og SV)» eller uten parentes.
+        partier = [re.sub(r"^Komiteens tilråding\s*\(?(.*?)\)?$", r"\1", p).strip() for p in hode[4:]]
         type_, kap, kapnavn = "", None, ""
         for row in tbl.find("tgroup/tbody").iter("row"):
             c = [tekst(e) for e in row.findall("entry")]
@@ -268,7 +270,7 @@ def partiforslag(rot, flertall):
                 forslag = tall(m.group(1)) if m else tall(verdi)
                 if forslag is None:
                     continue
-                koder = {x.strip() for x in re.split(r",| og ", re.sub(r"^Komiteens tilråding \((.*)\)$", r"\1", parti))}
+                koder = {x.strip() for x in re.split(r",| og ", parti)}
                 ut.append({"type": type_ or ("utgift" if kap < 3000 else "inntekt"), "kap": kap, "kapnavn": kapnavn,
                            "post": int(c[1]), "postnavn": c[2], "prop_1_s": "" if prop is None else prop, "parti": parti,
                            "forslag": forslag, "endring": "" if prop is None else forslag - prop,
@@ -360,10 +362,14 @@ def main():
             except Exception as e:  # noqa: BLE001
                 feil.append(f"{navn}: kunne ikke hente eller lese ({e})")
                 info["rot"] = None
-            vot = []
+            vot, sett = [], set()
             for sid in info["saker"]:
                 try:
-                    vot += voteringer(sid, fersk_innst)
+                    for v in voteringer(sid, fersk_innst):
+                        # Saker som behandles samlet, deler voteringer. Tell hver votering én gang.
+                        if v.get("votering_id") not in sett:
+                            sett.add(v.get("votering_id"))
+                            vot.append(v)
                 except Exception as e:  # noqa: BLE001
                     feil.append(f"{navn}, sak {sid}: voteringer feilet ({e})")
             info["vot"] = vot
