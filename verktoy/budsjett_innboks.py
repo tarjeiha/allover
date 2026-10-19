@@ -8,6 +8,8 @@ Filnavn bestemmer hva dokumentet er (ÅR er budsjettåret, f.eks. 2027 for Prop.
     gul-bok-ÅR.docx                      Prop. 1 S Gul bok      -> budsjett/ÅR/gul-bok/
     nasjonalbudsjettet-ÅR.docx           Meld. St. 1            -> budsjett/ÅR/nasjonalbudsjettet/
     prop-1-s-ÅR-tillegg-N.docx           Prop. 1 S Tillegg N    -> budsjett/ÅR/prop-1-s-tillegg-N/
+    samledokument….docx                  svar på budsjettspørsmål fra Stortinget -> budsjett/ÅR/sporsmal/RUNDE/
+                                         (år og runde leses fra dokumentet, se verktoy/budsjett_sporsmal.py)
     gul-bok-bevilgninger-ÅR.xlsx|csv|tsv Datagrunnlag til Gul bok -> budsjett/ÅR/gul-bok-bevilgninger.tsv
 
 Originalnavnet fra regjeringen.no for AIDs proposisjon, prp[SESJON][NR][DEP]ddddocx.docx
@@ -43,6 +45,8 @@ MONSTRE = [
     ("nb", re.compile(r"^nasjonalbudsjettet-(\d{4})\.docx$", re.I)),
     ("data", re.compile(r"^gul-bok-bevilgninger-(\d{4})\.(xlsx|csv|tsv)$", re.I)),
 ]
+# Samledokument med svar på budsjettspørsmål fra Finansdepartementets system. År og runde står i dokumentet.
+SAMLEDOKUMENT = re.compile(r"^samledokument.*\.docx$", re.I)
 FORVENTET_KOLONNER = {"kap_nr", "post_nr", "beløp"}
 # Originalnavn fra regjeringen.no: prp + sesjon (åtte sifre) + nummer (fire sifre) + departement + ddddocx
 ORIGINAL = re.compile(r"^prp(\d{4})(\d{4})(\d{4})([a-zæøå]+?)ddddocx\.docx$", re.I)
@@ -56,7 +60,9 @@ def sjekk_aar(aar):
 
 
 def klassifiser(navn):
-    """Gir (type, budsjettår, tilleggsnummer eller None)."""
+    """Gir (type, budsjettår, tilleggsnummer eller None). For samledokumenter er budsjettåret None."""
+    if SAMLEDOKUMENT.match(navn):
+        return "sporsmal", None, None
     for type_, m in MONSTRE:
         r = m.match(navn)
         if r:
@@ -74,7 +80,8 @@ def klassifiser(navn):
         return "prop", sjekk_aar(til), None
     raise ValueError(
         "filnavnet passer ikke. Bruk prop-1-s-ÅR-aid.docx, prop-1-s-ÅR-tillegg-N.docx, gul-bok-ÅR.docx, "
-        "nasjonalbudsjettet-ÅR.docx eller gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027). "
+        "nasjonalbudsjettet-ÅR.docx, gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027) "
+        "eller samledokument….docx for svar på budsjettspørsmål. "
         "Originalnavnet fra regjeringen.no for AIDs Prop. 1 S (prp…ddddocx.docx) virker også"
     )
 
@@ -155,6 +162,10 @@ def oppdater_veiviser():
         for navn, tekst in kjente:
             if (mappe / navn).is_dir():
                 funn.append(f"{tekst} (`budsjett/{mappe.name}/{navn}/`)")
+        for runde in sorted((mappe / "sporsmal").glob("*/sporsmal.tsv")):
+            antall = sum(1 for _ in runde.open(encoding="utf-8")) - 1
+            navn = {"stb": "statsbudsjettet", "rnb": "revidert nasjonalbudsjett"}.get(runde.parent.name, runde.parent.name)
+            funn.append(f"svar på budsjettspørsmål, {navn} ({antall} svar, `budsjett/{mappe.name}/sporsmal/{runde.parent.name}/`)")
         if (mappe / "gul-bok-bevilgninger.tsv").exists():
             funn.append(f"datagrunnlag (`budsjett/{mappe.name}/gul-bok-bevilgninger.tsv`)")
         deler.append(f"- **{mappe.name}:** " + (", ".join(funn) if funn else "ingen dokumenter"))
@@ -191,7 +202,14 @@ def main():
         feilfil = sti.with_name(sti.name + ".FEIL.txt")
         try:
             type_, aar, tillegg = klassifiser(sti.name)
-            res = lag_tsv(sti, aar) if type_ == "data" else del_opp_word(sti, type_, aar, tillegg)
+            if type_ == "sporsmal":
+                import budsjett_sporsmal
+
+                res = budsjett_sporsmal.legg_inn(sti, BUDSJETT)
+            elif type_ == "data":
+                res = lag_tsv(sti, aar)
+            else:
+                res = del_opp_word(sti, type_, aar, tillegg)
         except Exception as e:  # noqa: BLE001
             feilfil.write_text(f"{sti.name} ble ikke lagt inn.\n\nÅrsak: {e}\n\nRett opp og last opp filen på nytt. Denne filen forsvinner når filen er lagt inn.\n", encoding="utf-8")
             feil.append(f"{sti.name}: {e}")

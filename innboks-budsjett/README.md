@@ -15,6 +15,7 @@ Legg budsjettdokumenter her, så legges de inn i `budsjett/` automatisk i løpet
 | `gul-bok-ÅR.docx` | Prop. 1 S Gul bok | `budsjett/ÅR/gul-bok/` |
 | `nasjonalbudsjettet-ÅR.docx` | Meld. St. 1 Nasjonalbudsjettet | `budsjett/ÅR/nasjonalbudsjettet/` |
 | `gul-bok-bevilgninger-ÅR.xlsx` | Datagrunnlag til Gul bok (alle departementer, kroner) | `budsjett/ÅR/gul-bok-bevilgninger.tsv` |
+| `samledokument….docx` | Svar på budsjettspørsmål fra Stortinget, eksportert fra Finansdepartementets system (navnet beholdes) | `budsjett/ÅR/sporsmal/RUNDE/` |
 
 AIDs Prop. 1 S kan også lastes opp med originalnavnet fra regjeringen.no, f.eks. `prp202520260001aidddddocx.docx` (eller `asd` for årene før 2022). Budsjettåret er da siste år i sesjonen. Andre dokumenter må døpes om.
 
@@ -25,6 +26,7 @@ Du kan laste opp flere filer samtidig. Tall (datagrunnlaget) kan gå lenger tilb
 - Word-filene deles i én fil per kapittel eller delkapittel. Selve Word-filen slettes etterpå, siden den ligger på regjeringen.no.
 - Excel-filen gjøres om til TSV. Første rad må ha kolonnene `kap_nr`, `post_nr` og `beløp`.
 - `budsjett/VEIVISER.md` får en oversikt over hvilke år som ligger i basen.
+- Samledokumentene deles i én fil per svar. År og runde (STB eller RNB) leses fra dokumentet. Systemet gir høyst 100 svar per fil, så last opp så mange filer som trengs. Svarene legges til i samme mappe, og et svar med samme parti og nummer erstattes.
 - **Ny versjon:** Last opp en fil med samme navn, så erstattes den gamle mappen.
 
 ## Når noe stopper
