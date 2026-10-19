@@ -304,5 +304,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 ### Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A)
 
 - § 1. Overgangsregler om integreringsloven kapittel 6A – `forskrifter/overgangsregler-ukraina-kap6a/par-1.md`
-
 <!-- AUTO-SLUTT -->

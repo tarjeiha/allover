@@ -1657,11 +1657,11 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Merknader
 
-- Oppslag i folketrygdloven - arbeidsavklaringspenger – `merknader/aap.md`
-- Folketrygdloven – dagpenger under arbeidsløshet – `merknader/dagpenger.md`
-- Folketrygdloven – etterlatte og gravferd – `merknader/etterlatte-gravferd.md`
-- Oppslag i folketrygdloven - sykepenger og pleiepenger – `merknader/sykepenger.md`
-- Oppslag i folketrygdloven - uføretrygd – `merknader/uforetrygd.md`
+- Arbeidsavklaringspenger og tilleggsstønader (kap. 11 og 11 A) – `merknader/aap.md`
+- Dagpenger (kap. 4) – `merknader/dagpenger.md`
+- Etterlatte og gravferd (kap. 7, 16, 17, 17 A og 18) – `merknader/etterlatte-gravferd.md`
+- Folketrygdloven – sykepenger og pleiepenger (kap. 8 og 9) – `merknader/sykepenger.md`
+- Folketrygdloven – uføretrygd (kap. 12) – `merknader/uforetrygd.md`
 
 ### Rundskriv
 

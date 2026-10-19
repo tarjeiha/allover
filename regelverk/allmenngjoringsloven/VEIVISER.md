@@ -291,5 +291,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Kap. IV. Ikrafttreden m.m.**
 
 - § 10. Ikrafttreden og opphør – `forskrifter/skips-og-verftsindustrien/par-10.md`
-
 <!-- AUTO-SLUTT -->

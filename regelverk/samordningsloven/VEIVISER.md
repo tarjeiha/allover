@@ -404,5 +404,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 1. Virkeområde – `forskrifter/samordningsgaranti-innforing-2023/par-1.md`
 - § 2. Samordningsgaranti – `forskrifter/samordningsgaranti-innforing-2023/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/samordningsgaranti-innforing-2023/par-3.md`
-
 <!-- AUTO-SLUTT -->

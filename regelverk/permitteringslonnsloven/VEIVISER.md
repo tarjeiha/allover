@@ -58,5 +58,4 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 3a. (Opphevet) – `forskrifter/lonnsplikt-permittering/par-3a.md`
 - § 4. Forskyvning i beregningsperioden – `forskrifter/lonnsplikt-permittering/par-4.md`
 - § 5. Ikrafttredelse mv. – `forskrifter/lonnsplikt-permittering/par-5.md`
-
 <!-- AUTO-SLUTT -->
