@@ -42,7 +42,7 @@ Andel av befolkningen etter fylke og alder 2025–2026 (tabell 12), med barnetil
 
 ## Kildekart: hva som hentes automatisk (oppdatert 2026-10-17)
 
-Nav-henting (`.github/workflows/nav-hent.yml`) går hver mandag gjennom kildesidene som står i `data/nav/kilder.json`, laster ned nye xlsx-filer og legger dem inn. Hver tabells kildeside og siste innlegging står i `data/nav/indeks.tsv`. Alt under `https://www.nav.no/no/nav-og-samfunn/statistikk/`:
+Nav-henting (`.github/workflows/nav-hent.yml`) går hver mandag, og tirsdag morgen etter at Nav har lagt ut AAP-tallene kl. 08, gjennom kildesidene som står i `data/nav/kilder.json`, laster ned nye xlsx-filer og legger dem inn. Hver tabells kildeside og siste innlegging står i `data/nav/indeks.tsv`. Alt under `https://www.nav.no/no/nav-og-samfunn/statistikk/`:
 
 | Side | Status |
 |---|---|

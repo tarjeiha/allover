@@ -4,6 +4,9 @@ on:
   schedule:
     # Hver mandag kl. 05.00 UTC (07.00 norsk sommertid, 06.00 vintertid)
     - cron: "0 5 * * 1"
+    # Hver tirsdag kl. 07.30 UTC (09.30 sommertid, 08.30 vintertid): Nav legger ut AAP-tall tirsdager kl. 08 norsk tid.
+    # Ett tidspunkt etter publisering både sommer og vinter. Filer som allerede ligger inne, hoppes over.
+    - cron: "30 7 * * 2"
   workflow_dispatch:
 
 permissions:
