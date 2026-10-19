@@ -12,6 +12,20 @@ Denne mappen har statsbudsjettdokumenter for Arbeids- og inkluderingsdepartement
 - **Overslagsløyvingar.** Poster merket «overslagsløyving» (f.eks. dagpenger) er anslag. Utgiftene følger regelverket, ikke beløpet.
 - **Kapittelnumrene sier hva slags kapittel det er.** Kap. 600–699 er ordinære utgiftskapitler, 2470 er Statens pensjonskasse, 2541–2686 er folketrygden, 3000-kapitlene er inntekter som hører til 600-kapitlene, og 5000-kapitlene er andre inntekter og utgifter (f.eks. 5470 Statens pensjonskasse og 5705 Refusjon av dagpengar). Se programkategori-filene for inndelingen.
 
+## Satser (`budsjett/satser/`)
+
+Satstabeller over flere år, lagt inn for hånd. Oppgi kilden og datoen når du bruker dem.
+
+| Fil | Innhold | Kilde |
+|---|---|---|
+| `grunnstonad.tsv` | Årlige satser for grunnstønad (folketrygdloven § 6-3), sats 1–6, i nominelle kroner, 2021–2026 og regjeringens forslag for 2027 | Svar på spørsmål nr. 233 fra Senterpartiet til statsbudsjettet 2027 (tabell 1). Departementets kilder: Arbeids- og velferdsdirektoratet (vedlegg 1 til rundskrivet til folketrygdloven § 6-3) og Arbeids- og inkluderingsdepartementet. Lagt inn 19. oktober 2026. |
+
+Feller:
+
+- **2023 er et gjennomsnitt.** Satsene ble endret 1. juli 2023. Tallet for 2023 er gjennomsnittet av satsene per 1. januar og per 1. juli, ikke en sats som gjaldt.
+- **2027 er et forslag.** Satsene for 2027 er regjeringens forslag i Prop. 1 S (2026–2027), ikke vedtatt.
+- **Årsbeløp.** Satsene er per år. Prop. 1 S oppgir ofte satsen per måned (sats 1 er 752 kroner per måned i 2027, altså 9 024 kroner per år).
+
 ## Stortingets vedtak (`budsjett/ÅR/stortinget/`)
 
 Hentes automatisk fra data.stortinget.no hver mandag (`verktoy/stortinget_budsjett.py`). Gjelder alle departementer, fra og med sesjonen 2021–2022. For 2021 er bare ny saldering med. Alle beløp gjelder budsjettåret i mappenavnet.
