@@ -1,6 +1,6 @@
 ---
 name: regelverksbase
-description: Felles regelverksbase for norsk lov og forskrift. Bruk ved spørsmål om hva norsk lov eller forskrift sier - paragrafer, hjemmel, vilkår, rettigheter, unntak, eller om noe er lovlig eller påkrevd etter regelverket - også når spørsmålet stilles uten fagord. Skillen sjekker selv hvilke regelverk som er dekket. Last den før du svarer på slike spørsmål, og svar ikke fra hukommelsen.
+description: Felles regelverksbase for norsk lov og forskrift. Bruk ved spørsmål om hva norsk lov eller forskrift sier - paragrafer, hjemmel, vilkår, rettigheter, unntak, eller om noe er lovlig eller påkrevd etter regelverket - også når spørsmålet stilles uten fagord. Dekker også Stortinget: anmodningsvedtak («har Stortinget bedt regjeringen om»), skriftlige spørsmål, interpellasjoner og spørretimespørsmål, representantforslag og utfallet av dem («har parti X foreslått Y», «hva skjedde med forslaget om Z»), for sesjon 2013-2014 og framover. Skillen sjekker selv hva som er dekket. Last den før du svarer på slike spørsmål, og svar ikke fra hukommelsen.
 ---
 
 # Regelverksbasen

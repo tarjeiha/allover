@@ -1,8 +1,6 @@
 # Oppdatering av Stortinget-indeksen
 
-# Oppdatering av Stortinget-indeksen
-
-**Merk: skillen er delt i to periode-pakker** (`aid-stortinget-2013-2021` og `aid-stortinget-fra2021`) fordi samlet data oversteg claude.ai sin 30 MB-grense for skill-pakker. Nye sesjoner skal ALLTID legges til i `aid-stortinget-fra2021` (perioden vokser videre) — aldri i `aid-stortinget-2013-2021`, som er en avsluttet, historisk periode (Solberg-regjeringen). Se punkt 5 under for hvordan periodegrensen ble satt og hvorfor.
+**Merk:** all data ligger i `stortinget/data/<datatype>/<sesjon>.json` (én fil per sesjon). Tidligere var indeksen delt i to skillpakker fordi claude.ai avviser skillpakker over 30 MB. Den grensen gjelder ikke i repoet. Nye sesjoner får sin egen fil automatisk.
 
 Fremgangsmåte for å hente en ny sesjon (f.eks. når 2026-2027 åpner i oktober) eller friske opp inneværende sesjon.
 
@@ -71,16 +69,9 @@ Ikke bruk voteringsendepunktet (`/eksport/voteringer?sakid=X`) — testet og for
 
 Denne listen ble bygget iterativt ved å inspisere «annet»-restkategorien etter hver runde — start med de første to-tre, kjør, sjekk restkategorien for mønstre, gjenta. Stopp når restkategorien slutter å krympe merkbart (nådd ved ~2,5% i denne bygningen).
 
-## 5. Størrelsesbudsjett — 30 MB uncompressed er en hard grense
+## 5. Størrelse
 
-claude.ai avviser skill-pakker der uncompressed innhold overstiger 30 MB. Ukomprimert bygde vi 49,4 MB (se endringslogg 2026-09-10, «Komprimering under 30 MB-grensen») — gikk under ved å:
-- Ikke bundle `sporretime_sporsmal` (identisk skjema, men 8,2 MB — vurder om den fortsatt bør holdes utenfor, eller flyttes til egen skill, hvis den legges til igjen)
-- Fjerne `url` fra `sporsmal`-poster og rekonstruere fra `type`(kort kode)+`legacy_id` i skriptet
-- Fjerne `til_minister_tittel` og slå opp via en liten kodetabell i skriptet i stedet
-- Slå sammen `sendt_dato`/`besvart_dato`/`datert_dato` til ett `dato`-felt
-- Kompakt JSON (`separators=(',',':')`) i stedet for `indent=2` i alle tre filer
-
-**Ved neste utvidelse:** sjekk total pakkestørrelse (`du -sh data/`) FØR pakking, ikke etter — regn med at hver ny sesjon legger til noen hundre KB per datatype. Bruk `json.dumps(..., separators=(',',':'))` fra start.
+Bruk kompakt JSON (`separators=(',',':')`). Hver ny sesjon legger til rundt 1 MB. `skriv_json` i `felles.py` skriver bare sesjonsfilene som er endret, så nattjobben gir små diff-er.
 
 ## 6. Kvalitetssjekk før publisering
 

@@ -1,4 +1,12 @@
-# Endringslogg — aid-stortinget-fra2021
+# Endringslogg
+
+Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner skillene og skillmappene som fantes før flyttingen.
+
+## 2026-10-19 – Flyttet til allover
+
+**Endring:** Begge skillpakkene (aid-stortinget-2013-2021 og aid-stortinget-fra2021) er slått sammen til `stortinget/` i allover, med én datafil per sesjon og datatype. Søkeskriptet og oppdateringsskriptene er tilpasset (`last_json`/`skriv_json` arbeider på mapper). Oppdateringen kjører som Action hver natt.
+
+**Funn:** 287 representantforslag i 2013-2021-dataene sto to ganger, med to ulike `sesjon_fremmet`, fordi samme sak er listet i to påfølgende sesjoner. Dublettene er fjernet ved sammenslåingen, og første forekomst er beholdt.
 
 ## 2026-10-13 – Lenkefeil: `qid` → `qnid` i URL-malene
 
