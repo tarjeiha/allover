@@ -1,0 +1,26 @@
+name: Utforsk Nav-tekster (midlertidig)
+on:
+  push:
+    branches: [claude/test-nav-tekster]
+permissions:
+  contents: read
+jobs:
+  u:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
+          curl -sL -A "$UA" https://www.nav.no/robots.txt | head -30
+          curl -sL -A "$UA" -o sm.xml -w "%{http_code} %{size_download}\n" https://www.nav.no/sitemap.xml
+          head -c 600 sm.xml; echo
+          grep -o '<loc>[^<]*</loc>' sm.xml | wc -l
+          grep -o '<loc>[^<]*sitemap[^<]*</loc>' sm.xml | head
+          grep -o '<url><loc>[^<]*/nyheter/[^<]*</loc>[^/]*<lastmod>[^<]*' sm.xml | sed 's/<[^>]*>/ /g' | grep statistikk | sort -k2 | head -200
+          echo === antall statistikk-nyheter; grep -o '<loc>[^<]*statistikk[^<]*/nyheter/[^<]*</loc>' sm.xml | wc -l
+          echo === side html sjekk
+          curl -sL -A "$UA" https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/veksten-i-aap-mottakere-flater-ut -o p.html
+          grep -o '"publish[^,]*' p.html | head; grep -o 'og:[a-z]*" content="[^"]*' p.html | head
+          grep -o '__NEXT_DATA__' p.html | head -1; wc -c p.html
+          echo === nyheter-liste
+          curl -sL -A "$UA" -o l.html -w "%{http_code}\n" https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter
+          grep -o 'href="[^"]*/nyheter/[^"]*"' l.html | sort -u | head -50
