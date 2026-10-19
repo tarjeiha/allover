@@ -1,0 +1,20 @@
+name: tmp sjekk
+on:
+  push:
+    branches: [claude/project-thread-nbcnhe]
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for s in 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026; do
+            curl -sL "https://data.stortinget.no/eksport/saker?sesjonid=$s&format=json" -o s.json
+            python3 - "$s" <<'P'
+          import json,sys,re
+          d=json.load(open("s.json"))
+          for x in d.get("saker_liste",[]):
+              t=re.sub(r"\s+"," ",x.get("korttittel") or ""); h=x.get("henvisning") or ""
+              if re.search(r"omprioriter|[Rr]evidert|nasjonalbudsjett|tilleggs",t+" "+(x.get("tittel") or "")):
+                  print(sys.argv[1], x["id"], "|", t, "|", h, "|", (x.get("komite") or {}).get("navn"))
+          P
+          done

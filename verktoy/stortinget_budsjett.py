@@ -110,7 +110,7 @@ def velg_saker(saker):
             aar = int(m.group(1))
             if aar == y1:
                 fase = "nysaldering"
-            elif re.search(r"Revidert nasjonalbudsjett|Tilleggsbevilgninger og omprioriteringer", tittel):
+            elif re.search(r"Revidert nasjonalbudsjett|Tilleggsbevilgninger og omprioriteringer|Tilleggsløyvingar og omprioriteringar", tittel):
                 fase = "rnb"
             elif re.match(r"(Statsbudsjettet|Endring av Prop\. 1 S|Finansinnstillingen)", tittel):
                 fase = "rammer" if int(nr) == 2 else "saldert"
@@ -245,7 +245,8 @@ def partiforslag(rot, flertall):
         hode = [tekst(e) for e in th.iter("entry")]
         if len(hode) < 5 or not hode[3].startswith("Prop. 1 S"):
             continue
-        partier = hode[4:]
+        # Flertallets kolonne heter iblant «Komiteens tilråding (A, Sp og SV)» eller uten parentes.
+        partier = [re.sub(r"^Komiteens tilråding\s*\(?(.*?)\)?$", r"\1", p).strip() for p in hode[4:]]
         type_, kap, kapnavn = "", None, ""
         for row in tbl.find("tgroup/tbody").iter("row"):
             c = [tekst(e) for e in row.findall("entry")]
@@ -268,7 +269,7 @@ def partiforslag(rot, flertall):
                 forslag = tall(m.group(1)) if m else tall(verdi)
                 if forslag is None:
                     continue
-                koder = {x.strip() for x in re.split(r",| og ", re.sub(r"^Komiteens tilråding \((.*)\)$", r"\1", parti))}
+                koder = {x.strip() for x in re.split(r",| og ", parti)}
                 ut.append({"type": type_ or ("utgift" if kap < 3000 else "inntekt"), "kap": kap, "kapnavn": kapnavn,
                            "post": int(c[1]), "postnavn": c[2], "prop_1_s": "" if prop is None else prop, "parti": parti,
                            "forslag": forslag, "endring": "" if prop is None else forslag - prop,
@@ -360,10 +361,14 @@ def main():
             except Exception as e:  # noqa: BLE001
                 feil.append(f"{navn}: kunne ikke hente eller lese ({e})")
                 info["rot"] = None
-            vot = []
+            vot, sett = [], set()
             for sid in info["saker"]:
                 try:
-                    vot += voteringer(sid, fersk_innst)
+                    for v in voteringer(sid, fersk_innst):
+                        # Saker som behandles samlet, deler voteringer. Tell hver votering én gang.
+                        if v.get("votering_id") not in sett:
+                            sett.add(v.get("votering_id"))
+                            vot.append(v)
                 except Exception as e:  # noqa: BLE001
                     feil.append(f"{navn}, sak {sid}: voteringer feilet ({e})")
             info["vot"] = vot
