@@ -8,7 +8,8 @@ Bruk:
 Nav legger pressemeldinger om statistikk under .../statistikk/<område>/nyheter/<navn>. De står i
 nav.no/sitemap.xml så lenge de ligger ute. Eldre pressemeldinger tas ned etter en tid.
 
-  1. Kandidater: alle /statistikk/*/nyheter/-adresser i sitemap.xml og alle som allerede er lagret.
+  1. Kandidater: alle /statistikk/*/nyheter/-adresser i sitemap.xml, pressemeldinger som statistikksidene
+     i data/nav/kilder.json lenker til (sitemap.xml oppdateres ikke med en gang), og alle som allerede er lagret.
      Med --wayback tas også adresser Internet Archive har sett siden 2024 med (brukes for å hente
      eldre pressemeldinger én gang). Er en side borte fra nav.no, hentes Internet Archives kopi.
   2. Siden leses fra __NEXT_DATA__ (Navs egen sidedata): tittel, publiseringsdato, sist endret,
@@ -70,6 +71,25 @@ def rens_url(url):
 def fra_sitemap():
     tekst = hent(SITEMAP) or ""
     return {u for u in map(rens_url, re.findall(r"<loc>([^<]+)</loc>", tekst)) if u}
+
+
+def fra_statistikksider(feil):
+    """Pressemeldinger lenket fra Navs statistikksider. Sitemap.xml oppdateres ikke med en gang, men
+    statistikksiden lenker til ny pressemelding fra publiseringstidspunktet."""
+    kilder = json.loads((ROT / "data" / "nav" / "kilder.json").read_text(encoding="utf-8"))["tabeller"]
+    sider = sorted({t["kildeside"] for t in kilder if t["kildeside"].startswith("http") and "arkiv" not in t["kildeside"]})
+    ut = set()
+    for side in sider:
+        try:
+            tekst = hent(side) or ""
+        except Exception as e:  # noqa: BLE001
+            feil.append(f"{side}: kunne ikke leses ({e})")
+            continue
+        for href in re.findall(r'href="([^"]*/nyheter/[^"]+)"', tekst):
+            u = rens_url(urllib.parse.urljoin(NAVNO, html.unescape(href)))
+            if u:
+                ut.add(u)
+    return ut
 
 
 OMRADER = ["aap-nedsatt-arbeidsevne-og-uforetrygd", "arbeidssokere-og-stillinger", "sykefravar", "pensjon",
@@ -305,6 +325,7 @@ def main(tor=False, wayback=False):
         feil.append(f"sitemap.xml kunne ikke leses ({e})")
     if not kandidater and not feil:
         feil.append("fant ingen pressemeldinger i sitemap.xml (har Nav endret oppbygningen?)")
+    kandidater |= fra_statistikksider(feil)
     arkiv = {}
     if wayback:
         arkiv = fra_wayback(feil)
