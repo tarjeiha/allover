@@ -1,0 +1,14 @@
+# Dependabot foreslår oppdateringer av Actions som pull request.
+# Actions er låst til en bestemt commit (med versjonen i en kommentar), slik at
+# en endring hos tredjepart ikke tas i bruk før den er godkjent her.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      actions:
+        patterns: ["*"]
+    commit-message:
+      prefix: "Actions"
