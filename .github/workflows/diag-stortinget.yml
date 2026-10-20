@@ -1,0 +1,12 @@
+name: Diagnose Stortinget (midlertidig)
+on:
+  push:
+    branches: [claude/project-thread-nr3oez]
+    paths: [.github/workflows/diag-stortinget.yml, verktoy/diag_stortinget.py]
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 verktoy/diag_stortinget.py
+      - run: python3 stortinget/scripts/backfill_sesjon.py --dry-run 2>&1 | tail -8
