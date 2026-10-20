@@ -1,0 +1,40 @@
+name: Oppdater oversikten over basene
+
+on:
+  schedule:
+    # Hver dag kl. 06.30 UTC, etter de nattlige hentejobbene
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: om-basene
+  cancel-in-progress: false
+
+jobs:
+  oppdater:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lag oversikten
+        run: python3 verktoy/om_basene.py
+
+      - name: Legg inn på main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add OM-BASENE.md
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Oversikten over basene: oppdatert"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
