@@ -1,28 +1,28 @@
 # Kilde: Nav
 # Tabell: Personer med nedsatt arbeidsevne etter fylke og alder, måned (NED150)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-20
 # Ark: 2a. Fylke Prosent av befolkning
 # Merknad: Fylke. Prosent av befolkningen
-# Merknad: Januar - august 2026
+# Merknad: Januar - september 2026
 gruppe	rad	Kilde: NAV		Personer med nedsatt arbeidsevne. Fylke og alder. Tidsserie måned
-gruppe	rad		202601		202602	202603	202604	202605	202606	202607	202608
-gruppe	rad		Januar		Februar	Mars	April	Mai	Juni	Juli	August
-I alt		I alt	6.92139		6.936821	6.928807	6.943624	6.96788	7.073721	7.107109	7.127696
-I alt	03	Oslo - Oslove	6.6		6.6	6.6	6.7	6.7	6.8	6.9	6.9
-I alt	11	Rogaland	6.1		6.1	6.1	6.2	6.2	6.3	6.3	6.3
-I alt	15	Møre og Romsdal	6.8		6.9	6.8	6.9	6.9	7	7.1	7.2
-I alt	18	Nordland - Nordlánnda	7		7	6.9	6.9	7	7.1	7.1	7.1
-I alt	31	Østfold	9.6		9.6	9.6	9.6	9.6	9.7	9.8	9.8
-I alt	32	Akershus	6.6		6.6	6.6	6.7	6.7	6.8	6.8	6.9
-I alt	33	Buskerud	7.4		7.4	7.4	7.4	7.4	7.5	7.6	7.6
-I alt	34	Innlandet	6.8		6.8	6.8	6.9	6.9	7	7.1	7.1
-I alt	39	Vestfold	7.4		7.4	7.4	7.4	7.4	7.6	7.6	7.6
-I alt	40	Telemark	6.9		6.8	6.8	6.8	6.8	7	7	7
-I alt	42	Agder	8.3		8.3	8.2	8.2	8.3	8.4	8.4	8.4
-I alt	46	Vestland	6.2		6.2	6.2	6.2	6.2	6.3	6.3	6.3
-I alt	50	Trøndelag - Trööndelage	6.6		6.6	6.6	6.6	6.6	6.7	6.8	6.7
-I alt	55	Troms - Romsa - Tromssa	6.4		6.4	6.4	6.4	6.4	6.5	6.6	6.6
-I alt	56	Finnmark - Finnmárku - Finmarkku	6.7		6.7	6.8	6.7	6.7	6.8	6.8	6.9
-gruppe	rad	Svalbard og øvrige områder	* *		* *	* *	* *	* *	* *	* *	* *
-97	Ukjent	Ukjent	23.1		23.5	23.5	26.5	25.4	25.3	25	25.3
+gruppe	rad		202601		202602	202603	202604	202605	202606	202607	202608	202609
+gruppe	rad		Januar		Februar	Mars	April	Mai	Juni	Juli	August	September
+I alt		I alt	6.92139		6.936821	6.928807	6.943624	6.96788	7.073721	7.107109	7.127696	7.199184
+I alt	03	Oslo - Oslove	6.6		6.6	6.6	6.7	6.7	6.8	6.9	6.9	6.9
+I alt	11	Rogaland	6.1		6.1	6.1	6.2	6.2	6.3	6.3	6.3	6.4
+I alt	15	Møre og Romsdal	6.8		6.9	6.8	6.9	6.9	7	7.1	7.2	7.3
+I alt	18	Nordland - Nordlánnda	7		7	6.9	6.9	7	7.1	7.1	7.1	7.2
+I alt	31	Østfold	9.6		9.6	9.6	9.6	9.6	9.7	9.8	9.8	9.9
+I alt	32	Akershus	6.6		6.6	6.6	6.7	6.7	6.8	6.8	6.9	6.9
+I alt	33	Buskerud	7.4		7.4	7.4	7.4	7.4	7.5	7.6	7.6	7.7
+I alt	34	Innlandet	6.8		6.8	6.8	6.9	6.9	7	7.1	7.1	7.2
+I alt	39	Vestfold	7.4		7.4	7.4	7.4	7.4	7.6	7.6	7.6	7.6
+I alt	40	Telemark	6.9		6.8	6.8	6.8	6.8	7	7	7	7.1
+I alt	42	Agder	8.3		8.3	8.2	8.2	8.3	8.4	8.4	8.4	8.5
+I alt	46	Vestland	6.2		6.2	6.2	6.2	6.2	6.3	6.3	6.3	6.4
+I alt	50	Trøndelag - Trööndelage	6.6		6.6	6.6	6.6	6.6	6.7	6.8	6.7	6.8
+I alt	55	Troms - Romsa - Tromssa	6.4		6.4	6.4	6.4	6.4	6.5	6.6	6.6	6.6
+I alt	56	Finnmark - Finnmárku - Finmarkku	6.7		6.7	6.8	6.7	6.7	6.8	6.8	6.9	7
+gruppe	rad	Svalbard og øvrige områder	* *		* *	* *	* *	* *	* *	* *	* *	* *
+97	Ukjent	Ukjent	23.1		23.5	23.5	26.5	25.4	25.3	25	25.3	25.4

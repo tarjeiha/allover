@@ -1,117 +1,117 @@
 # Kilde: Nav
 # Tabell: Mottakere av arbeidsavklaringspenger etter diagnose og alder, kvartal (AAP360)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-20
 # Ark: Diagnosefingruppe. Alder
-# Mottakere av arbeidsavklaringspenger. Diagnose og alder. 2. kvartal 2026
+# Mottakere av arbeidsavklaringspenger. Diagnose og alder. Tidsserie kvartal
 # Diagnosefingruppe og alder. Antall
-# Periode: 2. kvartal 2010 - 2026
+# Periode: 3. kvartal 2010 - 2026
 gruppe	rad		2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
-29 år og under	I alt		26467	28700	28937	28271	27830	28283	29027	28933	27070	24920	25671	27062	27408	29088	30598	32158	31900
-29 år og under	Allment	Annet allment inkl. avklaring/prosedyrer	315	394	413	409	420	417	398	385	316	270	247	252	248	260	290	316	325
-29 år og under	Allment	Infeksjonssykdommer	36	41	42	49	57	59	56	57	49	41	35	37	35	23	26	27	32
-29 år og under	Allment	Skader/forgiftning/komplikasjoner	275	305	306	291	256	274	256	260	212	172	176	173	170	169	162	163	156
-29 år og under	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	497	617	738	885	1076	1241	1328	1468	1499	1459	1509	1586	1608	1721	1747	1791	1698
-29 år og under	Allment	Symptomer på sykdom inkl.smerte/feber	44	58	57	66	63	63	62	75	79	68	72	75	91	102	100	97	114
-29 år og under	Andre lidelser		1011	1160	1201	1157	1157	1130	1127	1123	1020	940	973	983	965	1030	1052	1078	1098
-29 år og under	Andre lidelser	Skader/komplikasjoner	11	*	13	13	13	14	19	16	*	11	*	11	*	*	12	11	*
-29 år og under	Hjerte- og karsykdommer		150	171	176	177	176	171	166	178	159	149	174	164	156	179	185	176	170
-29 år og under	Kreft		137	160	173	200	190	203	210	222	202	196	192	182	182	189	196	196	181
-29 år og under	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	331	382	404	404	417	429	467	438	396	330	317	332	317	328	338	326	342
-29 år og under	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	10	14	11	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-29 år og under	Muskel- og skjelettlidelser	Artrose	66	73	70	61	53	54	53	57	45	31	29	36	25	23	28	35	24
-29 år og under	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	142	164	147	127	119	111	107	115	107	88	66	69	73	76	94	99	79
-29 år og under	Muskel- og skjelettlidelser	Brudd og skade	355	363	376	346	334	283	295	285	280	264	255	237	230	235	247	266	251
-29 år og under	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	476	482	436	395	335	311	281	264	224	174	169	187	183	180	176	198	147
-29 år og under	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	83	91	83	87	75	79	62	61	50	50	54	62	65	58	63	79	92
-29 år og under	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	208	235	229	186	201	187	160	160	141	130	142	150	164	176	194	199	212
-29 år og under	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	188	177	177	185	207	224	196	201	181	157	141	148	144	144	141	128	120
-29 år og under	Muskel- og skjelettlidelser	Rygglidelser	926	1057	1035	901	819	789	778	663	640	556	546	567	577	603	625	632	663
-29 år og under	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	420	445	440	455	434	481	513	490	473	489	533	596	622	666	650	646	631
-29 år og under	Psykiske lidelser	Andre psykiske plager	854	1144	1319	1452	1576	1716	1857	1950	1868	1662	1613	1663	1698	1821	1909	2109	2094
-29 år og under	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	2916	3688	4215	4339	4602	4906	4986	4869	4513	4043	4094	4480	4721	5520	6443	7178	7455
-29 år og under	Psykiske lidelser	Angst-, tvangs- og stresslidelser	1962	2517	2904	3168	3387	3647	3953	4053	3910	3766	4047	4423	4531	4902	5208	5378	5301
-29 år og under	Psykiske lidelser	Depresjon/bipolar lidelse	3313	4116	4583	4840	5131	5324	5573	5691	5431	4992	5219	5409	5416	5345	5055	4932	4519
-29 år og under	Psykiske lidelser	Hukommelsesforstyrrelse/demens	51	87	98	98	118	115	138	137	121	111	110	113	131	159	161	179	174
-29 år og under	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	1011	1363	1481	1456	1459	1469	1500	1373	1197	1114	1237	1241	1172	1219	1242	1253	1221
-29 år og under	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	590	762	879	893	868	929	977	938	841	783	801	834	853	931	1024	1131	1177
-29 år og under	Psykiske lidelser	Psykose/schizofreni	979	984	959	943	925	909	856	898	844	773	783	770	723	704	742	771	778
-29 år og under	Psykiske lidelser	Søvnforstyrrelse	68	88	104	117	111	113	131	135	123	119	144	169	169	149	156	182	192
-29 år og under	Sykdommer i fordøyelsesorganene		435	485	516	555	603	622	681	695	686	653	666	724	715	729	728	776	774
-29 år og under	Sykdommer i luftveiene		126	127	114	120	107	117	100	90	77	74	80	76	72	70	79	74	70
-29 år og under	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	765	850	894	905	939	937	892	852	757	685	667	692	649	653	690	731	752
-29 år og under	Sykdommer i nervesystemet	Migrene/ hodepine	195	242	265	251	273	306	346	362	345	378	398	445	513	532	641	811	891
-29 år og under	Sykdommer i nervesystemet	Skader i hode/ nervesystem	124	135	124	127	126	126	130	118	99	91	95	94	103	118	126	146	134
-29 år og under	Ukjent		7397	5714	3955	2606	1198	524	372	253	174	100	77	80	75	62	66	43	24
-30-49 år	I alt		94146	95741	89790	86303	78309	72407	69939	67794	62266	53950	53819	59280	61405	65516	70637	77078	79707
-30-49 år	Allment	Annet allment inkl. avklaring/prosedyrer	709	770	783	785	711	690	649	601	562	452	414	424	431	426	457	452	463
-30-49 år	Allment	Infeksjonssykdommer	151	169	171	195	185	175	173	149	137	120	112	118	116	125	119	120	101
-30-49 år	Allment	Skader/forgiftning/komplikasjoner	1427	1436	1313	1252	1158	1035	1019	1003	900	784	734	770	765	781	791	834	788
-30-49 år	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2175	2307	2387	2486	2418	2351	2442	2533	2559	2277	2252	2485	2767	3439	3910	4264	4402
-30-49 år	Allment	Symptomer på sykdom inkl.smerte/feber	258	271	284	283	273	256	224	229	213	205	210	273	288	333	403	441	533
-30-49 år	Andre lidelser		4501	4784	4575	4521	4253	4036	3977	3908	3601	3080	3028	3287	3331	3374	3521	3670	3650
-30-49 år	Andre lidelser	Skader/komplikasjoner	67	64	60	58	54	46	35	32	34	34	34	46	36	25	26	38	46
-30-49 år	Hjerte- og karsykdommer		1578	1671	1621	1584	1497	1392	1358	1295	1146	1003	970	1026	1019	1020	1066	1140	1163
-30-49 år	Kreft		1099	1193	1251	1333	1330	1388	1428	1443	1446	1395	1413	1533	1510	1574	1604	1705	1674
-30-49 år	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	1873	1918	1675	1662	1524	1459	1385	1405	1294	1147	1132	1265	1256	1199	1235	1292	1324
-30-49 år	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	41	37	35	29	24	22	21	19	15	*	*	10	11	12	11	20	15
-30-49 år	Muskel- og skjelettlidelser	Artrose	985	1066	1027	985	932	835	822	808	744	600	582	616	639	605	596	593	578
-30-49 år	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1083	1187	1210	1177	1146	1088	1013	944	852	730	732	815	844	815	827	931	933
-30-49 år	Muskel- og skjelettlidelser	Brudd og skade	1667	1737	1675	1694	1592	1546	1479	1416	1265	1124	1162	1308	1294	1229	1259	1350	1351
-30-49 år	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	5798	6089	5847	5614	5162	4772	4461	4202	3638	3038	2738	2895	2887	2803	2946	3190	3205
-30-49 år	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	440	480	481	459	445	403	408	371	322	284	291	324	337	377	410	486	510
-30-49 år	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	996	1107	1134	1212	1137	1059	994	896	801	646	634	746	838	888	1015	1201	1268
-30-49 år	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1263	1257	1077	1027	934	909	908	946	864	738	667	717	694	709	670	680	665
-30-49 år	Muskel- og skjelettlidelser	Rygglidelser	7836	8199	7846	7629	7131	6427	6032	5768	5026	4239	4159	4664	4937	5149	5413	5982	6032
-30-49 år	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5475	5499	4979	4835	4550	4183	4055	3914	3636	3279	3329	3751	3975	4301	4452	4566	4653
-30-49 år	Psykiske lidelser	Andre psykiske plager	1442	1561	1615	1637	1538	1569	1618	1720	1684	1501	1392	1547	1596	1663	1850	2207	2350
-30-49 år	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	4690	4865	4567	4441	4061	3722	3605	3598	3318	2849	2904	3267	3509	4157	4971	5579	6291
-30-49 år	Psykiske lidelser	Angst-, tvangs- og stresslidelser	5762	6071	5975	6095	5752	5560	5529	5496	5206	4747	5007	5624	6098	6952	7827	8676	9123
-30-49 år	Psykiske lidelser	Depresjon/bipolar lidelse	12727	13660	13845	13904	13250	12610	12046	11609	10678	9122	9366	10290	10173	10309	10685	11368	11407
-30-49 år	Psykiske lidelser	Hukommelsesforstyrrelse/demens	85	105	106	126	141	150	152	156	156	143	132	148	155	183	248	284	287
-30-49 år	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	2332	2616	2697	2761	2659	2471	2449	2351	2145	1800	1932	2073	2164	2438	2553	2776	2739
-30-49 år	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2374	2800	2942	3063	3060	3000	2962	2780	2419	2026	2022	2131	2276	2677	3211	3931	4291
-30-49 år	Psykiske lidelser	Psykose/schizofreni	1348	1397	1189	1157	1008	903	889	874	791	657	650	678	707	723	715	752	868
-30-49 år	Psykiske lidelser	Søvnforstyrrelse	207	247	271	290	305	304	333	331	316	267	259	288	292	333	348	399	418
-30-49 år	Sykdommer i fordøyelsesorganene		1753	1884	1893	1945	1863	1860	1877	1753	1700	1517	1463	1554	1598	1672	1799	1933	2039
-30-49 år	Sykdommer i luftveiene		843	869	835	778	674	621	573	517	449	375	373	419	478	561	633	607	551
-30-49 år	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2653	2679	2596	2614	2592	2560	2409	2312	2171	1878	1820	2038	2080	2091	2133	2232	2261
-30-49 år	Sykdommer i nervesystemet	Migrene/ hodepine	1263	1273	1241	1247	1247	1218	1241	1307	1234	1160	1298	1580	1774	2064	2421	2830	3213
-30-49 år	Sykdommer i nervesystemet	Skader i hode/ nervesystem	349	375	373	354	329	320	322	350	353	357	390	409	402	406	430	462	470
-30-49 år	Ukjent		16896	14098	10214	7071	3374	1467	1051	758	591	370	211	161	128	103	82	87	45
-50 år og over	I alt		48450	51112	50288	52823	52689	51017	48625	47799	44626	39786	38701	44525	47283	50706	53798	56325	57021
-50 år og over	Allment	Annet allment inkl. avklaring/prosedyrer	230	242	242	247	235	230	213	211	177	136	137	148	149	170	196	237	223
-50 år og over	Allment	Infeksjonssykdommer	65	78	93	102	123	116	98	98	94	84	61	67	95	128	124	118	110
-50 år og over	Allment	Skader/forgiftning/komplikasjoner	656	733	747	763	769	774	782	776	754	693	621	664	693	718	818	895	865
-50 år og over	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	856	945	961	1050	987	925	957	964	926	887	895	1041	1245	1674	2114	2498	2565
-50 år og over	Allment	Symptomer på sykdom inkl.smerte/feber	148	146	157	177	195	186	185	172	142	141	141	170	194	242	268	322	377
-50 år og over	Andre lidelser		2421	2672	2696	2940	3055	3045	2946	2932	2715	2441	2371	2775	2955	3100	3160	3309	3282
-50 år og over	Andre lidelser	Skader/komplikasjoner	31	29	23	27	38	44	44	38	36	26	20	21	20	28	23	26	27
-50 år og over	Hjerte- og karsykdommer		2748	2996	3086	3300	3457	3453	3136	2995	2744	2438	2321	2613	2742	2893	2897	2953	2908
-50 år og over	Kreft		1927	1998	2189	2407	2669	2900	2895	2826	2882	2791	2762	2981	2981	3102	3205	3247	3345
-50 år og over	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	1112	1148	1126	1245	1276	1263	1281	1273	1167	1063	971	1172	1273	1231	1241	1289	1283
-50 år og over	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	30	23	21	17	16	11	15	17	14	*	13	14	12	*	*	11	13
-50 år og over	Muskel- og skjelettlidelser	Artrose	2253	2586	2697	2949	3140	3138	2997	2972	2757	2491	2389	2855	2967	3057	3191	3184	3154
-50 år og over	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	716	775	796	864	892	855	843	852	820	762	776	854	917	944	1013	1066	1020
-50 år og over	Muskel- og skjelettlidelser	Brudd og skade	1149	1232	1259	1365	1368	1383	1362	1399	1313	1127	1182	1337	1376	1377	1429	1489	1484
-50 år og over	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	4547	4897	4926	5391	5527	5379	5110	5006	4487	3922	3726	4392	4601	4608	4844	5032	4946
-50 år og over	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	308	314	312	327	363	315	300	289	277	220	208	248	294	325	354	403	421
-50 år og over	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	632	711	805	923	1001	991	966	888	715	620	580	768	932	1122	1270	1424	1561
-50 år og over	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	747	780	730	796	890	872	814	813	758	662	623	712	717	721	714	663	625
-50 år og over	Muskel- og skjelettlidelser	Rygglidelser	4323	4644	4558	4869	4874	4866	4575	4469	4144	3606	3568	4243	4665	5000	5204	5435	5643
-50 år og over	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	2727	2810	2715	2801	2789	2679	2516	2419	2310	2075	2062	2462	2789	3150	3383	3345	3232
-50 år og over	Psykiske lidelser	Andre psykiske plager	579	594	626	669	679	668	650	640	585	488	453	520	526	626	691	707	780
-50 år og over	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	1038	1150	1101	1080	1021	926	829	831	780	690	709	754	809	909	973	1021	1064
-50 år og over	Psykiske lidelser	Angst-, tvangs- og stresslidelser	1768	1951	1847	1877	1824	1755	1736	1776	1602	1449	1557	1850	1942	2230	2422	2503	2645
-50 år og over	Psykiske lidelser	Depresjon/bipolar lidelse	5168	5608	5526	5917	5867	5765	5519	5376	5089	4531	4375	4872	4901	4977	5028	5192	5175
-50 år og over	Psykiske lidelser	Hukommelsesforstyrrelse/demens	113	141	138	157	174	184	187	182	178	178	177	186	194	235	276	292	280
-50 år og over	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	576	662	709	786	787	764	723	714	623	528	560	572	599	666	753	801	791
-50 år og over	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	1123	1297	1457	1613	1713	1787	1643	1610	1452	1283	1255	1410	1537	1792	2204	2688	2907
-50 år og over	Psykiske lidelser	Psykose/schizofreni	162	190	190	174	165	178	169	161	139	132	131	157	166	184	179	195	204
-50 år og over	Psykiske lidelser	Søvnforstyrrelse	120	148	149	167	184	193	204	230	239	225	211	240	264	301	324	334	326
-50 år og over	Sykdommer i fordøyelsesorganene		831	931	964	1083	1086	1096	1034	1033	1021	880	914	1031	1038	1103	1176	1184	1211
-50 år og over	Sykdommer i luftveiene		705	817	825	908	959	930	875	839	787	679	610	761	844	962	1011	961	923
-50 år og over	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	1303	1407	1437	1588	1754	1741	1674	1697	1621	1452	1369	1574	1695	1895	1931	1979	1976
-50 år og over	Sykdommer i nervesystemet	Migrene/ hodepine	427	443	491	564	574	535	532	538	498	486	532	658	737	816	941	1082	1247
-50 år og over	Sykdommer i nervesystemet	Skader i hode/ nervesystem	166	178	177	196	206	208	217	217	220	215	224	263	288	307	325	353	360
-50 år og over	Ukjent		6745	5836	4512	3484	2032	862	598	546	560	376	197	140	126	106	111	87	48
+29 år og under	I alt		27221	28510	28286	27512	27136	27971	28683	28377	25878	24198	25599	26824	27482	29246	30488	31886	31773
+29 år og under	Allment	Annet allment inkl. avklaring/prosedyrer	335	415	398	391	399	407	406	372	283	265	246	254	246	269	286	333	318
+29 år og under	Allment	Infeksjonssykdommer	37	39	40	55	55	61	53	54	47	37	34	38	28	21	24	24	25
+29 år og under	Allment	Skader/forgiftning/komplikasjoner	292	303	297	280	247	269	262	251	192	175	174	181	170	172	165	163	147
+29 år og under	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	517	647	748	897	1108	1217	1355	1467	1479	1436	1519	1592	1607	1704	1726	1740	1716
+29 år og under	Allment	Symptomer på sykdom inkl.smerte/feber	42	57	60	60	66	67	69	72	71	66	72	81	92	106	99	105	120
+29 år og under	Andre lidelser		1057	1175	1164	1140	1133	1094	1129	1105	963	902	941	979	969	1044	1048	1091	1132
+29 år og under	Andre lidelser	Skader/komplikasjoner	10	10	14	12	13	15	19	12	*	10	*	*	*	*	11	12	13
+29 år og under	Hjerte- og karsykdommer		150	169	173	167	170	173	158	179	144	151	165	153	159	190	187	169	169
+29 år og under	Kreft		143	149	178	186	200	192	208	222	211	194	189	171	182	185	186	193	175
+29 år og under	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	357	388	392	403	413	424	459	430	365	303	313	315	297	318	315	316	350
+29 år og under	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	12	12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+29 år og under	Muskel- og skjelettlidelser	Artrose	67	72	67	54	49	50	52	54	43	31	28	30	26	18	27	33	29
+29 år og under	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	142	155	140	109	117	111	101	112	101	87	67	69	75	77	91	91	74
+29 år og under	Muskel- og skjelettlidelser	Brudd og skade	354	368	357	325	308	263	270	282	267	244	240	227	228	224	251	260	258
+29 år og under	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	470	462	415	369	296	302	265	242	196	157	167	183	174	185	173	187	143
+29 år og under	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	90	84	79	79	77	73	60	64	49	45	54	66	56	61	73	90	90
+29 år og under	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	216	225	223	184	184	166	154	156	128	124	138	154	162	197	198	205	195
+29 år og under	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	184	169	161	173	214	205	183	192	170	153	142	136	131	141	136	121	112
+29 år og under	Muskel- og skjelettlidelser	Rygglidelser	979	1036	957	848	758	779	735	642	590	517	540	552	582	599	646	613	654
+29 år og under	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	447	445	438	434	430	490	493	473	455	483	529	597	629	641	642	621	632
+29 år og under	Psykiske lidelser	Andre psykiske plager	946	1183	1338	1450	1586	1742	1878	1895	1826	1606	1608	1640	1740	1841	1916	2099	2084
+29 år og under	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	3187	3850	4232	4332	4627	4923	4983	4861	4314	4006	4132	4505	4877	5704	6532	7258	7532
+29 år og under	Psykiske lidelser	Angst-, tvangs- og stresslidelser	2108	2566	2943	3149	3360	3676	3984	3959	3760	3701	4064	4375	4608	4911	5175	5296	5260
+29 år og under	Psykiske lidelser	Depresjon/bipolar lidelse	3548	4219	4599	4800	4950	5233	5468	5592	5173	4778	5164	5338	5288	5281	4954	4760	4366
+29 år og under	Psykiske lidelser	Hukommelsesforstyrrelse/demens	61	84	99	103	120	123	129	139	125	103	118	123	142	157	162	180	168
+29 år og under	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	1091	1408	1472	1425	1422	1448	1433	1336	1144	1138	1253	1228	1178	1207	1234	1245	1238
+29 år og under	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	663	769	858	879	850	933	959	909	809	746	782	828	844	933	1007	1137	1203
+29 år og under	Psykiske lidelser	Psykose/schizofreni	975	1009	938	919	914	905	864	881	832	736	780	762	727	707	737	798	779
+29 år og under	Psykiske lidelser	Søvnforstyrrelse	73	87	102	112	111	117	128	126	121	123	148	172	164	153	159	189	181
+29 år og under	Sykdommer i fordøyelsesorganene		431	469	514	544	590	610	668	675	653	624	676	702	713	703	734	760	753
+29 år og under	Sykdommer i luftveiene		125	123	108	111	109	106	99	81	79	68	79	71	66	76	73	64	70
+29 år og under	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	803	860	880	930	919	928	872	844	700	673	661	660	631	675	689	731	744
+29 år og under	Sykdommer i nervesystemet	Migrene/ hodepine	207	225	252	251	267	313	341	355	341	348	396	463	507	566	652	824	886
+29 år og under	Sykdommer i nervesystemet	Skader i hode/ nervesystem	121	129	137	126	128	126	124	122	96	87	93	93	106	115	124	139	127
+29 år og under	Ukjent		6981	5149	3505	2208	942	429	321	219	143	80	78	75	66	53	54	38	29
+30-49 år	I alt		94999	94160	88089	83974	74270	71237	69090	66565	59498	52350	54601	59416	62047	65974	70957	77507	80470
+30-49 år	Allment	Annet allment inkl. avklaring/prosedyrer	733	769	780	776	695	694	632	600	539	416	406	434	428	448	453	467	477
+30-49 år	Allment	Infeksjonssykdommer	161	167	173	189	183	164	170	155	135	113	113	112	116	121	117	122	107
+30-49 år	Allment	Skader/forgiftning/komplikasjoner	1416	1421	1290	1240	1092	1008	1013	962	881	764	733	754	761	789	783	813	814
+30-49 år	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2200	2304	2404	2474	2313	2341	2464	2529	2473	2210	2265	2529	2846	3489	3916	4245	4480
+30-49 år	Allment	Symptomer på sykdom inkl.smerte/feber	255	273	284	282	261	239	210	227	227	197	227	271	296	348	398	458	557
+30-49 år	Andre lidelser		4603	4698	4525	4421	4075	3992	3935	3840	3418	2972	3060	3261	3301	3382	3511	3662	3625
+30-49 år	Andre lidelser	Skader/komplikasjoner	69	65	52	57	50	42	32	29	32	30	38	42	36	24	31	38	44
+30-49 år	Hjerte- og karsykdommer		1619	1650	1571	1562	1460	1374	1363	1257	1129	963	977	1032	1014	1036	1057	1135	1153
+30-49 år	Kreft		1150	1192	1279	1314	1316	1377	1429	1397	1407	1389	1417	1527	1521	1545	1599	1682	1701
+30-49 år	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	1888	1863	1653	1624	1454	1432	1399	1375	1230	1126	1164	1243	1245	1184	1256	1290	1331
+30-49 år	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	36	35	33	29	22	23	20	20	12	*	*	10	11	13	11	19	17
+30-49 år	Muskel- og skjelettlidelser	Artrose	1010	1052	992	960	875	809	802	798	683	572	582	622	638	583	574	583	574
+30-49 år	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1097	1204	1199	1148	1063	1055	985	918	790	690	744	823	846	795	826	929	928
+30-49 år	Muskel- og skjelettlidelser	Brudd og skade	1707	1735	1670	1647	1549	1480	1437	1399	1200	1113	1194	1283	1260	1227	1255	1354	1329
+30-49 år	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	5851	5991	5680	5430	4891	4657	4358	4047	3423	2875	2739	2879	2841	2769	2937	3198	3196
+30-49 år	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	445	484	464	433	420	404	398	362	306	275	308	335	346	374	423	482	521
+30-49 år	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1038	1100	1162	1199	1099	1020	950	861	744	638	669	749	830	898	1037	1214	1306
+30-49 år	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1267	1222	1043	1005	893	873	935	932	834	684	683	708	695	707	656	677	680
+30-49 år	Muskel- og skjelettlidelser	Rygglidelser	7988	8106	7697	7444	6750	6258	5914	5604	4733	4110	4242	4738	4908	5203	5439	5981	6084
+30-49 år	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5518	5412	4897	4694	4278	4113	4029	3875	3564	3174	3380	3767	4051	4300	4430	4544	4646
+30-49 år	Psykiske lidelser	Andre psykiske plager	1455	1572	1614	1589	1479	1558	1624	1724	1615	1433	1428	1551	1599	1688	1848	2263	2380
+30-49 år	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	4806	4821	4526	4415	3802	3738	3622	3589	3177	2811	2980	3302	3711	4332	5071	5737	6464
+30-49 år	Psykiske lidelser	Angst-, tvangs- og stresslidelser	5880	6148	5974	5996	5496	5534	5487	5490	5061	4698	5136	5700	6273	7125	7992	8839	9279
+30-49 år	Psykiske lidelser	Depresjon/bipolar lidelse	12988	13740	13772	13685	12664	12416	11885	11387	10123	8874	9503	10220	10156	10261	10632	11420	11406
+30-49 år	Psykiske lidelser	Hukommelsesforstyrrelse/demens	88	107	107	127	141	149	157	162	148	146	143	144	155	205	253	286	285
+30-49 år	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	2424	2665	2707	2724	2556	2477	2421	2311	2040	1763	1947	2119	2235	2423	2601	2751	2774
+30-49 år	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2447	2809	2941	3018	2967	2975	2896	2647	2282	1939	2002	2114	2342	2715	3304	3949	4291
+30-49 år	Psykiske lidelser	Psykose/schizofreni	1389	1372	1161	1135	943	889	898	867	711	649	646	691	722	719	713	786	884
+30-49 år	Psykiske lidelser	Søvnforstyrrelse	211	255	271	297	294	303	324	325	301	256	255	291	316	329	363	405	416
+30-49 år	Sykdommer i fordøyelsesorganene		1803	1881	1890	1933	1824	1833	1819	1742	1656	1469	1466	1554	1603	1683	1802	1952	2062
+30-49 år	Sykdommer i luftveiene		828	867	816	748	632	590	540	503	410	377	360	400	491	562	601	588	535
+30-49 år	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2664	2647	2551	2599	2527	2544	2387	2286	2104	1801	1842	2090	2112	2083	2102	2238	2286
+30-49 år	Sykdommer i nervesystemet	Migrene/ hodepine	1263	1256	1229	1234	1214	1199	1257	1286	1199	1155	1364	1572	1824	2113	2467	2874	3336
+30-49 år	Sykdommer i nervesystemet	Skader i hode/ nervesystem	358	370	356	339	324	313	329	349	353	359	396	404	397	403	427	458	466
+30-49 år	Ukjent		16344	12907	9326	6207	2668	1364	969	710	558	301	186	145	121	98	72	68	36
+50 år og over	I alt		49507	51173	50643	52500	51153	50342	48383	47377	43295	38650	39694	44850	48016	51182	53407	56325	57110
+50 år og over	Allment	Annet allment inkl. avklaring/prosedyrer	234	247	243	246	226	225	214	200	179	133	143	143	158	165	204	226	230
+50 år og over	Allment	Infeksjonssykdommer	74	77	97	108	120	106	102	102	84	79	63	68	101	134	116	115	108
+50 år og over	Allment	Skader/forgiftning/komplikasjoner	672	739	726	769	728	791	789	781	741	685	628	672	695	729	842	892	843
+50 år og over	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	879	951	967	1032	937	932	950	972	907	862	906	1047	1304	1774	2145	2507	2602
+50 år og over	Allment	Symptomer på sykdom inkl.smerte/feber	150	160	155	180	190	189	187	166	137	144	147	171	216	250	262	327	394
+50 år og over	Andre lidelser		2489	2721	2726	2939	2970	2998	2941	2886	2649	2372	2431	2823	2987	3105	3108	3311	3291
+50 år og over	Andre lidelser	Skader/komplikasjoner	33	32	27	34	34	38	44	37	33	24	21	22	21	24	25	24	25
+50 år og over	Hjerte- og karsykdommer		2833	3052	3135	3311	3455	3386	3102	2980	2633	2335	2334	2651	2760	2873	2866	2958	2911
+50 år og over	Kreft		1957	2032	2237	2432	2680	2896	2889	2869	2834	2751	2803	2956	3004	3061	3222	3231	3345
+50 år og over	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	1139	1144	1160	1217	1237	1243	1274	1263	1147	1022	1000	1219	1251	1234	1216	1256	1288
+50 år og over	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	30	25	21	16	13	15	17	19	13	13	12	15	12	*	*	14	13
+50 år og over	Muskel- og skjelettlidelser	Artrose	2342	2598	2733	2947	3136	3111	2967	2934	2666	2441	2474	2857	2982	3062	3110	3154	3129
+50 år og over	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	737	758	817	872	875	853	850	846	807	733	787	852	909	953	1013	1070	1012
+50 år og over	Muskel- og skjelettlidelser	Brudd og skade	1165	1287	1303	1353	1354	1385	1376	1392	1248	1122	1227	1344	1378	1408	1399	1492	1505
+50 år og over	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	4699	4922	4999	5297	5354	5250	5081	4889	4266	3734	3820	4434	4610	4591	4774	4977	4908
+50 år og over	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	314	303	312	327	355	315	296	285	260	217	220	255	297	336	378	395	428
+50 år og over	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	643	740	804	946	971	985	964	840	688	598	613	801	979	1159	1301	1471	1601
+50 år og over	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	773	780	737	802	895	879	786	832	738	651	626	733	717	713	683	668	623
+50 år og over	Muskel- og skjelettlidelser	Rygglidelser	4453	4621	4606	4876	4753	4753	4530	4446	4008	3479	3705	4278	4786	5065	5160	5513	5628
+50 år og over	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	2742	2818	2740	2789	2697	2627	2485	2401	2278	2026	2166	2516	2869	3177	3317	3340	3253
+50 år og over	Psykiske lidelser	Andre psykiske plager	592	590	654	659	662	664	646	639	559	465	454	530	539	658	683	730	783
+50 år og over	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	1075	1160	1073	1090	947	910	824	835	767	687	711	755	834	920	972	1040	1084
+50 år og over	Psykiske lidelser	Angst-, tvangs- og stresslidelser	1851	1980	1825	1860	1774	1758	1772	1742	1551	1462	1628	1837	1986	2300	2420	2523	2657
+50 år og over	Psykiske lidelser	Depresjon/bipolar lidelse	5248	5619	5578	5878	5654	5734	5486	5354	4971	4408	4485	4846	4925	4965	5010	5163	5158
+50 år og over	Psykiske lidelser	Hukommelsesforstyrrelse/demens	121	138	148	164	170	185	182	167	185	172	178	200	201	235	266	299	275
+50 år og over	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	607	687	737	793	763	751	724	683	590	528	574	575	618	702	770	804	802
+50 år og over	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	1187	1344	1475	1628	1677	1743	1628	1567	1393	1239	1247	1414	1565	1871	2258	2712	2951
+50 år og over	Psykiske lidelser	Psykose/schizofreni	167	192	182	180	167	173	170	165	137	124	137	175	177	179	189	194	189
+50 år og over	Psykiske lidelser	Søvnforstyrrelse	130	156	156	175	182	197	221	229	229	215	207	245	270	296	317	329	323
+50 år og over	Sykdommer i fordøyelsesorganene		852	947	989	1066	1045	1068	1024	1049	984	876	924	1017	1075	1132	1170	1163	1210
+50 år og over	Sykdommer i luftveiene		755	833	833	910	951	922	863	849	763	643	634	769	849	969	968	941	900
+50 år og over	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	1297	1414	1488	1593	1737	1710	1687	1691	1595	1404	1418	1567	1766	1884	1895	1978	1955
+50 år og over	Sykdommer i nervesystemet	Migrene/ hodepine	446	456	502	558	545	538	538	526	495	487	553	672	757	830	939	1098	1281
+50 år og over	Sykdommer i nervesystemet	Skader i hode/ nervesystem	177	180	179	196	209	216	214	213	214	211	225	265	293	315	324	339	363
+50 år og over	Ukjent		6644	5470	4279	3257	1690	796	560	528	546	308	193	126	125	106	79	71	42

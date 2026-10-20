@@ -1,45 +1,45 @@
 # Kilde: Nav
 # Tabell: Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, kvartal (AAP370)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-20
 # Ark: Diagnosefingruppe. Prosent
-# Mottakere av arbeidsavklaringspenger. Diagnose og kjønn. 2. kvartal 2026
+# Mottakere av arbeidsavklaringspenger. Diagnose og kjønn. Tidsserie kvartal
 # Diagnosefingruppe. Prosentfordelt
-# Periode: 2. kvartal 2010 - 2026
+# Periode: 3. kvartal 2010 - 2026
 rad		2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
 I alt		100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100
-Allment	Annet allment inkl. avklaring/prosedyrer	0.7	0.8	0.9	0.9	0.9	0.9	0.9	0.8	0.8	0.7	0.7	0.6	0.6	0.6	0.6	0.6	0.6
-Allment	Infeksjonssykdommer	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.1
-Allment	Skader/forgiftning/komplikasjoner	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.3	1.2	1.2	1.1	1.1	1.1	1.1
-Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2.1	2.2	2.4	2.6	2.8	3	3.2	3.4	3.7	3.9	3.9	3.9	4.1	4.7	5	5.2	5.1
-Allment	Symptomer på sykdom inkl.smerte/feber	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.4	0.4	0.4	0.5	0.5	0.5	0.6
-Andre lidelser		4.7	4.9	5	5.1	5.3	5.4	5.5	5.5	5.5	5.4	5.4	5.4	5.3	5.2	5	4.9	4.8
+Allment	Annet allment inkl. avklaring/prosedyrer	0.8	0.8	0.9	0.9	0.9	0.9	0.9	0.8	0.8	0.7	0.7	0.6	0.6	0.6	0.6	0.6	0.6
+Allment	Infeksjonssykdommer	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.1
+Allment	Skader/forgiftning/komplikasjoner	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.3	1.2	1.2	1.2	1.2	1.1	1.1
+Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2.1	2.2	2.5	2.7	2.9	3	3.3	3.5	3.8	3.9	3.9	3.9	4.2	4.8	5	5.1	5.2
+Allment	Symptomer på sykdom inkl.smerte/feber	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.4	0.4	0.4	0.4	0.5	0.5	0.5	0.6
+Andre lidelser		4.7	4.9	5	5.2	5.4	5.4	5.5	5.5	5.5	5.4	5.4	5.4	5.3	5.1	5	4.9	4.8
 Andre lidelser	Skader/komplikasjoner	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0	0	0	0	0
-Hjerte- og karsykdommer		2.6	2.8	2.9	3	3.2	3.3	3.2	3.1	3	3	2.9	2.9	2.9	2.8	2.7	2.6	2.5
-Kreft		1.9	1.9	2.1	2.4	2.6	3	3.1	3.1	3.4	3.7	3.7	3.6	3.4	3.3	3.2	3.1	3.1
-Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2	2	1.9	2	2	2.1	2.1	2.2	2.1	2.1	2	2.1	2.1	1.9	1.8	1.8	1.7
+Hjerte- og karsykdommer		2.7	2.8	2.9	3.1	3.3	3.3	3.2	3.1	3	3	2.9	2.9	2.9	2.8	2.7	2.6	2.5
+Kreft		1.9	1.9	2.2	2.4	2.8	3	3.1	3.2	3.5	3.8	3.7	3.6	3.4	3.3	3.2	3.1	3.1
+Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2	2	1.9	2	2	2.1	2.1	2.2	2.1	2.1	2.1	2.1	2	1.9	1.8	1.7	1.8
 Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Muskel- og skjelettlidelser	Artrose	2	2.1	2.2	2.4	2.6	2.7	2.6	2.7	2.6	2.6	2.5	2.7	2.7	2.5	2.5	2.3	2.2
-Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1.1	1.2	1.3	1.3	1.4	1.4	1.3	1.3	1.3	1.3	1.3	1.3	1.3	1.3	1.2	1.3	1.2
-Muskel- og skjelettlidelser	Brudd og skade	1.9	1.9	2	2	2.1	2.1	2.1	2.1	2.1	2.1	2.2	2.2	2.1	2	1.9	1.9	1.8
-Muskel- og skjelettlidelser	Nakke/ skulderlidelser	6.4	6.5	6.6	6.8	6.9	6.9	6.7	6.6	6.2	6	5.6	5.7	5.6	5.2	5.1	5.1	4.9
-Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.5	0.5	0.5	0.5	0.6	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.6	0.6
-Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1.1	1.2	1.3	1.4	1.5	1.5	1.4	1.3	1.2	1.2	1.1	1.3	1.4	1.5	1.6	1.7	1.8
-Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1.3	1.3	1.2	1.2	1.3	1.3	1.3	1.4	1.3	1.3	1.2	1.2	1.1	1.1	1	0.9	0.8
-Muskel- og skjelettlidelser	Rygglidelser	7.7	7.9	8	8	8.1	8	7.7	7.5	7.3	7.1	7	7.2	7.5	7.4	7.3	7.3	7.3
-Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5.1	5	4.8	4.8	4.9	4.8	4.8	4.7	4.8	4.9	5	5.2	5.4	5.6	5.5	5.2	5.1
-Psykiske lidelser	Andre psykiske plager	1.7	1.9	2.1	2.2	2.4	2.6	2.8	3	3.1	3.1	2.9	2.9	2.8	2.8	2.9	3	3.1
-Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	5.1	5.5	5.8	5.9	6.1	6.3	6.4	6.4	6.4	6.4	6.5	6.5	6.6	7.3	8	8.3	8.8
-Psykiske lidelser	Angst-, tvangs- og stresslidelser	5.6	6	6.3	6.7	6.9	7.2	7.6	7.8	8	8.4	9	9.1	9.2	9.7	10	10	10.1
-Psykiske lidelser	Depresjon/bipolar lidelse	12.5	13.3	14.2	14.7	15.3	15.6	15.7	15.7	15.8	15.7	16	15.7	15.1	14.2	13.4	13	12.5
-Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.1	0.2	0.2	0.2	0.3	0.3	0.3	0.3	0.3	0.4	0.4	0.3	0.4	0.4	0.4	0.5	0.4
-Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	2.3	2.6	2.9	3	3.1	3.1	3.2	3.1	3	2.9	3.2	3	2.9	3	2.9	2.9	2.8
-Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.4	2.8	3.1	3.3	3.6	3.8	3.8	3.7	3.5	3.4	3.5	3.3	3.4	3.7	4.2	4.7	5
-Psykiske lidelser	Psykose/schizofreni	1.5	1.5	1.4	1.4	1.3	1.3	1.3	1.3	1.3	1.3	1.3	1.2	1.2	1.1	1.1	1	1.1
-Psykiske lidelser	Søvnforstyrrelse	0.2	0.3	0.3	0.3	0.4	0.4	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.6	0.6
-Sykdommer i fordøyelsesorganene		1.8	1.9	2	2.1	2.2	2.4	2.4	2.4	2.5	2.6	2.6	2.5	2.5	2.4	2.4	2.4	2.4
-Sykdommer i luftveiene		1	1	1	1.1	1.1	1.1	1	1	1	1	0.9	1	1	1.1	1.1	1	0.9
-Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.8	2.8	2.9	3.1	3.3	3.5	3.4	3.4	3.4	3.4	3.3	3.3	3.3	3.2	3.1	3	3
-Sykdommer i nervesystemet	Migrene/ hodepine	1.1	1.1	1.2	1.2	1.3	1.4	1.4	1.5	1.6	1.7	1.9	2.1	2.2	2.3	2.6	2.9	3.2
+Muskel- og skjelettlidelser	Artrose	2	2.1	2.3	2.4	2.7	2.7	2.6	2.7	2.6	2.6	2.6	2.7	2.7	2.5	2.4	2.3	2.2
+Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1.2	1.2	1.3	1.3	1.3	1.4	1.3	1.3	1.3	1.3	1.3	1.3	1.3	1.2	1.2	1.3	1.2
+Muskel- og skjelettlidelser	Brudd og skade	1.9	2	2	2	2.1	2.1	2.1	2.2	2.1	2.2	2.2	2.2	2.1	2	1.9	1.9	1.8
+Muskel- og skjelettlidelser	Nakke/ skulderlidelser	6.4	6.5	6.6	6.8	6.9	6.8	6.6	6.4	6.1	5.9	5.6	5.7	5.5	5.2	5.1	5	4.9
+Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.5	0.5	0.5	0.5	0.6	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.6	0.6	0.6
+Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1.1	1.2	1.3	1.4	1.5	1.5	1.4	1.3	1.2	1.2	1.2	1.3	1.4	1.5	1.6	1.7	1.8
+Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1.3	1.2	1.2	1.2	1.3	1.3	1.3	1.4	1.4	1.3	1.2	1.2	1.1	1.1	1	0.9	0.8
+Muskel- og skjelettlidelser	Rygglidelser	7.8	7.9	7.9	8	8	7.9	7.6	7.5	7.3	7	7.1	7.3	7.5	7.4	7.3	7.3	7.3
+Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5.1	5	4.8	4.8	4.9	4.8	4.8	4.7	4.9	4.9	5.1	5.2	5.5	5.5	5.4	5.1	5
+Psykiske lidelser	Andre psykiske plager	1.7	1.9	2.2	2.3	2.4	2.7	2.8	3	3.1	3	2.9	2.8	2.8	2.9	2.9	3.1	3.1
+Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	5.3	5.7	5.9	6	6.1	6.4	6.5	6.5	6.4	6.5	6.5	6.5	6.9	7.5	8.1	8.5	8.9
+Psykiske lidelser	Angst-, tvangs- og stresslidelser	5.7	6.2	6.4	6.7	7	7.3	7.7	7.9	8.1	8.6	9	9.1	9.4	9.8	10.1	10.1	10.2
+Psykiske lidelser	Depresjon/bipolar lidelse	12.7	13.6	14.3	14.9	15.3	15.6	15.6	15.7	15.8	15.7	16	15.6	14.8	14	13.3	12.9	12.4
+Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.2	0.2	0.2	0.2	0.3	0.3	0.3	0.3	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.4
+Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	2.4	2.7	2.9	3	3.1	3.1	3.1	3	2.9	3	3.1	3	2.9	3	3	2.9	2.8
+Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.5	2.8	3.2	3.4	3.6	3.8	3.8	3.6	3.5	3.4	3.4	3.3	3.5	3.8	4.2	4.7	5
+Psykiske lidelser	Psykose/schizofreni	1.5	1.5	1.4	1.4	1.3	1.3	1.3	1.3	1.3	1.3	1.3	1.2	1.2	1.1	1.1	1.1	1.1
+Psykiske lidelser	Søvnforstyrrelse	0.2	0.3	0.3	0.4	0.4	0.4	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.6	0.5
+Sykdommer i fordøyelsesorganene		1.8	1.9	2	2.2	2.3	2.3	2.4	2.4	2.6	2.6	2.6	2.5	2.5	2.4	2.4	2.3	2.4
+Sykdommer i luftveiene		1	1	1.1	1.1	1.1	1.1	1	1	1	0.9	0.9	0.9	1	1.1	1.1	1	0.9
+Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.8	2.8	2.9	3.1	3.4	3.5	3.4	3.4	3.4	3.4	3.3	3.3	3.3	3.2	3	3	2.9
+Sykdommer i nervesystemet	Migrene/ hodepine	1.1	1.1	1.2	1.2	1.3	1.4	1.5	1.5	1.6	1.7	1.9	2.1	2.2	2.4	2.6	2.9	3.2
 Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.5	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6
-Ukjent		18.4	14.6	11.1	7.9	4.2	1.9	1.4	1.1	1	0.7	0.4	0.3	0.2	0.2	0.2	0.1	0.1
+Ukjent		17.5	13.5	10.2	7.1	3.5	1.7	1.3	1	1	0.6	0.4	0.3	0.2	0.2	0.1	0.1	0.1

@@ -1,13 +1,13 @@
-# Mottakere av arbeidsavklaringspenger etter alder og kjønn (AAP320), juni 2010–juni 2026
+# Mottakere av arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP320)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger
-Oppdatert: 15.09.2026
+Lagt inn: 2026-10-20
 
 ## 0. Om tabellene
 
 - Kilde: NAV
-- Mottakere av arbeidsavklaringspenger. Alder og Kjønn. 2. kvartal 2026
+- Mottakere av arbeidsavklaringspenger. Alder og Kjønn. Tidsserie kvartal
 - Om tabellene
-- Periode: Juni 2010 - juni 2026
+- Periode: September 2010 - september 2026
 - "Om statistikken - Mottakere av arbeidsavklaringspenger" finner du på nav.no ved å følge lenken under relatert informasjon på siden "Mottakere av arbeidsavklaringspenger (AAP)".
 

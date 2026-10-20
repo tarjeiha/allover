@@ -1,117 +1,117 @@
 # Kilde: Nav
 # Tabell: Mottakere av arbeidsavklaringspenger etter diagnose og alder, kvartal (AAP360)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-20
 # Ark: Diagnosefingruppe. Alder. Prose
-# Mottakere av arbeidsavklaringspenger. Diagnose og alder. 2. kvartal 2026
+# Mottakere av arbeidsavklaringspenger. Diagnose og alder. Tidsserie kvartal
 # Diagnosefingruppe og alder. Antall
-# Periode: 2. kvartal 2010 - 2026
+# Periode: 3. kvartal 2010 - 2026
 gruppe	rad		2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
 29 år og under	I alt		100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100
-29 år og under	Allment	Annet allment inkl. avklaring/prosedyrer	1.2	1.4	1.4	1.4	1.5	1.5	1.4	1.3	1.2	1.1	1	0.9	0.9	0.9	0.9	1	1
+29 år og under	Allment	Annet allment inkl. avklaring/prosedyrer	1.2	1.5	1.4	1.4	1.5	1.5	1.4	1.3	1.1	1.1	1	0.9	0.9	0.9	0.9	1	1
 29 år og under	Allment	Infeksjonssykdommer	0.1	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.1	0.1	0.1	0.1	0.1	0.1	0.1
-29 år og under	Allment	Skader/forgiftning/komplikasjoner	1	1.1	1.1	1	0.9	1	0.9	0.9	0.8	0.7	0.7	0.6	0.6	0.6	0.5	0.5	0.5
-29 år og under	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	1.9	2.1	2.6	3.1	3.9	4.4	4.6	5.1	5.5	5.9	5.9	5.9	5.9	5.9	5.7	5.6	5.3
+29 år og under	Allment	Skader/forgiftning/komplikasjoner	1.1	1.1	1	1	0.9	1	0.9	0.9	0.7	0.7	0.7	0.7	0.6	0.6	0.5	0.5	0.5
+29 år og under	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	1.9	2.3	2.6	3.3	4.1	4.4	4.7	5.2	5.7	5.9	5.9	5.9	5.8	5.8	5.7	5.5	5.4
 29 år og under	Allment	Symptomer på sykdom inkl.smerte/feber	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.3	0.3	0.3	0.3	0.3	0.4	0.3	0.3	0.4
-29 år og under	Andre lidelser		3.8	4	4.2	4.1	4.2	4	3.9	3.9	3.8	3.8	3.8	3.6	3.5	3.5	3.4	3.4	3.4
-29 år og under	Andre lidelser	Skader/komplikasjoner	0	0	0	0	0	0	0.1	0.1	0	0	0	0	0	0	0	0	0
-29 år og under	Hjerte- og karsykdommer		0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.7	0.6	0.6	0.6	0.6	0.5	0.5
-29 år og under	Kreft		0.5	0.6	0.6	0.7	0.7	0.7	0.7	0.8	0.7	0.8	0.7	0.7	0.7	0.6	0.6	0.6	0.6
-29 år og under	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	1.3	1.3	1.4	1.4	1.5	1.5	1.6	1.5	1.5	1.3	1.2	1.2	1.2	1.1	1.1	1	1.1
+29 år og under	Andre lidelser		3.9	4.1	4.1	4.1	4.2	3.9	3.9	3.9	3.7	3.7	3.7	3.6	3.5	3.6	3.4	3.4	3.6
+29 år og under	Andre lidelser	Skader/komplikasjoner	0	0	0	0	0	0.1	0.1	0	0	0	0	0	0	0	0	0	0
+29 år og under	Hjerte- og karsykdommer		0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.5	0.5
+29 år og under	Kreft		0.5	0.5	0.6	0.7	0.7	0.7	0.7	0.8	0.8	0.8	0.7	0.6	0.7	0.6	0.6	0.6	0.6
+29 år og under	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	1.3	1.4	1.4	1.5	1.5	1.5	1.6	1.5	1.4	1.3	1.2	1.2	1.1	1.1	1	1	1.1
 29 år og under	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 29 år og under	Muskel- og skjelettlidelser	Artrose	0.2	0.3	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
-29 år og under	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	0.5	0.6	0.5	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.3	0.3	0.3	0.3	0.3	0.3	0.2
-29 år og under	Muskel- og skjelettlidelser	Brudd og skade	1.3	1.3	1.3	1.2	1.2	1	1	1	1	1.1	1	0.9	0.8	0.8	0.8	0.8	0.8
-29 år og under	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	1.8	1.7	1.5	1.4	1.2	1.1	1	0.9	0.8	0.7	0.7	0.7	0.7	0.6	0.6	0.6	0.5
-29 år og under	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.3	0.3	0.3	0.3	0.3	0.3	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3
-29 år og under	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	0.8	0.8	0.8	0.7	0.7	0.7	0.6	0.6	0.5	0.5	0.6	0.6	0.6	0.6	0.6	0.6	0.7
-29 år og under	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	0.7	0.6	0.6	0.7	0.7	0.8	0.7	0.7	0.7	0.6	0.5	0.5	0.5	0.5	0.5	0.4	0.4
-29 år og under	Muskel- og skjelettlidelser	Rygglidelser	3.5	3.7	3.6	3.2	2.9	2.8	2.7	2.3	2.4	2.2	2.1	2.1	2.1	2.1	2	2	2.1
-29 år og under	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	1.6	1.6	1.5	1.6	1.6	1.7	1.8	1.7	1.7	2	2.1	2.2	2.3	2.3	2.1	2	2
-29 år og under	Psykiske lidelser	Andre psykiske plager	3.2	4	4.6	5.1	5.7	6.1	6.4	6.7	6.9	6.7	6.3	6.1	6.2	6.3	6.2	6.6	6.6
-29 år og under	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	11	12.9	14.6	15.3	16.5	17.3	17.2	16.8	16.7	16.2	15.9	16.6	17.2	19	21.1	22.3	23.4
-29 år og under	Psykiske lidelser	Angst-, tvangs- og stresslidelser	7.4	8.8	10	11.2	12.2	12.9	13.6	14	14.4	15.1	15.8	16.3	16.5	16.9	17	16.7	16.6
-29 år og under	Psykiske lidelser	Depresjon/bipolar lidelse	12.5	14.3	15.8	17.1	18.4	18.8	19.2	19.7	20.1	20	20.3	20	19.8	18.4	16.5	15.3	14.2
-29 år og under	Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.2	0.3	0.3	0.3	0.4	0.4	0.5	0.5	0.4	0.4	0.4	0.4	0.5	0.5	0.5	0.6	0.5
-29 år og under	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	3.8	4.7	5.1	5.2	5.2	5.2	5.2	4.7	4.4	4.5	4.8	4.6	4.3	4.2	4.1	3.9	3.8
-29 år og under	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.2	2.7	3	3.2	3.1	3.3	3.4	3.2	3.1	3.1	3.1	3.1	3.1	3.2	3.3	3.5	3.7
-29 år og under	Psykiske lidelser	Psykose/schizofreni	3.7	3.4	3.3	3.3	3.3	3.2	2.9	3.1	3.1	3.1	3.1	2.8	2.6	2.4	2.4	2.4	2.4
-29 år og under	Psykiske lidelser	Søvnforstyrrelse	0.3	0.3	0.4	0.4	0.4	0.4	0.5	0.5	0.5	0.5	0.6	0.6	0.6	0.5	0.5	0.6	0.6
-29 år og under	Sykdommer i fordøyelsesorganene		1.6	1.7	1.8	2	2.2	2.2	2.3	2.4	2.5	2.6	2.6	2.7	2.6	2.5	2.4	2.4	2.4
-29 år og under	Sykdommer i luftveiene		0.5	0.4	0.4	0.4	0.4	0.4	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.2	0.3	0.2	0.2
-29 år og under	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.9	3	3.1	3.2	3.4	3.3	3.1	2.9	2.8	2.7	2.6	2.6	2.4	2.2	2.3	2.3	2.4
-29 år og under	Sykdommer i nervesystemet	Migrene/ hodepine	0.7	0.8	0.9	0.9	1	1.1	1.2	1.3	1.3	1.5	1.6	1.6	1.9	1.8	2.1	2.5	2.8
-29 år og under	Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.5	0.5	0.4	0.4	0.5	0.4	0.4	0.4	0.4	0.4	0.4	0.3	0.4	0.4	0.4	0.5	0.4
-29 år og under	Ukjent		27.9	19.9	13.7	9.2	4.3	1.9	1.3	0.9	0.6	0.4	0.3	0.3	0.3	0.2	0.2	0.1	0.1
+29 år og under	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	0.5	0.5	0.5	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.3	0.3	0.3	0.3	0.3	0.3	0.2
+29 år og under	Muskel- og skjelettlidelser	Brudd og skade	1.3	1.3	1.3	1.2	1.1	0.9	0.9	1	1	1	0.9	0.8	0.8	0.8	0.8	0.8	0.8
+29 år og under	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	1.7	1.6	1.5	1.3	1.1	1.1	0.9	0.9	0.8	0.6	0.7	0.7	0.6	0.6	0.6	0.6	0.5
+29 år og under	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.3	0.3	0.3	0.3	0.3	0.3	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.3
+29 år og under	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	0.8	0.8	0.8	0.7	0.7	0.6	0.5	0.5	0.5	0.5	0.5	0.6	0.6	0.7	0.6	0.6	0.6
+29 år og under	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	0.7	0.6	0.6	0.6	0.8	0.7	0.6	0.7	0.7	0.6	0.6	0.5	0.5	0.5	0.4	0.4	0.4
+29 år og under	Muskel- og skjelettlidelser	Rygglidelser	3.6	3.6	3.4	3.1	2.8	2.8	2.6	2.3	2.3	2.1	2.1	2.1	2.1	2	2.1	1.9	2.1
+29 år og under	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	1.6	1.6	1.5	1.6	1.6	1.8	1.7	1.7	1.8	2	2.1	2.2	2.3	2.2	2.1	1.9	2
+29 år og under	Psykiske lidelser	Andre psykiske plager	3.5	4.1	4.7	5.3	5.8	6.2	6.5	6.7	7.1	6.6	6.3	6.1	6.3	6.3	6.3	6.6	6.6
+29 år og under	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	11.7	13.5	15	15.7	17.1	17.6	17.4	17.1	16.7	16.6	16.1	16.8	17.7	19.5	21.4	22.8	23.7
+29 år og under	Psykiske lidelser	Angst-, tvangs- og stresslidelser	7.7	9	10.4	11.4	12.4	13.1	13.9	14	14.5	15.3	15.9	16.3	16.8	16.8	17	16.6	16.6
+29 år og under	Psykiske lidelser	Depresjon/bipolar lidelse	13	14.8	16.3	17.4	18.2	18.7	19.1	19.7	20	19.7	20.2	19.9	19.2	18.1	16.2	14.9	13.7
+29 år og under	Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.2	0.3	0.3	0.4	0.4	0.4	0.4	0.5	0.5	0.4	0.5	0.5	0.5	0.5	0.5	0.6	0.5
+29 år og under	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	4	4.9	5.2	5.2	5.2	5.2	5	4.7	4.4	4.7	4.9	4.6	4.3	4.1	4	3.9	3.9
+29 år og under	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.4	2.7	3	3.2	3.1	3.3	3.3	3.2	3.1	3.1	3.1	3.1	3.1	3.2	3.3	3.6	3.8
+29 år og under	Psykiske lidelser	Psykose/schizofreni	3.6	3.5	3.3	3.3	3.4	3.2	3	3.1	3.2	3	3	2.8	2.6	2.4	2.4	2.5	2.5
+29 år og under	Psykiske lidelser	Søvnforstyrrelse	0.3	0.3	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.6	0.6	0.6	0.5	0.5	0.6	0.6
+29 år og under	Sykdommer i fordøyelsesorganene		1.6	1.6	1.8	2	2.2	2.2	2.3	2.4	2.5	2.6	2.6	2.6	2.6	2.4	2.4	2.4	2.4
+29 år og under	Sykdommer i luftveiene		0.5	0.4	0.4	0.4	0.4	0.4	0.3	0.3	0.3	0.3	0.3	0.3	0.2	0.3	0.2	0.2	0.2
+29 år og under	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.9	3	3.1	3.4	3.4	3.3	3	3	2.7	2.8	2.6	2.5	2.3	2.3	2.3	2.3	2.3
+29 år og under	Sykdommer i nervesystemet	Migrene/ hodepine	0.8	0.8	0.9	0.9	1	1.1	1.2	1.3	1.3	1.4	1.5	1.7	1.8	1.9	2.1	2.6	2.8
+29 år og under	Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.4	0.5	0.5	0.5	0.5	0.5	0.4	0.4	0.4	0.4	0.4	0.3	0.4	0.4	0.4	0.4	0.4
+29 år og under	Ukjent		25.6	18.1	12.4	8	3.5	1.5	1.1	0.8	0.6	0.3	0.3	0.3	0.2	0.2	0.2	0.1	0.1
 30-49 år	I alt		100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100
-30-49 år	Allment	Annet allment inkl. avklaring/prosedyrer	0.8	0.8	0.9	0.9	0.9	1	0.9	0.9	0.9	0.8	0.8	0.7	0.7	0.7	0.6	0.6	0.6
+30-49 år	Allment	Annet allment inkl. avklaring/prosedyrer	0.8	0.8	0.9	0.9	0.9	1	0.9	0.9	0.9	0.8	0.7	0.7	0.7	0.7	0.6	0.6	0.6
 30-49 år	Allment	Infeksjonssykdommer	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.1
-30-49 år	Allment	Skader/forgiftning/komplikasjoner	1.5	1.5	1.5	1.5	1.5	1.4	1.5	1.5	1.4	1.5	1.4	1.3	1.2	1.2	1.1	1.1	1
-30-49 år	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2.3	2.4	2.7	2.9	3.1	3.2	3.5	3.7	4.1	4.2	4.2	4.2	4.5	5.2	5.5	5.5	5.5
-30-49 år	Allment	Symptomer på sykdom inkl.smerte/feber	0.3	0.3	0.3	0.3	0.3	0.4	0.3	0.3	0.3	0.4	0.4	0.5	0.5	0.5	0.6	0.6	0.7
-30-49 år	Andre lidelser		4.8	5	5.1	5.2	5.4	5.6	5.7	5.8	5.8	5.7	5.6	5.5	5.4	5.1	5	4.8	4.6
-30-49 år	Andre lidelser	Skader/komplikasjoner	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0	0.1	0.1	0.1	0.1	0.1	0	0	0	0.1
-30-49 år	Hjerte- og karsykdommer		1.7	1.7	1.8	1.8	1.9	1.9	1.9	1.9	1.8	1.9	1.8	1.7	1.7	1.6	1.5	1.5	1.5
-30-49 år	Kreft		1.2	1.2	1.4	1.5	1.7	1.9	2	2.1	2.3	2.6	2.6	2.6	2.5	2.4	2.3	2.2	2.1
-30-49 år	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2	2	1.9	1.9	1.9	2	2	2.1	2.1	2.1	2.1	2.1	2	1.8	1.7	1.7	1.7
+30-49 år	Allment	Skader/forgiftning/komplikasjoner	1.5	1.5	1.5	1.5	1.5	1.4	1.5	1.4	1.5	1.5	1.3	1.3	1.2	1.2	1.1	1	1
+30-49 år	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2.3	2.4	2.7	2.9	3.1	3.3	3.6	3.8	4.2	4.2	4.1	4.3	4.6	5.3	5.5	5.5	5.6
+30-49 år	Allment	Symptomer på sykdom inkl.smerte/feber	0.3	0.3	0.3	0.3	0.4	0.3	0.3	0.3	0.4	0.4	0.4	0.5	0.5	0.5	0.6	0.6	0.7
+30-49 år	Andre lidelser		4.8	5	5.1	5.3	5.5	5.6	5.7	5.8	5.7	5.7	5.6	5.5	5.3	5.1	4.9	4.7	4.5
+30-49 år	Andre lidelser	Skader/komplikasjoner	0.1	0.1	0.1	0.1	0.1	0.1	0	0	0.1	0.1	0.1	0.1	0.1	0	0	0	0.1
+30-49 år	Hjerte- og karsykdommer		1.7	1.8	1.8	1.9	2	1.9	2	1.9	1.9	1.8	1.8	1.7	1.6	1.6	1.5	1.5	1.4
+30-49 år	Kreft		1.2	1.3	1.5	1.6	1.8	1.9	2.1	2.1	2.4	2.7	2.6	2.6	2.5	2.3	2.3	2.2	2.1
+30-49 år	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2	2	1.9	1.9	2	2	2	2.1	2.1	2.2	2.1	2.1	2	1.8	1.8	1.7	1.7
 30-49 år	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-30-49 år	Muskel- og skjelettlidelser	Artrose	1	1.1	1.1	1.1	1.2	1.2	1.2	1.2	1.2	1.1	1.1	1	1	0.9	0.8	0.8	0.7
-30-49 år	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1.2	1.2	1.3	1.4	1.5	1.5	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.2	1.2	1.2	1.2
-30-49 år	Muskel- og skjelettlidelser	Brudd og skade	1.8	1.8	1.9	2	2	2.1	2.1	2.1	2	2.1	2.2	2.2	2.1	1.9	1.8	1.8	1.7
-30-49 år	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	6.2	6.4	6.5	6.5	6.6	6.6	6.4	6.2	5.8	5.6	5.1	4.9	4.7	4.3	4.2	4.1	4
-30-49 år	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.5	0.5	0.5	0.5	0.6	0.6	0.6	0.5	0.5	0.5	0.5	0.5	0.5	0.6	0.6	0.6	0.6
-30-49 år	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1.1	1.2	1.3	1.4	1.5	1.5	1.4	1.3	1.3	1.2	1.2	1.3	1.4	1.4	1.4	1.6	1.6
-30-49 år	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1.3	1.3	1.2	1.2	1.2	1.3	1.3	1.4	1.4	1.4	1.2	1.2	1.1	1.1	0.9	0.9	0.8
-30-49 år	Muskel- og skjelettlidelser	Rygglidelser	8.3	8.6	8.7	8.8	9.1	8.9	8.6	8.5	8.1	7.9	7.7	7.9	8	7.9	7.7	7.8	7.6
-30-49 år	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5.8	5.7	5.5	5.6	5.8	5.8	5.8	5.8	5.8	6.1	6.2	6.3	6.5	6.6	6.3	5.9	5.8
-30-49 år	Psykiske lidelser	Andre psykiske plager	1.5	1.6	1.8	1.9	2	2.2	2.3	2.5	2.7	2.8	2.6	2.6	2.6	2.5	2.6	2.9	2.9
-30-49 år	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	5	5.1	5.1	5.1	5.2	5.1	5.2	5.3	5.3	5.3	5.4	5.5	5.7	6.3	7	7.2	7.9
-30-49 år	Psykiske lidelser	Angst-, tvangs- og stresslidelser	6.1	6.3	6.7	7.1	7.3	7.7	7.9	8.1	8.4	8.8	9.3	9.5	9.9	10.6	11.1	11.3	11.4
-30-49 år	Psykiske lidelser	Depresjon/bipolar lidelse	13.5	14.3	15.4	16.1	16.9	17.4	17.2	17.1	17.1	16.9	17.4	17.4	16.6	15.7	15.1	14.7	14.3
-30-49 år	Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.1	0.1	0.1	0.1	0.2	0.2	0.2	0.2	0.3	0.3	0.2	0.2	0.3	0.3	0.4	0.4	0.4
-30-49 år	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	2.5	2.7	3	3.2	3.4	3.4	3.5	3.5	3.4	3.3	3.6	3.5	3.5	3.7	3.6	3.6	3.4
-30-49 år	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.5	2.9	3.3	3.5	3.9	4.1	4.2	4.1	3.9	3.8	3.8	3.6	3.7	4.1	4.5	5.1	5.4
-30-49 år	Psykiske lidelser	Psykose/schizofreni	1.4	1.5	1.3	1.3	1.3	1.2	1.3	1.3	1.3	1.2	1.2	1.1	1.2	1.1	1	1	1.1
-30-49 år	Psykiske lidelser	Søvnforstyrrelse	0.2	0.3	0.3	0.3	0.4	0.4	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5
-30-49 år	Sykdommer i fordøyelsesorganene		1.9	2	2.1	2.3	2.4	2.6	2.7	2.6	2.7	2.8	2.7	2.6	2.6	2.6	2.5	2.5	2.6
-30-49 år	Sykdommer i luftveiene		0.9	0.9	0.9	0.9	0.9	0.9	0.8	0.8	0.7	0.7	0.7	0.7	0.8	0.9	0.9	0.8	0.7
-30-49 år	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.8	2.8	2.9	3	3.3	3.5	3.4	3.4	3.5	3.5	3.4	3.4	3.4	3.2	3	2.9	2.8
-30-49 år	Sykdommer i nervesystemet	Migrene/ hodepine	1.3	1.3	1.4	1.4	1.6	1.7	1.8	1.9	2	2.2	2.4	2.7	2.9	3.2	3.4	3.7	4
-30-49 år	Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.6	0.7	0.7	0.7	0.7	0.6	0.6	0.6	0.6
-30-49 år	Ukjent		17.9	14.7	11.4	8.2	4.3	2	1.5	1.1	0.9	0.7	0.4	0.3	0.2	0.2	0.1	0.1	0.1
+30-49 år	Muskel- og skjelettlidelser	Artrose	1.1	1.1	1.1	1.1	1.2	1.1	1.2	1.2	1.1	1.1	1.1	1	1	0.9	0.8	0.8	0.7
+30-49 år	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1.2	1.3	1.4	1.4	1.4	1.5	1.4	1.4	1.3	1.3	1.4	1.4	1.4	1.2	1.2	1.2	1.2
+30-49 år	Muskel- og skjelettlidelser	Brudd og skade	1.8	1.8	1.9	2	2.1	2.1	2.1	2.1	2	2.1	2.2	2.2	2	1.9	1.8	1.7	1.7
+30-49 år	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	6.2	6.4	6.4	6.5	6.6	6.5	6.3	6.1	5.8	5.5	5	4.8	4.6	4.2	4.1	4.1	4
+30-49 år	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.5	0.5	0.5	0.5	0.6	0.6	0.6	0.5	0.5	0.5	0.6	0.6	0.6	0.6	0.6	0.6	0.6
+30-49 år	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1.1	1.2	1.3	1.4	1.5	1.4	1.4	1.3	1.3	1.2	1.2	1.3	1.3	1.4	1.5	1.6	1.6
+30-49 år	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1.3	1.3	1.2	1.2	1.2	1.2	1.4	1.4	1.4	1.3	1.3	1.2	1.1	1.1	0.9	0.9	0.8
+30-49 år	Muskel- og skjelettlidelser	Rygglidelser	8.4	8.6	8.7	8.9	9.1	8.8	8.6	8.4	8	7.9	7.8	8	7.9	7.9	7.7	7.7	7.6
+30-49 år	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5.8	5.7	5.6	5.6	5.8	5.8	5.8	5.8	6	6.1	6.2	6.3	6.5	6.5	6.2	5.9	5.8
+30-49 år	Psykiske lidelser	Andre psykiske plager	1.5	1.7	1.8	1.9	2	2.2	2.4	2.6	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.9	3
+30-49 år	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	5.1	5.1	5.1	5.3	5.1	5.2	5.2	5.4	5.3	5.4	5.5	5.6	6	6.6	7.1	7.4	8
+30-49 år	Psykiske lidelser	Angst-, tvangs- og stresslidelser	6.2	6.5	6.8	7.1	7.4	7.8	7.9	8.2	8.5	9	9.4	9.6	10.1	10.8	11.3	11.4	11.5
+30-49 år	Psykiske lidelser	Depresjon/bipolar lidelse	13.7	14.6	15.6	16.3	17.1	17.4	17.2	17.1	17	17	17.4	17.2	16.4	15.6	15	14.7	14.2
+30-49 år	Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.1	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.3	0.2	0.2	0.3	0.4	0.4	0.4
+30-49 år	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	2.6	2.8	3.1	3.2	3.4	3.5	3.5	3.5	3.4	3.4	3.6	3.6	3.6	3.7	3.7	3.5	3.4
+30-49 år	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.6	3	3.3	3.6	4	4.2	4.2	4	3.8	3.7	3.7	3.6	3.8	4.1	4.7	5.1	5.3
+30-49 år	Psykiske lidelser	Psykose/schizofreni	1.5	1.5	1.3	1.4	1.3	1.2	1.3	1.3	1.2	1.2	1.2	1.2	1.2	1.1	1	1	1.1
+30-49 år	Psykiske lidelser	Søvnforstyrrelse	0.2	0.3	0.3	0.4	0.4	0.4	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5
+30-49 år	Sykdommer i fordøyelsesorganene		1.9	2	2.1	2.3	2.5	2.6	2.6	2.6	2.8	2.8	2.7	2.6	2.6	2.6	2.5	2.5	2.6
+30-49 år	Sykdommer i luftveiene		0.9	0.9	0.9	0.9	0.9	0.8	0.8	0.8	0.7	0.7	0.7	0.7	0.8	0.9	0.8	0.8	0.7
+30-49 år	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.8	2.8	2.9	3.1	3.4	3.6	3.5	3.4	3.5	3.4	3.4	3.5	3.4	3.2	3	2.9	2.8
+30-49 år	Sykdommer i nervesystemet	Migrene/ hodepine	1.3	1.3	1.4	1.5	1.6	1.7	1.8	1.9	2	2.2	2.5	2.6	2.9	3.2	3.5	3.7	4.1
+30-49 år	Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.6	0.7	0.7	0.7	0.6	0.6	0.6	0.6	0.6
+30-49 år	Ukjent		17.2	13.7	10.6	7.4	3.6	1.9	1.4	1.1	0.9	0.6	0.3	0.2	0.2	0.1	0.1	0.1	0
 50 år og over	I alt		100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100
-50 år og over	Allment	Annet allment inkl. avklaring/prosedyrer	0.5	0.5	0.5	0.5	0.4	0.5	0.4	0.4	0.4	0.3	0.4	0.3	0.3	0.3	0.4	0.4	0.4
+50 år og over	Allment	Annet allment inkl. avklaring/prosedyrer	0.5	0.5	0.5	0.5	0.4	0.4	0.4	0.4	0.4	0.3	0.4	0.3	0.3	0.3	0.4	0.4	0.4
 50 år og over	Allment	Infeksjonssykdommer	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.3	0.2	0.2	0.2
-50 år og over	Allment	Skader/forgiftning/komplikasjoner	1.4	1.4	1.5	1.4	1.5	1.5	1.6	1.6	1.7	1.7	1.6	1.5	1.5	1.4	1.5	1.6	1.5
-50 år og over	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	1.8	1.8	1.9	2	1.9	1.8	2	2	2.1	2.2	2.3	2.3	2.6	3.3	3.9	4.4	4.5
+50 år og over	Allment	Skader/forgiftning/komplikasjoner	1.4	1.4	1.4	1.5	1.4	1.6	1.6	1.6	1.7	1.8	1.6	1.5	1.4	1.4	1.6	1.6	1.5
+50 år og over	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	1.8	1.9	1.9	2	1.8	1.9	2	2.1	2.1	2.2	2.3	2.3	2.7	3.5	4	4.5	4.6
 50 år og over	Allment	Symptomer på sykdom inkl.smerte/feber	0.3	0.3	0.3	0.3	0.4	0.4	0.4	0.4	0.3	0.4	0.4	0.4	0.4	0.5	0.5	0.6	0.7
-50 år og over	Andre lidelser		5	5.2	5.4	5.6	5.8	6	6.1	6.1	6.1	6.1	6.1	6.2	6.2	6.1	5.9	5.9	5.8
-50 år og over	Andre lidelser	Skader/komplikasjoner	0.1	0.1	0	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0	0	0.1	0	0	0
-50 år og over	Hjerte- og karsykdommer		5.7	5.9	6.1	6.2	6.6	6.8	6.4	6.3	6.1	6.1	6	5.9	5.8	5.7	5.4	5.2	5.1
-50 år og over	Kreft		4	3.9	4.4	4.6	5.1	5.7	6	5.9	6.5	7	7.1	6.7	6.3	6.1	6	5.8	5.9
-50 år og over	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2.3	2.2	2.2	2.4	2.4	2.5	2.6	2.7	2.6	2.7	2.5	2.6	2.7	2.4	2.3	2.3	2.3
+50 år og over	Andre lidelser		5	5.3	5.4	5.6	5.8	6	6.1	6.1	6.1	6.1	6.1	6.3	6.2	6.1	5.8	5.9	5.8
+50 år og over	Andre lidelser	Skader/komplikasjoner	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0	0	0	0	0	0
+50 år og over	Hjerte- og karsykdommer		5.7	6	6.2	6.3	6.8	6.7	6.4	6.3	6.1	6	5.9	5.9	5.7	5.6	5.4	5.3	5.1
+50 år og over	Kreft		4	4	4.4	4.6	5.2	5.8	6	6.1	6.5	7.1	7.1	6.6	6.3	6	6	5.7	5.9
+50 år og over	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2.3	2.2	2.3	2.3	2.4	2.5	2.6	2.7	2.6	2.6	2.5	2.7	2.6	2.4	2.3	2.2	2.3
 50 år og over	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-50 år og over	Muskel- og skjelettlidelser	Artrose	4.7	5.1	5.4	5.6	6	6.2	6.2	6.2	6.2	6.3	6.2	6.4	6.3	6	5.9	5.7	5.5
-50 år og over	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1.5	1.5	1.6	1.6	1.7	1.7	1.7	1.8	1.8	1.9	2	1.9	1.9	1.9	1.9	1.9	1.8
-50 år og over	Muskel- og skjelettlidelser	Brudd og skade	2.4	2.4	2.5	2.6	2.6	2.7	2.8	2.9	2.9	2.8	3.1	3	2.9	2.7	2.7	2.6	2.6
-50 år og over	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	9.4	9.6	9.8	10.2	10.5	10.5	10.5	10.5	10.1	9.9	9.6	9.9	9.7	9.1	9	8.9	8.7
-50 år og over	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.6	0.6	0.6	0.6	0.7	0.6	0.6	0.6	0.6	0.6	0.5	0.6	0.6	0.6	0.7	0.7	0.7
-50 år og over	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1.3	1.4	1.6	1.7	1.9	1.9	2	1.9	1.6	1.6	1.5	1.7	2	2.2	2.4	2.5	2.7
-50 år og over	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1.5	1.5	1.5	1.5	1.7	1.7	1.7	1.7	1.7	1.7	1.6	1.6	1.5	1.4	1.3	1.2	1.1
-50 år og over	Muskel- og skjelettlidelser	Rygglidelser	8.9	9.1	9.1	9.2	9.3	9.5	9.4	9.3	9.3	9.1	9.2	9.5	9.9	9.9	9.7	9.6	9.9
-50 år og over	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5.6	5.5	5.4	5.3	5.3	5.3	5.2	5.1	5.2	5.2	5.3	5.5	5.9	6.2	6.3	5.9	5.7
-50 år og over	Psykiske lidelser	Andre psykiske plager	1.2	1.2	1.2	1.3	1.3	1.3	1.3	1.3	1.3	1.2	1.2	1.2	1.1	1.2	1.3	1.3	1.4
-50 år og over	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	2.1	2.2	2.2	2	1.9	1.8	1.7	1.7	1.7	1.7	1.8	1.7	1.7	1.8	1.8	1.8	1.9
-50 år og over	Psykiske lidelser	Angst-, tvangs- og stresslidelser	3.6	3.8	3.7	3.6	3.5	3.4	3.6	3.7	3.6	3.6	4	4.2	4.1	4.4	4.5	4.4	4.6
-50 år og over	Psykiske lidelser	Depresjon/bipolar lidelse	10.7	11	11	11.2	11.1	11.3	11.4	11.2	11.4	11.4	11.3	10.9	10.4	9.8	9.3	9.2	9.1
-50 år og over	Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.2	0.3	0.3	0.3	0.3	0.4	0.4	0.4	0.4	0.4	0.5	0.4	0.4	0.5	0.5	0.5	0.5
-50 år og over	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	1.2	1.3	1.4	1.5	1.5	1.5	1.5	1.5	1.4	1.3	1.4	1.3	1.3	1.3	1.4	1.4	1.4
-50 år og over	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.3	2.5	2.9	3.1	3.3	3.5	3.4	3.4	3.3	3.2	3.2	3.2	3.3	3.5	4.1	4.8	5.1
-50 år og over	Psykiske lidelser	Psykose/schizofreni	0.3	0.4	0.4	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.3	0.4	0.4	0.4	0.3	0.3	0.4
-50 år og over	Psykiske lidelser	Søvnforstyrrelse	0.2	0.3	0.3	0.3	0.3	0.4	0.4	0.5	0.5	0.6	0.5	0.5	0.6	0.6	0.6	0.6	0.6
-50 år og over	Sykdommer i fordøyelsesorganene		1.7	1.8	1.9	2.1	2.1	2.1	2.1	2.2	2.3	2.2	2.4	2.3	2.2	2.2	2.2	2.1	2.1
-50 år og over	Sykdommer i luftveiene		1.5	1.6	1.6	1.7	1.8	1.8	1.8	1.8	1.8	1.7	1.6	1.7	1.8	1.9	1.9	1.7	1.6
-50 år og over	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.7	2.8	2.9	3	3.3	3.4	3.4	3.6	3.6	3.6	3.5	3.5	3.6	3.7	3.6	3.5	3.5
-50 år og over	Sykdommer i nervesystemet	Migrene/ hodepine	0.9	0.9	1	1.1	1.1	1	1.1	1.1	1.1	1.2	1.4	1.5	1.6	1.6	1.7	1.9	2.2
-50 år og over	Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.3	0.3	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.5	0.6	0.6	0.6	0.6	0.6	0.6	0.6
-50 år og over	Ukjent		13.9	11.4	9	6.6	3.9	1.7	1.2	1.1	1.3	0.9	0.5	0.3	0.3	0.2	0.2	0.2	0.1
+50 år og over	Muskel- og skjelettlidelser	Artrose	4.7	5.1	5.4	5.6	6.1	6.2	6.1	6.2	6.2	6.3	6.2	6.4	6.2	6	5.8	5.6	5.5
+50 år og over	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1.5	1.5	1.6	1.7	1.7	1.7	1.8	1.8	1.9	1.9	2	1.9	1.9	1.9	1.9	1.9	1.8
+50 år og over	Muskel- og skjelettlidelser	Brudd og skade	2.4	2.5	2.6	2.6	2.6	2.8	2.8	2.9	2.9	2.9	3.1	3	2.9	2.8	2.6	2.6	2.6
+50 år og over	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	9.5	9.6	9.9	10.1	10.5	10.4	10.5	10.3	9.9	9.7	9.6	9.9	9.6	9	8.9	8.8	8.6
+50 år og over	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	0.6	0.6	0.6	0.6	0.7	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.7	0.7	0.7	0.7
+50 år og over	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1.3	1.4	1.6	1.8	1.9	2	2	1.8	1.6	1.5	1.5	1.8	2	2.3	2.4	2.6	2.8
+50 år og over	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1.6	1.5	1.5	1.5	1.7	1.7	1.6	1.8	1.7	1.7	1.6	1.6	1.5	1.4	1.3	1.2	1.1
+50 år og over	Muskel- og skjelettlidelser	Rygglidelser	9	9	9.1	9.3	9.3	9.4	9.4	9.4	9.3	9	9.3	9.5	10	9.9	9.7	9.8	9.9
+50 år og over	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	5.5	5.5	5.4	5.3	5.3	5.2	5.1	5.1	5.3	5.2	5.5	5.6	6	6.2	6.2	5.9	5.7
+50 år og over	Psykiske lidelser	Andre psykiske plager	1.2	1.2	1.3	1.3	1.3	1.3	1.3	1.3	1.3	1.2	1.1	1.2	1.1	1.3	1.3	1.3	1.4
+50 år og over	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	2.2	2.3	2.1	2.1	1.9	1.8	1.7	1.8	1.8	1.8	1.8	1.7	1.7	1.8	1.8	1.8	1.9
+50 år og over	Psykiske lidelser	Angst-, tvangs- og stresslidelser	3.7	3.9	3.6	3.5	3.5	3.5	3.7	3.7	3.6	3.8	4.1	4.1	4.1	4.5	4.5	4.5	4.7
+50 år og over	Psykiske lidelser	Depresjon/bipolar lidelse	10.6	11	11	11.2	11.1	11.4	11.3	11.3	11.5	11.4	11.3	10.8	10.3	9.7	9.4	9.2	9
+50 år og over	Psykiske lidelser	Hukommelsesforstyrrelse/demens	0.2	0.3	0.3	0.3	0.3	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.5	0.5
+50 år og over	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	1.2	1.3	1.5	1.5	1.5	1.5	1.5	1.4	1.4	1.4	1.4	1.3	1.3	1.4	1.4	1.4	1.4
+50 år og over	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2.4	2.6	2.9	3.1	3.3	3.5	3.4	3.3	3.2	3.2	3.1	3.2	3.3	3.7	4.2	4.8	5.2
+50 år og over	Psykiske lidelser	Psykose/schizofreni	0.3	0.4	0.4	0.3	0.3	0.3	0.4	0.3	0.3	0.3	0.3	0.4	0.4	0.3	0.4	0.3	0.3
+50 år og over	Psykiske lidelser	Søvnforstyrrelse	0.3	0.3	0.3	0.3	0.4	0.4	0.5	0.5	0.5	0.6	0.5	0.5	0.6	0.6	0.6	0.6	0.6
+50 år og over	Sykdommer i fordøyelsesorganene		1.7	1.9	2	2	2	2.1	2.1	2.2	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.1	2.1
+50 år og over	Sykdommer i luftveiene		1.5	1.6	1.6	1.7	1.9	1.8	1.8	1.8	1.8	1.7	1.6	1.7	1.8	1.9	1.8	1.7	1.6
+50 år og over	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2.6	2.8	2.9	3	3.4	3.4	3.5	3.6	3.7	3.6	3.6	3.5	3.7	3.7	3.5	3.5	3.4
+50 år og over	Sykdommer i nervesystemet	Migrene/ hodepine	0.9	0.9	1	1.1	1.1	1.1	1.1	1.1	1.1	1.3	1.4	1.5	1.6	1.6	1.8	1.9	2.2
+50 år og over	Sykdommer i nervesystemet	Skader i hode/ nervesystem	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.4	0.5	0.5	0.6	0.6	0.6	0.6	0.6	0.6	0.6
+50 år og over	Ukjent		13.4	10.7	8.4	6.2	3.3	1.6	1.2	1.1	1.3	0.8	0.5	0.3	0.3	0.2	0.1	0.1	0.1
