@@ -17,15 +17,16 @@ Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om 
 
 ## Når brukeren har funnet en feil, noe mangler, eller noe nytt bør inn
 
-1. **Er skillen `aid-meldinger` installert, bruk den.** Den sender meldingen til basens redaktør.
-2. **Ellers:** skriv en ferdig melding som brukeren kan sende til Tarjei Havnes, som er redaktør for basene. Meldingen skal si
+1. **Skriv meldingen sammen med brukeren.** Den skal si
    - om det gjelder en feil, noe som mangler, eller et ønske om noe nytt,
-   - hvilken base og hvilket sted (lov og paragraf, budsjettår og kapittel, tabell),
+   - hvilken base og hvilket sted (lov og paragraf, budsjettår og kapittel, tabell, rutine),
    - hva brukeren spurte om og hva svaret sa, kort,
-   - hva som er riktig, og hvilken kilde som viser det,
-   - brukerens navn og avdeling.
-3. **Ta ikke med** personopplysninger, opplysninger fra enkeltsaker eller interne vurderinger i meldingen.
-4. Si til brukeren at feilen blir kontrollert mot kilden før noe rettes, og at du ikke kan rette basen selv.
+   - hva som er riktig, og hvilken kilde som viser det (lenke hvis mulig),
+   - brukerens navn og avdeling. Spør hvis du ikke vet.
+2. **Ta ikke med** personopplysninger, opplysninger fra enkeltsaker eller interne vurderinger. Er de nødvendige for å forklare feilen, beskriv feilen uten dem.
+3. **Vis meldingen og be brukeren godkjenne den.**
+4. **Lag e-posten.** Adressen til redaktøren står i skillen du kom fra. Gi brukeren en lenke som åpner e-posten ferdig utfylt: `mailto:<adresse>?subject=<emne>&body=<meldingen>`. Emnet er «Melding om basene: » og en kort beskrivelse. Emne og tekst må URL-kodes, med `%0A` for linjeskift. Bruk kodeverktøyet til kodingen hvis du har det. Vis også meldingen i en kodeblokk med adresse og emne, i tilfelle lenken ikke virker. Finner du ingen adresse, be brukeren sende meldingen til Tarjei Havnes, som er redaktør for basene.
+5. **Si til brukeren** at meldingen er levert først når e-posten er sendt, at feilen blir kontrollert mot kilden før noe rettes, og at du ikke kan rette basen selv.
 
 Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn direkte: rundskriv og hovedtariffavtalen i `innboks/`, Excel-filer fra Nav i `innboks-data/` og budsjettdokumenter i `innboks-budsjett/`. Se README-filen i hver innboks.
 
