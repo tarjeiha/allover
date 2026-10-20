@@ -47,6 +47,12 @@ Dette er ikke rettsaktstekst.
 
 - `merknader/dagpenger.md`
 
+## Rundskriv
+
+Dette er ikke rettsaktstekst.
+
+- Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00) – start med `rundskriv/r45-00/oversikt.md`
+
 ## Innhold
 
 

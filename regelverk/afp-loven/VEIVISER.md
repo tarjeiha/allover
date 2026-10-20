@@ -31,7 +31,9 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 ## Vedtatte endringer som ikke er i kraft
 
-Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Forskrift om endring i forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning)** (FOR-2026-10-15-2075). Trådte i kraft 2026-10-15, men er ikke tatt inn i teksten i basen ennå. Endrer: Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning). Ny tekst: `vedtatte-endringer/for-2026-10-15-2075.md`
 
 ## Innhold
 

@@ -39,7 +39,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Regelverk | Veiviser | Sist endret i kraft |
 |---|---|---|
 | Offentleglova | `regelverk/offentleglova/VEIVISER.md` | 2026-07-01 |
-| AFP-loven for medlemmer av Statens pensjonskasse | `regelverk/afp-loven/VEIVISER.md` | 2026-01-01 |
+| AFP-loven for medlemmer av Statens pensjonskasse | `regelverk/afp-loven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
 | Aldersgrenseloven for statsansatte | `regelverk/aldersgrenseloven/VEIVISER.md` | 2026-01-01 |
 | Allmenngjøringsloven | `regelverk/allmenngjoringsloven/VEIVISER.md` | 2025-07-01 |
 | Arbeidsmarkedsloven | `regelverk/arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 |
