@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Lister hva nattoppdateringen har brakt inn: nye spørsmål, anmodningsvedtak og
-representantforslag, og spørsmål som har fått svar. Sammenligner datafilene i
-arbeidskopien med siste commit (HEAD), så det må kjøres etter
+Lister hva nattoppdateringen har brakt inn: nye spørsmål, anmodningsvedtak,
+representantforslag, saker i arbeids- og sosialkomiteen og forslag fra voteringene
+i dem, og spørsmål som har fått svar. Sammenligner datafilene i arbeidskopien med siste commit (HEAD), så det må kjøres etter
 oppdater_inkrementell.py og før endringene committes.
 
 Statusendringer ellers (trukket, bortfalt, utfall o.l.) tas ikke med.
@@ -25,7 +25,7 @@ from felles import MINISTER_TITTEL, SPORSMAL_TYPE_NAVN, SPORSMAL_URL_MONSTER  # 
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # mappen stortinget/
 ROT = os.path.dirname(BASE)
-DATATYPER = ['sporsmal', 'anmodningsvedtak', 'representantforslag']
+DATATYPER = ['sporsmal', 'anmodningsvedtak', 'representantforslag', 'saker', 'forslag']
 
 
 def git(*args):

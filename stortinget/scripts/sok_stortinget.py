@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Søk på tvers av fire datatyper fra Stortinget (sesjon 2013-2014 t.o.m. sist oppdaterte sesjon):
-anmodningsvedtak, spørsmål (skriftlig/interpellasjon/spørretime), og representantforslag.
+Søk på tvers av fem datatyper fra Stortinget: anmodningsvedtak, spørsmål (skriftlig/interpellasjon/
+spørretime) og representantforslag (sesjon 2013-2014 t.o.m. sist oppdaterte sesjon), og saker og
+forslag fra arbeids- og sosialkomiteen (fra sesjon 2011-2012, pluss enkeltsaker).
 
 Bruk:
   python3 sok_stortinget.py --query "uføretrygd"                                    # søker i alle typer
@@ -10,10 +11,12 @@ Bruk:
   python3 sok_stortinget.py --datatype sporsmal --minister "arbeids- og inkluderingsministeren"
   python3 sok_stortinget.py --datatype representantforslag --utfall avvist --parti SV
   python3 sok_stortinget.py --id 40018174 --datatype anmodningsvedtak
+  python3 sok_stortinget.py --datatype forslag --parti FrP --query "sykepenger"
+  python3 sok_stortinget.py --sak-id 49315                                          # saken og forslagene i den
 
-Felles filtre: --query (fritekst), --sesjon (eksakt eller "inneværende"/"forrige"), --emne, --limit, --format, --sorter
-Type-spesifikke filtre: --komite (anmodningsvedtak+representantforslag), --minister (sporsmal),
---sporsmalstype (sporsmal), --parti (representantforslag), --utfall (representantforslag)
+Felles filtre: --query (fritekst), --sak-id, --sesjon (eksakt eller "inneværende"/"forrige"), --emne, --limit, --format, --sorter
+Type-spesifikke filtre: --komite (anmodningsvedtak, representantforslag, saker), --minister (sporsmal),
+--sporsmalstype (sporsmal), --parti (representantforslag, forslag), --utfall (representantforslag)
 
 --sesjon aksepterer eksakt sesjon-id (f.eks. 2024-2025) ELLER "inneværende"/"forrige", regnet ut fra
 dagens dato (Stortingets sesjon løper 1. oktober-30. september).
@@ -40,7 +43,10 @@ DATA_MAPPER = {
     'anmodningsvedtak': os.path.join(BASE, 'data', 'anmodningsvedtak'),
     'sporsmal': os.path.join(BASE, 'data', 'sporsmal'),
     'representantforslag': os.path.join(BASE, 'data', 'representantforslag'),
+    'saker': os.path.join(BASE, 'data', 'saker'),
+    'forslag': os.path.join(BASE, 'data', 'forslag'),
 }
+ALLE_DATATYPER = list(DATA_MAPPER)
 
 FULL_DETALJ_GRENSE = 5
 MEDIUM_DETALJ_GRENSE = 20
@@ -162,6 +168,10 @@ def sokbar_tekst(v):
             felter += v['stikkord']
     elif dt == 'sporsmal':
         felter = [v['tittel']] + v.get('emne', [])
+    elif dt == 'saker':
+        felter = [v['tittel'], v.get('korttittel'), v.get('henvisning')] + v.get('emne', []) + v.get('vedtak', [])
+    elif dt == 'forslag':
+        felter = [v['tekst'], v.get('sak_tittel'), v.get('betegnelse')]
     else:  # representantforslag
         felter = [v['tittel'], v.get('utfall_tekst') or '']
     return ' '.join((felt or '').lower() for felt in felter)
@@ -186,7 +196,7 @@ def treffer(v, args):
         if not any(args.emne.lower() in e.lower() for e in v.get('emne', [])):
             return False
     if args.komite:
-        if dt not in ('anmodningsvedtak', 'representantforslag'):
+        if dt not in ('anmodningsvedtak', 'representantforslag', 'saker'):
             return False
         if not v.get('komite') or args.komite.lower() not in v['komite'].lower():
             return False
@@ -205,14 +215,19 @@ def treffer(v, args):
         if dt != 'sporsmal' or (v.get('status') or 'besvart') != args.status:
             return False
     if args.parti:
-        if dt != 'representantforslag':
+        if dt == 'forslag':
+            partier = v.get('partier', [])
+        elif dt == 'representantforslag':
+            partier = [p.get('parti') or '' for p in v.get('forslagstillere', [])]
+        else:
             return False
-        partier = [p.get('parti') or '' for p in v.get('forslagstillere', [])]
         if not any(args.parti.lower() == p.lower() for p in partier):
             return False
     if args.utfall:
         if dt != 'representantforslag' or v.get('utfall') != args.utfall:
             return False
+    if args.sak_id and v.get('sak_id', v['id']) != args.sak_id:
+        return False
     if args.query:
         if not matcher_tekstfelt(v, args.krav):
             return False
@@ -221,7 +236,7 @@ def treffer(v, args):
 
 def relevans_niva(v, query):
     q = query.lower()
-    if q in (v['tittel'] or '').lower():
+    if q in (v.get('tittel') or v.get('tekst') or '').lower():
         return 0
     if v['_datatype'] == 'anmodningsvedtak' and len(v['stikkord']) <= STIKKORD_PÅLITELIG_GRENSE:
         if any(q in s.lower() for s in v['stikkord']):
@@ -235,8 +250,10 @@ def dato_for_sortering(v):
     dt = v['_datatype']
     if dt == 'anmodningsvedtak':
         return v['dato']
-    if dt == 'sporsmal':
+    if dt in ('sporsmal', 'forslag'):
         return v.get('dato') or ''
+    if dt == 'saker':
+        return v.get('sesjon') or ''
     return v.get('behandlet_sesjon') or v.get('sesjon_fremmet') or ''
 
 
@@ -290,24 +307,52 @@ def fmt_representantforslag(v, full):
     return f"{v['sesjon_fremmet']} [{v['utfall']}] {v['tittel'][:80]} — {v['sak_url']}"
 
 
-FORMATTERE = {'anmodningsvedtak': fmt_anmodningsvedtak, 'sporsmal': fmt_sporsmal, 'representantforslag': fmt_representantforslag}
+def kort(tekst, n):
+    return tekst if len(tekst) <= n else tekst[:n].rsplit(' ', 1)[0] + ' […]'
+
+
+def fmt_saker(v, full):
+    hode = f"[{v['sesjon']}] {v.get('henvisning') or v.get('dokumentgruppe') or ''} — {v['status']}"
+    if full == 'full':
+        vedtak = '\n  '.join(kort(x, 600) for x in v.get('vedtak', [])) or '(ingen vedtakstekst i Stortingets vedtaksliste, se saken)'
+        return f"{hode}\n  {v['tittel']}\n  Emne: {', '.join(v.get('emne', [])) or '–'}\n  Vedtak: {vedtak}\n  Lenke: {v['sak_url']}"
+    if full == 'medium':
+        return f"{hode}\n  {v.get('korttittel') or v['tittel']}\n  {v['sak_url']}"
+    return f"{v['sesjon']} {kort(v.get('korttittel') or v['tittel'], 90)} — {v['sak_url']}"
+
+
+def fmt_forslag(v, full):
+    utfall = 'vedtatt' if v.get('vedtatt') else 'ikke vedtatt'
+    stemmer = f", {v['antall_for']} mot {v['antall_mot']}" if v.get('antall_for') is not None else ''
+    hode = f"[{v['sesjon']}] {v['dato']} — {v.get('betegnelse') or v.get('forslag_type')} — {utfall}{stemmer}"
+    if full == 'full':
+        return f"{hode}\n  Sak: {v.get('sak_tittel')} ({v.get('henvisning') or ''})\n  {v['tekst']}\n  Lenke: {v['sak_url']}"
+    if full == 'medium':
+        return f"{hode}\n  {kort(v['tekst'], 200)}\n  {v['sak_url']}"
+    return f"{v['dato']} [{'/'.join(v.get('partier', [])) or 'uten parti'}, {utfall}] {kort(v['tekst'], 90)} — {v['sak_url']}"
+
+
+FORMATTERE = {'anmodningsvedtak': fmt_anmodningsvedtak, 'sporsmal': fmt_sporsmal, 'representantforslag': fmt_representantforslag,
+              'saker': fmt_saker, 'forslag': fmt_forslag}
 
 
 def main():
-    p = argparse.ArgumentParser(description='Søk på tvers av Stortingets anmodningsvedtak, spørsmål og representantforslag')
+    p = argparse.ArgumentParser(description='Søk på tvers av Stortingets anmodningsvedtak, spørsmål, representantforslag, '
+                                            'saker i arbeids- og sosialkomiteen og forslag fra voteringene i dem')
     p.add_argument('--query')
     p.add_argument('--sesjon')
     p.add_argument('--emne')
-    p.add_argument('--komite', help='Anmodningsvedtak og representantforslag')
+    p.add_argument('--komite', help='Anmodningsvedtak, representantforslag og saker')
     p.add_argument('--minister', help='Spørsmål — substring i statsrådens tittel/id')
     p.add_argument('--sporsmalstype', choices=['skriftlig_sporsmal', 'interpellasjon', 'sporretime_sporsmal'])
     p.add_argument('--status', choices=['besvart', 'til_behandling', 'trukket', 'bortfalt'],
                     help='Spørsmål — filtrer på status. Default: alle statuser vises (bruk denne for kun ubesvarte, f.eks. --status til_behandling).')
-    p.add_argument('--parti', help='Representantforslag — eksakt partikode, f.eks. SV, Ap, H')
+    p.add_argument('--parti', help='Representantforslag og forslag — eksakt partikode, f.eks. SV, A, H')
+    p.add_argument('--sak-id', dest='sak_id', help='Saker og forslag — alt som hører til én sak (tallet etter ?p= på stortinget.no)')
     p.add_argument('--utfall', choices=['vedtatt (anmodning)', 'avvist', 'annet', 'ukjent'], help='Representantforslag')
     p.add_argument('--id')
-    p.add_argument('--datatype', choices=['anmodningsvedtak', 'sporsmal', 'representantforslag'], action='append',
-                    help='Kan gjentas for flere typer. Default: søk i alle tre.')
+    p.add_argument('--datatype', choices=ALLE_DATATYPER, action='append',
+                    help='Kan gjentas for flere typer. Default: søk i alle.')
     p.add_argument('--limit', type=int, default=50)
     p.add_argument('--format', choices=['json', 'kort'], default='kort')
     p.add_argument('--sorter', choices=['auto', 'dato_stigende', 'dato_synkende', 'relevans'], default='auto')
@@ -316,9 +361,10 @@ def main():
     if args.sesjon:
         args.sesjon = resolve_sesjon(args.sesjon)
 
-    datatyper = args.datatype or ['anmodningsvedtak', 'sporsmal', 'representantforslag']
+    datatyper = args.datatype or ALLE_DATATYPER
+    datatyper = [dt for dt in datatyper if os.path.isdir(DATA_MAPPER[dt]) or args.datatype]
 
-    if not any([args.query, args.sesjon, args.komite, args.emne, args.id, args.minister, args.parti, args.utfall, args.sporsmalstype]):
+    if not any([args.query, args.sesjon, args.komite, args.emne, args.id, args.minister, args.parti, args.utfall, args.sporsmalstype, args.sak_id]):
         print("Feil: minst ett søkekriterium må angis", file=sys.stderr)
         sys.exit(1)
 
