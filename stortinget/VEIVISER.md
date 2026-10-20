@@ -43,7 +43,7 @@ Filtre per type:
 
 Visningen tilpasses antall treff: opptil 5 gir full tekst, 6–20 forkortet, flere enn 20 kompakt. Fritekstsøk sorteres etter relevans og deretter nyeste, andre søk nyeste først.
 
-Matchingen er ordbasert OG: alle ordene må finnes et sted i de søkte feltene, uansett rekkefølge. Sammensatte ord deles ikke automatisk. Søk på «pårørendestøtte» treffer bare poster med nettopp det ordet, så del opp manuelt («pårørende støtte») for bredere dekning.
+Matchingen er ordbasert OG: alle ordene må finnes et sted i de søkte feltene, uansett rekkefølge. Vanlige fagord i AIDs område utvides med synonymer og nynorske former (AAP gir også arbeidsavklaringspenger, sykepenger også sjukepengar), se `SYNONYMER` i `scripts/sok_stortinget.py`. Et sammensatt ord som ikke finnes i noen post, deles i to ledd, og skriptet sier fra om det («pårørendestøtte» blir «pårørende» + «støtte»). Et sammensatt ord som finnes, deles ikke, så søk også på leddene hver for seg når dekningen betyr noe.
 
 ## Krav til svaret
 
@@ -63,7 +63,7 @@ Bekreftet nødvendig gjennom kaldtester.
 
 **Spørsmål:** Bare spørsmålsteksten ligger i indeksen, ikke statsrådens svar. Hent svaret direkte bare når brukeren spør om et konkret svar: `https://data.stortinget.no/eksport/enkeltsporsmal?sporsmalid=ID` (feltet `id`, ikke `legacy_id`). Ubesvarte poster (`til_behandling`, `trukket`, `bortfalt`) er med for sesjon 2021-2022 og senere. For 2013-2014 til 2020-2021 er bare besvarte spørsmål med. Interpellasjoner uten fastsatt tittel har en konstruert tittel merket `tittel_midlertidig: true`. Presenter den ikke som Stortingets offisielle tittel.
 
-**Representantforslag:** Utfallet er beregnet, ikke hentet direkte. Rundt 86 prosent er vedtatt eller avvist, rundt 2,5 prosent «annet» (vis `utfall_tekst` rått) og rundt 14 prosent «ukjent».
+**Representantforslag:** Utfallet er beregnet, ikke hentet direkte. Rundt 83 prosent er vedtatt eller avvist, rundt 2,5 prosent «annet» (vis `utfall_tekst` rått) og rundt 15 prosent «ukjent», mest forslag som ikke er ferdigbehandlet.
 
 ## Oppdatering
 

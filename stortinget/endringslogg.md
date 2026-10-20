@@ -2,6 +2,16 @@
 
 Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner skillene og skillmappene som fantes før flyttingen.
 
+## 2026-10-20 – Vedtakstekst fra feil felt, synonymer i søket og liste over nattens endringer
+
+**Funn:** Representantforslag fra sesjon 2025-2026 hadde 0 avviste og 108 «annet» uten vedtakstekst. Stortingets vedtaksliste har prefikset feltene med `stortingsvedtak_` (`stortingsvedtak_tekst`, `_tittel`, `_nummer`, `_dato_tid`), og teksten leveres som HTML. Skriptene leste `tekst`, som er tom, så avvisningsformlene traff aldri. Nye anmodningsvedtak ville fått tom tekst, tittel, nummer og dato. «Annet» ble heller aldri vurdert på nytt, bare «ukjent».
+
+**Endring:** `vedtak_felt()` og `vedtak_tekst()` i `felles.py` leser de nye feltene (med fallback til de gamle) og fjerner HTML. Oppdateringen vurderer nå også «annet» uten vedtakstekst på nytt. Prøvekjørt mot 2025-2026 i GitHub: 102 avviste, 6 «annet» (alle med tekst). Nattjobben i oktober og november kjører forrige sesjon og retter dataene av seg selv.
+
+**Søk:** `SYNONYMER` i `sok_stortinget.py` utvider AIDs fagord med synonymer og nynorske former. Et sammensatt søkeord uten treff deles i to ledd, og skriptet sier fra.
+
+**Varsel:** Nattjobben skriver `siste-endringer.json` med nye poster og spørsmål som har fått svar, til varselet om nye stortingssaker (PR #67).
+
 ## 2026-10-19 – Flyttet til allover
 
 **Endring:** Begge skillpakkene (aid-stortinget-2013-2021 og aid-stortinget-fra2021) er slått sammen til `stortinget/` i allover, med én datafil per sesjon og datatype. Søkeskriptet og oppdateringsskriptene er tilpasset (`last_json`/`skriv_json` arbeider på mapper). Oppdateringen kjører som Action hver natt.
