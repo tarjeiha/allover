@@ -1,12 +1,14 @@
 # Stortinget: søkbar indeks
 
-Fire typer saker fra [data.stortinget.no](https://data.stortinget.no), for sesjon 2013-2014 til og med inneværende sesjon. Dekker alle departementers områder, ikke bare AID. Dataene er offentlige og oppdateres automatisk hver natt (`.github/workflows/stortinget-oppdater.yml`). Sist kjørte oppdatering står i `siste-oppdatering.json`, og nye saker og nye svar fra den kjøringen i `siste-endringer.json`.
+Fem datatyper fra [data.stortinget.no](https://data.stortinget.no). Anmodningsvedtak, spørsmål og representantforslag dekker sesjon 2013-2014 til og med inneværende sesjon og alle departementers områder. Saker og forslag dekker bare arbeids- og sosialkomiteen, fra sesjon 2011-2012. Dataene er offentlige og oppdateres automatisk hver natt (`.github/workflows/stortinget-oppdater.yml`). Sist kjørte oppdatering står i `siste-oppdatering.json`, og nye saker og nye svar fra den kjøringen i `siste-endringer.json`.
 
 | Datatype | Mappe | Hva det er |
 |---|---|---|
 | `anmodningsvedtak` | `data/anmodningsvedtak/` | Vedtak der Stortinget ber regjeringen om noe |
 | `sporsmal` | `data/sporsmal/` | Skriftlige spørsmål, interpellasjoner og spørretimespørsmål (tre undertyper). Alle statuser (besvart, til_behandling, trukket, bortfalt) fra sesjon 2021-2022, se begrensninger |
 | `representantforslag` | `data/representantforslag/` | Forslag fremmet av representanter, med utfall der det er kjent |
+| `saker` | `data/saker/` | Alle saker i arbeids- og sosialkomiteen (proposisjoner, meldinger, representantforslag, budsjett), med Stortingets vedtakstekst |
+| `forslag` | `data/forslag/` | Mindretallsforslag og løse forslag som ble votert over i de samme sakene, med parti og om forslaget ble vedtatt |
 
 Hver mappe har én fil per sesjon, for eksempel `data/sporsmal/2025-2026.json`. Hele indeksen er rundt 31 MB, så hent bare det du trenger.
 
@@ -26,19 +28,19 @@ Søk alltid med skriptet. Svar ikke på spørsmål om disse datatypene fra gener
 2. Kjør:
 
    ```bash
-   python3 stortinget/scripts/sok_stortinget.py --query "SØKEORD" [--datatype anmodningsvedtak|sporsmal|representantforslag] [--sesjon inneværende|forrige|ÅÅÅÅ-ÅÅÅÅ] [flere filtre]
+   python3 stortinget/scripts/sok_stortinget.py --query "SØKEORD" [--datatype anmodningsvedtak|sporsmal|representantforslag|saker|forslag] [--sesjon inneværende|forrige|ÅÅÅÅ-ÅÅÅÅ] [flere filtre]
    ```
 
-Uten `--datatype` søkes alle tre typer. Gjenta `--datatype` for å velge flere.
+Uten `--datatype` søkes alle typer. Gjenta `--datatype` for å velge flere.
 
-Felles filtre: `--query`, `--sesjon` (bruk `inneværende` eller `forrige` i stedet for å anta et årstall, for sesjonen løper 1. oktober til 30. september), `--emne`, `--id`, `--limit` (standard 50), `--format kort|json`.
+Felles filtre: `--query`, `--sak-id` (en sak og forslagene i den), `--sesjon` (bruk `inneværende` eller `forrige` i stedet for å anta et årstall, for sesjonen løper 1. oktober til 30. september), `--emne`, `--id`, `--limit` (standard 50), `--format kort|json`.
 
 Filtre per type:
-- `--komite`: anmodningsvedtak og representantforslag
+- `--komite`: anmodningsvedtak, representantforslag og saker
 - `--minister`: sporsmal (del av statsrådens tittel)
 - `--sporsmalstype skriftlig_sporsmal|interpellasjon|sporretime_sporsmal`
 - `--status besvart|til_behandling|trukket|bortfalt`: sporsmal
-- `--parti`: representantforslag (eksakt partikode)
+- `--parti`: representantforslag og forslag (eksakt partikode, f.eks. `FrP`, `SV`)
 - `--utfall "vedtatt (anmodning)"|avvist|annet|ukjent`: representantforslag
 
 Visningen tilpasses antall treff: opptil 5 gir full tekst, 6–20 forkortet, flere enn 20 kompakt. Fritekstsøk sorteres etter relevans og deretter nyeste, andre søk nyeste først.
@@ -65,6 +67,10 @@ Bekreftet nødvendig gjennom kaldtester.
 
 **Representantforslag:** Utfallet er beregnet, ikke hentet direkte. Rundt 83 prosent er vedtatt eller avvist, rundt 2,5 prosent «annet» (vis `utfall_tekst` rått) og rundt 15 prosent «ukjent», mest forslag som ikke er ferdigbehandlet.
 
+**Saker og forslag:** Bare arbeids- og sosialkomiteen. Voteringene finnes hos Stortinget fra sesjon 2011-2012, så eldre saker har ingen forslag. Vedtaksteksten er kuttet ved 3 000 tegn og fem vedtak per sak, så budsjettvedtak er ufullstendige. Forslag hentes når saken er ferdigbehandlet. Komiteens tilråding er ikke med som forslag, den står som vedtak på saken. Et forslag uten parti er oftest et løst forslag fra en enkeltrepresentant.
+
+**Eldre enkeltsaker:** Saker fra før 2011-2012, eller fra andre komiteer, legges inn ved å føre sak-id-en i `enkeltsaker.txt` (tallet etter `?p=` i adressen på stortinget.no). Nattjobben henter dem neste natt, og de er merket `enkeltsak: true`.
+
 ## Oppdatering
 
-Nattjobben kjører `scripts/oppdater_inkrementell.py`: den legger til nye poster og oppdaterer status på eksisterende (spørsmål som er besvart, forslag som har fått utfall, også på tvers av sesjoner). Jobben er idempotent og kan kjøres for hånd under Actions («Oppdater Stortinget»). `scripts/backfill_sesjon.py` er en sjelden engangsjobb for avsluttede sesjoner. Fremgangsmåte for en helt ny sesjon og kvalitetskontroll står i `oppdatering.md`. Endringer i indeksen er logget i `endringslogg.md`.
+Nattjobben kjører `scripts/oppdater_inkrementell.py` og `scripts/komitesaker.py`: den legger til nye poster og oppdaterer status på eksisterende (spørsmål som er besvart, forslag som har fått utfall, også på tvers av sesjoner). Jobben er idempotent og kan kjøres for hånd under Actions («Oppdater Stortinget»). `scripts/backfill_sesjon.py` er en sjelden engangsjobb for avsluttede sesjoner. Fremgangsmåte for en helt ny sesjon og kvalitetskontroll står i `oppdatering.md`. Endringer i indeksen er logget i `endringslogg.md`.

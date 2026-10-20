@@ -2,6 +2,14 @@
 
 Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner skillene og skillmappene som fantes før flyttingen.
 
+## 2026-10-20 – Saker og forslag fra arbeids- og sosialkomiteen
+
+**Endring:** To nye datatyper. `saker` har alle saker i arbeids- og sosialkomiteen fra sesjon 2011-2012 (534 saker), med Stortingets vedtakstekst. `forslag` har mindretallsforslag og løse forslag fra voteringene i de samme sakene (1 770 forslag), med parti og om forslaget ble vedtatt. Komiteens tilråding er ikke med som forslag. `scripts/komitesaker.py` henter dem, og nattjobben kjører den etter den vanlige oppdateringen. Søket har fått `--sak-id`, og `--parti` og `--komite` gjelder også de nye typene.
+
+**Enkeltsaker:** Eldre saker føres i `enkeltsaker.txt` og hentes neste natt. Pensjonsreformen (sak 42401) er lagt inn. Uførereformen er med fra før.
+
+**Hullet 2021–2025:** Kontrollkjøring av `backfill_sesjon.py` fant ingen manglende spørsmål, bare 41 statusoppdateringer, som er lagt inn.
+
 ## 2026-10-20 – Vedtakstekst fra feil felt, synonymer i søket og liste over nattens endringer
 
 **Funn:** Representantforslag fra sesjon 2025-2026 hadde 0 avviste og 108 «annet» uten vedtakstekst. Stortingets vedtaksliste har prefikset feltene med `stortingsvedtak_` (`stortingsvedtak_tekst`, `_tittel`, `_nummer`, `_dato_tid`), og teksten leveres som HTML. Skriptene leste `tekst`, som er tom, så avvisningsformlene traff aldri. Nye anmodningsvedtak ville fått tom tekst, tittel, nummer og dato. «Annet» ble heller aldri vurdert på nytt, bare «ukjent».

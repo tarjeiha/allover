@@ -2,3 +2,6 @@
 # Én sak-id per linje: tallet etter ?p= i adressen til saken på stortinget.no.
 # Tekst etter # er kommentar. Nattjobben henter nye id-er neste natt.
 # Voteringer og forslag finnes hos Stortinget bare fra sesjon 2011-2012.
+
+42401   # Pensjonsreformen: ny alderspensjon i folketrygden, Ot.prp. nr. 37 (2008-2009)
+# Uførereformen (Prop. 130 L (2010-2011), sak 49315) er alt med, den ble behandlet i 2011-2012.

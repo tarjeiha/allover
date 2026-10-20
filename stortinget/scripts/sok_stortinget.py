@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Søk på tvers av fire datatyper fra Stortinget (sesjon 2013-2014 t.o.m. sist oppdaterte sesjon):
-anmodningsvedtak, spørsmål (skriftlig/interpellasjon/spørretime), og representantforslag.
+Søk på tvers av fem datatyper fra Stortinget: anmodningsvedtak, spørsmål (skriftlig/interpellasjon/
+spørretime) og representantforslag (sesjon 2013-2014 t.o.m. sist oppdaterte sesjon), og saker og
+forslag fra arbeids- og sosialkomiteen (fra sesjon 2011-2012, pluss enkeltsaker).
 
 Bruk:
   python3 sok_stortinget.py --query "uføretrygd"                                    # søker i alle typer
@@ -10,10 +11,12 @@ Bruk:
   python3 sok_stortinget.py --datatype sporsmal --minister "arbeids- og inkluderingsministeren"
   python3 sok_stortinget.py --datatype representantforslag --utfall avvist --parti SV
   python3 sok_stortinget.py --id 40018174 --datatype anmodningsvedtak
+  python3 sok_stortinget.py --datatype forslag --parti FrP --query "sykepenger"
+  python3 sok_stortinget.py --sak-id 49315                                          # saken og forslagene i den
 
-Felles filtre: --query (fritekst), --sesjon (eksakt eller "inneværende"/"forrige"), --emne, --limit, --format, --sorter
-Type-spesifikke filtre: --komite (anmodningsvedtak+representantforslag), --minister (sporsmal),
---sporsmalstype (sporsmal), --parti (representantforslag), --utfall (representantforslag)
+Felles filtre: --query (fritekst), --sak-id, --sesjon (eksakt eller "inneværende"/"forrige"), --emne, --limit, --format, --sorter
+Type-spesifikke filtre: --komite (anmodningsvedtak, representantforslag, saker), --minister (sporsmal),
+--sporsmalstype (sporsmal), --parti (representantforslag, forslag), --utfall (representantforslag)
 
 --sesjon aksepterer eksakt sesjon-id (f.eks. 2024-2025) ELLER "inneværende"/"forrige", regnet ut fra
 dagens dato (Stortingets sesjon løper 1. oktober-30. september).
@@ -326,7 +329,7 @@ def fmt_forslag(v, full):
         return f"{hode}\n  Sak: {v.get('sak_tittel')} ({v.get('henvisning') or ''})\n  {v['tekst']}\n  Lenke: {v['sak_url']}"
     if full == 'medium':
         return f"{hode}\n  {kort(v['tekst'], 200)}\n  {v['sak_url']}"
-    return f"{v['dato']} [{'/'.join(v.get('partier', [])) or '?'}, {utfall}] {kort(v['tekst'], 90)} — {v['sak_url']}"
+    return f"{v['dato']} [{'/'.join(v.get('partier', [])) or 'uten parti'}, {utfall}] {kort(v['tekst'], 90)} — {v['sak_url']}"
 
 
 FORMATTERE = {'anmodningsvedtak': fmt_anmodningsvedtak, 'sporsmal': fmt_sporsmal, 'representantforslag': fmt_representantforslag,
