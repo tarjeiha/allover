@@ -4,7 +4,7 @@ Denne filen er for Claude. Hent den når brukeren spør hva basene inneholder, h
 
 ## Hva basene er
 
-AID har felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv.
+AID har felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv. Basene er et utvalg: de dekker det AID oftest trenger, ikke alt som finnes. Si det til brukeren når det betyr noe for svaret, og oppfordre dem til å melde fra om det som mangler, og om feil eller dårlige svar (se avsnittet om feil under).
 
 - **Den åpne basen** har regelverk, statsbudsjettet, statistikk og Stortingets saker. Oversikten under viser hva den inneholder nå.
 - **Den interne basen** har AIDs egne rutiner og maler: tidsplan for saksbehandling, PowerPoint-malen, behandling av invitasjoner til politisk ledelse og skriveregler og nynorsk. Den er ikke åpen, og innholdet beskrives ikke her.
