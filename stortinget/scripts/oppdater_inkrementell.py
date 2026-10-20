@@ -104,14 +104,15 @@ def oppdater_representantforslag(sesjon, dry_run, vedtak_oppslag, saker_root):
                 gammel['behandlet_sesjon'] = rec['behandlet_sesjon']
                 status_oppdatert += 1
 
-    # Reconciliation: sjekk ALLE lokale 'ukjent'-poster (uansett sesjon fremmet)
-    # på nytt mot dette vedtak-oppslaget — gratis, oppslaget er allerede bygget.
+    # Reconciliation: sjekk ALLE lokale 'ukjent'-poster, og 'annet' uten vedtakstekst
+    # (uansett sesjon fremmet), på nytt mot dette vedtak-oppslaget — gratis, oppslaget er
+    # allerede bygget. 'annet' uten tekst skyldtes at vedtaksteksten ble lest fra feil felt.
     utfall_lost = 0
     for idv, rec in per_id.items():
-        if rec.get('utfall') != 'ukjent':
+        if not (rec.get('utfall') == 'ukjent' or (rec.get('utfall') == 'annet' and not rec.get('utfall_tekst'))):
             continue
         nytt_utfall, ny_tekst = klassifiser_utfall(idv, vedtak_oppslag)
-        if nytt_utfall != 'ukjent':
+        if nytt_utfall != 'ukjent' and (nytt_utfall, ny_tekst) != (rec['utfall'], rec.get('utfall_tekst')):
             rec['utfall'] = nytt_utfall
             rec['utfall_tekst'] = ny_tekst
             utfall_lost += 1

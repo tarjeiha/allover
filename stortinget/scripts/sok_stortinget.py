@@ -81,7 +81,80 @@ def egen_sesjon(v):
     return v.get('sesjon') or v.get('sesjon_fremmet')
 
 
-def matcher_tekstfelt(v, q):
+# Synonymer og skrivemåter for AIDs fagord, inkludert nynorsk. Står ett av uttrykkene i
+# søket, holder det at ett av uttrykkene i samme gruppe finnes i posten. Hold gruppene
+# smale: et uttrykk skal kunne erstatte et annet uten å endre hva søket handler om.
+SYNONYMER = [
+    ['aap', 'arbeidsavklaringspenger', 'arbeidsavklaringspengar'],
+    ['nav', 'arbeids- og velferdsetaten', 'arbeids- og velferdsforvaltningen'],
+    ['sykepenger', 'sjukepengar', 'sykelønn', 'sjukeløn'],
+    ['sykmelding', 'sykemelding', 'sjukmelding', 'sykmeldt', 'sykemeldt', 'sjukmeld'],
+    ['sykefravær', 'sjukefråvær'],
+    ['dagpenger', 'dagpengar'],
+    ['foreldrepenger', 'foreldrepengar'],
+    ['fedrekvote', 'pappaperm', 'fedrekvoten'],
+    ['uføretrygd', 'uførepensjon', 'uføreytelse'],
+    ['omstillingsstønad', 'etterlattepensjon', 'gjenlevendepensjon', 'etterlatteytelse'],
+    ['yrkesskade', 'arbeidsskade', 'yrkessjukdom', 'yrkessykdom'],
+    ['afp', 'avtalefestet pensjon', 'avtalefesta pensjon'],
+    ['tjenestepensjon', 'tenestepensjon'],
+    ['arbeidsledighet', 'arbeidsløshet', 'arbeidsløyse', 'ledighet'],
+    ['arbeidsledig', 'arbeidsløs', 'ledige'],
+    ['sosialhjelp', 'økonomisk stønad', 'økonomisk sosialhjelp'],
+    ['arbeidslivskriminalitet', 'a-krim'],
+    ['ia-avtalen', 'inkluderende arbeidsliv', 'ia-avtale'],
+    ['innleie', 'bemanningsbyrå', 'bemanningsforetak', 'bemanningsbransjen'],
+    ['introduksjonsprogram', 'introduksjonsprogrammet', 'introprogram'],
+    ['statsborgerskap', 'statsborgarskap'],
+    ['fordrevne fra ukraina', 'ukrainske flyktninger', 'flyktninger fra ukraina'],
+    ['arbeidsmiljøloven', 'aml'],
+]
+_SYNONYM_OPPSLAG = {uttrykk: gruppe for gruppe in SYNONYMER for uttrykk in gruppe}
+_MIN_LEDD = 4  # korteste ledd når et sammensatt søkeord deles opp
+
+
+def del_sammensatte(krav, tekster):
+    """Et søkeord som ikke finnes i noen post, deles i to ledd (pårørendestøtte -> pårørende
+    + støtte), med eller uten fugebokstav (s/e). Blant delingene der begge leddene står i
+    samme post, velges den jevneste. Returnerer nye krav og en liste over delingene som ble gjort."""
+    nye, delt = [], []
+    for krav_ in krav:
+        ord_ = krav_[0][0] if len(krav_) == 1 and len(krav_[0]) == 1 else None
+        if not ord_ or any(ord_ in t for t in tekster):
+            nye.append(krav_)
+            continue
+        beste = None
+        for i in range(_MIN_LEDD, len(ord_) - _MIN_LEDD + 1):
+            etterledd = ord_[i:]
+            kandidater = [ord_[:i]] + ([ord_[:i - 1]] if ord_[i - 1] in 'se' and i - 1 >= _MIN_LEDD else [])
+            for forledd in kandidater:
+                if any(forledd in t and etterledd in t for t in tekster):
+                    jevnhet = min(len(forledd), len(etterledd))
+                    if not beste or jevnhet > beste[0]:
+                        beste = (jevnhet, forledd, etterledd)
+        if beste:
+            nye.append([[beste[1], beste[2]]])
+            delt.append(f'«{ord_}» som «{beste[1]}» + «{beste[2]}»')
+        else:
+            nye.append(krav_)
+    return nye, delt
+
+
+def sokekrav(q):
+    """Deler søket i krav. Hvert krav er en liste av alternativer, og hvert alternativ en
+    liste av ord som alle må finnes. Kjente uttrykk fra SYNONYMER blir ett krav med hele
+    gruppen som alternativer, de øvrige ordene ett krav hver."""
+    rest = f' {q} '
+    krav = []
+    for uttrykk in sorted(_SYNONYM_OPPSLAG, key=len, reverse=True):
+        if f' {uttrykk} ' in rest:
+            rest = rest.replace(f' {uttrykk} ', ' ')
+            krav.append([alt.split() for alt in _SYNONYM_OPPSLAG[uttrykk]])
+    krav += [[[ord_]] for ord_ in rest.split()]
+    return krav
+
+
+def sokbar_tekst(v):
     dt = v['_datatype']
     if dt == 'anmodningsvedtak':
         felter = [v['tittel'], v['tekst']]
@@ -91,12 +164,16 @@ def matcher_tekstfelt(v, q):
         felter = [v['tittel']] + v.get('emne', [])
     else:  # representantforslag
         felter = [v['tittel'], v.get('utfall_tekst') or '']
+    return ' '.join((felt or '').lower() for felt in felter)
+
+
+def matcher_tekstfelt(v, krav):
     # Ordbasert AND fremfor fraseoverensstemmelse: alle ord i søket må finnes et sted i
     # feltene (uansett rekkefølge/felt), ikke som sammenhengende substring i ett felt.
-    # Strengt supersett av gammel oppførsel — en eksakt frase inneholder alltid sine egne
-    # ord — så dette utvider treffmengden, aldri innskrenker den. Se endringslogg.
-    samlet = ' '.join((felt or '').lower() for felt in felter)
-    return all(ord_ in samlet for ord_ in q.split())
+    # Kjente fagord utvides med synonymer (SYNONYMER), og sammensatte ord uten treff deles
+    # opp (del_sammensatte). Begge deler utvider treffmengden, aldri innskrenker den.
+    samlet = v.get('_tekst') or sokbar_tekst(v)
+    return all(any(all(ord_ in samlet for ord_ in alternativ) for alternativ in krav_) for krav_ in krav)
 
 
 def treffer(v, args):
@@ -137,7 +214,7 @@ def treffer(v, args):
         if dt != 'representantforslag' or v.get('utfall') != args.utfall:
             return False
     if args.query:
-        if not matcher_tekstfelt(v, args.query.lower()):
+        if not matcher_tekstfelt(v, args.krav):
             return False
     return True
 
@@ -254,7 +331,15 @@ def main():
         print(f"MERK: Indeksen har ingen poster for sesjon {args.sesjon}. Dekker {kjente_sesjoner[0]} t.o.m. {kjente_sesjoner[-1]}. "
               f"Er sesjonen nyere, er dataene ikke oppdatert ennå (se oppdatering.md).\n", file=sys.stderr)
 
+    if args.query:
+        for v in alle_data:
+            v['_tekst'] = sokbar_tekst(v)
+        args.krav, delt = del_sammensatte(sokekrav(args.query.lower()), [v['_tekst'] for v in alle_data])
+        if delt:
+            print(f"MERK: ingen poster har {', '.join(delt)}. Søkte på leddene hver for seg.\n", file=sys.stderr)
     treff = [v for v in alle_data if treffer(v, args)]
+    for v in alle_data:
+        v.pop('_tekst', None)
     treff = sorter(treff, args)
     total = len(treff)
     vist = treff[:args.limit]
@@ -266,7 +351,7 @@ def main():
         if args.emne:
             print("MERK: emne-feltet har varierende dekning (ikke alle poster har emne registrert).")
         if 'representantforslag' in datatyper and any(v['_datatype'] == 'representantforslag' for v in vist):
-            print("MERK: representantforslag-utfall er ~86% dekket (vedtatt/avvist); resten er 'annet' (vis rå vedtakstekst) eller 'ukjent'.")
+            print("MERK: representantforslag-utfall er ~83% dekket (vedtatt/avvist); resten er 'annet' (vis rå vedtakstekst) eller 'ukjent'.")
         if 'sporsmal' in datatyper and any(v['_datatype'] == 'sporsmal' and v.get('status') != 'besvart' for v in vist):
             print("MERK: treffene inkluderer spørsmål/interpellasjoner som ikke er besvart ennå (til_behandling/trukket/bortfalt) — se statusmerke i [ ]. Filtrer med --status ved behov.")
         print()

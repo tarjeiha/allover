@@ -7,8 +7,10 @@ All dupliserende logikk (minister-koder, URL-mønstre, sentinel-datohåndtering,
 avvisningsformler, sak-berikelse) skal ligge HER — ikke kopieres inn i det
 enkelte skriptet på nytt. Se endringslogg for begrunnelse (2026-09-16).
 """
+import html
 import json
 import os
+import re
 import time
 import urllib.request
 import urllib.error
@@ -122,6 +124,22 @@ def t(el, tag):
         return None
     c = el.find(f"{NS}{tag}")
     return c.text if c is not None else None
+
+
+def vedtak_felt(v, navn):
+    """Felt fra et <stortingsvedtak>-element. Stortinget har prefikset feltene med
+    `stortingsvedtak_` (tekst, tittel, nummer, dato_tid), mens eldre data brukte navnene uten
+    prefiks. Uten dette blir tekst og tittel stille tomme (se endringslogg 2026-10-20)."""
+    verdi = t(v, f'stortingsvedtak_{navn}')
+    if verdi is None and navn == 'dato_tid':
+        verdi = t(v, 'dato')
+    return verdi if verdi is not None else t(v, navn)
+
+
+def vedtak_tekst(v):
+    """Vedtaksteksten som ren tekst. Stortinget leverer den som HTML."""
+    raa = vedtak_felt(v, 'tekst') or ''
+    return ' '.join(html.unescape(re.sub(r'<[^>]+>', '', raa)).split())
 
 
 def sentinel_dato(*vals):
@@ -360,7 +378,7 @@ def bygg_vedtak_oppslag(root_liste_elementer):
                 continue
             type_el = v.find(f"{NS}stortingsvedtak_type")
             type_id = t(type_el, 'id') if type_el is not None else None
-            tekst = t(v, 'tekst') or ''
+            tekst = vedtak_tekst(v)
             oppslag.setdefault(sak_id, []).append((type_id, tekst))
     return oppslag
 
@@ -385,14 +403,14 @@ def parse_anmodningsvedtak_record(v, sesjon, sak_cache=None):
     (kaller den beriker med sak-oppslag)."""
     idv = t(v, 'id')
     sak_id = t(v, 'sak_id')
-    vedtak_nummer = t(v, 'vedtak_nummer')
+    vedtak_nummer = vedtak_felt(v, 'nummer')
     sak_info = hent_sak_detaljer(sak_id, sak_cache) if sak_id else {
         'komite': None, 'emne': [], 'stikkord': [], 'henvisning': None,
         'dokumentgruppe': None, 'sak_type': None}
     return {
-        'id': idv, 'sesjon': sesjon, 'dato': t(v, 'dato'), 'sak_id': sak_id,
+        'id': idv, 'sesjon': sesjon, 'dato': vedtak_felt(v, 'dato_tid'), 'sak_id': sak_id,
         'vedtak_nummer': int(vedtak_nummer) if vedtak_nummer else None,
-        'tittel': t(v, 'tittel'), 'tekst': t(v, 'tekst'),
+        'tittel': vedtak_felt(v, 'tittel'), 'tekst': vedtak_tekst(v),
         'sak_url': f"https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p={sak_id}" if sak_id else None,
         'vedtak_url': f"https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Vedtak/Sak/?did={idv}&p={sak_id}" if sak_id else None,
         'komite': sak_info['komite'], 'emne': sak_info['emne'], 'stikkord': sak_info['stikkord'],
