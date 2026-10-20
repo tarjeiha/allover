@@ -45,7 +45,9 @@ jobs:
           r.pop("dry_run", None)
           json.dump(r, open("stortinget/siste-oppdatering.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
           PY
-          git add stortinget/siste-oppdatering.json
+          # Nye saker og nye svar, til varselet om nye stortingssaker
+          python3 stortinget/scripts/endringer.py
+          git add stortinget/siste-oppdatering.json stortinget/siste-endringer.json
           git commit -q -m "Stortinget: oppdatering $(date +%F)"
           cat stortinget/siste-oppdatering.json >> "$GITHUB_STEP_SUMMARY"
           for i in 1 2 3; do
