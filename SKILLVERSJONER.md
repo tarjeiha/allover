@@ -8,6 +8,14 @@ Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med d
 | aid-skillbygger | 2026-10-20.3 |
 | aid-sprak | 2026-10-20.2 |
 | aid-analyse | 2026-10-20 |
-| aid-data | 2026-10-20 |
-| aid-regelverk | 2026-10-20 |
-| aid-budsjett | 2026-10-20 |
+| aid-data | 2026-10-20.2 |
+| aid-regelverk | 2026-10-20.2 |
+| aid-budsjett | 2026-10-20.2 |
+
+## Driftsvarsel
+
+Her står det når en fast oppdatering ikke har gått som den skal. Bygger svaret på et område med varsel, skal skillen si kort til brukeren at det nyeste fra kilden kan mangle. Listen lages hver dag.
+
+<!-- AUTO-START: genereres av verktoy/driftsvarsel.py, ikke rediger for hånd -->
+Ingen driftsvarsel. Alle faste oppdateringer har gått som de skal.
+<!-- AUTO-SLUTT -->
