@@ -4,8 +4,8 @@ Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med d
 
 | Skill | Versjon |
 |---|---|
-| aid-intern | 2026-10-20.3 |
-| aid-skillbygger | 2026-10-20.2 |
+| aid-intern | 2026-10-20.4 |
+| aid-skillbygger | 2026-10-20.3 |
 | aid-sprak | 2026-10-20.2 |
 | aid-analyse | 2026-10-20 |
 | aid-data | 2026-10-20 |
