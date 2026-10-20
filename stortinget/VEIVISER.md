@@ -1,6 +1,6 @@
 # Stortinget: søkbar indeks
 
-Fire typer saker fra [data.stortinget.no](https://data.stortinget.no), for sesjon 2013-2014 til og med inneværende sesjon. Dekker alle departementers områder, ikke bare AID. Dataene er offentlige og oppdateres automatisk hver natt (`.github/workflows/stortinget-oppdater.yml`). Sist kjørte oppdatering står i `siste-oppdatering.json`.
+Fire typer saker fra [data.stortinget.no](https://data.stortinget.no), for sesjon 2013-2014 til og med inneværende sesjon. Dekker alle departementers områder, ikke bare AID. Dataene er offentlige og oppdateres automatisk hver natt (`.github/workflows/stortinget-oppdater.yml`). Sist kjørte oppdatering står i `siste-oppdatering.json`, og nye saker og nye svar fra den kjøringen i `siste-endringer.json`.
 
 | Datatype | Mappe | Hva det er |
 |---|---|---|

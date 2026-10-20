@@ -1,0 +1,31 @@
+name: Diagnose Stortinget-vedtak (midlertidig)
+on:
+  push:
+    branches: [claude/project-thread-nr3oez]
+    paths: [.github/workflows/diag-stortinget.yml]
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent og vis
+        run: |
+          for s in 2024-2025 2025-2026; do
+            curl -s "https://data.stortinget.no/eksport/stortingsvedtak?sesjonid=$s&status=alle" -o v-$s.xml
+          done
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET, collections
+          NS="{http://data.stortinget.no}"
+          for s in ['2024-2025','2025-2026']:
+              r=ET.parse(f'v-{s}.xml').getroot()
+              l=r.find(NS+'stortingsvedtak_liste')
+              c=collections.Counter()
+              for v in l:
+                  te=(v.findtext(NS+'tekst') or '').strip()
+                  ty=v.find(NS+'stortingsvedtak_type'); tid=ty.findtext(NS+'id') if ty is not None else None
+                  c[(tid, bool(te))]+=1
+              print(s, len(l), sorted(c.items(), key=str))
+          r=ET.parse('v-2025-2026.xml').getroot()
+          for v in r.find(NS+'stortingsvedtak_liste'):
+              if v.findtext(NS+'sak_id') in ('200211','200063','200084'):
+                  print('-----'); print(ET.tostring(v, encoding='unicode')[:3000])
+          PY
