@@ -27,13 +27,11 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Lov:** Lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse – LOV-2010-06-25-28. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om kombinasjon av avtalefestet pensjon for medlemmer av Statens pensjonskasse og arbeidsinntekt (pensjonsgivende inntekt) – FOR-2010-11-30-1493. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv. – FOR-2010-11-30-1494. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
-- **Forskrift:** Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning) – FOR-2024-12-13-3109. Sist endret i kraft: 2025-12-19. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning) – FOR-2024-12-13-3109. Sist endret i kraft: 2026-10-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
-Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
-
-- **Forskrift om endring i forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning)** (FOR-2026-10-15-2075). Trådte i kraft 2026-10-15, men er ikke tatt inn i teksten i basen ennå. Endrer: Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning). Ny tekst: `vedtatte-endringer/for-2026-10-15-2075.md`
+Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 ## Innhold
 

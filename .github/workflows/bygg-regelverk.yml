@@ -36,6 +36,12 @@ jobs:
       - name: Bygg fra Lovdatas åpne datasett og EUR-Lex
         run: python3 verktoy/bygg.py
 
+      # Bare til loggen: forskrifter med hjemmel i lovene som ikke er tatt med.
+      - name: Forskrifter med hjemmel i lovene som ikke er med
+        if: github.event_name == 'push' && !cancelled()
+        continue-on-error: true
+        run: python3 verktoy/finn_forskrifter.py --kilde .lovdata --alle
+
       # Tariffavtalene bygges av innboksen. Her åpnes bare en sak når det er tid for ny utgave.
       - name: Varsle om ny utgave av tariffavtalene
         if: github.event_name != 'push'

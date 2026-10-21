@@ -1,0 +1,7 @@
+# § 3-5. Opptak på grunnlag av forkurs o.l. ved opptak til matteteknologi, tekniske fag og nautikk
+
+**Kilde:** Forskrift om opptak til høgare utdanning (opptaksforskrifta) (2025) § 3-5
+
+**1. ledd**
+
+Universitet og høgskular kan ta opp søkarar som ikkje har generell studiekompetanse til matteteknologistudium, integrert masterstudium i teknologiske fag, 3-årig ingeniørutdanning, maritime studium og nautikkstudium dersom søkarane har bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014. For opptak til matteknologistudium kan også søkarar som har bestått 1-årig tilpassingskurs få opptak utan å ha generell studiekompetanse. Sjå også § 7-2 .

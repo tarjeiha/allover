@@ -1,0 +1,15 @@
+# § 5-1. Læreplanverket og tilbodsstrukturen
+
+**Kilde:** Forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) § 5-1
+
+**1. ledd**
+
+Opplæringa skal vere i samsvar med Læreplanverket for Kunnskapsløftet i tillegg til tilbodsstrukturen, jf. opplæringslova § 5-4 første ledd . Læreplanverket består av Overordna del – verdiar og prinsipp for grunnopplæringa, læreplanane i fag og fag- og timefordelinga. Opplæringa i fellesfaga skal vere tilpassa dei ulike utdanningsprogramma.
+
+**2. ledd**
+
+Fylkeskommunen kan gjennom forskrift leggje fag på andre trinn enn det som er fastsett i fag- og timefordelinga. Den nye fag- og timefordelinga skal vise på kva trinn dei ulike faga skal liggje, og skal samla sett følgje ordinær opplæringstid og sikre progresjon i faga. Fylkeskommunar som gir forskrifter om endra fag- og timefordeling, må også tilby den ordinære fag- og timefordelinga.
+
+**3. ledd**
+
+Fylkeskommunen kan tilby ein elev å gjennomføre den vidaregåande opplæringa på lengre eller kortare tid enn det som følgjer av fag- og timefordelinga, dersom omsynet til eleven tilseier det. Fylkeskommunen kan i desse tilfella dele faga mellom trinna på ein annan måte enn det som følgjer av fag- og timefordelinga.

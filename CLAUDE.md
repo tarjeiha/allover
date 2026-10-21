@@ -39,7 +39,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Regelverk | Veiviser | Sist endret i kraft |
 |---|---|---|
 | Offentleglova | `regelverk/offentleglova/VEIVISER.md` | 2026-07-01 |
-| AFP-loven for medlemmer av Statens pensjonskasse | `regelverk/afp-loven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
+| AFP-loven for medlemmer av Statens pensjonskasse | `regelverk/afp-loven/VEIVISER.md` | 2026-01-01 |
 | Aldersgrenseloven for statsansatte | `regelverk/aldersgrenseloven/VEIVISER.md` | 2026-01-01 |
 | Allmenngjøringsloven | `regelverk/allmenngjoringsloven/VEIVISER.md` | 2025-07-01 |
 | Arbeidsmarkedsloven | `regelverk/arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 |
@@ -57,6 +57,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Lov om Statens pensjonskasse | `regelverk/spk-loven/VEIVISER.md` | 2026-01-01 |
 | Lønnsgarantiloven | `regelverk/lonnsgarantiloven/VEIVISER.md` | 2026-01-01 |
 | NAV-loven | `regelverk/nav-loven/VEIVISER.md` | 2026-01-01 |
+| Opplæringslova | `regelverk/opplaeringslova/VEIVISER.md` | 2026-08-01 · **vedtatte endringer venter** |
 | Permitteringslønnsloven | `regelverk/permitteringslonnsloven/VEIVISER.md` | 2022-03-01 |
 | Personopplysningsloven | `regelverk/personopplysningsloven/VEIVISER.md` | 2022-01-01 |
 | Samordningsloven | `regelverk/samordningsloven/VEIVISER.md` | 2026-01-01 |
@@ -66,6 +67,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Statsborgerloven | `regelverk/statsborgerloven/VEIVISER.md` | 2024-12-20 |
 | Tjenestetvistloven | `regelverk/tjenestetvistloven/VEIVISER.md` | 2012-03-01 |
 | Tolkeloven | `regelverk/tolkeloven/VEIVISER.md` | 2022-06-15 |
+| Universitets- og høyskoleloven | `regelverk/universitets-og-hoyskoleloven/VEIVISER.md` | 2026-08-01 · **vedtatte endringer venter** |
 | Utlendingsloven | `regelverk/utlendingsloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
 | Utredningsinstruksen | `regelverk/utredningsinstruksen/VEIVISER.md` | 2024-11-01 |
 <!-- AUTO-SLUTT -->
@@ -144,6 +146,8 @@ Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til ri
 | bli norsk statsborger, hvor lenge man må ha bodd i Norge, to statsborgerskap, om barn blir norske automatisk, miste statsborgerskap ved å bo i utlandet, straff og statsborgerskap, søke statsborgerskap for barn, statsborgerprøven | Statsborgerloven |
 | streik i staten, lønnsoppgjøret i staten, tariffavtaler for statsansatte, hovedsammenslutninger, Statens lønnsutvalg | Tjenestetvistloven |
 | når det offentlige må skaffe tolk, bruke familie eller barn som tolk, krav for å jobbe som tolk, klage på en tolk, tolk over skjerm eller telefon, kvalifisert tolk, Nasjonalt tolkeregister, statsautorisert tolk | Tolkeloven |
+| skolen, grunnskole, videregående skole, rett til videregående opplæring, lærling og lærekontrakt, fag- og svennebrev, skolemiljø og mobbing i skolen, tilpasset opplæring, spesialundervisning, skoleskyss, voksenopplæring, grunnskole eller videregående for voksne, realkompetansevurdering, privatist, godkjenning av utenlandsk fagbrev | Opplæringslova |
+| universitet og høyskole, studier, opptak til høyere utdanning, Samordna opptak, generell studiekompetanse, studiekompetanse med utenlandsk utdanning, godkjenning av utenlandsk høyere utdanning eller utdanning uten dokumentasjon, eksamen og klage på karakter, fusk, studentrettigheter, skolepenger for studenter utenfor EØS, NOKUT, ansettelse som professor eller stipendiat | Universitets- og høyskoleloven |
 | ansette noen fra land utenfor EU, flytte til Norge for å jobbe, arbeidstillatelse, registrere seg som EU-borger, jobbe i Norge som svenske eller danske, oppholdstillatelse, oppholdsrett, asyl, familiegjenforening, visum, utvisning | Utlendingsloven |
 | ansatt i staten, statsansatt, tilsetting i staten, kvalifikasjonsprinsippet, prøvetid i staten, oppsigelse eller avskjed i staten, suspensjon, ordensstraff, midlertidig ansettelse i staten, embetsmann, innstillingsråd, tilsettingsråd, fortrinnsrett i staten, ventelønn | Statsansatteloven |
 | karantene når man slutter i staten, saksforbud, gå fra staten til privat sektor, informasjonsplikt om ny jobb, Karantenenemnda | Karanteneloven |

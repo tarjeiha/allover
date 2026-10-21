@@ -1,0 +1,7 @@
+# § 4-1. Virkeområde for dette kapitlet
+
+**Kilde:** Forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften) § 4-1
+
+**1. ledd**
+
+Kapittel 4 regulerer universiteter og høyskolers adgang til å kreve egenbetaling for studietilbud som er rettet mot enkeltstudenter, betaling for andre utgifter knyttet til studietilbud, vederlag for eksamenskandidater uten eksamensrett, samt private institusjoners disponering av egenbetaling og statstilskudd. Den gjelder ikke studietilbud som tilbys som oppdrag.

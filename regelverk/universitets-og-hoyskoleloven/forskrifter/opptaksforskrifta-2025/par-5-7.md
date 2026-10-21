@@ -1,0 +1,11 @@
+# § 5-7. Tilleggspoeng for realfag og samisk frå vidaregåande opplæring
+
+**Kilde:** Forskrift om opptak til høgare utdanning (opptaksforskrifta) (2025) § 5-7
+
+**1. ledd**
+
+Søkarar får inntil to tilleggspoeng for programfag frå programområde for realfag og eitt tilleggspoeng for samisk som førstespråk frå vidaregåande opplæring. Faga må vere bestått. Søkarar skal ikkje få utteljing for fag som overlappar kvarandre. Alle programfag frå programområde for realfag med eit omfang på 140 timar gir 0,25 tilleggspoeng, med unntak av faga matematikk R2 og fysikk 2, som gir 0,5 tilleggspoeng. Søkarar får ikkje tilleggspoeng for samisk som førstespråk ved opptak til studium med kvote for søkarar med samisk språkkompetanse.
+
+**2. ledd**
+
+Søkarar med vitnemål frå tidlegare norsk vidaregåande opplæring eller vidaregåande opplæring frå utlandet, kan få tilleggspoeng etter første ledd dersom søkarane har fagkombinasjonar som må reknast som likeverdige.

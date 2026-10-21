@@ -1,0 +1,19 @@
+# § 4-3. Styrets sammensetning
+
+**Kilde:** Universitets- og høyskoleloven § 4-3
+
+**1. ledd**
+
+Styret skal ha elleve medlemmer. Fire av medlemmene skal velges blant ansatte i vitenskapelige stillinger, ett blant de teknisk og administrativt ansatte, to blant studentene, mens fire skal være eksterne medlemmer. Departementet utpeker ett av de eksterne styremedlemmene til å være styrets leder. Dersom institusjonen har en valgt rektor, jf. § 4-6 , trer rektor inn i styret i stedet for et medlem valgt blant ansatte i vitenskapelige stillinger.
+
+**2. ledd**
+
+Styret selv kan ved tilslutning fra minst halvparten av styrets medlemmer vedta en annen styresammensetning enn fastsatt i første ledd. Ansatte i vitenskapelige stillinger, teknisk og administrativt ansatte, studenter og eksterne skal være representert i styret. Ingen av gruppene skal ha flertall alene.
+
+**3. ledd**
+
+Styret selv kan med to tredels flertall fastsette at styret skal ha et flertall av eksterne medlemmer. Ansatte i vitenskapelige stillinger, teknisk og administrativt ansatte og studenter skal være representert i styret.
+
+**4. ledd**
+
+Departementet kan i særlige tilfeller fastsette en annen styresammensetning eller styreordning.

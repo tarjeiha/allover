@@ -1,0 +1,7 @@
+# § 9-4. Godkjenning av faglig jevngodhet for fullført grad fra utenlandsk høyere utdanning
+
+**Kilde:** Universitets- og høyskoleloven § 9-4
+
+**1. ledd**
+
+Institusjonsakkrediterte universiteter og høyskoler kan godkjenne en grad som er fullført ved utenlandske universiteter eller høyskoler, som faglig jevngod med et studium ved institusjonen. Dersom graden blir godkjent, har søkeren rett til å bruke tittelen som er fastsatt for studiet som den utenlandske utdanningen er jevngod med.
