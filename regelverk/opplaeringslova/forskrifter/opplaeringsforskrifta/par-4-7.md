@@ -1,0 +1,15 @@
+# § 4-7. Krav til søknader om inntak
+
+**Kilde:** Forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) § 4-7
+
+**1. ledd**
+
+Søkjarar til vidaregåande opplæring må bruke det søknadsskjemaet som er fastsett av fylkeskommunen.
+
+**2. ledd**
+
+Søkjarar til vidaregåande trinn 1 må føre opp tre alternative utdanningsprogram. Alle søkjarar til vidaregåande trinn 2 og vidaregåande trinn 3 må føre opp eitt eller fleire programområde som byggjer på eit utdanningsprogram eller programområde dei har gjennomført.
+
+**3. ledd**
+
+Søkjarar som har rett til opplæring i og på norsk teiknspråk etter opplæringslova § 6-3 , må i søknaden opplyse om dei prioriterer inntak til ordinær vidaregåande skole med opplæring ved hjelp av teiknspråktolk eller inntak til vidaregåande skole som har opplæring i og på norsk teiknspråk. Søkjarar som ønskjer opplæring på vidaregåande skole som har opplæring i og på teiknspråk, kan ikkje føre opp andre utdanningsprogram eller programområde i søknaden enn dei tilboda som desse skolane gir, eller dei tilboda som desse skolane gir i samarbeid med andre vidaregåande skolar.

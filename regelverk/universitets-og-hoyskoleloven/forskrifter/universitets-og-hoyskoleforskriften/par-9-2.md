@@ -1,0 +1,11 @@
+# § 9-2. Bruk av video- og lydopptak i praksisopplæring i lærerutdanningene
+
+**Kilde:** Forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften) § 9-2
+
+**1. ledd**
+
+Universiteter og høyskoler kan behandle personopplysninger om studenter, barn, elever og ansatte som er til stede i undervisning i grunnskole eller videregående skole eller i barnehage, ved bruk av video- eller lydopptak når formålet med behandlingen er å veilede og vurdere studentenes praksis. Studentens praksis må inngå som en obligatorisk del av institusjonens studieplan for den relevante lærerutdanningen. Opptakene kan bare brukes i læringssituasjoner i forbindelse med veiledning av studentene, og skal slettes så snart vurderingen av studentens praksis er avsluttet og senest når studenten avslutter studiet.
+
+**2. ledd**
+
+Barn og elever har rett til å reservere seg mot slik behandling av personopplysninger.

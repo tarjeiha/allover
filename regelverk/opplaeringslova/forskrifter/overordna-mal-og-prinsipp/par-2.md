@@ -1,0 +1,7 @@
+# § 2.
+
+**Kilde:** Forskrift om overordna mål og prinsipp for grunnskoleopplæringa og den vidaregåande opplæringa § 2
+
+**1. ledd**
+
+Forskrifta trer i kraft 1. august 2026. Samstundes blir forskrift 1. september 2017 nr. 1332 om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa oppheva.

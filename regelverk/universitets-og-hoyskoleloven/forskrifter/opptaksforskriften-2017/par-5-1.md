@@ -1,0 +1,21 @@
+# § 5-1. Opptak på visse vilkår
+
+**Kilde:** Forskrift om opptak til høgare utdanning (2017) § 5-1
+
+(1) Søkjarar som på grunn av spesielle omstende ikkje kan gå opp til eksamen i vidaregåande opplæring, og som difor ikkje kan få dokumentasjon på bestått opplæring som normalt er krav for opptak til institusjonar som er omfatta av denne forskrifta, kan få opptak til høgare utdanning på visse vilkår. Søkjaren får opptak til høgare utdanning på vilkår av at han/ho består eksamen i eitt eller fleire fag i vidaregåande opplæring i løpet av første semester etter opptak. Det er ein føresetnad at søkjaren har karakteren 2 eller betre, eller oppfyller andre opptakskrav med standpunktkarakteren i det faget han/ho ikkje har avlagt eksamen i, og at søkjaren ikkje allereie har avsluttande vurdering i faget. Dersom det er fastsett spesielle opptakskrav for opptak til studiet er det ein føresetnad at søkjaren oppfyller desse når eksamen er avlagt.
+
+(2) Opptaksorganet kan gi opptak på visse vilkår der den vidaregåande skulen har stadfesta på søkjarens kompetansebevis at manglande eksamen har si årsak i spesielle omstende, jf. opplæringsforskrifta § 9-36 .
+
+(3) Søkjarar som har fått opptak på visse vilkår, kan ikkje få reservert studieplass til seinare opptak.
+
+(4) Studentar med opptak på visse vilkår som ikkje fyller opptakskrava innan den fastsette fristen, mistar studieplassen og studieretten.
+
+(5) Studentar som går opp til eksamen i eit studium dei har fått opptak til på visse vilkår, får ikkje denne eksamenen godkjend som bestått utan at opptakskravet er oppfylt.
+
+(6) Den utdanningsinstitusjonen som gir opptak på visse vilkår, skal så langt det er mogleg og rimeleg, leggje til rette for at studenten både kan gå opp til utsett eksamen i vidaregåande opplæring og gjennomføre det studiet det på visse vilkår er gitt opptak til. Dersom institusjonen ikkje finn å kunne leggje til rette på denne måten, skal studenten få forlengje opptaket på visse vilkår til neste gong det blir arrangert utsett eksamen i det aktuelle faget i vidaregåande opplæring.
+
+---
+
+**Endringshistorikk:**
+
+- Endra ved forskrifter 30 jan 2018 nr. 137 (i kraft 1 feb 2018), 23 nov 2018 nr. 1767 (i kraft 1 jan 2019), 16 des 2020 nr. 2916 (i kraft 1 jan 2021), 1 des 2021 nr. 3391 (i kraft 1 jan 2022), 19 des 2024 nr. 3488 , 16 jan 2025 nr. 42 .
