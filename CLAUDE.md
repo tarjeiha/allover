@@ -14,7 +14,7 @@ Hent med `curl -sL <adresse>` i kodeverktøyet hvis du har det, ellers med nettl
 
 ## Slik finner du fram
 
-Repoet har fire deler. Lover, forskrifter, tariffavtaler og EU-rettsakter ligger under `regelverk/`, og resten av denne filen gjelder dem. Statsbudsjettet ligger under `budsjett/` (start i `budsjett/VEIVISER.md`), og en katalog over hvor tall og statistikk finnes ligger under `data/` (start i `data/VEIVISER.md`). Stortingets anmodningsvedtak, spørsmål, interpellasjoner og representantforslag ligger under `stortinget/` (start i `stortinget/VEIVISER.md`, og bruk søkeskriptet der).
+Repoet har fem deler. Skriveregler og nynorsk ligger under `sprak/` (start i `sprak/VEIVISER.md`). Lover, forskrifter, tariffavtaler og EU-rettsakter ligger under `regelverk/`, og resten av denne filen gjelder dem. Statsbudsjettet ligger under `budsjett/` (start i `budsjett/VEIVISER.md`), og en katalog over hvor tall og statistikk finnes ligger under `data/` (start i `data/VEIVISER.md`). Stortingets anmodningsvedtak, spørsmål, interpellasjoner og representantforslag ligger under `stortinget/` (start i `stortinget/VEIVISER.md`, og bruk søkeskriptet der).
 
 Basen har tre nivåer. Gå ikke dypere enn nødvendig.
 

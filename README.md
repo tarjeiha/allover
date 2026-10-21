@@ -5,6 +5,7 @@ Felles base som Claude slår opp i når noen stiller spørsmål som krever regel
 - [`regelverk/`](regelverk/): lover og forskrifter fra Lovdata, hovedtariffavtalen i staten og EU-rettsakter.
 - [`budsjett/`](budsjett/): statsbudsjettet.
 - [`data/`](data/): katalog over hvor tall og statistikk finnes.
+- [`sprak/`](sprak/): skriveregler og nynorskføringer.
 
 - **For Claude:** start i [`CLAUDE.md`](CLAUDE.md).
 - **Hva som ligger her, og hvordan du melder feil:** se [`OM-BASENE.md`](OM-BASENE.md).

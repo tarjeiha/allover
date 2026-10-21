@@ -1,6 +1,6 @@
 # Versjoner av de felles skillene
 
-Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med denne lista og sier fra når en nyere versjon finnes. Kildene til de fleste ligger i `skills/`. `felles-intern` og `felles-sprak` lastes ned som fil. Versjonen er en dato, med et løpenummer etter punktum når samme skill endres flere ganger samme dag (2026-10-20.2). Den endres samtidig med skillen.
+Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med denne lista og sier fra når en nyere versjon finnes. Kildene til de fleste ligger i `skills/`. `felles-intern` lastes ned som fil. Versjonen er en dato, med et løpenummer etter punktum når samme skill endres flere ganger samme dag (2026-10-20.2). Den endres samtidig med skillen.
 
 | Skill | Versjon |
 |---|---|
