@@ -4,7 +4,7 @@ Denne filen er for Claude. Hent den når brukeren spør hva basene inneholder, h
 
 ## Hva basene er
 
-Dette er felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv. Basene er et utvalg: de dekker det brukerne oftest trenger, ikke alt som finnes. Si det til brukeren når det betyr noe for svaret, og oppfordre dem til å melde fra om det som mangler, og om feil eller dårlige svar (se avsnittet om feil under).
+Dette er felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv. Basene er et utvalg: de dekker det brukerne oftest trenger, ikke alt som finnes. Si det til brukeren når det betyr noe for svaret. Tilby ikke å sende melding om det, se avsnittet om feil under.
 
 - **Den åpne basen** har regelverk, statsbudsjettet, statistikk, Stortingets saker og skriveregler med nynorskføringer. Oversikten under viser hva den inneholder nå.
 - **Den interne basen** har egne rutiner og maler: tidsplan for saksbehandling, PowerPoint-malen, og behandling av invitasjoner til politisk ledelse. Den er ikke åpen, og innholdet beskrives ikke her.
@@ -17,15 +17,23 @@ Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om 
 
 ## Når brukeren har funnet en feil, noe mangler, eller noe nytt bør inn
 
+**Tilby melding bare når brukeren ber om det.** Det vil si når brukeren selv sier at noe er feil eller mangler og vil melde fra, eller spør hvordan det kan meldes. Foreslå det ikke på eget initiativ, heller ikke når et svar er ufullstendig eller noe ikke er dekket. Si da bare hva som ikke er dekket, og hvor brukeren kan finne det. Har brukeren nevnt en feil uten å be om å melde den, kan du spørre én gang om de vil sende en melding, men ikke flere ganger i samme samtale.
+
 1. **Skriv meldingen sammen med brukeren.** Den skal si
-   - om det gjelder en feil, noe som mangler, eller et ønske om noe nytt,
+   - om det gjelder en feil, noe som mangler, et ønske om noe nytt, eller en ny skill til vurdering,
    - hvilken base og hvilket sted (lov og paragraf, budsjettår og kapittel, tabell, rutine),
    - hva brukeren spurte om og hva svaret sa, kort,
    - hva som er riktig, og hvilken kilde som viser det (lenke hvis mulig),
    - brukerens navn og avdeling. Spør hvis du ikke vet.
 2. **Ta ikke med** personopplysninger, opplysninger fra enkeltsaker eller interne vurderinger. Er de nødvendige for å forklare feilen, beskriv feilen uten dem.
 3. **Vis meldingen og be brukeren godkjenne den.**
-4. **Lag e-posten.** Adressen til redaktøren står i skillen du kom fra. Gi brukeren en lenke som åpner e-posten ferdig utfylt: `mailto:<adresse>?subject=<emne>&body=<meldingen>`. Emnet er «Melding om basene: » og en kort beskrivelse. Emne og tekst må URL-kodes, med `%0A` for linjeskift. Bruk kodeverktøyet til kodingen hvis du har det. Vis også meldingen i en kodeblokk med adresse og emne, i tilfelle lenken ikke virker. Finner du ingen adresse, be brukeren sende meldingen til Tarjei Havnes, som er redaktør for basene.
+4. **Lag e-posten.** Adressen til redaktøren står i skillen du kom fra. Gi brukeren en lenke som åpner e-posten ferdig utfylt: `mailto:<adresse>?subject=<emne>&body=<meldingen>`. Emnet skal alltid begynne med merket «[Felles baser]», så redaktøren kan filtrere på det, fulgt av typen og en kort beskrivelse:
+   - «[Felles baser] Feil: …»
+   - «[Felles baser] Mangler: …»
+   - «[Felles baser] Ønske: …»
+   - «[Felles baser] Ny skill: …»
+
+   Bruk bare disse fire typene. Emne og tekst må URL-kodes, med `%0A` for linjeskift. Bruk kodeverktøyet til kodingen hvis du har det. Vis også meldingen i en kodeblokk med adresse og emne, i tilfelle lenken ikke virker. Finner du ingen adresse, be brukeren sende meldingen til Tarjei Havnes, som er redaktør for basene, og gi dem emnet ferdig skrevet, med merket først, til å lime inn.
 5. **Si til brukeren** at meldingen er levert først når e-posten er sendt, at feilen blir kontrollert mot kilden før noe rettes, og at du ikke kan rette basen selv.
 
 Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn direkte: rundskriv og hovedtariffavtalen i `innboks/`, Excel-filer fra Nav i `innboks-data/` og budsjettdokumenter i `innboks-budsjett/`. Se README-filen i hver innboks.
