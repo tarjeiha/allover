@@ -1,0 +1,11 @@
+# § 9-9. Samordning av vedtak om godkjenning av utenlandsk høyere utdanning
+
+**Kilde:** Universitets- og høyskoleloven § 9-9
+
+**1. ledd**
+
+Alle som fatter vedtak om godkjenning av utenlandsk høyere utdanning etter §§ 9-3 til 9-5 og 9-7 , skal samordne praksisen sin for godkjenning av utenlandsk høyere utdanning.
+
+**2. ledd**
+
+Vedtak om godkjenning skal registreres i et register for samordning av godkjenning av utenlandsk høyere utdanning. Departementet kan gi forskrift om registeret og om behandlingen av personopplysninger, blant annet om formålet med behandlingen, behandlingsansvar, hvilke opplysninger som kan registreres, og om hvem, og om innhenting, viderebehandling, utlevering og tilgang til personopplysninger.

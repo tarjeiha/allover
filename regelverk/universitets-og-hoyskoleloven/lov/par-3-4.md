@@ -1,0 +1,25 @@
+# § 3-4. Universiteters og høyskolers akkreditering av egne studietilbud
+
+**Kilde:** Universitets- og høyskoleloven § 3-4
+
+**1. ledd**
+
+Universiteters og høyskolers rett til å akkreditere egne studietilbud skal være innenfor rammene av vedtak om institusjonskategori etter § 3-1 og hvilke grader og yrkesutdanninger institusjonen har rett til å gi etter § 3-8 . Institusjonene skal dokumentere at studietilbudene oppfyller standardene og kriteriene som er fastsatt i eller med hjemmel i denne loven, jf. § 3-2 andre ledd .
+
+**2. ledd**
+
+Universiteter kan akkreditere egne studietilbud på alle nivåer.
+
+**3. ledd**
+
+Vitenskapelige høyskoler og høyskoler med institusjonsakkreditering kan akkreditere egne studietilbud på lavere grads nivå. På fagområder der institusjonene kan tildele doktorgrad, kan de akkreditere egne studietilbud på høyere grads nivå. På fagområder der institusjonene ikke kan tildele doktorgrad, må de søke NOKUT om akkreditering av studietilbud på høyere grads- og doktorgradsnivå.
+
+**4. ledd**
+
+Departementet kan trekke tilbake akkrediteringsmyndigheten etter andre og tredje ledd dersom NOKUT har funnet at en institusjon ikke tilfredsstiller kravene til kvalitetssikring som er fastsatt i eller med hjemmel i § 3-5 , eller dersom NOKUT har trukket tilbake akkrediteringen av en institusjon på grunn av manglende oppfyllelse av standardene og kriteriene for akkreditering som er fastsatt i eller med hjemmel i §§ 3-1 til 3-4 .
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 20 juni 2025 nr. 101 (i kraft 1 aug 2025 iflg. res. 20 juni 2025 nr. 1092 ).

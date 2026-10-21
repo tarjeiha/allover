@@ -1,0 +1,7 @@
+# § 5-9. Rett til vidaregåande opplæring for dei som ikkje har opphaldsløyve
+
+**Kilde:** Opplæringslova § 5-9
+
+**1. ledd**
+
+Det er eit vilkår for rett til vidaregåande opplæring at ein har lovleg opphald i landet. Dei som oppheld seg lovleg i landet medan dei ventar på svar på søknad om opphaldsløyve, har rett til vidaregåande opplæring ut det skoleåret som tar til det året dei fyller 18 år. Dei som får avslag på søknaden om opphaldsløyve, har berre rett til vidaregåande opplæring fram til datoen for det endelege vedtaket.
