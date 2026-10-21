@@ -2,7 +2,7 @@
 
 Kildene til de felles skillene. Skillen `felles-intern` henter denne lista når en bruker vil installere eller oppdatere skills. Hver skill her ligger i `skills/<navn>/SKILL.md` og lagres av brukeren fra et kort.
 
-Regelverket, budsjettet og statistikken i skillene er et utvalg, ikke alt som finnes. Si dette til brukeren når du viser lista, og be dem si fra om det som mangler, og om feil eller dårlige svar. Da lager du en melding etter avsnittet om feil i `OM-BASENE.md`.
+Regelverket, budsjettet og statistikken i skillene er et utvalg, ikke alt som finnes. Si dette til brukeren når du viser lista. Tilby ikke å sende melding om feil eller mangler her. Det gjør du bare når brukeren selv ber om det, se avsnittet om feil i `OM-BASENE.md`.
 
 | Skill | Hva den gjør | Hvem |
 |---|---|---|

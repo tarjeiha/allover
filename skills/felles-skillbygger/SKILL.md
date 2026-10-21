@@ -5,7 +5,7 @@ description: "Companion-skill til skill-creator for de felles skillene i departe
 
 # Skill-bygging for de felles skillene
 
-**Versjon 2026-10-21.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Feiler hentingen, la det være.
+**Versjon 2026-10-21.2.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Feiler hentingen, la det være.
 
 Companion-skill til skill-creator. Den dekker det som er særskilt for de felles skillene: om noe bør bli en skill i det hele tatt, hvor innholdet skal ligge, hvordan skillen testes, og hvordan den lagres og deles. Skillen brukes av alle ansatte som vil lage en skill, ikke bare av prosjektlederen og bidragsyterne, så forklar valgene i vanlig språk, ikke bare utfallet.
 
@@ -134,7 +134,7 @@ En skill en ansatt lager, er til eget bruk. Den som vil, kan sende den til vurde
 
 1. Gjør dette bare når brukeren selv spør om skillen kan bli felles, eller vil sende den til vurdering. Ikke foreslå det på eget initiativ.
 2. Sjekk at den ikke inneholder token, personopplysninger, saksinnhold eller interne vurderinger.
-3. Hent `https://raw.githubusercontent.com/tarjeiha/allover/main/OM-BASENE.md` og følg avsnittet om feil, med type «ønske» og base «interne rutiner». Skriv i meldingen hva skillen gjør, hvem den er for, og hvordan den er testet. Legg SKILL.md ved som fil, eller lim den inn i e-posten hvis den er kort.
+3. Hent `https://raw.githubusercontent.com/tarjeiha/allover/main/OM-BASENE.md` og følg avsnittet om feil, med type «ny skill» og base «interne rutiner». Skriv i meldingen hva skillen gjør, hvem den er for, og hvordan den er testet. Legg SKILL.md ved som fil, eller lim den inn i e-posten hvis den er kort.
 4. Meldingen går til redaktøren for basene, Tarjei Havnes. Adressen står i skillen `felles-intern`.
 
 Si til brukeren at skillen kan brukes selv mens den vurderes, men at hver egen skill konkurrerer med de felles skillene om plassen i lista (se steg 1).
