@@ -2,7 +2,7 @@
 """
 Lister hva nattoppdateringen har brakt inn: nye spørsmål, anmodningsvedtak,
 representantforslag, saker i arbeids- og sosialkomiteen og forslag fra voteringene
-i dem, og spørsmål som har fått svar. Sammenligner datafilene i arbeidskopien med siste commit (HEAD), så det må kjøres etter
+i dem, spørsmål som har fått svar og komitésaker der innstillingen er avgitt. Sammenligner datafilene i arbeidskopien med siste commit (HEAD), så det må kjøres etter
 oppdater_inkrementell.py og før endringene committes.
 
 Statusendringer ellers (trukket, bortfalt, utfall o.l.) tas ikke med.
@@ -70,7 +70,8 @@ def sporsmal_post(v):
 def finn_endringer():
     ut = {'dato': date.today().isoformat(),
           'nye': {d: [] for d in DATATYPER},
-          'besvart': []}
+          'besvart': [],
+          'innstilling': []}
     for datatype in DATATYPER:
         for fil in endrede_filer(datatype):
             for_, etter = les_for_og_etter(fil)
@@ -83,7 +84,11 @@ def finn_endringer():
                         ut['besvart'].append(sporsmal_post(v))
                 elif gammel is None:
                     ut['nye'][datatype].append(v)
-    ut['antall'] = {**{d: len(ut['nye'][d]) for d in DATATYPER}, 'besvart': len(ut['besvart'])}
+                elif datatype == 'saker' and 'Innst.' in (v.get('henvisning') or '') \
+                        and 'Innst.' not in (gammel.get('henvisning') or ''):
+                    ut['innstilling'].append(v)
+    ut['antall'] = {**{d: len(ut['nye'][d]) for d in DATATYPER},
+                    'besvart': len(ut['besvart']), 'innstilling': len(ut['innstilling'])}
     return ut
 
 
