@@ -2,6 +2,10 @@
 
 Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner skillene og skillmappene som fantes før flyttingen.
 
+## 2026-10-21 – Innstillinger i varselet
+
+**Endring:** `siste-endringer.json` har fått listen `innstilling`: saker i arbeids- og sosialkomiteen der innstillingen er avgitt siden forrige kjøring (henvisningen har fått «Innst.»). Varselet tar dem med. Utløst av Dokument 8:285 S (2025-2026), der innstillingen kom 20.10 uten at varselet sa fra.
+
 ## 2026-10-20 – Saker og forslag fra arbeids- og sosialkomiteen
 
 **Endring:** To nye datatyper. `saker` har alle saker i arbeids- og sosialkomiteen fra sesjon 2011-2012 (534 saker), med Stortingets vedtakstekst. `forslag` har mindretallsforslag og løse forslag fra voteringene i de samme sakene (1 770 forslag), med parti og om forslaget ble vedtatt. Komiteens tilråding er ikke med som forslag. `scripts/komitesaker.py` henter dem, og nattjobben kjører den etter den vanlige oppdateringen. Søket har fått `--sak-id`, og `--parti` og `--komite` gjelder også de nye typene.
