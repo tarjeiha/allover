@@ -1,6 +1,30 @@
 # Opplæringslova: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Opplæringslova gjelder grunnskoleopplæring og videregående opplæring: rett og plikt til grunnskoleopplæring, rett til videregående opplæring, fag- og yrkesopplæring og lærlinger, skolemiljø, tilpasset opplæring og individuell tilrettelegging, opplæring for voksne, privatister, godkjenning av utenlandsk fag- og yrkesopplæring og kommunens og fylkeskommunens ansvar. Loven er fra 2023 og trådte i kraft 1. august 2024. Den forvaltes av Kunnskapsdepartementet. Lov- og forskriftsteksten er på nynorsk og siteres på nynorsk.
+
+Opplæringsforskrifta utfyller loven. Forskriften om overordna mål og prinsipp er med, men innholdet i den, «Overordnet del – verdier og prinsipper for grunnopplæringen», står i et vedlegg som ikke er med. Læreplanene i fag (Kunnskapsløftet), rammeplanen for skolefritidsordningen, privatskolelova og forskriftene for Longyearbyen og de samiske videregående skolene er ikke tatt med. Spørsmål om innholdet i et fag kan derfor ikke besvares herfra. Vis til Utdanningsdirektoratet (udir.no).
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Ny lov og ny nummerering fra 2024.** Opplæringslova fra 2023 erstattet opplæringslova fra 1998 1. august 2024. Gamle paragrafnumre (for eksempel kapittel 4A om voksne eller kapittel 9 A om skolemiljø) gjelder ikke lenger. Opplæring for voksne står nå i kapittel 18–21, og skolemiljøet i kapittel 12. Overgangsregler står i § 30-2 og i opplæringsforskrifta kapittel 23.
+- **Svaret står ofte i forskriften.** Loven har mange forskriftshjemler. Inntak til videregående opplæring, innholdet i opplæringen, fag- og yrkesopplæringen, individuell vurdering, eksamen og klage på sluttvurdering står i opplæringsforskrifta. For voksne er reglene samlet i forskriftens kapittel 13–17.
+- **Voksne har egne rettigheter.** Retten til forberedende opplæring for voksne (§ 18-2) og videregående opplæring for voksne (§ 18-3) gjelder dem som ikke lenger har rett etter kapittel 2 eller 5. Retten forutsetter lovlig opphold, og § 18-10 har egne regler for dem som venter på svar på søknad om oppholdstillatelse. Rett til yrkesfaglig rekvalifisering står i § 18-4.
+- **Sømmen mot integreringsloven.** Introduksjonsprogrammet etter integreringsloven kan bygge på opplæring etter opplæringslova, for eksempel videregående opplæring eller yrkesfaglig rekvalifisering etter § 18-4 (integreringsloven § 13). Opplæring i norsk og samfunnskunnskap for innvandrere reguleres i integreringsloven, ikke her. Se `regelverk/integreringsloven/VEIVISER.md`.
+- **Godkjenning av utenlandsk opplæring.** Godkjenning av utenlandsk fag- og yrkesopplæring som sidestilles med norsk fag- eller svennebrev, står i § 23-3 og § 23-4. Godkjenning av utenlandsk høyere utdanning står i universitets- og høyskoleloven kapittel 9, se `regelverk/universitets-og-hoyskoleloven/VEIVISER.md`.
+- **Klageinstans.** Departementet er klageinstans for enkeltvedtak etter loven, men forvaltningsloven § 28 gjelder for en del vedtak, blant annet vedtak om hvilket utdanningsprogram, programområde og hvilken skole en søker tas inn på (§ 29-1 andre ledd). Klage på sluttvurdering har egne regler i opplæringsforskrifta kapittel 10 og 16.
+- **Vedtatt endring gjelder privatskolelova.** Den vedtatte endringen som er listet under, gjelder endringsbestemmelsen i § 30-3 om privatskolelova, og er satt i kraft bare delvis. Den endrer ikke reglene i opplæringslova selv.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| introduksjonsprogram og opplæring i norsk og samfunnskunnskap | `regelverk/integreringsloven/VEIVISER.md` |
+| godkjenning av utenlandsk høyere utdanning og opptak til høyere utdanning | `regelverk/universitets-og-hoyskoleloven/VEIVISER.md` |
+| enkeltvedtak og klage | `regelverk/forvaltningsloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

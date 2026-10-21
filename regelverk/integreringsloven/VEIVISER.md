@@ -2,7 +2,7 @@
 
 Integreringsloven regulerer tidlig kvalifisering, introduksjonsprogram og introduksjonsstønad, opplæring i norsk og samfunnskunnskap og kommunens og fylkeskommunens ansvar. Integreringsforskriften utfyller det meste av loven. Tre læreplanforskrifter fastsetter innholdet i opplæringen, og egne overgangsregler gjelder kapittel 6A og § 20 fjerde ledd.
 
-Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Rundskriv og veiledning fra IMDi og departementet, veiledninger til læreplanene, prøveinstrukser og HK-dirs fortolkninger ligger ikke i basen. Opplæringsloven er heller ikke i basen.
+Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Rundskriv og veiledning fra IMDi og departementet, veiledninger til læreplanene, prøveinstrukser og HK-dirs fortolkninger ligger ikke i basen.
 
 ## Slik bruker du veiviseren
 
@@ -27,6 +27,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 | språkkrav og statsborgerprøve for statsborgerskap | `regelverk/statsborgerloven/VEIVISER.md` |
 | kollektiv beskyttelse (utlendingsloven § 34) | `regelverk/utlendingsloven/VEIVISER.md` |
 | bruk av tolk | `regelverk/tolkeloven/VEIVISER.md` |
+| opplæring for voksne og yrkesfaglig rekvalifisering | `regelverk/opplaeringslova/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

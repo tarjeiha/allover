@@ -1,6 +1,33 @@
 # Universitets- og høyskoleloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Universitets- og høyskoleloven gjelder virksomhet knyttet til høyere utdanning ved universiteter og høyskoler: akkreditering og kvalitet, organisering og ledelse, ansettelser, opptak, godkjenning av utdanning, studentenes rettigheter og læringsmiljø, eksamen og klage, reaksjoner mot studenter og NOKUT. Loven er fra 2024 og erstattet loven fra 2005 1. august 2024 (§ 17-2). Den forvaltes av Kunnskapsdepartementet.
+
+Forskriftene som er med, er universitets- og høyskoleforskriften, to opptaksforskrifter (se fellene), forskriften om generell godkjenning av utenlandsk høyere utdanning, forskriften om Nasjonalt kvalifikasjonsrammeverk og forskriften om enkelte klagenemnder på Kunnskapsdepartementets område. Rammeplaner og nasjonale retningslinjer for de enkelte profesjonsutdanningene, tilpasningsforskriftene for Forsvarets høgskole, Politihøgskolen og Høgskolen for kriminalomsorg og institusjonenes egne forskrifter om opptak, studier, eksamen og doktorgrad er ikke tatt med. Svar på spørsmål om regler ved en bestemt institusjon må derfor vise til institusjonens egen forskrift på Lovdata.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Ny lov og ny nummerering fra 2024.** Paragrafnumrene i loven fra 2005 (for eksempel § 3-6 om opptak eller § 4-3 om læringsmiljø) gjelder ikke lenger. Forarbeider, rundskriv og nettsider skrevet før 1. august 2024 viser ofte til gammel nummerering. Finn regelen i den nye loven ut fra innholdet, ikke ut fra nummeret.
+- **To opptaksforskrifter, ulik gyldighet.** Forskrift om opptak til høgare utdanning fra 2017 gjelder fram til 31. desember 2026. Den nye opptaksforskrifta fra 2025 trer i kraft 1. januar 2027, og da oppheves 2017-forskriften (opptaksforskrifta § 7-3). Sjekk hvilket opptak spørsmålet gjelder, og si hvilken forskrift svaret bygger på. Overgangsreglene står i kapittel 7 i den nye forskriften.
+- **Godkjenning av utenlandsk utdanning har flere spor.** Generell godkjenning av utenlandsk høyere utdanning gis etter § 9-7 og forskriften om generell godkjenning. Hvem som behandler søknadene, står i forskriften. Faglig godkjenning og godkjenning av jevngodhet gjøres av institusjonene etter §§ 9-3 og 9-4. Godkjenning av utenlandsk fag- og yrkesopplæring på videregående nivå står i opplæringslova § 23-3, se `regelverk/opplaeringslova/VEIVISER.md`. Godkjenning for lovregulerte yrker (for eksempel sykepleier eller lærer) følger egne regler som ikke står i denne loven.
+- **Udokumentert utdanning har egen ordning.** Personer som ikke kan dokumentere utdanningen sin, for eksempel flyktninger, kan få generell godkjenning etter UVD-ordningen i kapittel 4 i forskriften om generell godkjenning, og faglig godkjenning etter § 9-5.
+- **Krav til generell studiekompetanse for søkere med utenlandsk utdanning** står i vedlegget til opptaksforskriftene (GSU-listen) i `utenfor-paragrafene.md` i forskriftsmappen. Listen kobler land, utdanningskrav og krav til norsk og engelsk. Les raden for landet før du svarer. Norskkravet kan dekkes med norskprøven på nivå B2, med henvisning til integreringsloven, se `regelverk/integreringsloven/VEIVISER.md`.
+- **Ansatte ved statlige universiteter og høyskoler er statsansatte.** Statsansatteloven gjelder, men universitets- og høyskoleloven kapittel 7 og universitets- og høyskoleforskriften kapittel 3 har særregler om ansettelse i undervisnings- og forskningsstillinger, midlertidig ansettelse, åremål og klage. Se `regelverk/statsansatteloven/VEIVISER.md` for de alminnelige reglene.
+- **Egenbetaling for studenter utenfor EØS og Sveits.** Statlige institusjoner skal kreve egenbetaling fra statsborgere i land utenfor EØS og Sveits (§ 2-6). Unntak og nærmere regler står i universitets- og høyskoleforskriften kapittel 4. Les begge før du svarer om en bestemt gruppe er unntatt.
+- **Klage går ulike veier.** Institusjonens nemnd for studentsaker og klagebehandlingen ved institusjonen står i kapittel 14. Felles klagenemnd, den nasjonale klagenemnden for opptak og klagenemnda for godkjenning av utenlandsk utdanning er regulert i universitets- og høyskoleforskriften kapittel 8, opptaksforskriftene og forskriften om enkelte klagenemnder. Klage på karakter og på formelle feil ved eksamen står i §§ 11-9 til 11-11.
+- **Vedtatt endring gjelder fagskoleloven.** Den vedtatte endringen som er listet under, endrer bare en endringsbestemmelse i § 17-4 om fagskoleloven. Den endrer ikke reglene for universiteter og høyskoler.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| godkjenning av utenlandsk fag- og yrkesopplæring, opplæring for voksne | `regelverk/opplaeringslova/VEIVISER.md` |
+| ansettelse i staten | `regelverk/statsansatteloven/VEIVISER.md` |
+| norskprøven og opplæring i norsk for innvandrere | `regelverk/integreringsloven/VEIVISER.md` |
+| bokmål og nynorsk ved universiteter og høyskoler | `regelverk/spraklova/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
