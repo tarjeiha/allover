@@ -957,7 +957,18 @@
       "mappe": "regelverk/opplaeringslova",
       "navn": "Opplæringslova",
       "lov": "LOV-2023-06-09-30",
-      "forskrifter": [],
+      "forskrifter": [
+        {
+          "id": "FOR-2024-06-03-900",
+          "slug": "opplaeringsforskrifta",
+          "navn": "Forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta)"
+        },
+        {
+          "id": "FOR-2026-05-22-871",
+          "slug": "overordna-mal-og-prinsipp",
+          "navn": "Forskrift om overordna mål og prinsipp for grunnskoleopplæringa og den vidaregåande opplæringa"
+        }
+      ],
       "alias": [
         "opplæringslova",
         "opplæringsloven",
@@ -1335,7 +1346,38 @@
       "mappe": "regelverk/universitets-og-hoyskoleloven",
       "navn": "Universitets- og høyskoleloven",
       "lov": "LOV-2024-03-08-9",
-      "forskrifter": [],
+      "forskrifter": [
+        {
+          "id": "FOR-2024-06-28-1392",
+          "slug": "universitets-og-hoyskoleforskriften",
+          "navn": "Forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften)"
+        },
+        {
+          "id": "FOR-2017-01-06-13",
+          "slug": "opptaksforskriften-2017",
+          "navn": "Forskrift om opptak til høgare utdanning (2017)"
+        },
+        {
+          "id": "FOR-2025-09-11-1850",
+          "slug": "opptaksforskrifta-2025",
+          "navn": "Forskrift om opptak til høgare utdanning (opptaksforskrifta) (2025)"
+        },
+        {
+          "id": "FOR-2024-05-21-789",
+          "slug": "godkjenning-utenlandsk-hoyere-utdanning",
+          "navn": "Forskrift om generell godkjenning av utenlandsk høyere utdanning"
+        },
+        {
+          "id": "FOR-2017-11-08-1846",
+          "slug": "kvalifikasjonsrammeverket",
+          "navn": "Forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring"
+        },
+        {
+          "id": "FOR-2025-07-02-1462",
+          "slug": "klagenemnder",
+          "navn": "Forskrift om enkelte klagenemnder på Kunnskapsdepartementets område"
+        }
+      ],
       "alias": [
         "universitets- og høyskoleloven",
         "universitets- og høgskolelova",
