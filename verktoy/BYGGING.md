@@ -1,6 +1,6 @@
 # Bygging av regelverksbasen
 
-Håndbok for den som legger til regelverk, endrer byggeverktøyene eller skriver veivisere og merknader. Den samler lærdommene fra de gamle regelverksskillene (aid-ftrl-familien, arbeidsmiljøloven m.fl.), der kildeteksten ble bygget inn i hver skill. Mange av punktene under er feil noen allerede har gjort én gang.
+Håndbok for den som legger til regelverk, endrer byggeverktøyene eller skriver veivisere og merknader. Den samler lærdommene fra de gamle regelverksskillene (folketrygdloven, arbeidsmiljøloven m.fl.), der kildeteksten ble bygget inn i hver skill. Mange av punktene under er feil noen allerede har gjort én gang.
 
 Byggingen skjer nå her i repoet. Skillene er tynne pekere som henter `CLAUDE.md`, så ingen skill må bygges eller lastes opp på nytt når innholdet endres.
 
@@ -37,7 +37,7 @@ Når en forskrift har hjemmel i flere lover, legges den under loven som har fles
 
 ### Lover et annet departement eier
 
-Når AID eier bare en del av en lov (som utlendingsloven, som eies av JD), skal veiviseren si hvilke kapitler AID svarer på og hvilke som hører til andre. Få avgrensningen bekreftet av fagmiljøet, fordi den er et faglig valg og ikke et teknisk. Bruk ikke for brede ord i temalisten i `CLAUDE.md`. «Oppholdstillatelse» alene trekker for eksempel inn asyl og familieinnvandring.
+Når basen bare skal dekke en del av en lov (som utlendingsloven, der det meste hører til Justis- og beredskapsdepartementet), skal veiviseren si hvilke kapitler som er dekket og hvilke som hører til andre. Få avgrensningen bekreftet av fagmiljøet, fordi den er et faglig valg og ikke et teknisk. Bruk ikke for brede ord i temalisten i `CLAUDE.md`. «Oppholdstillatelse» alene trekker for eksempel inn asyl og familieinnvandring.
 
 ## Veiviser og merknader
 

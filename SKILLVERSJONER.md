@@ -1,16 +1,16 @@
-# Versjoner av AIDs skills
+# Versjoner av de felles skillene
 
-Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med denne lista og sier fra når en nyere versjon finnes. Kildene ligger i det private repoet `tarjeiha/aiddocs`, under `skills/`. Versjonen er en dato, med et løpenummer etter punktum når samme skill endres flere ganger samme dag (2026-10-20.2). Den endres samtidig med skillen.
+Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med denne lista og sier fra når en nyere versjon finnes. Kildene til de fleste ligger i `skills/`. `felles-intern` og `felles-sprak` lastes ned som fil. Versjonen er en dato, med et løpenummer etter punktum når samme skill endres flere ganger samme dag (2026-10-20.2). Den endres samtidig med skillen.
 
 | Skill | Versjon |
 |---|---|
-| aid-intern | 2026-10-20.4 |
-| aid-skillbygger | 2026-10-20.3 |
-| aid-sprak | 2026-10-20.2 |
-| aid-analyse | 2026-10-20 |
-| aid-data | 2026-10-20.2 |
-| aid-regelverk | 2026-10-20.2 |
-| aid-budsjett | 2026-10-20.2 |
+| felles-intern | 2026-10-21 |
+| felles-sprak | 2026-10-21 |
+| felles-regelverk | 2026-10-21 |
+| felles-budsjett | 2026-10-21 |
+| felles-data | 2026-10-21 |
+| felles-analyse | 2026-10-21 |
+| felles-skillbygger | 2026-10-21 |
 
 ## Driftsvarsel
 
