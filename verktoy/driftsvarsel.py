@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Skriver driftsvarsel i SKILLVERSJONER.md når en fast hentejobb ikke har lykkes på en stund.
 
-Alle AIDs skills henter SKILLVERSJONER.md ved hver bruk, så et varsel her når brukerne.
+Alle de felles skillene henter SKILLVERSJONER.md ved hver bruk, så et varsel her når brukerne.
 For hver hentejobb slås siste vellykkede kjøring opp i GitHubs API. Er den eldre enn
 grensen for jobben, får området et varsel. Bare blokken mellom AUTO-markørene skrives om.
 Svarer ikke API-et, står blokken urørt.

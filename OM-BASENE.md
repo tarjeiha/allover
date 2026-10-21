@@ -4,16 +4,16 @@ Denne filen er for Claude. Hent den når brukeren spør hva basene inneholder, h
 
 ## Hva basene er
 
-AID har felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv. Basene er et utvalg: de dekker det AID oftest trenger, ikke alt som finnes. Si det til brukeren når det betyr noe for svaret, og oppfordre dem til å melde fra om det som mangler, og om feil eller dårlige svar (se avsnittet om feil under).
+Dette er felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv. Basene er et utvalg: de dekker det brukerne oftest trenger, ikke alt som finnes. Si det til brukeren når det betyr noe for svaret, og oppfordre dem til å melde fra om det som mangler, og om feil eller dårlige svar (se avsnittet om feil under).
 
-- **Den åpne basen** har regelverk, statsbudsjettet, statistikk og Stortingets saker. Oversikten under viser hva den inneholder nå.
-- **Den interne basen** har AIDs egne rutiner og maler: tidsplan for saksbehandling, PowerPoint-malen, behandling av invitasjoner til politisk ledelse og skriveregler og nynorsk. Den er ikke åpen, og innholdet beskrives ikke her.
+- **Den åpne basen** har regelverk, statsbudsjettet, statistikk, Stortingets saker og skriveregler med nynorskføringer. Oversikten under viser hva den inneholder nå.
+- **Den interne basen** har egne rutiner og maler: tidsplan for saksbehandling, PowerPoint-malen, og behandling av invitasjoner til politisk ledelse. Den er ikke åpen, og innholdet beskrives ikke her.
 
 Basene er ikke en offisiell tolkning. Ved tvil skal brukeren gå til kilden, forarbeidene eller fagmiljøet som forvalter regelverket eller statistikken.
 
 ## Når brukeren spør hva basene inneholder
 
-Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om en bestemt lov eller et budsjettår er med, kan du også hente veiviseren for området (`CLAUDE.md` for regelverk, `budsjett/VEIVISER.md`, `data/VEIVISER.md` eller `stortinget/VEIVISER.md`) og svare derfra.
+Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om en bestemt lov eller et budsjettår er med, kan du også hente veiviseren for området (`CLAUDE.md` for regelverk, `budsjett/VEIVISER.md`, `data/VEIVISER.md`, `stortinget/VEIVISER.md` eller `sprak/VEIVISER.md`) og svare derfra.
 
 ## Når brukeren har funnet en feil, noe mangler, eller noe nytt bør inn
 
