@@ -954,6 +954,18 @@
       ]
     },
     {
+      "mappe": "regelverk/opplaeringslova",
+      "navn": "Opplæringslova",
+      "lov": "LOV-2023-06-09-30",
+      "forskrifter": [],
+      "alias": [
+        "opplæringslova",
+        "opplæringsloven",
+        "oppll.",
+        "lov om grunnskoleopplæringa og den vidaregåande opplæringa"
+      ]
+    },
+    {
       "mappe": "regelverk/permitteringslonnsloven",
       "navn": "Permitteringslønnsloven",
       "lov": "LOV-1988-05-06-22",
@@ -1317,6 +1329,19 @@
       "alias": [
         "tolkeloven",
         "tolkelova"
+      ]
+    },
+    {
+      "mappe": "regelverk/universitets-og-hoyskoleloven",
+      "navn": "Universitets- og høyskoleloven",
+      "lov": "LOV-2024-03-08-9",
+      "forskrifter": [],
+      "alias": [
+        "universitets- og høyskoleloven",
+        "universitets- og høgskolelova",
+        "uhl.",
+        "uh-loven",
+        "lov om universiteter og høyskoler"
       ]
     },
     {

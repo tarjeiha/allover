@@ -10,6 +10,7 @@ Byggingen skjer nå her i repoet. Skillene er tynne pekere som henter `CLAUDE.md
 |---|---|---|
 | `bygg.py` | Lov- og forskriftstekst fra Lovdatas åpne datasett, `indeks.tsv` og AUTO-blokkene i `CLAUDE.md` og veiviserne | `bygg-regelverk.yml`, hver natt |
 | `parse_lovdata.py` | Parser for Lovdata-XML (brukes av `bygg.py`) | |
+| `finn_forskrifter.py` | Lister forskrifter med hjemmel i lovene (hjemmelsfeltet) som ikke er tatt med, til loggen | `bygg-regelverk.yml`, på bygg/-grener |
 | `endringer.py` | Vedtatte endringer som ikke er i kraft, fra Norsk Lovtidend | `bygg.py` |
 | `eu.py` | EU-rettsakter fra EUR-Lex med låst versjon | `bygg.py` |
 | `rundskriv.py` | Rundskriv fra `innboks/` (PDF, Word, HTML m.m.) | `rundskriv.yml` |
@@ -31,7 +32,7 @@ Hvert skript forklarer bruken øverst i filen. Lov- og forskriftstekst redigeres
 
 ### Velge forskrifter
 
-Velg forskrifter ut fra hjemmelsfeltet (`dd.basedOn` i Lovdata-XML-en), ikke ut fra et søk på ord i teksten. Et søk på ord ga 16 treff for sosialtjenesteloven, men bare 4 av dem var reelle. Et av treffene var en forskrift fra 1992 som nå har hjemmel i helse- og omsorgstjenesteloven.
+Velg forskrifter ut fra hjemmelsfeltet (`dd.basedOn` i Lovdata-XML-en), ikke ut fra et søk på ord i teksten. Bygget på en bygg/-gren skriver listen til loggen (steget «Forskrifter med hjemmel i lovene som ikke er med»), så legg loven inn med tom forskriftsliste først og velg fra loggen. Et søk på ord ga 16 treff for sosialtjenesteloven, men bare 4 av dem var reelle. Et av treffene var en forskrift fra 1992 som nå har hjemmel i helse- og omsorgstjenesteloven.
 
 Når en forskrift har hjemmel i flere lover, legges den under loven som har flest av hjemlene, og veiviserne til de andre lovene viser dit. Ikke legg inn to kopier, for de vil gli fra hverandre ved oppdatering.
 
