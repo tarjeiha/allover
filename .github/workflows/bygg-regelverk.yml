@@ -50,6 +50,14 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python3 verktoy/avtale.py --varsle
 
+      # Politiske grunnlagsdokumenter legges inn for hånd. Her åpnes bare en sak når ny utgave ventes.
+      - name: Varsle om ny utgave av politiske grunnlagsdokumenter
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 verktoy/politikk.py --varsle
+
       # Legges inn også når dekningskontrollen feiler, så feilene kan undersøkes
       # på grenen. Jobben er likevel rød, og grenen skal ikke flettes før den er grønn.
       - name: Legg inn på grenen
