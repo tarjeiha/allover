@@ -69,7 +69,7 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 ### Statistikk
 
 - **Nav:** 221 tabeller (sykefravær, arbeidsledighet, AAP, uføretrygd, pensjon, familieytelser m.m.), hentet hver uke.
-- **Navs pressemeldinger:** 72 fra januar 2024 og framover.
+- **Navs pressemeldinger:** 73 fra januar 2024 og framover.
 - **Eurostat:** 8 tabeller for sammenligning med Norden og EU.
 - **OECD:** 17 tabeller for sammenligning med andre OECD-land.
 - **SSB:** tallene ligger ikke i basen, men katalogen viser hvilke SSB-tabeller som svarer på hva. Claude henter dem med SSB-tilkoblingen.
