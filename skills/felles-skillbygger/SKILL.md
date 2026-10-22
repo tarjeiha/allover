@@ -5,7 +5,7 @@ description: "Companion-skill til skill-creator for de felles skillene i departe
 
 # Skill-bygging for de felles skillene
 
-**Versjon 2026-10-21.2.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Feiler hentingen, la det være.
+**Versjon 2026-10-22.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Feiler hentingen, la det være.
 
 Companion-skill til skill-creator. Den dekker det som er særskilt for de felles skillene: om noe bør bli en skill i det hele tatt, hvor innholdet skal ligge, hvordan skillen testes, og hvordan den lagres og deles. Skillen brukes av alle ansatte som vil lage en skill, ikke bare av prosjektlederen og bidragsyterne, så forklar valgene i vanlig språk, ikke bare utfallet.
 
@@ -62,13 +62,13 @@ De tre som finnes (`felles-regelverk`, `felles-data`, `felles-budsjett`) har sam
 1. **Description:** bred på tema og hverdagsspråk. Avslutt med «Last den før du svarer, og svar ikke fra hukommelsen.»
 2. **Brødtekst:** si at innholdet ikke ligger i skillen, men hentes ved hvert oppslag.
 3. **Fremgangsmåte:** hent én inngangsfil med full adresse (`https://raw.githubusercontent.com/tarjeiha/allover/main/...`), med `curl -sL` i kodeverktøyet eller med hentverktøyet. Følg den.
-4. **Hvis hentingen feiler:** si det kort med vanlige ord, og svar ikke fra hukommelsen.
+4. **Hvis hentingen feiler:** svar ikke fra hukommelsen. Ta med avsnittet «Hvis hentingen feiler» fra en av de felles skillene, for eksempel `skills/felles-regelverk/SKILL.md` i allover, og bytt ut hva som hentes. Det skiller en sperre i innstillingene fra en midlertidig feil. Ved sperre sier Claude hvilket nettsted brukeren må tillate og hvor i innstillingene det gjøres, med norske menynavn og tilbud om engelske.
 
 Avgrensningen (hva som er dekket og ikke) skal ligge i inngangsfilen i repoet, ikke i skillen. Da kan den endres uten ny opplasting. Hvordan regelverk legges inn og kontrolleres, står i `verktoy/BYGGING.md` i allover.
 
 ### Språk mot brukeren
 
-Mange brukere er nye i KI. Alle felles skills skal be Claude snakke enkelt med brukeren og gjøre det tekniske uten å kommentere det. Ord som token, GitHub, repo, allover, filsti, skript, versjonsnummer og feilkode skal ikke stå i svaret. Skriv en eksempelsetning i skillen for det vanligste tilfellet, for eksempel en feilmelding: «Jeg fikk ikke hentet innholdet nå. Prøv igjen litt senere.» Ta det med i kaldtesten.
+Mange brukere er nye i KI. Alle felles skills skal be Claude snakke enkelt med brukeren og gjøre det tekniske uten å kommentere det. Ord som token, GitHub, repo, allover, filsti, skript, versjonsnummer og feilkode skal ikke stå i svaret. Skriv en eksempelsetning i skillen for det vanligste tilfellet, for eksempel en feilmelding: «Jeg fikk ikke hentet innholdet nå. Prøv igjen litt senere.» Ta det med i kaldtesten. Unntaket er navnet på et nettsted brukeren må tillate i innstillingene, siden brukeren må skrive det inn selv.
 
 ## Steg 3: Kjøremiljø og sensitivitet
 
@@ -76,7 +76,7 @@ Mange brukere er nye i KI. Alle felles skills skal be Claude snakke enkelt med b
 - Uten kodeverktøy kan skillen ikke kjøre `curl` eller skript. Hentverktøyet leser åpne adresser, men kan ikke sende token eller egne overskrifter. Det offentlige repoet kan noen ganger leses uten kodeverktøy.
 - Skriving til GitHub fra claude.ai er sperret (403, testet 20.10.2026), både med token og uten. En skill kan derfor ikke sende noe til et repo fra vanlig chat. Meldinger om feil går på e-post etter oppskriften i `OM-BASENE.md` i allover.
 - Lesing fra et privat repo virker bare for brukere med egen GitHub-tilkobling. Claude.ai stopper forespørselen før et token i skillen blir prøvd (kollegatest 21.10.2026). Legg derfor aldri token i en skill.
-- Skills med skript krever kodeverktøy. Skills som henter fra den åpne basen, krever også nettverkstilgang til GitHub. Skriv det i skillen og i brukerveiledningen.
+- Skills med skript krever kodeverktøy. Skills som henter fra den åpne basen, krever også nettverkstilgang til GitHub. Skriv det i brukerveiledningen, og la skillen si hvilket nettsted som må tillates når hentingen er sperret (se «Mønster for en peker-skill», punkt 4).
 
 **Sensitivitet er en del av designet.** Rammeverket for informasjonssikkerhet sier at blant annet r-notater ikke skal legges inn i KI-verktøy. Spør derfor om skillen vil invitere brukeren til å lime inn noe som ikke får ligge i Claude. Hvis ja, gjør skillen til et oppslagsverk for form og prosess som ikke tar imot saksinnhold. Det avgjørende er om noe avslører status, sannsynlig utfall, timing eller interne politiske vurderinger i en konkret sak, ikke om temaet er politisk følsomt.
 
