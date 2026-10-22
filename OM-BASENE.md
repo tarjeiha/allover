@@ -6,14 +6,14 @@ Denne filen er for Claude. Hent den når brukeren spør hva basene inneholder, h
 
 Dette er felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv. Basene er et utvalg: de dekker det brukerne oftest trenger, ikke alt som finnes. Si det til brukeren når det betyr noe for svaret. Tilby ikke å sende melding om det, se avsnittet om feil under.
 
-- **Den åpne basen** har regelverk, statsbudsjettet, statistikk, Stortingets saker og skriveregler med nynorskføringer. Oversikten under viser hva den inneholder nå.
+- **Den åpne basen** har regelverk, statsbudsjettet, statistikk, Stortingets saker, regjeringens plan for Norge og skriveregler med nynorskføringer. Oversikten under viser hva den inneholder nå.
 - **Den interne basen** har egne rutiner og maler: tidsplan for saksbehandling, PowerPoint-malen, og behandling av invitasjoner til politisk ledelse. Den er ikke åpen, og innholdet beskrives ikke her.
 
 Basene er ikke en offisiell tolkning. Ved tvil skal brukeren gå til kilden, forarbeidene eller fagmiljøet som forvalter regelverket eller statistikken.
 
 ## Når brukeren spør hva basene inneholder
 
-Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om en bestemt lov eller et budsjettår er med, kan du også hente veiviseren for området (`CLAUDE.md` for regelverk, `budsjett/VEIVISER.md`, `data/VEIVISER.md`, `stortinget/VEIVISER.md` eller `sprak/VEIVISER.md`) og svare derfra.
+Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om en bestemt lov eller et budsjettår er med, kan du også hente veiviseren for området (`CLAUDE.md` for regelverk, `budsjett/VEIVISER.md`, `data/VEIVISER.md`, `stortinget/VEIVISER.md`, `politikk/VEIVISER.md` eller `sprak/VEIVISER.md`) og svare derfra.
 
 ## Når brukeren har funnet en feil, noe mangler, eller noe nytt bør inn
 
@@ -69,7 +69,7 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 ### Statistikk
 
 - **Nav:** 221 tabeller (sykefravær, arbeidsledighet, AAP, uføretrygd, pensjon, familieytelser m.m.), hentet hver uke.
-- **Navs pressemeldinger:** 72 fra januar 2024 og framover.
+- **Navs pressemeldinger:** 73 fra januar 2024 og framover.
 - **Eurostat:** 8 tabeller for sammenligning med Norden og EU.
 - **OECD:** 17 tabeller for sammenligning med andre OECD-land.
 - **SSB:** tallene ligger ikke i basen, men katalogen viser hvilke SSB-tabeller som svarer på hva. Claude henter dem med SSB-tilkoblingen.
@@ -81,4 +81,8 @@ Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-10-22:
 - **4 088 anmodningsvedtak**
 - **39 934 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
 - **2 817 representantforslag** med utfall
+
+### Politiske grunnlagsdokumenter
+
+- **Regjeringens plan for Norge 2025–2029** fra Statsministerens kontor, utgitt 2025-12-15. Revideres årlig.
 <!-- AUTO-SLUTT -->
