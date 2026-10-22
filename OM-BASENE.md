@@ -41,11 +41,11 @@ Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn 
 ## Hva som ligger i den åpne basen
 
 <!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger for hånd -->
-Oversikten ble sist laget 2026-10-21.
+Oversikten ble sist laget 2026-10-22.
 
 ### Regelverk
 
-- **30 lover og instrukser** med 202 forskrifter: Offentleglova, AFP-loven for medlemmer av Statens pensjonskasse, Aldersgrenseloven for statsansatte, Allmenngjøringsloven, Arbeidsmarkedsloven, Arbeidsmiljøloven, Arbeidstvistloven, Arkivlova, Diskrimineringsombudsloven, Ferieloven, Folketrygdloven, Forvaltningsloven, Forvaltningsloven 2025 (ny lov, ikke i kraft), Integreringsloven, Karanteneloven, Likestillings- og diskrimineringsloven, Lov om Statens pensjonskasse, Lønnsgarantiloven, NAV-loven, Permitteringslønnsloven, Personopplysningsloven, Samordningsloven, Sosialtjenesteloven, Språklova, Statsansatteloven, Statsborgerloven, Tjenestetvistloven, Tolkeloven, Utlendingsloven og Utredningsinstruksen.
+- **32 lover og instrukser** med 210 forskrifter: Offentleglova, AFP-loven for medlemmer av Statens pensjonskasse, Aldersgrenseloven for statsansatte, Allmenngjøringsloven, Arbeidsmarkedsloven, Arbeidsmiljøloven, Arbeidstvistloven, Arkivlova, Diskrimineringsombudsloven, Ferieloven, Folketrygdloven, Forvaltningsloven, Forvaltningsloven 2025 (ny lov, ikke i kraft), Integreringsloven, Karanteneloven, Likestillings- og diskrimineringsloven, Lov om Statens pensjonskasse, Lønnsgarantiloven, NAV-loven, Opplæringslova, Permitteringslønnsloven, Personopplysningsloven, Samordningsloven, Sosialtjenesteloven, Språklova, Statsansatteloven, Statsborgerloven, Tjenestetvistloven, Tolkeloven, Universitets- og høyskoleloven, Utlendingsloven og Utredningsinstruksen.
 - **Hovedtariffavtalen i staten**, 1. mai 2026 – 30. april 2028.
 - **21 EU-rettsakter** (forordninger og direktiver fra EUR-Lex).
 - **24 rundskriv** og veiledninger til lovene, blant dem Navs rundskriv til folketrygdloven.
@@ -76,9 +76,9 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 
 ### Stortinget
 
-Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-10-21:
+Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-10-22:
 
 - **4 088 anmodningsvedtak**
-- **39 919 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
-- **2 815 representantforslag** med utfall
+- **39 934 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
+- **2 817 representantforslag** med utfall
 <!-- AUTO-SLUTT -->
