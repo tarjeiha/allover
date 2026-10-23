@@ -10,6 +10,8 @@ Fem datatyper fra [data.stortinget.no](https://data.stortinget.no). Anmodningsve
 | `saker` | `data/saker/` | Alle saker i arbeids- og sosialkomiteen (proposisjoner, meldinger, representantforslag, budsjett), med Stortingets vedtakstekst |
 | `forslag` | `data/forslag/` | Mindretallsforslag og løse forslag som ble votert over i de samme sakene, med parti og om forslaget ble vedtatt |
 
+Reglene for spørsmål, interpellasjoner, representantforslag og frister for statsrådenes svar står i Stortingets forretningsorden, se `regelverk/stortingets-forretningsorden/VEIVISER.md`. Indeksen her sier hva som faktisk er spurt, foreslått og vedtatt.
+
 Hver mappe har én fil per sesjon, for eksempel `data/sporsmal/2025-2026.json`. Hele indeksen er rundt 31 MB, så hent bare det du trenger.
 
 ## Slik søker du

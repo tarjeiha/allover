@@ -1,6 +1,35 @@
 # Stortingets forretningsorden: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Stortingets forretningsorden er reglene for hvordan Stortinget arbeider: konstituering, presidentskapet, komiteene og komitébehandlingen, møtene, debattene, avstemningene, protokollene, interpellasjoner og spørsmål, og representantenes taushetsplikt. Den er vedtatt av Stortinget selv og er verken lov eller forskrift. Si «Stortingets forretningsorden § 70», ikke «forskriften». Den gjeldende forretningsordenen er fra 2012, med endringer senest i kraft 1. oktober 2025.
+
+Selv om reglene gjelder Stortinget, står det også frister og plikter for regjeringen og statsrådene her, f.eks. for svar på spørsmål og interpellasjoner og for dokumentinnsyn. Det er disse bestemmelsene departementene oftest trenger.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Fristene for regjeringen står i forskjellige paragrafer og regnes ulikt.** Skriftlig spørsmål skal besvares innen seks hverdager etter at det ble oversendt fra Stortinget, eller statsråden skal skriftlig si hvorfor svaret ikke kommer innen fristen (§ 70 fjerde ledd). Interpellasjon skal besvares i Stortinget så snart som mulig og senest én måned etter at den ble sendt til regjeringen, og tiden Stortinget ikke er samlet om sommeren regnes ikke med (§ 68 tredje ledd). En representants anmodning om dokumentinnsyn skal besvares snarest og senest innen tre arbeidsdager (§ 74 første ledd). Bland ikke fristene.
+- **Spørsmål og spørretime har fire ulike former.** Spørsmål til skriftlig besvarelse (§ 70), muntlig spørretime, der spørsmålene stilles muntlig til statsrådene som er til stede (§ 72), ordinær spørretime med spørsmål levert skriftlig på forhånd (§ 73) og interpellasjon med debatt (§ 68). Spørsmål til presidentskapet (§ 69) er noe annet. Finn ut hvilken form spørsmålet gjelder før du svarer om frister, lengde eller taletid.
+- **Dokumentinnsyn for representanter er ikke det samme som innsyn etter offentleglova.** § 74 gir representantene en egen rett til å be om dokumenter gjennom Stortingets president. Statsråden skal legge vekt på representantenes særlige stilling og informasjonsbehov, og kan avslå i den grad dokumentet kan unntas etter offentleglova (§ 74 andre og tredje ledd). Fristen og vurderingen er altså andre enn for en vanlig innsynsbegjæring.
+- **Representantforslag og statsrådens uttalelse.** Statsråden skal som hovedregel få uttale seg om et representantforslag før komiteen avgir innstilling, med mindre det er klart at forslaget ikke vil bli imøtekommet (§ 30 første ledd). § 30 andre ledd lister hvilke innstillinger komiteen kan gi, bl.a. at forslaget vedlegges protokollen. Hva som skjedde med et bestemt forslag, står ikke her, men i Stortingets egne data (se under).
+- **Budsjettbehandlingen har faste frister.** Statsbudsjettet legges fram innen seks dager etter Stortingets åpning, finanskomiteen avgir innstilling om rammene senest 30. november, og fagkomiteenes budsjettinnstillinger behandles senest siste møtedag i desember (§ 43 første, tredje og sjette ledd). Revidert nasjonalbudsjett med samleproposisjon legges fram senest 15. mai (§ 43 sjuende ledd). Rammevedtaket binder den videre behandlingen samme år (§ 43 fjerde ledd).
+- **Paragrafene ble nummerert om i 2013.** Endringshistorikken nederst i hver fil sier «tidligere § …» der nummeret er endret. Eldre dokumenter kan vise til de gamle numrene, f.eks. var § 68 om interpellasjoner tidligere § 66, og § 43 om budsjettbehandlingen tidligere § 41.
+- **Stortinget kan fravike forretningsordenen.** Enkelte bestemmelser kan settes ut av kraft i særlige tilfeller ved vedtak med to tredjedels flertall, eller alminnelig flertall når presidenten foreslår det (§ 79). Et svar om hva forretningsordenen krever, gjelder derfor det som er normalordningen.
+
+## Ikke i basen
+
+- **Stortingets kommentarutgave til forretningsordenen** og praksis fra presidentskapet. Ved tvil om tolkning, vis til kommentarutgaven på stortinget.no.
+- **Grunnloven** og **bevilgningsreglementet**, som forretningsordenen viser til flere steder (f.eks. § 43 første ledd). Vis til Lovdata.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| hvilke spørsmål, interpellasjoner, representantforslag og anmodningsvedtak som faktisk finnes, og hva som skjedde med dem | `stortinget/VEIVISER.md` |
+| innsyn etter offentleglova (til sammenligning med § 74) | `regelverk/offentleglova/VEIVISER.md` |
+| bevilgninger og budsjettdokumentene | `budsjett/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
