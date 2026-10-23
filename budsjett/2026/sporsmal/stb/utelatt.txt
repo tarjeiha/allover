@@ -1,0 +1,12 @@
+# Svar som ikke er publisert på regjeringen.no og derfor ikke legges inn.
+# Ett filnavn uten .md per linje. Fjern linjen og last opp samledokumentet på nytt når svaret er publisert.
+rodt-259
+sp-9
+sp-10
+sv-9
+v-143
+v-144
+v-145
+v-150
+v-151
+v-153

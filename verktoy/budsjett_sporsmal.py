@@ -10,6 +10,8 @@ Finansdepartementets svar. Tomme maler (feltet Parti er «[Parti]») hoppes over
 Svarene legges i budsjett/ÅR/sporsmal/RUNDE/, én Markdown-fil per svar (PARTI-NR.md), og
 sporsmal.tsv lages på nytt av alle filene i mappen. Flere samledokumenter for samme runde kan
 derfor lastes opp etter hverandre. Et svar med samme parti og nummer erstattes.
+Svar som står i utelatt.txt i mappen (én linje per svar, som filnavnet uten .md, f.eks. «v-143»),
+legges ikke inn. Det brukes for svar som ikke er publisert på regjeringen.no.
 Runden leses fra linjen «Spørsmål fra Stortingets finanskomite til STB 2026»:
 STB = statsbudsjettet (Prop. 1 S), RNB = revidert nasjonalbudsjett. Andre koder brukes som mappenavn.
 """
@@ -132,6 +134,14 @@ def oppdater_indeks(mappe):
     return len(rader)
 
 
+def utelatt(mappe):
+    """Gir filnavnene (uten .md) som ikke skal legges inn, fra utelatt.txt i mappen."""
+    f = mappe / "utelatt.txt"
+    if not f.exists():
+        return set()
+    return {l.split("#")[0].strip() for l in f.read_text(encoding="utf-8").splitlines()} - {""}
+
+
 def legg_inn(sti, budsjett=BUDSJETT):
     """Legger inn alle svar i ett samledokument. Gir en kort rapport."""
     svar = [d for b in svarblokker(sti) if (d := les_svar(b))]
@@ -143,13 +153,20 @@ def legg_inn(sti, budsjett=BUDSJETT):
     aar, runde = runder.pop()
     mappe = budsjett / str(aar) / "sporsmal" / slug(runde)
     mappe.mkdir(parents=True, exist_ok=True)
-    nye = 0
+    nye = hoppet = 0
+    utenfor = utelatt(mappe)
     for d in svar:
-        f = mappe / f"{slug(d['Parti'])}-{slug(d['Spørsmålsnr'])}.md"
+        navn = f"{slug(d['Parti'])}-{slug(d['Spørsmålsnr'])}"
+        if navn in utenfor:
+            hoppet += 1
+            continue
+        f = mappe / f"{navn}.md"
         nye += not f.exists()
         f.write_text(markdown(d), encoding="utf-8")
     totalt = oppdater_indeks(mappe)
-    return f"{len(svar)} svar til {runde} {aar} ({nye} nye), {totalt} i alt i `budsjett/{aar}/sporsmal/{mappe.name}/`"
+    utelatt_tekst = f", {hoppet} utelatt etter utelatt.txt" if hoppet else ""
+    return (f"{len(svar)} svar til {runde} {aar} ({nye} nye{utelatt_tekst}), "
+            f"{totalt} i alt i `budsjett/{aar}/sporsmal/{mappe.name}/`")
 
 
 if __name__ == "__main__":
