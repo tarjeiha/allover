@@ -70,6 +70,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Universitets- og høyskoleloven | `regelverk/universitets-og-hoyskoleloven/VEIVISER.md` | 2026-08-01 · **vedtatte endringer venter** |
 | Utlendingsloven | `regelverk/utlendingsloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
 | Utredningsinstruksen | `regelverk/utredningsinstruksen/VEIVISER.md` | 2024-11-01 |
+| Stortingets forretningsorden | `regelverk/stortingets-forretningsorden/VEIVISER.md` | 2025-10-01 |
 <!-- AUTO-SLUTT -->
 
 ## Tariffavtaler og EU-rettsakter i basen
