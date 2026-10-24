@@ -1,17 +1,17 @@
 {
   "sesjon": "2026-2027",
   "sporsmal": {
-    "nye": 14,
-    "oppdatert": 17,
-    "total": 39948
+    "nye": 5,
+    "oppdatert": 41,
+    "total": 39953
   },
   "anmodningsvedtak": {
     "nye": 0,
     "total": 4088
   },
   "representantforslag": {
-    "nye": 8,
-    "status_oppdatert": 4,
+    "nye": 0,
+    "status_oppdatert": 0,
     "utfall_lost_opp": 0,
     "total": 2825
   },
@@ -24,5 +24,5 @@
     "nye": 0,
     "total": 1770
   },
-  "dato": "2026-10-23"
+  "dato": "2026-10-24"
 }
