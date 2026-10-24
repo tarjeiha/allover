@@ -174,7 +174,6 @@ stb	Rødt	255	15.10.2025	Bevilgningsspørsmål	AID	605.01	605	Kostnad av tilskud
 stb	Rødt	256	15.10.2025	Bevilgningsspørsmål	AID	605.01	605	Antall som arbeider med kommunikasjon i Nav, og utgiftene til dette	0	rodt-256.md
 stb	Rødt	257	15.10.2025	Bevilgningsspørsmål	AID	605.01	605	Gjennomsnittskostnaden for et årsverk for en ekstern konsulent i Nav	0	rodt-257.md
 stb	Rødt	258	15.10.2025	Bevilgningsspørsmål	AID	605.01	605	Antall eksterne konsulenter i Nav, i tillegg til utgifter til dette	0	rodt-258.md
-stb	Rødt	259	15.10.2025	Bevilgningsspørsmål	AID	605.01	605	Lønn og godtjørelse til ledelsen i Nav	1	rodt-259.md
 stb	Rødt	260	15.10.2025	Bevilgningsspørsmål	AID	605.01	605	Antall med lønn over én million kroner i Nav	1	rodt-260.md
 stb	Rødt	261	15.10.2025	Bevilgningsspørsmål	AID	2541.70	2541	Kostnad ved å redusere henholdsvis forlenget ventetid og tidsbegrenset bortfall av dagpenger fra 18 til 12 uker	0	rodt-261.md
 stb	Rødt	263	15.10.2025	Bevilgningsspørsmål	AID	2655.70	2655	Kostnad av å heve fribeløpet for hvor mye man kan tjene før barnetillegget til uføretrygd blir avkortet	2	rodt-263.md
@@ -216,8 +215,6 @@ stb	SP	5	16.10.2025	Bevilgningsspørsmål	AID	1.1		Samlet reduksjon i Statens pe
 stb	SP	6	16.10.2025	Bevilgningsspørsmål	AID	1.1		Statens pensjonskasse - dagens samordningsregelverk sammenlignet med regelverk hvor det settet et øvre tak på summen av tjenestepensjon og alderspensjon fra folketrygda	2	sp-6.md
 stb	SP	7	16.10.2025	Bevilgningsspørsmål	AID	1.1		Alderspensjon - provenyvirkningen av å øke minste pensjonsnivå for enslige alderspensjonister	2	sp-7.md
 stb	SP	8	16.10.2025	Bevilgningsspørsmål	AID	1.1		Kompensasjonsordning for oljepionerene - kompensasjonsnivå	0	sp-8.md
-stb	SP	9	16.10.2025	Bevilgningsspørsmål	AID	1.1		Mottakere av arbeidsavklaringspenger som antas å være bosatt i andre land enn Norge	0	sp-9.md
-stb	SP	10	16.10.2025	Bevilgningsspørsmål	AID	1.1		Antall personer som har mottatt arbeidsavklaringspenger i mer enn 10 år uten å være avklart	0	sp-10.md
 stb	SP	89	16.10.2025	Bevilgningsspørsmål	AID	1.1		Antall ukrainere og flyktninger for øvrig som er i full jobb	0	sp-89.md
 stb	SP	90	16.10.2025	Bevilgningsspørsmål	AID	1.1		Andel av flyktninger bosatt i kommuner ut ifra sentralitetsklasse	3	sp-90.md
 stb	SP	201	21.10.2025	Bevilgningsspørsmål	AID	2650.01	2650	Provenyverknaden av å gje sjølvstendig næringsdrivande sjukepengar med hhv. 90 og 100 pst. av grunnlaget	3	sp-201.md
@@ -245,7 +242,6 @@ stb	SP	311	21.10.2025	Bevilgningsspørsmål	AID	600.01	600	Provenyvirkningen av 
 stb	SP	320	21.10.2025	Bevilgningsspørsmål	AID	600.01	600	Provenyet av og hvilke endringer er nødvendige dersom man reduserer grunnstønaden for alle forhold slik at stønaden kun dekker faktiske utgifter	0	sp-320.md
 stb	SP	321	21.10.2025	Bevilgningsspørsmål	AID	600.01	600	Provenyet av å fjerne grunnstønaden for cøliaki	0	sp-321.md
 stb	SP	322	21.10.2025	Bevilgningsspørsmål	AID	600.01	600	Provenyet av å redusere grunnstønaden for cøliaki slik at den kun dekker faktiske ekstrautgifter, ev. til trinn 1	0	sp-322.md
-stb	SV	9	15.10.2025	Bevilgningsspørsmål	AID	2670.73	2670	Alderspensjon - proveny av å øke minste pensjonsnivå	2	sv-9.md
 stb	SV	10	15.10.2025	Bevilgningsspørsmål	AID	2670.70	2670	Alderspensjon - proveny av å øke nivået på garantipensjonen fordelt på kostnader knyttet til økning av ordinær sats og høy sats	14	sv-10.md
 stb	SV	11	15.10.2025	Bevilgningsspørsmål	AID	2655	2655	Anslag på kostnad av å ikke inkludere arbeidsinntekten over fribeløpet i avkortingen av barnetillegget for uføre	0	sv-11.md
 stb	SV	12	15.10.2025	Bevilgningsspørsmål	AID	634.76	634	Navs utgifter til CV-kurs	0	sv-12.md
@@ -267,16 +263,10 @@ stb	SV	233	21.10.2025	Bevilgningsspørsmål	AID	2661.79	2661	Provenyeffekten væ
 stb	SV	315	22.10.2025	Bevilgningsspørsmål	AID	671.71	671	Integreringsarbeid i regi av frivillige organisasjoner - oversikt over fordeling av midler	5	sv-315.md
 stb	V	131	15.10.2025	Bevilgningsspørsmål	AID	571.60	571	Øke de veiledende sosialhjelpssatsene	1	v-131.md
 stb	V	142	15.10.2025	Bevilgningsspørsmål	AID	605.01	605	Tillitsreform i Nav	0	v-142.md
-stb	V	143	15.10.2025	Bevilgningsspørsmål	AID	634.76 m.fl.	634	Arbeidsmarked - Provenyeffekten per 1 000 ordinære tilaksplasser	1	v-143.md
-stb	V	144	15.10.2025	Bevilgningsspørsmål	AID	634.76	634	Provenyeffekten dersom antallet personer som er omfattet av midlertidig lønnstilskudd økes med 1 000 på årsbasis	0	v-144.md
-stb	V	145	15.10.2025	Bevilgningsspørsmål	AID	634.70	634	Arbeidsmarked - tilskudd til sommerjobb	0	v-145.md
 stb	V	146	15.10.2025	Bevilgningsspørsmål	AID	634.77	634	Provenyeffekten av å opprette henholdsvis 100, 200, 300, 400 og 500 flere VTA-plasser ut over regjeringens forslag	1	v-146.md
 stb	V	147	15.10.2025	Bevilgningsspørsmål	AID	640.1	640	Hvor mye av bevilgningene til Arbeidstilsynet i forslaget til statsbudsjett for 2026 anslås å gå til dispensasjonssøknader, oppfølging og kontroll av forbudet mot inn- og utleie fra bemanningsforetak?	0	v-147.md
 stb	V	148	15.10.2025	Kommuneøkonomi	AID	Generelt		Anslag på hvilke økonomiske konsekvenser forbudet mot inn- og utleie fra bemanningsforetak har for offentlig sektor?	0	v-148.md
-stb	V	150	15.10.2025	Bevilgningsspørsmål	AID	671.62	671	Utvide Jobbsjansen	0	v-150.md
-stb	V	151	15.10.2025	Bevilgningsspørsmål	AID	666.70	666	Provenyeffekten av å avvikle det statlige tilskuddet til AFP for nye mottakere	0	v-151.md
 stb	V	152	15.10.2025	Bevilgningsspørsmål	AID	2541.70	2541	Provenyeffekten av å la selvstendig næringsdrivende beholde opptjente rettigheter til dagpenger i inntil to år	0	v-152.md
-stb	V	153	15.10.2025	Bevilgningsspørsmål	AID	2541.70	2541	Provenyeffekten av å avvikle ordningen med feriepenger på dagpenger	0	v-153.md
 stb	V	154	15.10.2025	Bevilgningsspørsmål	AID	2620.62	2620	Provenyeffekten av å øke inntektsgrensen for stønad til barnetilsyn til enslig mor eller far i arbeid	1	v-154.md
 stb	V	155	15.10.2025	Bevilgningsspørsmål	AID	2620.72	2620	Provenyeffekten av øk stønadsgraden for barnepass for personer som faller inn under ordningen for stønad til barnetilsyn	1	v-155.md
 stb	V	156	15.10.2025	Bevilgningsspørsmål	AID	2620.62	2620	Provenyeffekten av å heve maksimalt beløp per måned for barnepass for personer som faller under ordningen for stønad til barnetilsyn	2	v-156.md

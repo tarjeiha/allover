@@ -29,7 +29,7 @@ Feller:
 
 ## Svar på budsjettspørsmål fra Stortinget (`budsjett/ÅR/sporsmal/RUNDE/`)
 
-Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Lastes opp som samledokumenter fra Finansdepartementets system via `innboks-budsjett/`. Foreløpig er bare AIDs svar til statsbudsjettet 2026 lagt inn.
+Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Lastes opp som samledokumenter fra Finansdepartementets system via `innboks-budsjett/`. Foreløpig er bare AIDs svar til statsbudsjettet 2026 lagt inn. Svar som ikke er publisert på regjeringen.no, legges ikke inn. De står i `utelatt.txt` i mappen for runden.
 
 | Fil | Innhold |
 |---|---|
@@ -69,7 +69,7 @@ Feller:
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
 - **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
-- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, statsbudsjettet (297 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
+- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
 - **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
 - **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
 - **2023:** Prop. 1 S AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`)
