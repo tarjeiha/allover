@@ -1410,6 +1410,17 @@
       "alias": [
         "utredningsinstruksen"
       ]
+    },
+    {
+      "mappe": "regelverk/stortingets-forretningsorden",
+      "navn": "Stortingets forretningsorden",
+      "lov": "FOR-2012-06-07-518",
+      "forskrifter": [],
+      "alias": [
+        "stortingets forretningsorden",
+        "forretningsorden for stortinget",
+        "forretningsordenen"
+      ]
     }
   ],
   "avtaler": [
