@@ -12,11 +12,15 @@ sporsmal.tsv lages på nytt av alle filene i mappen. Flere samledokumenter for s
 derfor lastes opp etter hverandre. Et svar med samme parti og nummer erstattes.
 Svar som står i utelatt.txt i mappen (én linje per svar, som filnavnet uten .md, f.eks. «v-143»),
 legges ikke inn. Det brukes for svar som ikke er publisert på regjeringen.no.
+felt.tsv i mappen holdes for hånd og har én rad per svar (kolonnen fil) med type, tema, år,
+forutsetninger, grunnlag, familie, se_ogsa, publisert, versjoner og lenke til regjeringen.no.
+Feltene kobles inn i sporsmal.tsv ved hvert bygg, så de overlever ny innlegging.
 Runden leses fra linjen «Spørsmål fra Stortingets finanskomite til STB 2026»:
 STB = statsbudsjettet (Prop. 1 S), RNB = revidert nasjonalbudsjett. Andre koder brukes som mappenavn.
 """
 import csv
 import re
+from collections import Counter
 import sys
 from pathlib import Path
 
@@ -35,6 +39,8 @@ SVAR = "Finansdepartementets svar"
 RUNDE = re.compile(r"Spørsmål fra Stortingets (\S+) til (\S+) (\d{4})")
 KOLONNER = ["runde", "parti", "nr", "dato", "kategori", "departement", "kap_post", "kapitler",
             "undertittel", "tabeller", "fil"]
+TILLEGG = ["type", "tema", "aar", "forutsetninger", "grunnlag", "familie", "se_ogsa",
+           "publisert", "versjoner", "lenke"]
 
 
 def etikett(tekst):
@@ -111,7 +117,17 @@ def markdown(d):
     return "\n".join(linjer).rstrip() + "\n"
 
 
+def tillegg(mappe):
+    """Gir de håndførte feltene fra felt.tsv i mappen, med filnavnet som nøkkel."""
+    f = mappe / "felt.tsv"
+    if not f.exists():
+        return {}
+    with open(f, encoding="utf-8", newline="") as inn:
+        return {r["fil"]: r for r in csv.DictReader(inn, delimiter="\t")}
+
+
 def oppdater_indeks(mappe):
+    ekstra = tillegg(mappe)
     rader = []
     for f in sorted(mappe.glob("*.md")):
         tekst = f.read_text(encoding="utf-8")
@@ -124,14 +140,15 @@ def oppdater_indeks(mappe):
             "kapitler": kapitler(felt.get("Kapittel og post", "")),
             "undertittel": overskrift.group(1) if overskrift else "",
             "tabeller": tekst.count("\n|---"), "fil": f.name,
+            **{k: ekstra.get(f.name, {}).get(k) or "" for k in TILLEGG},
         })
     rader.sort(key=lambda r: (r["parti"], int(r["nr"]) if r["nr"].isdigit() else 0, r["nr"]))
     with open(mappe / "sporsmal.tsv", "w", encoding="utf-8", newline="") as ut:
-        w = csv.DictWriter(ut, fieldnames=KOLONNER, delimiter="\t", lineterminator="\n")
+        w = csv.DictWriter(ut, fieldnames=KOLONNER + TILLEGG, delimiter="\t", lineterminator="\n")
         w.writeheader()
         for r in rader:
             w.writerow({k: str(v).replace("\t", " ").replace("\n", " ") for k, v in r.items()})
-    return len(rader)
+    return rader
 
 
 def utelatt(mappe):
@@ -163,10 +180,14 @@ def legg_inn(sti, budsjett=BUDSJETT):
         f = mappe / f"{navn}.md"
         nye += not f.exists()
         f.write_text(markdown(d), encoding="utf-8")
-    totalt = oppdater_indeks(mappe)
+    rader = oppdater_indeks(mappe)
     utelatt_tekst = f", {hoppet} utelatt etter utelatt.txt" if hoppet else ""
+    per_parti = Counter(r["parti"] for r in rader)
+    uten_felt = sum(not r["type"] for r in rader)
+    felt_tekst = f". {uten_felt} uten rad i felt.tsv" if uten_felt else ""
     return (f"{len(svar)} svar til {runde} {aar} ({nye} nye{utelatt_tekst}), "
-            f"{totalt} i alt i `budsjett/{aar}/sporsmal/{mappe.name}/`")
+            f"{len(rader)} i alt i `budsjett/{aar}/sporsmal/{mappe.name}/` ("
+            + ", ".join(f"{p} {n}" for p, n in sorted(per_parti.items())) + f"){felt_tekst}")
 
 
 if __name__ == "__main__":

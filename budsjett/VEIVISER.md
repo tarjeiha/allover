@@ -29,11 +29,12 @@ Feller:
 
 ## Svar på budsjettspørsmål fra Stortinget (`budsjett/ÅR/sporsmal/RUNDE/`)
 
-Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Lastes opp som samledokumenter fra Finansdepartementets system via `innboks-budsjett/`. Foreløpig er bare AIDs svar til statsbudsjettet 2026 lagt inn. Svar som ikke er publisert på regjeringen.no, legges ikke inn. De står i `utelatt.txt` i mappen for runden.
+Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Lastes opp som samledokumenter fra Finansdepartementets system via `innboks-budsjett/`. Foreløpig er bare et utvalg av svarene til statsbudsjettet 2026 lagt inn. Svar som ikke er publisert på regjeringen.no, legges ikke inn. De står i `utelatt.txt` i mappen for runden.
 
 | Fil | Innhold |
 |---|---|
-| `sporsmal.tsv` | Ett svar per rad: parti, spørsmålsnummer, dato, kategori, departement, kapittel og post slik spørsmålet oppgir det, kapittelnumrene (`kapitler`, skilt med semikolon), undertittel, antall tabeller og filnavn. Start her og filtrer på `kapitler` eller søk i `undertittel`. |
+| `sporsmal.tsv` | Ett svar per rad: parti, spørsmålsnummer, dato, kategori, departement, kapittel og post slik spørsmålet oppgir det, kapittelnumrene (`kapitler`, skilt med semikolon), undertittel, antall tabeller og filnavn. Deretter feltene fra `felt.tsv`, se under. Start her og filtrer på `kapitler`, `type` eller `familie`, eller søk i `undertittel` og `tema`. |
+| `felt.tsv` | Håndført for hver runde og koblet inn i `sporsmal.tsv` ved hvert bygg: `type` (kostnad, statistikk, anslag, tildeling, tekst, henvisning), `tema`, `aar` (året eller perioden tallene gjelder), `forutsetninger` (G, prisnivå, innføringsdato og liknende), `grunnlag` (hvem som har laget tallene), `familie` (svar som regner på samme ordning), `se_ogsa` (beslektede svar), `publisert` (dato på regjeringen.no), `versjoner` (over 1 betyr at svaret er publisert flere ganger, ofte rettet) og `lenke` til svaret på regjeringen.no. |
 | `PARTI-NR.md` | Hele spørsmålet og svaret, med tabellene som Markdown-tabeller. |
 
 Feller:
@@ -41,6 +42,9 @@ Feller:
 - **Nummeret gjelder per parti.** Høyre og Rødt kan begge ha et spørsmål nr. 1. Oppgi alltid parti og nummer, for eksempel «svar på spørsmål nr. 1014 fra Høyre til statsbudsjettet 2026».
 - **Anslagene gjelder da svaret ble gitt.** Svarene bygger på forslaget og anslagene på svartidspunktet. Senere vedtak og nye anslag kan gi andre tall.
 - **Svarene er ikke regjeringens politikk.** De beregner virkningen av partienes egne forslag. Si at det er et svar på et spørsmål fra partiet.
+- **Svarene er ikke uavhengige tidsserier.** Et kostnadsanslag gjelder forutsetningene i `forutsetninger` (G, prisnivå, innføringsdato). Statistikk i svar fra ulike år kan være revidert. Hent serien fra eieren av tallene (oftest Nav eller SSB) før svaret brukes som serie, og bruk `familie` for å finne andre svar som regner på det samme.
+- **`grunnlag` som begynner med «antatt:», er et beste anslag** på hvem som har laget tallene, når svaret ikke sier det selv. Oppgi det ikke som kilde.
+- **Lenk til svaret på regjeringen.no** med `lenke` når brukeren skal kunne kontrollere tallene. Er `versjoner` over 1, er det den nyeste versjonen som ligger i basen.
 - **Kapittel og post er partiets egen angivelse** og kan være upresis («D», «1.1», «Generelt»). `kapitler` er tom når feltet ikke har et kapittelnummer.
 
 ## Stortingets vedtak (`budsjett/ÅR/stortinget/`)
