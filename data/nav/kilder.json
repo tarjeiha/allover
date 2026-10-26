@@ -232,6 +232,48 @@
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
   },
   {
+   "monster": "aap310",
+   "mappe": "aap-unge-alder-fylke-kvartal",
+   "tittel": "Unge mottakere av arbeidsavklaringspenger etter alder og fylke, kvartal (AAP310)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap380",
+   "mappe": "aap-tilgang-alder-kjonn-kvartal",
+   "tittel": "Tilgang til arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP380)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap381",
+   "mappe": "aap-tilgang-fylke-alder-kvartal",
+   "tittel": "Tilgang til arbeidsavklaringspenger etter fylke og alder, kvartal (AAP381)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap382",
+   "mappe": "aap-tilgang-fylke-kjonn-kvartal",
+   "tittel": "Tilgang til arbeidsavklaringspenger etter fylke og kjønn, kvartal (AAP382)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap390",
+   "mappe": "aap-avgang-alder-kjonn-kvartal",
+   "tittel": "Avgang fra arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP390)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap391",
+   "mappe": "aap-avgang-fylke-alder-kvartal",
+   "tittel": "Avgang fra arbeidsavklaringspenger etter fylke og alder, kvartal (AAP391)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap392",
+   "mappe": "aap-avgang-fylke-kjonn-kvartal",
+   "tittel": "Avgang fra arbeidsavklaringspenger etter fylke og kjønn, kvartal (AAP392)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
    "monster": "tabell12ant",
    "mappe": "uforetrygd-andel-fylke-alder-kvartal",
    "tittel": "Mottakere av uføretrygd, andel av befolkningen etter fylke og alder (tabell 12)",
