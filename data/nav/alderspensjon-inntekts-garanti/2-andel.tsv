@@ -1,11 +1,11 @@
 # Kilde: Nav
 # Tabell: Alderspensjonister med inntekts- og garantipensjon (PST081)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: 2. Andel
-# Alderspensjonister med inntekts- og garantipensjon. Juni 2026
+# Alderspensjonister med inntekts- og garantipensjon. September 2026
 # Andel alderspensjonister med inntekts- og garantipensjon fordelt på pensjonstype. Tidsserie
-rad				2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
-	Inntektspensjon og avkortet garantipensjon			11.3	10.4	9.5	9.4	9.3	15	21.8	25.4	27.7	29	30
-	Kun garantipensjon			* *	0	0	0	* *	0	0	0	0	0	0
-	Kun inntektspensjon			88.7	89.6	90.5	90.6	90.7	85	78.1	74.6	72.3	71	70
+rad		2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Inntektspensjon og avkortet garantipensjon		11.8	10.6	9.9	9.8	9.7	17.6	23.1	26.4	28.2	29.4	30.4
+Kun garantipensjon		0	0	0	0		0	0	0	0	0	0
+Kun inntektspensjon		88.2	89.4	90.1	90.2	90.3	82.4	76.9	73.6	71.7	70.6	69.6

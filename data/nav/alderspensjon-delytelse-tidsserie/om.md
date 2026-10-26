@@ -1,12 +1,12 @@
 # Alderspensjon etter delytelse og tillegg, tidsserie (PST023)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Alderspensjon etter delytelse. Kjønn og alder. Juni 2016 - 2026
+- Alderspensjon etter delytelse. Kjønn og alder. September 2016 - 2026
 - Om statistikken
 - Innhold i rapporten
 - Antall alderspensjonister fordelt på delytelse

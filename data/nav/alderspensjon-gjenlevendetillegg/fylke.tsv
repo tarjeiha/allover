@@ -1,27 +1,27 @@
 # Kilde: Nav
 # Tabell: Alderspensjonister med gjenlevendetillegg (PST024)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: Fylke
-# Antall alderspensjonister med gjenlevendetillegg. Juni 2026
+# Antall alderspensjonister med gjenlevendetillegg. September 2026
 # Fylke
 rad				2024	2025	2026
-rad				Juni	Juni	Juni
-I alt				65435	71502	77446
-Østfold				4408	4762	5089
-Akershus				7188	7809	8521
-Oslo - Oslove				4766	5150	5612
-Innlandet				5978	6450	6964
-Buskerud				3388	3690	3958
-Vestfold				3268	3594	3908
-Telemark				2557	2780	3029
-Agder				3868	4218	4548
-Rogaland				4944	5503	6012
-Vestland				6947	7682	8316
-Møre og Romsdal				3394	3698	3997
-Trøndelag - Trööndelage				5610	6118	6660
-Nordland - Nordlánnda				3486	3807	4121
-Troms - Romsa - Tromssa				2100	2298	2479
-Finnmark - Finnmárku - Finmarkku				1028	1099	1181
-Utland				2495	2832	3039
-Ukjent				10	12	12
+rad				September	September	September
+I alt				66946	72843	78962
+Østfold				4487	4839	5172
+Akershus				7329	7969	8735
+Oslo - Oslove				4864	5233	5736
+Innlandet				6117	6546	7110
+Buskerud				3472	3749	4039
+Vestfold				3360	3672	3971
+Telemark				2613	2848	3085
+Agder				3959	4288	4640
+Rogaland				5090	5620	6125
+Vestland				7130	7823	8502
+Møre og Romsdal				3469	3753	4067
+Trøndelag - Trööndelage				5727	6251	6772
+Nordland - Nordlánnda				3566	3889	4193
+Troms - Romsa - Tromssa				2153	2337	2523
+Finnmark - Finnmárku - Finmarkku				1050	1124	1199
+Utland				2549	2889	3081
+Ukjent				11	13	12

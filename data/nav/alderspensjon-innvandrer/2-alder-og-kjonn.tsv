@@ -1,22 +1,22 @@
 # Kilde: Nav
 # Tabell: Alderspensjonister etter innvandrerbakgrunn (PST013)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: 2. Alder og kjønn
 # Merknad: Antall alderspensjonister som er innvandrere fordelt på alder og kjønn
-gruppe	rad	Kilde: NAV		Alderspensjonister. Innvandrer. Tidsserie juni 2021 - 2026
+gruppe	rad	Kilde: NAV		Alderspensjonister. Innvandrer. Tidsserie september 2021 - 2026
 gruppe	rad				2021		2022	2023	2024	2025	2026
-Kvinner	I alt				27798		30378	32395	34852	37308	40221
-Kvinner	62-66 år				733		764	814	896	1037	1226
-Kvinner	67-69 år				5982		6674	7133	7867	8346	9016
-Kvinner	70-74 år				8560		8965	9682	10373	11121	12088
-Kvinner	75-79 år				6043		6822	7153	7403	7740	8221
-Kvinner	80-84 år				3491		3879	4173	4670	5130	5477
-Kvinner	85+ år				2989		3274	3440	3643	3934	4193
-Menn	I alt				28515		31339	33921	37027	40339	43876
-Menn	62-66 år				2139		2322	2530	2775	3129	3511
-Menn	67-69 år				6776		7475	8143	9100	9876	10668
-Menn	70-74 år				9684		10239	10894	11554	12447	13580
-Menn	75-79 år				5812		6684	7198	7713	8254	8798
-Menn	80-84 år				2630		2954	3359	3835	4371	4851
-Menn	85+ år				1474		1665	1797	2050	2262	2468
+Kvinner	I alt				28209		30859	32966	35476	37973	40988
+Kvinner	62-66 år				715		780	795	928	1061	1279
+Kvinner	67-69 år				6117		6796	7385	8012	8510	9159
+Kvinner	70-74 år				8608		9099	9805	10550	11336	12398
+Kvinner	75-79 år				6195		6933	7214	7463	7831	8264
+Kvinner	80-84 år				3542		3921	4274	4800	5238	5630
+Kvinner	85+ år				3032		3330	3493	3723	3997	4258
+Menn	I alt				29065		31913	34757	37820	41138	44811
+Menn	62-66 år				2139		2341	2577	2852	3241	3567
+Menn	67-69 år				6950		7620	8450	9242	10015	10882
+Menn	70-74 år				9792		10379	11078	11856	12688	13896
+Menn	75-79 år				5996		6809	7336	7807	8438	8945
+Menn	80-84 år				2672		3077	3456	3976	4443	4988
+Menn	85+ år				1516		1687	1860	2087	2313	2533

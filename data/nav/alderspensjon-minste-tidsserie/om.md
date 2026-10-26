@@ -1,11 +1,12 @@
 # Minstepensjonister, tidsserie (PST061)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
+- Alderspensjonister med minstepensjon. September 2016 - 2026
 - Om statistikken
 - Innhold i rapporten
 - Tallene i rapporten viser antall og andel alderspensjonister som mottar minstepensjon tilsvarende minste pensjonsnivå - samt utvikling over tid.

@@ -1,12 +1,12 @@
 # Alderspensjonister, andel av befolkningen 62–75 år (PST041)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Alderspensjonister. Andel av befolkningen, 62-75 år. Juni 2016 - 2026
+- Alderspensjonister. Andel av befolkningen, 62-75 år. September 2016 - 2026
 - Om statistikken
 - Innhold i rapporten
 - Andel av befolkningen som har startet uttak av alderspensjon fra folketrygden

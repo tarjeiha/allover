@@ -1,12 +1,12 @@
 # Utbetalt alderspensjon, månedlig beløp (PST021)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Utbetalt alderspensjon. Alder, kjønn, grad og fylke. Periode: 2025-6 til 2026-6
+- Utbetalt alderspensjon. Alder, kjønn, grad og fylke. Periode: 2025-9 til 2026-9
 - Om statistikken
 - Innhold i rapporten
 - Gjennomsnittlig utbetalt beløp til alderspensjon. Gjennomsnitt for aktuell måned

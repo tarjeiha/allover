@@ -1,12 +1,12 @@
 # Tillegg med utgangspunkt i minste pensjonsnivå (PST063)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Tillegg med utgangspunkt i minste pensjonsnivå. Antall. Periode: 2025-6 til 2026-6
+- Tillegg med utgangspunkt i minste pensjonsnivå. Antall. Periode: 2025-9 til 2026-9
 - Om statistikken
 - Innhold i rapporten
 - Antall alderspensjonister som mottar ulike tillegg / delytelser i alderspensjonen med utgangspunkt i minste pensjonsnivå.

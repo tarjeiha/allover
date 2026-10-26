@@ -1,12 +1,12 @@
 # Nye alderspensjonister etter kjønn og alder, tidsserie (PST072)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Nye alderspensjonister. Kjønn og alder. 1. - 2. Kvartal 2016 - 2026
+- Nye alderspensjonister. Kjønn og alder. 1. - 3. Kvartal 2016 - 2026
 - Om statistikken
 - Innhold i rapporten
 - Rapporten viser antall nye alderspensjonister hittil i året og antall nye alderspensjonister i tilsvarende periode tidligere år.

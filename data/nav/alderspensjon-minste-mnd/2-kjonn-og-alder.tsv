@@ -1,23 +1,23 @@
 # Kilde: Nav
 # Tabell: Minstepensjonister, siste måned (PST060)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: 2. Kjønn og alder
-# Alderspensjonister med minstepensjon. Juni 2026
+# Alderspensjonister med minstepensjon. September 2026
 # Kjønn og alder
 # Kvinner
 gruppe	rad		Antall alderspensjonister			Antall minstepensjonister	Andel minstepensjonister
-	I alt		558936			94528	16.912133
-	62-66 år		27547				
-	67-69 år		86891			606	0.697426
-	70-74 år		140404			10906	7.767585
-	75-79 år		125359			23060	18.395169
-	80-84 år		94692			25268	26.684408
-	85+ år		84043			34688	41.27411
-Menn	I alt		538513			20075	3.727858
-Menn	62-66 år		55344				
-Menn	67-69 år		88624			708	0.798881
-Menn	70-74 år		139636			5420	3.881521
-Menn	75-79 år		119882			5834	4.866452
-Menn	80-84 år		81728			3828	4.683829
-Menn	85+ år		53299			4285	8.03955
+	I alt		563369			112284	19.930809
+	62-66 år		28723				
+	67-69 år		87108			1447	1.661156
+	70-74 år		141497			18856	13.326078
+	75-79 år		124711			27147	21.767927
+	80-84 år		96473			27386	28.387217
+	85+ år		84857			37448	44.130714
+Menn	I alt		542385			25726	4.743125
+Menn	62-66 år		55497				
+Menn	67-69 år		89051			1247	1.400321
+Menn	70-74 år		140671			8521	6.057396
+Menn	75-79 år		119524			7202	6.025568
+Menn	80-84 år		83649			4190	5.009026
+Menn	85+ år		53993			4566	8.456652

@@ -1,33 +1,33 @@
 # Kilde: Nav
 # Tabell: Alderspensjonister med gradert uttak, siste måned (PST050)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: 2. Kjønn. Alder. Antall
-# Alderspensjonister med gradert uttak (20, 40, 50, 60, 80 prosent). Juni 2026
+# Alderspensjonister med gradert uttak (20, 40, 50, 60, 80 prosent). September 2026
 # Alder og kjønn. Alderspensjonister på nytt regelverk. Antall
 # Kvinner
 gruppe	rad				I alt			Grad: 20	Grad: 40	Grad: 50	Grad: 60	Grad: 80
-			I alt		8320			2449	943	1764	1225	1939
-			62		1450			761	118	191	139	241
-			63		1453			537	147	277	171	321
-			64		1334			353	121	299	243	318
-			65		1288			311	171	340	200	266
-			66		1322			261	202	339	216	304
-			67		541			110	77	143	80	131
-			68		312			58	47	68	56	83
-			69		202			32	27	40	37	66
-			70-74		408			23	32	66	82	205
-			75-79		9			*	*	*		4
+			I alt		8358			2526	935	1721	1223	1953
+			62		1542			822	118	188	133	281
+			63		1516			579	163	263	185	326
+			64		1294			366	122	293	229	284
+			65		1274			300	165	324	215	270
+			66		1275			243	200	336	200	296
+			67		509			104	68	131	82	124
+			68		316			51	46	79	52	88
+			69		207			36	23	42	38	68
+			70-74		421			25	29	64	88	215
+			75-79		*				*	*		*
 			80-84		*						*	
-Menn			I alt		10922			4964	985	1753	1156	2064
-Menn			62		1980			1375	115	195	77	218
-Menn			63		1875			1004	143	269	171	288
-Menn			64		1797			778	161	310	186	362
-Menn			65		1678			675	185	326	193	299
-Menn			66		1628			591	182	305	232	318
-Menn			67		724			246	78	138	103	159
-Menn			68		414			129	47	73	60	105
-Menn			69		321			92	31	55	46	97
-Menn			70-74		491			72	42	79	86	212
-Menn			75-79		9			*	*	*	*	4
+Menn			I alt		11011			5079	996	1738	1146	2052
+Menn			62		2049			1470	122	175	73	209
+Menn			63		1879			1026	142	262	167	282
+Menn			64		1840			821	173	331	173	342
+Menn			65		1661			672	176	310	189	314
+Menn			66		1567			553	191	299	226	298
+Menn			67		760			249	71	139	112	189
+Menn			68		417			115	52	83	68	99
+Menn			69		301			94	27	51	43	86
+Menn			70-74		523			76	42	85	92	228
+Menn			75-79		9			*		*	*	*
 Menn			80-84		5					*	*	*

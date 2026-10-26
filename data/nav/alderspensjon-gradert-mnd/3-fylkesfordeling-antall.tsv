@@ -1,26 +1,26 @@
 # Kilde: Nav
 # Tabell: Alderspensjonister med gradert uttak, siste måned (PST050)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: 3. Fylkesfordeling. Antall 
-# Alderspensjonister med gradert uttak (20, 40, 50, 60, 80 prosent). Juni 2026
+# Alderspensjonister med gradert uttak (20, 40, 50, 60, 80 prosent). September 2026
 # Fylke og graderingsprosent. Alderspensjonister på nytt regelverk. Antall
 rad			I alt	Grad: 20	Grad: 40	Grad: 50	Grad: 60	Grad: 80
-I alt			19242	7413	1928	3517	2381	4003
-Østfold			929	331	98	184	112	204
-Akershus			2253	936	228	417	243	429
-Innlandet			1503	499	158	305	191	350
-Buskerud			997	350	122	184	122	219
-Vestfold			938	338	101	164	132	203
-Telemark			611	217	59	124	89	122
-Agder			1015	350	110	197	118	240
-Rogaland			1581	709	146	263	176	287
-Vestland			2343	1036	233	362	251	461
-Møre og Romsdal			1047	460	80	195	111	201
-Trøndelag - Trööndelage			1692	678	155	327	208	324
-Nordland - Nordlánnda			858	324	84	173	97	180
-Troms - Romsa - Tromssa			513	191	44	109	56	113
-Finnmark - Finnmárku - Finmarkku			242	62	24	58	39	59
-Utland			1174	309	138	182	252	293
-Ukjent			31	4	*	4	9	11
-Oslo - Oslove			1515	619	145	269	175	307
+I alt			19369	7605	1931	3459	2369	4005
+Østfold			939	348	103	168	111	209
+Akershus			2267	975	220	402	243	427
+Innlandet			1535	524	151	302	200	358
+Buskerud			1000	350	120	183	128	219
+Vestfold			956	351	99	166	137	203
+Telemark			622	226	61	128	88	119
+Agder			1022	358	117	194	114	239
+Rogaland			1590	718	149	265	163	295
+Vestland			2353	1052	233	358	251	459
+Møre og Romsdal			1039	467	79	192	108	193
+Trøndelag - Trööndelage			1739	722	162	321	211	323
+Nordland - Nordlánnda			862	334	83	170	97	178
+Troms - Romsa - Tromssa			506	182	42	105	59	118
+Finnmark - Finnmárku - Finmarkku			249	69	25	54	39	62
+Utland			1152	306	134	177	245	290
+Ukjent			29	4	*	5	9	8
+Oslo - Oslove			1509	619	150	269	166	305

@@ -1,15 +1,15 @@
 # Kilde: Nav
 # Tabell: Alderspensjonister med gjenlevendetillegg (PST024)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: Alder
-# Antall alderspensjonister med gjenlevendetillegg. Juni 2026
+# Antall alderspensjonister med gjenlevendetillegg. September 2026
 # Alder
 rad		2024			2025	2026
-rad		Juni			Juni	Juni
-I alt		65435			71502	77446
-62-64 år		468			425	288
-65-69 år		8639			8310	7774
-70-74 år		20209			19633	19560
-75-79 år		32321			31962	30535
-80 år og over		3798			11172	19289
+rad		September			September	September
+I alt		66946			72843	78962
+62-64 år		462			386	271
+65-69 år		8587			8168	7655
+70-74 år		20003			19587	19571
+75-79 år		32313			31688	30067
+80 år og over		5581			13014	21398

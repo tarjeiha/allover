@@ -1,12 +1,12 @@
 # Alderspensjon etter delytelse og tillegg, siste måned (PST022)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Alderspensjon etter delytelse. Kjønn og Alder. Juni 2026
+- Alderspensjon etter delytelse. Kjønn og Alder. September 2026
 - Om statistikken
 - Innhold i rapporten
 - Antall alderspensjonister fordelt på delytelse. Se i Om statistikken, under relatert informasjon, for forklaring av de forskjellige delytelsene.

@@ -1,12 +1,12 @@
 # Minstepensjonister, siste måned (PST060)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Alderspensjonister med minstepensjon. Juni 2026
+- Alderspensjonister med minstepensjon. September 2026
 - Om statistikken
 - Innhold i rapporten
 - Tallene i rapporten viser antall og andel alderspensjonister som mottar minstepensjon.

@@ -1,26 +1,26 @@
 # Kilde: Nav
 # Tabell: Alderspensjonister med inntekts- og garantipensjon (PST081)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: 3. Fylke
-# Alderspensjonister med inntekts- og garantipensjon. Juni 2026
+# Alderspensjonister med inntekts- og garantipensjon. September 2026
 # Antall alderspensjonister med inntekts- og garantipensjon fordelt på pensjonstype. Fylke
-Fylke			I alt	Inntektspensjon og avkortet garantipensjon	Kun garantipensjon	Kun inntektspensjon
-I alt			329179	98762	110	230307
-Østfold			20543	6684	8	13851
-Akershus			38105	8961	19	29125
-Oslo - Oslove			25441	6530	19	18892
-Innlandet			28109	10242	6	17861
-Buskerud			16686	5047	5	11634
-Vestfold			17725	5714	*	12009
-Telemark			12728	4195	*	8531
-Agder			19662	6546	7	13109
-Rogaland			28034	7600	6	20428
-Vestland			39272	11176	*	28094
-Møre og Romsdal			18680	5527	* *	13153
-Trøndelag - Trööndelage			29434	9429	6	19999
-Nordland - Nordlánnda			17038	5241	* *	11797
-Troms - Romsa - Tromssa			10486	3066	*	7419
-Finnmark - Finnmárku - Finmarkku			4552	1446	* *	3106
-Utland			2255	1155	27	1073
-Ukjent			429	203	* *	226
+Fylke		I alt	Inntektspensjon og avkortet garantipensjon	Kun garantipensjon	Kun inntektspensjon
+I alt		339815	103158	113	236544
+Østfold		21236	6977	9	14250
+Akershus		39423	9398	19	30006
+Oslo - Oslove		26290	6783	19	19488
+Innlandet		29068	10693	6	18369
+Buskerud		17212	5252	5	11955
+Vestfold		18338	5974	*	12362
+Telemark		13095	4375	*	8717
+Agder		20289	6868	7	13414
+Rogaland		28815	7926	6	20883
+Vestland		40509	11693	*	28814
+Møre og Romsdal		19251	5781		13470
+Trøndelag - Trööndelage		30416	9857	6	20553
+Nordland - Nordlánnda		17555	5458		12097
+Troms - Romsa - Tromssa		10826	3201	*	7624
+Finnmark - Finnmárku - Finmarkku		4701	1518		3183
+Utland		2336	1207	28	1101
+Ukjent		455	197		258

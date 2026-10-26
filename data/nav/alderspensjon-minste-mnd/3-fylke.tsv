@@ -1,26 +1,26 @@
 # Kilde: Nav
 # Tabell: Minstepensjonister, siste måned (PST060)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-10-26
 # Ark: 3. Fylke
-# Alderspensjonister med minstepensjon. Juni 2026
+# Alderspensjonister med minstepensjon. September 2026
 # Fylke
 rad			Antall alderspensjonister	Antall minstepensjonister	Andel minstepensjonister
-I alt			1097449	114603	10.442672
-Østfold			64423	6420	9.965385
-Akershus			123386	8065	6.536398
-Innlandet			88139	9704	11.009882
-Buskerud			53319	5016	9.407528
-Vestfold			54837	5233	9.542827
-Telemark			39391	4037	10.248534
-Agder			60706	6517	10.735347
-Rogaland			83039	7177	8.642927
-Vestland			122188	11285	9.235768
-Møre og Romsdal			57421	5635	9.813483
-Trøndelag - Trööndelage			91356	8867	9.705985
-Nordland - Nordlánnda			53115	5206	9.801374
-Troms - Romsa - Tromssa			33057	3087	9.338415
-Finnmark - Finnmárku - Finmarkku			14478	1458	10.070452
-Utland			64779	18729	28.912147
-Ukjent			3977	906	22.780991
-Oslo - Oslove			89838	7261	8.082326
+I alt			1105754	138010	12.481076
+Østfold			64946	7923	12.199366
+Akershus			124416	9882	7.942708
+Innlandet			88789	11739	13.221232
+Buskerud			53665	6157	11.473027
+Vestfold			55305	6359	11.498056
+Telemark			39614	4988	12.591508
+Agder			61118	7897	12.920907
+Rogaland			83729	8832	10.548317
+Vestland			123056	13231	10.752015
+Møre og Romsdal			57765	6810	11.789146
+Trøndelag - Trööndelage			91997	10570	11.489505
+Nordland - Nordlánnda			53400	6254	11.71161
+Troms - Romsa - Tromssa			33272	3615	10.864992
+Finnmark - Finnmárku - Finmarkku			14568	1719	11.799835
+Utland			65635	22109	33.684772
+Ukjent			4093	1080	26.386514
+Oslo - Oslove			90386	8845	9.785808

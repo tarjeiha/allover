@@ -1,12 +1,12 @@
 # Alderspensjonister med gradert uttak, siste måned (PST050)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Alderspensjonister med gradert uttak (20, 40, 50, 60, 80 prosent). Juni 2026
+- Alderspensjonister med gradert uttak (20, 40, 50, 60, 80 prosent). September 2026
 - Om statistikken
 - Innhold i rapporten
 - Antall alderspensjonister som mottar gradert alderspensjon.

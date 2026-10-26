@@ -1,12 +1,12 @@
 # Alderspensjonister med inntekts- og garantipensjon (PST081)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-Lagt inn: 2026-10-17
+Lagt inn: 2026-10-26
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Alderspensjonister med nye opptjeningsregler. Juni 2026
+- Alderspensjonister med nye opptjeningsregler. September 2026
 - Om statistikken
 - Innhold i rapporten
 - Tallene i rapporten viser antall og andel alderspensjonister med nye opptjeningsregler. Kun personer med 100 % uttaksgrad, full trygdetid og som er født etter 1953 er inkludert.
