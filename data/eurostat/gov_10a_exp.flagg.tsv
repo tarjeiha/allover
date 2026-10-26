@@ -1,7 +1,7 @@
 # Kilde: Eurostat, tabell gov_10a_exp
 # Tabell: Offentlige utgifter til sosial beskyttelse (COFOG GF10) og undergrupper, prosent av BNP, årlig
 # Eurostat-tittel: General government expenditure by function (COFOG)
-# Oppdatert hos Eurostat: 2026-09-16T23:00:00+0200
+# Oppdatert hos Eurostat: 2026-10-21T23:00:00+0200
 # Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=IS&geo=DE&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=EE&geo=FR&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=EU27_2020&unit=PC_GDP&sector=S13&na_item=TE&cofog99=GF10&cofog99=GF1001&cofog99=GF1002&cofog99=GF1004&cofog99=GF1005
 # geo: EU27_2020=European Union - 27 countries (from 2020); BE=Belgium; BG=Bulgaria; CZ=Czechia; DK=Denmark; DE=Germany; EE=Estonia; IE=Ireland; EL=Greece; ES=Spain; FR=France; HR=Croatia; IT=Italy; CY=Cyprus; LV=Latvia; LT=Lithuania; LU=Luxembourg; HU=Hungary; MT=Malta; NL=Netherlands; AT=Austria; PL=Poland; PT=Portugal; RO=Romania; SI=Slovenia; SK=Slovakia; FI=Finland; SE=Sweden; IS=Iceland; NO=Norway
 # unit: PC_GDP=Percentage of gross domestic product (GDP)
