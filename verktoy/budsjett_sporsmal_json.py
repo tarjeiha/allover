@@ -27,7 +27,7 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from budsjett import rens, slug  # noqa: E402
-from budsjett_sporsmal import BUDSJETT, TILLEGG, oppdater_indeks, utelatt  # noqa: E402
+from budsjett_sporsmal import BUDSJETT, TILLEGG, oppdater_indeks, ukjente_familier, utelatt  # noqa: E402
 
 SIDER = BUDSJETT / "sporsmal-sider.tsv"
 NS = {"a": "http://www.w3.org/2005/Atom",
@@ -213,9 +213,11 @@ def legg_inn(aar, runde, liste, sider, budsjett=BUDSJETT):
                               "lenke": f"{side_url}?bq={id_}&page=1" if side_url else ""}
     skriv_felt(mappe, felt)
     rader = oppdater_indeks(mappe)
+    ukjente = ukjente_familier(rader, budsjett)
     return (f"{runde.upper()} {aar}: {len(felt)} lagt inn, {len(ikke_publisert)} ikke publisert "
             f"({', '.join(sorted(ikke_publisert)) or 'ingen'}), {len(rader)} i alt ("
-            + ", ".join(f"{p} {n}" for p, n in sorted(per_parti.items())) + ")")
+            + ", ".join(f"{p} {n}" for p, n in sorted(per_parti.items())) + ")"
+            + (f". Ukjente familier: {', '.join(ukjente)}" if ukjente else ""))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,70 @@
+familie	omrade	beskrivelse	kapitler	erstatter
+aap-minsteytelse	AAP	Minsteytelse i AAP, også for unge under 25 år og ung ufør-tillegg	2651	
+aap-kompensasjonsgrad	AAP	Kompensasjonsgrad og beregningsgrunnlag i AAP	2651	
+aap-barnetillegg	AAP	Barnetillegg i AAP	2651	
+aap-varighet	AAP	Maksimal varighet, ny periode og forlengelse av AAP	2651	
+aap-regler	AAP	Andre vilkår og regler i AAP (karens, inngangsvilkår, egenetablering)	2651	
+dagpenger-kompensasjonsgrad	Dagpenger	Dagpengesats og kompensasjonsgrad	2541	
+dagpenger-opptjening	Dagpenger	Inntektskrav, opptjeningsperiode og opptjening for selvstendige	2541	dagpenger-lang-opptjening
+dagpenger-ferietillegg	Dagpenger	Ferietillegg på dagpenger	2541	
+dagpenger-sanksjoner	Dagpenger	Sanksjoner, bortfall og tidsbegrensninger	2541	dagpenger-sanksjonsperiode
+dagpenger-regler	Dagpenger	Andre regler i dagpengeordningen (avkorting ved arbeid, permittering, ventedager)	2541	dagpenger-arbeid
+sykepenger-selvstendige	Sykepenger	Sykepenger for selvstendig næringsdrivende og frilansere	2650	
+sykepenger-sysselsettingsutvalget	Sykepenger	Større omlegginger av sykelønnsordningen, blant annet ekspertgruppen til Sysselsettingsutvalget	2650	sykelonn-sysselsettingsutvalget
+sykepenger-regler	Sykepenger	Andre regler i sykepengeordningen (arbeidsgiverperiode, gradering, friskmelding)	2650	sykepenger-friskmelding
+omsorgspenger	Sykepenger	Omsorgspenger, pleiepenger og opplæringspenger	2650	
+sykefravaer	Sykepenger	Statistikk over sykefravær	2650	prop-figur-sykefravaer
+uforetrygd-avkorting	Uføretrygd	Fribeløp, inntektsgrense og avkorting mot arbeidsinntekt	2655	
+uforetrygd-barnetillegg	Uføretrygd	Barnetillegg i uføretrygd	2655	
+uforetrygd-kompensasjonsgrad	Uføretrygd	Kompensasjonsgrad, beregningsgrunnlag og minsteytelse i uføretrygd	2655	
+uforetrygd-regler	Uføretrygd	Andre regler i uføretrygd (arbeidsorientert uføretrygd, gradering)	2655	arbeidsorientert-uforetrygd
+helserelaterte-ytelser	Helserelaterte ytelser	Samlet antall, andel og utgifter til sykepenger, AAP og uføretrygd	2650;2651;2655	helserelaterte-ytelser-innvandrere;helserelaterte-ytelser-niva;helserelaterte-ytelser-utgifter;prop-figur-helserelaterte
+institusjonsopphold	Helserelaterte ytelser	Ytelser under opphold i institusjon og fengsel	2655	
+minste-pensjonsniva	Pensjon	Minste pensjonsnivå, garantipensjon og minstesatser i pensjon	2670;611;612	minste-pensjonsniva-okning
+pensjonsregulering	Pensjon	G-regulering og regulering av pensjoner	2670	
+levealdersjustering	Pensjon	Levealdersjustering, delingstall og forholdstall	2670	
+grunnpensjon-gifte	Pensjon	Grunnpensjon og avkorting for gifte og samboende	2670;611	avkorting-gifte-samboende
+gjenlevende	Pensjon	Gjenlevendepensjon, omstillingsstønad og gjenlevendetillegg	2670;2680	gjenlevende-omstillingsstonad
+afp-privat	Pensjon	AFP i privat sektor og statens tilskudd	666	
+samordning	Pensjon	Samordning av offentlig tjenestepensjon med folketrygden, også samordningsfella	612;613	samordningsfella
+spk	Pensjon	Statens pensjonskasse ellers (premie, medlemmer, drift)	612;613;614	
+overgangsstonad	Enslige forsørgere	Overgangsstønad og andre stønader til enslig mor eller far	2620	enslig-forsorger
+barnetilsyn-enslige	Enslige forsørgere	Stønad til barnetilsyn for enslige forsørgere	2620	
+grunn-og-hjelpestonad	Grunn- og hjelpestønad	Satser og vilkår for grunnstønad og hjelpestønad, også diagnoser som cøliaki	2661	grunn-og-hjelpestonad-satser;grunnstonad-coliaki
+aktivitetshjelpemidler	Hjelpemidler	Aktivitetshjelpemidler, særlig for personer over 26 år	2661	aktivitetshjelpemidler-bevilgning
+briller-barn	Hjelpemidler	Briller og kontaktlinser til barn	2661	
+parykk	Hjelpemidler	Parykk og hodeplagg	2661	
+horeapparat	Hjelpemidler	Høreapparat	2661	
+hjelpemidler	Hjelpemidler	Andre hjelpemidler, bil og tolk	2661	tolketjeneste
+gravferdsstonad	Gravferd	Gravferdsstønad og båretransport	2686	baretransport
+supplerende-stonad	Supplerende stønad	Supplerende stønad til personer med kort botid	667	
+eksport-ytelser	Trygd og utland	Eksport av ytelser og utbetalinger til utlandet	2655;2620	
+flyktning-botid	Trygd og utland	Botidskrav og særregler for flyktninger i folketrygden	2670;2655	
+sosialhjelp-satser	Sosialhjelp	Veiledende satser og regulering av sosialhjelp	571	
+sosialhjelp-utgifter	Sosialhjelp	Utgifter til og mottakere av sosialhjelp	571	sosialhjelp-innvandrere;overgangsstonad-sosialhjelp
+lavinntekt	Levekår	Lavinntekt, fattigdom og inntektsfordeling		
+kpi-justering	Levekår	Prisjustering av ytelser og satser som ikke G-reguleres	600	
+tiltak-bevilgning	Arbeidsmarkedstiltak	Bevilgning til og omfang av arbeidsmarkedstiltak	634	arbeidsmarkedstiltak-bevilgning;tiltaksnivaa
+tiltaksdeltakere	Arbeidsmarkedstiltak	Antall deltakere, ventetid og effekter av tiltak	634	ventetid-tiltak
+tiltak-priser	Arbeidsmarkedstiltak	Beregningstekniske priser per plass og måned (AFT, IPS, oppfølging)	634	
+tiltaksleverandorer	Arbeidsmarkedstiltak	Tiltaksarrangører og anskaffelser	634	
+vta-plasser	Arbeidsmarkedstiltak	Varig tilrettelagt arbeid	634	
+lonnstilskudd	Arbeidsmarkedstiltak	Lønnstilskudd	634	
+unge-arbeid	Arbeidsmarkedstiltak	Ungdomsgarantien, ungdomsprogrammet, sommerjobb og unge utenfor arbeid	634;605	ungdomsgarantien;ungdomsprogrammet;unge-utenfor;sommerjobb-unge
+nav-ansatte	Nav	Ansatte og årsverk i Nav	605	
+nav-lonn	Nav	Lønn i Nav	605	
+nav-saksbehandlingstid	Nav	Saksbehandlingstid i Nav	605	saksbehandlingstid-hjelpemidler
+nav-drift	Nav	Drift av Nav ellers (konsulenter, IKT, porteføljer, kontorer)	605	konsulentbruk;nav-portefolje
+trygdemisbruk	Nav	Kontroll, trygdemisbruk og tilbakekreving	605	
+arbeidstilsynet	Arbeidsmiljø	Arbeidstilsynet og Petroleumstilsynet (årsverk, tilsyn, arbeidslivskriminalitet)	640;642	arbeidstilsynet-arsverk;arbeidslivskriminalitet
+innleie	Arbeidsmiljø	Innleie fra bemanningsforetak og innleieforbudet	640	innleieforbud;arbeidstilsynet-innleie
+arbeidsliv-statistikk	Arbeidsmiljø	Statistikk om arbeidslivet (deltid, midlertidige ansettelser, lønn)		midlertidig-ansettelse;prop-figur-deltid
+oljepionerer	Arbeidsmiljø	Kompensasjon til oljepionerer og nordsjødykkere	647	
+integreringstilskudd	Integrering	Integreringstilskudd og kommunenes utgifter til bosetting og integrering	671	integreringstilskudd-dekning;integrering-utgifter
+introduksjonsprogrammet	Integrering	Introduksjonsprogrammet og introduksjonsstønad	671	introduksjonsprogram-alder
+norskopplaering	Integrering	Opplæring i norsk og samfunnskunnskap, også i mottak	671;220	norskopplaering-mottak;norskopplaering-tilskudd
+bosetting-flyktninger	Integrering	Bosetting og flytting av flyktninger	671	
+sysselsetting-innvandrere	Integrering	Sysselsetting blant innvandrere og flyktninger	671	sysselsetting-flyktninger;sysselsetting-landbakgrunn
+jobbsjansen	Integrering	Jobbsjansen	671	
+imdi-drift	Integrering	IMDi og andre integreringstiltak (mangfoldsrådgivere, negativ sosial kontroll)	670;671	kutt-driftsbevilgning;mangfoldsradgivere;bo-og-stottetilbud
+tilskudd-tildelingslister	Tilskudd	Lister over hvem som har fått tilskudd fra en ordning	 	
