@@ -151,6 +151,16 @@ def oppdater_indeks(mappe):
     return rader
 
 
+def ukjente_familier(rader, budsjett=BUDSJETT):
+    """Gir familier i felt.tsv som ikke står i budsjett/sporsmal-familier.tsv."""
+    f = budsjett / "sporsmal-familier.tsv"
+    if not f.exists():
+        return []
+    with open(f, encoding="utf-8", newline="") as inn:
+        kjente = {r["familie"] for r in csv.DictReader(inn, delimiter="\t")}
+    return sorted({r["familie"] for r in rader if r.get("familie")} - kjente)
+
+
 def utelatt(mappe):
     """Gir filnavnene (uten .md) som ikke skal legges inn, fra utelatt.txt i mappen."""
     f = mappe / "utelatt.txt"
@@ -185,6 +195,8 @@ def legg_inn(sti, budsjett=BUDSJETT):
     per_parti = Counter(r["parti"] for r in rader)
     uten_felt = sum(not r["type"] for r in rader)
     felt_tekst = f". {uten_felt} uten rad i felt.tsv" if uten_felt else ""
+    if ukjente := ukjente_familier(rader, budsjett):
+        felt_tekst += ". Ukjente familier: " + ", ".join(ukjente)
     return (f"{len(svar)} svar til {runde} {aar} ({nye} nye{utelatt_tekst}), "
             f"{len(rader)} i alt i `budsjett/{aar}/sporsmal/{mappe.name}/` ("
             + ", ".join(f"{p} {n}" for p, n in sorted(per_parti.items())) + f"){felt_tekst}")
