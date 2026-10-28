@@ -28,6 +28,8 @@ Stier er relative til `data/nav/`. «Kilde» er Navs side; når siden sist ble o
 - **Kilde:** Nav, «Mottakere av arbeidsavklaringspenger (AAP)». `https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger`.
 - **Lang serie:** `aap-alder-kjonn-desember/1a-alder-i-alt-antall.tsv` (desember hvert år, 2010–2025) og `aap-alder-kjonn-kvartal/` (siste kvartal Nav har publisert, i dag juni 2010–2026). Raden `I alt` er landet. Bruk desemberserien når AAP skal ses sammen med uføretrygd per 31. desember.
 - **Siste måneder:** `aap-alder-kjonn-maaned/` (inneværende år), `aap-fylke-alder-maaned/`, `aap-kommune-maaned/`, `aap-diagnose-*`.
+- **Tilgang og avgang:** `aap-tilgang-*-kvartal/` (nye mottakere, AAP380–382) og `aap-avgang-*-kvartal/` (avsluttede, AAP390–392), etter alder og kjønn, fylke og alder, og fylke og kjønn. Hver fil har samme kvartal hvert år fra 2010. Avgangstallene kommer ett kvartal senere enn tilgangen, så sjekk perioden øverst i filen.
+- **Unge mottakere:** `aap-unge-alder-fylke-kvartal/` (AAP310), antall og andel av befolkningen etter alder og fylke.
 - **Måler:** personer som har fått utbetalt AAP i løpet av måneden. Personer som bare får etterbetaling eller G-justering er tatt ut fra august 2020, og historikken er justert. Uteblir utbetalingen i to måneder på rad, telles personen som avgang selv om retten til AAP kan løpe videre.
 - **Andel av befolkningen:** befolkningen 18–66 år, med alder ved utgangen av måneden (Navs «Om statistikken – Mottakere av arbeidsavklaringspenger», kapittel 4). Aldersgrensen står ikke i tabellfilene, så oppgi den fra denne profilen.
 - **Små tall:** celler under 4 er erstattet med `*`.

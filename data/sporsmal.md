@@ -27,6 +27,8 @@ Hvem som eier kvaliteten: Nav, SSB, Eurostat og OECD eier tallene. Svaret skal a
 | Sykefravær i en næring/sektor/yrke/aldersgruppe/diagnose? | Nav `sykefravar-naering/`, `-sektor/`, `-yrke/`, `-alder/`, `-diagnose-hovedgrupper/` | Alle kvartaler i samme fil, kolonnen `kvartal`. |
 | Hvor mange er sykmeldte? | Nav `sykefravar-tidsserie-kvartal/antall-sykmeldte.tsv` | Unike personer i kvartalet. |
 | Hvor mange er på AAP? | Nav `aap-alder-kjonn-desember/1a-alder-i-alt-antall.tsv` (desember, 2010–2025), `aap-alder-kjonn-kvartal/` (siste kvartal), `aap-alder-kjonn-maaned/` (siste måneder) | Si hvilken måned tallet gjelder. |
+| Hvor mange kommer inn på eller går ut av AAP? | Nav `aap-tilgang-alder-kjonn-kvartal/`, `aap-avgang-alder-kjonn-kvartal/` (også etter fylke) | Samme kvartal hvert år fra 2010. Avgang ligger ett kvartal etter tilgang. |
+| Hvor mange unge er på AAP? | Nav `aap-unge-alder-fylke-kvartal/` | Antall og andel av befolkningen. |
 | Hvor mange er uføre? | Nav `uforetrygd-uforegrad-kjonn-maaned/antall.tsv` (siste måneder) | |
 | Hvordan har antall uføre utviklet seg? | Nav `uforetrygd-desember-kjonn-alder-antall/` (31.12 2016–2025), før 2016 `stonadsmottakere-2007-2016/` | Andel av befolkningen: `uforetrygd-desember-andel-kjonn-alder-prosent/`, aldersstandardisert per fylke: `uforetrygd-desember-andel-fylke-kjonn-aldersstandardisert-prosent/`. |
 | Hvor stor andel er uføre i mitt fylke? | Nav `uforetrygd-andel-fylke-alder-kvartal/fylke-og-alder.tsv` | Andel av befolkningen 18–67 år. |
