@@ -29,12 +29,12 @@ Feller:
 
 ## Svar på budsjettspørsmål fra Stortinget (`budsjett/ÅR/sporsmal/RUNDE/`)
 
-Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Lastes opp som samledokumenter fra Finansdepartementets system via `innboks-budsjett/`. Foreløpig er bare et utvalg av svarene til statsbudsjettet 2026 lagt inn. Svar som ikke er publisert på regjeringen.no, legges ikke inn. De står i `utelatt.txt` i mappen for runden.
+Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Et utvalg av svarene fra og med 2021 er lagt inn. Tekst og tabeller er hentet fra regjeringen.no og koblet med en intern oversikt som gir kapittel og post, kategori og departement (`verktoy/budsjett_sporsmal_json.py`). Statsbudsjettet 2026 kom fra samledokumentene fra Finansdepartementets system via `innboks-budsjett/` (`verktoy/budsjett_sporsmal.py`). Bare svar som er publisert på regjeringen.no, legges inn. Svarsiden for hver runde står i `budsjett/sporsmal-sider.tsv` og brukes til lenkene.
 
 | Fil | Innhold |
 |---|---|
 | `sporsmal.tsv` | Ett svar per rad: parti, spørsmålsnummer, dato, kategori, departement, kapittel og post slik spørsmålet oppgir det, kapittelnumrene (`kapitler`, skilt med semikolon), undertittel, antall tabeller og filnavn. Deretter feltene fra `felt.tsv`, se under. Start her og filtrer på `kapitler`, `type` eller `familie`, eller søk i `undertittel` og `tema`. |
-| `felt.tsv` | Håndført for hver runde og koblet inn i `sporsmal.tsv` ved hvert bygg: `type` (kostnad, statistikk, anslag, tildeling, tekst, henvisning), `tema`, `aar` (året eller perioden tallene gjelder), `forutsetninger` (G, prisnivå, innføringsdato og liknende), `grunnlag` (hvem som har laget tallene), `familie` (svar som regner på samme ordning), `se_ogsa` (beslektede svar), `publisert` (dato på regjeringen.no), `versjoner` (over 1 betyr at svaret er publisert flere ganger, ofte rettet) og `lenke` til svaret på regjeringen.no. |
+| `felt.tsv` | Publiseringsdato, versjoner og lenke fylles ut ved innleggingen. De andre feltene er håndført (foreløpig bare for statsbudsjettet 2026). Kobles inn i `sporsmal.tsv` ved hvert bygg: `type` (kostnad, statistikk, anslag, tildeling, tekst, henvisning), `tema`, `aar` (året eller perioden tallene gjelder), `forutsetninger` (G, prisnivå, innføringsdato og liknende), `grunnlag` (hvem som har laget tallene), `familie` (svar som regner på samme ordning), `se_ogsa` (beslektede svar), `publisert` (dato på regjeringen.no), `versjoner` (over 1 betyr at svaret er publisert flere ganger, ofte rettet) og `lenke` til svaret på regjeringen.no. |
 | `PARTI-NR.md` | Hele spørsmålet og svaret, med tabellene som Markdown-tabeller. |
 
 Feller:
@@ -45,6 +45,7 @@ Feller:
 - **Svarene er ikke uavhengige tidsserier.** Et kostnadsanslag gjelder forutsetningene i `forutsetninger` (G, prisnivå, innføringsdato). Statistikk i svar fra ulike år kan være revidert. Hent serien fra eieren av tallene (oftest Nav eller SSB) før svaret brukes som serie, og bruk `familie` for å finne andre svar som regner på det samme.
 - **`grunnlag` som begynner med «antatt:», er et beste anslag** på hvem som har laget tallene, når svaret ikke sier det selv. Oppgi det ikke som kilde.
 - **Lenk til svaret på regjeringen.no** med `lenke` når brukeren skal kunne kontrollere tallene. Er `versjoner` over 1, er det den nyeste versjonen som ligger i basen.
+- **Tabeller fra regjeringen.no kan mangle sammenslåtte celler.** En radoverskrift som gjelder flere rader, står bare på den første. Les tabellen i sammenheng, eller åpne svaret med `lenke`.
 - **Kapittel og post er partiets egen angivelse** og kan være upresis («D», «1.1», «Generelt»). `kapitler` er tom når feltet ikke har et kapittelnummer.
 
 ## Stortingets vedtak (`budsjett/ÅR/stortinget/`)
@@ -73,12 +74,12 @@ Feller:
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
 - **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
-- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
-- **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
-- **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
-- **2023:** Prop. 1 S AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`)
-- **2022:** Prop. 1 S AID (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`), Stortingets vedtak (`budsjett/2022/stortinget/`)
-- **2021:** Prop. 1 S AID (`budsjett/2021/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2021/stortinget/`)
+- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (69 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
+- **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (55 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (296 svar, `budsjett/2025/sporsmal/stb/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
+- **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (45 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (236 svar, `budsjett/2024/sporsmal/stb/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
+- **2023:** Prop. 1 S AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (59 svar, `budsjett/2023/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (252 svar, `budsjett/2023/sporsmal/stb/`)
+- **2022:** Prop. 1 S AID (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`), Stortingets vedtak (`budsjett/2022/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (47 svar, `budsjett/2022/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (195 svar, `budsjett/2022/sporsmal/stb/`)
+- **2021:** Prop. 1 S AID (`budsjett/2021/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2021/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (167 svar, `budsjett/2021/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (364 svar, `budsjett/2021/sporsmal/stb/`)
 <!-- AUTO-SLUTT budsjettår -->
 
 ## Budsjettår 2027

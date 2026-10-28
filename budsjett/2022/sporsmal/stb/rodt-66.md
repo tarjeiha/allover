@@ -1,0 +1,29 @@
+# Spørsmål nr. 66 fra Rødt til STB 2022
+
+- **Parti:** Rødt
+- **Spørsmålsnr:** 66
+- **Dato på spørsmålet:** 14.10.2021
+- **Kategori:** Norsk økonomi
+- **Kapittel og post:** 2651.75
+- **Departement:** ASD
+- **Tittel:** Svar på spørsmål 66 fra Finanskomiteen/Rødts fraksjon av 14.10.2021
+
+## Barnebriller - Kostnad for å sette til samme nivå som før 2019
+
+Hva koster det å sette støtten til barnebriller på samme nivå som før reduksjonen i 2019?
+
+## Svar
+
+Spørsmålet er forelagt Arbeids- og sosialdepartementet, som har gitt følgende svar:
+
+«Det legges til grunn at spørsmålet gjelder innføringen av nye retningslinjer for ordningen Briller til behandling og/eller forebygging av amblyopi fra 1. mars 2020. Disse retningslinjene erstattet retningslinjene for den tidligere ordningen Briller til barn/ungdom under 18 år.
+
+Utgiftene til briller til barn/ungdom under 18 år ble mer enn tredoblet i perioden 2008 til 2018. En gjennomgang foretatt av Arbeids- og velferdsdirektoratet viste at det var store variasjoner i praksis, herunder at det ble gitt støtte utover det som anses nødvendig og tilstrekkelig gitt formålet med ordningen. På denne bakgrunn ble nye retningslinjer utarbeidet, som trådte i kraft 1. mars 2020.
+
+De nye retningslinjene får klart frem at intensjonen med ordningen er forebygging og behandling av amblyopi, dvs. dovent øye, som er en tilstand der synet på ett øye er mye dårligere enn på det andre. Det er viktig å understreke at også i de tidligere retningslinjene var formålet knyttet til behov for briller til forebygging og behandling av amblyopi. De nye retningslinjene er imidlertid utformet slik at samtlige personer som står i fare for å utvikle amblyopi, nå er omfattet av ordningen. Søknader på ordinært grunnlag er forbeholdt barn under 10 år, fordi behovet for briller til behandling eller forebygging normalt opphører før fylte 10 år. Samtidig er det fortsatt mulig å få støtte etter denne alderen, dersom det kan dokumenteres av optiker eller øyelege at det er behov for briller til behandling eller forebygging. I de nye retningslinjene gjelder dette også for personer over 18 år.
+
+De nye retningslinjene medførte også at det ble innført to faste satser. Retningslinjene inneholder kriterier for de to faste satsene på hhv. 1 200 og 2 400 kroner og i hvilke tilfeller det kan gis stønad som overstiger satsene. Nye briller dekkes når disse blir slitt/ødelagt/mistet eller når synsstyrken endrer seg.
+
+De nye retningslinjene, herunder kriteriene for nivået på støtten, ble utarbeidet av personer med optikerfaglig kompetanse. I arbeidet var det dialog med fagmiljøer utenfor etaten og det ble innhentet prisinformasjon fra en rekke optikerkjeder.
+
+De nåværende retningslinjene er klart bedre enn de tidligere retningslinjene, gitt at formålet med ordningen både før og etter omleggingen er å gi støtte til briller til behandling og/eller forebygging av amblyopi. Det anses derfor som lite aktuelt å gå tilbake til de tidligere retningslinjene for ordningen og den tidligere praksisen for ordningen. Dersom en likevel skulle gjort det, er det rimelig å anta at utgiftene ville fortsatt å øke i samme takt som i perioden 2008 til 2018. I så fall kan utgiftene i 2022 av dette anslås til om lag 280 mill. kroner, noe som kan sammenlignes med at utgiftene etter dagens retningslinjer på usikkert grunnlag kan anslås til om lag 60 mill. kroner.»
