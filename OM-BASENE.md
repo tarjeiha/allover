@@ -41,7 +41,7 @@ Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn 
 ## Hva som ligger i den åpne basen
 
 <!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger for hånd -->
-Oversikten ble sist laget 2026-10-28.
+Oversikten ble sist laget 2026-10-29.
 
 ### Regelverk
 
@@ -55,11 +55,11 @@ Lov- og forskriftsteksten hentes fra Lovdata hver natt.
 
 ### Statsbudsjettet
 
-- **2021:** Prop. 1 S for AID og Stortingets vedtak.
-- **2022:** Prop. 1 S for AID, Prop. 1 S Tillegg 1, Gul bok og Stortingets vedtak.
-- **2023:** Prop. 1 S for AID, Gul bok og Stortingets vedtak.
-- **2024:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell) og Stortingets vedtak.
-- **2025:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell) og Stortingets vedtak.
+- **2021:** Prop. 1 S for AID, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2022:** Prop. 1 S for AID, Prop. 1 S Tillegg 1, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2023:** Prop. 1 S for AID, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2024:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2025:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
 - **2026:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
 - **2027:** Prop. 1 S for AID, Gul bok, bevilgninger fra Gul bok (tabell) og Nasjonalbudsjettet.
 - **Satstabeller over flere år:** grunnstønad og hjelpestønad.
@@ -76,10 +76,10 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 
 ### Stortinget
 
-Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-10-28:
+Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-10-29:
 
 - **4 088 anmodningsvedtak**
-- **40 025 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
+- **40 037 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
 - **2 825 representantforslag** med utfall
 
 ### Politiske grunnlagsdokumenter
