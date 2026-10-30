@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 21 – Saksbehandling"
 punkt: "21.3 Utveksling av opplysninger mellom berørte personer og institusjoner"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_20-3"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 21.3 Utveksling av opplysninger mellom berørte personer og institusjoner

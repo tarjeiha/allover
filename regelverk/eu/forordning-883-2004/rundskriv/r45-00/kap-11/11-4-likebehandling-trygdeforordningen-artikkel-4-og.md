@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 11 – Arbeidsavklaringspenger"
 punkt: "11.4. Likebehandling – trygdeforordningen artikkel 4 og artikkel 5"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_10-4"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 11.4. Likebehandling – trygdeforordningen artikkel 4 og artikkel 5

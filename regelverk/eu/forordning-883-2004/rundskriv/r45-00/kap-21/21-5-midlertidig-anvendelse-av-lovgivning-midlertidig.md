@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 21 – Saksbehandling"
 punkt: "21.5 Midlertidig anvendelse av lovgivning, midlertidig tilståelse av ytelser og midlertidig beregning av ytelser og avgifter"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_20-5"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 21.5 Midlertidig anvendelse av lovgivning, midlertidig tilståelse av ytelser og midlertidig beregning av ytelser og avgifter

@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 54 – Bidragsforskudd"
 punkt: "Kapittel 54 – Bidragsforskudd"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_29"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # Kapittel 54 – Bidragsforskudd
@@ -59,5 +59,3 @@ Det er ikke knyttet noen materielle vilkår til oppføringen i vedlegg 1. Når e
 ### 54.1.5 Bidragsforskudd og annen EØS-rett
 
 Selv om bidragsforskudd er unntatt fra trygdeforordningen, gjelder likevel annen EØS-rett.
-
-﻿2026-10-19T12:29:23.1440734Z

@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 33 – Barnetrygd"
 punkt: "33.8 Virkningstidspunkt for innvilgelse, endring og opphør av barnetrygd"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_27-8"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 33.8 Virkningstidspunkt for innvilgelse, endring og opphør av barnetrygd

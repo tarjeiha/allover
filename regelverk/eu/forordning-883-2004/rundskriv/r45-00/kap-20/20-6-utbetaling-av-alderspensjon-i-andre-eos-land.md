@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 20 – Alderspensjon"
 punkt: "20.6 Utbetaling av alderspensjon i andre EØS-land (eksport) – Trygdeforordningen artikkel 7"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_19-6"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 20.6 Utbetaling av alderspensjon i andre EØS-land (eksport) – Trygdeforordningen artikkel 7

@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 17 – Ytelser til gjenlevende ektefelle"
 punkt: "17.6 – Særregler om fradrag for forventet arbeidsinntekt"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_16-6"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 17.6 – Særregler om fradrag for forventet arbeidsinntekt
@@ -22,17 +22,67 @@ Gjenlevende ektefelle får pensjon både fra Norge og fra et annet EØS-land. Gj
 
 <div>
 
-|                                                        |                                   |     |        |             |
-|--------------------------------------------------------|-----------------------------------|-----|--------|-------------|
-| Faktisk trygdetid i Norge 17 år                        |                                   | =   | 144    | md\.        |
-| Faktisk trygdetid i det andre EØS-landet 9 år          |                                   | =   | 108    | md\.        |
-| Samlet faktiske EØS-trygdetid                          |                                   | =   | 252    | md\.        |
-| Pro rata brøk for grunnpensjon = 144/252.              |                                   |     |        |             |
-| Grunnlaget for fradraget for forventet arbeidsinntekt: |                                   |     |        |             |
-|                                                        | F = 120 000 x 144/252             | =   | 68 571 |             |
-|                                                        | – 1/2 G 27 085 x 144/252          | =   | 15 477 |             |
-|                                                        | Inntekt som fradraget beregnes av | =   | 53 094 |             |
-| Fradraget i norsk pensjon blir etter dette:            |                                   |     |        |             |
-|                                                        | 53 094 x 0,40 = 21 238: 12        | =   | 1 770  | kr. pr. md. |
+<table>
+<tbody>
+<tr>
+<td colspan="2">Faktisk trygdetid i Norge 17 år</td>
+<td>=</td>
+<td>144</td>
+<td>md.</td>
+</tr>
+<tr>
+<td colspan="2">Faktisk trygdetid i det andre EØS-landet 9 år</td>
+<td>=</td>
+<td>108</td>
+<td>md.</td>
+</tr>
+<tr>
+<td colspan="2">Samlet faktiske EØS-trygdetid</td>
+<td>=</td>
+<td>252</td>
+<td>md.</td>
+</tr>
+<tr>
+<td colspan="2">Pro rata brøk for grunnpensjon = 144/252.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Grunnlaget for fradraget for forventet arbeidsinntekt:</td>
+</tr>
+<tr>
+<td></td>
+<td>F = 120 000 x 144/252</td>
+<td>=</td>
+<td>68 571</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– 1/2 G 27 085 x 144/252</td>
+<td>=</td>
+<td>15 477</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Inntekt som fradraget beregnes av</td>
+<td>=</td>
+<td>53 094</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Fradraget i norsk pensjon blir etter dette:</td>
+</tr>
+<tr>
+<td></td>
+<td>53 094 x 0,40 = 21 238: 12</td>
+<td>=</td>
+<td>1 770</td>
+<td>kr. pr. md.</td>
+</tr>
+</tbody>
+</table>
 
 </div>

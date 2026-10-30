@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 12 – Uføretrygd"
 punkt: "12.6.5 Eksempler på beregning av uføretrygd etter EØS-reglene"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_11-6-5"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 12.6.5 Eksempler på beregning av uføretrygd etter EØS-reglene
@@ -33,7 +33,7 @@ Pensjonsgivende inntekt i tabellen er oppjustert med grunnbeløpet på virknings
 <col style="width: 20%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>2010</strong><br />
 <strong>Inntekt i Tyskland</strong><br />
 </td>
@@ -46,7 +46,7 @@ Pensjonsgivende inntekt i tabellen er oppjustert med grunnbeløpet på virknings
 <td><strong>2014</strong><br />
 <strong>Inntekt i Norge</strong></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Gjennomsnitt av inntekt i Norge i 2013 og 2014: (470 000 + 530 000) / 2 = 500 000 kroner</td>
 <td>Gjennomsnitt av inntekt i Norge i 2013 og 2014: (470 000 + 530 000) / 2 = 500 000 kroner</td>
 <td>Gjennomsnitt av inntekt i Norge i 2013 og 2014: (470 000 + 530 000) / 2 = 500 000 kroner</td>
@@ -152,7 +152,7 @@ Pensjonsgivende inntekt sist opptjent i Norge forut for uføretidspunktet var i 
 <col style="width: 25%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>2006</strong><br />
 <strong>Inntekt i Norge</strong></td>
 <td><strong>2007</strong><br />
@@ -162,7 +162,7 @@ Pensjonsgivende inntekt sist opptjent i Norge forut for uføretidspunktet var i 
 <td><strong>2009</strong><br />
 <strong>Inntekt i Norge</strong></td>
 </tr>
-<tr class="even">
+<tr>
 <td>450 000 kroner</td>
 <td>Gjennomsnitt av inntekt i Norge i 2006, 2008 og 2009: (450 000 + 475 000 + 475 000) / 3 = 466 667 kroner</td>
 <td>475 000 kroner</td>

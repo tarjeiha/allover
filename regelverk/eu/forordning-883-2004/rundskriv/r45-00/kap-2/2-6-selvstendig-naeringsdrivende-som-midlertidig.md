@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 2 – Regler om medlemskap og om hvilket lands lovgivning som skal anvendes"
 punkt: "2.6 Selvstendig næringsdrivende som midlertidig driver virksomhet i en annen medlemsstat – artikkel 12 (2)"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_2-6"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 2.6 Selvstendig næringsdrivende som midlertidig driver virksomhet i en annen medlemsstat – artikkel 12 (2)

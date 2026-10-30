@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 8 – Sykepenger"
 punkt: "8.3 Lovvalgsreglenes betydning for sykepenger – trygdeforordningen avd. II og gjennomføringsforordningen avd. II"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_8-3"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 8.3 Lovvalgsreglenes betydning for sykepenger – trygdeforordningen avd. II og gjennomføringsforordningen avd. II

@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 12 – Uføretrygd"
 punkt: "12.12 Eksport av uføretrygd til EØS-land – trygdeforordningen artikkel 7"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_11-12"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 12.12 Eksport av uføretrygd til EØS-land – trygdeforordningen artikkel 7

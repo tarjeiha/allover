@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 2 – Regler om medlemskap og om hvilket lands lovgivning som skal anvendes"
 punkt: "2.4.4 Lovvalg der arbeidstaker ikke utfører en vesentlig del av arbeidet i bostedslandet"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_2-4-4"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 2.4.4 Lovvalg der arbeidstaker ikke utfører en vesentlig del av arbeidet i bostedslandet
@@ -33,7 +33,7 @@ Dersom arbeidstakeren har to eller flere arbeidsgivere, og minst to av dem er h�
 <col style="width: 33%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Omfang av og hvor arbeid utføres</th>
 <th>Antall arbeidsgivere<br />
 (virksomheter)</th>
@@ -41,27 +41,27 @@ Dersom arbeidstakeren har to eller flere arbeidsgivere, og minst to av dem er h�
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Vesentlig del i bostedslandet</td>
 <td>En eller flere arbeidsgiver(e)</td>
 <td>Lovgivningen i bostedslandet jf. 13 (1) a)</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Mindre enn vesentlig del i bostedslandet</td>
 <td>Én arbeidsgiver</td>
 <td>Lovgivningen i landet der arbeidsgiveren hører hjemme, jf. 13 (1) b) i)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td>To eller flere arbeidsgivere som hører hjemme i samme land</td>
 <td>Lovgivningen i landet der arbeidsgiverne hører hjemme, jf. 13 (1) b) ii)</td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td>To eller flere arbeidsgivere som hører hjemme i to land, og det ene er bostedslandet</td>
 <td>Lovgivningen i landet der arbeidsgiveren(e) hører hjemme, men som ikke er bostedslandet, jf. 13 (1) b) iii)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td>To eller flere arbeidsgivere, og minst to av dem hører hjemme i forskjellige land, som ikke er bostedslandet</td>
 <td>Lovgivningen i bostedslandet, jf. 13 (1) b) iv)</td>

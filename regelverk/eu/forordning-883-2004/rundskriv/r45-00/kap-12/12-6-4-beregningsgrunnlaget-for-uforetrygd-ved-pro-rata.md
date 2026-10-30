@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 12 – Uføretrygd"
 punkt: "12.6.4 Beregningsgrunnlaget for uføretrygd ved pro rata-beregning – forskriften § 2"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_11-6-4"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 12.6.4 Beregningsgrunnlaget for uføretrygd ved pro rata-beregning – forskriften § 2
@@ -53,7 +53,7 @@ Pensjonsgivende inntekt i tabellen er oppjustert med grunnbeløpet på virknings
 <col style="width: 20%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>2008</strong><br />
 <strong>Ingen inntekt i Norge</strong></td>
 <td><strong>2009</strong><br />
@@ -65,7 +65,7 @@ Pensjonsgivende inntekt i tabellen er oppjustert med grunnbeløpet på virknings
 <td><strong>2012</strong><br />
 <strong>Inntekt i Norge</strong></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Gjennomsnitt av inntektene i Norge i 2010, 2011 og 2012: (340 000 + 350 000 + 390 000) / 3 =<br />
 360 000 kroner</td>
 <td>Gjennomsnitt av inntektene i Norge i 2010, 2011 og 2012: (340 000 + 350 000 + 390 000) / 3 =<br />
@@ -127,7 +127,7 @@ Pensjonsgivende inntekt i tabellen er oppjustert med grunnbeløpet på virknings
 <col style="width: 25%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>2009</strong><br />
 <strong>Ingen inntekt i Norge</strong></td>
 <td><strong>2010</strong><br />
@@ -137,7 +137,7 @@ Pensjonsgivende inntekt i tabellen er oppjustert med grunnbeløpet på virknings
 <td><strong>2012</strong><br />
 <strong>Inntekt i Norge</strong></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Gjennomsnitt av inntektene i Norge i 2011 og 2012:<br />
 (450 000 + 500 000) / 2 =<br />
 475 000 kroner</td>
@@ -177,7 +177,7 @@ Tabellen viser de fem siste årene før uføretidspunktet i juni 2019. Pensjonsg
 <col style="width: 20%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>2014</strong><br />
 <strong>Inntekt i Norge</strong></td>
 <td><strong>2015</strong><br />
@@ -189,7 +189,7 @@ Tabellen viser de fem siste årene før uføretidspunktet i juni 2019. Pensjonsg
 <td><strong>2018</strong><br />
 <strong>Ingen inntekt i Norge</strong></td>
 </tr>
-<tr class="even">
+<tr>
 <td>450 000 kroner</td>
 <td>Gjennomsnittet av inntektene i Norge i femårsperioden = 450 000 kroner</td>
 <td>Gjennomsnittet av inntektene i Norge i femårsperioden = 450 000 kroner</td>
@@ -222,7 +222,7 @@ Tabellen viser de fem siste årene før uføretidspunktet i juni 2019. Pensjonsg
 <col style="width: 20%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>2014</strong><br />
 <strong>Ingen inntekt i Norge, men inntekt i annet EØS-land</strong></td>
 <td><strong>2015</strong><br />
@@ -234,7 +234,7 @@ Tabellen viser de fem siste årene før uføretidspunktet i juni 2019. Pensjonsg
 <td><strong>2018</strong><br />
 <strong>Inntekt i Norge</strong></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Gjennomsnittet av inntektene i Norge i femårsperioden: (400 000 + 500 000 + 400 000) / 3 =<br />
 433 333 kroner</td>
 <td>Gjennomsnittet av inntektene i Norge i femårsperioden: (400 000 + 500 000 + 400 000) / 3 = 433 333 kroner</td>

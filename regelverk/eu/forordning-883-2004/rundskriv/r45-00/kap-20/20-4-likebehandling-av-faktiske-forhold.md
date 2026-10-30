@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 20 – Alderspensjon"
 punkt: "20.4 Likebehandling av faktiske forhold – trygdeforordningen art. 5"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_19-4"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 20.4 Likebehandling av faktiske forhold – trygdeforordningen art. 5

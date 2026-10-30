@@ -4,9 +4,9 @@ Rundskriv fra Arbeids- og velferdsdirektoratet (Nav) til trygdeforordningen (EF)
 
 Kilde: https://lovdata.no/nav/rundskriv/r45-00
 
-Sist endret hos Nav: 2026-10-19
+Sist endret hos Nav: 2026-10-30
 
-Sist endret 19.10.2026, se kapittel 9: punkt 9.4.4 Særlig om krav til norske institusjoner er tilføyd
+Sist endret 30.10.2025, se kapittel 4 Dagpenger. Det er gjort endringer i punkt 4.3.5 og 4.5.3. Punktene 4.5.1, 4.5.2 og 4.7.2.3 er helt omarbeidet
 
 Kapitlene følger folketrygdlovens kapitler (kapittel 8 gjelder sykepenger osv.). Kapittel 1 er en generell del om EØS-avtalen og forordningene, kapittel 2 gjelder medlemskap og lovvalg. Kapittel 33, 34 og 54 gjelder barnetrygd, kontantstøtte og bidragsforskudd.
 

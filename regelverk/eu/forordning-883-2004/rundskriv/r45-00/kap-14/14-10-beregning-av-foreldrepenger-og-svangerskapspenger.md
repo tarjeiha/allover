@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 14 – Ytelser ved svangerskap, fødsel og adopsjon"
 punkt: "14.10 Beregning av foreldrepenger og svangerskapspenger – trygdeforordningen artikkel 21 nr. 2 og artikkel 13 nr. 5 samt gjennomføringsforordningen artikkel 21."
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_13-10"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 14.10 Beregning av foreldrepenger og svangerskapspenger – trygdeforordningen artikkel 21 nr. 2 og artikkel 13 nr. 5 samt gjennomføringsforordningen artikkel 21.

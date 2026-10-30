@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 8 – Sykepenger"
 punkt: "8.9 Beregning av sykepenger – trygdeforordningen artikkel 21 nr. 2 og artikkel 13 nr. 5 samt gjennomføringsforordningen artikkel 21"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_8-9"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 8.9 Beregning av sykepenger – trygdeforordningen artikkel 21 nr. 2 og artikkel 13 nr. 5 samt gjennomføringsforordningen artikkel 21

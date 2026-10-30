@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 14 – Ytelser ved svangerskap, fødsel og adopsjon"
 punkt: "14.9 Likestilling av faktiske forhold – trygdeforordningen artikkel 5"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_13-9"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 14.9 Likestilling av faktiske forhold – trygdeforordningen artikkel 5

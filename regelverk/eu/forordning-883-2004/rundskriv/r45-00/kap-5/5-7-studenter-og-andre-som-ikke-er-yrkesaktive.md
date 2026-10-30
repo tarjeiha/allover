@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 5 – Rett til naturalytelser"
 punkt: "5.7 Studenter og andre som ikke er yrkesaktive"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_5-7"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 5.7 Studenter og andre som ikke er yrkesaktive

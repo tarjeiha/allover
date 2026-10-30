@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 3 – Beregning av pensjoner"
 punkt: "3.4 Overgang fra uføretrygd til alderspensjon etter kapittel 19 ved 67 år"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_3-4"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 3.4 Overgang fra uføretrygd til alderspensjon etter kapittel 19 ved 67 år

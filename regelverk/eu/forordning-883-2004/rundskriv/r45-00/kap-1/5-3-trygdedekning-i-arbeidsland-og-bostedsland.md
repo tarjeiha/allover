@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 1 – Om EØS-avtalen og dens bestemmelser om trygd"
 punkt: "5.3 Trygdedekning i arbeidsland og bostedsland"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_1-5-3"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 5.3 Trygdedekning i arbeidsland og bostedsland

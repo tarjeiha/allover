@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 1 – Om EØS-avtalen og dens bestemmelser om trygd"
 punkt: "2.4.5 Arbeidstakerforordningen artikkel 7.2 – rett til sosiale fordeler"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_1-2-4-5"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 2.4.5 Arbeidstakerforordningen artikkel 7.2 – rett til sosiale fordeler

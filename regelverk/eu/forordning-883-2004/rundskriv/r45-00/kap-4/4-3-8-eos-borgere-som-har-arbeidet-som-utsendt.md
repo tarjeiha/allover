@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 4 – Dagpenger"
 punkt: "4.3.8 EØS-borgere som har arbeidet som utsendt arbeidstaker i Norge og har sterk tilknytning til Norge"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_4-3-8"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 4.3.8 EØS-borgere som har arbeidet som utsendt arbeidstaker i Norge og har sterk tilknytning til Norge

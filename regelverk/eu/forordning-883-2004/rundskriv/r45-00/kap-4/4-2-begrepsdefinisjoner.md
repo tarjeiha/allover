@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 4 – Dagpenger"
 punkt: "4.2 Begrepsdefinisjoner"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_4-2"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 4.2 Begrepsdefinisjoner
@@ -22,9 +22,7 @@ Definisjonene i trygdeforordningen er i utgangspunktet gyldige for alle ytelser 
 - «familiemedlem»
   1.  1.  en person som defineres eller anerkjennes som familiemedlem eller betegnes som husholdningsmedlem etter lovgivningen som ligger til grunn for ytelsene,
       2.  med hensyn til naturalytelser i henhold til avdeling III kapittel 1 om ytelser ved sykdom og ytelser til mor ved svangerskap og fødsel og tilsvarende ytelser til far, en person som defineres eller anerkjennes som familiemedlem eller betegnes som husholdningsmedlem etter bostedsstatens lovgivning
-
   2.  dersom den lovgivning som får anvendelse i henhold til nr. 1, ikke skiller mellom familiemedlemmer og andre som lovgivningen gjelder for, skal ektefelle, mindreårige barn og forsørgede barn som har nådd myndighetsalder, anses som familiemedlemmer
-
   3.  dersom en person, etter lovgivningen som får anvendelse i henhold til nr. 1 og 2, anses som et familiemedlem eller et husholdningsmedlem bare dersom han/hun bor sammen med den som er medlem i trygdeordningen eller er pensjonist, skal dette vilkåret anses oppfylt dersom han/hun i hovedsak forsørges av medlemmet i trygdeordningen eller pensjonister
 - «bosted» stedet der en person til vanlig er bosatt
 - «opphold» midlertidig opphold

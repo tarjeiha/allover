@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 17 – Ytelser til gjenlevende ektefelle"
 punkt: "17.4 – Eksport av pensjon/overgangsstønad til gjenlevende"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_16-4"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 17.4 – Eksport av pensjon/overgangsstønad til gjenlevende

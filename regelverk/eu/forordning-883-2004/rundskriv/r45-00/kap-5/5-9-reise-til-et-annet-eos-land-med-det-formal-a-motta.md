@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 5 – Rett til naturalytelser"
 punkt: "5.9 Reise til et annet EØS-land med det formål å motta behandling under oppholdet (planlagt behandling)"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_5-9"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 5.9 Reise til et annet EØS-land med det formål å motta behandling under oppholdet (planlagt behandling)

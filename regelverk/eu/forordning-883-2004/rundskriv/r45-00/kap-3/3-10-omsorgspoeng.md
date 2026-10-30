@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 3 – Beregning av pensjoner"
 punkt: "3.10 Omsorgspoeng"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_3-10"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 3.10 Omsorgspoeng

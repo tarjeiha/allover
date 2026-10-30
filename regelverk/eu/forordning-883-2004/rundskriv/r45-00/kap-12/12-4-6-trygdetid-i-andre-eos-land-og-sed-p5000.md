@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 12 – Uføretrygd"
 punkt: "12.4. 6 Trygdetid i andre EØS-land og SED P5000"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_11-4-6"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 12.4. 6 Trygdetid i andre EØS-land og SED P5000
@@ -30,16 +30,16 @@ Perioder utover trygdetiden oppgitt på SED P5000 holdes utenfor pro rata-beregn
 
 <div>
 
-|        |                                                                                                                                                                                                                                                                                                                                                                   |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  |  |
+|----|----|
 | **A.** | **Vedkommende bor i et land med botidsbasert trygdesystem og mottar pensjon eller uføreytelse etter en ordning som er omfattet av trygdeforordning 883/2004 eller av Nordisk konvensjon om trygd** Botid frem til uføretidspunktet brukes til sammenlegging etter artikkel 6, hvis den kompetente institusjonen i det det aktuelle EØS-landet bekrefter perioden. |
 
 </div>
 
 <div>
 
-|        |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  |  |
+|----|----|
 | **B.** | **Vedkommende bor i et land med utelukkende yrkes- eller inntektsbasert opptjening, men mottar pensjon eller uføreytelse etter en ordning som er omfattet av trygdeforordning 883/2004** Hvis den kompetente institusjonen i det aktuelle EØS-landet bekrefter perioder med mottak av nevnte ytelser, skal disse likestilles med medlemskap i folketrygden med rett til uføretrygd og brukes til sammenlegging etter artikkel 6. |
 
 </div>
@@ -52,7 +52,7 @@ Perioder utover trygdetiden oppgitt på SED P5000 holdes utenfor pro rata-beregn
 <col style="width: 50%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>C.</strong></td>
 <td><strong>Vedkommende har vært i arbeid utover aldersgrensen for pensjonsopptjening i et land med utelukkende yrkes- eller inntektsbasert opptjening</strong> Arbeidsperioder brukes til sammenlegging etter artikkel 6 selv om vedkommende var over aldersgrensen for pensjonsopptjening i arbeidslandet, forutsatt at periodene bekreftes av den kompetente institusjonen i det aktuelle EØS-landet.<br />
 </td>

@@ -3,181 +3,79 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 4 – Dagpenger"
 punkt: "4.5. Beregning etter EØS-reglene"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_4-5"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 4.5. Beregning etter EØS-reglene
 
 Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00). Kapittel 4 – Dagpenger. Dette er ikke lov-, forskrifts- eller rettsaktstekst.
 
-## 4.5.1 Beregning av minsteinntekt for rett til dagpenger
+## 4.5.1 Beregning av minsteinntekt for rett til dagpenger – folketrygdloven § 4-4
 
-\[Endret 1/24\]
+\[Omarbeidet 10/26\]
 
-Arbeidsperioder utført som arbeidstaker og likestilte perioder i andre EØS-land, likestilles med kravet om minste arbeidsinntekt (kvalifikasjonskravet) i folketrygdloven § 4-4. *Dette gjelder tilsvarende for et medlem som omfattes av EØS/EFTA-landenes konvensjon om trygdekoordinering med Storbritannia.*
+Arbeidsperioder utført som arbeidstaker og likestilte perioder i andre EØS-land, inngår i grunnlaget for beregning av kravet om minste arbeidsinntekt i [folketrygdloven § 4-4](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-4). Dette gjelder tilsvarende for et medlem som omfattes av EØS/EFTA-landenes konvensjon om trygdekoordinering med Storbritannia, samt konvensjon om trygdekoordinering med Sveits. Se rundskrivene til disse konvensjonene.
 
-Arbeidsperioder fra et annet EØS-land skal legges sammen med eventuell arbeidsinntekt i Norge for å oppfylle kravet til minsteinntekt. Den norske arbeidsinntekten må da omregnes til arbeidsperioder.
+Det følger av trygdeforordningen artikkel 61 hvilke rettigheter som kan overføres. Etter sin ordlyd regulerer ikke artikkel 61 direkte situasjoner hvor det er krav om at arbeidssøkeren har hatt en bestemt arbeidsinntekt utbetalt innenfor en fastsatt referanseperiode. Selv om artikkel 61 bruker begrepet “tid”, er det lagt til grunn at sammenleggingsreglene også gjelder arbeidsinntekt fra annet EØS-land. Vilkårene for overføring av arbeidsinntekt fra et annet EØS-land er nærmere beskrevet i dette rundskrivets punkt 4.4.
 
-Kvalifikasjonskravet anses oppfylt når det kan dokumenteres at søkeren før søknad om dagpenger settes frem har hatt arbeid eller likestilte perioder i et annet EØS-land tilsvarende fulltid i minst:
+Endringene i [dagpengeforskriften kapittel 13](https://lovdata.no/nav/forskrift/1998-09-16-890/kap13) fra 1. november 2026 innebærer at minsteinntekstkravet skal beregnes på grunnlag av faktiske inntekter, uavhengig av om beregningen skjer på bakgrunn av arbeidsperioder i Norge eller et annet EØS-land. Reglene for beregning av dagpengegrunnlaget er ikke endret.
 
-- 16 uker i løpet av de siste 12 avsluttede kalendermånedene
+Artikkel 90 i forordning [(EF) nr. 987/2007](https://lovdata.no/nav/eu/32007r0987) (gjennomføringsforordningen) gir nærmere regler om valutaomregning i forbindelse med trygdekoordinering. Etter bestemmelsen skal valutakursen som er fastsatt av Den europeiske sentralbanken (ECB) benyttes når utenlandsk inntekt omregnes til norske kroner. Valutakurser offentliggjøres i De Europeiske Unions Tidende. Valutakursen for en gitt dato kan man finne i ECBs valutakonverteringsverktøy, og i EURLex.
 
-eller
+Utenlandsinntekt skal ikke indekseres til norsk lønnsnivå.
 
-- 32 uker i løpet av de 36 siste avsluttede kalendermånedene
+Den administrative kommisjon for koordinering av trygdeordninger har i beslutning nr. H12 gitt nærmere regler om hvilken dato som skal benyttes ved fastsettelsen av vekslingskursen. Det følger av punkt 3 i beslutning nr. H12 at der den nasjonale lovgivningen knytter retten til en ytelse til inntekt eller ytelser som er mottatt innenfor en bestemt referanseperiode, skal man bruke vekslingskursen som offentliggjøres av ECB på den siste dagen i referanseperioden.
 
-Ved vurderingen av hva som anses som fulltidsarbeid, ses det hen til hva som vanligvis anses som fulltidsarbeid i det andre EØS-landet. Foreligger ikke opplysninger om dette, anses fulltidsarbeid å være 37,5 timer per uke.
+Beløpet avrundes til to desimaler etter vanlige avrundingsregler.
 
-Dersom arbeidsperiodene som overføres er fra en deltidsstilling i det andre EØS-landet, må den totale arbeidsperioden reduseres, slik at den tilsvarer full sysselsetting. Dette betyr at 32 uker i 50 prosent stilling regnes som 16 uker i 100 prosent stilling.
+**Eksempel:**
 
-Det er ikke krav om at ukene må ha vært utført sammenhengende.
+I eksempelet legges det til grunn at vilkårene for sammenlegging etter artikkel 61 er oppfylt, fordi vedkommende har blitt arbeidsledig fra et arbeidsforhold i Norge. Arbeids- og forsikringsperioder fra det andre EØS-landet kan derfor tas i betraktning ved vurderingen av minsteinntektskravet etter folketrygdloven § 4-4.
 
-I de tilfeller hvor NAV trenger en SED U002 bes det samtidig om en SED U004 fra det tidligere arbeidsland, for å få opplysninger om lønn og timer.
+En person søker om dagpenger 15. oktober 2026. I de siste 12 avsluttede kalendermånedene (oktober 2025 til september 2026) har vedkommende hatt arbeidsinntekt i Norge på kr 150 000.
 
-### 4.5.1.2 Beregning av minsteinntekt, sammenlegging med arbeidsinntekt fra Norge
+I tillegg har vedkommende hatt arbeidsinntekt i et annet EØS-land på EUR 49 999 og mottatt foreldrepenger på EUR 999 i perioden oktober 2023 til september 2025.
 
-Ved sammenlegging av arbeidsinntekt i Norge og arbeidsperioder fra annet EØS-land, må den norske arbeidsinntekten beregnes etter folketrygdloven § 4-4, og de utenlandske periodene beregnes etter artikkel 62. Se også dagpengeforskriften § 13-1.
+Arbeidsinntekten og de likestilte ytelsene fra det andre EØS-landet skal omregnes til norske kroner ved bruk av valutakursen som ECB har offentliggjort den siste dagen i referanseperioden. Valutakursen 30. september 2025 var 11,7265.
 
-Beløpet som går fram av vilkåret i folketrygdloven § 4-4 divideres på henholdsvis 16 eller 32 uker for å finne en gjennomsnittlig arbeidsinntekt i Norge per uke (1,5G/16 eller 3G/32).
+Arbeidsinntekten på EUR 49 999 omregnes til kr 586 313,274 og foreldrepenger på EUR 999 omregnes til kr 11 714,7735. Etter avrunding til to desimaler etter vanlige avrundingsregler blir beløpene henholdsvis kr 586 313,27 og kr 11 714,77.
 
-Arbeidsinntekten vedkommende har hatt i Norge skal deretter divideres på den gjennomsnittlige arbeidsinntekten i Norge per uke.
+Samlet arbeidsinntekt og likestilte ytelser i de siste 36 avsluttede kalendermånedene utgjør dermed:
 
-<u>Eksempel 1:</u>
+- arbeidsinntekt i Norge: kr 150 000,00
+- omregnet arbeidsinntekt fra annet EØS-land: kr 586 313,27
+- omregnede foreldrepenger fra annet EØS-land: kr 11 714,77
 
-En dagpengesøker søker om dagpenger den 15. august 2019, og har i de 12 siste avsluttede kalendermånedene, august 2018 – juli 2019 hatt en arbeidsinntekt på 129 000 kroner i Norge. I tillegg har vedkommende levert inn attest U1 hvor det går fram at vedkommende i de samme 12 avsluttede kalendermånedene har arbeidet fulltid i et annet EØS-land i 11 uker.
+**Samlet arbeidsinntekt og likestilte ytelser:** kr 748 028,04
 
-<div>
+Grunnbeløpet i 2026 er kr 136 549.
 
-|                                                      |                  |
-|------------------------------------------------------|------------------|
-| Arbeidsinntekt per uke:                              |                  |
-| Grunnbeløpet (fra 1. mai 2019) 99 858 kroner\*1,5/16 | = 9361,69 kroner |
+- 1,5 G = kr 204 823
+- 3 G = kr 409 647
 
-</div>
+Vedkommende oppfyller ikke minsteinntektskravet på 1,5 G på grunnlag av arbeidsinntekten i Norge alene. Når den omregnede arbeidsinntekten og de likestilte ytelsene fra det andre EØS-landet tas med i beregningen, utgjør samlet arbeidsinntekt og likestilte ytelser i de siste 36 avsluttede kalendermånedene kr 748 028,04. Dette overstiger minsteinntektskravet på 3 G. Vilkåret om minsteinntekt etter [folketrygdloven § 4-4](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-4) er derfor oppfylt.
 
-<div>
+## 4.5.2 Beregning av stønadsperiodens lengde – folketrygdloven § 4-15
 
-|                                                    |                    |
-|----------------------------------------------------|--------------------|
-| Basert på de siste 12 avsluttede kalendermånedene: |                    |
-| Inntekt i Norge 129 000 kroner/9 361,69 kroner     | = 13,8 uker        |
-| <u>Arbeidsperioder fra annet EØS-land</u>          | = <u>11,0 uker</u> |
-| Sum                                                | = 24,8 uker        |
+\[Omarbeidet 10/26\]
 
-</div>
+Etter opphevelsen av [dagpengeforskriften § 13-2](https://lovdata.no/nav/forskrift/1998-09-16-890/%C2%A713-2) fra 1. november 2026 finnes det ikke lenger noen egen regel for beregning av stønadsperiodens lengde for brukere med opptjening (delvis) i et annet land.
 
-Kravet til minsteinntekt er oppfylt.
+Stønadsperiodens lengde vurderes etter folketrygdloven § 4-15 på samme måte som for brukere med opptjening i Norge. Grunnlaget for beregningen er størrelsen på brukers faktiske arbeidsinntekt. Denne beregnes som beskrevet i rundskrivets punkt 4.5.1.
 
-<u>Eksempel 2:</u>
+**Eksempel:**
 
-En dagpengesøker søker om dagpenger den 15. august 2019, og har i de 12 siste avsluttede kalendermånedene, august 2018 – juli 2019 hatt en arbeidsinntekt på 89 000 kroner i Norge. Dagpengesøkeren har ikke hatt arbeid i et annet EØS-land i løpet av disse 12 kalendermånedene.
+Det vises til eksempelet i punkt 4.5.1. Samlet inntekt fra arbeids- og trygdeperioder fra Norge og andre EØS-land utgjør kr 748 028,04. Når vilkårene for sammenlegging etter artikkel 61 er oppfylt, inngår disse inntektene ved vurderingen etter [folketrygdloven § 4-15](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-15). Siden inntekten overstiger 2 G, har personen rett til en stønadsperiode på 104 uker.
 
-I tillegg har vedkommende levert inn attest U1 hvor det går fram at vedkommende har arbeidet fulltid i et annet EØS-land i 18 uker til sammen i løpet av de siste 36 avsluttede kalendermånedene. Disse ukene jobbet søkeren i perioden august 2016 – juli 2018.
+## 4.5. 3 Beregning av dagpengegrunnlag – folketrygdloven § 4-11
 
-<div>
-
-|                                                      |                  |
-|------------------------------------------------------|------------------|
-| Arbeidsinntekt per uke:                              |                  |
-| Grunnbeløpet (fra 1. mai 2019) 99 858 kroner\*1,5/16 | = 9361,69 kroner |
-
-</div>
-
-<div>
-
-|                                                    |                    |
-|----------------------------------------------------|--------------------|
-| Basert på de 36 siste avsluttede kalendermånedene: |                    |
-| Inntekt i Norge 89 000 kroner/9 361,69 kroner      |                    |
-|                                                    | = 9,5 uker         |
-| <u>Arbeidsperioder fra annet EØS-land</u>          | = <u>18,0 uker</u> |
-| Sum                                                | = 27,5 uker        |
-
-</div>
-
-### 4.5.1.3 Beregning av stønadsperiodens varighet
-
-\[Tilføyd 3/25\]
-
-Dagpengesøkere med arbeidsperioder i andre EØS-land, kan mangle tilstrekkelig arbeidsinntekt fra Norge for å oppnå en dagpengeperiode på til sammen 104 uker jf. folketrygdloven § 4-15. Disse dagpengesøkerne kan få fastsatt stønadsperiodens lengde, basert på arbeidsperiodene utført som arbeidstaker og likestilte perioder i Norge og andre EØS-land.
-
-Arbeidsperioder fra et annet EØS-land skal legges sammen med eventuell arbeidsinntekt i Norge for å vurdere stønadsperiodens varighet etter folketrygdloven § 4-15. Den norske arbeidsinntekten må da omregnes til arbeidsperioder.
-
-Det ytes hele eller graderte dagpenger i en full stønadsperiode på til sammen 104 uker, dersom det kan dokumenteres at søkeren før søknad om dagpenger settes frem har hatt arbeid eller likestilte perioder i et annet EØS-land tilsvarende fulltid i minst:
-
-- 21 uker i løpet av de siste 12 avsluttede kalendermånedene
-
-eller
-
-- 21 uker i gjennomsnitt i løpet av de 36 siste avsluttede kalendermånedene
-
-Ved vurderingen av hva som anses som fulltidsarbeid, ses det hen til hva som vanligvis anses som fulltidsarbeid i det andre EØS-landet. Foreligger ikke opplysninger om dette, anses fulltidsarbeid å være 37,5 timer per uke.
-
-Dersom arbeidsperiodene som overføres er fra en deltidsstilling i det andre EØS-landet, må den totale arbeidsperioden reduseres, slik at den tilsvarer full sysselsetting. Dette betyr at 42 uker i 50 prosent stilling regnes som 21 uker i 100 prosent stilling.
-
-Det er ikke krav om at ukene må ha vært utført sammenhengende.
-
-I de tilfeller hvor Nav trenger en SED U002 bes det samtidig om en SED U004 fra det tidligere arbeidslandet, for å få opplysninger om lønn og timer.
-
-### 4.5.1.4 Beregning av stønadsperiodens varighet, sammenlegging med arbeidsinntekt fra Norge
-
-\[Tilføyd 3/25\]
-
-Ved sammenlegging av arbeidsinntekt i Norge og arbeidsperioder fra annet EØS-land, må den norske arbeidsinntekten beregnes etter folketrygdloven § 4-15, og de utenlandske periodene beregnes etter artikkel 62. Antall stønadsuker etter dagpengeforskriften § 13-2 beregnes på samme måte som kvalifikasjonskravet etter dagpengeforskriften § 13-1.
-
-Beløpet som går fram av vilkåret i folketrygdloven § 4-15 deles på 21 uker for å finne en gjennomsnittlig arbeidsinntekt i Norge per uke (2G/21).
-
-Arbeidsinntekten vedkommende har hatt i Norge skal deretter deles på den gjennomsnittlige arbeidsinntekten i Norge per uke.
-
-<u>Eksempel 1:</u>
-
-En arbeidsledig søker om dagpenger den 15. august 2024, og har i de 12 siste avsluttede kalendermånedene, august 2023 – juli 2024 hatt en arbeidsinntekt på 139 000 kroner i Norge. I tillegg har vedkommende levert inn attest U1 hvor det går fram at vedkommende i løpet av de samme 12 avsluttede kalendermånedene har arbeidet fulltid i et annet EØS-land i 11 uker.
-
-Arbeidsinntekt per uke:
-
-Grunnbeløpet (fra 1. mai 2024) 124 028 kroner\*2/21 = 11 812,19 kroner
-
-Basert på de siste 12 avsluttede kalendermånedene:
-
-Inntekt i Norge 139 000 kroner/11 812,19 kroner = 11,8 uker
-
-<u>Arbeidsperioder fra annet EØS-land</u> = <u>11,0 uker</u>
-
-Sum = 22,8 uker
-
-Dagpengesøkeren har hatt mer enn 21 ukers fulltidsarbeid de siste tolv månedene. Det ytes derfor hele eller graderte dagpenger i en stønadsperiode på til sammen 104 uker.
-
-<u>Eksempel 2:</u>
-
-En arbeidsledig søker om dagpenger den 15. august 2024, og har i de 12 siste avsluttede kalendermånedene, august 2023 – juli 2024 hatt en arbeidsinntekt på 99 000 kroner i Norge. Dagpengesøkeren har ikke hatt arbeid i et annet EØS-land i løpet av disse 12 kalendermånedene. Vilkåret om arbeidsinntekt på minst 2G er ikke oppfylt ut fra arbeidsinntekten i denne perioden.
-
-I tillegg har vedkommende levert inn attest U1 hvor det går fram at vedkommende har arbeidet fulltid i et annet EØS-land i 48 uker til sammen i løpet av de siste 36 avsluttede kalendermånedene. Arbeidet i det andre EØS-landet ble utført i perioden august 2021 – juli 2023.
-
-Arbeidsinntekt per uke:
-
-Grunnbeløpet (fra 1. mai 2024) 124 028 kroner\*2/21 = 11 812,19 kroner
-
-Basert på de 36 siste avsluttede kalendermånedene:
-
-Inntekt i Norge 99 000 kroner/11 812,19 kroner = 8,4 uker
-
-Arbeidsperioder fra annet EØS-land = 48,0 uker
-
-<u>Sum arbeidsperioder siste 36 måneder</u> <u>= 56,4 uker</u>
-
-Gjennomsnitt siste 36 måneder 56,4/3 = 18,8 uker
-
-Dagpengesøkeren har ikke hatt mer enn 21 ukers fulltidsarbeid i gjennomsnitt de siste 36 månedene. Det ytes derfor hele eller graderte dagpenger i en stønadsperiode på til sammen 52 uker.
-
-## 4.5.2 Beregning av dagpengegrunnlag
-
-\[Endret 3/25\]
+\[Endret 3/25, 10/26 – kun overskrift\]
 
 Arbeidsperioder utført som arbeidstaker og likestilte perioder i andre EØS-land eller Sveits, skal regnes med i beregningen av dagpengegrunnlaget etter folketrygdloven § 4-11.
 
-Likestilte perioder er perioder vedkommende har mottatt ytelser i et annet EØS-land som tilsvarer en ytelse som skal likestilles ved utregning av dagpengegrunnlaget i Norge. Se folketrygdloven § 4-1*1.*
+Likestilte perioder er perioder vedkommende har mottatt ytelser i et annet EØS-land som tilsvarer en ytelse som skal likestilles ved utregning av dagpengegrunnlaget i Norge. Se folketrygdloven § 4-11.
 
-### 4 .5.2.1 Beregning inkludert sammenlegging når siste arbeidsforhold var i Norge
+### 4.5. 3 .1 Beregning inkludert sammenlegging når siste arbeidsforhold var i Norge
 
 Dersom siste arbeidsforhold var i Norge, skal inntekten vedkommende hadde i sitt siste arbeid i Norge legges til grunn for beregningen.
 
@@ -280,7 +178,7 @@ Gjennomsnittlig arbeidsinntekt for de 36 siste avsluttede kalendermånedene blir
 
 Beregning basert på de siste 12 avsluttede kalendermånedene skal velges fordi det gir høyest dagpengegrunnlag.
 
-### 4.5.2.2 Beregning når siste arbeidsforhold var i annet EØS-land
+### 4.5. 3 .2 Beregning når siste arbeidsforhold var i annet EØS-land
 
 \[Omarbeidet 3/25\]
 
@@ -290,7 +188,7 @@ Dagpenger for denne gruppen beregnes derfor fullt ut etter reglene i folketrygdl
 
 Dersom dagpengesøkerens siste arbeidsforhold ikke var i Norge legges inntekten i arbeidslandet til grunn (omregnet til norsk valuta).
 
-### 4.5.2.3 Barnetillegg
+### 4.5. 3 .3 Barnetillegg
 
 \[Endret 1/24\]
 
@@ -302,7 +200,7 @@ NAV har anledning til å anmode om SED U006 fra myndighetene i barnets bostedsla
 
 For medlemmer som er omfattet av EØS/EFTA-landenes seperasjonsavtale med Storbritannia *eller av EØS/EFTA-landenes konvensjon om trygdekoordinering med Storbritannia,* ytes barnetillegg etter de vanlige reglene som nevnt i forskrift om dagpenger under arbeidsløshet § 7-2 for barn som oppholder seg i Storbritannia.
 
-### 4.5.2.4 Verneplikt i annet EØS-land
+### 4.5. 3 .4 Verneplikt i annet EØS-land
 
 \[Tilføyd 3/25\]
 
@@ -310,7 +208,7 @@ Tidsrom med avtjent verneplikt i et annet EØS-land kan legges sammen med arbeid
 
 For hvordan utføre beregningen, se punkt 4.5.2.1.
 
-## 4.5.3 Sanksjoner
+## 4.5. 4 Sanksjoner
 
 NAV må vurdere om folketrygdlovens §§ 4-10 og 4-20 kommer til anvendelse ved søknad om dagpenger etter arbeid i annet EØS-land. Ønske om å flytte tilbake til Norge anses ikke alene som rimelig grunn til å si opp arbeid i utlandet.
 

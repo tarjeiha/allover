@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 6 – Grunnstønad og hjelpestønad"
 punkt: "6.7. Nærmere om eksportabilitet – artikkel 7"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_6-7"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 6.7. Nærmere om eksportabilitet – artikkel 7

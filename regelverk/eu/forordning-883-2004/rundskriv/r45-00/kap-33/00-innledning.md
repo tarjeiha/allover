@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 33 – Barnetrygd"
 punkt: "Kapittel 33 – Barnetrygd (innledning)"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_27"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # Kapittel 33 – Barnetrygd (innledning)

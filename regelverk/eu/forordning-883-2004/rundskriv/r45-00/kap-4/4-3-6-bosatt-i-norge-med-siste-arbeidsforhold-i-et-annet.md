@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 4 – Dagpenger"
 punkt: "4.3.6 Bosatt i Norge med siste arbeidsforhold i et annet EØS-land"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_4-3-6"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 4.3.6 Bosatt i Norge med siste arbeidsforhold i et annet EØS-land

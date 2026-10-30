@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 1 – Om EØS-avtalen og dens bestemmelser om trygd"
 punkt: "3 EØS-avtalens geografiske virkeområde"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_1-3"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 3 EØS-avtalens geografiske virkeområde
@@ -52,25 +52,25 @@ Forholdet mellom forordningen og andre avtaler er omhandlet i rundskrivet punkt 
 
 <div>
 
-|                   |               |                  |                                        |               |                  |
-|-------------------|---------------|------------------|----------------------------------------|---------------|------------------|
-| **Land**          | **EØS f.o.m** | **Avtale f.o.m** | **Land**                               | **EØS f.o.m** | **Avtale f.o.m** |
-| **Belgia**        | 01.01.1994    |                  | **Malta**                              | 01.05.2004    |                  |
-| **Bulgaria**      | 01.08.2007    |                  | **Nederland**                          | 01.01.1994    | 01.01.1990       |
-| **Danmark**       | 01.01.1994    | 01.01.1956       | **Polen**                              | 01.05.2004    |                  |
-| **Estland**       | 01.05.2004    |                  | **Portugal**                           | 01.01.1994    | 01.09.1981       |
-| **Finland**       | 01.01.1994    | 01.01.1956       | **Romania**                            | 01.08.2007    |                  |
-| **Frankrike**     | 01.01.1994    | 01.07.1956       | **Slovakia**                           | 01.05.2004    |                  |
-| **Hellas**        | 01.01.1994    | 01.06.1983       | **Slovenia**                           | 01.05.2004    | 01.08.1976       |
-| **Irland**        | 01.01.1994    |                  | **Spania**                             | 01.01.1994    |                  |
-| **Island**        | 01.01.1994    | 01.01.1956       | **Storbritannia**                      | 01.01.1994    | 01.01.1958       |
-| **Italia**        | 01.01.1994    | 01.02.1962       | **Sverige**                            | 01.01.1994    | 01.01.1956       |
-| **Kroatia**       | 1*2*.04.2014  | 01.08.1976       | **Sveits**<sup>15</sup> | 01.06.2002    | 01.11.1980       |
-| **Kypros**        | 01.05.2004    |                  | **Tsjekkia**                           | 01.05.2004    |                  |
-| **Latvia**        | 01.05.2004    |                  | **Tyskland**                           | 01.01.1994    |                  |
-| **Litauen**       | 01.05.2004    |                  | **Ungarn**                             | 01.05.2004    |                  |
-| **Liechtenstein** | 01.01.1994    |                  | **Østerrike**                          | 01.01.1994    | 01.09.1985       |
-| **Luxembourg**    | 01.01.1994    | 01.01.1992       |                                        |               |                  |
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| **Land** | **EØS f.o.m** | **Avtale f.o.m** | **Land** | **EØS f.o.m** | **Avtale f.o.m** |
+| **Belgia** | 01.01.1994 |  | **Malta** | 01.05.2004 |  |
+| **Bulgaria** | 01.08.2007 |  | **Nederland** | 01.01.1994 | 01.01.1990 |
+| **Danmark** | 01.01.1994 | 01.01.1956 | **Polen** | 01.05.2004 |  |
+| **Estland** | 01.05.2004 |  | **Portugal** | 01.01.1994 | 01.09.1981 |
+| **Finland** | 01.01.1994 | 01.01.1956 | **Romania** | 01.08.2007 |  |
+| **Frankrike** | 01.01.1994 | 01.07.1956 | **Slovakia** | 01.05.2004 |  |
+| **Hellas** | 01.01.1994 | 01.06.1983 | **Slovenia** | 01.05.2004 | 01.08.1976 |
+| **Irland** | 01.01.1994 |  | **Spania** | 01.01.1994 |  |
+| **Island** | 01.01.1994 | 01.01.1956 | **Storbritannia** | 01.01.1994 | 01.01.1958 |
+| **Italia** | 01.01.1994 | 01.02.1962 | **Sverige** | 01.01.1994 | 01.01.1956 |
+| **Kroatia** | 1*2*.04.2014 | 01.08.1976 | **Sveits**<sup>15</sup> | 01.06.2002 | 01.11.1980 |
+| **Kypros** | 01.05.2004 |  | **Tsjekkia** | 01.05.2004 |  |
+| **Latvia** | 01.05.2004 |  | **Tyskland** | 01.01.1994 |  |
+| **Litauen** | 01.05.2004 |  | **Ungarn** | 01.05.2004 |  |
+| **Liechtenstein** | 01.01.1994 |  | **Østerrike** | 01.01.1994 | 01.09.1985 |
+| **Luxembourg** | 01.01.1994 | 01.01.1992 |  |  |  |
 
 </div>
 

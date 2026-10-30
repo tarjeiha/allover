@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 3 – Beregning av pensjoner"
 punkt: "3.3 Beregning av pensjon etter EØS-reglene"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_3-3"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 3.3 Beregning av pensjon etter EØS-reglene
@@ -118,11 +118,11 @@ Gretes opptjening:
 
 <div>
 
-|                                                                     |     |     |      |
-|---------------------------------------------------------------------|-----|-----|------|
-| Faktisk trygdetid i Norge: 18 år 7 md. 17 dager                     | =   | 224 | mnd. |
-| Faktisk trygdetid i andre EØS-land: 6 år<sup>1</sup> | =   | 64  | mnd. |
-| Samlet faktisk «EØS-trygdetid» 24 år                                | =   | 288 | mnd. |
+|  |  |  |  |
+|----|----|----|----|
+| Faktisk trygdetid i Norge: 18 år 7 md. 17 dager | = | 224 | mnd. |
+| Faktisk trygdetid i andre EØS-land: 6 år<sup>1</sup> | = | 64 | mnd. |
+| Samlet faktisk «EØS-trygdetid» 24 år | = | 288 | mnd. |
 
 </div>
 
@@ -130,11 +130,11 @@ Etter «EØS-trygdetiden» er vilkårene for full fremtidig trygdetid oppfylt. G
 
 <div>
 
-|                                                                                                   |     |     |         |
-|---------------------------------------------------------------------------------------------------|-----|-----|---------|
-| Poengopptjening i Norge i årene 2003-2015                                                         | =   | 13  | poengår |
-| Arbeidsinntekt («poengår») i andre EØS-land fra 1.5.2015 til 1.5. 2021<sup>1</sup> | =   | 5   | poengår |
-| Samlet antall faktiske «EØS-poengår»                                                              |     | 18  | Poengår |
+|  |  |  |  |
+|----|----|----|----|
+| Poengopptjening i Norge i årene 2003-2015 | = | 13 | poengår |
+| Arbeidsinntekt («poengår») i andre EØS-land fra 1.5.2015 til 1.5. 2021<sup>1</sup> | = | 5 | poengår |
+| Samlet antall faktiske «EØS-poengår» |  | 18 | Poengår |
 
 </div>
 

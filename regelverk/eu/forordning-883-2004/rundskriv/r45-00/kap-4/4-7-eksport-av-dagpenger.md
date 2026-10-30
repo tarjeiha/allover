@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 4 – Dagpenger"
 punkt: "4.7. Eksport av dagpenger"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_4-7"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 4.7. Eksport av dagpenger
@@ -50,14 +50,27 @@ Se avsnitt om feil veiledning fra NAV under punkt 7.3 som omhandler avslag.
 
 ### 4.7.2.3 Unntak fra kravet om å ha stått tilmeldt NAV i fire uker
 
-NAV kan gjøre unntak fra kravet om å ha stått tilmeldt NAV i fire uker i følgende tilfeller:
+\[Omarbeidet 10/26\]
 
-- Dersom arbeidssøkeren skal følge sin ektefelle eller samboer som allerede har fått arbeid i et annet EØS-land. Unntaket følger av Den administrative kommisjonen for koordinering av trygdeordningers henstilling U2. Henstilling U2 finnes under hovednummer 45.
-- Dersom arbeidssøkeren er innkalt til et jobbintervju i et annet EØS-land. Det er et vilkår at det er tidsmessig sammenheng mellom avreisetidspunktet og tidspunktet for jobbintervjuet. I praksis vil det si at vedkommende kan reise tidligst 3 dager før jobbintervjuet.
+Artikkel 64 åpner for at den kompetente staten kan gjøre unntak fra enkelte frister forordningen setter, slik at det kan gis samtykke til at dagpengemottakeren kan innvilges eksport før utløpet av fireukersfristen.
 
-I begge tilfeller må arbeidssøkeren lever tilstrekkelig skriftlig dokumentasjon til at NAV kan avgjøre om grunnlaget for å gjøre unntak er oppfylt.
+Det følger av Henstilling U2 fra den administrative kommisjonen for koordinering av trygdeordninger, at det bør gis unntak fra fireukerskravet når en dagpengemottaker ønsker å reise med sin ektefelle eller samboer som allerede har fått arbeid i et annet EØS-land.
 
-Se likevel punkt 7.2.6 om den alternative muligheten til å reise til et jobbintervju i et annet EØS-land uten å måtte søke om dagpenger under arbeidssøking i tre måneder.
+Fra norsk side er rekommandasjonen fulgt opp ved unntaket i [dagpengeforskriften § 13-4](https://lovdata.no/nav/forskrift/1998-09-16-890/%C2%A713-4).
+
+Bestemmelsen åpner for at det kan gis unntak fra kravet om å ha vært registrert som reell og helt arbeidsledig arbeidssøker i minst fire uker.
+
+Unntaket kan anvendes der brukeren «skal følge» ektefelle eller samboer. Dette stiller krav til tidsmessig sammenheng mellom brukerens avreise og ektefelle/samboers oppstart av arbeid i det andre EØS-landet.
+
+Når det gjelder begrepet samboer må samboerskapet ha vært varig. Dersom samboerskapet har hatt en varighet på mer enn to år, legges det til grunn at samboerskapet har vært «varig». Det samme gjelder dersom paret har eller venter felles barn. Samboerskapet kan helt unntaksvis vurderes som varig, selv om det har vart kortere enn to år, og partene ikke har felles barn.
+
+Unntaket i dagpengeforskriften § 13-4 åpner ikke for å unnta arbeidssøkeren fra de øvrige vilkårene i trygdeforordningen artikkel 64 eller gjennomføringsforordningen artikkel 55.
+
+Bestemmelsen gir heller ikke unntak fra de nasjonale vilkårene for rett til dagpenger, som vilkåret i [folketrygdloven § 4-5 første ledd](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-5) om at man må være registrert som arbeidssøker, fra oppholdskravet i [folketrygdloven § 4-2](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A74-2) eller fra [folketrygdloven § 22-13 første ledd](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A722-13) om at det må settes fram krav om dagpenger før det kan oppstå en rett. Bruker må dermed ha rett til dagpenger etter norsk trygdelovgivning, som hen kan beholde under arbeidssøking i annet EØS-land
+
+Det vil si at bruker må fylle alle de nasjonale vilkårene for dagpenger for at det skal kunne innvilges eksport av dagpenger. Videre må brukeren oppfylle alle de øvrige vilkårene i trygdeforordningen artikkel 64 og i gjennomføringsforordningen artikkel 55, herunder også kravet om at det må sendes en søknad om å få utstedt attest PD U2 til Arbeids- og velferdsetaten før man reiser til den andre staten.
+
+I høringsnotat av 10. april 2026 om endringer i forskrift om dagpenger under arbeidsløshet gir departementet klart uttrykk for at Trygderetten la til grunn feil forståelse i kjennelse TRR-2025-2170.
 
 ### 4.7.2.4 Krav om å være helt arbeidsløs
 

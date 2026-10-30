@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 1 – Om EØS-avtalen og dens bestemmelser om trygd"
 punkt: "6.2 Artikkel 1 bokstavene d og e – «tjenestemann» og «særordning for tjenestemenn»"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_1-6-2"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 6.2 Artikkel 1 bokstavene d og e – «tjenestemann» og «særordning for tjenestemenn»

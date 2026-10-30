@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 9 – Stønad ved barns og andre nærståendes sykdom"
 punkt: "9.7 Bestemmelser om utbetaling i andre EØS-land (eksport) for stønad ved barns og andre nærståendes sykdom- trygdeforordningen artiklene 7 og 21 nr.1 samt gjennomføringsforordningen artiklene 28 og 87."
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_9-7"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 9.7 Bestemmelser om utbetaling i andre EØS-land (eksport) for stønad ved barns og andre nærståendes sykdom- trygdeforordningen artiklene 7 og 21 nr.1 samt gjennomføringsforordningen artiklene 28 og 87.

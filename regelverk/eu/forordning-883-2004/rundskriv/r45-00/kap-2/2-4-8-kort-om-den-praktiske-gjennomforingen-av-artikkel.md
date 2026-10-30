@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 2 – Regler om medlemskap og om hvilket lands lovgivning som skal anvendes"
 punkt: "2.4.8 Kort om den praktiske gjennomføringen av artikkel 13 nr. 1"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_2-4-8"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 2.4.8 Kort om den praktiske gjennomføringen av artikkel 13 nr. 1

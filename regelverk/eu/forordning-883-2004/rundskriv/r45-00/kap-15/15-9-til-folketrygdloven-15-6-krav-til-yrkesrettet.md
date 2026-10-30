@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 15 – Stønad til enslig mor eller far"
 punkt: "15.9 Til folketrygdloven § 15-6 – krav til yrkesrettet aktivitet"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_14-9"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 15.9 Til folketrygdloven § 15-6 – krav til yrkesrettet aktivitet

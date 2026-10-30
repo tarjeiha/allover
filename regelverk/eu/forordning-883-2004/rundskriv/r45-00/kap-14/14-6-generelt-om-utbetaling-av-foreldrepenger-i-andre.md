@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 14 – Ytelser ved svangerskap, fødsel og adopsjon"
 punkt: "14.6 Generelt om utbetaling av foreldrepenger i andre EØS-land. Trygdeforordningen artikler 7 og 21"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_13-6"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 14.6 Generelt om utbetaling av foreldrepenger i andre EØS-land. Trygdeforordningen artikler 7 og 21

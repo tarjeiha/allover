@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 33 – Barnetrygd"
 punkt: "33.5 Fastsetting av prioritet"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_27-5"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 33.5 Fastsetting av prioritet
@@ -78,87 +78,87 @@ Når forsørgerne bor i hvert sitt EØS-land (uten å være yrkesaktiv og uten �
 <col style="width: 25%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>Person 1</strong></td>
 <td><strong>Person 2</strong></td>
 <td><strong>Barn</strong></td>
 <td><strong>Primærland</strong></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Arbeid i land A</td>
 <td>Arbeid i land B</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Land B (evt. differansebeløp fra land A)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Pensjon fra land A</td>
 <td>Pensjon fra land B</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Land B (evt. differansebeløp fra land A)</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Hjemmeværende i land A</td>
 <td>Hjemmeværende i land B</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Land B (ingen differansebeløp fra land A)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Arbeid i land A</td>
 <td>Pensjon fra land B</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Land A (evt. differansebeløp fra land B)</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Arbeid i land A</td>
 <td>Hjemmeværende i land B</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Land A (evt. differansebeløp fra land B)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Hjemmeværende i land A</td>
 <td>Arbeid i land B</td>
 <td>Bor sammen med person 2 i land B.</td>
 <td>Land B (evt. differansebeløp fra land A)</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Pensjon fra land A</td>
 <td>Hjemmeværende i land B</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Land A (evt. differansebeløp fra land B)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Arbeid i land A</td>
 <td>Arbeid i land B</td>
 <td>Bor sammen med person 2 i land C</td>
 <td>Høyeste beløp fra land A eller B (refusjon til 50 % av beløpet fra sekundærlandet)</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Pensjon fra land A</td>
 <td>Pensjon fra land B</td>
 <td>Bor sammen med person 2 i land C</td>
 <td>Land A eller B som har den lengste medlemskap, forsikring eller bostedsperiode (evt. differansebeløp fra de andre landene)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Arbeid og bor i land A 75 % + arbeid i land B 25 %</td>
 <td>Arbeid i land C 100 %</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Land B (evt. differansebeløp fra land A og C. Land A og C ordner refusjon av 50 % av differansebeløp mellom seg</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Arbeid i land A 80 % Arbeid i land B 20 % Bor i land B</td>
 <td>Arbeid i land C 100 %<br />
 Bor i land B</td>
 <td>Bor sammen med person 2 i land B</td>
 <td>Høyeste beløp fra land A eller C (refusjon til 50 % av beløpet fra sekundærlandet)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Arbeid i land A 75 % Arbeid i land B 25 % Bor i land A</td>
 <td>Arbeid i land D 100 %<br />
 Bor i land C</td>
 <td>Bor sammen med person 2 i land C</td>
 <td>Høyeste beløp fra land A eller D (refusjon til 50 % av beløpet fra sekundærlandet)</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Arbeid i land A 80 % Arbeid i land B 20%<br />
 Bor i land B</td>
 <td>Arbeid i land D 100 %<br />

@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 14 – Ytelser ved svangerskap, fødsel og adopsjon"
 punkt: "14.5 Prinsippene om likebehandling av opptjening, faktiske hendelser og sammenlegging av tid – trygdeforordningen artiklene 4, 5 og 6"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_13-5"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 14.5 Prinsippene om likebehandling av opptjening, faktiske hendelser og sammenlegging av tid – trygdeforordningen artiklene 4, 5 og 6

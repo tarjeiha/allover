@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 11 – Arbeidsavklaringspenger"
 punkt: "11.11 Krav om ytelser overfor andre EØS-land fra bruker som mottar arbeidsavklaringspenger"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_10-11"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 11.11 Krav om ytelser overfor andre EØS-land fra bruker som mottar arbeidsavklaringspenger

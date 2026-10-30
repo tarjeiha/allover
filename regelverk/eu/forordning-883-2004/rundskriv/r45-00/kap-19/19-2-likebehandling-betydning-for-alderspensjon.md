@@ -3,7 +3,7 @@ rundskriv: "Navs rundskriv til EØS-avtalens bestemmelser om trygd (R45-00)"
 kapittel: "Kapittel 19 – Alderspensjon"
 punkt: "19.2 Likebehandling – betydning for alderspensjon – trygdeforordningen art. 4"
 kilde: "https://lovdata.no/nav/rundskriv/r45-00#KAPITTEL_18-2"
-sist_endret: "2026-10-19"
+sist_endret: "2026-10-30"
 ---
 
 # 19.2 Likebehandling – betydning for alderspensjon – trygdeforordningen art. 4
