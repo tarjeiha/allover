@@ -1,9 +1,9 @@
 {
   "sesjon": "2026-2027",
   "sporsmal": {
-    "nye": 35,
-    "oppdatert": 25,
-    "total": 40072
+    "nye": 6,
+    "oppdatert": 6,
+    "total": 40078
   },
   "anmodningsvedtak": {
     "nye": 0,
@@ -24,5 +24,5 @@
     "nye": 0,
     "total": 1770
   },
-  "dato": "2026-10-30"
+  "dato": "2026-10-31"
 }
