@@ -51,7 +51,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Folketrygdloven | `regelverk/folketrygdloven/VEIVISER.md` | 2026-10-01 |
 | Forvaltningsloven | `regelverk/forvaltningsloven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
 | Forvaltningsloven 2025 (ny lov, ikke i kraft) | `regelverk/forvaltningsloven-2025/VEIVISER.md` | Ikke i kraft (Kongen bestemmer) |
-| Integreringsloven | `regelverk/integreringsloven/VEIVISER.md` | 2026-07-01 |
+| Integreringsloven | `regelverk/integreringsloven/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
 | Karanteneloven | `regelverk/karanteneloven/VEIVISER.md` | 2025-07-01 |
 | Likestillings- og diskrimineringsloven | `regelverk/likestillings-og-diskrimineringsloven/VEIVISER.md` | 2024-07-01 |
 | Lov om Statens pensjonskasse | `regelverk/spk-loven/VEIVISER.md` | 2026-01-01 |

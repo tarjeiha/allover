@@ -43,7 +43,9 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 ## Vedtatte endringer som ikke er i kraft
 
-Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Endr. i integreringsforskriften** (FOR-2026-10-30-2189). Trer i kraft 2027-01-01. Endrer: Forskrift til integreringsloven (integreringsforskriften). Ny tekst: `vedtatte-endringer/for-2026-10-30-2189.md`
 
 ## Innhold
 
