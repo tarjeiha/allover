@@ -5,7 +5,7 @@ description: "Felles regelverksbase for norsk lov og forskrift. Bruk ved spørsm
 
 # Regelverksbasen
 
-**Versjon 2026-10-22.2.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Står det et driftsvarsel der for et område svaret bygger på, si kort til brukeren at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
+**Versjon 2026-11-02.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Står det et driftsvarsel der for et område svaret bygger på, si kort til brukeren at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
 
 Lov- og forskriftsteksten ligger ikke i denne skillen. Den ligger i et felles repo på GitHub og hentes ved hvert oppslag, så den alltid er oppdatert. Hva basen dekker, står i basen.
 
@@ -15,8 +15,9 @@ Lov- og forskriftsteksten ligger ikke i denne skillen. Den ligger i et felles re
 2. Sjekk tabellen over regelverk i CLAUDE.md mot spørsmålet.
    - **Dekket:** åpne veiviseren og paragrafene, og svar med kilde.
    - **Ikke dekket:** følg regelen i CLAUDE.md for regelverk som ikke er dekket.
-3. **Spør brukeren hva basen inneholder, eller har brukeren funnet en feil eller noe som mangler,** hent `https://raw.githubusercontent.com/tarjeiha/allover/main/OM-BASENE.md` og følg den. Meldinger om feil, mangler og ønsker går på e-post til redaktøren for basene, Tarjei Havnes. Adressen står i skillen `felles-intern`.
-4. Hvis hentingen feiler: se «Hvis hentingen feiler» under.
+3. **Gjelder spørsmålet Stortinget** (anmodningsvedtak, skriftlige spørsmål, interpellasjoner, spørretimespørsmål, representantforslag eller saker): hent `stortinget/VEIVISER.md` og søk med skriptet der, før du bruker andre kilder. Ikke gå rett til `data.stortinget.no` eller nettsøk, heller ikke når du kjenner kilden fra før. Finner du ikke det du leter etter i basen, si det og oppgi datoen for siste oppdatering (`stortinget/siste-oppdatering.json`). Gå til `data.stortinget.no` bare for det veiviseren sier skal hentes der, som et konkret svar fra statsråden, eller hvis noe kan ha kommet etter siste oppdatering.
+4. **Spør brukeren hva basen inneholder, eller har brukeren funnet en feil eller noe som mangler,** hent `https://raw.githubusercontent.com/tarjeiha/allover/main/OM-BASENE.md` og følg den. Meldinger om feil, mangler og ønsker går på e-post til redaktøren for basene, Tarjei Havnes. Adressen står i skillen `felles-intern`.
+5. Hvis hentingen feiler: se «Hvis hentingen feiler» under.
 
 ## Hvis hentingen feiler
 
