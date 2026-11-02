@@ -18,4 +18,4 @@ Deltageren skal i kontrakten forplikte seg til å følge opp målene og elemente
 
 **Endringshistorikk:**
 
-- Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102 ). Endres ved lov 12 juni 2026 nr. 23 (i kraft fra den tid Kongen bestemmer).
+- Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102 ). Endres ved lov 12 juni 2026 nr. 23 (i kraft 1 jan 2027 iflg. res. 30 okt 2026 nr. 2188 ).

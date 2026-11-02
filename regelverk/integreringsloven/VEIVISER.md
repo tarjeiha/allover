@@ -169,6 +169,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 3. Foreldreveiledning – `forskrifter/integreringsforskriften/par-3.md`
 - § 4. Kurs i livsmestring – `forskrifter/integreringsforskriften/par-4.md`
+- § 4a. Integreringserklæring – `forskrifter/integreringsforskriften/par-4a.md`
 
 **Kapittel 3. Fravær fra introduksjonsprogrammet**
 
