@@ -1,25 +1,25 @@
 # Kilde: Nav
 # Tabell: Hovedtall om arbeidsmarkedet, permitterte (HARB013)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: Yrke
-# Hovedtall om arbeidsmarkedet permitterte. September 2026
+# Hovedtall om arbeidsmarkedet permitterte. Oktober 2026
 # Søkt eller vedtatt dagpenger under permittering
-# September 2026
+# Oktober 2026
 rad		Antall permitterte	Permitterte som andel av arbeidsstyrken
-I alt		4713	0.155992
-Ledere		482	0.442563
-Ingeniør- og ikt-fag		793	0.263362
-Undervisning		22	0.010616
-Akademiske yrker		87	0.051472
-Helse, pleie og omsorg		87	0.020042
-Barne- og ungdomsarbeid		17	0.015366
-Meglere og konsulenter		177	0.129129
-Kontorarbeid		248	0.125292
-Butikk- og salgsarbeid		160	0.056305
-Jordbruk, skogbruk og fiske		21	*
-Bygg og anlegg		874	0.374895
-Industriarbeid		1042	0.422744
-Reiseliv og transport		230	0.118728
-Serviceyrker og annet arbeid		220	0.093625
-Ingen yrkesbakgrunn eller uoppgitt		253	*
+I alt		5304	0.175553
+Ledere		492	0.451745
+Ingeniør- og ikt-fag		797	0.26469
+Undervisning		25	0.012063
+Akademiske yrker		92	0.05443
+Helse, pleie og omsorg		98	0.022576
+Barne- og ungdomsarbeid		23	0.020789
+Meglere og konsulenter		190	0.138613
+Kontorarbeid		273	0.137923
+Butikk- og salgsarbeid		180	0.063343
+Jordbruk, skogbruk og fiske		46	*
+Bygg og anlegg		1040	0.446099
+Industriarbeid		1209	0.490496
+Reiseliv og transport		254	0.131117
+Serviceyrker og annet arbeid		271	0.115328
+Ingen yrkesbakgrunn eller uoppgitt		314	*

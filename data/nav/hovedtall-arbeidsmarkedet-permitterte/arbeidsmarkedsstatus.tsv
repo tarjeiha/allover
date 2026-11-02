@@ -1,12 +1,12 @@
 # Kilde: Nav
 # Tabell: Hovedtall om arbeidsmarkedet, permitterte (HARB013)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: Arbeidsmarkedsstatus
-# Hovedtall om arbeidsmarkedet permitterte. September 2026
+# Hovedtall om arbeidsmarkedet permitterte. Oktober 2026
 # Søkt eller vedtatt dagpenger under permittering
-# September 2026
+# Oktober 2026
 rad		Antall permitterte	Permitterte som andel av arbeidsstyrken
-I alt		4713	0.155992
-Helt ledige, permittert¹		2455	0.081256
-Delvis ledige, permittert¹		2258	0.074736
+I alt		5304	0.175553
+Helt ledige, permittert¹		2636	0.087247
+Delvis ledige, permittert¹		2668	0.088306

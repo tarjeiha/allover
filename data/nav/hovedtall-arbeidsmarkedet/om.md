@@ -1,14 +1,14 @@
 # Hovedtall om arbeidsmarkedet
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-Lagt inn: 2026-10-17
+Lagt inn: 2026-11-02
 
 ## 0. Om tabellene
 
 - Kilde: NAV
-- Hovedtall om arbeidsmarkedet. September 2026
+- Hovedtall om arbeidsmarkedet. Oktober 2026
 - Om tabellene
-- September 2026
+- Oktober 2026
 - "Om statistikken - Arbeidssøkere", "Om statistikken - Ledige stillinger" og "Om statistikken - Sesongjustering" finner du på nav.no
 - ved å følge lenkene under relatert informasjon på siden "Hovedtall om arbeidsmarkedet".
 - I henhold til Statistikklovens § 7-1 har Nav valgt å erstatte verdier i celler hvor tallene er mindre enn 4 med spesialtegn «*».

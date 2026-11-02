@@ -1,11 +1,12 @@
 # Kilde: Nav
 # Tabell: Nye alderspensjonister med inntekts- og garantipensjon (PST082)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: 1. Sivilstand og pensjonsnivå
-# Nye alderspensjonister med inntekts- og garantipensjon. 1. - 2. kvartal 2026
+# Nye alderspensjonister med inntekts- og garantipensjon. 1. - 3. kvartal 2026
 # Antall nye alderspensjonister med inntekts- og garantipensjon. Sivilstand og pensjonsnivå
 rad		I alt	Enslige	Gift/samboende	Ukjent
-I alt		19093	8518	10573	*
-Over garantipensjonsnivået		18849	8369	10478	*
-På eller under garantipensjonsnivået		244	149	95	* *
+I alt		28605	12722	15879	4
+Over garantipensjonsnivået		28268	12516	15752	
+På eller under garantipensjonsnivået		333	206	127	
+Ukjent		4			4

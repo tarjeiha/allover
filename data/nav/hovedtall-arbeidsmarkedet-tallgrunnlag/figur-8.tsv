@@ -1,27 +1,26 @@
 # Kilde: Nav
 # Tabell: Tallgrunnlag for Arbeidsmarkedet nå
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: Figur 8
-# Figur 8. Antall personer med innvandrerbakgrunn registrert som helt ledige og arbeidssøkere på tiltak hos Nav. Etter fødeland. De 20 største enkeltlandene. September 2026
-rad	Helt ledige	Arbeidssøkere på tiltak	Bruttoledighet
-Ukraina	4071	2131	6202
-Polen	3257	433	3690
-Syria	2051	533	2584
-Somalia	1375	270	1645
-Litauen	1320	210	1530
-Eritrea	802	194	996
-Russland	699	229	928
-Pakistan	614	266	880
-Afghanistan	708	168	876
-India	580	268	848
-Irak	653	166	819
-Romania	662	106	768
-Iran	566	152	718
-Sverige	641	77	718
-Latvia	493	84	577
-Tyrkia	409	134	543
-Thailand	397	111	508
-Filippinene	367	86	453
-Tyskland	368	81	449
-Bulgaria	362	62	424
+rad	Helt ledige	Arbeidssøkere på tiltak	Bruttoledighet		Figur 8. Antall personer med innvandrerbakgrunn registrert som helt ledige og arbeidssøkere på tiltak hos Nav. Etter fødeland. De 20 største enkeltlandene.
+Tyskland	347	77	424		
+Bulgaria	368	70	438		
+Filippinene	395	88	483		
+Thailand	397	116	513		
+Tyrkia	440	133	573		
+Latvia	499	82	581		
+Iran	543	172	715		
+Sverige	671	84	755		
+Romania	673	98	771		
+Irak	657	173	830		
+Afghanistan	681	177	858		
+Pakistan	587	290	877		
+India	631	273	904		
+Russland	714	233	947		
+Eritrea	773	231	1004		
+Litauen	1288	222	1510		
+Somalia	1370	296	1666		
+Syria	1961	561	2522		
+Polen	3261	450	3711		
+Ukraina	4053	2177	6230		

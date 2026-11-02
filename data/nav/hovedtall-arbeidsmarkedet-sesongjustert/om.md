@@ -1,12 +1,12 @@
 # Sesongjusterte hovedtall om arbeidsmarkedet (HARB100)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-Lagt inn: 2026-10-17
+Lagt inn: 2026-11-02
 
 ## Om tabellene
 
 - Kilde: NAV
-- Sesongjusterte hovedtall om arbeidsmarkedet. September 2026
+- Sesongjusterte hovedtall om arbeidsmarkedet. Oktober 2026
 - Om tabellene
 - Alle tallene i disse tabellene er sesongjustert. "Om statistikken - Sesongjustering" finner du på nav.no ved å følge lenkene under relatert informasjon
 - på siden "Hovedtall om arbeidsmarkedet".
@@ -29,6 +29,6 @@ Lagt inn: 2026-10-17
 ## Figur 1. Sesongjusterte tall
 
 - Kilde: NAV
-- Sesongjusterte hovedtall om arbeidsmarkedet. September 2026
+- Sesongjusterte hovedtall om arbeidsmarkedet. Oktober 2026
 - Figur 1. Sesongjusterte tall²
 

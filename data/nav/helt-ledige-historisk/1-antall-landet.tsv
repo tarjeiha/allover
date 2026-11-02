@@ -1,12 +1,12 @@
 # Kilde: Nav
 # Tabell: Antall helt ledige, historisk (HL100)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: 1. Antall Landet
-# Antall helt ledige historisk. September 2026
-rad	Beholdning helt ledige										Rapport oppdatert: 29.09.2026
+# Antall helt ledige historisk. Oktober 2026
+rad	Beholdning helt ledige										Rapport oppdatert: 27.10.2026
 år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober	November	Desember
-2026	68932	66750	65371	62443	58275	58104	64020	62832	59413			
+2026	68932	66750	65371	62443	58275	58104	64020	62832	59413	59142		
 2025	67821	65947	64503	60622	59566	60614	64992	64702	61955	61284	62010	62410
 2024	62933	62506	61071	58406	56300	56953	62558	60933	58860	58052	58888	60577
 2023	55357	54728	53456	53199	48839	49570	54217	54648	52381	52422	53110	55394

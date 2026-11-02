@@ -1,22 +1,21 @@
 # Kilde: Nav
 # Tabell: Tallgrunnlag for Arbeidsmarkedet nå
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: Figur 6
-# Figur 6. Prosentvis endring i antall personer registrert som helt ledige eller arbeidssøkere på tiltak hos Nav. Etter fylke. September 2025 – september 2026
-rad	verdi
-Innlandet	-0.062
-Vestfold	-0.042
-Telemark	-0.033
-Agder	-0.029
-Buskerud	-0.025
-Nordland	-0.017
-Vestland	-0.014
-Trøndelag	-0.014
-Østfold	-0.001
-Akershus	0.002
-Oslo	0.002
-Finnmark	0.018
-Møre og Romsdal	0.025
-Troms	0.034
-Rogaland	0.069
+rad	Prosentvis endring			Figur 6. Prosentvis endring i antall personer registrert som helt ledige eller arbeidssøkere på tiltak hos Nav. Etter fylke.
+Innlandet	-0.059316			
+Agder	-0.035482			
+Østfold	-0.021739			
+Vestland	-0.021358			
+Finnmark	-0.020213			
+Vestfold	-0.005195			
+Nordland	-0.004795			
+Telemark	-0.003285			
+Buskerud	0.001615			
+Troms	0.016641			
+Møre og Romsdal	0.01762			
+Akershus	0.019766			
+Oslo	0.024651			
+Trøndelag	0.071605			
+Rogaland	0.072842			

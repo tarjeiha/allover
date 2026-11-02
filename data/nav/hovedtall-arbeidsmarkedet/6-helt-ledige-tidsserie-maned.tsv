@@ -1,15 +1,15 @@
 # Kilde: Nav
 # Tabell: Hovedtall om arbeidsmarkedet
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: 6. Helt ledige tidsserie måned
-# Hovedtall om arbeidsmarkedet. September 2026
+# Hovedtall om arbeidsmarkedet. Oktober 2026
 # 6. Helt ledige², tidsserie måned
-# Januar 2014 - september 2026
+# Januar 2014 - oktober 2026
 # Merknad: ² Det er brudd i statistikk over antall arbeidsledige fra og med november 2018 pga ny registreringsmetode og April 2025 grunnet et større moderniseringsarbeid på arbeidsmarkedsområdet i Nav
 # Merknad: Les kapittel 5 i «Om statistikken – arbeidssøkere» på nav.no
 år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober	November	Desember
-2026	68932	66750	65371	62443	58275	58104	64020	62832	59413			
+2026	68932	66750	65371	62443	58275	58104	64020	62832	59413	59142		
 2025	67821	65947	64503	60622	59566	60614	64992	64702	61955	61284	62010	62410
 2024	62933	62506	61071	58406	56300	56953	62558	60933	58860	58052	58888	60577
 2023	55357	54728	53456	53199	48839	49570	54217	54648	52381	52422	53110	55394

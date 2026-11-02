@@ -1,27 +1,27 @@
 # Kilde: Nav
 # Tabell: Hovedtall om arbeidsmarkedet, permitterte (HARB013)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: Fylke
-# Hovedtall om arbeidsmarkedet permitterte. September 2026
+# Hovedtall om arbeidsmarkedet permitterte. Oktober 2026
 # Søkt eller vedtatt dagpenger under permittering
-# September 2026
+# Oktober 2026
 rad		Antall permitterte	Permitterte som andel av arbeidsstyrken
-I alt		4713	0.155992
-03 Oslo - Oslove		674	0.162477
-11 Rogaland		451	0.167207
-15 Møre og Romsdal		285	0.20286
-18 Nordland - Nordlánnda		212	0.171432
-31 Østfold		282	0.186112
-32 Akershus		552	0.140104
-33 Buskerud		212	0.152356
-34 Innlandet		191	0.101881
-39 Vestfold		189	0.147828
-40 Telemark		133	0.153238
-42 Agder		223	0.139373
-46 Vestland		463	0.132393
-50 Trøndelag - Trööndelage		364	0.14261
-55 Troms - Romsa - Tromssa		163	0.177492
-56 Finnmark - Finnmárku - Finmarkku		238	0.598336
+I alt		5304	0.175553
+03 Oslo - Oslove		712	0.171637
+11 Rogaland		519	0.192418
+15 Møre og Romsdal		273	0.194318
+18 Nordland - Nordlánnda		259	0.209438
+31 Østfold		271	0.178852
+32 Akershus		598	0.15178
+33 Buskerud		249	0.178946
+34 Innlandet		234	0.124818
+39 Vestfold		207	0.161907
+40 Telemark		158	0.182042
+42 Agder		231	0.144373
+46 Vestland		543	0.155268
+50 Trøndelag - Trööndelage		440	0.172385
+55 Troms - Romsa - Tromssa		179	0.194915
+56 Finnmark - Finnmárku - Finmarkku		288	0.724037
 97 Svalbard og øvrige områder		*	*
-Ukjent		81	*
+Ukjent		143	*

@@ -1,7 +1,7 @@
 # Kilde: Nav
 # Tabell: Tallgrunnlag for Arbeidsmarkedet nå
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: Figur 11
 rad	Permitterte		Figur 11. Antallet permitterte arbeidssøkere. Ikke sesongjustert
 2022-01-01 00:00:00	26223		
@@ -61,3 +61,4 @@ rad	Permitterte		Figur 11. Antallet permitterte arbeidssøkere. Ikke sesongjuste
 2026-07-01 00:00:00	5158		
 2026-08-01 00:00:00	4662		
 2026-09-01 00:00:00	4713		
+2026-10-01 00:00:00	5304		

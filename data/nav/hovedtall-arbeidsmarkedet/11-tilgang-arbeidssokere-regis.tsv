@@ -1,45 +1,45 @@
 # Kilde: Nav
 # Tabell: Hovedtall om arbeidsmarkedet
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-02
 # Ark: 11. Tilgang arbeidssøkere regis
-# Hovedtall om arbeidsmarkedet. September 2026
+# Hovedtall om arbeidsmarkedet. Oktober 2026
 # 11. Tilgang: Antall nye registrerte arbeidssøkere i perioden fordelt på registreringsbegrunnelse og kjønn
-# September 2026
+# Oktober 2026
 # Antall
 # Merknad: Kvinner
 # Merknad: Menn
 gruppe	rad	verdi
-I alt	I alt	18883
-I alt	Er permittert eller kommer til å bli permittert	1876
-I alt	Er usikker på jobbsituasjonen min	1806
-I alt	Har akkurat fullført utdanning, militærtjeneste eller annet	1569
-I alt	Har aldri vært i jobb	1352
-I alt	Har deltidsjobb, men vil jobbe mer	1559
-I alt	Har ikke vært i jobb de siste 2 årene	1250
-I alt	Har jobb men vil bytte	535
-I alt	Har mistet eller kommer til å miste jobben	6091
-I alt	Har sagt opp eller kommer til å si opp	2382
-I alt	Ukjent eller ikke oppgitt	463
-Antall	I alt kvinner	8247
-Antall	Er permittert eller kommer til å bli permittert	511
-Antall	Er usikker på jobbsituasjonen min	903
-Antall	Har akkurat fullført utdanning, militærtjeneste eller annet	701
-Antall	Har aldri vært i jobb	764
-Antall	Har deltidsjobb, men vil jobbe mer	889
-Antall	Har ikke vært i jobb de siste 2 årene	700
-Antall	Har jobb men vil bytte	269
-Antall	Har mistet eller kommer til å miste jobben	2199
-Antall	Har sagt opp eller kommer til å si opp	1089
-Antall	Ukjent eller ikke oppgitt	222
-Antall	I alt menn	10636
-Antall	Er permittert eller kommer til å bli permittert	1365
-Antall	Er usikker på jobbsituasjonen min	903
-Antall	Har akkurat fullført utdanning, militærtjeneste eller annet	868
-Antall	Har aldri vært i jobb	588
-Antall	Har deltidsjobb, men vil jobbe mer	670
-Antall	Har ikke vært i jobb de siste 2 årene	550
-Antall	Har jobb men vil bytte	266
-Antall	Har mistet eller kommer til å miste jobben	3892
-Antall	Har sagt opp eller kommer til å si opp	1293
-Antall	Ukjent eller ikke oppgitt	241
+I alt	I alt	14580
+I alt	Er permittert eller kommer til å bli permittert	2019
+I alt	Er usikker på jobbsituasjonen min	1340
+I alt	Har akkurat fullført utdanning, militærtjeneste eller annet	890
+I alt	Har aldri vært i jobb	921
+I alt	Har deltidsjobb, men vil jobbe mer	1064
+I alt	Har ikke vært i jobb de siste 2 årene	860
+I alt	Har jobb men vil bytte	414
+I alt	Har mistet eller kommer til å miste jobben	4866
+I alt	Har sagt opp eller kommer til å si opp	1794
+I alt	Ukjent eller ikke oppgitt	412
+Antall	I alt kvinner	5938
+Antall	Er permittert eller kommer til å bli permittert	507
+Antall	Er usikker på jobbsituasjonen min	651
+Antall	Har akkurat fullført utdanning, militærtjeneste eller annet	358
+Antall	Har aldri vært i jobb	496
+Antall	Har deltidsjobb, men vil jobbe mer	556
+Antall	Har ikke vært i jobb de siste 2 årene	432
+Antall	Har jobb men vil bytte	210
+Antall	Har mistet eller kommer til å miste jobben	1772
+Antall	Har sagt opp eller kommer til å si opp	792
+Antall	Ukjent eller ikke oppgitt	164
+Antall	I alt menn	8642
+Antall	Er permittert eller kommer til å bli permittert	1512
+Antall	Er usikker på jobbsituasjonen min	689
+Antall	Har akkurat fullført utdanning, militærtjeneste eller annet	532
+Antall	Har aldri vært i jobb	425
+Antall	Har deltidsjobb, men vil jobbe mer	508
+Antall	Har ikke vært i jobb de siste 2 årene	428
+Antall	Har jobb men vil bytte	204
+Antall	Har mistet eller kommer til å miste jobben	3094
+Antall	Har sagt opp eller kommer til å si opp	1002
+Antall	Ukjent eller ikke oppgitt	248
