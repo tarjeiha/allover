@@ -1,0 +1,24 @@
+{
+  "dokumenter": [
+    {
+      "navn": "Om Kongen i statsråd",
+      "utgave": "ajourført oktober 2026",
+      "utgiver": "Statsministerens kontor",
+      "utgitt": "2026-10-01",
+      "mappe": "veiledere/om-kongen-i-statsrad",
+      "nettside": "https://www.regjeringen.no/no/dokumenter/om-kongen-i-statsrad/id2001400/",
+      "revideres": "årlig",
+      "ventes_i": 10
+    },
+    {
+      "navn": "Om r-konferanser",
+      "utgave": "sist oppdatert 11. mars 2026",
+      "utgiver": "Statsministerens kontor",
+      "utgitt": "2026-03-11",
+      "mappe": "veiledere/om-r-konferanser",
+      "nettside": "https://www.regjeringen.no/omrkonf",
+      "revideres": "årlig",
+      "ventes_i": 3
+    }
+  ]
+}

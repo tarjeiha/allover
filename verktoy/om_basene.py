@@ -3,7 +3,7 @@
 
 Bare blokken mellom AUTO-markørene skrives om. Tallene telles fra filene i repoet:
 regelverk.json og rundskrivmappene, mappene under budsjett/, data/nav/indeks.tsv,
-pakke.json for Eurostat og OECD, stortinget/siste-oppdatering.json og politikk/dokumenter.json.
+pakke.json for Eurostat og OECD, stortinget/siste-oppdatering.json, politikk/dokumenter.json og veiledere/dokumenter.json.
 
 Bruk: python3 verktoy/om_basene.py
 """
@@ -116,9 +116,19 @@ def politikk() -> list:
     return ut
 
 
+def veiledere() -> list:
+    fil = ROT / "veiledere" / "dokumenter.json"
+    if not fil.exists():
+        return []
+    ut = ["### Veiledere fra Statsministerens kontor", ""]
+    for d in json.loads(fil.read_text(encoding="utf-8"))["dokumenter"]:
+        ut.append(f"- **{d['navn']}**, {d['utgave']}, fra {d['utgiver']}. Retningslinjer, ikke lov eller forskrift.")
+    return ut
+
+
 def lag() -> str:
     ut = [f"Oversikten ble sist laget {date.today().isoformat()}.", ""]
-    for del_ in (regelverk(), budsjett(), statistikk(), stortinget(), politikk()):
+    for del_ in (regelverk(), budsjett(), statistikk(), stortinget(), politikk(), veiledere()):
         if del_:
             ut += del_ + [""]
     return "\n".join(ut)
