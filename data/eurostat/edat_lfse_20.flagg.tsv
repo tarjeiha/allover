@@ -1,7 +1,7 @@
 # Kilde: Eurostat, tabell edat_lfse_20
 # Tabell: Unge som verken er i jobb eller utdanning (NEET), 15–24 og 15–29 år, etter kjønn, årlig (prosent)
 # Eurostat-tittel: Young persons neither in employment nor in education and training by labour status (NEET rates)
-# Oppdatert hos Eurostat: 2026-09-10T23:00:00+0200
+# Oppdatert hos Eurostat: 2026-10-30T23:00:00+0100
 # Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/edat_lfse_20?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=IS&geo=DE&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=EE&geo=FR&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=EU27_2020&unit=PC&sex=T&sex=M&sex=F&age=Y15-24&age=Y15-29&training=NO_FE_NO_NFE&wstatus=NEMP
 # geo: EU27_2020=European Union - 27 countries (from 2020); BE=Belgium; BG=Bulgaria; CZ=Czechia; DK=Denmark; DE=Germany; EE=Estonia; IE=Ireland; EL=Greece; ES=Spain; FR=France; HR=Croatia; IT=Italy; CY=Cyprus; LV=Latvia; LT=Lithuania; LU=Luxembourg; HU=Hungary; MT=Malta; NL=Netherlands; AT=Austria; PL=Poland; PT=Portugal; RO=Romania; SI=Slovenia; SK=Slovakia; FI=Finland; SE=Sweden; IS=Iceland; NO=Norway
 # sex: T=Total; M=Males; F=Females
@@ -223,7 +223,6 @@ LU	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2007	b
 LU	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2009	b
 LU	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2015	b
 LU	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2021	b
-LU	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2025	u
 MT	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2005	b
 MT	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2006	b
 MT	F	Y15-29	NO_FE_NO_NFE	NEMP	PC	2021	b
@@ -471,7 +470,6 @@ LU	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2007	b
 LU	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2009	b
 LU	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2015	b
 LU	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2021	b
-LU	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2025	u
 MT	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2005	b
 MT	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2006	b
 MT	M	Y15-29	NO_FE_NO_NFE	NEMP	PC	2021	b
@@ -592,7 +590,6 @@ LU	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2007	b
 LU	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2009	b
 LU	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2015	b
 LU	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2021	b
-LU	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2025	u
 MT	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2005	b
 MT	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2006	b
 MT	T	Y15-24	NO_FE_NO_NFE	NEMP	PC	2021	b

@@ -1,7 +1,7 @@
 # Kilde: Eurostat, tabell trng_lfse_01
 # Tabell: Deltakelse i utdanning og opplæring siste fire uker, 25–64 og 55–64 år, etter kjønn, årlig (prosent)
 # Eurostat-tittel: Participation rate in education and training (last 4 weeks)
-# Oppdatert hos Eurostat: 2026-09-10T23:00:00+0200
+# Oppdatert hos Eurostat: 2026-10-30T23:00:00+0100
 # Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/trng_lfse_01?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=IS&geo=DE&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=EE&geo=FR&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=EU27_2020&unit=PC&sex=T&sex=M&sex=F&age=Y25-64&age=Y55-64
 # geo: EU27_2020=European Union - 27 countries (from 2020); BE=Belgium; BG=Bulgaria; CZ=Czechia; DK=Denmark; DE=Germany; EE=Estonia; IE=Ireland; EL=Greece; ES=Spain; FR=France; HR=Croatia; IT=Italy; CY=Cyprus; LV=Latvia; LT=Lithuania; LU=Luxembourg; HU=Hungary; MT=Malta; NL=Netherlands; AT=Austria; PL=Poland; PT=Portugal; RO=Romania; SI=Slovenia; SK=Slovakia; FI=Finland; SE=Sweden; IS=Iceland; NO=Norway
 # unit: PC=Percentage
@@ -58,7 +58,7 @@ IE	PC	F	Y55-64	4.6	4.4	4.7	4.0	3.5	4.2	4.0	3.7	4.3	3.9	3.5	3.3	6.3	10.3	10.7	8.1
 IT	PC	F	Y55-64	1.6	1.7	2.0	2.2	2.4	2.6	2.7	3.4	3.1	4.7	4.2	5.3	5.1	5.3	5.0	4.1	5.7	5.4	7.1	6.7	7.3
 LV	PC	F	Y55-64	4.3	2.3	3.0	2.7	2.0	2.0	2.9	5.3	3.9	2.4	3.6	4.7	4.0	4.0	4.6	3.9	6.5	8.0	8.6	9.1	10.7
 LT	PC	F	Y55-64							2.7	2.9	3.3	3.3	4.1	4.1	4.5	5.9	5.7	5.7	6.2	6.9	9.6	7.6	9.1
-LU	PC	F	Y55-64	3.1	3.9	3.2	3.0	6.2	6.3	5.7	6.2	4.4	5.6	5.5	6.1	6.7	8.3	7.3	5.9		8.8	5.3	8.5	
+LU	PC	F	Y55-64	3.1	3.9	3.2	3.0	6.2	6.3	5.7	6.2	4.4	5.6	5.5	6.1	6.7	8.3	7.3	5.9		8.8	5.3	8.5	8.3
 MT	PC	F	Y55-64	1.9	2.3	1.7	3.5	3.0	3.4	3.7	3.4	3.8	4.1	3.6	4.3	4.9	5.2	6.7	6.1	4.8	5.5	8.5	8.2	9.2
 NL	PC	F	Y55-64	7.8	7.9	8.6	9.0	9.0	9.1	9.0	9.3	10.4	11.5	12.2	12.2	12.3	12.1	12.9	11.9	18.3	18.9	19.2	19.7	20.1
 PL	PC	F	Y55-64	0.5	0.7	0.7	0.7	0.6	1.0	0.8	0.8	1.0	1.1	0.9	1.1	1.4	2.3	2.0	1.8	2.2	3.7	4.1	5.2	4.5
@@ -118,7 +118,7 @@ IE	PC	M	Y55-64	2.9	2.8	3.0	2.6	2.5	2.5	2.6	2.9	2.8	2.4	2.3	2.6	4.1	6.3	6.4	5.5	6
 IT	PC	M	Y55-64	1.7	2.0	2.2	2.2	2.2	2.5	2.1	2.7	2.7	4.3	3.9	5.0	4.5	4.7	4.5	3.7	6.5	5.9	7.6	7.0	7.0
 LV	PC	M	Y55-64				1.5				2.7	2.7	2.1	1.4	3.1	2.8	1.8	2.0		2.0	2.7	3.3	4.5	5.0
 LT	PC	M	Y55-64									1.1	1.2	1.9	2.0	2.3	2.4	2.1	2.4	3.0	2.8	4.1	3.1	3.8
-LU	PC	M	Y55-64	2.8	2.5	2.7	2.3	6.2	5.9	6.3	5.7	5.5	5.9	8.6	8.6	6.4	8.2	8.4	7.1		7.9	6.9	7.3	
+LU	PC	M	Y55-64	2.8	2.5	2.7	2.3	6.2	5.9	6.3	5.7	5.5	5.9	8.6	8.6	6.4	8.2	8.4	7.1		7.9	6.9	7.3	8.8
 MT	PC	M	Y55-64	3.3	2.3	2.2	3.0	3.1	2.6	2.3	2.3	3.3	2.7	3.1	2.9	4.6	3.3	4.2	5.0	4.6	4.0	5.6	7.1	11.1
 NL	PC	M	Y55-64	5.7	6.3	6.9	7.9	7.5	7.6	8.0	8.3	9.9	11.2	11.5	12.0	11.3	11.3	11.9	11.2	17.9	18.1	18.0	18.8	18.9
 PL	PC	M	Y55-64	0.9	0.9	0.7	0.7	0.8	1.0	0.8	0.8	0.6	0.8	0.6	0.8	1.0	1.5	1.3	1.0	1.9	2.9	3.4	4.6	3.4

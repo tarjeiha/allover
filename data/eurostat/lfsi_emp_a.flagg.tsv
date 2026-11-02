@@ -1,7 +1,7 @@
 # Kilde: Eurostat, tabell lfsi_emp_a
 # Tabell: Sysselsatte som andel av befolkningen etter kjønn og alder (15–64, 20–64 og 55–64 år), årlig
 # Eurostat-tittel: Employment and labour force by sex and age - annual data
-# Oppdatert hos Eurostat: 2026-09-10T23:00:00+0200
+# Oppdatert hos Eurostat: 2026-10-26T23:00:00+0100
 # Spørring: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?format=JSON&lang=EN&sinceTimePeriod=2005&geo=NO&geo=SE&geo=DK&geo=FI&geo=IS&geo=DE&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=EE&geo=FR&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=EU27_2020&indic_em=EMP_LFS&unit=PC_POP&sex=T&sex=M&sex=F&age=Y15-64&age=Y20-64&age=Y55-64
 # geo: EU27_2020=European Union - 27 countries (from 2020); BE=Belgium; BG=Bulgaria; CZ=Czechia; DK=Denmark; DE=Germany; EE=Estonia; IE=Ireland; EL=Greece; ES=Spain; FR=France; HR=Croatia; IT=Italy; CY=Cyprus; LV=Latvia; LT=Lithuania; LU=Luxembourg; HU=Hungary; MT=Malta; NL=Netherlands; AT=Austria; PL=Poland; PT=Portugal; RO=Romania; SI=Slovenia; SK=Slovakia; FI=Finland; SE=Sweden; IS=Iceland; NO=Norway
 # indic_em: EMP_LFS=Total employment (resident population concept - LFS)
