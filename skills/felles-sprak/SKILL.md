@@ -5,7 +5,7 @@ description: "Departementets skriveregler og nynorskføringer. Bruk ved alle sp�
 
 # Språk og skriveregler
 
-**Versjon 2026-10-22.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Feiler hentingen, la det være.
+**Versjon 2026-11-02.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
 
 Reglene ligger ikke i denne skillen. De ligger i et felles repo på GitHub og hentes ved hvert oppslag.
 

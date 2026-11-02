@@ -5,7 +5,7 @@ description: "Felles datakatalog for norsk statistikk og tall - SSB, Nav (sykefr
 
 # Datakatalogen
 
-**Versjon 2026-10-22.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Står det et driftsvarsel der for et område svaret bygger på, si kort til brukeren at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
+**Versjon 2026-11-02.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Står det et driftsvarsel der for et område svaret bygger på, si kort aller først i svaret, før selve svaret, at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
 
 Selve tallene ligger ikke i denne skillen. Katalogen over hvilken kilde og tabell som svarer på hva ligger i et felles repo på GitHub og hentes ved hvert oppslag. Tallene hentes fra kilden.
 

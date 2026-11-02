@@ -5,12 +5,12 @@ Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med d
 | Skill | Versjon |
 |---|---|
 | felles-intern | 2026-10-22 |
-| felles-sprak | 2026-10-22 |
-| felles-regelverk | 2026-11-02 |
-| felles-budsjett | 2026-10-22 |
-| felles-data | 2026-10-22 |
-| felles-analyse | 2026-10-21 |
-| felles-skillbygger | 2026-10-22 |
+| felles-sprak | 2026-11-02 |
+| felles-regelverk | 2026-11-02.2 |
+| felles-budsjett | 2026-11-02 |
+| felles-data | 2026-11-02 |
+| felles-analyse | 2026-11-02 |
+| felles-skillbygger | 2026-11-02 |
 
 ## Driftsvarsel
 
