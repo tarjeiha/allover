@@ -5,7 +5,7 @@ description: "Companion-skill til skill-creator for de felles skillene i departe
 
 # Skill-bygging for de felles skillene
 
-**Versjon 2026-10-22.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Feiler hentingen, la det være.
+**Versjon 2026-11-02.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
 
 Companion-skill til skill-creator. Den dekker det som er særskilt for de felles skillene: om noe bør bli en skill i det hele tatt, hvor innholdet skal ligge, hvordan skillen testes, og hvordan den lagres og deles. Skillen brukes av alle ansatte som vil lage en skill, ikke bare av prosjektlederen og bidragsyterne, så forklar valgene i vanlig språk, ikke bare utfallet.
 

@@ -5,7 +5,7 @@ description: "Statsbudsjettet - bevilgninger per kapittel og post, forslag mot s
 
 # Statsbudsjettet
 
-**Versjon 2026-10-22.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, si én gang, til slutt i svaret: «Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Står det et driftsvarsel der for et område svaret bygger på, si kort til brukeren at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
+**Versjon 2026-11-02.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Står det et driftsvarsel der for et område svaret bygger på, si kort aller først i svaret, før selve svaret, at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
 
 Budsjettdokumentene ligger ikke i denne skillen. De ligger i et felles repo på GitHub og hentes ved hvert oppslag.
 
