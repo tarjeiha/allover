@@ -44,6 +44,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse – FOR-2025-06-20-1182. Sist endret i kraft: 2026-01-14. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om forsøk med fireårig lønnstilskudd for unge – FOR-2026-02-04-163. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet – FOR-2024-07-02-1800. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om forlengelse av fristen for masseoppsigelsers virkning – FOR-2026-10-11-2047. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -445,4 +446,11 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 5. Innhold – `forskrifter/pilot-oppfolging-vta/par-5.md`
 - § 6. Avgjørelsesmyndighet – `forskrifter/pilot-oppfolging-vta/par-6.md`
 - § 7. Ikrafttredelse – `forskrifter/pilot-oppfolging-vta/par-7.md`
+
+### Forskrift om forlengelse av fristen for masseoppsigelsers virkning
+
+- § 1. – `forskrifter/frist-masseoppsigelser/par-1.md`
+- § 2. – `forskrifter/frist-masseoppsigelser/par-2.md`
+- § 3. – `forskrifter/frist-masseoppsigelser/par-3.md`
+- § 4. – `forskrifter/frist-masseoppsigelser/par-4.md`
 <!-- AUTO-SLUTT -->

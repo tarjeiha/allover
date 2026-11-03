@@ -81,7 +81,6 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier) – FOR-2011-12-06-1358. Sist endret i kraft: 2026-06-05. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om konstruksjon, utforming og fremstilling av arbeidsutstyr og kjemikalier (produsentforskriften) – FOR-2011-12-06-1359. Sist endret i kraft: 2020-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften) – FOR-2009-08-03-1028. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
-- **Forskrift:** Forskrift om forlengelse av fristen for masseoppsigelsers virkning – FOR-2026-10-11-2047. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften) – FOR-2010-02-12-158. Sist endret i kraft: 2024-01-01. Forvaltes av: Energidepartementet.
 - **Forskrift:** Forskrift om styring og opplysningsplikt i petroleumsvirksomheten og på enkelte landanlegg (styringsforskriften) – FOR-2010-04-29-611. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
 - **Forskrift:** Forskrift om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer (teknisk og operasjonell forskrift) – FOR-2010-04-29-612. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet.
@@ -1962,13 +1961,6 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Kapittel 6. Avsluttende bestemmelser**
 
 - § 21. Ikrafttredelse og overgangsbestemmelser – `forskrifter/byggherreforskriften/par-21.md`
-
-### Forskrift om forlengelse av fristen for masseoppsigelsers virkning
-
-- § 1. – `forskrifter/frist-masseoppsigelser/par-1.md`
-- § 2. – `forskrifter/frist-masseoppsigelser/par-2.md`
-- § 3. – `forskrifter/frist-masseoppsigelser/par-3.md`
-- § 4. – `forskrifter/frist-masseoppsigelser/par-4.md`
 
 ### Forskrift om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften)
 

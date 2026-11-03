@@ -8,8 +8,8 @@ Følgende lov oppheves:
 
 Endringer i følgende lover:
 
-1 Lov 29. januar 1999 nr. 6 om interkommunale selskaper (IKS-loven) .
-2 Lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven) .
+1. Lov 29. januar 1999 nr. 6 om interkommunale selskaper (IKS-loven) .
+2. Lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven) .
 
 ## Kapittel 1 Lovens formål og virkeområde
 
