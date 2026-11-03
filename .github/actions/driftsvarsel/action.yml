@@ -1,0 +1,42 @@
+name: Driftsvarsel
+description: >-
+  Skriver en sak med etiketten «driftsvarsel». Finnes det en åpen sak med samme tittel,
+  legges varselet til som kommentar. Claude går gjennom sakene med denne etiketten.
+
+inputs:
+  tittel:
+    description: "Tittel på saken, f.eks. «Stortinget-oppdatering: feil»"
+    required: true
+  tekst:
+    description: Første linje i varselet
+    required: true
+  fil:
+    description: Fil med detaljer som legges under teksten (valgfri)
+    required: false
+    default: ""
+
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      env:
+        GH_TOKEN: ${{ github.token }}
+        TITTEL: ${{ inputs.tittel }}
+        TEKST: ${{ inputs.tekst }}
+        FIL: ${{ inputs.fil }}
+        KJORING: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      run: |
+        {
+          echo "@tarjeiha: $TEKST"
+          echo
+          echo "Kjøring: $KJORING"
+          if [ -n "$FIL" ] && [ -s "$FIL" ]; then echo; cat "$FIL"; fi
+        } > "$RUNNER_TEMP/driftsvarsel.txt"
+        gh label create driftsvarsel --color FBCA04 --description "Varsel fra en fast jobb. Claude går gjennom disse." --force >/dev/null
+        nr=$(gh issue list --state open --search "\"$TITTEL\" in:title" --json number --jq '.[0].number')
+        if [ -n "$nr" ]; then
+          gh issue comment "$nr" --body-file "$RUNNER_TEMP/driftsvarsel.txt"
+          gh issue edit "$nr" --add-label driftsvarsel >/dev/null
+        else
+          gh issue create --title "$TITTEL" --assignee tarjeiha --label driftsvarsel --body-file "$RUNNER_TEMP/driftsvarsel.txt"
+        fi

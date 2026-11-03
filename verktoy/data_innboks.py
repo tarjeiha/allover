@@ -11,8 +11,9 @@ For hver .xlsx-fil i innboks-data/:
   2. Hvert ark konverteres med verktoy/nav_xlsx.py. Er et tall i xlsx-filen borte i TSV-en
      (eller omvendt), legges ingenting inn.
   3. Originalen flyttes til data/nav/<mappe>/original/, og data/nav/indeks.tsv bygges på nytt.
-Tabeller med "maanedsfiler": true leveres som én fil per måned (Søknader om dagpenger, næring); måneden
-leses fra «Januar 2026 fra 01.01 til 31.01», og månedene slås sammen med kolonnen «maaned».
+Tabeller med "maanedsfiler": true leveres som én fil per måned (Søknader om dagpenger, næring; helt ledige
+etter kommune, HL301); måneden leses fra «Januar 2026 fra 01.01 til 31.01» i filen, eller fra «Oktober 2026»
+i filnavnet når filen ikke sier det selv, og månedene slås sammen med kolonnen «maaned».
 Tabeller med "kvartalsfiler": true i kilder.json (Navs sykefraværstabeller) leveres som egne filer
 per kvartal. Kvartalet leses fra overskriftsraden i filen («2. kvartal»). Originalene ligger i
 data/nav/<mappe>/original/, og TSV-filene bygges om fra alle originalene hver gang, slik at hver
@@ -156,7 +157,10 @@ MAANEDER = ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august
 
 
 def finn_maaned(fil):
-    """Måneden (åååå-mm) fra teksten «Januar 2026 fra 01.01 til 31.01» i overskriftsradene."""
+    """Måneden (åååå-mm) fra teksten «Januar 2026 fra 01.01 til 31.01» i overskriftsradene.
+
+    Står måneden ikke i filen (HL301 har bare en tabell), brukes «Oktober 2026» i filnavnet.
+    """
     import openpyxl
     wb = openpyxl.load_workbook(fil, read_only=True, data_only=True)
     funnet = set()
@@ -169,9 +173,12 @@ def finn_maaned(fil):
                 if m:
                     funnet.add(f"{m.group(2)}-{MAANEDER.index(m.group(1).lower()) + 1:02d}")
     wb.close()
+    if not funnet:
+        for m in re.finditer(r"(?<![a-zæøå])(" + "|".join(MAANEDER) + r")[\s_.\-]+(\d{4})(?!\d)", fil.name, re.I):
+            funnet.add(f"{m.group(2)}-{MAANEDER.index(m.group(1).lower()) + 1:02d}")
     if len(funnet) != 1:
         raise ValueError(
-            "Fant ikke en entydig måned i overskriftsradene (fant: "
+            "Fant ikke en entydig måned i overskriftsradene eller filnavnet (fant: "
             + (", ".join(sorted(funnet)) or "ingen") + ")."
         )
     return funnet.pop()

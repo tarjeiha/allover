@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: rundskriv
@@ -58,3 +59,10 @@ jobs:
       - name: Vis resultatet
         if: always()
         run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "R45 er uendret." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Varsle om feil
+        if: failure()
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "R45-henting: feil"
+          tekst: "den nattlige hentingen av Navs EØS-rundskriv (R45) feilet. Se kjøringen, eller be Claude se på det."

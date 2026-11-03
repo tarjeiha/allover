@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: rundskriv
@@ -58,3 +59,10 @@ jobs:
       - name: Vis resultatet
         if: always()
         run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Ingenting å legge inn." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Varsle om feil
+        if: failure()
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Henting av rundskriv: feil"
+          tekst: "hentingen av rundskriv fra Lovdata feilet. Se kjøringen, eller be Claude se på det."

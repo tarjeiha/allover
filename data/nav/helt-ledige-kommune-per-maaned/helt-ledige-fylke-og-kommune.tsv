@@ -1,0 +1,384 @@
+# Kilde: Nav
+# Tabell: Helt ledige etter fylke og kommune, én fil per måned fra oktober 2026 (HL301)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
+# Lagt inn: 2026-11-03
+# Perioder: 2026-10
+# Ark: Helt ledige fylke og kommune
+maaned	Fylkenr	Fylkenavn	Kommunenr	Kommunenavn	Antall helt ledige	Helt ledige i prosent av arbeidsstyrken
+2026-10	00	Norge	00	Norge	59142	2
+2026-10	03	Oslo - Oslove	0301	Oslo - Oslove	11020	2.7
+2026-10	03	Oslo - Oslove	03	Oslo - Oslove	11020	2.7
+2026-10	11	Rogaland	1101	Eigersund	185	2.3
+2026-10	11	Rogaland	1103	Stavanger	1885	2.3
+2026-10	11	Rogaland	1106	Haugesund	430	2.2
+2026-10	11	Rogaland	1108	Sandnes	997	2.2
+2026-10	11	Rogaland	1111	Sokndal	26	1.6
+2026-10	11	Rogaland	1112	Lund	15	1
+2026-10	11	Rogaland	1114	Bjerkreim	15	0.9
+2026-10	11	Rogaland	1119	Hå	125	1.2
+2026-10	11	Rogaland	1120	Klepp	154	1.3
+2026-10	11	Rogaland	1121	Time	142	1.3
+2026-10	11	Rogaland	1122	Gjesdal	116	1.7
+2026-10	11	Rogaland	1124	Sola	296	1.8
+2026-10	11	Rogaland	1127	Randaberg	85	1.3
+2026-10	11	Rogaland	1130	Strand	89	1.2
+2026-10	11	Rogaland	1133	Hjelmeland	16	1.1
+2026-10	11	Rogaland	1134	Suldal	21	1.1
+2026-10	11	Rogaland	1135	Sauda	20	0.9
+2026-10	11	Rogaland	1144	Kvitsøy	5	1.6
+2026-10	11	Rogaland	1145	Bokn	14	2.8
+2026-10	11	Rogaland	1146	Tysvær	68	1.1
+2026-10	11	Rogaland	1149	Karmøy	415	1.9
+2026-10	11	Rogaland	1151	Utsira	*	*
+2026-10	11	Rogaland	1160	Vindafjord	51	1
+2026-10	11	Rogaland	11	Rogaland	5172	1.9
+2026-10	15	Møre og Romsdal	1505	Kristiansund	221	1.8
+2026-10	15	Møre og Romsdal	1506	Molde	269	1.6
+2026-10	15	Møre og Romsdal	1508	Ålesund	533	1.6
+2026-10	15	Møre og Romsdal	1511	Vanylven	15	1
+2026-10	15	Møre og Romsdal	1514	Sande	18	1.5
+2026-10	15	Møre og Romsdal	1515	Herøy (Møre og Romsdal)	85	1.9
+2026-10	15	Møre og Romsdal	1516	Ulstein	57	1.2
+2026-10	15	Møre og Romsdal	1517	Hareid	54	2.1
+2026-10	15	Møre og Romsdal	1520	Ørsta	87	1.5
+2026-10	15	Møre og Romsdal	1525	Stranda	41	1.8
+2026-10	15	Møre og Romsdal	1528	Sykkylven	56	1.4
+2026-10	15	Møre og Romsdal	1531	Sula	72	1.4
+2026-10	15	Møre og Romsdal	1532	Giske	48	1
+2026-10	15	Møre og Romsdal	1535	Vestnes	61	1.7
+2026-10	15	Møre og Romsdal	1539	Rauma	38	1
+2026-10	15	Møre og Romsdal	1547	Aukra	27	1.4
+2026-10	15	Møre og Romsdal	1554	Averøy	50	1.7
+2026-10	15	Møre og Romsdal	1557	Gjemnes	30	2.1
+2026-10	15	Møre og Romsdal	1560	Tingvoll	31	2.1
+2026-10	15	Møre og Romsdal	1563	Sunndal	65	1.9
+2026-10	15	Møre og Romsdal	1566	Surnadal	38	1.3
+2026-10	15	Møre og Romsdal	1573	Smøla	13	1.2
+2026-10	15	Møre og Romsdal	1576	Aure	15	0.9
+2026-10	15	Møre og Romsdal	1577	Volda	100	1.8
+2026-10	15	Møre og Romsdal	1578	Fjord	15	1.1
+2026-10	15	Møre og Romsdal	1579	Hustadvika	91	1.3
+2026-10	15	Møre og Romsdal	1580	Haram	90	1.9
+2026-10	15	Møre og Romsdal	15	Møre og Romsdal	2220	1.6
+2026-10	18	Nordland - Nordlánnda	1804	Bodø	347	1.2
+2026-10	18	Nordland - Nordlánnda	1806	Narvik	123	1.2
+2026-10	18	Nordland - Nordlánnda	1811	Bindal	20	3.3
+2026-10	18	Nordland - Nordlánnda	1812	Sømna	11	1.1
+2026-10	18	Nordland - Nordlánnda	1813	Brønnøy	44	1.1
+2026-10	18	Nordland - Nordlánnda	1815	Vega	16	2.7
+2026-10	18	Nordland - Nordlánnda	1816	Vevelstad	5	2.3
+2026-10	18	Nordland - Nordlánnda	1818	Herøy (Nordland)	22	2.4
+2026-10	18	Nordland - Nordlánnda	1820	Alstahaug	74	2
+2026-10	18	Nordland - Nordlánnda	1822	Leirfjord	41	3.8
+2026-10	18	Nordland - Nordlánnda	1824	Vefsn	78	1.1
+2026-10	18	Nordland - Nordlánnda	1825	Grane	*	*
+2026-10	18	Nordland - Nordlánnda	1826	Aarborte - Hattfjelldal	15	2.5
+2026-10	18	Nordland - Nordlánnda	1827	Dønna	15	2.3
+2026-10	18	Nordland - Nordlánnda	1828	Nesna	11	1.3
+2026-10	18	Nordland - Nordlánnda	1832	Hemnes	25	1.2
+2026-10	18	Nordland - Nordlánnda	1833	Rana - Raane	173	1.3
+2026-10	18	Nordland - Nordlánnda	1834	Lurøy	21	2.1
+2026-10	18	Nordland - Nordlánnda	1835	Træna	6	2.5
+2026-10	18	Nordland - Nordlánnda	1836	Rødøy	12	2.2
+2026-10	18	Nordland - Nordlánnda	1837	Meløy	37	1.2
+2026-10	18	Nordland - Nordlánnda	1838	Gildeskål	18	1.9
+2026-10	18	Nordland - Nordlánnda	1839	Beiarn	14	3.1
+2026-10	18	Nordland - Nordlánnda	1840	Saltdal	36	1.6
+2026-10	18	Nordland - Nordlánnda	1841	Fauske - Fuossko	59	1.2
+2026-10	18	Nordland - Nordlánnda	1845	Sørfold - Fuolldá	10	1.2
+2026-10	18	Nordland - Nordlánnda	1848	Steigen	10	0.7
+2026-10	18	Nordland - Nordlánnda	1851	Lødingen	8	0.9
+2026-10	18	Nordland - Nordlánnda	1853	Evenes - Evenášši	8	1.2
+2026-10	18	Nordland - Nordlánnda	1856	Røst	12	4.6
+2026-10	18	Nordland - Nordlánnda	1857	Værøy	12	3.6
+2026-10	18	Nordland - Nordlánnda	1859	Flakstad	23	3.7
+2026-10	18	Nordland - Nordlánnda	1860	Vestvågøy	96	1.6
+2026-10	18	Nordland - Nordlánnda	1865	Vågan	130	2.5
+2026-10	18	Nordland - Nordlánnda	1866	Hadsel	56	1.3
+2026-10	18	Nordland - Nordlánnda	1867	Bø	18	1.5
+2026-10	18	Nordland - Nordlánnda	1868	Øksnes	61	2.7
+2026-10	18	Nordland - Nordlánnda	1870	Sortland - Suortá	58	1.1
+2026-10	18	Nordland - Nordlánnda	1871	Andøy	29	1.3
+2026-10	18	Nordland - Nordlánnda	1874	Moskenes	26	5.1
+2026-10	18	Nordland - Nordlánnda	1875	Hábmer - Hamarøy	40	3.1
+2026-10	18	Nordland - Nordlánnda	18	Nordland - Nordlánnda	1823	1.5
+2026-10	31	Østfold	3101	Halden	380	2.6
+2026-10	31	Østfold	3103	Moss	676	2.6
+2026-10	31	Østfold	3105	Sarpsborg	858	3
+2026-10	31	Østfold	3107	Fredrikstad	1148	2.8
+2026-10	31	Østfold	3110	Hvaler	46	2.2
+2026-10	31	Østfold	3112	Råde	80	2
+2026-10	31	Østfold	3114	Våler (Østfold)	48	1.5
+2026-10	31	Østfold	3116	Skiptvet	41	2
+2026-10	31	Østfold	3118	Indre Østfold	503	2.2
+2026-10	31	Østfold	3120	Rakkestad	84	2
+2026-10	31	Østfold	3122	Marker	28	1.7
+2026-10	31	Østfold	3124	Aremark	12	1.8
+2026-10	31	Østfold	31	Østfold	3904	2.6
+2026-10	32	Akershus	3201	Bærum	1424	2
+2026-10	32	Akershus	3203	Asker	1029	1.9
+2026-10	32	Akershus	3205	Lillestrøm	1237	2.4
+2026-10	32	Akershus	3207	Nordre Follo	821	2.4
+2026-10	32	Akershus	3209	Ullensaker	785	3.2
+2026-10	32	Akershus	3212	Nesodden	236	2.2
+2026-10	32	Akershus	3214	Frogn	191	2.2
+2026-10	32	Akershus	3216	Vestby	194	1.9
+2026-10	32	Akershus	3218	Ås	365	3
+2026-10	32	Akershus	3220	Enebakk	155	2.5
+2026-10	32	Akershus	3222	Lørenskog	866	3.1
+2026-10	32	Akershus	3224	Rælingen	220	1.9
+2026-10	32	Akershus	3226	Aurskog-Høland	168	1.8
+2026-10	32	Akershus	3228	Nes	263	2.1
+2026-10	32	Akershus	3230	Gjerdrum	68	1.7
+2026-10	32	Akershus	3232	Nittedal	267	1.9
+2026-10	32	Akershus	3234	Lunner	102	2.1
+2026-10	32	Akershus	3236	Jevnaker	79	2.2
+2026-10	32	Akershus	3238	Nannestad	192	2.1
+2026-10	32	Akershus	3240	Eidsvoll	354	2.4
+2026-10	32	Akershus	3242	Hurdal	28	1.9
+2026-10	32	Akershus	32	Akershus	9044	2.3
+2026-10	33	Buskerud	3301	Drammen	1386	2.6
+2026-10	33	Buskerud	3303	Kongsberg	259	1.7
+2026-10	33	Buskerud	3305	Ringerike	325	2.1
+2026-10	33	Buskerud	3310	Hole	83	2.2
+2026-10	33	Buskerud	3312	Lier	302	2
+2026-10	33	Buskerud	3314	Øvre Eiker	184	1.7
+2026-10	33	Buskerud	3316	Modum	154	2.2
+2026-10	33	Buskerud	3318	Krødsherad	26	2.2
+2026-10	33	Buskerud	3320	Flå	5	0.9
+2026-10	33	Buskerud	3322	Nesbyen	21	1.3
+2026-10	33	Buskerud	3324	Gol	31	1.2
+2026-10	33	Buskerud	3326	Hemsedal	41	2.7
+2026-10	33	Buskerud	3328	Ål	26	1
+2026-10	33	Buskerud	3330	Hol	38	1.5
+2026-10	33	Buskerud	3332	Sigdal	37	2
+2026-10	33	Buskerud	3334	Flesberg	24	1.7
+2026-10	33	Buskerud	3336	Rollag	13	1.7
+2026-10	33	Buskerud	3338	Nore og Uvdal	26	1.9
+2026-10	33	Buskerud	33	Buskerud	2981	2.1
+2026-10	34	Innlandet	3401	Kongsvinger	184	2.2
+2026-10	34	Innlandet	3403	Hamar	328	2
+2026-10	34	Innlandet	3405	Lillehammer	170	1.1
+2026-10	34	Innlandet	3407	Gjøvik	300	1.9
+2026-10	34	Innlandet	3411	Ringsaker	261	1.4
+2026-10	34	Innlandet	3412	Løten	66	1.7
+2026-10	34	Innlandet	3413	Stange	171	1.6
+2026-10	34	Innlandet	3414	Nord-Odal	42	1.9
+2026-10	34	Innlandet	3415	Sør-Odal	87	2.2
+2026-10	34	Innlandet	3416	Eidskog	63	2.4
+2026-10	34	Innlandet	3417	Grue	51	2.6
+2026-10	34	Innlandet	3418	Åsnes	54	1.7
+2026-10	34	Innlandet	3419	Våler (Innlandet)	32	1.9
+2026-10	34	Innlandet	3420	Elverum	200	1.9
+2026-10	34	Innlandet	3421	Trysil	100	3.1
+2026-10	34	Innlandet	3422	Åmot	39	1.9
+2026-10	34	Innlandet	3423	Stor-Elvdal	8	0.8
+2026-10	34	Innlandet	3424	Rendalen	11	1.3
+2026-10	34	Innlandet	3425	Engerdal	16	2.6
+2026-10	34	Innlandet	3426	Tolga	9	1
+2026-10	34	Innlandet	3427	Tynset	25	0.8
+2026-10	34	Innlandet	3428	Alvdal	11	0.8
+2026-10	34	Innlandet	3429	Folldal	8	1
+2026-10	34	Innlandet	3430	Os	19	1.9
+2026-10	34	Innlandet	3431	Dovre	7	0.6
+2026-10	34	Innlandet	3432	Lesja	6	0.6
+2026-10	34	Innlandet	3433	Skjåk	8	0.7
+2026-10	34	Innlandet	3434	Lom	9	0.8
+2026-10	34	Innlandet	3435	Vågå	13	0.7
+2026-10	34	Innlandet	3436	Nord-Fron	26	0.9
+2026-10	34	Innlandet	3437	Sel	32	1.2
+2026-10	34	Innlandet	3438	Sør-Fron	19	1.2
+2026-10	34	Innlandet	3439	Ringebu	25	1.2
+2026-10	34	Innlandet	3440	Øyer	32	1.3
+2026-10	34	Innlandet	3441	Gausdal	30	0.9
+2026-10	34	Innlandet	3442	Østre Toten	115	1.5
+2026-10	34	Innlandet	3443	Vestre Toten	125	1.8
+2026-10	34	Innlandet	3446	Gran	117	1.7
+2026-10	34	Innlandet	3447	Søndre Land	52	2.1
+2026-10	34	Innlandet	3448	Nordre Land	51	1.6
+2026-10	34	Innlandet	3449	Sør-Aurdal	19	1.3
+2026-10	34	Innlandet	3450	Etnedal	8	1.3
+2026-10	34	Innlandet	3451	Nord-Aurdal	42	1.3
+2026-10	34	Innlandet	3452	Vestre Slidre	11	0.9
+2026-10	34	Innlandet	3453	Øystre Slidre	24	1.3
+2026-10	34	Innlandet	3454	Vang	12	1.4
+2026-10	34	Innlandet	34	Innlandet	3038	1.6
+2026-10	39	Vestfold	3901	Horten	381	2.8
+2026-10	39	Vestfold	3903	Holmestrand	262	1.9
+2026-10	39	Vestfold	3905	Tønsberg	751	2.4
+2026-10	39	Vestfold	3907	Sandefjord	713	2.2
+2026-10	39	Vestfold	3909	Larvik	428	1.8
+2026-10	39	Vestfold	3911	Færder	255	1.9
+2026-10	39	Vestfold	39	Vestfold	2790	2.2
+2026-10	40	Telemark	4001	Porsgrunn	486	2.6
+2026-10	40	Telemark	4003	Skien	620	2.2
+2026-10	40	Telemark	4005	Notodden	161	2.5
+2026-10	40	Telemark	4010	Siljan	16	1.3
+2026-10	40	Telemark	4012	Bamble	146	2.1
+2026-10	40	Telemark	4014	Kragerø	106	2.2
+2026-10	40	Telemark	4016	Drangedal	35	1.8
+2026-10	40	Telemark	4018	Nome	63	2
+2026-10	40	Telemark	4020	Midt-Telemark	134	2.5
+2026-10	40	Telemark	4022	Seljord	27	1.8
+2026-10	40	Telemark	4024	Hjartdal	13	1.6
+2026-10	40	Telemark	4026	Tinn	32	1.1
+2026-10	40	Telemark	4028	Kviteseid	15	1.2
+2026-10	40	Telemark	4030	Nissedal	10	1.4
+2026-10	40	Telemark	4032	Fyresdal	6	0.9
+2026-10	40	Telemark	4034	Tokke	18	1.5
+2026-10	40	Telemark	4036	Vinje	36	1.8
+2026-10	40	Telemark	40	Telemark	1924	2.2
+2026-10	42	Agder	4201	Risør	71	2.4
+2026-10	42	Agder	4202	Grimstad	225	1.8
+2026-10	42	Agder	4203	Arendal	515	2.3
+2026-10	42	Agder	4204	Kristiansand	1246	2.1
+2026-10	42	Agder	4205	Lindesnes	184	1.6
+2026-10	42	Agder	4206	Farsund	67	1.4
+2026-10	42	Agder	4207	Flekkefjord	71	1.5
+2026-10	42	Agder	4211	Gjerstad	27	2.3
+2026-10	42	Agder	4212	Vegårshei	19	1.7
+2026-10	42	Agder	4213	Tvedestrand	68	2.2
+2026-10	42	Agder	4214	Froland	40	1.3
+2026-10	42	Agder	4215	Lillesand	129	2.2
+2026-10	42	Agder	4216	Birkenes	43	1.6
+2026-10	42	Agder	4217	Åmli	6	0.7
+2026-10	42	Agder	4218	Iveland	6	0.9
+2026-10	42	Agder	4219	Evje og Hornnes	23	1.3
+2026-10	42	Agder	4220	Bygland	9	1.6
+2026-10	42	Agder	4221	Valle	10	1.5
+2026-10	42	Agder	4222	Bykle	15	2.5
+2026-10	42	Agder	4223	Vennesla	122	1.6
+2026-10	42	Agder	4224	Åseral	5	1
+2026-10	42	Agder	4225	Lyngdal	66	1.2
+2026-10	42	Agder	4226	Hægebostad	7	0.7
+2026-10	42	Agder	4227	Kvinesdal	48	1.6
+2026-10	42	Agder	4228	Sirdal	20	1.9
+2026-10	42	Agder	42	Agder	3042	1.9
+2026-10	46	Vestland	4601	Bergen	3016	1.9
+2026-10	46	Vestland	4602	Kinn	163	1.8
+2026-10	46	Vestland	4611	Etne	23	1.1
+2026-10	46	Vestland	4612	Sveio	28	1
+2026-10	46	Vestland	4613	Bømlo	85	1.3
+2026-10	46	Vestland	4614	Stord	105	1
+2026-10	46	Vestland	4615	Fitjar	13	0.8
+2026-10	46	Vestland	4616	Tysnes	19	1.4
+2026-10	46	Vestland	4617	Kvinnherad	55	0.8
+2026-10	46	Vestland	4618	Ullensvang	70	1.2
+2026-10	46	Vestland	4619	Eidfjord	13	2.5
+2026-10	46	Vestland	4620	Ulvik	7	1.3
+2026-10	46	Vestland	4621	Voss	115	1.3
+2026-10	46	Vestland	4622	Kvam	40	0.9
+2026-10	46	Vestland	4623	Samnanger	15	1.3
+2026-10	46	Vestland	4624	Bjørnafjorden	160	1.1
+2026-10	46	Vestland	4625	Austevoll	43	1.5
+2026-10	46	Vestland	4626	Øygarden	394	1.9
+2026-10	46	Vestland	4627	Askøy	239	1.5
+2026-10	46	Vestland	4628	Vaksdal	26	1.4
+2026-10	46	Vestland	4629	Modalen	4	2.1
+2026-10	46	Vestland	4630	Osterøy	34	0.8
+2026-10	46	Vestland	4631	Alver	161	1
+2026-10	46	Vestland	4632	Austrheim	18	1.3
+2026-10	46	Vestland	4633	Fedje	6	2.5
+2026-10	46	Vestland	4634	Masfjorden	6	0.7
+2026-10	46	Vestland	4635	Gulen	6	0.5
+2026-10	46	Vestland	4636	Solund	*	*
+2026-10	46	Vestland	4637	Hyllestad	4	0.6
+2026-10	46	Vestland	4638	Høyanger	29	1.5
+2026-10	46	Vestland	4639	Vik	12	0.9
+2026-10	46	Vestland	4640	Sogndal	85	1.2
+2026-10	46	Vestland	4641	Aurland	27	2.6
+2026-10	46	Vestland	4642	Lærdal	10	0.9
+2026-10	46	Vestland	4643	Årdal	43	1.7
+2026-10	46	Vestland	4644	Luster	52	1.8
+2026-10	46	Vestland	4645	Askvoll	25	1.7
+2026-10	46	Vestland	4646	Fjaler	14	1
+2026-10	46	Vestland	4647	Sunnfjord	139	1.1
+2026-10	46	Vestland	4648	Bremanger	25	1.5
+2026-10	46	Vestland	4649	Stad	41	0.8
+2026-10	46	Vestland	4650	Gloppen	52	1.7
+2026-10	46	Vestland	4651	Stryn	52	1.3
+2026-10	46	Vestland	46	Vestland	5475	1.6
+2026-10	50	Trøndelag - Trööndelage	5001	Trondheim - Tråante	2322	1.9
+2026-10	50	Trøndelag - Trööndelage	5006	Steinkjer - Stïentje	306	2.7
+2026-10	50	Trøndelag - Trööndelage	5007	Namsos - Nåavmesjenjaelmie	97	1.3
+2026-10	50	Trøndelag - Trööndelage	5014	Frøya	48	1.5
+2026-10	50	Trøndelag - Trööndelage	5020	Osen	5	1.2
+2026-10	50	Trøndelag - Trööndelage	5021	Oppdal	44	1.2
+2026-10	50	Trøndelag - Trööndelage	5022	Rennebu	22	1.8
+2026-10	50	Trøndelag - Trööndelage	5025	Røros - Rossen	37	1.3
+2026-10	50	Trøndelag - Trööndelage	5026	Holtålen	7	0.7
+2026-10	50	Trøndelag - Trööndelage	5027	Midtre Gauldal	37	1.2
+2026-10	50	Trøndelag - Trööndelage	5028	Melhus	161	1.7
+2026-10	50	Trøndelag - Trööndelage	5029	Skaun	83	1.8
+2026-10	50	Trøndelag - Trööndelage	5031	Malvik	161	2
+2026-10	50	Trøndelag - Trööndelage	5032	Selbu	27	1.2
+2026-10	50	Trøndelag - Trööndelage	5033	Tydal	5	1.4
+2026-10	50	Trøndelag - Trööndelage	5034	Meråker	39	3.5
+2026-10	50	Trøndelag - Trööndelage	5035	Stjørdal	257	2
+2026-10	50	Trøndelag - Trööndelage	5036	Frosta	19	1.5
+2026-10	50	Trøndelag - Trööndelage	5037	Levanger - Levangke	148	1.4
+2026-10	50	Trøndelag - Trööndelage	5038	Verdal	179	2.4
+2026-10	50	Trøndelag - Trööndelage	5041	Snåase - Snåsa	17	1.7
+2026-10	50	Trøndelag - Trööndelage	5042	Lierne	5	0.7
+2026-10	50	Trøndelag - Trööndelage	5043	Raarvihke - Røyrvik	6	2.8
+2026-10	50	Trøndelag - Trööndelage	5044	Namsskogan	15	3.9
+2026-10	50	Trøndelag - Trööndelage	5045	Grong	22	2.1
+2026-10	50	Trøndelag - Trööndelage	5046	Høylandet	11	1.7
+2026-10	50	Trøndelag - Trööndelage	5047	Overhalla	27	1.3
+2026-10	50	Trøndelag - Trööndelage	5049	Flatanger	13	2.2
+2026-10	50	Trøndelag - Trööndelage	5052	Leka	7	2.5
+2026-10	50	Trøndelag - Trööndelage	5053	Inderøy	79	2.2
+2026-10	50	Trøndelag - Trööndelage	5054	Indre Fosen	102	2.1
+2026-10	50	Trøndelag - Trööndelage	5055	Heim	58	2
+2026-10	50	Trøndelag - Trööndelage	5056	Hitra	56	1.9
+2026-10	50	Trøndelag - Trööndelage	5057	Ørland	94	1.8
+2026-10	50	Trøndelag - Trööndelage	5058	Åfjord	29	1.4
+2026-10	50	Trøndelag - Trööndelage	5059	Orkland	198	2.1
+2026-10	50	Trøndelag - Trööndelage	5060	Nærøysund	102	2
+2026-10	50	Trøndelag - Trööndelage	5061	Rindal	13	1.3
+2026-10	50	Trøndelag - Trööndelage	50	Trøndelag - Trööndelage	4858	1.9
+2026-10	55	Troms - Romsa - Tromssa	5501	Tromsø	471	1
+2026-10	55	Troms - Romsa - Tromssa	5503	Harstad - Hárstták	124	1
+2026-10	55	Troms - Romsa - Tromssa	5510	Kvæfjord	19	1.4
+2026-10	55	Troms - Romsa - Tromssa	5512	Dielddanuorri - Tjeldsund	20	1
+2026-10	55	Troms - Romsa - Tromssa	5514	Ibestad	15	2.6
+2026-10	55	Troms - Romsa - Tromssa	5516	Gratangen - Rivtták	9	1.8
+2026-10	55	Troms - Romsa - Tromssa	5518	Loabák - Lavangen	11	2.5
+2026-10	55	Troms - Romsa - Tromssa	5520	Bardu	7	0.3
+2026-10	55	Troms - Romsa - Tromssa	5522	Salangen	22	2.1
+2026-10	55	Troms - Romsa - Tromssa	5524	Målselv	33	0.9
+2026-10	55	Troms - Romsa - Tromssa	5526	Sørreisa	20	1.1
+2026-10	55	Troms - Romsa - Tromssa	5528	Dyrøy	7	1.5
+2026-10	55	Troms - Romsa - Tromssa	5530	Senja	75	1
+2026-10	55	Troms - Romsa - Tromssa	5532	Balsfjord	41	1.5
+2026-10	55	Troms - Romsa - Tromssa	5534	Karlsøy	17	1.6
+2026-10	55	Troms - Romsa - Tromssa	5536	Lyngen - Ivgu - Yykeä	18	1.4
+2026-10	55	Troms - Romsa - Tromssa	5538	Storfjord - Omasvuotna - Omasvuono	18	2
+2026-10	55	Troms - Romsa - Tromssa	5540	Gáivuotna - Kåfjord - Kaivuono	18	2
+2026-10	55	Troms - Romsa - Tromssa	5542	Skjervøy	20	1.5
+2026-10	55	Troms - Romsa - Tromssa	5544	Nordreisa - Ráisa - Raisi	43	1.8
+2026-10	55	Troms - Romsa - Tromssa	5546	Kvænangen	7	1.3
+2026-10	55	Troms - Romsa - Tromssa	55	Troms - Romsa - Tromssa	1015	1.1
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5601	Alta	170	1.4
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5603	Hammerfest - Hámmerfeasta	103	1.6
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5605	Sør-Varanger	85	1.6
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5607	Vadsø	52	1.8
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5610	Kárášjohka - Karasjok	25	1.9
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5612	Guovdageaidnu - Kautokeino	35	2.3
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5614	Loppa	17	4.1
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5616	Hasvik	31	6.3
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5618	Måsøy	24	4.4
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5620	Nordkapp	44	2.7
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5622	Porsanger - Porsángu - Porsanki	28	1.4
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5624	Lebesby	11	1.8
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5626	Gamvik	23	4.7
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5628	Deatnu - Tana	30	2.1
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5630	Berlevåg	11	2.7
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5632	Båtsfjord	49	4.5
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5634	Vardø	53	5.3
+2026-10	56	Finnmark - Finnmárku - Finmarkku	5636	Unjárga - Nesseby	7	1.7
+2026-10	56	Finnmark - Finnmárku - Finmarkku	56	Finnmark - Finnmárku - Finmarkku	798	2
+2026-10	97	Svalbard og øvrige områder	2100	Svalbard	20	
+2026-10	97	Svalbard og øvrige områder	97	Svalbard og øvrige områder	20	*
+2026-10	Ukjent	Ukjent	Ukjent	Ukjent	18	*
+2026-10	Ukjent	Ukjent	Ukjent	Ukjent	18	*

@@ -8,7 +8,8 @@ Bruk:
 For hver kildeside i data/nav/kilder.json:
   1. Siden leses, og alle xlsx-lenker (/_/attachment/...) plukkes ut.
   2. Filnavnet kobles til en kjent tabell med samme mønster som innboksen bruker.
-     Filer uten treff lastes ikke ned, men står i rapporten.
+     Filer uten treff lastes ikke ned, men står i rapporten. Filer som er valgt bort
+     («hopp_over» i kilder.json), telles bare.
   3. Filen lastes ned og sammenlignes (sha256) med originalene som allerede ligger i
      data/nav/<mappe>/ (også kvartalsmappene). Er den ny, legges den i innboks-data/,
      og data_innboks.py leser den inn med de samme kontrollene som ved manuell opplasting.
@@ -32,7 +33,7 @@ import urllib.request
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from data_innboks import INNBOKS, NAV, finn_tabell  # noqa: E402
+from data_innboks import INNBOKS, NAV, finn_tabell, normaliser  # noqa: E402
 
 ROT = Path(__file__).resolve().parent.parent
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
@@ -94,10 +95,13 @@ def lagre_sidedatoer(datoer):
 
 
 def main(tor=False):
-    tabeller = json.loads((NAV / "kilder.json").read_text(encoding="utf-8"))["tabeller"]
+    kilder = json.loads((NAV / "kilder.json").read_text(encoding="utf-8"))
+    tabeller = kilder["tabeller"]
+    hopp_over = [h["monster"] for h in kilder.get("hopp_over", [])]
     sider = sorted({t["kildeside"] for t in tabeller if t["kildeside"].startswith("http")})
     kjente = kjente_hasher()
     nye, uendret, ukjente, feil = [], 0, [], []
+    valgt_bort = 0
     sett = set()
     datoer = {}
     for side in sider:
@@ -115,6 +119,9 @@ def main(tor=False):
             fil = Path(navn)
             t = finn_tabell(fil, tabeller)
             if t["kildeside"].startswith("ukjent"):
+                if any(re.search(m, normaliser(fil.stem)) for m in hopp_over):
+                    valgt_bort += 1
+                    continue
                 ukjente.append(f"{navn} (på {side})")
                 continue
             if "arkiv" in side and t["kildeside"] != side:
@@ -134,7 +141,7 @@ def main(tor=False):
                 (INNBOKS / navn).write_bytes(data)
     if not tor:
         lagre_sidedatoer(datoer)
-    linjer = [f"Nav-henting: {len(nye)} ny(e) fil(er), {uendret} uendret, {len(ukjente)} uten treff i kilder.json, {len(feil)} feil", ""]
+    linjer = [f"Nav-henting: {len(nye)} ny(e) fil(er), {uendret} uendret, {len(ukjente)} uten treff i kilder.json, {valgt_bort} valgt bort, {len(feil)} feil", ""]
     if nye:
         linjer += ["Nye filer:"] + [f"- {n}" for n in nye] + [""]
     if ukjente:

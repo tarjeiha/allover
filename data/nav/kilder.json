@@ -1,5 +1,5 @@
 {
- "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «maanedsfiler» betyr at Nav leverer én fil per måned (slås sammen med kolonnen «maaned»). «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da slås kvartalene sammen til én fil per ark med kolonnen «kvartal» (K1–K4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her.",
+ "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «maanedsfiler» betyr at Nav leverer én fil per måned (slås sammen med kolonnen «maaned»). «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da slås kvartalene sammen til én fil per ark med kolonnen «kvartal» (K1–K4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her. «hopp_over» er filer på Navs sider som er vurdert og valgt bort. De hentes ikke og meldes ikke som nye tabeller. Skriv hvorfor i «grunn».",
  "tabeller": [
   {
    "monster": "syfra2002",
@@ -646,6 +646,13 @@
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
   },
   {
+   "monster": "^hl301",
+   "mappe": "helt-ledige-kommune-per-maaned",
+   "tittel": "Helt ledige etter fylke og kommune, én fil per måned fra oktober 2026 (HL301)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet",
+   "maanedsfiler": true
+  },
+  {
    "monster": "^harb013",
    "mappe": "hovedtall-arbeidsmarkedet-permitterte",
    "tittel": "Hovedtall om arbeidsmarkedet, permitterte (HARB013)",
@@ -1059,5 +1066,6 @@
    "tittel": "Utbetalinger Finnmark (U500)",
    "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
   }
- ]
+ ],
+ "hopp_over": []
 }
