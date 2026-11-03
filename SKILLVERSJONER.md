@@ -4,7 +4,7 @@ Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med d
 
 | Skill | Versjon |
 |---|---|
-| felles-intern | 2026-10-22 |
+| felles-intern | 2026-11-02 |
 | felles-sprak | 2026-11-02 |
 | felles-regelverk | 2026-11-02.3 |
 | felles-budsjett | 2026-11-03 |
