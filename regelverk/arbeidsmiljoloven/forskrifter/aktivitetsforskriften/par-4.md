@@ -1,0 +1,15 @@
+# § 4. Koordinerende arbeidsmiljøutvalg for felt og felles, stedlige arbeidsmiljøutvalg for flyttbare innretninger
+
+**Kilde:** Forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften) § 4
+
+**1. ledd**
+
+Det skal opprettes et koordinerende arbeidsmiljøutvalg for hvert felt, eller, der det er gjennomgående enighet om det, et koordinerende arbeidsmiljøutvalg som dekker flere felt, der disse har felles ledelse og driftsorganisasjon, felles entreprenører og kontrakter, og der betydelige personellgrupper arbeider på flere av disse feltene. Det skal også opprettes et felles, stedlig arbeidsmiljøutvalg for hver enkelt flyttbar innretning. Utvalgene skal samordne og behandle verne- og miljøsaker, jf. rammeforskriften § 34 andre ledd.
+
+**2. ledd**
+
+Representanter for arbeidsgivere og arbeidstakere fra de ulike hovedaktivitetsområdene på feltet eller på den flyttbare innretningen skal delta i henholdsvis det koordinerende eller det felles, stedlige arbeidsmiljøutvalget. For flyttbare innretninger skal også en representant for operatøren delta, unntatt under forflytting.
+
+**3. ledd**
+
+Når en flyttbar innretning er en del av petroleumsvirksomheten på et felt, skal operatøren sørge for samordning mellom det felles, stedlige arbeidsmiljøutvalget og det koordinerende arbeidsmiljøutvalget.

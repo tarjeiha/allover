@@ -27,6 +27,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 ## Kilder
 
 - **Lov:** Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven) – LOV-2017-06-16-50. Sist endret i kraft: 2026-01-01. Forvaltes av: Kultur- og likestillingsdepartementet.
+- **Forskrift:** Forskrift om organisasjon, oppgaver og saksbehandling for Diskrimineringsnemnda – FOR-2017-12-20-2260. Sist endret i kraft: 2022-05-13. Forvaltes av: Kultur- og likestillingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -76,4 +77,18 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 23. Ikrafttredelse – `lov/par-23.md`
 - § 24. Overgangsregler – `lov/par-24.md`
 - § 25. Endringer i annen lovgivning – `lov/par-25.md`
+
+### Forskrift om organisasjon, oppgaver og saksbehandling for Diskrimineringsnemnda
+
+- § 1. Nemndas organisering – `forskrifter/diskrimineringsnemnda/par-1.md`
+- § 2. Sekretariat – `forskrifter/diskrimineringsnemnda/par-2.md`
+- § 3. Saksforberedelse – `forskrifter/diskrimineringsnemnda/par-3.md`
+- § 4. Avvisning og henleggelse – `forskrifter/diskrimineringsnemnda/par-4.md`
+- § 5. Muntlig forhandling – `forskrifter/diskrimineringsnemnda/par-5.md`
+- § 6. Møteinnkalling – `forskrifter/diskrimineringsnemnda/par-6.md`
+- § 7. Møteoffentlighet – `forskrifter/diskrimineringsnemnda/par-7.md`
+- § 8. Møter i nemnda – `forskrifter/diskrimineringsnemnda/par-8.md`
+- § 9. Innhold og begrunnelse – `forskrifter/diskrimineringsnemnda/par-9.md`
+- § 10. Underretning om nemndas vedtak og uttalelser – `forskrifter/diskrimineringsnemnda/par-10.md`
+- § 11. Ikrafttredelse – `forskrifter/diskrimineringsnemnda/par-11.md`
 <!-- AUTO-SLUTT -->

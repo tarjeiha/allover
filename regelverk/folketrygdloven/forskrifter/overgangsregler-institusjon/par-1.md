@@ -1,0 +1,12 @@
+# § 1. Virkeområde
+
+**Kilde:** Forskrift om overgangsregler for beregning av redusert ytelse under opphold i institusjon og under straffegjennomføring § 1
+
+**1. ledd**
+
+Denne forskriften gjelder for saker der et medlem per 31. desember 2014
+
+a. får fri forpleining under langtidsopphold i helseinstitusjon o.l. under statlig eller fylkeskommunalt ansvar eller
+b. sitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalter
+
+og samtidig mottar ytelser etter kapittel 12, 16, 17, 18 og 19 i folketrygdloven.

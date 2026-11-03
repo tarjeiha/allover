@@ -25,6 +25,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 ## Kilder
 
 - **Lov:** Lov om språk (språklova) – LOV-2021-05-21-42. Sist endret i kraft: 2025-07-01. Forvaltes av: Kultur- og likestillingsdepartementet.
+- **Forskrift:** Forskrift om målbruk i offentleg teneste – FOR-1980-12-05-4938. Sist endret i kraft: 1989-12-22. Forvaltes av: Kultur- og likestillingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -56,4 +57,15 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 20. Opplysningsplikt overfor Språkrådet – `lov/par-20.md`
 - § 21. Iverksetjing og overgangsreglar – `lov/par-21.md`
 - § 22. Endringar i andre lover – `lov/par-22.md`
+
+### Forskrift om målbruk i offentleg teneste
+
+- § 1. – `forskrifter/malbruk-offentleg-teneste/par-1.md`
+- § 2. – `forskrifter/malbruk-offentleg-teneste/par-2.md`
+- § 3. – `forskrifter/malbruk-offentleg-teneste/par-3.md`
+- § 4. – `forskrifter/malbruk-offentleg-teneste/par-4.md`
+- § 5. – `forskrifter/malbruk-offentleg-teneste/par-5.md`
+- § 6. – `forskrifter/malbruk-offentleg-teneste/par-6.md`
+- § 7. – `forskrifter/malbruk-offentleg-teneste/par-7.md`
+- § 8. – `forskrifter/malbruk-offentleg-teneste/par-8.md`
 <!-- AUTO-SLUTT -->

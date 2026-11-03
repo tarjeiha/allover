@@ -26,6 +26,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 - **Lov:** Lov om dokumentasjon og arkiv (arkivlova) – LOV-2025-06-20-96. Forvaltes av: Kultur- og likestillingsdepartementet.
 - **Forskrift:** Forskrift om dokumentasjon og arkiv (arkivforskrifta) – FOR-2025-12-17-2647. Forvaltes av: Kultur- og likestillingsdepartementet.
+- **Forskrift:** Forskrift om kva dokumentasjon som skal takast vare på for ettertida (bevaringsforskrifta) – FOR-2025-12-19-2729. Sist endret i kraft: 2026-01-07. Forvaltes av: Kultur- og likestillingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -162,4 +163,101 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `forskrifter/arkivforskrifta/utenfor-paragrafene.md`
+
+### Forskrift om kva dokumentasjon som skal takast vare på for ettertida (bevaringsforskrifta)
+
+**Kapittel 1. Innleiande reglar**
+
+- § 1. Kva forskrifta gjeld, og verkeområdet til dei ulike reglane – `forskrifter/bevaringsforskrifta/par-1.md`
+- § 2. Definisjonar – `forskrifter/bevaringsforskrifta/par-2.md`
+- § 3. Dokumentasjon som gjeld nye oppgåver – `forskrifter/bevaringsforskrifta/par-3.md`
+
+**Kapittel 2. Dokumentasjon frå statlege organ**
+
+- § 4. Dokumentasjon frå 1950 eller tidlegare – `forskrifter/bevaringsforskrifta/par-4.md`
+- § 5. Journalar og innsynskrav – `forskrifter/bevaringsforskrifta/par-5.md`
+- § 6. Organisering og organisasjonsutvikling – `forskrifter/bevaringsforskrifta/par-6.md`
+- § 7. Verksemds- og økonomistyring – `forskrifter/bevaringsforskrifta/par-7.md`
+- § 8. Personalforvaltning – `forskrifter/bevaringsforskrifta/par-8.md`
+- § 9. Enkeltpersonar i personalforvaltninga – `forskrifter/bevaringsforskrifta/par-9.md`
+- § 10. Helse, miljø og tryggleik – `forskrifter/bevaringsforskrifta/par-10.md`
+- § 11. Intern tryggleik og beredskap – `forskrifter/bevaringsforskrifta/par-11.md`
+- § 12. Bygg- og eigedomsforvaltning – `forskrifter/bevaringsforskrifta/par-12.md`
+- § 13. Anskaffingar – `forskrifter/bevaringsforskrifta/par-13.md`
+- § 14. Arkiv og dokumentasjonsforvaltning – `forskrifter/bevaringsforskrifta/par-14.md`
+- § 15. Bibliotek – `forskrifter/bevaringsforskrifta/par-15.md`
+- § 16. Informasjons- og kommunikasjonsteknologi (IKT) – `forskrifter/bevaringsforskrifta/par-16.md`
+- § 17. Intern kommunikasjon – `forskrifter/bevaringsforskrifta/par-17.md`
+- § 18. Dokumentasjon som gjeld statlege organ sine faglege ansvarsområde – `forskrifter/bevaringsforskrifta/par-18.md`
+
+**Kapittel 3. Dokumentasjon frå fylkeskommunane og kommunane**
+
+- § 19. Dokumentasjon frå 1950 eller tidlegare – `forskrifter/bevaringsforskrifta/par-19.md`
+- § 20. Journalar – `forskrifter/bevaringsforskrifta/par-20.md`
+- § 21. Administrativ og politisk organisering – `forskrifter/bevaringsforskrifta/par-21.md`
+- § 22. Val og medråderett – `forskrifter/bevaringsforskrifta/par-22.md`
+- § 23. Føretak, selskap og interkommunale samarbeidsordningar – `forskrifter/bevaringsforskrifta/par-23.md`
+- § 24. Samfunnstryggleik og beredskap – `forskrifter/bevaringsforskrifta/par-24.md`
+- § 25. Kommuneadvokat og fylkesadvokat – `forskrifter/bevaringsforskrifta/par-25.md`
+- § 26. Anskaffingar – `forskrifter/bevaringsforskrifta/par-26.md`
+- § 27. Arkiv og dokumentasjonsforvaltning – `forskrifter/bevaringsforskrifta/par-27.md`
+- § 28. Informasjons- og kommunikasjonsteknologi (IKT) – `forskrifter/bevaringsforskrifta/par-28.md`
+- § 29. Kommunikasjon og informasjon – `forskrifter/bevaringsforskrifta/par-29.md`
+- § 30. Økonomi, verksemdsstyring, rekneskap, eigedomsskatt og innkrevjing – `forskrifter/bevaringsforskrifta/par-30.md`
+- § 31. Helse, miljø og tryggleik – `forskrifter/bevaringsforskrifta/par-31.md`
+- § 32. Personalforvaltning – `forskrifter/bevaringsforskrifta/par-32.md`
+- § 33. Tilsette i kommunen eller fylkeskommunen – `forskrifter/bevaringsforskrifta/par-33.md`
+- § 34. Folkevalde – `forskrifter/bevaringsforskrifta/par-34.md`
+- § 35. Planlegging, byggesak og oppmåling – `forskrifter/bevaringsforskrifta/par-35.md`
+- § 36. Samarbeid og samordning av tenester knytt til opplæring og oppvekst – `forskrifter/bevaringsforskrifta/par-36.md`
+- § 37. Barnehage – `forskrifter/bevaringsforskrifta/par-37.md`
+- § 38. Barn i barnehagar – `forskrifter/bevaringsforskrifta/par-38.md`
+- § 39. Grunnskoleopplæring – `forskrifter/bevaringsforskrifta/par-39.md`
+- § 40. Elevar i grunnskoleopplæringa – `forskrifter/bevaringsforskrifta/par-40.md`
+- § 41. Vidaregåande opplæring – `forskrifter/bevaringsforskrifta/par-41.md`
+- § 42. Elevar i vidaregåande opplæring – `forskrifter/bevaringsforskrifta/par-42.md`
+- § 43. Skolefritidsordning – `forskrifter/bevaringsforskrifta/par-43.md`
+- § 44. Kulturskolen – `forskrifter/bevaringsforskrifta/par-44.md`
+- § 45. Pedagogisk-psykologisk teneste – `forskrifter/bevaringsforskrifta/par-45.md`
+- § 46. Oppfølgingstenesta for dei som ikkje er i vidaregåande opplæring eller arbeid – `forskrifter/bevaringsforskrifta/par-46.md`
+- § 47. Fagskolar – `forskrifter/bevaringsforskrifta/par-47.md`
+- § 48. Studentar på fagskolar – `forskrifter/bevaringsforskrifta/par-48.md`
+- § 49. Folkehøgskolar – `forskrifter/bevaringsforskrifta/par-49.md`
+- § 50. Elevar på folkehøgskolar – `forskrifter/bevaringsforskrifta/par-50.md`
+- § 51. Barnevern – `forskrifter/bevaringsforskrifta/par-51.md`
+- § 52. Barn i saker som barnevernstenesta handterer – `forskrifter/bevaringsforskrifta/par-52.md`
+- § 53. Folkehelse, friskliv, helsestasjonsteneste og tannhelseteneste – `forskrifter/bevaringsforskrifta/par-53.md`
+- § 54. Pasientar i helsestasjonsteneste, skolehelseteneste og tannhelseteneste – `forskrifter/bevaringsforskrifta/par-54.md`
+- § 55. Allmennmedisinske tenester – `forskrifter/bevaringsforskrifta/par-55.md`
+- § 56. Akuttmedisinske tenester – `forskrifter/bevaringsforskrifta/par-56.md`
+- § 57. Helse- og omsorgstenester i heimen og på institusjon – `forskrifter/bevaringsforskrifta/par-57.md`
+- § 58. Enkeltpersonar i helse- og omsorgstenester i heimen og på institusjon – `forskrifter/bevaringsforskrifta/par-58.md`
+- § 59. Krisesenter – `forskrifter/bevaringsforskrifta/par-59.md`
+- § 60. Skjenkjeløyve – `forskrifter/bevaringsforskrifta/par-60.md`
+- § 61. Sosiale tenester – `forskrifter/bevaringsforskrifta/par-61.md`
+- § 62. Enkeltpersonar som mottek sosiale tenester – `forskrifter/bevaringsforskrifta/par-62.md`
+- § 63. Arbeid med integrering av flyktningar og innvandrarar – `forskrifter/bevaringsforskrifta/par-63.md`
+- § 64. Enkeltpersonar i integreringsarbeidet – `forskrifter/bevaringsforskrifta/par-64.md`
+- § 65. Arbeid med tilskot til bustad – `forskrifter/bevaringsforskrifta/par-65.md`
+- § 66. Landbruk og skogbruk – `forskrifter/bevaringsforskrifta/par-66.md`
+- § 67. Akvakultur, marinforvaltning, fiskeforvaltning og viltforvaltning – `forskrifter/bevaringsforskrifta/par-67.md`
+- § 68. Naturforvaltning, miljø og forureining – `forskrifter/bevaringsforskrifta/par-68.md`
+- § 69. Nærings- og samfunnsutvikling og internasjonalt samarbeid – `forskrifter/bevaringsforskrifta/par-69.md`
+- § 70. Kulturminnevern – `forskrifter/bevaringsforskrifta/par-70.md`
+- § 71. Kunst- og kulturformidling – `forskrifter/bevaringsforskrifta/par-71.md`
+- § 72. Bibliotek – `forskrifter/bevaringsforskrifta/par-72.md`
+- § 73. Idrett og friluftsliv – `forskrifter/bevaringsforskrifta/par-73.md`
+- § 74. Den norske kyrkja og andre trudoms- og livssynssamfunn – `forskrifter/bevaringsforskrifta/par-74.md`
+- § 75. Kino og ungdomsklubbar – `forskrifter/bevaringsforskrifta/par-75.md`
+- § 76. Bygg- og eigedomsforvaltning – `forskrifter/bevaringsforskrifta/par-76.md`
+- § 77. Vatn og avløp – `forskrifter/bevaringsforskrifta/par-77.md`
+- § 78. Renovasjon og avfall – `forskrifter/bevaringsforskrifta/par-78.md`
+- § 79. Hamnevesen – `forskrifter/bevaringsforskrifta/par-79.md`
+- § 80. Samferdsel – `forskrifter/bevaringsforskrifta/par-80.md`
+- § 81. Brann- og redningsvesen – `forskrifter/bevaringsforskrifta/par-81.md`
+
+**Kapittel 4. Avsluttande reglar**
+
+- § 82. Søknad om å få bruke eldre reglar på eldre materiale – `forskrifter/bevaringsforskrifta/par-82.md`
+- § 83. Iverksetjing – `forskrifter/bevaringsforskrifta/par-83.md`
 <!-- AUTO-SLUTT -->

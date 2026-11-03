@@ -39,7 +39,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 
 Stiene er fra roten av basen.
 
-- **Folketrygdloven:** `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/par-1-7.md`, `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/par-1-8.md`, `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/par-1-9.md`, `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/utenfor-paragrafene.md`, `regelverk/folketrygdloven/forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `regelverk/folketrygdloven/forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`, `regelverk/folketrygdloven/lov/par-1-3a.md`
+- **Folketrygdloven:** `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/par-1-7.md`, `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/par-1-8.md`, `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/par-1-9.md`, `regelverk/folketrygdloven/forskrifter/dagpengeforskriften/utenfor-paragrafene.md`, `regelverk/folketrygdloven/forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `regelverk/folketrygdloven/forskrifter/eos-beregning-uforetrygd/par-1.md`, `regelverk/folketrygdloven/forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`, `regelverk/folketrygdloven/lov/par-1-3a.md`
 
 ## Merknader
 

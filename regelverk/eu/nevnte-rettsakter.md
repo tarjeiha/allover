@@ -10,6 +10,7 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Direktiv 95/46 | 6 | Personopplysningsloven |
 | Direktiv 2013/37 | 5 | Offentleglova |
 | Forordning 2024/1358 | 4 | Utlendingsloven |
+| Forordning nr. 1272/2008 | 3 | Arbeidsmiljøloven |
 | Direktiv 2002/58 | 3 | Personopplysningsloven |
 | Forordning nr. 610/2013 | 3 | Utlendingsloven |
 | Direktiv 2000/79 | 2 | Arbeidsmiljøloven |
@@ -26,6 +27,7 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning 2016/399 | 2 | Utlendingsloven |
 | Forordning 2024/1359 | 2 | Utlendingsloven |
 | Direktiv 91/533 | 1 | Arbeidsmiljøloven |
+| Forordning nr. 1907/2006 | 1 | Arbeidsmiljøloven |
 | Forordning nr. 561/2006 | 1 | Arbeidsmiljøloven |
 | Forordning nr. 1072/2009 | 1 | Arbeidsmiljøloven |
 | Forordning nr. 1024/2012 | 1 | Arbeidsmiljøloven |
@@ -40,6 +42,7 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning nr. 1368/2014 | 1 | Folketrygdloven |
 | Forordning 2017/492 | 1 | Folketrygdloven |
 | Forordning 2019/1149 | 1 | Folketrygdloven |
+| Forordning nr. 1025/2012 | 1 | Likestillings- og diskrimineringsloven |
 | Direktiv 93/13 | 1 | Personopplysningsloven |
 | Direktiv 2011/24 | 1 | Personopplysningsloven |
 | Direktiv 2015/1535 | 1 | Personopplysningsloven |

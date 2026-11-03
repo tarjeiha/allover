@@ -130,6 +130,28 @@ Filnavnene varierer mellom kapitlene, for eksempel `rundskriv/ftrl/kap-4/4-04.md
 - **Forskrift:** Forskrift om beregning av tilleggspensjon ved yrkesskade. – FOR-1997-03-11-209. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere – FOR-1997-03-11-210. Sist endret i kraft: 2010-03-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket. – FOR-1997-03-25-267. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidsavklaringspenger – FOR-2017-12-13-2100. Sist endret i kraft: 2026-03-24. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen – FOR-1997-04-15-318. Sist endret i kraft: 2026-11-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til lese- og sekretærhjelp for blinde og svaksynte – FOR-1997-04-15-319. Sist endret i kraft: 2018-10-02. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til tolkehjelp for hørselshemmede – FOR-1997-04-15-320. Sist endret i kraft: 2026-02-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til tolke- og ledsagerhjelp for døvblinde – FOR-1997-04-15-321. Sist endret i kraft: 2026-02-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til dekning av utgifter til ortopediske hjelpemidler, brystprotese, ansiktsdefektprotese, øyeprotese og parykk – FOR-1997-04-18-336. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til høreapparat og tinnitusmaskerer – FOR-1997-04-18-337. Sist endret i kraft: 2018-10-02. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til motorkjøretøy eller annet transportmiddel – FOR-2003-03-07-290. Sist endret i kraft: 2025-11-03. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til briller til barn – FOR-2022-07-19-1364. Sist endret i kraft: 2023-12-21. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om adgang til å utbetale uredusert ytelse for visse persongrupper i institusjon – FOR-2014-10-31-1375. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om beregning av uføretrygd og pensjon mv. under opphold i institusjon – FOR-2014-10-31-1376. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om overgangsregler for beregning av redusert ytelse under opphold i institusjon og under straffegjennomføring – FOR-2014-10-31-1377. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om gradering av pleiepenger – FOR-2017-09-14-1405. Sist endret i kraft: 2019-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om beregning av uføretrygd etter EØS-avtalen – FOR-2015-02-12-130. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra vilkåret om legeerklæring når kiropraktorer og manuellterapeuter dokumenterer arbeidsuførheten med erklæring – FOR-2005-12-21-1668. Sist endret i kraft: 2023-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om obligatorisk opplæring i sykmeldingsarbeid for leger – FOR-2012-12-07-1147. Sist endret i kraft: 2014-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om forsikring mot ansvar for sykepenger i arbeidsgiverperioden for små bedrifter – FOR-1997-03-25-260. Sist endret i kraft: 2016-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om forsikring for tillegg til sykepenger for selvstendig næringsdrivende – FOR-1997-03-25-261. Sist endret i kraft: 2019-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om forsikring for tillegg til sykepenger for frilansere – FOR-1997-03-25-262. Sist endret i kraft: 2019-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om stønad til dekning av utgifter til helsetjenester i utlandet. – FOR-1997-04-30-390. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om utvidet stønad til helsetjenester under opphold i utlandet – FOR-1997-04-30-391. Sist endret i kraft: 2021-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet.
+- **Forskrift:** Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 15, 16 og 17 fra 1. januar 2016 – FOR-2015-07-02-869. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -1653,12 +1675,270 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 6. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-6.md`
 - § 7. – `forskrifter/frivillig-yrkesskadetrygd-elever/par-7.md`
 
+### Forskrift om arbeidsavklaringspenger
+
+- § 1. Virkeområde – `forskrifter/arbeidsavklaringspenger/par-1.md`
+- § 2. Arbeidsrettet tiltak – `forskrifter/arbeidsavklaringspenger/par-2.md`
+- § 3. Fravær fra fastsatt aktivitet – `forskrifter/arbeidsavklaringspenger/par-3.md`
+- § 4. Reduksjon av arbeidsavklaringspenger ved brudd på nærmere bestemte aktivitetsplikter – `forskrifter/arbeidsavklaringspenger/par-4.md`
+- § 5. (Opphevet) – `forskrifter/arbeidsavklaringspenger/par-5.md`
+- § 6. Vedtaksperiode og oppfølging – `forskrifter/arbeidsavklaringspenger/par-6.md`
+- § 7. Arbeidsavklaringspenger til studenter – `forskrifter/arbeidsavklaringspenger/par-7.md`
+- § 8. Barnetillegg – `forskrifter/arbeidsavklaringspenger/par-8.md`
+- § 9. Unntak fra avkortning for fosterforeldre – `forskrifter/arbeidsavklaringspenger/par-9.md`
+- § 10. Arbeidsavklaringspenger når medlemmet er nær ved å komme i fullt arbeid – `forskrifter/arbeidsavklaringspenger/par-10.md`
+- § 11. Reduksjon av arbeidsavklaringspenger på grunn av ytelser fra arbeidsgiver – `forskrifter/arbeidsavklaringspenger/par-11.md`
+- § 12. Når medlemmet skal fortsette i den opprinnelige stønadsperioden – `forskrifter/arbeidsavklaringspenger/par-12.md`
+- § 13. Utbetaling og forskuddsanvisning – `forskrifter/arbeidsavklaringspenger/par-13.md`
+- § 14. Særlige bestemmelser for medlemmer som før 1. juli 2022 har fått arbeidsavklaringspenger utover ordinær stønadsperiode – `forskrifter/arbeidsavklaringspenger/par-14.md`
+- § 15. (Opphevet) – `forskrifter/arbeidsavklaringspenger/par-15.md`
+- § 16. Ikrafttredelse – `forskrifter/arbeidsavklaringspenger/par-16.md`
+
+### Forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen
+
+- § 1. Personkrets og formål – `forskrifter/hjelpemidler/par-1.md`
+- § 2. Hjelpemidler, jf folketrygdloven § 10-7 første ledd bokstav a – `forskrifter/hjelpemidler/par-2.md`
+- § 3. Grunnmønster til søm av klær, jf folketrygdloven § 10-7 første ledd bokstav c – `forskrifter/hjelpemidler/par-3.md`
+- § 4. Førerhund, jf folketrygdloven § 10-7 første ledd bokstav d – `forskrifter/hjelpemidler/par-4.md`
+- § 5. Ombygging av maskiner, jf folketrygdloven § 10-7 andre ledd – `forskrifter/hjelpemidler/par-5.md`
+- § 6. Opplæringstiltak, jf folketrygdloven § 10-7 tredje ledd – `forskrifter/hjelpemidler/par-6.md`
+- § 7. Reise- og oppholdsutgifter – `forskrifter/hjelpemidler/par-7.md`
+- § 8. Andre bestemmelser – `forskrifter/hjelpemidler/par-8.md`
+- § 9. Annen lovgivning – `forskrifter/hjelpemidler/par-9.md`
+- § 10. Ikrafttredelse – `forskrifter/hjelpemidler/par-10.md`
+
+### Forskrift om stønad til lese- og sekretærhjelp for blinde og svaksynte
+
+- § 1. Personkrets, formål og omfang – `forskrifter/lese-sekretarhjelp/par-1.md`
+- § 2. Beregning av takster og tid – `forskrifter/lese-sekretarhjelp/par-2.md`
+- § 3. Reise- og oppholdsutgifter – `forskrifter/lese-sekretarhjelp/par-3.md`
+- § 4. Oppgjørsform – `forskrifter/lese-sekretarhjelp/par-4.md`
+- § 5. Forholdet til annen lovgivning – `forskrifter/lese-sekretarhjelp/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/lese-sekretarhjelp/par-6.md`
+
+### Forskrift om stønad til tolkehjelp for hørselshemmede
+
+- § 1. Personkrets, formål og omfang – `forskrifter/tolkehjelp-horselshemmede/par-1.md`
+- § 2. Vederlag – `forskrifter/tolkehjelp-horselshemmede/par-2.md`
+- § 3. Reise- og oppholdsutgifter til tolk – `forskrifter/tolkehjelp-horselshemmede/par-3.md`
+- § 4. Oppgjørsform – `forskrifter/tolkehjelp-horselshemmede/par-4.md`
+- § 5. Forholdet til annen lovgivning – `forskrifter/tolkehjelp-horselshemmede/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/tolkehjelp-horselshemmede/par-6.md`
+
+### Forskrift om stønad til tolke- og ledsagerhjelp for døvblinde
+
+- § 1. Personkrets, formål og omfang – `forskrifter/tolke-ledsagerhjelp-dovblinde/par-1.md`
+- § 2. Vederlag – `forskrifter/tolke-ledsagerhjelp-dovblinde/par-2.md`
+- § 3. Reise- og oppholdsutgifter til tolk – `forskrifter/tolke-ledsagerhjelp-dovblinde/par-3.md`
+- § 4. Oppgjørsform – `forskrifter/tolke-ledsagerhjelp-dovblinde/par-4.md`
+- § 5. Forholdet til annen lovgivning – `forskrifter/tolke-ledsagerhjelp-dovblinde/par-5.md`
+- § 7. Ikrafttredelse – `forskrifter/tolke-ledsagerhjelp-dovblinde/par-7.md`
+
+### Forskrift om stønad til dekning av utgifter til ortopediske hjelpemidler, brystprotese, ansiktsdefektprotese, øyeprotese og parykk
+
+**I Ortopediske hjelpemidler**
+
+- § 1. – `forskrifter/ortopediske-hjelpemidler/par-1.md`
+- § 2. – `forskrifter/ortopediske-hjelpemidler/par-2.md`
+- § 3. – `forskrifter/ortopediske-hjelpemidler/par-3.md`
+- § 4. – `forskrifter/ortopediske-hjelpemidler/par-4.md`
+
+**II Brystprotese, ansiktsdefektprotese, øyeprotese og parykk**
+
+- § 5. Brystprotese – `forskrifter/ortopediske-hjelpemidler/par-5.md`
+- § 6. Ansiktsdefektprotese – `forskrifter/ortopediske-hjelpemidler/par-6.md`
+- § 7. Øyeprotese – `forskrifter/ortopediske-hjelpemidler/par-7.md`
+- § 8. Parykk – `forskrifter/ortopediske-hjelpemidler/par-8.md`
+
+**III Standardprodukter**
+
+- § 9. – `forskrifter/ortopediske-hjelpemidler/par-9.md`
+- § 9a. – `forskrifter/ortopediske-hjelpemidler/par-9a.md`
+
+**IV Fellesbestemmelser**
+
+- § 10. – `forskrifter/ortopediske-hjelpemidler/par-10.md`
+- § 11. – `forskrifter/ortopediske-hjelpemidler/par-11.md`
+- § 12. – `forskrifter/ortopediske-hjelpemidler/par-12.md`
+- § 13. – `forskrifter/ortopediske-hjelpemidler/par-13.md`
+- § 14. – `forskrifter/ortopediske-hjelpemidler/par-14.md`
+
+### Forskrift om stønad til høreapparat og tinnitusmaskerer
+
+**I Høreapparat**
+
+- § 1. Personkrets – `forskrifter/horeapparat/par-1.md`
+- § 2. Stønadsomfang – `forskrifter/horeapparat/par-2.md`
+- § 3. Gjenanskaffelse – `forskrifter/horeapparat/par-3.md`
+- § 4. Søknad om stønad til høreapparat – `forskrifter/horeapparat/par-4.md`
+- § 5. Undersøkelse og tilpasning – `forskrifter/horeapparat/par-5.md`
+- § 6. Avtaler om pris og levering – `forskrifter/horeapparat/par-6.md`
+- § 7. Eiendomsforhold – `forskrifter/horeapparat/par-7.md`
+- § 8. Stønad til høreapparat – `forskrifter/horeapparat/par-8.md`
+- § 9. Legeundersøkelse – `forskrifter/horeapparat/par-9.md`
+- § 10. Reiseutgifter – `forskrifter/horeapparat/par-10.md`
+- § 11. Gjennomføring – `forskrifter/horeapparat/par-11.md`
+
+**II Tinnitusmaskerer**
+
+- § 12. Stønad til tinnitusmaskerer – `forskrifter/horeapparat/par-12.md`
+
+**III Ikrafttredelse**
+
+- § 13. Ikrafttredelse – `forskrifter/horeapparat/par-13.md`
+
+### Forskrift om stønad til motorkjøretøy eller annet transportmiddel
+
+- § 1. Personkrets og formål – `forskrifter/motorkjoretoy/par-1.md`
+- § 2. Definisjoner – `forskrifter/motorkjoretoy/par-2.md`
+- § 3. Alminnelige vilkår for stønad til anskaffelse av motorkjøretøy mv. – `forskrifter/motorkjoretoy/par-3.md`
+- § 4. Kjøretøy til attføringstiltak eller ved overtagelse av tilbudt arbeid – `forskrifter/motorkjoretoy/par-4.md`
+- § 5. Regler for valg av kjøretøy – `forskrifter/motorkjoretoy/par-5.md`
+- § 6. Rammeavtaler og prisramme – `forskrifter/motorkjoretoy/par-6.md`
+- § 7. Registrering av kjøretøyet. Førerkort – `forskrifter/motorkjoretoy/par-7.md`
+- § 8. Vilkår for gjenanskaffelse – `forskrifter/motorkjoretoy/par-8.md`
+- § 9. Stønad til anskaffelse av kjøretøy – `forskrifter/motorkjoretoy/par-9.md`
+- § 10. Utbetaling av stønad – `forskrifter/motorkjoretoy/par-10.md`
+- § 11. Tilskudd til spesialutstyr og ombygging – `forskrifter/motorkjoretoy/par-11.md`
+- § 12. Kjøreopplæring – `forskrifter/motorkjoretoy/par-12.md`
+- § 13. Dekning av reise- og oppholdsutgifter – `forskrifter/motorkjoretoy/par-13.md`
+- § 14. Reparasjoner – `forskrifter/motorkjoretoy/par-14.md`
+- § 15. Gjeldsoppgjør – `forskrifter/motorkjoretoy/par-15.md`
+- § 16. Andre bestemmelser – `forskrifter/motorkjoretoy/par-16.md`
+- § 17. Grunnstønad – `forskrifter/motorkjoretoy/par-17.md`
+- § 18. Alderspensjon – `forskrifter/motorkjoretoy/par-18.md`
+- § 19. Forholdet til annen lovgivning – `forskrifter/motorkjoretoy/par-19.md`
+- § 20. Ikrafttredelse – `forskrifter/motorkjoretoy/par-20.md`
+
+### Forskrift om stønad til briller til barn
+
+- § 1. Virkeområde – `forskrifter/briller-barn/par-1.md`
+- § 2. Vilkår for rett til stønad – `forskrifter/briller-barn/par-2.md`
+- § 3. Antall briller – `forskrifter/briller-barn/par-3.md`
+- § 4. Stønadens størrelse – `forskrifter/briller-barn/par-4.md`
+- § 5. Søknad på særskilt grunnlag – `forskrifter/briller-barn/par-5.md`
+- § 6. Framsetting av krav – `forskrifter/briller-barn/par-6.md`
+- § 7. Krav til dokumentasjon – `forskrifter/briller-barn/par-7.md`
+- § 8. Unntak fra underretning om vedtak – `forskrifter/briller-barn/par-8.md`
+- § 9. Utbetaling – `forskrifter/briller-barn/par-9.md`
+- § 10. Retningslinjer – `forskrifter/briller-barn/par-10.md`
+- § 11. Ikrafttredelse – `forskrifter/briller-barn/par-11.md`
+
+### Forskrift om adgang til å utbetale uredusert ytelse for visse persongrupper i institusjon
+
+- § 1. Personkrets – `forskrifter/uredusert-ytelse-institusjon/par-1.md`
+- § 2. Krav til innhold i avtale – `forskrifter/uredusert-ytelse-institusjon/par-2.md`
+- § 3. Vedtak om å utbetale uredusert ytelse – `forskrifter/uredusert-ytelse-institusjon/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/uredusert-ytelse-institusjon/par-4.md`
+
+### Forskrift om beregning av uføretrygd og pensjon mv. under opphold i institusjon
+
+- § 1. Beregning av graderte ytelser – `forskrifter/uforetrygd-institusjon/par-1.md`
+- § 2. Tillegg for faste utgifter – `forskrifter/uforetrygd-institusjon/par-2.md`
+- § 3. Maksimal ytelse – `forskrifter/uforetrygd-institusjon/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/uforetrygd-institusjon/par-4.md`
+
+### Forskrift om overgangsregler for beregning av redusert ytelse under opphold i institusjon og under straffegjennomføring
+
+- § 1. Virkeområde – `forskrifter/overgangsregler-institusjon/par-1.md`
+- § 2. Overgang til nye regler – `forskrifter/overgangsregler-institusjon/par-2.md`
+- § 3. Ytelser som er redusert per 31. desember 2014 – `forskrifter/overgangsregler-institusjon/par-3.md`
+- § 4. Ytelser som ikke er redusert per 31. desember 2014 – 12 måneders varighet på oppholdet – `forskrifter/overgangsregler-institusjon/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/overgangsregler-institusjon/par-5.md`
+
+### Forskrift om gradering av pleiepenger
+
+- § 1. Virkeområde – `forskrifter/gradering-pleiepenger/par-1.md`
+- § 2. Definisjoner – `forskrifter/gradering-pleiepenger/par-2.md`
+- § 3. Fastsetting av pleiepengegrad – `forskrifter/gradering-pleiepenger/par-3.md`
+- § 4. Tap av pensjonsgivende inntekt – `forskrifter/gradering-pleiepenger/par-4.md`
+- § 5. Gradering når to omsorgspersoner tar ut graderte pleiepenger samtidig – `forskrifter/gradering-pleiepenger/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/gradering-pleiepenger/par-6.md`
+
+### Forskrift om beregning av uføretrygd etter EØS-avtalen
+
+- § 1. Virkeområde – `forskrifter/eos-beregning-uforetrygd/par-1.md`
+- § 2. Fastsetting av grunnlaget for beregning av uføretrygd – `forskrifter/eos-beregning-uforetrygd/par-2.md`
+- § 3. Minste årlig ytelse – `forskrifter/eos-beregning-uforetrygd/par-3.md`
+- § 4. Teoretisk beløp – `forskrifter/eos-beregning-uforetrygd/par-4.md`
+- § 5. Faktisk beløp – `forskrifter/eos-beregning-uforetrygd/par-5.md`
+- § 6. Ikrafttredelse – `forskrifter/eos-beregning-uforetrygd/par-6.md`
+
+### Forskrift om unntak fra vilkåret om legeerklæring når kiropraktorer og manuellterapeuter dokumenterer arbeidsuførheten med erklæring
+
+- § 1. Retten til å dokumentere arbeidsuførhet – `forskrifter/legeerklaering-kiropraktor-manuellterapeut/par-1.md`
+- § 2. Erklæring om arbeidsuførhet – `forskrifter/legeerklaering-kiropraktor-manuellterapeut/par-2.md`
+- § 3. Utfyllende retningslinjer – `forskrifter/legeerklaering-kiropraktor-manuellterapeut/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/legeerklaering-kiropraktor-manuellterapeut/par-4.md`
+
+### Forskrift om obligatorisk opplæring i sykmeldingsarbeid for leger
+
+- § 1. Formål – `forskrifter/opplaering-sykmeldingsarbeid/par-1.md`
+- § 2. Målgrupper – `forskrifter/opplaering-sykmeldingsarbeid/par-2.md`
+- § 3. Retten til å dokumentere arbeidsuførhet – `forskrifter/opplaering-sykmeldingsarbeid/par-3.md`
+- § 4. Innhold og omfang – `forskrifter/opplaering-sykmeldingsarbeid/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/opplaering-sykmeldingsarbeid/par-5.md`
+
+### Forskrift om forsikring mot ansvar for sykepenger i arbeidsgiverperioden for små bedrifter
+
+- § 1. Forsikringsvilkår – premie og premiegrunnlag – `forskrifter/forsikring-arbeidsgiverperioden/par-1.md`
+- § 2. Premie – `forskrifter/forsikring-arbeidsgiverperioden/par-2.md`
+- § 3. Forsikringens opphør – premieavregning – `forskrifter/forsikring-arbeidsgiverperioden/par-3.md`
+- § 4. Ikrafttredelse – `forskrifter/forsikring-arbeidsgiverperioden/par-4.md`
+
+### Forskrift om forsikring for tillegg til sykepenger for selvstendig næringsdrivende
+
+- § 1. Premie og premiegrunnlag – `forskrifter/forsikring-sykepenger-selvstendige/par-1.md`
+- § 2. Endring av premiegrunnlaget – `forskrifter/forsikring-sykepenger-selvstendige/par-2.md`
+- § 3. Premiesatser – `forskrifter/forsikring-sykepenger-selvstendige/par-3.md`
+- § 4. Premiefritak – `forskrifter/forsikring-sykepenger-selvstendige/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/forsikring-sykepenger-selvstendige/par-5.md`
+
+### Forskrift om forsikring for tillegg til sykepenger for frilansere
+
+- § 1. Premie og premiegrunnlag – `forskrifter/forsikring-sykepenger-frilansere/par-1.md`
+- § 2. Endring av premiegrunnlaget – `forskrifter/forsikring-sykepenger-frilansere/par-2.md`
+- § 3. Premiesatser – `forskrifter/forsikring-sykepenger-frilansere/par-3.md`
+- § 4. Premiefritak – `forskrifter/forsikring-sykepenger-frilansere/par-4.md`
+- § 5. Ikrafttredelse – `forskrifter/forsikring-sykepenger-frilansere/par-5.md`
+
+### Forskrift om stønad til dekning av utgifter til helsetjenester i utlandet
+
+- § 1. – `forskrifter/helsetjenester-utlandet/par-1.md`
+- § 2. – `forskrifter/helsetjenester-utlandet/par-2.md`
+- § 3. – `forskrifter/helsetjenester-utlandet/par-3.md`
+- § 4. – `forskrifter/helsetjenester-utlandet/par-4.md`
+- § 5. – `forskrifter/helsetjenester-utlandet/par-5.md`
+
+### Forskrift om utvidet stønad til helsetjenester under opphold i utlandet
+
+- § 1. Område – `forskrifter/utvidet-helsetjenester-utlandet/par-1.md`
+- § 2. Personkrets – `forskrifter/utvidet-helsetjenester-utlandet/par-2.md`
+- § 3. Utvidet stønad – `forskrifter/utvidet-helsetjenester-utlandet/par-3.md`
+- § 4. Egenandeler og egenandelstak i utlandet – `forskrifter/utvidet-helsetjenester-utlandet/par-4.md`
+- § 5. Oppholdsutgifter under fravær fra hjemmet – `forskrifter/utvidet-helsetjenester-utlandet/par-5.md`
+- § 6. Opphør av rett til utvidet stønad til helsetjenester – `forskrifter/utvidet-helsetjenester-utlandet/par-6.md`
+- § 7. Ikrafttredelse – `forskrifter/utvidet-helsetjenester-utlandet/par-7.md`
+
+### Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 15, 16 og 17 fra 1. januar 2016
+
+- § 1. Stønad under utenlandsopphold – `forskrifter/overgangsregler-kap15-17-2016/par-1.md`
+- § 2. Enslig mor eller far – `forskrifter/overgangsregler-kap15-17-2016/par-2.md`
+- § 3. Omstillingstid etter skilsmisse, separasjon eller samlivsbrudd mellom ugifte foreldre – `forskrifter/overgangsregler-kap15-17-2016/par-3.md`
+- § 4. Brukerkontakt – `forskrifter/overgangsregler-kap15-17-2016/par-4.md`
+- § 5. Utdanning som vilkår for overgangsstønad – `forskrifter/overgangsregler-kap15-17-2016/par-5.md`
+- § 6. Midlertidig bortfall og utestenging – `forskrifter/overgangsregler-kap15-17-2016/par-6.md`
+- § 7. Stønad til barnetilsyn – `forskrifter/overgangsregler-kap15-17-2016/par-7.md`
+- § 8. Utdanningsstønad – `forskrifter/overgangsregler-kap15-17-2016/par-8.md`
+- § 9. Tidligere familiepleier og gjenlevende – `forskrifter/overgangsregler-kap15-17-2016/par-9.md`
+- § 10. Ikrafttredelse – `forskrifter/overgangsregler-kap15-17-2016/par-10.md`
+
 ## EU-rettsakter som teksten viser til
 
 Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
 
-- **Forordning nr. 883/2004** (Trygdeforordningen) – i basen: `regelverk/eu/forordning-883-2004/VEIVISER.md`. Nevnt i `forskrifter/dagpengeforskriften/par-1-7.md`, `forskrifter/dagpengeforskriften/par-1-8.md`, `forskrifter/dagpengeforskriften/par-1-9.md`, `forskrifter/dagpengeforskriften/utenfor-paragrafene.md`, `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`, `lov/par-1-3a.md`
-- **Forordning nr. 987/2009** (Gjennomføringsforordningen til trygdeforordningen) – i basen: `regelverk/eu/forordning-987-2009/VEIVISER.md`. Nevnt i `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `lov/par-1-3a.md`
+- **Forordning nr. 883/2004** (Trygdeforordningen) – i basen: `regelverk/eu/forordning-883-2004/VEIVISER.md`. Nevnt i `forskrifter/dagpengeforskriften/par-1-7.md`, `forskrifter/dagpengeforskriften/par-1-8.md`, `forskrifter/dagpengeforskriften/par-1-9.md`, `forskrifter/dagpengeforskriften/utenfor-paragrafene.md`, `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `forskrifter/eos-beregning-uforetrygd/par-1.md`, `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`, `lov/par-1-3a.md`
+- **Forordning nr. 987/2009** (Gjennomføringsforordningen til trygdeforordningen) – i basen: `regelverk/eu/forordning-987-2009/VEIVISER.md`. Nevnt i `forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `forskrifter/eos-beregning-uforetrygd/par-1.md`, `lov/par-1-3a.md`
 - Forordning nr. 1408/71 – ikke i basen. Nevnt i `forskrifter/bilaterale-trygdeavtaler/par-1.md`, `forskrifter/omregning-uforepensjon-til-uforetrygd/par-4.md`
 - Forordning nr. 988/2009 – ikke i basen. Nevnt i `lov/par-1-3a.md`
 - Forordning nr. 1244/2010 – ikke i basen. Nevnt i `lov/par-1-3a.md`
