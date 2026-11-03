@@ -71,11 +71,13 @@ jobs:
             tittel="$1"; tekst="$2"; fil="$3"
             [ -s "$fil" ] || return 0
             { echo "@tarjeiha: $tekst"; echo; cat "$fil"; } > "$RUNNER_TEMP/sak2.txt"
+            gh label create driftsvarsel --color FBCA04 --description "Varsel fra en fast jobb. Claude går gjennom disse." --force >/dev/null
             nr=$(gh issue list --state open --search "\"$tittel\" in:title" --json number --jq '.[0].number')
             if [ -n "$nr" ]; then
               gh issue comment "$nr" --body-file "$RUNNER_TEMP/sak2.txt"
+              gh issue edit "$nr" --add-label driftsvarsel >/dev/null
             else
-              gh issue create --title "$tittel" --assignee tarjeiha --body-file "$RUNNER_TEMP/sak2.txt"
+              gh issue create --title "$tittel" --assignee tarjeiha --label driftsvarsel --body-file "$RUNNER_TEMP/sak2.txt"
             fi
           }
           : > "$RUNNER_TEMP/feil.txt"

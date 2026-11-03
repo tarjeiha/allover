@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: stortinget-oppdater
@@ -59,3 +60,10 @@ jobs:
             git pull --rebase -q origin main
           done
           exit 1
+
+      - name: Varsle om feil
+        if: failure()
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Stortinget-oppdatering: feil"
+          tekst: "den nattlige oppdateringen fra Stortinget feilet. Se kjøringen, eller be Claude se på det."

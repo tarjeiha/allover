@@ -440,7 +440,9 @@ def varsle() -> int:
         if tittel in finnes:
             print(f"Finnes allerede: {tittel}")
             continue
-        subprocess.run(["gh", "issue", "create", "--title", tittel, "--body", tekst], check=True, cwd=ROT)
+        subprocess.run(["gh", "label", "create", "driftsvarsel", "--color", "FBCA04", "--force",
+                        "--description", "Varsel fra en fast jobb. Claude går gjennom disse."], check=False, cwd=ROT)
+        subprocess.run(["gh", "issue", "create", "--title", tittel, "--label", "driftsvarsel", "--body", tekst], check=True, cwd=ROT)
         print(f"Åpnet sak: {tittel}")
     return 0
 

@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: budsjett-stortinget
@@ -46,3 +47,10 @@ jobs:
             git pull --rebase -q origin main
           done
           exit 1
+
+      - name: Varsle om feil
+        if: failure()
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Budsjettvedtak fra Stortinget: feil"
+          tekst: "hentingen av budsjettvedtak fra Stortinget feilet. Se kjøringen, eller be Claude se på det."

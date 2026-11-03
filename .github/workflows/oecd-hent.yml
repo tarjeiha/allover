@@ -51,11 +51,13 @@ jobs:
         run: |
           tittel="OECD-henting: feil"
           { echo "@tarjeiha: den automatiske hentingen av OECD-tall stoppet på noe. Se under, eller be Claude se på det."; echo; cat "$RUNNER_TEMP/rapport.txt"; } > "$RUNNER_TEMP/sak.txt"
+          gh label create driftsvarsel --color FBCA04 --description "Varsel fra en fast jobb. Claude går gjennom disse." --force >/dev/null
           nr=$(gh issue list --state open --search "\"$tittel\" in:title" --json number --jq '.[0].number')
           if [ -n "$nr" ]; then
             gh issue comment "$nr" --body-file "$RUNNER_TEMP/sak.txt"
+            gh issue edit "$nr" --add-label driftsvarsel >/dev/null
           else
-            gh issue create --title "$tittel" --assignee tarjeiha --body-file "$RUNNER_TEMP/sak.txt"
+            gh issue create --title "$tittel" --assignee tarjeiha --label driftsvarsel --body-file "$RUNNER_TEMP/sak.txt"
           fi
 
       - name: Vis resultatet
