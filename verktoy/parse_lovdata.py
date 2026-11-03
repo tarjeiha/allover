@@ -113,6 +113,10 @@ def render_list(ol, indent=0):
         marker = (li.get("data-name") or "").strip()
         if not marker:
             marker = "-"
+        elif re.fullmatch(r"[0-9a-zæøå]{1,4}", marker, re.I):
+            # Lovdata har noen få bokstavpunkter uten punktum (produsentforskriften § 2-25 «d»).
+            # Punktum legges til så punktet ser ut som de andre og telles som listepunkt.
+            marker += "."
         # Innholdet i li ligger typisk i article.listArticle > article.legalP.
         # Nestede lister og tekst etter dem beholdes i rekkefølge.
         deler = render_blandet(li, indent + 1)

@@ -169,6 +169,11 @@
           "id": "FOR-2024-07-02-1800",
           "slug": "pilot-oppfolging-vta",
           "navn": "Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet"
+        },
+        {
+          "id": "FOR-2026-10-11-2047",
+          "slug": "frist-masseoppsigelser",
+          "navn": "Forskrift om forlengelse av fristen for masseoppsigelsers virkning"
         }
       ],
       "alias": [
@@ -375,11 +380,6 @@
           "id": "FOR-2009-08-03-1028",
           "slug": "byggherreforskriften",
           "navn": "Forskrift om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften)"
-        },
-        {
-          "id": "FOR-2026-10-11-2047",
-          "slug": "frist-masseoppsigelser",
-          "navn": "Forskrift om forlengelse av fristen for masseoppsigelsers virkning"
         },
         {
           "id": "FOR-2010-02-12-158",

@@ -100,12 +100,16 @@ def finn(oppslag: dict, dokid: str):
 
 
 ORD = re.compile(r"\w+", re.UNICODE)
+# Senket skrift (CO<sub>2</sub>) blir «CO 2» med mellomrom i kildeteksten og i leddene,
+# men «CO2» i paragrafoverskriften. Mellomrommet foran sifferet fjernes i begge tekstene
+# før ordene telles, så samme ord ikke telles som manglende.
+SIFFERSKJOT = re.compile(r"(?<=\w)\s+(?=\d)|(?<=\d)\s+(?=-)")
 
 
 def dekning(kilde_tekst: str, md: str) -> float:
     """Andel av ordene i kilden som finnes i den genererte filen."""
-    kilde = Counter(ORD.findall(kilde_tekst.lower()))
-    ut = Counter(ORD.findall(md.lower()))
+    kilde = Counter(ORD.findall(SIFFERSKJOT.sub("", kilde_tekst.lower())))
+    ut = Counter(ORD.findall(SIFFERSKJOT.sub("", md.lower())))
     totalt = sum(kilde.values())
     if not totalt:
         return 1.0

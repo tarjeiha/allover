@@ -23,6 +23,8 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Oppsigelse: skill mellom saklig grunn og saksbehandling.** Det materielle vilkåret står i § 15-7. Drøfting, frister og formkrav står i §§ 15-1 til 15-4, med egne virkninger av formfeil i § 15-5. Spørsmålet gjelder ofte bare den ene siden.
 - **Administrative reaksjoner og straff er to spor.** Pålegg, tvangsmulkt, stansing og overtredelsesgebyr står i kapittel 18 (§§ 18-6 til 18-10). Straffansvar står i kapittel 19, og § 19-1 fjerde ledd unntar bl.a. kapittel 8, 12, 13, 15 og 16 fra straffansvaret. Vilkår og prosess er forskjellige.
 - **Ferie står ikke i arbeidsmiljøloven.** Feriefritid og feriepenger reguleres av ferieloven (ferieloven § 1), se `regelverk/ferieloven/VEIVISER.md`.
+- **Grenseverdiene står i vedleggene, ikke i paragrafene.** Grenseverdier for kjemikalier i arbeidsatmosfæren (vedlegg 1), smitterisikogrupper (vedlegg 2) og verdier for optisk stråling og elektromagnetiske felt (vedlegg 3–7) i forskrift om tiltaks- og grenseverdier ligger i `forskrifter/tiltaks-og-grenseverdier/utenfor-paragrafene.md`. Søk på stoffnavn eller CAS-nummer. Hver verdi kan ha flere rader (normverdi, korttidsverdi S, takverdi T), så les radene under stoffnavnet.
+- **Petroleumsforskriftene har hjemmel i mange lover.** Ramme-, styrings-, aktivitets- og innretningsforskriften og forskriften om landanlegg forvaltes av flere departementer og håndheves av Havindustritilsynet. De gjelder ved siden av arbeidsmiljøloven til havs og på landanleggene. Virkeområdet står i rammeforskriften § 2.
 
 ## Ikke i basen
 
