@@ -2,6 +2,8 @@
 
 Likestillings- og diskrimineringsloven forbyr diskriminering og trakassering på alle samfunnsområder (§ 2 første ledd), gir regler om universell utforming og individuell tilrettelegging, og pålegger offentlige myndigheter og arbeidsgivere å arbeide aktivt for likestilling. Kapittel 5 har særlige regler for arbeidsforhold. FNs rasediskrimineringskonvensjon gjelder som norsk lov etter § 5, og konvensjonsteksten ligger i basen på norsk (`lov/par-rdkn-a*.md`) og engelsk (`lov/par-rdke-a*.md`).
 
+Basen har også forskriften om representasjon av begge kjønn i statlige utvalg, styrer, råd og delegasjoner, og forskriften om universell utforming av IKT-løsninger.
+
 Loven forvaltes av Kultur- og likestillingsdepartementet. Reglene om hvordan loven håndheves, står i diskrimineringsombudsloven, som er en egen lov i basen (`regelverk/diskrimineringsombudsloven/VEIVISER.md`).
 
 ## Slik bruker du veiviseren

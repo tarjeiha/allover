@@ -340,6 +340,71 @@
           "id": "FOR-2024-04-11-607",
           "slug": "dykkeoperasjoner",
           "navn": "Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv"
+        },
+        {
+          "id": "FOR-1996-12-06-1127",
+          "slug": "internkontrollforskriften",
+          "navn": "Forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter (internkontrollforskriften)"
+        },
+        {
+          "id": "FOR-2011-12-06-1355",
+          "slug": "organisering-ledelse-medvirkning",
+          "navn": "Forskrift om organisering, ledelse og medvirkning"
+        },
+        {
+          "id": "FOR-2011-12-06-1356",
+          "slug": "arbeidsplassforskriften",
+          "navn": "Forskrift om utforming og innretning av arbeidsplasser, arbeidslokaler og innkvartering (arbeidsplassforskriften)"
+        },
+        {
+          "id": "FOR-2011-12-06-1357",
+          "slug": "utforelse-av-arbeid",
+          "navn": "Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid)"
+        },
+        {
+          "id": "FOR-2011-12-06-1358",
+          "slug": "tiltaks-og-grenseverdier",
+          "navn": "Forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier)"
+        },
+        {
+          "id": "FOR-2011-12-06-1359",
+          "slug": "produsentforskriften",
+          "navn": "Forskrift om konstruksjon, utforming og fremstilling av arbeidsutstyr og kjemikalier (produsentforskriften)"
+        },
+        {
+          "id": "FOR-2009-08-03-1028",
+          "slug": "byggherreforskriften",
+          "navn": "Forskrift om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften)"
+        },
+        {
+          "id": "FOR-2026-10-11-2047",
+          "slug": "frist-masseoppsigelser",
+          "navn": "Forskrift om forlengelse av fristen for masseoppsigelsers virkning"
+        },
+        {
+          "id": "FOR-2010-02-12-158",
+          "slug": "rammeforskriften",
+          "navn": "Forskrift om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften)"
+        },
+        {
+          "id": "FOR-2010-04-29-611",
+          "slug": "styringsforskriften",
+          "navn": "Forskrift om styring og opplysningsplikt i petroleumsvirksomheten og på enkelte landanlegg (styringsforskriften)"
+        },
+        {
+          "id": "FOR-2010-04-29-612",
+          "slug": "teknisk-operasjonell-landanlegg",
+          "navn": "Forskrift om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer (teknisk og operasjonell forskrift)"
+        },
+        {
+          "id": "FOR-2010-04-29-613",
+          "slug": "aktivitetsforskriften",
+          "navn": "Forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)"
+        },
+        {
+          "id": "FOR-2010-04-29-634",
+          "slug": "innretningsforskriften",
+          "navn": "Forskrift om utforming og utrustning av innretninger med mer i petroleumsvirksomheten (innretningsforskriften)"
         }
       ],
       "alias": [
@@ -366,6 +431,11 @@
           "id": "FOR-2025-12-17-2647",
           "slug": "arkivforskrifta",
           "navn": "Arkivforskrifta"
+        },
+        {
+          "id": "FOR-2025-12-19-2729",
+          "slug": "bevaringsforskrifta",
+          "navn": "Forskrift om kva dokumentasjon som skal takast vare på for ettertida (bevaringsforskrifta)"
         }
       ],
       "alias": [
@@ -379,7 +449,13 @@
       "mappe": "regelverk/diskrimineringsombudsloven",
       "navn": "Diskrimineringsombudsloven",
       "lov": "LOV-2017-06-16-50",
-      "forskrifter": [],
+      "forskrifter": [
+        {
+          "id": "FOR-2017-12-20-2260",
+          "slug": "diskrimineringsnemnda",
+          "navn": "Forskrift om organisasjon, oppgaver og saksbehandling for Diskrimineringsnemnda"
+        }
+      ],
       "alias": [
         "diskrimineringsombudsloven",
         "diskrimineringsnemnda"
@@ -690,6 +766,116 @@
           "id": "FOR-1997-03-25-267",
           "slug": "frivillig-yrkesskadetrygd-elever",
           "navn": "Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket"
+        },
+        {
+          "id": "FOR-2017-12-13-2100",
+          "slug": "arbeidsavklaringspenger",
+          "navn": "Forskrift om arbeidsavklaringspenger"
+        },
+        {
+          "id": "FOR-1997-04-15-318",
+          "slug": "hjelpemidler",
+          "navn": "Forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen"
+        },
+        {
+          "id": "FOR-1997-04-15-319",
+          "slug": "lese-sekretarhjelp",
+          "navn": "Forskrift om stønad til lese- og sekretærhjelp for blinde og svaksynte"
+        },
+        {
+          "id": "FOR-1997-04-15-320",
+          "slug": "tolkehjelp-horselshemmede",
+          "navn": "Forskrift om stønad til tolkehjelp for hørselshemmede"
+        },
+        {
+          "id": "FOR-1997-04-15-321",
+          "slug": "tolke-ledsagerhjelp-dovblinde",
+          "navn": "Forskrift om stønad til tolke- og ledsagerhjelp for døvblinde"
+        },
+        {
+          "id": "FOR-1997-04-18-336",
+          "slug": "ortopediske-hjelpemidler",
+          "navn": "Forskrift om stønad til dekning av utgifter til ortopediske hjelpemidler, brystprotese, ansiktsdefektprotese, øyeprotese og parykk"
+        },
+        {
+          "id": "FOR-1997-04-18-337",
+          "slug": "horeapparat",
+          "navn": "Forskrift om stønad til høreapparat og tinnitusmaskerer"
+        },
+        {
+          "id": "FOR-2003-03-07-290",
+          "slug": "motorkjoretoy",
+          "navn": "Forskrift om stønad til motorkjøretøy eller annet transportmiddel"
+        },
+        {
+          "id": "FOR-2022-07-19-1364",
+          "slug": "briller-barn",
+          "navn": "Forskrift om stønad til briller til barn"
+        },
+        {
+          "id": "FOR-2014-10-31-1375",
+          "slug": "uredusert-ytelse-institusjon",
+          "navn": "Forskrift om adgang til å utbetale uredusert ytelse for visse persongrupper i institusjon"
+        },
+        {
+          "id": "FOR-2014-10-31-1376",
+          "slug": "uforetrygd-institusjon",
+          "navn": "Forskrift om beregning av uføretrygd og pensjon mv. under opphold i institusjon"
+        },
+        {
+          "id": "FOR-2014-10-31-1377",
+          "slug": "overgangsregler-institusjon",
+          "navn": "Forskrift om overgangsregler for beregning av redusert ytelse under opphold i institusjon og under straffegjennomføring"
+        },
+        {
+          "id": "FOR-2017-09-14-1405",
+          "slug": "gradering-pleiepenger",
+          "navn": "Forskrift om gradering av pleiepenger"
+        },
+        {
+          "id": "FOR-2015-02-12-130",
+          "slug": "eos-beregning-uforetrygd",
+          "navn": "Forskrift om beregning av uføretrygd etter EØS-avtalen"
+        },
+        {
+          "id": "FOR-2005-12-21-1668",
+          "slug": "legeerklaering-kiropraktor-manuellterapeut",
+          "navn": "Forskrift om unntak fra vilkåret om legeerklæring når kiropraktorer og manuellterapeuter dokumenterer arbeidsuførheten med erklæring"
+        },
+        {
+          "id": "FOR-2012-12-07-1147",
+          "slug": "opplaering-sykmeldingsarbeid",
+          "navn": "Forskrift om obligatorisk opplæring i sykmeldingsarbeid for leger"
+        },
+        {
+          "id": "FOR-1997-03-25-260",
+          "slug": "forsikring-arbeidsgiverperioden",
+          "navn": "Forskrift om forsikring mot ansvar for sykepenger i arbeidsgiverperioden for små bedrifter"
+        },
+        {
+          "id": "FOR-1997-03-25-261",
+          "slug": "forsikring-sykepenger-selvstendige",
+          "navn": "Forskrift om forsikring for tillegg til sykepenger for selvstendig næringsdrivende"
+        },
+        {
+          "id": "FOR-1997-03-25-262",
+          "slug": "forsikring-sykepenger-frilansere",
+          "navn": "Forskrift om forsikring for tillegg til sykepenger for frilansere"
+        },
+        {
+          "id": "FOR-1997-04-30-390",
+          "slug": "helsetjenester-utlandet",
+          "navn": "Forskrift om stønad til dekning av utgifter til helsetjenester i utlandet"
+        },
+        {
+          "id": "FOR-1997-04-30-391",
+          "slug": "utvidet-helsetjenester-utlandet",
+          "navn": "Forskrift om utvidet stønad til helsetjenester under opphold i utlandet"
+        },
+        {
+          "id": "FOR-2015-07-02-869",
+          "slug": "overgangsregler-kap15-17-2016",
+          "navn": "Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 15, 16 og 17 fra 1. januar 2016"
         }
       ],
       "alias": [
@@ -791,7 +977,18 @@
       "mappe": "regelverk/likestillings-og-diskrimineringsloven",
       "navn": "Likestillings- og diskrimineringsloven",
       "lov": "LOV-2017-06-16-51",
-      "forskrifter": [],
+      "forskrifter": [
+        {
+          "id": "FOR-1996-02-02-110",
+          "slug": "kjonnsbalanse-statlige-utvalg",
+          "navn": "Forskrift om representasjon av begge kjønn i statlige utvalg, styrer, råd, delegasjoner m.v. – regler om håndheving og rapportering"
+        },
+        {
+          "id": "FOR-2013-06-21-732",
+          "slug": "universell-utforming-ikt",
+          "navn": "Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger"
+        }
+      ],
       "alias": [
         "likestillings- og diskrimineringsloven",
         "likestillingsloven",
@@ -1261,7 +1458,13 @@
       "mappe": "regelverk/spraklova",
       "navn": "Språklova",
       "lov": "LOV-2021-05-21-42",
-      "forskrifter": [],
+      "forskrifter": [
+        {
+          "id": "FOR-1980-12-05-4938",
+          "slug": "malbruk-offentleg-teneste",
+          "navn": "Forskrift om målbruk i offentleg teneste"
+        }
+      ],
       "alias": [
         "språklova",
         "språkloven"

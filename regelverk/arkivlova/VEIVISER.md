@@ -2,7 +2,7 @@
 
 Arkivlova gir reglar om korleis offentlege organ skal forvalte dokumentasjon som arkiv, kva som skal takast vare på for ettertida, kassasjon, avlevering til Nasjonalarkivet og privatarkiv. Arkivforskrifta utfyller loven, bl.a. med reglar om kva som skal forvaltast som arkiv, oppbevaringstider, dokumentasjonsplan, journalføring og avlevering. Lov- og forskriftsteksten er på nynorsk og siteres på nynorsk.
 
-Loven og forskriften forvaltes av Kultur- og likestillingsdepartementet.
+Bevaringsforskrifta fra Nasjonalarkivet sier hva som skal tas vare på for ettertiden. Loven og forskriftene forvaltes av Kultur- og likestillingsdepartementet.
 
 ## Slik bruker du veiviseren
 

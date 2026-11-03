@@ -1,6 +1,6 @@
 # Språklova: veiviser
 
-Språklova gir reglar om norsk språk, samiske språk, nasjonale minoritetsspråk, norsk teiknspråk og skandinaviske språk, og om offentlege organ sin bruk av bokmål og nynorsk og klart språk. Lovteksten er på nynorsk og siteres på nynorsk. Ingen forskrifter til språklova er i basen. Forskrifter gitt etter målloven fra 1980 gjelder fortsatt så langt de ikke strider mot språklova (§ 21 andre ledd).
+Språklova gir reglar om norsk språk, samiske språk, nasjonale minoritetsspråk, norsk teiknspråk og skandinaviske språk, og om offentlege organ sin bruk av bokmål og nynorsk og klart språk. Lovteksten er på nynorsk og siteres på nynorsk. Forskrift om målbruk i offentleg teneste fra 1980 er i basen. Den er gitt etter målloven, men gjelder fortsatt så langt den ikke strider mot språklova (§ 21 andre ledd). Les derfor språklova først, og bruk forskriften bare der den utfyller loven uten å stride mot den.
 
 Loven forvaltes av Kultur- og likestillingsdepartementet.
 

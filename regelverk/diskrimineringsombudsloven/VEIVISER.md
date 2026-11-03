@@ -2,6 +2,8 @@
 
 Diskrimineringsombudsloven gir regler om Likestillings- og diskrimineringsombudet (ombudet) og Diskrimineringsnemnda (nemnda). Loven er håndhevingsloven for likestillings- og diskrimineringsloven og for bestemte regler i blant annet arbeidsmiljøloven kapittel 13, husleieloven og burettslagslova (§ 1 andre ledd). Forvaltningsloven gjelder for ombudet og nemnda hvis ikke annet er bestemt (§ 2 første ledd).
 
+Saksbehandlingen i nemnda er utfylt i forskrift om organisasjon, oppgaver og saksbehandling for Diskrimineringsnemnda.
+
 Loven forvaltes av Kultur- og likestillingsdepartementet.
 
 ## Slik bruker du veiviseren

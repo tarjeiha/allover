@@ -1,6 +1,6 @@
 # Arbeidsmiljøloven: veiviser
 
-Arbeidsmiljøloven regulerer arbeidsmiljø, arbeidstid, permisjon, vern mot diskriminering, ansettelse og opphør av arbeidsforhold, og Arbeidstilsynets myndighet. Basen har med forskriftene i det arbeidsrettslige laget: virkeområde og unntak, bransjevise arbeidstidsforskrifter, innleie og bemanningsforetak, kontrolltiltak, tvisteløsningsnemnda, HMS-kort og godkjenningsordninger. HMS-forskriftene, kjemikalie- og produktregelverket og petroleumsforskriftene er hjemlet i loven, men er ikke i basen.
+Arbeidsmiljøloven regulerer arbeidsmiljø, arbeidstid, permisjon, vern mot diskriminering, ansettelse og opphør av arbeidsforhold, og Arbeidstilsynets myndighet. Basen har med forskriftene i det arbeidsrettslige laget: virkeområde og unntak, bransjevise arbeidstidsforskrifter, innleie og bemanningsforetak, kontrolltiltak, tvisteløsningsnemnda, HMS-kort og godkjenningsordninger. Basen har også HMS-forskriftene (internkontrollforskriften, de fem forskriftene fra Arbeidstilsynet fra 2011 og byggherreforskriften) og de fem petroleumsforskriftene (ramme-, styrings-, aktivitets- og innretningsforskriften og forskriften om landanlegg). Kjemikalie- og produktregelverket er ikke med.
 
 Loven forvaltes av Arbeids- og inkluderingsdepartementet.
 
@@ -26,7 +26,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 ## Ikke i basen
 
-- **HMS-forskriftene** (bl.a. forskrift om utførelse av arbeid, tiltaks- og grenseverdier, organisering, ledelse og medvirkning, arbeidsplassforskriften, produsentforskriften, byggherreforskriften og internkontrollforskriften), **kjemikalie- og produktregelverket** (REACH, CLP, biocider, maskiner, eksplosjonsfarlig område, personlig verneutstyr, storulykke) og **petroleums- og havbunnsforskriftene** (ramme-, styrings-, aktivitets- og innretningsforskriften, landanlegg, havbunnsmineraler, CO2-transport). Ved spørsmål om grenseverdier, kjemikalier, maskinsikkerhet eller sokkelvirksomhet: si at forskriften ikke er i basen, og svar ikke ut fra lovens generelle bestemmelser som om de var uttømmende.
+- **Kjemikalie- og produktregelverket** (REACH, CLP, biocider, maskiner, eksplosjonsfarlig område, personlig verneutstyr, storulykke) og **havbunns- og CO2-forskriftene** (sikkerhet ved mineralvirksomhet til havs, transport og injeksjon av CO2 på sokkelen). Ved spørsmål om kjemikalier, maskinsikkerhet eller slik sokkelvirksomhet: si at forskriften ikke er i basen, og svar ikke ut fra lovens generelle bestemmelser som om de var uttømmende.
 - **Forarbeider (særlig Ot.prp. nr. 49 (2004–2005)), rettspraksis og Arbeidstilsynets kommentarer.** De har stor vekt for tolkningen. Skjønnsmessige vurderinger som saklig grunn, forsvarlighet og rimelighet kan bare besvares på ordlydsnivå, og svaret skal si det.
 
 ## Merknader og andre kilder
