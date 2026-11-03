@@ -68,7 +68,7 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 
 ### Statistikk
 
-- **Nav:** 228 tabeller (sykefravær, arbeidsledighet, AAP, uføretrygd, pensjon, familieytelser m.m.), hentet hver uke.
+- **Nav:** 229 tabeller (sykefravær, arbeidsledighet, AAP, uføretrygd, pensjon, familieytelser m.m.), hentet hver uke.
 - **Navs pressemeldinger:** 74 fra januar 2024 og framover.
 - **Eurostat:** 8 tabeller for sammenligning med Norden og EU.
 - **OECD:** 17 tabeller for sammenligning med andre OECD-land.
@@ -76,11 +76,11 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 
 ### Stortinget
 
-Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-02:
+Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-03:
 
 - **4 088 anmodningsvedtak**
-- **40 107 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
-- **2 825 representantforslag** med utfall
+- **40 123 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
+- **2 827 representantforslag** med utfall
 
 ### Politiske grunnlagsdokumenter
 
