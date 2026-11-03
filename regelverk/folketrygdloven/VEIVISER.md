@@ -55,6 +55,7 @@ Filnavnene varierer mellom kapitlene, for eksempel `rundskriv/ftrl/kap-4/4-04.md
 | Hjelpestønad ved en bestemt diagnose | `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md` (R06-04-FOR, ti diagnoser, gjelder § 6-4 og § 6-5 og supplerer kommentarene i R06-00) |
 | Gravferdsstønad, båretransport, omstillingsstønad, barnepensjon (kap. 7, 16, 17, 17 A, 18) | `merknader/etterlatte-gravferd.md`, rundskriv `rundskriv/rundskriv-r07-00/` (gravferd, satsen kan være gammel), `r16-00/`, `r17-00/`, `r18-00/` |
 | Sykepenger, omsorgspenger, pleiepenger, opplæringspenger (kap. 8 og 9) | `merknader/sykepenger.md`, rundskriv `rundskriv/ftrl/kap-8/` og `rundskriv/ftrl/kap-9/` |
+| Tilskudd til ekspertbistand ved langvarig eller hyppig sykefravær (§ 8-7 a) | Forskrift om tilskudd til ekspertbistand i `forskrifter/ekspertbistand/`, og rundskrivet til § 8-7 a i `rundskriv/ftrl/kap-8/` (NAVs eget rundskriv til forskriften er ikke i basen) |
 | Hjelpemidler, tolk, bil, høreapparat (kap. 10) | Rundskriv `rundskriv/ftrl/kap-10/` (R10-00, hentet manuelt 28.08.2026; ingen kommentar til § 10-4) |
 | Stønadsformene i § 10-7 (start her) | `rundskriv/ftrl/kap-10/paragraf-10-7/oversikt.md`, forskriftskommentarer i `rundskriv/forskrifter/` |
 | Arbeidsavklaringspenger og tilleggsstønader (kap. 11 og 11 A) | `merknader/aap.md`, rundskriv `rundskriv/ftrl/kap-11/` og `rundskriv/ftrl/kap-11a/`, `rundskriv/forskrifter/tilleggsstonadsforskriften/` |
@@ -79,6 +80,7 @@ Filnavnene varierer mellom kapitlene, for eksempel `rundskriv/ftrl/kap-4/4-04.md
 - **Forskrift:** Forskrift om dagpenger for fiskere og fangstfolk under arbeidsløshet (A-trygdforskriften) – FOR-2011-06-01-565. Sist endret i kraft: 2012-01-01. Forvaltes av: Nærings- og fiskeridepartementet.
 - **Forskrift:** Kunngjøring av virkningstidspunktet for regulering av kravet til minsteinntekt i dagpengeordningen – FOR-2012-05-25-461. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om overgangsregler i forbindelse med ikrafttredelse av endring av folketrygdloven § 4-9 fra 1. januar 2024 – FOR-2023-12-21-2260. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om tilskudd til ekspertbistand – FOR-2019-08-29-1105. Sist endret i kraft: 2026-03-29. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om stønad til enslig mor eller far etter folketrygdloven kapittel 15 – FOR-2015-11-21-1341. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven § 15-6 og § 15-8 fra 1. februar 2024 – FOR-2024-01-26-123. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om ytelser til gjenlevende ektefelle og tidligere familiepleier etter folketrygdloven kapittel 17 – FOR-2023-06-21-1007. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
@@ -1037,6 +1039,20 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 1. – `forskrifter/overgangsregler-2023/par-1.md`
 - § 2. – `forskrifter/overgangsregler-2023/par-2.md`
+
+### Forskrift om tilskudd til ekspertbistand
+
+- § 1. Formål – `forskrifter/ekspertbistand/par-1.md`
+- § 2. Personkrets – `forskrifter/ekspertbistand/par-2.md`
+- § 3. Innhold – `forskrifter/ekspertbistand/par-3.md`
+- § 4. Vilkår – `forskrifter/ekspertbistand/par-4.md`
+- § 5. Tilskudd – `forskrifter/ekspertbistand/par-5.md`
+- § 6. Krav til søknad – `forskrifter/ekspertbistand/par-6.md`
+- § 7. Vedtaksmyndighet og klageadgang – `forskrifter/ekspertbistand/par-7.md`
+- § 8. Kontroll og sanksjoner – `forskrifter/ekspertbistand/par-8.md`
+- § 9. Støtte etter gruppeunntaket for tjenester av allmenn økonomisk betydning – `forskrifter/ekspertbistand/par-9.md`
+- § 9a. Forsøk med anskaffelse av ekspertbistand – `forskrifter/ekspertbistand/par-9a.md`
+- § 10. Ikrafttredelse – `forskrifter/ekspertbistand/par-10.md`
 
 ### Forskrift om stønad til enslig mor eller far etter folketrygdloven kapittel 15
 
