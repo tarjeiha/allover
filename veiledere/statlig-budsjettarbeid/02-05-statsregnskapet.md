@@ -1,0 +1,11 @@
+# 2.5 Statsregnskapet
+
+*Veileder i statlig budsjettarbeid. Finansdepartementet, juni 2023.*
+
+[Grunnloven § 75](https://lovdata.no/dokument/NL/lov/1814-05-17/KAPITTEL_3#%C2%A775) bokstav k forutsetter at det for hvert budsjettår skal utarbeides og offentliggjøres et statsregnskap. [Bevilgningsreglementet](http://www.lovdata.no/for/sf/sv/xv-20050526-0876.html) [§ 13](http://www.lovdata.no/for/sf/sv/xv-20050526-0876.html) inneholder nærmere regler om statsregnskapet. Etter annet og tredje ledd i denne paragrafen skal statsregnskapet inneholde et bevilgningsregnskap og et kapitalregnskap. Bevilgningsregnskapet skal under hver post i budsjettet vise regnskapsførte utgifter og inntekter, overført beløp fra forrige år, total bevilgning i budsjettåret (inklusive eventuelle økninger eller reduksjoner i løpet av budsjettåret) og overført beløp til neste år. Under de enkelte kapitler og poster vil bevilgningsregnskapet vise merutgifter og mindreutgifter, samt merinntekter og mindreinntekter. Kapitalregnskapet gir oversikt over statens og trygdenes eiendeler og forpliktelser (gjeld) og viser sammenhengen med bevilgningsregnskapet. Det vises for øvrig til kapittel 8.
+
+Finansdepartementet sender årlig ut et rundskriv om årsavslutning og frister for innrapportering. Departementene skal, normalt innen midten av februar, bekrefte sin del av bevilgningsregnskapet og rapportere eiendeler og forpliktelser for sine virksomheter til kapitalregnskapet. Statsregnskapet forvaltes av Direktoratet for forvaltning og økonomistyring (DFØ), som mottar og sammenstiller virksomhetenes rapportering i forbindelse med årsavslutningen.
+
+Etter [bevilgningsreglementet § 13](http://www.lovdata.no/for/sf/sv/tv-20050526-0876-005.html) femte ledd skal det hvert år legges frem en stortingsmelding om statsregnskapet så snart regnskapet foreligger. Finansdepartementet fremmer normalt denne meldingen i slutten av april året etter regnskapsåret. Meldingen har fast nummerering, Meld. St. 3.
+
+I Stortinget blir meldingen behandlet av finanskomiteen. Komiteen legger frem innstilling til Stortinget (Innst. x S) om meldingen i første halvdel av juni, og innstillingen behandles av Stortinget i plenum før sommerferien.

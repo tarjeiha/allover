@@ -120,9 +120,9 @@ def veiledere() -> list:
     fil = ROT / "veiledere" / "dokumenter.json"
     if not fil.exists():
         return []
-    ut = ["### Veiledere fra Statsministerens kontor", ""]
+    ut = ["### Veiledere", ""]
     for d in json.loads(fil.read_text(encoding="utf-8"))["dokumenter"]:
-        ut.append(f"- **{d['navn']}**, {d['utgave']}, fra {d['utgiver']}. Retningslinjer, ikke lov eller forskrift.")
+        ut.append(f"- **{d['navn']}**, {d['utgave']}, fra {d['utgiver']}. Veileder, ikke lov eller forskrift.")
     return ut
 
 

@@ -1,6 +1,6 @@
 # Veiledere – veiviser
 
-Denne mappen har veiledere og retningslinjer for arbeidet i departementene, utgitt av Statsministerens kontor. De er verken lov eller forskrift, men retningslinjer for hvordan saker forberedes til regjeringen og statsrådet. Heftene er offentlige og ligger på regjeringen.no. De legges inn for hånd, fordi regjeringen.no ikke slipper til automatisk henting.
+Denne mappen har veiledere og retningslinjer for arbeidet i departementene. Statsministerens kontor har gitt ut retningslinjene for saker til statsrådet og regjeringskonferansen, og Finansdepartementet har gitt ut veilederen i statlig budsjettarbeid. Veilederne er verken lov eller forskrift. Heftene er offentlige og ligger på regjeringen.no. De legges inn for hånd, fordi regjeringen.no ikke slipper til automatisk henting.
 
 ## Dokumenter
 
@@ -8,8 +8,9 @@ Denne mappen har veiledere og retningslinjer for arbeidet i departementene, utgi
 |---|---|---|---|
 | Om Kongen i statsråd | Ajourført oktober 2026 | Statsministerens kontor | `veiledere/om-kongen-i-statsrad/` |
 | Om r-konferanser | Sist oppdatert 11. mars 2026 | Statsministerens kontor | `veiledere/om-r-konferanser/` |
+| Veileder i statlig budsjettarbeid | Juni 2023 | Finansdepartementet | `veiledere/statlig-budsjettarbeid/` |
 
-Teksten er gjengitt ordrett fra PDF-utgavene, én fil per kapittel og én fil per vedlegg. Punktnumrene er beholdt, slik at svar kan vise til for eksempel «Om Kongen i statsråd punkt 12.4». Innholdsfortegnelsen og sidetallene er tatt ut. Eksemplene i vedleggene står i en tekstblokk med den opprinnelige oppstillingen.
+Teksten er gjengitt ordrett fra PDF- og Word-utgavene, én fil per kapittel og én fil per vedlegg. Punktnumrene er beholdt, slik at svar kan vise til for eksempel «Om Kongen i statsråd punkt 12.4». Innholdsfortegnelsen og sidetallene er tatt ut. Eksemplene i vedleggene står i en tekstblokk med den opprinnelige oppstillingen.
 
 ## Om Kongen i statsråd
 
@@ -63,6 +64,31 @@ Retningslinjer for forberedelse av saker til regjeringskonferanse. Heftet kalles
 | `vedlegg-1-eksempel-pa-oppsett-av-regjeringsnotat.md` | Vedlegg 1: eksempel på oppsett av r-notat (skrevet av fra bilde) |
 | `vedlegg-2-r-notater-med-innsideinformasjon.md` | Vedlegg 2: arbeid med r-notater med innsideinformasjon |
 
+## Veileder i statlig budsjettarbeid
+
+Finansdepartementets veileder om statsbudsjettet. Del I (kapittel 1–2) handler om statsbudsjettets funksjoner og budsjettsyklusen. Del II (kapittel 3–9) er kommentarer til bevilgningsreglementet, paragraf for paragraf. Kapittel 2, 5 og 7 er delt i én fil per punkt. Ordlyden i hver paragraf i bevilgningsreglementet står som sitat foran kommentarene. Stikkordsregisteret er ikke tatt med.
+
+| Fil | Innhold |
+|---|---|
+| `00-forord.md` | Hva som er nytt i utgaven fra juni 2023, og om rundskrivene |
+| `01-statsbudsjettets-hovedfunksjoner.md` | Den konstitusjonelle, politiske og administrative funksjonen |
+| `02-01-budsjettsyklusen-oversikt.md` | Oversikt over budsjettsyklusen |
+| `02-02-regjeringens-budsjettforslag.md` | Rammebudsjettering, rollefordelingen, budsjettstrategikonferansen, budsjettkonferansene i mars og august, fagdepartementenes arbeid og regjeringens budsjettdokumenter (Gul bok, Prop. 1 S, tillegg, Prop. 1 LS, Nasjonalbudsjettet) |
+| `02-03-stortingets-behandling.md` | Finanskomiteen, finansdebatten og rammevedtaket, fagkomiteene og behandlingen i Stortinget |
+| `02-04-gjennomforing-av-vedtatt-budsjett.md` | Budsjettendringer i løpet av året, revidert nasjonalbudsjett og nysalderingen |
+| `02-05-statsregnskapet.md`, `02-06-riksrevisjonens-kontroll.md` | Statsregnskapet og Riksrevisjonens kontroll |
+| `02-07-oversikt-over-budsjettsyklusen.md` | Tabeller over budsjettsyklusen gjennom året |
+| `03-generelt-om-bevilgningsreglementet.md` | Historikk, og forholdet til annet budsjettregelverk (økonomiregelverket, rundskriv) |
+| `04-bevilgningsreglementet-kapittel-1.md` | §§ 1–2: virkeområde og unntak, folketrygden |
+| `05-01-grunnleggende-prinsipper-innledning.md` til `05-06-paragraf-7-forvaltningsbedrifter-og-sdoe.md` | §§ 3–7: ettårs-, fullstendighets-, kontant- og bruttoprinsippet, inndeling i kapitler og poster, bevilgningsvedtak og stikkord («kan overføres», «overslagsbevilgning»), forpliktelser for fremtidige år, forvaltningsbedrifter |
+| `06-bevilgningsreglementet-kapittel-3.md` | §§ 8–9: frister for Prop. 1 S og tillegg, krav til redegjørelse og resultatrapportering |
+| `07-01-gjennomforing-innledning.md` til `07-04-paragraf-12-nodsfullmakter.md` | §§ 10–12: disponering av bevilgninger, budsjettendringer i løpet av året, merinntektsfullmakter, nødsfullmakter |
+| `08-bevilgningsreglementet-kapittel-5.md` | § 13: statsregnskapet |
+| `09-bevilgningsreglementet-kapittel-6.md` | § 14: disponering av kontantbeholdningen |
+| `vedlegg-1-bevilgningsreglementet.md` | Bevilgningsreglementet, med endringer 16. juni 2023 |
+| `vedlegg-2-r-110-fullmakter.md` | Rundskriv R-110 Fullmakter i henhold til bevilgningsreglementet, 20. juni 2023 |
+| `vedlegg-3-forvaltningsbedrifter.md` | Føring av driftsresultat, avskriving og renter i forvaltningsbedrifter |
+
 ## Kjente feller
 
 - **Retningslinjer, ikke lov.** Heftene er retningslinjer fra Statsministerens kontor. «Om Kongen i statsråd» sier selv at avvik ikke i seg selv er en saksbehandlingsfeil. Si i svaret at det bygger på retningslinjene, og oppgi hefte, punkt og utgave. Bestemmelser i Grunnloven og andre lover som heftene viser til, slås opp i regelverket.
@@ -71,8 +97,10 @@ Retningslinjer for forberedelse av saker til regjeringskonferanse. Heftet kalles
 - **Eksemplene er fiktive.** Eksemplene i heftene og vedleggene er laget for opplæring. Navn, datoer og saker i dem er ikke virkelige vedtak, og vedlegg XII er en virkelig resolusjon brukt som eksempel på retting.
 - **Avskrift av bilder.** Vedlegg XII til «Om Kongen i statsråd» og vedlegg 1 til «Om r-konferanser» er bilder i originalen og er skrevet av. Si det hvis svaret bygger på detaljer i dem.
 - **Prosess og form, ikke konkrete saker.** Heftene beskriver hvordan saker forberedes og utformes. R-notater og kongelige resolusjoner om konkrete saker er fortrolige før behandling, se «Om Kongen i statsråd» kapittel 6 og «Om r-konferanser» punkt 1.1 og 1.3. Svar på sakstypen, med skjelett og eksempler fra heftene. Be ikke om, skriv ikke og kontroller ikke r-notater eller kongelige resolusjoner om konkrete saker, og gjenta ikke saksopplysninger brukeren gir.
+- **Budsjettveilederen er fra juni 2023.** Bevilgningsreglementet og R-110 i vedleggene er versjonene fra juni 2023. Finansdepartementet oppdaterer rundskrivene oftere enn veilederen, og R-110 og de andre rundskrivene kan være endret siden. Si det når svaret bygger på R-110 eller et rundskriv veilederen viser til, og vis til Finansdepartementets rundskrivside på regjeringen.no. Tall og eksempler i veilederen (for eksempel beløpsgrenser) gjelder utgaven fra 2023.
+- **Budsjettveilederen beskriver prosessen, ikke tallene.** Bevilgninger og forslag for et bestemt år står i statsbudsjettdokumentene (`budsjett/VEIVISER.md`).
 - **Bokmål.** Heftene er skrevet på bokmål. Vedlegg XIV har også eksempler på nynorsk. Siter ordrett.
 
 ## Ny utgave
 
-Nattbygget åpner en sak i GitHub når det er gått et år siden utgaven i basen (`verktoy/politikk.py`, datoene står i `veiledere/dokumenter.json`). Når en ny utgave legges inn, erstattes filene i mappen, og `utgitt`, `utgave` og tabellen over oppdateres. Den forrige utgaven finnes i historikken til repoet.
+For heftene fra Statsministerens kontor åpner nattbygget en sak i GitHub når det er gått et år siden utgaven i basen. Budsjettveilederen kommer sjeldnere i ny utgave og har ingen påminnelse (`verktoy/politikk.py`, datoene står i `veiledere/dokumenter.json`). Når en ny utgave legges inn, erstattes filene i mappen, og `utgitt`, `utgave` og tabellen over oppdateres. Den forrige utgaven finnes i historikken til repoet.

@@ -19,6 +19,14 @@
       "nettside": "https://www.regjeringen.no/omrkonf",
       "revideres": "årlig",
       "ventes_i": 3
+    },
+    {
+      "navn": "Veileder i statlig budsjettarbeid",
+      "utgave": "juni 2023",
+      "utgiver": "Finansdepartementet",
+      "utgitt": "2023-06-01",
+      "mappe": "veiledere/statlig-budsjettarbeid",
+      "revideres": "ved behov"
     }
   ]
 }
