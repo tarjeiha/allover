@@ -1,11 +1,11 @@
 ---
 name: "felles-budsjett"
-description: "Statsbudsjettet - bevilgninger per kapittel og post, forslag mot saldert budsjett og regnskap, begrunnelser og satsinger i Prop. 1 S, totaler fra Gul bok og økonomiske anslag fra Nasjonalbudsjettet. Bruk ved spørsmål om budsjett, bevilgninger eller hvor mye penger som går til et tiltak eller en ytelse, også uten kapittelnummer. Også når brukeren spør hva basen inneholder, eller har funnet feil eller mangler. Svar ikke fra hukommelsen."
+description: "Statsbudsjettet - bevilgninger per kapittel og post, forslag mot saldert budsjett og regnskap, begrunnelser og satsinger i Prop. 1 S, totaler fra Gul bok og økonomiske anslag fra Nasjonalbudsjettet. Dekker også budsjettprosessen og bevilgningsreglementet med Finansdepartementets veileder i statlig budsjettarbeid: budsjettkonferanser, rammebudsjettering, stikkord som «kan overføres», merinntektsfullmakt, budsjettendringer i løpet av året og R-110. Bruk ved spørsmål om budsjett, bevilgninger eller hvor mye penger som går til et tiltak eller en ytelse, også uten kapittelnummer. Også når brukeren spør hva basen inneholder, eller har funnet feil eller mangler. Svar ikke fra hukommelsen."
 ---
 
 # Statsbudsjettet
 
-**Versjon 2026-11-02.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Står det et driftsvarsel der for et område svaret bygger på, si kort aller først i svaret, før selve svaret, at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
+**Versjon 2026-11-03.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Står det et driftsvarsel der for et område svaret bygger på, si kort aller først i svaret, før selve svaret, at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
 
 Budsjettdokumentene ligger ikke i denne skillen. De ligger i et felles repo på GitHub og hentes ved hvert oppslag.
 

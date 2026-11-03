@@ -2,6 +2,10 @@
 
 Denne mappen har statsbudsjettdokumenter for Arbeids- og inkluderingsdepartementet (AID), delt opp slik at du kan gå rett til et kapittel eller en post. Dokumentene er offentlige og hentet fra regjeringen.no. Word- og Excel-filene lastes opp manuelt, fordi regjeringen.no ikke slipper til automatisk henting.
 
+## Budsjettprosessen og bevilgningsreglementet
+
+Spørsmål om hvordan budsjettet lages og gjennomføres, og om reglene for bevilgninger, besvares fra Finansdepartementets *Veileder i statlig budsjettarbeid* (juni 2023). Den ligger i `veiledere/statlig-budsjettarbeid/` med bevilgningsreglementet og rundskriv R-110 som vedlegg. Start i `veiledere/VEIVISER.md`. Det gjelder for eksempel budsjettkonferansene, rammebudsjettering, stikkordene «kan overføres» og «overslagsbevilgning», merinntektsfullmakter, budsjettendringer i løpet av året og nysalderingen.
+
 ## Kjente feller
 
 - **Prop. 1 S er regjeringens forslag, ikke vedtatt budsjett.** Stortinget vedtar budsjettet i desember, etter budsjettforliket og innstillingene fra komiteene. Tilleggsproposisjoner (Prop. 1 S Tillegg) kan endre forslaget. Si alltid at tallene er forslag, og fra hvilket dokument.
