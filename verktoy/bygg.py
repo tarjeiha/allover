@@ -101,20 +101,26 @@ def finn(oppslag: dict, dokid: str):
 
 ORD = re.compile(r"\w+", re.UNICODE)
 # Senket skrift (CO<sub>2</sub>) blir «CO 2» med mellomrom i kildeteksten og i leddene,
-# men «CO2» i paragrafoverskriften. Mellomrommet foran sifferet fjernes i begge tekstene
-# før ordene telles, så samme ord ikke telles som manglende.
+# men «CO2» i paragrafoverskriften. Dekningen regnes derfor også med mellomrommet foran
+# sifferet fjernet i begge tekstene, og den høyeste av de to verdiene brukes. Den vanlige
+# tellingen blir aldri strengere enn før.
 SIFFERSKJOT = re.compile(r"(?<=\w)\s+(?=\d)|(?<=\d)\s+(?=-)")
 
 
-def dekning(kilde_tekst: str, md: str) -> float:
-    """Andel av ordene i kilden som finnes i den genererte filen."""
-    kilde = Counter(ORD.findall(SIFFERSKJOT.sub("", kilde_tekst.lower())))
-    ut = Counter(ORD.findall(SIFFERSKJOT.sub("", md.lower())))
+def _andel(kilde_tekst: str, md: str) -> float:
+    kilde = Counter(ORD.findall(kilde_tekst))
+    ut = Counter(ORD.findall(md))
     totalt = sum(kilde.values())
     if not totalt:
         return 1.0
     funnet = sum(min(n, ut[o]) for o, n in kilde.items())
     return funnet / totalt
+
+
+def dekning(kilde_tekst: str, md: str) -> float:
+    """Andel av ordene i kilden som finnes i den genererte filen."""
+    k, m = kilde_tekst.lower(), md.lower()
+    return max(_andel(k, m), _andel(SIFFERSKJOT.sub("", k), SIFFERSKJOT.sub("", m)))
 
 
 LISTEPUNKT = re.compile(r"^\s*(?:[0-9a-zæøå]{1,4}[.)]|\([0-9a-zæøå]{1,4}\)|-|•)(?:\s|$)", re.I)
