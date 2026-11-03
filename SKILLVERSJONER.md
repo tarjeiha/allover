@@ -6,7 +6,7 @@ Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med d
 |---|---|
 | felles-intern | 2026-10-22 |
 | felles-sprak | 2026-11-02 |
-| felles-regelverk | 2026-11-02.2 |
+| felles-regelverk | 2026-11-02.3 |
 | felles-budsjett | 2026-11-02 |
 | felles-data | 2026-11-02 |
 | felles-analyse | 2026-11-02 |

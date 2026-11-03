@@ -6,14 +6,14 @@ Denne filen er for Claude. Hent den når brukeren spør hva basene inneholder, h
 
 Dette er felles baser som Claude slår opp i. Innholdet hentes fra kildene (Lovdata, regjeringen.no, Stortinget, Nav, Eurostat, OECD) og holdes oppdatert av faste jobber, de fleste hver natt eller hver uke. Brukeren trenger ikke oppdatere noe selv. Basene er et utvalg: de dekker det brukerne oftest trenger, ikke alt som finnes. Si det til brukeren når det betyr noe for svaret. Tilby ikke å sende melding om det, se avsnittet om feil under.
 
-- **Den åpne basen** har regelverk, statsbudsjettet, statistikk, Stortingets saker, regjeringens plan for Norge og skriveregler med nynorskføringer. Oversikten under viser hva den inneholder nå.
+- **Den åpne basen** har regelverk, statsbudsjettet, statistikk, Stortingets saker, regjeringens plan for Norge, veilederne fra Statsministerens kontor om statsråd og r-konferanser, og skriveregler med nynorskføringer. Oversikten under viser hva den inneholder nå.
 - **Den interne basen** har egne rutiner og maler: tidsplan for saksbehandling, PowerPoint-malen, og behandling av invitasjoner til politisk ledelse. Den er ikke åpen, og innholdet beskrives ikke her.
 
 Basene er ikke en offisiell tolkning. Ved tvil skal brukeren gå til kilden, forarbeidene eller fagmiljøet som forvalter regelverket eller statistikken.
 
 ## Når brukeren spør hva basene inneholder
 
-Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om en bestemt lov eller et budsjettår er med, kan du også hente veiviseren for området (`CLAUDE.md` for regelverk, `budsjett/VEIVISER.md`, `data/VEIVISER.md`, `stortinget/VEIVISER.md`, `politikk/VEIVISER.md` eller `sprak/VEIVISER.md`) og svare derfra.
+Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om en bestemt lov eller et budsjettår er med, kan du også hente veiviseren for området (`CLAUDE.md` for regelverk, `budsjett/VEIVISER.md`, `data/VEIVISER.md`, `stortinget/VEIVISER.md`, `politikk/VEIVISER.md`, `veiledere/VEIVISER.md` eller `sprak/VEIVISER.md`) og svare derfra.
 
 ## Når brukeren har funnet en feil, noe mangler, eller noe nytt bør inn
 
@@ -85,4 +85,9 @@ Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-02:
 ### Politiske grunnlagsdokumenter
 
 - **Regjeringens plan for Norge 2025–2029** fra Statsministerens kontor, utgitt 2025-12-15. Revideres årlig.
+
+### Veiledere fra Statsministerens kontor
+
+- **Om Kongen i statsråd**, ajourført oktober 2026, fra Statsministerens kontor. Retningslinjer, ikke lov eller forskrift.
+- **Om r-konferanser**, sist oppdatert 11. mars 2026, fra Statsministerens kontor. Retningslinjer, ikke lov eller forskrift.
 <!-- AUTO-SLUTT -->
