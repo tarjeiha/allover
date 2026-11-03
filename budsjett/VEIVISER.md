@@ -72,12 +72,30 @@ Feller:
 - **Post 24 Driftsresultat** for forvaltningsbedrifter (f.eks. kap. 2470) har underposter uten eget beløp. De er ikke med.
 - **Saldert budsjett for AIDs kapitler** er kontrollert mot kolonnen «Saldert budsjett» i neste års Prop. 1 S for 2022–2025, uten avvik.
 
+## Partienes alternative budsjetter (`budsjett/ÅR/alternative-budsjett/`)
+
+Opposisjonspartiene legger fram egne alternative statsbudsjetter i november, før budsjettforliket. Tabellene er hentet fra partienes egne PDF-dokumenter og lagt inn for hånd. Foreløpig gjelder det 2027, fra SV (side 56–85 i dokumentet) og Senterpartiet (side 44–64). Partier som kommer til, legges inn for hånd i de samme filene. Alle beløp er endringer fra regjeringens forslag i Prop. 1 S, i millioner kroner.
+
+| Fil | Innhold |
+|---|---|
+| `tiltak.tsv` | Ett tiltak per rad: parti, side i partiets dokument, departement, kapittel, post, tiltak og endring (`endring_mill`, bokført). `palopt_mill` er fylt ut bare der partiet oppgir påløpt beløp. `gruppe` er partiets egen inndeling (satsinger, innsparinger, inndekning, 90-poster), og `rammeomrade` er SVs inndeling. Søk på `kap` for å se hva partiene foreslår på et kapittel, eller i `tiltak` for ord som «AAP» eller «Nav». |
+| `skatter-og-avgifter.tsv` | Skatte- og avgiftsforslagene, med bokført og påløpt beløp. Positive tall er skjerpelser, negative tall er lettelser. |
+
+Feller:
+
+- **Dokumentene er partienes egne, ikke formelle forslag i Stortinget.** Det partiene fremmer i komiteene, kan avvike. De formelle forslagene per post kommer inn i `budsjett/ÅR/stortinget/partiforslag.tsv` av seg selv når budsjettinnstillingene foreligger i desember. Bruk dem når de finnes, og si at tallene her er fra partiets alternative budsjett.
+- **Summene i partienes dokumenter stemmer ikke alltid.** Hos SV stemmer radene ikke med summen for noen rammeområder (størst er forsvar, der radene gir −107 mill. kroner og summen −469). SVs sum for skatter er 290 mill. kroner høyere enn radene. Hos Senterpartiet har landbruk feil fortegn på nettoendringen. Bruk radene, og oppgi siden når du siterer en sum.
+- **90-poster (lånetransaksjoner) er med som rader,** men partiene holder dem utenfor summene. Se `merknad`.
+- **Beløp som gjelder flere tiltak.** I SVs skattetabell står beløpet for formuesskatt og for inntektsskatt (trinnskatt, utbytte og frikort) bare på den siste linjen i blokken. Se `merknad`.
+- **Senterpartiets tabell for kultur** har feil overskrift i dokumentet (Klima- og miljødepartementet). Den er lagt inn som Kultur- og likestillingsdepartementet (KUD).
+- **SV skriver «statsbudsjett 2026» i innledningen til tabellene.** Tabellene gjelder forslaget for 2027.
+
 <!-- AUTO-START budsjettår: genereres av verktoy/budsjett_innboks.py, ikke rediger for hånd -->
 ## Budsjettår i basen
 
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
-- **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
+- **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
 - **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (69 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
 - **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (55 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (296 svar, `budsjett/2025/sporsmal/stb/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
 - **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (45 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (236 svar, `budsjett/2024/sporsmal/stb/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
