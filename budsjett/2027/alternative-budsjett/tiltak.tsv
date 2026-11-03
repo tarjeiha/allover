@@ -1,0 +1,821 @@
+parti	side	dep	kap	post	tiltak	endring_mill	palopt_mill	gruppe	rammeomrade	merknad
+SV	56	DFD	20	1	Kutt i statsministerens kontor	-5			1: Statsforvaltning	
+SV	56	DFD	21	1	Kutt i statsrådet	-20			1: Statsforvaltning	
+SV	56	DFD	Ny	Ny	Starte arbeidet med nasjonal sky (statlig eid og driftet)	200			1: Statsforvaltning	
+SV	56	BFD	845	70	Prisjustere barnetrygden fra 1. januar	810		Familieøkonomi	2: Familie og forbruker	
+SV	56	BFD	2530	70	Beholde engangsstønaden på dagens nivå	106		Familieøkonomi	2: Familie og forbruker	
+SV	57	BFD	846	61	Støtte til etablering og drift av fritidsklubber	100		Ungdom	2: Familie og forbruker	
+SV	57	BFD	846	61	6 000 nye sommerjobber til ungdom	102		Ungdom	2: Familie og forbruker	
+SV	57	BFD	846	70	Øke grunnstøtten til de nasjonale barne- og ungdomsparaplyorganisasjonene	5		Ungdom	2: Familie og forbruker	
+SV	57	BFD	856	1	Overføre enslige mindreårige asylsøkere fra UDI til barnevernet. Vi starter i 2026 med å overføre alle 15-åringer fra 1. juli	93		Barnevernet	2: Familie og forbruker	
+SV	57	BFD	855	22	Etableringsstøtte for ideelle aktører i barnevernet	10		Barnevernet	2: Familie og forbruker	
+SV	57	BFD	855	22	Styrking av spesialiserte fosterhjem	10		Barnevernet	2: Familie og forbruker	
+SV	57	BFD	855	1	Styrke grunnkapasiteten i institusjonsbarnevernet	527		Barnevernet	2: Familie og forbruker	
+SV	57	BFD	840	60	Tilskuddsordningen for utbygging og bygningsmessig oppgradering av krisesenter	20		Voldsforebygging	2: Familie og forbruker	
+SV	57	BFD	840	61	Incest og voldtekstsentrene	8		Voldsforebygging	2: Familie og forbruker	
+SV	57	BFD	840	70	Krisesentersekreteriatet, økt driftstilskudd	2		Voldsforebygging	2: Familie og forbruker	
+SV	57	BFD	840	70	Styrke arbeidet mot vold i nære relasjoner (Alternativ til Vold, reversere kutt Seif mm.)	6		Voldsforebygging	2: Familie og forbruker	
+SV	57	BFD	840	73	Tilskudd til senter for voldsutsatte barn	5		Voldsforebygging	2: Familie og forbruker	
+SV	57	BFD	846	70	Barnevakten	3		Voldsforebygging	2: Familie og forbruker	
+SV	57	BFD	860	50	Styrke Forbrukerrådet	5		Andre tiltak	2: Familie og forbruker	
+SV	57	BFD	868	1	Styrke Forbrukertilsynet	5		Andre tiltak	2: Familie og forbruker	
+SV	57	BFD	855	22	Kutter regjeringens økning til kjøp av private barnevernstenester og overfører midlene til det offentlige tilbudet	-427		Andre tiltak	2: Familie og forbruker	
+SV	58	KUD	315	78	Tiltak for å øke deltagelsen i idrett	70		Aktivitet og kultur i hele landet	3: Kultur	
+SV	58	KUD	325	60	Regionale kulturfond	30		Aktivitet og kultur i hele landet	3: Kultur	
+SV	58	KUD	320	72	Kunstnerstipender (50 arbeidsstipendhjemler)	18		Aktivitet og kultur i hele landet	3: Kultur	
+SV	58	KUD	315	70	TIlskudd til studieforbund (reversere kutt)	10		Aktivitet og kultur i hele landet	3: Kultur	
+SV	58	KUD	315	60	Tilskudd til frivilligsentraler	30		Aktivitet og kultur i hele landet	3: Kultur	
+SV	58	KUD	320	55	Kulturfondet (inkluderer tiltak for formidling og styrket lesekultur, innkjøpsordningen for sakprosa, Tidsskrift og Kritikk)	35		Språk, litteratur og lesing	3: Kultur	
+SV	58	KUD	320	76(ny)	Tilskuddsordning til aktivitet og drift av folkebibliotek	30		Språk, litteratur og lesing	3: Kultur	
+SV	58	KUD	326	73	Noregs Mållag	1		Språk, litteratur og lesing	3: Kultur	
+SV	58	KUD	328	70	Nynorsk kultursentrum	1		Språk, litteratur og lesing	3: Kultur	
+SV	58	KUD	320	74	AKSESS, tidsskrift	1		Språk, litteratur og lesing	3: Kultur	
+SV	58	KUD	335	71	Pressestøtte	40		Mediepolitikk	3: Kultur	
+SV	58	KUD	335	72	Subsidiert tilgang til redaktørstyrte medier for unge	4		Mediepolitikk	3: Kultur	
+SV	58	KUD	335	70	Støtte til mediesatsninger (inkluderer Lille Norske Leksikon, Samarbeidsdesken til NRK, Landslaget for lokalaviser og Senter for undersøkende jounalistikk, UngDesk gjennom Landsforbundet for lokalaviser)	6		Mediepolitikk	3: Kultur	
+SV	58	KUD	335	73	Institutt for journalistikk	2		Mediepolitikk	3: Kultur	
+SV	58	KUD	335	71	TIlskudd til samiske aviser	10		Mediepolitikk	3: Kultur	
+SV	58	KUD	335	1	Styrke Medietilsynet	5		Mediepolitikk	3: Kultur	
+SV	58	KUD	334	50	Filmfondet	20		Film	3: Kultur	
+SV	58	KUD	334	73	Regionale filmsentre og filmfond, økt støtte til formidling	5		Film	3: Kultur	
+SV	58	KUD	334	72	Filminsentivordningen	10		Film	3: Kultur	
+SV	58	KUD	320	74	Tilskudd til organisajoner og kompetansesentre (inkluderer blant annet Leveld Kunstnartun, Slekt og Data, Davvi Senter for scenekunst, Fargespill, Bergen Kjøtt, Foreningen Norden, SKUDA og Musikeralliansen)	40		Musikk- og scenekunst	3: Kultur	
+SV	58	KUD	323	70	Tilskudd til musikk- og scenekunstinstitusjoner (inkludert blant annet Musikk i innlandet, Sjiraffen kultursenter, Østfold Opera, Elden utendørs teater Røros, Arktisk filharmoni, Turneteateret)	15		Musikk- og scenekunst	3: Kultur	
+SV	58	KUD	320	55	Fremføring og formidling av musikk, Kulturfondet	30		Musikk- og scenekunst	3: Kultur	
+SV	59	KUD	320	55	Styrke tilskuddsordningene for scenekunst, Kulturfondet	15			3: Kultur	
+SV	59	KUD	320	75	Litteraturhus, kunstscener og kompanier (inkluderer blant annet Bruddet Fjæreheia, øremerking styrking Litteraturhuset i Stavanger, Litteraturhuset i Fredrikstad, og reversere kutt til Verdensteateret, Studium Actoris og Studium Polaris)	26			3: Kultur	
+SV	59	KUD	322	70	KODE - Rehabilitering av Ole Bulls villa Lysøen	20			3: Kultur	
+SV	59	KUD	320	74	Økt driftstilskudd til Kloden teater	10			3: Kultur	
+SV	59	KUD	320	55	Styrke tilskuddsordningen til visuell kunst, Kulturfondet	20		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	337	71	Utstillinghonorarer (øremerket)	15		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	328	78	Styrke museums- og kulturverntiltak (inkl. Alta Museum)	5		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	328	70	Styrke det nasjonale museumsnettverket (inkl. Aust-Agder museum og arkiv, Talerstolmidler til Museene Arven)	7		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	328	78	Frolands verk museumsdrift	6		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	328	78	Barnekunstmuseet	3		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	329	1	Styrking av Samisk arkiv	10		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	1429	77	Engangsbevilgning til Mearrasiida (støtte til samlokalisering)	5		Museer og visuell kunst	3: Kultur	
+SV	59	KUD	320	74	Safemuse, residenser for forfulgte og truede kunstnere	10		Likestilling, deltagelse og mangfold	3: Kultur	
+SV	59	KUD	351	70	Økt støtte til kvinneorganisasjonene	5		Likestilling, deltagelse og mangfold	3: Kultur	
+SV	59	KUD	351	72	Økt støtte til de skeive organisasjonene	5		Likestilling, deltagelse og mangfold	3: Kultur	
+SV	59	KUD	351	70	Tilskudd til tiltak mot rasisme, diskriminering og hatefulle ytringer	5		Likestilling, deltagelse og mangfold	3: Kultur	
+SV	59	KUD	351	72	Skeivt arkiv	3		Likestilling, deltagelse og mangfold	3: Kultur	
+SV	59	KUD	351	72	Rosa kompetanse barnevern	0,5		Likestilling, deltagelse og mangfold	3: Kultur	
+SV	59	KLD	1432	50	Kulturminnefondet (reversere kutt)	10		Kulturminnevern	3: Kultur	
+SV	59	KLD	1429	75	Fartøyvernsentrene	3		Kulturminnevern	3: Kultur	
+SV	59	KLD	1429	79	Verdensarv, drift (reversere kutt)	3		Kulturminnevern	3: Kultur	
+SV	59	KLD	1420	85	Fortidsminneforeningen (reversere kutt)	3		Kulturminnevern	3: Kultur	
+SV	60	UD	150	70	Sudan, Gaza, Burkina Faso, Somalia m.m.	900		Humanitære katastrofer	4: Utenriks	
+SV	60	UD	150	72	FNs Høykommissær for flyktninger (UNHCR)	100		Humanitære katastrofer	4: Utenriks	
+SV	60	UD	170	70	Sivilsamfunn (inkl Ukraina)	700		Demokrati	4: Utenriks	
+SV	60	UD	152	70	Menneskerettigheter	100		Demokrati	4: Utenriks	
+SV	60	UD	152	70	Students at Risk	20		Demokrati	4: Utenriks	
+SV	60	UD	152	71	FNs høykommissær for menneskerettigheter	30		Demokrati	4: Utenriks	
+SV	60	UD	159	70	Menneskerettighetsorganisasjoner i Midtøsten	30		Demokrati	4: Utenriks	
+SV	60	UD	159	71	Menneskerettigheter i Europa og Sentral-Asia	10		Demokrati	4: Utenriks	
+SV	60	UD	159	76	Menneskerettigheter Myanmar	30		Demokrati	4: Utenriks	
+SV	60	UD	159	77	Menneskerettigheter Latin-Amerika	50		Demokrati	4: Utenriks	
+SV	60	UD	159	75	Menneskerettigheter Afrika	50		Demokrati	4: Utenriks	
+SV	60	UD	161	73	Styresett og offentlige institusjoner (skatt for utvikling)	200		Demokrati	4: Utenriks	
+SV	60	UD	118	74	Nei til EU og Europabevegelsen	3		Demokrati	4: Utenriks	
+SV	60	UD	171	70	UNDP - kjernestøtte	100		Omfordeling og fattigdomsreduksjon	4: Utenriks	
+SV	60	UD	171	71	UNICEF - kjernestøtte	100		Omfordeling og fattigdomsreduksjon	4: Utenriks	
+SV	60	UD	170	70	Sivilsamfunn	700		Omfordeling og fattigdomsreduksjon	4: Utenriks	
+SV	60	UD	151	70	Fredelig konfliktløsning og fredsprosesser	50		Fred og nedrusting	4: Utenriks	
+SV	60	UD	151	71	Nedrusting og forebygging av konflikter	50		Fred og nedrusting	4: Utenriks	
+SV	60	UD	151	72 (ny)	Stabilisering av land i krise og konflikt	50		Fred og nedrusting	4: Utenriks	
+SV	60	UD	159	70	Midtøsten (inkl UNRWA)	350		Fred og nedrusting	4: Utenriks	
+SV	60	UD	159	75	Afrika (Sudan mfl.)	350		Fred og nedrusting	4: Utenriks	
+SV	60	UD	118	72	Nedrustingsorganisasjoner	10		Fred og nedrusting	4: Utenriks	
+SV	60	UD	118	75 (ny)	Fredsorganisasjoner	20		Fred og nedrusting	4: Utenriks	
+SV	60	UD	118	76	Menneskerettighetsforkjempere i Russland	20		Fred og nedrusting	4: Utenriks	
+SV	60	UD	118	78 (ny)	Humanitært initiativ mot atomvåpen	10		Fred og nedrusting	4: Utenriks	
+SV	60	UD	115	70	Kultur i Nordområdene	5		Fred og nedrusting	4: Utenriks	
+SV	60	UD	164	70	Likestilling	200		Likestilling	4: Utenriks	
+SV	60	UD	164	71	UN Women	30		Likestilling	4: Utenriks	
+SV	60	UD	159	72	Afghanistan	100		Likestilling	4: Utenriks	
+SV	60	UD	160	70	Seksuelle og reproduktive rettigheter	70		Likestilling	4: Utenriks	
+SV	61	UD	163	70	Klimatilpasning	1000		Klima	4: Utenriks	
+SV	61	UD	163	72 (ny)	Tap og skade	100		Klima	4: Utenriks	
+SV	61	UD	163	71	Bærekraftige hav og marin forsøpling	200		Natur	4: Utenriks	
+SV	61	UD	172	70	Verdensbankfond (eksl IDA)	-200		Inndekning	4: Utenriks	
+SV	61	UD	172	71	Regionale fond	-500		Inndekning	4: Utenriks	
+SV	61	UD	172	71	Risikokapital utviklingsmandatet Norfund	-417		Inndekning	4: Utenriks	
+SV	61	UD	162	70	Bærekraftig jobbskaping, næringsutvikling	-50		Inndekning	4: Utenriks	
+SV	61	UD	165	90	Risikokapital utviklingsmandatet Norfund	-150		90-poster	4: Utenriks	90-post (lånetransaksjon), ikke med i SVs sum for rammeområdet
+SV	61	UD	165	90	Grunnfondskapital Klimainvesteringsfondet	417		90-poster	4: Utenriks	90-post (lånetransaksjon), ikke med i SVs sum for rammeområdet
+SV	62	JD	470	1	Oppjustere inntektsgrensen for fri rettshjelp, slik at en større del av befolkningen er dekket	100		Fri rettshjelp	5: Justis	
+SV	62	JD	470	72	Øke tilskuddet til spesielle rettshjelpstiltak, som bl.a. Jussbuss, Gatejuristen, Rettssenteret, JURK og NOAS	40		Fri rettshjelp	5: Justis	
+SV	62	JD	470	72	Øremerket støtte til spesielle rettshjelptiltak på utlendingfeltet	7		Fri rettshjelp	5: Justis	
+SV	62	JD	414	1	Økte driftsmidler til rettstolkene	5		Domstoler	5: Justis	
+SV	62	JD	430	1	Økt bemanning i fengslene	100		Kriminalomsorg: God bemanning og økt kompetanse	5: Justis	
+SV	62	JD	430	1	Opprette flere plasser i rusmestringsenhetene	15		Kriminalomsorg: God bemanning og økt kompetanse	5: Justis	
+SV	62	JD	430	1	Tiltak for kvinner og andre særlig sårbare innsatte	5		Kriminalomsorg: God bemanning og økt kompetanse	5: Justis	
+SV	62	JD	430	1	Øremerket støtte til tiltak til bolig og oppfølgning etter soning	10		Kriminalomsorg: God bemanning og økt kompetanse	5: Justis	
+SV	62	JD	430	70	Øke tilskuddet til organisasjoner som Røde Kors' nettverk etter soning, RøverRadion, WayBack, Aurora, og Musikk i fengsel og frihet.	10		Kriminalomsorg: God bemanning og økt kompetanse	5: Justis	
+SV	62	JD	430	70	Øremerket støtte til Forandringshusets avhopperprogram	5		Kriminalomsorg: God bemanning og økt kompetanse	5: Justis	
+SV	62	JD	432	1	40 nye plasser i den desentraliserte deltidsutdanningen for fengselsbetjenter (DDU) ved Kriminalomsorgens høgskole og utdanningssenter (KRUS)	29		Kriminalomsorg: God bemanning og økt kompetanse	5: Justis	
+SV	62	JD	440	1	Økt støtte til nasjonalt kompetansemiljø innen hatkriminalitet	10		Styrke politiets kompetanse og kapasitet i møte med et endret kriminalitetsbilde	5: Justis	
+SV	62	JD	440	1	Styrke arbeid rettet mot digital kriminalitet	8		Styrke politiets kompetanse og kapasitet i møte med et endret kriminalitetsbilde	5: Justis	
+SV	62	JD	440	1	Øremerket til arbeid med digitale seksuallovbrudd mot barn og unge	10		Styrke politiets kompetanse og kapasitet i møte med et endret kriminalitetsbilde	5: Justis	
+SV	62	JD	440	1	Styrke Økokrim for å bekjempe økonomisk kriminalitet og miljøkriminalitet	15		Styrke politiets kompetanse og kapasitet i møte med et endret kriminalitetsbilde	5: Justis	
+SV	62	JD	440	1	Styrke politiets arbeid med organisert kriminalitet	10		Styrke politiets kompetanse og kapasitet i møte med et endret kriminalitetsbilde	5: Justis	
+SV	62	JD	440	1	Styrke politiets arbeid med inndragning	15		Styrke politiets kompetanse og kapasitet i møte med et endret kriminalitetsbilde	5: Justis	
+SV	62	JD	440	70	Øremerket støtte til FRI - Rosa kompetanse justis	2		Styrke politiets kompetanse og kapasitet i møte med et endret kriminalitetsbilde	5: Justis	
+SV	62	JD	443	1	Styrke påtale i politiet for å få ned straffesakskøen	50		Kamp mot vold og overgrep	5: Justis	
+SV	62	JD	440	1	Styrke etterforskning på voldtekt og vold i nære relasjoner	15		Kamp mot vold og overgrep	5: Justis	
+SV	62	JD	440	1	Økt støtte til Statens barnehus, og utvide aldersgrensen til 18 år	10		Kamp mot vold og overgrep	5: Justis	
+SV	62	JD	440	1	Økt bruk av omvendt voldsalarm	10		Kamp mot vold og overgrep	5: Justis	
+SV	62	JD	440	70	Økt støtte til ROSA, tiltak for å hjelpe menneske ut av prostitusjon, og tiltak for å støtte offer for menneskehandel	6		Kamp mot vold og overgrep	5: Justis	
+SV	63	JD	433	1	Styrke Konfliktrådets arbeid med ungdsomsoppfølgning og ungdomsstraff	15		Kriminalitetsforebyggende tiltak, inkludert ungdomskriminalitet	5: Justis	
+SV	63	JD	433	60	Styrke tilskudd til kommuner for samordning av lokale rus- og kriminalitetsforebyggende tiltak (SLT) og tilskuddsordningen for forebygging av radikalisering og voldelig ekstremistme.	10		Kriminalitetsforebyggende tiltak, inkludert ungdomskriminalitet	5: Justis	
+SV	63	JD	433	70	Styrke tilskuddsordningen til arbeid mot vold i nære relasjoner (5 mill) og kriminalitetsforebyggende tiltak (5 mill)	10		Kriminalitetsforebyggende tiltak, inkludert ungdomskriminalitet	5: Justis	
+SV	63	JD	455	71	Økt støtte til de frivillige beredskapsorganisasjonene	20		Redningstjeneste, samfunnssikkerhet og beredskap	5: Justis	
+SV	63	JD	451	1	Beredskapens hus Sør-Varanger	2		Redningstjeneste, samfunnssikkerhet og beredskap	5: Justis	
+SV	63	JD	440	1	Ta imot til sammen 5000 kvoteflyktninger	21		Kvoteflyktninger	5: Justis	
+SV	63	JD	471	73	Ikke avvikle rettferdsvederlagsordningen	20		Rettferdsvederlag	5: Justis	
+SV	63	JD	3440	5	Redusert økning i våpengebyr	90		Annet	5: Justis	
+SV	63	JD	3440	6	Fjerne gebyret for familiegjenforening for flyktninger og senke gebyret i andre familiegjenforeningssaker til 5 900 kr	-28		Inndekning og inntekter	5: Justis	
+SV	63	JD	440	1	Omprioritere fra grunnfinansiering til spisse satsinger	-115		Inndekning og inntekter	5: Justis	
+SV	63	JD	440	1	Omprioritering til kriminalomsorg og domstol for å se hele straffesakskjeden i sammenheng	-120		Inndekning og inntekter	5: Justis	
+SV	63	JD	432	1	Redusert satsing på politidigitalisering	-29		Inndekning og inntekter	5: Justis	
+SV	64	AID	flere	flere	Ta imot 5000 kvoteflyktninger	965		Innvandring	6: Innvandring, regional utvikling og bolig	
+SV	64	AID	671	71	Øke tilskuddet til integreringsarbeid i regi av frivillige organisasjoner	30		Integrering	6: Innvandring, regional utvikling og bolig	
+SV	64	AID	671	62	Økt støtte til kommunale integreringstiltak, herunder norskopplæringen	25		Integrering	6: Innvandring, regional utvikling og bolig	
+SV	64	AID	490	60	Gratis SFO for barn i asylmottak	16		Integrering	6: Innvandring, regional utvikling og bolig	
+SV	64	JD	490	71	Øke tilskuddet til aktivitetstilbud for barn i asylmottak	10		Integrering	6: Innvandring, regional utvikling og bolig	
+SV	64	AID	672	60	Øke antall norsktimer til beboere i asylmottak fra 175 til 250 timer	18		Integrering	6: Innvandring, regional utvikling og bolig	
+SV	64	JD	491	21	Doble antallet nemndsmøter i UNE (penger til muntlige høringer)	31		Rettssikkerhet for asylsøkere og flyktninger	6: Innvandring, regional utvikling og bolig	
+SV	64	JD	491	1	Innføre sakkyndige uttalelser i utvisningssaker som berører barn	13		Rettssikkerhet for asylsøkere og flyktninger	6: Innvandring, regional utvikling og bolig	
+SV	64	JD	490	1	Kutt i UDIs arbeid med opphør og tilbakekall av statsborgerskap	-2		Rettssikkerhet for asylsøkere og flyktninger	6: Innvandring, regional utvikling og bolig	
+SV	64	JD	491	1	Kutte i tilbakekall av statsborgerskap og opphør av flyktningstatus	-2		Rettssikkerhet for asylsøkere og flyktninger	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	554	73	Reversere kutt i Merkur-programmet (støtte til dagligvarebutikker i distriktet)	39		Kompetansesenter for distriktsutvikling	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	553	61	Støtte til bedrifter som har mista inntekter pga sanksjoner mot Russland	50		Kompetansesenter for distriktsutvikling	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	581	70	Øke bostøtten med 5%	193		En trygg og stabil boligsektor	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	581	60	Bygge flere boliger i distriktet, ved å kompensere tap av verdi på nybygde boliger	18		En trygg og stabil boligsektor	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	581	76	Tilskudd til å bygge flere utleieboliger i kommunene	200		En trygg og stabil boligsektor	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	581	78	Tilskudd til boligsosial bistand, som tiltak for å forhindre bostedsløshet	80		En trygg og stabil boligsektor	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	Ny	Ny	Bygge rimelige leieboliger for vanlige folk. Oppstart med 3000 boliger i 2027, med mål om 10.000 nye boliger i året.	540		En trygg og stabil boligsektor	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	581	(ny)	Gjenninføre heistilskuddet for tilpassing av boliger	6		En trygg og stabil boligsektor	6: Innvandring, regional utvikling og bolig	
+SV	64	KDD	1540	27	Øke støtten til tilsyn for universell utforming sitt arbeid med tilrettelegging	5		Integrering	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	560	50	Sametinget	170		Urfolk og nasjonale minoriteter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	567	73	Kvensk språk og kultur	15		Urfolk og nasjonale minoriteter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	567	70	Norske kveners forbund	5		Urfolk og nasjonale minoriteter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	567	70	Skogfinske formål	2		Urfolk og nasjonale minoriteter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	567	72	Det mosaiske trossamfunn	2		Urfolk og nasjonale minoriteter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	567	70	Formål rettet mot tater/romani og romer	2		Urfolk og nasjonale minoriteter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	560	NY	Samisk språkombud	6		Urfolk og nasjonale minoriteter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	5615	80	Renteinntekter Husbanken	22		Inntekter	6: Innvandring, regional utvikling og bolig	
+SV	65	KDD	2412	90	10 000 nye boliger årlig ved å øke låneramma til Husbanken med 20 mrd	1005		90-poster	6: Innvandring, regional utvikling og bolig	90-post (lånetransaksjon), ikke med i SVs sum for rammeområdet
+SV	65	KDD	5312	90	Avdrag på lån til Husbanken ved økning av Husbanken med 20 mrd.	6		90-poster	6: Innvandring, regional utvikling og bolig	90-post (lånetransaksjon), ikke med i SVs sum for rammeområdet
+SV	66	AID	2651	70	Øke minstesatsen for AAP-mottakere med 10 000	380		Fattigdomspakke	7: Arbeid og sosial	
+SV	66	AID	2651	70	Reversere kuttet til unge AAP-mottakere	680		Fattigdomspakke	7: Arbeid og sosial	
+SV	66	AID	621	70	Øke støtten til akuttovernattingstilbud og andre humanitære tiltak	20		Fattigdomspakke	7: Arbeid og sosial	
+SV	66	AID	2661	70,71	Prisregulere grunn- og hjelpestønaden	109		Flere skal få delta i samfunnet	7: Arbeid og sosial	
+SV	66	AID	2661	79	Styrke potten til aktivitetshjelpemidler for personer over 26 år	25		Flere skal få delta i samfunnet	7: Arbeid og sosial	
+SV	66	AID	2650	71	Styrke velferden til bønder ved å fjerne samordningsregelen ved sjukdom	160		Flere skal få delta i samfunnet	7: Arbeid og sosial	
+SV	66	AID	2261	70	Øke stønadsnivået til personer over 30 år med diagnosen alopecia, til samme dekning som de under 30	40		Flere skal få delta i samfunnet	7: Arbeid og sosial	Kapittelnummeret står slik i dokumentet, men er trolig 2661 (grunn- og hjelpestønad)
+SV	66	AID	605	1	Styrke saksbehandlingen i NAV	150		Flere skal få delta i samfunnet	7: Arbeid og sosial	
+SV	66	AID	604	21	Styrke arbeidslivssentrene for å forebygge sykefravær i helse og oppvekst, og sørge for HMS kurs til ledere	75		Flere skal få delta i samfunnet	7: Arbeid og sosial	
+SV	66	AID	(Ny)	(Ny)	Finansiering av organisasjoner som driver arbeid for integrering og mot rasisme og diskriminering (bl. a. LIM, Minotenk, Antirastisisk senter, Samora)	9		Flere skal få delta i samfunnet	7: Arbeid og sosial	
+SV	66	AID	640	1	Styrke Arbeidstilsynet med flere inspektører	15		Pakke mot arbeidslivskriminalitet	7: Arbeid og sosial	
+SV	66	AID	649	1	Fair Play	2		Pakke mot arbeidslivskriminalitet	7: Arbeid og sosial	
+SV	66	AID	621	(NY)	Etablere et lavterskeltilbud mot arbeidslivskriminalitet	10		Pakke mot arbeidslivskriminalitet	7: Arbeid og sosial	
+SV	66	AID	2650	70	Stanse kutt i rettigheter til sykepenger for uføre	19		Reversere usosiale kutt	7: Arbeid og sosial	
+SV	66	AID	2661	70	Stanse kutt i støtte til folk med cøliaki 18 – 30 år	50		Reversere usosiale kutt	7: Arbeid og sosial	
+SV	66	AID	2620	72	Reversere kutt i stønad til barnetilsyn for enslig forelder	39		Reversere usosiale kutt	7: Arbeid og sosial	
+SV	66	AID	605	25	Reversere kuttet til Stiftelsen Rettferd	1		Reversere usosiale kutt	7: Arbeid og sosial	
+SV	66	AID	2650	76	Redusert bevilgning til ekspertbistand	-32		Inndekninger	7: Arbeid og sosial	
+SV	66	AID	605	1	Mindreutgifter økt uføretrygd	-50		Inndekninger	7: Arbeid og sosial	
+SV	66	AID	605	1	Kutte rådgivende legestillinger i NAV	-124		Inndekninger	7: Arbeid og sosial	
+SV	66	AID	634	1	Flere arbeidsmarkedstiltak i egenregi	-50		Inndekninger	7: Arbeid og sosial	
+SV	66	AID	605	1	Redusere bruken av eksterne konsulenter i Nav	-150		Inndekninger	7: Arbeid og sosial	
+SV	67	AID	3640	85	20 % økning av tvangsmulkt ilagt pga. manglende oppfølging av pålegg fra Arbeidstilsynet	1		Inntekter	7: Arbeid og sosial	
+SV	67	AID	3640	86	20 % økning av overtredelsesgebyr ilagt virksomheter for brudd på arbeidsmiljøregelverket	7		Inntekter	7: Arbeid og sosial	
+SV	68	FD	1700	71	Frivillige organisasjoner	10		Styrking av Forsvaret	8: Forsvar	
+SV	68	FD	1720	1	Beholde sivilt og militært personell og personellstyrking	360		Styrking av Forsvaret	8: Forsvar	
+SV	68	FD	1720	1	Økt aktivitetsnivå i Forsvaret	200		Styrking av Forsvaret	8: Forsvar	
+SV	68	FD	1720	71	Veteranorganisasjoner og veterantiltak	20		Styrking av Forsvaret	8: Forsvar	
+SV	68	FD	1720	1	Heimevernet	100		Styrking av Forsvaret	8: Forsvar	
+SV	68	FD	1700	53	Risikokapital, NATOs innovasjonsfond	-14		Inndekning	8: Forsvar	
+SV	68	FD	1700	71	Sikkerhetspolitisk samarbeid med USA	-5		Inndekning	8: Forsvar	
+SV	68	FD	1700	78	Det europeiske forsvarsfondet og DIANA	-75		Inndekning	8: Forsvar	
+SV	68	FD	1720	1	Eksterne konsulenter	-579		Inndekning	8: Forsvar	
+SV	68	FD	1735	21	Etterretningstjenesten	-90		Inndekning	8: Forsvar	
+SV	68	FD	1760	44	NATO-prosjekt i Norge	-34		Inndekning	8: Forsvar	
+SV	69	NFD	2421	76	Reversere regjeringens forslag om å avvikle Miljøteknologiordningen	78			9: Næring	
+SV	69	NFD	930	70	Stiftelsen Design og arkitektur Norge (DOGA)	10			9: Næring	
+SV	69	NFD	909	73	Tilskudd til sysselsetting av sjøfolk	50			9: Næring	
+SV	69	NFD	Ny	Ny	Tiltakspakke for bedrifter i Øst-Finnmark	40			9: Næring	
+SV	69	NFD	2421	78	Omprioritere midler fra Innovasjon Norge	-179		Inndekningsforslag	9: Næring	
+SV	69	NFD	2460	54	Kutte olje- og gassprosjekter under Eksfin	-8		Inndekningsforslag	9: Næring	
+SV	69	NFD	954	70	Administrasjon Petoro	-471		Inndekningsforslag	9: Næring	
+SV	69	NFD	3950	90	Staten inn som medeigar i Sydvaranger gruve	400		90-poster	9: Næring	90-post (lånetransaksjon), ikke med i SVs sum for rammeområdet
+SV	69	NFD	2426	70	Statleg infrastruktur for transport og lagring av CO2 - SIVA	500		90-poster	9: Næring	90-post (lånetransaksjon), ikke med i SVs sum for rammeområdet
+SV	70	NFD	919	73 Kutte	CO2-kompensasjon til trålere	-332			10: Fiskeri	
+SV	70	LMD	1115	1	Styrke Mattilsynet	20			11: Landbruk	
+SV	70	LMD	1138	70	Frivillige organisasjonar i jordbruket, inkludert matsentralene	20			11: Landbruk	
+SV	70	LMD	1138	73	Nasjonalt senter for fjellandbruk	1			11: Landbruk	
+SV	70	LMD	1142	60	Styrke veterinærvaktordninga	40			11: Landbruk	
+SV	70	LMD	1138	72	NORSØK - senter for økologisk landbruk	6			11: Landbruk	
+SV	70	LMD	1142	(ny)	Beredskapstilskudd til småbruk	50			11: Landbruk	
+SV	70	LMD	1142	21	Beredskapslagring av korn	20			11: Landbruk	
+SV	70	LMD	1151	75	Lærlingeordninga for reindrift og duodjiutøvarar	1			11: Landbruk	
+SV	70	LMD	1149	71	Redusere tilskuddet til skogsbilveier	-53		Inndekningsforslag	11: Landbruk	
+SV	70	LMD	1149	73	Redusere støtte til skog-, klima- og energitiltak	-20		Inndekningsforslag	11: Landbruk	
+SV	70	LMD	1150	50	Redusere støtten til veibygging i vanskelig terreng i skogen	-60		Inndekningsforslag	11: Landbruk	
+SV	71	ED	1820	22	Øke satsingen på klimatilpasning, flom- og skredsikring	100		Klima og energi	12: Olje og energi	
+SV	71	ED	1825	50	ENOVA: Utbygging av solkraft	400		Klima og energi	12: Olje og energi	
+SV	71	ED	1825	60	ENOVA: Økt utbygging av fjernvarme (bl.a. kompensasjon for redusert el-avgift)	300		Klima og energi	12: Olje og energi	
+SV	71	ED	1825	50	ENOVA: Støtte til varmepumper og energisparing. Reversere kutt og øke	1000		Klima og energi	12: Olje og energi	
+SV	71	ED	1820	21	Pilot til gratis energirådgivning til husholdningene	30		Klima og energi	12: Olje og energi	
+SV	71	ED	1820	77	Reversere økningen utover prisjustering i Norgespris samt senke taket til 4500 kWh	600		Klima og energi	12: Olje og energi	
+SV	71	ED	1820	78	Reversere økningen utover prisjustering i Norgespris på fjernvarme	55		Klima og energi	12: Olje og energi	
+SV	71	ED	1800	1	Kutt i olje og gass	-150		Inndekninger	12: Olje og energi	
+SV	71	ED	1800	70	Kutte i tilskudd til internasjonale organisasjoner	-8		Inndekninger	12: Olje og energi	
+SV	71	ED	1800	21	Spesielle driftsutgifter	-25		Inndekninger	12: Olje og energi	
+SV	71	ED	1810	1	Sokkeldirektoratet, driftsmidler petroleum,	-350		Inndekninger	12: Olje og energi	
+SV	71	ED	1810	21	Spesielle driftsutgifter	-57		Inndekninger	12: Olje og energi	
+SV	71	ED	1810	23	Oppdrags- og samarbeidsvirksomhet	-20		Inndekninger	12: Olje og energi	
+SV	71	ED	1850	73	Redusere midler til oljeforskning og gruvedrift på havbunnen	-350		Inndekninger	12: Olje og energi	
+SV	71	ED	1820	77	Fjerne norgespris for hytter	-660		Inndekninger	12: Olje og energi	
+SV	72	KLD	1420	61	Klimasats og natursats	300		Klima og miljø	13: Miljø	
+SV	72	KLD	1420	62	Hurtigbåtprogrammet - grønn skipsfart	200		Klima og miljø	13: Miljø	
+SV	72	KLD	1420	85	Miljøorganisasjoner	10		Klima og miljø	13: Miljø	
+SV	72	KLD	1428	50	ENOVA: Havvind - utvikling og utbygging av havvindprosjekter	1500		Klima og miljø	13: Miljø	
+SV	72	KLD	1428	50	ENOVA: Industri - kutte store klimagassutslipp i industrien og avfallsforbrenningsanlegg	2000		Klima og miljø	13: Miljø	
+SV	72	KLD	1428	50	ENOVA: Elektriske lastebiler	1000		Klima og miljø	13: Miljø	
+SV	72	KLD	1410	21	Utvikling av nasjonale kart for natur og grå arealer	60		Natur	13: Miljø	
+SV	72	KLD	1420	32	Skogvern	900		Natur	13: Miljø	
+SV	72	KLD	1420	60	Opprette en rentekompensasjonsordning til kommuner for investeringer i vann- og avløpsanlegg - låneramme på 10 mrd. kr. Oppstart 1. juli	250		Natur	13: Miljø	
+SV	72	KLD	1420	80	Naturrestaurering og tiltak for Oslofjorden (100 av disse skal gå til oppkjøp av friluftsområder langs Oslofjorden for å bedre allmenhetens adgang til fjorden)	300		Natur	13: Miljø	
+SV	72	KLD	1420	31	Restaurering av myr	50		Natur	13: Miljø	
+SV	72	KLD	1420	69	Plastopprydding - (inkl Mausundvær feltstasjon 5 mill)	60		Natur	13: Miljø	
+SV	72	KLD	1420	21	Fjellrev	4		Natur	13: Miljø	
+SV	72	KLD	1420	85	Runde miljøsenter. Reversere kutt.	3		Natur	13: Miljø	
+SV	72	KLD	1420	21	Villaks	50		Natur	13: Miljø	
+SV	72	KLD	1420	78	Friluftsliv	50		Natur	13: Miljø	
+SV	72	KLD	1420	21	Tiltak for bedring av marint liv i Skagerrak gjennom SOS Skagerrak	3		Natur	13: Miljø	
+SV	72	KLD	1420	85	Fuglestasjon Lista og Jomfruland	2		Natur	13: Miljø	
+SV	72	KLD	1420	30	Statlig oppkjøp av viktige friluftsområder	50		Natur	13: Miljø	
+SV	72	KLD	1420	85	Klimapark 2469	4		Natur	13: Miljø	
+SV	72	KLD	1400	76	Noradapt	3		Natur	13: Miljø	
+SV	72	KLD	1400	76	Nasjonalt kompetansesenter for sirkulær økonomi	5		Natur	13: Miljø	
+SV	72	KLD	1428	52	Pilot på reperasjonsbonus på tekstiler	35		Natur	13: Miljø	
+SV	73	KLD	1428	50	Omdisponering av midler Enova	-2500		Inndekning	13: Miljø	
+SV	73	KLD	1481	22	Kutte kjøp av klimakvoter	-1100		Inndekning	13: Miljø	
+SV	74	HOD	732	72-75	Styrket sykehusøkonomi og økt grunnbemanning	1500		Sykehus	15: Helse	
+SV	74	HOD	760	60	Økte midler til kompetanseheving for alle ansatte i kommunehelsetjenesten	100		Bemanning og kompetanse	15: Helse	
+SV	74	HOD	760	60	Utdanne flere helsesykepleiere	40		Bemanning og kompetanse	15: Helse	
+SV	74	HOD	760	60	Utdanne flere sykepleiere i avansert klinisk allmennsykepleie (AKS)	50		Bemanning og kompetanse	15: Helse	
+SV	74	HOD	732	70	Opprette flere stillinger for nyutdannede leger (LIS1-stillinger)	45		Bemanning og kompetanse	15: Helse	
+SV	74	HOD	760	61	Gjenopprette tilskuddsordning for skolehelsetjenesten	100		Psykisk helse og rus	15: Helse	
+SV	74	HOD	765	60	Oppsøkende og helhetlige tjenester til personer med alvorlige psykiske lidelser og/eller rusproblemer (ACT og FACT)	100		Psykisk helse og rus	15: Helse	
+SV	74	HOD	765	60	Styrke lavterskel psykisk helsehjelp i kommunene	100		Psykisk helse og rus	15: Helse	
+SV	74	HOD	732	70	Styrke psykiatri og psykisk helsevern i spesialisthelsetjenesten	100		Psykisk helse og rus	15: Helse	
+SV	74	HOD	714	79	Frivillig arbeid med rus, psykisk helse og vold	15		Psykisk helse og rus	15: Helse	
+SV	74	HOD	732	70	Styrke rusmiddelanalysetjenesten	5		Psykisk helse og rus	15: Helse	
+SV	74	HOD	765	74	Nasjonalt senter for erfaringskompetanse, (Mental helse)	5		Psykisk helse og rus	15: Helse	
+SV	74	HOD	732	70	Sikre trygg svangerskaps-, fødsels- og barseloppfølging uavhengig av bosted ved å bevilge: i) XX til nasjonal finansiering av ultralydutdanning for jordmødre, ii) XX til utrulling av digitalt helsekort for gravide og iii) XX til følgetjeneste jordmødre i distriktene	100		Kvinnehelse	15: Helse	
+SV	74	HOD	732	70	Utarbeide nasjonalt veiledningsmateriell om rettigheter i forbindelse med svangerskap, fødsel og barsel	2		Kvinnehelse	15: Helse	
+SV	74	HOD	2751	70	Blåreseptordning for legemidler for kvinner i overgangsalder	100		Kvinnehelse	15: Helse	
+SV	74	HOD	714	79	Tilskuddspott for forebyggende kvinnehelsearbeid for ideelle og frivillige organisasjoner	30		Kvinnehelse	15: Helse	
+SV	74	HOD	732	70	Fødselsstøtte til gravide innvandrerkvinner i en sårbar livssituasjon (flerkulturell Doula)	3		Kvinnehelse	15: Helse	
+SV	74	HOD	760	70	Støtte til Amathea	10		Kvinnehelse	15: Helse	
+SV	75	HOD	79	(ny)	Løvemammaene	2		Annet	15: Helse	
+SV	75	HOD	760	70	Camphill Landsbystiftelse	8		Annet	15: Helse	
+SV	75	HOD	760	71	Styrk Nasjonalt kompetansesenter for kultur, helse og omsorg	3		Annet	15: Helse	
+SV	75	HOD	760	71	Samisk helseforskning	12		Annet	15: Helse	
+SV	75	HOD	732	72-75	Kutt i bruk av bemanningsselskaper i helseforetakene	-600		Inndekninger	15: Helse	
+SV	75	HOD	732	72 -75	Redusere omfanget av konsulentbruk i helseforetakene	-500		Inndekninger	15: Helse	
+SV	75	HOD	760	60	Forsøk med kommunal nettlege	-15		Inndekninger	15: Helse	
+SV	75	HOD	732	21	Lønnsfrys topplederlønninger i foretak	-2		Inndekninger	15: Helse	
+SV	76	KD	231	60	Øke bemanningen i alle barnehager gjennom et kraftig løft for toppet bemanning	1500		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	225	60	Opprette ny ordning med tilskudd til bemanning i SFO for barn med særskilte behov	500		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	Ny	Ny	Innføre gratis skolemåltid for alle elever på ungdomstrinnet fra skoleåret 2026/2027	415		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	226	21	Styrke laget rundt eleven i levekårsutsatte områder	65		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	226	21	Styrke skolebibliotekene og tilgang på skolebibliotekarer	110		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	2410	70	Øke utstyrsstipendet fra skoleåret 2027	30		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	226	21	Styrke arbeidet for mot radikalisering og høyreekstremisme, ved å styrke freds- og menneskerettighetssentrene, KPI-justering	6		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	226	21	Styrke kunnskapsarbeidet om historien om terroren 25. juni	2		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	225	60	Økt støtte til Støttegruppa etter 22. juli	0,5		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	225	66	Beholdes på eget kap og post: Tilskudd til holdningsskapende skoleturer gjennom Handlingsplan mot antisemittisme	18		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	226	21	Tilskudd til kommuner for samarbeid SFO og kulturskole, idrettslag og andre frivillige organisasjoner	150		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	220	70	Nynorsk lesesatsing. Det Norske Samlaget	2		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	225	Ny	Antirasistisk senter, drifttilskudd	3		En mer praktisk og variert skole	16: Utdanning og forskning	
+SV	76	KD	260	50/70	Øke grunnbevilgning til universiteter og høyskoler	300		Forskning og høyere utdanning	16: Utdanning og forskning	
+SV	76	KD	275	70	Styrke forskerrekrutteringen, gjennom å støtte unge forskere i en tidlig karrierefase - driftsmidler til OFF.	1		Forskning og høyere utdanning	16: Utdanning og forskning	
+SV	76	KD	260	50/70	150 nye studieplasser til helsesykepleiere	8		Forskning og høyere utdanning	16: Utdanning og forskning	
+SV	76	KD	260	70	Styrke Samisk høgskole	9		Forskning og høyere utdanning	16: Utdanning og forskning	
+SV	76	KD	2410	50/90	Reversere kuttet i stipend til folkehøgskoleelever	98		Forskning og høyere utdanning	16: Utdanning og forskning	
+SV	76	KD	254	70	Reversere kuttet til studieforbund	33		Forskning og høyere utdanning	16: Utdanning og forskning	
+SV	76	KD	285	21	Stanse nedleggelse av kunnskapssenteret Kilden	3		Forskning og høyere utdanning	16: Utdanning og forskning	
+SV	76	KD	2410	50	Studiestøtten økes med 10 prosent og knyttes til grunnbeløpet i folketrygden fra 1. august (opptrapping til 2G)	308		Studentvelferd	16: Utdanning og forskning	
+SV	77	KD	270	75	Bygge 3750 studentboliger i 2027	91			16: Utdanning og forskning	
+SV	77	KD	270	74	Styrke strømstøtte	40			16: Utdanning og forskning	
+SV	77	KD	270	74	Styrke psykisk helse og velferdstilbud for studenter	30			16: Utdanning og forskning	
+SV	77	KD	2410	50	Innføre studiegjeldsslettingsordning til barnehagestudenter på lik linje med lærere	0			16: Utdanning og forskning	
+SV	77	KD	226	21	Avvikle internasjonale prøver, som PISA, TIMMS m.fl	-39		Inndekning	16: Utdanning og forskning	
+SV	77	KD	226	21	Avvikle nasjonale prøver	-561		Inndekning	16: Utdanning og forskning	
+SV	77	KD	226	21	Kutte i nasjonale kartleggingsprøver	-50		Inndekning	16: Utdanning og forskning	
+SV	77	KD	226	62	Flytte støtte til skolebibliotek ut i egen tilskuddsordning	-67		Inndekning	16: Utdanning og forskning	
+SV	77	KD	5617	80	Renteinntekter, økt studielån	22		Inntekter	16: Utdanning og forskning	
+SV	77	KD	5617	80	Renteinntekter, 150 studieplasser for helsesykepleiere	0,1		Inntekter	16: Utdanning og forskning	
+SV	77	KD	2410	90	Studiestøtten økes med 10 %	1120		90-poster	16: Utdanning og forskning	90-post (lånetransaksjon), ikke med i SVs sum for rammeområdet
+SV	78	SD	1352	72	Vedlikehold av jernbane (Røros- og Solørbanen, Sørlandsbanen, Gjøvikbanen, Tinnosbanen mfl)	800		Jernbane	17: Transport	
+SV	78	SD	1321	71	Ringeriksbanen	200		Jernbane	17: Transport	
+SV	78	SD	1352	73	Hamar Stasjon	250		Jernbane	17: Transport	
+SV	78	SD	1352	73	Ofotbanen, Søsterbekk kryssningspor	160		Jernbane	17: Transport	
+SV	78	SD	1352	70	Redusere prisen for månedskort på tog med 200 kr	90		Jernbane	17: Transport	
+SV	78	SD	1352	73	Planlegging av dobbeltspor på Jærbanen	50		Jernbane	17: Transport	
+SV	78	SD	1332	63	Øke statens bidrag til store kollektivprosjekt til 75 % (opptrapping til 80 %) (Bybanen i Bergen mm)	250		Kollektiv, sykkel og gange	17: Transport	
+SV	78	SD	1330	62	Øke tilskuddsordningen for billigere månedskort, stoppe den foreslåtte prisøkningen på 160 kroner	620		Kollektiv, sykkel og gange	17: Transport	
+SV	78	SD	1320	22	Langfjordstrømmen bru, E6 Høybukta-Hesseng	50		Vei	17: Transport	
+SV	78	SD	1320	30	Planleggingsmidler E6 Sørfold	5		Vei	17: Transport	
+SV	78	SD	1320	30	Stoppe miljøfiendtlige motorveier	-700		Vei	17: Transport	
+SV	78	SD	1321	70	Kutt i Nye Veier og miljøfiendtlige motorveier (Hordfast mm)	-4000		Vei	17: Transport	
+SV	78	SD	1320	73	Kutte tilskuddet til reduserte bompengetakster (unntatt Ryfast)	-543		Vei	17: Transport	
+SV	78	NFD	916	30	Utbedre flere havner og farleder	30		Sjø	17: Transport	
+SV	78	SD	1330	60	Trappe opp den nasjonale ordningen for tilrettelagt transport (TT) til å gjelde hele landet	55		Annet	17: Transport	
+SV	78	SD	1370	70	Posten - Innføre dørterskeltjeneste og fortsette med lørdagsavis	250		Annet	17: Transport	
+SV	78	SD	1300	1	Reduksjon av konsulenttjenester i Samferdseldepartementet	-10		Inndekninger	17: Transport	
+SV	78	SD	1320	1	Reduksjon av konsulenttjenester hos Statens vegvesen	-20		Inndekninger	17: Transport	
+SV	80	KDD	571	60	Økt overføring til kommunene, frie midler	4000		Kommunal	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	572	60	Økt overføring til fylkene, frie midler	500		Kommunal	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	571	60	Gratis halvdagsplass i SFO for 4. trinn fra 1. august, fullfinansiering	1072		Utdanning og oppvekst	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	571	60	Halvere barnehageprisen med 600 kr fra 1. august	1078		Utdanning og oppvekst	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	571	60	Gi barn født i desember rett til barnehageplass	41		Utdanning og oppvekst	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	571	60	Reversere kuttet til leksehjelp	654		Utdanning og oppvekst	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	571	60	Styrke krisesentertilskuddet	50		Sosial	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	571	60	Styrke barnevernet i Oslo	50		Sosial	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	572	60	Gjøre nødvendig tannregulering gratis for alle barn	500		Helse	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	572	60	Fortsette utrulling av tannhelsereformen. Gi 75 % rabatt på tannhelse for 29 og 30-åringer fra 1. juli	152		Helse	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	572	60	Styrke den offentlige tannhelsetjenesten og sørge for at de med store tannhelsebehov skal kunne få gratis tannhelse fra 1. juli	500		Helse	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	575	60	Reversere økningen i kommunens utgifter på grunn av økning av innslagspunktet for særlig ressurskrevende tjenester	153		Helse	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	572	60	Bedre kollektivtransport i fylkene og takstsamarbeid med tog mm	500		Transport og infrastruktur	18: Rammeoverføringer til kommunesektoren mv.	
+SV	80	KDD	572	60	Vedlikehold av fylkesveier	400		Transport og infrastruktur	18: Rammeoverføringer til kommunesektoren mv.	
+SV	81	FIN	1618	1	Skatteetaten	50	100		20: Finansadministrasjon mv.	
+SV	81	FIN	1618	1	Penger til å utvikle systemer, for å sikre åpenhet om overskuddsflytting i selskaper (land-for-land- rapportering)	10	10		20: Finansadministrasjon mv.	
+SV	81	FIN	1618	1	Redusere bruken av eksterne konsulenter i Skatteetaten	50	-100	Inndekning	20: Finansadministrasjon mv.	
+SP	44	AID	605	1	Fleire tilsette i Nav til handsaming av refusjonskrav frå verksemder for forskotterte sjukepengar	20		Satsinger		
+SP	44	AID	605	1	Styrking av Nav sin sakshandsamingskapasitet av søknader om lønsgaranti	5		Satsinger		
+SP	44	AID	605	1	Høgare kvalitet på handsaming av søknader om eks. foreldrepengar og sjukepengar frå personar med kombinasjonsinntekter	5		Satsinger		
+SP	44	AID	605	1	Auka behov for administrative ressursar av 250 fleire VTA-plassar	11		Satsinger		
+SP	44	AID	605	1	Målretta innsats mot sjukemeldingar tidleg i sjukdomsløpet	50		Satsinger		
+SP	44	AID	605	1	Styrking av Nav si oppfølging av personar som mottek arbeidsavklaringspengar for raskare avklaringsløp	200		Satsinger		
+SP	44	AID	612	1	Oppheving av samordningsfella med eit øvre tak på summen av tenestepensjon og alderspensjon frå folketrygda på om lag 66 pst. av sluttløn	545,8		Satsinger		
+SP	44	AID	634	77	250 fleire VTA-plassar i førehandsgodkjende verksemder	28		Satsinger		
+SP	44	AID	2661	70	Uendra sats for personar med cøliaki i aldersgruppa 18 til 30 år	50		Satsinger		
+SP	44	AID	2650	70	Framleis fulle sjukepengerettar for personar med VTA	3,8		Satsinger		
+SP	44	AID	2650	75	Framleis fulle sjukepengerettar for personar med VTA	0,2		Satsinger		
+SP	44	AID	Ny		Støtte til prosjekt innenforskap Østfold	3		Satsinger		
+SP	44	AID	600	1	Effektivisere og redusere byråkrati i Arbeids- og inkluderingsdepartementet	-5		Innsparinger		
+SP	44	AID	601	21	Kutt i departementet sine forskings- og utgreiingskjøp. Utsett nye oppdrag og reduser parallelle evalueringar.	-15		Innsparinger		
+SP	44	AID	601	22	Kutt i kunnskapsutvikling i IA-avtalen	-5		Innsparinger		
+SP	44	AID	601	72	Kunnskapssenter for lengre arbeidsliv. Ta ut ny informasjons- og formidlingssatsing.	-2		Innsparinger		
+SP	44	AID	601	74	Noregs forskingsråd. Redusert tilsegnsramme for nye prosjekt.	-2,5		Innsparinger		
+SP	44	AID	604	21	Utviklingstiltak i Nav. Delvis utsetting av Prosjekt 6 i IKT-moderinseringa.	-20		Innsparinger		
+SP	44	AID	604	45	Delvis utsetting av Prosjekt 6 i IKT-moderniseringa i NAV	-100		Innsparinger		
+SP	44	AID	605	1	Effektivisere og redusere byråkrati i NAV	-15		Innsparinger		
+SP	44	AID	605	22	Redusere Navs eigne forskings- og utgreiingsmidlar	-15		Innsparinger		
+SP	44	AID	670	1	Effektivisere og redusere byråkrati i Integrerings- og mangfoldsdirektoratet	-18		Innsparinger		
+SP	44	AID	2650	70	Lågare sjukefråver som følgje av målretta innsats tidleg i sjukefråversløpet	-250		Innsparinger		
+SP	45	AID	2651	70	Færre AAP-mottakarar og kortare løp som følgje av tett oppfølging av fleire mottakarar.	-1000		Innsparinger		
+SP	45	AID	2541	70	Ikkje utbetale dagpengar utanfor EØS	-29		Innsparinger		
+SP	45	AID	2651	70	Ikkje utbetale arbeidsavklaringspengar utanfor EØS	-11		Innsparinger		
+SP	45	BFD	842	1	Familievern – øke kapasiteten i tjenesten	15		Satsinger		
+SP	45	BFD	842	70	Kirkens familieverntjeneste – øke kapasiteten og sikre de desentraliserte tjenestene	10		Satsinger		
+SP	45	BFD	846	70	Økt tilskudd og grunnstøtte til frivillige barne- og ungdomsorganisasjoner	10		Satsinger		
+SP	45	BFD	855	1	Omstillingsmidler til ideelle barnevernsinstitusjoner – styrke kvaliteten i tråd med Kvalitetsløftet	50		Satsinger		
+SP	45	BFD	855	1	Omstillingsmidler til offentlige barnevernsinstitusjoner – styrke kvaliteten i tråd med Kvalitetsløftet	100		Satsinger		
+SP	45	BFD	855	1	Opprette 2 nye MST-team fra 1. august – behandle alvorlige adferdsvansker og forebygge ungdomskriminalitet i aldersgruppen 12-18 år	8,5		Satsinger		
+SP	45	BFD	881	77	Økt tilskudd til Nasjonaljubileet 2030	1,2		Satsinger		
+SP	45	BFD	2530	70	Øke engangsstøtten ved fødsel og adopsjon til kr 95 149	127		Satsinger		
+SP	45	BFD	800	1	Effektivisere og redusere byråkrati i Barne- og familiedepartementet	-5		Innsparinger		
+SP	45	BFD	845	70	Ikke utbetale barnetrygd utenfor EØS-området	-39		Innsparinger		
+SP	45	BFD	855	22	Barnevern – redusere enkeltkjøp av institusjonsplasser	-150		Innsparinger		
+SP	45	BFD	858	1	Effektivisere og redusere byråkrati i Bufdir	-60		Innsparinger		
+SP	45	BFD	2530	70	Reduksjon i foreldrepenger ettersom engangsstøtten økes	-2		Innsparinger		
+SP	46	DFD	1541	60	Økt støtte til bredbåndsbygging i distriktene	200		Satsinger		
+SP	46	DFD	1500	1	Effektivisere og redusere byråkrati i Digitaliserings- og forvaltningsdepartementet	-25		Innsparinger		
+SP	46	DFD	1510	1	Effektivisering i departementenes sikkerhets- og serviceorganisasjon	-35		Innsparinger		
+SP	46	DFD	1515	1	Effektivisering i departementenes digitaliseringsorganisasjon	-35		Innsparinger		
+SP	46	DFD	1520	1	Effektivisere og redusere byråkrati hos statsforvalteren	-400		Innsparinger		
+SP	46	DFD	1530	36	Redusere bevilgningen til kunstnerisk utsmykking	-10		Innsparinger		
+SP	46	DFD	1542	70	Kutte deltakelsen i EU-program	-320		Innsparinger		
+SP	46	DFD	1540	1	Effektivisere og redusere byråkrati i Digitaliseringsdirektoratet	-20		Innsparinger		
+SP	46	DFD	2445	24	Effektivisere og redusere byråkrati i Statsbygg	-40		Innsparinger		
+SP	46	DFD	2445	30	Stanse prosjektering av byggetrinn 3 i regjeringskvartalet	-78,7		Innsparinger		
+SP	46	DFD	2445	31	Utsette rehabiliteringen av den gamle regjeringsbygningen	-700		Innsparinger		
+SP	46	DFD	5309	29	Salg av ubrukte statlige eiendommer i Oslo	-1000		Innsparinger		
+SP	46	ED	1820	77	Norgespris på strøm til 41 øre/kWh	1000		Satsinger		
+SP	46	ED	1820	79	Norgespris på fjernvarme til 41 øre/kWh	65		Satsinger		
+SP	46	ED	1820	22	Økte midler til flom- og skredforebygging	100		Satsinger		
+SP	46	ED	1825	60	Oppretholde ordningen med tilskudd til energitiltak i kommunale bygg	200		Satsinger		
+SP	46	ED	1800	1	Effektivisere og redusere byråkrati i Energidepartementet	-14		Innsparinger		
+SP	46	ED	1800	70	Kutte tilskudet til EUs energibyrå ACER	-6,6		Innsparinger		
+SP	46	ED	1820	1	Effektivisere og redusere byråkrati NVE	-55		Innsparinger		
+SP	46	ED	1820	26	Redusere tilskuddet til Reguleringsmyndigheten for energi (RME)	-50,8		Innsparinger		
+SP	46	ED	1825	50	Kutt i overføringene til Klima- og energifondet	-1100		Innsparinger		
+SP	46	ED	1850	21	Redusere bevilgningen til arbeid med kartlegging av natur og miljø ifm. havvind	-35		Innsparinger		
+SP	46	ED	4810	1	Finansiere Sokkeldirektoratet gjennom kostnadsdekkende sektoravgift	-307		Innsparinger		
+SP	46	ED	4860	1	Finansiere Havindustritilsynet gjennom kostnadsdekkende sektoravgift	-311,5		Innsparinger		
+SP	47	FD	1700	71	Øke støtten til organisasjoner i forsvarssektoren	3		Satsinger		
+SP	47	FD	1700	71	Øke støtten til Det frivillige Skyttervesen	2		Satsinger		
+SP	47	FD	1710	47	Øke bevilgningene til investeringer i personellrelatert eiendom, bygg og anlegg	200		Satsinger		
+SP	47	FD	1720	1	Sikre mer øving og trening	50		Satsinger		
+SP	47	FD	1730	71	Stiftelsen KNM Narvik	2,5		Satsinger		
+SP	47	FD	1730	71	Foreningen Æresgjeld	1		Satsinger		
+SP	47	FD	1700	1	Effektivisere og redusere byråkrati i Forsvarsdepartementet	-22		Innsparinger		
+SP	47	FD	1710	1	Effektivisere og redusere byråkrati i Forsvarsbygg	-84		Innsparinger		
+SP	47	FD	1720	1	Effektivisere og redusere byråkrati i Fellesfunksjoner	-26		Innsparinger		
+SP	47	FD	1760	1	Redusere bruken av konsulenttjenester i Forsvarsmateriell	-50		Innsparinger		
+SP	47	FIN	1610	1	Døgnåpen tollstasjon på Bjørnfjell	36		Satsinger		
+SP	47	FIN	1610	1	Styrke Tolletaten	30		Satsinger		
+SP	47	FIN	20	1	Effektivisere og redusere byråkrati ved Statsministerens kontor	-6		Innsparinger		
+SP	47	FIN	41	1	Effektivisere og redusere byråkrati ved Stortinget	-25		Innsparinger		
+SP	47	FIN	44	1	Effektivisering i kontrollutvalget for EOS	-3		Innsparinger		
+SP	47	FIN	45	1	Effektivisere og redusere byråkrati i NIM	-5		Innsparinger		
+SP	48	FIN	51	1	Effektivisering og redusert byråkrati. Redusere Riksrevisjonens budsjett mer til nivå med andre nordiske land	-50		Innsparinger		
+SP	48	FIN	1600	1	Effektivisere og redusere byråkrati i Finansdepartementet	-4		Innsparinger		
+SP	48	FIN	1605	1	Effektivisere og redusere byråkrati i Direktoratet for økonomistyring	-26		Innsparinger		
+SP	48	FIN	1618	1	Effektivisere og redusere byråkrati i Skatteetaten	-30		Innsparinger		
+SP	48	HOD	701	60	Tilskudd til helseteknologi i de kommunale helse- og omsorgstjenestene	127		Satsinger		
+SP	48	HOD	732	72-75	Kutte rentekostnadene til helseforetakene og styrke tjenestetilbudet	2140		Satsinger		
+SP	48	HOD	732	72-75	Satsing på beredskap og desentraliserte tjenester: styrke ambulansetjenesten, sikre føde- og barselstilbudet, psykisk helsevern og DPS og økning i rehabilitering	200		Satsinger		
+SP	48	HOD	732	72-75	Satsinger på helseberedskap, tilfluktsrom og blodberedskap	50		Satsinger		
+SP	48	HOD	732	72-75	Ortopediske tilbudet og skadepoliklinikk ved Lærdal sykehus	10		Satsinger		
+SP	48	HOD	732	72-75	Antistoff RS til barn født januar-april 2027 i regi av helseforetakene	75		Satsinger		
+SP	48	HOD	732	72-75	Flere LIS1-stillinger	20		Satsinger		
+SP	48	HOD	760	21	Lederutdanninger i kommunale helse- og omsorgstjenester	23,7		Satsinger		
+SP	48	HOD	760	21	Opplæringsmateriell til helse- og omsorgspersonell som yter tjenester til personer med utviklingshemming	7,1		Satsinger		
+SP	48	HOD	760	21	Ikke gjennomføre avvikling av bevilgning til til lindrende behandling og omsorg ved livets slutt	5,9		Satsinger		
+SP	48	HOD	760	21	Oppfølgning av pårørendestrategien	0,8		Satsinger		
+SP	48	HOD	760	60	Tiltak for å øke kompetansen i helse- og omsorgssektoren til personer med utviklingshemming	9		Satsinger		
+SP	48	HOD	760	60	Modellutvikling klinisk ernæringsfysiolog som ressurs for helse- og omsorgstjeneste	6,1		Satsinger		
+SP	48	HOD	760	60	Tilskudd til veiledning av studenter og ansatte i de kommunale helse- og omsorgstjenestene	10,8		Satsinger		
+SP	48	HOD	760	60	Kompetanse- og tjenesteutviklingstilskuddet	385,9		Satsinger		
+SP	48	HOD	760	60	Kompetansehevende tiltak for lindrende behandling og omsorg i livets sluttfase	13,9		Satsinger		
+SP	49	HOD	760	60	Helhetlig støtte til pårørende med krevende omsorgsoppgaver	11,6		Satsinger		
+SP	49	HOD	760	60	Tilskudd til videreutvikling av læringsnettverk i gode pasientforløp	5,4		Satsinger		
+SP	49	HOD	760	60	Livsglede for eldre og livsgledesertifisering	7,2		Satsinger		
+SP	49	HOD	760	62	Vertskommunetilskuddet	218,8		Satsinger		
+SP	49	HOD	760	70	Ikke gjennomføre kutt i tilskudd til Amathea	10		Satsinger		
+SP	49	HOD	760	70	Ikke kutte i til Stiftelsen Frambu og Nordre Aasen	1,2		Satsinger		
+SP	49	HOD	760	70	Ikke gjennomføre kutt til Verdighetssenteret	1		Satsinger		
+SP	49	HOD	760	70	Ikke redusere kutt i tilskudd til Camphill landsbystiftelse	5		Satsinger		
+SP	49	HOD	760	71	Økt rekruttering av sykepleiere og helsefagarbeidere (Jobbvinner)	13,2		Satsinger		
+SP	49	HOD	760	71	Kurspakke for ufaglærte i omsorgstjenestene	11,2		Satsinger		
+SP	49	HOD	765	75	Helsetjenestetilbud ved overgrepsmottak (NKLM)	3,9		Satsinger		
+SP	49	HOD	783	79	Reversere kutt i reise- og flytteutgifter for LIS1 og fysioterapeuter i turnus	3,9		Satsinger		
+SP	49	HOD	Ny		Oppstart av pilotprosjekt for rask rehabilitering etter synstap i samarbeid med Blindeforbundet	5		Satsinger		
+SP	49	HOD	Ny		Erstatning til ofrene i Varhaug-saken	10		Satsinger		
+SP	49	HOD	Ny		Organisasjonen ”Sendt bort”	3		Satsinger		
+SP	49	HOD	700	1	Effektivisere og redusere byråkrati i Helse- og omsorgsdepartementet	-15		Innsparinger		
+SP	49	HOD	701	21	50% reduksjon i kommunikasjon i HOD og underliggende etater	-3,7		Innsparinger		
+SP	49	HOD	701	21	KI-tjeneste i HelseNorge	-20		Innsparinger		
+SP	49	HOD	701	70	Ikke bevilge midler til Norsk Helsenett knyttet til nettlege	-2,5		Innsparinger		
+SP	49	HOD	732	72-75	20% reduksjon i kommunikasjon i RHF og helseforetak	-45,9		Innsparinger		
+SP	49	HOD	732	72-75	Øke ikke-møtt-gebyrene med 500 kr	-90		Innsparinger		
+SP	49	HOD	740	1	Effektivisere og redusere byråkrati i Helsedirektoratet	-50		Innsparinger		
+SP	49	HOD	760	60	Kutte nettlege	-84,3		Innsparinger		
+SP	49	HOD	760	60	Reversering av omdisponeringer til omstillingstilskudd	-637		Innsparinger		
+SP	49	HOD	760	60	Kutt i omstillingstiltak, benyttes til andre tiltak	-44,7		Innsparinger		
+SP	49	HOD	765	21	Undersøkelse av tidsbruk hos helsepersonell	-2		Innsparinger		
+SP	50	JD	410	1	Domstolene: Videreføre krav om to embetsdommere ved alle rettssteder i tingrettene	15		Satsinger		
+SP	50	JD	430	1	Økt grunnbemanning i fengslene	20		Satsinger		
+SP	50	JD	430	1	Kriminalomsorgen – etablering av hurtigspor i resterende politidistrikt fra 1. august	5		Satsinger		
+SP	50	JD	430	70	Tilskudd til frivillige organisasjoner – reintegrering til samfunnet og forebygge ny kriminalitet	10		Satsinger		
+SP	50	JD	432	1	Høgskolen for kriminalomsorg – Flere desentraliserte studieplasser	40		Satsinger		
+SP	50	JD	440	1	Økt grunnbemanning i politiet for å sikre lokal tilstedeværelse, kriminalitetsforebyggende arbeid og økt etterforskningskapasitet	200		Satsinger		
+SP	50	JD	440	1	Hurtigspor i resterende Politidistrikter fra 1. august (Finnmark, Troms, Nordland, Møre og Romsdal og Innlandet)	30		Satsinger		
+SP	50	JD	440	1	Rusforebygging – etablere samarbeidsmodellen «Felles ansvar» etter modell av Nordland i flere fylker (søkbare midler)	25		Satsinger		
+SP	50	JD	440	1	Etablere flere 24/7-tilbud og/eller 1:1-oppfølging for å forebygge ungdomskriminalitet	12		Satsinger		
+SP	50	JD	442	1	Politihøgskolen – 100 nye studieplasser, inkl. opptak i Alta	42,3		Satsinger		
+SP	50	JD	443	1	Påtalemyndigheten i politiet – økt kapasitet	15		Satsinger		
+SP	50	JD	451	1	Sivilforsvaret. Over 500 tjenestepliktige i 2027 og økt øvingskapasitet	20		Satsinger		
+SP	50	JD	451	1	Sivilforsvaret. Flere stabsstillinger og justere antall distrikter til 15 (fylkesinndeling)	12		Satsinger		
+SP	50	JD	455	71	Øke støtten til de frivillige beredskapsorganisasjonene	2,5		Satsinger		
+SP	50	JD	455	72	Ny Øke støtten med 2 mill. kr til Bygdekvinnelaget og NKSF. Støtten skilles ut i egen post	6		Satsinger		
+SP	50	JD	470	72	Rettshjelp – øke støtten til særskilte rettshjelptiltak sammenlignet med regjeringens forslag	20		Satsinger		
+SP	50	JD	480	50	Svalbard: Gratis SFO 1. til 3. trinn	1		Satsinger		
+SP	50	JD	3440		Våpengebyr og passgebyr økes ikke	170		Satsinger		
+SP	50	JD	3461	1	Advokattilsynet tas ut av statsbudsjettet	91,2		Satsinger		
+SP	50	JD	400	1	Effektivisere og redusere byråkrati i Justis- og beredskapsdepartementet	-24		Innsparinger		
+SP	50	JD	410	1	Effektivisere og redusere byråkrati i domstoladministrasjonen	-5		Innsparinger		
+SP	50	JD	430	1	Redusere konsulentbruk i Kriminalomsorgsdirektoratet	-35		Innsparinger		
+SP	50	JD	440	1	Redusere bruk av konsulenter i Politidirektoratet	-75		Innsparinger		
+SP	50	JD	440	1	Redusere utgifter til konferanser i Politidirektoratet	-18		Innsparinger		
+SP	50	JD	455	71	Støtte til Bygdekvinnelaget og NKSF skilles ut i egen post	-4		Innsparinger		
+SP	50	JD	461	1	Advokattilsynet tas ut av statsbudsjettet	-91,2		Innsparinger		
+SP	51	JD	490	1	Effektivisere og redusere byråkrati i Utlendingsdirektoratet	-20		Innsparinger		
+SP	51	JD	491	1	Effektivisere og redusere byråkrati i Utledningsnemda	-12		Innsparinger		
+SP	51	JD	3440	6	Øke gebyret for statsborgerskap til 10.000 kr	-60		Innsparinger		
+SP	51	JD	3440	6	Øke gebyrene i utlendingssaker med 10 %	-34,8		Innsparinger		
+SP	51	JD	3440	6	Lik gebyrsats for søknad om oppholdstillatelse uavhengig av alder	-42		Innsparinger		
+SP	51	KD	225	75	Lille norske leksikon	5		Satsinger		
+SP	51	KD	226	21	Stiftelsen Lenken	4		Satsinger		
+SP	51	KD	228	79	Støtte til NTG Bergen og Wang Romerike	20		Satsinger		
+SP	51	KD	240	60	500 nye studieplasser - fagskolesektor	23,7		Satsinger		
+SP	51	KD	254	70	Tilskudd til studieforbund	32,5		Satsinger		
+SP	51	KD	254	73	Reversere kutt fleksibel Norge	3		Satsinger		
+SP	51	KD	260	50	Statlig driftsbidrag til Deanu Sámeskuvla/Sameskolen i Tana	6		Satsinger		
+SP	51	KD	260	50	Samisk høgskole – AI Lab	6		Satsinger		
+SP	51	KD	260	50	Desentralisert utdanning + flercampus-institusjoner	200		Satsinger		
+SP	51	KD	260	50	25 flere studieplasser i medisin	3,8		Satsinger		
+SP	51	KD	260	50	Økt tilskudd til NMBU øremerket SEARCH-senteret	15		Satsinger		
+SP	51	KD	572	60	Økt lærlingstilskudd	50		Satsinger		
+SP	51	KD	272	72	Lærebokordningen for å styrke norsk som fagspråk	1		Satsinger		
+SP	51	KD	275	70	Styrke Norwegian Space Academy – Andøya Space	5		Satsinger		
+SP	51	KD	2410	50	Studiestøtte fagskoler	6,6		Satsinger		
+SP	51	KD	2410	50	Studiestøtte medisin	0,7		Satsinger		
+SP	51	KD	2410	70	Beholde 40% omgjøring for folkehøgskoleelever	98,1		Satsinger		
+SP	51	KD	2410	72	Renter utdanningsstøtte fagskoler	0,3		Satsinger		
+SP	51	KD	2410	72	Renter utdanningsstøtte medisin	0		Satsinger		
+SP	51	KD	2410	73	Prisjustere maksimalbeløpet i ordningen med studielånsgjeldssletting	44,5		Satsinger		
+SP	51	KD	2410	73	Utvide studiegjeldsslette til å gjelde for Svalbard	20		Satsinger		
+SP	52	KD	200	1	Effektivisere og redusere byråkrati i Kunnskapsdirektoratet	-30		Innsparinger		
+SP	52	KD	201	21	Kutt i bevilgning til pilot med redusert arbeidstid i 10 barnehager	-30		Innsparinger		
+SP	52	KD	220	1	Effektivisere og redusere byråkrati i Utdanningsdirektoratet	-80		Innsparinger		
+SP	52	KD	220	21	Redusere testregimet i skolen	-30		Innsparinger		
+SP	52	KD	225	62	Tilskot til SFO i levekårsutsatte områder overføres til kommuneramma	-103,3		Innsparinger		
+SP	52	KD	226	21	Redusere antall på brukerundersøkelser	-20		Innsparinger		
+SP	52	KD	226	60	Tilskudd til smågruppeundervisning overføres til kommuneramma	-465,4		Innsparinger		
+SP	52	KD	231	60	Kutt i tilskudd til toppa bemanning	-400		Innsparinger		
+SP	52	KD	231	61	Økt pedagogtetthet i grunnbemanninga i levekårsutsatte områder overføres til kommuneramma	-224,8		Innsparinger		
+SP	52	KD	256	1	Effektivisere og redusere byråkrati i Direktoratet for høgare utdanning og kompetanse	-80		Innsparinger		
+SP	52	KD	285	1	Effektivisere og redusere byråkrati i Forskningsrådet	-20		Innsparinger		
+SP	52	KD	272	71	Redusere tiltak for internasjonalisering i høyere utdanning	-50		Innsparinger		
+SP	52	KDD	554	73	Styrke Merkur ordningen og satsing på beredskapsbutikker	60		Satsinger		
+SP	52	KDD	553	69	Styrke Mobilisering til forskningsbasert innovasjon og ordningen for støtte til kommunale næringsfond	300		Satsinger		
+SP	52	KDD	571	60	Øke de frie inntektene til kommunene (2 mrd. til start omsorgsløft)	3793,5		Satsinger		
+SP	52	KDD	572	60	Øke de frie inntektene til fylkeskommunene (Styrke fylkesvegene)	1000		Satsinger		
+SP	52	KDD	575	60	Ressurskrevende tjenester, styrke toppfinansieringsordningen	152,7		Satsinger		
+SP	52	KDD	575	60	Utvide toppfinansieringsordningen til 68 år	112		Satsinger		
+SP	52	KDD	581	72	Reversere regjeringens kutt i Etablering og tilpasning i distriktskommuner (boliger)	11		Satsinger		
+SP	52	KDD	2412	90	Øke rammen til Husbanken med 10 mrd., blant annet til en satsing på trygghetsboliger	502		Satsinger		90-post (lånetransaksjon), ikke med i SPs nøkkeltall for departementet
+SP	52	KDD	Ny		Tilskudd for å redusere billettprisene for hurtigbåt	250		Satsinger		
+SP	52	KDD	Ny		Pilot risikoavlastning ved boligbygging i bygdevekstkommuner	20		Satsinger		
+SP	52	KDD	Ny		Kommunenes samarbeidsarena for forskning (KSF)	20		Satsinger		
+SP	53	KDD	Ny		Etablere en kommuneteknologiordning inkl. helseteknologiordningen	50		Satsinger		
+SP	53	KDD	Ny		Skaleringsfond for velferdsinnovasjon	30		Satsinger		
+SP	53	KDD	Ny		Omstillingsstøtte til små kommuner med store etableringer	20		Satsinger		
+SP	53	KDD	500	1	Effektivisere og redusere byråkrati i Kommunal- og distriktsdepartementet	-32		Innsparinger		
+SP	53	KDD	573	60	Fjerne virkemiddel for å insentivere til kommunesamanslåinger	-70		Innsparinger		
+SP	53	KDD	590	71	Nedskalere Design og arkitektur Norge (DOGA)	-20		Innsparinger		
+SP	53	KDD	595	1	Kutt i Statens kartverks driftsutgifter	-5		Innsparinger		
+SP	53	KDD	2412	1	Effektivisering i Husbanken og DiBK	-30		Innsparinger		
+SP	53	KDD	5312	90	Økte avdrag til Husbaneken	-3		Innsparinger		90-post (lånetransaksjon), ikke med i SPs nøkkeltall for departementet
+SP	53	KDD	5615	80	Renter til Husbanken som følge av økt utlånsramme	-11		Innsparinger		
+SP	53	KLD	1400	76	Norges verdensarv driftsstøtte økning	1		Satsinger		
+SP	53	KLD	1400	76	Noradapt – norsk senter for bærekraftig klimatilpassing	6		Satsinger		
+SP	53	KLD	1400	76	Norske Parker	1		Satsinger		
+SP	53	KLD	1400	76	Klimapark 2469 i Lom (senter for formidling av klima og natur i høgfjellet)	1		Satsinger		
+SP	53	KLD	1400	76	Fortidsminneforeningen – støtte til museumsdrift	5,6		Satsinger		
+SP	53	KLD	1420	21	Tiltak for å bevare villaksen: Bestandsovervåkning	5		Satsinger		
+SP	53	KLD	1420	21	Tiltak for å bevare villaksen: Strakstiltak for villaks	10		Satsinger		
+SP	53	KLD	1420	21	Tiltak for å bevare villaksen: Kalking av vassdrag	5		Satsinger		
+SP	53	KLD	1420	67	Natursats, Klimasats og tilskudd klimatilpasning	50		Satsinger		
+SP	53	KLD	1420	71	Tiltak mot marin forsøpling	20		Satsinger		
+SP	53	KLD	1420	72	Tilskudd til konfliktdempende rovvilttiltak	40		Satsinger		
+SP	53	KLD	1420	78	Regionalpark Haldenkanalen	3		Satsinger		
+SP	53	KLD	1420	85	Runde Miljøsenter	2,5		Satsinger		
+SP	53	KLD	1420	86	Forbundet Kysten	2,2		Satsinger		
+SP	53	KLD	1420	86	Fortidsminneforeningen	1,9		Satsinger		
+SP	54	KLD	1420	86	Kulturvernforbundet	0,7		Satsinger		
+SP	54	KLD	1420	86	Norsk Fyrhistorisk Forening	0,7		Satsinger		
+SP	54	KLD	1420	86	Norsk Kulturarv	0,5		Satsinger		
+SP	54	KLD	1428	50	Støtteordning for kjøp av elektriske og gassdrevne lastebiler	300		Satsinger		
+SP	54	KLD	1428	50	Støtteordning for energieffektivisering i skipsfarten	100		Satsinger		
+SP	54	KLD	1429	71	Tilskudd til fredet kulturmiljø i privat eie	14,5		Satsinger		
+SP	54	KLD	1429	71	Fiskeværet Halten	2		Satsinger		
+SP	54	KLD	1429	72	Tilskudd til tekniske og industrielle kulturminner	2		Satsinger		
+SP	54	KLD	1429	72	Rjukanbanen istandsetting	20		Satsinger		
+SP	54	KLD	1429	72	Tinnosbanen – istandsetting del 2	20		Satsinger		
+SP	54	KLD	1429	73	Tilskudd til bygninger og anlegg fra middelalderen og brannsikring	5		Satsinger		
+SP	54	KLD	1429	74	Tilskudd til fartøyvern	2		Satsinger		
+SP	54	KLD	1429	74	DS Turisten og DS Engebret Soot	1		Satsinger		
+SP	54	KLD	1429	75	Tilskudd til fartøyvernsentrene	7,3		Satsinger		
+SP	54	KLD	1429	76	Tilskudd til utvalgte kulturlandskap i jordbruket og kulturlandskap i verdensarvområder	1		Satsinger		
+SP	54	KLD	1429	79	Rjukan–Notodden industriarv	10		Satsinger		
+SP	54	KLD	1432	50	Styrke bevilgningen til Norsk kulturminnefond	29		Satsinger		
+SP	54	KLD	1400	1	Effektivisere og redusere byråkrati i Klima- og miljødepartementet	-30		Innsparinger		
+SP	54	KLD	1400	71	Redusert støtte til internasjonale organisasjoner	-50		Innsparinger		
+SP	54	KLD	1420	1	Effektivisere og redusere byråkrati i Miljødirektoratet	-100		Innsparinger		
+SP	54	KLD	1420	1	Oppheve nullfiskeområdene i Oslofjorden og avvikle oppgaver med henblikk på nullfiskeområdene	-3,4		Innsparinger		
+SP	54	KLD	1420	21	Kutt i spesielle driftsutgifter til Miljødirektoratet	-50		Innsparinger		
+SP	54	KLD	1420	32	Kutt i midler til frivillig skogvern	-231,6		Innsparinger		
+SP	54	KLD	1428	50	Kutt i overføringer til Klima- og energifondet	-3002		Innsparinger		
+SP	54	KLD	1429	1	Effektivisere og redusere byråkrati ved Riksantikvaren	-10		Innsparinger		
+SP	54	KLD	1429	21	Kutt i spesielle driftsutgifter til Riksantikvaren	-5		Innsparinger		
+SP	54	KLD	1481	25	Redusert bevilgning til kvotekjøp av EU-kvoter/skogkreditter	-500		Innsparinger		
+SP	55	KUD	315	60	Styrk grunnfinansieringen til frivilligsentralene	10		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	315	60	NFS som nasjonalt ressurssenter	1,6		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	315	73	Reversere kutt i Studieforbund	37,2		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	315	78	Kulturarena-millionen til Noregs Ungdomslag	1		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	315	78	Noregs ungdomslag	1		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	315	86	Tour of Norway	10		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	SKUDA (Skodespelar- og dansealliansen)	5		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Foreningen Norden	0,9		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Norges Husflidslag	1,5		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Slekt og data	0,3		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Davvi - Senter for scenekunst	3		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Verdensbro og Fargespill	1		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Musikk i Innlandet	1		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Leveld kunstnartun	1		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Protestfestivalen	0,4		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Ole Bull akademiet Voss	0,5		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Elden	2		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Stiftinga Hilmar Alexandersen - Hilmarfestivalen	0,7		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Operaskolen Trøndelag	1		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	74	Sør-Norsk folkemusikksenter	0,6		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	75	Kväänitatteri	1		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	75	Nye Rogaland Teater og Stavanger museum	10		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	75	Literaturbåten EPOS	1,5		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	320	75	Samovarteateret i Kirkenes	3		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	322	70	Arven – kompetansesenter for energiturisme	10		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	322	70	MIST – forprosjektering av nytt museum for kunst og form i Trondheim	10		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	55	KUD	322	70	Besøkssenteret Gulatinget	10		Satsinger		Dokumentet har overskriften Klima- og miljødepartementet (KLD) over denne tabellen, men kapitlene hører til Kultur- og likestillingsdepartementet
+SP	56	KUD	322	70	Forprosjekt utvidelse av Falstadsentre	6		Satsinger		
+SP	56	KUD	322	70	Romsdalsmuseet – Søblomsten	1,7		Satsinger		
+SP	56	KUD	322	70	Ishavsmuseet Aarvak	1		Satsinger		
+SP	56	KUD	322	70	Moster amfi og kirkehistoriske senter	1		Satsinger		
+SP	56	KUD	323	70	Brageteatret som regional kulturinstitusjon.	2		Satsinger		
+SP	56	KUD	323	70	Opera Trøndelag	2		Satsinger		
+SP	56	KUD	323	70	Turnéteatret i Trøndelag	1,8		Satsinger		
+SP	56	KUD	323	71	Opera Østfold	2		Satsinger		
+SP	56	KUD	323	71	Østfold Teater	2		Satsinger		
+SP	56	KUD	325	60	Regionale kulturfond	1,9		Satsinger		
+SP	56	KUD	326	70	Stiftelsen Hans Nielsen Hauge Senteret	1		Satsinger		
+SP	56	KUD	326	73	Noregs Mållag	1		Satsinger		
+SP	56	KUD	326	73	Auka støtte til Det norske samlaget	1		Satsinger		
+SP	56	KUD	326	78	Nynorsk kultursentrum	1		Satsinger		
+SP	56	KUD	326	80	Kristent Arbeid blant blinde og svaksynte (KABB)	4,4		Satsinger		
+SP	56	KUD	327	71	Regionale pilegrimssentre	1		Satsinger		
+SP	56	KUD	327	71	Kystpilgrimsleia	1		Satsinger		
+SP	56	KUD	328	70	Prosjekt Fortene i Indre Østfold	1		Satsinger		
+SP	56	KUD	328	70	Kjeller flyhistoriske – Spitfire PL258	5		Satsinger		
+SP	56	KUD	328	70	Fast statlig bevilgning til Prøysenhuset	1		Satsinger		
+SP	56	KUD	328	70	Aukrust-museet	3,5		Satsinger		
+SP	56	KUD	328	70	Bemanning ved Tingvatn og Mandal museum	1,8		Satsinger		
+SP	56	KUD	328	70	VIGA kulturhistoriske museum	5,1		Satsinger		
+SP	56	KUD	328	70	Ryfylkemuseet - tradisjonshåndverk	1		Satsinger		
+SP	56	KUD	328	70	Jakob Sande – senter for fortellerkunst	1,5		Satsinger		
+SP	56	KUD	328	70	Museene Arven – Bergkunstsenteret og Talerstol	1,1		Satsinger		
+SP	56	KUD	328	70	Nord-Norsk båtmuseum, Gratangen	2,2		Satsinger		
+SP	56	KUD	328	70	Øke tilskuddet til Gudbrandsdalsmusea, på grunn av bygningsvern	2		Satsinger		
+SP	56	KUD	328	70	Musea for kystkultur og gjenreising i Finnmark	3		Satsinger		
+SP	56	KUD	328	78	Barnekunstmuseet	0,5		Satsinger		
+SP	56	KUD	335	71	Samisk dagspresse (Ávvir og Ságat)	5		Satsinger		
+SP	56	KUD	335	73	Landslaget for lokalaviser	2		Satsinger		
+SP	56	KUD	335	73	Kristelig pressekontor	0,6		Satsinger		
+SP	56	KUD	300	1	Effektivisere og redusere byråkrati i Kultur- og likestillingsdepartementet	-5		Innsparinger		
+SP	56	KUD	300	21	Kutt i spesielle driftsutgifter til Kultur- og likestillingsdepartementet	-0,5		Innsparinger		
+SP	57	KUD	300	79	Kutt i tilskudd til Kultur- og likestillingsdepartementet	-3		Innsparinger		
+SP	57	KUD	315	21	Forsknings- og utredningsmidler omprioriteres til kultur og kulturminner	-2		Innsparinger		
+SP	57	KUD	320	1	Effektivisere og redusere byråkrati i Kulturdirektoratet	-18		Innsparinger		
+SP	57	KUD	322	1	Effektivisering og kutt i driftstilskudd til KORO	-14		Innsparinger		
+SP	57	KUD	322	21	Kutt i spesielle driftsutgifter til bygg og offentlige rom	-20		Innsparinger		
+SP	57	KUD	323	70	Kutt i tilskuddet til musikk- og scenekunstinstitusjoner i Oslo	-50		Innsparinger		
+SP	57	KUD	325	75	Kutt i EUs program for kultur og audiovisuell sektor	-63		Innsparinger		
+SP	57	KUD	326	1	Kutt i driftutgifter til språk- og bibliotekformål. Omprioriteres	-20		Innsparinger		
+SP	57	KUD	329	1	Midler fra arkivformål omprioriteres til kultur og kulturminner	-1		Innsparinger		
+SP	57	KUD	339	1	Effektivisere og redusere byråkrati i pengespill, lotterier og stiftelser	-2		Innsparinger		
+SP	57	KUD	350	1	Kutt i sekretariatet for Diskrimineringsnemnda	-1,1		Innsparinger		
+SP	57	KUD	351	21	Effektivisering i forskning og utredning om likestilling	-2		Innsparinger		
+SP	57	KUD	353	50	Effektivisering i likestillings- og diskrimineringsombudet	-2		Innsparinger		
+SP	57	LMD	1138	70	Økt støtte til organisasjoner	4		Satsinger		
+SP	57	LMD	1138	75	Økt støtte til Dyrsku’n	1,8		Satsinger		
+SP	57	LMD	1142	21	Intensivere arbeidet med beredskapslagring av korn, etablere mål om lagring av 6 mnd. Forbruk	30		Satsinger		
+SP	57	LMD	1142	60	Tilskudd til veterinærdekning	100		Satsinger		
+SP	57	LMD	1149	60	Flaskehalsprosjekter for tømmertransport på kommunale veier	50		Satsinger		
+SP	57	LMD	1149	71	Tilskudd for å styrke skogsveinette	50		Satsinger		
+SP	57	LMD	1149	73	Tilskudd til nyplanting av skog som klimatiltak	50		Satsinger		
+SP	57	LMD	1149	73	Tilskudd til ungskogpleie, råteforebygging og nitrogengjødsling	45		Satsinger		
+SP	57	LMD	1149	73	Økt støtte til skogplanteforedling gjennom Skogfrøverket	5		Satsinger		
+SP	57	LMD	1152	70	Økt tilskudd til Bionova	20		Satsinger		
+SP	57	LMD	1152	71	Ny Industrielt biogassprogram under Bionova	400		Satsinger		
+SP	57	LMD	1152	81	Tilskudd til næringsmiddelbedrifter i Troms og Finnmark, friske midler	10		Satsinger		
+SP	57	LMD	1161	75	Oppsyn i statsallmenningene	5		Satsinger		
+SP	58	LMD	Ny		Etablere nasjonale beredskapslagre for såfrø	1		Satsinger		
+SP	58	LMD	Ny		IBU utenfor jordbruksoppgjøret, til investeringer i fjøs	200		Satsinger		
+SP	58	LMD	1138	72	Stiftinga Norsk senter for økologisk landbruk	4,2		Satsinger		
+SP	58	LMD	1100	1	Effektivisere og redusere byråkrati i Landbruks- og matdepartementet	-3,9		Innsparinger		
+SP	58	LMD	1115	1	Kutt i tilskuddet til Mattilsynets EU-rettede arbeid	-10		Innsparinger		
+SP	58	LMD	1142	1	Effektivisere og redusere byråkrati i Landbruksdirektoratet	-6,2		Innsparinger		
+SP	58	NFD	900	81	Leverandørutviklingsprogrammet, mer midler til arbeidet med innovative anskaffelser i offentlige virksomheter.	5		Satsinger		
+SP	58	NFD	909	73	Heve taket i nettolønnsordning (tilskudd til sysselsetting av sjøfolk) med 10 000kr, til 235 500	77		Satsinger		
+SP	58	NFD	916	30	Øke rammen for nyanlegg og større investeringer i havneprosjekter	120		Satsinger		
+SP	58	NFD	916	30	Oppstart innseiling Borg havn i Østfold	30		Satsinger		
+SP	58	NFD	916	30	Oppstart Røst havn i Nordland	40		Satsinger		
+SP	58	NFD	916	30	Oppstart Åkersvika havn i Troms	30		Satsinger		
+SP	58	NFD	916	30	Oppstart Sørvær havn i Finnmark	30		Satsinger		
+SP	58	NFD	916	30	Prosjekteringsmiddler Alta havn i Finnmark	10		Satsinger		
+SP	58	NFD	916	60	Øke rammen til tilskudd til fiskerihavner	50		Satsinger		
+SP	58	NFD	919	75	Ikke legge ned tilskudd til Selfangstnæringen	1,5		Satsinger		
+SP	58	NFD	2421	76	Ikke avvikle miljøteknologiordningen til Innovasjon Norge	50		Satsinger		
+SP	58	NFD	Ny		Sette i gang arbeidet med å opprette et statlig mineralselskap	1		Satsinger		
+SP	58	NFD	Ny		Tilskudd til beredsjapslagring av drivstoff	20		Satsinger		
+SP	58	NFD	900	1	Effektivisere og redusere byråkrati i Nærings- og fiskeridepartementet	-25		Innsparinger		
+SP	58	NFD	902	1	Effektivisere og redusere byråkrati i Justervesenet	-4,2		Innsparinger		
+SP	58	NFD	903	1	Effektivisere og redusere byråkrati i Norsk akkreditering	-10		Innsparinger		
+SP	58	NFD	904	1	Effektivisere og redusere byråkrati i Brønnøysundregistra	-9		Innsparinger		
+SP	59	NFD	910	1	Effektivisere og redusere byråkrati i Sjøfartsdirektoratet	-20		Innsparinger		
+SP	59	NFD	911	1	Effektivisere og redusere byråkrati i Konkurransetilsynet	-10		Innsparinger		
+SP	59	NFD	912	1	Redusere bevilgningen til Klagenemndsekretariatet	-7		Innsparinger		
+SP	59	NFD	917	1	Effektivisere og redusere byråkrati i Fiskeridirektoratet	-7		Innsparinger		
+SP	59	NFD	917	23	Avvikle prisrådet for havbruk	-20,1		Innsparinger		
+SP	59	NFD	917	1	Fjerne nullfiskeområdene i Oslofjorden. Dermed ikke behov for penger til arbeidet med oppfølging av nye fisketiltak i Oslofjorden.	-5		Innsparinger		
+SP	59	NFD	920	70	Kutt i overføringene til Norges forskningsråd	-15		Innsparinger		
+SP	59	NFD	923	1	Effektivisere og redusere byråkrati i Havforskingsinstituttet	-20		Innsparinger		
+SP	59	NFD	923	45	Kutt i anskaffelser. Havforskningsinstituttet	-20		Innsparinger		
+SP	59	NFD	930	70	Nedskalere Design og arkitektur Norge (DOGA)	-5		Innsparinger		
+SP	59	NFD	935	1	Effektivisere og redusere byråkrati i Patentstyret	-12		Innsparinger		
+SP	59	NFD	940	21	Kutt i internasjonaliseringstiltak, spesielle driftsutgifter	-10		Innsparinger		
+SP	59	NFD	940	71	Kutt i tilskudd til næringsfremme	-10		Innsparinger		
+SP	59	NFD	954	70	Effektivisere og redusere byråkrati i Petoro	-20		Innsparinger		
+SP	59	SD	1300	71	Gjennomføring av tilskuddsordning for trafikksikkerhet	10		Satsinger		
+SP	59	SD	1310	71	Ny Svalbard: Beboerrabatt på fly til fastlandet	20		Satsinger		
+SP	59	SD	1311	70	Ny Tilskudd til Notodden lufthavn	15		Satsinger		
+SP	59	SD	1311	70	Ny Tilskudd til Arendal lufthavn, Gullknapp	5		Satsinger		
+SP	59	SD	1320	22	Økt vedlikehold på riksvei slik at vedlikeholdsetterslepet reduseres	400		Satsinger		
+SP	59	SD	1320	30	Riksveiinvesteringer. Økt ramme, store prosjekter	220		Satsinger		
+SP	59	SD	1320	30	Oppstart E39 Storhaugen–Førde	30		Satsinger		
+SP	59	SD	1320	30	Oppstart E39 Volda–Furene	0		Satsinger		
+SP	59	SD	1320	30	Oppstart E134 Saggrenda–Elgsjø	20		Satsinger		
+SP	59	SD	1320	30	Oppstart Rv. 94 Saragammen–Rypefjord	30		Satsinger		
+SP	59	SD	1320	30	Oppstart E6 Nordkjosbotn–Hatteng	30		Satsinger		
+SP	59	SD	1320	30	Planleggingsmidler E16 Fagernes–Hande	20		Satsinger		
+SP	60	SD	1320	30	Planleggingsmidler til E6 Sørfoldtunnelene	10		Satsinger		
+SP	60	SD	1320	30	Riksveiinvesteringer. Økt ramme, mindre investeringstiltak	160		Satsinger		
+SP	60	SD	1320	30	Oppstart E6 Langnesberga	10		Satsinger		
+SP	60	SD	1320	30	Oppstart utbedring av Sjøgata langs E136 i Ålesund	10		Satsinger		
+SP	60	SD	1320	30	E134 Arm til Husøy hamn (Husøyvegen)	20		Satsinger		
+SP	60	SD	1320	30	Godsterminal Kopstad (veidelen)	70		Satsinger		
+SP	60	SD	1320	30	Økt tilskudd til skredsikringstiltak	100		Satsinger		
+SP	60	SD	1320	30	Økt tilskudd til flere døgnhvileplasser	50		Satsinger		
+SP	60	SD	1320	64	Utbedring av flaskehalser for tømmertransport på fylkesveier	50		Satsinger		
+SP	60	SD	1321	70	Raskest mulig oppstart av E39 Blørstad - Lyngdal	140		Satsinger		
+SP	60	SD	1321	70	Investeringsmidler Nye Veier som muliggjør oppstart av blant annet E39 Blørstad–Lyngdal, E6 Gyllan–Kvål, E6 Asen–Steinkjer, E39 Blørstad– Lyngdal, E6 Sjoa–Otta og utbedringsstrekningen E136 Vestnes–Dombås.	400		Satsinger		
+SP	60	SD	1352	73	Oppstartsbevilgning til ny Hamar stasjon	250		Satsinger		
+SP	60	SD	1352	73	Oppstart krysningsspor Ofotbanen (Søsterbekk)	52		Satsinger		
+SP	60	SD	1352	73	Planleggingsmidler dobbeltspor Stokke-Sandefjord	30		Satsinger		
+SP	60	SD	1352	73	Planarbeid godsterminal og togverksted på Kopstad i Horten	50		Satsinger		
+SP	60	SD	1352	73	Planleggingsmidler tømmerterminal på Hauerseter (Akershus)	20		Satsinger		
+SP	60	SD	1352	73	Utbedring av tømmerterminalen på Kongsvinger	20		Satsinger		
+SP	60	SD	1370	70	Posten AS: Dørterskeltjeneste og lørdagsaviser i distriktene	325		Satsinger		
+SP	60	SD	1320	73	Redusert bompengesats Ryfast	100		Satsinger		
+SP	60	SD	1300	1	Effektivisere og redusere byråkrati i Samferdselsdepartementet, inkl. samferdselsråd i Brussel	-20		Innsparinger		
+SP	60	SD	1301	70	Pilotprosjekter for utslippsfrie anleggsplasser	-29,5		Innsparinger		
+SP	60	SD	1315	72	Kutt i tilskudd til null- og lavutslippsluftfart	-41,5		Innsparinger		
+SP	60	SD	1320	1	3 % kutt i driftsutgifter SVV: -166,5	-161,7		Innsparinger		
+SP	60	SD	1330	62	Tilskudd til redusert pris på periodebilletter i fylkeskommunen	-200		Innsparinger		
+SP	60	SD	1330	76	15 % effektiviseringsgevinst - Entur	-33,3		Innsparinger		
+SP	60	SD	1330	77	20 % kutt i Entur	-4,7		Innsparinger		
+SP	60	SD	1332	63	Redusere statlig andel i store kollektivprosjekt til 66 %	-97,6		Innsparinger		
+SP	60	SD	1352	1	Nedleggelse av Jernbanedirektoratet	-402,1		Innsparinger		
+SP	60	SD	1352	21	Kutt i konsulentbruk og utredninger i Jernbanedirektoratet	-94,9		Innsparinger		
+SP	60	SD	1352	73	Kutt i forprosjektering av ny rikstunnel i Oslo	-20		Innsparinger		
+SP	60	SD	5672	85	Utbytte fra Bane NOR eiendom	-750		Innsparinger		
+SP	61	UD	118	74	Økt tilskudd til Nei til EU	5		Satsinger		
+SP	61	UD	150	71	Verdens matvareprogram	250		Satsinger		
+SP	61	UD	162	71	Økt tilskudd til matsikkerhet	50		Satsinger		
+SP	61	UD	150	70	Øke støtten til flyktninger og bærekraftige vertssamfunn	50		Satsinger		
+SP	61	UD	150	72	Øke bevilgningen til FNs høykommissær for flyktninger (UNHCR)	50		Satsinger		
+SP	61	UD	151	73	Tilskudd til FN-sambandet	10		Satsinger		
+SP	61	UD	164	72	Styrke arbeidet for likestilling og kvinnehelse (UNFPA)	40		Satsinger		
+SP	61	UD	165	70	Styrke Norfund. Risikokapital	722,5		Satsinger		
+SP	61	UD	165	90	Styrke Norfund. Kapitalpåfylling	2167,5		Satsinger		90-post (lånetransaksjon), ikke med i SPs nøkkeltall for departementet
+SP	61	UD	165	71	Styrke Norfund. Klimainvesteringsfondet. Risikokapital	400		Satsinger		
+SP	61	UD	165	91	Styrke Norfund. Klimainvesteringsfondet. Kapitalpåfylling	1200		Satsinger		90-post (lånetransaksjon), ikke med i SPs nøkkeltall for departementet
+SP	61	UD	165	72	Styrke Norfund. Ukraina-fondet. Kapitalpåfylling	100		Satsinger		
+SP	61	UD	165	92	Styrke Norfund. Ukraina-fondet. Risikokapital	100		Satsinger		90-post (lånetransaksjon), ikke med i SPs nøkkeltall for departementet
+SP	61	UD	170	70	Sivilsamfunn. Økt støtte til sivilsamfunn	50		Satsinger		
+SP	61	UD	100	1	Effektivisere og redusere byråkrati i Utenriksdepartementet	-200		Innsparinger		
+SP	61	UD	100	21	Kutt i satsing på EØS-arbeid	-10		Innsparinger		
+SP	61	UD	100	45	Moderasjon i investeringer i utenlands eiendom	-10		Innsparinger		
+SP	61	UD	100	70	Risikoavsetning skade på utenlandske ambassader	-1,4		Innsparinger		
+SP	61	UD	103	1	Redusere byråkrati. Mer måtehold i representasjonsoppdragene for regjeringen	-10		Innsparinger		
+SP	61	UD	116	70	Arbeide for måtehold og reduksjon i tilskuddet til internasjonale organisasjoner	-88		Innsparinger		
+SP	61	UD	117	79	Kutt i EØS-finansieringsordningen 2021-2028	-980		Innsparinger		
+SP	61	UD	117	80	Kutt i Den norske finansieringsordningen 2021-2028	-960		Innsparinger		
+SP	61	UD	118	77	Redusere utenriksforskningsmidlene	-16		Innsparinger		
+SP	61	UD	118	79	Redusere bevilgningen til interessefremme	-10		Innsparinger		
+SP	62	UD	140	21	Halvering konsulentbruk	-35		Innsparinger		
+SP	62	UD	141	1	Effektivisere og redusere byråkrati i Norad	-44		Innsparinger		
+SP	62	UD	141	21	Effektivisere og redusere byråkrati i Norad	-2,8		Innsparinger		
+SP	62	UD	144	1	Effektivisere og redusere byråkrati i Norec	-2,2		Innsparinger		
+SP	62	UD	144	70	Kutt i utvekslingsordninger	-25		Innsparinger		
+SP	62	UD	144	71	Kutt i rekrutering til internasjonale organisasjoner	-25		Innsparinger		
+SP	62	UD	159	70	Redusere regionbevilgning til Midtøsten og Nord-Afrika	-350		Innsparinger		
+SP	62	UD	159	71	Redusere regionbevilgningen til Europa og Sentral-Asia	-200		Innsparinger		
+SP	62	UD	159	72	Redusere regionbevilgningen til Afghanistan	-250		Innsparinger		
+SP	62	UD	159	75	Redusere regionbevilgningen til Afrika	-250		Innsparinger		
+SP	62	UD	159	76	Redusere regionbevilgningen til Asia	-250		Innsparinger		
+SP	62	UD	159	77	Redusere regionbevilgningen til Latin-Amerika og Karibia	-90		Innsparinger		
+SP	62	UD	160	70	Redusere bevilgningen til helse	-950		Innsparinger		
+SP	62	UD	161	70	Redusere bevilgningen til utdanning	-200		Innsparinger		
+SP	62	UD	161	71	Redusere bevilgningen til forskning	-50		Innsparinger		
+SP	62	UD	161	74	Redusere bevilgningen til Norges forskningsråd på utviklingsområdet	-50		Innsparinger		
+SP	62	UD	162	70	Redusere bevilgningen til bærekraftig jobbskaping, næringsutvikling og handel	-50		Innsparinger		
+SP	62	UD	162	72	Redusere bevilgningen til fornybar energi	-900		Innsparinger		
+SP	62	UD	163	70	Redusere bevilgningen til miljø og klima	-700		Innsparinger		

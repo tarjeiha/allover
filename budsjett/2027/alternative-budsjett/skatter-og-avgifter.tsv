@@ -1,0 +1,93 @@
+parti	side	kategori	gruppe	kap	post	tiltak	bokfort_mill	palopt_mill	merknad
+SV	82	Skatter	Formuesskatt			Øke bunnfradraget til 2 millioner			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Øke satsen i trinn 1 til 1,1 prosent			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Sette innslagspunktet i trinn 2 til 20 millioner, og øke satsen til 1,4 prosent			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Innføre et tredje trinn i formuesskatten på 1,7 prosent over 100 mill kr			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Innføre et fjerde trinn i formuesskatten (Zucmanskatt) på 2 prosent over 1 mrd			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Fjerne aksjerabatten (inkludert næringseiendom)			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Fjerne rabatten for driftsmidler			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Fjerne verdsettelsesrabatten for primærbolig med høy verdi (over 10 mill kr)			Beløp for hele formuesskatt-blokken står på siste linje
+SV	82	Skatter	Formuesskatt			Fjerne rabatten for oppdrett	16056	16056	Beløpet står på denne linjen i PDF-en, men gjelder trolig hele formuesskatt-blokken
+SV	82	Skatter	Inntektsskatt			Utbytteskatten økes (oppjusteringsfaktoren økes til 1,91, så det er lik marginalskatt på lønn og utbytte)			Uten eget beløp i PDF-en
+SV	82	Skatter	Inntektsskatt			Trinnskatt, trinn 1 fjernes			Uten eget beløp i PDF-en
+SV	82	Skatter	Inntektsskatt			Trinnskatt, trinn 2: innslagspunktet økes til 415 300 kr.			Uten eget beløp i PDF-en
+SV	82	Skatter	Inntektsskatt			Trinnskatt, trinn 3: uendret			Uten eget beløp i PDF-en
+SV	82	Skatter	Inntektsskatt			Trinnskatt, trinn 4: satsen økes til 18,2 pst og innslagspunktet reduseres til 800 000 kr			Uten eget beløp i PDF-en
+SV	82	Skatter	Inntektsskatt			Trinnskatt, trinn 5: satsen økes til 19 pst			Uten eget beløp i PDF-en
+SV	82	Skatter	Inntektsskatt			Øke frikortgrensen til 175 000 kr	3214	3214	Beløpet står på denne linjen i PDF-en, men gjelder trolig også utbytteskatt og trinnskatt over
+SV	82	Skatter	Inntektsskatt			Skattekutt for pensjonister	-2000	-2000	
+SV	82	Skatter	Inntektsskatt			Øke minstefradraget i lønnsinntekt til 55 prosent	-57	-80	
+SV	82	Skatter	Inntektsskatt			Sjømannsfradrag: Sats økes til 35 prosent. Øvre grense økes til 100 000 kr	-49	-50	
+SV	82	Skatter	Inntektsskatt			Fiskerfradrag: Sats økes til 35 prosent. Øvre grense økes til 200 000 kr	-56	-60	
+SV	82	Skatter	Inntektsskatt			Gjeninnføre skatt på fordelen av å eie egen bolig. Bunnfradrag på 10 mill kr, sats på 1,7 prosent	360	1430	
+SV	82	Skatter	Inntektsskatt			Ny modell for gevinstskatt ved salg av egen bolig (primærbolig)	1500	1500	
+SV	82	Skatter	Inntektsskatt			Skatt på gevinst ved salg av fritidsbolig	1200	1200	
+SV	82	Skatter	Inntektsskatt			Korttidsutleie fast eiendom delingsplattformer	600	600	
+SV	82	Skatter	Inntektsskatt			Utvide ordningen med skattebegrensning ved liten skatteevne	0	-150	
+SV	82	Skatter	Inntektsskatt			Øke treprosentsregelen i fritaksmetoden til 7,5 prosent	0	1040	
+SV	82	Skatter	Inntektsskatt			Fjerne påslaget i skjermingsfradraget	0	340	
+SV	83	Skatter	Andre skatter			Økt finansskatt. Halveis tette skattefritaket finansnæringen har gjennom å slippe mva	0	3700	
+SV	83	Skatter	Andre skatter			Øke grunnrenteskatten på oppdrett til 35 prosent og fjerne bunnfradraget	0	3500	
+SV	83	Skatter	Andre skatter			Fjerne de gunstige skattereglene for bygging av skogsveier	110	130	
+SV	83	Skatter	Andre skatter			Øke tonnasjeskatten med 10 prosent	0	7	
+SV	83	Skatter	Andre skatter			"Ikke innføre forsøksordning med arbeidsfradrag (""skattelotteriet"")"	510	510	
+SV	83	Skatter	Andre skatter			Kildeskatt på utbetaling ved likvidasjon	300	300	
+SV	83	Skatter	Andre skatter			Ikke innføre endring i reglene for skattlegging av verdipapirfond	0	570	
+SV	83	Skatter	Andre skatter			Innføre skattefritak på slitertillegget for AFP-mottakere i privat sektor	-33	-33	
+SV	83	Skatter	Andre skatter			Øke minstefradraget i pensjon til 55 %	-7	-7	
+SV	84	Avgifter				Øke opptrappingen av CO2-avgiften	2195	2395	
+SV	84	Avgifter				Gradvis øke CO2-avgiften på kvotepliktig utslipp til samme nivå som ikke kvotepliktige utslipp	1500	1600	
+SV	84	Avgifter				Økt opptrapping av avgiften på HFK/PFK (CO2-avgift)	80	85	
+SV	84	Avgifter				Reversere kuttet i veibruksavgiften på diesel (mineralolje) (0,5 kr)	730	800	
+SV	84	Avgifter				Reversere kuttet i veibruksavgiften på bensin (0,5 kr)	250	250	
+SV	84	Avgifter				Gjeninnføre grunnavgift på mineralolje (gjelder for ikke-veigående maskiner)	1950	1950	
+SV	84	Avgifter				Øke satsen i laveste intervall (0-100 gram) i CO2-avgiften for engangsavgiften for personbil til 1100.	28	30	
+SV	84	Avgifter				Øke alle satsene i CO2-komponenten i engangsavgiften for varebil med 40 %	145	160	
+SV	84	Avgifter				Gjøre det billigere med brukte elbiler, ved å innføre 50 % rabatt på omregistreringsavgift for elbiler	-360	-360	
+SV	84	Avgifter				Innføre momsfritak på reparasjon av klær, sko, husholdningsvarer, fritidsvarer og elektronikk	-300	-600	
+SV	84	Avgifter				Innføre momsfritak på elektroniske nyhetstjenester	-700	-850	
+SV	84	Avgifter				Innføre høy elavgift på datasentre på 29 øre/kWh	1010	1010	
+SV	84	Avgifter				Fjerne tekstiltollfritaket og reversere regjeringens kutt i tekstiltollen	1175	1175	
+SV	84	Avgifter				Øke flypassasjeravgiften i Europa med 20%	250	280	
+SV	84	Avgifter				Øke flypassasjeravgiften utenfor Europa med 20 %	100	110	
+SV	84	Avgifter				Økt miljøavgift på drikkevaremballasje av plast	25	30	
+SV	84	Avgifter				Toll på import av soyamel fiskefôrproduksjon (10 øre/kg fra 1.7.26)	47	47	
+SV	84	Avgifter				Toll på import av soyamel kraftfôr (10 øre/kg fra 1.7.26)	14	14	
+SV	84	Avgifter				Fjerne dokumentavgiften for førstegangskjøpere	-2070	-2300	
+SV	84	Avgifter				Redusere dokumentavgiften fra 2,5 til 2 pst for alle andre	-2950	-3080	
+SV	84	Avgifter				Innføre en omsetningsavgift på private helseforsikringer på 25 prosent fra 1. juli	525	525	
+SV	85	Sokkelen				Øke CO2 avgiften på sokkelen til 1900 kroner tonnet (nettoproveny)	1130	1235	Påvirker ikke handlingsrommet i budsjettet
+SV	85	Sokkelen				Fjerne friinntekten i det midlertidige oljeskatteregimet	3100	6100	Påvirker ikke handlingsrommet i budsjettet
+SV	85	Sokkelen				Innføre omstillingsavgift på olje, 50 kr per fat (nettoproveny)	2900	5700	Påvirker ikke handlingsrommet i budsjettet
+SV	85	Sokkelen				Innføre omstillingsavgift på gass, 50 kr per fat o.e. (nettoproveny)	3200	6500	Påvirker ikke handlingsrommet i budsjettet
+SV	85	Sokkelen				Fjerne CO2-avgiftsfritak i grunnavgiften på innretninger på kontinentalsokkelen	1305	1450	Påvirker ikke handlingsrommet i budsjettet
+SV	85	Sokkelen				Fjerne skatteutgiften knyttet til gunstige avskrivningsregler for rørsledninger og produksjonsinnretning i petroleumsvirksomhet	1000	2000	Påvirker ikke handlingsrommet i budsjettet
+SV	85	Sokkelen				Fjerne skatteutgiften knyttet til gunstige avskrivningsregler for rørsledninger og produksjonsinnretning i petroleumsvirksomhet	3500	7000	Merket med * i dokumentet. Ser ut til å være en oppdeling av raden over (7 000 - 5 000 = 2 000). Påvirker ikke handlingsrommet
+SV	85	Sokkelen				Fjerne skatteutgiften knyttet til gunstige avskrivningsregler for rørsledninger og produksjonsinnretning i petroleumsvirksomhet	-2500	-5000	Merket med * i dokumentet. Ser ut til å være en oppdeling av raden over (7 000 - 5 000 = 2 000). Påvirker ikke handlingsrommet
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke frikortgrensen til kr 125 000	-485	-485	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke personfradraget med kr 4900	-4110	-4110	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke kilometersatsen i reisefradraget for pendlere til 2 kr	-110	-110	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke øvre grense i sjømannsfradraget med kr 10 000 kroner	-35	-35	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke øvre grense i fiskerfradraget med kr 10 000 kroner	-14	-14	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke grensene i jordbruksfradraget med 10 000 kroner	-40	-40	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke øvre grense i fradraget for reindrift med 10 000 kroner	-1	-1	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Øke øvre grense i skiferfradraget med 10 000 kroner	-0,1	-0,1	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Fjerne tidsbegrensningen i pendlerfradraget for kabinansatte og piloter	-10	-10	
+SP	63	Skatter og avgifter	Lettelser	5501	70	Gjennomføre Skattekommisjonens forslag til opsjonsbeskattning (svensk modell)	-20	-20	
+SP	63	Skatter og avgifter	Lettelser	5521	70	Redusert skatteingang som følge av endret taxfree-ordning med veksling fra tobakk til alkohol	-100	-100	
+SP	63	Skatter og avgifter	Lettelser	5538	70	Fjerne veibruksavgift på bensin frem til 1. juli 2027	-1235	-1235	
+SP	63	Skatter og avgifter	Lettelser	5538	71	Fjerne veibruksavgift på autodiesel frem til 1. juli 2027	-1900	-1900	
+SP	63	Skatter og avgifter	Lettelser	5538	72	Fjerne veibruksavgift på naturgass og LPG frem til 1. juli 2027	-0,5	-0,5	
+SP	63	Skatter og avgifter	Lettelser	5543	70	Ikke trappe opp CO2-avgiften	-2460	-2890	
+SP	63	Skatter og avgifter	Lettelser	5543	70	Midlertidig reduskjon i CO2-avgiften frem til 1. juli 2027 (samme nivå som vedtatt mars 2026 eks. fiske)	-2600	-2600	
+SP	63	Skatter og avgifter	Lettelser	5543	70	Fjerne CO2-avgiften for fiske og fangst	-595	-650	
+SP	63	Skatter og avgifter	Lettelser	5543	70	Ikke øke redusert CO2-avgift på kvotepliktig innenriks sjøfart	-153	-166	
+SP	63	Skatter og avgifter	Lettelser	5543	70	Ikke øke CO2-avgiften for vekthusnæringen	-22	-24	
+SP	63	Skatter og avgifter	Lettelser	5543	70	Ikke innføre CO2-avgift for industri som ikke omfattes av kvotesystemet	-33	-36	
+SP	63	Skatter og avgifter	Skjerpelser	5501	70	Økt skatt på høye inntekter	4652	4652	
+SP	63	Skatter og avgifter	Skjerpelser	5701	70	Minre reduksjon i trygdeavgiften ifht. regjeringens forslag	1232,5	1232,5	
+SP	64	Skatter og avgifter	Skjerpelser	5501	72	Fjerne standardfradraget for utenlandske arbeidstakere	25	25	
+SP	64	Skatter og avgifter	Skjerpelser	5511	70	Ikke redusere tollavgifter på klær og tekstiller	675	675	
+SP	64	Skatter og avgifter	Skjerpelser	5511	70	Innføre småpakketoll på varer som importeres direkte fra utenlandsk nettbutikk	400	400	
+SP	64	Skatter og avgifter	Skjerpelser	5541	70	Økt elavgift datasenter til 34 øre/kWh (svensk nivå)	1227	1227	
+SP	64	Skatter og avgifter	Skjerpelser	Ny		Eksportavgift på som eksporteres i likestrømskablene til utlandet	3300,8	3300,8	
