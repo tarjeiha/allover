@@ -1,6 +1,6 @@
 # Språklova: veiviser
 
-Språklova gir reglar om norsk språk, samiske språk, nasjonale minoritetsspråk, norsk teiknspråk og skandinaviske språk, og om offentlege organ sin bruk av bokmål og nynorsk og klart språk. Lovteksten er på nynorsk og siteres på nynorsk. Ingen forskrifter til språklova er i basen. Forskrifter gitt etter målloven fra 1980 gjelder fortsatt så langt de ikke strider mot språklova (§ 21 andre ledd).
+Språklova gir reglar om norsk språk, samiske språk, nasjonale minoritetsspråk, norsk teiknspråk og skandinaviske språk, og om offentlege organ sin bruk av bokmål og nynorsk og klart språk. Lovteksten er på nynorsk og siteres på nynorsk. Forskrift om målbruk i offentleg teneste fra 1980 er i basen. Den er gitt etter målloven, men gjelder fortsatt så langt den ikke strider mot språklova (§ 21 andre ledd). Les derfor språklova først, og bruk forskriften bare der den utfyller loven uten å stride mot den.
 
 Loven forvaltes av Kultur- og likestillingsdepartementet.
 
@@ -25,6 +25,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 ## Kilder
 
 - **Lov:** Lov om språk (språklova) – LOV-2021-05-21-42. Sist endret i kraft: 2025-07-01. Forvaltes av: Kultur- og likestillingsdepartementet.
+- **Forskrift:** Forskrift om målbruk i offentleg teneste – FOR-1980-12-05-4938. Sist endret i kraft: 1989-12-22. Forvaltes av: Kultur- og likestillingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -56,4 +57,15 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 20. Opplysningsplikt overfor Språkrådet – `lov/par-20.md`
 - § 21. Iverksetjing og overgangsreglar – `lov/par-21.md`
 - § 22. Endringar i andre lover – `lov/par-22.md`
+
+### Forskrift om målbruk i offentleg teneste
+
+- § 1. – `forskrifter/malbruk-offentleg-teneste/par-1.md`
+- § 2. – `forskrifter/malbruk-offentleg-teneste/par-2.md`
+- § 3. – `forskrifter/malbruk-offentleg-teneste/par-3.md`
+- § 4. – `forskrifter/malbruk-offentleg-teneste/par-4.md`
+- § 5. – `forskrifter/malbruk-offentleg-teneste/par-5.md`
+- § 6. – `forskrifter/malbruk-offentleg-teneste/par-6.md`
+- § 7. – `forskrifter/malbruk-offentleg-teneste/par-7.md`
+- § 8. – `forskrifter/malbruk-offentleg-teneste/par-8.md`
 <!-- AUTO-SLUTT -->

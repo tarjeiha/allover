@@ -35,7 +35,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 
 Stiene er fra roten av basen.
 
-- **Folketrygdloven:** `regelverk/folketrygdloven/forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `regelverk/folketrygdloven/lov/par-1-3a.md`
+- **Folketrygdloven:** `regelverk/folketrygdloven/forskrifter/eos-beregning-arbeidsavklaringspenger/par-1.md`, `regelverk/folketrygdloven/forskrifter/eos-beregning-uforetrygd/par-1.md`, `regelverk/folketrygdloven/lov/par-1-3a.md`
 
 ## Innhold
 

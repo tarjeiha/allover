@@ -2,6 +2,8 @@
 
 Likestillings- og diskrimineringsloven forbyr diskriminering og trakassering på alle samfunnsområder (§ 2 første ledd), gir regler om universell utforming og individuell tilrettelegging, og pålegger offentlige myndigheter og arbeidsgivere å arbeide aktivt for likestilling. Kapittel 5 har særlige regler for arbeidsforhold. FNs rasediskrimineringskonvensjon gjelder som norsk lov etter § 5, og konvensjonsteksten ligger i basen på norsk (`lov/par-rdkn-a*.md`) og engelsk (`lov/par-rdke-a*.md`).
 
+Basen har også forskriften om representasjon av begge kjønn i statlige utvalg, styrer, råd og delegasjoner, og forskriften om universell utforming av IKT-løsninger.
+
 Loven forvaltes av Kultur- og likestillingsdepartementet. Reglene om hvordan loven håndheves, står i diskrimineringsombudsloven, som er en egen lov i basen (`regelverk/diskrimineringsombudsloven/VEIVISER.md`).
 
 ## Slik bruker du veiviseren
@@ -25,6 +27,8 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 ## Kilder
 
 - **Lov:** Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) – LOV-2017-06-16-51. Sist endret i kraft: 2024-07-01. Forvaltes av: Kultur- og likestillingsdepartementet.
+- **Forskrift:** Forskrift om representasjon av begge kjønn i statlige utvalg, styrer, råd, delegasjoner m.v. – regler om håndheving og rapportering – FOR-1996-02-02-110. Sist endret i kraft: 2022-04-20. Forvaltes av: Kultur- og likestillingsdepartementet.
+- **Forskrift:** Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger – FOR-2013-06-21-732. Sist endret i kraft: 2023-02-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -158,4 +162,38 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `lov/utenfor-paragrafene.md`
+
+### Forskrift om representasjon av begge kjønn i statlige utvalg, styrer, råd, delegasjoner m.v. – regler om håndheving og rapportering
+
+- § 1. (Formål og virkeområde) – `forskrifter/kjonnsbalanse-statlige-utvalg/par-1.md`
+- § 2. Hovedreglene om representasjon av begge kjønn i offentlig oppnevnte utvalg – `forskrifter/kjonnsbalanse-statlige-utvalg/par-2.md`
+- § 3. (Innhenting av forslag til kandidater til utvalg m.v.) – `forskrifter/kjonnsbalanse-statlige-utvalg/par-3.md`
+- § 4. (Foreleggelse av utvalg mv. som er oppnevnt av et departement eller i statsråd) – `forskrifter/kjonnsbalanse-statlige-utvalg/par-4.md`
+- § 5. (Ikrafttredelse) – `forskrifter/kjonnsbalanse-statlige-utvalg/par-5.md`
+
+### Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger
+
+- § 1. Forskriftens formål – `forskrifter/universell-utforming-ikt/par-1.md`
+- § 2. Virkeområde – `forskrifter/universell-utforming-ikt/par-2.md`
+- § 3. Definisjoner – `forskrifter/universell-utforming-ikt/par-3.md`
+- § 4. Krav til utforming av IKT-løsninger – `forskrifter/universell-utforming-ikt/par-4.md`
+- § 4a. Krav til universell utforming av nettløsninger tilhørende allmennkringkastere og datterforetak – `forskrifter/universell-utforming-ikt/par-4a.md`
+- § 4b. Krav til universell utforming av nettløsninger i offentlige virksomheter – `forskrifter/universell-utforming-ikt/par-4b.md`
+- § 4c. Unntak fra krav til universell utforming av nettløsninger – `forskrifter/universell-utforming-ikt/par-4c.md`
+- § 4d. Krav til universell utforming av automater i offentlige og private virksomheter – `forskrifter/universell-utforming-ikt/par-4d.md`
+- § 4e. Tilgjengelighetserklæring og tilbakemeldingsfunksjon – `forskrifter/universell-utforming-ikt/par-4e.md`
+- § 5. Tilsyn og krav om dokumentasjon – `forskrifter/universell-utforming-ikt/par-5.md`
+- § 6. Pålegg om iverksetting av tiltak – `forskrifter/universell-utforming-ikt/par-6.md`
+- § 7. Tvangsmulkt – `forskrifter/universell-utforming-ikt/par-7.md`
+- § 8. Klage – `forskrifter/universell-utforming-ikt/par-8.md`
+- § 9. Søksmål – `forskrifter/universell-utforming-ikt/par-9.md`
+- § 10. Dispensasjon – `forskrifter/universell-utforming-ikt/par-10.md`
+- § 10a. Tilsynsorganets plikt til kontroll og rapportering – `forskrifter/universell-utforming-ikt/par-10a.md`
+- § 11. Ikrafttredelse og overgangsregler – `forskrifter/universell-utforming-ikt/par-11.md`
+
+## EU-rettsakter som teksten viser til
+
+Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
+
+- Forordning nr. 1025/2012 – ikke i basen. Nevnt i `forskrifter/universell-utforming-ikt/par-3.md`
 <!-- AUTO-SLUTT -->
