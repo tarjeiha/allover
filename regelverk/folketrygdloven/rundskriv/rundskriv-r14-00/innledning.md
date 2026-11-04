@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 14 – Ytelser ved fødsel og adopsjon"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r14-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 ---
 
 # Rundskriv til ftrl kap 14 – Ytelser ved fødsel og adopsjon
@@ -269,9 +269,15 @@ Endringene gjelder med virkning fra 1. oktober 2021.
 Endringene gjelder for foreldre som føder eller adopterer barn fra 2. august 2022 eller senere.
 
 - Ny bestemmelse i folketrygdloven § 14-9 sjette ledd nytt fjerde og femte punktum. Nytt fjerde punktum fastsetter at faren har rett til å ta ut inntil 10 stønadsdager i forbindelse med fødselen. Dagene kan tas ut før og/eller etter fødselen. Nytt femte punktum presiserer at de 10 dagene faren kan ta ut i forbindelse med fødselen inngår i perioden faren ellers har rett til.
+
 - Ny bestemmelse i folketrygdloven § 14-10 første ledd femte punktum og nytt sjette punktum. I femte punktum er det fastsatt et nytt unntak fra bestemmelsen i fjerde punktum om at faren ikke kan ta ut foreldrepenger i de første 6 ukene etter fødselen. Unntaket gjelder der bare faren fyller vilkårene for rett til foreldrepenger. Unntaket gir faren mulighet til å ta ut foreldrepenger i forlengelsen av de 10 stønadsdagene han kan ta ut i forbindelse med fødselen, se § 14-9 sjette ledd nytt fjerde og femte punktum og § 14-10 første ledd nytt sjette punktum.
+
+  I nytt sjette punktum er det fastsatt at faren kan ta ut 10 dager med foreldrepenger i forbindelse med fødselen. Regelen omfatter alle fedre som har opptjent rett til foreldrepenger. Regelen innebærer at faren kan ta ut foreldrepenger før fødselen og i de første 6 ukene etter fødselen som ellers er forbeholdt moren.
+
 - Ny bestemmelse i folketrygdloven § § 14-10 tredje ledd nytt tredje, fjerde og femte punktum. Hvis foreldrene får barn med 48 ukers mellomrom eller mindre, kan likevel mor, ta ut 22 stønadsuker før eller etter fødsel. En kvinne som adopterer barn, skal i slike tilfeller ha rett til å ta ut 8 stønadsuker. Far/medmor skal i slike tilfeller ha rett til å ta ut 8 stønadsuker.
+
 - Ny bestemmelse i folketrygdloven § § 14-10 sjette ledd andre punktum. Det er fastsatt et nytt unntak fra bestemmelsen i første punktum om at foreldrenes samtidige uttak av foreldrepenger ikke kan overstige 100 prosent av valgt sats. Unntaket gjelder der faren tar ut 10 dager med foreldrepenger i forbindelse med fødselen. Regelen omfatter alle fedre som har opptjent rett til foreldrepenger.
+
 - Ny bestemmelse i folketrygdloven § § 14-14 tredje ledd. Far/medmor kan uten hinder av vilkårene i § 14-13 ta ut foreldrepenger i 40 stønadsdager (8 uker). Far/medmor kan ta ut foreldrepenger i samme antall stønadsdager som fedrekvoten, se § 14-12 første ledd, hvis mor mottar uføretrygd fra folketrygden, uten hinder av vilkårene i § 14-13.
 
 **Ved [lov av 14. mai 2024 nr. 21](https://lovdata.no/nav/lov/2024-05-14-21), i kraft 1. juli 2024** (Prop. 43 L (2023-2024) fra Barne- og familiedepartementet – Endringer i folketrygdloven (forlengelse av foreldrepengeperioden ved 80 prosent dekning) ble det innført nye bestemmelser for uttak av foreldrepenger med 80 prosent dekningsgrad (redusert sats).

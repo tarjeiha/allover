@@ -1,6 +1,6 @@
 # Rundskriv til folketrygdloven § 5-1
 
-Rundskriv til Folketrygdloven. Lagt inn 2026-10-17 fra `original/folketrygdloven-rundskriv-r05-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til Folketrygdloven. Lagt inn 2026-11-04 fra `original/folketrygdloven-rundskriv-r05-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 

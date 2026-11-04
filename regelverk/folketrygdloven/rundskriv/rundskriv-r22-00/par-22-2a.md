@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 22 – Utbetaling"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r22-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 22-2 a"
 gjelder: "lov"
 ---

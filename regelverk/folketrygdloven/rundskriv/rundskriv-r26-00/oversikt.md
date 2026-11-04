@@ -1,0 +1,123 @@
+# Rundskriv til ftrl kap 26 – Ikrafttredelse og overgangsbestemmelser– Endringer i andre lover.
+
+Rundskriv til Folketrygdloven. Lagt inn 2026-11-04 fra `original/folketrygdloven-rundskriv-r26-00.html`. Dette er ikke lov- eller forskriftstekst.
+
+## Innhold
+
+- Innledning og tekst uten paragraf – `innledning.md`
+- § 26-1 – `par-26-1.md`
+- § 3-27 – `par-3-27.md`
+- § 7-3 – `par-7-3.md`
+- § 10-10 – `par-10-10.md`
+- § 12-7 – `par-12-7.md`
+- § 25-13 – `par-25-13.md`
+- § 12-12 – `par-12-12.md`
+- § 13-6 – `par-13-6.md`
+- § 15-12 – `par-15-12.md`
+- § 16-8 – `par-16-8.md`
+- § 17-8 – `par-17-8.md`
+- § 26-2 – `par-26-2.md`
+- § 26-3 – `par-26-3.md`
+- § 16 – `par-16.md`
+- § 42 – `par-42.md`
+- § 44 – `par-44.md`
+- § 55 – `par-55.md`
+- § 77 Nr – `par-77nr.md`
+- § 78 Nr – `par-78nr.md`
+- § 4 – `par-4.md`
+- § 5 – `par-5.md`
+- § 14 – `par-14.md`
+- § 15 – `par-15.md`
+- § 21 – `par-21.md`
+- § 22 – `par-22.md`
+- § 3 Nr – `par-3nr.md`
+- § 12 – `par-12.md`
+- § 13 – `par-13.md`
+- § 15 – `par-15-2.md`
+- § 18 Nr – `par-18nr.md`
+- § 24 Nr – `par-24nr.md`
+- § 29 – `par-29.md`
+- § 31 Nr – `par-31nr.md`
+- § 6 Nr – `par-6nr.md`
+- § 16 – `par-16-2.md`
+- § 17 Nr – `par-17nr.md`
+- § 19 – `par-19.md`
+- § 23 Nr – `par-23nr.md`
+- § 33 Nr – `par-33nr.md`
+- § 38 – `par-38.md`
+- § 40 Nr – `par-40nr.md`
+- § 30 – `par-30.md`
+- § 31 – `par-31.md`
+- § 32 – `par-32.md`
+- § 33 – `par-33.md`
+- § 37 – `par-37.md`
+- § 1 – `par-1.md`
+- § 4 – `par-4-2.md`
+- § 1 nr – `par-1nr.md`
+- § 1 Nr – `par-1nr-2.md`
+- § 28 – `par-28.md`
+- § 6 – `par-6.md`
+- § 24 – `par-24.md`
+- § 6 – `par-6-2.md`
+- § 12 Nr – `par-12nr.md`
+- § 37 – `par-37-2.md`
+- § 39 – `par-39.md`
+- § 11 Nr – `par-11nr.md`
+- § 33 Nr – `par-33nr-2.md`
+- § 43 Nr – `par-43nr.md`
+- § 28 – `par-28-2.md`
+- § 41 Nr – `par-41nr.md`
+- § 3 – `par-3.md`
+- § 17 – `par-17.md`
+- § 7 – `par-7.md`
+- § 22 – `par-22-2.md`
+- § 23 Nr – `par-23nr-2.md`
+- § 24 Nr – `par-24nr-2.md`
+- § 3 – `par-3-2.md`
+- § 19 – `par-19-2.md`
+- § 20 – `par-20.md`
+- § 22 Nr – `par-22nr.md`
+- § 23 Nr – `par-23nr-3.md`
+- § 8 – `par-8.md`
+- § 11 Nr – `par-11nr-2.md`
+- § 12 Nr – `par-12nr-2.md`
+- § 13 Nr – `par-13nr.md`
+- § 17 – `par-17-2.md`
+- § 19 Nr – `par-19nr.md`
+- § 22 Nr – `par-22nr-2.md`
+- § 38 Nr – `par-38nr.md`
+- § 46 – `par-46.md`
+- § 55 – `par-55-2.md`
+- § 10 – `par-10.md`
+- § 1 Nr – `par-1nr-3.md`
+- § 11 Nr – `par-11nr-3.md`
+- § 13 – `par-13-2.md`
+- § 14A – `par-14a.md`
+- § 17 Nr – `par-17nr-2.md`
+- § 23 – `par-23.md`
+- § 3-2A – `par-3-2a.md`
+- § 12 – `par-12-2.md`
+- § 16 – `par-16-3.md`
+- § 34 – `par-34.md`
+- § 26 – `par-26.md`
+- § 28 Nr – `par-28nr.md`
+- § 50 – `par-50.md`
+- § 13 Nr – `par-13nr-2.md`
+- § 20 – `par-20-2.md`
+- § 22 – `par-22-3.md`
+- § 60 Nr – `par-60nr.md`
+- § 4-2 – `par-4-2.md`
+- § 22 – `par-22-4.md`
+- § 5 – `par-5-2.md`
+- § 7 Nr – `par-7nr.md`
+- § 9 Nr – `par-9nr.md`
+- § 10 Nr – `par-10nr.md`
+- § 11 Nr – `par-11nr-4.md`
+- § 4 Nr – `par-4nr.md`
+- § 1 – `par-1-2.md`
+- § 2 – `par-2.md`
+- § 4 – `par-4-3.md`
+- § 11 – `par-11.md`
+- § 1 – `par-1-3.md`
+- § 5-8 – `par-5-8.md`
+- § 2 – `par-2-2.md`

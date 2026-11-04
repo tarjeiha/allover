@@ -1,25 +1,23 @@
 ---
-rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+rundskriv: "Rundskriv til forskrift om tilskudd til ekspertbistand"
 lov: "Folketrygdloven"
 forskrift: "Forskrift om tilskudd til ekspertbistand"
 forskrift_id: "FOR-2019-08-29-1105"
-kilde: "original/nav_rundskriv_r08-07a-for.docx"
+kilde: "original/folketrygdloven-rundskriv-r08-07a-for.html"
 lagt_inn: "2026-11-04"
 ---
 
-# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)
+# Rundskriv til forskrift om tilskudd til ekspertbistand
 
-# NAV - Arbeids- og velferdsetaten - R08-07A-FOR
+# Rundskriv til forskrift om tilskudd til ekspertbistand
 
-|                 |                                                                                                                                                             |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Myndighet       | NAV – Arbeids- og velferdsetaten                                                                                                                            |
-| Dato            | 2019-09-11                                                                                                                                                  |
-| Doknr/publisert | R08-07A-FOR                                                                                                                                                 |
-| Sammendrag      | Rundskriv til [<u>ftrl § 8-7a</u>](https://lovdata.no/pro/#reference/lov/1997-02-28-19/§8-7a): Utfyllende regler - Forskrift om tilskudd til ekspertbistand |
-| Sist endret     | 2026-10-06                                                                                                                                                  |
+Myndighet: NAV – Arbeids- og velferdsetaten  
+Dato: 2019-09-11  
+Doknr/publisert: R08-07A-FOR  
+Sammendrag: Rundskriv til ftrl § 8-7a : Utfyllende regler - Forskrift om tilskudd til ekspertbistand Henvisninger: Folketrygdloven (1997) §8-7a \| Forskrift om tilskudd til ekspertbistand (2019)  
+Sist endret: 2026-10-06  
 
-##  
+ 
 
 Helt omarbeidet 06.10.2026
 

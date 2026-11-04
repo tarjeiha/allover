@@ -1,17 +1,19 @@
 ---
-rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+rundskriv: "Rundskriv til forskrift om tilskudd til ekspertbistand"
 lov: "Folketrygdloven"
 forskrift: "Forskrift om tilskudd til ekspertbistand"
 forskrift_id: "FOR-2019-08-29-1105"
-kilde: "original/nav_rundskriv_r08-07a-for.docx"
+kilde: "original/folketrygdloven-rundskriv-r08-07a-for.html"
 lagt_inn: "2026-11-04"
 paragraf: "§ 5"
 gjelder: "forskrift"
 ---
 
-# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR) – § 5
+# Rundskriv til forskrift om tilskudd til ekspertbistand – § 5
 
 ## 6. FORSKRIFT OM TILSKUDD TIL EKSPERTBISTAND § 5 SKAL FORSTÅS SLIK
+
+[FOR-2019-08-29-1105-§5](https://lovdata.no/nav/forskrift/2019-08-29-1105/%C2%A75)  
 
 Forskrift om tilskudd til ekspertbistand § 5 handler om størrelsen på tilskuddet, herunder refusjon av utgifter og krav til dokumentasjon.
 
@@ -45,7 +47,7 @@ Utgifter utover tilsagnsbeløpet refunderes ikke av Nav. Disse utgiftene står a
 
 Arbeidsgiver skal ha sendt ekspertens rapport til Nav før refusjonen utbetales.
 
-Refusjonen må utbetales innenfor regelverket for økonomistyring i staten<sup>4</sup>.
+Refusjonen må utbetales innenfor regelverket for økonomistyring i staten<sup>​4</sup>.
 
 #### 6.1.3 Refusjonsfrist
 
@@ -57,4 +59,4 @@ Arbeidsgivere oppfordres til å sende refusjonskrav så raskt som mulig etter av
 
 Varigheten av ekspertbistanden må vurderes individuelt i den enkelte sak. I mange tilfeller vil bistanden kunne gjennomføres innen tre måneder, men det kan vurderes å være lengre ut fra behovet og omstendighetene i den enkelte sak
 
-Tilsagn kan ikke gå over årsskiftet, jfr. [<u>Bevilgningsreglementet § 3</u>](https://lovdata.no/pro/#reference/forskrift/2005-05-26-876). Innenfor rammen av maksimalbeløpet (fastsatt av departementet) kan det gjennomføres flere tiltaksperioder.
+Tilsagn kan ikke gå over årsskiftet, jfr. [Bevilgningsreglementet § 3](https://lovdata.no/nav/forskrift/2005-05-26-876). Innenfor rammen av maksimalbeløpet (fastsatt av departementet) kan det gjennomføres flere tiltaksperioder.

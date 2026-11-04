@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 3 Del I – Grunnpensjon og særtillegg"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r03-01.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 3-5"
 gjelder: "lov"
 ---
@@ -268,11 +268,11 @@ En person født 4. april 1935 i Norge har bodd i utlandet flere perioder i sitt 
 
 En person er født 5. januar 1936 i Norge og har bodd i utlandet i perioden fra 4. desember 1965 til og med 5. mai 1973. Vedkommende har opptjent pensjonspoeng i Norge i 1973. Vedkommende søker om alderspensjon fra 2003. Trygdetiden blir følgende:
 
-|                                                               |                                 |
-|---------------------------------------------------------------|---------------------------------|
-| Fra og med 5. 1.1952 til og med 4.12.1965                     | 13 år 10 md 30 dg (13 år 11 md) |
-| Fra og med 1.1.1973(år med pensj.poeng) til og med 31.12.2002 | 30 år                           |
-|                                                               | 44 år                           |
+|  |  |
+|----|----|
+| Fra og med 5. 1.1952 til og med 4.12.1965 | 13 år 10 md 30 dg (13 år 11 md) |
+| Fra og med 1.1.1973(år med pensj.poeng) til og med 31.12.2002 | 30 år |
+|  | 44 år |
 
 Trygdetiden blir 40 år (max trygdetid).
 

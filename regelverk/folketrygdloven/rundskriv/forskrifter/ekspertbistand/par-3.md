@@ -1,17 +1,19 @@
 ---
-rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+rundskriv: "Rundskriv til forskrift om tilskudd til ekspertbistand"
 lov: "Folketrygdloven"
 forskrift: "Forskrift om tilskudd til ekspertbistand"
 forskrift_id: "FOR-2019-08-29-1105"
-kilde: "original/nav_rundskriv_r08-07a-for.docx"
+kilde: "original/folketrygdloven-rundskriv-r08-07a-for.html"
 lagt_inn: "2026-11-04"
 paragraf: "§ 3"
 gjelder: "forskrift"
 ---
 
-# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR) – § 3
+# Rundskriv til forskrift om tilskudd til ekspertbistand – § 3
 
 ## 4. FORSKRIFT OM TILSKUDD TIL EKSPERTBISTAND § 3 SKAL FORSTÅS SLIK
+
+[FOR-2019-08-29-1105-§3](https://lovdata.no/nav/forskrift/2019-08-29-1105/%C2%A73)  
 
 Forskrift om tilskudd til ekspertbistand § 3 handler om innholdet i ekspertbistanden, herunder ekspertens rolle og oppgaver, ekspertens rapport, samt partenes fortrolighetsplikt.
 
@@ -25,33 +27,13 @@ Ut fra behovene i saken kan type kompetanse variere, men relevant kompetanse kan
 
 I tillegg skal eksperten ha kompetanse på et eller flere av følgende områder, avhengig av hva som er behovet i den enkelte sak:
 
-|     |                                               |
-|-----|-----------------------------------------------|
-| •   | relasjoner og kommunikasjon på arbeidsplassen |
-
-|     |                                          |
-|-----|------------------------------------------|
-| ·   | sykefraværsoppfølging og tilrettelegging |
-
-|     |                    |
-|-----|--------------------|
-| ·   | konflikthåndtering |
-
-|     |                                            |
-|-----|--------------------------------------------|
-| ·   | omstillingsarbeid (endring i arbeidslivet) |
-
-|     |                       |
-|-----|-----------------------|
-| ·   | arbeidsplassvurdering |
-
-|     |                                                  |
-|-----|--------------------------------------------------|
-| ·   | god kjennskap til det offentlige hjelpeapparatet |
-
-|     |                                                                               |
-|-----|-------------------------------------------------------------------------------|
-| ·   | i noen tilfeller kan det være aktuelt med kompetanse innen karriereveiledning |
+- relasjoner og kommunikasjon på arbeidsplassen
+- sykefraværsoppfølging og tilrettelegging
+- konflikthåndtering
+- omstillingsarbeid (endring i arbeidslivet)
+- arbeidsplassvurdering
+- god kjennskap til det offentlige hjelpeapparatet
+- i noen tilfeller kan det være aktuelt med kompetanse innen karriereveiledning
 
 Ekspertens rolle er å komme inn som en nøytral part og vurdere arbeidssituasjonen. Eksperten skal prøve å forstå bakgrunnen for sykefraværet, gi råd og veiledning og foreslå aktuelle tiltak for å løse sykefraværsutfordringen. Eksperten skal tilby kartlegging av muligheter og begrensninger knyttet til arbeidsforholdet, herunder kartlegge forholdet mellom arbeidstakerens helse og funksjonsevne, arbeidsoppgavene og arbeidsplassens omgivelser. Formålet er å identifisere barrierer for arbeid og foreslå tiltak som kan redusere eller fjerne disse. Eksperten skal gi løsningsrettet bistand for å finne frem til aktuelle arbeidsoppgaver og hensiktsmessige tiltak på arbeidsplassen.
 
@@ -59,21 +41,10 @@ Arbeidstakeren kan gis bistand til å mestre arbeidssituasjonen i en tilbakefør
 
 Eksperten kan blant annet:
 
-|     |                                                                                                                              |
-|-----|------------------------------------------------------------------------------------------------------------------------------|
-| •   | Bistå arbeidstaker og arbeidsgiver i en uhensiktsmessig arbeidssituasjon som kan medføre sykefravær, med å se nye muligheter |
-
-|     |                                      |
-|-----|--------------------------------------|
-| •   | Gjennomføre en arbeidsplassvurdering |
-
-|     |                                                                                     |
-|-----|-------------------------------------------------------------------------------------|
-| •   | Bistå i saker hvor det kan ligge en konflikt eller opplevelse av konflikt til grunn |
-
-|     |                                                                                        |
-|-----|----------------------------------------------------------------------------------------|
-| •   | Bistå når arbeidstaker og arbeidsgiver er rådville, og ikke vet hva mer som kan gjøres |
+- Bistå arbeidstaker og arbeidsgiver i en uhensiktsmessig arbeidssituasjon som kan medføre sykefravær, med å se nye muligheter
+- Gjennomføre en arbeidsplassvurdering
+- Bistå i saker hvor det kan ligge en konflikt eller opplevelse av konflikt til grunn
+- Bistå når arbeidstaker og arbeidsgiver er rådville, og ikke vet hva mer som kan gjøres
 
 Det går frem av forskriften at opplysninger som eksperten, arbeidsgiver, arbeidstaker og Nav blir kjent med i forbindelse med ekspertbistanden, skal behandles fortrolig. Plikten om fortrolighet gjelder også for opplysninger som ikke er omfattet av lovbestemt taushetsplikt. Plikten til fortrolighet er varig og gjelder uten tidsbegrensning. Plikten til fortrolighet gjelder også etter at ekspertbistanden er avsluttet.
 
@@ -99,21 +70,10 @@ Dersom det foreligger forhold som kan svekke ekspertens nøytralitet eller uavhe
 
 Ved vurderingen av ekspertens nøytralitet og uavhengighet kan det blant annet legges vekt på om eksperten:
 
-|     |                                                                       |
-|-----|-----------------------------------------------------------------------|
-| •   | har en nær personlig relasjon til arbeidstakeren eller arbeidsgiveren |
-
-|     |                                                                                               |
-|-----|-----------------------------------------------------------------------------------------------|
-| •   | tidligere har hatt en rolle i saken som gjør det vanskelig å opptre som en nøytral tredjepart |
-
-|     |                                                                                                |
-|-----|------------------------------------------------------------------------------------------------|
-| •   | har økonomiske eller andre interesser som kan påvirke vurderingene eller anbefalingene som gis |
-
-|     |                                                                                                          |
-|-----|----------------------------------------------------------------------------------------------------------|
-| •   | tidligere har representert eller bistått én av partene i den aktuelle konflikten eller problemstillingen |
+- har en nær personlig relasjon til arbeidstakeren eller arbeidsgiveren
+- tidligere har hatt en rolle i saken som gjør det vanskelig å opptre som en nøytral tredjepart
+- har økonomiske eller andre interesser som kan påvirke vurderingene eller anbefalingene som gis
+- tidligere har representert eller bistått én av partene i den aktuelle konflikten eller problemstillingen
 
 Når det gjelder bedriftshelsetjeneste, kan kostnader til bedriftshelsetjeneste organisert som en del av arbeidsgiverens egen virksomhet (intern bedriftshelsetjeneste), ikke refunderes gjennom ekspertbistand. Dette er uavhengig av hvordan eksperten er organisert inn i virksomheten. Les mer om bedriftshelsetjeneste under omtale av § 4 annet ledd.
 

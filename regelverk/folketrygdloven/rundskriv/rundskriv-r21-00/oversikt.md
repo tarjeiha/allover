@@ -1,6 +1,6 @@
 # Rundskriv til ftrl kap 21 – Saksbehandlingsrundskriv
 
-Rundskriv til Folketrygdloven. Lagt inn 2026-10-17 fra `original/folketrygdloven-rundskriv-r21-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til Folketrygdloven. Lagt inn 2026-11-04 fra `original/folketrygdloven-rundskriv-r21-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 

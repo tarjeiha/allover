@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til folketrygdloven § 5-1"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r05-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 ---
 
 # Rundskriv til folketrygdloven § 5-1

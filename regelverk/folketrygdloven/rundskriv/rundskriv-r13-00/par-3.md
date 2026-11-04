@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 13 – Yrkesskadedekning"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r13-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 3"
 gjelder: "forskrift"
 ---
@@ -27,20 +27,20 @@ Gruppeinndelingen av den varige medisinske invaliditet fremgår av § 3 nr. 1 i 
 
 Årlig menerstatning utmåles slik:
 
-| Gruppe | Fastsatt invaliditetsgrad                                           | Menerstatning pr år       |
-|--------|---------------------------------------------------------------------|---------------------------|
-| 0      | Lavere enn 15 %                                                     | Ingen erstatning          |
-| 1      | 15 – 24 %                                                           | 7 % av grunnbeløpet       |
-| 2      | 25 – 34 %                                                           | 12 % av grunnbeløpet      |
-| 3      | 35 – 44 %                                                           | 18 % av grunnbeløpet      |
-| 4      | 45 – 54 %                                                           | 25 % av grunnbeløpet      |
-| 5      | 55 – 64 %                                                           | 33 % av grunnbeløpet      |
-| 6      | 65 – 74 %                                                           | 42 % av grunnbeløpet      |
-| 7      | 75 – 84 %                                                           | 52 % av grunnbeløpet      |
-| 8      | 85 – 100 %                                                          | 63 % av grunnbeløpet      |
-| 9      | Ved skade som er betydelig større enn en skade som gir grunnlag for |                           |
-|        |                                                                     | invaliditetsgrad på 100 % |
-|        |                                                                     | 75 % av grunnbeløpet      |
+| Gruppe | Fastsatt invaliditetsgrad | Menerstatning pr år |
+|----|----|----|
+| 0 | Lavere enn 15 % | Ingen erstatning |
+| 1 | 15 – 24 % | 7 % av grunnbeløpet |
+| 2 | 25 – 34 % | 12 % av grunnbeløpet |
+| 3 | 35 – 44 % | 18 % av grunnbeløpet |
+| 4 | 45 – 54 % | 25 % av grunnbeløpet |
+| 5 | 55 – 64 % | 33 % av grunnbeløpet |
+| 6 | 65 – 74 % | 42 % av grunnbeløpet |
+| 7 | 75 – 84 % | 52 % av grunnbeløpet |
+| 8 | 85 – 100 % | 63 % av grunnbeløpet |
+| 9 | Ved skade som er betydelig større enn en skade som gir grunnlag for |  |
+|  |  | invaliditetsgrad på 100 % |
+|  |  | 75 % av grunnbeløpet |
 
 Som det vil fremgå av gruppeinndelingen foran, hører lavere invaliditetsgrader enn 15 % inn under invaliditetsgruppe 0, som isolert sett ikke gir grunnlag for menerstatning. Som det fremgår av avsnittet om invaliditetsgruppe 0 nedenfor, kan imidlertid skader som hører inn under invaliditetsgruppe 0 via reglene om «samlet» vurdering, jf. kommentarene til § 2 nr. 3 foran, eller om «gruppeopprykk», se kommentarene til § 3 nr. 3 nedenfor, likevel danne grunnlag for tilståelse av menerstatning.
 

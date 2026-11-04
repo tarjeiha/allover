@@ -1,6 +1,6 @@
-# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)
+# Rundskriv til forskrift om tilskudd til ekspertbistand
 
-Rundskriv til Forskrift om tilskudd til ekspertbistand (FOR-2019-08-29-1105), med hjemmel i folketrygdloven. Lagt inn 2026-11-04 fra `original/nav_rundskriv_r08-07a-for.docx`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til Forskrift om tilskudd til ekspertbistand (FOR-2019-08-29-1105), med hjemmel i folketrygdloven. Lagt inn 2026-11-04 fra `original/folketrygdloven-rundskriv-r08-07a-for.html`. Dette er ikke lov- eller forskriftstekst.
 
 Paragrafhenvisningene gjelder forskriften rundskrivet kommenterer, ikke loven.
 

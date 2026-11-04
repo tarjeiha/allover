@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 3 Del I – Grunnpensjon og særtillegg"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r03-01.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 3-2"
 gjelder: "lov"
 ---
