@@ -41,11 +41,11 @@ Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn 
 ## Hva som ligger i den åpne basen
 
 <!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger for hånd -->
-Oversikten ble sist laget 2026-11-03.
+Oversikten ble sist laget 2026-11-04.
 
 ### Regelverk
 
-- **33 lover og instrukser** med 210 forskrifter: Offentleglova, AFP-loven for medlemmer av Statens pensjonskasse, Aldersgrenseloven for statsansatte, Allmenngjøringsloven, Arbeidsmarkedsloven, Arbeidsmiljøloven, Arbeidstvistloven, Arkivlova, Diskrimineringsombudsloven, Ferieloven, Folketrygdloven, Forvaltningsloven, Forvaltningsloven 2025 (ny lov, ikke i kraft), Integreringsloven, Karanteneloven, Likestillings- og diskrimineringsloven, Lov om Statens pensjonskasse, Lønnsgarantiloven, NAV-loven, Opplæringslova, Permitteringslønnsloven, Personopplysningsloven, Samordningsloven, Sosialtjenesteloven, Språklova, Statsansatteloven, Statsborgerloven, Tjenestetvistloven, Tolkeloven, Universitets- og høyskoleloven, Utlendingsloven, Utredningsinstruksen og Stortingets forretningsorden.
+- **33 lover og instrukser** med 251 forskrifter: Offentleglova, AFP-loven for medlemmer av Statens pensjonskasse, Aldersgrenseloven for statsansatte, Allmenngjøringsloven, Arbeidsmarkedsloven, Arbeidsmiljøloven, Arbeidstvistloven, Arkivlova, Diskrimineringsombudsloven, Ferieloven, Folketrygdloven, Forvaltningsloven, Forvaltningsloven 2025 (ny lov, ikke i kraft), Integreringsloven, Karanteneloven, Likestillings- og diskrimineringsloven, Lov om Statens pensjonskasse, Lønnsgarantiloven, NAV-loven, Opplæringslova, Permitteringslønnsloven, Personopplysningsloven, Samordningsloven, Sosialtjenesteloven, Språklova, Statsansatteloven, Statsborgerloven, Tjenestetvistloven, Tolkeloven, Universitets- og høyskoleloven, Utlendingsloven, Utredningsinstruksen og Stortingets forretningsorden.
 - **Hovedtariffavtalen i staten**, 1. mai 2026 – 30. april 2028.
 - **21 EU-rettsakter** (forordninger og direktiver fra EUR-Lex).
 - **24 rundskriv** og veiledninger til lovene, blant dem Navs rundskriv til folketrygdloven.
@@ -61,7 +61,7 @@ Lov- og forskriftsteksten hentes fra Lovdata hver natt.
 - **2024:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
 - **2025:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
 - **2026:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2027:** Prop. 1 S for AID, Gul bok, bevilgninger fra Gul bok (tabell) og Nasjonalbudsjettet.
+- **2027:** Prop. 1 S for AID, Gul bok, bevilgninger fra Gul bok (tabell), Nasjonalbudsjettet og svar på budsjettspørsmål fra Stortinget.
 - **Satstabeller over flere år:** grunnstønad og hjelpestønad.
 
 Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
@@ -76,11 +76,11 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 
 ### Stortinget
 
-Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-03:
+Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-04:
 
 - **4 088 anmodningsvedtak**
-- **40 123 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
-- **2 827 representantforslag** med utfall
+- **40 140 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
+- **2 831 representantforslag** med utfall
 
 ### Politiske grunnlagsdokumenter
 
