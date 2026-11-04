@@ -1,223 +1,236 @@
 {
- "dato": "2026-11-03",
+ "dato": "2026-11-04",
  "nye": {
   "sporsmal": [
    {
-    "id": "130050",
+    "id": "130075",
     "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Vil statsråden avklare om regelverket pålegger Sysselmesteren å kreve refusjon i alle tilfeller, eller om det fortsatt er adgang til å utøve skjønn ved innkreving, med de konsekvenser en slik praksis kan få for beredskap, sikkerhet og ansvarlig reiseliv?",
+    "dato": "2026-11-04",
+    "tittel": "Hvordan sikres kontrollen med dronenes maskinvare og innebygde programvare, herunder oppdateringer fra produsenten, og er sikkerheten uavhengig etterprøvd, samt benytter Statnett andre inspeksjonsverktøy som er produsert i Kina.",
+    "fra": "Kristoffer Sivertsen (FrP)",
+    "til_minister_id": "END",
+    "til": "energiministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110976"
+   },
+   {
+    "id": "130074",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Mener statsråden at dette er med på å bygge opp under nullvekstsmålet og tanken om at folk i sentrale områder på Østlandet skal kunne reise kollektivt i hverdagen?",
     "fra": "Abid Raja (V)",
-    "til_minister_id": "JUJUD",
-    "til": "justis- og beredskapsministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110954"
-   },
-   {
-    "id": "130049",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Kan statsråden sikre at Nordsjøalliansen får innsyn i hjemmelsgrunnlaget og rettskildene som de ønsker, samt innsyn i en evt. ny hjemmel, og opplyse om hvem som ga hjemmel for dykkervirksomheten i Nordsjøen og når hjemmel for kontroll av dykkevirksomheten ble gitt, og kan statsråden også bekrefte om hjemmelen og lovens § 4 fortsatt er gjeldende, eller om den er opphevet ved vedtak?",
-    "fra": "Bengt Rune Strifeldt (FrP)",
-    "til_minister_id": "NFDFH",
-    "til": "fiskeri- og havministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110953"
-   },
-   {
-    "id": "130048",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Hvordan skal regjeringen sikre at opprettelsen av Nærklinikker ikke vil konkurrere med allerede etablerte ideelle tilbud som for eksempel Frelsesarmeens Feltpleie?",
-    "fra": "Ida Lindtveit Røse (KrF)",
-    "til_minister_id": "HHD",
-    "til": "helse- og omsorgsministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110952"
-   },
-   {
-    "id": "130047",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Mener statsråden at nasjonalitetskravet i deltakerloven § 5 er oppfylt når det aller meste av utbyttet fra et norsk rederi går til utenlandske eiere?",
-    "fra": "Bengt Rune Strifeldt (FrP)",
-    "til_minister_id": "NFDFH",
-    "til": "fiskeri- og havministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110949"
-   },
-   {
-    "id": "130046",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Hvordan vil statsråden hindre at kompetansen og tilbudet innen lindrende behandling i kommunene svekkes dersom den særskilte tilskuddsordningen avvikles og midlene overføres til det nye omstillingstilskuddet, og hvordan skal nødvendig kompetanseheving og fagutvikling ivaretas?",
-    "fra": "Helge André Njåstad (FrP)",
-    "til_minister_id": "HHD",
-    "til": "helse- og omsorgsministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110948"
-   },
-   {
-    "id": "130045",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Vil statsråden ta initiativ til en systematisk gjennomgang av Statens vegvesens vegnormaler, håndbøker og øvrige tekniske krav med sikte på å fjerne eller forenkle krav som unødvendig fordyrer samferdselsprosjekter, uten at dette går på bekostning av trafikksikkerhet og nødvendig kvalitet, og i større grad åpne for funksjonsbaserte krav og kostnadseffektive løsninger?",
-    "fra": "Pål Morten Borgli (FrP)",
     "til_minister_id": "SD",
     "til": "samferdselsministeren",
     "besvart_av": null,
     "status": "til_behandling",
     "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110947"
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110975"
    },
    {
-    "id": "130044",
+    "id": "130073",
     "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Vannkrisen i Sør-Varanger, der brudd på hovedvannledningen to ganger på én uke førte til rød beredskap ved Kirkenes sykehus og stengte skoler og barnehager, avdekket hvor sårbar kritisk infrastruktur er i nord.\nMener statsråden at beredskapen i nord er god nok når svikt i én enkelt infrastrukturkomponent kan lamme kritiske samfunnsfunksjoner, og dersom svaret er ja, hvilke kriterier legger statsråden til grunn for å definere en slik beredskap som tilfredsstillende?",
-    "fra": "Siren Julianne Jensen (MDG)",
-    "til_minister_id": "KMDI",
-    "til": "kommunal- og distriktsministeren",
+    "dato": "2026-11-04",
+    "tittel": "Hva er status og fremdriftsplan for arbeidet med å harmonisere de nye bydelsgrensene og lokalsykehusenes opptaksområder, og hva vil statsråden gjøre for å sikre at harmoniserte opptaksområder er på plass 01.01.2028, slik at pasientene i Oslo sikres fortsatt god samhandling og helhetlige pasientforløp, samtidig som de ideelle sykehusenes posisjon opprettholdes, og helst styrkes?",
+    "fra": "Erlend Svardal Bøe (H)",
+    "til_minister_id": "HHD",
+    "til": "helse- og omsorgsministeren",
     "besvart_av": null,
     "status": "til_behandling",
     "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110946"
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110974"
    },
    {
-    "id": "130043",
+    "id": "130066",
     "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Kan finansministeren redegjøre for fondets samlede økonomiske resultat fra etableringen og frem til i dag, herunder avkastning, renteutgifter, etableringskostnader og løpende driftskostnader, samt gjøre rede for hvilke dokumenterbare samfunnsøkonomiske gevinster etableringen har gitt i form av arbeidsplasser og kompetansebygging i Nord-Norge?",
-    "fra": "Tom Staahle (FrP)",
-    "til_minister_id": "FIN",
-    "til": "finansministeren",
+    "dato": "2026-11-04",
+    "tittel": "Hvordan vil statsråden sikre at personer under tvungent psykisk helsevern med behov for omfattende oppfølging eller særskilte sikkerhetstiltak ikke bosettes i ordinære boligområder uten at det først er gjort grundige vurderinger av egnethet, risiko og konsekvensene for naboer og lokalmiljø?",
+    "fra": "Jon Engen-Helgheim (FrP)",
+    "til_minister_id": "HHD",
+    "til": "helse- og omsorgsministeren",
     "besvart_av": null,
     "status": "til_behandling",
     "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110945"
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110970"
    },
    {
-    "id": "130042",
+    "id": "130067",
     "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Kan statsråden redegjøre for i hvilken grad fylkeskommunene, spesielt i Nord-Norge, er involvert i utarbeidelsen av langtidsplan for sivil beredskap?",
-    "fra": "Bent-Joacim Bentzen (Sp)",
-    "til_minister_id": "JUJUD",
-    "til": "justis- og beredskapsministeren",
+    "dato": "2026-11-04",
+    "tittel": "Det er over ti år siden den eldste av de tre reguleringsplanene for E6 Sørelva-Borkamo i Saltdal ble vedtatt. I mars 2025 opplyste daværende samferdselsminister at ett av planvedtakene måtte søkes fornyet.\nRisikerer vi nå at allerede vedtatte planer i praksis «går ut på dato» før veien blir bygget, hva er status for planene, hvilke konsekvenser kan dette få for fremdriften, og når kan byggestart realistisk finne sted?",
+    "fra": "Dagfinn Henrik Olsen (FrP)",
+    "til_minister_id": "SD",
+    "til": "samferdselsministeren",
     "besvart_av": null,
     "status": "til_behandling",
     "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110944"
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110969"
    },
    {
-    "id": "130041",
+    "id": "130064",
     "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Hvordan jobber regjeringen helt konkret for å få returnert de over 2.300, i Norge, som har registrert utreiseplikt fra Schengen siden 2023 og hva er kostanden som er påløpt for at disse fortsatt er i Norge for perioden 2023 og frem til i dag?",
-    "fra": "Tage Pettersen (H)",
-    "til_minister_id": "JUJUD",
-    "til": "justis- og beredskapsministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110943"
-   },
-   {
-    "id": "130040",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Forsvarets operative hovedkvarter har utarbeidet en behovsanalyse med 25 rangerte militære behov og ytterligere 25 ikke-rangerte behov for transportinfrastruktur. Regjeringens rammeverk for samhandling om militære behov for transportinfrastruktur forutsetter at relevant informasjon om de rangerte behovene fremstilles ugradert for å kunne brukes i budsjett-, plan- og prioriteringsprosesser. \nKan statsråden angi hvilke av de rangerte behovene som er fulgt opp i forslaget til statsbudsjett for 2027, fordelt på relevante kap./poster?",
-    "fra": "Bent-Joacim Bentzen (Sp)",
-    "til_minister_id": "FD",
-    "til": "forsvarsministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110942"
-   },
-   {
-    "id": "130039",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Korleis kan statsråden forsvare at fylkeskommunane ikkje blir kompenserte gjennom inntektssystemet for dei objektive kostnadene knytte til skuleskyss i grunnskulen, og vil regjeringa ta initiativ til å innlemme slike utgifter i utgiftsutjamninga?",
-    "fra": "Jørgen H. Kristiansen (KrF)",
-    "til_minister_id": "KMDI",
-    "til": "kommunal- og distriktsministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110941"
-   },
-   {
-    "id": "130038",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Vil statsråden gi Husbanken mandat og ramme til å prøve ut lån med lavere rente og lengre avdragstid for eldre som flytter fra en uegnet til en egnet bolig, for eksempel i et pilotprosjekt sammen med en kommune?",
-    "fra": "Jørgen H. Kristiansen (KrF)",
-    "til_minister_id": "KMDI",
-    "til": "kommunal- og distriktsministeren",
-    "besvart_av": null,
-    "status": "til_behandling",
-    "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110940"
-   },
-   {
-    "id": "130037",
-    "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Hackerangrep mot flere europeiske matvarekjeder har satt digitale systemer ut av spill og ført til at store mengder kjølet mat har gått tapt den siste tiden. Vi vet at fiendtlige aktører ønsker å ramme Norge og Europa i større grad enn tidligere. \nHvordan vurderer regjeringen risikoen for angrep mot norske matbutikker, og hvordan jobber regjeringen med dagligvarekjedene for å sikre god nok digital sikkerhet, og vil regjeringen vurdere strengere krav enn i dag for å forebygge digitale angrep mot matbutikker i Norge?",
+    "dato": "2026-11-04",
+    "tittel": "Nkom varslet i 2022 om salg av nødradioer som ikke tilfredsstiller grunnleggende krav, og som dermed kan utgjøre en sikkerhetsrisiko hvis forbrukere kjøper disse og har behov for dem i krisetid. Antallet nødradioer som selges øker tilsynelatende i en sikkerhetspolitisk urolig tid. \nHvordan har regjeringen fulgt opp Nkom sine anbefalinger overfor Forbrukertilsynet, og vil regjeringen vurdere ytterligere tiltak for å stanse salg av radioer som markedsføres som nødradioer, men som ikke tilfredsstiller kravene slike radioer skal ha?",
     "fra": "Lars Lønberg Henriksen (MDG)",
-    "til_minister_id": "NFD",
-    "til": "næringsministeren",
+    "til_minister_id": "JUJUD",
+    "til": "justis- og beredskapsministeren",
     "besvart_av": null,
     "status": "til_behandling",
     "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110939"
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110967"
    },
    {
-    "id": "130036",
+    "id": "130062",
     "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Nord-Fosen siida peker på at et tilbud om tilleggsbeite uten en egen konsekvensutredning for siidaen vil utgjøre en fortsatt menneskerettighetsbrudd. \nVil statsministeren sørge for en egen, fullverdig konsekvensutredning av de samlede virkningene for siidaen før det eventuelt tas stilling til flytting til Håmmålsfjellet–Sålekinna?",
-    "fra": "Trygve Slagsvold Vedum (Sp)",
-    "til_minister_id": "SMK",
-    "til": "statsministeren",
+    "dato": "2026-11-04",
+    "tittel": "Hva har regjeringen gjort for å følge opp stortingsvedtaket, og hvilke vurderinger ligger bak det vi oppfatter som brudd med stortingsvedtaket?",
+    "fra": "Erlend Larsen (H)",
+    "til_minister_id": "SD",
+    "til": "samferdselsministeren",
     "besvart_av": null,
     "status": "til_behandling",
     "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110938"
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110966"
    },
    {
-    "id": "130035",
+    "id": "130061",
     "type": "Skriftlig spørsmål",
-    "dato": "2026-11-03",
-    "tittel": "Er finansministeren bekymret for at Stortinget fatter budsjettvedtak på feilaktig grunnlag og hvilke grep vil finansministeren gjennomføre for å unngå at dette skjer flere ganger, sett i lys av flere grove feilberegninger i budsjettforslagene det siste året?",
-    "fra": "Martin Virkesdal Jonsterhaug (FrP)",
-    "til_minister_id": "FIN",
-    "til": "finansministeren",
+    "dato": "2026-11-04",
+    "tittel": "Hvordan vil statsråden sikre at Stortingets vedtak nr. 832 om oppstart av dobbeltspor Stokke–Torp–Sandefjord innen 2030 blir fulgt opp, og hvordan sikrer regjeringen fremdrift i lys av at arealbåndlegging i Sandefjord opphører i juni 2027?",
+    "fra": "Erlend Larsen (H)",
+    "til_minister_id": "SD",
+    "til": "samferdselsministeren",
     "besvart_av": null,
     "status": "til_behandling",
     "emne": [],
-    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110937"
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110965"
+   },
+   {
+    "id": "130059",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Hvorfor klarer ikke statsråden å holde fristene som er lovet tidligere i sak Dokument 8:75 S (2023–2024) og Innst. 418 S (2023–2024), og hvorfor vente med å sende saken ut på høring hvis den er ferdig utredet?",
+    "fra": "Pål Morten Borgli (FrP)",
+    "til_minister_id": "JUJUD",
+    "til": "justis- og beredskapsministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110963"
+   },
+   {
+    "id": "130058",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Kan statsråden redegjøre for om det per nå foreligger planer, enten i regjering eller i embetsverket, om ytterligere regelendringer som vil påvirke bruken av russebiler og russebusser?",
+    "fra": "Simen Velle (FrP)",
+    "til_minister_id": "SD",
+    "til": "samferdselsministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110962"
+   },
+   {
+    "id": "130057",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Hva mener statsråden om behovet for flere HELFO finansierte kursdøgn på syns- og mestringssentre, og hva vil kostnaden være ved å øke rammen fra 6000 til 8000 døgn?",
+    "fra": "Alf Erik Andersen (FrP)",
+    "til_minister_id": "HHD",
+    "til": "helse- og omsorgsministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110961"
+   },
+   {
+    "id": "130056",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Hva vil det koste å gi alle private skoler som i dag har søkt om toppidrettstilskudd innvilget tilskudd, og hva vil det koste per skole?",
+    "fra": "Simen Velle (FrP)",
+    "til_minister_id": "KUNSD",
+    "til": "kunnskapsministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110960"
+   },
+   {
+    "id": "130055",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Kan statsråden redegjøre for hvordan man skal vurdere uttalelsene fra Lotteritilsynets direktør, klargjøre om Lotteritilsynets selverklærte forhåndskonkludering er i tråd med forvaltningslovens krav til forhåndsvarsel og forsvarlig saksbehandling, og hva vil statsråden eventuelt gjøre for å sikre at selskaper berørt av en slik forhåndskonklusjon blir vurdert reelt og konkret?",
+    "fra": "Mats Henriksen (FrP)",
+    "til_minister_id": "KUKUD",
+    "til": "kultur- og likestillingsministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110959"
+   },
+   {
+    "id": "130054",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Til tross for at fylkeskommunen har gjort flere vedtak, med stort flertall,  i saken om høye bompengekostnader på strekningen E39 Mandal-Kristiansand velger statsråden å sende ballen tilbake til fylkeskommunen. \nHva mener statsråden med å sende ballen tilbake til fylkeskommunen?",
+    "fra": "Alf Erik Andersen (FrP)",
+    "til_minister_id": "SD",
+    "til": "samferdselsministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110958"
+   },
+   {
+    "id": "130053",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Hvor mange MW av den kapasiteten som datasentre per i dag utgjør i kapasitetskøen hos Statnett, forventes å kunne få reservert nettkapasitet innen utgangen av første halvår 2027, og hvor mange MW av disse forventes realistisk sett å kunne bli fysisk tilknyttet og tatt i bruk innen samme tidspunkt?",
+    "fra": "Rikard Spets (FrP)",
+    "til_minister_id": "END",
+    "til": "energiministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110957"
+   },
+   {
+    "id": "130052",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-04",
+    "tittel": "Luftfartstilsynet hadde, slik jeg forstår det, frist 1. november til å oversende Samferdselsdepartementet forslag til tiltak for å sikre rullestolbrukere likeverdig tilgang til luftfarten.\nHar statsråden mottatt Luftfartstilsynets forslag, og hvordan ser statsråden for seg den videre oppfølgingen av saken, herunder hvordan Stortinget på egnet måte vil bli orientert og få saken tilbake til behandling?",
+    "fra": "Remi Sølvberg (R)",
+    "til_minister_id": "SD",
+    "til": "samferdselsministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110956"
+   },
+   {
+    "id": "130051",
+    "type": "Skriftlig spørsmål",
+    "dato": "2026-11-03",
+    "tittel": "Humanitære konsekvenser av atomvåpen var listet som en prioritering av regjeringen i forkant av høstens generalforsamling i FN. Likevel stemte Norge avholden til den aktuelle resolusjonen. \nHvorfor stemte ikke ikke Norge for FN resolusjonen om de humanitære konsekvensene av atomvåpen sammen med flertallet av verdens land?",
+    "fra": "Kirsti Bergstø (SV)",
+    "til_minister_id": "UD",
+    "til": "utenriksministeren",
+    "besvart_av": null,
+    "status": "til_behandling",
+    "emne": [],
+    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110955"
    }
   ],
   "anmodningsvedtak": [],
   "representantforslag": [
    {
-    "id": "200494",
+    "id": "200497",
     "sesjon_fremmet": "2026-2027",
     "behandlet_sesjon": null,
-    "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
+    "tittel": "Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister\n",
     "komite": null,
     "emne": [],
     "forslagstillere": [
@@ -226,62 +239,112 @@
       "parti": "MDG"
      },
      {
-      "navn": "Geir Pollestad",
-      "parti": "Sp"
+      "navn": "Lars Lønberg Henriksen",
+      "parti": "MDG"
      },
      {
-      "navn": "Hans Edvard Askjer",
-      "parti": "KrF"
+      "navn": "Margit Bye",
+      "parti": "MDG"
      },
      {
-      "navn": "Lars Haltbrekken",
-      "parti": "SV"
+      "navn": "Marius Langballe Dalin",
+      "parti": "MDG"
      },
      {
-      "navn": "Marie Sneve Martinussen",
-      "parti": "R"
+      "navn": "Oda Indgaard",
+      "parti": "MDG"
+     },
+     {
+      "navn": "Une Bastholm",
+      "parti": "MDG"
      }
     ],
-    "henvisning": "Dokument 8:34 LS (2026–2027)",
+    "henvisning": "Dokument 8:36 S (2026–2027)",
     "status": "mottatt",
     "utfall": "ukjent",
     "utfall_tekst": null,
-    "sak_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200494"
+    "sak_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200497"
    },
    {
-    "id": "200495",
+    "id": "200498",
     "sesjon_fremmet": "2026-2027",
     "behandlet_sesjon": null,
-    "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
+    "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod ",
     "komite": null,
     "emne": [],
     "forslagstillere": [
      {
-      "navn": "Frøya Skjold Sjursæther",
-      "parti": "MDG"
-     },
-     {
-      "navn": "Geir Pollestad",
+      "navn": "Bengt Fasteraune",
       "parti": "Sp"
      },
      {
-      "navn": "Hans Edvard Askjer",
-      "parti": "KrF"
+      "navn": "Kjersti Toppe",
+      "parti": "Sp"
      },
      {
-      "navn": "Lars Haltbrekken",
-      "parti": "SV"
-     },
-     {
-      "navn": "Marie Sneve Martinussen",
-      "parti": "R"
+      "navn": "Maren Grøthe",
+      "parti": "Sp"
      }
     ],
-    "henvisning": "Dokument 8:34 LS (2026–2027)",
+    "henvisning": "Dokument 8:37 S (2026–2027)",
     "status": "mottatt",
     "utfall": "ukjent",
     "utfall_tekst": null,
-    "sak_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200495"
+    "sak_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498"
+   },
+   {
+    "id": "200499",
+    "sesjon_fremmet": "2026-2027",
+    "behandlet_sesjon": null,
+    "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg",
+    "komite": null,
+    "emne": [],
+    "forslagstillere": [
+     {
+      "navn": "Bent-Joacim Bentzen",
+      "parti": "Sp"
+     },
+     {
+      "navn": "Geir Inge Lien",
+      "parti": "Sp"
+     },
+     {
+      "navn": "Kjersti Toppe",
+      "parti": "Sp"
+     }
+    ],
+    "henvisning": "Dokument 8:38 S (2026–2027)",
+    "status": "mottatt",
+    "utfall": "ukjent",
+    "utfall_tekst": null,
+    "sak_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200499"
+   },
+   {
+    "id": "200496",
+    "sesjon_fremmet": "2026-2027",
+    "behandlet_sesjon": null,
+    "tittel": "Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
+    "komite": null,
+    "emne": [],
+    "forslagstillere": [
+     {
+      "navn": "Bent-Joacim Bentzen",
+      "parti": "Sp"
+     },
+     {
+      "navn": "Bjørn Arild Gram",
+      "parti": "Sp"
+     },
+     {
+      "navn": "Erling Sande",
+      "parti": "Sp"
+     }
+    ],
+    "henvisning": "Dokument 8:35 S (2026–2027)",
+    "status": "mottatt",
+    "utfall": "ukjent",
+    "utfall_tekst": null,
+    "sak_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200496"
    }
   ],
   "saker": [],
@@ -289,248 +352,300 @@
  },
  "besvart": [
   {
-   "id": "129844",
+   "id": "129916",
    "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Innehar noen av de som er del av Luftfartstilsynets ledergruppe operativ kompetanse, hvorfor fant EASA avvik dersom Luftfartstilsynet har den kompetansen samferdselsministeren sa de hadde i sitt svar til meg i 2025, kan statsråden redegjøre for avvikene EASA påpeker, hva som forårsaket dem og hvordan hun har til hensikt å lukke dem?",
-   "fra": "Erlend Larsen (H)",
-   "til_minister_id": "SD",
-   "til": "samferdselsministeren",
-   "besvart_av": "Kamzy Gunaratnam",
+   "dato": "2026-11-04",
+   "tittel": "Vil helseministeren ta initiativ til å sikre at pasientar som har gjennomgått avansert immunterapi i utlandet, og som etterpå må gjennomføre vaksinasjonsprogrammet på nytt i Noreg, får dette dekka av det offentlege – uavhengig av at behandlinga er betalt privat og utført utanfor landet?",
+   "fra": "Helge André Njåstad (FrP)",
+   "til_minister_id": "HHD",
+   "til": "helse- og omsorgsministeren",
+   "besvart_av": "Jan Christian Vestre",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110729"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110809"
   },
   {
-   "id": "129922",
+   "id": "129912",
    "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Når vil Vestre Toten kommune få svar på sin henvendelse til departementet av 17.09.26 hvor statsråden inviteres til å besøke kommunen, en henvendelse som ble sendt bakgrunn av at statsråden i august avtalte med Arbeiderpartiets gruppeleder i Vestre Toten kommunestyre at han skulle besøke kommunen, og når kan Vestre Toten kommune forvente å få besøk av statsråden?",
-   "fra": "Finn Krokeide (FrP)",
-   "til_minister_id": "KMDI",
-   "til": "kommunal- og distriktsministeren",
-   "besvart_av": "Bjørnar Skjæran",
+   "dato": "2026-11-04",
+   "tittel": "Korleis vil statsråden ta vare på personar med alvorleg høyrselstap som treng cochleaimplantat, i den vidare satsinga på høyrselshelse i Noreg?",
+   "fra": "Anne Grethe Hauan (FrP)",
+   "til_minister_id": "HHD",
+   "til": "helse- og omsorgsministeren",
+   "besvart_av": "Jan Christian Vestre",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110814"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110796"
   },
   {
-   "id": "129920",
+   "id": "129895",
    "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Bør kommuner- og fylkeskommuner legge til grunn Norges Bank eller markedet sin renteprognose når de skal utarbeide budsjett og økonomiplaner, og hvilke økonomiske konsekvenser vil den eventuelle differansen mellom rentebanene ha for kommunesektoren for perioden 2027-2030?",
-   "fra": "Mudassar Kapur (H)",
-   "til_minister_id": "KMDI",
-   "til": "kommunal- og distriktsministeren",
-   "besvart_av": "Bjørnar Skjæran",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110812"
-  },
-  {
-   "id": "129908",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Meiner statsråden det er problematisk at offshorehelikoptertrafikken gjentekne gonger blir flytta frå Florø til Bergen, og kva konkret vil regjeringa gjere for å sikre at føresetnadane om Florø som helikopterbase for Gjøa blir følgd opp og ikkje uthola?",
-   "fra": "Grunde Almeland (V)",
-   "til_minister_id": "END",
-   "til": "energiministeren",
-   "besvart_av": "Terje Aasland",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110792"
-  },
-  {
-   "id": "129896",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Kan statsråden redegjøre for kostnadsutviklingen i fylkeskommunal kollektivtransport sammenlignet med kommunal deflator?",
+   "dato": "2026-11-03",
+   "tittel": "Kan statsråden gi en oversikt over hvilke bruer, på hvilke strekninger, hun referere til på side 84 i forslaget til statsbudsjett for Samferdselsdepartementet for 2027?",
    "fra": "Anne Kristine Linnestad (H)",
    "til_minister_id": "SD",
    "til": "samferdselsministeren",
    "besvart_av": "Kamzy Gunaratnam",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110783"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110782"
   },
   {
-   "id": "129890",
+   "id": "129941",
    "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Kan statsråden redegjøre for statens tidligere satsinger og særskilte tilskuddsordninger for etablering av ishaller, hvilke resultater disse satsingene ga, hvorfor eventuelle særskilte ordninger ble avviklet, og om regjeringen vil vurdere å gjeninnføre en ordning med ekstra tilskudd til bygging av ishaller i kommuner og byområder som i dag mangler slike anlegg?",
-   "fra": "Pål Morten Borgli (FrP)",
-   "til_minister_id": "KUKUD",
-   "til": "kultur- og likestillingsministeren",
-   "besvart_av": "Lubna Boby Jaffery",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110780"
-  },
-  {
-   "id": "129893",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Statens veileder for kommunene om datasentre fra 2023 sier at hyperskala‑anlegg gir «flere arbeidsplasser og tydelige ringvirkninger».\nUavhengig av arbeidet med stortingsmeldingen, vil statsråden allerede nå oppdatere veilederen, slik at kommunene får et grunnlag for å vurdere hvor mange faste arbeidsplasser et datasenter faktisk gir, der byggefase skilles fra driftsfase, direkte jobber fra ringvirkninger, og der det kommer fram hvilken type datasenter det er og hvem kundene er?",
-   "fra": "Bjørnar Moxnes (R)",
-   "til_minister_id": "DFD",
-   "til": "digitaliserings- og forvaltningsministeren",
-   "besvart_av": "Torgeir Micaelsen",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110779"
-  },
-  {
-   "id": "129854",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Nylig ble det kjent i VG at statens vegvesen ikke vil stille klimakrav til anskaffelse av varer fra bedrifter som er endel av kvotesystemet. \nEr dette retningslinjer som har kommet fra departementet via styringsdialogen eller på andre måter, eller er dette noe vegvesenet har innført helt på egen hånd, og i tilfelle det siste, hva gjør statsråden for å sikre at det stilles krav til utslippskutt fra varer som vegvesenet bruker fra kvotepliktige bedrifter?",
-   "fra": "Lars Haltbrekken (SV)",
-   "til_minister_id": "SD",
-   "til": "samferdselsministeren",
-   "besvart_av": "Kamzy Gunaratnam",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110802"
-  },
-  {
-   "id": "127648",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Vil statsråden ta initiativ til å få opp en infrastruktur for mottak av fanget CO₂ fra maritim sektor?",
-   "fra": "Lars Haltbrekken (SV)",
-   "til_minister_id": "NFD",
-   "til": "næringsministeren",
-   "besvart_av": "Terje Aasland",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110799"
-  },
-  {
-   "id": "129935",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-03",
-   "tittel": "Kan jeg be om en detaljert oversikt over hvordan de 20 av totalt 70 milliardene i militær støtte til Ukraina i 2026 som ikke gikk «uavkortet til internasjonale initiativ og kjøp fra ukrainsk industri» ble disponert, fordelt på anskaffelser fra norsk forsvarsindustri, samarbeidsprosjekter mellom norsk og ukrainsk forsvarsindustri, finansiering av øvingsvirksomhet i Norge og andre formål?",
-   "fra": "Peter Frølich (H)",
+   "dato": "2026-11-04",
+   "tittel": "Stortinget har lagt sterke føringar for Forsvarets anskaffing av 28 nye standardiserte sjøfartøy. Det er brei semje om at denne historisk store anskaffinga skal tilfalla norske verft og at fartøya skal byggast i Noreg. Men Forsvarsmateriell opnar no opp for at skroga kan byggast i utlandet.\nVil forsvarsministeren sørga for at dei standardiserte sjøfartøya blir bygde i Noreg?",
+   "fra": "Ingrid Fiskaa (SV)",
    "til_minister_id": "FD",
    "til": "forsvarsministeren",
    "besvart_av": "Tore Onshuus Sandvik",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110828"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110834"
   },
   {
-   "id": "129936",
+   "id": "129940",
    "type": "Skriftlig spørsmål",
    "dato": "2026-11-03",
-   "tittel": "Meiner justisministeren det er akseptabelt at eit drivstofftjuveri på 2500 liter i Gloppen vert henlagt av politiet i Bergen, utan nærare undersøking og utan at lokalt politi har fått beskjed?",
+   "tittel": "Kva vil statsråden gjere for å sikre at kommunane ikkje let vere å utnytte potensialet i det nye naudnettet, på grunn av høge brukskostnadar for kommunane?",
    "fra": "Erling Sande (Sp)",
-   "til_minister_id": "JUJUD",
-   "til": "justis- og beredskapsministeren",
-   "besvart_av": "Astri Aas-Hansen",
+   "til_minister_id": "DFD",
+   "til": "digitaliserings- og forvaltningsministeren",
+   "besvart_av": "Torgeir Micaelsen",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110825"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110833"
   },
   {
-   "id": "129930",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Bisto Norge i valgobservasjonen i Serbia og vil utenriksministeren ta opp med den serbiske ambassadøren hvordan serbisk diaspora i Norge ved fremtidige valg kan få reell mulighet til å avgi sin rettmessige stemme?",
-   "fra": "Sunniva Holmås Eidsvoll (SV)",
-   "til_minister_id": "UD",
-   "til": "utenriksministeren",
-   "besvart_av": "Espen Barth Eide",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110822"
-  },
-  {
-   "id": "129957",
+   "id": "129932",
    "type": "Skriftlig spørsmål",
    "dato": "2026-11-03",
-   "tittel": "Hvordan har regjeringen kommet frem til en fastpris på 270 000 kroner per tonn for kapasitetsøkning på eksisterende tillatelser og unntaksvekst i tildelingsrunden 2026, og vil statsråden gjøre beregningene og forutsetningene bak fastprisene i 2022, 2024 og 2026 offentlig tilgjengelige?",
-   "fra": "Bård Ludvig Thorheim (H)",
-   "til_minister_id": "NFDFH",
-   "til": "fiskeri- og havministeren",
-   "besvart_av": "Marianne Sivertsen Næss",
+   "tittel": "Hvordan vil statsråden følge opp denne informasjonen, herunder vurdere behovet for nærmere undersøkelser av konkurransen i drivstoffmarkedet og eventuelle regelverksendringer?",
+   "fra": "Trygve Slagsvold Vedum (Sp)",
+   "til_minister_id": "NFD",
+   "til": "næringsministeren",
+   "besvart_av": "Cecilie Myrseth",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110847"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110831"
   },
   {
-   "id": "129950",
+   "id": "129933",
    "type": "Skriftlig spørsmål",
    "dato": "2026-11-03",
-   "tittel": "I forslaget til statsbudsjett foreslår regjeringen å fjerne tilskuddet til Jenter og teknologi. Bevilgningen reduseres fra 3,1 millioner kroner til null. Samtidig arbeider regjeringen med å styrke rekrutteringen til realfag og teknologiutdanninger, og Jenter og teknologi er omtalt i regjeringens egen likestillingsstrategi som et tiltak som skal videreføres. \nHvordan begrunner statsråden forslaget om å avvikle støtten, og hvilke alternative tiltak vil regjeringen sette inn for å sikre økt rekruttering av jenter til disse fagene?",
-   "fra": "Jorunn Gleditsch Lossius (KrF)",
-   "til_minister_id": "KUNFORSK",
-   "til": "forsknings- og høyere utdanningsministeren",
-   "besvart_av": "Lubna Boby Jaffery",
-   "status": "besvart",
-   "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110842"
-  },
-  {
-   "id": "129949",
-   "type": "Skriftlig spørsmål",
-   "dato": "2026-11-03",
-   "tittel": "Vil statsråden bidra til at ledig kapasitet i anleggsbransjen benyttes til å fremskynde prosjekter som er planlagt bygd, og kan statsråden være enig i at det er bedre å ha fagfolk innen bygg og anlegg på anlegg med ordinær lønn fremfor ytelser fra NAV?",
-   "fra": "Pål Morten Borgli (FrP)",
+   "tittel": "22. september 2025 ble det slått dronealarm ved Gardermoen etter observasjon av droner nær flyplassen. Samtidig var droneteksjonssystemet fra kinesiske DJI nede i 19 timer. Det er ikke stadfestet tydelig fra verken Avinor eller sikkerhetsmyndighetene hva årsaken til denne nedetiden var, og om det hadde sammenheng med droneobservasjonene i samme tidsrom.\nKan statsråden redegjøre for om årsaken til nedetiden er avklart og hva årsaken var, og kan statsråden helt utelukke at det ikke var en sammenheng med droneobservasjonene?",
+   "fra": "Lars Lønberg Henriksen (MDG)",
    "til_minister_id": "SD",
    "til": "samferdselsministeren",
    "besvart_av": "Kamzy Gunaratnam",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110841"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110830"
   },
   {
-   "id": "129947",
+   "id": "129934",
    "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Hva gjør regjeringen for å sette kristenforfølgelse høyere på dagsorden i norsk utenrikspolitikk, og hvordan reagerer Utenriksdepartementet på de rapporterte angrepene mot kristne i Etiopia?",
-   "fra": "Joel Ystebø (KrF)",
-   "til_minister_id": "UD",
-   "til": "utenriksministeren",
-   "besvart_av": "Espen Barth Eide",
+   "dato": "2026-11-03",
+   "tittel": "Hvor mange registreringer om GNSS-forstyrrelser (jamming og spoofing) og andre forsøk på forstyrrelser som har rammet sivil luftfart i Øst-Finnmark har Luftfartstilsynet mottatt i henholdsvis 2024, 2025 og hittil i 2026, og hvor mange av disse hendelsene har eventuelt ført til avbrutte innflygninger, omdirigeringer eller kansellerte flygninger?",
+   "fra": "Siren Julianne Jensen (MDG)",
+   "til_minister_id": "SD",
+   "til": "samferdselsministeren",
+   "besvart_av": "Kamzy Gunaratnam",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110839"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110829"
   },
   {
-   "id": "129944",
+   "id": "129938",
    "type": "Skriftlig spørsmål",
-   "dato": "2026-11-02",
-   "tittel": "Dersom grunnskoletilskuddet skulle avvikles og midlene i stedet fordeles etter ordinære kriterier gjennom innbyggertilskuddet, hva ville den økonomiske virkningen vært for den enkelte kommune?",
-   "fra": "Mathilde Tybring-Gjedde (H)",
+   "dato": "2026-11-03",
+   "tittel": "Hvorfor foreslår regjeringen å bevilge penger til eierskapsregistrering uten å innføre generell tinglysingsplikt, når justiskomiteens flertall understreket at dette hastet ved behandlingen av stortingsmeldingen om økonomisk kriminalitet i 2024, og hvordan mener statsråden at den valgte løsningen oppfyller Stortingets anmodningsvedtak om obligatorisk registrering av eierskap i fast eiendom?",
+   "fra": "Rune Midtun (FrP)",
    "til_minister_id": "KMDI",
    "til": "kommunal- og distriktsministeren",
    "besvart_av": "Bjørnar Skjæran",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110837"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110827"
   },
   {
-   "id": "129942",
+   "id": "129960",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-04",
+   "tittel": "Vil statsråden prioritere midler til T-baneutbygging i Oslo, til blant annet utvidelse av T-banen til f. eks Volvatsvingen og Ensjøsvingen, og bevilge planleggingsmidler for å få i gang arbeidet med E6 Oslo Øst og E18 fra Lysaker til Aker brygge?",
+   "fra": "Aina Stenersen (FrP)",
+   "til_minister_id": "SD",
+   "til": "samferdselsministeren",
+   "besvart_av": "Kamzy Gunaratnam",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110849"
+  },
+  {
+   "id": "129956",
    "type": "Skriftlig spørsmål",
    "dato": "2026-11-03",
-   "tittel": "Ber om en oversikt over hva departementet legger til grunn for gebyrinntektene på kap. 3440.06 mtp. antall søknader per kategori i familieinnvandrings-, permanent oppholds-, og statsborgerskapssaker i 2027. Ber om at oversikten vises fordelt ut ifra oversikten om gebyrer på UDIs nettsider.\nKan det også bes om provenyanslag dersom man fjerner rabatt for barn, og deretter øker alle gebyrene med henholdsvis 25, 30 og 50 %?",
-   "fra": "Erlend Wiborg (FrP)",
+   "tittel": "Hva konkret vil statsråden gjøre for å få raskt kontroll på kortidsutleievirksomheten, som blant annet ble omtalt i E24 27. oktober?",
+   "fra": "Abid Raja (V)",
+   "til_minister_id": "KMDI",
+   "til": "kommunal- og distriktsministeren",
+   "besvart_av": "Bjørnar Skjæran",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110846"
+  },
+  {
+   "id": "129955",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-03",
+   "tittel": "Hvordan ser fremdriftsplanen for oppfølgingen av Stortingets vedtak 678 og 679 av 5. mai 2026 ut, med frister for utredning, høring og fremleggelse av lovforslag om regelstyrt momskompensasjon?",
+   "fra": "Mats Henriksen (FrP)",
+   "til_minister_id": "KUKUD",
+   "til": "kultur- og likestillingsministeren",
+   "besvart_av": "Lubna Boby Jaffery",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110845"
+  },
+  {
+   "id": "129954",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-03",
+   "tittel": "Hvilke grep vil statsråden ta for å sikre at pasienter som plasseres på Kongsvinger sykehus kan være trygge på at de ikke utsettes for smitterisiko som i dag, og vil statsråden sikre at sykehuset får en bedre standard enn i dag?",
+   "fra": "Tom Staahle (FrP)",
+   "til_minister_id": "HHD",
+   "til": "helse- og omsorgsministeren",
+   "besvart_av": "Jan Christian Vestre",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110844"
+  },
+  {
+   "id": "129953",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-03",
+   "tittel": "Vil statsråden sørge for at Direktoratet for medisinske produkter (DMP) snarest avklarer hvordan apotekfarmasøyter kan få adgang til å utlevere alternative hormonpreparater ved legemiddelmangel, herunder bytte mellom plaster, gel og/eller spray, når dette er faglig forsvarlig, og dersom dagens regelverk ikke åpner for dette, vil statsråden ta initiativ til nødvendige endringer slik at farmasøyter i apotek har tilstrekkelig handlingsrom til å utlevere alternative legemidler ved legemiddelmangel?",
+   "fra": "Margret Hagerup (H)",
+   "til_minister_id": "HHD",
+   "til": "helse- og omsorgsministeren",
+   "besvart_av": "Jan Christian Vestre",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110843"
+  },
+  {
+   "id": "129948",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-03",
+   "tittel": "Det er varslet en utreding av endringer i regelverket for fortrinnsrettede emisjoner i børsnoterte selskaper. \nJeg lurer på status og fremdrift i denne viktige saken?",
+   "fra": "Pål Morten Borgli (FrP)",
+   "til_minister_id": "FIN",
+   "til": "finansministeren",
+   "besvart_av": "Jens Stoltenberg",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110840"
+  },
+  {
+   "id": "129945",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-04",
+   "tittel": "Vil statsråden, slik den svenske regjeringen nå gjør, utrede hvilket rettslig grunnlag Norge har for å nekte russiske og belarusiske utøvere visum til verdenscuprennene i Norge denne vinteren, og gi Skiforbundet og arrangørene en avklaring før konkurransestart?",
+   "fra": "Guri Melby (V)",
    "til_minister_id": "JUJUD",
    "til": "justis- og beredskapsministeren",
    "besvart_av": "Astri Aas-Hansen",
    "status": "besvart",
    "emne": [],
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110835"
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110838"
+  },
+  {
+   "id": "129943",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-03",
+   "tittel": "Det norske demokratiet er avhengig av at folk har tillit til meningsmålinger. Svekkes denne tilliten, kan vi risikere at flere bestrider valgresultater. Norske opinionsundersøkelser har lenge benyttet 8-sifrede mobilnumre, men denne muligheten ble fjernet med et pennestrøk av Nasjonal kommunikasjonsmyndighet.\nEr dette i tråd med regjeringens politikk på området, eller vil regjeringen endre nummerforskriften slik at opinionsundersøkelser fortsatt kan benytte 8-sifrede mobilnumre?",
+   "fra": "Helge André Njåstad (FrP)",
+   "til_minister_id": "DFD",
+   "til": "digitaliserings- og forvaltningsministeren",
+   "besvart_av": "Torgeir Micaelsen",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110836"
+  },
+  {
+   "id": "129961",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-04",
+   "tittel": "På hvilken måte vil statsråden sikre at  Stortingets føring for flerbruksfartøyene blir fulgt opp?",
+   "fra": "Bengt Fasteraune (Sp)",
+   "til_minister_id": "FD",
+   "til": "forsvarsministeren",
+   "besvart_av": "Tore Onshuus Sandvik",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110850"
+  },
+  {
+   "id": "130003",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-04",
+   "tittel": "Kan statsråden redegjøre for hvilke økte skatteinntekter og reduserte pensjonsutbetalinger regjeringen anslår at en avvikling av samordningsfella vil medføre, og hva netto budsjettvirkning forventes å være når disse effektene tas med i beregningen?",
+   "fra": "Bjørn-Kristian Svendsrud (FrP)",
+   "til_minister_id": "ARI",
+   "til": "arbeids- og inkluderingsministeren",
+   "besvart_av": "Kjersti Stenseng",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110897"
+  },
+  {
+   "id": "130007",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-03",
+   "tittel": "Hva er provenyvirkningen, bokført og påløpt, av å avvikle forsøksordningen med arbeidsfradrag for unge fra 1. januar 2027?",
+   "fra": "Martin Virkesdal Jonsterhaug (FrP)",
+   "til_minister_id": "FIN",
+   "til": "finansministeren",
+   "besvart_av": "Jens Stoltenberg",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110905"
+  },
+  {
+   "id": "130026",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-04",
+   "tittel": "En generell, konkurransebasert årlig tilskuddsordning for kriminalitetsforebygging er ikke det samme som å sikre et nasjonalt tilbud eller forutsigbar finansiering av et avhopperprogram. Likevel mener regjeringen og justisdepartementet at stortingsvedtak 793 er fulgt opp.\nHvordan oppfyller statsråden Stortingets vedtak om forutsigbarhet når det gis årlig bevilgning mens et avhopperprogram pågår i 18 måneder, og hva vil skje om tilbydere av avhopperprogram ikke kvalifiserer til tilskudd for 2027?",
+   "fra": "Anette Carnarius Elseth (FrP)",
+   "til_minister_id": "JUJUD",
+   "til": "justis- og beredskapsministeren",
+   "besvart_av": "Astri Aas-Hansen",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110921"
+  },
+  {
+   "id": "130014",
+   "type": "Skriftlig spørsmål",
+   "dato": "2026-11-04",
+   "tittel": "Kan justis- og beredskapsministeren redegjøre for statusen på arbeidet med NOU 2025: 6 om samboerlov og om når regjeringen vil fremme et lovforslag for Stortinget?",
+   "fra": "Grunde Almeland (V)",
+   "til_minister_id": "JUJUD",
+   "til": "justis- og beredskapsministeren",
+   "besvart_av": "Astri Aas-Hansen",
+   "status": "besvart",
+   "emne": [],
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=110909"
   }
  ],
  "innstilling": [],
  "antall": {
-  "sporsmal": 16,
+  "sporsmal": 17,
   "anmodningsvedtak": 0,
-  "representantforslag": 2,
+  "representantforslag": 4,
   "saker": 0,
   "forslag": 0,
-  "besvart": 18,
+  "besvart": 22,
   "innstilling": 0
  }
 }
