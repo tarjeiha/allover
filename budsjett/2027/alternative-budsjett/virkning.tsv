@@ -1,0 +1,22 @@
+gruppe	kap	post	type	kilde_mill	kilde	merknad
+sv-kvote	670	1	utgift	110,6	svar/2027/stb/sv-204	
+sv-kvote	671	60	utgift	638,3	svar/2027/stb/sv-204	
+sv-kvote	671	61	utgift	71,3	svar/2027/stb/sv-204	
+sv-kvote	672	60	utgift	65,2	svar/2027/stb/sv-204	
+sv-norsk-mottak	672	60	utgift	18,2	svar/2027/stb/sv-32	
+sv-norsk-mottak	3672	1	inntekt	17,4	svar/2027/stb/sv-32	ODA-godkjente utgifter som føres som inntekt.
+sv-grunn-hjelp	2661	70	utgift	46,8	prop/2027/kap-2661	
+sv-grunn-hjelp	2661	71	utgift	62	prop/2027/kap-2661	
+sv-sykepenger-ufore	2650	70	utgift	38	prop/2027/kap-2650	Reversering av innsparingen i Prop. 1 S.
+sv-sykepenger-ufore	605	1	administrativ	-19	prop/2027/kap-0605	Reversering av økningen i Prop. 1 S.
+sp-vta	634	77	utgift	46	svar/2027/stb/sp-231	
+sp-vta	605	1	administrativ	11,5	svar/2027/stb/sp-231	
+sp-vta-sykepenger	2650	70	utgift	3,8	svar/2027/stb/sp-230	Innføring 1. april 2027.
+sp-vta-sykepenger	2650	75	utgift	0,2	svar/2027/stb/sp-230	Innføring 1. april 2027.
+sp-eos	2541	70	utgift	-29	svar/2026/stb/sp-308	Innføring 1.1.2026.
+sp-eos	2620		utgift	-1,9	svar/2026/stb/sp-308	Innføring 1.1.2026. Posten er ikke oppgitt.
+sp-eos	2650	70,71,75	utgift	-88	svar/2026/stb/sp-308	Innføring 1.1.2026.
+sp-eos	2650	72	utgift	-1	svar/2026/stb/sp-308	Innføring 1.1.2026.
+sp-eos	2651	70	utgift	-11	svar/2026/stb/sp-308	Innføring 1.1.2026.
+sp-eos	2661	70	utgift	-2	svar/2026/stb/sp-308	Innføring 1.1.2026.
+sp-eos	2661	71	utgift	-4,5	svar/2026/stb/sp-308	Innføring 1.1.2026.

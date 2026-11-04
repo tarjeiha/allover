@@ -2,16 +2,23 @@
 
 Bruk: python3 verktoy/alternative_budsjett.py [ÅR]   (standard: 2027)
 
-Leser budsjett/ÅR/alternative-budsjett/tiltak.tsv (partienes forslag) og kobling.tsv (håndført,
-én rad per forslag) og lager kontroll.tsv i samme mappe. Kontroll.tsv har én rad per forslag på
+Leser budsjett/ÅR/alternative-budsjett/tiltak.tsv (partienes forslag), kobling.tsv (håndført,
+én rad per forslag) og virkning.tsv (håndført, kildens fordeling på kap./post per gruppe) og lager
+kontroll.tsv i samme mappe. Kontroll.tsv har én rad per forslag på
 AIDs område, med postnavn og beløp fra Prop. 1 S (gul-bok-bevilgninger.tsv), saldert budsjett året
 før (budsjett/ÅR-1/stortinget/vedtak.tsv), kildene fra kobling.tsv med tittel og lenke, og avviket
 mellom partiets beløp og beløpet i kilden.
 
 kobling.tsv har nøkkelen parti, kap, post og tiltak, skrevet nøyaktig som i tiltak.tsv. Feltene er:
-riktig_kap_post (kap.post når partiets angivelse ikke finnes i Prop. 1 S), kilde (semikolondelt:
+gruppe (samler partiets rader for samme tiltak, og kobler til virkning.tsv), riktig_kap_post (kap.post når partiets angivelse ikke finnes i Prop. 1 S), kilde (semikolondelt:
 svar/ÅR/RUNDE/fil uten .md, prop/ÅR/kap-NNNN eller saldert/ÅR/kap.post), treff, kilde_mill
-(beløpet i kilden, med samme fortegn som partiets endring), status (se STATUSER) og merknad.
+(beløpet i kilden, med samme fortegn som partiets endring), adm_kost (det kilden sier om
+administrative kostnader og utviklingskostnader), andre_dep (virkninger på andre departementers
+kapitler), status (se STATUSER) og merknad.
+
+virkning.tsv har én rad per gruppe og kap./post på AIDs område, slik kilden fordeler beløpet:
+gruppe, kap, post, type (utgift, administrativ eller inntekt), kilde_mill, kilde og merknad.
+Summen for gruppen regnes av utgift og administrativ. Inntekter vises bare i poster_kun_i_kilde.
 Feltene skal bare inneholde fakta: tall, kap./post og forutsetninger, ikke vurderinger av forslagene.
 """
 import csv
@@ -23,9 +30,12 @@ ROT = Path(__file__).resolve().parent.parent
 BUDSJETT = ROT / "budsjett"
 STATUSER = {"samsvarer", "avviker", "rammebeløp", "ikke anslått i svar", "delvis kilde", "ingen kilde"}
 NOKKEL = ("parti", "kap", "post", "tiltak")
+TYPER = {"utgift", "administrativ", "inntekt"}
 UT = ["parti", "side", "kap", "post", "tiltak", "endring_mill", "palopt_mill", "gruppe",
       "riktig_kap_post", "postnavn", "stikkord", "prop_mill", "saldert_mill",
-      "kilde", "treff", "kilde_mill", "avvik_mill", "status", "merknad", "kildetitler", "lenker"]
+      "kilde", "treff", "kilde_mill", "avvik_mill", "status", "merknad",
+      "tiltak_gruppe", "gruppe_endring_mill", "gruppe_kilde_mill", "gruppe_avvik_mill", "poster_kun_i_kilde",
+      "adm_kost", "andre_dep", "kildetitler", "lenker"]
 
 
 def les(f):
@@ -54,6 +64,38 @@ def poster(kap, post, riktig):
         return []
     deler = [p.strip() for p in post.split(",")]
     return [(int(kap), int(p)) for p in deler] if all(p.isdigit() for p in deler) else []
+
+
+def grupper(ut, virkning, feil):
+    """Fyller gruppefeltene: partiets sum, kildens sum og poster som bare står i kilden."""
+    medlemmer = {}
+    for rad in ut:
+        if rad["tiltak_gruppe"]:
+            medlemmer.setdefault(rad["tiltak_gruppe"], []).append(rad)
+    kilde = {}
+    for v in virkning:
+        if v["gruppe"] not in medlemmer:
+            feil.append(f"virkning.tsv: gruppen {v['gruppe']} finnes ikke i kobling.tsv")
+        if v["type"] not in TYPER:
+            feil.append(f"virkning.tsv: ukjent type «{v['type']}» i gruppen {v['gruppe']}")
+        kilde.setdefault(v["gruppe"], []).append(v)
+    for g, rader in medlemmer.items():
+        partiets = {(k, p) for r in rader for k, p in poster(r["kap"], r["post"], r["riktig_kap_post"])}
+        sum_parti = sum(tall(r["endring_mill"]) or 0 for r in rader)
+        vv = kilde.get(g, [])
+        sum_kilde = sum(tall(v["kilde_mill"]) or 0 for v in vv if v["type"] != "inntekt")
+        bare = []
+        for v in vv:
+            pp = poster(v["kap"], v["post"], "") or [(int(v["kap"]), None)]
+            if not any(p in partiets or (p[1] is None and any(k == p[0] for k, _ in partiets)) for p in pp):
+                bare.append(f"{v['kap']}.{v['post'] or '?'} {v['type']} {v['kilde_mill']}")
+        uten_post = any(not poster(r["kap"], r["post"], r["riktig_kap_post"]) for r in rader)
+        for r in rader:
+            r["gruppe_endring_mill"] = norsk(sum_parti)
+            if vv:
+                r["gruppe_kilde_mill"] = norsk(sum_kilde)
+                r["gruppe_avvik_mill"] = norsk(sum_parti - sum_kilde)
+                r["poster_kun_i_kilde"] = "partiet oppgir ikke kap./post" if uten_post else "; ".join(bare)
 
 
 def main():
@@ -90,7 +132,8 @@ def main():
         kb = kobling.get(k, {})
         uten += not kb
         rad = {n: t.get(n, "") for n in UT}
-        for n in ("riktig_kap_post", "kilde", "treff", "kilde_mill", "status", "merknad"):
+        rad["tiltak_gruppe"] = kb.get("gruppe", "")
+        for n in ("riktig_kap_post", "kilde", "treff", "kilde_mill", "adm_kost", "andre_dep", "status", "merknad"):
             rad[n] = kb.get(n, "")
         if rad["status"] and rad["status"] not in STATUSER:
             feil.append(f"kobling.tsv: ukjent status «{rad['status']}» for {t['parti']}: {t['tiltak']}")
@@ -129,6 +172,8 @@ def main():
         if rad["status"] in ("samsvarer", "avviker") and e is not None and kmill is not None:
             rad["avvik_mill"] = norsk(e - kmill)
         ut.append(rad)
+
+    grupper(ut, les(mappe / "virkning.tsv") if (mappe / "virkning.tsv").exists() else [], feil)
 
     for f in feil:
         print(f, file=sys.stderr)
