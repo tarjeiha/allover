@@ -8,9 +8,9 @@ Ved arbeid, bosted eller opphold i et annet EØS-land: les § 4-1 a og deretter 
 
 ## Rundskriv R04-00
 
-- Rundskrivet i `rundskriv/ftrl/kap-4/` er hentet 7. september 2026 og var da sist endret samme dag. Vedlegg V2-04-00 om vurdering av permitteringsårsak er med.
+- Rundskrivet ligger i `rundskriv/rundskriv-r04-00/` og hentes hver uke. Vedleggene til rundskrivet, blant annet V2-04-00 om vurdering av permitteringsårsak, er ikke med.
 - Si fra når rundskrivet går lenger enn lov- og forskriftsteksten gir grunnlag for.
-- Rundskrivets generelle del om forskutterte lønnsgarantimidler og dagpenger ved konkurs er tatt ut, og vedlegg 1 om prioritetsrekkefølgen er ikke hentet inn. Lønnsgarantiordningen står i lønnsgarantiloven, se `regelverk/lonnsgarantiloven/VEIVISER.md`.
+- Lønnsgarantiordningen står i lønnsgarantiloven, se `regelverk/lonnsgarantiloven/VEIVISER.md`.
 
 ## Ikke i basen
 

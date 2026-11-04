@@ -22,6 +22,7 @@ Lovdata publiserer Navs rundskriv åpent. Skriptet henter én side om gangen med
 """
 
 import datetime
+import hashlib
 import json
 import re
 import shutil
@@ -51,6 +52,8 @@ HOVEDNR = {**{n: "regelverk/folketrygdloven" for n in range(1, 27)},
            67: "regelverk/lonnsgarantiloven", 76: "regelverk/arbeidsmarkedsloven",
            80: "regelverk/samordningsloven", 83: "regelverk/personopplysningsloven"}
 EGEN_JOBB = {"r45-00"}
+# Rundskriv med et hovednummer fra listen over, men som gjelder en lov som ikke er i basen.
+UNNTAK = {"r15-12-for-2258"}  # forskrift om oppfostringsbidrag etter barnevernsloven
 
 # Filer og mapper som ble hentet for hånd før denne jobben fantes (mønstre relativt til roten).
 # De slettes når rundskrivet er lagt inn på nytt. Feiler innleggingen, legges de tilbake.
@@ -96,8 +99,8 @@ def hent(url: str):
 
 
 def er_rundskriv(html: str) -> bool:
-    m = re.search(r"<title>([^<]*)", html)
-    return bool(m) and bool(re.search(r"rundskriv|kommentar", m.group(1), re.I))
+    """En dokumentside hos Lovdata har innholdet i ToContent. Søkesider og feilsider har det ikke."""
+    return 'id="ToContent"' in html and bool(re.search(r"<title>[^<]+", html))
 
 
 def rens(html: str) -> str:
@@ -160,7 +163,7 @@ def hovednr(kode: str):
 
 
 def lovmappe(kode: str):
-    if kode in EGEN_JOBB or not kode.startswith("r"):
+    if kode in EGEN_JOBB or kode in UNNTAK or not kode.startswith("r"):
         return None
     return HOVEDNR.get(hovednr(kode))
 
@@ -180,6 +183,8 @@ def finn_koder() -> set:
 
 
 def sist_endret(html: str) -> str:
+    """«Sist endret» fra metatabellen. Mangler den, brukes en sjekksum av teksten, så endringer
+    likevel oppdages."""
     s = BeautifulSoup(html, "lxml")
     for rad in s.find_all("tr"):
         th, td = rad.find("th"), rad.find("td")
@@ -187,7 +192,9 @@ def sist_endret(html: str) -> str:
             m = re.search(r"\d{4}-\d{2}-\d{2}", td.get_text(" ", strip=True))
             if m:
                 return m.group(0)
-    return ""
+    innhold = s.find(id="ToContent")
+    tekst = re.sub(r"\s+", " ", innhold.get_text(" ") if innhold else "")
+    return "sjekksum:" + hashlib.sha256(tekst.encode("utf-8")).hexdigest()[:12]
 
 
 def les_status() -> dict:
@@ -257,13 +264,21 @@ def main() -> int:
             continue
         status[kode] = {"lov": Path(lovmappe(kode)).name, "sist_endret": dato_lovdata, "hentet": dato, "mappe": mappe}
         tittel = re.sub(r"\s*-\s*Lovdata$", "", re.search(r"<title>([^<]*)", html).group(1).strip())
-        (endret if før else nye).append(f"{kode.upper()} – {tittel} (sist endret {dato_lovdata or 'ukjent'}) -> {mappe}/")
+        (endret if før else nye).append(f"{kode.upper()} – {tittel} (sist endret {dato_lovdata if not dato_lovdata.startswith('sjekksum') else 'ikke oppgitt'}) -> {mappe}/")
         print(f"{kode}: lagt inn i {mappe}/")
         skriv_status(status)
     skriv_status(status)
-    if nye or endret or stoppet:
+    # Rundskriv som ligger i basen, men som Lovdata ikke lenger lenker til. De slettes ikke automatisk.
+    borte = []
+    if not valgte:
+        for d in sorted(ROT.glob("regelverk/*/rundskriv/rundskriv-r*")):
+            kode = d.name.removeprefix("rundskriv-")
+            if kode not in koder and lovmappe(kode):
+                borte.append(f"{kode.upper()} – {d.relative_to(ROT).as_posix()}/")
+    if nye or endret or stoppet or borte:
         linjer = [f"Navs rundskriv fra Lovdata: {len(nye)} nye, {len(endret)} oppdatert, {len(stoppet)} stoppet", ""]
-        for navn, liste in (("Nye", nye), ("Oppdatert", endret), ("Stoppet", stoppet)):
+        for navn, liste in (("Nye", nye), ("Oppdatert", endret), ("Stoppet", stoppet),
+                            ("Ligger i basen, men finnes ikke lenger hos Lovdata (ikke slettet)", borte)):
             if liste:
                 linjer += [f"{navn}:", *[f"- {x}" for x in liste], ""]
         RAPPORT.write_text("\n".join(linjer), encoding="utf-8")
