@@ -18,6 +18,7 @@ Byggingen skjer nå her i repoet. Skillene er tynne pekere som henter `CLAUDE.md
 | `r45.py` | Henter Navs EØS-rundskriv R45-00 fra Lovdata og deler det opp under trygdeforordningen (`regelverk/eu/forordning-883-2004/rundskriv/r45-00/`), bare når «Sist endret» er ny. Innboksen passer ikke for R45, som er delt i kapitler og punkter, ikke paragrafer | `r45-hent.yml`, hver natt |
 | `avtale.py` | Deler opp hovedtariffavtalen fra Word | innboksen |
 | `budsjett.py` | Deler opp Prop. 1 S, Gul bok og Nasjonalbudsjettet | manuelt |
+| `alternative_budsjett.py` | Kobler partienes alternative budsjetter mot Prop. 1 S, saldert budsjett og svar på budsjettspørsmål (`kontroll.tsv`) | manuelt, etter endring i `tiltak.tsv` eller `kobling.tsv` |
 | `sjekk_tekst.py` | Kontrollerer håndskrevne veivisere og merknader | `sjekk-tekst.yml` |
 
 Hvert skript forklarer bruken øverst i filen. Lov- og forskriftstekst redigeres aldri for hånd. Det som står mellom `AUTO-START` og `AUTO-SLUTT`, skrives over ved hvert bygg.

@@ -80,6 +80,8 @@ Opposisjonspartiene legger fram egne alternative statsbudsjetter i november, fø
 |---|---|
 | `tiltak.tsv` | Ett tiltak per rad: parti, side i partiets dokument, departement, kapittel, post, tiltak og endring (`endring_mill`, bokført). `palopt_mill` er fylt ut bare der partiet oppgir påløpt beløp. `gruppe` er partiets egen inndeling (satsinger, innsparinger, inndekning, 90-poster), og `rammeomrade` er SVs inndeling. Søk på `kap` for å se hva partiene foreslår på et kapittel, eller i `tiltak` for ord som «AAP» eller «Nav». |
 | `skatter-og-avgifter.tsv` | Skatte- og avgiftsforslagene, med bokført og påløpt beløp. Positive tall er skjerpelser, negative tall er lettelser. |
+| `kobling.tsv` | Håndført, én rad per forslag på AIDs område. Kobler forslaget til kildene som kan kontrollere beløpet: svar på budsjettspørsmål (fra 2027 eller tidligere år), Prop. 1 S eller saldert budsjett. Feltene er `riktig_kap_post` (når partiets kap./post ikke finnes i Prop. 1 S), `kilde`, `treff` (eget parti eller annet parti, og året), `kilde_mill` (beløpet i kilden, med samme fortegn som partiets endring), `status` og `merknad`. |
+| `kontroll.tsv` | Lages av `verktoy/alternative_budsjett.py` fra `tiltak.tsv` og `kobling.tsv`. Har i tillegg postnavn, stikkord, regjeringens forslag (`prop_mill`) og saldert budsjett året før (`saldert_mill`), begge i millioner kroner, tittel og lenke til svarene, og `avvik_mill` (partiets endring minus `kilde_mill`). Start her for å se hva forslagene gjelder og om beløpene stemmer med kildene. |
 
 Feller:
 
@@ -89,6 +91,9 @@ Feller:
 - **Beløp som gjelder flere tiltak.** I SVs skattetabell står beløpet for formuesskatt og for inntektsskatt (trinnskatt, utbytte og frikort) bare på den siste linjen i blokken. Se `merknad`.
 - **Senterpartiets tabell for kultur** har feil overskrift i dokumentet (Klima- og miljødepartementet). Den er lagt inn som Kultur- og likestillingsdepartementet (KUD).
 - **SV skriver «statsbudsjett 2026» i innledningen til tabellene.** Tabellene gjelder forslaget for 2027.
+- **`status` i `kobling.tsv` beskriver bare forholdet mellom partiets beløp og kilden:** `samsvarer` (beløpet er det samme som i kilden, avrundet), `avviker` (kilden gir et annet beløp for samme tiltak, se `merknad` for forutsetningene), `rammebeløp` (partiet setter selv beløpet, og det er ikke noe regnestykke å kontrollere), `ikke anslått i svar` (svaret sier at det ikke kan anslås), `delvis kilde` (kilden gir relevante tall, men ikke for det samme tiltaket) og `ingen kilde`. Feltene er fakta om tall, kap./post og forutsetninger. De er ikke departementets vurdering av forslagene, og skal ikke omtales slik.
+- **`avviker` har ofte en forklaring i forutsetningene,** for eksempel innføringsdato (helår eller fra 1. april), om både nye og gamle tilfeller er med, eller om ODA-godkjente inntekter er trukket fra. Les `merknad` før avviket brukes.
+- **Svar fra tidligere år** (`treff` med et annet år enn budsjettåret) er ikke oppdatert til nye anslag og ny G.
 
 <!-- AUTO-START budsjettår: genereres av verktoy/budsjett_innboks.py, ikke rediger for hånd -->
 ## Budsjettår i basen
