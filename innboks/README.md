@@ -13,9 +13,11 @@ Du trenger ikke velge lov. Jobben finner loven ut fra teksten.
 ## Hva som skjer
 
 - **Loven** velges ut fra hvilken lov i basen teksten viser tydeligst til. NAV-rundskriv med nummer som R08-00 hører til folketrygdloven. Vil du bestemme selv, la filnavnet starte med lovmappen, for eksempel `arbeidsmiljoloven-rundskriv-om-innleie.pdf`.
-- **Paragrafer:** Har rundskrivet overskrifter som «Til § 8-4» eller «§ 8-4. Tittel», deles det i én fil per paragraf. Ellers blir det én fil.
-- **Resultatet** havner i `regelverk/<lov>/rundskriv/<filnavn>/`, med en `oversikt.md` og originalfilen i `original/`. Rundskrivet kan søkes opp i `indeks.tsv` med en gang. Veiviseren for loven viser det fra neste nattlige bygg.
-- **Ny versjon:** Legg inn en fil med samme navn, så erstattes den gamle teksten.
+- **Forskrifter:** Står navnet på en forskrift som ligger i basen, i tittelen på rundskrivet (som i Navs «Utfyllende regler - Forskrift om tilskudd til ekspertbistand»), er det et rundskriv til forskriften. Det legges da sammen med de andre kommentarene til forskrifter under loven. Paragrafnumrene gjelder forskriften, ikke loven.
+- **Paragrafer:** Har rundskrivet overskrifter som «Til § 8-4», «§ 8-4. Tittel» eller «Forskrift om X § 3 skal forstås slik», deles det i én fil per paragraf. Ellers blir det én fil. En innholdsfortegnelse fra Word tas bort.
+- **Tittel:** Er filen lastet ned fra Lovdata, brukes «Sammendrag» øverst som tittel, med dokumentnummeret.
+- **Resultatet** havner i `regelverk/<lov>/rundskriv/<filnavn>/`, eller i `regelverk/<lov>/rundskriv/forskrifter/<forskrift>/` for rundskriv til en forskrift, med en `oversikt.md` og originalfilen i `original/`. Rundskrivet kan søkes opp i `indeks.tsv` med en gang. Veiviseren for loven viser det fra neste nattlige bygg.
+- **Ny versjon:** Legg inn en fil med samme navn, så erstattes den gamle teksten. For rundskriv til en forskrift erstattes teksten uansett filnavn.
 
 ## Når noe stopper
 

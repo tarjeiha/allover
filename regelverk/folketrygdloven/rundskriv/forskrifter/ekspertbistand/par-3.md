@@ -1,10 +1,17 @@
 ---
-tittel: "Til § 3 Innhold"
-forskrift: "Forskrift om tilskudd til ekspertbistand (ftrl § 8-7 a)"
-kilde: "NAV rundskriv R08-07A-FOR, sist endret 06.10.2026, hentet 04.11.2026"
+rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+lov: "Folketrygdloven"
+forskrift: "Forskrift om tilskudd til ekspertbistand"
+forskrift_id: "FOR-2019-08-29-1105"
+kilde: "original/nav_rundskriv_r08-07a-for.docx"
+lagt_inn: "2026-11-04"
+paragraf: "§ 3"
+gjelder: "forskrift"
 ---
 
-# Til § 3 Innhold
+# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR) – § 3
+
+## 4. FORSKRIFT OM TILSKUDD TIL EKSPERTBISTAND § 3 SKAL FORSTÅS SLIK
 
 Forskrift om tilskudd til ekspertbistand § 3 handler om innholdet i ekspertbistanden, herunder ekspertens rolle og oppgaver, ekspertens rapport, samt partenes fortrolighetsplikt.
 
@@ -70,9 +77,9 @@ Eksperten kan blant annet:
 
 Det går frem av forskriften at opplysninger som eksperten, arbeidsgiver, arbeidstaker og Nav blir kjent med i forbindelse med ekspertbistanden, skal behandles fortrolig. Plikten om fortrolighet gjelder også for opplysninger som ikke er omfattet av lovbestemt taushetsplikt. Plikten til fortrolighet er varig og gjelder uten tidsbegrensning. Plikten til fortrolighet gjelder også etter at ekspertbistanden er avsluttet.
 
-## 4.1 Hvorfor forskrift om tilskudd til ekspertbistand § 3 forstås slik
+### 4.1 Hvorfor forskrift om tilskudd til ekspertbistand § 3 forstås slik
 
-### 4.1.1 Krav til ekspertens utdanning og kompetanse
+#### 4.1.1 Krav til ekspertens utdanning og kompetanse
 
 Ekspertens kompetanse kan variere ut fra arbeidsgiverens og arbeidstakerens konkrete situasjon. Det er arbeidsgiverens og arbeidstakerens behov i den enkelte sak som skal være utgangspunktet for hva slags kompetanse eksperten må inneha. Eksperten skal tilby kartlegging av muligheter og begrensninger knyttet til arbeidsforholdet, herunder kartlegge forholdet mellom arbeidstakerens helse og funksjonsevne, arbeidsoppgavene og arbeidsplassens omgivelser. Formålet er å identifisere barrierer for arbeid og foreslå tiltak som kan redusere eller fjerne disse. Eksperten skal gi løsningsrettet bistand for å finne frem til aktuelle arbeidsoppgaver og hensiktsmessige tiltak på arbeidsplassen.
 
@@ -84,7 +91,7 @@ Kompetanse basert på interne sertifiseringer eller kommersielle kurs, uten offe
 
 Kravet om offentlig godkjent utdanning følger av NAVs ansvar for å forvalte tilskuddsordningen på en effektiv og forsvarlig måte. Som forvalter av statlige tilskudd må NAV sikre at offentlige midler benyttes i samsvar med formålet med ordningen, og at det stilles krav som bidrar til tilstrekkelig kvalitet og etterprøvbarhet i de tjenestene som finansieres gjennom tilskuddet. Det er ikke et krav at eksperten har lovregulert yrkesautorisasjon eller HPR-nummer, så lenge vedkommende har relevant formell kompetanse for den aktuelle problemstillingen.
 
-### 4.1.2 Krav til ekspertens nøytralitet og uavhengighet
+#### 4.1.2 Krav til ekspertens nøytralitet og uavhengighet
 
 Formålet med ordningen er å gi nøytral og faglig bistand i sykefraværssaker, og valg av ekspert skal baseres på arbeidstakerens behov i den konkrete sykefraværssaken. Dette innebærer at valget av ekspert må være individuelt begrunnet, og ikke styres av arbeidsgivers generelle avtaler eller kommersielle bindinger.
 
@@ -112,23 +119,23 @@ Når det gjelder bedriftshelsetjeneste, kan kostnader til bedriftshelsetjeneste 
 
 Før det innvilges ekspertbistand, må Nav ha vurdert om eksperten oppfyller overnevnte krav. Arbeidsgiveren må om nødvendig dokumentere dette. Nav skal også ha vurdert om innholdet i ekspertbistanden faller inn under ordningen.
 
-### 4.1.3 Mer om innholdet i ekspertbistanden
+#### 4.1.3 Mer om innholdet i ekspertbistanden
 
 § 3 første ledd andre setning sier noe om hva innholdet i ekspertbistanden kan være. Oversikten er ikke uttømmende, og det er heller ikke noe krav om at ekspertbistanden skal inneholde alt som er nevnt.
 
-#### Foreslå tiltak for tilbakeføring til samme arbeid eller til annet arbeid hos samme arbeidsgiver eller annen arbeidsgiver
+##### Foreslå tiltak for tilbakeføring til samme arbeid eller til annet arbeid hos samme arbeidsgiver eller annen arbeidsgiver
 
 Eksperten skal først og fremst foreslå tiltak som kan hjelpe arbeidstakeren i å utføre sitt arbeid, endrede arbeidsoppgaver, eller utføre annet arbeid for den samme arbeidsgiveren. Alle muligheter hos nåværende arbeidsgiver skal være utprøvd eller vurdert, jfr. arbeidsgivers tilretteleggingsplikt etter arbeidsmiljøloven (aml.) § 4-6. Arbeidsgiver har ingen plikt til å opprette en ny stilling, men utgangspunktet er at tilretteleggingsplikten er vidtgående. Et mulig utfall av bruk av ekspertbistand kan likevel bli at arbeidstakeren får råd om å finne annet arbeid hos en annen arbeidsgiver.
 
-#### Bistå arbeidstaker og arbeidsgiver i en uhensiktsmessig arbeidssituasjon som kan medføre sykefravær, med å se nye muligheter
+##### Bistå arbeidstaker og arbeidsgiver i en uhensiktsmessig arbeidssituasjon som kan medføre sykefravær, med å se nye muligheter
 
 Bistanden kan rette seg mot både arbeidstakeren og arbeidsgiveren som part i en enkelt sak, og relasjonen mellom disse.
 
-#### Arbeidsplassvurdering
+##### Arbeidsplassvurdering
 
 En arbeidsplassvurdering kan inngå i ordningen med ekspertbistand når det er behov for å kartlegge forhold på arbeidsplassen som kan bidra til sykefravær eller hindre tilbakeføring til arbeid. Vurderingen kan gjennomføres av en ekspert med relevant kompetanse for den aktuelle problemstillingen. Dette kan blant annet omfatte ergonomiske, organisatoriske, psykososiale eller fysiske arbeidsforhold.
 
-#### Bistå i saker hvor det kan ligge konflikt eller opplevelse av konflikt til grunn
+##### Bistå i saker hvor det kan ligge konflikt eller opplevelse av konflikt til grunn
 
 Der arbeidsplassen har rutiner for håndtering av konflikter, bør arbeidstaker og arbeidsgiver som utgangspunkt ha forsøkt å benytte disse før ekspertbistand vurderes. Samtidig må det tas høyde for at konflikter kan vanskeliggjøre samarbeidet mellom partene, slik at det ikke bør stilles for strenge krav til hvilke tiltak som allerede er forsøkt.
 
@@ -136,11 +143,11 @@ Konflikter på arbeidsplassen gir ikke i seg selv grunnlag for sykefravær eller
 
 Formålet med ekspertbistanden er ikke å løse arbeidsrettslige tvister eller å fungere som et alternativ til virksomhetens ordinære konfliktløsningsprosesser, mekling eller rettslig behandling. Eksperten kan derimot bidra til å kartlegge forhold som påvirker arbeidssituasjonen og sykefraværet, belyse partenes situasjon og foreslå tiltak som kan bidra til å redusere sykefravær og fremme fortsatt arbeidsdeltakelse.
 
-#### Bistå når arbeidstakeren og arbeidsgiveren er rådville, og ikke vet hva mer som kan gjøres
+##### Bistå når arbeidstakeren og arbeidsgiveren er rådville, og ikke vet hva mer som kan gjøres
 
 Arbeidstakeren og arbeidsgiveren må ikke ha et klart bilde av hva utfordringen er. De kan benytte ekspertbistand til å avklare problemstillingen.
 
-#### Karriereveiledning
+##### Karriereveiledning
 
 Karriereveiledning kan være aktuelt hvis det vurderes at offentlige karrieresentre eller karriereveiledning som en del arbeidsrettede tiltak ikke er tilstrekkelig eller hensiktsmessig.
 
@@ -150,7 +157,7 @@ Karriereveiledning kan blant annet bidra til kartlegging av arbeidstakerens ress
 
 Arbeidsgiverens tilretteleggingsplikt skal være oppfylt før en karriereveileder kan bidra til å finne arbeid hos en annen arbeidsgiver.
 
-### 4.1.4 Ekspertens rapport
+#### 4.1.4 Ekspertens rapport
 
 Rapporten skal inneholde en beskrivelse av bestillingen, kartlegging av årsak til sykefravær på arbeidsplassen og andre relevante forhold, samt forslag til tiltak og anbefalinger for videre oppfølging. Eksperten skal i rapporten foreslå tiltak for tilbakeføring til samme arbeid, til annet arbeid hos samme arbeidsgiver eller hos annen arbeidsgiver. Formålet med rapporten er å gi arbeidstaker og arbeidsgiver et faglig grunnlag for videre oppfølging og vurdering av aktuelle tiltak. Arbeidstaker og arbeidsgiver er de primære mottakerne av rapporten. Nav skal motta rapporten som kopi og vil, der det er behov, bruke den som grunnlag for videre oppfølging, vurdering av virkemidler eller aktuelle tiltak. Navs rolle vil dermed avhenge av den konkrete situasjonen og behovet for videre bistand.
 
@@ -166,7 +173,7 @@ I tilfeller der arbeidstaker trekker samtykket før ekspertbistanden er avslutte
 
 Ekspertens rapport skal sendes til både arbeidstakeren og arbeidsgiveren. Arbeidsgiver har ansvar for at Nav får kopi av rapporten.
 
-### 4.1.5 Fortrolighetsplikt
+#### 4.1.5 Fortrolighetsplikt
 
 Fortrolighetsplikten innebærer at alt av opplysninger som eksperten, arbeidsgiver, arbeidstaker, og etaten blir kjent med i forbindelse med ekspertbistanden, skal behandles fortrolig, og ikke gjøre opplysningene kjent for andre enn dem som har behov for tilgang til informasjonen for å utføre sine oppgaver. Plikten til fortrolighet er varig og gjelder uten tidsbegrensning. Plikten til fortrolighet gjelder også etter at ekspertbistanden er avsluttet.
 

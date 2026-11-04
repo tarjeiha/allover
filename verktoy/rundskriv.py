@@ -10,8 +10,12 @@ For hver fil i innboks/ (PDF, Word, ODT, HTML, Markdown eller tekst):
   2. Loven finnes ut fra teksten: navnene og kortformene i regelverk.json telles,
      og NAV-rundskriv med nummer som R08-00 hører til folketrygdloven.
      Starter filnavnet med en lovmappe (f.eks. arbeidsmiljoloven-...), gjelder den.
-  3. Har rundskrivet overskrifter som «Til § 8-4», deles det i én fil per paragraf.
+  3. Har rundskrivet overskrifter som «Til § 8-4», «§ 8-4. Tittel» eller «Forskrift om X § 3 skal
+     forstås slik», deles det i én fil per paragraf. Innholdsfortegnelsen tas bort.
   4. Alt legges i regelverk/<lov>/rundskriv/<navn>/, originalen i original/ under samme mappe.
+     Står navnet på en forskrift under loven (fra regelverk.json) i tittelen, er det et rundskriv
+     til forskriften, og det legges i regelverk/<lov>/rundskriv/forskrifter/<forskrift>/.
+     Tittelen hentes fra «Sammendrag» i hodet på Lovdata-utskrifter.
 
 Er loven uklar, mangler teksten (f.eks. skannet PDF) eller blir noe av teksten borte
 ved oppdelingen, legges ingenting inn. Filen blir liggende i innboksen, og en fil
@@ -48,7 +52,15 @@ PARAGRAFLINJE = re.compile(
     r"(?:[a-zæøå]+loven\s+)?§\s*(\d+(?:\s?[a-z])?(?:\s?[A-Z])?(?:\s?-\s?\d+(?:\s?[a-z])?)?)\b",
     re.IGNORECASE,
 )
-NAV_NUMMER = re.compile(r"\bR\s?(\d{2})\s?[A-Z]?-\s?00\b")
+# Navs rundskriv til en forskrift: «## 4. Forskrift om tilskudd til ekspertbistand § 3 skal forstås slik».
+# Bare med «skal forstås slik», ellers ville forskriftsavsnitt inne i rundskriv til loven blitt egne deler.
+FORSKRIFT_FORSTÅS = re.compile(
+    r"^\s*(?:#+\s*)?(?:\d+(?:\.\d+)*\.?\s+)?forskrift(?:en)?\s+om\s+[^§\n]{1,150}?\s"
+    r"§\s*(\d+(?:\s?[a-z])?)\s+skal\s+forstås\s+slik\b",
+    re.IGNORECASE,
+)
+# R08-00, R03-01 og rundskriv til forskrifter som R08-07A-FOR og R10-07-FOR
+NAV_NUMMER = re.compile(r"\bR\s?(\d{2})\s?[A-Z]?-\s?(?:00\b|\d{2}[A-Z]?-FOR\b)")
 
 
 def slug(tekst: str) -> str:
@@ -105,7 +117,8 @@ def finn_lov(fil: Path, tekst: str, lover: list) -> tuple:
         for alias in {a.lower() for a in lov.get("alias", [])} | {lov["navn"].lower()}:
             treff[lov["mappe"]] += len(re.findall(r"(?<![\wæøå])" + re.escape(alias.lower()) + r"(?![\wæøå])", liten))
     if NAV_NUMMER.search(tekst[:3000]):
-        treff["folketrygdloven"] += MIN_TREFF
+        ftrl = next((l["mappe"] for l in lover if Path(l["mappe"]).name == "folketrygdloven"), "folketrygdloven")
+        treff[ftrl] += MIN_TREFF
     rangert = treff.most_common()
     oversikt = ", ".join(f"{m}: {n}" for m, n in rangert if n) or "ingen"
     if not rangert or rangert[0][1] < MIN_TREFF:
@@ -117,7 +130,25 @@ def finn_lov(fil: Path, tekst: str, lover: list) -> tuple:
     return lov, f"flest henvisninger til {lov['navn']} (treff: {oversikt})"
 
 
+SAMMENDRAG = re.compile(r"^\|\s*Sammendrag\s*\|\s*(.+?)\s*\|\s*$", re.M | re.IGNORECASE)
+DOKNR = re.compile(r"^\|\s*Doknr(?:/publisert)?\s*\|\s*(\S+)\s*\|\s*$", re.M | re.IGNORECASE)
+
+
+def ren_lenketekst(s: str) -> str:
+    """«[<u>ftrl § 8-7a</u>](https://…)» -> «ftrl § 8-7a»."""
+    s = re.sub(r"</?u>", "", s)
+    return re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", s).strip()
+
+
 def tittel_fra(tekst: str, fil: Path) -> str:
+    # Lovdata-utskrifter har en tabell øverst der «Sammendrag» er den egentlige tittelen
+    m = SAMMENDRAG.search(tekst[:5000])
+    if m:
+        tittel = ren_lenketekst(m.group(1))
+        nr = DOKNR.search(tekst[:5000])
+        if nr and nr.group(1) not in tittel:
+            tittel += f" ({nr.group(1)})"
+        return tittel[:200]
     for linje in tekst.splitlines():
         if linje.startswith("# ") and len(linje) > 7:
             return linje[2:].strip()[:150]
@@ -141,6 +172,28 @@ def ser_ut_som_overskrift(rest: str, markdown_overskrift: bool = False) -> bool:
     return not rest or rest[0] in ".–-:" or bool(LEDD.match(rest))
 
 
+def uten_innholdsfortegnelse(tekst: str) -> str:
+    """Word-filer har ofte en innholdsfortegnelse med alle overskriftene som lenker. Den tas bort,
+    ellers deles teksten opp på innholdsfortegnelsen. Den varer til neste overskrift med tekst."""
+    linjer = tekst.splitlines()
+    start = next((i for i, l in enumerate(linjer) if re.match(r"^#+\s*innholds(fortegnelse|oversikt)\s*$", l, re.I)), None)
+    if start is None:
+        return tekst
+    slutt = next((i for i in range(start + 1, len(linjer)) if re.match(r"^#+\s*\S", linjer[i])), len(linjer))
+    return "\n".join(linjer[:start] + linjer[slutt:])
+
+
+def finn_forskrift(tittel: str, fil: Path, lov: dict):
+    """Forskriften rundskrivet gjelder, når navnet på en forskrift under loven står i tittelen
+    eller filnavnet. Ved flere treff vinner det lengste navnet. Bare tittelen telles, siden
+    rundskriv til en lov ofte omtaler mange forskrifter."""
+    hvor = re.sub(r"\s+", " ", tittel.lower())
+    filnavn = fil.stem.lower()
+    treff = [f for f in lov.get("forskrifter", [])
+             if re.sub(r"\s+", " ", f["navn"].lower()) in hvor or (len(f["slug"]) > 6 and f["slug"] in filnavn)]
+    return max(treff, key=lambda f: len(f["navn"])) if treff else None
+
+
 def del_opp(tekst: str) -> list:
     """Returnerer [(paragraf eller None, tekst)]. Én del hvis det ikke finnes paragrafoverskrifter."""
     linjer = tekst.splitlines()
@@ -153,6 +206,10 @@ def del_opp(tekst: str) -> list:
             continue
         m = PARAGRAFLINJE.match(linje)
         if m and ser_ut_som_overskrift(linje[m.end():], linje.startswith("#")):
+            starter.append((i, "§ " + re.sub(r"\s+", " ", m.group(1)).strip()))
+            continue
+        m = FORSKRIFT_FORSTÅS.match(linje)
+        if m:
             starter.append((i, "§ " + re.sub(r"\s+", " ", m.group(1)).strip()))
     if len(starter) < 2:
         return [(None, tekst)]
@@ -204,8 +261,16 @@ def legg_inn(fil: Path, lover: list, dato: str) -> str:
     if lov is None:
         raise ValueError(grunn)
     tittel = tittel_fra(tekst, fil)
-    navn = slug(re.sub(rf"^{re.escape(Path(lov['mappe']).name)}-", "", fil.stem))
-    mappe = ROT / lov["mappe"] / "rundskriv" / navn
+    tekst = uten_innholdsfortegnelse(tekst)
+    # Bilder fra Word (logoer o.l.) blir lenker til filer som ikke finnes
+    tekst = re.sub(r"^<img src=\"media/[^>]*>\s*$\n?", "", tekst, flags=re.M)
+    til_forskrift = finn_forskrift(tittel, fil, lov)
+    if til_forskrift:
+        mappe = ROT / lov["mappe"] / "rundskriv" / "forskrifter" / til_forskrift["slug"]
+        grunn += f"; gjelder {til_forskrift['navn']}"
+    else:
+        navn = slug(re.sub(rf"^{re.escape(Path(lov['mappe']).name)}-", "", fil.stem))
+        mappe = ROT / lov["mappe"] / "rundskriv" / navn
     deler = del_opp(tekst)
     samlet = "\n".join(d for _, d in deler)
     d = dekning(tekst, samlet)
@@ -217,10 +282,11 @@ def legg_inn(fil: Path, lover: list, dato: str) -> str:
         for gammel in mappe.glob("*.md"):
             gammel.unlink()
     (mappe / "original").mkdir(parents=True, exist_ok=True)
-    forskrift = gjelder_forskrift(tittel, fil)
+    forskrift = bool(til_forskrift) or gjelder_forskrift(tittel, fil)
     hode = {
         "rundskriv": tittel,
         "lov": lov["navn"],
+        **({"forskrift": til_forskrift["navn"], "forskrift_id": til_forskrift["id"]} if til_forskrift else {}),
         "kilde": f"original/{fil.name}",
         "lagt_inn": dato,
     }
@@ -245,7 +311,9 @@ def legg_inn(fil: Path, lover: list, dato: str) -> str:
     liste = "\n".join(f"- {par or 'Innledning og tekst uten paragraf'} – `{f}`" for par, f in filer)
     (mappe / "oversikt.md").write_text(
         f"# {tittel}\n\n"
-        f"Rundskriv til {lov['navn']}. Lagt inn {dato} fra `original/{fil.name}`. "
+        + (f"Rundskriv til {til_forskrift['navn']} ({til_forskrift['id']}), med hjemmel i {lov['navn'].lower()}. "
+           if til_forskrift else f"Rundskriv til {lov['navn']}. ")
+        + f"Lagt inn {dato} fra `original/{fil.name}`. "
         "Dette er ikke lov- eller forskriftstekst.\n\n"
         + (f"Paragrafhenvisningene gjelder forskriften rundskrivet kommenterer, ikke loven.\n\n" if forskrift and len(filer) > 1 else "")
         + f"## Innhold\n\n{liste}\n", encoding="utf-8")

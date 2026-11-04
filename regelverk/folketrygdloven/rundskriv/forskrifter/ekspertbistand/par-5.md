@@ -1,10 +1,17 @@
 ---
-tittel: "Til § 5 Tilskudd"
-forskrift: "Forskrift om tilskudd til ekspertbistand (ftrl § 8-7 a)"
-kilde: "NAV rundskriv R08-07A-FOR, sist endret 06.10.2026, hentet 04.11.2026"
+rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+lov: "Folketrygdloven"
+forskrift: "Forskrift om tilskudd til ekspertbistand"
+forskrift_id: "FOR-2019-08-29-1105"
+kilde: "original/nav_rundskriv_r08-07a-for.docx"
+lagt_inn: "2026-11-04"
+paragraf: "§ 5"
+gjelder: "forskrift"
 ---
 
-# Til § 5 Tilskudd
+# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR) – § 5
+
+## 6. FORSKRIFT OM TILSKUDD TIL EKSPERTBISTAND § 5 SKAL FORSTÅS SLIK
 
 Forskrift om tilskudd til ekspertbistand § 5 handler om størrelsen på tilskuddet, herunder refusjon av utgifter og krav til dokumentasjon.
 
@@ -16,9 +23,9 @@ Forskriften § 5 regulerer selve utmålingen av tilskuddet, men sier ikke noe om
 
 Arbeids- og velferdsetaten må oppbevare opplysninger over tildelt støtte i ti år.
 
-## 6.1 Hvorfor forskrift om tilskudd til ekspertbistand § 5 forstås slik
+### 6.1 Hvorfor forskrift om tilskudd til ekspertbistand § 5 forstås slik
 
-### 6.1.1 Tilskudd
+#### 6.1.1 Tilskudd
 
 Siden ekspertbistand krever møter med både arbeidstakeren og arbeidsgiveren, er det viktig at finansieringen er fleksibel i sin utforming. Gjennom å gi muligheten til å dekke reiseutgifter, kost- og losji vil ikke arbeidssted være avgjørende for hva slags ekspertkompetanse det er tilgang på.
 
@@ -28,7 +35,7 @@ Tilskudd til ekspertbistand skal dekke nødvendige og reelle kostnader knyttet t
 
 Nav fylke/region tildeles midler til tilskuddet til ekspertbistand i sitt område og har ansvar for å forvalte og disponere disse innenfor den tildelte rammen.
 
-### 6.1.2 Refusjon
+#### 6.1.2 Refusjon
 
 Det er arbeidsgiveren som betaler for ekspertbistanden. Eksperten skal fakturere arbeidsgiveren, og ikke Nav. Nav dekker arbeidsgiverens utgifter mot refusjonskrav og dokumentasjon, for eksempel en faktura. Dokumentasjonen vedlagt refusjonskravet skal vise hvilke utgifter det kreves dekning for. Nav kan ved behov kreve spesifisert dokumentasjon på arbeidsgiverens utgifter
 
@@ -38,18 +45,16 @@ Utgifter utover tilsagnsbeløpet refunderes ikke av Nav. Disse utgiftene står a
 
 Arbeidsgiver skal ha sendt ekspertens rapport til Nav før refusjonen utbetales.
 
-Refusjonen må utbetales innenfor regelverket for økonomistyring i staten[^4].
+Refusjonen må utbetales innenfor regelverket for økonomistyring i staten<sup>4</sup>.
 
-### 6.1.3 Refusjonsfrist
+#### 6.1.3 Refusjonsfrist
 
 Arbeidsgiver har seks måneders frist for å fremme refusjonskrav, jf. folketrygdloven § 22-14 tredje ledd. Fristen starter å løpe fra sluttdato for tiltaksperioden.
 
 Arbeidsgivere oppfordres til å sende refusjonskrav så raskt som mulig etter avsluttet tiltak.
 
-### 6.1.4 Varighet og perioder
+#### 6.1.4 Varighet og perioder
 
 Varigheten av ekspertbistanden må vurderes individuelt i den enkelte sak. I mange tilfeller vil bistanden kunne gjennomføres innen tre måneder, men det kan vurderes å være lengre ut fra behovet og omstendighetene i den enkelte sak
 
-Tilsagn kan ikke gå over årsskiftet, jfr. [Bevilgningsreglementet § 3](https://lovdata.no/pro/#reference/forskrift/2005-05-26-876). Innenfor rammen av maksimalbeløpet (fastsatt av departementet) kan det gjennomføres flere tiltaksperioder.
-
-[^4]: [Reglement for økonomistyring i staten – Lovdata](https://lovdata.no/pro/#reference/forskrift/2003-12-12-1938)
+Tilsagn kan ikke gå over årsskiftet, jfr. [<u>Bevilgningsreglementet § 3</u>](https://lovdata.no/pro/#reference/forskrift/2005-05-26-876). Innenfor rammen av maksimalbeløpet (fastsatt av departementet) kan det gjennomføres flere tiltaksperioder.
