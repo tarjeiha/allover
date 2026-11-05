@@ -1,0 +1,45 @@
+name: Varsle fagansvarlige om endringer i regelverket
+
+# Hver morgen: én sak per regelverk som er endret på main siste døgn, til eieren av
+# fagområdet i regelverk.json. Fanger både nattbygget fra Lovdata, rundskriv og flettede
+# pull requests. Endringer fra GitHub Actions starter ikke andre jobber, derfor tidsplan.
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      siden:
+        description: "Fra tidspunkt (f.eks. «2026-11-04 06:00 +0000»). Tom = siste døgn."
+        required: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  varsle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 300
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Lag saker
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SIDEN: ${{ inputs.siden }}
+        run: |
+          til=$(date -u +"%Y-%m-%d 06:00 +0000")
+          siden=${SIDEN:-$(date -u -d "yesterday" +"%Y-%m-%d 06:00 +0000")}
+          python3 verktoy/fagansvar.py --varsle --siden "$siden" --til "$til"
+
+      - name: Varsle om feil
+        if: failure()
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Varsel til fagansvarlige: feil"
+          tekst: "jobben som varsler fagansvarlige om endringer i regelverket, feilet. Se kjøringen, eller be Claude se på det."
