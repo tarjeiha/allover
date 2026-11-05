@@ -1,0 +1,66 @@
+---
+rundskriv: "Sivilombudets uttalelse 18.2.2012 (2012/1435)"
+utgiver: "Sivilombudet"
+lov: "Forvaltningsloven"
+dato: "2012-02-18"
+saksnummer: "2012/1435"
+kilde: "https://www.sivilombudet.no/uttalelser/tilsetting-manglende-skriftlighet-og-innhenting-av-referanser/"
+lagt_inn: "2026-11-05"
+---
+
+# Tilsetting – Manglende skriftlighet og innhenting av referanser
+
+Sivilombudets uttalelse 18.2.2012 (sak 2012/1435).
+
+## Oppsummering
+
+En søker til stilling ved en statlig virksomhet klaget over forbigåelse ved tilsettingen. Klageren var formelt kvalifisert, men ble ikke innstilt fordi det ble antatt at han ikke kom til å bli lenge i stillingen og fordi han ikke ble funnet personlig egnet.  
+Jeg er kommet til at saken ikke var tilstrekkelig opplyst verken i forhold til klagerens motivasjon for stillingen eller hans personlige egenskaper. Det var ikke foretatt skriftlige nedtegnelser fra intervju og referanser var ikke innhentet. Dette gir grunnlag for kritikk.
+
+### Sakens bakgrunn og undersøkelsene herfra
+
+A søkte høsten 2011 på stilling som jurist ved en statlig virksomhet , men ble ikke innstilt. Norges Juristforbund klaget på vegne av A over tilsettingen, og ba ombudsmannen vurdere om det hadde skjedd et brudd på kvalifikasjonsprinsippet.
+
+Ombudsmannen besluttet å undersøke saken nærmere. I brev til virksomheten ble det vist til at klageren ikke var blant de innstilte søkerne, selv om han syntes å oppfylle utlysingstekstens formelle krav til stillingen. Det ble vist til klagerens henvisning til at han i en telefonsamtale med en underdirektør ved virksomheten, hadde fått opplyst at;
+
+> «…*noe* (uthevet her) av grunnen til at han ikke ble innstilt … var at X antok at han ikke ville bli lenge i stillingen…».
+
+Virksomheten ble bedt om å opplyse bakgrunnen for «antagelsen» om at klageren ikke kom til å bli lenge i stillingen. I den forbindelse ble det vist til at ombudsmannen tidligere har uttalt at det bare er anledning til å se bort fra en søker, dersom det er konkrete holdepunkter som tilsier at vedkommende kommer til å forlate stillingen om kort tid (Somb-[2011-235](https://www.sivilombudet.no/?p=23363)). Det ble spurt om klageren hadde fått spørsmål om sine fremtidsplaner under intervjuet, jf. opplysning i klagen om at han ikke var blitt spurt om sine karriereplaner under intervjuet. Virksomheten ble også bedt om å opplyse i hvilken grad den aktuelle stillingens karakter tilsa et særlig behov for kontinuitet. Eventuelle andre momenter som begrunnet at virksomheten ikke innstilte ham til stillingen ble etterlyst.
+
+Videre ble det bedt om en nærmere redegjørelse for den sammenlignende kvalifikasjonsvurderingen av klageren og de søkerne som fikk tilbud om ansettelse.
+
+Virksomheten opplyste i svarbrevet at klageren ikke ble ansett personlig egnet for stillingen, og at det særlig var hans manglende motivasjon for oppgavene som lå til stillingen, som hadde vært utslagsgivende. Det ble vist til innstillingen der det bl.a. fremgikk at det etter intervjuet med ham, var tvilsomt om stillingen kunne innfri hans forventninger om faglig bredde, at det var «tvilsomt om han med sin bakgrunn vil finne seg til rette i gruppen», og at det derfor innebar «en stor risiko for turnover» å tilsette ham. Klagerens arbeidshistorikk, særlig hans arbeidsperiode som advokat i et konkret advokatfirma, ble angitt som begrunnelse for hans påståtte manglende motivasjon til å utføre de ensartede oppgavene ved avdelingen. Klageren var blitt spurt om sine fremtidsplaner, og på direkte spørsmål hadde han bekreftet at han så for seg et langvarig opphold ved avdelingen. Virksomheten mente at det forelå konkrete holdepunkter som gjorde at det likevel var grunn til å tvile på dette. Under intervjuet kom det frem at klageren ikke hadde funnet seg til rette i det konkrete advokatfirmaet. Virksomheten fikk inntrykk av at klageren hadde opptrådt lite konstruktivt i dette ansettelsesforholdet, og vurderte dette som negativt i forhold til utlysingstekstens krav om personlige egenskaper som samarbeidsevner, kommunikasjonsevner, godt humør og fleksibilitet. Det ble beklaget at det negative inntrykket som klageren hadde gjort under intervjuet, og som var en vesentlig faktor i bedømmelsen, ikke var trukket mer frem i innstillingen. Virksomheten viste også til at avdelingen hadde hatt stort frafall blant juristene de siste årene, og at begrunnelsen som oftest hadde vært at arbeidsoppgavene var for lite varierte.
+
+Juristforbundet tilbakeviste at klageren hadde fått uttrykkelig spørsmål om hvor lenge han så for seg å bli værende i stillingen og at han manglet motivasjon. Videre ble det opplyst at klageren ikke hadde gått til rettslige skritt mot sin tidligere arbeidsgiver. Juristforbundet mente at virksomhetens beskrivelser av klageren var ubegrunnet og fremsto som spekulasjoner og antagelser, og at vurderingene ikke var underbygget av faktisk innhentede opplysninger fra hans referanser.
+
+Virksomheten kom deretter med ytterligere merknader i saken. Det ble erkjent at inntrykket av klageren under intervjuet ikke hadde samsvart med hans attester, men at det umiddelbare inntrykket var så sterkt at virksomheten la mindre vekt på disse attestene.
+
+### Mitt syn på saken
+
+Siktemålet i en tilsettingssak er å finne frem til den av søkerne som etter en samlet vurdering anses best kvalifisert for stillingen. Utgangspunktet for den sammenlignende kvalifikasjonsvurderingen, tas i de kravene som er stilt i utlysingsteksten og eventuelle lov- og avtalefestede krav. Ellers vil sentrale momenter være utdanning, praksis og personlige egenskaper. Når det gjelder vurderingen av en søkers personlige egnethet for en stilling, må denne i stor grad bygge på tilsettingsmyndighetens skjønn.
+
+Det er enighet om at klageren oppfylte de formelle kravene til stillingen. Videre er det på det rene at han ikke ble innstilt fordi han ikke ble ansett personlig egnet. Dette er begrunnet i virksomhetens oppfatning av klagerens manglende motivasjon for de oppgavene som lå til stillingen, at han ikke kom til å bli der lenge og i personlige egenskaper som kom frem under intervjuet.
+
+Selv om en søker er formelt kvalifisert for en stilling, kan manglende personlig egnethet begrunne at vedkommende ikke blir innstilt. I valget mellom flere kvalifiserte søkere vil det inntrykket arbeidsgiver får av søkeren under et intervju kunne være et relevant, og også et avgjørende moment, i tilsettingssaken. Jeg har imidlertid i flere tidligere saker uttalt, at dersom personlig egnethet skal kunne tillegges avgjørende vekt ved rangeringen av ellers kvalifiserte søkere, må tilsettingsmyndigheten sørge at den har et forsvarlig faktisk grunnlag for vurderingen (Somb-[2009-378](https://www.sivilombudet.no/?p=23524)). Normalt innebærer dette at det må gjennomføres intervju og at aktuelle referanser må innhentes. Jeg har også fremhevet at det i tillegg bør gå klart frem av innstillingen hvilke egenskaper ved en ellers godt kvalifisert søker, som tilsier at hans personlige egnethet for stillingen er dårligere.
+
+Spørsmålet i saken er om virksomheten hadde et forsvarlig faktisk grunnlag for konklusjonen om at klageren ikke var personlig egnet, både når det gjaldt hans motivasjon, varigheten av tilsettingsforholdet og hans personlige egenskaper.
+
+Partene har ulike versjoner av hva som kom frem under intervjuet relatert til klagerens motivasjon for de oppgavene som lå til stillingen og hans forventninger om faglig bredde. Klageren har opplyst at han ikke fikk spørsmål om sine fremtidsplaner. Virksomheten mener derimot at han ble spurt uttrykkelig, men at de ikke hadde tiltro til hans svar. Dette igjen fordi det forelå konkrete holdepunkter for å tvile på at han kom til å bli lenge. Jeg kan ikke ta stilling til denne uenigheten.
+
+Det er et grunnleggende ulovfestet krav til all offentlig forvaltning at avgjørelser skal være saklig begrunnet, og at saksbehandlingen skal være forsvarlig. Et utslag av dette prinsippet er forvaltningsloven 10. februar 1967 §§ 24 og 25, som gir parter rett til begrunnelse. Disse bestemmelsene gjelder imidlertid ikke i tilsettingssaker. Selv om det er gjort unntak fra begrunnelseskravet, gjelder fortsatt kravet om forsvarlig saksbehandling, at tilsettingsmyndighetens avgjørelse skal være saklig begrunnet og at saken skal være tilstrekkelig opplyst, jf. forvaltningsloven § 17. Forvaltningen må derfor innrette sin saksbehandling slik at disse grunnleggende kravene ivaretas på alle trinn i tilsettingsprosessen.
+
+Når forvaltningen ikke utarbeider skriftlig begrunnelse til partene, blir det desto viktigere å sikre at det i ettertid blir mulig å kontrollere at tilsettingsprosessen har vært saklig og forsvarlig. Dette er spesielt viktig for at ombudsmannskontrollen skal bli effektiv.
+
+Dette betyr at hovedpunktene i tilsettingsprosessen bør nedtegnes skriftlig. Erfaring viser at skriftlighet også er egnet til å bevisstgjøre beslutningstakere, og dermed sikre at forvaltningen treffer korrekte avgjørelser med saklig begrunnelse. Nedtegnelser vil videre lette andres tilgang til de avgjørende omstendigheter i en sak, som igjen kan sikre likebehandling. Hensynet til notoritet og sakens opplysning tilsier altså at avgjørelsens faktiske grunnlag og tilsettingsorganets vurderinger blir nedtegnet. Dette reduserer faren for mistanke om at den avgjørelsen som er truffet, bygger på utenforliggende eller usaklige hensyn.
+
+Når klagerens manglende motivasjon var et så sentralt punkt i virksomhetens begrunnelse for at han ikke ble innstilt til stillingen, burde dette punktet ha fremgått uttrykkelig av et intervjureferat. Det er imidlertid på det rene at det ikke foreligger noe skriftlig referat fra det aktuelle intervjuet. Virksomhetens versjon av hva som kom frem under intervjuet bygger utelukkende på en gjengivelse i ettertid.
+
+Oppfatningen av klagerens personlige egenskaper som hans evne til samarbeid, kommunikasjon, fleksibilitet og humør er dels begrunnet i det umiddelbare inntrykket søkeren ga under intervjuet, men synes i hovedsak å være basert på virksomhetens *tolkning* av hans tidligere tilsettingsforhold bl.a. i advokatfirmaet og en *antakelse* av at han ikke kom til å bli lenge i stillingen. Virksomheten viser til at de fikk *inntrykk*av at A hadde opptrådt lite konstruktivt i dette ansettelsesforholdet, og vurderte dette som negativt i forhold til utlysingstekstens krav om personlige egenskaper som samarbeidsevner, kommunikasjonsevner, godt humør og fleksibilitet.
+
+Når begrunnelsen om personlig uegnethet og manglende motivasjon i det vesentlige synes å være begrunnet i en *tolkning* av klagerens tidligere arbeidsforhold, en *antakelse* av hans forventninger om faglig bredde og at han ikke vil bli lenge i stillingen, må det være et minstekrav at tilsettingsmyndigheten forsøker å få brakt klarhet i dette bl.a. ved å innhente referanser og å ta forholdet opp under intervjuet. Når virksomheten ikke tok kontakt med tidligere arbeidsgivere, kan saken vanskelig sies å være godt nok opplyst. Virksomhetens feilaktige anførsel om at klageren skulle ha gått til rettslige skritt mot advokatfirmaet han hadde arbeidet i, viser også nødvendigheten av å kontakte denne arbeidsgiveren. Manglende innhenting av referanser gjør at de «andre konkrete holdepunktene» for klagerens manglende motivasjon for stillingen som virksomheten har vist til, heller ikke kan sies å være godtgjort.
+
+Virksomheten hadde videre et ekstra incitament til å kontakte referanser i denne saken, fordi deres oppfatning av klageren avvek sterkt fra hans attester. Samlet sett hadde virksomheten en klar oppfordring til å foreta nærmere undersøkelser for å bekrefte eller avkrefte oppfatningen av hans personlige egenskaper. Virksomheten har i brev erkjent at oppfølgingen av klageren ikke har vært så god som den burde ha vært, og at de burde ha ringt referansen i advokatfirmaet og fått arbeidsgiverens versjon av saken, og dermed sikret seg en mer presis gjengivelse av faktiske hendelser. Dette er jeg enig i. Når virksomheten verken foretok slike undersøkelser eller skrev referat fra intervjuet, kan saken ikke sies å være godt nok opplyst mht søkerens personlige egnet. Dette må kritiseres.
+
+Jeg kan heller ikke se at virksomheten har godtgjort at det var et spesielt behov for kontinuitet i denne stillingen, som tilsa at det var rettslig adgang til å legge vekt på risikoen for at klageren ikke kom til å bli lenge i stillingen. Som jeg tidligere har uttalt (Somb-[2011-235](https://www.sivilombudet.no/?p=23363)) må en stilling være av en slik karakter at behovet for kontinuitet er særlig viktig, for at det skal være adgang til å legge vekt på et slikt hensyn. En generell interesse i å unngå perioder med vakanse eller at avdelingen hadde hatt stort frafall blant juristene de siste årene, er ikke tilstrekkelig.
+
+På grunn av at saken ikke var tilstrekkelig opplyst, er det ikke mulig for meg å foreta en overprøving av virksomhetens sammenlignende vurdering av klagerens og de andre søkernes kvalifikasjoner. Tilsettingen er gjennomført og de tilsatte har ikke vært parter i ombudsmannssaken. Min uttalelse får derfor ingen konsekvenser for de tilsettingene som er gjort. Jeg ber imidlertid virksomheten merke seg mine synspunkter for fremtidige saker.

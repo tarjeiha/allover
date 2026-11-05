@@ -27,6 +27,9 @@ ROT = Path(__file__).resolve().parent.parent
 CODEOWNERS = ROT / ".github" / "CODEOWNERS"
 ETIKETT = "regelverksendring"
 MAKS_VIST = 12
+# Mappene under rundskriv/ som verktoy/nettsider_hent.py skriver, med navnet i varselet.
+NETTSIDER = {"udir": "Udirs rundskriv og veiledere", "imdi": "IMDis veiledere",
+             "spk": "Informasjon fra Statens pensjonskasse", "sivilombudet": "Sivilombudets uttalelser"}
 
 TOPP = """\
 # Lages av verktoy/fagansvar.py fra fagområdene i regelverk.json. Rediger ikke for hånd:
@@ -91,6 +94,9 @@ def type_for(sti: str) -> str | None:
         return "Vedtatte endringer, ikke i kraft"
     if "/rundskriv/personalhandboka/" in sti:
         return None if sti.endswith("/oversikt.md") else "Statens personalhåndbok"
+    for mappe, navn in NETTSIDER.items():
+        if f"/rundskriv/{mappe}/" in sti:
+            return navn
     if "/rundskriv/arbeidstilsynet/" in sti:
         return "Arbeidstilsynets kommentarer"
     if "/rundskriv/" in sti:
@@ -107,6 +113,9 @@ def navn_for(mappe: str, sti: str, typ: str) -> str:
     rest = sti[len(mappe) + 1:].split("/")
     if typ == "Statens personalhåndbok":
         return Path(sti).stem.removeprefix("punkt-").replace("-", ".")
+    for mappe, navn in NETTSIDER.items():
+        if typ == navn:
+            return Path(rest[rest.index(mappe) + 1]).stem
     if typ == "Arbeidstilsynets kommentarer":
         return rest[rest.index("arbeidstilsynet") + 1]
     if typ == "Rundskriv":

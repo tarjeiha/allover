@@ -1,0 +1,78 @@
+name: Hent Sivilombudets uttalelser
+
+# Hver uke: henter nye og endrede uttalelser fra Sivilombudet om lovene i basen.
+# Se verktoy/sivilombudet_hent.py. Endringene går rett i main, og den fagansvarlige får sak
+# neste morgen gjennom varsle-fagansvar.yml.
+on:
+  schedule:
+    - cron: "20 5 * * 1"
+  # Når skriptet endres på en claude/-gren, kjøres det der, så resultatet kan ses før det går i main.
+  push:
+    branches: ["claude/**"]
+    paths: ["verktoy/sivilombudet_hent.py", ".github/workflows/sivilombudet-hent.yml"]
+  workflow_dispatch:
+    inputs:
+      tving:
+        description: "Hent alle på nytt"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: sivilombudet
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # Siste versjon av grenen, ikke commiten som startet kjøringen: kjøringene står i kø
+          # (concurrency), og en senere kjøring skal bygge på det den forrige lagret.
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: pip install beautifulsoup4==4.12.3 lxml==5.3.0
+
+      - name: Hent uttalelsene
+        env:
+          TVING: ${{ inputs.tving && '--tving' || '' }}
+        run: python3 verktoy/sivilombudet_hent.py --maks 1200 $TVING
+
+      - name: Lagre
+        # Lagrer også når én kilde feilet, så de andre ikke må hentes på nytt.
+        if: success() || failure()
+        run: |
+          melding="$RUNNER_TEMP/melding.txt"
+          if [ -f sivilombudet-rapport.txt ]; then mv sivilombudet-rapport.txt "$melding"
+          else echo "Sivilombudets uttalelser: oppdatert status" > "$melding"; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$melding"
+          for i in 1 2 3; do
+            git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            git pull --rebase -q origin "$GITHUB_REF_NAME"
+          done
+          exit 1
+
+      - name: Vis resultatet
+        if: always()
+        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+
+      - name: Varsle om feil
+        if: failure() && github.ref_name == 'main'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Henting av Sivilombudets uttalelser: feil"
+          tekst: "den ukentlige hentingen av Sivilombudets uttalelser feilet, f.eks. fordi nettstedet har endret oppbygning. Se kjøringen, eller be Claude se på det."
