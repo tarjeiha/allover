@@ -74,11 +74,11 @@ Feller:
 
 ## Partienes alternative budsjetter (`budsjett/ÅR/alternative-budsjett/`)
 
-Opposisjonspartiene legger fram egne alternative statsbudsjetter i november, før budsjettforliket. Tabellene er hentet fra partienes egne PDF-dokumenter og lagt inn for hånd. Foreløpig gjelder det 2027, fra SV (side 56–85 i dokumentet) og Senterpartiet (side 44–64). Partier som kommer til, legges inn for hånd i de samme filene. Alle beløp er endringer fra regjeringens forslag i Prop. 1 S, i millioner kroner.
+Opposisjonspartiene legger fram egne alternative statsbudsjetter i november, før budsjettforliket. Tabellene er hentet fra partienes egne PDF-dokumenter og lagt inn for hånd. Foreløpig gjelder det 2027, fra SV (side 56–85 i dokumentet), Senterpartiet (side 44–64) og MDG. Fra MDG er bare radene på Arbeids- og inkluderingsdepartementets kapitler og kap. 490 Utlendingsdirektoratet lagt inn (side 47–48). MDGs øvrige forslag står i partiets dokument. Partier som kommer til, legges inn for hånd i de samme filene. Alle beløp er endringer fra regjeringens forslag i Prop. 1 S, i millioner kroner.
 
 | Fil | Innhold |
 |---|---|
-| `tiltak.tsv` | Ett tiltak per rad: parti, side i partiets dokument, departement, kapittel, post, tiltak og endring (`endring_mill`, bokført). `palopt_mill` er fylt ut bare der partiet oppgir påløpt beløp. `gruppe` er partiets egen inndeling (satsinger, innsparinger, inndekning, 90-poster), og `rammeomrade` er SVs inndeling. Søk på `kap` for å se hva partiene foreslår på et kapittel, eller i `tiltak` for ord som «AAP» eller «Nav». |
+| `tiltak.tsv` | Ett tiltak per rad: parti, side i partiets dokument, departement, kapittel, post, tiltak og endring (`endring_mill`, bokført). `palopt_mill` er fylt ut bare der partiet oppgir påløpt beløp. `gruppe` er partiets egen inndeling (satsinger, innsparinger, inndekning, 90-poster), og `rammeomrade` er SVs og MDGs inndeling. MDG oppgir ikke departement, så `dep` er satt etter kapittelet. Søk på `kap` for å se hva partiene foreslår på et kapittel, eller i `tiltak` for ord som «AAP» eller «Nav». |
 | `skatter-og-avgifter.tsv` | Skatte- og avgiftsforslagene, med bokført og påløpt beløp. Positive tall er skjerpelser, negative tall er lettelser. |
 
 Feller:
