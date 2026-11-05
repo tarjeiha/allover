@@ -18,7 +18,6 @@ Under ser du en oversikt over vilkårene som du må oppfylle for å få AFP i of
 
 - Du må som hovedregel jobbe i en medlemspliktig stilling helt frem til du går av med AFP. (Hel permisjon eller fritak fra arbeidsplikt regnes som et avbrudd i medlemspliktig stilling. Sykemelding regnes ikke som et avbrudd så lenge du får utbetalt sykepenger.)
 - Du må ha hatt minst 10 år med en inntekt på over 2 [G](https://www.spk.no/Ord-og-uttrykk-om-pensjon/Grunnbelop/)Grunnbeløp (G)Grunnbeløpet i folketrygda, som vi ofte kallar G, er 136 549 kroner per 01.05.2026. Beløpet blir justert ein gong i året.[Mer om Grunnbeløp (G)](https://www.spk.no/Ord-og-uttrykk-om-pensjon/Grunnbelop/)* OG ha hatt en inntekt på minst 1 [G](https://www.spk.no/Ord-og-uttrykk-om-pensjon/Grunnbelop/)Grunnbeløp (G)Grunnbeløpet i folketrygda, som vi ofte kallar G, er 136 549 kroner per 01.05.2026. Beløpet blir justert ein gong i året.[Mer om Grunnbeløp (G)](https://www.spk.no/Ord-og-uttrykk-om-pensjon/Grunnbelop/)* i de to siste årene frem til du går av med AFP. (Hvis du går av med AFP midt i året, beregner vi hvor mye lønn du ville ha fått hvis du hadde jobbet ut hele kalenderåret.)  
-  
 **OG I TILLEGG TIL KRAVENE OVER**
 - ENTEN ha vært medlem i Statens pensjonskasse i 10 år etter fylte 50 år
 - ELLER ha hatt 10 år med opptjening i folketrygden med en inntekt på minst 1 G* (litt over 130 000 kroner) etter fylte 50 år

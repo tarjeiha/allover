@@ -16,18 +16,13 @@ Hvis du har inntekt fra en stilling i offentlig sektor som medfører medlemskap 
 
 - **Kortere arbeidsforhold**  
 Enkeltstående arbeidsforhold som ikke varer lenger enn 29 dager i virksomheter tilknyttet Statens pensjonskasse, gir ikke medlemskap. Slike arbeidsforhold vil derfor ikke føre til reduksjon av pensjon. Vi teller i slike tilfeller antall kalenderdager fra du begynner i stillingen til du slutter i den, ikke hvor mange dager du har avtale om å jobbe mens arbeidsforholdet varer. [Vi viser til avtalen om medlemsregistrering og pensjonsrettigheter i Statens pensjonskasse for korttidstilsatte (regjeringen.no)](https://www.regjeringen.no/no/dokumenter/avtale-om-medlemsregistrering-og-pensjonsrettigheter-i-statens-pensjonskasse-for-korttidstilsatte/id3082582/).
-- **Gå av med delvis alderspensjon og fortsette i delvis stilling**Du kan gå av med delvis alderspensjon fra oss og fortsette å jobbe deltid i offentlig sektor. Vi reduserer pensjonen etter forholdet mellom den gjennomsnittlige stillingsstørrelsen du har hatt i stillinger med rett til medlemskap i offentlige pensjonsordninger og stillingsstørrelsen du fortsetter å jobbe i.   
-  
+- **Gå av med delvis alderspensjon og fortsette i delvis stilling**Du kan gå av med delvis alderspensjon fra oss og fortsette å jobbe deltid i offentlig sektor. Vi reduserer pensjonen etter forholdet mellom den gjennomsnittlige stillingsstørrelsen du har hatt i stillinger med rett til medlemskap i offentlige pensjonsordninger og stillingsstørrelsen du fortsetter å jobbe i.  
 Pensjonsgrad = (Gjennomsnittlig stillingsstørrelse – stillingsstørrelsen du fortsetter å jobbe i) / gjennomsnittlig stillingsstørrelse x 100  
-  
 Hvis du endrer stillingsstørrelsen du fortsetter å jobbe i, kan alderspensjonen din bli beregnet i flere uttak med litt forskjellig beregning for hvert uttak.
 - **Gå av med 100 prosent alderspensjon fra en stilling og begynne i en ny stilling**  
-Har du gått av med 100 prosent alderspensjon, får du medlemskap i pensjonsordningen for alle nye offentlige stillinger, selv om stillingsandelen er lavere enn den normale minstegrensen for medlemskap. Vi reduserer pensjonen etter forholdet mellom pensjonsgrunnlaget og inntekten i den nye stillingen.   
-  
-Pensjonsgrad = (Pensjonsgrunnlag – årsinntekt i den nye stillingen) / pensjonsgrunnlag x 100   
-  
-Hvis inntekten din endrer seg, kan alderspensjonen din bli beregnet i flere uttak med litt forskjellig beregning for hvert uttak.   
-  
+Har du gått av med 100 prosent alderspensjon, får du medlemskap i pensjonsordningen for alle nye offentlige stillinger, selv om stillingsandelen er lavere enn den normale minstegrensen for medlemskap. Vi reduserer pensjonen etter forholdet mellom pensjonsgrunnlaget og inntekten i den nye stillingen.  
+Pensjonsgrad = (Pensjonsgrunnlag – årsinntekt i den nye stillingen) / pensjonsgrunnlag x 100  
+Hvis inntekten din endrer seg, kan alderspensjonen din bli beregnet i flere uttak med litt forskjellig beregning for hvert uttak.  
 Stilling som fører til medlemskap i offentlig tjenestepensjonsordning, vil også kunne gi nedgang i pensjonen etter at du er ferdig med å arbeide. Les mer om dette ved å klikke på lenken "Skal du jobbe etter 67 år" under.
 
 Fordyp deg mer om inntekt og alderspensjon her:

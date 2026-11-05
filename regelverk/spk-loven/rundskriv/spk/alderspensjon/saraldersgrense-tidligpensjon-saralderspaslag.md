@@ -45,7 +45,6 @@ Særalderspåslaget kan verte redusert av to årsaker:
 ### Inntekt samtidig med særalderspåslag
 
 Når du får særalderspåslag, fastset vi ei [inntektsgrense](https://www.spk.no/Ord-og-uttrykk-om-pensjon/inntektsgrense/)InntektsgrenseInntektsgrensen er den årlige arbeidsinntekten du kan ha før pensjonen blir redusert. Inntektsgrense gjelder for uførepensjon, tidligpensjon og særalderspåslag.[Mer om Inntektsgrense](https://www.spk.no/Ord-og-uttrykk-om-pensjon/inntektsgrense/). Dersom du har inntekt som er høgare enn inntektsgrensa samtidig med særalderspåslaget, vert påslaget redusert. Vi bereknar reduksjonen når skatteoppgjeret for året er klart. Om påslaget blir redusert for inntekt, gjeld reduksjonen frå den nye berekninga er klar.  
-  
 *Døme: Du har hatt inntekt over inntektsgrensa i 2026. Skatteoppgjøret for 2026 er klart hausten 2027, og vi bereknar reduksjon og nytt særalderspåslag frå 1.januar 2028.*
 
 Om påslaget vert redusert, er reduksjonen permanent. Det vil seie at påslaget ditt vert varig lågare – det går ikkje tilbake til det opphavlege beløpet seinare.

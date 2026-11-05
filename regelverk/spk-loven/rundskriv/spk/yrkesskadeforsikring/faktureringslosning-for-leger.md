@@ -15,7 +15,6 @@ Hvis du har EPJ-system får du honorar fra Helfo via EPJ-systemet. Kodene som id
 Dersom du ikke har EPJ-system kan du sende oss faktura. Det er viktig at det står på fakturaen at du ikke har EPJ-system, ellers kommer fakturaen i retur.
 
 Leger ved sykehus kan også bruke refusjonsløsningen via EPJ-systemet. I så fall skal sykehusets organisasjonsnummer benyttes.  
-  
 Satser for honorar som gjelder fra 1. juli 2026:
 
 | Skjema | Honorar i kroner | EPJ-kode |  |  |

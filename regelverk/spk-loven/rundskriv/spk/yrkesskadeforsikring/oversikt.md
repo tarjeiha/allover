@@ -64,7 +64,6 @@ Når vi har mottatt og registrert saken din, kan du [logge inn på Min side](htt
 ## Saksbehandlingstid
 
 Behandlingstiden avhenger av saken din. Saksbehandleren din informerer deg underveis i prosessen. Når vi har fått avklart hendelsesforløpet, helsen din og den økonomiske situasjonen din etter skaden, tar vi en avgjørelse i saken.  
-  
 Du skal alltid bli kontaktet innen 30 dager når du sender en henvendelse til oss.
 
 Nyttige lenker

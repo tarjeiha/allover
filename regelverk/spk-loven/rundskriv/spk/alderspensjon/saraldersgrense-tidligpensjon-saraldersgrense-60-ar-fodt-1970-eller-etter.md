@@ -40,7 +40,6 @@ Tidligpensjon beregnes ut fra [pensjonsgrunnlag](https://www.spk.no/Ord-og-uttry
 Du må slutte helt eller delvis i stillingen med særaldersgrense for å få utbetalt tidligpensjon.
 
 Har du full tidligpensjon vil inntekt over 2,7 G ([grunnbeløpet i folketrygden](https://www.spk.no/Ord-og-uttrykk-om-pensjon/Grunnbelop/)Grunnbeløp (G)Grunnbeløpet i folketrygda, som vi ofte kallar G, er 136 549 kroner per 01.05.2026. Beløpet blir justert ein gong i året.[Mer om Grunnbeløp (G)](https://www.spk.no/Ord-og-uttrykk-om-pensjon/Grunnbelop/)) samtidig som du mottar tidligpensjon redusere pensjonsutbetalingen. Dersom du har inntekt over denne grensen, blir pensjonen redusert med 66 prosent av inntekt du har over 2,7 G.  
-  
 [Les mer om inntekt i kombinasjon med tidligpensjon](https://www.spk.no/alderspensjon/saraldersgrense/tidligpensjon/inntekt-og-tidligpensjon/)
 
 ## Overgang til alderspensjon

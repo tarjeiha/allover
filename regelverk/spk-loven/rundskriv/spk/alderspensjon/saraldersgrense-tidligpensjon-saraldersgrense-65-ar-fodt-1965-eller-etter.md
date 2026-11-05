@@ -18,7 +18,7 @@ Du kan starte å ta ut alderspensjon når du selv ønsker, tidligst fra 62 år o
 
 - **Jobb så mye du vil**  
 Du kan jobbe så mye du vil samtidig med pensjon, uten at den blir redusert. Du kan kombinere pensjon med full eller delvis jobb, eller slutte helt. Du må ikke slutte å jobbe ved særaldersgrensen.
-- **Pensjonen din har flere deler**   
+- **Pensjonen din har flere deler**  
 Alderspensjonen fra SPK består av flere deler: Alderspensjon opptjent før og etter 2020, samt livsvarig AFP. Du kan ta ut de ulike delene samtidig, eller hver for seg og på ulike tidspunkt. Alderspensjon fra SPK kommer i tillegg til pensjon fra Nav.
 - **Du får mer i pensjon jo lenger du jobber, og jo senere du starter pensjonsuttaket**Du kan gå av med pensjon tidlig, men får mer i årlig pensjon om du jobber lenger og utsetter pensjonsuttaket. Du tjener opp til pensjon så lenge du jobber.
 
@@ -32,8 +32,7 @@ Dersom du ikke har rett til AFP, kan du i stedet få [betinget tjenestepensjon](
 
 ## Særalderspåslag gir deg høyere livsvarig pensjon
 
-Du kan også få [særalderspåslag](https://www.spk.no/Ord-og-uttrykk-om-pensjon/saralderspaslag/)SæralderspåslagSæralderspåslag er eit livsvarig tillegg til alderspensjonen for personar med særaldersgrense (aldersgrense lågare enn 72 år). Gjeld for dei som er fødde i 1963 eller seinare.[Mer om Særalderspåslag](https://www.spk.no/Ord-og-uttrykk-om-pensjon/saralderspaslag/). Dette er en ny ytelse, og et tillegg til alderspensjonen for deg med særaldersgrense. Påslaget skal bidra til at du får en livsvarig pensjon på omtrent samme nivå som dem uten særaldersgrense, selv om du slutter tidligere å jobbe.   
-  
+Du kan også få [særalderspåslag](https://www.spk.no/Ord-og-uttrykk-om-pensjon/saralderspaslag/)SæralderspåslagSæralderspåslag er eit livsvarig tillegg til alderspensjonen for personar med særaldersgrense (aldersgrense lågare enn 72 år). Gjeld for dei som er fødde i 1963 eller seinare.[Mer om Særalderspåslag](https://www.spk.no/Ord-og-uttrykk-om-pensjon/saralderspaslag/). Dette er en ny ytelse, og et tillegg til alderspensjonen for deg med særaldersgrense. Påslaget skal bidra til at du får en livsvarig pensjon på omtrent samme nivå som dem uten særaldersgrense, selv om du slutter tidligere å jobbe.  
 Du kan ta ut påslaget fra 62 år, og det utbetales månedlig. For å få særalderspåslag må du
 
 - ha jobbet i stilling med særaldersgrense i minst 10 av de 15 siste årene før du tar ut påslaget, og

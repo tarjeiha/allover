@@ -29,9 +29,7 @@ Du kan ha rett til økonomisk erstatning hvis du skader deg eller blir syk når 
 ## Hva er forskjellen på engangserstatning og yrkesskadeerstatning?
 
 Under tjeneste i Forsvaret eller Sivilforsvaret kan du være omfattet av yrkesskadeforsikringen og engangserstatningsordningen. Når du melder skaden vil vi vurdere hvilke ordninger som gjelder for deg og om du har rett til erstatning. Du trenger kun sende én skademelding til oss per skade.  
-  
 Engangserstatningen dekker bare skader og sykdommer som medfører medisinsk invaliditet. Invaliditet betyr at du har er en varig fysisk eller psykisk skade/funksjonsnedsettelse. Graden av invaliditet vurderes ut fra skadens omfang, uavhengig av jobb og inntekt.  
-  
 Om skaden eller sykdommen i tillegg påvirker inntektsevnen din, eller du har utgifter som ikke dekkes av Helfo eller Nav, vurderer vi om du har rett til yrkesskadeerstatning.
 
 ## Meld skade

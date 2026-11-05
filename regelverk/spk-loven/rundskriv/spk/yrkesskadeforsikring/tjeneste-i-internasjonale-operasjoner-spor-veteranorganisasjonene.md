@@ -49,8 +49,8 @@ E-post: [post@siops.no](mailto:post@siops.no)
 
 Postadresse:  
 Postboks 1550 Sentrum 0015 Oslo  
-Besøksadresse:   
+Besøksadresse:  
 Akershus festning, Bygning 46  
 Telefon: 800 85 000 (telefontid 10.00-15.00)  
-E-post: [veteraner@mil.no](mailto:veteraner@mil.no)   
+E-post: [veteraner@mil.no](mailto:veteraner@mil.no)  
 [https://forsvaret.no/veteraner](https://forsvaret.no/veteraner)

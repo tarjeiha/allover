@@ -16,16 +16,12 @@ Hvis du har inntekt fra en stilling i offentlig sektor som medfører medlemskap 
 
 - **Kortere arbeidsforhold**  
 Enkeltstående arbeidsforhold som ikke varer lenger enn 29 dager i virksomheter tilknyttet Statens pensjonskasse, gir ikke medlemskap. Slike arbeidsforhold vil derfor ikke føre til reduksjon av pensjon. Vi teller i slike tilfeller antall kalenderdager fra du begynner i stillingen til du slutter i den, ikke hvor mange dager du har avtale om å jobbe mens arbeidsforholdet varer. [Vi viser til korttidsavtalen i statens personalhåndbok punkt 9.18](https://lovdata.no/dokument/SPH/sph-2023/KAPITTEL_9#KAPITTEL_9).
-- **Gå av med delvis særalderspensjon og fortsette i delvis stilling**Du kan gå av med delvis særalderspensjon fra oss og fortsette å jobbe deltid i offentlig sektor. Vi reduserer pensjonen etter forholdet mellom den gjennomsnittlige stillingsstørrelsen du har hatt i stillinger med rett til medlemskap i offentlige pensjonsordninger og stillingsstørrelsen du fortsetter å jobbe i.   
-  
+- **Gå av med delvis særalderspensjon og fortsette i delvis stilling**Du kan gå av med delvis særalderspensjon fra oss og fortsette å jobbe deltid i offentlig sektor. Vi reduserer pensjonen etter forholdet mellom den gjennomsnittlige stillingsstørrelsen du har hatt i stillinger med rett til medlemskap i offentlige pensjonsordninger og stillingsstørrelsen du fortsetter å jobbe i.  
 Pensjonsgrad = (Gjennomsnittlig stillingsstørrelse – stillingsstørrelsen du fortsetter å jobbe i) / gjennomsnittlig stillingsstørrelse x 100  
-  
 Hvis du endrer stillingsstørrelsen du fortsetter å jobbe i, kan særalderspensjonen din bli beregnet i flere uttak med litt forskjellig beregning for hvert uttak.
 - **Gå av med 100 prosent særalderspensjon fra en stilling og begynne i en ny stilling som gir medlemskap i en offentlig tjenestepensjonsordning**  
-Har du gått av med 100 prosent særalderspensjon, reduserer vi pensjonen etter forholdet mellom pensjonsgrunnlaget og inntekten i den nye stillingen.   
-  
-Pensjonsgrad = (Pensjonsgrunnlag – årsinntekt i den nye stillingen) / pensjonsgrunnlag x 100   
-  
+Har du gått av med 100 prosent særalderspensjon, reduserer vi pensjonen etter forholdet mellom pensjonsgrunnlaget og inntekten i den nye stillingen.  
+Pensjonsgrad = (Pensjonsgrunnlag – årsinntekt i den nye stillingen) / pensjonsgrunnlag x 100  
 Hvis inntekten din endrer seg, kan særalderspensjonen din bli beregnet i flere uttak med litt forskjellig beregning for hvert uttak.
 
 ## Pensjonistlønn

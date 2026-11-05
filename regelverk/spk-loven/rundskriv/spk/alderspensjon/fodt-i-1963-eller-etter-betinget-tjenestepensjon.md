@@ -31,8 +31,7 @@ Pensjonen din tar utgangspunkt i opptjent pensjonsbeholdning og alder. Du får h
 
 ## Hvordan tjener jeg opp til betinget tjenestepensjon?
 
-Du tjener opp til betinget tjenestepensjon ved at det settes av midler i en egen beholdning. Opptjeningen er 3 prosent av all pensjonsgivende inntekt opp til 7,1 G.   
-   
+Du tjener opp til betinget tjenestepensjon ved at det settes av midler i en egen beholdning. Opptjeningen er 3 prosent av all pensjonsgivende inntekt opp til 7,1 G.  
 Du tjener opp til betinget tjenestepensjon mens du jobber i en offentlig stilling med tjenestepensjon fra og med 01.01.2020 til og med måneden du fyller 62 år.
 
 Beholdningen din justeres opp (øker) med lønnsvekst 1. mai hvert år fram til du tar ut betinget tjenestepensjon. Etter at du har begynt å ta ut pensjon, øker pensjonen årlig med et gjennomsnitt av lønns- og prisveksten i samfunnet.
