@@ -1,11 +1,18 @@
-name: Hent NAVs rundskriv til folketrygdloven
+name: Hent Navs rundskriv fra Lovdata
 
-# Manuell engangskjøring: henter rundskrivene fra Lovdata til innboks/ og legger dem inn i basen.
+# Hver uke: henter nye og endrede rundskriv fra Nav rettskilder (lovdata.no/nav) til lover i basen,
+# og legger dem inn med innboksens kode. Se verktoy/rundskriv_hent.py.
 on:
+  schedule:
+    - cron: "10 4 * * 1"
+  # Når skriptet endres på en claude/-gren, kjøres det der, så resultatet kan ses før det går i main.
+  push:
+    branches: ["claude/**"]
+    paths: ["verktoy/rundskriv_hent.py", ".github/workflows/rundskriv-hent.yml"]
   workflow_dispatch:
     inputs:
       rundskriv:
-        description: "Rundskriv som skal hentes, atskilt med mellomrom (f.eks. r13-00 r14-00). Tomt gir alle som mangler."
+        description: "Bestemte rundskriv, atskilt med mellomrom (f.eks. r08-00 r14-00). Tomt gir nye og endrede. --tving henter alle."
         required: false
         default: ""
 
@@ -20,6 +27,7 @@ concurrency:
 jobs:
   hent:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
@@ -33,36 +41,48 @@ jobs:
           sudo apt-get install -y -q --no-install-recommends poppler-utils pandoc libreoffice-writer-nogui
           pip install beautifulsoup4==4.12.3 lxml==5.3.0
 
-      - name: Hent rundskriv fra Lovdata
+      - name: Hent og legg inn rundskriv
         env:
           RUNDSKRIV: ${{ inputs.rundskriv }}
         run: python3 verktoy/rundskriv_hent.py $RUNDSKRIV
 
-      - name: Legg inn rundskriv
-        run: python3 verktoy/rundskriv.py
-
-      - name: Legg inn på main
+      - name: Lagre
         run: |
-          [ -f rundskriv-rapport.txt ] || exit 0
-          mv rundskriv-rapport.txt "$RUNNER_TEMP/melding.txt"
+          [ -f nav-rundskriv-rapport.txt ] || exit 0
+          cp nav-rundskriv-rapport.txt "$RUNNER_TEMP/melding.txt"
+          rm nav-rundskriv-rapport.txt
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet && exit 0
           git commit -q -F "$RUNNER_TEMP/melding.txt"
           for i in 1 2 3; do
-            git push && exit 0
-            git pull --rebase -q origin main
+            git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            git pull --rebase -q origin "$GITHUB_REF_NAME"
           done
           exit 1
 
       - name: Vis resultatet
         if: always()
-        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Ingenting å legge inn." >> "$GITHUB_STEP_SUMMARY"
+        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Ingen endringer i Navs rundskriv." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Sammendrag
+        if: success() && github.ref_name == 'main'
+        run: |
+          [ -f "$RUNNER_TEMP/melding.txt" ] && echo "rapport=ja" >> "$GITHUB_OUTPUT" || echo "rapport=nei" >> "$GITHUB_OUTPUT"
+        id: sjekk
+
+      - name: Meld fra om endringer
+        if: success() && steps.sjekk.outputs.rapport == 'ja'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Navs rundskriv: ukentlig oppdatering"
+          tekst: "Navs rundskriv er oppdatert fra Lovdata. Se lista under. Lukk saken når du har sett den."
+          fil: ${{ runner.temp }}/melding.txt
 
       - name: Varsle om feil
         if: failure()
         uses: ./.github/actions/driftsvarsel
         with:
-          tittel: "Henting av rundskriv: feil"
-          tekst: "hentingen av rundskriv fra Lovdata feilet. Se kjøringen, eller be Claude se på det."
+          tittel: "Henting av Navs rundskriv: feil"
+          tekst: "den ukentlige hentingen av Navs rundskriv fra Lovdata feilet. Se kjøringen, eller be Claude se på det."

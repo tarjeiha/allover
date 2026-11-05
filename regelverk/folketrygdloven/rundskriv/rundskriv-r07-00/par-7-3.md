@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 7: Stønad ved gravferd"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r07-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 7-3"
 gjelder: "lov"
 ---
@@ -140,7 +140,11 @@ Dersom de pårørende velger å kjøpe tjenester fra begravelsesbyråer som ligg
 I tvilstilfeller må *NAV* foreta en skjønnsmessig vurdering av hva som er rimelig nødvendig i det enkelte tilfellet etter følgende retningslinjer:
 
 1.  Hva som skal anses som et «naturlig» valg av begravelsesbyrå vil alltid være avhengig av hva som er alminnelig på stedet. Dersom de pårørende ønsker å velge et byrå fra et annet sted, og dette medfører ekstrautgifter, vil disse ekstrautgiftene måtte anses å ligge utenfor rammen av «nødvendige utgifter» i forhold til [folketrygdlovens § 7-3](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A77-3).
+
+    Det presiseres at dette ikke gjelder når det dreier seg om tilfeller der det finnes flere byråer på samme sted. *NAV* kan ikke begrense dekningen svarende til det laveste av slike konkurrerende byråers takster.
+
 2.  Normalt bør det kunne velges et begravelsesbyrå som ligger enten på dødsstedet eller på avdødes bosted/naturlige gravsted, og «nødvendige utgifter til båretransport» anses da å være begrenset til hva transporten ville kostet ved bruk av et slikt byrå.
+
 3.  Dersom det ikke finnes begravelsesbyrå på dødsstedet eller på bostedet, vil det naturlige være å velge det byrået eller et av de byråene som ligger nærmest enten dødsstedet eller bostedet/gravstedet.
 
 Det vil være *NAV*s skjønn og *kunnskap* som, sammen med foranstående generelle retningslinjer, må danne grunnlaget for den praksis det legges opp til i den enkelte kommune.

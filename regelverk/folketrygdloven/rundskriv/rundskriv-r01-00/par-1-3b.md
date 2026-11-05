@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 1: Formål og definisjoner m.m."
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r01-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 1-3 b"
 gjelder: "lov"
 ---

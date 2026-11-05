@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 21 – Saksbehandlingsrundskriv"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r21-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 10"
 gjelder: "forskrift"
 ---
@@ -30,8 +30,7 @@ Tilstrekkelige opplysninger om arbeidsuførhet på grunn av sykdom eller skade, 
 2\. Tidspunktet for sykdom og melding om sykdom: ftrl. § 8-18 og § 8-19
 
 - Når startet arbeidsforholdet?
-
-- - Når ble arbeidstakeren syk?
+  - Når ble arbeidstakeren syk?
   - Når søkte arbeidstakeren lege?
   - Når fikk arbeidsgiveren beskjed om at fraværet skyldtes sykdom?
   - På hvilken måte ble det gitt beskjed til arbeidsgiver om fraværet?

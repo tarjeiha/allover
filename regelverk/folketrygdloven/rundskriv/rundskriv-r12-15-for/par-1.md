@@ -1,0 +1,46 @@
+---
+rundskriv: "Rundskriv – Kommentar til Forskrift om overgangsregler for personer som har rett til barnetillegg til uføretrygd per 31. desember 2015"
+lov: "Folketrygdloven"
+kilde: "original/folketrygdloven-rundskriv-r12-15-for.html"
+lagt_inn: "2026-11-04"
+paragraf: "§ 1"
+gjelder: "forskrift"
+---
+
+# Rundskriv – Kommentar til Forskrift om overgangsregler for personer som har rett til barnetillegg til uføretrygd per 31. desember 2015 – § 1
+
+## § 1 Virkeområde og personkrets
+
+[FOR-2015-09-23-1095-§1](https://lovdata.no/nav/forskrift/2015-09-23-1095/%C2%A71)  
+
+### § 1 første ledd – Personer som omfattes av forskriften
+
+[FOR-2015-09-23-1095-§1](https://lovdata.no/nav/forskrift/2015-09-23-1095/%C2%A71)  
+
+I første ledd fremkommer det at personer som har rett til barnetillegg per 31. desember 2015 er omfattet av reglene i forskriften. Dette gjelder selv om barnetillegget ikke blir utbetalt, som følge av behovsprøvingen i folketrygdloven § 12-16.
+
+### § 1 andre ledd – Overgangsperiode og tidspunktet for når personen ikke lenger omfattes av overgangsreglene
+
+[FOR-2015-09-23-1095-§1](https://lovdata.no/nav/forskrift/2015-09-23-1095/%C2%A71)  
+
+Andre ledd omhandler hvor lenge en person omfattes av reglene i forskriften. Når personen ikke lenger omfattes av reglene i forskriften, gjelder de ordinære reglene i [folketrygdloven § 12-15](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-15) tredje ledd.
+
+#### Andre ledd første punktum – Overgangsperiode
+
+\[Endret 2/17\]
+
+Etter andre ledd første punktum skal barnetillegget beregnes etter [§ 2](https://lovdata.no/nav/forskrift/2015-09-23-1095/%C2%A72) i perioden fra og med 1. januar 2016 til og med 31. desember *2020*. Denne perioden kalles overgangsperioden. [§ 2](https://lovdata.no/nav/forskrift/2015-09-23-1095/%C2%A72) omhandler nedtrapping av taket i overgangsperioden. Fra 1. januar *2021* gjelder de ordinære reglene i [folketrygdloven § 12-15](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-15) tredje ledd.
+
+#### Andre ledd andre punktum – Tidspunktet for når personen ikke lenger omfattes av overgangsreglene
+
+Andre ledd andre punktum omhandler tidspunkt for når personen ikke lenger omfattes av overgangsreglene. Det fremkommer her at opphold i retten til barnetillegg på en kalendermåned eller mer medfører at barnetillegget ikke lenger blir beregnet etter [§ 2](https://lovdata.no/nav/forskrift/2015-09-23-1095/%C2%A72).
+
+Hvis en person for eksempel har barnetillegg for to barn og retten til barnetillegg for det ene barnet opphører, vil vedkommende fortsatt omfattes av reglene i forskriften fordi personen fortsatt har rett til barnetillegg for et barn.
+
+Eksempel:
+
+En persons rett til barnetillegg opphører med virkning fra 1. februar 2016. Det innvilges deretter barnetillegg for et annet barn med virkning fra 1. februar 2016. Personen omfattes fortsatt at reglene i forskriften.
+
+Det er ikke av betydning om barnetilleggene er innvilget for fellesbarn eller særkullsbarn, eller om det er en overgang fra barnetillegg for fellesbarn til barnetillegg for særkullsbarn. Det avgjørende er om det har vært et opphold i retten til barnetillegg på en kalendermåned eller mer.
+
+Når personen ikke lenger omfattes av forskriften, gjelder de ordinære reglene om beregning av barnetillegg i [folketrygdloven § 12-15](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A712-15) tredje ledd.

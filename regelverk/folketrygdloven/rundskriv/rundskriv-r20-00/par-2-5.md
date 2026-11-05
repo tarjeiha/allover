@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 20: Ny alderspensjon"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r20-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 2-5"
 gjelder: "forskrift"
 ---
@@ -55,11 +55,11 @@ Bestemmelsen tilsvarer lovens [§ 20-7](https://lovdata.no/nav/lov/1997-02-28-19
 
 Pensjonsopptjeningen for 2012 blir da:
 
-|     |                                                             |                               |     |          |
-|-----|-------------------------------------------------------------|-------------------------------|-----|----------|
-|     | 18,1 % x *(pensjonsgivende inntekt. utbetalte dagpenger)* = | 18,1 % x *(200 000 – 40 000)* | =   | *28 960* |
-| \+  | *opptjening fra mottak av dagpenger*                        | 18,1 % x *64 103*             | =   | *11 603* |
-| =   | Foreløpig beregnet opptjening for 2012                      |                               |     | 40 563   |
+|  |  |  |  |  |
+|----|----|----|----|----|
+|  | 18,1 % x *(pensjonsgivende inntekt. utbetalte dagpenger)* = | 18,1 % x *(200 000 – 40 000)* | = | *28 960* |
+| \+ | *opptjening fra mottak av dagpenger* | 18,1 % x *64 103* | = | *11 603* |
+| = | Foreløpig beregnet opptjening for 2012 |  |  | 40 563 |
 
 Opptjeningen kan ikke overstige 18,1% \* 7,1G = *93 812*. Opptjeningen er under dette nivået i dette eksempelet.
 
@@ -75,11 +75,11 @@ Pensjonsopptjening for 2012:
 
 Pensjonsopptjeningen for 2012 blir da:
 
-|     |                                                             |                               |     |          |
-|-----|-------------------------------------------------------------|-------------------------------|-----|----------|
-|     | 18,1 % x *(pensjonsgivende inntekt. utbetalte dagpenger)* = | 18,1 % x *(500 000 – 100 000* | =   | *72 400* |
-| \+  | *opptjening fra mottak av dagpenger*                        | 18,1 % x 189 637              | =   | 34 324   |
-| =   | Foreløpig beregnet opptjening for 2012                      |                               |     | 106 724  |
+|  |  |  |  |  |
+|----|----|----|----|----|
+|  | 18,1 % x *(pensjonsgivende inntekt. utbetalte dagpenger)* = | 18,1 % x *(500 000 – 100 000* | = | *72 400* |
+| \+ | *opptjening fra mottak av dagpenger* | 18,1 % x 189 637 | = | 34 324 |
+| = | Foreløpig beregnet opptjening for 2012 |  |  | 106 724 |
 
 Opptjeningen skal ikke overstige 18,1% × 7,1 G = *93 812*. Opptjeningen overstiger denne grensen, og beregningen over gir derfor ikke opptjeningen. Opptjeningen blir i stedet *93 812.*
 

@@ -195,7 +195,7 @@ Følgende er ikke dekket. Spørsmål om dem skal ikke besvares fra hukommelsen, 
 
 ## For redaktører
 
-- Rundskriv legges i `innboks/`, så legges de inn automatisk under riktig lov. Se `innboks/README.md`.
+- Rundskriv legges i `innboks/`, så legges de inn automatisk under riktig lov. Se `innboks/README.md`. Navs rundskriv skal ikke legges i innboksen: de hentes hver uke fra Lovdata med `verktoy/rundskriv_hent.py` for alle lover i basen, og status står i `regelverk/nav-rundskriv.tsv`.
 - Merknader, EØS-tekster og rundskriv som ble flyttet fra de gamle skillene, redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
 - `verktoy/sjekk_tekst.py` kontrollerer merknader og den håndskrevne delen av veiviserne ved hver pull request: at stiene finnes, og at ingen tekst sier at et regelverk i basen «ikke er i basen». Hva som er i basen, står bare i tabellene over. Skriv det ikke i merknadene.
 - Budsjettdokumenter (Prop. 1 S, Gul bok, Nasjonalbudsjettet og datagrunnlaget) legges i `innboks-budsjett/` med filnavn etter mønsteret i `innboks-budsjett/README.md`, og legges da inn under `budsjett/<år>/`.

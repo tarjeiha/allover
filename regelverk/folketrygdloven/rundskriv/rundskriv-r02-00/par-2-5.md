@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 2: Medlemskap"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r02-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 2-5"
 gjelder: "lov"
 ---
@@ -15,7 +15,7 @@ gjelder: "lov"
 
 Omarbeidet i sin helhet 29.06.2021
 
-Sist endret 25.06.2026, se punkt 11 - d) Særlig om forsørgelsesbegrepet
+Sist endret 22.10.2026, se punkt 6
 
 #### 1. Generell kommentar
 
@@ -120,9 +120,13 @@ Bestemmelsen gjelder både faktisk tjenestegjøring og deltakelse på skoler ell
 
 #### 6. Utsendte fredskorpsdeltakere og eksperter som tjenestegjør i utviklingsland
 
+\[Endret 10/26\]
+
 Personer utsendt av den norske stat som fredskorpsdeltakere eller som eksperter som tjenestegjør i utviklingsland, er pliktige medlemmer i folketrygden med full trygdedekning. De fleste arbeidstakere som tjenestegjør for den norske stat i utlandet kommer inn under bestemmelsen i bokstav a om pliktig medlemskap for arbeidstakere i statens tjeneste. I bestemmelsen i bokstav d stilles det imidlertid ikke krav om norsk statsborgerskap.
 
-Som følge av omleggingen av Fredskorpset kommer bestemmelsen sjelden til anvendelse. Fredskorpsdeltagere ble tidligere utsendt og lønnet av den norske stat. De var etter denne bestemmelsen pliktige medlemmer i folketrygden med full trygdedekning. Med omleggingen av Fredskorpset i 1999 med virkning fra 2001 er ikke fredskorpsdeltagere lenger å anse som lønnet av den norske stat, ei heller underlagt Fredskorpsets instruksjonsmyndighet. For disse foreligger det således ikke lenger grunnlag for pliktig medlemskap. Se TRR-2013-1176 med videre henvisninger. Medlemskapet i folketrygden for personer som i regi av Fredskorpset er utsendt av sin arbeidsgiver for å arbeide i utlandet og som ikke er pliktig medlemmer som bosatt i Norge må derfor søke frivillig medlemskap etter § 2-8 for fortsatt medlemskap i folketrygden.
+Som følge av omleggingen av Fredskorpset *(nå Norec)* kommer bestemmelsen sjelden til anvendelse. Fredskorpsdeltagere ble tidligere utsendt og lønnet av den norske stat. De var etter denne bestemmelsen pliktige medlemmer i folketrygden med full trygdedekning. Med omleggingen av Fredskorpset i 1999 med virkning fra 2001 er ikke fredskorpsdeltagere lenger *ansatt i den norske stat, men sendes ut via organisasjoner som får støtte av staten. Disse er derfor ikke* å anse som lønnet av den norske stat, ei heller underlag*t* *statens* *i*nstruksjonsmyndighe*t*. *Denne gruppen er* *etter dette ikke lenger pliktige medlemmer i trygden etter [folketrygdloven § 2-5 første ledd bokstav d](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A72-5), se* *TRR-2025-4910* *m*ed videre henvisninge*r*. *P*ersoner so*m* *gjennom* *Norec-finansierte ordninger* *e*r utsendt av sin arbeidsgiver for å arbeide i utlandet og som ikke er pliktig medlemmer som bosatt i Norge må derfor søke frivillig medlemskap etter § 2-8 for fortsatt medlemskap i folketrygden.
+
+*Det samme gjelder i stor grad eksperter som tjenestegjør i utviklingsland. Disse er i dag normalt ansatt i organisasjoner som mottar statlig støtte, og ikke i staten. De lønnes derfor ikke av den norske stat og er heller ikke underlagt statens instruksjonsmyndighet.*
 
 #### 7. Personer i tjeneste som forhåndsutskrevet av den norske stat til NATOs sivile krigstidsorganer
 

@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 2: Medlemskap"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r02-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 ---
 
 # Rundskriv til ftrl kap 2: Medlemskap
@@ -13,11 +13,13 @@ Myndighet: Nav – Arbeids- og velferdsetaten
 Dato: 1997-05-01  
 Doknr/publisert: R02-00  
 Sammendrag: Rundskriv til ftrl kap 2: Medlemskap Henvisninger: Folketrygdloven (1997) kap 2 , §2-1 , §2-2 , §2-3 , §2-4 , §2-5 , §2-6 , §2-7 , §2-7a , §2-8 , §2-9 , §2-10 , §2-11 , §2-12 , §2-13 , §2-14 , §2-15 , §2-16 , §2-17  
-Sist endret: 2026-08-24  
+Sist endret: 2026-10-27  
 
  
 
-Sist endret 24.08.2026, se § 2-8 punkt 5.4
+Sist endret 27.10.2026:  
+- Under Generell del er punkt 2.5.1.5 fjernet  
+- Det er gjort endringer i § 2-13 punkt 4
 
 ## Generell del
 
@@ -250,25 +252,7 @@ Bestemmelsen er gitt av hensyn til norsk cruisefart for å hindre at hotell- og 
 
 ###### 2.5.1.4 Pensjonister med bare utenlandsk pensjon som har bosatt seg i Norge i 1993 eller senere
 
-Slike pensjonister er unntatt fra opptjening av rett til pensjon i Norge når deres utenlandske pensjon er minst like stor som minstepensjon for enslige fra folketrygden, [§ 2-13](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A72-13) første ledd.
-
-###### 2.5.1.5 Unntak fra folketrygden for «oppholdsdirektivpersoner»
-
-Som en tilpasning til EØS-reglene er det i forskrift til [§ 2-13](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A72-13) første ledd gitt bestemmelser om unntak fra hele folketrygden for ikke-yrkesaktive persongrupper (pensjonister, studenter og «andre») og deres familie, som har rett til å ta opphold i Norge etter de såkalte «oppholdsdirektivene» knyttet til EØS-avtalen (Rådsdirektiv [90/364](https://lovdata.no/nav/eu/390l0364) og [365](https://lovdata.no/nav/eu/390l0365) begge av 28. juni 1990, og 93/96 av 29. oktober 1993).
-
-Direktivenes bestemmelser er innarbeidet i utlendingsloven § 51 første ledd bokstav c og d og utlendingsforskriften \[[FOR-2009-10-15-1286](https://lovdata.no/nav/forskrift/2009-10-15-1286)\] §§ 163 og 164. Utlendingsloven med tilhørende forskrifter administreres av Utlendingsdirektoratet (UDI) og de lokale politikammere.
-
-Det lokale politikammeret kan gi opplysning om en person har fått oppholdstillatelse i Norge etter oppholdsdirektivene.
-
-Disse personer må ha sykeforsikring som dekker alle risikoer så lenge de oppholder seg i Norge, og egne midler eller utenlandske trygderettigheter som dekker utgifter til livsopphold. På dette grunnlag er de helt unntatt fra folketrygden.
-
-Mange av dem, for eksempel pensjonister med utenlandsk pensjon som går inn under reglene om trygdekoordinering under EØS-avtalen, vil likevel ha rett til stønad ved helsetjenester etter norske regler. Ikke-nordiske personer uten EØS-dekning skal ha annen dekning ved sykdom for å ha oppholdsrett.
-
-Unntaket fra folketrygden for «oppholdsdirektivpersoner», etter § 1 nr. 1 i forskriften, gjelder ikke norske statsborgere. Det gjelder heller ikke for personer som tar arbeid i Norge eller mottar pensjon fra folketrygden, selv om denne skulle være liten.
-
-Merk at unntaket gjelder bare når oppholdet/bosettingen i Norge tok til 1. februar 1994 eller senere. Forskriftbestemmelsen er opprinnelig fastsatt denne dato og ble gitt virkning fra da av.
-
-Til tross for ordlyden i forskriften, gjelder unntaket heller ikke personer som verken er yrkesaktive eller har utenlandsk pensjon som går inn under EØS-reglene, når de kommer fra annet nordisk land og blir folkeregisterført i Norge. Disse blir medlem i folketrygden fullt ut. Dette følger av en felles nordisk forståelse av Den nordiske konvensjonen.
+Slike pensjonister er unntatt fra opptjening av rett til pensjon i Norge når deres utenlandske pensjon er minst like stor som minstepensjon for enslige fra folketrygden, [§ 2-13](https://lovdata.no/nav/lov/1997-02-28-19/%C2%A72-13) første led*d.*
 
 ##### 2.5.2 Etter avtaler med andre land om trygd
 
@@ -473,4 +457,4 @@ Reglene i Nordisk konvensjon om trygd er nærmere beskrevet i rundskriv hovednum
 
 ## Kommentarer til de enkelte paragrafene i kapittel 2
 
-Sist endret 24.08.2026, se § 2-8 punkt 5.4
+Sist endret 27.10.2026, se § 2-13 punkt 4

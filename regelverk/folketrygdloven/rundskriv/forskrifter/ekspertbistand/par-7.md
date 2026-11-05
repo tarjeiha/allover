@@ -1,17 +1,19 @@
 ---
-rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+rundskriv: "Rundskriv til forskrift om tilskudd til ekspertbistand"
 lov: "Folketrygdloven"
 forskrift: "Forskrift om tilskudd til ekspertbistand"
 forskrift_id: "FOR-2019-08-29-1105"
-kilde: "original/nav_rundskriv_r08-07a-for.docx"
+kilde: "original/folketrygdloven-rundskriv-r08-07a-for.html"
 lagt_inn: "2026-11-04"
 paragraf: "§ 7"
 gjelder: "forskrift"
 ---
 
-# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR) – § 7
+# Rundskriv til forskrift om tilskudd til ekspertbistand – § 7
 
 ## 8. FORSKRIFT OM TILSKUDD TIL EKSPERTBISTAND § 7 SKAL FORSTÅS SLIK
+
+[FOR-2019-08-29-1105-§7](https://lovdata.no/nav/forskrift/2019-08-29-1105/%C2%A77)  
 
 Forskrift om tilskudd til ekspertbistand § 7 handler om vedtaksmyndighet og klageadgang.
 

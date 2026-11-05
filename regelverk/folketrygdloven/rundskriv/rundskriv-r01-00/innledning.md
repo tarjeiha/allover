@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 1: Formål og definisjoner m.m."
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r01-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 ---
 
 # Rundskriv til ftrl kap 1: Formål og definisjoner m.m.
@@ -64,9 +64,9 @@ Det er også gjennomført betydelige reformer i folketrygdens pensjonsytelser. F
 
 Nærmere omtale av historikk for de ulike ytelsene står i rundskriv til de enkelte kapitler i folketrygdloven.
 
-|     |                                                                                                                                                                                                |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Der det er behov for å skille mellom tidligere og nåværende folketrygdlov i rundskrivet, blir nåværende lov kalt «folketrygdloven», mens den tidligere loven kalles «folketrygdloven av 1967». |
+|  |  |
+|----|----|
+| 1 | Der det er behov for å skille mellom tidligere og nåværende folketrygdlov i rundskrivet, blir nåværende lov kalt «folketrygdloven», mens den tidligere loven kalles «folketrygdloven av 1967». |
 
 #### 2.2 Vern mot private avtaler (§ 1-2)
 
@@ -134,9 +134,9 @@ Ved lov av lov 30 april 1993 om registrert partnerskap ble registrert partnerska
 
 Ved endringslov av 17. desember 1993 nr. 130, jf. Ot.prp.nr.4 (1993–1994), ble bestemmelsene for ektefeller i folketrygdloven gjort gjeldende for visse samboerpar. Dette gjelder samboerpar som har eller har hatt felles barn, eller som tidligere har vært gift med hverandre. Når slike samboere begge er pensjonister, får de ikke lenger pensjon som enslige, men som ektefeller. De får dessuten rett til etterlattepensjon dersom den ene dør, på lik linje med gjenlevende ektefeller. På tilsvarende måte faller rett til ytelser som krever sivilstatus «ugift», «skilt» eller «enke/enkemann» bort ved inngåelse av slikt samboerforhold.
 
-|     |                                                                                                                                                                                                                                                                                                                                                     |
-|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | Formelt var samboerskap forbudt i Norge fram til 1972 («Konkubinatparagrafen»), selv om ingen er tiltalt for brudd på denne bestemmelsen etter 1905. En konsekvens av at lovverket forbød samboerskap var at det i 1967 ikke var behov for å avgrense ekteskap mot denne samlivsformen når folketrygdloven knyttet rettsvirkninger til sivilstatus. |
+|  |  |
+|----|----|
+| 2 | Formelt var samboerskap forbudt i Norge fram til 1972 («Konkubinatparagrafen»), selv om ingen er tiltalt for brudd på denne bestemmelsen etter 1905. En konsekvens av at lovverket forbød samboerskap var at det i 1967 ikke var behov for å avgrense ekteskap mot denne samlivsformen når folketrygdloven knyttet rettsvirkninger til sivilstatus. |
 
 #### 2.6 Barn (§ 1-6)
 

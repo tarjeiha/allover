@@ -1,6 +1,6 @@
 # Rundskriv til ftrl kap 15 – Stønad til enslig mor eller far
 
-Rundskriv til Folketrygdloven. Lagt inn 2026-10-17 fra `original/folketrygdloven-rundskriv-r15-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til Folketrygdloven. Lagt inn 2026-11-04 fra `original/folketrygdloven-rundskriv-r15-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 

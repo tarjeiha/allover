@@ -2,9 +2,9 @@
 rundskriv: "Rundskriv til ftrl kap 19 – Alderspensjon"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r19-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 7-2"
-gjelder: "forskrift"
+gjelder: "lov"
 ---
 
 # Rundskriv til ftrl kap 19 – Alderspensjon – § 7-2

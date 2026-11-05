@@ -1,17 +1,19 @@
 ---
-rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+rundskriv: "Rundskriv til forskrift om tilskudd til ekspertbistand"
 lov: "Folketrygdloven"
 forskrift: "Forskrift om tilskudd til ekspertbistand"
 forskrift_id: "FOR-2019-08-29-1105"
-kilde: "original/nav_rundskriv_r08-07a-for.docx"
+kilde: "original/folketrygdloven-rundskriv-r08-07a-for.html"
 lagt_inn: "2026-11-04"
 paragraf: "§ 4"
 gjelder: "forskrift"
 ---
 
-# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR) – § 4
+# Rundskriv til forskrift om tilskudd til ekspertbistand – § 4
 
 ## 5. FORSKRIFT OM TILSKUDD TIL EKSPERTBISTAND § 4 SKAL FORSTÅS SLIK
+
+[FOR-2019-08-29-1105-§4](https://lovdata.no/nav/forskrift/2019-08-29-1105/%C2%A74)  
 
 Forskrift om tilskudd til ekspertbistand § 4 handler om vilkårene for å få tilskudd til ekspertbistand.
 
@@ -29,29 +31,12 @@ Relevante offentlige støtteordninger kan for eksempel være arbeidsrettede tilt
 
 Ekspertbistand kan ikke ytes til:
 
-|     |                                                                                             |
-|-----|---------------------------------------------------------------------------------------------|
-| •   | Tilrettelegging eller hjelpemidler som kan dekkes etter folketrygdloven § 10-5, jfr. § 10-7 |
-
-|     |                                                                                                             |
-|-----|-------------------------------------------------------------------------------------------------------------|
-| •   | Lese og sekretærhjelp for blinde og svaksynte og tolkehjelp for hørselshemmede, jfr. folketrygdloven § 10-7 |
-
-|     |                                                             |
-|-----|-------------------------------------------------------------|
-| •   | Bruk av bedriftshelsetjeneste, jfr. arbeidsmiljøloven § 3-3 |
-
-|     |                                                                      |
-|-----|----------------------------------------------------------------------|
-| •   | Helsetjenester fra spesialisthelsetjenesten og kommunehelsetjenesten |
-
-|     |                      |
-|-----|----------------------|
-| •   | Arbeidsmarkedstiltak |
-
-|     |                 |
-|-----|-----------------|
-| •   | Bistand fra Nav |
+- Tilrettelegging eller hjelpemidler som kan dekkes etter folketrygdloven § 10-5, jfr. § 10-7
+- Lese og sekretærhjelp for blinde og svaksynte og tolkehjelp for hørselshemmede, jfr. folketrygdloven § 10-7
+- Bruk av bedriftshelsetjeneste, jfr. arbeidsmiljøloven § 3-3
+- Helsetjenester fra spesialisthelsetjenesten og kommunehelsetjenesten
+- Arbeidsmarkedstiltak
+- Bistand fra Nav
 
 Dersom arbeidsgiver har behov for det, kan Nav gi veiledning om oppfølging av sykmeldte arbeidstakere, herunder om hvilke tiltak, virkemidler og vurderinger som kan være relevante og hensiktsmessige å gjennomføre før det søkes om tilskudd til ekspertbistand. Arbeidstilsynet har ansvar for å følge opp at virksomheter ivaretar sitt ansvar etter arbeidsmiljølovgivningen, herunder tilretteleggingsplikten
 

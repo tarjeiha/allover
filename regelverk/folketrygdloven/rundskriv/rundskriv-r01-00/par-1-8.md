@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 1: Formål og definisjoner m.m."
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r01-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 1-8"
 gjelder: "lov"
 ---
@@ -35,9 +35,9 @@ Trygdeforordningen bestemmer videre at lønnet arbeid og selvstendig næring ska
 
 Trygdeforordningens lovvalgsregler er nærmere omtalt i rundskriv [R45-00 kapittel 2](https://lovdata.no/nav/rundskriv/r45-00/kap2).
 
-|     |                                                                                                                                                            |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3   | Se trygdeforordningen fortale punkt 4: «Det er nødvendig å respektere særtrekkene i nasjonal trygdelovgivning og kun utarbeide et system for koordinering» |
+|  |  |
+|----|----|
+| 3 | Se trygdeforordningen fortale punkt 4: «Det er nødvendig å respektere særtrekkene i nasjonal trygdelovgivning og kun utarbeide et system for koordinering» |
 
 #### Begrepet «arbeider i en annens tjeneste»
 

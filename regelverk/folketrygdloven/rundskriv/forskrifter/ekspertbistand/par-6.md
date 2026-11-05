@@ -1,17 +1,19 @@
 ---
-rundskriv: "Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR)"
+rundskriv: "Rundskriv til forskrift om tilskudd til ekspertbistand"
 lov: "Folketrygdloven"
 forskrift: "Forskrift om tilskudd til ekspertbistand"
 forskrift_id: "FOR-2019-08-29-1105"
-kilde: "original/nav_rundskriv_r08-07a-for.docx"
+kilde: "original/folketrygdloven-rundskriv-r08-07a-for.html"
 lagt_inn: "2026-11-04"
 paragraf: "§ 6"
 gjelder: "forskrift"
 ---
 
-# Rundskriv til ftrl § 8-7a: Utfyllende regler - Forskrift om tilskudd til ekspertbistand (R08-07A-FOR) – § 6
+# Rundskriv til forskrift om tilskudd til ekspertbistand – § 6
 
 ## 7. FORSKRIFT OM TILSKUDD TIL EKSPERTBISTAND § 6 SKAL FORSTÅS SLIK
+
+[FOR-2019-08-29-1105-§6](https://lovdata.no/nav/forskrift/2019-08-29-1105/%C2%A76)  
 
 Forskrift om tilskudd til ekspertbistand § 6 handler om krav til søknad om tilskuddet.
 

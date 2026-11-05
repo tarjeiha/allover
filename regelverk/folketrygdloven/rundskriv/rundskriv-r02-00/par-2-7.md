@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 2: Medlemskap"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r02-00.html"
-lagt_inn: "2026-10-17"
+lagt_inn: "2026-11-04"
 paragraf: "§ 2-7"
 gjelder: "lov"
 ---
