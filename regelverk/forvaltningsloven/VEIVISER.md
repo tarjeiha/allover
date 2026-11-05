@@ -6,12 +6,15 @@ Loven forvaltes av Justis- og beredskapsdepartementet.
 
 En ny forvaltningslov er vedtatt (`regelverk/forvaltningsloven-2025/`), men den er ikke satt i kraft. Til den trer i kraft, gjelder reglene i denne mappen.
 
+Den nye loven har i stor grad nye paragrafnumre. Hvilken ny paragraf som tilsvarer en paragraf her, står i `regelverk/forvaltningsloven-2025/merknader/paragrafnokkel.md`.
+
 ## Slik bruker du veiviseren
 
 Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
 
 ## Kjente feller
 
+- **Sivilombudets uttalelser og rundskriv gjelder loven fra 1967.** Paragrafnumrene i dem følger denne loven. Når den nye loven trer i kraft, finner du den tilsvarende paragrafen i paragrafnøkkelen, men les begge paragrafene, for mange regler er endret.
 - **Den nye loven er ikke i kraft.** Forvaltningsloven 2025 trer i kraft fra den tiden Kongen bestemmer, og loven fra 1967 oppheves først da (forvaltningsloven 2025 § 99). Svar fra denne loven når spørsmålet gjelder dagens regler.
 - **Enkeltvedtak eller forskrift.** Et enkeltvedtak gjelder rettigheter eller plikter til en eller flere bestemte personer, en forskrift gjelder et ubestemt antall eller en ubestemt krets (§ 2 første ledd bokstav b og c). Kapittel IV–VI gjelder bare saker om enkeltvedtak, og kapittel VII bare forskrifter (§ 3 første ledd). Avvisning av en sak og bruk av særlige tvangsmidler regnes også som enkeltvedtak (§ 2 tredje ledd).
 - **Saker om offentlige tjenesteforhold.** Ansettelse, oppsigelse, suspensjon, avskjed og forflytting regnes som enkeltvedtak (§ 2 andre ledd). Vedtak i ansettelsessaker er likevel unntatt fra reglene om begrunnelse, klage og omgjøring etter § 35 tredje ledd, om ikke organet bestemmer noe annet (§ 3 andre ledd). Partsinnsyn i tilsettingssaker følger forvaltningslovforskriften §§ 14–19, ikke § 18 i loven (forskriften § 14 første ledd).

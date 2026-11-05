@@ -4,6 +4,8 @@
 
 Den nye forvaltningsloven skal erstatte forvaltningsloven fra 1967, som oppheves fra den tiden den nye loven trer i kraft (§ 99 andre ledd). Den gir regler om saksbehandling, delegering, habilitet, taushetsplikt, skjønnsutøvelse, enkeltvedtak, klage, omgjøring og ugyldighet, administrative sanksjoner, nemnder og forskrifter. Ingen forskrifter til loven er i basen.
 
+Paragrafnumrene er i stor grad nye. `merknader/paragrafnokkel.md` viser hvilken paragraf i loven fra 1967 hver ny paragraf viderefører, og motsatt, etter merknadene i Prop. 79 L (2024–2025) kapittel 30.
+
 Loven forvaltes av Justis- og beredskapsdepartementet.
 
 ## Slik bruker du veiviseren
