@@ -7,9 +7,6 @@ on:
   schedule:
     - cron: "40 5 * * 1"
   workflow_dispatch:
-  push:
-    branches: ["claude/**"]
-    paths: [".github/workflows/repo-storrelse.yml"]
 
 permissions:
   contents: read
@@ -41,7 +38,7 @@ jobs:
             echo "Filene på main: $filer filer, $main_mb MB."
             echo
             echo "Største filer:"
-            git ls-files -z | xargs -0 du -b | sort -rn | head -5 | awk '{printf "- %s (%.1f MB)\n", $2, $1/1048576}'
+            git ls-files -z | xargs -0 du -b | sort -rn 2>/dev/null | head -5 | awk '{printf "- %s (%.1f MB)\n", $2, $1/1048576}'
             if [ -n "$store" ]; then echo; echo "Filer over $FIL_MB MB:"; echo "$store"; fi
           } > "$RUNNER_TEMP/storrelse.txt"
           cat "$RUNNER_TEMP/storrelse.txt" | tee -a "$GITHUB_STEP_SUMMARY"
