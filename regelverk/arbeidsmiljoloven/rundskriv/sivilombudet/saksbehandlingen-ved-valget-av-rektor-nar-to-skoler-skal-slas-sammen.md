@@ -1,0 +1,131 @@
+---
+rundskriv: "Sivilombudets uttalelse 26.9.2012 (2011/605)"
+utgiver: "Sivilombudet"
+lov: "Arbeidsmiljøloven"
+lover: "Forvaltningsloven"
+dato: "2012-09-26"
+saksnummer: "2011/605"
+kilde: "https://www.sivilombudet.no/uttalelser/saksbehandlingen-ved-valget-av-rektor-nar-to-skoler-skal-slas-sammen/"
+lagt_inn: "2026-11-05"
+---
+
+# Saksbehandlingen ved valget av rektor når to skoler skal slås sammen
+
+Sivilombudets uttalelse 26.9.2012 (sak 2011/605).
+
+## Oppsummering
+
+To skoler ble slått sammen, og rektorene konkurrerte om hvem som skulle være rektor for den nye skolen. A fikk ikke stillingen, og klaget over at han var forbigått, at det forelå brudd på ansiennitetsprinsippet og at valget berodde på et uriktig faktisk grunnlag. Det ble også reist spørsmål om saken var behandlet i tråd med kommunens delegasjonsreglement.  
+Ombudsmannen kom til at det knyttet seg tvil til deler av kommunens avgjørelse. Tvilen gjaldt blant annet hvilke momenter kommunen hadde vektlagt, og hvordan ansiennitetsprinsippet var veid opp mot andre momenter.
+
+I brev 19. mars 2010 klaget A over vedtak om ansettelse av rektor ved nye X skole i X kommune. Saken hadde sin bakgrunn i at det tidligere var to grunnskoler i kommunen. Fra høsten 2009 ble, etter en tilsynelatende lang prosess, Z skole og Y skole slått sammen til en ny grunnskole med navn X skole. Som rektor ved den nye skolen ble tidligere rektor ved Y skole B ansatt som rektor, mens A, som hadde vært rektor ved Z skole, ble tilbudt stillingen som undervisningsinspektør.
+
+I klagen ble det blant annet anført at A var forbigått, og at det forelå brudd på ansiennitetsprinsippet. Det ble også hevdet at kvalifikasjonsvurderingen av A var bygget på uriktig faktisk grunnlag. Saken hadde etter klagerens mening heller ikke vært behandlet i tråd med kommunens eget delegasjonsreglement, og han mente at det i realiteten forelå en endringsoppsigelse av ham.
+
+I brev 7. april 2010 ble X kommune bedt om å oversende alle dokumentene i saken innen en uke. Etter flere etterlysninger av svar herfra og tilbakemeldinger fra kommunen ble oversendelsen først effektuert ved brev 3. juni 2010. Store deler av de oversendte dokumentene gjaldt en annen sak i kommunen som også var til behandling hos ombudsmannen, og det var flere relevante dokumenter som ikke fulgte med i oversendelsen. Kommunen ble i nytt brev 29. juni 2010 bedt om at de relevante dokumentene i denne saken måtte oversendes så snart som mulig.
+
+Kommunen oversendte ytterligere enkelte dokumenter 9. og 17. august 2010, og ble i ny e-post 6. september 2010 bedt om å oversende eventuelle andre dokumenter som kunne belyse saken. Etter ytterligere korrespondanse bestående av purringer herfra og tilbakemeldinger fra kommunen, oversendte kommunen i brev 26. januar 2011 de etterspurte saksdokumenter. Saken ble deretter tatt opp til behandling her.
+
+Etter en gjennomgang av dokumentene ble kommunen i brev 10. mars 2011 blant annet bedt om å redegjøre nærmere for omstendighetene rundt avgjørelsen av hvem som skulle bli rektor ved X skole, herunder hvilke regler og vurderinger som ble foretatt i forbindelse med valget og hvordan saksbehandlingen hadde foregått. Det ble også spurt om kommunens syn på anførselen om at endringen av As stilling til inspektør innbar en endringsoppsigelse, samt om det var forenlig med offentlig ansattes ytringsfrihet å vektlegge uttalelser A hadde kommet i media. Det ble også bedt om en redegjørelse for den måten kommunen hadde behandlet henvendelsene fra ombudsmannens kontor.
+
+Kommunen fremholdt i sitt svarbrev at den hadde «fulgt de regler om nedbemanningsprosessen så godt det lar seg gjøre med henblikk på den oversikt og de ressurser rådmannen hadde tilgjengelig på det gitte tidspunkt». KS Advokatene hadde også bistått i dette arbeidet. Videre opplyste kommunen at det hadde vært avholdt møte med A angående rektorstillingen, og at det på det daværende tidspunktet var ønskelig med A i stillingen som rektor. Det var flere forhold under arbeidet med å slå sammen skolene fra våren 2009 til høsten 2009 som medførte at A ble tilbudt inspektørstillingen og ikke rektorstillingen. Blant annet viste kommunen til at A hadde virket lite interessert i det pågående arbeidet og til hans uttalelser til media.
+
+Rådmannen hadde fått delegert adgang til å tilsette i rektorstillingen. Ved uenighet mellom arbeidsgiver og tillitsvalgte skulle saken sendes til behandling i administrasjonsutvalget. Om årsaken til at dette ikke ble gjort denne saken, skrev kommunen:
+
+> «På det aktuelle tidspunktet hadde rådmannen ikke tilstrekkelig oversikt eller godt nok innblikk i kommunen på gjeldende fagfelt. Rådmannen hadde heller ikke funnet ut noe om kommunen sin praksis om ansettelser. Rådmannen hadde heller ikke tilstrekkelige ressurser tilgjengelig på det gitte tidspunkt.»
+
+Kommunen avviste at saken til kommunestyret inneholdt faktiske feil. Rådmannen hadde vært åpen i forhold til alle de involverte parter og mente saken var godt nok opplyst da vedtaket ble fattet. Begge de to rektorene fikk beskjed om ikke å uttale seg i media om hvem som skulle bli henholdsvis rektor og inspektør. Når A uttalte seg i media, ble dette ansett å være «en måte å sikre sitt kandidatur på til stillingen som rektor, noe rådmannen likte dårlig». Rådmannen forventet at ansatte følger det rådmannen sier når det blir bedt om taushet i en sak som behandles innenfor lover og regler.
+
+Spørsmålet om endringen av As stilling fra rektor til inspektør innebar en endringsoppsigelse, kunne kommunen ikke svare på «fordi det ikke foreligger nok kunnskap til å svare på gjeldende spørsmål på det nåværende tidspunkt», og den aktuelle advokaten fra KS som hadde bistått kommunen var i permisjon. Det samme gjaldt også for en redegjørelse for prosessen frem mot tilsetting av rektor. I svarbrevet ble det også redegjort for kommunens generelt vanskelige ressurssituasjon og årsaken til at ombudsmannens henvendelser ikke har blitt besvart. Det ble fremhevet at det var «flaut og kritikkverdig å vise til en slik forvaltning som ombudsmannen her er utsatt for».
+
+Kommunens redegjørelse ble oversendt As advokat, som fant det «oppsiktsvekkende» at kommunen ikke kunne kommentere spørsmålet om endringsoppsigelse, «idet endring av rektorstilling til inspektørstilling er en åpenbar degradering, og dermed en endringsoppsigelse». For øvrig ble det vist til tidligere brev der flere av forholdene i saken var imøtegått.
+
+Advokatens kommentarer ble i brev 20. juni 2011 oversendt kommunen for eventuelle merknader med en svarfrist på to uker. Denne fristen ble i telefonsamtale utvidet til 14. juli. Da det ikke kom merknader fra kommunen innen fristen, ble det i brev 19. juli 2011 herfra opplyst at saken nå ville bli tatt opp til avslutning. Brevet hadde imidlertid krysset kommunens brev 13. juli 2011 der kommunen opplyste at den nå hadde kontaktet KS Advokatene som straks etter ferien ville gi kommentarer til saken. Etter ytterligere korrespondanse gjennom sommeren opplyste kommunen i brev 15. september 2011 at det ikke var «funnet dekning til advokatbistand i allerede vedtatte rammer», men at det likevel var funnet midler til advokatbistand. Saksdokumentene skulle nå oversendes KS advokatene og arbeidet med et svar skulle prioriteres.
+
+KS advokatene opplyste i brev 19. oktober 2011 at advokatkontoret først ble kontaktet av kommunen «etter at beslutning om valg i nedbemanningsprosessen var gjennomført». Videre ble det fremholdt blant annet at det ikke dreide seg om en ulovlig forbigåelse av klageren, ettersom det ikke var tale om en tilsetting, men en saklig utvelgelse blant to ansatte i forbindelse med en nedbemanning. Delegasjonsreglement for tilsettingssaker var derfor ikke relevant i saken. Kommunen var «ikke uenig at en endring fra rektorstilling til inspektør ut fra rettspraksis antagelig må anses som en endringsoppsigelse». Dette kunne likevel ikke være relevant for det valget som måtte gjøres ved valget av rektor ved den nye skolen. A var godt kjent med nedbemanningsprosessen. Prosessen ble gjennomført i tråd med arbeidsmiljøloven § 15-1 og forvaltningsloven § 16, og det ble vist til at A ble varslet og fikk anledning til uttale seg. A hadde blitt tilbudt en passende stilling ettersom hans stilling falt bort.
+
+Ved utvelgelsen hadde kommunen fulgt sine egne regler og Hovedtariffavtalen kapittel 1 § 3.3. I et møte i kommunen i 2009 ble kommunens «retningslinjer og prosedyrer for nedbemanning» gjennomgått, og det var ikke tvil om at faglig dyktighet og anvendelighet i tillegg til ansiennitet skulle kunne vektlegges ved valget av rektor. Det fulgte dessuten av HTA § 3.3 at ansiennitet i en tilsettingsprosess kun skal gjelde der to personer ellers stod likt. Det samme må være tilfelle i en nedbemanningsprosess. Ifølge kommunen stod ikke A og B likt i denne saken. I valget mellom to personer med fortrinnsrett til stillingen valgte kommunen den best kvalifiserte, og det var personlig egnethet som gjorde at B ble tilbudt stillingen som rektor. Avslutningsvis ble det erkjent at store deler av saksbehandlingen dessverre hadde foregått muntlig, og at deler av dokumentasjonen ombudsmannen etterspurte ikke var fantes i skriftlig form.
+
+A kom med ytterligere merknader, og anførte at valget av rektor på den nye skolen ikke kun var å anse som en nedbemanning, men at dette valget også var en nytilsetting som måtte følge reglene for ordinære tilsettingsprosesser. Uansett var dette uten betydning ettersom de samme saklighetskravene må gjelde i begge tilfeller. Igjen ble det fremholdt at kvalifikasjonsvurderingen av A bygde på «feil faktum og utenforliggende hensyn». Rådmannen var dessuten ny i kommunen og hadde ikke et tilstrekkelig grunnlag for å vurdere As personlige egnethet.
+
+I nytt brev fastholdt kommunen at saken gjaldt utvelgelse i forbindelse med nedbemanning. Kommunen redegjorde ytterligere for den sammenlignende kvalifikasjonsvurderingen av A og B og vurderingen av As personlige egnethet. A kom også med enkelte bemerkninger til de faktiske forhold slik de var beskrevet fra kommunens side.
+
+## Ved avslutningen av saken uttalte jeg:
+
+### «1. Saksbehandling ved valget av rektor
+
+Det er på det rene at den «nye» rektorstillingen oppsto på bakgrunn av en omorganisering av grunnskolene i kommunene, og at det nå var en ny skole som skulle opprettes. En konsekvens av omorganiseringen er at det var to rektorer som begge kunne se sine arbeidsoppgaver videreført i den nye stillingen, og derfor ble ansett som fortrinnsrettsberettigede til den nye rektorstillingen i forhold til eventuelle eksterne søkere ved en normal tilsettingsprosess. Partene er enige om at begge de aktuelle kandidatene var fortrinnsberettiget.
+
+A har anført at valget av rektor ved den nye X skole må anses som en administrativ tilsetting og derfor skulle behandles etter det regelverket som hører til slike prosesser. Kommunen er uenig og mener det dreier seg om en nedbemanningsprosess.
+
+Ut fra de tilsendte saksdokumentene synes kommunens omtale av prosessen å være noe tvetydig. Det foreligger således et vedtak 25. september 2009 der B «tilsettes» som rektor i X skole. Også i saksfremlegget har kommunen omtalt saken som «ansettelse av rektor og inspektør ved X skole». Videre har kommunen i møte 10. juni 2009 med partene uttalt at den nye rektorstillingen skulle utlyses internt og var åpen for at «alle i oppsigelige stillinger kan søke». På senere møter ble det reist innsigelser mot dette, ettersom det ville være to overtallige rektorer i kommunen og derfor kun to aktuelle kandidater.
+
+Hvorvidt det dreier seg om en tilsetting eller nedbemanning, vil blant annet kunne få betydning for om saken skulle vært tatt opp i administrasjonsutvalget eller ikke. Kommunen synes først å ha erkjent at saken skulle ha vært tatt opp i administrasjonsutvalget i kommunen og således blitt behandlet som en ordinær tilsettingssak. Det var imidlertid vanskelig for kommunen å ta stilling til det spørsmålet på daværende tidspunkt. I brev fra KS advokatene 19. oktober 2011 ble det derimot anført at kravet om behandling i administrasjonsutvalget i kommunens delegasjonsreglement ikke kom til anvendelse da det ikke dreide seg om en tilsettingssak.
+
+Rent faktisk er det på det rene at saken ikke ble brakt inn for administrasjonsutvalget i kommunen, og i så måte ikke ble behandlet som en vanlig tilsettingssak. Det ble heller ikke foretatt en ordinær tilsettingsprosess med utlysning og søknader. Derimot ble rektorene innkalt til samtaler. Begge de to kandidatene var allerede tilsatt som rektorer i X kommune. Det fremgår av sakens dokumenter at begge rektorene formelt var ansatt i kommunen som sådan, ikke ved den enkelte skole. Skolen var med andre ord vedkommendes tjenestested. Trolig vil det da ligge innenfor arbeidsgivers styringsrett å treffe bestemmelser om nytt tjenestested dersom ikke annet er særskilt bestemt.
+
+Situasjonen etter nedleggingen av Z og Y skole ville at kommunen hadde to overtallige rektorer som med de rettigheter som følger av å være overtallige, Så vidt jeg forstår, må arbeidsoppgavene til de to rektorene anses videreført i den nye rektorstillingen. Hvilken kandidat som i en slik situasjon skal få fortsette, må etter mitt skjønn følge prinsippene i Hovedtariffavtalen for kommunen § 3.3., jf. arbeidsmiljøloven § 14-2 og § 15-7. Paragraf 3.3 første ledd lyder:
+
+> «Ved innskrenkning/rasjonalisering skal under ellers like vilkår, de med kortest tjeneste innenfor vedkommende arbeidsområde i kommunen/virksomheten sies opp først, jf. arbeidsmiljøloven § 17-7 (2) og Hovedavtalen del B§ 14-1 og del C § 3-2.»
+
+I praksis innebærer dette at ansiennitet skal veie tyngre enn ved ordinære ansettelser. I denne saken vil dette være til klagerens fordel, da han hadde lengst tjenestetid, både som lærer og rektor. I en slik situasjon er det vanskelig å se at kommunen kan klandres for også prosessuelt å ha behandlet saken som en nedbemanningssak. Jeg viker med andre ord tilbake for å si at det var en formell feil å følge regelverket for nedbemanning.
+
+Etter mitt skjønn er det imidlertid uheldig at kommunen under saksgangen ikke synes å ha hatt klart for seg hva slags vedtak som skulle fattes. I det minste da det ble reist innsigelse og fremmet krav om behandling i administrasjonsutvalget under henvisning til kommunens eget delegasjonsreglement, skulle kommunen tatt konkret stilling til spørsmålet. Kommunen skal som tilsettingsmyndighet selv kunne regelverket og om nødvendig sørge for bistand til å kunne avklare rettslige problemstillinger som reises i forbindelse med sak den har til behandling. Det er ikke tilstrekkelig å vise til manglende ressurser, slik det ble gjort i saken her.
+
+### 2. Foreligger det en endringsoppsigelse?
+
+Om det rettslige utgangspunktet ved omorganisering og endringsoppsigelse uttalte jeg i sak 2010/516 (SOMB-2010-516):
+
+> «Arbeidsavtalen danner det rettslige grunnlaget for et arbeidsforhold, og setter rammene for partenes forpliktelser. Det følger av arbeidsmiljøloven § 15-7 at en arbeidstaker ikke kan sies opp uten at det er saklig begrunnet. Så vel de formelle som de materielle kravene til oppsigelse vil som utgangspunkt gjelde også ved arbeidsgivers ensidige*endringer*i arbeidsavtalen.
+
+> En omorganisering endrer ikke i seg selv arbeidsavtalene til de som er berørt. Arbeidsavtalen består uavhengig av en omorganisering, og dette gjelder frem til en av partene lovlig har brakt den til opphør eller endret den. Som utgangspunkt har derfor en arbeidstaker rett til å beholde sin stilling uavhengig av en omorganisering. Dersom omorganiseringen medfører endringer i stillingens innhold i den nye organisasjonen, er utgangspunktet at arbeidsgiver kan pålegge den ansatte å finne seg i endringer innenfor styringsrettens grenser. For endringer som går ut over det styringsretten gir rett til, må arbeidsgiveren foreta en endringsoppsigelse av arbeidstakerne som blir berørt, og de materielle og prosessuelle reglene for oppsigelse må da hensyntas.»
+
+At A gikk fra rektor til undervisningsinspektør er ikke en endring som ligger innenfor styringsretten, og det er derfor klart at han utsatt for en endringsoppsigelse fra kommunens side. Det synes også å være enighet mellom partene at A ble utsatt for en endringsoppsigelse, og jeg har derfor ikke funnet grunn til å kommentere dette ytterligere.
+
+### 3. Valget av hvem som skal være rektor ved X skole
+
+Det gjenstående spørsmålet er hvem av de to nåværende rektorene som skulle tilbys stillingen som rektor ved X skole, og hvem som skulle være gjenstand for endringsoppsigelse. Ut fra det jeg har kommet til ovenfor, vil denne delen av saken måtte løses med utgangspunkt i at det var en situasjon om nedbemanning fremfor en mer ordinær tilsettingssak. Dette er også slik kommunen har behandlet saken.
+
+Ettersom to skoler skulle slås sammen til én skole, og problemet ikke kunne løses gjennom naturlig avgang eller på annen måte, er det neppe tvil om at det forelå saklig grunn for oppsigelse av en rektor. Spørsmålet blir hvorvidt saklighetskravet var oppfylt for Xs del. Saklighetskravet gir seg utslag i hvilke kriterier som skal legges til grunn ved utvelgelsen av arbeidstakerne. Kommunen har korrekt lagt til grunn at ansiennitet er utgangspunktet for valget mellom de to aktuelle kandidatene, jf. Hovedtariffavtalen for kommunen § 3.3. og arbeidsmiljøloven § 14-2, jf. § 15-7.
+
+I flere avgjørelser fra Høyesterett og lavere retter synes det å være lagt til grunn at arbeidsgiveren har adgang til å vektlegge også andre momenter enn ansiennitet, se for eksempel den såkalte Hillelanddommen i Rt. 1986 s. 879. Her uttaler førstvoterende blant annet: «Selv om jeg må gå ut fra at et ansiennitetsprinsipp i vid utstrekning følges ved driftsinnskrenkninger, er det nemlig på det rene at også andre hensyn teller med.» Videre heter det: «Det er på det rene at avvik fra ansiennitetsprinsippet kan skje etter en vurdering av arbeidstakernes kvalifikasjoner hensett til bedriftens behov.»
+
+På side 281 i Borgersrud m.fl., Omstilling i offentlig sektor (Universitetsforlaget, 2007), gis det uttrykk for at HTA § 3.3 har blitt tolket slik at ansiennitetsprinsippet skal legges til grunn «når det ikke finnes saklig grunn for et annet valg».
+
+Partene synes begge å være enige om at ansiennitet skulle vektlegges ved valget av rektor. Uenigheten gjelder i hvilken grad det var grunnlag for å vektlegge andre omstendigheter, særlig personlig egnethet.
+
+Etter det opplyste har A vært lærer i kommunen siden 1985 og rektor siden 1995. B har vært rektor siden 2002 og ble tilsatt som lærer i kommunen i 1991. Forskjellen er med andre ord klar, men begge må anses som godt erfarne, både som lærere og rektorer. Ut fra stillingens art og situasjonen ellers vurderer jeg det slik at kommunen ikke var avskåret fra også å legge vekt på andre momenter.
+
+Kommunen har delvis begrunnet valget av B som rektor med As uttalelser til media. Det er anført at disse uttalelsene ikke var i henhold til arbeidstakernes lojalitetsplikt overfor kommunen og i strid med klare beskjeder gitt av rådmannen. As utsagn kan neppe anses å være omfattet av regelverket om varsling av kritikkverdige forhold ved virksomheten, og må derfor holdes opp mot de generelle prinsippene om en arbeidstakers ytringsfrihet om arbeidsforholdet.
+
+Friheten til å ytre seg er forankret i Grunnloven § 100 og i den europeiske menneskerettskonvensjonen (EMK) art. 10. Det rettslige utgangpunktet er således at tilsatte i offentlig forvaltning, som andre privatpersoner, har alminnelig ytringsfrihet. Arbeidstakere står imidlertid i en stilling som kan medføre at de må legge bånd på sin ytringsfrihet, og det anses for å være innskrenkninger som etter forholdene må godtas etter Grunnloven § 100 og EMK artikkel 10 (2).
+
+Bånd på den ansattes ytringsfrihet må begrunnes og ha rettslig grunnlag i lov, arbeidsavtaler eller i den ulovfestede lojalitetsplikt som gjelder i arbeidsforhold. Den lojalitetsplikt den tilsatte har overfor arbeidsgiver, kan etter omstendighetene legge bånd på ytringsfriheten. Lojalitetsplikten har sin bakgrunn i arbeidsavtalen, og innebærer at den tilsatte må forholde seg lojal til arbeidsgivers interesser og avstå fra utilbørlig tilsidesettelse av disse interessene til fordel for seg selv eller andre. Lojalitetsplikten til arbeidsgiver er ikke lovfestet, og det er derfor ikke alltid lett å spesifisere hva den består i. I Eckhoff/Smith, Forvaltningsrett (9. utgave 2010), s. 137 står det bl.a. følgende om lojalitetsplikten:
+
+> «Alle har en viss lydighetsplikt overfor overordnede. Den betyr ikke blindt at man må utføre enhver ordre. Det er tillatt, og ofte ønskelig, at underordnede kommer med motforestillinger og forslag om endringer i praksis (jfr. bl.a. Smith, Stat og rett s. 598 flg.). Men hvis sjefen fastholder sitt standpunkt etter å ha blitt gjort kjent med mulige motforestillinger, må den underordnede normalt bøye seg for det.»
+
+Dette innebærer at en arbeidstaker som ikke respekterer arbeidsgivers beslutninger og aktivt motarbeider disse enten i ord eller ved handling, vil kunne handle i strid med lojalitetsplikten. Det samme vil kunne gjelde dersom man ytrer seg på en måte som skader arbeidsgiverens legitime og saklige interesser.
+
+Jeg har i flere tidligere uttalelser gitt utrykk for at en arbeidsgiver ikke har adgang til å reagere på ansattes ytringer, «med mindre det foreligger en åpenbar risiko for skade på arbeidsgiverens legitime og saklige interesser», se blant annet ombudsmannens årsmelding for 2007 på side 110 (SOMB-2007-32). Her la jeg også til grunn at det må foreligge en konkret avveining av den ansattes ytringsfrihet mot lojalitetsplikten til arbeidsgiveren.
+
+I saken her reagerte ikke kommunen direkte overfor A på bakgrunn av hans uttalelser i media, men disse forholdene ble lagt vekt på i negativ retning ved kvalifikasjonsvurderingen av ham som ny rektor. De forholdene kommunen har lagt vekt på, synes for det første å være at A overfor media kommenterte prosessen rundt valg av rektor og offentlig tilkjennegjorde sitt kandidatur. Dernest er det vist til at han i et brev til de tilsatte ved Z skole antydet at saken om skolesammenslåingen fremdeles ikke var avgjort – at på et tidspunkt da fylkesmannen hadde avvist en anmodning om lovlighetskontroll.
+
+A har anført at uttalelsen til media var et svar på et konkret spørsmål fra journalisten og ikke må anses som skritt for å fremme hans kandidatur eller argumentere for sin sak i media. Det var på den tiden offentlig kjent at kommunen skulle tilsette en rektor ved skolen, og at valget ville stå mellom A og B. Videre er som nevnt utgangspunktet for valg ved nedbemanning at ansiennitet er særlig relevant moment, og det synes å være på denne bakgrunnen A uttalte seg. Slik jeg forstår uttalelsene, er det vanskelig å si at de er i strid med hans lojalitetsplikt til kommunen. Uttalelsene må således være omfattet av hans ytringsfrihet som ansatt i kommunen.
+
+I brevet til de tilsatte ved skolen 6. juli 2009 viste A innledningsvis til at fylkesmannen «som kjent» ikke hadde tatt «til følge» lovlighetsklagen. Foreldrerådet hadde imidlertid besluttet å forfølge saken videre og sendt et brev til fylkesmannen. Deretter heter det i brevet:
+
+> ”Det betyr at vi enda ikke har en endelig avklaring m.h.t. hvordan det blir til høsten- en eller to skoler?”
+
+Etter mitt skjønn er det vanskelig å se at brevet i seg selv inneholder feil eller at det kan tolkes som et utrykk for misnøye eller manglende aksept for hvordan kommunen valgte å organisere utdanningstilbudet. Dersom det skal kunne oppfattes som en form for tillitsbrudd, må det være på et annet grunnlag. Jeg forstår det slik at kommunen mener A hadde akseptert at han ikke skulle uttale seg om saken i det hele tatt. Det er vanskelig for meg å etterprøve en slik opplysning. Jeg må nøye meg med å vurdere brevet slik det fremstår sett utenfra i ettertid.
+
+I og for seg er det ikke noe å si på at kommunen i vurderingen av de to søkerne anså As uttalelser som et relevant moment. Forutsetningen må være at kommunen gjennom dette ikke har ønsket å foreta noen form for «gjengjeldelse» eller ileggelse av «straff». Jeg oppfatter imidlertid ikke kommunen å ha hatt et slikt siktemål. Spørsmålet er om kommunen har tillagt As ytringer for stor vekt. Dette gjelder særlig dersom det avgjørende først og fremst er As uttalelser i seg selv snarere enn selve innholdet i uttalelsene.
+
+Den nærmere kvalifikasjonsvurderingen og om B eller A skal tilbys stillingen som rektor ved nye X Skole, må bero på et skjønn. Det samme vil da også gjelde for om det er B eller A som blir utsatt for endringsoppsigelsen. Det følger av sivilombudsmannsloven 22. juni 1962 nr. 8 § 10 annet ledd at ombudsmannen bare i begrenset grad kan uttale seg om den skjønnsmessige avgjørelsen som ligger til grunn for tilsettingsmyndighetens avgjørelse. Ombudsmannen kan bare kritisere skjønnsmessige avgjørelser der det hefter feil ved skjønnet, for eksempel ved at blir lagt vekt på utenforliggende eller usaklige hensyn, eller vedtaket fremstår som «klart urimelig».
+
+Etter å ha gjennomgått saksdokumentene og kommunens redegjørelser gitt under min behandling av saken, har jeg kommet til at det foreligger en tvil knyttet til deler av kommunens avgjørelse. Det er opplyst at saken nå er brakt inn for retten og det vil derfor ikke være riktig av meg å foreta noe ytterligere.
+
+### 4. Behandlingen av henvendelser herfra
+
+Når det gjelder kommunens behandling av ombudsmannens henvendelser, kan jeg i stor grad vise til mine kommentarer i brev 16. mars 2012 som gjelder en annen sak i A kommune jeg har hatt til behandling (kommunens saksnummer 10/1116). Som jeg fremholdt i dette brevet har kommunens håndtering av henvendelsene fra mitt kontor vært klart kritikkverdig. Det har tatt uakseptabelt lang tid å oversende etterspurte dokumenter og kommunen har ikke overholdt egne frister. Den har heller ikke gitt noen god forklaring på årsaken til fristoverskridelsene.
+
+Kommunen har beklaget forholdene og beklagelsen er absolutt på sin plass. Jeg vil igjen fremheve viktigheten av at kommunen, selv om det foreligger en vanskelig situasjon med mangelfulle ressurser, bestreber seg på å opptre ryddig så vel overfor borgerne som Sivilombudsmannen.»
