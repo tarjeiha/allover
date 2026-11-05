@@ -89,6 +89,8 @@ def type_for(sti: str) -> str | None:
         return None
     if "/vedtatte-endringer/" in sti:
         return "Vedtatte endringer, ikke i kraft"
+    if "/rundskriv/arbeidstilsynet/" in sti:
+        return "Arbeidstilsynets kommentarer"
     if "/rundskriv/" in sti:
         return "Rundskriv"
     if "/merknader/" in sti:
@@ -101,6 +103,8 @@ def type_for(sti: str) -> str | None:
 def navn_for(mappe: str, sti: str, typ: str) -> str:
     """Rundskriv listes per rundskriv, paragrafer med overskriften i filen."""
     rest = sti[len(mappe) + 1:].split("/")
+    if typ == "Arbeidstilsynets kommentarer":
+        return rest[rest.index("arbeidstilsynet") + 1]
     if typ == "Rundskriv":
         i = rest.index("rundskriv")
         return "/".join(rest[i + 1:i + 3]) if rest[i + 1:i + 2] == ["forskrifter"] else rest[i + 1]

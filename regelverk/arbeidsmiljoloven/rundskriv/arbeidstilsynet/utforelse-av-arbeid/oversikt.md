@@ -1,0 +1,301 @@
+# Arbeidstilsynets kommentarer til forskrift om utførelse av arbeid
+
+Arbeidstilsynets kommentarer til Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) (FOR-2011-12-06-1357), hentet fra [arbeidstilsynet.no](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/) 2026-11-05. Kommentarene er Arbeidstilsynets veiledning, ikke forskriftstekst. Forskriftsteksten ligger under `forskrifter/` og kommer fra Lovdata.
+
+## Innhold
+
+- § 1-2 Virkeområde – `par-1-2.md`
+- § 1-3 Hvem forskriften retter seg mot – `par-1-3.md`
+- § 1-4 Definisjoner: – `par-1-4.md`
+- § 1-5 Dispensasjon – `par-1-5.md`
+- § 1A-1 Fullt forsvarlig psykososialt arbeidsmiljø – `par-1a-1.md`
+- § 1A-2 Kartlegging og risikovurdering av det psykososiale arbeidsmiljøet i virksomheten – `par-1a-2.md`
+- § 1A-3 Tiltak – `par-1a-3.md`
+- § 1A-4 Informasjon og opplæring – `par-1a-4.md`
+- § 1A-5 Arbeidstakerens medvirkningsplikt – `par-1a-5.md`
+- § 2A-1 Trakassering og annen utilbørlig opptreden – `par-2a-1.md`
+- § 2A-2 Kartlegging og vurdering av risiko for å bli utsatt for trakassering – `par-2a-2.md`
+- § 2A-3 Tiltak mot trakassering – `par-2a-3.md`
+- § 2A-4 Oppfølging av arbeidstakere som har blitt utsatt for trakassering – `par-2a-4.md`
+- § 3A-1 Vold og trusler – `par-3a-1.md`
+- § 3A-2 Kartlegging og vurdering av risiko for vold og trusler – `par-3a-2.md`
+- § 3A-3 Tiltak mot vold og trusler – `par-3a-3.md`
+- § 3A-4 Informasjon ved arbeid som kan medføre risiko for å bli utsatt for vold og trusler – `par-3a-4.md`
+- § 3A-5 Opplæring ved arbeid som innebærer risiko for å bli utsatt for vold og trusler – `par-3a-5.md`
+- § 3A-6 Oppfølging av arbeidstakere som har blitt utsatt for vold eller trusler – `par-3a-6.md`
+- § 2-1 Krav om stoffkartotek – `par-2-1.md`
+- § 2-2 Stoffkartotekets utforming – `par-2-2.md`
+- § 2-3 Bruk av opplysningene i stoffkartoteket – `par-2-3.md`
+- § 2-4 Adgang til stoffkartoteket – `par-2-4.md`
+- § 3-1 Risikovurdering av helsefare ved bruk og håndtering av kjemikalier – `par-3-1.md`
+- § 3-2 Måling av forurensning i arbeidsatmosfæren som grunnlag for risikovurdering – `par-3-2.md`
+- § 3-4 Opplæring i arbeid med farlige kjemikalier – `par-3-4.md`
+- § 3-5 Informasjon om risiko i tilknytning til farlige kjemikalier – `par-3-5.md`
+- § 3-6 Informasjon til arbeidstakerne om resultatene av måling av forurensing i arbeidsatmosfæren – `par-3-6.md`
+- § 3-7 Oppbevaring og håndtering av kjemikalier – `par-3-7.md`
+- § 3-8 Tiltak mot risiko forårsaket av kjemikalier – `par-3-8.md`
+- § 3-9 Tiltak mot helseskadelige kjemikalier ved reparasjon, vedlikehold og renhold – `par-3-9.md`
+- § 3-10 Tiltak i forbindelse med brann- og eksplosjonsfarlige kjemikalier og ustabile kjemikalier – `par-3-10.md`
+- § 3-11 Særlige tiltak ved arbeid med kreftfremkallende, mutagene eller forplantningsskadelige Kjemikalier – `par-3-11.md`
+- § 3-12 Krav om personlig verneutstyr ved arbeid med isocyanater – `par-3-12.md`
+- § 3-13 Arbeidsgivers merkeplikt av kjemikalier – `par-3-13.md`
+- § 3-14 Sand og annet blåsemiddel – `par-3-14.md`
+- § 3-15 Beredskapsplan for nødssituasjoner ved arbeid med kjemikalier – `par-3-15.md`
+- § 3-16 Håndtering av farlig avfall – `par-3-16.md`
+- § 3-17 Hygienetiltak ved arbeid med kjemikalier – `par-3-17.md`
+- § 3-18 Krav til vedlikehold og rengjøring av arbeidsutstyr ved håndtering av kjemikalier – `par-3-18.md`
+- § 3-19 Forbud mot arbeid med spesielle kjemikalier – `par-3-19.md`
+- § 3-20 Helseundersøkelse av arbeidstakere som kan utsettes for farlige kjemikalier – `par-3-20.md`
+- § 3-21 Arbeidsgivers oppfølging av helseundersøkelse ved eksponering for kjemikalier – `par-3-21.md`
+- § 3-22 Omplassering av arbeidstaker utsatt for kjemikalier – `par-3-22.md`
+- § 3-23 Helseundersøkelse ved arbeid som røyk- eller kjemikaliedykker – `par-3-23.md`
+- § 3-24 Arbeidsgivers oppfølging av helseundersøkelse av røyk- og kjemikaliedykkere – `par-3-24.md`
+- § 3-25 Helseundersøkelse ved arbeid med bly og blyforbindelser – `par-3-25.md`
+- § 3-26 Midlertidig omplassering ved arbeid med bly og blyforbindelser – `par-3-26.md`
+- § 3-27 Særlige krav om helsemessig skikkethet for røyk- eller kjemikaliedykker – `par-3-27.md`
+- § 4-1 Forbud mot asbest og asbestholdig materiale – `par-4-1.md`
+- § 4-2 Unntak fra forbud om arbeid med asbest – `par-4-2.md`
+- § 4-3 Kartlegging av bygninger før rivnings-, reparasjons- og vedlikeholdsarbeid – `par-4-3.md`
+- § 4-4 Tillatelse fra Arbeidstilsynet til arbeid med asbest – `par-4-4.md`
+- § 4-5 Hovedregel om fjerning av asbest. Vilkår for reparasjon. Forbud mot innbygging – `par-4-5.md`
+- § 4-6 Melding om arbeid med asbest til Arbeidstilsynet – `par-4-6.md`
+- § 4-7 Plikt til å sørge for opplæring i arbeid med asbest – `par-4-7.md`
+- § 4-8 Grunnopplæring i arbeid med asbest – `par-4-8.md`
+- § 4-9 Opplæring for enklere arbeid med asbest – `par-4-9.md`
+- § 4-10 Opplæring i utvendig arbeid med vann- og avløpsrør som inneholder asbest – `par-4-10.md`
+- § 4-11 Opplæring i utvendig arbeid med asbest – `par-4-11.md`
+- § 4-12 Opplæring i innvendig arbeid med asbest – `par-4-12.md`
+- § 4-13 Oppfriskningskurs i asbestarbeid – `par-4-13.md`
+- § 4-14 Kursbevis etter opplæring – `par-4-14.md`
+- § 4-15 Instruks for håndtering av asbestholdig materiale – `par-4-15.md`
+- § 4-16 Tiltak for å redusere eksponering for støv med asbestfiber – `par-4-16.md`
+- § 4-18 Sikkerhetsskilt om arbeid med asbest – `par-4-18.md`
+- § 4-19 Røykeforbud ved arbeid med asbest – `par-4-19.md`
+- § 4-20 Krav til legeerklæring for å kunne arbeide med asbest – `par-4-20.md`
+- § 4-21 Helseundersøkelse av arbeidstakere før de utsettes for støv med asbestfiber – `par-4-21.md`
+- § 4-22 Informasjonsplikt og krav til helseundersøkelse av arbeidstakere som har blitt tilfeldig utsatt for støv med asbestfiber – `par-4-22.md`
+- § 4-24 Verneklær og åndedrettsvern – `par-4-24.md`
+- § 4-25 Vaskested og dusjing ved arbeid med asbest – `par-4-25.md`
+- § 4-26 Kontroll etter asbestarbeid – `par-4-26.md`
+- § 5-1 Risikovurdering ved arbeid hvor det nyttes eller utvikles varme ved utførelse av arbeid (varmt arbeid) – `par-5-1.md`
+- § 5-2 Kartlegging av forurensninger i arbeidsatmosfæren ved varmt arbeid – `par-5-2.md`
+- § 5-5 Planlegging og iverksetting av tiltak ved varmt arbeid – `par-5-5.md`
+- § 5-6 Iverksetting av tiltak mot brann- og eksplosjonsfare ved varmt arbeid og iverksettelse av tiltak – `par-5-6.md`
+- § 5-7 Krav til utstyr ved varmt arbeid – `par-5-7.md`
+- § 5-8 Sikring mot brann og eksplosjon i gassutstyr – `par-5-8.md`
+- § 6-1 Risikovurdering av fare for å utsettes for biologiske faktorer – `par-6-1.md`
+- § 6-2 Vurdering av biologiske faktorer – `par-6-2.md`
+- § 6-3 Melding til Arbeidstilsynet – `par-6-3.md`
+- § 6-4 Opplæring i arbeid der arbeidstaker kan utsettes for biologiske faktorer – `par-6-4.md`
+- § 6-5 Vernetiltak mot biologiske faktorers smitterisiko – `par-6-5.md`
+- § 6-6 Tiltak ved uforutsett eksponering av biologiske faktorer – `par-6-6.md`
+- § 6-7 Krav om personlig verneutstyr ved arbeid med helsefarlige biologiske faktorer – `par-6-7.md`
+- § 6-9 Hygiene og rengjøring ved eksponering av biologiske faktorer – `par-6-9.md`
+- § 6-11 Helseundersøkelse av arbeidstakere som kan utsettes for biologiske faktorer – `par-6-11.md`
+- § 6-12 Vaksinasjon av arbeidstakere som kan bli utsatt for biologiske faktorer – `par-6-12.md`
+- § 7-1 Risikovurdering av fare for forplantningsskader – `par-7-1.md`
+- § 7-2 Informasjon om risiko for forplantningsskade – `par-7-2.md`
+- § 7-4 Omplassering av arbeidstaker ved fare for forplantningsskader – `par-7-4.md`
+- § 8-1 Opplæring i arbeid ved avløpsanlegg – `par-8-1.md`
+- § 8-2 Arbeid ved basseng og i vannførende ledning ved avløpsanlegg – `par-8-2.md`
+- § 8-3 Tiltak ved lavt oksygeninnhold, helsefarlige og eksplosive gasskonsentrasjoner – `par-8-3.md`
+- § 8-4 Tiltak ved arbeid ved avløpsanlegg – `par-8-4.md`
+- § 9-1 Særlige tiltak ved arbeid med cytostatika – `par-9-1.md`
+- § 10-1 Krav om dokumentert sikkerhetsopplæring for arbeidsutstyr som krever særlig forsiktighet ved bruk – `par-10-1.md`
+- § 10-2 Krav om dokumentert sikkerhetsopplæring ved bruk av arbeidsutstyr – `par-10-2.md`
+- § 10-3 Arbeidsutstyr underlagt krav om dokumentert sikkerhetsopplæring gitt av sertifisert opplæringsvirksomhet – `par-10-3.md`
+- § 10-4 Krav til utstyrsspesifikk opplæring – `par-10-4.md`
+- § 10-6 Alminnelige plikter for arbeidsgiver ved bruk av arbeidsutstyr – `par-10-6.md`
+- § 10-8 Betjeningsinnretninger og styresystem – `par-10-8.md`
+- § 10-9 Start og stopp av arbeidsutstyr – `par-10-9.md`
+- § 10-10 Nødstopp – `par-10-10.md`
+- § 10-11 Stabilisering av arbeidsutstyr – `par-10-11.md`
+- § 10-13 Fare for brudd i arbeidsutstyr – `par-10-13.md`
+- § 10-14 Fare i forbindelse med bevegelige deler – `par-10-14.md`
+- § 10-16 Varslingsinnretninger på arbeidsutstyr – `par-10-16.md`
+- § 10-17 Utkobling av energikilder på arbeidsutstyr – `par-10-17.md`
+- § 10-23 Krav til datautstyr – `par-10-23.md`
+- § 11-1 Plassering, oppstilling og sikring av arbeidsutstyr – `par-11-1.md`
+- § 11-2 Arbeidsutstyr som kan medføre særlig fare ved bruk – `par-11-2.md`
+- § 11-4 Trafikkregulering og andre tiltak ved bruk av mobilt arbeidsutstyr – `par-11-4.md`
+- § 12-1 Opplæring for kontroll og vedlikehold av arbeidsutstyr – `par-12-1.md`
+- § 12-2 Krav til kompetanse for den som utfører montering, kontroll og vedlikehold av arbeidsutstyr – `par-12-2.md`
+- § 12-4 Krav om systematisk kontroll og vedlikehold av arbeidsutstyr og anlegg – `par-12-4.md`
+- § 12-6 Krav til utførelsen av vedlikeholdsarbeid av arbeidsutstyr – `par-12-6.md`
+- § 12-7 Kontroll og vedlikehold av anlegg for energidistribusjon – `par-12-7.md`
+- § 12-8 Krav om dokumentasjon av kontroll og vedlikehold – `par-12-8.md`
+- § 13-1 Arbeidsutstyr med krav om sakkyndig kontroll – `par-13-1.md`
+- § 13-2 Tidspunkt for sakkyndig kontroll – `par-13-2.md`
+- § 13-3 Arbeidsutstyr med krav om sakkyndig kontroll ved montering eller oppstilling – `par-13-3.md`
+- § 13-4 Dokumentasjon av sakkyndig kontroll – `par-13-4.md`
+- § 14-1 Risikovurdering av helsefare ved støy og mekaniske vibrasjoner – `par-14-1.md`
+- § 14-2 Måling av støy og mekaniske vibrasjoner som grunnlag for risikovurdering – `par-14-2.md`
+- § 14-3 Opplæring der arbeidstaker kan utsettes for støy eller mekaniske vibrasjoner – `par-14-3.md`
+- § 14-5 Tiltak mot støy – `par-14-5.md`
+- § 14-6 Særskilte tiltak mot støy ved overskridelse av tiltaksverdiene – `par-14-6.md`
+- § 14-7 Særskilte tiltak mot støy ved overskridelse av grenseverdiene – `par-14-7.md`
+- § 14-8 Tiltak mot mekaniske vibrasjoner ved overskridelse av tiltaksverdiene – `par-14-8.md`
+- § 14-9 Tiltak mot mekaniske vibrasjoner ved overskridelse av grenseverdiene – `par-14-9.md`
+- § 14-10 Krav om hørselsvern – `par-14-10.md`
+- § 14-11 Helseundersøkelse av arbeidstakere som kan utsettes for hørselsskadelige arbeidsforhold – `par-14-11.md`
+- § 14-12 Helseundersøkelse av arbeidstakere som utsettes for mekaniske vibrasjoner – `par-14-12.md`
+- § 14-14 Omplassering av arbeidstaker utsatt for støy eller mekaniske vibrasjoner – `par-14-14.md`
+- § 15-1 Forebygging av eksponering for ioniserende stråling – `par-15-1.md`
+- § 15-2 Samtidig arbeid med cytostatika og ioniserende stråling – `par-15-2.md`
+- § 15-3 Persondosimetri – `par-15-3.md`
+- § 15-4 Helseundersøkelse av arbeidstaker som kan utsettes for ioniserende stråling – `par-15-4.md`
+- § 16-1 Risikovurdering av helsefare ved kunstig optisk stråling – `par-16-1.md`
+- § 16-2 Vurdering, beregning og måling av kunstig optisk stråling som grunnlag for risikovurderingen – `par-16-2.md`
+- § 16-4 Informasjon om risiko i tilknytning til kunstig optisk stråling – `par-16-4.md`
+- § 16-5 Tiltak mot eksponering for kunstig optisk stråling – `par-16-5.md`
+- § 16-6 Særskilte tiltak mot eksponering for kunstig optisk stråling ved overskridelse av grenseverdiene – `par-16-6.md`
+- § 16-7 Helseundersøkelse av arbeidstakere som utsettes for kunstig optisk stråling – `par-16-7.md`
+- § 16 A-1 Risikovurdering av helsefare ved elektromagnetiske felt – `par-16a-1.md`
+- § 16 A-2 Vurdering og beregning eller måling av elektromagnetisk felt som grunnlag for risikovurderingen – `par-16a-2.md`
+- § 16 A-3 Opplæring der arbeidstaker kan utsettes for elektromagnetisk felt – `par-16a-3.md`
+- § 16 A-5 Tiltak mot eksponering for elektromagnetisk felt – `par-16a-5.md`
+- § 16 A-6 Særskilte tiltak mot eksponering for elektromagnetisk felt ved overskridelse av grenseverdiene – `par-16a-6.md`
+- § 16 A-7 Helseundersøkelse av arbeidstakere som utsettes for elektromagnetisk felt – `par-16a-7.md`
+- § 17-1 Risikovurdering av arbeid i høyden – `par-17-1.md`
+- § 17-2 Krav til opplæring ved montering, demontering, endring og kontroll av stillas med øverste stillasgulv fra to meter og inntil fem meter – `par-17-2.md`
+- § 17-3 Krav til opplæring ved montering, demontering, endring og kontroll av stillas med øverste stillasgulv fra fem meter og inntil ni meter – `par-17-3.md`
+- § 17-4 Krav til opplæring ved montering, demontering, endring og kontroll av stillas med øverste stillasgulv fra ni meter, samt for stillaser som ikke monteres i standardoppstilling etter leverandørens monteringsanvisning – `par-17-4.md`
+- § 17-5 Krav til opplæring av bruker av stillas – `par-17-5.md`
+- § 17-6 Krav til arbeid i høyden – `par-17-6.md`
+- § 17-7 Dimensjonering av stillaser og rekkverk – `par-17-7.md`
+- § 17-8 Montering, bruk og demontering av stillaser – `par-17-8.md`
+- § 17-9 Kontroll av stillas – `par-17-9.md`
+- § 17-12 Atkomst og sikker bruk av stillas – `par-17-12.md`
+- § 17-13 Vedlikehold av stillas – `par-17-13.md`
+- § 17-14 Stillasgulv – `par-17-14.md`
+- § 17-16 Tekniske krav til utkragende og hengende stillas – `par-17-16.md`
+- § 17-17 Bruk av rullestillas – `par-17-17.md`
+- § 17-18 Forankring av stillaser – `par-17-18.md`
+- § 17-19 Stillasavslutning mot tak – `par-17-19.md`
+- § 17-20 Brannfare – `par-17-20.md`
+- § 17-21 Bruk av stiger – `par-17-21.md`
+- § 17-22 Begrensning i bruk av stige – `par-17-22.md`
+- § 17-24 Bruk av tau til atkomst, arbeid og redning – `par-17-24.md`
+- § 17-25 Bruk av sikkerhetsbelte og feste for sikkerhetstau – `par-17-25.md`
+- § 18-1 Styrke og stabilitet – `par-18-1.md`
+- § 18-2 Merking av arbeidsutstyr til løfting av last – `par-18-2.md`
+- § 18-3 Fare når last løftes – `par-18-3.md`
+- § 18-4 Mobilt eller flyttbart arbeidsutstyr som løfter last – `par-18-4.md`
+- § 18-5 Bruk av arbeidsutstyr til å løfte fritt hengende last – `par-18-5.md`
+- § 18-6 Tiltak ved løfteoperasjoner – `par-18-6.md`
+- § 18-7 Krav til utstyr som skal løfte og flytte arbeidstakere – `par-18-7.md`
+- § 18-8 Tiltak når en person løftes – `par-18-8.md`
+- § 19-1 Sikkerhet for mobilt arbeidsutstyr – `par-19-1.md`
+- § 19-2 Blokkering av drivenheter – `par-19-2.md`
+- § 19-4 Farer ved velting – `par-19-4.md`
+- § 19-5 Farer ved motordrevet arbeidsutstyr – `par-19-5.md`
+- § 19-6 Kjøring på islagt vann – `par-19-6.md`
+- § 20-1 Instruks om høytrykkspyling – `par-20-1.md`
+- § 20-3 Bruk av tilsetningsstoffer – `par-20-3.md`
+- § 20-4 Bruk av slipemidler – `par-20-4.md`
+- § 20-9 Vedlikehold, daglig og periodisk ettersyn av høytrykkspyleutstyr – `par-20-9.md`
+- § 20-11 Tilsyn med høytrykkspyleanlegg – `par-20-11.md`
+- § 21-1 Risikovurdering ved gravearbeid – `par-21-1.md`
+- § 21-2 Krav til opplæring i graving og arbeid i gravegroper – `par-21-2.md`
+- § 21-4 Kompetansekrav – `par-21-4.md`
+- § 21-5 Plan for arbeidet – `par-21-5.md`
+- § 21-7 Generelle forholdsregler ved gravearbeid – `par-21-7.md`
+- § 21-8 Plassering av gravemasser – `par-21-8.md`
+- § 21-9 Gravegroper som skal avstives – `par-21-9.md`
+- § 21-11 Fangdammer ved gravearbeid – `par-21-11.md`
+- § 22-4 Krav til muntlig kommunikasjon – `par-22-4.md`
+- § 22-6 Særlige regler ved bruk av signaler – `par-22-6.md`
+- § 23-1 Risikovurdering ved planlegging, utforming og utførelse av manuelt arbeid – `par-23-1.md`
+- § 23-2 Opplæring om ergonomisk belastende arbeid – `par-23-2.md`
+- § 23-3 Informasjon om risiko i tilknytning til ergonomisk belastende arbeid – `par-23-3.md`
+- § 24-1 Opplæring og øvelse i arbeid med driftskontroll og sikkerhetsovervåking – `par-24-1.md`
+- § 24-3 Krav til kontrollrom – `par-24-3.md`
+- § 24-5 Utforming av informasjonssystemer og betjeningsinnretninger – `par-24-5.md`
+- § 24-8 Registrering og dokumentasjon av arbeidet – `par-24-8.md`
+- § 25-1 Kontroll og prøving – `par-25-1.md`
+- § 25-2 Periodisk kontroll – `par-25-2.md`
+- § 25-4 Krav til sakkyndig person – `par-25-4.md`
+- § 25-7 Stempling og merking – `par-25-7.md`
+- § 25-8 Underkjennelse av trykkluftflasker – `par-25-8.md`
+- § 25-10 Krav til fyllingsanlegg – `par-25-10.md`
+- § 25-11 Skriftlig instruks for drift og vedlikehold – `par-25-11.md`
+- § 25-13 Kontroll av pusteluften – `par-25-13.md`
+- § 25-14 Kontroll av fyllingsmanometer og sikkerhetsventiler – `par-25-14.md`
+- § 25-15 Krav til trykkluftflasker som skal fylles – `par-25-15.md`
+- § 26-1 Planlegging og risikovurdering av dykkeoperasjoner – `par-26-1.md`
+- § 26-2 Sikkerhetsprosedyrer – `par-26-2.md`
+- § 26-3 Beredskap – `par-26-3.md`
+- § 26-4 Arbeidsinstruks – `par-26-4.md`
+- § 26-5 Dykkerlegens medvirkning – `par-26-5.md`
+- § 26-6 Krav om utstyr for forsvarlig dykking – `par-26-6.md`
+- § 26-7 Melding om dekompresjonsdykk – `par-26-7.md`
+- § 26-8 Krav til meldingen – `par-26-8.md`
+- § 26-9 Krav til innhenting av samtykke ved forsøksdykking – `par-26-9.md`
+- § 26-11 Krav om dykkerbevis og helseerklæring – `par-26-11.md`
+- § 26-12 Grunnleggende kvalifikasjonskrav – `par-26-12.md`
+- § 26-13 Kvalifikasjonskrav til dykkeleder – `par-26-13.md`
+- § 26-14 Kvalifikasjonskrav til dykker – `par-26-14.md`
+- § 26-15 Kvalifikasjonskrav til beredskapsdykker – `par-26-15.md`
+- § 26-16 Kvalifikasjonskrav til den som skal utføre lineholderfunksjonen – `par-26-16.md`
+- § 26-17 Kvalifikasjonskrav til dykkerinstruktør – `par-26-17.md`
+- § 26-18 Kvalifikasjonskrav til dykkerinstruktører for fritidsdykking – `par-26-18.md`
+- § 26-19 Fagkompetanse – `par-26-19.md`
+- § 26-20 Redningsdykking og søk etter antatt omkommet – `par-26-20.md`
+- § 26-21 Dokumentert sikkerhetsopplæring – dykkerbevis klasse A – `par-26-21.md`
+- § 26-22 Dokumentert sikkerhetsopplæring – dykkerbevis klasse B – `par-26-22.md`
+- § 26-23 Dokumentert sikkerhetsopplæring for dykkeleder – `par-26-23.md`
+- § 26-24 Krav til borger fra annet EØS-land eller Sveits som skal etablere seg i Norge – `par-26-24.md`
+- § 26-25 Krav til borger fra annet EØS-land eller Sveits som skal arbeide midlertidig i Norge – `par-26-25.md`
+- § 26-26 Krav til borger fra land utenfor EØS-området og Sveits – `par-26-26.md`
+- § 26-27 Forsvarlig bemanning – `par-26-27.md`
+- § 26-28 Dykkeleders, beredskapsdykkers og lineholders oppgaver – `par-26-28.md`
+- § 26-29 Overvåking av dykkeoperasjoner – `par-26-29.md`
+- § 26-30 Bruk av dykke- og behandlingstabeller – `par-26-30.md`
+- § 26-31 Trykkammer – `par-26-31.md`
+- § 26-32 Kommunikasjon, kommunikasjonssystemer og livline – `par-26-32.md`
+- § 26-33 Reservepustegass og oppstigningsvest – `par-26-33.md`
+- § 26-34 Loggføring av dykkeoperasjoner – `par-26-34.md`
+- § 26-35 Dokumentasjon – `par-26-35.md`
+- § 26-36 Krav til dykkerutstyret – `par-26-36.md`
+- § 26-37 Krav til dykkeslange og livline – `par-26-37.md`
+- § 26-38 Krav til dykkepanel – `par-26-38.md`
+- § 26-39 Krav til kommunikasjonsutstyr – `par-26-39.md`
+- § 26-40 Krav til trykkammer – `par-26-40.md`
+- § 26-41 Krav til regelmessig vedlikehold, kontroll og renhold – `par-26-41.md`
+- § 26-43 Helsekrav – `par-26-43.md`
+- § 26-44 Behandling av trykkfallsyke – `par-26-44.md`
+- § 26-45 Krav om førstehjelpsutstyr – `par-26-45.md`
+- § 26-47 Meldeplikt – `par-26-47.md`
+- § 27-1 Forundersøkelse ved bergarbeid – `par-27-1.md`
+- § 27-2 Risikovurdering og HMS-plan for bergarbeid – `par-27-2.md`
+- § 27-3 Organisering av bergarbeid – `par-27-3.md`
+- § 27-4 Varslingsplikt – `par-27-4.md`
+- § 27-5 Instruks for kontroll- og sikringsarbeid – `par-27-5.md`
+- § 27-6 Overvåkning og kommunikasjon – `par-27-6.md`
+- § 27-7 Blokkfall og blokkutglidning over jord – `par-27-7.md`
+- § 27-8 Fyllplasser for gravingsmasse og andre lagre – `par-27-8.md`
+- § 27-9 Tiltak mot luftforurensning – `par-27-9.md`
+- § 27-10 Transport under jord – `par-27-10.md`
+- § 27-11 Krav til personlig lykt ved bergarbeid – `par-27-11.md`
+- § 27-12 Sprengstoff og tennmidler til bruk i bergarbeid – `par-27-12.md`
+- § 27-13 Varsel om lyn ved bergarbeid – `par-27-13.md`
+- § 27-15 Krav til utstyr og anlegg ved bergarbeid – `par-27-15.md`
+- § 27-16 Vedlikehold av utstyr og anlegg ved bergarbeid – `par-27-16.md`
+- § 27-17 Boring med bergborerigg – `par-27-17.md`
+- § 27-18 Bruk av forbrenningsmotor i bergarbeid – `par-27-18.md`
+- § 27-22 Gruver eller steinbrudd med eksplosjonsfarlig støv – `par-27-22.md`
+- § 27-23 Beskyttelse mot brannfare ved bergarbeid – `par-27-23.md`
+- § 27-24 Rømnings- og redningsutstyr ved bergarbeid – `par-27-24.md`
+- § 27-25 Opplæring i bruk av førstehjelpsutstyr og gjenopplivingsutstyr ved bergarbeid – `par-27-25.md`
+- § 27-26 Redningsorganisasjon ved bergarbeid – `par-27-26.md`
+- § 27-27 Sikkerhetsøvelser ved bergarbeid – `par-27-27.md`
+- § 27-28 Helseundersøkelse av arbeidstaker ved bergarbeid – `par-27-28.md`
+- § 27-29 Røntgenundersøkelse av arbeidstaker ved bergarbeid – `par-27-29.md`
+- § 29-1 Arbeid hvor det kan være fare for brann eller eksplosjon – `par-29-1.md`
+- § 31-1 Register over arbeidstakere eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier og bly – `par-31-1.md`
+- § 31-2 Register over arbeidstakere som har vært eller kan bli eksponert for støv med asbestfiber – `par-31-2.md`
+- § 31-3 Register over arbeidstakere eksponert for biologiske faktorer – `par-31-3.md`
+- § 31-4 Register over arbeidstakere eksponert for ioniserende stråling – `par-31-4.md`
+- § 31-5 Register over arbeidstakere eksponert for helsefarlige stoffer ved bergarbeid – `par-31-5.md`
+- § 31-7 Overføring av register til Arbeidstilsynet – `par-31-7.md`
+- § 32-4 Ikrafttredelse – `par-32-4.md`

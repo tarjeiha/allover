@@ -1,0 +1,72 @@
+name: Hent Arbeidstilsynets kommentarer til forskriftene
+
+# Hver uke: henter nye og endrede kommentarer fra arbeidstilsynet.no for forskriftene i basen.
+# Se verktoy/arbeidstilsynet_hent.py. Endringene går rett i main, og den fagansvarlige får sak
+# neste morgen gjennom varsle-fagansvar.yml.
+on:
+  schedule:
+    - cron: "40 4 * * 1"
+  # Når skriptet endres på en claude/-gren, kjøres det der, så resultatet kan ses før det går i main.
+  push:
+    branches: ["claude/**"]
+    paths: ["verktoy/arbeidstilsynet_hent.py", ".github/workflows/arbeidstilsynet-hent.yml"]
+  workflow_dispatch:
+    inputs:
+      tving:
+        description: "Hent alle forskriftene på nytt"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: arbeidstilsynet
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: pip install beautifulsoup4==4.12.3 lxml==5.3.0
+
+      - name: Hent kommentarene
+        env:
+          TVING: ${{ inputs.tving && '--tving' || '' }}
+        run: python3 verktoy/arbeidstilsynet_hent.py $TVING
+
+      - name: Lagre
+        run: |
+          melding="$RUNNER_TEMP/melding.txt"
+          if [ -f arbeidstilsynet-rapport.txt ]; then mv arbeidstilsynet-rapport.txt "$melding"
+          else echo "Arbeidstilsynets kommentarer: nye datoer fra nettstedet" > "$melding"; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$melding"
+          for i in 1 2 3; do
+            git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            git pull --rebase -q origin "$GITHUB_REF_NAME"
+          done
+          exit 1
+
+      - name: Vis resultatet
+        if: always()
+        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+
+      - name: Varsle om feil
+        if: failure() && github.ref_name == 'main'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Henting av Arbeidstilsynets kommentarer: feil"
+          tekst: "den ukentlige hentingen av Arbeidstilsynets kommentarer til forskriftene feilet, f.eks. fordi nettstedet har endret oppbygning. Se kjøringen, eller be Claude se på det."
