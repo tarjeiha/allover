@@ -4,15 +4,15 @@ Legger budsjettdokumenter fra innboks-budsjett/ inn i basen.
 
 Filnavn bestemmer hva dokumentet er (ÅR er budsjettåret, f.eks. 2027 for Prop. 1 S 2026–2027):
 
-    prop-1-s-ÅR-aid.docx                 AIDs Prop. 1 S         -> budsjett/ÅR/prop-1-s-aid/
+    prop-1-s-ÅR-aid.docx                 Prop. 1 S arbeid/inkl. -> budsjett/ÅR/prop-1-s-aid/
     gul-bok-ÅR.docx                      Prop. 1 S Gul bok      -> budsjett/ÅR/gul-bok/
     nasjonalbudsjettet-ÅR.docx           Meld. St. 1            -> budsjett/ÅR/nasjonalbudsjettet/
     prop-1-s-ÅR-tillegg-N.docx           Prop. 1 S Tillegg N    -> budsjett/ÅR/prop-1-s-tillegg-N/
-    samledokument….docx                  svar på budsjettspørsmål fra Stortinget -> budsjett/ÅR/sporsmal/RUNDE/
-                                         (år og runde leses fra dokumentet, se verktoy/budsjett_sporsmal.py)
+    samledokument….docx                  stoppes og slettes: kan ha svar som ikke er publisert
+                                         (svarene legges inn med verktoy/budsjett_sporsmal_json.py)
     gul-bok-bevilgninger-ÅR.xlsx|csv|tsv Datagrunnlag til Gul bok -> budsjett/ÅR/gul-bok-bevilgninger.tsv
 
-Originalnavnet fra regjeringen.no for AIDs proposisjon, prp[SESJON][NR][DEP]ddddocx.docx
+Originalnavnet fra regjeringen.no for proposisjonen, prp[SESJON][NR][DEP]ddddocx.docx
 (f.eks. prp202120220001asdddddocx.docx), godtas også. Budsjettåret er siste år i sesjonen.
 
 Word-filene deles opp av verktoy/budsjett.py. Går oppdelingen bra, slettes filen fra
@@ -50,7 +50,7 @@ SAMLEDOKUMENT = re.compile(r"^samledokument.*\.docx$", re.I)
 FORVENTET_KOLONNER = {"kap_nr", "post_nr", "beløp"}
 # Originalnavn fra regjeringen.no: prp + sesjon (åtte sifre) + nummer (fire sifre) + departement + ddddocx
 ORIGINAL = re.compile(r"^prp(\d{4})(\d{4})(\d{4})([a-zæøå]+?)ddddocx\.docx$", re.I)
-AID_KODER = {"aid", "asd"}  # AID het Arbeids- og sosialdepartementet (ASD) fram til 2022
+DEP_KODER = {"aid", "asd"}  # departementskoden i originalnavnet, asd fram til 2022
 
 
 def sjekk_aar(aar):
@@ -72,17 +72,16 @@ def klassifiser(navn):
         fra, til, nr, dep = int(r.group(1)), int(r.group(2)), int(r.group(3)), r.group(4).lower()
         if til != fra + 1:
             raise ValueError(f"sesjonen {fra}–{til} i filnavnet ser feil ut")
-        if nr != 1 or dep not in AID_KODER:
+        if nr != 1 or dep not in DEP_KODER:
             raise ValueError(
-                f"filnavnet ser ut som Prop. {nr} S fra departementskoden «{dep}». Bare AIDs Prop. 1 S kjennes igjen på "
+                f"filnavnet ser ut som Prop. {nr} S fra departementskoden «{dep}». Bare Prop. 1 S for arbeid og inkludering kjennes igjen på "
                 "originalnavnet. Døp om filen etter mønsteret i README.md"
             )
         return "prop", sjekk_aar(til), None
     raise ValueError(
         "filnavnet passer ikke. Bruk prop-1-s-ÅR-aid.docx, prop-1-s-ÅR-tillegg-N.docx, gul-bok-ÅR.docx, "
-        "nasjonalbudsjettet-ÅR.docx, gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027) "
-        "eller samledokument….docx for svar på budsjettspørsmål. "
-        "Originalnavnet fra regjeringen.no for AIDs Prop. 1 S (prp…ddddocx.docx) virker også"
+        "nasjonalbudsjettet-ÅR.docx eller gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027). "
+        "Originalnavnet fra regjeringen.no for Prop. 1 S for arbeid og inkludering (prp…ddddocx.docx) virker også"
     )
 
 
@@ -155,7 +154,7 @@ def oppdater_veiviser():
     deler = []
     for mappe in sorted((p for p in BUDSJETT.iterdir() if p.is_dir() and p.name.isdigit()), reverse=True):
         funn = []
-        kjente = [("prop-1-s-aid", "Prop. 1 S AID")]
+        kjente = [("prop-1-s-aid", "Prop. 1 S for arbeid og inkludering")]
         kjente += [(p.name, f"Prop. 1 S Tillegg {p.name.rsplit('-', 1)[1]} (alle departementer)")
                    for p in sorted(mappe.glob("prop-1-s-tillegg-*")) if p.is_dir()]
         kjente += [("gul-bok", "Gul bok"), ("nasjonalbudsjettet", "Nasjonalbudsjettet"), ("stortinget", "Stortingets vedtak"),
@@ -204,9 +203,12 @@ def main():
         try:
             type_, aar, tillegg = klassifiser(sti.name)
             if type_ == "sporsmal":
-                import budsjett_sporsmal
-
-                res = budsjett_sporsmal.legg_inn(sti, BUDSJETT)
+                sti.unlink()
+                raise ValueError(
+                    "samledokumenter skal ikke lastes opp her. De kan ha svar som ikke er publisert, og alt i dette "
+                    "repoet er åpent. Filen er slettet, men ligger i historikken. Si fra til redaktøren. Svarene "
+                    "legges inn fra regjeringen.no med verktoy/budsjett_sporsmal_json.py"
+                )
             elif type_ == "data":
                 res = lag_tsv(sti, aar)
             else:

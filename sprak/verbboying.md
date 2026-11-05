@@ -1,6 +1,6 @@
 # Interne føringer for bøying av enkelte verb
 
-For disse verbene har departementet valgt én bøyingsform, selv om
+For disse verbene er én bøyingsform valgt, selv om
 nynorsk grammatisk tillater flere. Format: infinitiv – presens –
 preteritum – perfektum partisipp (der aktuelt).
 

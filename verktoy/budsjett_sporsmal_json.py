@@ -1,4 +1,4 @@
-"""Legger svar på budsjettspørsmål inn fra regjeringen.no (JSON) og departementets interne liste.
+"""Legger svar på budsjettspørsmål inn fra regjeringen.no (JSON) og en egen liste som ikke ligger i repoet.
 
 Bruk: python3 verktoy/budsjett_sporsmal_json.py ÅR RUNDE LISTE.xml SIDE.json [SIDE.json ...]
 
@@ -7,7 +7,7 @@ eller flere sider etter hverandre i samme fil). LISTE.xml er utdraget fra den in
 listen (SvarTilStortinget, Atom-XML) med kolonnene SfsParti, SfsSpmNummer, SfsBudsjettar,
 SfsSpmRunde, SfsSpmKategori, SfsKapittelOgPost og SfsDepartement.
 
-Bare svar som står i begge legges inn: listen sier hvilke svar som er departementets, og JSON
+Bare svar som står i begge legges inn: listen sier hvilke svar som hører til basen, og JSON
 sier at svaret er publisert. Svar som bare står i listen, er ikke publisert og legges ikke inn.
 Teksten og tabellene kommer fra JSON. Publiseringsdato, antall versjoner og lenke skrives i
 felt.tsv (andre felt i felt.tsv beholdes). Lenken bygges fra svarsiden for runden i
@@ -27,7 +27,7 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from budsjett import rens, slug  # noqa: E402
-from budsjett_sporsmal import BUDSJETT, TILLEGG, oppdater_indeks, ukjente_familier, utelatt  # noqa: E402
+from budsjett_sporsmal import BUDSJETT, TILLEGG, oppdater_indeks, ukjente_familier  # noqa: E402
 
 SIDER = BUDSJETT / "sporsmal-sider.tsv"
 NS = {"a": "http://www.w3.org/2005/Atom",
@@ -195,14 +195,13 @@ def legg_inn(aar, runde, liste, sider, budsjett=BUDSJETT):
         raise ValueError(f"fant ingen svar for {runde.upper()} {aar} i listen")
     mappe = budsjett / str(aar) / "sporsmal" / runde
     mappe.mkdir(parents=True, exist_ok=True)
-    utenfor = utelatt(mappe)
     side_url = svarside(aar, runde)
     felt, ikke_publisert, per_parti = {}, [], Counter()
     for r in interne:
         nr = nummer(r["SfsSpmNummer"])
         navn = f"{slug(r['SfsParti'])}-{nr}"
         versjoner = publisert.get((r["SfsParti"].upper(), nr))
-        if not versjoner or navn in utenfor:
+        if not versjoner:
             ikke_publisert.append(navn)
             continue
         svar = max(versjoner, key=lambda s: s["SortByPublished"])

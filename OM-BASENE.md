@@ -41,7 +41,7 @@ Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn 
 ## Hva som ligger i den åpne basen
 
 <!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger for hånd -->
-Oversikten ble sist laget 2026-11-04.
+Oversikten ble sist laget 2026-11-05.
 
 ### Regelverk
 
@@ -55,13 +55,13 @@ Lov- og forskriftsteksten hentes fra Lovdata hver natt.
 
 ### Statsbudsjettet
 
-- **2021:** Prop. 1 S for AID, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2022:** Prop. 1 S for AID, Prop. 1 S Tillegg 1, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2023:** Prop. 1 S for AID, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2024:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2025:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2026:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2027:** Prop. 1 S for AID, Gul bok, bevilgninger fra Gul bok (tabell), Nasjonalbudsjettet og svar på budsjettspørsmål fra Stortinget.
+- **2021:** Prop. 1 S for arbeid og inkludering, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2022:** Prop. 1 S for arbeid og inkludering, Prop. 1 S Tillegg 1, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2023:** Prop. 1 S for arbeid og inkludering, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2024:** Prop. 1 S for arbeid og inkludering, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2025:** Prop. 1 S for arbeid og inkludering, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2026:** Prop. 1 S for arbeid og inkludering, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2027:** Prop. 1 S for arbeid og inkludering, Gul bok, bevilgninger fra Gul bok (tabell), Nasjonalbudsjettet og svar på budsjettspørsmål fra Stortinget.
 - **Satstabeller over flere år:** grunnstønad og hjelpestønad.
 
 Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
@@ -69,7 +69,7 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 ### Statistikk
 
 - **Nav:** 229 tabeller (sykefravær, arbeidsledighet, AAP, uføretrygd, pensjon, familieytelser m.m.), hentet hver uke.
-- **Navs pressemeldinger:** 74 fra januar 2024 og framover.
+- **Navs pressemeldinger:** 75 fra januar 2024 og framover.
 - **Eurostat:** 8 tabeller for sammenligning med Norden og EU.
 - **OECD:** 17 tabeller for sammenligning med andre OECD-land.
 - **SSB:** tallene ligger ikke i basen, men katalogen viser hvilke SSB-tabeller som svarer på hva. Claude henter dem med SSB-tilkoblingen.

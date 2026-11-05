@@ -1,6 +1,6 @@
 # Felles skriveregler
 
-Regler for tall, datoer, henvisninger og faste begreper. De står i veilederen for Prop. 1 S, men gjelder all tekst fra departementet, både bokmål og nynorsk. Eksemplene er fra veilederen og ofte på nynorsk. Bruk tilsvarende form på bokmål (*regjeringa* → *regjeringen*, *løyving* → *bevilgning*).
+Regler for tall, datoer, henvisninger og faste begreper. De står i veilederen for Prop. 1 S, men gjelder all fagtekst, både bokmål og nynorsk. Eksemplene er fra veilederen og ofte på nynorsk. Bruk tilsvarende form på bokmål (*regjeringa* → *regjeringen*, *løyving* → *bevilgning*).
 
 Regler som bare gjelder Prop. 1 S, står i `prop-1-s.md`.
 
@@ -18,7 +18,7 @@ Regler som bare gjelder Prop. 1 S, står i `prop-1-s.md`.
 - Datoer skrives helt ut: **1. januar 20XX** (ikke 1.1.20XX).
 - 1. kvartal, 1. halvår, 1. tertial.
 - **Tankestrek** uten mellomrom i intervaller: 2021–2022.
-- Tankestrek med mellomrom ved innskudd: *Olsen – som arbeider i departementet – fyller 30 år.* (Ctrl + minus på talltastaturet.)
+- Tankestrek med mellomrom ved innskudd: *Olsen – som arbeider i Nav – fyller 30 år.* (Ctrl + minus på talltastaturet.)
 - **Bindestrek** bare når ord bindes sammen: *Barne- og familiedepartementet.*
 
 ## Henvisning til meldinger, proposisjoner og NOU

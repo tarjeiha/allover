@@ -1,6 +1,6 @@
 # Statsbudsjettet – veiviser
 
-Denne mappen har statsbudsjettdokumenter for Arbeids- og inkluderingsdepartementet (AID), delt opp slik at du kan gå rett til et kapittel eller en post. Dokumentene er offentlige og hentet fra regjeringen.no. Word- og Excel-filene lastes opp manuelt, fordi regjeringen.no ikke slipper til automatisk henting.
+Denne mappen har statsbudsjettdokumenter for arbeids- og inkluderingsområdet, delt opp slik at du kan gå rett til et kapittel eller en post. Dokumentene er offentlige og hentet fra regjeringen.no. Word- og Excel-filene lastes opp manuelt, fordi regjeringen.no ikke slipper til automatisk henting.
 
 ## Budsjettprosessen og bevilgningsreglementet
 
@@ -12,7 +12,7 @@ Spørsmål om hvordan budsjettet lages og gjennomføres, og om reglene for bevil
 - **Ulike enheter.** Tabellene i proposisjonen er i 1 000 kroner. `gul-bok-bevilgninger.tsv` er i kroner.
 - **Tall for alle departementer finner du raskest i `gul-bok-bevilgninger.tsv`.** `gul-bok/forslag-til-vedtak.md` er stor (alle departementers vedtaksforslag), så les den bare når du trenger vedtaksteksten.
 - **Anslag er anslag.** Tall for 2026 og 2027 i Nasjonalbudsjettet er Finansdepartementets anslag fra oktober 2026. Si det når du bruker dem.
-- **Nynorsk.** AIDs proposisjon er skrevet på nynorsk. Siter på nynorsk, men svar på brukerens språk.
+- **Nynorsk.** Prop. 1 S for arbeid og inkludering er skrevet på nynorsk. Siter på nynorsk, men svar på brukerens språk.
 - **Overslagsløyvingar.** Poster merket «overslagsløyving» (f.eks. dagpenger) er anslag. Utgiftene følger regelverket, ikke beløpet.
 - **Kapittelnumrene sier hva slags kapittel det er.** Kap. 600–699 er ordinære utgiftskapitler, 2470 er Statens pensjonskasse, 2541–2686 er folketrygden, 3000-kapitlene er inntekter som hører til 600-kapitlene, og 5000-kapitlene er andre inntekter og utgifter (f.eks. 5470 Statens pensjonskasse og 5705 Refusjon av dagpengar). Se programkategori-filene for inndelingen.
 
@@ -33,7 +33,7 @@ Feller:
 
 ## Svar på budsjettspørsmål fra Stortinget (`budsjett/ÅR/sporsmal/RUNDE/`)
 
-Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Et utvalg av svarene fra og med 2021 er lagt inn. Tekst og tabeller er hentet fra regjeringen.no og koblet med en intern oversikt som gir kapittel og post, kategori og departement (`verktoy/budsjett_sporsmal_json.py`). Statsbudsjettet 2026 kom fra samledokumentene fra Finansdepartementets system via `innboks-budsjett/` (`verktoy/budsjett_sporsmal.py`). Bare svar som er publisert på regjeringen.no, legges inn. Svarsiden for hver runde står i `budsjett/sporsmal-sider.tsv` og brukes til lenkene.
+Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Et utvalg av svarene fra og med 2021 er lagt inn. Tekst og tabeller er hentet fra regjeringen.no (`verktoy/budsjett_sporsmal_json.py`). Kapittel og post, kategori og departement kommer fra en egen oversikt som ikke ligger i basen. Bare svar som er publisert på regjeringen.no, legges inn. Svarsiden for hver runde står i `budsjett/sporsmal-sider.tsv` og brukes til lenkene.
 
 | Fil | Innhold |
 |---|---|
@@ -70,7 +70,7 @@ Feller:
 - **Budsjettforliket per post** finnes i `partiforslag.tsv` (flertallets kolonne) eller som forskjellen mellom `saldert` i `vedtak.tsv` og Prop. 1 S. Selve avtaleteksten ligger bare som PDF-vedlegg til Innst. 2 S.
 - **Feil i kildene.** Noen innstillinger oppgir «fra kr … til kr …» som ikke stemmer med endringen. Da står det i `merknad`, og `belop` er tallet innstillingen oppgir.
 - **Post 24 Driftsresultat** for forvaltningsbedrifter (f.eks. kap. 2470) har underposter uten eget beløp. De er ikke med.
-- **Saldert budsjett for AIDs kapitler** er kontrollert mot kolonnen «Saldert budsjett» i neste års Prop. 1 S for 2022–2025, uten avvik.
+- **Saldert budsjett for kapitlene i Prop. 1 S for arbeid og inkludering** er kontrollert mot kolonnen «Saldert budsjett» i neste års Prop. 1 S for 2022–2025, uten avvik.
 
 ## Partienes alternative budsjetter (`budsjett/ÅR/alternative-budsjett/`)
 
@@ -84,7 +84,7 @@ Opposisjonspartiene legger fram egne alternative statsbudsjetter i november, fø
 Feller:
 
 - **Dokumentene er partienes egne, ikke formelle forslag i Stortinget.** Det partiene fremmer i komiteene, kan avvike. De formelle forslagene per post kommer inn i `budsjett/ÅR/stortinget/partiforslag.tsv` av seg selv når budsjettinnstillingene foreligger i desember. Bruk dem når de finnes, og si at tallene her er fra partiets alternative budsjett.
-- **Summene i partienes dokumenter stemmer ikke alltid.** Hos SV stemmer radene ikke med summen for noen rammeområder (størst er forsvar, der radene gir −107 mill. kroner og summen −469). SVs sum for skatter er 290 mill. kroner høyere enn radene. Hos Senterpartiet har landbruk feil fortegn på nettoendringen. Bruk radene, og oppgi siden når du siterer en sum.
+- **Bruk radene, ikke partienes egne summer.** Summer for rammeområder, departementer og skatter i partienes dokumenter kan avvike fra summen av radene. Regn ut summen av radene selv, og oppgi siden når du siterer en sum fra dokumentet.
 - **90-poster (lånetransaksjoner) er med som rader,** men partiene holder dem utenfor summene. Se `merknad`.
 - **Beløp som gjelder flere tiltak.** I SVs skattetabell står beløpet for formuesskatt og for inntektsskatt (trinnskatt, utbytte og frikort) bare på den siste linjen i blokken. Se `merknad`.
 - **Senterpartiets tabell for kultur** har feil overskrift i dokumentet (Klima- og miljødepartementet). Den er lagt inn som Kultur- og likestillingsdepartementet (KUD).
@@ -95,26 +95,26 @@ Feller:
 
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
-- **2027:** Prop. 1 S AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
-- **2026:** Prop. 1 S AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (69 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
-- **2025:** Prop. 1 S AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (55 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (296 svar, `budsjett/2025/sporsmal/stb/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
-- **2024:** Prop. 1 S AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (45 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (236 svar, `budsjett/2024/sporsmal/stb/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
-- **2023:** Prop. 1 S AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (59 svar, `budsjett/2023/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (252 svar, `budsjett/2023/sporsmal/stb/`)
-- **2022:** Prop. 1 S AID (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`), Stortingets vedtak (`budsjett/2022/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (47 svar, `budsjett/2022/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (195 svar, `budsjett/2022/sporsmal/stb/`)
-- **2021:** Prop. 1 S AID (`budsjett/2021/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2021/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (167 svar, `budsjett/2021/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (364 svar, `budsjett/2021/sporsmal/stb/`)
+- **2027:** Prop. 1 S for arbeid og inkludering (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
+- **2026:** Prop. 1 S for arbeid og inkludering (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (69 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
+- **2025:** Prop. 1 S for arbeid og inkludering (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (55 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (296 svar, `budsjett/2025/sporsmal/stb/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
+- **2024:** Prop. 1 S for arbeid og inkludering (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (45 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (236 svar, `budsjett/2024/sporsmal/stb/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
+- **2023:** Prop. 1 S for arbeid og inkludering (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (59 svar, `budsjett/2023/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (252 svar, `budsjett/2023/sporsmal/stb/`)
+- **2022:** Prop. 1 S for arbeid og inkludering (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`), Stortingets vedtak (`budsjett/2022/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (47 svar, `budsjett/2022/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (195 svar, `budsjett/2022/sporsmal/stb/`)
+- **2021:** Prop. 1 S for arbeid og inkludering (`budsjett/2021/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2021/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (167 svar, `budsjett/2021/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (364 svar, `budsjett/2021/sporsmal/stb/`)
 <!-- AUTO-SLUTT budsjettår -->
 
 ## Budsjettår 2027
 
 | Dokument | Sti | Innhold |
 |---|---|---|
-| Prop. 1 S (2026–2027) AID | `budsjett/2027/prop-1-s-aid/` | Hele proposisjonen, én fil per kapittel |
+| Prop. 1 S (2026–2027) for arbeid og inkludering | `budsjett/2027/prop-1-s-aid/` | Hele proposisjonen, én fil per kapittel |
 | Prop. 1 S (2026–2027) Gul bok | `budsjett/2027/gul-bok/` | Hele statsbudsjettet: hovedtall, oljepengebruk, utgiftsvekst, budsjettkonsekvenser 2028–2030, statens lånebehov, vedlegg. Én fil per delkapittel |
 | Meld. St. 1 (2026–2027) Nasjonalbudsjettet | `budsjett/2027/nasjonalbudsjettet/` | Økonomiske utsikter og anslag (arbeidsmarked, priser, lønn), budsjettpolitikk, velferd og fordeling. Én fil per delkapittel. `vedlegg-05-…` har historiske tabeller og detaljerte anslagstall |
 | Nasjonalbudsjettet, figurdata | `budsjett/2027/nasjonalbudsjettet/figurdata/` | Tallene bak 148 figurer, én TSV per figur. `innhold.tsv` lister figurtitlene |
 | Gul bok, datagrunnlag | `budsjett/2027/gul-bok-bevilgninger.tsv` | Alle departementers bevilgningsforslag per kapittel og post (kroner). Kolonner: gdep_nr, avs_nr, gdep_navn, avs_navn, fdep_nr, fdep_navn, omr_nr, kat_nr, omr_navn, kat_navn, kap_nr, post_nr, kap_navn, post_navn, stikkord, beløp |
 
-### Slik finner du fram i Prop. 1 S AID
+### Slik finner du fram i Prop. 1 S for arbeid og inkludering
 
 - Vet du kapittelet, gå rett til `kap-NNNN.md` (fire sifre, f.eks. `kap-2541.md` for dagpenger).
 - `poster.tsv` viser hvilken fil hver post står i.

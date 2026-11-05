@@ -1,4 +1,4 @@
-> **Flyttet fra skillen `aid-ftrl-uforetrygd`** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
+> **Flyttet fra en tidligere skill** 16.10.2026 og ryddet 18.10.2026. Merknaden er hjelp til å finne fram og unngå vanlige feil, ikke lov- eller forskriftstekst. Kildereglene i CLAUDE.md gjelder foran det som står her.
 
 # Folketrygdloven – uføretrygd (kap. 12)
 

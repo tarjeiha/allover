@@ -1,6 +1,6 @@
 # Ordliste for nynorsk – bruk og ikke bruk
 
-Foretrukket nynorskord («Bruk») mot ord som **ikke** skal brukes («Ikke bruk») i nynorsk tekst fra departementet. Kilde: veilederen (se `VEIVISER.md`). Står et ord her, går lista foran den generelle -ning-regelen i `nynorsk.md`. Ved usikkerhet om ord som ikke står her, sjekk ordbokene.no eller Språkrådets administrative ordliste.
+Foretrukket nynorskord («Bruk») mot ord som **ikke** skal brukes («Ikke bruk») i nynorsk fagtekst. Kilde: veilederen (se `VEIVISER.md`). Står et ord her, går lista foran den generelle -ning-regelen i `nynorsk.md`. Ved usikkerhet om ord som ikke står her, sjekk ordbokene.no eller Språkrådets administrative ordliste.
 
 | Bruk | Ikke bruk |
 | --- | --- |

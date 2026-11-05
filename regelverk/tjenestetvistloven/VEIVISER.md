@@ -2,7 +2,7 @@
 
 Tjenestetvistloven regulerer forhandlingsordningen for statsansatte: forhandlingsrett, hovedsammenslutninger, tariffavtaler i staten, mekling, arbeidsstans, Arbeidsretten og Statens lønnsutvalg. Forskriftene gjelder utfylling av loven, overføring av forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner, undervisningspersonale ved helsefaghøgskoler og delegering av myndighet.
 
-Loven forvaltes av Digitaliserings- og forvaltningsdepartementet, ikke Arbeids- og inkluderingsdepartementet. Spørsmål om lovendringer eller departementets standpunkter ligger utenfor AIDs ansvarsområde.
+Loven forvaltes av Digitaliserings- og forvaltningsdepartementet. Spørsmål om lovendringer og om hvordan loven skal forstås, hører hjemme der.
 
 ## Slik bruker du veiviseren
 
