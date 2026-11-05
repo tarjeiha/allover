@@ -1,0 +1,73 @@
+# Arbeidstilsynets kommentarer til forskrift om organisering, ledelse og medvirkning
+
+Arbeidstilsynets kommentarer til Forskrift om organisering, ledelse og medvirkning (FOR-2011-12-06-1355), hentet fra [arbeidstilsynet.no](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning/) 2026-11-05. Kommentarene er Arbeidstilsynets veiledning, ikke forskriftstekst. Forskriftsteksten ligger under `forskrifter/` og kommer fra Lovdata.
+
+## Innhold
+
+- § 1-3 Hvem forskriften retter seg mot – `par-1-3.md`
+- § 1-4 Definisjoner – `par-1-4.md`
+- § 1-5 Dispensasjon – `par-1-5.md`
+- § 2-1 Arbeidstakernes medvirkning – `par-2-1.md`
+- § 2-2 Verneombudets oppgaver og medvirkning – `par-2-2.md`
+- § 2-3 Arbeidsmiljøutvalgets oppgaver – `par-2-3.md`
+- § 2-4 Behandling av planer for bygningsmessige arbeider m. m. i arbeidsmiljøutvalg – `par-2-4.md`
+- § 3-2 Valg av verneombud – `par-3-2.md`
+- § 3-3 Valg av stedfortreder for verneombudet – `par-3-3.md`
+- § 3-4 Verneombudenes funksjonstid – `par-3-4.md`
+- § 3-5 Hovedverneombudet – `par-3-5.md`
+- § 3-7 Arbeidsmiljøutvalg – `par-3-7.md`
+- § 3-9 Gjennomføring av valg av medlemmer til arbeidsmiljøutvalg – `par-3-9.md`
+- § 3-10 Gjennomføring av valg til arbeidsmiljøutvalg i virksomhet med flere lokale fagforeninger – `par-3-10.md`
+- § 3-12 Leder av arbeidsmiljøutvalg – `par-3-12.md`
+- § 3-13 Saker som gjelder arbeidstakergruppe uten medlem i arbeidsmiljøutvalget – `par-3-13.md`
+- § 3-14 Flere arbeidsmiljøutvalg i samme virksomhet – `par-3-14.md`
+- § 3-15 Funksjonstid for medlemmer av arbeidsmiljøutvalg – `par-3-15.md`
+- § 3-16 Saksbehandlingen i arbeidsmiljøutvalget – `par-3-16.md`
+- § 3-17 Taushetsplikt for verneombud og medlemmer av arbeidsmiljøutvalg – `par-3-17.md`
+- § 3-18 Opplæring av verneombud og medlemmer av arbeidsmiljøutvalg – `par-3-18.md`
+- § 3-19 Varighet av opplæringen av verneombud og medlemmer av arbeidsmiljøutvalg – `par-3-19.md`
+- § 3-22 Virksomheter med andre samarbeidsorganer – `par-3-22.md`
+- § 3-23 Spesielle grupper – `par-3-23.md`
+- § 4-2 Valg av verneombud for laste- og lossearbeidere – `par-4-2.md`
+- § 4-3 Valg av arbeidsmiljøutvalg for laste- og lossearbeidere – `par-4-3.md`
+- § 5-1 Virkeområde – `par-5-1.md`
+- § 5-2 Regionale verneombuds myndighet og oppgaver – `par-5-2.md`
+- § 5-3 Regionale verneombuds rett til opplysninger – `par-5-3.md`
+- § 5-4 Taushetsplikt – `par-5-4.md`
+- § 5-5 Kompetansekrav – `par-5-5.md`
+- § 6-1 Virkeområde – `par-6-1.md`
+- § 6-3 Regionale verneombuds myndighet og oppgaver – `par-6-3.md`
+- § 6-4 Rett til opplysninger – `par-6-4.md`
+- § 6-5 Taushetsplikt – `par-6-5.md`
+- § 7-1 Gjennomgående krav til kartlegging og risikovurdering – `par-7-1.md`
+- § 8-1 Gjennomgående krav til opplæring – `par-8-1.md`
+- § 9-1 Gjennomgående krav om informasjon til arbeidstakerne – `par-9-1.md`
+- § 10-1 Planlegging og tilrettelegging av arbeidet – `par-10-1.md`
+- § 10-2 Forebygging av skader ved ergonomisk belastende arbeid – `par-10-2.md`
+- § 10-5 Krav om sikkerhetsskilting og signalgivning – `par-10-5.md`
+- § 11-1 Gjennomgående krav til arbeidsinstruks for utførelse av arbeid og bruk av arbeidsutstyr – `par-11-1.md`
+- § 12-1 Risikovurdering og særlig tilpassede tiltak for arbeidstakere under 18 år – `par-12-1.md`
+- § 12-2 Adgang til å sette barn som har fylt 13 år til arbeid – `par-12-2.md`
+- § 12-3 Adgang til å sette barn til kulturelt eller lignende arbeid – `par-12-3.md`
+- § 12-4 Samtykke fra foreldre eller foresatte – `par-12-4.md`
+- § 12-5 Begrensninger i arbeid av barn og ungdom – `par-12-5.md`
+- § 12-6 Forbud mot arbeid som kan medføre særlig fare for helseskade – `par-12-6.md`
+- § 12-7 Unntak fra arbeidsforbudet ved yrkesrettet opplæring – `par-12-7.md`
+- § 12-8 Adgang til å sette barn til kulturelt, kunstnerisk eller sportslig arbeid – `par-12-8.md`
+- § 12-9 Vilkår for å sette ungdom til arbeid om natten – `par-12-9.md`
+- § 12-10 Krav om informasjon – `par-12-10.md`
+- § 12-11 Krav om medvirkning fra verneombudet når arbeidstaker er under 18 år – `par-12-11.md`
+- § 12-12 Krav om listeføring av unge arbeidstakere – `par-12-12.md`
+- § 13-1 Plikt til å knytte bedriftshelsetjeneste til virksomheten – `par-13-1.md`
+- § 13-2 Arbeidsgivers bruk av bedriftshelsetjenesten – `par-13-2.md`
+- § 13-3 Planer, årsrapporter og meldinger – `par-13-3.md`
+- § 14-1 Krav til helseovervåkning – `par-14-1.md`
+- § 14-2 Registrering og varsling av arbeidsulykke og yrkessykdom – `par-14-2.md`
+- § 14-3 Leges meldeplikt i bygge- og anleggsvirksomhet – `par-14-3.md`
+- § 14-4 Undersøkelse av arbeidstakeres syn ved arbeid ved dataskjerm – `par-14-4.md`
+- § 14-5 Arbeidsgivers oppfølging av helseundersøkelsene – `par-14-5.md`
+- § 14-6 Krav til leges kompetanse – `par-14-6.md`
+- § 15-1 Gjennomgående krav om bruk av personlig verneutstyr – `par-15-1.md`
+- § 15-3 Krav til personlig verneutstyr – `par-15-3.md`
+- § 15-4 Krav til vedlikehold og kontroll av personlig verneutstyr – `par-15-4.md`
+- § 15-5 Krav til informasjon om personlig verneutstyr – `par-15-5.md`

@@ -1,0 +1,29 @@
+---
+rundskriv: "Arbeidstilsynets kommentarer til forskrift om informasjons- og påseplikt og innsynsrett"
+utgiver: "Arbeidstilsynet"
+lov: "Allmenngjøringsloven"
+forskrift: "Forskrift om informasjons- og påseplikt og innsynsrett"
+forskrift_id: "FOR-2008-02-22-166"
+kilde: "https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-informasjons--og-paseplikt-og-innsynsrett/"
+lagt_inn: "2026-11-05"
+paragraf: "§ 7"
+gjelder: "forskrift"
+---
+
+# Arbeidstilsynets kommentar til forskrift om informasjons- og påseplikt og innsynsrett § 7 Gjennomføring av tillitsvalgtes innsynsrett
+
+### Første ledd
+
+Innsynsretten er som hovedregel lagt til tillitsvalgte hos hovedleverandør. Det vises til definisjonen av tillitsvalgte i § 3, hvoretter tillitsvalgte skal forstås som tillitsvalgte som representerer den organisasjonen som er part i den allmenngjorte tariffavtalen, og merknadene til bestemmelsen over.
+
+Dersom det er flere tillitsvalgte med innsynsrett hos hovedleverandør forutsettes det at krav om innsyn koordineres, f.eks. slik at innsynsretten utøves av en hovedtillitsvalgt.
+
+Innsynsretten skal gjennomføres ved at hovedleverandør, dvs. den tillitsvalgtes arbeidsgiver, etter begjæring fra den tillitsvalgte skal dokumentere at lønns- og arbeidsvilkår hos underleverandører er i overensstemmelse med gjeldende allmenngjøringsforskrifter.
+
+Forskriften innebærer at hovedleverandør får plikt til å samle inn opplysninger om lønns- og arbeidsvilkår fra underleverandører og videreformidle disse til tillitsvalgte i virksomheten, dersom de tillitsvalgte krever dette. På tilsvarende måte som for påseplikten, vil det kunne være hensiktsmessig at oppdragsgivere kontraktsregulerer plikten til å utlevere opplysninger, eventuelt også den nærmere fremgangsmåten for innsamling og utlevering av opplysninger, samt eventuelle sanksjoner dersom plikten ikke oppfylles.
+
+Innsynsretten skal gjelde nedover i hele kontraktkjeden. I likhet med påseplikten skal innsynsretten også gjelde for innleide arbeidstakeres lønns- og arbeidsvilkår.
+
+### Andre ledd
+
+Unntaket i andre ledd retter seg mot tilfeller der hovedleverandørvirksomheten ikke har tillitsvalgte i forskriftens forstand, dvs. tillitsvalgte som representerer den organisasjonen som er part i den allmenngjorte tariffavtalen. Ifølge forskriften skal innsynsretten i disse tilfeller flyttes et ledd ned i kontraktkjeden til eventuelle slike tillitsvalgte hos hovedleverandørens nærmeste underleverandør. Hensikten med bestemmelsen er blant annet å hindre omgåelser av innsynsretten gjennom såkalt administrativ entreprise, der den som har kontrakt med byggherren og således er hovedleverandør etter forskriften, ikke har egne ansatte.
