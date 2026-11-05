@@ -1,0 +1,37 @@
+---
+rundskriv: "Statens personalhåndbok"
+utgave: "Statens personalhåndbok - 1 Innledning"
+kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_3-8"
+lagt_inn: "2026-11-05"
+punkt: "3.8"
+---
+
+# Statens personalhåndbok punkt 3.8 Saksbehandlingsregler ved ordensstraff, oppsigelse suspensjon og avskjed
+
+buttonsBar: k3-8-1
+
+## 3.8.1 Hvem kan treffe vedtak
+
+Myndighet til å treffe vedtak om ordensstraff, oppsigelse, suspensjon og avskjed av statsansatte reguleres av [statsansatteloven § 30 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A730), og ligger normalt til ansettelsesorganet.
+
+Ved suspensjon av en statsansatt, eller overføring til annen mindre betrodd tjeneste, hvor saken samtidig krever særlig rask avgjørelse, kan arbeidsgiver (for ordinære statsansatte) eller fagdepartementet (for statsansatte som er beskikket av Kongen) likevel treffe slikt vedtak. Vedtaket skal straks meldes til ansettelsesorganet (for ordinære statsansatte) eller Kongen i statsråd (for beskikkende statsansatte). For ordinære statsansatte kan ansettelsesorganet omgjøre vedtaket eller treffe annet vedtak etter [statsansatteloven § 29](https://lovdata.no/lov/2017-06-16-67/%C2%A729) om vilkårene for det foreligger. For beskikkede statsansatte kan Kongen i statsråd stadfeste vedtaket, omgjøre vedtaket eller treffe annet vedtak etter [statsansatteloven § 29](https://lovdata.no/lov/2017-06-16-67/%C2%A729) om vilkårene for det foreligger. Rettssituasjonen for embetsmenn er noe usikker på dette punkt, se omtale i [Prop. 94 L (2016–2017) side 219](https://lovdata.no/forarbeid/prop-94-l-201617/s219). For høyere statsansatte som beskikkes i statsråd, og embetsmenn, har det enkelte departement fullmakt til å vedta opphør av suspensjon og ilegge ordensstraff, se [statsansatteloven § 31 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A731).
+
+Hovedregelen er at alle avgjørelser vedrørende avskjed og suspensjon av de såkalte avsettelige embetsmenn avgjøres av Kongen i statsråd. Myndigheten til å ilegge embetsmenn ordensstraff er delegert til det enkelte departement, se [statsansatteloven § 31 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A731).
+
+buttonsBar: k3-8-2
+
+## 3.8.2 Behandlingen av saker om ileggelse av ordensstraff, oppsigelse eller avskjed
+
+Ordensstraff, oppsigelse eller avskjed er disiplinærreaksjoner som må følge reglene om saksbehandling i [statsansatteloven § 32](https://lovdata.no/lov/2017-06-16-67/%C2%A732) og [forvaltningsloven](https://lovdata.no/lov/1967-02-10). Det er også viktig at alminnelige forvaltningsrettslige prinsipper og god forvaltningsskikk følges.
+
+Det første arbeidsgiver må gjøre, er å undersøke om vilkårene for disiplinærreaksjon er oppfylt. Det gjelder et generelt prinsipp i forvaltningen om forholdsmessighet, og dette tilsier at det ikke skal reageres med strengere reaksjon enn nødvendig. Det er viktig at arbeidsgiver oppfyller sin undersøkelsesplikt etter [forvaltningsloven § 17](https://lovdata.no/lov/1967-02-10/%C2%A717), og at arbeidstakers rett til kontradiksjon ivaretas. Dersom det er begått straffbare forhold som ligger til grunn for at disiplinærreaksjon vurderes, kan dette være forhold som bør politianmeldes. Det er fastsatt retningslinjer for behandling av saker om underslag, korrupsjon, tyveri, bedrageri og utroskap i statstjenesten. Disse er inntatt i [SPH punkt 9.9](https://lovdata.no/litteratur/sph/kap9.9).
+
+Etter [forvaltningsloven § 16](https://lovdata.no/lov/1967-02-10/%C2%A716) skal det sendes forhåndsvarsel om den reaksjonen som vurderes ilagt før det treffes vedtak. Arbeidstaker skal gis anledning til å uttale seg innen en fastsatt frist. Forhåndsvarslet skal redegjøre for hva saken gjelder og ellers inneholde det som anses påkrevd for at arbeidstaker skal kunne ivareta sine interesser i saken.
+
+Etter [statsansatteloven § 32 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A732) skal arbeidstaker dessuten gis anledning til å forklare seg muntlig for den myndigheten som skal avgjøre saken. Arbeidstaker har også rett til å la seg bistå av en tillitsvalgt eller annen rådgiver, se bestemmelsens andre ledd. I [Rt-2002-273](https://lovdata.no/avgjorelse/hr-2001-125-125a) har Høyesterett slått fast at retten til å forklare seg muntlig etter [statsansatteloven § 32 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A732), kun gjelder for den myndighet som skal avgjøre saken, det vil si treffe vedtak. Hvorvidt vedkommende arbeidstaker også har rett til å forklare seg muntlig for klageinstansen, er avhengig av omstendighetene i den enkelte sak, se prinsippet i [forvaltningsloven § 17](https://lovdata.no/lov/1967-02-10/%C2%A717) om at en sak skal være så godt opplyst som mulig før vedtak treffes.
+
+[Forvaltningsloven](https://lovdata.no/lov/1967-02-10) stiller nærmere krav til vedtaket. Disse kravene fremgår av [forvaltningsloven §§ 23](https://lovdata.no/lov/1967-02-10/%C2%A723) – 27. Vedtaket skal være skriftlig, og skal begrunnes samtidig med at vedtaket treffes. Kravet til begrunnelse for vedtaket fremgår av [forvaltningsloven § 25](https://lovdata.no/lov/1967-02-10/%C2%A725). I begrunnelsen skal det vises til de regler vedtaket bygger på, og de faktiske forhold i saken som vedtaket bygger på skal nevnes. De hovedhensyn som har vært avgjørende ved utøvelsen av skjønn bør også nevnes. Arbeidstaker skal underrettes om vedtaket. I underretningen skal det gis opplysninger om klageadgang, klagefrist, klageinstans og retten til å se sakens dokumenter, se [forvaltningsloven § 27](https://lovdata.no/lov/1967-02-10/%C2%A727). Et forvaltningsorgan kan benytte elektronisk kommunikasjon, se [eForvaltningsforskriften § 8](https://lovdata.no/forskrift/2004-06-25-988/%C2%A78).
+
+En statsansatt som skal avgi muntlig forklaring for ansettelsesmyndigheten, skal ha dekket nødvendige reiseutgifter etter [særavtale om dekning av utgifter til reise og kost innenlands](https://lovdata.no/tariff/spha-1). Likeledes skal den statsansatte beholde sin lønn. Dekning av reiseutgifter gis ikke ved eventuell muntlig forklaring for klageinstansen. Som reiseutgifter regnes utgifter til transport og strengt nødvendig overnatting. Utgifter til kost skal ikke dekkes. Vitner får imidlertid dekket skyss- og kostutgifter etter [særavtale for reiser innenlands for statens regning](https://lovdata.no/tariff/spha-1).
+
+[Domstolloven § 43 andre ledd](https://lovdata.no/lov/1915-08-13-5/%C2%A743) gir vedkommende forvaltningsorgan adgang til å kreve bevisopptak etter [tvistelovens](https://lovdata.no/lov/2005-06-17-90) regler i alle saker om enkeltvedtak. Når vilkårene foreligger, kan også embetsmenn eller statsansatte kreve bevisopptak etter denne bestemmelse i saker om avskjed, se [statsansatteloven § 32 tredje ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A732).

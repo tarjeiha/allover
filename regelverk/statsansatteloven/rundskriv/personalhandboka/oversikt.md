@@ -1,0 +1,171 @@
+# Statens personalhåndbok
+
+Statens personalhåndbok - 1 Innledning, hentet fra [Lovdata](https://lovdata.no/dokument/SPH/sph). Håndboka er veiledning og tolkning av regelverket for statsansatte, og gjengir også bestemmelser fra hovedtariffavtalene og særavtalene i staten. Den er ikke lov- eller forskriftstekst. Oppgi den som «Statens personalhåndbok punkt x.y».
+
+Hvert punkt på nivå to har egen fil, og innledningen til hvert kapittel ligger i kapittelfilen (f.eks. `punkt-10.md`). Underpunktene står som overskrifter i filene.
+
+## Innhold
+
+- 1 Innledning – `punkt-1.md`
+  - 1.1 Om Statens personalhåndbok (SPH) – `punkt-1-1.md`
+  - 1.2 Den sektorovergripende arbeidsgiverpolitikken – `punkt-1-2.md`
+  - 1.3 Statens arbeidsgiverstrategi – `punkt-1-3.md`
+  - 1.4 Det arbeidsrettslige regelverket i staten – `punkt-1-4.md`
+  - 1.5 Hvor kan du finne mer informasjon? – `punkt-1-5.md`
+- 2 Ansettelse og rekruttering – `punkt-2.md`
+  - 2.1 Rekrutteringsarbeidet i staten – `punkt-2-1.md`
+  - 2.2 Ansettelsesmyndighet – `punkt-2-2.md`
+  - 2.3 Ansettelsesprosessen – `punkt-2-3.md`
+  - 2.4 Personalreglement – `punkt-2-4.md`
+  - 2.5 Midlertidig personalreglement – `punkt-2-5.md`
+  - 2.6 Ansettelse – `punkt-2-6.md`
+  - 2.7 Andre tilknytningsformer – `punkt-2-7.md`
+  - 2.8 Embetsmenn – `punkt-2-8.md`
+- 3 Opphør av arbeidsforholdet – `punkt-3.md`
+  - 3.1 Midlertidig ansatte og åremål – `punkt-3-1.md`
+  - 3.2 Opphør av konstitusjon av embetsmann – `punkt-3-2.md`
+  - 3.3 Oppsigelse – `punkt-3-3.md`
+  - 3.4 Overtallighet og fortrinnsrett – `punkt-3-4.md`
+  - 3.5 Skriftlig advarsel og ordensstraff – `punkt-3-5.md`
+  - 3.6 Suspensjon – `punkt-3-6.md`
+  - 3.7 Avskjed – `punkt-3-7.md`
+  - 3.8 Saksbehandlingsregler ved ordensstraff, oppsigelse suspensjon og avskjed – `punkt-3-8.md`
+  - 3.9 Klage over ordensstraff, oppsigelse, suspensjon og avskjed – `punkt-3-9.md`
+  - 3.10 Avskjed av embetsmenn etter søknad og ved oppnådd aldersgrense – `punkt-3-10.md`
+  - 3.11 Avskjed av embetsmenn ved overgang til nytt embete eller ny stilling – `punkt-3-11.md`
+  - 3.12 Økonomisk kompensasjon ved frivillig fratreden av arbeidsforholdet – `punkt-3-12.md`
+  - 3.13 Saksbehandlingsregler ved opphør av arbeidsforhold – sjekkpunktliste – `punkt-3-13.md`
+  - 3.14 Maler – `punkt-3-14.md`
+- 4 Arbeidstid – `punkt-4.md`
+  - 4.1 Arbeidstid i staten – `punkt-4-1.md`
+  - 4.2 Overtids- og merarbeid – `punkt-4-2.md`
+  - 4.3 Fleksible arbeidstidsordninger – `punkt-4-3.md`
+  - 4.4 Fravik fra arbeidstidsbestemmelsene – `punkt-4-4.md`
+  - 4.5 Beredskapsvakt utenfor arbeidsstedet – `punkt-4-5.md`
+- 5 Lønn og godtgjøring – `punkt-5.md`
+  - 5.1 Lønn for statsansatte – `punkt-5-1.md`
+  - 5.2 Lederlønn – `punkt-5-2.md`
+  - 5.3 Dommerlønn – `punkt-5-3.md`
+  - 5.4 Overenskomstlønnede – `punkt-5-4.md`
+  - 5.5 Pensjonistlønn – `punkt-5-5.md`
+  - 5.6 Lønn for stillinger utenfor regulativet – `punkt-5-6.md`
+  - 5.7 Spesielle avlønninger – `punkt-5-7.md`
+  - 5.8 Oppholds- og overtidsgodtgjøring til deltakere ved kortvarige kurs, konferanser mv. – `punkt-5-8.md`
+  - 5.9 Kost- og nattillegg for timelærere, forelesere o.l. – `punkt-5-9.md`
+  - 5.10 Overtidsgodtgjørelse – `punkt-5-10.md`
+  - 5.11 Godtgjøring til leder, medlemmer og sekretærer i statlige utvalg (utvalgsgodtgjøring) – `punkt-5-11.md`
+  - 5.12 Forsinkelsesrenter ved forsinket utbetaling av lønn – `punkt-5-12.md`
+  - 5.13 Adgang til å inngå frivillig gjeldsordning ved forskudd på lønn – `punkt-5-13.md`
+  - 5.14 Elektroniske kommunikasjonstjenester (telefon mv.) – `punkt-5-14.md`
+- 6 Forhandlingsordningen i staten – `punkt-6.md`
+  - 6.1 Forhandlingssystemet – `punkt-6-1.md`
+  - 6.2 Lønnssystemet – `punkt-6-2.md`
+  - 6.3 Lokal lønnspolitikk – `punkt-6-3.md`
+  - 6.4 Lokale forhandlinger – `punkt-6-4.md`
+  - 6.5 Forhandlinger på særlige grunnlag – `punkt-6-5.md`
+  - 6.6 Arbeidskonflikter – `punkt-6-6.md`
+  - 6.7 Tvisteløsning – `punkt-6-7.md`
+- 7 Likestilling, inkludering, integrering og mangfold – `punkt-7.md`
+  - 7.1 Aktivt arbeid for å fremme likestilling og hindre diskriminering – `punkt-7-1.md`
+  - 7.2 Inkludering, integrering og mangfold – `punkt-7-2.md`
+  - 7.3 Avtalen om redusert sykefravær og frafall fra arbeidslivet (IA-avtalen) – `punkt-7-3.md`
+  - 7.4 Livsfase- og seniortiltak – `punkt-7-4.md`
+  - 7.5 Tiltak og virkemidler for tilrettelegging – `punkt-7-5.md`
+  - 7.6 Utvidet egenmelding i staten – `punkt-7-6.md`
+  - 7.7 Sykefraværsstatistikk – `punkt-7-7.md`
+- 8 Velferdstiltak – `punkt-8.md`
+  - 8.1 Midler til velferdstiltak – `punkt-8-1.md`
+  - 8.2 Påskjønnelse og gaver – `punkt-8-2.md`
+- 9 Etikk, interessekonflikter mv. – `punkt-9.md`
+  - 9.1 Innledning – `punkt-9-1.md`
+  - 9.2 Etiske retningslinjer – `punkt-9-2.md`
+  - 9.3 Gaver i tjenesten – `punkt-9-3.md`
+  - 9.4 Registrering av statsansattes verv og økonomiske interesser – `punkt-9-4.md`
+  - 9.5 Handleforbud i forbindelse med budsjettarbeid – `punkt-9-5.md`
+  - 9.6 Habilitet – `punkt-9-6.md`
+  - 9.7 Ekstraerverv mv. – `punkt-9-7.md`
+  - 9.8 Oppnevning av embets- og tjenestemenn i styrer og råd mv. – `punkt-9-8.md`
+  - 9.9 Behandling av saker om underslag mv. – `punkt-9-9.md`
+  - 9.10 Varslingsrutiner – `punkt-9-10.md`
+  - 9.11 Personvern – `punkt-9-11.md`
+- 10 God ledelse i staten – `punkt-10.md`
+  - 10.1 Fem forventninger til god ledelse – `punkt-10-1.md`
+- 11 Kompetanseutvikling – `punkt-11.md`
+  - 11.1 Kompetanseutvikling i staten – `punkt-11-1.md`
+  - 11.2 Tverrgående kompetansemål – `punkt-11-2.md`
+  - 11.3 Hospitering og mobilitet – `punkt-11-3.md`
+  - 11.4 Støtte til kompetanseutvikling – `punkt-11-4.md`
+  - 11.5 Oppholdsgodtgjøring ved kortvarige kurs og konferanser – `punkt-11-5.md`
+  - 11.6 Reise- og oppholdsutgifter ved studiereiser til utlandet – `punkt-11-6.md`
+- 12 Bevertning og representasjon – `punkt-12.md`
+  - 12.1 Bevertning – `punkt-12-1.md`
+  - 12.2 Utgifter til overtidsmat – `punkt-12-2.md`
+  - 12.3 Representasjon mv. – `punkt-12-3.md`
+- 13 Reiser innenlands og utenlands – `punkt-13.md`
+  - 13.1 Innledning – `punkt-13-1.md`
+  - 13.2 Reiser innenlands – `punkt-13-2.md`
+  - 13.3 Reiser utenlands – `punkt-13-3.md`
+- 14 Medbestemmelse og medvirkning i staten – `punkt-14.md`
+- 15 Omstilling og endring – `punkt-15.md`
+  - 15.1 Arbeidsavtalen og arbeidsgivers styringsrett ved omstilling – `punkt-15-1.md`
+  - 15.2 Omorganisering og omstilling – `punkt-15-2.md`
+  - 15.3 Omorganisering – departementsembetsmenn – `punkt-15-3.md`
+  - 15.4 Virksomhetsoverdragelse – `punkt-15-4.md`
+  - 15.5 Personalpolitikk ved omstillingsprosesser – `punkt-15-5.md`
+- 16 Ferie – `punkt-16.md`
+  - 16.1 Ferieloven – `punkt-16-1.md`
+  - 16.2 Hvem som omfattes av ferieloven – `punkt-16-2.md`
+  - 16.3 Opptjeningsår og ferieår – `punkt-16-3.md`
+  - 16.4 Feriefritiden – `punkt-16-4.md`
+  - 16.5 Feriepenger – `punkt-16-5.md`
+- 17 Fravær – `punkt-17.md`
+  - 17.1 Sykefravær – `punkt-17-1.md`
+  - 17.2 Fravær ved syke barn – `punkt-17-2.md`
+  - 17.3 Uførhet – `punkt-17-3.md`
+  - 17.4 Permisjon – `punkt-17-4.md`
+- 18 Offentlighetsloven – forholdet til personaladministrasjon – `punkt-18.md`
+  - 18.1 Retten til innsyn – `punkt-18-1.md`
+  - 18.2 Det offentliges forhandlingsposisjon – `punkt-18-2.md`
+  - 18.3 Ansettelser – offentlig søkerliste – `punkt-18-3.md`
+  - 18.4 Offentlighet om lønn – `punkt-18-4.md`
+  - 18.5 Andre personalrelaterte dokumenter – `punkt-18-5.md`
+- 19 Forsikring og erstatning – `punkt-19.md`
+  - 19.1 Staten tegner som hovedregel ikke forsikringer – `punkt-19-1.md`
+  - 19.2 Arbeidsgivers forpliktelser ved personskade – `punkt-19-2.md`
+  - 19.3 Statens pensjonskasse og NAV avgjør rett til erstatning og ytelser – `punkt-19-3.md`
+  - 19.4 Oversikt over forsikrings- og erstatningsordninger – personskade – `punkt-19-4.md`
+  - 19.5 Erstatning for tingskade – `punkt-19-5.md`
+  - 19.6 Oversikt over regler om erstatning for tingskade – `punkt-19-6.md`
+  - 19.7 Gruppeliv – `punkt-19-7.md`
+  - 19.8 Belastning av budsjett og frafall av foreldelsesinnsigelse – `punkt-19-8.md`
+  - 19.9 Retningslinjer om økonomisk ansvar for arbeidstakere i staten som har påført staten erstatningsansvar eller skade – `punkt-19-9.md`
+- 20 Bruk av statens motorvogner – `punkt-20.md`
+  - 20.1 Alminnelige bestemmelser om bruk av statens motorvogner – `punkt-20-1.md`
+  - 20.2 Bruk av statens motorvogner på Svalbard – `punkt-20-2.md`
+- 21 Tjeneste i utlandet – `punkt-21.md`
+  - 21.1 Retningslinjer for tjenestemenns lønns- og arbeidsvilkår ved tjeneste i utlandet – `punkt-21-1.md`
+  - 21.2 Flytteutgifter – utlandet – `punkt-21-2.md`
+- 22 Feltarbeid i staten – `punkt-22.md`
+  - 1. Definisjon – `punkt-22-1.md`
+  - 2. Omfang – `punkt-22-2.md`
+  - 3. Arbeidstaker – `punkt-22-3.md`
+  - 4. Kvarter – `punkt-22-4.md`
+  - 5. Arbeidstid – `punkt-22-5.md`
+  - 6. Lønn – `punkt-22-6.md`
+  - 7. Avspasering – `punkt-22-7.md`
+  - 8. Opphold på arbeidsstedet – `punkt-22-8.md`
+  - 9. Reiser – `punkt-22-9.md`
+  - 10 Bruk av eget utstyr – `punkt-22-10.md`
+  - 11 Forsikring – `punkt-22-11.md`
+- 23 Pensjon – `punkt-23.md`
+  - 23.1 Tjenestepensjonsordningen i staten – `punkt-23-1.md`
+  - 23.2 Aldersgrensene i staten – `punkt-23-2.md`
+  - 23.3 Alderspensjon – `punkt-23-3.md`
+  - 23.4 Avtalefestet pensjon (AFP) – `punkt-23-4.md`
+  - 23.5 Pensjon av statskassen – `punkt-23-5.md`
+  - 23.6 Overføring av pensjonsrettigheter til annen pensjonsordning (Overføringsavtalen) – `punkt-23-6.md`
+- 24 Hovedtariffavtalene, hovedavtalen og andre sentrale avtaler – `punkt-24.md`
+  - 24.1 Hovedtariffavtalene i staten – `punkt-24-1.md`
+  - 24.2 Hovedavtalen i staten – `punkt-24-2.md`
+  - 24.3 Statens sentrale særavtaler – `punkt-24-3.md`
+- Fotnoter – `punkt-25.md`

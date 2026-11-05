@@ -1,0 +1,23 @@
+---
+rundskriv: "Statens personalhåndbok"
+utgave: "Statens personalhåndbok - 1 Innledning"
+kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_18-3"
+lagt_inn: "2026-11-05"
+punkt: "18.3"
+---
+
+# Statens personalhåndbok punkt 18.3 Ansettelser – offentlig søkerliste
+
+Det følger av [offentlighetsloven § 25 første ledd](https://lovdata.no/lov/2006-05-19-16/%C2%A725) at det kan gjøres unntak for innsyn i dokument som gjelder ansettelse i offentlig tjeneste. Eksempler på slike dokumenter kan være søknaden, referat fra intervju og innstillingen.
+
+Det skal settes opp en søkerliste så snart søknadsfristen har gått ut, og søkerlisten skal inneholde navn, alder, stilling eller yrkestittel og bosteds- eller arbeidskommune for hver søker, se [offentlighetsloven § 25 andre ledd](https://lovdata.no/lov/2006-05-19-16/%C2%A725). Søkerlisten er offentlig og skal være tilgjengelig hos vedkommende forvaltningsorgan, se [offentlighetsloven § 3](https://lovdata.no/lov/2006-05-19-16/%C2%A73). Sivilombudet har i en rekke saker uttalt at forvaltningsorganet plikter å påbegynne arbeidet med utarbeidelse av den offentlige søkerlisten før utløpet av søknadsfristen, og at søkerliste normalt bør foreligge ca. to til tre virkedager etter søknadsfristens utløp, se for eksempel [sak 2015/1740](https://www.sivilombudet.no/uttalelser/utarbeidelse-av-offentlig-sokerliste-og-adgangen-til-unntak-fra-denne/) hos Sivilombudet. I særlige tilfeller, for eksempel ved stor søkermengde, kan det være akseptabelt at søkerlisten først foreligger noe senere.
+
+Det kan gjøres unntak fra innsyn for opplysninger om en søker, dersom søkeren selv ber om det, se [offentlighetsloven § 25 andre ledd, tredje punktum](https://lovdata.no/lov/2006-05-19-16/%C2%A725). Ved vurderingen av om en slik anmodning skal tas til følge, skal det legges vekt på om det knytter seg særlig offentlig interesse til stillingen. Forvaltningsorganet har med andre ord en adgang, men ikke en plikt til å unnta opplysninger om en søker fra offentlighet. Det må i lys av meroffentlighetsprinsippet i [offentlighetsloven § 11](https://lovdata.no/lov/2006-05-19-16/%C2%A711) foretas en konkret og reell vurdering av anmodninger fra søkere om å bli unntatt fra søkerlisten opp mot de hensyn som taler for offentlighet. Sivilombudet har i den forbindelse uttalt at terskelen for å unnta søkernavn fra offentlighet heves dersom det er tale om høyere lederstillinger. Det vil være et tungtveiende argument for å gi merinnsyn at det gjelder stilling av særlig offentlig interesse.
+
+I utlysningen skal det gjøres oppmerksom på at opplysninger om søkeren kan bli offentliggjort selv om søkeren har bedt om ikke å bli ført opp på søkerlisten. Det bør ikke i utlysningsteksten gis inntrykk av at søker kan velge om navnet skal føres på den offentlige søkerlisten eller ikke. Dette er en vurdering som skal gjøres av forvaltningsorganet dersom en søker anmoder om det. Søkernes valg består derfor kun i om de skal be om unntak fra å stå på den offentlige søkerlisten eller ikke. Dersom anmodningen om ikke å stå på søkerlisten ikke blir tatt til følge, skal søkeren varsles om dette. Det skal gå frem av søkerlisten hvor mange søkere det har vært til stillingen, og hvilket kjønn de har.
+
+En del statlige virksomheter søker bistand fra konsulentfirmaer i forbindelse med utlysning av stillinger, og særlig i forbindelse med utlysning av lederstillinger. Konsulentens bistand kan bestå i annonsering, finne frem til aktuelle søkere og ta imot og vurdere søknadene etter søknadsfristens utløp. [Offentlighetsloven § 3](https://lovdata.no/lov/2006-05-19-16/%C2%A73) fastsetter at søkerlisten skal være tilgjengelig hos vedkommende forvaltningsorgan. Av Justisdepartementets rundskriv G-153/87 fremgår det at:
+
+> «Forvaltningsorganer som engasjerer private konsulentfirmaer i forbindelse med tilsettinger har plikt til å sørge for at søkerliste er tilgjengelig for innsyn snarest etter søknadsfristens utløp. Dette kan gjøres enten ved at det settes som vilkår overfor vedkommende firma at offentligheten skal få innsyn der, eller ved at firmaet er forpliktet til, snarest etter søknadsfristens utløp, å stille forvaltningsorganets rådighet alle opplysninger som er nødvendige for å kunne sette opp søkerliste.»
+
+Det er ikke adgang til å gi søkere til stillinger et løfte om konfidensiell behandling etter søknadsfristens utløp for de opplysninger som skal stå i søkerlisten. Den enkelte søkers anmodning om unntak fra å stå på den offentlige søkerlisten skal behandles på bakgrunn av [offentlighetsloven § 25 andre ledd](https://lovdata.no/lov/2006-05-19-16/%C2%A725) og forarbeidene til denne. Dersom anmodningen ikke etterkommes, skal søkeren ha beskjed og gis anledning til å trekke sin søknad.
