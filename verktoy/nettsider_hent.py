@@ -192,7 +192,9 @@ def tekst(el) -> str:
             continue
         else:
             deler.append(tekst(barn))
-    return re.sub(r"[ \t\r\n ]+", " ", "".join(deler)).replace("\x00", "  \n").strip()
+    t = re.sub(r"[ \t\r\n\u00a0]+", " ", "".join(deler))
+    t = re.sub(r"\s*\x00\s*", "\x00", t.strip())
+    return re.sub(r"\x00+", "  \n", t).strip()
 
 
 def markdown(el) -> str:

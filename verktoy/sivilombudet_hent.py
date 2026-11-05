@@ -5,7 +5,7 @@ Holder Sivilombudets uttalelser om lovene i basen oppdatert fra sivilombudet.no.
 Bruk:
     python3 verktoy/sivilombudet_hent.py           # hent nye og endrede uttalelser
     python3 verktoy/sivilombudet_hent.py --tving   # hent alle på nytt
-    python3 verktoy/sivilombudet_hent.py --maks 300  # stans etter 300 hentinger (første kjøring)
+    python3 verktoy/sivilombudet_hent.py --maks 300  # stans etter 300 hentinger, resten tas neste gang
 
 1. Leser uttalelsene i sitemap på sivilombudet.no (uttalelser-sitemap*.xml), med dato for
    siste endring (lastmod).
