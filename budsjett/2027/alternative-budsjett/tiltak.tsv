@@ -819,3 +819,16 @@ SP	62	UD	161	74	Redusere bevilgningen til Norges forskningsråd på utviklingsom
 SP	62	UD	162	70	Redusere bevilgningen til bærekraftig jobbskaping, næringsutvikling og handel	-50		Innsparinger		
 SP	62	UD	162	72	Redusere bevilgningen til fornybar energi	-900		Innsparinger		
 SP	62	UD	163	70	Redusere bevilgningen til miljø og klima	-700		Innsparinger		
+MDG	47	JD	490	1	Øke antall kvoteflyktninger til 5000	1000			6: Innvandring, regional utvikling og bolig	
+MDG	47	JD	490	1	Flytter ansvaret for enslige mindreårige asylsøkere til barnevernet	-207			6: Innvandring, regional utvikling og bolig	
+MDG	47	JD	490	60	UDI	-9			6: Innvandring, regional utvikling og bolig	Reduserte kostnader fordi barnevernet overtar ansvaret for enslige mindreårige asylsøkere
+MDG	47	JD	490	70	UDI	-15			6: Innvandring, regional utvikling og bolig	Reduserte kostnader fordi barnevernet overtar ansvaret for enslige mindreårige asylsøkere
+MDG	47	AID	671	71	Tilskudd til organisasjoner på integreringsfeltet	20			6: Innvandring, regional utvikling og bolig	
+MDG	47	AID	672	60	Integreringsarbeid i kommunene	510			6: Innvandring, regional utvikling og bolig	
+MDG	48	AID	601	21	Utredning av redusert arbeidstid	5			7: Arbeid og sosial	Det skal oppnevnes et partssamensatt utvalg
+MDG	48	AID	601	70	Støtte til Kielland-nettverket	2,8			7: Arbeid og sosial	
+MDG	48	AID	612	1	Rette opp i samordningsfella	384			7: Arbeid og sosial	
+MDG	48	AID	634	70	Oppskalering av ungdomsprogrammet i NAV	144			7: Arbeid og sosial	
+MDG	48	AID	634	77	Øke antall VTA-plasser med 700	109,2			7: Arbeid og sosial	
+MDG	48	AID	634	81	Forsøksordning med frivillig arbeidsår for ungdom over 15	100			7: Arbeid og sosial	
+MDG	48	AID	634	83	Forsøksordning med redusert arbeidstid	200			7: Arbeid og sosial	3-årig pilotprosjekt med redusert arbeidstid i kommunal sektor.
