@@ -1,5 +1,39 @@
 {
   "baseurl": "https://raw.githubusercontent.com/tarjeiha/allover/main",
+  "fagomrader": {
+    "arbeidsrett": {
+      "navn": "Arbeidsrett",
+      "eier": "@tarjeiha"
+    },
+    "trygd": {
+      "navn": "Trygd og arbeidsmarked",
+      "eier": "@tarjeiha"
+    },
+    "pensjon": {
+      "navn": "Pensjon i offentlig sektor",
+      "eier": "@tarjeiha"
+    },
+    "statsansatte": {
+      "navn": "Statsansatte og tariff i staten",
+      "eier": "@tarjeiha"
+    },
+    "likestilling": {
+      "navn": "Likestilling og diskriminering",
+      "eier": "@tarjeiha"
+    },
+    "innvandring": {
+      "navn": "Innvandring og integrering",
+      "eier": "@tarjeiha"
+    },
+    "utdanning": {
+      "navn": "Utdanning",
+      "eier": "@tarjeiha"
+    },
+    "forvaltning": {
+      "navn": "Forvaltning og statsstyring",
+      "eier": "@tarjeiha"
+    }
+  },
   "lover": [
     {
       "mappe": "regelverk/offentleglova",
@@ -16,7 +50,8 @@
         "offentleglova",
         "offentlighetsloven",
         "offl."
-      ]
+      ],
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/afp-loven",
@@ -42,7 +77,8 @@
       "alias": [
         "afp-loven",
         "lov om avtalefestet pensjon for medlemmer av statens pensjonskasse"
-      ]
+      ],
+      "fagomrade": "pensjon"
     },
     {
       "mappe": "regelverk/aldersgrenseloven",
@@ -52,7 +88,8 @@
       "alias": [
         "aldersgrenseloven",
         "lov om aldersgrenser for statsansatte"
-      ]
+      ],
+      "fagomrade": "pensjon"
     },
     {
       "mappe": "regelverk/allmenngjoringsloven",
@@ -113,7 +150,8 @@
       "alias": [
         "allmenngjøringsloven",
         "allmenngjøringslova"
-      ]
+      ],
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/arbeidsmarkedsloven",
@@ -179,7 +217,8 @@
       "alias": [
         "arbeidsmarkedsloven",
         "lov om arbeidsmarkedstjenester"
-      ]
+      ],
+      "fagomrade": "trygd"
     },
     {
       "mappe": "regelverk/arbeidsmiljoloven",
@@ -410,7 +449,8 @@
       "alias": [
         "arbeidsmiljøloven",
         "aml."
-      ]
+      ],
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/arbeidstvistloven",
@@ -420,7 +460,8 @@
       "alias": [
         "arbeidstvistloven",
         "lov om arbeidstvister"
-      ]
+      ],
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/arkivlova",
@@ -443,7 +484,8 @@
         "arkivloven",
         "arkivforskrifta",
         "arkivforskriften"
-      ]
+      ],
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/diskrimineringsombudsloven",
@@ -459,7 +501,8 @@
       "alias": [
         "diskrimineringsombudsloven",
         "diskrimineringsnemnda"
-      ]
+      ],
+      "fagomrade": "likestilling"
     },
     {
       "mappe": "regelverk/ferieloven",
@@ -485,7 +528,8 @@
       "alias": [
         "ferieloven",
         "ferielova"
-      ]
+      ],
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/folketrygdloven",
@@ -882,7 +926,8 @@
         "folketrygdloven",
         "ftrl.",
         "ftrl"
-      ]
+      ],
+      "fagomrade": "trygd"
     },
     {
       "mappe": "regelverk/forvaltningsloven",
@@ -899,7 +944,8 @@
         "forvaltningsloven",
         "fvl.",
         "forvaltningslovforskriften"
-      ]
+      ],
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/forvaltningsloven-2025",
@@ -909,7 +955,8 @@
       "alias": [
         "ny forvaltningslov",
         "lov om saksbehandlingen i offentlig forvaltning"
-      ]
+      ],
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/integreringsloven",
@@ -955,7 +1002,8 @@
       "alias": [
         "integreringsloven",
         "integreringslova"
-      ]
+      ],
+      "fagomrade": "innvandring"
     },
     {
       "mappe": "regelverk/karanteneloven",
@@ -971,7 +1019,8 @@
       "alias": [
         "karanteneloven",
         "karantenenemnda"
-      ]
+      ],
+      "fagomrade": "statsansatte"
     },
     {
       "mappe": "regelverk/likestillings-og-diskrimineringsloven",
@@ -994,7 +1043,8 @@
         "likestillingsloven",
         "diskrimineringsloven",
         "ldl."
-      ]
+      ],
+      "fagomrade": "likestilling"
     },
     {
       "mappe": "regelverk/spk-loven",
@@ -1076,7 +1126,8 @@
         "spk-loven",
         "lov om statens pensjonskasse",
         "statspensjonsloven"
-      ]
+      ],
+      "fagomrade": "pensjon"
     },
     {
       "mappe": "regelverk/lonnsgarantiloven",
@@ -1102,7 +1153,8 @@
       "alias": [
         "lønnsgarantiloven",
         "lov om statsgaranti for lønnskrav"
-      ]
+      ],
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/nav-loven",
@@ -1153,7 +1205,8 @@
       "alias": [
         "nav-loven",
         "arbeids- og velferdsforvaltningsloven"
-      ]
+      ],
+      "fagomrade": "trygd"
     },
     {
       "mappe": "regelverk/opplaeringslova",
@@ -1176,7 +1229,8 @@
         "opplæringsloven",
         "oppll.",
         "lov om grunnskoleopplæringa og den vidaregåande opplæringa"
-      ]
+      ],
+      "fagomrade": "utdanning"
     },
     {
       "mappe": "regelverk/permitteringslonnsloven",
@@ -1192,7 +1246,8 @@
       "alias": [
         "permitteringslønnsloven",
         "lov om lønnsplikt under permittering"
-      ]
+      ],
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/personopplysningsloven",
@@ -1210,7 +1265,8 @@
         "popplyl.",
         "personvernforordningen",
         "gdpr"
-      ]
+      ],
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/samordningsloven",
@@ -1426,7 +1482,8 @@
       "alias": [
         "samordningsloven",
         "lov om samordning av pensjons- og trygdeytelser"
-      ]
+      ],
+      "fagomrade": "pensjon"
     },
     {
       "mappe": "regelverk/sosialtjenesteloven",
@@ -1452,7 +1509,8 @@
       "alias": [
         "sosialtjenesteloven",
         "sotjl."
-      ]
+      ],
+      "fagomrade": "trygd"
     },
     {
       "mappe": "regelverk/spraklova",
@@ -1468,7 +1526,8 @@
       "alias": [
         "språklova",
         "språkloven"
-      ]
+      ],
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/statsansatteloven",
@@ -1485,7 +1544,8 @@
         "statsansatteloven",
         "statsansatteforskriften",
         "statsansl."
-      ]
+      ],
+      "fagomrade": "statsansatte"
     },
     {
       "mappe": "regelverk/statsborgerloven",
@@ -1501,7 +1561,8 @@
       "alias": [
         "statsborgerloven",
         "statsborgerlova"
-      ]
+      ],
+      "fagomrade": "innvandring"
     },
     {
       "mappe": "regelverk/tjenestetvistloven",
@@ -1532,7 +1593,8 @@
       "alias": [
         "tjenestetvistloven",
         "lov om offentlige tjenestetvister"
-      ]
+      ],
+      "fagomrade": "statsansatte"
     },
     {
       "mappe": "regelverk/tolkeloven",
@@ -1548,7 +1610,8 @@
       "alias": [
         "tolkeloven",
         "tolkelova"
-      ]
+      ],
+      "fagomrade": "innvandring"
     },
     {
       "mappe": "regelverk/universitets-og-hoyskoleloven",
@@ -1592,7 +1655,8 @@
         "uhl.",
         "uh-loven",
         "lov om universiteter og høyskoler"
-      ]
+      ],
+      "fagomrade": "utdanning"
     },
     {
       "mappe": "regelverk/utlendingsloven",
@@ -1608,7 +1672,8 @@
       "alias": [
         "utlendingsloven",
         "utl."
-      ]
+      ],
+      "fagomrade": "innvandring"
     },
     {
       "mappe": "regelverk/utredningsinstruksen",
@@ -1617,7 +1682,8 @@
       "forskrifter": [],
       "alias": [
         "utredningsinstruksen"
-      ]
+      ],
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/stortingets-forretningsorden",
@@ -1628,7 +1694,8 @@
         "stortingets forretningsorden",
         "forretningsorden for stortinget",
         "forretningsordenen"
-      ]
+      ],
+      "fagomrade": "forvaltning"
     }
   ],
   "avtaler": [
@@ -1642,7 +1709,8 @@
         "hovedtariffavtalene",
         "hta"
       ],
-      "filprefiks": "hovedtariffavtale"
+      "filprefiks": "hovedtariffavtale",
+      "fagomrade": "statsansatte"
     }
   ],
   "eu": [
@@ -1654,7 +1722,8 @@
       "celex": "32004R0883",
       "versjon": "02004R0883-20190731",
       "sprak": "EN",
-      "eos": "Versjonen er kontrollert mot folketrygdloven § 1-3 a første ledd: endringene M1–M9 i denne versjonen er de som er gjort til norsk lov. Kontrollen ble gjort da teksten lå i den gamle dagpengeskillen, og må gjentas hvis § 1-3 a endres."
+      "eos": "Versjonen er kontrollert mot folketrygdloven § 1-3 a første ledd: endringene M1–M9 i denne versjonen er de som er gjort til norsk lov. Kontrollen ble gjort da teksten lå i den gamle dagpengeskillen, og må gjentas hvis § 1-3 a endres.",
+      "fagomrade": "trygd"
     },
     {
       "mappe": "regelverk/eu/forordning-987-2009",
@@ -1664,7 +1733,8 @@
       "celex": "32009R0987",
       "versjon": "02009R0987-20180101",
       "sprak": "EN",
-      "eos": "Versjonen er kontrollert mot folketrygdloven § 1-3 a andre ledd: endringene M1–M6 i denne versjonen er de som er gjort til norsk lov. Kontrollen ble gjort da teksten lå i den gamle dagpengeskillen, og må gjentas hvis § 1-3 a endres."
+      "eos": "Versjonen er kontrollert mot folketrygdloven § 1-3 a andre ledd: endringene M1–M6 i denne versjonen er de som er gjort til norsk lov. Kontrollen ble gjort da teksten lå i den gamle dagpengeskillen, og må gjentas hvis § 1-3 a endres.",
+      "fagomrade": "trygd"
     },
     {
       "mappe": "regelverk/eu/forordning-492-2011",
@@ -1673,7 +1743,8 @@
       "nummer": "(EU) nr. 492/2011",
       "celex": "32011R0492",
       "versjon": "32011R0492",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/forordning-2016-679",
@@ -1683,7 +1754,8 @@
       "celex": "32016R0679",
       "versjon": "02016R0679-20160504",
       "sprak": "EN",
-      "eos": "Personopplysningsloven § 1 første ledd gjør forordningen til norsk lov med tilpasningene i EØS-avtalen vedlegg XI og protokoll 1. Basen har forordningsteksten slik den ble vedtatt i EU, med rettelser."
+      "eos": "Personopplysningsloven § 1 første ledd gjør forordningen til norsk lov med tilpasningene i EØS-avtalen vedlegg XI og protokoll 1. Basen har forordningsteksten slik den ble vedtatt i EU, med rettelser.",
+      "fagomrade": "forvaltning"
     },
     {
       "mappe": "regelverk/eu/direktiv-89-391",
@@ -1692,7 +1764,8 @@
       "nummer": "89/391/EØF",
       "celex": "31989L0391",
       "versjon": "31989L0391",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-96-71",
@@ -1701,7 +1774,8 @@
       "nummer": "96/71/EF",
       "celex": "31996L0071",
       "versjon": "31996L0071",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-97-81",
@@ -1710,7 +1784,8 @@
       "nummer": "97/81/EF",
       "celex": "31997L0081",
       "versjon": "31997L0081",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-98-59",
@@ -1719,7 +1794,8 @@
       "nummer": "98/59/EF",
       "celex": "31998L0059",
       "versjon": "31998L0059",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-1999-70",
@@ -1728,7 +1804,8 @@
       "nummer": "1999/70/EF",
       "celex": "31999L0070",
       "versjon": "31999L0070",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2000-43",
@@ -1737,7 +1814,8 @@
       "nummer": "2000/43/EF",
       "celex": "32000L0043",
       "versjon": "32000L0043",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "likestilling"
     },
     {
       "mappe": "regelverk/eu/direktiv-2000-78",
@@ -1746,7 +1824,8 @@
       "nummer": "2000/78/EF",
       "celex": "32000L0078",
       "versjon": "32000L0078",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "likestilling"
     },
     {
       "mappe": "regelverk/eu/direktiv-2001-23",
@@ -1755,7 +1834,8 @@
       "nummer": "2001/23/EF",
       "celex": "32001L0023",
       "versjon": "32001L0023",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2002-14",
@@ -1764,7 +1844,8 @@
       "nummer": "2002/14/EF",
       "celex": "32002L0014",
       "versjon": "32002L0014",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2003-88",
@@ -1773,7 +1854,8 @@
       "nummer": "2003/88/EF",
       "celex": "32003L0088",
       "versjon": "32003L0088",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2004-38",
@@ -1782,7 +1864,8 @@
       "nummer": "2004/38/EF",
       "celex": "32004L0038",
       "versjon": "32004L0038",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "innvandring"
     },
     {
       "mappe": "regelverk/eu/direktiv-2006-54",
@@ -1791,7 +1874,8 @@
       "nummer": "2006/54/EF",
       "celex": "32006L0054",
       "versjon": "32006L0054",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "likestilling"
     },
     {
       "mappe": "regelverk/eu/direktiv-2008-94",
@@ -1800,7 +1884,8 @@
       "nummer": "2008/94/EF",
       "celex": "32008L0094",
       "versjon": "32008L0094",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2008-104",
@@ -1809,7 +1894,8 @@
       "nummer": "2008/104/EF",
       "celex": "32008L0104",
       "versjon": "32008L0104",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2014-67",
@@ -1818,7 +1904,8 @@
       "nummer": "2014/67/EU",
       "celex": "32014L0067",
       "versjon": "32014L0067",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2019-1152",
@@ -1827,7 +1914,8 @@
       "nummer": "(EU) 2019/1152",
       "celex": "32019L1152",
       "versjon": "32019L1152",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     },
     {
       "mappe": "regelverk/eu/direktiv-2019-1158",
@@ -1836,7 +1924,8 @@
       "nummer": "(EU) 2019/1158",
       "celex": "32019L1158",
       "versjon": "32019L1158",
-      "sprak": "EN"
+      "sprak": "EN",
+      "fagomrade": "arbeidsrett"
     }
   ]
 }

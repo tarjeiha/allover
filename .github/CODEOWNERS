@@ -1,11 +1,80 @@
-# Eiere må godkjenne endringer i sine mapper før de tas inn i main.
-# Regelen virker først når «Require review from Code Owners» er slått på
-# for main (Settings → Branches eller Rules). For private repoer krever det
-# GitHub Team.
+# Lages av verktoy/fagansvar.py fra fagområdene i regelverk.json. Rediger ikke for hånd:
+# endre eieren under «fagomrader» i regelverk.json og kjør `python3 verktoy/fagansvar.py --skriv`.
+#
+# Eierne får beskjed når en pull request berører mappene deres, og må godkjenne før den
+# tas inn i main. Regelen virker først når «Require review from Code Owners» er slått på
+# for main (Settings → Branches eller Rules).
 
 # Felles filer og alt som ikke har egen eier
-*                      @tarjeiha
+*  @tarjeiha
 
-# Ett regelverk per linje. Bytt ut med GitHub-brukernavnet til saksbehandleren
-# som har ansvaret for regelverket.
-/regelverk/offentleglova/        @tarjeiha
+# Arbeidsrett
+/regelverk/allmenngjoringsloven/      @tarjeiha
+/regelverk/arbeidsmiljoloven/         @tarjeiha
+/regelverk/arbeidstvistloven/         @tarjeiha
+/regelverk/eu/direktiv-1999-70/       @tarjeiha
+/regelverk/eu/direktiv-2001-23/       @tarjeiha
+/regelverk/eu/direktiv-2002-14/       @tarjeiha
+/regelverk/eu/direktiv-2003-88/       @tarjeiha
+/regelverk/eu/direktiv-2008-104/      @tarjeiha
+/regelverk/eu/direktiv-2008-94/       @tarjeiha
+/regelverk/eu/direktiv-2014-67/       @tarjeiha
+/regelverk/eu/direktiv-2019-1152/     @tarjeiha
+/regelverk/eu/direktiv-2019-1158/     @tarjeiha
+/regelverk/eu/direktiv-89-391/        @tarjeiha
+/regelverk/eu/direktiv-96-71/         @tarjeiha
+/regelverk/eu/direktiv-97-81/         @tarjeiha
+/regelverk/eu/direktiv-98-59/         @tarjeiha
+/regelverk/eu/forordning-492-2011/    @tarjeiha
+/regelverk/ferieloven/                @tarjeiha
+/regelverk/lonnsgarantiloven/         @tarjeiha
+/regelverk/permitteringslonnsloven/   @tarjeiha
+
+# Trygd og arbeidsmarked
+/regelverk/arbeidsmarkedsloven/      @tarjeiha
+/regelverk/eu/forordning-883-2004/   @tarjeiha
+/regelverk/eu/forordning-987-2009/   @tarjeiha
+/regelverk/folketrygdloven/          @tarjeiha
+/regelverk/nav-loven/                @tarjeiha
+/regelverk/sosialtjenesteloven/      @tarjeiha
+
+# Pensjon i offentlig sektor
+/regelverk/afp-loven/           @tarjeiha
+/regelverk/aldersgrenseloven/   @tarjeiha
+/regelverk/samordningsloven/    @tarjeiha
+/regelverk/spk-loven/           @tarjeiha
+
+# Statsansatte og tariff i staten
+/regelverk/hovedtariffavtalen/   @tarjeiha
+/regelverk/karanteneloven/       @tarjeiha
+/regelverk/statsansatteloven/    @tarjeiha
+/regelverk/tjenestetvistloven/   @tarjeiha
+
+# Likestilling og diskriminering
+/regelverk/diskrimineringsombudsloven/              @tarjeiha
+/regelverk/eu/direktiv-2000-43/                     @tarjeiha
+/regelverk/eu/direktiv-2000-78/                     @tarjeiha
+/regelverk/eu/direktiv-2006-54/                     @tarjeiha
+/regelverk/likestillings-og-diskrimineringsloven/   @tarjeiha
+
+# Innvandring og integrering
+/regelverk/eu/direktiv-2004-38/   @tarjeiha
+/regelverk/integreringsloven/     @tarjeiha
+/regelverk/statsborgerloven/      @tarjeiha
+/regelverk/tolkeloven/            @tarjeiha
+/regelverk/utlendingsloven/       @tarjeiha
+
+# Utdanning
+/regelverk/opplaeringslova/                 @tarjeiha
+/regelverk/universitets-og-hoyskoleloven/   @tarjeiha
+
+# Forvaltning og statsstyring
+/regelverk/arkivlova/                      @tarjeiha
+/regelverk/eu/forordning-2016-679/         @tarjeiha
+/regelverk/forvaltningsloven/              @tarjeiha
+/regelverk/forvaltningsloven-2025/         @tarjeiha
+/regelverk/offentleglova/                  @tarjeiha
+/regelverk/personopplysningsloven/         @tarjeiha
+/regelverk/spraklova/                      @tarjeiha
+/regelverk/stortingets-forretningsorden/   @tarjeiha
+/regelverk/utredningsinstruksen/           @tarjeiha

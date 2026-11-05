@@ -4,10 +4,10 @@ on:
   # Merknader og veivisere skrives for hånd. Kontrollen fanger døde stier, utsagn om at
   # regelverk som er i basen, «ikke er i basen», og departementsnavn som avsender.
   pull_request:
-    paths: ["regelverk/**", "regelverk.json", "verktoy/**", "skills/**", "sprak/**", "data/*.md", "stortinget/*.md", "budsjett/VEIVISER.md", "politikk/VEIVISER.md", "veiledere/VEIVISER.md", "innboks*/README.md", "*.md"]
+    paths: ["regelverk/**", "regelverk.json", "verktoy/**", "skills/**", "sprak/**", "data/*.md", "stortinget/*.md", "budsjett/VEIVISER.md", "politikk/VEIVISER.md", "veiledere/VEIVISER.md", "innboks*/README.md", "*.md", ".github/CODEOWNERS"]
   push:
     branches: [main]
-    paths: ["regelverk/**", "regelverk.json", "verktoy/**", "skills/**", "sprak/**", "data/*.md", "stortinget/*.md", "budsjett/VEIVISER.md", "politikk/VEIVISER.md", "veiledere/VEIVISER.md", "innboks*/README.md", "*.md"]
+    paths: ["regelverk/**", "regelverk.json", "verktoy/**", "skills/**", "sprak/**", "data/*.md", "stortinget/*.md", "budsjett/VEIVISER.md", "politikk/VEIVISER.md", "veiledere/VEIVISER.md", "innboks*/README.md", "*.md", ".github/CODEOWNERS"]
   workflow_dispatch:
 
 permissions:
@@ -27,6 +27,10 @@ jobs:
       - name: Sjekk merknader og veivisere
         shell: bash
         run: python3 verktoy/sjekk_tekst.py | tee "$RUNNER_TEMP/funn.txt"
+
+      - name: Sjekk fagansvar og CODEOWNERS
+        shell: bash
+        run: python3 verktoy/fagansvar.py --sjekk | tee -a "$RUNNER_TEMP/funn.txt"
 
       # Endringer kan komme rett på main fra en chat. Da er det ingen PR som stopper,
       # så et funn må gi en sak som blir sett.
