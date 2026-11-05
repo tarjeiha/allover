@@ -338,4 +338,18 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
 
 - **Direktiv 2006/54** (Likebehandlingsdirektivet (kjønn i arbeidslivet)) – i basen: `regelverk/eu/direktiv-2006-54/VEIVISER.md`. Nevnt i `lov/par-34.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 1 filer
+- `rundskriv/spk/alderspensjon/` – 63 filer, start med `rundskriv/spk/alderspensjon/oversikt.md`
+- `rundskriv/spk/etterlattepensjon/` – 7 filer, start med `rundskriv/spk/etterlattepensjon/oversikt.md`
+- `rundskriv/spk/medlemskap-i-spk/` – 7 filer, start med `rundskriv/spk/medlemskap-i-spk/oversikt.md`
+- `rundskriv/spk/tidligere-medlem/` – 5 filer, start med `rundskriv/spk/tidligere-medlem/oversikt.md`
+- `rundskriv/spk/uforepensjon/` – 21 filer, start med `rundskriv/spk/uforepensjon/oversikt.md`
+- `rundskriv/spk/yrkesskadeforsikring/` – 9 filer, start med `rundskriv/spk/yrkesskadeforsikring/oversikt.md`
 <!-- AUTO-SLUTT -->

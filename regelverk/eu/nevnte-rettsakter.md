@@ -16,6 +16,7 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Direktiv 2000/79 | 2 | Arbeidsmiljøloven |
 | Direktiv 2006/22 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 1073/2009 | 2 | Arbeidsmiljøloven |
+| Forordning nr. 1024/2012 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 965/2012 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 165/2014 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 1408/71 | 2 | Folketrygdloven |
@@ -26,13 +27,25 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning nr. 154/2012 | 2 | Utlendingsloven |
 | Forordning 2016/399 | 2 | Utlendingsloven |
 | Forordning 2024/1359 | 2 | Utlendingsloven |
+| Direktiv 75/324 | 1 | Arbeidsmiljøloven |
 | Direktiv 91/533 | 1 | Arbeidsmiljøloven |
+| Direktiv 97/68 | 1 | Arbeidsmiljøloven |
+| Direktiv 2000/14 | 1 | Arbeidsmiljøloven |
+| Direktiv 2003/2003 | 1 | Arbeidsmiljøloven |
+| Direktiv 2005/88 | 1 | Arbeidsmiljøloven |
+| Direktiv 2009/128 | 1 | Arbeidsmiljøloven |
 | Forordning nr. 1907/2006 | 1 | Arbeidsmiljøloven |
 | Forordning nr. 561/2006 | 1 | Arbeidsmiljøloven |
+| Forordning nr. 440/2008 | 1 | Arbeidsmiljøloven |
 | Forordning nr. 1072/2009 | 1 | Arbeidsmiljøloven |
-| Forordning nr. 1024/2012 | 1 | Arbeidsmiljøloven |
+| Forordning nr. 1107/2009 | 1 | Arbeidsmiljøloven |
+| Forordning 2016/1628 | 1 | Arbeidsmiljøloven |
+| Forordning 2020/1040 | 1 | Arbeidsmiljøloven |
+| Forordning 2021/1068 | 1 | Arbeidsmiljøloven |
 | Forordning 2021/2179 | 1 | Arbeidsmiljøloven |
 | Forordning 2022/695 | 1 | Arbeidsmiljøloven |
+| Forordning 2022/992 | 1 | Arbeidsmiljøloven |
+| Forordning 2024/1208 | 1 | Arbeidsmiljøloven |
 | Forordning nr. 988/2009 | 1 | Folketrygdloven |
 | Forordning nr. 1244/2010 | 1 | Folketrygdloven |
 | Forordning nr. 1224/2012 | 1 | Folketrygdloven |

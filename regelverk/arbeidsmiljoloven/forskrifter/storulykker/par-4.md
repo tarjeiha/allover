@@ -1,0 +1,11 @@
+# § 4. Storulykkevirksomhetens plikter
+
+**Kilde:** Forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften) § 4
+
+**1. ledd**
+
+Den ansvarlige for storulykkevirksomheten skal sørge for at virksomheten gjennom systematisk arbeid treffer alle nødvendige tiltak for å forebygge og begrense konsekvensene av storulykker for mennesker, miljø og materielle verdier. Det systematiske arbeidet skal sikre etterlevelse av forskriften og tilfredsstille kravene i vedlegg III. Det systematiske arbeidet skal stå i forhold til storulykkerisiko, organisasjonens kompleksitet og virksomhetens aktiviteter. Arbeidet skal gjennomføres i tråd med kravene i internkontrollforskriften og rammeforskriften kapittel III jf. styringsforskriften, avhengig av hvilken forskrift som gjelder for virksomheten. Den ansvarlige for virksomheten skal sikre at virksomhetens arbeidstakere medvirker i dette arbeidet.
+
+**2. ledd**
+
+Den ansvarlige skal til enhver tid kunne godtgjøre og på forespørsel skriftlig dokumentere overfor tilsynsmyndighetene at virksomheten overholder kravene som er pålagt i forskriften.

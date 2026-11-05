@@ -114,4 +114,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 20. Gebyr – `forskrifter/tolkeforskriften/par-20.md`
 - § 21. Ikrafttredelse – `forskrifter/tolkeforskriften/par-21.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/imdi/tolkeloven/` – 5 filer, start med `rundskriv/imdi/tolkeloven/oversikt.md`
 <!-- AUTO-SLUTT -->

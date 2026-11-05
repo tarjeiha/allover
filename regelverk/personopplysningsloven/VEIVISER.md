@@ -242,4 +242,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r83-00-32016r0679/` – 2 filer, start med `rundskriv/rundskriv-r83-00-32016r0679/oversikt.md`
+- `rundskriv/sivilombudet/` – 2 filer
 <!-- AUTO-SLUTT -->

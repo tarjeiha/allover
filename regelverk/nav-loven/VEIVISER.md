@@ -177,4 +177,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r30-00/` – 9 filer, start med `rundskriv/rundskriv-r30-00/oversikt.md`
+- `rundskriv/sivilombudet/` – 1 filer
 <!-- AUTO-SLUTT -->

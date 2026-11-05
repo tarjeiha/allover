@@ -463,4 +463,5 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/rundskriv-r76-00/` – 7 filer, start med `rundskriv/rundskriv-r76-00/oversikt.md`
 - `rundskriv/rundskriv-r76-08-01/` – 3 filer, start med `rundskriv/rundskriv-r76-08-01/oversikt.md`
 - `rundskriv/rundskriv-r76-12-01/` – 98 filer, start med `rundskriv/rundskriv-r76-12-01/oversikt.md`
+- `rundskriv/sivilombudet/` – 2 filer
 <!-- AUTO-SLUTT -->

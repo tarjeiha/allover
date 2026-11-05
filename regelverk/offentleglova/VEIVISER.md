@@ -107,4 +107,12 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 
 - Direktiv 2003/98 – ikke i basen. Nevnt i `forskrifter/offentlegforskrifta/par-1.md`, `lov/par-2.md`, `lov/par-30.md`, `lov/par-6.md`, `lov/par-7.md`, `lov/par-8.md`
 - Direktiv 2013/37 – ikke i basen. Nevnt i `lov/par-2.md`, `lov/par-30.md`, `lov/par-6.md`, `lov/par-7.md`, `lov/par-8.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 210 filer
 <!-- AUTO-SLUTT -->

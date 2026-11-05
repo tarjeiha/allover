@@ -3,7 +3,9 @@
 
 Hvert regelverk i regelverk.json har feltet `fagomrade`. Under `fagomrader` står navnet på
 området og eieren, som er et GitHub-brukernavn (`@navn`) eller et team (`@organisasjon/team`).
-Eieren står bare ett sted, så et område bytter eier ved å endre én linje.
+Eieren står bare ett sted, så et område bytter eier ved å endre én linje. En mappe inne i et
+regelverk kan få et eget fagområde under `delmapper` (f.eks. Statens personalhåndbok under
+statsansatteloven). Den får egen linje i CODEOWNERS og egne saker.
 
 Bruk:
   python3 verktoy/fagansvar.py --sjekk             # alle regelverk har et kjent fagområde,
@@ -52,13 +54,18 @@ def regelverkene(cfg: dict) -> list[dict]:
     return [r for k in ("lover", "avtaler", "eu") for r in cfg.get(k, [])]
 
 
+def med_delmapper(cfg: dict) -> list[dict]:
+    """Regelverkene og delmappene. En fil hører til den lengste mappen som passer."""
+    return regelverkene(cfg) + cfg.get("delmapper", [])
+
+
 def feil_i(cfg: dict) -> list[str]:
     omr = cfg.get("fagomrader", {})
     feil = []
     for navn, o in omr.items():
         if not re.fullmatch(r"@[\w.-]+(/[\w.-]+)?", o.get("eier", "")):
             feil.append(f"fagområdet {navn} mangler gyldig eier (@bruker eller @organisasjon/team)")
-    for r in regelverkene(cfg):
+    for r in med_delmapper(cfg):
         if r.get("fagomrade") not in omr:
             feil.append(f"{r['mappe']}: fagomrade «{r.get('fagomrade')}» finnes ikke under fagomrader")
     return feil
@@ -70,12 +77,23 @@ def codeowners(cfg: dict) -> str:
     per = defaultdict(list)
     for r in regelverkene(cfg):
         per[r["fagomrade"]].append(r["mappe"])
+    # Delmappene står til slutt, fordi den siste linjen som passer, avgjør i CODEOWNERS.
+    deler = defaultdict(list)
+    for r in cfg.get("delmapper", []):
+        deler[r["fagomrade"]].append(r["mappe"])
     for nokkel in omr:
         if not per[nokkel]:
             continue
         linjer.append(f"\n# {omr[nokkel]['navn']}")
         bredde = max(len(m) for m in per[nokkel]) + 3
         for mappe in sorted(per[nokkel]):
+            linjer.append(f"/{mappe}/".ljust(bredde) + f"  {omr[nokkel]['eier']}")
+    for nokkel in omr:
+        if not deler[nokkel]:
+            continue
+        linjer.append(f"\n# {omr[nokkel]['navn']} (del av et annet regelverk)")
+        bredde = max(len(m) for m in deler[nokkel]) + 3
+        for mappe in sorted(deler[nokkel]):
             linjer.append(f"/{mappe}/".ljust(bredde) + f"  {omr[nokkel]['eier']}")
     return "\n".join(linjer) + "\n"
 
@@ -143,7 +161,7 @@ def endringer(siden: str, til: str | None, mapper: dict) -> dict:
             continue
         if not linje.strip():
             continue
-        mappe = next((m for m in mapper if linje.startswith(m + "/")), None)
+        mappe = max((m for m in mapper if linje.startswith(m + "/")), key=len, default=None)
         typ = type_for(linje) if mappe else None
         if typ is None:
             continue
@@ -176,7 +194,7 @@ def gh(*args: str) -> str:
 
 def varsle(cfg: dict, siden: str, til: str | None, dato: str, tørr: bool) -> int:
     omr = cfg["fagomrader"]
-    mapper = {r["mappe"]: r for r in regelverkene(cfg)}
+    mapper = {r["mappe"]: r for r in med_delmapper(cfg)}
     repo = os.environ.get("GITHUB_REPOSITORY", "tarjeiha/allover")
     alle = endringer(siden, til, mapper)
     if not alle:

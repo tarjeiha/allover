@@ -117,4 +117,13 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 8. Nærmere regler om fortrinnsrett – `forskrifter/statsansatteforskriften/par-8.md`
 - § 9. Beregning av ansettelsestid og sammenhengende ansettelsestid – `forskrifter/statsansatteforskriften/par-9.md`
 - § 10. Ikrafttredelse – `forskrifter/statsansatteforskriften/par-10.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/personalhandboka/` – 164 filer, start med `rundskriv/personalhandboka/oversikt.md`
+- `rundskriv/sivilombudet/` – 6 filer
 <!-- AUTO-SLUTT -->
