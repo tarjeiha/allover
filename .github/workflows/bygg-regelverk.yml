@@ -4,7 +4,7 @@ on:
   # Når byggeverktøyet eller listen over regelverk endres på en bygg/-gren,
   # bygges lovteksten og legges inn på samme gren.
   push:
-    branches: ["bygg/**", "claude/**"]
+    branches: ["bygg/**"]
     paths: ["verktoy/**", "regelverk.json", ".github/workflows/bygg-regelverk.yml"]
   # Hver natt, og ved behov: bygg fra main og foreslå endringer som pull request.
   schedule:
