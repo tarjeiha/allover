@@ -182,4 +182,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `lov/utenfor-paragrafene.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Merknader
+
+- Paragrafnøkkel: ny forvaltningslov (2025) og forvaltningsloven 1967 – `merknader/paragrafnokkel.md`
 <!-- AUTO-SLUTT -->

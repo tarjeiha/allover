@@ -130,4 +130,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r67-00/` – 15 filer, start med `rundskriv/rundskriv-r67-00/oversikt.md`
+- `rundskriv/sivilombudet/` – 1 filer
 <!-- AUTO-SLUTT -->

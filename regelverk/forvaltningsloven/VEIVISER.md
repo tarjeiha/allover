@@ -251,4 +251,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r36-00/` – 56 filer, start med `rundskriv/rundskriv-r36-00/oversikt.md`
+- `rundskriv/sivilombudet/` – 858 filer
 <!-- AUTO-SLUTT -->

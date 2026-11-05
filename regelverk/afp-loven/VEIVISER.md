@@ -125,4 +125,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r62-00/` – 33 filer, start med `rundskriv/rundskriv-r62-00/oversikt.md`
+- `rundskriv/spk/avtalefestet-pensjon-afp/` – 11 filer, start med `rundskriv/spk/avtalefestet-pensjon-afp/oversikt.md`
 <!-- AUTO-SLUTT -->

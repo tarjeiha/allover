@@ -708,4 +708,79 @@ Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd stå
 
 - § 1. – `forskrifter/overordna-mal-og-prinsipp/par-1.md`
 - § 2. – `forskrifter/overordna-mal-og-prinsipp/par-2.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 54 filer
+- `rundskriv/udir/arbeid-med-elevrad/` – 1 filer, start med `rundskriv/udir/arbeid-med-elevrad/oversikt.md`
+- `rundskriv/udir/artikler-tema/` – 1 filer, start med `rundskriv/udir/artikler-tema/oversikt.md`
+- `rundskriv/udir/barn-som-ikke-moter-pa-skolen/` – 1 filer, start med `rundskriv/udir/barn-som-ikke-moter-pa-skolen/oversikt.md`
+- `rundskriv/udir/behandling-av-klager-pa-standpunktkarakterer-i-fag/` – 9 filer, start med `rundskriv/udir/behandling-av-klager-pa-standpunktkarakterer-i-fag/oversikt.md`
+- `rundskriv/udir/deling-av-klasselister/` – 1 filer, start med `rundskriv/udir/deling-av-klasselister/oversikt.md`
+- `rundskriv/udir/elever-borte-skolen/` – 1 filer, start med `rundskriv/udir/elever-borte-skolen/oversikt.md`
+- `rundskriv/udir/endringer-i-opplaringsforskrift-og-privatskoleforskrift/` – 1 filer, start med `rundskriv/udir/endringer-i-opplaringsforskrift-og-privatskoleforskrift/oversikt.md`
+- `rundskriv/udir/filmer/` – 1 filer, start med `rundskriv/udir/filmer/oversikt.md`
+- `rundskriv/udir/fjernundervisning/` – 1 filer, start med `rundskriv/udir/fjernundervisning/oversikt.md`
+- `rundskriv/udir/foredragsrekke-opplaringsloven/` – 1 filer, start med `rundskriv/udir/foredragsrekke-opplaringsloven/oversikt.md`
+- `rundskriv/udir/forvaltningsloven/` – 6 filer, start med `rundskriv/udir/forvaltningsloven/oversikt.md`
+- `rundskriv/udir/fritak-aktiviteter-opplaringen-religion-livssyn/` – 1 filer, start med `rundskriv/udir/fritak-aktiviteter-opplaringen-religion-livssyn/oversikt.md`
+- `rundskriv/udir/fritak-for-opplaring-i-fag/` – 1 filer, start med `rundskriv/udir/fritak-for-opplaring-i-fag/oversikt.md`
+- `rundskriv/udir/gripe-inn-fysisk-mot-elever-for-a-avverge-skade/` – 1 filer, start med `rundskriv/udir/gripe-inn-fysisk-mot-elever-for-a-avverge-skade/oversikt.md`
+- `rundskriv/udir/hva-er-nytt-i-reglene-om-klage-pa-sluttvurdering/` – 1 filer, start med `rundskriv/udir/hva-er-nytt-i-reglene-om-klage-pa-sluttvurdering/oversikt.md`
+- `rundskriv/udir/hvem-er-klageinstanser/` – 1 filer, start med `rundskriv/udir/hvem-er-klageinstanser/oversikt.md`
+- `rundskriv/udir/hvilken-lov-gjelder/` – 1 filer, start med `rundskriv/udir/hvilken-lov-gjelder/oversikt.md`
+- `rundskriv/udir/informasjonsplikten/` – 1 filer, start med `rundskriv/udir/informasjonsplikten/oversikt.md`
+- `rundskriv/udir/innforingsopplaring/` – 1 filer, start med `rundskriv/udir/innforingsopplaring/oversikt.md`
+- `rundskriv/udir/innforingstilbud-til-nyankomne-minoritetsspraklige-elever/` – 7 filer, start med `rundskriv/udir/innforingstilbud-til-nyankomne-minoritetsspraklige-elever/oversikt.md`
+- `rundskriv/udir/kontrakt-om-opplaring/` – 1 filer, start med `rundskriv/udir/kontrakt-om-opplaring/oversikt.md`
+- `rundskriv/udir/krav-til-kompetanse-for-larere-ansettelse-og-undervisning/` – 1 filer, start med `rundskriv/udir/krav-til-kompetanse-for-larere-ansettelse-og-undervisning/oversikt.md`
+- `rundskriv/udir/lokale-forskrifter-etter-ny-opplaringslov/` – 1 filer, start med `rundskriv/udir/lokale-forskrifter-etter-ny-opplaringslov/oversikt.md`
+- `rundskriv/udir/nordiske-sprakfag-sidestilles-med-norsk/` – 1 filer, start med `rundskriv/udir/nordiske-sprakfag-sidestilles-med-norsk/oversikt.md`
+- `rundskriv/udir/nyankomne/` – 1 filer, start med `rundskriv/udir/nyankomne/oversikt.md`
+- `rundskriv/udir/nye-maler-for-opplaringsloven/` – 1 filer, start med `rundskriv/udir/nye-maler-for-opplaringsloven/oversikt.md`
+- `rundskriv/udir/opplaring-for-nyankomne-ungdom/` – 1 filer, start med `rundskriv/udir/opplaring-for-nyankomne-ungdom/oversikt.md`
+- `rundskriv/udir/opplaring-i-aktiviteter-i-dagliglivet-adl/` – 1 filer, start med `rundskriv/udir/opplaring-i-aktiviteter-i-dagliglivet-adl/oversikt.md`
+- `rundskriv/udir/opplaringssprak-og-talemal-i-skolen/` – 1 filer, start med `rundskriv/udir/opplaringssprak-og-talemal-i-skolen/oversikt.md`
+- `rundskriv/udir/ord-og-omgrep/` – 1 filer, start med `rundskriv/udir/ord-og-omgrep/oversikt.md`
+- `rundskriv/udir/organisering-av-opplaringen/` – 1 filer, start med `rundskriv/udir/organisering-av-opplaringen/oversikt.md`
+- `rundskriv/udir/palagt-skolebytte/` – 6 filer, start med `rundskriv/udir/palagt-skolebytte/oversikt.md`
+- `rundskriv/udir/periodisering-opplaringen/` – 1 filer, start med `rundskriv/udir/periodisering-opplaringen/oversikt.md`
+- `rundskriv/udir/plikt-til-a-folge-opp-fravar/` – 1 filer, start med `rundskriv/udir/plikt-til-a-folge-opp-fravar/oversikt.md`
+- `rundskriv/udir/regelverk-for-nyankomne-elever-og-voksne/` – 1 filer, start med `rundskriv/udir/regelverk-for-nyankomne-elever-og-voksne/oversikt.md`
+- `rundskriv/udir/rettane-til-elevar-som-er-sterkt-svaksynte-eller-blinde/` – 1 filer, start med `rundskriv/udir/rettane-til-elevar-som-er-sterkt-svaksynte-eller-blinde/oversikt.md`
+- `rundskriv/udir/retten-opplaring-samisk/` – 1 filer, start med `rundskriv/udir/retten-opplaring-samisk/oversikt.md`
+- `rundskriv/udir/retten-til-videregaende-opplaring/` – 28 filer, start med `rundskriv/udir/retten-til-videregaende-opplaring/oversikt.md`
+- `rundskriv/udir/rettigheter-for-elever-med-nedsatt-horsel-i-grunnskolen-og-videregaende-opplaring/` – 1 filer, start med `rundskriv/udir/rettigheter-for-elever-med-nedsatt-horsel-i-grunnskolen-og-videregaende-opplaring/oversikt.md`
+- `rundskriv/udir/rettigheter-om-skolemiljo/` – 2 filer, start med `rundskriv/udir/rettigheter-om-skolemiljo/oversikt.md`
+- `rundskriv/udir/rettleiar-om-tilrettelegging-for-elevar-med-stort-laringspotensial/` – 7 filer, start med `rundskriv/udir/rettleiar-om-tilrettelegging-for-elevar-med-stort-laringspotensial/oversikt.md`
+- `rundskriv/udir/rundskriv-grunnopplaring-barn-unge-barnevern-helseinstitusjoner/` – 6 filer, start med `rundskriv/udir/rundskriv-grunnopplaring-barn-unge-barnevern-helseinstitusjoner/oversikt.md`
+- `rundskriv/udir/rundskriv-inntak-privatskoler/` – 7 filer, start med `rundskriv/udir/rundskriv-inntak-privatskoler/oversikt.md`
+- `rundskriv/udir/rundskriv-om-forsok-etter-opplaringslova/` – 1 filer, start med `rundskriv/udir/rundskriv-om-forsok-etter-opplaringslova/oversikt.md`
+- `rundskriv/udir/rundskriv-om-fravarsgrensen/` – 9 filer, start med `rundskriv/udir/rundskriv-om-fravarsgrensen/oversikt.md`
+- `rundskriv/udir/rundskriv-om-godkjenning-av-tidligere-bestatt-videregaende-opplaring-i-norge-og-utlandet/` – 7 filer, start med `rundskriv/udir/rundskriv-om-godkjenning-av-tidligere-bestatt-videregaende-opplaring-i-norge-og-utlandet/oversikt.md`
+- `rundskriv/udir/rundskriv-om-privat-grunnskoleopplaring-i-heimen/` – 1 filer, start med `rundskriv/udir/rundskriv-om-privat-grunnskoleopplaring-i-heimen/oversikt.md`
+- `rundskriv/udir/rundskriv-om-skolefritidsordninga/` – 10 filer, start med `rundskriv/udir/rundskriv-om-skolefritidsordninga/oversikt.md`
+- `rundskriv/udir/rundskriv-om-skolemiljo/` – 10 filer, start med `rundskriv/udir/rundskriv-om-skolemiljo/oversikt.md`
+- `rundskriv/udir/rundskriv-om-skolereglar/` – 10 filer, start med `rundskriv/udir/rundskriv-om-skolereglar/oversikt.md`
+- `rundskriv/udir/rundskriv-skyss/` – 14 filer, start med `rundskriv/udir/rundskriv-skyss/oversikt.md`
+- `rundskriv/udir/rundskriv-veiledere/` – 1 filer, start med `rundskriv/udir/rundskriv-veiledere/oversikt.md`
+- `rundskriv/udir/saksbehandling/` – 9 filer, start med `rundskriv/udir/saksbehandling/oversikt.md`
+- `rundskriv/udir/samarbeidsorgan-for-larebedrifter-opplaringskontor/` – 1 filer, start med `rundskriv/udir/samarbeidsorgan-for-larebedrifter-opplaringskontor/oversikt.md`
+- `rundskriv/udir/sarskilt-sprakopplaring/` – 1 filer, start med `rundskriv/udir/sarskilt-sprakopplaring/oversikt.md`
+- `rundskriv/udir/skoledemokratiet/` – 1 filer, start med `rundskriv/udir/skoledemokratiet/oversikt.md`
+- `rundskriv/udir/slik-ivaretar-du-barnekonvensjonen-i-saksbehandlingen/` – 1 filer, start med `rundskriv/udir/slik-ivaretar-du-barnekonvensjonen-i-saksbehandlingen/oversikt.md`
+- `rundskriv/udir/spesialundervisning/` – 43 filer, start med `rundskriv/udir/spesialundervisning/oversikt.md`
+- `rundskriv/udir/tilbud-til-nyankomne-elever-i-overgangen-til-videregaende-opplaring/` – 1 filer, start med `rundskriv/udir/tilbud-til-nyankomne-elever-i-overgangen-til-videregaende-opplaring/oversikt.md`
+- `rundskriv/udir/tilrettelegging/` – 1 filer, start med `rundskriv/udir/tilrettelegging/oversikt.md`
+- `rundskriv/udir/veileder-for-tilpasset-opplaring-og-individuell-tilrettelegging/` – 15 filer, start med `rundskriv/udir/veileder-for-tilpasset-opplaring-og-individuell-tilrettelegging/oversikt.md`
+- `rundskriv/udir/veileder-om-gratisprinsippet-i-grunnskolen-og-videregaende-opplaring/` – 8 filer, start med `rundskriv/udir/veileder-om-gratisprinsippet-i-grunnskolen-og-videregaende-opplaring/oversikt.md`
+- `rundskriv/udir/veileder-om-praksiskandidatordningen/` – 1 filer, start med `rundskriv/udir/veileder-om-praksiskandidatordningen/oversikt.md`
+- `rundskriv/udir/veileder-om-realkompetansevurdering-i-grunnopplaringen/` – 3 filer, start med `rundskriv/udir/veileder-om-realkompetansevurdering-i-grunnopplaringen/oversikt.md`
+- `rundskriv/udir/veileder-om-reklameforbudet-i-skolen/` – 1 filer, start med `rundskriv/udir/veileder-om-reklameforbudet-i-skolen/oversikt.md`
+- `rundskriv/udir/veileder-samarbeid-om-tjenester-til-barn-unge-og-deres-familier/` – 1 filer, start med `rundskriv/udir/veileder-samarbeid-om-tjenester-til-barn-unge-og-deres-familier/oversikt.md`
+- `rundskriv/udir/voksne-deltakeres-rett-til-forberedende-opplaring-i-grunnleggende-ferdigheter/` – 1 filer, start med `rundskriv/udir/voksne-deltakeres-rett-til-forberedende-opplaring-i-grunnleggende-ferdigheter/oversikt.md`
 <!-- AUTO-SLUTT -->

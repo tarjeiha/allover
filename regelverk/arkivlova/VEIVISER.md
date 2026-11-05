@@ -260,4 +260,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 82. Søknad om å få bruke eldre reglar på eldre materiale – `forskrifter/bevaringsforskrifta/par-82.md`
 - § 83. Iverksetjing – `forskrifter/bevaringsforskrifta/par-83.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 1 filer
 <!-- AUTO-SLUTT -->

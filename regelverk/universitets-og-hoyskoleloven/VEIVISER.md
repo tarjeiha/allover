@@ -639,4 +639,12 @@ Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd stå
 **Kapittel 5. Ikrafttredelse og overgangsordning**
 
 - § 14. Ikrafttredelse og overgangsordning – `forskrifter/klagenemnder/par-14.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 8 filer
 <!-- AUTO-SLUTT -->

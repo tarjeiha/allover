@@ -91,4 +91,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 9. Innhold og begrunnelse – `forskrifter/diskrimineringsnemnda/par-9.md`
 - § 10. Underretning om nemndas vedtak og uttalelser – `forskrifter/diskrimineringsnemnda/par-10.md`
 - § 11. Ikrafttredelse – `forskrifter/diskrimineringsnemnda/par-11.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 1 filer
 <!-- AUTO-SLUTT -->

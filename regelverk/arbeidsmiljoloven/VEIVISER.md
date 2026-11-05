@@ -86,6 +86,9 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer (teknisk og operasjonell forskrift) – FOR-2010-04-29-612. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet.
 - **Forskrift:** Forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften) – FOR-2010-04-29-613. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
 - **Forskrift:** Forskrift om utforming og utrustning av innretninger med mer i petroleumsvirksomheten (innretningsforskriften) – FOR-2010-04-29-634. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
+- **Forskrift:** Forskrift om maskiner – FOR-2009-05-20-544. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Justis- og beredskapsdepartementet Klima- og miljødepartementet.
+- **Forskrift:** Forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften) – FOR-2016-06-03-569. Sist endret i kraft: 2024-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
+- **Forskrift:** Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer – FOR-2003-06-30-911. Sist endret i kraft: 2019-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -2580,23 +2583,145 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - Vedlegg, tabeller o.l. – `forskrifter/innretningsforskriften/utenfor-paragrafene.md`
 
+### Forskrift om maskiner (maskinforskriften)
+
+**1. Innholdet i samsvarserklæringer**
+
+
+**2. Oppbevaring av erklæringer**
+
+
+- § 1. Virkeområde – `forskrifter/maskiner/par-1.md`
+- § 2. Definisjoner – `forskrifter/maskiner/par-2.md`
+- § 3. Hvem forskriften retter seg mot – `forskrifter/maskiner/par-3.md`
+- § 4. Teknisk kontrollorgan – `forskrifter/maskiner/par-4.md`
+- § 5. Konstruksjon og bygging av maskiner – `forskrifter/maskiner/par-5.md`
+- § 6. Forbud mot markedsføring og omsetning – `forskrifter/maskiner/par-6.md`
+- § 7. Unntak fra forbud mot omsetning for delvis ferdigstilte maskiner og utstillinger – `forskrifter/maskiner/par-7.md`
+- § 8. Omsetning og levering av maskiner – `forskrifter/maskiner/par-8.md`
+- § 9. Omsetning og levering av delvis ferdigstilte maskiner – `forskrifter/maskiner/par-9.md`
+- § 10. Prosedyre for samsvarsvurdering av maskiner – `forskrifter/maskiner/par-10.md`
+- § 11. Oppfyllelse av helse- og sikkerhetskrav ved CE-merking – `forskrifter/maskiner/par-11.md`
+- § 12. Forpliktelser for leverandører, virksomheter, og private mfl. som monterer maskiner – `forskrifter/maskiner/par-12.md`
+- § 13. Krav til utforming av CE-merket – `forskrifter/maskiner/par-13.md`
+- § 14. Mangelfull eller ulovlig CE-merking – `forskrifter/maskiner/par-14.md`
+- § 15. Tilsyn m.m. – `forskrifter/maskiner/par-15.md`
+- § 16. Straff – `forskrifter/maskiner/par-16.md`
+- § 17. Ikrafttredelse og endring av andre forskrifter – `forskrifter/maskiner/par-17.md`
+- § 18. Overgangsregler – `forskrifter/maskiner/par-18.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/maskiner/utenfor-paragrafene.md`
+
+### Forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften)
+
+- § 1. Formål – `forskrifter/storulykker/par-1.md`
+- § 2. Virkeområde – `forskrifter/storulykker/par-2.md`
+- § 3. Definisjoner – `forskrifter/storulykker/par-3.md`
+- § 4. Storulykkevirksomhetens plikter – `forskrifter/storulykker/par-4.md`
+- § 5. Tilsynsmyndigheter – `forskrifter/storulykker/par-5.md`
+- § 6. Melding – `forskrifter/storulykker/par-6.md`
+- § 7. Strategi for å forebygge og begrense storulykker – `forskrifter/storulykker/par-7.md`
+- § 8. Dominoeffekt – `forskrifter/storulykker/par-8.md`
+- § 9. Sikkerhetsrapport – `forskrifter/storulykker/par-9.md`
+- § 10. Endring av storulykkevirksomhet – `forskrifter/storulykker/par-10.md`
+- § 11. Beredskapsplaner – `forskrifter/storulykker/par-11.md`
+- § 12. Informasjon til allmennheten om sikkerhetstiltak – `forskrifter/storulykker/par-12.md`
+- § 13. Opplysninger som storulykkevirksomheten skal fremlegge for tilsynsmyndighetene etter en storulykke – `forskrifter/storulykker/par-13.md`
+- § 14. Pålegg og tvangsmulkt – `forskrifter/storulykker/par-14.md`
+- § 15. Ikrafttredelse og overgangsbestemmelser – `forskrifter/storulykker/par-15.md`
+
+**Innhold utenfor paragrafene**
+
+- Vedlegg, tabeller o.l. – `forskrifter/storulykker/utenfor-paragrafene.md`
+
+### Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer
+
+**Kapittel 1. Innledende bestemmelser**
+
+- § 1. Formål – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-1.md`
+- § 2. Virkeområde – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-2.md`
+- § 3. Definisjon – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-3.md`
+- § 4. Hvem har plikter etter forskriften – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-4.md`
+- § 5. Arbeidstakernes medvirkning – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-5.md`
+
+**Kapittel 2. Risikovurdering og tiltak**
+
+- § 6. Risikovurdering av eksplosjonsfare – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-6.md`
+- § 7. Forebyggende tiltak og vern mot eksplosjoner – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-7.md`
+- § 8. Samordningsplikt – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-8.md`
+- § 9. Eksplosjonsverndokument – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-9.md`
+
+**Kapittel 3. Klassifisering av soner der eksplosive atmosfærer kan dannes**
+
+- § 10. Områder der eksplosive atmosfærer kan dannes – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-10.md`
+- § 11. Anvendelsesområde for klassifiseringssystemet – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-11.md`
+- § 12. Klassifisering og soneinndeling av eksplosjonsfarlige områder – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-12.md`
+
+**Kapittel 4. Tiltak for å bedre vernet av sikkerheten og helsen til arbeidstakere som kan utsettes for fare gjennom eksplosive atmosfærer**
+
+- § 13. Presisering av virkeområdet – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-13.md`
+- § 14. Organisatoriske tiltak – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-14.md`
+- § 15. Vernetiltak mot eksplosjoner – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-15.md`
+- § 16. Kriterier for valg av utstyr og sikkerhetssystem – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-16.md`
+
+**Kapittel 5. Tilsyn og straff**
+
+- § 17. Tilsyn – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-17.md`
+- § 18. Straff – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-18.md`
+
+**Kapittel 6. Ikrafttredelse, endringer i annet regelverk og overgangsbestemmelser**
+
+- § 19. Ikrafttredelse og endringer i annet regelverk – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-19.md`
+- § 20. Overgangsbestemmelser – `forskrifter/eksplosjonsfarlige-atmosfaerer/par-20.md`
+
 ## EU-rettsakter som teksten viser til
 
 Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
 
 - **Direktiv 96/71** (Utsendingsdirektivet) – i basen: `regelverk/eu/direktiv-96-71/VEIVISER.md`. Nevnt i `forskrifter/utsendte-arbeidstakere/par-12.md`, `forskrifter/utsendte-arbeidstakere/par-12a.md`, `lov/par-18-11.md`
 - **Direktiv 2014/67** (Håndhevingsdirektivet til utsendingsdirektivet) – i basen: `regelverk/eu/direktiv-2014-67/VEIVISER.md`. Nevnt i `lov/par-14-7.md`, `lov/par-18-11.md`
+- Direktiv 75/324 – ikke i basen. Nevnt i `forskrifter/storulykker/utenfor-paragrafene.md`
 - Direktiv 91/533 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14e.md`
+- Direktiv 97/68 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
+- Direktiv 2000/14 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
 - Direktiv 2000/79 – ikke i basen. Nevnt i `forskrifter/luftfartoy-besetning/par-11.md`, `forskrifter/luftfartoy-besetning/utenfor-paragrafene.md`
+- Direktiv 2003/2003 – ikke i basen. Nevnt i `forskrifter/storulykker/utenfor-paragrafene.md`
+- Direktiv 2005/88 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
 - Direktiv 2006/22 – ikke i basen. Nevnt i `forskrifter/vegtransport/par-20.md`, `forskrifter/vegtransport/par-22.md`
+- Direktiv 2009/128 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
 - Forordning nr. 1907/2006 – ikke i basen. Nevnt i `forskrifter/utforelse-av-arbeid/par-2-1.md`
 - Forordning nr. 561/2006 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14d.md`
 - Forordning nr. 1272/2008 – ikke i basen. Nevnt i `forskrifter/arbeidsplassforskriften/par-5-13.md`, `forskrifter/arbeidsplassforskriften/par-5-4.md`, `forskrifter/utforelse-av-arbeid/par-1-4.md`
+- Forordning nr. 440/2008 – ikke i basen. Nevnt i `forskrifter/storulykker/utenfor-paragrafene.md`
 - Forordning nr. 1072/2009 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14d.md`
 - Forordning nr. 1073/2009 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14a.md`, `forskrifter/utsendte-arbeidstakere/par-14d.md`
-- Forordning nr. 1024/2012 – ikke i basen. Nevnt i `lov/par-18-11.md`
+- Forordning nr. 1107/2009 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
+- Forordning nr. 1024/2012 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`, `lov/par-18-11.md`
 - Forordning nr. 965/2012 – ikke i basen. Nevnt i `forskrifter/luftfartoy-besetning/par-2.md`, `forskrifter/luftfartoy-besetning/utenfor-paragrafene.md`
 - Forordning nr. 165/2014 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14a.md`, `forskrifter/utsendte-arbeidstakere/par-14d.md`
+- Forordning 2016/1628 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
+- Forordning 2020/1040 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
+- Forordning 2021/1068 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
 - Forordning 2021/2179 – ikke i basen. Nevnt i `forskrifter/utsendte-arbeidstakere/par-14.md`
 - Forordning 2022/695 – ikke i basen. Nevnt i `forskrifter/vegtransport/par-22.md`
+- Forordning 2022/992 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
+- Forordning 2024/1208 – ikke i basen. Nevnt i `forskrifter/maskiner/utenfor-paragrafene.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/arbeidstilsynet/administrative-ordninger/` – 28 filer, start med `rundskriv/arbeidstilsynet/administrative-ordninger/oversikt.md`
+- `rundskriv/arbeidstilsynet/arbeidsplassforskriften/` – 55 filer, start med `rundskriv/arbeidstilsynet/arbeidsplassforskriften/oversikt.md`
+- `rundskriv/arbeidstilsynet/byggherreforskriften/` – 20 filer, start med `rundskriv/arbeidstilsynet/byggherreforskriften/oversikt.md`
+- `rundskriv/arbeidstilsynet/hms-kort-transport/` – 14 filer, start med `rundskriv/arbeidstilsynet/hms-kort-transport/oversikt.md`
+- `rundskriv/arbeidstilsynet/organisering-ledelse-medvirkning/` – 68 filer, start med `rundskriv/arbeidstilsynet/organisering-ledelse-medvirkning/oversikt.md`
+- `rundskriv/arbeidstilsynet/produsentforskriften/` – 14 filer, start med `rundskriv/arbeidstilsynet/produsentforskriften/oversikt.md`
+- `rundskriv/arbeidstilsynet/tiltaks-og-grenseverdier/` – 14 filer, start med `rundskriv/arbeidstilsynet/tiltaks-og-grenseverdier/oversikt.md`
+- `rundskriv/arbeidstilsynet/utforelse-av-arbeid/` – 296 filer, start med `rundskriv/arbeidstilsynet/utforelse-av-arbeid/oversikt.md`
+- `rundskriv/sivilombudet/` – 34 filer
 <!-- AUTO-SLUTT -->

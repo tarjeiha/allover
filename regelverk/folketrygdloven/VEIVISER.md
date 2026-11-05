@@ -2027,4 +2027,5 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/rundskriv-r25-03-for/` – 8 filer, start med `rundskriv/rundskriv-r25-03-for/oversikt.md`
 - `rundskriv/rundskriv-r25-16-for-368/` – 39 filer, start med `rundskriv/rundskriv-r25-16-for-368/oversikt.md`
 - `rundskriv/rundskriv-r26-00/` – 117 filer, start med `rundskriv/rundskriv-r26-00/oversikt.md`
+- `rundskriv/sivilombudet/` – 73 filer
 <!-- AUTO-SLUTT -->

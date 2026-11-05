@@ -241,4 +241,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Innhold utenfor paragrafene**
 
 - Vedlegg, tabeller o.l. – `forskrifter/statsborgerforskriften/utenfor-paragrafene.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/sivilombudet/` – 7 filer
 <!-- AUTO-SLUTT -->

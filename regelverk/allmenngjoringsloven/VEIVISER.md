@@ -291,4 +291,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Kap. IV. Ikrafttreden m.m.**
 
 - § 10. Ikrafttreden og opphør – `forskrifter/skips-og-verftsindustrien/par-10.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/arbeidstilsynet/informasjons-og-paseplikt/` – 12 filer, start med `rundskriv/arbeidstilsynet/informasjons-og-paseplikt/oversikt.md`
 <!-- AUTO-SLUTT -->
