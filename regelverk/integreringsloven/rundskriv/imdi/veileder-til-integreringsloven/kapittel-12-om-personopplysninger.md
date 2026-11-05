@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 12.
 
 ## 12.1 Generelt om behandling av personopplysninger
@@ -77,7 +75,7 @@ I [integreringsforskriften § 46](https://lovdata.no/forskrift/2020-12-15-2912/�
 - Om personen er enslig mindreårig
 - Boform
 
-Disse personopplysningene kan innhentes fra den enkelte person, utlendingsmyndighetenes registre eller Folkeregisteret. Opplysningene kan i registrene knyttes til fødselsnummer eller annet identifikasjonsnummer.   
+Disse personopplysningene kan innhentes fra den enkelte person, utlendingsmyndighetenes registre eller Folkeregisteret. Opplysningene kan i registrene knyttes til fødselsnummer eller annet identifikasjonsnummer.  
 Offentlige organer som behandler personopplysninger etter integreringsforskriften, skal sørge for tilstrekkelig [personopplysningssikkerhet etter GDPR art. 32](https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/avvik/hva-er-et-brudd-pa-personopplysningssikkerheten/). Dette står også i [integreringsforskriften § 45](https://lovdata.no/forskrift/2020-12-15-2912/§45). Tilgangsstyring er da et sentralt tiltak, for eksempel at kun ansatte med tjenstlig behov gis tilgang til personopplysninger.
 
 ### 12.6.2 Personer som får kompetansekartlegging og karriereveiledning
@@ -168,7 +166,7 @@ Lagringstid på inntil 15 år gjelder for følgende opplysninger:
 - Personopplysninger om innvandrer som er i målgruppen for ordningene etter introduksjonsloven, men ikke deltar (beregnes fra det tidspunktet personen kom inn i målgruppen).
 - Opplysninger om kompetanse (beregnes fra tidspunkt kartleggingen av personen startet). Opplysningene kan lagres lenger dersom det er nødvendig for personens videre kvalifisering.
 
-Personopplysninger om personer som avlegger prøver kan lagres i inntil 20 år beregnet fra tidspunktet for avlagte prøver.   
+Personopplysninger om personer som avlegger prøver kan lagres i inntil 20 år beregnet fra tidspunktet for avlagte prøver.  
 Personopplysningene skal slettes senest når lagringstiden etter [§ 60](https://lovdata.no/forskrift/2020-12-15-2912/§60) har utløpt. Dette følger av [integreringsforskriften § 61](https://lovdata.no/forskrift/2020-12-15-2912/§61). Lagringstid på inntil 5-20 år er altså maksimumsgrenser. Det betyr at hvis det ikke lenger er behov for opplysningene på et tidligere tidspunkt, skal opplysningene slettes da.
 
 Før sletting skal opplysninger som er nødvendige for utlendingsmyndighetenes oppgaver overføres til deres registre. Dette må ses i sammenheng med IMDi og Direktoratet for høyere utdanning og kompetanse sin plikt til å utlevere opplysninger til utlendingsmyndighetene etter integreringsforskriften §§ [56](https://lovdata.no/forskrift/2020-12-15-2912/§56) og [57](https://lovdata.no/forskrift/2020-12-15-2912/§57).

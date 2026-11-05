@@ -51,5 +51,3 @@ lagt_inn: "2026-11-05"
 ### Endringer gjort 29.11.2024
 
 - Lagt til kapittel 7.7. Adgangen til å hjelpe til i den individuelt tilrettelagte opplæringen.
-
-Til toppen

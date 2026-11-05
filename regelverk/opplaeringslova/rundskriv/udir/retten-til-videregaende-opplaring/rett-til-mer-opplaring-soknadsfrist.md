@@ -15,5 +15,3 @@ Søkere som både ønsker inntak til neste nivå og mer opplæring i fag som ikk
 En søker som ikke har bestått fag- eller svenneprøven og ønsker mer opplæring, har løpende inntak. Dette står i opplæringsforskriften § 4-9 femte ledd.
 
 Fylkeskommunen skal fatte vedtak som angir varighet og timefordeling og hvilke fag det skal gis opplæring i. Det skal også gå frem av vedtaket hvor opplæringen skal gis.
-
-Til toppen

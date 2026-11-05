@@ -13,5 +13,3 @@ Søknader om plass i skolefritidsordninga må behandlast etter vanlege forvaltni
 Les meir om [forvaltningslova og reglar for enkeltvedtak](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/forvaltningsloven/fatte-enkeltvedtak/).
 
 [Her finn du mal for generelt enkeltvedtak](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/nye-maler-for-opplaringsloven/#a212974)
-
-Til toppen

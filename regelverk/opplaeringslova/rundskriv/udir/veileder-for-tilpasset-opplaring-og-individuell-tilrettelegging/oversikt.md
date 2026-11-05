@@ -14,8 +14,6 @@ Tekst fra Utdanningsdirektoratet, hentet fra [udir.no](https://www.udir.no/regel
 
 [Kompetansepakke om elever med stort læringspotensial](https://www.udir.no/laring-og-trivsel/lareplanverket/stotte/kompetansepakke-om-elever-med-stort-laringspotensial/)
 
-Til toppen
-
 ## Innhold
 
 - 9. Årlig evaluering av utbyttet av den individuelt tilrettelagte opplæringen – `arlig-evaluering-av-utbyttet.md`

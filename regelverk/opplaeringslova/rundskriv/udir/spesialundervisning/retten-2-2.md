@@ -106,5 +106,3 @@ Skoleeiers utgifter i forbindelse med spesialundervisningen er summen av alle en
 Etter at minstekravet er oppfylt, er det imidlertid mulig å legge vekt på skolens økonomi. Det finnes grenser for hvilket tilbud eleven har rett på3.
 
 *1) Hovedfunnene i undersøkelsen er gjengitt i Stette, Øystein (2007): Saksbehandling ved tildeling av ressurser til spesialundervisning. Redigert utdrag av en rapport fra Sivilombudsmannen. Pedlex. Norsk skoleinformasjon.***2) Det må antas at dette også gjelder for elever som ikke er funksjonshemmede.*3) Se Rt. 1993 side 811 Malvikdommen. Her understreker Høyesterett at det vil være en totalvurdering som ligger til grunn, og det påpekes at det er grenser for hvor stor tilrettelegging som kan kreves.*
-
-Til toppen

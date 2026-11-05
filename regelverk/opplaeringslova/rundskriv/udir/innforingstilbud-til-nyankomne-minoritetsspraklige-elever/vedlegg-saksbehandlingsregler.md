@@ -43,5 +43,3 @@ Hvis en mindreårig over 15 år er part i saken og blir representert av verge, s
 I underretningen, vanligvis brevet der vedtaket gjengis og begrunnes, skal det også opplyses om klageadgang, klagefrist, klageinstans, den nærmere fremgangsmåte ved klage, og om partenes rett til å se sakens dokumenter.
 
 Fra 01.08.2012 følger det av opplæringsloven § 15–2 andre ledd at departementet er klageinstans for enkeltvedtak etter både §§ 2–8 og 3–12 i opplæringsloven. Denne myndigheten er delegert til statsforvalteren både for grunnskole og videregående opplæring. Et vedtak om rett til særskilt språkopplæring og opplæring i særskilt organisert tilbud, fattet av enten kommunen eller fylkeskommunen, kan altså klages inn for statsforvalteren.
-
-Til toppen

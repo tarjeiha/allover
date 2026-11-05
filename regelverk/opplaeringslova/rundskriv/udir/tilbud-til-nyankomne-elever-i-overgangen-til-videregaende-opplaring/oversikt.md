@@ -20,5 +20,3 @@ I dag er det flere kommuner og fylkeskommuner som tilbyr såkalte kombinasjonskl
 
 Kombinasjonsklasser er et eksempel på en opplæringsordning som vil kunne oppfylle plikten til å ha et opplæringstilbud i overgangen mellom grunnskolen og videregående, men plikten kan også oppfylles gjennom andre tilbud rettet mot målgruppen.
 
-Til toppen
-

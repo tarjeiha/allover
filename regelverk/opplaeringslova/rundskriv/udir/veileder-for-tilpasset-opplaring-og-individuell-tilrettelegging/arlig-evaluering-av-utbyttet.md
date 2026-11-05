@@ -31,5 +31,3 @@ Hvis elevens utvikling er relativt stabil og behovet er tilnærmet det samme som
 Skolen må jevnlig vurdere elevens behov for individuell tilrettelegging, og dette kan de gjøre gjennom underveisvurdering, sluttvurdering i fag og årsrapporten for den individuelt tilrettelagte opplæringen. Hvis kommunen og fylkeskommunen vurderer at det ikke lenger er behov for individuelt tilrettelagt opplæring, kan de avslutte saken ved at de ikke fatter nytt vedtak. Skolen, eleven og foreldrene må samarbeide og sørge for en god overgang til den ordinære opplæringen.
 
 Eleven og foreldrene kan alltid kreve at skolen sender henvisning til PP-tjenesten, selv når skolen mener eleven ikke har behov for videre individuell tilrettelagt opplæring.
-
-Til toppen

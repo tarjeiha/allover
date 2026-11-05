@@ -57,5 +57,3 @@ I et vedtak om innføringsopplæring kan kommunen eller fylkeskommunen gjøre un
 
 Elever i grunnskolen og videregående opplæring som får innføringsopplæring har rett til fritak fra vurdering med karakter i hele perioden de får innføringsopplæring. Dette står i forskrift til opplæringsloven § 9-20. Elever i videregående opplæring kan ikke bli fritatt fra standpunktkarakter etter denne bestemmelsen.
 
-Til toppen
-

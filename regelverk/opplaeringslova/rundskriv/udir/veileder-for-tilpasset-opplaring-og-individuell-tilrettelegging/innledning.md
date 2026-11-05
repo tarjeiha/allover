@@ -123,5 +123,3 @@ Skolen, kommunen, fylkeskommunen og PP-tjenesten må ivareta denne retten når d
 ## 1.5 Internkontroll
 
 [Kommunen og fylkeskommunen skal ha internkontrol](https://www.udir.no/regelverk-og-tilsyn/veileder-internkontroll-for-barnehage-og-opplaringssektoren/)l som sikrer at regelverket blir oppfylt. Dette står i kommuneloven § 25-1. Internkontrollen skal være systematisk og tilpasset virksomhetens størrelse, egenart, aktiviteter og risikoforhold. Tilsvarende skal private skoler ha internkontroll etter privatskoleloven § 5-2a.
-
-Til toppen

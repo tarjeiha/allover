@@ -15,5 +15,3 @@ lagt_inn: "2026-11-05"
 - Utdanningsdirektoratet kan også vedta pålagt skolebytte, i klagesaker om skolemiljø.
 
 Det er departementet (delegert til statsforvalteren) som er klageinstans for enkeltvedtak om skolebytte.
-
-Til toppen

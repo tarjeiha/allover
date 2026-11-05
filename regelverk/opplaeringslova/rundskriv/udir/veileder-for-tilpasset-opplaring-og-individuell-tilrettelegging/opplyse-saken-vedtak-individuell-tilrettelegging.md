@@ -242,5 +242,3 @@ Foreldrene eller eleven kan hente inn en alternativ sakkyndig vurdering i tilleg
 Det er ingen regler om hvem elever eller foreldre kan innhente en slik alternativ vurdering fra. Det er heller ingen krav til innholdet i denne vurderingen.
 
 Foreldrene må selv betale for en alternativ vurdering.
-
-Til toppen

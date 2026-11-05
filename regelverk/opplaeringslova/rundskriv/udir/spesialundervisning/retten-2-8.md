@@ -23,5 +23,3 @@ Tilretteleggingen må ikke føre til at eleven får fordeler fremfor elever som 
 Dersom kompetansemålene har krav om skriftlig, muntlig eller praktiske ferdigheter er det ikke mulig å legge til rette eksamen slik at eleven ikke får prøvd disse ferdighetene, når en slik prøving er fastsatt i eksamensformen for faget. Hvis det derimot ikke er krav om at muntlige, skriftlige eller praktiske ferdigheter skal prøves i eksamensformen, kan særskilt tilrettelegging av eksamen også gjøres ved å endre eksamensform, for eksempel fra skriftlig til muntlig, der det er åpning for dette i læreplanen. [Les mer om særskilt tilrettelegging av eksamen](https://www.udir.no/eksamen-og-prover/eksamen/administrere-eksamen/#a110475).
 
 Rektors avgjørelse i en sak om særskilt tilrettelegging regnes som et enkeltvedtak som kan påklages til statsforvalteren.
-
-Til toppen

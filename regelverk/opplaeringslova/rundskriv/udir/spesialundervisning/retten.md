@@ -49,5 +49,3 @@ Forvaltningslovens saksbehandlingsregler om enkeltvedtak utfyller saksbehandling
 - **Steg 2:** Avgjøre hvilket opplæringstilbud eleven skal ha dersom det viser seg at eleven ikke har tilfredsstillende utbytte av det ordinære tilbudet og dermed har rett til spesialundervisning. (§ 5-1 andre ledd).
 
 *1) Se opplæringsloven §§ 13-2 og 13-3a*
-
-Til toppen

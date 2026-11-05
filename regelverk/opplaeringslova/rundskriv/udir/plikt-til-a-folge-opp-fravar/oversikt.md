@@ -43,5 +43,3 @@ Tilsvarende regler gjelder for private skoler jf. [privatskoleloven § 5A-6](htt
 
 Prop. 57 L (2022–2023) Lov om grunnskoleopplæringa og den vidaregående opplæringa (opplæringslova), punkt 13.3.4 og punkt 69.4.1.6.
 
-Til toppen
-

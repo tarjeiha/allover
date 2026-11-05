@@ -18,5 +18,3 @@ Tekst fra Utdanningsdirektoratet, hentet fra [udir.no](https://www.udir.no/regel
 
 ## Rettigheter for elever med nedsatt hørsel i grunnskolen og videregående opplæring
 
-Til toppen
-

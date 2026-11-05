@@ -43,5 +43,3 @@ Systemet må ivareta skolens plikter ifm. fraværsgrensen og føring av fravær 
 Alle skoler skal ha skoleregler. Skolereglene skal inneholde regler om hvordan elevene skal ha det, hva elevene kan og ikke kan gjøre på skolen, og hva som skjer hvis reglene brytes.
 
 Det bør fastsettes tydelige regler for fravær og om fraværet skal føre til nedsatt karakter i orden eller i oppførsel. Skolereglene kan inneholde sanksjoner mot fravær.
-
-Til toppen

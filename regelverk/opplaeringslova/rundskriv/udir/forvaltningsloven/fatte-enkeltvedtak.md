@@ -67,5 +67,3 @@ Skolen, kommunen eller fylkeskommunen skal påse at saken er så godt opplyst so
 Skolen, kommunen eller fylkeskommunen må sørge for å innhente nødvendig informasjon om saken og sørge for at mindreårige parter får mulighet til å gi sitt syn på saken. Se også «[Elevenes rett til å bli hørt og elevenes beste](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/forvaltningsloven/elevenes-rett-til-a-bli-hort-og-elevenes-beste/)».
 
 Skolen, kommunen eller fylkeskommunen har informasjonsplikt ovenfor partene om nye avgjørende opplysninger som kommer fram i saken. Parten bør også gjøres kjent med opplysninger av vesentlig betydning som det må forutsettes at de har grunnlag og interesse for å uttale seg om, og som parten etter [forvaltningsloven §§ 18 til 19](https://lovdata.no/dokument/NL/lov/1967-02-10/KAPITTEL_4#%C2%A718) har rett til å gjøre seg kjent med.
-
-Til toppen

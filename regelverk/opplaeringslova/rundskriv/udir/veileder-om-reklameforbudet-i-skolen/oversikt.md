@@ -120,5 +120,3 @@ Les mer i [Forbrukertilsynets veileder om markedsføring mot barn og unge](https
 
 Vi har laget en film hvor [en rådgiver fra Forbrukerrådet forteller det kommersielle presset i forbindelse med russetiden](https://www.udir.no/laring-og-trivsel/skolemiljo/fremme-et-godt-skolemiljo-og-forebygge-krenkelser/inkluderende-russetid/om-reklame-rettet-mot-barn-under-18-ar/). Her finner du også refleksjonsspørsmål for elever, foreldre og de ansatte ved skolen.
 
-Til toppen
-

@@ -21,5 +21,3 @@ Tilpasset opplæring er ikke et mål i seg selv, men et virkemiddel for at eleve
 Godt læringsmiljø og gode systemer for lokalt arbeid med læreplan, vurdering og tilbakemelding er viktige forutsetninger for å fremme en opplæring som er tilpasset elevenes evner og forutsetninger.
 
 Tilpasset opplæring er forankret i de sentrale prinsippene om fellesskolen, som inkluderende opplæring og likeverdsprinsippet.
-
-Til toppen

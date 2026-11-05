@@ -80,5 +80,3 @@ Organiseringa kommunen eller fylkeskommunen vel å ha, må vere eigna til å var
 - kva for roller medlemmene i organa skal ha
 
 Deltaking skal vere tilpassa alderen til elevane. Skolen skal vere aktiv, rettleie elevane om korleis dei kan drive elevdemokrati, og støtte dei i arbeidet undervegs. Det er ikkje tilstrekkeleg at skolen til dømes berre legg til rette for elevråd. Alle elevar skal få moglegheit til å delta i skoledemokratiet, uavhengig av alder, kjønn, etnisitet, funksjonsnivå og sosial bakgrunn.
-
-Til toppen

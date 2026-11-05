@@ -24,5 +24,3 @@ Det er fire grunnleggende premisser eller arbeidsoppgaver for læreren i arbeide
 - Tydelige forventninger og motivering av elevene.
 
 [Les mer om læringsmiljø](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/spesialundervisning/Tilpasset-opplaring/)
-
-Til toppen

@@ -82,5 +82,3 @@ Elever og foreldre kan klage på gjennomføring av den individuelle tilrettelegg
 ## 8.5 IOP for lærekandidater
 
 Reglene for IOP gjelder også for lærekandidater. Fylkeskommunen må i samarbeid med lærekandidaten og lærebedriften utarbeide en IOP som samsvarer med vedtaket og den tilpassede lærekandidatplanen. Planen skal ta utgangspunkt i læreplanen for faget, vedtaket, lærekandidatens faglige nivå og ønsker for opplæringen. Planen må være realistisk og basert på kandidatens forutsetninger, og ikke bedriftens behov. Fylkeskommunen og lærebedriften må vurdere og justere IOP-en underveis hvis lærekandidatens behov endrer seg.
-
-Til toppen

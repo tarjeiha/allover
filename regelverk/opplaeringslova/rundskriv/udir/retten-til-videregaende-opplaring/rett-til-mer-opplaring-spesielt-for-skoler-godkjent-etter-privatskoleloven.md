@@ -15,5 +15,3 @@ Privatskoler er godkjent med et maksimalt elevtall og vil ikke ha plikt til å t
 Skolene kan ta dem inn som elever i fag dersom skolen har kapasitet etter skolens godkjente elevtall, og elevene fyller kravene til inntak. Elever som tas inn skal få opplæring etter skolens godkjente læreplan og det fastsatte timetall i faget. Ulikt fra fylkeskommunale mer opplærings-tilbud, kan ikke privatskoler gjøre unntak fra timetallet i faget.
 
 Elever som har gått ved private skoler, kan og melde seg til mer opplæring hos fylkeskommunen.
-
-Til toppen

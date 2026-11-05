@@ -20,5 +20,3 @@ Tekst fra Utdanningsdirektoratet, hentet fra [udir.no](https://www.udir.no/regel
 
 ## Særskilt språkopplæring
 
-Til toppen
-

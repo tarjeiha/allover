@@ -13,5 +13,3 @@ Kommunen og fylkeskommunen skal gi forskrift om skolereglar for den enkelte grun
 Opplæringslova skal leggje til rette for at elevane får ei god opplæring i eit godt miljø.3 Nokre felles reglar for heile skolesamfunnet, i form av skolereglar, kan bidra til å gi eit trygt og godt skolemiljø. Det er viktig å ha klare og føreseielege reglar i skolekvardagen. Skolereglar kan på den måten bidra til å få eit meir velfungerande skolesamfunn ved at det blir gitt reglar om korleis elevane skal ha det, kva elevane kan og ikkje kan gjere på skolen, og kva som skjer dersom reglane blir brotne. Organiseringa av skoledemokratiet skal også kome fram av skolereglane.
 
 > [Her finn du vår mal for skolereglar](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/lokale-forskrifter-etter-ny-opplaringslov/#a212929)
-
-Til toppen

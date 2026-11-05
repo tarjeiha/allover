@@ -25,5 +25,3 @@ Utgangspunktet er at elever må ha bestått i alle fag på det aktuelle trinnet 
 Det finnes imidlertid unntak fra dette for elever som ikke har bestått i alle fag (karakteren 1, IV eller har overtrådt fraværsgrensen).
 
 Fylkeskommunen må da foreta en helhetlig vurdering av om det er forsvarlig å flytte eleven opp til neste nivå, se opplæringsforskriften § 4-13. Eleven må fortsatt bestå faget for å få vitnemål.
-
-Til toppen

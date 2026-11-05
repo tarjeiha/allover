@@ -28,5 +28,3 @@ Dansk som grundfag nivå D, tilsvarer det samme nivået som vg2 yrkesfag (NOR126
 
 Vi baserer vurderingen på beskrivelsene av nivå og omfang, samt vurderingskriteriene i bilag. Selv om enkelte av kriteriene på nivå C tilsvarer påbygg vg3 i den norske læreplanen, blant annet med krav til at de skal lese eldre tekster, har vi også vektlagt at kriteriene for leseforståelse og tekstproduksjon i Dansk som grundfag nivå D. Det tilsvarer våre vurderingskriterier til eksamen for norsk, vg2 yrkesfaglige utdanningsprogram (NOR1262).
 
-Til toppen
-

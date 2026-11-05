@@ -76,5 +76,3 @@ Elevar i vidaregåande opplæring kan ikkje fullføra enkeltfag før normert tid
 ## Moglegheita for elevar på vidaregåande til å ta fag på universitets- og høgskolenivå
 
 Elevar i vidaregåande skole kan ta fag på universitets- og høgskolenivå. Ein elev kan likevel ikkje gå opp til eksamen i fag ved høgskolar eller universitetet før eleven har oppnådd studiekompetanse. Dette følgjer av [universitets- og høgskolelova § 11-4.](https://lovdata.no/lov/2024-03-08-9/§11-4)
-
-Til toppen

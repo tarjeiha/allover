@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 7.
 
 ## 7.1 Om opplæring norsk og samfunnskunnskap
@@ -61,7 +59,7 @@ Personer som har rett og plikt til deltagelse i opplæring, har også plikt til 
 
 ### 7.2.2 Målgruppen for plikt til opplæring i norsk og samfunnskunnskap
 
-Enkelte oppholdstillatelser som danner grunnlag for permanent oppholdstillatelse gir kun plikt til opplæring i norsk og samfunnskunnskap, se integreringsloven [§ 28](https://lovdata.no/lov/2020-11-06-127/§28).   
+Enkelte oppholdstillatelser som danner grunnlag for permanent oppholdstillatelse gir kun plikt til opplæring i norsk og samfunnskunnskap, se integreringsloven [§ 28](https://lovdata.no/lov/2020-11-06-127/§28).  
 Dette gjelder for:
 
 - oppholdstillatelse til arbeidsinnvandrere, nærmere angitt som arbeidstakere som skal arbeide for en arbeidsgiver i Norge ([utlendingsloven § 23](https://lovdata.no/lov/2008-05-15-35/§23)), og for selvstendig næringsdrivende ([utlendingsloven § 25](https://lovdata.no/lov/2008-05-15-35/§25))
@@ -241,7 +239,7 @@ Deltakere i introduksjonsprogram skal ikke ha en norskplan, men en samlet integr
 
 Norskplanen skal utformes på samme måte som en integreringsplan. Planen må minst inneholde deltakerens norskmål og hvor mye opplæring deltakeren skal gjennomføre, og kommunen skal tilby. Dette betyr at norskplanen skal inneholde en timeplan. Antall timer med opplæring må være tilstrekkelig til at deltakeren kan nå sitt norskmål.
 
-Planen skal også inneholde informasjon om deltakerens klagemuligheter.   
+Planen skal også inneholde informasjon om deltakerens klagemuligheter.  
 I tillegg bør norskplanen inneholde informasjon om hvem som er ansvarlig for å gi opplæringen og hvordan tilbudet skal gis, for eksempel om opplæringen gjennomføres i den kommunale norskopplæringen eller på annen måte.
 
 Norskplanen skal utarbeides i samarbeid med deltakeren på bakgrunn av en kartlegging av hens opplæringsbehov og av hvilke tiltak hen kan nyttiggjøre seg for å nå sitt norskmål. Den skal bygge videre på elementer som deltakeren har gjennomført før bosetting i kommunen.
@@ -346,7 +344,7 @@ Ifølge integreringsloven [§ 39](https://lovdata.no/lov/2020-11-06-127/§39) og
 
 Kompetansekravene gjelder ikke den som er midlertidig ansatt eller ansatt på vilkår. Se integreringsforskriften [§ 68](https://lovdata.no/forskrift/2020-12-15-2912/§68).
 
-Hvis det ikke finnes søkere som oppfyller kravene etter opplæringslova, kan kommunen ansette andre midlertidig i inntil ett år. Også andre søkere som er i gang med relevant utdannelse, kan ansettes på vilkår om at utdanningen blir fullført.   
+Hvis det ikke finnes søkere som oppfyller kravene etter opplæringslova, kan kommunen ansette andre midlertidig i inntil ett år. Også andre søkere som er i gang med relevant utdannelse, kan ansettes på vilkår om at utdanningen blir fullført.  
 Arbeidsgiver og arbeidstaker avtaler lengden på tilsettingen på vilkår, med hensyn til omfanget av stillingen, lengden på utdanningen og hvor tilgjengelig utdanningstilbudet er.
 
 Søkere som oppfyller kravene etter opplæringslova, men ikke har norsk som andrespråk, kan likevel ansattes på vilkår om at de begynner på videreutdanning med 30 studiepoeng i norsk som andrespråk innen ett år. Videreutdanningen må fullføres innen tre år.

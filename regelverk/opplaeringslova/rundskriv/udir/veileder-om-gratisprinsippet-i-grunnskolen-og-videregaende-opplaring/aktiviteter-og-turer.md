@@ -50,5 +50,3 @@ Aktiviteter i skolens regi skal være inkluderende slik at alle elever kan delta
 Hvis skolen skal ha aktivitetsdag, for eksempel skidag, må elevene fritt kunne velge blant de aktivitetene skolen tilbyr. Dersom elevene får tilbud om å dra til et alpinanlegg hvor det må betales for heiskort, skal dette dekkes av skolen. Eventuell transport må også dekkes av skolen.
 
 Dersom det er elever som mangler nødvendig utstyr, bør skolen legge til rette for at slikt utstyr kan lånes. Mange steder kan både skolen og foreldrene låne idretts- og friluftsutstyr av kommunale og ideelle utlånssentraler. Hvis skolen forventer at foreldrene selv låner utstyr, bør skolen undersøke mulighetene og informere foreldrene om dette i god tid.
-
-Til toppen

@@ -62,5 +62,3 @@ Det betyr at ikke alle saksbehandlingsfeil fører til at vedtaket blir ugyldig.
 ### Utsatt iverksettelse
 
 En part kan be om utsatt iverksettelse av et vedtak inntil en klage er avgjort. Dette betyr at virkningen av vedtaket blir utsatt til klagen er ferdig behandlet.
-
-Til toppen

@@ -37,5 +37,3 @@ Eleven kan regnes som nyankommen selv om eleven har bodd i Norge en stund før o
 Kommunene og fylkeskommunene må vurdere om et innføringstilbud er det beste for eleven. Av hensyn til integrering er det viktig å få denne elevgruppen så raskt som mulig inn i ordinær skole og ordinær klasse. Hensynet til integrering skal derfor veie tungt hvis eleven allerede har bodd i Norge en stund.
 
 Regelverket skal likevel ikke være til hinder for et innføringstilbud som både skoleeier og elev/foresatte ønsker og mener er til det beste for eleven.
-
-Til toppen

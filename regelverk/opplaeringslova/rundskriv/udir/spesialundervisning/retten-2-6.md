@@ -112,5 +112,3 @@ Bestemmelsen regulerer ikke hvem som skal ta rollen som koordinator. Ansatte i s
 Bestemmelsen pålegger ikke PP-tjenesten en plikt til å delta i arbeidet med individuell plan.
 
 *1) Dette omfatter pasienter i helseinstitusjoner som et regionalt helseforetak eier, og for pasienter i private helseinstitusjoner som har avtale med et regionalt helseforetak. Fylkeskommunens ansvar gjelder bare for pasienter i institusjonsplasser som regionale helseforetak finansierer jf.§ 13-3 a første ledd.*
-
-Til toppen

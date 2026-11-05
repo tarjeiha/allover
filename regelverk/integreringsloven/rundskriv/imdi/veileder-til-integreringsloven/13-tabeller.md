@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 13.
 
 ## 13.1 Oversikt over målgrupper for opplæring i mottak, introduksjonsprogrammet og opplæring i norsk og samfunnskunnskap

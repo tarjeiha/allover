@@ -31,5 +31,3 @@ Søkere til videregående opplæring vil først være fylkeskommunens ansvar ett
 Et tidsbegrenset vedtak gjelder bare inntil elevene er utredet av PP-tjenesten for videregående opplæring, og til det er fattet et nytt vedtak om spesialundervisning. Dette skal skje så raskt som mulig etter at elevene er tatt inn i videregående opplæring. Det er også viktig at kommunen /fylkeskommunen henviser til PP-tjenesten så snart de er kjent med elevens behov.
 
 For elever som har hatt enkeltvedtak om spesialundervisning, er dette kjent ved inntaket.
-
-Til toppen

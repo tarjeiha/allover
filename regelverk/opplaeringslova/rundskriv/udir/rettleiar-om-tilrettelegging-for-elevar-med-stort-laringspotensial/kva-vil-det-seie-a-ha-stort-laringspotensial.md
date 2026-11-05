@@ -17,5 +17,3 @@ Elevar med stort læringspotensial kan ha vanskar emosjonelt eller sosialt. Dei 
 Nokre elevar har ekstraordinært læringspotensial. Desse elevane kan lære særs raskt og i mange samanhengar liggje svært langt føre sine jamaldrande. Dei kan tenkje komplekst, er svært nysgjerrige og gode på problemløysing, og er og generelt sett meir uthaldande.3
 
 Omgrepet elevar med stort læringspotensial omfattar både dei elevane som presterer på høgt og avansert nivå, og dei elevane som har eit potensial for å gjere det. Skolen kan ved hjelp av testar få informasjon om elevar som presterer høgt. Elevar med stort eller ekstraordinært læringspotensial viser ofte styrkane sine på andre område enn det som blir synleg i karakterar og testar.4
-
-Til toppen

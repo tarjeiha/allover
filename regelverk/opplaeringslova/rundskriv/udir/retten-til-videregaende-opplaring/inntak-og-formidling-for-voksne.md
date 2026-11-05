@@ -19,5 +19,3 @@ De som har rett til videregående opplæring for voksne etter opplæringsloven �
 Noen fag i opplæringen for voksne er organisert i moduler for å passe bedre til opplæring for voksne.
 
 [Les mer om modulstrukturert opplæring](https://www.udir.no/laring-og-trivsel/lareplanverket/modulstrukturert/)
-
-Til toppen

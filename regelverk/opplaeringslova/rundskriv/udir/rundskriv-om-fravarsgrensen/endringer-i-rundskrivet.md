@@ -29,5 +29,3 @@ lagt_inn: "2026-11-05"
 - Elever kan levere egenmelding for fravær av helsegrunner opp til fraværsgrensen på ti prosent. Når elevene har nådd grensen på ti prosent fravær i et fag (ved helserelatert og udokumentert fravær sammenlagt), må de dokumentere ytterligere helserelatert fravær med dokumentasjon fra helsepersonell.
 - Fravær på grunn av teoretisk og praktisk førerprøve kan unntas fraværsgrensen dersom fraværet dokumenteres.
 - Konsekvensen av overskredet fraværsgrensen får bare konsekvenser for standpunktkarakter og halvårsvurdering med karakter ved slutten av skoleåret i gjennomgående fag.
-
-Til toppen

@@ -41,5 +41,3 @@ Hvis det oppstår tvist om hvilken av utregningsnøklene som skal velges, kan de
 Fylkeskommunen skal ha internkontroll for å sikre at regelverket blir fulgt. Dette følger av kommuneloven § 25-1.
 
 Mer informasjon finner du i [Veileder om internkontroll for barnehage – og opplæringssektoren](https://www.udir.no/regelverk-og-tilsyn/veileder-internkontroll-for-barnehage-og-opplaringssektoren/).
-
-Til toppen

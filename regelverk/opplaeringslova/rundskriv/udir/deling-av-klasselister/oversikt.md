@@ -39,5 +39,3 @@ Om du vurderer å dele lister over barn i offentlig eller privat barnehage, gjel
 
 Utdanningsdirektoratet er kjent med at noen lurer på om utlevering av klasselister er i strid med personvernregelverket. Vi har vært i kontakt med Datatilsynet, som ser noen personvernutfordringer knyttet til at klasselister kan utleveres på forespørsel. Slik regelverket er i dag, er det likevel slik at innsyn i klasselister skal gis etter reglene i offentlighetsloven, med de begrensninger som står i denne artikkelen.
 
-Til toppen
-

@@ -47,5 +47,3 @@ Det skal fremkomme uttrykkelig av enkeltvedtaket til eleven om tilbudet omfatter
 Personer som ikke er ansatt i undervisningsstilling kan for øvrig utføre arbeid i skolen utenfor opplæringen. Slikt arbeid faller utenfor kravene i opplæringsloven § 10-11.
 
 *1) Dette fremgår av forarbeidene til bestemmelsen, Ot.prp.nr. 57 (2004-205) 2) Dette fremgår av forarbeidene til bestemmelsen, Prop 84 L(2011-2012) 3) Se i forarbeidene til § 5-5 i Prop.129 L (2012-2013) kapittel 6. 4) Dette fremgår av forarbeidene til bestemmelsen, Prop.129 L (2012-2013) s. 37*
-
-Til toppen

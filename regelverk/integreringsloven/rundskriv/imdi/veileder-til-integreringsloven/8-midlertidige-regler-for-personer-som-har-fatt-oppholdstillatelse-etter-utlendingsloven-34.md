@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 8.
 
 ## 8.1 Om de midlertidige reglene i integreringsloven

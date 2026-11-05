@@ -35,5 +35,3 @@ En venteliste strider mot elevens rett til spesialundervisning. Elevens rett til
 Økonomiske og kapasitetsmessige årsaker til at elever ikke utredes, er ikke en gyldig grunn for at det tar lang til å utarbeide en sakkyndig vurdering.
 
 Skoleeier skal ha internkontroll for å sikre at regelverket blir fulgt.
-
-Til toppen

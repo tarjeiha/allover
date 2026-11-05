@@ -39,5 +39,3 @@ Vi har fjernet dette avsnittet fra punkt 6.7:
 Nå står det *"Foreldrene må selv betale for denne alternative vurderingen."*
 
 Bakgrunnen er at teksten var misvisende, siden bestemmelsene om saksomkostninger ikke gjelder i forbindelse med den ordinære førsteinstansbehandling av en sak, men bare sakskostnader i forbindelse med endring av enkeltvedtak etter bestemmelsene om klage og omgjøring.
-
-Til toppen

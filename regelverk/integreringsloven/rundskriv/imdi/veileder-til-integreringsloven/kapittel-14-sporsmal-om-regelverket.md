@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 14.
 
 ## 14. Spørsmål om regelverket

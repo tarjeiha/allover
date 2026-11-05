@@ -23,5 +23,3 @@ At ein elev blir flytta til ein annan skole av omsyn til dei andre elevane, vil 
 Statsforvaltaren er klageinstans for enkeltvedtak etter opplæringslova.6
 
 Det er viktig å oppretthalde eit godt samarbeid mellom skolen og heimen, og skolen skal samarbeide med foreldra om opplæringa til eleven.7 Sjølv om eit tiltak ikkje krev enkeltvedtak, bør derfor skolen informere foreldra om hendinga og reaksjonen som har blitt brukt. Også ved innføring av tiltak grunngitte i opplæringa kan det vere behov for å kontakte foreldra. Kommunen og fylkeskommunen skal gi elevane og foreldra den informasjonen dei har bruk for, blant anna om opplæringa, den enkelte eleven, skolemiljøet, skolereglane og om dei rettane og pliktene elevane elles har.8
-
-Til toppen

@@ -17,5 +17,3 @@ Fritak fra vurdering med karakter gjelder uavhengig av om eleven følger kompeta
 Elever som ikke følger kompetansemålene i læreplanverket, og som har bedt om fritak fra vurdering med karakter, skal ha vurdering uten karakter ut fra målene i den individuelle opplæringsplanen.
 
 Fritak fra vurdering med karakter har konsekvenser for elevens videre utdannings- og yrkeskarriere. Skolen har en plikt til å gi elevene og foreldrene nødvendig veiledning om konsekvensene av å velge bort vurdering med karakter.
-
-Til toppen

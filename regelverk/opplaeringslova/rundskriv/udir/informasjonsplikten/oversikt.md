@@ -52,5 +52,3 @@ Opplæringsloven har ikke regler om hvordan selve informasjonen skal gis og i hv
 
 Ut fra formålet med informasjonsplikten er det viktig at informasjonen blir gjort tilgjengelig for alle som skal få den. Dette innebærer blant annet at informasjonen gis på en forståelig og tilpasset måte, og at skolen må vurdere om informasjonen må oversettes og om det er nødvendig med tolk.
 
-Til toppen
-

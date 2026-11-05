@@ -13,5 +13,3 @@ Private skoler kan kreve skolepenger. [Privatskoleloven § 6-2](https://www.udir
 Private skoler godkjent etter privatskoleloven er ikke pålagt å tilby et leirskoleopphold for elevene i grunnskolen. Hvis skolen tilbyr elevene et leirskoleopphold eller annen skoletur som en del av opplæringen, må turen dekkes av statstilskudd og skolepenger. Skolen kan ikke kreve at elevene eller foreldrene dekker utgifter knyttet til grunnskoleopplæringen.
 
 Se for øvrig den resterende veilederen for en nærmere beskrivelse av gratisprinsippet.
-
-Til toppen

@@ -54,5 +54,3 @@ Dette omgrepet er no delt i tre ulike omgrep:
 
 **Barn med stort læringspotensial**: Omgrepet «evnerike barn» blir ikkje brukt i regelverket, sjølv om omgrepet blir brukt i tidlegare forarbeid og i rettleiing. I forarbeida til opplæringslova er «barn med stort potensial for læring/stort læringspotensial» brukt i staden.
 
-Til toppen
-

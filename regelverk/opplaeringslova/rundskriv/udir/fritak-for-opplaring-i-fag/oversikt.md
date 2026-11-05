@@ -42,5 +42,3 @@ Dersom det er behov for større eller mindre avvik frå kompetansemåla i LK06 o
 
 Alle avvik frå læreplanane i vedtak om spesialundervisning må vere grunngitte i eleven sitt behov, og gå fram av sakkunnig vurdering og vedtaket. Det betyr at avvik frå LK06 og LK20 berre kan bli grunngitte ut frå faglegpedagogiske årsaker, ikkje ut frå skoleeigar sin økonomi eller manglande kompetanse. Utgangspunktet for vurderinga er kva for opplæringstilbod som vil gi eleven eit forsvarleg utbytte. I denne vurderinga kan eleven sitt behov føre til at det er nødvendig med avvik. Elevar kan ha behov for avvik frå enkelte kompetansemål i eit fag, medan enkelte elevar har behov for avvik frå alle kompetansemåla i eit fag på det aktuelle trinnet. Det er berre unntaksvis aktuelt å frita elevar for opplæring i heile fag.
 
-Til toppen
-

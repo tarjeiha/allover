@@ -286,5 +286,3 @@ Skolen må finne ut hva eleven mener, og legge stor vekt på dette i tråd med e
 I skolemiljøsaker kan hensynet til elevens beste komme i konflikt med andre hensyn, for eksempel hensynet til andre elever eller klassemiljøet. Slike konflikter må skolen løse konkret i hver sak ved å vurdere og balansere de ulike behovene og interessene til elevene.
 
 [Les mer om elevenes rett til å bli hørt og elevenes beste](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/forvaltningsloven/elevenes-rett-til-a-bli-hort-og-elevenes-beste/)
-
-Til toppen

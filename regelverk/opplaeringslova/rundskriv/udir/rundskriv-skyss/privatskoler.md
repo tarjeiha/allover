@@ -13,5 +13,3 @@ Elever i privatskoler godkjent etter privatskoleloven har tilsvarende rett til s
 Statstilskudd og skolepenger kan ikke brukes til å dekke eller administrere skyss etter § 3-7.
 
 Elever i privatskole godkjent etter opplæringsloven 22-1 har ikke rett til skoleskyss.
-
-Til toppen

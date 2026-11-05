@@ -37,5 +37,3 @@ Sikkerhetsgrunner eller uforsvarlig lang reisetid kan likevel føre til at eleve
 Retten til skyss vil ikke gjelde private ordninger som ikke følger av offentlig vedtak.
 
 I tilfeller hvor eleven bor midlertidig utenfor hjemmet må det tas hensyn til at hen er i en vanskelig livssituasjon. Involverte instanser bør av hensyn til elevens beste være fleksible og ha evne til å ta raske avgjørelser.
-
-Til toppen

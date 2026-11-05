@@ -19,5 +19,3 @@ Opplæringen skal bli gitt frem mot en standpunktkarakter. Voksne deltakere har 
 Rett til mer opplæring for elever og de som har læretid i bedrift følger av opplæringsforskriften § 5-2.
 
 [Her kan du lese mer om deres rettigheter](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/retten-til-videregaende-opplaring/rett-til-mer-opplaring/)
-
-Til toppen

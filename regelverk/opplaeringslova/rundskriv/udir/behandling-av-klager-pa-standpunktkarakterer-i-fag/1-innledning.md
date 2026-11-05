@@ -15,5 +15,3 @@ Bestemmelsen om klage på standpunktkarakter i fag for elever står i opplæring
 Tilsvarende regler er fastsatt i privatskoleforskriften §§ 6-16 og 7-4. Informasjonen i denne veilederen gjelder også for elever ved private skoler.
 
 Veilederen inneholder gjennomgående formuleringen «elev» når vi beskriver de ulike stadiene i saksgangen. Veilederen gjelder imidlertid tilsvarende for voksne deltakere.
-
-Til toppen

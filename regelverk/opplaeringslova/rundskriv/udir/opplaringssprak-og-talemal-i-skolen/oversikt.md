@@ -111,5 +111,3 @@ Opplæringsloven § 15-4 stiller krav til skriftspråket i ordlister, ordbøker 
 
 > Kilde: Prop. 57 L (2022–2023) Lov om grunnskoleopplæringa og den vidaregående opplæringa (opplæringslova) punkt 16., 17. og 18.
 
-Til toppen
-

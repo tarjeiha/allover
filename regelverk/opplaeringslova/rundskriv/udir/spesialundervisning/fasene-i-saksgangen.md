@@ -24,5 +24,3 @@ Saksgangen for spesialundervisning kan deles opp i seks faser:
 6. [Evaluering og veien videre](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/spesialundervisning/Fase-6/)
 
 Her får du mer informasjon om hver av de seks fasene.
-
-Til toppen

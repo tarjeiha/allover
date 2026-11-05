@@ -13,5 +13,3 @@ For å få vitnemål for bestått videregående opplæring må eleven ha beståt
 Voksne i videregående opplæring etter opplæringsloven kapittel 18 kan også få godkjent tidligere bestått videregående opplæring i Norge eller utlandet. Dette innebærer at «eleven» i det følgende også vil omfatte voksne i videregående opplæring.
 
 Bestemmelsene omfatter ikke utenlandsopphold som er en del av et norsk opplæringsår mens vedkommende er elev i Norge. Vi minner også om at ingen kan være elev ved en norsk skole samtidig som hen tar et helt opplæringsår i utlandet.
-
-Til toppen

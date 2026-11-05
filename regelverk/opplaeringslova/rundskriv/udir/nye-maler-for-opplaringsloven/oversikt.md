@@ -64,7 +64,7 @@ Malene for lærekontrakter og opplæringskontrakter skal benyttes, jf. opplærin
 
 Her finner du skjema for lære- og opplæringskontrakter. Maler for lærekontrakter og opplæringskontrakter skal benyttes ved inngåelse av slike kontrakter, jf. opplæringsforskriften § 6-1.
 
-[Lærekontrakt – bokmål (pdf)](https://www.udir.no/contentassets/dd88889f1019441db8943591a17e8af1/larekontrakt-bokmal.pdf)   
+[Lærekontrakt – bokmål (pdf)](https://www.udir.no/contentassets/dd88889f1019441db8943591a17e8af1/larekontrakt-bokmal.pdf)  
 [Vedlegg til lærekontrakt – bokmål (pdf)](https://www.udir.no/contentassets/dd88889f1019441db8943591a17e8af1/vedlegg-til-larekontrakt-bokmal.pdf)
 
 [Lærekontrakt – nynorsk (pdf)](https://www.udir.no/contentassets/dd88889f1019441db8943591a17e8af1/larekontrakt-nynorsk.pdf)  
@@ -84,6 +84,4 @@ Her finner du skjema for lære- og opplæringskontrakter. Maler for lærekontrak
 - [videregående opplæring for voksne - bokmål (word)](https://www.udir.no/contentassets/d15a572b12394ba2b49e19313d7091aa/realkompetansevurdering-i-videregaende-opplaring-for-voksne-bokmal.docx)
 
 [Opplæringsloven § 11-8](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/fjerde-del--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-11-tilpassa-opplaring-og-individuell-tilrettelegging/-11-8-kva-den-sakkunnige-vurderinga-skal-innehalde/)gir minstekrav til hva en sakkyndig vurdering skal inneholde. Vi har derfor foreløpig ikke utarbeidet mal for slik vurdering. Veiledning til de enkelte kravene i § 11-8 kan dere finne i [veilederen for tilpasset opplæring og individuell tilrettelegging](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/veileder-for-tilpasset-opplaring-og-individuell-tilrettelegging/).
-
-Til toppen
 

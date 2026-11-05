@@ -58,5 +58,3 @@ Skyssen kan organiseres med offentlig transport, eget busstilbud, drosje, båt m
 Den som er ansvarlig for skyssen avgjør hvilket/hvilke transportmiddel eleven skal benytte. Det avgjørende er hva som vil være forsvarlig for den enkelte elev. Dette gjelder både hvilket transportmiddel som benyttes og hvordan den totale skyssen er satt sammen.
 
 I tillegg til momentene som er listet opp under punkt 5.1, er det også relevant å se på andre omstendigheter i vurderingen av om organiseringen er forsvarlig. Sentrale momenter vil blant annet være reisetiden, inkludert gangtid og ventetid, og hvordan sikkerheten er på reisen og eventuelt i ventetiden. I tillegg skal man legge vekt på andre omstendigheter som påvirker elevens evne til å gjennomføre reisen. Én elev i 5. klasse vil kanskje kunne takle et bussbytte, mens dette kan være uforsvarlig for en annen elev på samme alder.
-
-Til toppen

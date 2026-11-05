@@ -88,5 +88,3 @@ Minoritetsspråklige elever i grunnskolen som starter på opplæringen i Norge i
 
 Elever i grunnskole og videregående opplæring som får opplæringen organisert som innføringsopplæring, har også rett til fritak fra vurdering med karakter i hele perioden de får innføringsopplæring. Det står i opplæringsforskriften § 9-20. Elever i videregående opplæring kan ikke bli fritatt fra standpunktkarakter etter denne bestemmelsen.
 
-Til toppen
-

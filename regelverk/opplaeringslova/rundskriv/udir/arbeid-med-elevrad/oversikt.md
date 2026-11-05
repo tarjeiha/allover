@@ -38,5 +38,3 @@ Elevorganisasjonen har en håndbok i elevrådarbeid. Den gir praktiske råd til 
 
 [Les mer på Elevorganisasjonens nettside](https://elev.no/)
 
-Til toppen
-

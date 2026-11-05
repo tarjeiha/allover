@@ -42,5 +42,3 @@ Her finner du en alfabetisk liste over støttemateriell på regelverket for skol
 
 [Alle artikler og tema](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/artikler-tema/)
 
-Til toppen
-

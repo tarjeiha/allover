@@ -48,10 +48,8 @@ Når opplæringen periodiseres vil fravær over flere dager gjerne innebære at 
 
 ### Trekk til eksamen ved periodisering av fag
 
-Utdanningsdirektoratet skal fastsette dato for når man skal få vite hvem som er trukket til eksamen. Det står i opplæringsforskriften § 9-28. Utdanningsdirektoratet har tre slike datoer. Periodiseringen bør tilpasses disse datoene. Fag som periodiseres på høsten og har eksamen i januar, vil vanligvis høre til trekket som gjøres på høsten.   
+Utdanningsdirektoratet skal fastsette dato for når man skal få vite hvem som er trukket til eksamen. Det står i opplæringsforskriften § 9-28. Utdanningsdirektoratet har tre slike datoer. Periodiseringen bør tilpasses disse datoene. Fag som periodiseres på høsten og har eksamen i januar, vil vanligvis høre til trekket som gjøres på høsten.  
 Hvor mange eksamener elevene skal opp til i videregående opplæring følger av opplæringsforskriften § 9-30 og § 9-31.
 
 På studieforberedende skal ca. 20 prosent av elevene på vg1 opp til eksamen. På yrkesfag skal ca. 20 prosent av elevene trekkes både på vg1 og vg2. Fylkeskommunen må sørge for at trekket fordeler seg jevnt på fag og skoler over tid. Hvis eleven blir trukket til eksamen i et fag som er periodisert første halvår, vil ikke eleven bli trukket opp i dette eller andre fag andre halvår. Hvis eleven ikke blir trukket til eksamen første halvår, vil eleven kunne trekkes i øvrige trekkfag på trinnet andre halvår.
-
-Til toppen
 

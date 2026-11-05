@@ -78,5 +78,3 @@ For å kunne vurdere om artikkel 3 er oppfylt, stiller ein krav til grunngivinga
 - Vi må forklare korleis det beste for barnet er undersøkt, og kva som er innhaldet i vurderinga, det vil seie korleis vi har komme fram til kva som er best for barnet. Her må det også komme fram om og korleis barnet er høyrt.
 - Vi må forklare kva vekt det beste for barnet har fått i avveginga mot andre omsyn, og kvifor eventuelle andre omsyn går føre.
 
-Til toppen
-

@@ -26,5 +26,3 @@ Læreplaner i fag, overordnet del av læreplanverket og rammeplanen for SFO er f
 
 I opplæringsforskriften §§ 23-6 til 23-8 er det fastsatt [overgangsordninger og innføringstakt for modulstrukturert opplæring](https://www.udir.no/laring-og-trivsel/lareplanverket/innforing-og-overgangsordninger-for-nye-lareplaner/#a213039).
 
-Til toppen
-

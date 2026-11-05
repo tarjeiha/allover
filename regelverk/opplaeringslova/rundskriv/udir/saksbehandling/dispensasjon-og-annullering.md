@@ -128,5 +128,3 @@ Vi foretrekker at dere sender inn klagen via vårt elektroniske skjema.
 Hvis vi innvilger søknaden etter at vitnemålet er utstedt, må skolen utstede nytt vitnemål hvis kandidaten har fått dispensasjon. Utdanningsdirektoratet kan ikke utstede vitnemål.
 
 [Vitnemål etter innvilget søknad om dispensasjon og annullering](https://www.udir.no/eksamen-og-prover/vitnemal-og-kompetansebevis/foring-vitnemal-kompetansebevis-vgs-25/12-dispensasjoner-forsok/#12.1-dispensasjoner).
-
-Til toppen

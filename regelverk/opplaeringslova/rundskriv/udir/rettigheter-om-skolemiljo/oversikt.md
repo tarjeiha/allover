@@ -57,8 +57,6 @@ I de fleste tilfeller finner skolen gode løsninger sammen med elevene og foreld
 - [Film om opplæringsloven kapittel 12](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rettigheter-om-skolemiljo/film-om-opplaringsloven-kapittel-12/)
 - [Foredrag om skolemiljø og fysisk inngripen](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/foredragsrekke-opplaringsloven/#a230867)
 
-Til toppen
-
 ## Innhold
 
 - Film om opplæringsloven kapittel 12 – `film-om-opplaringsloven-kapittel-12.md`

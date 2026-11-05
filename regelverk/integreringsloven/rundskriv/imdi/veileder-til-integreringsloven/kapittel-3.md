@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 3.
 
 ## 3.1 Kommunens ansvar etter integreringsloven
@@ -135,10 +133,10 @@ Statsforvalteren har også ansvaret for å føre kontroll med fylkeskommunens op
 - karriereveiledning (§ 11)
 - opplæring i norsk og samfunnskunnskap for personer som går i videregående opplæring etter opplæringslova (§ 30 annet ledd)
 
-Statsforvalterens kontroll med fylkeskommunenes plikter etter §§ 11 og 30   
-bør ses i sammenheng med tilsyn med kommunenes plikt til å gi et helhetlig   
-tilbud for introduksjonsprogrammet, og for å sikre godt samarbeid og tydelig   
-rollefordelingen mellom kommunene og fylkeskommunene, se   
+Statsforvalterens kontroll med fylkeskommunenes plikter etter §§ 11 og 30  
+bør ses i sammenheng med tilsyn med kommunenes plikt til å gi et helhetlig  
+tilbud for introduksjonsprogrammet, og for å sikre godt samarbeid og tydelig  
+rollefordelingen mellom kommunene og fylkeskommunene, se  
 integreringsloven § 50.
 
 Statsforvalteren skal gjennomføre sine tilsyn i tråd med reglene i [kommuneloven kapittel 30.](https://lovdata.no/dokument/NL/lov/2018-06-22-83/KAPITTEL_8-4#KAPITTEL_8-4)
@@ -162,7 +160,6 @@ Statsforvalteren vil også kunne kontrollere om kommunen og fylkeskommunen har f
 #### 3.3.2.4 Statsforvalteren kan gi kommunen og fylkeskommunen pålegg om retting
 
 Hvis statsforvalteren avdekker at kommunen eller fylkeskommunen ikke har overholdt sine lovpålagte plikter, kan statsforvalteren gi pålegg til kommunen eller fylkeskommunen om å rette forholdene. Se [kommuneloven § 30-4](https://lovdata.no/lov/2018-06-22-83/§30-4). Før statsforvalteren treffer et vedtak med pålegg om retting, skal statsforvalteren vurdere virkningene for kommunens eller fylkeskommunens øvrige virksomhet.  
-  
 Kommunen og fylkeskommunen skal varsles før det fattes vedtak med pålegg om retting. Se [kommuneloven § 30-5](https://lovdata.no/lov/2018-06-22-83/§30-5). Kommunen og fylkeskommunen skal blant annet få anledning til å uttale seg og får også andre rettigheter som part i saken. Se [forvaltningslovens](https://lovdata.no/dokument/NL/lov/1967-02-10?q=fvl) regler om enkeltvedtak.
 
 ### 3.3.3 Klage

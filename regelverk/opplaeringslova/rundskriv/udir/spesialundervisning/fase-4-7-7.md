@@ -29,5 +29,3 @@ Et enkeltvedtak kan ikke legges til grunn ved overgangen mellom barnetrinnet og 
 Se likevel punkt om adgangen til å fatte et tidsbegrenset vedtak om spesialundervisning i en overgangsperiode under fase 3 .
 
 For å unngå at dette skaper problemer er det nødvendig med samarbeid mellom de skolene som er involvert i overgangen. Det er viktig at den nye utredningen kommer i gang snarest mulig.
-
-Til toppen

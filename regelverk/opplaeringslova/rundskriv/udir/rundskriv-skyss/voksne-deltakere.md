@@ -23,5 +23,3 @@ Fylkeskommunen er ansvarlig for skyss for deltakere i FOV. Kommunen skal betale 
 Deltakere i den videregående opplæringen for voksne (VOV) har rett til skyss etter reglene i § 9-1 ut det skoleåret som starter det året de fyller 24 år. Dette følger av opplæringsloven § 21-1. Det innebærer at deltakerne har rett til skyss etter reglene om lang skolevei, båttransport og som følge av nedsatt funksjonsevne, skade eller sykdom.
 
 Fylkeskommunen er ansvarlig for skyss for deltakere i VOV. Det står i opplæringsloven § 28-7.
-
-Til toppen

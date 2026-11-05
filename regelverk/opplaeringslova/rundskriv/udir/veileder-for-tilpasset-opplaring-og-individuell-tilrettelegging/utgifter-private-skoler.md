@@ -15,5 +15,3 @@ Plikten til å tilpasse opplæringen etter privatskoleloven § 3-4 b ligger på 
 Kommunen og fylkeskommunen har ansvaret for den individuelle tilretteleggingen for elever på skoler som er godkjent etter privatskoleloven. Dette følger av privatskoleloven § 3-6. De skal derfor fatte vedtak og dekke kostnadene for elever som har behov for individuell tilrettelegging. Skolen kan klage på vedtaket etter forvaltningsloven § 28.
 
 [Les mer: Dekning av utgifter til individuell tilrettelegging i private skoler](https://www.udir.no/regelverkstolkninger/Privatskole/Private-skoler/dekning-av-utgifter-til-individuell-tilrettelegging/)
-
-Til toppen

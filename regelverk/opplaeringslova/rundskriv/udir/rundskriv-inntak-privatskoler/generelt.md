@@ -50,5 +50,3 @@ Skolen har ansvar for at elevene som blir tatt inn både har slik nedsatt funksj
 For skoler godkjent med tilskuddssats for nokså ressurskrevende elever skal den sakkyndige vurderingen fra pedagogisk-psykologisk tjeneste, eller annen kompetent faginstans, dokumentere at eleven både har nedsatt funksjonsevne og lærevansker som er langvarige eller permanente. Vurderingen må anbefale særskilt tilrettelegging på grunn av lærevanskene til eleven.
 
 For skoler godkjent med tilskuddssats for særlig ressurskrevende elever skal den sakkyndige vurderingen fra pedagogisk-psykologisk tjeneste, eller annen kompetent faginstans, dokumentere at eleven både har sterkt nedsatt funksjonsevne og omfattende lærevansker som er langvarige eller permanente. Elevene som blir omfattet av denne satsen må ha et stort behov for oppfølging for å kunne mestre opplæringssituasjonen. I tillegg må det foreligge vedtak om individuell tilrettelegging. På søknadstidspunktet vil et slikt vedtak være gjeldene for den skolen der vedkommende er elev.
-
-Til toppen

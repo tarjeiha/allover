@@ -35,5 +35,3 @@ Dersom opplæringen i grunnskolen kun har omfattet deler av læreplanen for fage
 Avvik fra kompetansemål og fritak fra vurdering har konsekvenser for elevens videre utdannings- og yrkeskarriere. Skolen har en plikt til å gi foreldrene og elevene i grunnskolen nødvendig veiledning om konsekvensene av å velge bort kompetansemål og vurdering med karakter for eleven.
 
 Les mer om dette i [kapittel om vurderingspraksis](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/spesialundervisning/Tilpasset-opplaring/1.5/).
-
-Til toppen

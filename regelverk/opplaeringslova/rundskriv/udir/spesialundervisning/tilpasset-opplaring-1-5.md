@@ -86,5 +86,3 @@ Dersom opplæringen i grunnskolen kun har omfattet deler av læreplanen for fage
 Reglene om vurdering for elever med enkeltvedtak om spesialundervisning finnes i forskrift til opplæringsloven §§ 3-3, 3-17 siste ledd, 3-18, 3-20, 3-22 annet ledd, 3-45 og 3-46. For lærlinger og lærekandidater er også §§ 3-44, 3-51 og 3-67 relevante.
 
 *1) Unntak: Ved delvis fritak for opplæringsplikten etter opplæringsloven § 2-1 fjerde ledd og deltidselever i videregående opplæring.*
-
-Til toppen

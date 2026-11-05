@@ -35,5 +35,3 @@ En IOP kan ikke fastsette noe som ikke er innenfor rammene av enkeltvedtaket
 Dersom det for eksempel ikke går frem av enkeltvedtaket at eleven skal ha avvik fra Læreplanverket for Kunnskapsløftet, kan ikke dette fastsettes i IOP.
 
 Vi fraråder at IOP-en gjøres til en del av enkeltvedtaket. Hvis skolen velger å gjøre dette, gjelder saksbehandlingsreglene om enkeltvedtak også for en IOP. En endring i IOP skal følge saksbehandlingsreglene for enkeltvedtak og foreldrene/eleven vil ha klagerett.
-
-Til toppen

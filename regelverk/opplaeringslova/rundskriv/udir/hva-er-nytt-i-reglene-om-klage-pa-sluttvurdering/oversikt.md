@@ -51,5 +51,3 @@ Konsekvensen av denne hovedregelen, er at flere regler som gjelder for klagebeha
 
 Tilsvarende endringer gjelder klage på sluttvurderinger for voksne deltakere og for elever i private skoler. Disse reglene fremgår av opplæringsforskriften kapittel 16 for voksne, og av privatskoleforskriften kapittel 7 for elever i private skoler.
 
-Til toppen
-

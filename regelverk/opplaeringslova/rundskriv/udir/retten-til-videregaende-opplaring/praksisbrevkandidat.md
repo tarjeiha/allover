@@ -71,5 +71,3 @@ Kandidaten får praksisbrev når hen har fullført læretiden, bestått alle rel
 Etter praksisbrevprøven kan kandidatene fortsette opplæringen frem mot fag- eller svennebrev. Det følger av opplæringsloven § 5-1 andre ledd.
 
 Det er også adgang til å endre opplæringskontrakten underveis i læretiden til en lærekontrakt med fag- eller svennebrev som mål. Det følger av opplæringsloven § 7-2 andre ledd.
-
-Til toppen

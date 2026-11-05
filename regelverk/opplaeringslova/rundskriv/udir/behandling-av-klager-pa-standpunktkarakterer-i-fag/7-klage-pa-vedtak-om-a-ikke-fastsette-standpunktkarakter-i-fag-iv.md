@@ -25,5 +25,3 @@ Skolen skal redegjøre for at saksbehandlingen har vært korrekt. Det vil si at 
 Statsforvalteren skal vurdere om reglene i opplæringsforskriften ble fulgt da vedtak om IV ble fattet. Det vil si at det er gitt varsel om vedtaket og at faglærers begrunnelse enten viser til at det ikke foreligger tilstrekkelig grunnlag for vurdering, eller at fraværsgrensen er overskredet.
 
 Dersom fraværsgrensen er overskredet, skal ikke statsforvalteren vurdere rektors bruk av skjønn for fravær mellom 10 og 15 prosent.
-
-Til toppen

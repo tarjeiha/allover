@@ -38,5 +38,3 @@ Hvis en elev ved et uhell ødelegger eksempelvis et nettbrett eller en lærebok,
 Foreldre kan også bli erstatningsansvarlige. Dette gjelder i tilfeller der skaden har skjedd som følge av at foreldrene ikke har passet på barnet sitt, eller ikke har gjort det som er rimelig å forvente for å forhindre at skaden skjer.
 
 Mange skoler bruker en forhåndsbestemt egenandel ved skade på læremidler eller utstyr. En slik egenandel er også å regne som erstatning. Dersom barnet ikke er erstatningsansvarlig, skal derfor ikke barnet eller foreldrene betale egenandelen. Erstatningsansvar er regulert i skadeserstatningsloven.
-
-Til toppen

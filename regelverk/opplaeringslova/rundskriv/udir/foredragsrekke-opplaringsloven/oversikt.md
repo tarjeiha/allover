@@ -20,27 +20,27 @@ Her kan du velge å se en eller flere foredrag, avhengig av hva du ønsker å he
 
 ### 1. Hvorfor er skolen styrt av juss og hvordan har den rettslige reguleringen utviklet seg?
 
-Dette foredraget viser til hvorfor skolen reguleres av juss og bruker retten til forsvarlig opplæring, skolemiljø og folkerettens inntog som eksempler på hvordan den rettslige reguleringen har utviklet seg.   
+Dette foredraget viser til hvorfor skolen reguleres av juss og bruker retten til forsvarlig opplæring, skolemiljø og folkerettens inntog som eksempler på hvordan den rettslige reguleringen har utviklet seg.  
 Foredragets lengde: ca. 48 minutter.
 
 ### 2. Hvorfor regulerer man som man gjør, og hvorfor har man skjønnsmessige regler?
 
-Dette foredraget gir en overordnet introduksjon til rettssystemet, ulike dilemmaer med rettslig regulering og hvorfor noen regler er skjønnsmessige (lovanvenderperspektivet)   
+Dette foredraget gir en overordnet introduksjon til rettssystemet, ulike dilemmaer med rettslig regulering og hvorfor noen regler er skjønnsmessige (lovanvenderperspektivet)  
 Foredragets lengde: ca. 22 minutter.
 
 ### 3. Hvilke rammer setter jussen for skjønnet?
 
-Dette foredraget viser til rammene jussen setter for skjønnsutøvelsen og hva som kan overprøves av domstoler eller tilsyn (rettsanvenderperspektivet).   
+Dette foredraget viser til rammene jussen setter for skjønnsutøvelsen og hva som kan overprøves av domstoler eller tilsyn (rettsanvenderperspektivet).  
 Foredragets lengde: ca. 28 minutter.
 
 ### 4. Hvilke vurderinger skal en lærer basere sitt faglige skjønn på?
 
-Dette foredraget viser til hva en rektor eller lærer e.l. skal basere sitt skjønn og sine faglige vurderinger på, og omtaler forskjellen på juridiske, etiske og faglige vurderinger (profesjonsanvendelsesperspektivet).   
+Dette foredraget viser til hva en rektor eller lærer e.l. skal basere sitt skjønn og sine faglige vurderinger på, og omtaler forskjellen på juridiske, etiske og faglige vurderinger (profesjonsanvendelsesperspektivet).  
 Foredragets lengde: ca. 27 minutter.
 
 ### 5. Hvilke verdier og funksjoner bygger rettssystemet på og hvordan bruker man loven?
 
-Dette foredraget gir en innføring i funksjonene i vårt rettssystem og hvilke verdier systemet bygger på. Det gir også en innføring i regelverksstrukturen på opplæringsområdet og hvordan man bruker loven.   
+Dette foredraget gir en innføring i funksjonene i vårt rettssystem og hvilke verdier systemet bygger på. Det gir også en innføring i regelverksstrukturen på opplæringsområdet og hvordan man bruker loven.  
 Foredragets lengde: ca. 29 minutter.
 
 ## Om skoledemokrati og elevmedvirkning
@@ -85,13 +85,11 @@ Foredragets lengde: ca. 16 minutter.
 
 ### 5. Hva sier opplæringsloven kap. 13 om ordenstiltak, forebygging og fysisk inngripen?
 
-Dette foredraget går nærmere gjennom og forklarer bestemmelsene i opplæringsloven kapittel 13, som gjelder bortvisning, pålagt skolebytte og de tre bestemmelsene som gjelder forebygging, fysisk inngripen og meldeplikt og dokumentasjon.   
+Dette foredraget går nærmere gjennom og forklarer bestemmelsene i opplæringsloven kapittel 13, som gjelder bortvisning, pålagt skolebytte og de tre bestemmelsene som gjelder forebygging, fysisk inngripen og meldeplikt og dokumentasjon.  
 Foredragets lengde: ca. 25 minutter.
 
 ### 6. Hva er de nærmere vilkårene for fysisk inngripen?
 
-Dette foredraget går i detalj gjennom opplæringsloven § 13-4 som gir hjemmel for når en ansatt i skolen, leksehjelp og SFO kan gripe inn fysisk mot en elev. I foredraget blir vilkårene forklart, og det blir gitt eksempler fra relevant rettspraksis. Det er også en gjennomgang av § 13-5 som regulerer meldeplikt og dokumentasjonskrav når en ansatt har brukt fysisk inngrep mot en elev.   
+Dette foredraget går i detalj gjennom opplæringsloven § 13-4 som gir hjemmel for når en ansatt i skolen, leksehjelp og SFO kan gripe inn fysisk mot en elev. I foredraget blir vilkårene forklart, og det blir gitt eksempler fra relevant rettspraksis. Det er også en gjennomgang av § 13-5 som regulerer meldeplikt og dokumentasjonskrav når en ansatt har brukt fysisk inngrep mot en elev.  
 Foredragets lengde: ca. 29 minutter.
-
-Til toppen
 

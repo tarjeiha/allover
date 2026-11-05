@@ -23,5 +23,3 @@ Det skal hentes inn samtykke fra foreldrene/eleven før det blir truffet enkeltv
 ### Enkeltvedtak også ved avslag
 
 Kommer skolen frem til at eleven ikke har behov for spesialundervisning, skal det treffes et enkeltvedtak om dette også. Det er viktig for foreldrene/elevens rett til å klage på enkeltvedtaket.
-
-Til toppen

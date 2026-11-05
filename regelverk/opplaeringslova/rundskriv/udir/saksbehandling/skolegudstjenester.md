@@ -51,5 +51,3 @@ Eksempler på alternative tilbud er temadag, lesestund, sangstund, lysfest eller
 [Sak i Stortinget våren 2018, ref. Dokument 8: 63 S (2017–2018) og Innst. 192 S. (2017–2018).](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=70160)
 
 [Innst. 442 L (2022-2023) - stortinget.no](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2022-2023/inns-202223-442l?all=true)
-
-Til toppen

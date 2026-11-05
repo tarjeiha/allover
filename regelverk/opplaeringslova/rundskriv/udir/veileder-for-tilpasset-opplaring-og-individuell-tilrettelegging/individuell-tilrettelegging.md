@@ -171,5 +171,3 @@ Noen elever har behov for helsehjelp for å kunne være på skolen og delta i op
 Skolen og helsetjenesten må samarbeide med hverandre og andre tjenesteytere som barneverntjenesten, habiliteringstjenesten, BUP og NAV hvis det er nødvendig for å gi eleven et helhetlig og samordnet tjenestetilbud. Hvis eleven har en [individuell plan](https://www.helsenorge.no/rettigheter/individuell-plan/)skal skolen være med på å utarbeide og følge opp tiltak og mål i denne planen. Dette står i opplæringsloven § 24-1.
 
 [Les mer: Samarbeid om tjenester til barn og unge og deres familier (Helsedirektoratet)](https://www.helsedirektoratet.no/veiledere/samarbeid-om-tjenester-til-barn-unge-og-deres-familier)
-
-Til toppen

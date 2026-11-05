@@ -312,5 +312,3 @@ Kommunen og fylkeskommunen er ansvarlige for at skolen har ansatte med riktig og
 
 Videreutdanning for lærere skal bidra til god faglig og pedagogisk kvalitet i grunnopplæringen for å styrke elevenes læring.
 
-Til toppen
-

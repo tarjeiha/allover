@@ -18,5 +18,3 @@ Hvilken ADL-trening den enkelte eleven trenger, kan variere. Kommunen må gjøre
 
 ADL-trening bør legges inn som en integrert del av skolehverdagen og i størst mulig grad være en naturlig del av den vanlige opplæringen.
 
-Til toppen
-

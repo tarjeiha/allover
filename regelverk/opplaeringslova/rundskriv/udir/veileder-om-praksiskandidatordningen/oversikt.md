@@ -121,5 +121,3 @@ Praksiskandidater kan få vitnemål med yrkeskompetanse etter [opplæringsforskr
 
 Det er fylkeskommunen som er ansvarlig for å skrive ut fag- eller svennebrev, kompetansebevis og vitnemål til praksiskandidater. Dette står i [opplæringsforskriften § 9-54](https://www.udir.no/regelverkstolkninger/opplaring/forskrift-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringsforskrifta/tredje-delen--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-9-individuell-vurdering/vii.-dokumentasjon-i-vidaregaande-opplaring/-9-54-ansvar-for-a-utferde-vitnemal-fag--og-sveinebrev-praksisbrev-og-kompetansebevis-i-vidaregaande-opplaring/).
 
-Til toppen
-

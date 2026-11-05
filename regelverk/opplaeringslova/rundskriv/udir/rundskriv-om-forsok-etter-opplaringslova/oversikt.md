@@ -61,5 +61,3 @@ Følgjande informasjon må gå fram av søknaden
 - beskriving av eventuelle samarbeidspartnarar og rettleiingsressursar
 - plan for evaluering av forsøket (skolebasert, kommunebasert og/eller eksternt basert)
 
-Til toppen
-

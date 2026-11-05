@@ -25,5 +25,3 @@ Pålagt skolebytte for elever i videregående opplæring forutsetter også at re
 ### Regelverket
 
 - [Opplæringsloven § 13-2](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/fjerde-del--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-13-ordenstiltak-og-skadeforebygging-m.m/-13-2-palagt-skolebyte/)
-
-Til toppen

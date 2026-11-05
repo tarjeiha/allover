@@ -86,5 +86,3 @@ Samarbeidsorgan for lærebedrifter må rapportere til fylkeskommunen om hvilke l
 
 Det er ikke gitt begrensninger i forskriften på godkjenningens lengde. Fylkeskommunen kan trekke tilbake godkjenningen dersom samarbeidsorganet ikke lenger fyller vilkårene i forskriften. Dette står i opplæringsforskriften § 6-19.
 
-Til toppen
-

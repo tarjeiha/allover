@@ -81,5 +81,3 @@ For å kunne følge med på utviklingen er det derfor viktig at regelverket føl
 ### Kilde
 
 [Prop. 57 L (2022–2023) Lov om grunnskoleopplæringa og den vidaregående opplæringa (opplæringslova), punkt 40.2.4.2](https://www.regjeringen.no/no/dokumenter/prop.-57-l-20222023/id2967679/?ch=40#kap40-2-4-4)
-
-Til toppen

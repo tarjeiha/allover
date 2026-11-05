@@ -11,5 +11,3 @@ lagt_inn: "2026-11-05"
 1. august 2026:
 
 Elevar på 1. til 3. trinn har no ein lovfesta rett til 12 timar gratis skolefritidsordning (SFO) i veka. Rundskrivet er oppdatert i tråd med endringa.
-
-Til toppen

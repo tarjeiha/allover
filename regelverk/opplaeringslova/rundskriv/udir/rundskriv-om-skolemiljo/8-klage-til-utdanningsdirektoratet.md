@@ -17,5 +17,3 @@ Eleven og foreldrene skal sende klagen til statsforvalteren, som vurderer saken 
 Fristen for å klage på statsforvalterens enkeltvedtak er tre uker1 fra eleven og foreldrene mottok enkeltvedtaket. Når eleven og foreldrene klager, må det komme frem hva de klager på, og hvilken endring de ønsker. Klagen bør være begrunnet.2 Klagen bør være skriftlig og statsforvalteren kan eventuelt hjelpe til med å utforme klagen hvis det er behov for det.
 
 Hvis tiltakene som skolen har satt inn ikke fungerer og skolen og skoleeier ikke evaluerer, justerer og setter inn nye tiltak, har eleven og foreldrene mulighet til å melde saken til statsforvalteren på nytt. Det samme gjelder hvis eleven igjen opplever å ikke ha et trygt og godt skolemiljø.
-
-Til toppen

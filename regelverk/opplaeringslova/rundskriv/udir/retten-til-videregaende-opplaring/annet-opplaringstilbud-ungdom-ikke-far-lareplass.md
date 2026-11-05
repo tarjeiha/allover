@@ -57,5 +57,3 @@ For avviksfag som etter tilbudsstrukturen har to år med opplæring i skole før
 Elever som ønsker å bli lærling i et særløpsfag har ikke gjennomført et programområde på videregående trinn 2. De har derfor ikke rett til annet opplæringstilbud etter § 5-6.
 
 Søkere som ikke får tilbud om læreplass i et særløpsfag, må derfor søke seg til videregående trinn 2 på samme vilkår som andre elever.
-
-Til toppen

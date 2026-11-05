@@ -52,5 +52,3 @@ Skolen skal for det andre bekrefte at faglærers begrunnelse oppfyller kravene t
 Skolen skal for det tredje vise til at de har gitt eleven en generell veiledning/gjennomgang av kompetansemålene i læreplanen som typisk gjøres tidlig i skoleåret.
 
 Som hovedregel skal skolens uttalelse skrives av rektor som øverste ansvarlige på skolen. At opplæringsforskriften § 9-16 bruker ordet «skolen» fremfor «rektor», betyr imidlertid at rektor har adgang til å delegere oppgaven med å skrive uttalelsen til andre på skolen, eksempelvis til avdelingsleder eller andre i skolens ledelse, hvis det er behov for det.
-
-Til toppen

@@ -24,5 +24,3 @@ Veilederen har hovedvekt på målgruppene barn, unge og deres familier.
 
 Utdanningsdirektoratet, Barne-, ungdoms- og familiedirektoratet, Arbeids- og velferdsdirektoratet og Helsedirektoratet har hatt felles oppdrag om å utarbeide veilederen.
 
-Til toppen
-

@@ -41,5 +41,3 @@ Følgende karakterer skal føres på førstegangsvitnemålet:
 5. Karakterer som er forbedret som privatist innenfor utløpet av «normal tid». Det inkluderer ikke året som brukes til verdiskapning i bedrift. Dette er relevant for dem som går yrkesfaglige utdanningsprogram og deretter tar påbygg til generell studiekompetanse, innenfor fristen på fem år.
 
 Hovedregelen er at førstegangsvitnemål skrives ut én gang per elev som har rett til det. Dette kan det gjøres unntak fra når eleven har fått nye eller endrede karakterer på grunn av årsakene i punkt 3-5 ovenfor, eller dersom en eller flere karakterer har blitt annullert.
-
-Til toppen

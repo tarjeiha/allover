@@ -40,5 +40,3 @@ Opplæringstilbud som gis på en alternativ opplæringsarena skal være i samsva
 Opplæringen som skjer på en alternativ opplæringsarena er skolens ansvar. Opplæringen skal være sikkerhetsmessig forsvarlig, i dette ligger også at eleven må være undergitt skoleeiers tilsyn.
 
 Les mer om alternative opplæringsarenaer i rundskriv Udir-3-2010.
-
-Til toppen

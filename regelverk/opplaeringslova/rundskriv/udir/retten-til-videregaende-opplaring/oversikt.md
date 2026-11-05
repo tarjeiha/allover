@@ -53,8 +53,6 @@ Vi har laget en side du kan bruke når du skal snakke med ungdom eller voksne so
 - [Mer grunnskoleopplæring](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/retten-til-videregaende-opplaring/mer-grunnskoleopplaring/)
 - [Rådgivning for lærlinger og voksne](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/retten-til-videregaende-opplaring/radgivning-for-larlinger-og-voksne/)
 
-Til toppen
-
 ## Innhold
 
 - Rett til annet opplæringstilbud for ungdom som ikke får tilbud om læreplass – `annet-opplaringstilbud-ungdom-ikke-far-lareplass.md`
@@ -70,8 +68,6 @@ Til toppen
 - Tilbud i overgangen til videregående opplæring – `overgangstilbud.md`
 - Praksisbrevkandidat – `praksisbrevkandidat.md`
 - Rådgivning for lærlinger og voksne – `radgivning-for-larlinger-og-voksne.md`
-- Rett til mer opplæring – `rett-til-mer-opplaring.md`
-- Rett til mer opplæring for voksne – `rett-til-mer-opplaring-for-voksne.md`
 - 1. Mer opplæring når fag ikke er bestått – `rett-til-mer-opplaring-for-voksne-1-mer-opplaring-nar-fag-ikke-er-bestatt.md`
 - 4. Egne regler om vurdering – `rett-til-mer-opplaring-for-voksne-egne-regler-om-vurdering.md`
 - 2. Mer opplæring når fag- eller svenneprøven ikke er bestått – `rett-til-mer-opplaring-for-voksne-mer-opplaring-nar-fag-eller-svenneproven-ikke-er-bestatt.md`

@@ -10,16 +10,13 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 1.
 
 ## 1.2 Hvordan bruke veilederen
 
 Veilederen viser hvordan forvaltningen forstår integreringsloven og integreringsforskriften. Dette kalles forvaltningspraksis og er en type rettskilde. Rettskilder er kilder for hvordan en rettsregel skal forstås.
 
-Hvis det står noe annet i loven, forskriften eller forarbeidene enn det som står i denne veilederen, så går loven, forskriften og forarbeidene foran veilederen.   
-  
+Hvis det står noe annet i loven, forskriften eller forarbeidene enn det som står i denne veilederen, så går loven, forskriften og forarbeidene foran veilederen.  
 "Forarbeider" er alle dokumenter som har blitt utarbeidet før en lov ble vedtatt. Forarbeidene gir dermed informasjon om hele lovgivningsprosessen, fra lovutkastet ble sendt på høring, frem til det endelige lovforslaget ble vedtatt av de folkevalgte på Stortinget.
 
 ## 1.3 Hva vil du ikke finne svar på i denne veilederen

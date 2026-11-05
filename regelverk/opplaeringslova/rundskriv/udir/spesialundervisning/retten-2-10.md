@@ -82,5 +82,3 @@ Det er fylkeskommunen som etter opplæringsloven har plikt til å oppfylle rette
 Fylkeskommunen må utarbeide IOP i samarbeid med bedriften. I planen skal eleven så langt som mulig ha de samme faglige kravene som læreplanen for faget. Utvalget av mål må ta utgangspunkt i læreplanen, i lærekandidatens ønske om hva opplæringen skal føre frem til og på lærekandidatens faglige nivå. IOP skal utarbeides ut fra en realistisk vurdering av lærekandidatens muligheter og ikke ut fra bedriftens behov. Planen må kunne endres underveis.
 
 Lærekandidater som ikke oppfyller vilkårene for spesialundervisning, skal ha tilpasset opplæring., jf. opplæringsloven § 1-3.
-
-Til toppen

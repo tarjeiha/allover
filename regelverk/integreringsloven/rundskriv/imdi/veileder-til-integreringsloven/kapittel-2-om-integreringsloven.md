@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 2.
 
 ## 2.1 Om loven
@@ -32,13 +30,13 @@ Dette betyr blant annet at kravet om 15 timers arbeidsrettet innhold i introduks
 
 Det samme gjelder for bestemmelsen om at kommunen kan avslå introduksjonsprogram for personer som er i arbeid eller har tilbud om arbeid, men at deltaker har rett og plikt til introduksjonsprogram dersom arbeidsforholdet opphører eller arbeidstilbudet bortfaller. Se integreringsloven § 8 fjerde ledd.
 
-Det samme gjelder også for endringene som gjøres i integreringsloven   
+Det samme gjelder også for endringene som gjøres i integreringsloven  
 § 37 c om introduksjonsprogram for personer med kollektiv beskyttelse. Dette betyr at rett og plikt til introduksjonsprogram etter de alminnelige bestemmelsene, og unntaket for opplæring i samfunnskunnskap for personer med kollektiv beskyttelse, gjelder for personer som får innvilget midlertidig kollektiv beskyttelse etter 1. januar 2026.
 
 #### 2.1.1.2 Særskilte overgangsregler
 
-*Varighet av introduksjonsprogrammet for deltagere med utdanning på videregående nivå eller høyere*   
-***Overgangsregel:*** [integreringsforskriften § 75](https://lovdata.no/forskrift/2020-12-15-2912/§75).   
+*Varighet av introduksjonsprogrammet for deltagere med utdanning på videregående nivå eller høyere*  
+***Overgangsregel:*** [integreringsforskriften § 75](https://lovdata.no/forskrift/2020-12-15-2912/§75).  
 - De nye reglene for varighet av introduksjonsprogrammet gjelder for de som har fått tilbud om oppstart etter 1. januar 2026
 
 *Varighet av introduksjonsprogram for deltagere som ikke har utdanning på videregående nivå eller høyere **Overgangsregel:*** [integreringsforskriften § 76](https://lovdata.no/forskrift/2020-12-15-2912/§76).  

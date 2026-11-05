@@ -292,5 +292,3 @@ Kommunen og fylkeskommunen kan ikke fatte vedtak der timer med individuelt tilre
 Oppgaven med å hjelpe til i opplæringen, kan grense mot den individuelle retten til personlig assistanse.
 
 Hvilken type assistanse som faller inn under skolens generelle plikt til å tilpasse opplæringen, og når hjelpen er å anse som en individuell rett til personlig assistanse, må skolen, kommunen og fylkeskommunen vurdere konkret.
-
-Til toppen

@@ -133,5 +133,3 @@ I utredningen bør det ses nærmere på følgende:
 - Hvordan skal elevens læringsutbytte **evalueres?**
 
 En utredning av hva slags opplæringstilbud en elev skal ha for at tilbudet skal være forsvarlig, må belyse elevens opplæringssituasjon så utfyllende som mulig.
-
-Til toppen

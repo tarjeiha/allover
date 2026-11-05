@@ -15,5 +15,3 @@ Vannmerke
 Opplæringsloven regulerer ikke eksplisitt hvor lenge en sakkyndig vurdering er gyldig, men det må innfortolkes at den sakkyndige vurderingen skal kunne gi skolen et forsvarlig beslutningsgrunnlag. Det bør derfor komme tydelig fram i den sakkyndige vurderingen hvor lang periode PP- tjenesten vurderer at den gjelder for. Hvis den sakkyndige vurderingen er grundig og elevens behov er mer eller mindre uendret kan det tenkes at en sakkyndig vurdering kan gjelde for mer enn ett opplæringsår.
 
 Etter at den sakkyndige vurderingen er gjort, vil ofte senere sakkyndige vurderinger kunne gjøres på grunnlag av denne sakkyndige vurderingen, elevens individuelle opplæringsplan, årsrapportene og annet materiell som dokumenterer elevens behov og utvikling.
-
-Til toppen

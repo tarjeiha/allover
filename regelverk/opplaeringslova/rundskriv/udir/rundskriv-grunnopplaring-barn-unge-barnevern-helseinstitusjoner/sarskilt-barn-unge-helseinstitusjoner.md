@@ -55,5 +55,3 @@ Opplæring som gis i institusjon, er en del av den ordinære opplæringen, og sk
 ## Fritak fra opplæringsplikten i grunnskolen
 
 Kommunen eller fylkeskommunen har adgang til å frita elever fra hele eller deler av grunnskoleopplæringen når hensynet til elevene tilsier det. Dette står i opplæringsloven § 2-2. Fritak fra opplæringsplikten forutsetter en søknad fra foreldrene eller at de samtykker. Terskelen for fritak er høy, og er først og fremst aktuell der gjennomføringen av opplæringsplikten vil virke urimelig overfor eleven fordi eleven er alvorlig syk eller har betydelig funksjonsnedsettelse og ikke er i stand til å få opplæring i hjemmet eller i en helseinstitusjon. Det må foreligge en sakkyndig vurdering fra PP-tjenesten og kommunen/fylkeskommunen må fatte et enkeltvedtak. Elever som blir fritatt for grunnskoleopplæring mister ikke retten til opplæringen de har fått fritak fra, og kan få opplæringen på et senere tidspunkt.
-
-Til toppen

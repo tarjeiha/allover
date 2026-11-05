@@ -15,5 +15,3 @@ Fylkeskommunene kan tilby opplæring på videregående nivå også til voksne so
 Kombinert opplæring på forberedende og videregående nivå vil typisk kunne være aktuelt der deltakeren har realkompetanse innenfor et yrkesfag, men ellers mangler en del opplæring på grunnskolenivå. Det kan også være aktuelt dersom deltakeren bare mangler opplæring i noen fag på grunnskolenivå og ellers er i stand til å følge fag på videregående nivå.
 
 Fylkeskommunene kan ikke utferdige dokumentasjon på studie- eller yrkeskompetanse før også den forberedende opplæringen er fullført.
-
-Til toppen

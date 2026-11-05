@@ -67,5 +67,3 @@ Skolen eller lærarane har ikkje heimel til å utføre etterforskande tiltak. Ve
 Tilsette i skolen, leksehjelpa eller SFO kan ikkje bruke tvang og makt med mindre det er for å gripe inn mot ein elev for å hindre at eleven krenkjer ein person fysisk eller psykisk, skader eigedom, utset seg sjølv for fysisk fare, viser ei åtferd som er sterkt fornedrande for seg sjølv, eller vesentleg forstyrrar opplæringa til andre elevar.7 Dette kan tilsette berre gjere når andre tiltak ikkje er tilstrekkelege.
 
 [Les meir om å gripe inn fysisk mot elever for å avverge skade](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/gripe-inn-fysisk-mot-elever-for-a-avverge-skade/)
-
-Til toppen

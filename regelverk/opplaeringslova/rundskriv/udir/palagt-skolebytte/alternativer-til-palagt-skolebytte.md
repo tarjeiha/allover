@@ -21,5 +21,3 @@ Konsekvensen av bortvisning kan være mer alvorlig for eleven enn et pålagt sko
 ### Regelverket
 
 - [Opplæringsloven § 13-1](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/fjerde-del--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-13-ordenstiltak-og-skadeforebygging-m.m/-13-2-palagt-skolebyte/)
-
-Til toppen

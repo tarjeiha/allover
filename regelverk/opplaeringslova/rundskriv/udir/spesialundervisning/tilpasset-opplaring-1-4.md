@@ -19,5 +19,3 @@ Dette gir et stort lokalt handlingsrom for den enkelte skoleeier. Opplæringen s
 Læreplanverket gjelder i utgangspunktet også for spesialundervisningen. Det skal være sammenheng mellom de individuelle opplæringsplanene og andre lokale læreplaner.
 
 [Les mer om læreplanverket](https://www.udir.no/laring-og-trivsel/lareplanverket/)
-
-Til toppen

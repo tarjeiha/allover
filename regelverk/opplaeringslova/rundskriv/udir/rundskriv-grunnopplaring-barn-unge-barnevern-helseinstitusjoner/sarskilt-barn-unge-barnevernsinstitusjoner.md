@@ -33,5 +33,3 @@ Kravene til kompetanse for de som skal gjennomføre opplæringen, gjelder også 
 ## Melderutiner og samarbeid mellom barnevern og skole
 
 Barne-, ungdoms- og familiedirektoratet (Bufdir) har en veileder om samarbeid mellom skole og barnevern. Bufdir har også melderutiner[1] for å sikre skole- og opplæringstilbud for barn og unge som plasseres utenfor hjemmet med hjemmel i barnevernloven. Formålet med melderutinene er å bidra til at barn og unge som plasseres utenfor hjemmet får et godt og tilpasset skoletilbud så raskt som mulig. Melderutinene skal sikre at det sendes melding til rett skolemyndighet om at et barn har flyttet. Rutinene tydeliggjør hvem som skal sende melding, hva meldingen skal inneholde, når meldingen skal sendes og hvem den skal sendes til.
-
-Til toppen

@@ -34,5 +34,3 @@ Det er som hovedregel kommunen som skal oppfylle retten til forberedende opplær
 
 Hvis deltakeren har rett til opplæring etter § 18-2, må kommunen videre vurdere om deltakeren har behov for opplæring for å kunne utvikle eller holde ved like grunnleggende ferdigheter. I denne sammenhengen omfatter grunnleggende ferdigheter også for eksempel ADL-trening. Da må deltakeren ha vedtak om individuell tilrettelegging.6
 
-Til toppen
-

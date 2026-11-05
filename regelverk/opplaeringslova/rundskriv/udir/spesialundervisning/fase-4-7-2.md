@@ -87,5 +87,3 @@ Enkeltvedtaket må inneholde informasjon om det er behov for personer med særsk
 Dersom skolen mener det er nødvendig og forsvarlig med en viss fleksibilitet ved opplæringen, må det gå klart frem av enkeltvedtaket hva fleksibiliteten består i.
 
 Det konkrete innholdet i spesialundervisningen kommer frem av den enkelte individuelle opplæringsplanen (IOP). IOP kan gjøres til en del av enkeltvedtaket. Utdanningsdirektoratet anbefaler ikke denne løsningen.
-
-Til toppen

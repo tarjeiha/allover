@@ -71,5 +71,3 @@ Du har ikke rett til å få mer opplæring ved en privatskole, men privatskolen 
 Det er fylkeskommunen der du bor som har ansvar for å oppfylle retten til videregående opplæring for både elever og voksne. Det er også de du skal kontakte hvis du har spørsmål.
 
 Statsforvalteren har ansvar for å veilede om regelverket.
-
-Til toppen

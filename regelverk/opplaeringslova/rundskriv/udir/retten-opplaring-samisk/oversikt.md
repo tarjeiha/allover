@@ -147,5 +147,3 @@ Det finnes flere tilskuddsordninger knyttet til samisk opplæring:
 - [Grunnlaget for samepolitikken (Kommunal- og distriktsdepartementet)](https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/samepolitikk/id1403/)
 - [«Hjertespråket», offentlig utredning om samiske språk (2016)](https://www.regjeringen.no/no/dokumenter/nou-2016-18/id2515222/)
 
-Til toppen
-

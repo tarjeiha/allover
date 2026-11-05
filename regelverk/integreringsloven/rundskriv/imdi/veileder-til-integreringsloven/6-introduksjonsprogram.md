@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 6.
 
 ## 6.1 Om introduksjonsprogram
@@ -45,7 +43,7 @@ Integreringsloven åpner også for at kommunene kan tilby introduksjonsprogram t
 
 ### 6.2.1 Hvem har rett og plikt?
 
-Reglene om målgruppen for introduksjonsprogram finner du i integreringsloven [§ 8](https://lovdata.no/lov/2020-11-06-127/%C2%A78).   
+Reglene om målgruppen for introduksjonsprogram finner du i integreringsloven [§ 8](https://lovdata.no/lov/2020-11-06-127/%C2%A78).  
 Det er flere kriterier som må være oppfylt for at en person skal ha rett og plikt til introduksjonsprogram. Alle vilkårene må være oppfylt samtidig på tidspunktet for vedtak etter integreringsloven [§ 12](https://lovdata.no/dokument/NL/lov/2020-11-06-127/%C2%A712#%C2%A712). Hvem som har rett og plikt bestemmes av:
 
 - type oppholdstillatelse

@@ -53,5 +53,3 @@ Lærlinger går opp til fag- eller svenneprøven mot slutten av læretiden.
 ## Dokumentasjon
 
 Lærlingen får fag- eller svennebrev når hen har fullført læretiden, bestått alle relevante fag og eksamener, og bestått fag- eller svenneprøven. Det følger av opplæringsforskriften § 9-55 og § 9-48. Kandidaten får samtidig vitnemål. Det følger av opplæringsforskriften § 9-46.
-
-Til toppen

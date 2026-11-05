@@ -39,5 +39,3 @@ Hovedregelen er at opplæring skal bli gjennomført fysisk på skolen. Opplærin
 Det innebærer at deler av opplæringen kan bli gjennomført uten at lærer er til stede sammen med elevene.
 
 Elevene skal i utgangspunktet være på skolen når de får fjernundervisning, slik at elevene får tett oppfølging og et godt fysisk og psykososialt skolemiljø. I særlige tilfeller kan en elev få fjernundervisning andre steder enn på skolen, men eleven har ikke en rett til å få slik fjernundervisning. Et eksempel på et særlig tilfelle er elever som ikke kan komme på skolen på grunn av sykdom ved kortvarig fravær. Ved langvarig sykefravær, kan opplæring i elevens hjem med lærer i noen tilfeller suppleres med fjernundervisning.
-
-Til toppen

@@ -41,5 +41,3 @@ Barn og unge har rett og plikt til grunnskoleopplæring frå det året dei fylle
 ### Les mer om retten til opplæring ved sykdom
 
 [Rundskriv Udir 6-2014 om rett til opplæring i barnevern- og helseinstitusjon, og i hjemmet ved langvarig sykdom](https://www.udir.no/regelverkstolkninger/opplaring/Elever-med-sarskilte-behov/Udir-6-2014/)
-
-Til toppen

@@ -23,5 +23,3 @@ Fristen for å klage på enkeltvedtaket er tre uker fra eleven/foreldrene ble kj
 *1 Forvaltningsloven §§ 32 og 33*
 
 *2 Kunnskapsdepartementet er klageinstans for enkeltvedtak om spesialundervisning. Det følger av opplæringsloven § 15-2. Denne myndigheten er delegert videre til statsforvalteren, jf. delegeringsbrev fra Kunnskapsdepartementet til Utdanningsdirektoratet av 13.9.2013 og brev fra Utdanningsdirektoratet til fylkesmennene av 5.11.2013. Dette gjelder både for grunnskole og videregående opplæring*
-
-Til toppen

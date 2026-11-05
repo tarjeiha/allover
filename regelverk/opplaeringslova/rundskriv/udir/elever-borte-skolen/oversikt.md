@@ -64,5 +64,3 @@ Det er viktig at skolen er oppmerksom på eventuelle fraværsmønster. For eksem
 
 Les mer i [Plikt til å følge opp fravær](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/plikt-til-a-folge-opp-fravar/).
 
-Til toppen
-

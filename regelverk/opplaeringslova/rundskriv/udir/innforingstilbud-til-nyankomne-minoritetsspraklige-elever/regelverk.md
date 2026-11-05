@@ -158,5 +158,3 @@ Elever som ikke har eller kan få tilfredsstillende utbytte av den ordinære opp
 Når kommunen eller fylkeskommunen tar stilling til elevens rett til spesialundervisning, er dette et enkeltvedtak. Eleven eller de foresatte kan klage til statsforvalteren. Før det fattes enkeltvedtak om spesialundervisning, skal det foreligge en sakkyndig vurdering. Det er PP-tjenesten som er sakkyndig instans. Hvis kommunens eller fylkeskommunens enkeltvedtak avviker fra den sakkyndige vurderingen, er det krav til utfyllende begrunnelse. (Opplæringsloven kap. 5)
 
 - [Les mer: Veilederen spesialundervisning](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/spesialundervisning/)
-
-Til toppen

@@ -53,5 +53,3 @@ Ulike leverandører tilbyr ferdig utviklede læremidler for språklige minoritet
 ### Fleksibel opplæring på Digilær.no
 
 På den nasjonale plattformen for nettundervisning med nettlærere, digilær.no, er det et tilbud om fleksibel opplæring til elever som har rett til tospråklig fagopplæring, og til deltakere med behov for språklig tilrettelegging og tilpasset opplæring. Skoleeier/skolen må ha forsøkt å få tak i tospråklige lærere uten å lykkes før skolen kan melde elever opp i tilbudet.
-
-Til toppen

@@ -26,10 +26,10 @@ Ungdom under 18 år er ikke i målgruppen for introduksjonsprogrammet eller oppl
 
 Ungdom som er over grunnskolepliktig alder på 16 år, kan etter søknad ha rett til videregående opplæring etter [opplæringsloven § 5-1](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/tredje-del--vidaregaande-opplaring/kapittel-5-rett-til-vidaregaande-opplaring/-5-1-rett-til-vidaregaande-opplaring/) i fylkeskommunen, eller forberedende opplæring etter [opplæringsloven § 18-2](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/femte-del--forebuande-opplaring-og-vidaregaande-opplaring-for-vaksne/kapittel-18-rett-til-forebuande-opplaring-og-vidaregaande-opplaring-for-vaksne/-18-2-rett-til-forebuande-opplaring-for-vaksne/)i kommunen.
 
-For å ha rett til videregående opplæring etter opplæringsloven § 5-1, må søkeren ha gjennomført norsk grunnskole eller tilsvarende opplæring i utlandet.   
+For å ha rett til videregående opplæring etter opplæringsloven § 5-1, må søkeren ha gjennomført norsk grunnskole eller tilsvarende opplæring i utlandet.  
 Les mer om [regelverket for nyankomne – videregående opplæring](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/regelverk-for-nyankomne-elever-og-voksne/#a214288).
 
-Ungdom som ikke har gjennomført norsk grunnskole eller tilsvarende, vil ha rett til forberedende opplæring for voksne etter opplæringsloven § 18-2.   
+Ungdom som ikke har gjennomført norsk grunnskole eller tilsvarende, vil ha rett til forberedende opplæring for voksne etter opplæringsloven § 18-2.  
 [Les mer om regelverket for nyankomne – forberedende opplæring.](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/regelverk-for-nyankomne-elever-og-voksne/#a214290)
 
 > [Tilskudd :](https://www.udir.no/om-udir/tilskudd-og-prosjektmidler/midler-kommuner/opplaring-til-barn-og-unge-som-soker-opphold-i-norge/)[Kommuner og fylkeskommuner kan søke Udir om tilskudd til opplæring til barn og unge som søker opphold i Norge.](https://www.udir.no/om-udir/tilskudd-og-prosjektmidler/midler-kommuner/opplaring-til-barn-og-unge-som-soker-opphold-i-norge/)Se også Integrerings- og mangfoldsdirektoratet (IMDi)[om tilskudd](https://www.imdi.no/tilskudd/) som IMDi forvalter.
@@ -121,6 +121,4 @@ Elevene skal uavhengig av organiseringsform oppleve å være del av et inkludere
 - Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU) har forsket på opplæringstilbud for nyankomne på oppdrag fra Udir: [Vilkår for inkluderende opplæring: Sluttrapport fra prosjektet Forskning på opplæringstilbud til nyankomne elever (2024)](https://hdl.handle.net/11250/3132566)
 - [Nasjonalt senter for flerkulturell opplæring (NAFO)](https://nafo.oslomet.no/)ved OsloMet har flere relevante støtte- og veiledningsressurser på sine nettsider.
 - Udir har flere kompetansepakker knyttet til temaer som skolemiljø og inkludering i vår [kompetanseportal.](https://bibsys.instructure.com/search/all_courses?design=udir)
-
-Til toppen
 

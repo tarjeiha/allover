@@ -23,5 +23,3 @@ Evnerike elever som lærer raskere er omfattet av det generelle prinsippet om at
 Det skal alltid treffes et enkeltvedtak når skolen avslår å gi spesialundervisning.
 
 *1) Dette er eksplisitt uttrykt i Ot.prp. nr. 46 (1997-98) i merknad til § 5-1 og har sammenheng med spesialundervisningens formål.*
-
-Til toppen

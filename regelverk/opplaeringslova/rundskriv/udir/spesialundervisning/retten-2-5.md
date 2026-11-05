@@ -58,7 +58,5 @@ Barnets medbestemmelse og selvbestemmelse reguleres i [barneloven §§ 31, 32 og
 
 Barnets rett til å bli hørt fremgår også av [Barnekonvensjonen art. 12](http://barneombudet.no/for-voksne/barnekonvensjonen/hele-barnekonvensjonen/#12).
 
-*1Ot.prp. nr. 46 (1997-98) side 170 i merknad til § 5-4 tredje ledd.*   
+*1Ot.prp. nr. 46 (1997-98) side 170 i merknad til § 5-4 tredje ledd.*  
 *2Se forskrift til opplæringsloven kap.20 om foreldresamarbeid i grunnskolen og videregående opplæring.*
-
-Til toppen

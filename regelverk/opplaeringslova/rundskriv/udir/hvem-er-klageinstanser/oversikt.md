@@ -608,5 +608,3 @@ Ingen bestemmelser om vedtak.
 
 Ingen bestemmelser om vedtak.
 
-Til toppen
-

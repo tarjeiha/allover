@@ -96,5 +96,3 @@ Det er elevenes hjemkommune og hjemfylke som også her har ansvaret for opplæri
 
 [Prop. 57 L (2022–2023)](https://www.regjeringen.no/no/dokumenter/prop.-57-l-20222023/id2967679/) Lov om grunnskoleopplæringa og den vidaregående opplæringa (opplæringslova) punkt 15.
 
-Til toppen
-

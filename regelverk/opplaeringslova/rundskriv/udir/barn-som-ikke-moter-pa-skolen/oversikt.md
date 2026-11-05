@@ -113,5 +113,3 @@ I de alvorligste sakene kan videre etterforskning avdekke grov omsorgssvikt og a
 
 Jo mer informasjon, jo lettere er det for politiet å følge opp saken.
 
-Til toppen
-

@@ -42,5 +42,3 @@ Foreldrene eller den som har omsorgen for et barn, må få mulighet til å uttal
 ## Samarbeid
 
 Fylkeskommunen må utarbeide rutiner for samarbeid om skolegangen mellom henholdsvis helseinstitusjonen og skolen til eleven, og barnevernsinstitusjonen og skolen til eleven. Dette gjelder både den nåværende skolen og eventuelle tidligere skoler, om det er nødvendig. Fylkeskommunen skal også samarbeide med andre velferdstjenester for barn og unge både på systemnivå og i enkeltsaker der samarbeid er nødvendig for å den enkelte et helhetlig og samordnet tjenestetilbud. Dette står i opplæringsloven § 24-1. Det er laget en [tverrsektoriell veileder om samarbeid om tjenester til barn, unge og deres familier](https://www.helsedirektoratet.no/veiledere/samarbeid-om-tjenester-til-barn-unge-og-deres-familier).
-
-Til toppen

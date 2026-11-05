@@ -92,5 +92,3 @@ Rundskrivet er oppdatert med informasjon om at
 - det generelle forbodet mot forkynning i opplæringa også gjeld for privat grunnskoleopplæring i heimen
 - prøver som blir gitt til elevar i samband med tilsyn, må vera grunngitte med tilsynsansvaret til kommunane
 
-Til toppen
-

@@ -17,5 +17,3 @@ Det er skolen som fatter enkeltvedtak om spesialundervisning. Den sakkyndige vur
 Opplæringsloven § 5-3 siste ledd inneholder et særlig krav til begrunnelse i enkeltvedtaket om spesialundervisning.
 
 Skolen må begrunne hvorfor den ikke følger tilrådingen i den sakkyndige vurderingen, slik at eleven/foreldrene kan forstå hvilke vurderinger som ligger til grunn for dette. Begrunnelsen er også viktig for en eventuell klageinstans.
-
-Til toppen

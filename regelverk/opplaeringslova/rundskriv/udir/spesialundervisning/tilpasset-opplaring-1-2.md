@@ -41,5 +41,3 @@ Forutsetninger som legger grunnlaget for at alle elever får tilpasset opplærin
 - en vurderingspraksis som fremmer læring og utvikling
 - god kompetanse
 - universell utforming
-
-Til toppen

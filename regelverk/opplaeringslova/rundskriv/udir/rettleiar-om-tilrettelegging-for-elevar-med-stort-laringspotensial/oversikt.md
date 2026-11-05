@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Tekst fra Utdanningsdirektoratet, hentet fra [udir.no](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rettleiar-om-tilrettelegging-for-elevar-med-stort-laringspotensial/) 2026-11-05. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-Til toppen
-
 ## Innhold
 
 - Det beste for eleven og retten til å bli høyrd – `det-beste-for-eleven-og-retten-til-a-bli-hoyrd.md`

@@ -97,5 +97,3 @@ Les mer om realkompetansevurdering i [veileder om realkompetanse i grunnopplæri
 
 For voksne som har tegnet kontrakt om opplæring og får opplæringen i en lærebedrift etter modulstrukturerte læreplaner, kan det bli spørsmål om endring av lærekontrakten. Det kan for eksempel være aktuelt dersom det viser seg at den voksne blir raskere ferdig med modulene enn det som var lagt til grunn i realkompetansevurderingen. Det kan altså tenkes at det ikke er behov for for eksempel 2 års læretid i bedrift, men derimot bare 1,5 år. I slike tilfeller vil det kunne være aktuelt å endre lærekontrakten i tråd med opplæringsloven § 7-2. Tilsvarende gjelder også dersom det viser seg at den voksne har behov for lengre tid. Vi understreker at den som har læretid i bedrift og lærebedriften må være enige, og at fylkeskommunen må samtykke til endringen.
 
-Til toppen
-

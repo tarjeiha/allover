@@ -31,5 +31,3 @@ Det skal være et enkeltvedtak om spesialundervisning.
 Dersom spesialundervisning innvilges, må enkeltvedtaket ta stilling til hva som er et forsvarlig tilbud for eleven.
 
 Opplæringsloven har ingen særskilte regler om hvordan enkeltvedtaket skal formes. Det eneste unntaket er at dersom det er avvik fra den sakkyndige vurderingen må dette begrunnes i enkeltvedtaket.
-
-Til toppen

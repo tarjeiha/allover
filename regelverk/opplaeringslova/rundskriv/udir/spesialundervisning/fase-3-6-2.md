@@ -117,5 +117,3 @@ PP-tjenesten bør i tillegg vurdere om det er mulig å gi eleven hjelp uten å t
 I særskilte tilfeller kan det gis tilråding om opplæring på en annen arena, i større eller mindre del av tiden, dersom det vurderes som det beste ut fra hensynet til eleven. Muligheten for at nærskolen kan gi et forsvarlig opplæringstilbud skal likevel alltid vurderes først. Dette må gjøres, blant annet, for å klargjøre overfor eleven/foreldrene hvilke fordeler og ulemper disse valgmulighetene gir.
 
 Det er viktig at eleven/foreldrene informeres om at eleven har rett til spesialundervisning ved nærskolen dersom eleven/foreldrene krever det, uavhengig av hva PP-tjenesten måtte tilrå når det gjelder skoleplassering. Se opplæringsloven § 8-1.
-
-Til toppen

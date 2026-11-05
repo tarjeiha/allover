@@ -25,5 +25,3 @@ Kommunen kan gjere unntak frå kravet om at rektor skal vere leiar for skolefrit
 Det finst ingen reglar om bemanning og kompetanse i skolefritidsordninga. Dette skal avgjerast kommunalt ut frå lokale forhold og behov. Behovet for bemanning er avhengig av kva slags aktivitetar som blir tilbodne, alderssamansetninga, kor mange barn som deltek, dagleg opphaldstid og talet på barn med særlege behov.3
 
 Reglane om politiattest i opplæringslova § 17-11 gjeld òg for tilsette i skolefritidsordninga. Det betyr at alle som blir tilsette i skolefritidsordninga, må leggje fram politiattest.
-
-Til toppen

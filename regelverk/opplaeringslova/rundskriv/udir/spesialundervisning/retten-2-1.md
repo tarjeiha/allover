@@ -110,5 +110,3 @@ Eleven kan også ha tilfredsstillende utbytte av opplæringen i deler av fag ell
 #### Svært lite utbytte
 
 For elever som har svært lite utbytte av det ordinære opplæringstilbudet, kan det være behov for at hele opplæringen tilpasses særlig ved spesialundervisning.
-
-Til toppen

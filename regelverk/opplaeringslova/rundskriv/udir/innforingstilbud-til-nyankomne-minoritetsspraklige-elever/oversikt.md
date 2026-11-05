@@ -14,8 +14,6 @@ Denne veilederen er markert som utgått fordi den omhandler den gamle opplæring
 
 Vannmerke
 
-Til toppen
-
 ## Innhold
 
 - Innholdet i innføringstilbud – `innholdet-i-innforingstilbud.md`

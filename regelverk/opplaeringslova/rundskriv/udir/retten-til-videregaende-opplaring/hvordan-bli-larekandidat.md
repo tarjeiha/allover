@@ -39,5 +39,3 @@ Fylkeskommunen har en plikt til å utbetale tilskudd til opplæring til lærebed
 - [Lærekandidat – din vei til yrkeslivet](https://www.udir.no/utdanningslopet/videregaende-opplaring/larekandidatordningen/larekandidat--din-vei-til-yrkeslivet/)
 - [Hva er lærekandidatordningen?](https://www.udir.no/utdanningslopet/videregaende-opplaring/larekandidatordningen/hva-er-larekandidatordningen/)
 - [Laget rundt lærekandidaten](https://www.udir.no/utdanningslopet/videregaende-opplaring/larekandidatordningen/laget-rundt-larekandidaten/)
-
-Til toppen

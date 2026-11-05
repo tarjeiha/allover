@@ -142,5 +142,3 @@ Andrespråksopplæring handler om å gi opplæring til elever som ikke har norsk
 Samarbeid mellom etater er nødvendig for å fordele ansvar og samordne tiltak. Skolen er en særlig viktig samarbeidspartner. Samarbeidet kan organiseres på forskjellig måter. Mange kommuner har allerede samarbeidsgrupper. Andre oppretter ansvarsgrupper eller faglig nettverk rundt hvert enkelt barn, også for enslige mindreårige. Et slikt nettverk kan bestå av sentrale personer i barnets liv, for eksempel omsorgspersonen, verge, helsesøster, lærer, flyktningkonsulent eller barnevernkonsulent og leksehjelper.
 
 > EksemplerNAFO presenterer eksempler fra ulike kommuner og fylkeskommuner på organisering i grunnskole og videregående, og overganger i opplæringsløpet:[Organisering av opplæringen for minoritetsspråklige elever i grunnskolen](https://nafo.oslomet.no/grunnskole/organisering/) (NAFO)[Organisering av opplæringen for minoritetsspråklige elever i videregående](https://nafo.oslomet.no/videregaende/organisering-vgs/kombinasjonsklasser/) (NAFO)
-
-Til toppen

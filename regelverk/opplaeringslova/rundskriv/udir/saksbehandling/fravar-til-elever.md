@@ -220,8 +220,7 @@ Du kan likevel fortsatt bli flyttet opp til vg2/vg3. Det er fylkeskommunen eller
 
 **Svar:** Har du gått over fraværsgrensen slik at du ikke får standpunktkarakter i et eller flere fag, må du ta faget/fagene som privatist for å få vitnemål. Du kan lese mer om å overskride fraværsgrensen rundskriv for fraværsgrensen.
 
-**Spørsmål: Hva skjer hvis jeg ikke får halvårsvurdering med karakter til sommeren?**   
-  
+**Spørsmål: Hva skjer hvis jeg ikke får halvårsvurdering med karakter til sommeren?**  
 **Svar:** I fag som går over flere skoleår får du ikke standpunktkarakter etter hvert skoleår, men du får i stedet halvårsvurdering også til sommeren. Dette gjelder for eksempel kroppsøving. Du kan fortsatt bli flyttet opp til vg2 og/eller vg3 om du har IV i halvårsvurdering til sommeren i et eller flere fag på grunn av fraværsgrensen. Det er fylkeskommunen eller rektor som avgjør dette. De må vurdere om du har de faglige forutsetningene som er nødvendig for å følge opplæringen på neste nivå. Din fylkeskommune kan i den lokale forskriften om inntak ha sagt noe mer om hva som skal til for å bli flyttet opp på neste nivå.
 
 Hvis du blir flyttet opp til neste nivå må du ikke ta faget på nytt eller få ny halvårsvurdering med karakter. Det er nok at du får standpunktkarakter i faget.
@@ -245,5 +244,3 @@ Du kan forvente at du blir varslet i forkant av at du går over fraværsgrensen,
 Hvis du verken er i opplæring eller arbeid, skal oppfølgingstjenesten kobles inn.
 
 > Fraværsgrensen er regulert i forskrift til opplæringsloven § 3-3 siste ledd og forskrift til friskoleloven § 3-3 siste ledd.Du kan lese mer om [bestemmelsen i rundskrivet om fraværsgrense.](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-fravarsgrensen/)
-
-Til toppen

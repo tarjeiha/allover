@@ -52,5 +52,3 @@ Det er viktig at alle elever får mulighet til å delta i skoledemokratiet, uavh
 
 Du og foreldrene dine skal få den [informasjonen](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/informasjonsplikten/) dere trenger om opplæringen, deg som elev, skolemiljø, skoleregler og andre rettigheter og plikter du har. Det innebærer at skolen aktivt må informere, både om det som gjelder alle og det som kun gjelder deg. Informasjon kan gis på foreldremøte, i klassen, gjennom læringsplattformer eller på e-post. Hvis du er under 18 år, skal foreldrene dine få den samme informasjonen som du får. Ved å få informasjon fra skolen er det lettere for deg og dine foreldre både å delta aktivt i det som skjer på skolen, og å vurdere om du får det du har rett på.
 
-Til toppen
-

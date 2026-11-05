@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Tekst fra Utdanningsdirektoratet, hentet fra [udir.no](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-grunnopplaring-barn-unge-barnevern-helseinstitusjoner/) 2026-11-05. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-Til toppen
-
 ## Innhold
 
 - 5. Felles for opplæring i institusjon – `felles-opplaring-institusjon.md`

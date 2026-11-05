@@ -65,5 +65,3 @@ Et femte prinsipp som kan ha betydning, er likhetsprinsippet. I likhetsprinsippe
 I tilfeller der man forskjellsbehandler er det ikke den enkelte avgjørelsen som fylkeskommunen/kommunen/skolen har tatt, det hefter feil ved.
 
 Feilen oppstår derimot når avgjørelsen sammenlignes med andre avgjørelser. Et eksempel vil være der to elever har tilnærmet likt behov for spesialundervisning og skolen kun gir den ene eleven rett til spesialundervisning. Kan man ikke begrunne en slik avgjørelse, vil det være snakk om usaklig forskjellsbehandling.
-
-Til toppen

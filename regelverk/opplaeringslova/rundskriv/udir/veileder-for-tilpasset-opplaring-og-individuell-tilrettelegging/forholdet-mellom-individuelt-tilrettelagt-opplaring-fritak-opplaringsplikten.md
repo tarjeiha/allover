@@ -19,5 +19,3 @@ For at en elev skal få fritak fra opplæringsplikten må foreldrene søke eller
 Fritak fra opplæringsplikten kan ikke være et tilretteleggingstiltak i den individuelle tilrettelagte opplæringen.
 
 I tilfeller der eleven har rett til både individuell tilrettelegging og skal ha færre antall timer enn det som følger av fag- og timefordelingen, må kommunen fatte to vedtak. Kommunen kan fatte disse to vedtakene i samme dokument.
-
-Til toppen

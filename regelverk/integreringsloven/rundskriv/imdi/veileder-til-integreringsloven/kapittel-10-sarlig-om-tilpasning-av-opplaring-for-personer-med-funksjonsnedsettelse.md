@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 10.
 
 ## 10.1 Om tilpasning av opplæring for personer med funksjonsnedsettelse
@@ -41,7 +39,7 @@ Integreringsloven inneholder ingen regler som gir kommunen mulighet til å avsl�
 
 ### 10.3.2 Opplæring i norsk og samfunnskunnskap
 
-Kommunen skal sørge for opplæring i norsk og samfunnskunnskap for personer som faller innenfor målgruppen i [kapittel 6](https://lovdata.no/dokument/NL/lov/2020-11-06-127/KAPITTEL_6#KAPITTEL_6), og opplæring i norsk for personer som faller innenfor målgruppen i integreringsloven [§ 37 d](https://lovdata.no/lov/2020-11-06-127/§37d). Se integreringsloven [§ 30](https://lovdata.no/lov/2020-11-06-127/§30).   
+Kommunen skal sørge for opplæring i norsk og samfunnskunnskap for personer som faller innenfor målgruppen i [kapittel 6](https://lovdata.no/dokument/NL/lov/2020-11-06-127/KAPITTEL_6#KAPITTEL_6), og opplæring i norsk for personer som faller innenfor målgruppen i integreringsloven [§ 37 d](https://lovdata.no/lov/2020-11-06-127/§37d). Se integreringsloven [§ 30](https://lovdata.no/lov/2020-11-06-127/§30).  
 Integreringsloven inneholder ingen bestemmelser som åpner for at kommunen kan avslå et krav fra en person som faller innenfor målgruppen for opplæring i norsk og samfunnskunnskap. Avslag på krav med begrunnelse i en persons funksjonsnedsettelse vil kunne stride mot likestillings- og diskrimineringsloven §§ [6](https://lovdata.no/lov/2017-06-16-51/§6) og [9](https://lovdata.no/lov/2017-06-16-51/§9). Dette gjelder uavhengig av funksjonsnedsettelsens alvorlighetsgrad.
 
 ## 10.4 Fastsettelse av sluttmål i introduksjonsprogram

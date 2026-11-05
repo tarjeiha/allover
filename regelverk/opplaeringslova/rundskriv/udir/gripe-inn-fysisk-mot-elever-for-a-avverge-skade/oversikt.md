@@ -54,5 +54,3 @@ En ansatt som har grepet inn fysisk mot en elev må melde fra om dette til rekto
 
 Skolen må dokumentere alle fysiske inngrep mot elever. Dokumentasjonen skal inneholde en kort beskrivelse av hendelsen, hvordan inngrepet ble utført, og elevens syn på saken.
 
-Til toppen
-

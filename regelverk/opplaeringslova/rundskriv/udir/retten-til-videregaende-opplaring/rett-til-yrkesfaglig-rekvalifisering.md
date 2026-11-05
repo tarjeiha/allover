@@ -37,5 +37,3 @@ Retten til yrkesfagleg rekvalifisering etter § 18-4 kan tas ut ved en privatsko
 Dette innebærer at voksne som blir tatt inn til yrkesfaglig rekvalifisering ved disse skolene, vil få ordinær opplæring som elev, og dermed ikke får de samme tilpasningene som man kan få som en voksen ved et fylkeskommunalt tilbud.
 
 Skolene kan kun tilby yrkesfagleg rekvalifisering i programområdene der godkjent for.
-
-Til toppen

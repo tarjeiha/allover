@@ -44,5 +44,3 @@ Under følger en forklaring på enkelte begreper som går igjen i veilederen.
 - **Deltaker**: De som *får*opplæring etter regelverket som gjelder for voksne, har status som deltaker, ikke elev. Hvorvidt man er elev eller deltaker, avgjøres altså ikke ut fra alder, men ut fra hvilken opplæringsordning man følger.
 - **Lærling**: De som har tegnet lærekontrakt og *får*opplæring i bedrift etter regelverket som gjelder for lærlinger, har status som lærling, ikke deltaker. Hvorvidt man er en voksen deltaker eller lærling, avgjøres altså ut fra om det er tegnet en lærekontrakt eller ikke.
 - **Den voksne**: Benyttes som omtale av alle som skal få eller får en realkompetansevurdering.
-
-Til toppen

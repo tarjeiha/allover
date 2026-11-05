@@ -71,5 +71,3 @@ Spørsmål som bør vurderes er:
 - Vil tiltaket fremme elevens faglige og sosiale utvikling? I vurderingen er det viktig å se eleven i et livsløpsperspektiv.
 
 1) Dette fremgår av forarbeidene til § 5-3 i Ot.prp.nr. 46(1997-1998)s. 169.
-
-Til toppen

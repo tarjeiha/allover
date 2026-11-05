@@ -35,5 +35,3 @@ Lærlinger i særløpsfagene har ikke gjennomført et programområde på videreg
 ## Avtale om annen organisering av opplæringen
 
 Fylkeskommunen kan godkjenne en kontrakt om opplæring som fraviker fastsatt opplæringsløp. Det er viktig å være klar over at denne typen kontrakter kun er en annen organisering av opplæringen. Kandidaten skal få opplæring i kompetansemålene i læreplanene for fag på videregående trinn 1, 2 og 3. De som har inngått slike kontrakter har på lik linje med de som følger fastsatt opplæringsløp rett til mer opplæring etter § 5-2 tredje ledd.
-
-Til toppen

@@ -45,5 +45,3 @@ De som får opplæring i bedrift er omfattet av kravet om tilpasset opplæring, 
 Hvis kandidaten ikke har et tilfredsstillende utbytte av opplæringen, skal fylkeskommunen sette inn egnede tiltak innenfor tilpasset opplæring. Lærebedriften må sørge for at tiltakene blir gjennomført.
 
 For lærekandidater skal fylkeskommunen i tillegg vurdere om kandidaten har behov for individuell tilrettelegging.
-
-Til toppen

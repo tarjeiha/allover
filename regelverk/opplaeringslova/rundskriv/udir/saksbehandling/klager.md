@@ -67,5 +67,3 @@ For noen klager er statsforvalteren klageinstans i videregående opplæring. Det
 - enkelte enkeltvedtak knyttet til inntak
 
 Statsforvalteren er også klageinstans etter noen bestemmelser i forskrift til opplæringsloven.
-
-Til toppen

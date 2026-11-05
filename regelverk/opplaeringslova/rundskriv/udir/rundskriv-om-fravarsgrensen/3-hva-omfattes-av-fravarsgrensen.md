@@ -202,5 +202,3 @@ Dette kommer både av hensyn til elever som ville risikert å miste standpunktka
 Fylkeskommunen kan gi elevene adgang til å bytte fag underveis i opplæringsåret. I slike tilfeller vil eleven starte på null når det gjelder fraværsberegning i det nye faget. Eventuelt fravær i det opprinnelige faget vil ikke telle inn på fraværsgrensen. Fraværet skal imidlertid føres som en del av elevens totale fravær på vitnemål og kompetansebevis.
 
 Fravær i fag vil heller ikke overføres ved skolebytte underveis i opplæringsåret.
-
-Til toppen

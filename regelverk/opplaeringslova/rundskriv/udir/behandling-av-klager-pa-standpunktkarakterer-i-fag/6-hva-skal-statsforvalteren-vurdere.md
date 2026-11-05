@@ -60,5 +60,3 @@ For å fastsette standpunktkarakter, må læreren ha tilstrekkelig kunnskap om e
 En gjennomgang av kompetansemålene tidlig i opplæringen kan gjøre det tydelig for elevene hva som er grunnlaget for standpunktkarakteren. I tillegg vil dialog med elevene underveis i opplæringen skape god sammenheng mellom underveis- og standpunktvurdering og bidra til en [forutsigbar vurdering](https://www.udir.no/eksamen-og-prover/vurdering/standpunktvurdering/#a173404).
 
 Statsforvalteren må derfor se om skolen som minimum har gitt eleven en generell veiledning/gjennomgang av kompetansemålene i læreplanen, som typisk gjøres tidlig i skoleåret.
-
-Til toppen

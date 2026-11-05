@@ -53,5 +53,3 @@ I forbindelse med inntak til et særskilt utdanningsprogram i videregående oppl
 Se også fase 1 for mer informasjon.
 
 1Dette er avklart i brev fra Barne-, likestillings-, og inkluderingsdepartementet til Kunnskapsdepartementet datert 16.06.2015.
-
-Til toppen

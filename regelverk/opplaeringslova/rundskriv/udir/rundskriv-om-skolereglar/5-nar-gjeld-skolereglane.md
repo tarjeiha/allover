@@ -15,5 +15,3 @@ Skolereglane kan også gjelde for eleven sin oppførsel utanfor skolen og utanfo
 Det bør derimot ikkje fastsetjast reglar som gjeld utanfor skoletida som blir grunngitte i andre omsyn enn skolemiljøet. Oppførselen til elevane på fritida kan ikkje regulerast i skolereglane. Skolen kan til dømes gi råd som er grunngitte i trafikktryggleik om når elevar bør få lov å sykle, men dei kan ikkje forby sykling. Skolen kan regulere bruk av mobiltelefon, men dei kan ikkje forby at eleven har med mobiltelefonen på skolen. [Sjå tilråding om regulering av mobil](https://www.udir.no/kvalitet-og-kompetanse/digitalisering-skole/anbefalinger-for-mobil-og-digitale-enheter-i-skolen/).
 
 SFO og leksehjelp er ikkje ein del av skoletida, og er dermed ikkje omfatta av skolereglane. Kommunen gir forskrift om SFO,1 og bør opprette eigne reglar for SFO. Det bør også utarbeidast reglar for leksehjelpa. På ein del område kan slike reglar samsvare med skolereglane, men det er til dømes ikkje heimel for bortvising frå SFO eller leksehjelpa.
-
-Til toppen

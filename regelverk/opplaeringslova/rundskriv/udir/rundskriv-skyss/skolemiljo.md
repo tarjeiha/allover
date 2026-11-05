@@ -13,5 +13,3 @@ Kravene til skolemiljø i opplæringsloven kapittel 12 gjelder ikke på skolevei
 Skoleveien er i en særstilling fordi den er så nært knyttet til skolegangen. At eleven både har en rett og en plikt til opplæring, gjør at elevene er avhengig av å komme seg til og fra skolen. På grunn av denne særstillingen må skolen i enkelte tilfeller kunne forventes å sette inn tiltak på selve skoleveien, for eksempel tilsyn på bestemte steder. Reisefølge kan være et mulig virkemiddel.
 
 [Se rundskriv om skolemiljø](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-skolemiljo/)
-
-Til toppen

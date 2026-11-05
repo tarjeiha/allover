@@ -91,5 +91,3 @@ Skolen kan ikke pålegge elever fritak fra opplæringsaktiviteter, eller gi frit
 - Tilpasset opplæring: Reglene om tilpasset opplæring mv. i [kapittel 11](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/fjerde-del--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-11-tilpassa-opplaring-og-individuell-tilrettelegging/) i opplæringsloven gjelder også for opplæringen som blir gitt etter fritak.
 - Kompetansemål: Kommunen og fylkeskommunen kan ikke frita elever fra kompetansemålene i læreplanene. Elever som får fritak skal få opplæring med tilsvarende faglig innhold.
 
-Til toppen
-

@@ -67,5 +67,3 @@ Hjemmel: Fastsatt av Kommunestyret i Lillevik kommune 23. november 2020 med hjem
 ### Les mer om reglene for ordensreglement
 
 [Ordensreglement Udir-8-2014](https://www.udir.no/regelverkstolkninger/opplaring/Laringsmiljo/Ordensreglement-Udir-8-2014/)
-
-Til toppen

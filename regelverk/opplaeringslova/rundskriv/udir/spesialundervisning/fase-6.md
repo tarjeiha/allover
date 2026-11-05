@@ -74,5 +74,3 @@ Når eleven ikke lenger får spesialundervisning, vil opplæringstilbudet bli gi
 Her er det viktig at skolen, eleven og foreldrene samarbeider og sørger for en god overgang til den ordinære opplæringen.
 
 Foreldrene/eleven kan alltid kreve at skolen sender henvisning til PP-tjenesten, også i de tilfellene hvor skolen mener eleven ikke har behov for videre spesialundervisning.
-
-Til toppen

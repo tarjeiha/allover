@@ -40,8 +40,7 @@ Elever som får opplæring i og på tegnspråk kan få deler av denne opplæring
 
 ## Inntak til videregående skole for elever med nedsatt hørsel
 
-Elever med hørselshemming kan også søke seg til en ordinær fylkeskommunal videregående skole som har tilrettelagte opplæringstilbud for elever med nedsatt hørsel.   
-  
+Elever med hørselshemming kan også søke seg til en ordinær fylkeskommunal videregående skole som har tilrettelagte opplæringstilbud for elever med nedsatt hørsel.  
 [Les mer: Inntak og formidling til videregående skole](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/retten-til-videregaende-opplaring/inntak-og-formidling/)
 
 ## Utvidet tid for å fullføre videregående opplæring
@@ -57,6 +56,4 @@ Elever med nedsatt hørsel som ikke har tilfredsstillende utbytte av opplæringe
 > Barnets besteElevens beste skal være et grunnleggende hensyn i vurderingen av hvilket opplæringstilbud elever med nedsatt hørsel skal få. Elevene har også rett til å medvirke og bli hørt. Dette følger av Grunnloven, barnekonvensjonen og opplæringsloven.[Les mer: Vurdere hva som er best for barnet.](https://www.udir.no/laring-og-trivsel/skolemiljo/arbeid-med-aktivitetsplikten/vurdere-kva-som-er-best-for-eleven/)
 
 På denne siden omtaler vi rettigheter som kun gjelder elever med nedsatt hørsel. Elever med nedsatt hørsel har også andre rettigheter på lik linje med alle elever, men disse er ikke omtalt her.
-
-Til toppen
 

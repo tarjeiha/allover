@@ -30,7 +30,7 @@ Hvis du varsler på vegne av en offentlig virksomhet eller et tolkebyrå, vil vi
 
 ## Taushetsplikt ved behandling av varslingssaker
 
-IMDi kan kreve at offentlige organer, uten hinder av taushetsplikt, gir oss de opplysningene som er nødvendige for å vurdere om en tolk har brutt kravene.   
+IMDi kan kreve at offentlige organer, uten hinder av taushetsplikt, gir oss de opplysningene som er nødvendige for å vurdere om en tolk har brutt kravene.  
 Tolker som varsler om andre tolkers brudd på tolkeloven, må ikke gi oss opplysninger som innebærer at de selv bryter taushetsplikten.
 
 ## Kan jeg være anonym?
@@ -48,10 +48,8 @@ Anonyme varsler kan begrense IMDis mulighet til å undersøke saken. Det kan da 
 
 Den som varsler er ikke part i saken og blir dermed ikke holdt oppdatert om IMDis saksbehandling. IMDi tar kontakt med alle som kan bidra til å gi klarhet i det som har skjedd.
 
-Når vi mener at det er sannsynlig at en tolk har brutt tolkeloven, vil vi ta kontakt med tolken, slik at tolken får anledning til å komme med sine synspunkter i saken, som vil være til hjelp i IMDis vurdering av varselet. Tolken vil da få innsyn i saken.   
-  
+Når vi mener at det er sannsynlig at en tolk har brutt tolkeloven, vil vi ta kontakt med tolken, slik at tolken får anledning til å komme med sine synspunkter i saken, som vil være til hjelp i IMDis vurdering av varselet. Tolken vil da få innsyn i saken.  
 I de meste alvorlige tilfeller av brudd på tolkeloven, kan IMDi beslutte å utestenge tolken midlertidig fra [Nasjonalt tolkeregisteret](https://www.tolkeregisteret.no) i den tiden det tar å behandle saken.  
-  
 I noen varslingssaker kan IMDi vurdere at det er tilstrekkelig å gi veiledning i regelverket for krav til tolker. Veiledningen kan gis både til den som varsler og til tolken det er varslet på.
 
 ## Rådgivende utvalg

@@ -21,5 +21,3 @@ Dette er ikke en rettighet elevene har, og de har derfor ikke en rett til å del
 I dag er det flere kommuner og fylkeskommuner som tilbyr såkalte kombinasjonsklasser, der nyankomne ungdom får grunnskoleopplæring kombinert med fag på videregående nivå. Slik opplæring kan kommuner og fylkeskommuner gi som et tilbud om mer grunnskoleopplæring etter opplæringsloven § 9-7. Kombinasjonsklasser blir gjerne lagt til en videregående skole, slik at ungdommene kan oppnå sosial tilhørighet i et ungdomsmiljø.
 
 Kombinasjonsklasser er et eksempel på en opplæringsordning som vil kunne oppfylle plikten til å ha et opplæringstilbud i overgangen mellom grunnskolen og videregående, men plikten kan også oppfylles gjennom andre tilbud rettet mot målgruppen.
-
-Til toppen

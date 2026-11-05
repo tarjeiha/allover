@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Veileder til integreringsloven
 
-east
-
 Kapittel 9.
 
 ## 9.1 Sammenheng mellom reglene for opplæring i mottak, introduksjonsprogram og for opplæring i norsk og samfunnskunnskap
@@ -62,7 +60,7 @@ Kommunen kan i noen tilfeller stanse introduksjonsprogrammet eller opplæring i 
 
 Selve reglene i §§ [18](https://lovdata.no/lov/2020-11-06-127/§18) og [36](https://lovdata.no/lov/2020-11-06-127/§36) er innholdsmessige likelydende og vurderingene som kommunen skal gjøre i er i all hovedsak like. Hvis kommunen stanser en deltakers introduksjonsprogram, gjelder det alle elementene i introduksjonsprogrammet, også opplæring i norsk og samfunnskunnskap. Stans er aktuelt når kommunen vurderer at deltakeren har oppførsel eller sykdom, som vanskeliggjør deltakelse i introduksjonsprogram eller opplæring i norsk og samfunnskunnskap.
 
-Kommunen skal ikke bruke stans av introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap der deltakeren selv ønsker å avslutte, eller der kommunen mener deltakeren har oppnådd sitt norskmål eller sluttmål.   
+Kommunen skal ikke bruke stans av introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap der deltakeren selv ønsker å avslutte, eller der kommunen mener deltakeren har oppnådd sitt norskmål eller sluttmål.  
 All stans av introduksjonsprogram eller opplæring i norsk og samfunnskunnskap må være saklig begrunnet. Forhold som kan begrunne stans er blant annet:
 
 - omfattende fravær, særlig dersom dette fraværet er ugyldig
@@ -129,7 +127,7 @@ Kommunen kan unnlate å forhåndsvarsle i noen tilfeller, for eksempel der kommu
 
 At en avgjørelse om stans er et enkeltvedtak betyr også at forvaltningslovens regler om begrunnelse gjelder. Se[Sivilombudets veileder](https://www.sivilombudet.no/begrunnelser/#Hvorfor%20skal%20vedtak%20begrunnes?1). Kommunen skal gi en begrunnelse for vedtaket. I denne begrunnelsen bør kommunen beskrive hvorfor det er valgt midlertidig eller permanent stans. Se forvaltningsloven §§ [24](https://lovdata.no/lov/1967-02-10/§24) og [25](https://lovdata.no/lov/1967-02-10/§25).
 
-Hvis deltakeren er uenig i kommunens avgjørelse om å stanse opplæringen eller introduksjonsprogrammet, har deltakeren rett til å klage på vedtaket om stans. Kommunen må da først vurdere om de vil endre vedtaket. Hvis kommunen opprettholder vedtaket er det statsforvalteren som behandler klagen.   
+Hvis deltakeren er uenig i kommunens avgjørelse om å stanse opplæringen eller introduksjonsprogrammet, har deltakeren rett til å klage på vedtaket om stans. Kommunen må da først vurdere om de vil endre vedtaket. Hvis kommunen opprettholder vedtaket er det statsforvalteren som behandler klagen.  
 Kommunen eller statsforvalteren kan beslutte at deltakeren skal få utsatt iverksettelse av vedtaket mens klagen er til behandling hos statsforvalteren, se [forvaltningsloven § 42](https://lovdata.no/lov/1967-02-10/§42). Dersom deltakeren får utsatt iverksettelse betyr det at deltakeren får fortsette med introduksjonsprogrammet eller opplæringen i norsk og samfunnskunnskap, frem til statsforvalteren har behandlet klagen. Når kommunen vurderer om deltakeren skal ha utsatt iverksettelse, må de blant annet vurdere betydningen av et brudd i opplæringen eller introduksjonsprogrammet for deltakeren. Både kommunen og statsforvalteren kan gi utsatt iverksettelse.
 
 ## 9.4 Permisjon
@@ -236,7 +234,7 @@ Utgangspunktet er at introduksjonsprogrammet skal tilpasses den enkelte. Se inte
 
 ### 9.5.3 Tilpasning av opplæring i norsk og samfunnskunnskap
 
-Tilpasning av opplæring i norsk og samfunnskunnskap er regulert i forskrift.   
+Tilpasning av opplæring i norsk og samfunnskunnskap er regulert i forskrift.  
 For opplæring i norsk har kommunen plikt til å organisere opplæringen på en slik måte at «deltakernes læringsforutsetninger, behov og mål blir ivaretatt». Se[forskrift om læreplan i norsk for voksne innvandrere kapittel 2](https://lovdata.no/dokument/SF/forskrift/2021-06-20-2053/KAPITTEL_2#KAPITTEL_2).
 
 Når det gjelder samfunnskunnskap, har deltakeren rett til opplæring på et språk hen forstår. Se integreringsloven [§ 33](https://lovdata.no/lov/2020-11-06-127/§33). Dersom deltakeren behersker flere språk, må kommunen vurdere hvilket språk som er mest hensiktsmessig for den enkelte.

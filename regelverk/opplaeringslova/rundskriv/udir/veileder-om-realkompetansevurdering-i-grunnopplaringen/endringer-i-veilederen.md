@@ -39,5 +39,3 @@ Veilederen er gjennomgått og revidert etter innspill og spørsmål fra ulike ak
 **Kapittel 15.10**: Endret overskriften til «Søkere uten opplæringsbehov» og skrevet om teksten i kapittelet, med nærmere omtale av denne gruppen og fylkeskommunens plikt til å tilby formalisering av kompetansen.
 
 **Kapittel 15.13**: Endret overskriften fra «Er det nødvendig å gjennomføre alle fire fasene i en realkompetansevurdering i alle tilfeller?» til «Adgang til ulik vektlegging av de fire fasene i en realkompetansevurdering». Denne endringen endrer ikke veiledningen, men anses mer dekkende for innholdet i kapittelet. Eksempelet i kapittelet er også justert noe, for å klargjøre.
-
-Til toppen

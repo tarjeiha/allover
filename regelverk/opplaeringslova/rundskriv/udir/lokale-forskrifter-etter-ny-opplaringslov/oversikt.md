@@ -137,5 +137,3 @@ Forvaltningsloven stiller noen formelle krav til fastsettelse av en forskrift.
 - Det innebærer at forskrifter skal på høring, slik at de som vil bli berørt får en mulighet til komme med sine synspunkter.
 - Når fristen for å gi innspill er avsluttet og man har tatt stilling til innspillene, kan forskriften vedtas av den som har denne myndigheten.
 
-Til toppen
-

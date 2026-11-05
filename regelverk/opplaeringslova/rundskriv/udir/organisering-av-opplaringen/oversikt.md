@@ -104,5 +104,3 @@ Vurderingen av hva som er trygt og pedagogisk forsvarlig er et lovbundet skjønn
 
 - Unngå stigmatiseringved gruppeinndeling etter nivå, og sørg for at slike tiltak er tidsavgrensede.
 
-Til toppen
-

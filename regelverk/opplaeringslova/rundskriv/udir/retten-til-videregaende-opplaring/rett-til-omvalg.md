@@ -17,5 +17,3 @@ Omvalg betyr at man bytter utdanningsprogram, eller at man bytter programområde
 Omvalget må gjøres i forbindelse med inntak. Man har ikke rett til omvalg midt i skoleåret.
 
 Når en elev har fått sluttvurdering med bestått karakter i et fag, skal karakteren i utgangspunktet følge eleven fram til kompetansebevis og vitnemål. Eleven kan da ikke bli elev i faget på nytt. Her er det likevel et unntak for de som gjør omvalg. En elev som har brukt retten til å gjøre omvalg, kan velge mellom å få faget godkjent eller å ta faget på nytt som elev. Det er den siste beståtte karakteren som skal føres på vitnemålet eller kompetansebeviset. Det står i opplæringsforskriften § 9-52 fjerde ledd.
-
-Til toppen

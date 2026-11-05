@@ -13,5 +13,3 @@ Det er kommunen eller fylkeskommunen som skal gi skolereglar, og som har [ansvar
 Ei delegering må vere trygg og forsvarleg. [Les meir om myndigheit til å fatte enkeltvedtak og delegering av myndigheit](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/forvaltningsloven/fatte-enkeltvedtak/). Sjølv om kompetansen er delegert, har kommunen eller fylkeskommunen framleis ansvaret for at skolereglane er fastsette i tråd med lova.
 
 Der skolane er delegert moglegheita til å gi utfyllande reglar, må desse reglane vere i tråd med dei vedtatte skolereglane for kommunen eller fylkeskommunen.
-
-Til toppen

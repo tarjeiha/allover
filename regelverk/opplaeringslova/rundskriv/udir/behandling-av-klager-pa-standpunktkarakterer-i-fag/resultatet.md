@@ -40,5 +40,3 @@ Hvis det fastsettes en tallkarakter, eller vedtak om IV gjøres på et annet gru
 ### Forholdet mellom klagebehandling og tilsyn
 
 I klagebehandlingen kan statsforvalterne bli gjort kjent med forhold som det er nødvending å kontrollere nærmere, men som ikke er en naturlig del av klagebehandlingen. Mandatet for at statsforvalterne kan føre tilsyn står i kommuneloven § 60 b og opplæringsloven § 29-2.
-
-Til toppen

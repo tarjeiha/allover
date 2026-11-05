@@ -130,5 +130,3 @@ Ungdom og voksne som har fullført grunnskoleopplæring eller tilsvarende opplæ
 
 Søkeren må ha lovlig opphold i landet. De som venter på svar på søknad om opphold, har ikke rett til videregående opplæring. Fylkeskommunen kan likevel velge å gi slik opplæring, hvis dette ikke går utover tilbudet til elever og voksne deltakere med rett til videregående opplæring.
 
-Til toppen
-

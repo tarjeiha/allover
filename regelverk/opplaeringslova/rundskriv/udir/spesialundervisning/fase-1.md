@@ -185,5 +185,3 @@ Dersom det var læreren som varslet om bekymring til rektor, og skolen vurderer 
 Når foreldre/elev ber om å få vurdert behovet for spesialundervisning, må skolen henvise saken til PP-tjenesten for sakkyndig vurdering, og det må fattes et enkeltvedtak om spesialundervisning. Enkeltvedtaket kan være at det skal gis spesialundervisning, eller at det gis avslag. Dette vil følge fase 2 og 3 i saksgangen.
 
 Skolens plikt til å henvise saken til PP-tjenesten er den samme enten foreldrene/eleven har krevd undersøkelse, eller om de har krevd sakkyndig vurdering.
-
-Til toppen

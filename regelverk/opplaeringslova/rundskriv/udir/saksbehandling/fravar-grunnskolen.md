@@ -73,5 +73,3 @@ Hvis skolen ikke varsler, skal eleven få karakter.
 - Varsling - Forskrift til opplæringsloven § 3-8
 - Foreldresamarbeid i grunnskolen - Forskrift til opplæringsloven § 20-3
 - [Retningslinjer for føring av vitnemål og kompetansebevis](https://www.udir.no/eksamen-og-prover/vitnemal-og-kompetansebevis/)
-
-Til toppen

@@ -11,5 +11,3 @@ lagt_inn: "2026-11-05"
 April 2026:
 
 Struktur og språk i rundskrivet er gjennomgått og revidert. Det er gjort enkelte presiseringer og tilføyelser, men regelverket er ikke endret.
-
-Til toppen

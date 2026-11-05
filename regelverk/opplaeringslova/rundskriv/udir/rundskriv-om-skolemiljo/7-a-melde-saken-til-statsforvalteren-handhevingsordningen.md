@@ -173,5 +173,3 @@ Hva som er best for eleven skal også være et grunnleggende hensyn i statsforva
 Begge foreldrene har lik rett til å få informasjon under saksbehandlingen. Hvis kun en av foreldrene har meldt saken til statsforvalteren, bør statsforvalteren i utgangspunktet kunne overlate til forelderen som meldte saken å videreformidle informasjon til den andre. Dette gjelder særlig når foreldrene bor sammen. Hvis statsforvalteren er usikker på om dette blir gjort, bør de selv gi den andre forelderen informasjon. Statsforvalteren kan for eksempel sette den andre forelderen som kopimottaker av vedtaket og andre brev i forbindelse med saken.
 
 Hvis det er sannsynlig at en forelder med foreldreansvar kan bruke informasjonen hen får til å skade eleven direkte eller indirekte, kan innsynsretten til forelderen begrenses.17 I slike tilfeller vil hensynet til elevens beste være sentralt.
-
-Til toppen

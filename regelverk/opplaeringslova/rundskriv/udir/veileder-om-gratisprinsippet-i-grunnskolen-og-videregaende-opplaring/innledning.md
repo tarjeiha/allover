@@ -27,5 +27,3 @@ For private skoler, godkjent etter privatskoleloven, er grensene for hva skolene
 ## Avgrensning
 
 Denne veilederen gjelder gratisprinsippet i grunnskolen og videregående opplæring. Reglene om gratis opplæring gjelder imidlertid også for forberedende opplæring og videregående opplæring for voksne, se [opplæringsloven § 18-9](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/femte-del--forebuande-opplaring-og-vidaregaande-opplaring-for-vaksne/kapittel-18-rett-til-forebuande-opplaring-og-vidaregaande-opplaring-for-vaksne/-18-9-gratis-opplaring-for-vaksne/), men dette omtales ikke i denne veilederen.
-
-Til toppen

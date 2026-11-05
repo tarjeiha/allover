@@ -17,5 +17,3 @@ Foreldrene eller eleven kan innhente en alternativ vurdering fra en sakkyndig i 
 Dersom dette blir gjort, skal den alternative vurderingen fra den sakkyndige vurderes når skolen treffer enkeltvedtak om spesialundervisning. Denne vurderingen er en del av sakens dokumenter.
 
 Foreldrene må selv betale for denne alternative vurderingen.
-
-Til toppen

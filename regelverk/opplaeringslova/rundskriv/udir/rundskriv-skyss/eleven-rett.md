@@ -90,5 +90,3 @@ Skade eller sykdom sikter i denne sammenhengen til forbigående fysiske eller ps
 ### 2.4.3 Tilstanden gjør at eleven trenger skoleskyss
 
 Det er et vilkår om at den nedsatte funksjonsevnen, skaden eller sykdommen gjør at eleven trenger skyss. Eleven trenger ikke å være helt ute av stand til å gå til skolen. Vurderingen er om funksjonsnedsettelsen, skaden eller sykdommen representerer en byrde utover det vanlige på skoleveien. Målet er å sikre at alle elever, uansett forutsetninger, har lik rett til opplæring.
-
-Til toppen

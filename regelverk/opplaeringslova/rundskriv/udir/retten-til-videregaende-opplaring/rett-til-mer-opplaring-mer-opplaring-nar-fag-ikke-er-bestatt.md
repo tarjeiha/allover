@@ -19,5 +19,3 @@ Elever som for eksempel har overtrådt fraværsgrensen eller sluttet i faget fø
 Rett til mer opplæring for voksne deltakere følger av § 14-2.
 
 [Her kan du lese mer om deres rettigheter](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/retten-til-videregaende-opplaring/rett-til-mer-opplaring-for-voksne/)
-
-Til toppen

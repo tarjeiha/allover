@@ -50,5 +50,3 @@ Det er kommunen og fylkeskommunen som har ansvaret for å oppfylle retten til op
 
 Kommunen og fylkeskommunen må gjere vedtak når dei tek stilling til om eleven har rett til nødvendig opplæring i desse rettane.
 
-Til toppen
-

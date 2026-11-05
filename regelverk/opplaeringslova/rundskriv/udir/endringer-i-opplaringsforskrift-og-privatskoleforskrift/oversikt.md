@@ -28,5 +28,3 @@ Det er endringer i flere paragrafer i opplæringsforskriften og privatskoleforsk
 
 Vi har oppdatert [kapittel 6 i Behandling av klager på standpunktkarakterer i fag](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/behandling-av-klager-pa-standpunktkarakterer-i-fag/6.-hva-skal-statsforvalteren-vurdere/)
 
-Til toppen
-

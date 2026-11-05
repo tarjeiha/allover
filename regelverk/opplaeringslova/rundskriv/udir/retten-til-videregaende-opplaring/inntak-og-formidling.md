@@ -23,5 +23,3 @@ For å få inntak til neste nivå, må søkeren som hovedregel ha bestått alle 
 Fylkeskommunen skal formidle søkere som oppfyller vilkårene for dette til lærebedrifter. Dette står i opplæringsloven § 7-7. Den som vil bli formidlet til læreplass må søke til fylkeskommunen. Dette står i opplæringsforskriften § 7-4. For å kunne bli formidlet til læreplass som lærling, må oppfylle man oppfylle vilkårene for inntak til neste videregående trinn. Dette står i opplæringsforskriften § 4-13. Man kan søke om læreplass i et lærefag som bygger på det utdanningsprogrammet eller programområdet som gjelder for lærefaget etter tilbudsstrukturen. Fylkeskommunen kan tilby læreplass både i eget fylke og i et annet fylke. Dette står i opplæringsforskriften § 7-6.
 
 [Les om inntak og formidling til mer opplæring i fag som ikke er bestått](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/retten-til-videregaende-opplaring/rett-til-mer-opplaring/soknadsfrist/)
-
-Til toppen

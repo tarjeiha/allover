@@ -34,5 +34,3 @@ Derfor er det viktig at fylkeskommunen/kommunen bruker sin adgang til å instrue
 - kommunen/fylkeskommunen ikke kan instruere PP-tjenesten om at PP-tjenesten ikke skal uttale seg om gitte sider av opplæringstilbudet
 
 Skoleeier er ansvarlig for at PP-tjenesten har riktig forståelse av bestemmelsene i opplæringsloven. Dette er ikke det samme som PP-tjenestens faglige vurderinger.
-
-Til toppen

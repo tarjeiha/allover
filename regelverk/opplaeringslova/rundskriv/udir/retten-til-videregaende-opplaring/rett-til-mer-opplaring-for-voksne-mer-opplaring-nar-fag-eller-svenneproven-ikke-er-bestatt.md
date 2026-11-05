@@ -17,5 +17,3 @@ Det står i opplæringsforskriften § 14-2 at de som ikke har bestått en eksame
 ### Kandidater for fagbrev på jobb
 
 Voksne som har inngått en kontrakt om fagbrev på jobb blir tatt inn til videregående opplæring for voksne ved kontraktsinngåelsen og når fylkeskommunen godkjenner kontrakten. En kontrakt om fagbrev på jobb utløser dermed de samme rettigheter og plikter etter opplæringsloven, som for andre i videregående opplæring for voksne som er tatt inn etter inntaksreglene. Dette innebærer at voksne som har inngått kontrakt om fagbrev på jobb har rett til mer opplæring etter opplæringsforskriften § 14-2. En kandidat for fagbrev på jobb vil altså ha rett til mer opplæring om hen har strøket på fag- eller svenneprøven eller om hen ikke har bestått obligatorisk eksamen.
-
-Til toppen

@@ -111,5 +111,3 @@ Myndighet til å treffe enkeltvedtak om godkjenning av enkeltfag og hele opplær
 Elever må selv søke om godkjenning. Eleven har ansvaret for å fremskaffe nødvendig dokumentasjon knyttet til fagets innhold og at faget/året er bestått. Enkeltvedtak om godkjenning må som hovedregel skje på grunnlag av formell dokumentasjon. Med formell dokumentasjon menes uttalelse eller bekreftelse fra en utdanningsinstitusjon, for eksempel kompetansebevis eller vitnemål. Det er ikke tilstrekkelig med egenerklæring. Fylkeskommunen vurderer om faget eller opplæringsåret oppfyller vilkårene for godkjenning. Dersom vilkårene for godkjenning er oppfylt, har eleven rett til å få utdanningen godkjent.
 
 Fylkeskommunen har en alminnelig veiledningsplikt etter forvaltningsloven § 11. Dersom fylkeskommunen mener eleven ikke har fremskaffet tilstrekkelig dokumentasjon, har den ansvar for at saken blir forsvarlig opplyst, jf. forvaltningsloven § 17. Utredningen kan blant annet bestå i å be eleven om å skaffe ytterligere dokumentasjon. Det vises også til plikten til nødvendig utdannings- og yrkesrådgivning etter opplæringsloven § 16-1.
-
-Til toppen

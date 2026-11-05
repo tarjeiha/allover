@@ -11,5 +11,3 @@ lagt_inn: "2026-11-05"
 Eleven kan klage selv når hen har fylt 15 år, jf. opplæringsloven § 24-5.
 
 Eleven eller foreldrene kan kreve begrunnelse for standpunktkarakteren før de klager. Det står i opplæringsforskriften § 10-3. Begrunnelsen for karakteren skal være skriftlig, og skal gis av faglærer.
-
-Til toppen

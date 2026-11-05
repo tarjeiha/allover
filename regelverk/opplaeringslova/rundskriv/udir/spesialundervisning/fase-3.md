@@ -93,5 +93,3 @@ Som *minstekrav* skal den sakkyndige vurderingen inneholde PP-tjenestens vurderi
 - Elevens realistiske opplæringsmål
 - Elevens muligheter i en ordinær opplæring
 - Opplæring som gir et forsvarlig opplæringstilbud
-
-Til toppen

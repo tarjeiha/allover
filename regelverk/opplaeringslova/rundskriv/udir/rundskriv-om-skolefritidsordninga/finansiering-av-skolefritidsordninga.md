@@ -121,5 +121,3 @@ For å finne ut om hushaldet har krav på redusert foreldrebetaling, må kommune
 Eit hushald som har ei samla inntekt på 700 000 kroner i året, vil ikkje ha krav på å få redusert foreldrebetaling. For at denne familien skal ha krav på det, må foreldrebetalinga overstige 42 000 kroner i året (700 000*0,06).
 
 Har hushaldet ei samla inntekt på 450 000 kroner i året, vil regelen gjere seg gjeldande. Her vil foreldrebetalinga per barn i SFO senkast frå 30 000 kroner til 27 000 kroner (450 000*0,06). Per månad vil foreldrebetalinga senkast frå 2 727 kroner (30 000/11) til 2 454 kroner (27 000/11).
-
-Til toppen

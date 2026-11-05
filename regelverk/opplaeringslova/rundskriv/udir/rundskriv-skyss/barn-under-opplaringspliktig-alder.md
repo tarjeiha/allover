@@ -13,5 +13,3 @@ Barn under opplæringspliktig alder har rett til gratis skyss hvis det er nødve
 Barn med delt bosted kan ha rett til skyss til og fra ett eller begge hjemmene, så lenge vilkårene i barnehageloven § 36 er oppfylt.
 
 Statsforvalteren er klageinstans ved klage på kommunens vedtak om skyss. Det står i barnehageloven § 12.
-
-Til toppen

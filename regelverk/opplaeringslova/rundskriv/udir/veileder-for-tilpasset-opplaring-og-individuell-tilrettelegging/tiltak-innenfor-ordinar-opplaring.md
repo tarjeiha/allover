@@ -49,5 +49,3 @@ Fravær kan i noen tilfeller skyldes manglende faglig tilrettelegging. I en del 
 ### Les mer
 
 [Fravær i skolen](https://www.udir.no/laring-og-trivsel/forebygge-og-folge-opp-bekymringsfullt-fravar/)
-
-Til toppen

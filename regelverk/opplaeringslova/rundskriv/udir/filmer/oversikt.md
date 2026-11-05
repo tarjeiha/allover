@@ -18,5 +18,3 @@ Her kan du se en film om særskilt språkopplæring:
 
 Se også film fra IMDi om hvordan [endringer i opplæringsloven åpner for flere utdanningsmuligheter for voksne innvandrere og nyankomne](https://www.imdi.no/regelverk/nye-utdanningsveier-for-voksne-innvandrere/).
 
-Til toppen
-

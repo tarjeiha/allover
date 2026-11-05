@@ -21,5 +21,3 @@ Voksne deltakere som får mer opplæring etter opplæringsforskriften § 14-2 sk
 ### Fravær
 
 Voksne deltakere har ikke regler om fraværsgrense eller føring av fravær.
-
-Til toppen

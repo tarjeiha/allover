@@ -30,5 +30,3 @@ Det er også viktig at skolen informerer om
 Fylkeskommunen har ansvar for å sørge for nødvendig rådgivning etter opplæringsloven kapittel 16. Fylkeskommunen skal blant annet sørge for at elever får den rådgivningen de trenger om sosiale og personlige forhold som kan ha innvirkning på hvordan de har det på skolen. Elevene har rett til å få rådgivningen på skolen de går på.
 
 Foreldre til umyndige elever har rett på melding om elevens fravær. Det følger av opplæringsforskriften § 11-1 fjerde ledd. Denne inntrer før varslingsplikten etter [opplæringsforskriften § 9-7](https://www.udir.no/regelverkstolkninger/opplaring/forskrift-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringsforskrifta/tredje-delen--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-9-individuell-vurdering/i.-generelle-reglar/-9-7-varsling-om-at-karakteren-kan-falle-bort-eller-bli-sett-ned/).
-
-Til toppen

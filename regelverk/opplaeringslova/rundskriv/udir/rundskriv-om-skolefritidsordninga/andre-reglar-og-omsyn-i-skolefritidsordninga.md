@@ -42,5 +42,3 @@ Eit tilsvarande ansvar kan ikkje leggjast til styret ved private skolar som har 
 Utgangspunktet er at elevar ikkje har rett til skyss til og frå skolefritidsordninga. Elevar som på grunn av nedsett funksjonsevne, skade eller sjukdom har rett til skyss til og frå opplæringsstaden etter opplæringslova § 4-1, har òg rett til skyss til og frå skolefritidsordninga. Retten til skyss gjeld uavhengig av avstanden mellom heimen og skolefritidsordninga. Dei som har rett til skyss til og frå skolefritidsordninga, har rett til reisefølgje og tilsyn i ventetida før og etter skolefritidsordninga, viss dei treng det. Det står i opplæringslova § 4-2. Retten til skyss, reisefølgje og tilsyn gjeld ikkje i skoleferiane.
 
 Les meir i [Rundskriv om skyss punkt 2.4 og punkt 5](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-skyss/).
-
-Til toppen

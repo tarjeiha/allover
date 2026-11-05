@@ -21,5 +21,3 @@ For å sikre at skolereglane blir etterlevde, er det viktig med god informasjon,
 Skolereglane har først og fremst elevane som målgruppe, og reglane må derfor skrivast slik at elevane kan forstå dei. Dette stiller krav både til språket og utforminga av reglane. Dersom skolereglane er omfattande, kan det vere formålstenleg at skole eller kommune/fylkeskommune lagar ei oppsummering av innhaldet som dei deler ut til elevar og foreldre saman med dei fullstendige skolereglane. Vi vil også tilrå at skolereglane er tilgjengelege på heimesida til skolen.
 
 Det er viktig at elevar og foreldre gjer seg kjende med reglane. Mange skolar krev derfor at elevar og foreldre signerer på at dei har lese og forstått reglane. Skolereglane er likevel inga avtale, og er gjeldande overfor elevane sjølv om dei ikkje har signert ei slik stadfesting.
-
-Til toppen

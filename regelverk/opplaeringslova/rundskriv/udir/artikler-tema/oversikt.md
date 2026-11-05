@@ -55,5 +55,3 @@ Her finner du en alfabetisk liste over støttemateriell på regelverket for skol
 
 [Alle rundskriv og veiledere - skole](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-veiledere/)
 
-Til toppen
-

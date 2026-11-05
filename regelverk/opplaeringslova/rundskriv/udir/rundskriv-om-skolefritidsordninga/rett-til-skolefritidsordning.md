@@ -17,5 +17,3 @@ Kommunen sitt tilbod om SFO skal gjelde for elevar på 1. til 4. trinn og for el
 Kommunen kan nytte andre til å oppfylle plikta til å gi tilbod om skolefritidsordning. Eleven sin rett og kommunen si plikt er også oppfylt sjølv om det berre er private skolefritidsordningar i kommunen.
 
 Privatskolar kan drive skolefritidsordning som er knytt til skolen, men har inga plikt til det. Det følgjer av privatskolelova § 2-2. Opplæringslova § 4-5 med forskrifter gjeld ikkje slike skolefritidsordningar. Retten for elevar på 1. til 3. trinn gjeld også for elevar ved privatskolar, men det er kommunen som er ansvarleg for å oppfylle retten.
-
-Til toppen

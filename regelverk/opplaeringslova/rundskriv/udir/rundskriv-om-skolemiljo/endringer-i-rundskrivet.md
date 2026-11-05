@@ -15,5 +15,3 @@ Presisert i [kapittel 2](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplar
 **16.04.2026**
 
 [Kapittel 6.3.2 Plikt til å gripe inn](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-skolemiljo/6.-skolen-har-en-aktivitetsplikt/6.3-en-aktivitetsplikt-med-flere-delplikter/6.3.2-plikt-til-a-gripe-inn/) er oppdatert med presiseringer om forholdet til reglene om fysisk inngripen.
-
-Til toppen

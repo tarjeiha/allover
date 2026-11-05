@@ -53,5 +53,3 @@ Dersom det er fylkeskommunen som tilbyr mer grunnskoleopplæring, vil det være 
 Den som tilbyr mer grunnskoleopplæring, må derfor sørge for å ha tekniske systemer som er tilrettelagt for utstedelse av grunnskolevitnemål for deltakere som får mer grunnskoleopplæring.
 
 Hvis fylkeskommunen inngår avtale med aktuelle kommuner om å tilby mer grunnskoleopplæring, kan den for eksempel avtale at fylkeskommunen tar ansvaret for opplæringen, inkludert underveisvurderingen og sluttvurderingen, og at kommunen tar ansvaret for å utstede nytt grunnskolevitnemål til de deltakerne som er bosatt i kommunen.
-
-Til toppen

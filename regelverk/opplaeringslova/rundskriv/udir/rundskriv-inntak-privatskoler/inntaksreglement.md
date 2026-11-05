@@ -51,7 +51,6 @@ Skolen kan prioritere elever med særskilte behov, men det må fremgå klart av 
 ### Inntak på grunnlag av ferdighet eller inntaksprøve
 
 På skoler godkjent med grunnlag i privatskoleloven § 2-1 andre ledd bokstav d forutsettes det at skolene tilrettelegger særskilt for toppidrettssatsing i kombinasjon med videregående opplæring. På bakgrunn av skolens formål vil det være et saklig hensyn å legge vekt på ferdigheter til elevene som søker. Skolene kan prioritere på bakgrunn av dokumenterte ferdigheter og/eller eventuell inntaksprøve i den idretten eleven søker på.  
-   
 Udir legger til grunn at dette også vil gjelde for skoler som tilbyr utdanningsprogram musikk, dans og drama og utdanningsprogram for idrettsfag. Det vises i denne sammenheng til at offentlige videregående skoler har mulighet til å tildele plasser på grunnlag av dokumenterte ferdigheter eller eventuell inntaksprøve, se opplæringsforskriften § 4-6. Dersom en skole velger en slik inntaksordning, må det fremgå klart av reglementet hvordan dokumenterte ferdigheter og/eller eventuell inntaksprøve vil bli vektlagt i forhold til for eksempel karakterer. Inntakskriteriene må være saklige og etterprøvbare.
 
 Når det gjelder inntak til grunnskoler, tidligere godkjent som profilskoler med fokus på idrett, er det også for disse åpnet opp for at skolene kan gjennomføre inntaksprøver som en del av inntaket. Inntaksprøvene til disse skolene må være generelle, og ikke idrettsspesifikke, slik som de er ved skolene godkjent etter privatskoleloven § 2-1 andre ledd bokstav d.
@@ -96,5 +95,3 @@ Oppsummert kan følgende anses som saklige hensyn:
 - udokumentert fravær som har medført bortfall av statstilskudd
 
 Listen er ikke uttømmende og må ikke forstås som Udirs forslag til rangering.
-
-Til toppen

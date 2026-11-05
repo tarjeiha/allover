@@ -23,5 +23,3 @@ Når kommunen eller fylkeskommunen velger å tilby opplæring i samisk som fjern
 ## Privat grunnskoleopplæring i hjemmet
 
 Hvis eleven mottar privat grunnskoleopplæring i hjemmet (se [opplæringsloven § 22-5](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/sjette-del--privat-opplaring-godkjenningsordningar-og-privatistordningar/kapittel-22-privat-opplaring/-22-5-privat-grunnskoleopplaring-i-heimen/)), kan ikke foreldrene kreve å få dekket utgifter til opplæringen, for eksempel utgifter til lærebøker og undervisningsmateriell. Kommunen kan likevel velge å dekke utgifter foreldrene har til denne opplæringen.
-
-Til toppen

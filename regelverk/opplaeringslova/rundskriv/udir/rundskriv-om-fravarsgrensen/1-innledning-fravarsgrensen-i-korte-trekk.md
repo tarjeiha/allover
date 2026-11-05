@@ -57,5 +57,3 @@ Risiko for helserelatert fravær kan skyldes både fysiske og psykiske tilstande
 Hvis en elev har gått over grensen på 10 prosent, kan rektor bestemme at det likevel kan gis karakter i faget. Årsaken til fraværet må i så fall gjøre det klart urimelig at fraværsgrensen skal gjelde. Eleven må heller ikke ha mer udokumentert fravær over grensen enn opp til 15 prosent. [Se punkt 3.4 om rektors skjønn](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-fravarsgrensen/3.-hva-omfattes-av-fravarsgrensen/).
 
 > Fraværsgrensen er fastsatt i opplæringsforskriften § 9-8 og forskrift til privatskoleloven § 6-8.
-
-Til toppen

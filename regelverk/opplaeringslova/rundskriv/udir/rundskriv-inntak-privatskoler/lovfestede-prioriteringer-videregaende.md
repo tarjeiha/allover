@@ -47,5 +47,3 @@ For søkere mellom 19 og 24 år og voksne søkere over 25 år med kort botid i N
 ## Norske skoler i utlandet
 
 Norske videregående skoler i utlandet kan ikke ta inn voksne. Det vil si at disse skolene bare kan ta inn ungdom som ville hatt rett til videregående opplæring i Norge, se opplæringsloven § 5-1.
-
-Til toppen

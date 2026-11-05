@@ -17,5 +17,3 @@ De som har opplæring i bedrift vil kunne få rådgivning om [omvalg](https://ww
 Det er ikke et krav at fylkeskommunene driver aktiv og oppsøkende rådgivning, men det skal være mulig for den som har opplæring i bedrift å oppsøke rådgivning ved behov. Fylkeskommunen avgjør selv hvor de ønsker å tilby rådgivningen.
 
 Fylkeskommunen skal også tilby rådgiving om utdannings- og yrkesvalg for deltakere i forberedende og videregående opplæring for voksne. Dette er ikke en individuell rettighet til den enkelte, noe som betyr at man ikke har krav på slik rådgivning. Det er kommunen og fylkeskommunen selv som vurderer hvordan de vil oppfylle plikten og hvordan de vil organisere tilbudet. Dette står i opplæringsloven § 19-12.
-
-Til toppen

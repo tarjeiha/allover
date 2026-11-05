@@ -111,5 +111,3 @@ PP-tjenesten skal gi melding til skolen dersom deres saksbehandlingstid fører t
 Det er ingen bestemmelser i opplæringsloven eller forvaltningsloven som gir PP-tjenesten rett til å få kopi av enkeltvedtak fra skolen som en fast ordning.
 
 Skoleeier må vurdere hver enkelt sak om det er hensiktsmessig å sende PP-tjenesten kopi av enkeltvedtaket. Dette er avhengig av hvilken rolle PP-tjenesten har videre i den enkelte saken. Taushetsplikten er ikke til hinder for at opplysningene brukes for å oppnå det formålet de er gitt eller innhentet for. Dette følger av forvaltningsloven § 13 b nr. 2.
-
-Til toppen

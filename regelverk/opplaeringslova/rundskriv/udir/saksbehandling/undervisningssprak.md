@@ -33,5 +33,3 @@ Dersom skoler hvor undervisningsspråket skal være norsk eller samisk, ønsker 
 Les mer
 
 - [Kunnskapsdepartementet om undervisningsspråk i skolen](https://www.udir.no/contentassets/8f7d0511a3f547c082d4acf80f7460f0/kunnskapsdepartementet-om-undervisningssprak-i-skolen23.02.15.pdf)
-
-Til toppen

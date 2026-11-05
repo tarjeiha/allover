@@ -251,5 +251,3 @@ Skolen kan justere IOP dersom den mener det er nødvendig for at eleven skal få
 For hvert tilfelle må det vurderes om justeringene eller endringene i IOP er innenfor enkeltvedtaket, eller om det er nødvendig å fatte et nytt enkeltvedtak.
 
 *1) Ot.prp. nr. 46 (1997-98) side 50-51*
-
-Til toppen

@@ -13,5 +13,3 @@ Eleven har hovedansvaret for å velge utenlandsk utdanning som kan godkjennes i 
 Dersom eleven ikke oppfyller kravene til godkjenning ved tilbakekomst, for eksempel fordi eleven ikke bestod eller ikke fikk gjennomført opplæringen i utlandet som planlagt, kan ikke forhåndstilsagn reparere denne feilen. Det samme gjelder dersom det i etterkant viser seg at opplæringen ikke var likeverdig med eller mer omfattende enn den norske opplæringen. Fylkeskommunen fatter endelig vedtak etter at opplæringen i utlandet er bestått.
 
 Forhåndstilsagn er bindende, og dersom en annen fylkeskommune har gitt tilsagn, bør den nye fylkeskommunen vurdere den planlagte opplæringen i utlandet på samme måte, men kontrollere om opplæringen er gjennomført i samsvar med tilsagnet. Et eventuelt avslag på godkjenning etter forhåndstilsagn må begrunnes særskilt.
-
-Til toppen

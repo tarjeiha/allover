@@ -75,5 +75,3 @@ Utstyr som av skolen ikke er definert som nødvendig i opplæringen er ikke omfa
 Fylkeskommunens og kommunens ansvar, og elevens rett til skyss etter opplæringsloven, gjelder uavhengig av om eleven også har rett til tjenester som springer ut av annet lovverk. Dersom eleven oppfyller vilkårene, kan det dermed ikke fattes vedtak om avslag på skyss, tilsyn, reisefølge eller losji etter opplæringsloven, med begrunnelse at eleven allerede har lignende tilbud etter annet regelverk. Slike rettigheter kan eksistere parallelt, og eleven kan da velge hvilket tilbud hen ønsker å benytte.
 
 Skyss etter opplæringsloven skal organiseres i tråd med kravene som følger av opplæringsloven. Den som er ansvarlig for skyss etter opplæringsloven, har ikke plikt til å tilpasse skyssen til andre tilbud eleven har etter annet regelverk.
-
-Til toppen

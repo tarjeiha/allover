@@ -19,5 +19,3 @@ For videregående skoler gjelder egne prioriteringsregler. Ungdom med rett til v
 Noen skoler har særregler. Det gjelder blant annet norske privatskoler i utlandet, internasjonale skoler og skoler som er godkjent for elever med dokumenterte behov. For slike skoler kan det gjelde krav om dokumentasjon, for eksempel sakkyndig vurdering eller vedtak om individuell tilrettelegging.
 
 Et vedtak om inntak eller avslag er et enkeltvedtak. Det betyr at søkeren kan klage. Skolene kan ha søknadsfrister og inntaksfrister, men fristene må stå tydelig i reglementet. Skolen kan ikke ta gebyr for å behandle en søknad. Depositum eller forskuddsbetaling kan bare kreves etter at eleven har takket ja til plassen.
-
-Til toppen

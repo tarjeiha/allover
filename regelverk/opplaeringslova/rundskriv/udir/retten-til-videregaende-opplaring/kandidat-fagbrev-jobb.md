@@ -71,5 +71,3 @@ Se [informasjon om oppmelding og gjennomføringen av prøven](https://www.udir.n
 ## Dokumentasjon
 
 Kandidaten får fag- eller svennebrev når hen har fullført læretiden, bestått alle relevante eksamener, og bestått fag- eller svenneprøven. Det følger av opplæringsforskriften § 9-55 og § 9-48. Kandidaten får samtidig kompetansebevis. Det følger av opplæringsforskriften § 9-51.
-
-Til toppen

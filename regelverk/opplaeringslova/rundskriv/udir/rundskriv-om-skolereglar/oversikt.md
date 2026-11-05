@@ -10,8 +10,6 @@ lagt_inn: "2026-11-05"
 
 Tekst fra Utdanningsdirektoratet, hentet fra [udir.no](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-skolereglar/) 2026-11-05. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-Til toppen
-
 ## Innhold
 
 - 1. Innleiing – `1-innleiing.md`

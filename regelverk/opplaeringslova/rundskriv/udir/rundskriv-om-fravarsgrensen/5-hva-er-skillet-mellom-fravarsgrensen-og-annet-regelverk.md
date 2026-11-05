@@ -35,5 +35,3 @@ Dersom en elev har overskrevet fraværsgrensen i et fag skal ikke læreren gi ha
 Hvis en elev har høyt fravær kan det føre til at læreren ikke har tilstrekkelig vurderingsgrunnlag til å gi halvårsvurdering med karakter eller standpunktkarakter i fag.
 
 Disse reglene gjelder side om side, og innebærer for eksempel at en elev med høyt dokumentert sykefravær kan være innenfor fraværsgrensen, men likevel ikke få halvårsvurdering med karakter ved skoleårets slutt i gjennomgående fag eller standpunktkarakter fordi læreren ikke har tilstrekkelig vurderingsgrunnlag.
-
-Til toppen

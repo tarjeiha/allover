@@ -16,8 +16,7 @@ Hvis skolen klarer å tilpasse opplæringen til et mangfoldig elevgrunnlag, vil 
 
 Skolen og den enkelte læreren har et stort handlingsrom for hvordan de legger opp opplæringen. Å tilpasse opplæringen handler om å bruke dette handlingsrommet slik at alle elevene får mulighet til å lære og utvikle seg innenfor fellesskapet.
 
-Hvilke tilpasninger skolen kan gjøre avhenger blant annet av lærertetthet, lærernes kompetanse og pedagogiske praksis og skolens ledelse. Hvordan den enkelte kommunen og fylkeskommunen utnytter ressursene, er avgjørende for hvordan skolen kan legge til rette for elevene.   
-  
+Hvilke tilpasninger skolen kan gjøre avhenger blant annet av lærertetthet, lærernes kompetanse og pedagogiske praksis og skolens ledelse. Hvordan den enkelte kommunen og fylkeskommunen utnytter ressursene, er avgjørende for hvordan skolen kan legge til rette for elevene.  
 Skolen og lærerne må involvere elevene i prosessen med å tilpasse opplæringen ut fra hva som er hensiktsmessig for alderen, utviklingen og modenhetsnivået deres. Hva som er til elevenes beste skal være et grunnleggende hensyn.
 
 ## Les mer
@@ -31,5 +30,3 @@ Skolen og lærerne må involvere elevene i prosessen med å tilpasse opplæringe
 Opplæringen i forberedende opplæring for voksne (FOV) og videregående opplæring for voksne (VOV) skal bygge på kompetansen til den enkelte deltakeren, og hva som er nødvendig for at hen skal oppnå ønsket sluttkompetanse. Opplæringen skal legges opp slik at deltakerne så raskt som mulig kan oppnå relevant kompetanse for arbeid eller videre utdanning. Dette følger av opplæringsloven § 18-1.
 
 Opplæringsløpet for voksne deltakere er mer fleksibelt enn for elever. Det er ikke samme krav til for eksempel inndeling i grupper og timetall i opplæringen for voksne deltakere. Det betyr blant annet at kommunen og fylkeskommunen har et større handlingsrom til å gjøre flere tilpasninger innenfor den ordinære opplæringen for voksne deltakere i FOV og VOV enn for elever.
-
-Til toppen

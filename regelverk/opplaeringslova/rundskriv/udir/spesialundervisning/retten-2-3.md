@@ -35,5 +35,3 @@ Den instansen som har fått vedtakskompetansen delegert til seg, for eksempel re
 Skoleeier er systemansvarlig, og har ansvar for at alle nivåer er klar over dette rapporteringsansvaret, se opplæringsloven § 13-10.
 
 For at mistillit ikke skal oppstå, er det også viktig å påpeke at den som rapporterer har ansvar for at dette skjer på et ansvarlig og seriøst grunnlag. Det betyr at både over- og underrapportering må unngås.
-
-Til toppen

@@ -22,5 +22,3 @@ I noen tilfeller er det vanskelig å avklare de faktiske forholdene i saken. Det
 
 - [Opplæringsloven § 13-2](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/fjerde-del--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-13-ordenstiltak-og-skadeforebygging-m.m/-13-2-palagt-skolebyte/)
 - [Klage på vedtak er regulert i § 29-1](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/sjuande-del--forskjellige-reglar/kapittel-29-klageinstans-tilsyn-og-forsok/-29-1-klageinstans-for-enkeltvedtak/)
-
-Til toppen

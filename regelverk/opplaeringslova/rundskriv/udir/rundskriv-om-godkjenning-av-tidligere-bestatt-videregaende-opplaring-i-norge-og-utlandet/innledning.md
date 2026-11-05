@@ -13,5 +13,3 @@ lagt_inn: "2026-11-05"
 I denne teksten redegjør vi for hvordan opplæringsforskriften § 5-11 skal forstås. Vi tar for oss godkjenning både av enkeltfag og av hele opplæringsår. Til slutt ser vi på hvordan godkjenning av enkeltfag/hele opplæringsår henger sammen med andre regler, som retten til videregående opplæring og plikten til rådgivning.
 
 En tilsvarende godkjenningsordning er fastsatt i [privatskoleforskriften § 4-8](https://www.udir.no/regelverkstolkninger/Privatskole/forskrift-til-privatskolelova-privatskoleforskrifta/andre-delen--vidaregaande-opplaring/kapittel-4-innhaldet-i-den-vidaregaande-opplaringa/-4-8-godkjenning-av-tidlegare-bestatt-opplaring/). Informasjonen i dette rundskrivet gjelder så langt det passer også for denne ordningen.
-
-Til toppen

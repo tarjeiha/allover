@@ -41,5 +41,3 @@ Fylkeskommunen må vurdere om det er dokumentert at eleven har den kompetansen s
 Dette gjelder også for elever på studiespesialiserende som mangler programfag 1 (for eksempel fordi opplæringsåret i utlandet ikke inneholdt et fag som tilsvarte det aktuell programfag 1) og søker om et gitt programfag 2.
 
 Eleven kan tas inn til programfag 2 uten at programfag 1 er bestått eller tilsvarende er gjennomgått. Vi viser til opplæringsforskriften § 4-13 om vilkårene for inntak til vg2 og vg3 der det er bestemt at en elev kan tas inn på neste trinn dersom fylkeskommunen etter en samlet vurdering mener det er forsvarlig ut fra søkerens faglige forutsetninger.
-
-Til toppen
