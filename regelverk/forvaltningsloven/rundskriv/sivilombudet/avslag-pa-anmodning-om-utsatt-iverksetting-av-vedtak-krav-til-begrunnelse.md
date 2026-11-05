@@ -1,0 +1,99 @@
+---
+rundskriv: "Sivilombudets uttalelse 28.6.2019 (2019/410)"
+utgiver: "Sivilombudet"
+lov: "Forvaltningsloven"
+dato: "2019-06-28"
+saksnummer: "2019/410"
+kilde: "https://www.sivilombudet.no/uttalelser/avslag-pa-anmodning-om-utsatt-iverksetting-av-vedtak-krav-til-begrunnelse/"
+lagt_inn: "2026-11-05"
+---
+
+# Avslag på anmodning om utsatt iverksetting av vedtak – krav til begrunnelse
+
+Sivilombudets uttalelse 28.6.2019 (sak 2019/410).
+
+## Oppsummering
+
+Klima- og miljødepartementet avslo en anmodning om utsatt iverksetting av vedtak om kvote for lisensfelling av ulv innenfor ulvesonen.  
+   
+ Ombudsmannen er kommet til at departementets begrunnelse i avslaget ikke tilfredsstiller de minimumskravene som må stilles til innholdet av begrunnelsesplikten etter forvaltningsloven § 42. Departementet skulle ha nevnt de hovedhensynene som inngikk i vurderingen av anmodningen om utsatt iverksetting. Videre skulle departementet på en klarere og mer forståelig måte gjort kort rede for de hensynene som var avgjørende for avslaget.  
+   
+ Departementet bes merke seg ombudsmannens merknader i denne saken og legge disse til grunn ved utformingen av fremtidige avslag på anmodninger om utsatt iverksetting av vedtak.
+
+## Sakens bakgrunn
+
+Rovviltnemndene i region 4 (Oslo, Akershus og Østfold) og region 5 (Hedmark) vedtok 19. juni 2018 kvote for lisensfelling av ulv for lisensfellingsåret 2018/2019. Det ble vedtatt en kvote på 12 ulver utenfor ulvesonen i Akershus og Hedmark. Videre ble det åpnet for lisensfelling av alle individene i revirene Slettås, Hobøl og Mangen, som ligger innenfor ulvesonen. Vedtaket ble påklaget av en rekke interesseorganisasjoner og foreninger.
+
+I vedtak 27. september 2018 stadfestet Klima- og miljødepartementet den delen av rovviltnemndenes vedtak som gjaldt lisensfelling av 12 ulver utenfor ulvesonen.
+
+Den delen av rovviltnemndenes vedtak som gjaldt lisensfelling innenfor ulvesonen, ble klagebehandlet 17. desember 2018. Departementet stadfestet vedtaket for så vidt gjaldt ulvereviret Slettås. Det ble åpnet for lisensfelling av inntil tre ulver i dette reviret, som var det antallet som fremgikk av sporing og observasjoner. For revirene Hobøl og Mangen kom departementet til at det ikke skulle åpnes for lisensfelling. Rovviltnemndenes vedtak om kvote for lisensfelling for disse to revirene ble følgelig omgjort. Av departementets konklusjon fremgikk det blant annet:
+
+«Det er departementets vurdering at skadeomfang og skadepotensial for samtlige revirer er begrenset og at det dermed ikke er rettslig grunnlag for lisensfelling etter naturmangfoldloven § 18 første ledd bokstav b. For ulvereviret Slettås, anser departementet at det foreligger offentlige interesser av vesentlig betydning som tilsier felling, slik at vilkåret for lisensfelling etter naturmangfoldloven § 18 første ledd bokstav c er oppfylt … Departementet har videre kommet til at det for Slettås ikke finnes andre tilfredsstillende løsninger enn lisensfelling. Uttak vil ikke true bestandens overlevelse.»
+
+A (klager) varslet 28. desember 2018 at de ville anlegge søksmål mot Staten v/Klima- og miljødepartementet om gyldigheten av den delen av vedtaket 17. desember 2018 som gjaldt lisensfelling av ulv i Slettåsreviret. I medhold av forvaltningsloven § 42 anmodet klager om utsatt iverksetting av vedtaket inntil det forelå endelig dom i saken. Klager opplyste at de også ville begjære midlertidig forføyning for utsatt gjennomføring av vedtaket. Det ble påpekt at det ikke hastet med felling av Slettåsflokken, ettersom ulvene ikke utgjorde noen umiddelbar fare for interesser i lokalsamfunnet eller på nasjonalt nivå.
+
+Anmodningen om utsatt iverksetting ble avslått av Klima- og miljødepartementet 28. desember 2018, dvs. samme dag som den ble fremmet. Avslaget ble begrunnet slik:
+
+«Departementet har lagt vekt på at det ikke foreligger nye opplysninger eller andre forhold i saken som tilsier at vedtakets gjennomføring bør utsettes.»
+
+I e-post 29. desember 2018 fastholdt klager anmodningen om utsatt iverksetting, og ba om en begrunnelse som tilfredsstilte kravene i forvaltningsloven § 42. Klager ba dessuten departementet om i det minste å vurdere utsatt iverksetting av vedtaket inntil begjæringen om midlertidig forføyning var behandlet av domstolene. Det ble vist til at lisensfellingsjakten startet 1. januar 2019, og at hovedmålet med anmodningen var å hindre at ulvene ble felt.
+
+Departementet svarte i e-post 31. januar 2018:
+
+«Klima- og miljødepartementet har vurdert anmodningen og kan ikke se at det er grunnlag for å endre vår beslutning av 28. desember 2018.»
+
+I e-post senere samme dag opplyste klager at det var berammet rettsmøte i saken 3. januar 2019. I lys av dette, samt at sakens gjenstand ville bortfalle dersom ulvene ble felt, ba klager departementet om å suspendere fellingstillatelsen inntil retten hadde tatt stilling til begjæringen om midlertidig forføyning. Denne siste anmodningen ble ikke besvart av departementet før to av de antatte tre ulvene i Slettåsreviret ble felt 1. januar 2019.
+
+Ved Oslo byfogdembetes kjennelse 7. januar 2019 ble klagers begjæring om midlertidig forføyning i form av utsatt iverksetting av vedtaket 17. desember 2018, ikke tatt til følge.
+
+Klager henvendte seg til ombudsmannen 17. januar 2019. I klagen ble det fremholdt at departementet ikke hadde begrunnet avslaget på anmodningen om utsatt iverksetting av vedtaket. Den manglende grunngivningen var – anførte klager – i strid med forvaltningsloven § 42 og god forvaltningsskikk, og gjorde beslutningen uforståelig. Klager hevdet også at det kunne være risiko for at avslag uten begrunnelse utviklet seg til en mer generell praksis. Denne påstanden ble blant annet underbygget med henvisning til en tidligere klage til ombudsmannen, som gjaldt manglende begrunnelse fra Miljødirektoratet ved avslag på anmodning om utsatt iverksetting av vedtak om lisensfelling av ulv utenfor ulvesonen.
+
+## Våre undersøkelser
+
+Etter en gjennomgang av klagen fant vi grunn til å undersøke Klima- og miljødepartementets grunngivning i beslutningen 28. desember 2018 nærmere.
+
+Vi ba departementet om å gi sitt begrunnede syn på om grunngivningen i avslaget kunne anses å være i tråd med forvaltningsloven § 42 og de ulovfestede kravene til god forvaltningsskikk. Herunder spurte vi om departementet mente at den begrunnelsen som var gitt, var tilstrekkelig til å forstå hvilke momenter som var vektlagt ved vurderingen av spørsmålet om utsatt iverksetting, og på hvilket grunnlag anmodningen var avslått.
+
+Videre viste vi til opplysningene i anmodningen om at klager ville bringe saken inn for domstolene, begjære midlertidig forføyning for utsatt gjennomføring av vedtaket og at det ikke hastet med felling av Slettåsflokken. Vi spurte om – og eventuelt i hvilken grad – disse opplysningene var tillagt vekt ved vurderingen av spørsmålet om utsatt iverksetting. Såfremt opplysningene var tillagt vekt, spurte vi om forholdene burde vært kommentert eller på andre måter berørt i begrunnelsen for avslaget. Endelig spurte vi om departementet mente at det kunne være grunn til å gi en noe mer utfyllende begrunnelse for et avslag om utsatt iverksetting når avslaget, som i denne saken, ville kunne ha irreversible virkninger.
+
+Departementet svarte at begrunnelsen i avslaget 28. desember 2018 var knapp, men at den ikke var i strid med forvaltningsloven § 42. Det var departementets syn at den begrunnelsen som var gitt, måtte sees i sammenheng med vedtaket 17. desember 2018. Vedtaket var svært grundig. Herunder var det gitt en utfyllende begrunnelse for hvorfor departementet mente at vilkåret i naturmangfoldloven § 18 første ledd bokstav c om å ivareta «andre offentlige interesser av vesentlig betydning», var oppfylt. Departementet mente at det ikke var grunnlag for å gjøre unntak fra hovedregelen om at vedtak skal iverksettes umiddelbart. Klager hadde ikke fremlagt opplysninger som tilsa at vedtaket ikke var riktig, eller at det bygget på et mangefult grunnlag. Klagers anmodning – skrev departementet – var generelt sett knapp, og inneholdt verken ny faktisk eller rettslig dokumentasjon.
+
+En utsettelse inntil det forelå endelig dom i saken, ville i praksis medført at det ikke ble felling i lisensfellingsperioden 1. januar – 15. februar 2019. Når departementet etter en grundig vurdering allerede hadde konkludert med at «andre offentlige interesser av vesentlig betydning» tilsa felling, syntes det ikke nødvendig å gi en nærmere begrunnelse for avslaget. Departementet skrev at flere forhold tilsa at det også hadde vært riktig å avslå klagers anmodning om utsettelse inntil begjæringen om midlertidig førføyning var behandlet. Blant annet var det usikkert hvor lenge en utsettelse ville vare, og det var uheldig å forkorte en allerede knapp fellingsperiode. Uttak etter naturmangfoldloven ville dessuten alltid ha irreversible virkninger. Den irreversible virkningen at ulvene i Slettåsreviret ble felt, var selve formålet med departementets vedtak. Hovedregelen om umiddelbar iverksetting gjaldt likevel. Departementet fremholdt at dette var forhold som «ligger i dagen», og som departementet i dette tilfellet ikke hadde en rettslig plikt til uttrykkelig å omtale i avslaget.
+
+Naturmangfoldloven § 18 første ledd bokstav c ga anvisning på en svært skjønnsmessig vurdering. Det var derfor sannsynlig at det ville være delte meninger om departementets vedtak. Klagers anmodning om utsatt iverksetting fremsto som en ekstra klagerunde. I et slikt tilfelle burde en anmodning som ikke presenterte ny argumentasjon, ikke utløse en plikt til en omfattende begrunnelse. Omfanget av begrunnelsesplikten måtte dessuten sees i lys av at det i perioden 28. – 31. desember 2018 hadde vært svært redusert bemanning i departementet grunnet juleferie. Samtidig var det kort tid til lisensfellingsjakten startet, og en rask behandling av anmodningen hadde derfor blitt vurdert som særlig viktig.
+
+Departementet hadde foretatt en avveining av de forholdene som talte henholdsvis for og imot utsatt iverksetting. Hensynet til den forestående domstolsbehandlingen talte klart for utsettelse. Departementet var også enig med klager i at ulvene i Slettåsflokken ikke utgjorde noen umiddelbar fare, selv om det var presserende å ta ut reviret i løpet av den kommende fellingsperioden. Etter departementets syn veide imidlertid de forholdene som talte mot utsatt iverksetting tyngre. Disse hensynene fremgikk at punkt 7.3.3.6 i vedtaket 17. desember 2018. Der hadde departementet gitt sin samlede vurdering av saken, herunder redegjort for det rettslige grunnlaget for å gi kvote til lisensfelling av ulvene i Slettåsreviret.
+
+Avslutningsvis skrev departementet at det var riktig at avslaget på utsatt iverksetting kunne ha – og hadde hatt – irreversible virkninger. Betydningen av dette måtte imidlertid ikke overdrives. Fellingen av Slettåsflokken truet ikke den sør-skandinaviske ulvebestandens overlevelse, og fellingen var ikke til hinder for at det nasjonale bestandsmålet for ulv ble nådd. Ulvene var heller ikke genetisk verdifulle.
+
+Departementets svarbrev ble oversendt klager. Klager kom med merknader, som igjen ble oversendt departementet. Departementet har ikke hatt ytterligere merknader til saken.
+
+## Ombudsmannens syn på saken
+
+Det er Klima- og miljødepartementets begrunnelse i beslutningen 28. desember 2018 om å avslå klagers anmodning om utsatt iverksetting av vedtaket 17. desember 2018 som har vært undersøkt, og som derfor vil bli vurdert i det følgende. Spørsmålet er om begrunnelsen er i tråd med reglene i forvaltningsloven § 42. Hvorvidt selve avslaget om utsatt iverksetting er rettslig holdbart, herunder om avslaget er klart urimelig, er ikke en del av saken her.
+
+Forvaltningslovens utgangspunkt er at enkeltvedtak skal iverksettes så snart de er truffet, i henhold til det vedtaket selv bestemmer. I forvaltningsloven § 42 er det åpnet for unntak fra dette utgangspunktet. Etter bestemmelsens første ledd kan forvaltningen beslutte å utsette gjennomføringen av et vedtak til (1) klagefristen er utløpt eller klagesaken er endelig avgjort, eller (2) til det foreligger endelig dom i saken, når en part eller annen med rettslig klageinteresse akter å gå til søksmål eller har reist søksmål for å få vedtaket prøvd for domstolene. Tilsvarende gjelder (3) når en part eller annen med rettslig klageinteresse akter å bringe eller har brakt en sak inn for Sivilombudsmannen. Adgangen til å beslutte utsatt iverksetting er skjønnsmessig, og avgjørelsen hører inn under det frie forvaltningsskjønnet.
+
+Det følger av forvaltningsloven § 42 første ledd fjerde punktum at en anmodning om utsatt iverksetting skal avgjøres snarest mulig. Et avslag på en anmodning om utsatt iverksetting er en prosessledende beslutning, og ikke et enkeltvedtak. Det innebærer blant annet at reglene i forvaltningsloven §§ 24 og 25 om krav til begrunnelse og begrunnelsens innhold, ikke kommer til anvendelse. Av § 42 andre ledd andre og tredje punktum fremgår det imidlertid:
+
+«Avslag på anmodning om utsetting skal være grunngitt. Begrunnelsen skal gis samtidig med avslaget.»
+
+Det er ikke gitt regler om hva begrunnelsen skal inneholde. Spørsmålet er heller ikke direkte berørt i bestemmelsens forarbeider, Ot.prp. nr. 38 (1964-1965) s. 121, jf. Ot.prp. nr. 3 (1976-1977) s. 103. Av motivene fremgår det imidlertid at reglene om begrunnelse er gitt med det formål «å sikre en omhyggelig vurdering av slike begjæringer».
+
+Innholdet i plikten til å begrunne avslag på anmodninger om utsatt iverksetting, er sparsomt behandlet i juridisk litteratur. Woxholt, Forvaltningsloven med kommentarer (5. utg. 2011) s. 660 legger til grunn at prinsippene om begrunnelsens innhold i forvaltningsloven § 25 bør følges analogisk, men presiserer samtidig at forvaltningen ikke har en plikt til å gi en begrunnelse i samsvar med denne bestemmelsen. Tilsvarende synes forutsatt av Aulstad, Jussens venner 2010 s. 323 (s. 334). I Norsk lovkommentar på rettsdata.no skriver Bernt i note 1086 til forvaltningsloven § 42 at det «normalt [må] være tilstrekkelig med en ganske kortfattet redegjørelse over de hensyn en har funnet avgjørende» (sist revidert 06.12.17).
+
+Ved vurderingen av Klima- og miljødepartementets begrunnelse i avslaget 28. desember 2018 finner ombudsmannen det naturlig å ta utgangspunkt i at begrunnelsesplikten etter forvaltningsloven § 42 er snevrere enn den som følger av § 25 om begrunnelsens innhold for enkeltvedtak. Omfanget av begrunnelsesplikten må også sees i sammenheng med at anmodninger om utsetting skal avgjøres snarest mulig, og at begrunnelsen skal gis samtidig med avslaget. I klagers sak var rask behandling av anmodningen ansett særlig viktig, ettersom det kun var få dager igjen til lisensfellingsjakten for ulv startet 1. januar 2019.
+
+Etter ombudsmannens syn bør tidsmomentets innvirkning på begrunnelsespliktens omfang, imidlertid ikke overdrives. En anmodning om utsatt iverksetting må uansett undergis en forsvarlig vurdering. Herunder må det grunnleggende kravet til forsvarlig saksbehandling ivaretas. Forsvarlighetskravet gjelder også i perioder med redusert bemanning og høyt arbeidspress.
+
+Formålet bak begrunnelsesreglene i forvaltningsloven § 42 – å sikre en omhyggelig vurdering av anmodninger om utsatt iverksetting – tilsier at begrunnelsen i det minste bør inneholde en kort redegjørelse for hvilke hovedhensyn som har inngått i forvaltningens vurdering og hvilke hensyn som har vært avgjørende for avslaget. En begrunnelse med et slikt innhold vil bidra til å sikre at vesentlige sider ved saken blir sett, vurdert og vektet mot hverandre. I tilfeller der anmodningen inneholder konkrete opplysninger av betydning for iverksettelsen av vedtaket, vil det etter omstendighetene dessuten være nærliggende at forvaltningen kommenterer disse. En slik kortfattet begrunnelse vil ikke bare sikre en omhyggelig vurdering av anmodningen, men også gjøre avslaget mer forståelig for mottakeren. Videre vil det kunne bidra til å styrke borgernes tillitt til forvaltningen mer generelt. Der anmodningen er undergitt en omhyggelig vurdering – slik forarbeidene forutsetter – kan ombudsmannen vanskelig se at det vil kreve uforholdsmessig mye tid eller ressurser kort å nedtegne de hovedhensynene som allerede er identifisert, vektet og funnet avgjørende.
+
+Departementets begrunnelse i avslaget 28. desember 2018 er svært kort. Begrunnelsen fremstår dessuten generell, og den er lite informativ. Det er vanskelig ut fra begrunnelsen å forstå hvilke hovedhensyn departementet har vurdert, og hva som har vært avgjørende for departementets avslag. Dertil kommer at det i denne saken hadde vært nærliggende å kommentere de opplysningene klager kom med i anmodningen, og som departementet i svarbrevet hit har opplyst at ble vurdert og tillagt vekt. Det at vedtaket 17. desember 2018 er grundig og inneholder en omfattende begrunnelse for konklusjonen om lisensfelling i Slettåsreviret, kan vanskelig sees å ha betydning for omfanget av begrunnelsesplikten. Vurderingstemaet ved en anmodning om utsatt iverksetting er ikke om det vedtaket en ønsker utsatt iverksetting av, er rettslig holdbart eller ikke. Selv om departementet mener at vedtaket 17. desember 2018 er riktig, kan klager ha gode grunner for å ønske en rettslig overprøving av departementets rettsanvendelse og subsumsjon. Av samme grunn kan det ikke tillegges vekt at klagers anmodning om utsatt iverksetting ikke inneholdt nye faktiske eller rettslige anførsler.
+
+Den redegjørelsen som er gitt i svarbrevet hit, viser at departementet har vurdert og vektet ulike hensyn som taler henholdsvis for og imot utsatt iverksetting av vedtaket. Flere av de hensynene departementet har vist til, fremstår som saklige og relevante. Begrunnelsen for et avslag om utsatt iverksetting skal imidlertid gis samtidig med avslaget, jf. forvaltningsloven § 42 andre ledd tredje punktum. Ombudsmannen mener at den begrunnelsen som ble gitt i avslaget 28. desember 2018 ikke tilfredsstiller det minimum som må kreves av en begrunnelse etter forvaltningsloven § 42. De hovedhensynene som inngikk i vurderingen av klagers anmodning om utsatt iverksetting, skulle vært nevnt. Videre burde departementet på en klarere og mer forståelig måte gjort kort rede for hvilke hensyn som var avgjørende for departementets avslag.
+
+Forvaltningsloven § 25 om begrunnelsens innhold for enkeltvedtak er minimumsregler. Bestemmelsen er utformet slik at kravene til begrunnelsens innhold vil variere med behovet i den enkelte saken. Forvaltningen må derfor alltid vurdere om det bør gis en mer utfyllende begrunnelse enn det som strengt tatt følger av ordlyden i § 25. Gode grunner taler for at begrunnelsesplikten i § 42 bør forstås på samme måte. I enkelte tilfeller vil det kunne være både formålstjenlig og nødvendig å gi en noe mer utfyllende begrunnelse enn det minimum bestemmelsen krever. Det at en umiddelbar iverksetting av vedtaket vil kunne ha irreversible virkninger, er et hensyn som kan trekke i retning av at forvaltningen bør gi en noe mer utfyllende begrunnelse for et avslag.
+
+## Konklusjon
+
+Ombudsmannen har kommet til at den begrunnelsen departementet ga i avslaget 28. desember 2018 på klagers anmodning om utsatt iverksetting av vedtaket 17. desember 2018, ikke er i tråd med begrunnelsesplikten i forvaltningsloven § 42. Slik denne saken står, er det ikke grunnlag for å be departementet om å begrunne avslaget på nytt. Departementet bes imidlertid merke seg ombudsmannens merknader i denne saken og legge disse til grunn ved utformingen av fremtidige avslag på anmodninger om utsatt iverksetting av vedtak.

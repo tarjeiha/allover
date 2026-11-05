@@ -1,0 +1,259 @@
+---
+rundskriv: "Sivilombudets uttalelse 27.6.2025 (2024/6159)"
+utgiver: "Sivilombudet"
+lov: "Offentleglova"
+lover: "Forvaltningsloven"
+dato: "2025-06-27"
+saksnummer: "2024/6159"
+kilde: "https://www.sivilombudet.no/uttalelser/rekkevidden-av-taushetsplikten-i-sjoloven-ved-innsyn-i-aksjonslogg-innhentet-av-statens-havarikommisjon/"
+lagt_inn: "2026-11-05"
+---
+
+# Rekkevidden av taushetsplikten i sjøloven ved innsyn i aksjonslogg innhentet av Statens havarikommisjon
+
+Sivilombudets uttalelse 27.6.2025 (sak 2024/6159).
+
+## Oppsummering
+
+Saken gjelder innsyn i X radios aksjonslogg som Statens havarikommisjon innhentet i forbindelse med sine undersøkelser av et forlis i 2015. Innsynskravet ble først avslått av Statens havarikommisjon (SHK). Samferdselsdepartementet opprettholdt avslaget slik at loggen ble unntatt innsyn i sin helhet. Departementet mente at aksjonsloggen var en «forklaring» som det ikke kunne gis innsyn i da dette ville være i strid med sjøloven § 477 tredje ledd der det står at forklaringer «kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen».   
+   
+ Sivilombudet kom til at det knytter seg begrunnet tvil til om departementet har rett forståelse av § 477 tredje ledd sett hen til direktiv 2009/18/EF når departementet har kommet til at aksjonsloggen som er produsert i utgangspunkt for et annet formål av en ekstern instans og i forkant av SHKs undersøkelser, er taushetsbelagt i sin helhet.   
+   
+ Ombudet ba Samferdselsdepartementet om å behandle saken på nytt i lys av de føringene som er gitt i uttalelsen.   
+ Ombudet var enig med departementet at samordningen mellom §§ 477 og 480 synes å ha blitt krevende. Det er etter dette bra at departementet har et pågående revisjonsarbeid knyttet til taushetspliktbestemmelsene.
+
+Se oppdatering fra forvaltningen
+
+## Sakens bakgrunn
+
+Advokatfullmektig B ba på vegne av A (heretter klageren) Statens havarikommisjon (heretter SHK) om innsyn i logg fra X radio for redningsaksjonen i anledning et forlis dd. mm 2015. SHK avslo kravet i avgjørelse 23. august 2024.
+
+Samferdselsdepartementet opprettholdt SHKs avslag i avgjørelse 8. november 2024 under henvisning til unntaket for taushetsbelagte opplysninger i offentleglova § 13 jf. bestemmelsen om opplysningsplikt mv. i sjøloven §§ 477 tredje ledd og 480 om taushetsplikt. Departementet tok utgangspunkt i sjøloven § 477 og viste til at «[d]enne paragrafen regulerer i første omgang plikten til å gi SHK alle opplysninger som er relevante for undersøkelsen. Fordi denne plikten i utgangspunktet er absolutt, har det til gjengjeld vært behov for å beskytte kildene mot negative konsekvenser av å gi de opplysningene de plikter å gi SHK. I siste instans kan dette være nødvendig for å unngå selvinkriminering. Departementet skrev at § 477 tredje ledd «må forstås som en tematisk begrenset taushetsplikt; bare bruk under ‘sikkerhetsundersøkelsen’ er tillatt».
+
+Videre skrev departementet:
+
+«§ 477 tredje ledd gjennomfører deler av direktiv 2009/18/EF om gransking av sjøulykker mv. i intern norsk rett. Det er ikke tvilsomt at lovgiver har ment å gjennomføre direktivet på en fullstendig og lojal måte, jf. Prop. 143 L (2010-2011). Direktivet artikkel 9 er den sentrale bestemmelsen om taushet (‘Fortrolighet’ på dansk og ‘Confidentiality’ på engelsk), og lyder slik:
+
+‘ … medlemsstatene [skal] innenfor rammen av sine rettsordener sikre at følgende opplysninger ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen, med mindre vedkommende myndighet i gjeldende medlemsstat bestemmer at offentliggjøring er av vesentlig allmenn interesse:
+
+a) alle vitneforklaringer og andre uttalelser, redegjørelser og nedtegnelser som undersøkelsesorganet har innhentet eller mottatt under sikkerhetsundersøkelsen,
+
+b) opplysninger som avslører identiteten til personer som har avgitt forklaring innenfor rammen av sikkerhetsundersøkelsen,
+
+c) opplysninger om personer som har vært innblandet i sjøulykken eller sjøhendelsen, som er av særlig følsom eller privat art, herunder opplysninger om deres helse’»
+
+Departementet uttalte at måten § 477 og direktivet er bygd opp på «i seg selv ikke kan være et avgjørende argument mot å legge en vid tolkning av ordet ‘Forklaring som nevnt i første og annet ledd’ til grunn». Til dette viste departementet til at direktivet som hovedregel ikke er til hinder for at nasjonal rett går lengre i å beskytte de interessene direktivet er ment å ivareta enn direktivet selv, og at den videre ordlyden i sjøloven § 477 første ledd måtte være avgjørende for taushetspliktens omfang. Departementet mente også at formålet med bestemmelsene måtte tillegges stor vekt «når en skal ta stilling til om ordet «Forklaring» i tredje ledd gjør at den aktuelle aksjonsloggen ikke er omfattet av taushetsplikten i tredje ledd.» Deretter vurderte departementet formålsbetraktninger. Departementet mente at dokumenter som ikke var oppstått på oppfordring fra Statens havarikommisjon, var vanskeligere å vurdere opp mot formålet med § 477. Men viste til at begrunnelsen for taushetsplikten er «å øke sannsynligheten for at SHK faktisk skal bli gitt tilgang til dem». Det avgjørende var etter departementets syn ikke om aksjonsloggen i foreliggende sak inneholdt opplysninger av en slik karakter at en ville frykte konsekvenser av å gi dem til SHK. Hensynet til forutberegnelighet tilsa at regelen må ha «et visst sjablongpreg». Deretter konkluderte departementet
+
+«Departementet er etter dette enig med SHK i at § 477 tredje ledd omfatter den aktuelle aksjonsloggen, og derfor bare kan brukes til ‘sikkerhetsundersøkelsen’. Departementet legger samtidig til grunn at denne forståelsen gjør taushetsplikten omfattende. En konkret avveining av interessene er likevel mulig å foreta i medhold av § 480 så lenge det ikke bryter med den underliggende grensedragningen som følger av direktivet.»
+
+Departementet kom til at opplysningene som er taushetsbelagte i medhold av § 477 tredje ledd kan underlegges den interesseavveiningen som følger av § 480 andre punktum da taushetsplikten etter § 477 tredje ledd er strengere enn bestemmelsene i forvaltningsloven. Departementet kunne ikke se at klageren hadde beskrevet en bruk eller formål som var av en slik karakter at det «kommer over terskelen ‘tungtveiende offentlig interesse’». Departementet viste til at dette var en snever unntaksregel.
+
+Avslutningsvis skrev departementet at det ikke var tatt stilling til om loggen var taushetsbelagt hos «kilden – for eksempel hos Hovedredningssentralen».
+
+Departementet opprettholdt etter dette Statens havarikommisjons avgjørelse om å avslå krav om innsyn i loggen.
+
+I klagen hit 11. november 2024 anførte advokatfullmektigen på vegne av klageren at det ikke var rettskildemessig dekning for å tolke sjøloven § 477 tredje ledd til å omfatte ethvert dokument som oversendes til Statens havarikommisjon, og at bestemmelsen ikke ga hjemmel til å nekte innsyn i loggen fra Hovedredningssentralen. Etter klagers syn kan ordet «forklaring» ikke inkludere eksisterende dokumenter som overleveres til Statens havarikommisjon, i motsatt fall vil sjøloven § 477 tredje ledd, andre og tredje punktum bli overflødig. I klagen ble det også anført at direktiv 2009/18/EF om gransking av sjøulykker mv. artikkel 9 sett i sammenheng med fortalen punkt 10 er ment å beskytte vitneutsagn i anledning saken og ikke ethvert dokument som oversendes til undersøkelsesmyndighetene.
+
+## Våre undersøkelser
+
+Vi fant grunn til å undersøke saken nærmere med Samferdselsdepartementet. I brev 5. februar 2025 ble departementet bedt om å besvare spørsmål om rekkevidden av taushetsplikten i medhold av sjøloven. Våre spørsmål og departementets svar i brev 3. mars 2025 refereres nedenfor.
+
+Først viste vi til at unntaket fra offentlighet i offentleglova § 13 gjelder taushetsbelagte opplysninger. Taushetsplikten i sjøloven § 480 gjelder de opplysninger som etter forvaltningsloven er taushetsbelagt. Departementet ble bedt om sitt syn på om det skal sees hen til begrensningene i taushetsplikten jf. forvaltningsloven § 13 a ved vurderingen av rekkevidden av taushetsplikten etter sjøloven. Vi viste til at det f.eks. kunne gjelde opplysninger som er offentlig kjent gjennom rapport SJØ år/nr. eller opplysninger som klageren og andre fikk tilgang til under undersøkelsen i medhold av § 484 andre ledd.
+
+Til dette svarte departementet at opplysninger som er offentlig kjent (forvaltningsloven § 13 a nr. 3) ikke var taushetsbelagte etter sjøloven § 480. Departementet mente dette «må nærmest sies å være et logisk nødvendig unntak fra taushetsplikten» og at denne forståelsen ikke kunne være i strid med kravet om fortrolighet i direktiv 2009/18/EF.
+
+Departementet mente at alternativene i forvaltningsloven § 13 a nr. 1 (at taushetsplikten ikke er til hinder for at opplysninger gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning de som har krav på taushet samtykker), «ikke [var] like enkle å uttale seg generelt om». Dette utdypet departementet slik:
+
+«Det er et helt sentralt hensyn bak direktiv 2009/18/EF at undersøkelsen ikke skal omfatte fordeling av skyld eller ansvar (nevnt i formålsbestemmelsen i artikkel 1 nr. 2 og flere andre steder). Fordi lovgiver har tilsiktet å gjennomføre direktivet fullstendig, må det også tillegges stor vekt ved tolkningen av de paragrafene som er relevante i saken.
+
+Dersom en opplysning f.eks. kan brukes som grunnlag for å rette et erstatningssøksmål mot noen som er omtalt («direkte gjelder») i de dokumentene Statens havarikommisjon får tilgang til som ledd i undersøkelsen, og det å dele opplysningen med noen som ønsker tilgang til dem ikke er nødvendig for å forebygge fremtidige ulykker (det eneste legitime formålet med undersøkelsen), så skal/kan opplysningene ikke deles selv med en person opplysningene gjelder. Alternativet «samtykker» er vanskelig å anvende i slike saker, fordi kretsen av dem som kan risikere skyld eller ansvar er ubestemt. Når spørsmålet viser til «opplysninger klageren og andre fikk tilgang til under undersøkelsen», så ser det ut til å vise til en situasjon der klageren allerede har fått tilgang til opplysningene. Vi kan ikke se at det er en relevant kategori i denne saken.»
+
+For det annet ba vi departementet om å gi et begrunnet svar på om innsyn etter offentleglova vil være å stille opplysningene «til rådighet for andre formål enn sikkerhetsundersøkelsen», jf. § 477 tredje ledd første punktum jf. artikkel 9 i direktiv 2009/18/EF.
+
+Departementet viste til at det følger av innledningen til direktiv 2009/18/EF artikkel 9 at «de opplysningene som er omfattet av bestemmelsen ikke skal stilles til rådighet for andre formål enn sikkerhetsundersøkelsen» og skrev videre:
+
+«Med sikkerhetsundersøkelse menes den aktiviteten undersøkelsesorganet (her SHK) utfører etter reglene i artikkel 8. Formålet med undersøkelsen er til sist bare ett; å forebygge (redusere sannsynligheten for) fremtidige sjøulykker, jf. artikkel 1 nr. 1. Bruk av opplysninger som strider mot dette formålet er ikke forenlig med direktivet. Opplysningene skal bare brukes til å forstå årsakene til ulykken (lære), og til å gi anbefalinger om korrigerende tiltak. Måten undersøkelsesorganet deler sin årsaksforståelse på er gjennom den offentlige undersøkelsesrapporten nevnt i artikkel 14, ikke ved å dele (offentliggjøre) de «rådataene» den har mottatt utenfra. Disse er bare underlagsmateriale for den (presumptivt) nøye gjennomtenkte ordlyden i rapporten. Personer som gir opplysninger til undersøkelsesmyndigheten skal kunne gjøre det i tillit til at opplysningene blir håndtert på denne bevisst regulerte, og nøye avveide, måten. Det er naturlig å tolke utrykket «andre formål enn sikkerhetsundersøkelsen» i sjøloven § 477 tredje ledd første setning som en henvisning til det formålet som er forklart ovenfor.
+
+Da blir svaret at det å gi innsyn etter offentleglova er et annet formål enn det som er anerkjent i sjøloven § 477 tredje ledd.»
+
+I vårt tredje spørsmål ba vi departementet gir et begrunnet svar på om § 477 tredje ledd er en bestemmelse om taushetsplikt, som ved offentleglova § 13 innebærer et unntak fra offentleglova § 3. Til dette ble departementet også bedt om å gi en noe nærmere redegjørelse for en eventuell sammenheng mellom beskyttelse mot selvinkriminering og taushetsplikt og om å gi et begrunnet svar på om departementet mener taushetsplikten omfatter Statens havarikommisjons dokumenter (inkludert mottatte dokumenter) i forbindelse med en undersøkelse av sjøulykke i sin helhet.
+
+Departementet viste til særmerknadene til sjøloven § 477 i Prop. 143 L (2010-2011) der det står at «føresegna svarer til artikkel 9 i direktivet og at denne artikkelen har følgende formulering innledningsvis: «skal sikre at følgende opplysninger ikke stilles til rådighet for andre formål enn …». Departementet viste til at dette i klagevedtaket var omtalt som en «tematisk begrenset taushetsplikt» og skrev så: «All bruk som ikke uttrykkelig er tillatt, er i strid med direktivet.» Til dette skrev departementet videre:
+
+«Å gi innsyn etter offentleglova § 3 i de opplysningene som er omfattet av den taushetsplikten som følger av § 477 tredje ledd og direktivet er å stille dem til rådighet for noe annet enn sikkerhetsundersøkelser. Det er ikke tillatt.
+
+Da sjøloven ble endret i 2005, og den strenge forklaringsplikten som følger av § 477 første ledd var et sentralt element, var behovet for å unngå selvinkriminering et sentralt grep. På det tidspunktet fantes det ikke en bestemmelse i EU-regler eller andre internasjonale regler som tilsvarer taushetsbestemmelsen i direktiv 2009/18/EF artikkel 9.
+
+Med gjennomføringen av artikkel 9 ved lov 16. desember 2011 nr. 64 ble gjennomføringen av taushetsplikten i direktivet et selvstendig formål med § 477 tredje ledd – ved siden av forbudet mot å bidra til selvinkriminering. Det betyr motsatt at § 477 tredje ledd som gjennomføring av direktivet artikkel 9 står på egne ben, og er uavhengig av selvinkrimineringstematikken.
+
+Dermed har samordningen mellom § 477 og § 480 blitt krevende. Dette er departementet seg bevisst i et pågående revisjonsarbeid. Selv om det ikke er direkte relevant for saken, finner vi grunn til å nevne at luftfartsloven § 12-7 tredje ledd (som SHK også anvender) er et eksempel på en bestemmelse der samordningen mellom den underliggende EU-forordningen om undersøkelse av flyulykker (996/2010) og taushetsplikten i den norske loven er formulert mer direkte.
+
+Departementet mener ikke at den taushetsplikten som følger av samspillet mellom direktivets artikkel 9 og § 477 tredje ledd omfatter alle opplysninger undersøkelsesmyndigheten mottar [Departementets kursivering]. Rent faktiske opplysninger som fremkommer av dokumenter som er laget før ulykken og undersøkelsen vil det typisk ikke være behov for å taushetsbelegge ut fra formålet med taushetsplikten i disse sakene.
+
+Formålet er å gi kildene til sikkerhetsrelevant informasjon (informasjon som kan gi innsikt i hvordan fremtidige ulykker kan forebygges) trygghet for at de ikke risikerer negative konsekvenser av å gi opplysningene til undersøkelsesmyndigheten. Dette formålet krever et vern som strekker seg lenger enn vernet mot selvinkriminering i formell forstand. Det krever at man tar på alvor hva kildene rent faktisk kan frykte av negative konsekvenser. Den gjentagende henvisningen i direktivet til at undersøkelsen ikke skal fordele skyld eller ansvar er naturlig å se på som et utslag av denne underliggende ikke-straffende tilnærmingen.
+
+Departementet legger til grunn at det samlede rettskildematerialet gjør det nødvendig å foreta en konkret vurdering av om de aktuelle opplysningene og det aktuelle dokumentet er av en slik karakter at Statens havarikommisjons kilde kunne ha fryktet negative konsekvenser av å gi det til Statens havarikommisjon. Denne konkrete vurderingen har vi foretatt i klagevedtaket. Det er ikke åpnet for en slik konkret vurdering i form av en skjønnspreget unntaksregel i § 477.
+
+I stedet mener departementet at dette må gjøres ved å lese samlet formuleringen «forhold som kan være av betydning for undersøkelsen av en sjøulykke» i § 477 første ledd og ‘Forklaringer som nevnt i første og annet ledd kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen’ i § 477 tredje ledd. Da blir det mulig å vurdere hvilke mottatte opplysninger som bare bør kunne brukes av Statens havarikommisjon basert på en konkret formålsvurdering. [Departementets kursivering]»
+
+Til vårt fjerde spørsmål viste vi til forarbeidene til sjøloven § 480 og ba departementet gi sin vurdering av hvilken selvstendig betydning § 480 har med den fortolkningen departementet har lagt til grunn av § 477 tredje ledd for dokumenter og opplysninger knyttet til en undersøkelse av en sjøulykke.
+
+Departementet svarte at det fremgår av Prop. 143 L (2010-2011) punkt 3.4. siste avsnitt at det ble «valgt å ikke ta inn et uttrykkelig unntak fra hovedregelen i § 477 tredje ledd første setning selv om det skulle foreligge ‘overriding public interest’, slik direktivets artikkel 9 åpner for». Videre redegjorde departementet at grunnen til at det var tatt med en kort behandling av forholdet til § 480 i klagevedtaket, var for å «presisere at selv om opplysninger som er taushetsbelagt i medhold av § 477 tredje ledd også er å anse som taushetsbelagte i relasjon til § 480, så er det i denne konkrete saken uansett ikke grunnlag for å regne opplysningene som omfattet av unntakene mot slutten av § 480. [Departementets kursivering]» Departementet mente at det samme resultatet ville en komme til i denne konkrete saken selv om det ble lagt til grunn at formuleringen fra forarbeidene tilsier at unntakene i § 480 overhodet ikke er anvendelige.
+
+Vi ba departementet deretter gi sin vurdering av om opplysninger som ikke er underlagt taushetsplikt i medhold av offentleglova § 13 jf. forvaltningsloven § 13 og derfor i utgangspunktet er offentlige hos organet som har avgitt opplysninger til Statens havarikommisjon, samtidig er taushetsbelagte hos Statens havarikommisjon.
+
+Til dette svarte departementet at opplysningene kan være offentlige hos organet som gir opplysningene til Statens havarikommisjon, men likevel være taushetsbelagte hos Statens havarikommisjon og la til at «[d]ette kan skje ved at de kan få en annen betydning når de inngår i den konteksten som en ulykkesundersøkelse utgjør». Departementet viste videre til sitt svar til spørsmål åtte.
+
+Vårt sjette spørsmål var om departementet kunne vedlegge aksjonsloggen til svaret til ombudet med markeringer av hvilke opplysninger som er taushetsbelagte.
+
+Departementet viste til klagevedtaket innebar at «hele loggen som sådan (dokumentet) er unntatt offentlighet» og at det derfor ikke var mulig å skille mellom taushetsbelagte og ikke- taushetsbelagte opplysninger i dokumentet». Departementet skrev så:
+
+«Loggen beskriver opptreden til de menneskene som var involvert i redningen (og kanskje også andre). Når Statens havarikommisjon ber om å få tilsendt loggen, kan det ikke utelukkes at den personen som skal ta den beslutningen ikke føler at vedkommende har oversikt over om det kan få negative følger for noen av de involverte. Derfor legger systemet opp til (det formålet som er beskrevet ovenfor) at vedkommende skal slippe å foreta en slik konkret vurdering. I stedet er dette dokumentet etter sin art taushetsbelagt i sin helhet.»
+
+Til vårt sjuende spørsmål viste vi til at departementet i avgjørelsen 8. november 2024 hadde uttalt at «[d]et er ikke tvilsomt at lovgiver har ment å gjennomføre direktivet på en fullstendig og lojal måte, jf. Prop. 143 L (2010-2011». Vi ba departementet om å gi sin merknad til dette knyttet opp til at følgende tekst fra artikkel 9 i direktivet ikke er inntatt i sjøloven § 477: «unless the competent authority in that Member State determines that there is an overriding public interest in the disclosure of…». Vi viste også til Nærings- og handelsdepartementets uttalelser i forarbeidene (Ot.prp.143 L (2010-2011) kapittel 3.4.5.
+
+Departementet viste til svarene som var gitt til de tidligere spørsmålene, særlig til spørsmål 4.
+
+Til sist ba vi om at eventuelle øvrige merknader til de rettslige sidene av saken ble gitt sammen med svaret til ombudet.
+
+Departementet ga følgende merknader:
+
+«I brev av 11. november 2024 til Sivilombudet har klagerens advokat (nederst s. 2) vist til danske forarbeider til gjennomføringen av direktivet. Der skilles det mellom («på den ene side») ulike opplysninger undersøkelsesorganets får tilgang til, og («På den anden») det at undersøkelsesorganets rapporter er offentlige. Vi har vanskelig for å se at dette gir noen ytterligere støtte for klageren. Vårt klagevedtak er også utledet av ordlyden i den norske sjøloven, ikke bare av direktivet. Ordlyden i § 477 første ledd (som igjen knyttes sammen med tredje ledd) er noe bredere formulert.
+
+Samtidig er vi enig i at sjøloven ideelt sett bør omformuleres for å reflektere at formålet bak reglene ikke tilsier at absolutt alle opplysninger Statens havarikommisjon mottar som ledd i undersøkelser skal være taushetsbelagte (jf. svaret på spørsmål 3).
+
+Svaret på spørsmål 5 illustrerer et generelt poeng; der dokumenter som eksisterer uavhengig av ulykken og undersøkelsen finnes et annet sted enn hos SHK, er det naturlig at man henvender seg til kilden for å få tilgang til. SHK er ikke opprettet for å være en generell kunnskapsbase, som journalister eller andre skal kunne bruke som kilde. SHK – og i det hele tatt undersøkelsesorganer opprettet i medhold av internasjonale regler – er spesialiserte organer med et svært «spisst» formål; å forebygge fremtidige ulykker. Utgangspunktet er stikk motsatt av offentleglovas; all informasjon som gis til SHK skal forbli hos SHK, med ett unntak: Den informasjonen som gjengis og brukes i ulykkesrapporten. Av samme grunn skal det ikke gå informasjon fra SHK til politiet (det er det motsatte som skjer). I tillegg er det særlige regler i de syv lovene om bevisføring i sivil- og straffeprosess.
+
+Alt sammen er skreddersydde lex specialis-regler som er ment å verne om den skjøre tilliten SHK er avhengig av hos potensielle kilder til informasjon. Når målet er å unngå fremtidige tap av liv har man måttet ta noen krevende valg, og det innebærer andre offentlighetsregler enn dem som følger av offentleglova.
+
+Departementet er i gang med et revisjonsarbeid der vi forsøker å utforme en generell taushetsbestemmelse som skal være mest mulig lik for alle de syv områdene (syv lover) som Statens havarikommisjon nå har undersøkelsesansvar for. [Departementets kursiveringer]»
+
+Departementets svar ble sendt til klagers advokat for eventuelle merknader.
+
+## Sivilombudets syn på saken
+
+### 1. Rettslige utgangspunkter
+
+Det følger av offentleglova § 3 at som utgangspunkt er forvaltningens saksdokumenter offentlige. Imidlertid er det bestemt i offentleglova § 13 første ledd at «[o]pplysningar som er underlagde teieplikt i lov eller i medhald av lov, er unnatekne frå innsyn».
+
+Det er gitt en særskilt taushetspliktbestemmelse for Statens havarikommisjon i sjøloven § 480 som lyder:
+
+«Enhver som utfører tjeneste eller arbeid for undersøkelsesmyndigheten har taushetsplikt etter forvaltningsloven om det som de får kjennskap til under utførelse av sitt arbeid. Når taushetsbelagte opplysninger mottas fra noen som etter norsk lov har en strengere taushetsplikt enn det som følger av forvaltningsloven, skal tilsvarende strenge taushetsplikt gjelde for personer nevnt i første punktum, med mindre tungtveiende offentlige interesser tilsier at opplysningene bør kunne gis videre eller opplysningene er nødvendige for å forklare årsakene til ulykken.»
+
+Taushetspliktbestemmelsen for SHK kom inn i sjøloven ved endrings-lov 7. januar 2005 nr. 2 som trådte i kraft 1. juli 2008, jf. resolusjon (FOR-2007-02-23-226). I merknaden til bestemmelsen i forarbeidene (Ot.prp.nr. 78 (2003-2004) kapittel 23 side 87) er det presisert at det er forvaltningslovens regler om taushetsplikt som gjelder for undersøkelsesmyndigheten og at fra denne taushetsplikten kan det ikke gjøres unntak. For det tilfelle at opplysningene opprinnelig er underlagt en strengere taushetsplikt enn forvaltningslovens regler, vil denne taushetsplikten smitte over på undersøkelsesmyndigheten, «men slik at opplysningene likevel kan gis videre dersom tungtveiende offentlige interesser tilsier det, eller opplysningene er nødvendige for å forklare årsakene til ulykken». I forarbeidene kapittel 11.4 drøftet Justis- og politidepartementet om det i tillegg til den alminnelige taushetsplikten etter forvaltningsloven var behov for taushetsplikt for forklaringer som en domstol etter reglene i tvistemålsloven. Departementet skrev så:
+
+«På grunn av hensynet til offentlighetens interesse i årsaksforholdene er det imidlertid departementets utgangspunkt for vurderingene her at det bør kreves meget tungtveiende grunner for å innføre strengere regler om taushetsplikt for undersøkelsesmyndigheten enn det som ellers følger av forvaltningslovens alminnelige regler. Beskyttelse av vitner bør etter departementets syn primært skje i form av regler som sikrer at man unngår at forklaringen kan bli brukt mot vitnet i en senere straffesak mot vedkommende, jf utkastet [til Sjølovkomiteen] § 477 siste ledd, og ikke gjennom særskilte regler om taushetsplikt som er til hinder for offentlighetens innsyn i årsaksforholdene.
+
+Departementet finner likevel grunn til å vurdere nærmere om det på enkelte punkter kan være grunn til å innføre en slik strengere taushetsplikt, slik Sjølovkomiteen foreslår.»
+
+Justis- og politidepartementet gjennomgikk behovet for taushet om ulike opplysninger. Blant annet viste departementet til tvistemålsloven § 208 om forhold som kan utsette vitnet eller nærstående til vitnet for straff, men kom til at forvaltningslovens taushetspliktbestemmelser var tilstrekkelige «kombinert med regler som beskytter vitnet mot at forklaringen kan brukes mot vedkommende som bevis i en senere straffesak, jf utkastet § 477 siste ledd».
+
+Taushetsplikten i medhold av forvaltningsloven § 13 første ledd nr. 1 gjelder opplysninger om noens personlige forhold. «Noens personlige forhold» omfatter ikke alle opplysninger om enkeltpersoner. Det må dreie seg om opplysninger som det er vanlig å ville holde for seg selv, se bl.a. NOU 2003:30 Ny offentlighetslov, side 229. Dette kan gjelde opplysninger om egenskaper ved en person, men også «noe som han har gjort», jf. Ot.prp. nr. 3 (1976-1977) s. 136. I den nærmere vurderingen må man blant annet legge vekt på om opplysningene, alene eller sammen med andre tilgjengelige opplysninger, kan skade eller utlevere en person. Det må også legges vekt på om opplysningene er gitt i noe som minner om et betroelsesforhold og om utleveringen av opplysningene kan skade tillitsforholdet til forvaltningen.
+
+Etter forvaltningsloven § 13 andre ledd er det en rekke typisk mindre sensitive opplysninger, som for eksempel yrke, bopel og lignende, som ikke regnes som personlige forhold, med mindre slike opplysninger «røper […] andre forhold som må anses som personlige».
+
+I forvaltningsloven § 13 a er det opplistet begrensninger i taushetsplikten «når det ikke er behov for beskyttelse». Etter bestemmelsens nr. 1 er taushetsplikten ikke til hinder for «at opplysninger gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning de som har krav på taushet samtykker». Etter bestemmelsens nr. 3 er taushetsplikten ikke til hinder for «at opplysningene brukes når ingen berettiget interesse tilsier at de holdes hemmelig, f.eks. når de er alminnelig kjent eller alminnelig tilgjengelig andre steder».
+
+Sjøloven § 477 regulerer opplysningsplikten mv. til SHK og lyder:
+
+«Enhver plikter på forlangende og uten hensyn til taushetsplikt å gi undersøkelsesmyndigheten de opplysninger vedkommende sitter inne med om forhold som kan være av betydning for undersøkelsen av en sjøulykke, og å utlevere dokumenter og annet som kan bidra til å klarlegge de faktiske forhold. Enhver som forklarer seg for undersøkelsesmyndigheten har rett til å la seg bistå av advokat eller annen fullmektig.
+
+Skipsføreren eller rederiet skal fremlegge utskrift av hva skipsbøkene inneholder om sjøulykken, og gi opplysninger om skipets besetning, hvem som antas å kunne gi opplysninger om sjøulykken og hvilke personer og foretak som berøres av den, og skal på oppfordring gi en utfyllende skriftlig redegjørelse for sjøulykken.
+
+Forklaringer som nevnt i første og annet ledd kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen. Dette gjelder også for opplysninger som avslører identiteten til personer som har avgitt forklaring, og opplysninger av særlig følsom eller privat art om personer som har vært innblandet i ulykken. Opplysninger fremkommet under forklaringene kan ikke brukes som bevis mot den som har avgitt forklaringen i en senere straffesak mot vedkommende.»
+
+Sjøloven § 477 tar sikte på å gjennomføre artikkel 9 i direktiv 2009/18/EF. Artikkelen har bestemmelser om begrensninger i bruken av opplysninger hos undersøkelsesmyndigheten (SHK). Se nærmere nedenfor i avsnitt 48 følgende.
+
+Sjøloven § 484 regulerer rettigheter for dem saken angår. I andre ledd første punktum står det at «[i]nnen undersøkelsen avsluttes, skal de som er nevnt i første ledd gis adgang til å fremkomme med opplysninger og synspunkter om sjøulykken og dens årsaksfaktorer». I andre ledd andre punktum står det at de «bør også gis adgang til å være til stede ved undersøkelsene og har rett til å gjøre seg kjent med dokumentene, i den utstrekning undersøkelsesmyndigheten finner at dette kan skje uten hinder for undersøkelsen». I tredje punktum står det at dette «gjelder med de begrensninger som følger av taushetsplikten, jf. § 480».
+
+### 2. Om rekkevidden av taushetsplikten i sjøloven for innhentet aksjonslogg
+
+Saken gjelder innsyn i X radios aksjonslogg som Statens havarikommisjon (SHK) innhentet i forbindelse med undersøkelser av et forlis i 2015. Det var X radio som mottok nødsamtalen fra mannskapet om bord i båten og som kontaktet Hovedredningssentralen, se Statens Havarikommisjon for Transports rapport SJØ år/nr. Det er noe uklart for ombudet om aksjonsloggen ble innhentet fra Hovedredningssentralen eller andre. Kravet om innsyn i loggen ble avslått i sin helhet under henvisning til offentleglova § 13 jf. taushetsplikten i sjøloven § 477 tredje ledd jf. § 480.
+
+Statens havarikommisjon har til oppgave å «kartlegge hendelsesforløp og årsaksfaktorer, utrede forhold av betydning for å forebygge sjøulykker og bedre sjøsikkerheten, og avgi og offentliggjøre en rapport med sine eventuelle tilrådninger når undersøkelsen er avsluttet», se sjøloven § 473 andre ledd. Det er bestemt samme sted at SHK ikke skal vurdere sivilrettslig eller strafferettslig skyld og ansvar.
+
+Departementet har i svaret til ombudet fremhevet at SHK har et «spisst» formål og at utgangspunktet er stikk motsatt av offentleglovas ved at «all informasjon som gis til SHK skal forbli hos SHK, med ett unntak: Den informasjonen som gjengis og brukes i ulykkesrapporten».
+
+Sivilombudet vil til dette peke på at innsynsretten gjelder som utgangspunkt i alle saksdokumenter til staten og kommunene, se Grunnloven § 100 femte ledd første setning og offentleglova § 3. SHK er ikke unntatt offentleglovas virkeområde som innebærer at «saksdokument, journalar og liknande register for organet er opne for innsyn dersom ikkje anna følgjer av lov eller forskrift med heimel i lov», jf. offentleglova § 3. Det gir derfor et uriktig inntrykk når Samferdselsdepartementet skriver at SHK ikke er opprettet for å være en generell kunnskapsbase, som journalister eller andre skal kunne bruke som kilde og at der dokumentet også finnes et annet sted, så er det naturlig at en henvender seg til kilden for å få tilgang til dokumentet. SHK har på lik linje med andre offentlige organer samfunnsviktige oppgaver, og få eller ingen organer er opprettet for å være en generell kunnskapsbase, men som likevel etter offentleglova skal være åpen for innsyn og behandle innsynskrav «konkret og sjølvstendig», jf. offentleglova §§ 1, 3 og 29 første ledd.
+
+Unntak fra offentlighet krever hjemmel i lov. Det følger av offentleglova § 13 at «[o]pplysningar som er underlagde teieplikt i lov eller i medhald av lov, er unnatekne frå innsyn». Slik ombudet forstår Samferdselsdepartementet mener departementet at det er gitt en særregel om taushetsplikt i sjøloven § 477 tredje ledd som trer i stedet for den mer generelt formulerte taushetsplikten i sjøloven § 480 og dens henvisning til taushetspliktbestemmelsene i forvaltningsloven. Departementet mener aksjonsloggen er en «forklaring» etter sjøloven § 477 første ledd som det ikke skal gis innsyn i da dette ville være i strid med sjøloven § 477 tredje ledd der det står at forklaringer etter bestemmelsens første og andre ledd «kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen».
+
+Spørsmålet som vurderes i det følgende er om sjøloven § 477 tredje ledd hjemler taushetsplikt for loggen i sin helhet, og loggen dermed er unntatt offentlighet. Det er herunder spørsmål om aksjonsloggen som er laget av ekstern virksomhet, forut for SHKs undersøkelser og primært for et annet formål enn det SHK har, kan regnes som en «forklaring» etter § 477 tredje ledd jf. første ledd. Departementet har opplyst i svaret hit at «klagevedtak er også utledet av ordlyden i den norske sjøloven, ikke bare av direktivet». Ombudet vil i det følgende både vurdere hva som var fastsatt i bestemmelsen før gjennomføringen av direktivet og hva som kan utledes av direktivet og gjennomføringen i sjøloven.
+
+I § 477 første ledd står det at opplysningsplikten omfatter «de opplysninger vedkommende sitter inne med om forhold som kan være av betydning for undersøkelsen av en sjøulykke, og å utlevere dokumenter og annet som kan bidra til å klarlegge de faktiske forhold». Ordet forklaring er ikke brukt i første ledd og det er derfor et spørsmål om forklaring i tredje ledd peker tilbake på alle eksemplene nevnt i første ledd, eller om det kun er ment å omfatte det som en med naturlig forståelse av ordet er en forklaring – det vil si en redegjørelse for et forhold, gitt muntlig, eller alternativt skriftlig direkte overfor det organet/instansen som skal vurdere/avgjøre en sak. Med en slik forståelse vil ikke en aksjonslogg fra en bergingsaksjon, produsert eksternt og for et annet formål, naturlig falle inn under forklaringer gitt til SHK som ledd i deres undersøkelser.
+
+Ved innføringen av reglene om havarikommisjonen ved endringslov (LOV-2005-01-07-2) gjennomgikk departementet i forarbeidene (Ot.prp.nr. 78 (2003-2004) i kapittel 10.4 høringsinnspillene gitt til Sjølovkomiteens (NOU 1999:30) flertallsforslag om avgrensning mot forklaring etter dagjeldende tvistemålslov §§ 204-206 der forslaget om opplysningsplikt i § 474 første ledd hadde slik ordlyd:
+
+«Enhver som har opplysninger om forhold som kan være av betydning for undersøkelsen av en sjøulykke, skal avgi forklaring til Havarikommisjonen og i tilfelle utlevere dokumenter og annet som kan bidra til å klarlegge de faktiske forhold, samt i rimelig utstrekning yte annen medvirkning som kommisjonen trenger for å få gjennomført undersøkelsen. Dette gjelder ikke opplysninger som retten ikke kan ta imot forklaring om etter tvistemålsloven §§ 204 til 206.»
+
+Det var da et skille mellom forklaringer som skulle avgis og dokumenter som skulle utleveres. Ved endringen som ble gjort av departementet i proposisjonen ble dette skillet fjernet ved at ordet forklaring ble tatt ut av første ledd. Departementet kom til at det skulle foreslås en ubegrenset opplysningsplikt overfor undersøkelsesmyndighetene da dette ville legge forholdende best til rette for sakens opplysning og det forebyggende sjøsikkerhetsarbeidet. Men at opplysningsplikten ble «kombinert med en bestemmelse om at forklaringene bare kunne brukes til sjøsikkerhetsmessige formål, og ikke tillates brukt i senere straffesak som bevis mot den som har avgitt forklaringen.» Politiet kunne bruke den endelige rapporten og også ta opp egne forklaringer om de samme forhold. Opplysningsplikten skulle også ses i sammenheng med forslaget til § 480 som «beskytter taushetsbelagte opplysninger ved å pålegge undersøkelsesmyndigheten taushetsplikt», se Ot.prp.nr. 78 (2003-2004) kapittel 23 side 86. Næringskomiteen på Stortinget støttet forslaget om opplysningsplikt med de begrensningene som var foreslått i bruken av forklaringene. Komiteen støttet også at det ikke ble forslått en særskilt taushetsplikt for undersøkelsesmyndigheten, men «regler som med enkelte unntak gir en tilsvarende streng taushetsplikt for opplysninger som er undergitt en strengere taushetsplikt enn det som følger av forvaltningsloven», se Innst.O.nr. 26 (2004-2005) kapittel 3.5, 3.6 og 3.13.
+
+Ombudet mener disse forarbeidene taler for at en ved innføringen av reglene om havarikommisjonen ikke så på dokumenter produsert av eksterne i forkant og for et annet formål, som «forklaringer». Utsagnet om at «forklaringer» bare kan brukes til sjøsikkerhetsmessige forhold sammen med henvisningen til den alminnelige taushetsplikten i § 480, tilsier det. Det kan synes som at lovgiver har hatt en snevrere forståelse av «forklaringer» enn det Samferdselsdepartementet nå legger til grunn at ligger i § 477 første ledd. En snevrere forståelse av «forklaringer» er også bedre i tråd med uttalelsene om hvordan politiet skal forholde seg til det arbeidet som havarikommisjonen gjør i sine undersøkelser. Etter det ombudet kan se er det også best i tråd med øvrige bestemmelser i kapittelet i sjøloven om undersøkelse av sjøulykker, se § 479 om tiltak for å fremskaffe opplysninger, § 481 om bevissikring og § 475 a om plikt til sikring av bevis.
+
+Det er deretter et spørsmål om innlemmelsen av direktiv 2009/18/EF (LOV-2011-12-16-64) førte til at «forklaringer» i tredje ledd også omfatter dokumenter innhentet av SHK. Direktivet ble innlemmet i EØS-avtalens vedlegg XIII (Transport) uten tilpasninger ved EØS-beslutning nr. 62/2012 av 30. mars 2012. Stortinget ga samtykke i vedtak 6. desember 2012 til godkjenning av EØS-komiteens beslutning. Ved endringslov til sjøloven (LOV-2011-12-16-64) ble direktivet gjennomført.
+
+Slik ombudet forstår Samferdselsdepartementets svar, mener departementet at § 477 tredje ledd ble en selvstendig bestemmelse om taushetsplikt ved gjennomføringen av direktiv 2009/18/EF ved endringslov til sjøloven.
+
+Ved lovendringen ble det gjort kun mindre endringer i lovteksten til § 477 og ingen endringer i taushetspliktbestemmelsen i § 480. I § 477 tredje ledd ble første punktum endret fra at forklaringene «kan bare brukes til sjøsikkerhetsmessige formål» til at forklaringer «kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen». Til dette sto det i forarbeidene (Ot.prp.nr. 143 L (2010-2011)) at det innebar en innskjerping at begrepet «sikkerhetsundersøkelsen» erstattet «sjøsikkerhetsmessige formål» og som innebar at «opplysningane berre kan stillast til råvelde for granskingsorganet i samband med den aktuelle granskinga», se kapittel 5 i merknaden til § 477. Videre ble det ved lovendringen tilføyd et andre punktum: «Dette gjelder også for opplysninger som avslører identiteten til personer som har avgitt forklaring, og opplysninger av særlig følsom eller privat art om personer som har vært innblandet i ulykken». I forarbeidene sto det at dette tilsvarte artikkel 9 i direktiv 2009/18 EF om grunnleggende prinsipper («fundamental principles») for undersøkelser av ulykker i sjøtransportsektoren.
+
+Direktivets artikkel 9 har overskriften «Fortrolighed» («Confidentiality») og lyder:
+
+«Med forbehold af direktiv 95/46/EF sikrer medlemsstaterne inden for rammerne af deres retssystemer, at følgende oplysninger [«records»] ikke er til rådighed til andre formål end sikkerhedsundersøgelsen, medmindre den kompetente myndighed i den pågældende medlemsstat bestemmer, at der er en væsentlig samfundsinteresse forbundet med deres videregivelse:
+
+a) alle vidneforklaringer og andre erklæringer, redegørelser og noter, som undersøgelsesinstansen har optaget eller modtaget under sikkerhedsundersøgelsen
+
+b) Oplysninger [«records»], der afslører identiteten af personer, der har afgivet forklaringer som led i sikkerhedsundersøgelsen
+
+c) oplysninger [«information»] vedrørende personer, der har været involveret i ulykken eller hændelsen til søs, som er af særlig følsom eller privat art, herunder helbredsoplysninger.»
+
+Oppramsingen av vitneforklaringer, andre erklæringer, redegjørelser og notater kan forstås som dokumenter av samme kategori, med andre ord dokumenter som produseres av eller for SHK i forbindelse med undersøkelsene. Med en slik forståelse vil dette ikke naturlig omfatte en aksjonslogg utarbeidet eksternt, før SHKs undersøkelser og for et eget formål. Det kan imidlertid ikke utelukkes etter ordlyden at redegjørelser og notater ikke også vil omfatte innhentet aksjonslogg. I de ulike offisielle språkversjonene er redegjørelser og notater gitt følgende ordlyd: «accounts and notes»/ «redegørelser og noter»/ «Berichte und Aufzeichnungen»/ «redegörelser och anteckningar» (engelsk/dansk/tysk/svensk offisiell versjon).
+
+Formålet med direktivet, oppgitt i artikkel 1, er blant annet å «fremme en hurtig gennemførelse af sikkerhedsundersøgelser og en grundig analyse af ulykker og hændelser til søs for at fastslå årsagerne til dem». I fortalen til direktivet (nr. 10) står det:
+
+«Inden for rammerne af deres retssystemer bør medlemsstaterne beskytte vidneudsagn om søulykker og forhindre, at sådanne vidneudsagn benyttes til andre formål end sikkerhedsundersøgelser med henblik på at forhindre diskrimination af eller repressalier mod vidner på grund af deres deltagelse i sikkerhedsundersøgelsen.»
+
+Det kan stilles spørsmål om dokumenter som SHK mottar som ikke faller inn under formålet om vern mot selvinkriminering, vil være omfattet av bokstav a.
+
+Artikkelens bokstav b og c som angir at enkelte oppramsede opplysninger («oplysninger»/ «records») ikke skal røpes, kan forstås slik at det likevel kan gis innsyn i enkelte deler av den mottatte informasjonen. Det vises også til forordet i vedlegget (annex I) til direktivet om rapporten som undersøkelsen skal munne ut i, der det står:
+
+«en sikkerhedsanbefaling i intet tilfælde kan skabe en formodning om ansvar eller skyld, og at rapporten med hensyn til indhold og stil ikke er udarbejdet med henblik på at blive brugt i retssager. (Rapporten bør ikke indeholde henvisninger til vidneforklaringer eller kæde personer, som der henvises til i rapporten, sammen med en person, som har afgivet vidneforklaring under sikkerhedsundersøgelsen.)»
+
+Artikkel 9 synes etter dette å forutsette en viss offentliggjøring av opplysninger fra innhentede dokumenter. Det er imidlertid uklart om det skal forstås som en oppmykning av taushetsplikten i bokstav a, eller det skal forstås som at bokstav a kun regulerer noen av dokumentene som kommisjonen produserer og mottar – med andre ord som tolkningsmoment for at alternativene i bokstav a ikke må forstås for vidt.
+
+Dersom oppramsingen i artikkel 9 bokstav a også skal forstås slik at den omfatter dokumenter utarbeidet av eksterne i forkant og for (i utgangspunktet) et annet formål, er det vanskelig å se dette vil kunne tilfredsstille begrensningen til bruk kun for sikkerhetsundersøkelsens formål, all den tid dokumentet allerede eksisterer utenfor SHK og med et eget formål.
+
+I artikkel 8 er det gitt regler om undersøkelsesinstansen, herunder hvilken informasjon den skal ha tilgang til. Det kan ikke ses at artikkel 8 direkte regulerer innhenting av dokumenter fra Hovedredningssentralen eller lignende.
+
+Ombudet ser at ved den danske implementeringen av direktivet ble det i forarbeidene uttrykkelig vurdert forholdet til den danske offentlighedsloven og gitt en taushetspliktbestemmelse som også omfatter andre opplysninger enn de som er omtalt i direktivet, se lov nr. 457 af 18/05/2011 om sikkerhedsundersøgelse af ulykker til søs § 5 og Lovforslag nr. L 147 2010-11. I den danske loven er direktivet artikkel 9 bokstav a innlemmet slik: «Alle vidneforklaringer og andre erklæringer, redegørelser, som er modtaget som led i undersøgelserne, og noter, der er taget i forbindelse med modtagelsen af de nævnte forklaringer m.v.,» Etter ombudets syn knytter dette dokumentene nærmere opp til det som produseres for og av havarikommisjonen, enn det Samferdselsdepartementet har lagt til grunn ved fortolkningen av sjøloven § 477 tredje ledd sett hen til direktivet. Forarbeidene til implementeringen i dansk rett har begrenset vekt for forståelsen av direktivet. Ombudet har likevel merket seg at det i særmerknaden til den danske lov om sikkerhedsundersøgelse af ulykker til søs § 5 i andre spalte på side 12 er åpnet for at havarikommisjonen får andre opplysninger og dokumenter i forbindelse med undersøkelsesarbeidet enn de som er nevnt i direktivet og at det som eksempel er nevnt «AISoplysninger» fra «Farevandsvæsenets overvåkingssystemer». Dette viser at danske myndigheter har åpnet for at Havarikommisjonen mottar andre opplysninger og dokumenter enn det som er omfattet av direktivet og der det ikke vil gjelde en like streng taushetsplikt som for det som faller inn under direktivet. Dette synes å være en annen vurdering enn det Samferdselsdepartementet har lagt til grunn for SHK.
+
+Ombudet er kommet til at det knytter seg begrunnet tvil om departementet har rett forståelse av § 477 tredje ledd sett hen til direktiv 2009/18/EF når departementet har kommet til at aksjonsloggen som er produsert i utgangspunkt for et annet formål av en ekstern instans og i forkant av SHKs undersøkelser, er taushetsbelagt i sin helhet.
+
+Departementet bes behandle innsynskravet på nytt der departementet vurderer de forhold som ombudet har pekt på i uttalelsen.
+
+For det tilfelle at departementet i den fornyede vurderingen kommer til at aksjonsloggen i sin helhet er taushetsbelagt i medhold av sjøloven § 477 tredje ledd, bes departementet vurdere betydningen av at det ikke ble vedtatt tilpasninger ved innlemmelsen av direktivet i norsk rett. Etter direktivet artikkel 9 kan opplysningene gis ut dersom det foreligger «væsentlig samfundsinteresse»/«overriding public interest». Herunder må departementet vurdere vekten av forarbeidsuttalelsene til endringsloven til sjøloven, se Ot.prp.nr. 143 L (2010-2011) kapittel 3.4.5, om at denne delen av direktivet ikke skal gjelde i Norge.
+
+Ombudet er enig med departementet at samordningen mellom §§ 477 og 480 synes å ha blitt krevende. Etter ombudets syn er det også en svakhet ved regelverket at det ikke er vurdert hvordan unntaksbestemmelsen fra offentlighet i sjøloven sett hen til direktivet skal forstås i forhold til reglene om offentlighet i offentleglova. Ombudet er videre ikke uten videre enig i departementets vurdering av at det kan gjelde taushetsplikt for ansatte i ett organ mens ikke for ansatte i et annet, for ett og samme dokument, noe som vil kunne innebære straffesanksjonering for å røpe opplysninger som andre kan offentliggjøre. Det er etter dette bra at departementet har et pågående revisjonsarbeid knyttet til taushetspliktbestemmelsene.
+
+## Konklusjon
+
+Sivilombudet er kommet til at det knytter seg begrunnet tvil til om departementet har rett forståelse av § 477 tredje ledd sett hen til direktiv 2009/18/EF når departementet har kommet til at aksjonsloggen som er produsert i utgangspunkt for et annet formål av en ekstern instans og i forkant av SHKs undersøkelser, er taushetsbelagt i sin helhet.
+
+Ombudet ber Samferdselsdepartementet om å behandle saken på nytt i lys av de føringene som er gitt i uttalelsen. Ombudet ber om å bli holdt orientert om utfallet av departementets nye behandling av saken innen 7. august 2025, hensyntatt ferieavvikling.
+
+Ombudet er enig med departementet at samordningen mellom §§ 477 og 480 synes å ha blitt krevende. Det er etter dette bra at departementet har et pågående revisjonsarbeid knyttet til taushetspliktbestemmelsene.
+
+## Forvaltningens oppfølging
+
+Dato: 10.4.2026
+
+I brev 19. februar 2026 ga Samferdselsdepartementet en utfyllende redegjørelse for hvordan departementets standpunkt forholdt seg til sivilombudets uttalelse. Departementet opplyste at klagevedtaket 8. november 2024 ikke ble endret.
+
+Sivilombudet avsluttet saken i brev 5. mars 2026 der ombudet skrev følgende:
+
+> «Sivilombudet har merket seg departementets vurdering. Departementet veier hensynet til vern av liv og helse opp mot offentlighetsprinsippet og skriver at departementet antar at vektingen av disse hensynene ved tolkningen av bestemmelsene i sjøloven § 477 og 480 er den viktigste årsaken til at ombudet og departementet har kommet til ulik konklusjon i saken. Ombudet har videre merket seg at departementet ikke er uenig i at «en isolert tolkning av kriteriet «forklaringer» i sjøloven § 477 tredje ledd kan tilsi at skriftlige dokumenter faller utenfor», men at ordlyden må leses i sammenheng med de øvrige delene av bestemmelsen, slik også ombudet har skrevet i uttalelsen. Departementet skriver at forståelsen av direktiv 2009/18/EF ikke i seg selv er avgjørende fordi medlemsstatene kan fastsette regler som går lenger i å verne opplysninger som gis til undersøkelsesmyndigheten. Dette var bakgrunnen for at departementet ikke vurderte videre de enkelte språkversjonene av direktivet. Departementet skriver at det sentrale i stedet er hva de norske lovforarbeidene innebærer: «Vi er enige med ombudet i at det er enkelte uttalelser i forarbeidene til endringen i sjøloven fra 2005 og 2011 som trekker i retning av en snevrere forståelse av ordet ‘forklaringer’ enn den departementet har lagt til grunn i sitt klagevedtak av 8. november 2024. Når vi likevel har kommet til at det er riktig rettsanvendelse, så skyldes det en kombinasjon av tre typer momenter som kan ses på som aspekter ved en samlet formålsvurdering:
+
+> -Hvilken tolkning er nødvendig for at hensynet til vern av liv og helse skal ivaretas? …
+
+> -Hvordan må loven forstås dersom målet er å unngå inkonsistenser i regelverket?…
+
+> -Hvilke konkrete skadevirkninger vil en snever avgrensing av taushetsplikten kunne få? …» Sivilombudet kan ikke se at departementets redegjørelse endrer ved den vurderingen og konklusjonen som ombudet har i uttalelsen 27. juni 2025. Sivilombudet står fast ved at det knytter seg begrunnet tvil til om departementet har rett forståelse av § 477 tredje ledd når departementet har kommet til at aksjonsloggen som er produsert i utgangspunkt for et annet formål av en ekstern instans og i forkant av SHKs undersøkelser, er taushetsbelagt i sin helhet. Departementet har tidligere skrevet at samordningen mellom sjøloven §§ 477 og 480 har blitt krevende og at erfaringene fra denne saken skal tas i betraktning i kommende revisjonsarbeid. Departementet har også skrevet at det er ønskelig å be om en fornyet avveining fra Stortinget av de rettspolitiske hensynene som gjør seg gjeldende ved utformingen av taushetsreglene i alle lovene som Statens havarikommisjon er underlagt og at det tas sikte på at et forslag vil sendes på høring i løpet av 2026. Etter ombudets syn er det bra at departementet bruker erfaringene fra foreliggende sak i kommende revisjonsarbeid. På bakgrunn av at departementet ikke har fulgt sivilombudets uttalelse, har ombudet funnet grunn til å omtale saken overfor Stortinget i årsmeldingen for 2025. Ombudet vil samtidig nevne at departementet har varslet et mulig forslag om endringer i sjøloven.»

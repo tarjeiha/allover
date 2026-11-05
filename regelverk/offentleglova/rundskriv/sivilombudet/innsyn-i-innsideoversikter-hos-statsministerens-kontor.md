@@ -1,0 +1,171 @@
+---
+rundskriv: "Sivilombudets uttalelse 2.2.2024 (2023/4247)"
+utgiver: "Sivilombudet"
+lov: "Offentleglova"
+dato: "2024-02-02"
+saksnummer: "2023/4247"
+kilde: "https://www.sivilombudet.no/uttalelser/innsyn-i-innsideoversikter-hos-statsministerens-kontor/"
+lagt_inn: "2026-11-05"
+---
+
+# Innsyn i innsideoversikter hos Statsministerens kontor
+
+Sivilombudets uttalelse 2.2.2024 (sak 2023/4247).
+
+## Oppsummering
+
+Saken gjelder innsyn i innsideoversikter ført hos Statsministerens kontor de siste to årene. Kravet ble avslått med henvisning til at oversiktene var organinterne dokumenter og kunne unntas med hjemmel i offentleglova § 14. Det ble ikke utvist merinnsyn jf. offentleglova § 11. Etter at ombudet undersøkte saken ga Statsministerens kontor innsyn i navnene som sto oppført på oversiktene, men sladdet opplysninger som kunne avsløre at en sak var behandlet i regjering og når en sak var behandlet i regjering.   
+   
+   
+ Sivilombudet er kommet til at det er adgang til å unnta innsideoversiktene i medhold av offentleglova § 14 og har ingen innvendinger til Statsministerens kontors vurdering at det er tungtveiende argumenter mot å utvise merinnsyn i opplysninger som vil røpe at en sak skal behandles/er behandlet i regjering.  
+   
+   
+ Sivilombudet mener merinnsynsvurderingen fremstår som mangelfull for innsideoversikter knyttet til saker det er offentlig kjent at er behandlet i regjeringen. Innsideoversikter med det innholdet de har, er ikke i kjernen av unntaksbestemmelsen i offentleglova § 14. Ombudet kan heller ikke se at de hensynene som er trukket fram i merinnsynsvurderingen, samsvarer med begrunnelsen for unntaksregelen i offentleglova § 14 første ledd. Det er etter ombudets syn feil å vektlegge hensynet til fortrolighet om en avsluttet saksbehandlingsprosess i en merinnsynsvurdering knyttet til innsideoversikter. Hensynene som er vektlagt i Statsministerens kontors merinnsynsvurdering, gjør seg i begrenset grad gjeldende. De kan dermed heller ikke være avgjørende for vurderingen av merinnsyn i innsideoversikter knyttet til saker det er kjent at regjeringen har behandlet.   
+   
+ Sivilombudet ber Statsministerens kontor gjøre en fornyet merinnsynsvurdering knyttet konkret til hver av innsideoversiktene.   
+   
+ Sivilombudet har enkelte merknader til praksis med å gradere dokumenter i medhold av beskyttelsesinstruksen og ber Statsministerens kontor vurdere om innsideoversiktene skal være graderte.
+
+Se oppdatering fra forvaltningen
+
+## Sakens bakgrunn
+
+En journalist i E24 søkte om innsyn i «innsidelister» som Statsministerens kontor (SMK) hadde ført de siste to årene. SMK avslo kravet i avgjørelse 27. juli 2023 og ga en nærmere begrunnelse 10. august 2023. Kravet ble avslått under henvisning til adgangen til å unnta organinterne dokumenter i offentleglova § 14 første ledd og det ble ikke utvist merinnsyn jf. offentleglova § 11. Begrunnelsen for at det ikke ble utvist merinnsyn var at «for de aktuelle dokumentene anses hensynet til å ivareta en åpen og fri dialog i den interne saksbehandlingen, å veie tyngre enn hensynet til offentlighet». Journalisten brakte saken inn for ombudet 18. september 2023.
+
+## Våre undersøkelser
+
+Vi mottok sakens dokumenter fra SMK 5. og 17. oktober 2023. Vi fant grunn til å undersøke saken nærmere og i brev 23. oktober 2023 stilte vi spørsmål til SMK på bakgrunn av klagen og de mottatte saksdokumentene. Vi ba innledningsvis opplyst om listene over personer som hadde fått innsideinformasjon inneholdt opplysninger som er taushetsbelagte og hva som i tilfelle var hjemmelen for taushetsplikten. Vi stilte også spørsmål om den faktiske og rettslige begrunnelsen for bruk av graderingen FORTROLIG etter beskyttelsesinstruksen § 4 for en eller flere av listene og om SMK hadde vurdert graderingen ved mottak av innsynskravet.
+
+For det tilfellet at SMK ikke mente at listene inneholdt taushetsbelagt informasjon, ba vi SMK svare på spørsmål knyttet til merinnsynsvurderingen. Vi ba SMK gi et begrunnet svar på om de mente listene hadde allmenn interesse. Vi ba også SMK utdype hvordan utgivelse av listene kan skade åpen og fri dialog i den interne saksbehandlingen dersom de gis ut, og om det er av betydning om innsidelistene knytter seg til regjeringsnotater eller ei. Videre ba vi opplyst hvordan SMK hadde vurdert tidsaspektet knyttet til det enkelte dokumentet og om det hadde betydning om personene på listene fortsatt innehadde innsideinformasjon. Til sist stilte vi spørsmål om i hvilken grad helt eller delvis innsyn ville virke forstyrrende på den interne saksbehandlingen i dag og om deler av innholdet i dokumentene er av en slik karakter at hensynet til den interne saksbehandlingen ikke gjør seg like sterkt gjeldende.
+
+SMK ble bedt om å oversende eventuelle egne rutiner, retningslinjer, instrukser eller lignende for behandling av innsideinformasjon og føring av innsidelister.
+
+Statsministerens kontor svarte 17. november 2023. SMK omtalte innsidelistene som innsideoversikter. Grunnen antas å være for å skille disse oversiktene fra innsidelister som er regulert av markedsmisbruksforordningen (MAR) artikkel 18 som gjelder som norsk lov jf. verdipapirhandelloven § 3-1. SMK og departementene er ikke er omfattet av plikten til å føre innsidelister etter MAR.
+
+På bakgrunn av vår undersøkelse vurderte SMK innsynskravet på nytt og kom til at det kunne utvises delvis merinnsyn. Under henvisning til at innsynskravet knyttet seg til oversikter utarbeidet over en lang periode og ikke gjaldt spesifikke saker kom SMK til at det kunne gis innsyn i navnene på oversiktene, men at det ikke ble utvist merinnsyn i øvrige deler og derfor sladdet «alle opplysninger som er egnet til å identifisere hvilken sak oversikten knytter seg til og tidspunktet for behandlingen av saken i regjering». Den nye avgjørelsen forelå 8. desember 2023.
+
+Det ble opplyst at det ikke var vurdert om innsideoversiktene inneholdt innsideinformasjon eller andre taushetsbelagte opplysninger da avslaget på innsyn var hjemlet i offentleglova § 14 første ledd og ikke § 13 første ledd. Det delvise innsynet som ble gitt 8. desember 2023 vil ikke røpe opplysninger som er underlagt lovbestemt taushetsplikt.
+
+Når det gjaldt merinnsynsvurderingen for de delene der SMK opprettholdt avslaget i medhold av offentleglova § 14, viste SMK til at hensynet til fortrolighet om hvilke saker som behandles i regjering og når saken ble behandlet var «tungtveiende – og normalt avgjørende – argument mot å utvise meroffentlighet». SMK skrev videre:
+
+«Det er fast og langvarig praksis, under skiftende regjeringer, at det som den helt klare hovedregel ikke gis informasjon til offentligheten om regjeringens dagsorden og interne diskusjoner. Dette er et svært viktig prinsipp for å sikre en åpen og fri dialog i den interne saksbehandlingen i regjeringen. I tillegg til det selvsagte om at innholdet i de interne diskusjonene ikke deles med offentligheten, er SMKs klare utgangspunkt at også det at en sak i det hele tatt er, eller ikke er, behandlet i regjering, og tidspunktet for evt. behandling, skal holdes fortrolig.»
+
+SMK viste til at utslaget av dette prinsippet er at det ikke gis innsyn i regjeringsnotater, dagsorden eller protokoller fra regjeringskonferanser, og som hovedregel heller ikke embetsverkets organinterne dokumenter i slike saker. Etter SMKs vurdering faller innsideoversikter i samme kategori som disse dokumentene selv om oversiktene i seg selv ikke inneholder råd og vurderinger og slik sett ikke er i kjernen av dokumenter offentleglova § 14 er ment å omfatte. SMK viste til at oversikten typisk vil kunne røpe at en sak er behandlet i regjeringen og når den ble behandlet, og viste også til at det ble sett hen til om oversikten kunne «røpe sensitive detaljer om fremgangsmåten i regjeringens saksbehandling».
+
+Det ble vist til at koblingen mellom en innsideoversikt og en konkret sak også kan gjøres ut fra måten innsynskravet er avgrenset på, og ikke bare ut fra saksidentifiserende opplysninger i selve oversikten.
+
+Til opplysningen om når saken var behandlet i regjering viste SMK til at det kunne være fortrolig at en sak f.eks. var politisk avklart en god stund før den ble offentliggjort. Om fremgangsmåten i regjeringens saksbehandling viste SMK til at det «kan være uheldig for regjeringens interne saksbehandling dersom det ut fra oversikten, eventuelt koblet med oversikt fra andre departementer knyttet til samme sak eller annen tilgjengelig informasjon, blir offentlig kjent hvem som var og ikke var involvert i en sak, samt rekkefølgen de ulike personene, fagmiljøene og eventuelle stortingspolitikere har blitt involvert i eller informert om saken på». Til dette ga SMK noen tenkte eksempler:
+
+«1) Embetsverket i Landbruks- og matdepartementet var koblet på saken i god tid før embetsverket i Klima- og miljødepartementet. 2) Betyr manglende involvering av personer i seksjon X i departement Y at regjeringen overhodet ikke vektla hensynene som seksjon X vanligvis ivaretar? 3) Hvorfor ble saken politisk drøftet i regjeringspartienes stortingsgruppe før departement Æ, som har kompetansen til de nødvendige faglige utredningene, ble involvert?»
+
+SMK mente hensynet til fortrolighet om saker behandlet i regjering gjør seg sterkere gjeldende for pågående saker. En innsideoversikt kan i enkelte saker i seg selv inneholde innsideinformasjon som er taushetsbelagt. Men selv om innsideoversikten i seg selv ikke kvalifiserte som innsideinformasjon, så skal det «svært mye til» for at det utvises merinnsyn i innsideoversikten i en pågående sak. Videre mente SMK at oversikten har allmenn interesse dersom den kan kobles til en konkret sak, og at det nettopp er i slike tilfeller at hensynet mot å gi merinnsyn gjør seg sterkest gjeldende. Dersom det er allment kjent at en sak er behandlet i regjering, mente SMK at det fortsatt «sjelden bør utvises meroffentlighet i innsideoversikter» og det ble vist til hensynet til fortrolighet om når en sak er behandlet i regjeringen og fremgangsmåten i behandlingen i regjeringen.
+
+Oppsummeringsvis skrev SMK at det etter en konkret vurdering – unntaksvis – kunne utvises merinnsyn ved å gi helt eller delvis innsyn og skrev videre:
+
+«Sentralt i helhetsvurderingen vil være om (i) innsynskravet gjelder én eller flere konkrete saker som det er stor allmenn interesse for, (ii) hvorvidt det allerede er offentlig kjent at og når saken ble behandlet i regjering og (iii) om innsyn kan gis helt eller delvis uten å røpe sensitive detaljer om fremgangsmåten i regjeringens saksbehandling.»
+
+Til våre spørsmål om gradering i medhold av beskyttelsesinstruksen, opplyste SMK at det ikke var fast praksis å merke innsideoversikter med graderingen FORTROLIG og at de ikke hadde tatt stilling til om innsideoversikten som var merket FORTROLIG fortsatt skulle være gradert eller om de oversiktene som ikke var merket burde ha vært gradert. Graderingen var ikke vurdert i forbindelse med innsynskravet. Det ble vist til at gradering FORTROLIG ikke er selvstendig hjemmel for unntak etter offentleglova da beskyttelsesinstruksen ikke er hjemlet i lov og SMK bemerket at
+
+«meroffentlighetsvurderingen i stor grad, og ofte fullt ut, vil ta opp i seg det som er vurderingstemaet for om et dokument skal graderes som FORTROLIG, nemlig om det vil kunne skade offentlighet interesser at dokumentets innhold blir kjent for uvedkommende, jf. beskyttelsesinstruksen § 4».
+
+I svaret redegjorde SMK også for rutiner for føring av innsideoversikter fastsatt i Håndbok for politisk ledelse og retningslinjen «Om r-konferanser – forberedelse av saker til regjeringskonferanse», samt SMKs egne rutiner for håndtering av innsideinformasjon og føring av innsideoversikter.
+
+SMK ettersendte 17. januar 2024 på forespørsel fra ombudet, kopi av svar på to innsynskrav i innsideoversikter knyttet til sakene om forslag om å innføre grunnrenteskatt på havbruk og landbasert vindkraft. I den ene saken hadde en journalist i Dagens Næringsliv i en e-post 29. september 2022 til SMK bedt om innsyn «i innsidelistene som ble laget i forkant av gårsdagens offentliggjøring av børssensitiv informasjon fra Finansdepartementet» og viste til saken ved å legge til en lenke til en pressemelding fra Finansdepartementet om grunnrenteskatt. I regjeringens pressemelding sto det blant annet at «[g]jennom innføring av grunnrenteskatt på havbruk og vindkraft, økning i grunnrenteskatten på vind- og vannkraft og en ekstraordinær avgift på vannkraft grunnet de svært høye strømprisene vil regjeringen øke skatteinntektene med om lag 33 milliarder kroner årlig». I avgjørelsen 13. oktober 2022 fra SMK sto det følgende: «Saksdokument som omfattes av ditt innsynskrav unntas offentlighet, jf. offentleglova § 14 første ledd. I lys av den offentlige interessen i opplysningene du har bedt om innsyn i vil vi imidlertid opplyse om at personene som er listet under er ført som mottakere av den aktuelle informasjonen før den ble offentlig kjent.» I den andre saken fikk journalist Kyrre Kjellevold innsyn i navnene oppført på oversikten og vedleggene var kalt «Havbruk statsbudsjettet 2023 – oversikt over informasjonsflyt.pdf» og «Vindkraft statsbudsjettet 2023 – oversikt over informasjonsflyt».
+
+## Sivilombudets syn på saken
+
+### 1.  Rettslige utgangspunkter
+
+Utgangspunktet er at forvaltningsorganets saksdokumenter er offentlige, jf. offentleglova § 3. Etter offentleglova § 14 første ledd kan et organ gjøre unntak fra innsyn for dokumenter som organet har utarbeidet for sin egen interne saksforberedelse. Dokumentet mister som utgangspunkt sin organinterne karakter dersom det er sendt ut av organet. Et departement regnes som ett organ, det samme gjelder SMK. Regjeringen som kollegium regnes også som et eget organ og dokumenter der det utveksles fortrolige politiske vurderinger mellom departementene og/eller SMK før en regjeringskonferanse regnes som regjeringens organinterne dokumenter, se NOU 2003:30 Ny offentlighetslov kapittel 10.6.4.6.2 jf. kapittel 10.6.4.6.1 og også Ot.prp.nr. 102 (2004-2005) side 131.
+
+Der et organ har adgang til å unnta et dokument fra offentlighet, skal organet likevel alltid vurdere å gi helt eller delvis innsyn (merinnsyn), se offentleglova § 11. Det avgjørende for vurderingen av om det skal gis merinnsyn er om «omsynet til offentleg innsyn veg tyngre enn behovet for unntak». For å kunne nekte innsyn må det foreligge et reelt og saklig behov for nektelsen, se SOMB-2009-20 (2009 s 115). Det må vurderes «om dei omsyna som ligg til grunn for unntaksføresegna gjer seg gjeldande i det aktuelle tilfellet», se Ot.prp.nr.102 (2004–2005) side 129. Dersom det er hensyn som taler mot offentlighet, må disse hensynene likevel avveies mot de hensynene som taler for å gi innsyn i de aktuelle dokumentene (en konkret interesseavveining).
+
+Justisdepartementets veileder til offentleglova (G-2009-419) viser til at det at et dokument gjelder en sak av stor allmenn interesse, vil være et moment som taler for merinnsyn, se punkt 4.9.2 side 65. Videre følger det av samme punkt i veilederen at skadevirkningene ved å gi innsyn som regel vil bli mindre etter hvert som tiden går, og at det ofte vil være større grunn til å utvise merinnsyn etter at saken er avsluttet.
+
+Sentralt for unntaksbestemmelsen i offl. § 14 første ledd for organinterne dokumenter, står hensynet til at forvaltningen skal kunne ha en intern sfære der informasjon kan holdes fortrolig. Det er «interne vurderinger og meningsbrytninger på veien mot et standpunkt» som bør kunne unntas fra offentligheten, jf. Ot.prp.nr.102 (2004–2005) punkt 6.4.1 side 53 og veilederen til offentleglova punkt 7.1 side 91. I Ot.prp.nr.102 (2004-2005) samme sted, er det videre lagt særlig vekt på ønskeligheten av klare ansvarsforhold utad, og at det ikke skapes tvil om hva som er forvaltningsorganets beslutning eller synspunkt.
+
+Å kunne unnta fra offentlighet interne meningsbrytninger på et tidlig trinn i saksbehandlingen, bidrar blant annet til å fremme en best mulig avgjørelse i saken, samtidig som det motvirker at forvaltningen i større grad velger muntlige kommunikasjonsformer i stedet for skriftlige. Dokumenter som inneholder råd og vurderinger, ligger derfor i kjerneområdet for § 14 første ledd, jf. veilederen punkt 7.5 side 121. Det er hensynet til at «andre organ eller personar innanfor det same organet blir meir tilbakehaldne med å kome med frimodige råd og vurderingar» som i interne avgjørelsesprosesser skal vernes, jf. veilederen punkt 4.9.2, side 65.
+
+Ifølge veilederen kan dette stille seg annerledes for dokumenter som ligger i randsonen av unntaksbestemmelsen, typisk dokumenter som utelukkende inneholder generelle premisser som er allment kjente eller tilgjengelige. Det samme gjelder for klart avgrensede deler av dokumentet som ikke inneholder råd og vurderinger, jf. veilederen punkt 7.5 side 120. Se også sivilombudets uttalelse 20. oktober 2020 (SOM-2020-1262) der ombudet kom til at det knyttet seg «begrunnet tvil [til] om de to notatene [som inngikk i arbeidet med å fastsette nye rutiner for saksbehandlingen ved inhabilitet] i sin helhet ligger i kjerneområdet for offentleglova § 14 med den følge at hensynene bak unntaksbestemmelsen fullt ut gjør seg gjeldende og kan bli avgjørende for vurderingen av merinnsyn».
+
+I uttalelse 21. september 2021 (SOM-2021-3211) mente ombudet at merinnsynsvurderingen knyttet til møtereferater med vedlegg om vaksineprioritering fremsto som mangelfull og pekte på at «[d]eler av innholdet i dokumentene er av en slik karakter at de hensyn som taler for å avslå innsyn, i liten grad gjør seg gjeldende. Det samme gjelder de delene som inneholder informasjon som var offentlig tilgjengelig andre steder på tidspunktet for departementets avgjørelse.»
+
+### 2.   Innsyn i innsideoversikter
+
+I svarbrevet hit skriver SMK at det i «relevante saker» føres «en oversikt over hvilke personer som har fått innsideinformasjon og tidspunktet for dette», men at SMK og departementene ikke er omfattet av plikten til å føre innsidelister etter markedsmisbruksforordningen artikkel 18 som gjelder som norsk lov jf. verdipapirhandelloven § 3-1. Grunnen til at det føres oversikter er at det «sikrer notoritet og er et egnet virkemiddel for å bidra til at informasjonsflyten i saker som inneholder innsideinformasjon blir begrenset og kontrollerbar, i tråd med god forvaltningsskikk og hensynene bak innsidereglene».
+
+Sivilombudet har merket seg SMKs rutiner for føring av innsideoversikter og malen som nå er utarbeidet for føringen av oversiktene.
+
+Saken for ombudet gjelder innsyn i innsideoversiktene som SMK har ført de siste to årene.
+
+Ombudet har ikke rettslige innvendinger til SMKs vurdering av at oversiktene er organinterne dokumenter og at det derfor er adgang til å unnta dokumentene offentlighet i sin helhet i medhold av offentleglova § 14 første ledd.
+
+### 3.   Merinnsynsvurderingen
+
+SMK har foretatt en ny merinnsynsvurdering jf. offentleglova § 11 etter at saken ble undersøkt herfra. Ombudet tar til etterretning at det nå er gitt innsyn i de delene av oversiktene som viser navnene som er ført opp på innsideoversiktene. Spørsmålet for ombudet er knyttet til den merinnsynsvurderingen som SMK har gjort av de delene av oversiktene som fortsatt er unntatt offentlighet jf. offentleglova § 14.
+
+Vurderingen av om det burde ha blitt gjort kjent flere opplysninger eller gitt helt innsyn i innsynsoversiktene, jf. offentleglova § 11, hører til forvaltningens skjønn som ombudet bare i begrenset utstrekning kan overprøve, jf. sivilombudsloven § 12.
+
+SMK har i svarbrevet hit opplyst at de sladdede opplysningene er egnet til å «røpe at en sak er behandlet i regjering og når den ble behandlet, samt – etter omstendighetene – detaljer om fremgangsmåten i regjeringens saksbehandling».
+
+Det er i forarbeidene vist til at regjeringen har behov for fortrolige overveielser av politisk karakter. Dokumenter der det utveksles fortrolige politiske vurderinger før en regjeringskonferanse står i en særstilling og regnes som organinterne dokumenter, og «[u]tkast til regjeringsnotater, som blir behandlet i de berørte departementene, bør også kunne unntas», se NOU 2003:30 Ny offentlighetslov punkt 10.6.4.6.2 jf. punkt 10.6.4.6.1 og offentlighetsmeldingen (St.meld.nr. 32 (1997-98) punkt 5.4.4.3). Se også sivilombudets uttalelse 13. oktober 2022 (SOM-2022-1299).
+
+Innsideoversikter inneholder, dersom malen er fulgt, blant annet informasjon om sak/saksnummer, når oversikten ble opprettet, navnet på de som har fått tilgang til innsideinformasjon og dato/klokkeslett for tilgang. Alle oversiktene SMK har ført de siste to årene er i svarbrevet hit opplyst å være knyttet til saker som er behandlet i regjering. Det synes derfor klart at innsyn i innsideoversikter kan avsløre at en sak er behandlet eller er planlagt behandlet i regjeringen og tidspunktet for behandlingen. I retningslinjen «Om r-konferanser» står det i punkt 1.1 at «[d]røftingene i regjering er fortrolige. At en sak er drøftet der, eller planlegges drøftet der, skal ikke omtales utad, heller ikke i brev mellom departementer.» Senere står det i punkt 5.7 annet ledd at «[d]agsordenen for regjeringskonferanser er et fortrolig dokument. Departementene må dermed ikke gi opplysninger til offentligheten om når saker skal behandles i regjeringen, fordi dette kan bidra til å svekke regjeringens handlefrihet».
+
+Informasjon om når og eventuelt om en sak skal behandles i regjeringen, vil kunne bidra til forventninger som reduserer muligheten for meningsbrytning og fri vurdering blant regjeringens medlemmer. Det kan også tenkes at det i enkelte saker kan være gode grunner for å holde fortrolighet om at en sak har vært behandlet i regjering eller av en gruppe statsråder på regjeringens vegne, slik som regjeringens sikkerhetsutvalg. Informasjon om at en sak har vært behandlet i regjering kan ha innvirkning på muligheten for en åpen og fri meningsutveksling i fremtidige saker. Særlig kan det gjelde med tanke på forventninger om fremdrift og betydningen det kan ha for tid til åpen meningsutveksling. Ombudet har på denne bakgrunn ikke innvendinger til SMKs vurdering og retningslinjen gjengitt i «Om r-konferanser». Det kan være tungtveiende argumenter mot å utvise merinnsyn i opplysninger som vil røpe at en sak skal eller planlegges behandlet i regjering.
+
+Det neste spørsmålet er om hensynet bak unntaket for organinterne dokumenter gjør seg gjeldende der det allerede er vel kjent at en sak er behandlet i regjeringen. Det kan for eksempel gjelde lovforslag eller andre vedtak som alltid behandles av regjeringen.
+
+SMK synes å legge til grunn at innsideoversikter tilhører samme kategori som regjeringsnotater, dagsorden, protokoller og interne dokumenter knyttet til disse. Sivilombudet deler ikke dette synet. Sentralt for unntaket for organinterne dokumenter, herunder regjeringens dokumenter, er å beskytte frie vurderinger og meningsbrytninger fram mot en beslutning eller et standpunkt. Det er fortrolighet om råd og vurderinger som er kjernen i unntaksbestemmelsen. Som SMK skriver, inneholder ikke innsideoversikter råd og vurderinger. SMK har opplyst at formålet med oversiktene er å sikre notoritet og at de er et egnet virkemiddel for å «bidra til at informasjonsflyten i saker som inneholder innsideinformasjon blir begrenset og kontrollerbar, i tråd med god forvaltningsskikk og hensynene bak innsidereglene». Formålet og innholdet i oversiktene er derfor noe annet enn regjeringsnotater og øvrige dokumenter som veilederen peker på er dokumenter som «alltid haldast utanom innsyn», se veilederen til offentleglova kapittel 7.5 side 121.
+
+Statsministerens kontor har vist til behovet for å verne «detaljer om fremgangsmåten i regjeringens saksbehandling». Ombudet finner ikke den samme støtten i lovens forarbeider for å verne om opplysninger i en innsideoversikt om hvem som har mottatt informasjon og når, i tilfeller der det ikke samtidig viser at og eventuelt når saken skal behandles i regjeringen. Momentene SMK har gitt i svarbrevet hit gjelder behovet for å unnta opplysninger om saksbehandlingsprosessen forut for en (kjent) behandling i regjeringen. I motsetning til behovet for fortrolighet underveis i en prosess, er det vanskelig å se at kunnskap om tidspunktet for behandlingen og rekkefølgen personene som står oppført på oversikten, fikk tilgang til innsideinformasjonen i en avsluttet sak, vil skade den åpne og frie meningsutvekslingen innad i regjeringen. Et ønske om å unngå spørsmål eller debatt om regjeringens saksbehandling, kan være forståelig. Men ombudet kan ikke se at grunnene til det faller sammen med de hensyn unntaket for organinterne dokumenter etter loven og lovens forarbeider, skal ivareta.
+
+På den annen side vil hensynet til allmennhetens interesse kunne være tungtveiende. Saker som avgjøres i regjering må generelt antas å ha stor offentlig interesse. Innsideoversikter gir informasjon om hvilket tidspunkt blant annet regjeringsmedlemmer fikk innsideinformasjon i en sak. Informasjon om regjeringsmedlemmenes og offentlige ansattes handlemåte i slike saker har betydning for allmenhetens tillit til forvaltningen, et hensyn som er lovfestet i offentleglova § 1.
+
+Ombudet legger for øvrig til at informasjon om rekkefølgen personene fikk tilgang til innsideinformasjon heller ikke nødvendigvis samsvarer med rekkefølgen personene fikk informasjon om sakskomplekset eller vise den fulle oversikten over hvilke fagmiljøer/personer som har vært involvert i forberedelsen av en beslutning i regjeringen.
+
+Det er grunn til å påpeke at innsyn i en oversikt i seg selv ikke gir informasjon om hvilke andre departementer som har vært involvert i saken da hvert departement og SMK fører separate oversikter. Selvsagt kan det tenkes at det bes om innsyn i innsideoversikter hos alle involverte departementer i tillegg til SMK, og at personen på denne måten kan få innsyn i tidspunktene personer ved de enkelte departement har fått innsideinformasjon. Når SMK og departementene har funnet at det kan vises merinnsyn i navnene på innsideoversiktene, er det vanskelig å se at det er tungtveiende grunner for å holde fortrolig tidspunktet for når personene fikk innsideinformasjon så lenge det er kjent at saken er behandlet i regjeringen.
+
+Innsideoversikter med det innholdet de har, er ikke i kjernen av unntaksbestemmelsen i offentleglova § 14. Ombudet kan heller ikke se at de hensynene som er trukket fram i merinnsynsvurderingen, samsvarer med begrunnelsen for unntaksregelen i offentleglova § 14 første ledd. Det er etter ombudets syn feil å vektlegge hensynet til fortrolighet om en avsluttet saksbehandlingsprosess i en merinnsynsvurdering knyttet til innsideoversikter. Hvem som fikk kunnskap om en sak og på hvilket tidspunkt, er faktiske opplysninger som det er vanskelig å se har betydning for de hensyn offentleglova § 14 første ledd skal ivareta. Slik § 14 første ledd er begrunnet i forarbeidene til loven og veilederen til offentleglova, skal unntaket først og fremst beskytte den frie meningsutvekslingen og hensynet til klare ansvarsforhold utad.
+
+Hensynene som er vektlagt i SMKs merinnsynsvurdering, gjør seg i begrenset grad gjeldende. De kan dermed heller ikke være avgjørende for vurderingen av merinnsyn i innsideoversikter knyttet til saker det er kjent at regjeringen har behandlet. Det er samtidig på det rene at det kan være stor offentlig interesse i opplysningene.
+
+Det er grunn til å knytte særskilt merknad til SMKs vurdering av merinnsyn i innsideoversikt knyttet til grunnrenteskatt på havbruk og vindkraft. SMK har opplyst at det er gitt innsyn i navnene oppført på innsideoversikten til en journalist i Dagens Næringsliv. Journalisten ba konkret om innsyn i «innsideliste» knyttet til grunnrenteskatt på havbruk og vindkraft. Innsynskravet ble sendt dagen etter regjeringens pressekonferanse 28. september 2022. Da journalisten i E24 ba om alle «innsidelister» ført hos SMK de siste to årene, må det legges til grunn at den samme oversikten inngikk i det journalisten fikk delvis innsyn i ved SMKs nye avgjørelse 8. desember 2023. SMK har sladdet opplysninger som kan identifisere hvilken sak oversikten med navn tilhører og tidspunktene som kan vise når saken ble behandlet i regjering. Da journalisten i Dagens Næringsliv har fått innsyn i navn koblet med sak, er det grunn til å be SMK særskilt vurdere merinnsyn i innsideoversikten knyttet til grunnrenteskatt på havbruk og vindkraft på nytt.
+
+Etter ombudets syn fremstår merinnsynsvurderingen for alle innsideoversiktene mangelfull. Statsministerens kontor bes om å vurdere på nytt om det kan gis merinnsyn i hele eller flere deler av oversiktene. Det må i så fall foretas en konkret vurdering for hver enkelt oversikt.
+
+Statsministerens kontor bes underrette ombudet om resultatet av den fornyede vurderingen innen 23. februar 2024.
+
+### 4.  Gradering etter beskyttelsesinstruksen
+
+Sivilombudet har merket seg at SMK ikke har fast praksis for å gradere innsideoversikter som FORTROLIG i medhold av beskyttelsesinstruksen og at det ikke er skrevet nærmere om dette i veilederen om regjeringskonferanser eller rutinene for håndtering av innsideinformasjon. Ombudet vil minne om at for at et dokument skal kunne graderes som FORTROLIG så må det være et dokument som kan unntas fra offentlighet i medhold av offentleglova og «det vil kunne skade offentlige interesser, en bedrift, en institusjon eller en enkeltperson at dokumentets innhold blir kjent for uvedkommende», se beskyttelsesinstruksen § 3 og § 4 tredje ledd. Dokumenter som graderes skal «tydelig merkes», se § 6 og det får konsekvenser for blant annet oppbevaring og forsendelse, se §§ 9 og 10.
+
+Ved innsynskrav i graderte dokumenter «skal spørsmål om avgradering leggjast fram for den som har oppretta dokumentet, for avgjerd i samsvar med … beskyttelsesinstruksen § 5, se offentlegforskrifta § 10 første ledd første punktum. Det står videre i annet punktum følgende:
+
+«Organet som mottek innsynskravet, kan likevel avslå eit krav om innsyn, utan at spørsmålet om avgradering fyrst har vore lagt fram etter fyrste punktum, dersom
+
+a. det uavhengig av graderinga ikkje skal givast innsyn i dokumentet, eller
+
+b. det uavhengig av graderinga kan gjerast unntak frå innsyn i dokumentet, og organet som mottek innsynskravet, finn at meirinnsyn ikkje skal givast.»
+
+I beskyttelsesinstruksen står det at en revurdering av gradering «skal skje når det kommer henvendelse om innsyn i dokumentet», se beskyttelsesinstruksen § 5 nr. 4 bokstav a.
+
+SMK har opplyst hit at det ikke er tatt stilling til om den ene innsideoversikten som er merket FORTROLIG fortsatt skal være gradert eller om de øvrige oversiktene skulle ha vært påført gradering. Da SMK første gang avslo kravet om innsyn i medhold av offentleglova § 14 og det ikke ble utvist merinnsyn, er det adgang etter offentlegforskrifta § 10 første ledd annet punktum bokstav b å avslå kravet uten at graderingen ble vurdert først. Men når SMK nå har gitt merinnsyn, er ombudet av den oppfatning at SMK må foreta en vurdering av graderingen som er påført den ene innsideoversikten. Fordi gradering får betydning for oppbevaring og forsendelse, bør Statsministerens kontor gjøre en vurdering om oversiktene skal være gradert eller ei.
+
+## Konklusjon
+
+Sivilombudet har kommet til at det er adgang til å unnta innsideoversiktene i medhold av offentleglova § 14 og har ingen innvendinger til Statsministerens kontors vurdering at det er tungtveiende argumenter mot å utvise merinnsyn i opplysninger som kan avsløre at en sak skal behandles/er behandlet i regjering.
+
+Sivilombudet mener merinnsynsvurderingen fremstår som mangelfull for det tilfellet innsideoversikter knytter seg til saker det er offentlig kjent at er behandlet i regjeringen. Innsideoversikter med det innholdet de har, er ikke i kjernen av unntaksbestemmelsen i offentleglova § 14. Ombudet kan heller ikke se at de hensynene som er trukket fram i merinnsynsvurderingen, samsvarer med begrunnelsen for unntaksregelen i offentleglova § 14 første ledd. Det er etter ombudets syn feil å vektlegge hensynet til fortrolighet om en avsluttet saksbehandlingsprosess i en merinnsynsvurdering knyttet til innsideoversikter. Hensynene som er vektlagt i Statsministerens kontors merinnsynsvurdering, gjør seg i begrenset grad gjeldende. De kan dermed heller ikke være avgjørende for vurderingen av merinnsyn i innsideoversikter knyttet til saker det er kjent at regjeringen har behandlet.
+
+Sivilombudet ber Statsministerens kontor gjøre en fornyet merinnsynsvurdering knyttet konkret til hver av innsideoversiktene.
+
+Sivilombudet har knyttet enkelte merknader til praksis med å gradere dokumenter i medhold av beskyttelsesinstruksen og ber Statsministerens kontor vurdere om innsideoversiktene skal være graderte.
+
+Statsministerens kontor bes underrette ombudet om resultatet av den fornyede vurderingen innen 23. februar 2024.
+
+## Forvaltningens oppfølging
+
+Statsministerens kontor foretok en fornyet merinnsynsvurdering. For åtte av oversiktene ville fullt innsyn ikke røpe hvilken sak oversikten var knyttet til og for tre oversikter var det allerede kjent at sakskomplekset er behandlet i regjeringen, og det ble derfor gitt fullt innsyn i disse oversiktene. For 17 av oversiktene fant SMK at det fortsatt var nødvendig å sladde saksidentifiserende opplysninger for å unngå å røpe hvilken sak oversikten var knyttet til og dermed også at saken var behandlet i regjeringen. SMK opplyste at det var kontrollert om det allerede var offentlig kjent at sakene hadde vært behandlet i regjering.
+
+Sivilombudet tok den fornyede vurderingen til etterretning og saken ble avsluttet.
