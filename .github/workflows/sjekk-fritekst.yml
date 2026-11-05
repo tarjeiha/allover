@@ -1,0 +1,48 @@
+name: Sjekk PR-tekst og commit-meldinger
+
+on:
+  # PR-titler, PR-tekster og commit-meldinger er like åpne som filene. De skal ikke ha
+  # departementsnavn som avsender. Kjører uansett hvilke filer som er endret.
+  pull_request:
+    types: [opened, edited, reopened, synchronize]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  sjekk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Hent teksten
+        env:
+          TITTEL: ${{ github.event.pull_request.title }}
+          TEKST: ${{ github.event.pull_request.body }}
+          COMMITS: ${{ toJSON(github.event.commits) }}
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            printf '%s\n\n%s\n' "$TITTEL" "$TEKST" > "$RUNNER_TEMP/pr-tekst.txt"
+          else
+            printf '%s' "$COMMITS" | python3 -c "import json,sys; d=json.load(sys.stdin) or []; print('\n\n'.join(c['message'] for c in d))" > "$RUNNER_TEMP/commit-meldinger.txt"
+          fi
+
+      - name: Sjekk teksten
+        shell: bash
+        run: python3 verktoy/sjekk_tekst.py --fritekst "$RUNNER_TEMP"/*.txt | tee "$RUNNER_TEMP/funn.log"
+
+      - name: Varsle om funn på main
+        if: failure() && github.event_name == 'push'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Tekstkontrollen: departementsnavn i commit-melding"
+          tekst: "en commit-melding på main har et departementsnavn som avsender. Meldingen kan ikke endres uten å skrive om historikken. Vurder om det trengs."
+          fil: ${{ runner.temp }}/funn.log

@@ -5,7 +5,7 @@ description: "Companion-skill til skill-creator for de felles skillene. Trigges 
 
 # Skill-bygging for de felles skillene
 
-**Versjon 2026-11-05.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
+**Versjon 2026-11-05.2.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
 
 Companion-skill til skill-creator. Den dekker det som er særskilt for de felles skillene: om noe bør bli en skill i det hele tatt, hvor innholdet skal ligge, hvordan skillen testes, og hvordan den lagres og deles. Skillen brukes av alle ansatte som vil lage en skill, ikke bare av prosjektlederen og bidragsyterne, så forklar valgene i vanlig språk, ikke bare utfallet.
 
@@ -49,7 +49,7 @@ Svar på dette før noe bygges. Det er det viktigste valget.
 | Skript som må kjøre med skillen (beregninger, filproduksjon) | I selve skillen |
 
 **Hvilket repo:**
-- `tarjeiha/allover` (offentlig): bare innhold som allerede er offentlig eller kan offentliggjøres. Inngangen er `CLAUDE.md` i roten, og veivisere under `regelverk/`, `budsjett/` og `data/`.
+- `tarjeiha/allover` (offentlig): bare innhold som allerede er offentlig eller kan offentliggjøres. Inngangen er `CLAUDE.md` i roten, og veivisere under `regelverk/`, `budsjett/` og `data/`. Tekst der skal ikke vise et departement som avsender eller eier, heller ikke i commit-meldinger og PR-tekster. Kontroller av andres forslag, upubliserte svar og innhold fra interne dokumenter hører ikke hjemme der, selv om de bygger på offentlige fakta.
 - Innhold som ikke skal ligge åpent: i selve skillen, som lastes ned som fil fra intranettet (som `felles-intern` og `felles-sprak`). Et privat repo kan ikke leses av brukere uten egen GitHub-tilkobling, heller ikke med token (testet 21.10.2026).
 - Ikke i Claude i det hele tatt: noe som ikke er klarert for lagring hos en ekstern skytjeneste.
 
