@@ -28,7 +28,7 @@ jobs:
           done
           if file /tmp/prop.pdf | grep -q PDF; then
             pdfinfo /tmp/prop.pdf | tee -a kartlegg/status.txt
-            pdftotext -layout /tmp/prop.pdf kartlegg/prop-79-l.txt
+            pdftotext /tmp/prop.pdf kartlegg/prop-79-l.txt
           fi
           for ch in 30 31; do
             if grep -q "<html" "/tmp/ch$ch.html" 2>/dev/null; then
