@@ -1,0 +1,63 @@
+name: Kontroller størrelsen på repoet
+
+# GitHub anbefaler at et repo holder seg under 1 GB, og avviser filer over 100 MB.
+# Jobben gir et driftsvarsel lenge før det: når repoet med historikk passerer GRENSE_MB,
+# eller når en fil på main er større enn FIL_MB.
+on:
+  schedule:
+    - cron: "40 5 * * 1"
+  workflow_dispatch:
+  push:
+    branches: ["claude/**"]
+    paths: [".github/workflows/repo-storrelse.yml"]
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  GRENSE_MB: 500
+  FIL_MB: 25
+
+jobs:
+  storrelse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Mål størrelsen
+        id: maal
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Størrelsen GitHub oppgir for repoet med historikk, i KB.
+          kb=$(gh api "repos/${{ github.repository }}" --jq .size)
+          mb=$((kb / 1024))
+          filer=$(git ls-files | wc -l)
+          main_mb=$(git ls-files -z | du -cb --files0-from=- | tail -1 | awk '{printf "%d", $1/1048576}')
+          store=$(git ls-files -z | xargs -0 du -b | awk -v g=$((FIL_MB * 1048576)) '$1 > g {printf "- %s (%d MB)\n", $2, $1/1048576}')
+          {
+            echo "Repoet med historikk: $mb MB (grense for varsel: $GRENSE_MB MB)."
+            echo "Filene på main: $filer filer, $main_mb MB."
+            echo
+            echo "Største filer:"
+            git ls-files -z | xargs -0 du -b | sort -rn | head -5 | awk '{printf "- %s (%.1f MB)\n", $2, $1/1048576}'
+            if [ -n "$store" ]; then echo; echo "Filer over $FIL_MB MB:"; echo "$store"; fi
+          } > "$RUNNER_TEMP/storrelse.txt"
+          cat "$RUNNER_TEMP/storrelse.txt" | tee -a "$GITHUB_STEP_SUMMARY"
+          if [ "$mb" -gt "$GRENSE_MB" ] || [ -n "$store" ]; then echo "varsel=true" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Varsle om stort repo
+        if: steps.maal.outputs.varsel == 'true' && github.ref_name == 'main'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Repoet nærmer seg grensen for størrelse"
+          tekst: "repoet eller en fil er større enn grensen for varsel. GitHub anbefaler under 1 GB og avviser filer over 100 MB. Se hva som har vokst, eller be Claude se på det."
+          fil: ${{ runner.temp }}/storrelse.txt
+
+      - name: Varsle om feil
+        if: failure() && github.ref_name == 'main'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Størrelseskontroll: feil"
+          tekst: "kontrollen av størrelsen på repoet feilet. Se kjøringen, eller be Claude se på det."

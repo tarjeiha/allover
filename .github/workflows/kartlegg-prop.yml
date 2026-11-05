@@ -1,0 +1,44 @@
+name: Midlertidig – hent Prop. 79 L (2024–2025)
+
+on:
+  push:
+    branches: ["claude/**"]
+    paths: [".github/workflows/kartlegg-prop.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Hent
+        run: |
+          sudo apt-get install -y -q poppler-utils >/dev/null
+          mkdir -p kartlegg
+          UA="regelverksbasen (tarjeiha/allover; GitHub Actions)"
+          curl -sL -m 120 -A "$UA" -o /tmp/prop.pdf -w "dfo %{http_code} %{content_type} %{size_download}\n" \
+            "https://kudos.dfo.no/documents/358570/files/46649.pdf" | tee kartlegg/status.txt
+          for ch in 30 31; do
+            curl -sL -m 60 -A "$UA" -o "/tmp/ch$ch.html" -w "regjeringen ch=$ch %{http_code} %{size_download}\n" \
+              "https://www.regjeringen.no/no/dokumenter/prop.-79-l-20242025/id3094317/?ch=$ch" | tee -a kartlegg/status.txt
+          done
+          if file /tmp/prop.pdf | grep -q PDF; then
+            pdfinfo /tmp/prop.pdf | tee -a kartlegg/status.txt
+            pdftotext -layout /tmp/prop.pdf kartlegg/prop-79-l.txt
+          fi
+          for ch in 30 31; do
+            if grep -q "<html" "/tmp/ch$ch.html" 2>/dev/null; then
+              python3 -c "import re,sys,html;t=open(sys.argv[1],encoding='utf-8',errors='replace').read();t=re.sub(r'(?s)<(script|style).*?</\1>','',t);t=re.sub(r'<br\s*/?>|</p>|</h\d>|</li>','\n',t);print(html.unescape(re.sub(r'<[^>]+>','',t)))" "/tmp/ch$ch.html" > "kartlegg/ch$ch.txt"
+            fi
+          done
+          ls -la kartlegg
+      - name: Lagre
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add kartlegg
+          git commit -q -m "Midlertidig: Prop. 79 L som tekst" && git push origin "HEAD:${{ github.ref_name }}" || true
