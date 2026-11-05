@@ -9,8 +9,8 @@ Bruk:
 1. Leser sitemap.xml på arbeidstilsynet.no. Hver forskrift har en side under
    /regelverk/forskrifter/<navn>/, og alle sidene har dato for siste endring (lastmod).
 2. Henter forskrifter som er nye eller har ny dato siden forrige gang
-   (regelverk/arbeidstilsynet-kommentarer.tsv). Forskriften kobles til basen gjennom
-   Lovdata-lenkene på siden: den forskriften i regelverk.json som det lenkes oftest til.
+   (regelverk/arbeidstilsynet-kommentarer.tsv). Forskriften kobles til basen med navnet:
+   overskriften på siden er lik navnet i regelverk.json, eller lik kortnavnet i parentes.
 3. Tar bare med «Arbeidstilsynets kommentar» under hver paragraf, ikke forskriftsteksten,
    som kommer fra Lovdata. Kommentarene legges i
    regelverk/<lov>/rundskriv/arbeidstilsynet/<forskrift>/par-<nr>.md med oversikt.md.
@@ -156,15 +156,23 @@ def markdown(el) -> str:
 
 # --- Lesing av forskriftssiden ------------------------------------------------------------
 
+def norm(t: str) -> str:
+    return re.sub(r"\s+", " ", t.lower().replace("\u00a0", " ")).strip().rstrip(".")
+
+
 def les_side(side: str, i_basen: dict):
     """Returnerer (lov, forskrift, [(paragraf, overskrift, markdown)]) eller (None, None, []) ."""
     html = hent(f"{BASE}/regelverk/forskrifter/{side}/")
-    ider = Counter(re.findall(r"lovdata\.no/forskrift/(\d{4}-\d{2}-\d{2}-\d+)", html))
-    treff = [(n, i) for i, n in ider.items() if i in i_basen]
-    if not treff:
-        return None, None, []
-    lov, forskrift = i_basen[max(treff)[1]]
     soup = BeautifulSoup(html, "lxml")
+    h1 = norm(soup.find("h1").get_text(" ", strip=True)) if soup.find("h1") else ""
+    # Navnet avgjør: likt navn, eller kortnavnet i parentes i navnet i basen. Lovdata-lenkene
+    # alene holder ikke, fordi sidene lenker mye til andre forskrifter.
+    kandidater = [i for i, (_, f) in i_basen.items()
+                  if h1 and (norm(f["navn"]) == h1 or f"({h1})" in norm(f["navn"]))]
+    if not kandidater:
+        return None, None, []
+    ider = Counter(re.findall(r"lovdata\.no/forskrift/(\d{4}-\d{2}-\d{2}-\d+)", html))
+    lov, forskrift = i_basen[max(kandidater, key=lambda i: ider.get(i, 0))]
     kommentarer = []
     for blokk in soup.select("div.lawsandregulationslistpage__comments"):
         innhold = blokk.select_one("div.accordion-item__content")
@@ -191,7 +199,10 @@ def skriv_mappe(side: str, lov: dict, forskrift: dict, kommentarer: list, dato: 
         shutil.rmtree(mappe)
     mappe.mkdir(parents=True)
     url = f"{BASE}/regelverk/forskrifter/{side}/"
-    tittel = f"Arbeidstilsynets kommentarer til {forskrift['navn'][0].lower()}{forskrift['navn'][1:]}"
+    kort = re.search(r"\(([^()]+)\)$", forskrift["navn"])
+    navnet = kort.group(1) if kort else forskrift["navn"]
+    navnet = navnet[0].lower() + navnet[1:]
+    tittel = f"Arbeidstilsynets kommentarer til {navnet}"
     innhold = []
     for nr, overskrift, tekst_ in kommentarer:
         fil = mappe / f"{slug(nr)}.md"
@@ -209,8 +220,8 @@ def skriv_mappe(side: str, lov: dict, forskrift: dict, kommentarer: list, dato: 
             "---",
         ])
         navn = f"{nr} {overskrift}".strip()
-        fil.write_text(f"{hode}\n\n# Arbeidstilsynets kommentar til {forskrift['navn'][0].lower()}"
-                       f"{forskrift['navn'][1:]} {navn}\n\n{tekst_}\n", encoding="utf-8")
+        fil.write_text(f"{hode}\n\n# Arbeidstilsynets kommentar til {navnet} {navn}\n\n{tekst_}\n",
+                       encoding="utf-8")
         innhold.append(f"- {navn} – `{fil.name}`")
     (mappe / "oversikt.md").write_text(
         f"# {tittel}\n\n"
