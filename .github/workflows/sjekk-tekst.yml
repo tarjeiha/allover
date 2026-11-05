@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   sjekk:
@@ -24,4 +25,15 @@ jobs:
           python-version: "3.12"
 
       - name: Sjekk merknader og veivisere
-        run: python3 verktoy/sjekk_tekst.py
+        shell: bash
+        run: python3 verktoy/sjekk_tekst.py | tee "$RUNNER_TEMP/funn.txt"
+
+      # Endringer kan komme rett på main fra en chat. Da er det ingen PR som stopper,
+      # så et funn må gi en sak som blir sett.
+      - name: Varsle om funn på main
+        if: failure() && github.event_name == 'push'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Tekstkontrollen: funn på main"
+          tekst: "tekstkontrollen fant feil i håndskrevet tekst på main, f.eks. døde stier eller et departementsnavn som avsender. Rett filene, eller be Claude se på det."
+          fil: ${{ runner.temp }}/funn.txt

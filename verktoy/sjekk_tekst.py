@@ -13,6 +13,9 @@ Lov- og forskriftstekst, rundskriv og AUTO-blokkene kontrolleres ikke, de bygges
 Skriver funnene og avslutter med kode 1 hvis det er feil.
 
 Bruk: python3 verktoy/sjekk_tekst.py
+      python3 verktoy/sjekk_tekst.py --fritekst FIL [FIL ...]
+        sjekker bare avsendernavn i fritekst, f.eks. PR-tittel, PR-tekst og commit-meldinger.
+        Linjer i HTML-kommentarer hoppes over.
 """
 import json
 import re
@@ -118,7 +121,24 @@ def sjekk() -> list:
     return funn
 
 
+def sjekk_fritekst(stier) -> list:
+    """PR-tekster og commit-meldinger er like åpne som filene."""
+    funn = []
+    for sti in stier:
+        tekst = re.sub(r"<!--.*?-->", "", Path(sti).read_text(encoding="utf-8"), flags=re.S)
+        for nr, linje in enumerate(tekst.splitlines(), 1):
+            if a := AVSENDER.search(linje):
+                funn.append(f"{Path(sti).name}:{nr}: «{a.group(0)}» viser et departement som avsender")
+    return funn
+
+
 def main() -> int:
+    if sys.argv[1:2] == ["--fritekst"]:
+        funn = sjekk_fritekst(sys.argv[2:])
+        for f in funn:
+            print(f)
+        print(f"{len(funn)} funn i fritekst" if funn else "Ingen funn i fritekst")
+        return 1 if funn else 0
     funn = sjekk()
     for f in funn:
         print(f)
