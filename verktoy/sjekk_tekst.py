@@ -6,7 +6,8 @@ Sjekker at
 - ingen tekst sier at et regelverk som er i regelverk.json, «ikke er i basen» eller «ikke er dekket»,
 - ingen håndskrevet tekst har departementsnavnet som avsender: «AID», «ASD», skillnavn med «aid-»
   eller uttrykk som «tekst fra departementet» og «departementets vurdering». Repoet er åpent og skal ikke
-  se ut som noe et departement har publisert. Når lovteksten selv sier «departementet», er det greit.
+  se ut som noe et departement har publisert. Når lovteksten selv sier «departementet», er det greit,
+  og det samme gjelder dokumentnavnet «Prop. 1 S for AID».
 
 Lov- og forskriftstekst, rundskriv og AUTO-blokkene kontrolleres ikke, de bygges automatisk.
 Skriver funnene og avslutter med kode 1 hvis det er feil.
@@ -21,7 +22,7 @@ from pathlib import Path
 ROT = Path(__file__).resolve().parent.parent
 STI = re.compile(r"`([^`\s]+)`")
 AVSENDER = re.compile(
-    r"\bAIDs?\b|\bASD\b|(?<![-\w])aid-[a-z]"
+    r"(?<!Prop\. 1 S for )\bAIDs?\b|\bASD\b|(?<![-\w])aid-[a-z]"
     r"|\b(?:fra|i|for|hos)\s+departementet\b(?!\s+(?:kan|skal|gir|har\s+hjemmel))"
     r"|\bdepartementets\s+(?:vurdering|føring|skriveregler|interne|egne|mål|budsjett)"
     r"|\bdepartementet\s+(?:har\s+valgt|mener|vil)\b")
