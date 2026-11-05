@@ -12,6 +12,8 @@ Fem datatyper fra [data.stortinget.no](https://data.stortinget.no). Anmodningsve
 
 Reglene for spørsmål, interpellasjoner, representantforslag og frister for statsrådenes svar står i Stortingets forretningsorden, se `regelverk/stortingets-forretningsorden/VEIVISER.md`. Indeksen her sier hva som faktisk er spurt, foreslått og vedtatt.
 
+**Ikke bland med budsjettspørsmål.** Svar på budsjettspørsmål fra finanskomiteen (spørsmål fra partiene om statsbudsjettet og revidert nasjonalbudsjett, nummerert per parti) ligger ikke her, men i `budsjett/VEIVISER.md`. Sier brukeren bare «spørsmål», gjelder det oftest skriftlige spørsmål, interpellasjoner eller spørretimespørsmål. Nevner brukeren budsjettet, RNB, finanskomiteen eller et spørsmålsnummer fra et parti (f.eks. «spørsmål 233 fra Sp»), er det budsjettspørsmål. Er det uklart, søk i begge og si hvilken samling treffet kommer fra.
+
 Hver mappe har én fil per sesjon, for eksempel `data/sporsmal/2025-2026.json`. Hele indeksen er rundt 31 MB, så hent bare det du trenger.
 
 ## Slik søker du

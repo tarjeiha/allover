@@ -14,6 +14,7 @@ Spørsmål om hvordan budsjettet lages og gjennomføres, og om reglene for bevil
 - **Anslag er anslag.** Tall for 2026 og 2027 i Nasjonalbudsjettet er Finansdepartementets anslag fra oktober 2026. Si det når du bruker dem.
 - **Nynorsk.** Prop. 1 S for AID er skrevet på nynorsk. Siter på nynorsk, men svar på brukerens språk.
 - **Overslagsløyvingar.** Poster merket «overslagsløyving» (f.eks. dagpenger) er anslag. Utgiftene følger regelverket, ikke beløpet.
+- **«Spørsmål» er ikke alltid budsjettspørsmål.** Svar på budsjettspørsmål (under) er spørsmål fra partienes fraksjoner i finanskomiteen om statsbudsjettet eller revidert nasjonalbudsjett. Skriftlige spørsmål, interpellasjoner og spørretimespørsmål til statsrådene er noe annet og ligger i `stortinget/VEIVISER.md`. Sier brukeren bare «spørsmål», uten «budsjett», «RNB», «finanskomiteen» eller et partinummer, gjelder det oftest skriftlige spørsmål. Er det uklart, søk i begge og si hvilken samling treffet kommer fra.
 - **Kapittelnumrene sier hva slags kapittel det er.** Kap. 600–699 er ordinære utgiftskapitler, 2470 er Statens pensjonskasse, 2541–2686 er folketrygden, 3000-kapitlene er inntekter som hører til 600-kapitlene, og 5000-kapitlene er andre inntekter og utgifter (f.eks. 5470 Statens pensjonskasse og 5705 Refusjon av dagpengar). Se programkategori-filene for inndelingen.
 
 ## Satser (`budsjett/satser/`)
