@@ -8,21 +8,21 @@ Arbeidstilsynets kommentarer til Forskrift om utførelse av arbeid, psykososialt
 - § 1-3 Hvem forskriften retter seg mot – `par-1-3.md`
 - § 1-4 Definisjoner: – `par-1-4.md`
 - § 1-5 Dispensasjon – `par-1-5.md`
-- § 1 A-1. Fullt forsvarlig psykososialt arbeidsmiljø – `par-1.md`
-- § 1 A-2. Kartlegging og risikovurdering av det psykososiale arbeidsmiljøet i virksomheten – `par-1.md`
-- § 1 A-3. Tiltak – `par-1.md`
-- § 1 A-4. Informasjon og opplæring – `par-1.md`
-- § 1 A-5. Arbeidstakerens medvirkningsplikt – `par-1.md`
-- § 2 A-1. Trakassering og annen utilbørlig opptreden – `par-2.md`
-- § 2 A-2. Kartlegging og vurdering av risiko for å bli utsatt for trakassering – `par-2.md`
-- § 2 A-3. Tiltak mot trakassering – `par-2.md`
-- § 2 A-4. Oppfølging av arbeidstakere som har blitt utsatt for trakassering – `par-2.md`
-- § 3 A-1. Vold og trusler – `par-3.md`
-- § 3 A-2. Kartlegging og vurdering av risiko for vold og trusler – `par-3.md`
-- § 3 A-3. Tiltak mot vold og trusler – `par-3.md`
-- § 3 A-4. Informasjon ved arbeid som kan medføre risiko for å bli utsatt for vold og trusler – `par-3.md`
-- § 3 A-5. Opplæring ved arbeid som innebærer risiko for å bli utsatt for vold og trusler – `par-3.md`
-- § 3 A-6. Oppfølging av arbeidstakere som har blitt utsatt for vold eller trusler – `par-3.md`
+- § 1A-1 Fullt forsvarlig psykososialt arbeidsmiljø – `par-1a-1.md`
+- § 1A-2 Kartlegging og risikovurdering av det psykososiale arbeidsmiljøet i virksomheten – `par-1a-2.md`
+- § 1A-3 Tiltak – `par-1a-3.md`
+- § 1A-4 Informasjon og opplæring – `par-1a-4.md`
+- § 1A-5 Arbeidstakerens medvirkningsplikt – `par-1a-5.md`
+- § 2A-1 Trakassering og annen utilbørlig opptreden – `par-2a-1.md`
+- § 2A-2 Kartlegging og vurdering av risiko for å bli utsatt for trakassering – `par-2a-2.md`
+- § 2A-3 Tiltak mot trakassering – `par-2a-3.md`
+- § 2A-4 Oppfølging av arbeidstakere som har blitt utsatt for trakassering – `par-2a-4.md`
+- § 3A-1 Vold og trusler – `par-3a-1.md`
+- § 3A-2 Kartlegging og vurdering av risiko for vold og trusler – `par-3a-2.md`
+- § 3A-3 Tiltak mot vold og trusler – `par-3a-3.md`
+- § 3A-4 Informasjon ved arbeid som kan medføre risiko for å bli utsatt for vold og trusler – `par-3a-4.md`
+- § 3A-5 Opplæring ved arbeid som innebærer risiko for å bli utsatt for vold og trusler – `par-3a-5.md`
+- § 3A-6 Oppfølging av arbeidstakere som har blitt utsatt for vold eller trusler – `par-3a-6.md`
 - § 2-1 Krav om stoffkartotek – `par-2-1.md`
 - § 2-2 Stoffkartotekets utforming – `par-2-2.md`
 - § 2-3 Bruk av opplysningene i stoffkartoteket – `par-2-3.md`
@@ -150,12 +150,12 @@ Arbeidstilsynets kommentarer til Forskrift om utførelse av arbeid, psykososialt
 - § 16-5 Tiltak mot eksponering for kunstig optisk stråling – `par-16-5.md`
 - § 16-6 Særskilte tiltak mot eksponering for kunstig optisk stråling ved overskridelse av grenseverdiene – `par-16-6.md`
 - § 16-7 Helseundersøkelse av arbeidstakere som utsettes for kunstig optisk stråling – `par-16-7.md`
-- § 16 A-1. Risikovurdering av helsefare ved elektromagnetiske felt – `par-16.md`
-- § 16 A-2. Vurdering og beregning eller måling av elektromagnetisk felt som grunnlag for risikovurderingen – `par-16.md`
-- § 16 A-3. Opplæring der arbeidstaker kan utsettes for elektromagnetisk felt – `par-16.md`
-- § 16 A-5. Tiltak mot eksponering for elektromagnetisk felt – `par-16.md`
-- § 16 A-6. Særskilte tiltak mot eksponering for elektromagnetisk felt ved overskridelse av grenseverdiene – `par-16.md`
-- § 16 A-7. Helseundersøkelse av arbeidstakere som utsettes for elektromagnetisk felt – `par-16.md`
+- § 16 A-1 Risikovurdering av helsefare ved elektromagnetiske felt – `par-16a-1.md`
+- § 16 A-2 Vurdering og beregning eller måling av elektromagnetisk felt som grunnlag for risikovurderingen – `par-16a-2.md`
+- § 16 A-3 Opplæring der arbeidstaker kan utsettes for elektromagnetisk felt – `par-16a-3.md`
+- § 16 A-5 Tiltak mot eksponering for elektromagnetisk felt – `par-16a-5.md`
+- § 16 A-6 Særskilte tiltak mot eksponering for elektromagnetisk felt ved overskridelse av grenseverdiene – `par-16a-6.md`
+- § 16 A-7 Helseundersøkelse av arbeidstakere som utsettes for elektromagnetisk felt – `par-16a-7.md`
 - § 17-1 Risikovurdering av arbeid i høyden – `par-17-1.md`
 - § 17-2 Krav til opplæring ved montering, demontering, endring og kontroll av stillas med øverste stillasgulv fra to meter og inntil fem meter – `par-17-2.md`
 - § 17-3 Krav til opplæring ved montering, demontering, endring og kontroll av stillas med øverste stillasgulv fra fem meter og inntil ni meter – `par-17-3.md`

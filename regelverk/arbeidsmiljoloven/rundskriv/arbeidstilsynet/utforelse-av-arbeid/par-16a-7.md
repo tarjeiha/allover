@@ -6,11 +6,11 @@ forskrift: "Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk 
 forskrift_id: "FOR-2011-12-06-1357"
 kilde: "https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/"
 lagt_inn: "2026-11-05"
-paragraf: "§ 16"
+paragraf: "§ 16 A-7"
 gjelder: "forskrift"
 ---
 
-# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 16 A-7. Helseundersøkelse av arbeidstakere som utsettes for elektromagnetisk felt
+# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 16 A-7 Helseundersøkelse av arbeidstakere som utsettes for elektromagnetisk felt
 
 Se gjennomgående krav om helseovervåking i forskrift om organisering, ledelse og medvirkning § 14-1 med kommentarer.
 

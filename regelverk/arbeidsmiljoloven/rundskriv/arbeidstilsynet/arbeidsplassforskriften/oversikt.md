@@ -35,10 +35,10 @@ Arbeidstilsynets kommentarer til Forskrift om utforming og innretning av arbeids
 - § 3-7 Toalett – `par-3-7.md`
 - § 3-8 Rom for renholdsutstyr – `par-3-8.md`
 - § 3-9 Tørk av klær – `par-3-9.md`
-- § 3 A-1. Generelle krav til innkvarteringen – `par-3.md`
-- § 3 A-2. Krav til enkeltrom som soverom – `par-3.md`
-- § 3 A-3. Krav til oppholdsrom – `par-3.md`
-- § 3 A-4. Tilgang til dusj og toalett – `par-3.md`
+- § 3A-1 Generelle krav til innkvarteringen – `par-3a-1.md`
+- § 3A-2 Krav til enkeltrom som soverom – `par-3a-2.md`
+- § 3A-3 Krav til oppholdsrom – `par-3a-3.md`
+- § 3A-4 Tilgang til dusj og toalett – `par-3a-4.md`
 - § 4-2 Rømnings- og redningsutstyr – `par-4-2.md`
 - § 4-3 Brannforebygging, eksplosjonsforebygging og brannslokkingsutstyr – `par-4-3.md`
 - § 5-7 Sikkerhetsskilter som skal brukes – `par-5-7.md`

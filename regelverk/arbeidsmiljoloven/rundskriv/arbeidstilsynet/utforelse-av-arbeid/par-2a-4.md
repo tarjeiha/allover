@@ -6,11 +6,11 @@ forskrift: "Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk 
 forskrift_id: "FOR-2011-12-06-1357"
 kilde: "https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/"
 lagt_inn: "2026-11-05"
-paragraf: "§ 2"
+paragraf: "§ 2A-4"
 gjelder: "forskrift"
 ---
 
-# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 2 A-4. Oppfølging av arbeidstakere som har blitt utsatt for trakassering
+# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 2A-4 Oppfølging av arbeidstakere som har blitt utsatt for trakassering
 
 Kravet til oppfølging retter seg mot belastningen trakasseringen eller den utilbørlige opptredenen kan ha medført for den enkelte arbeidstaker.
 

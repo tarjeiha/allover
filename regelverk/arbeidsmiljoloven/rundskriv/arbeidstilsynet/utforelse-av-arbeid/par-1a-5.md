@@ -6,11 +6,11 @@ forskrift: "Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk 
 forskrift_id: "FOR-2011-12-06-1357"
 kilde: "https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/"
 lagt_inn: "2026-11-05"
-paragraf: "§ 1"
+paragraf: "§ 1A-5"
 gjelder: "forskrift"
 ---
 
-# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 1 A-5. Arbeidstakerens medvirkningsplikt
+# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 1A-5 Arbeidstakerens medvirkningsplikt
 
 Bestemmelsen viser til arbeidstakerens medvirkningsplikt etter arbeidsmiljøloven § 2-3, og presiserer at denne også gjelder i arbeidet med det psykososiale arbeidsmiljøet.
 

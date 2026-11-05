@@ -6,11 +6,11 @@ forskrift: "Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk 
 forskrift_id: "FOR-2011-12-06-1357"
 kilde: "https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/"
 lagt_inn: "2026-11-05"
-paragraf: "§ 3"
+paragraf: "§ 3A-6"
 gjelder: "forskrift"
 ---
 
-# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 3 A-6. Oppfølging av arbeidstakere som har blitt utsatt for vold eller trusler
+# Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 3A-6 Oppfølging av arbeidstakere som har blitt utsatt for vold eller trusler
 
 Bestemmelsen utfyller arbeidsgivers plikt etter arbeidsmiljøloven §§ 4-1 og 4-3 til å sikre et fullt forsvarlig arbeidsmiljø ved å tydeliggjøre plikten til å følge opp arbeidstakere som har blitt utsatt for vold eller trusler i arbeidet.
 
