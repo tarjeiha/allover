@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_4-2"
 lagt_inn: "2026-11-05"
 punkt: "4.2"
@@ -18,8 +18,6 @@ Forutsatt at vilkårene er oppfylt kan arbeidsgiver i kraft av styringsretten p�
 
 [Hovedtariffavtalene § 16](https://lovdata.no/tariff/spha-91/%C2%A716) gir særregler for arbeid på helge- og høytidsdager. Se også departementets kommentarer til bestemmelsen.
 
-buttonsBar: k4-2-1
-
 ## 4.2.1 Lengden av overtidsarbeid
 
 [Arbeidsmiljøloven](https://lovdata.no/lov/2005-06-17-62) regulerer hvor mye overtid det er tillatt å arbeide. For å kunne beregne grensene for tillatt overtid, må det tas utgangspunkt i [arbeidsmiljølovens](https://lovdata.no/lov/2005-06-17-62) bestemmelser.
@@ -27,8 +25,6 @@ buttonsBar: k4-2-1
 De generelle grensene for overtid er 10 timer i løpet av sju dager, 25 timer i løpet av fire sammenhengende uker og 200 timer innenfor en periode på 52 uker, se [arbeidsmiljøloven § 10-6](https://lovdata.no/lov/2005-06-17-62/%C2%A710-6). Overtidsarbeid kan sammen med den alminnelige arbeidstid samlet sett ikke overstige 13 timer i løpet av 24 timer.
 
 Arbeidsgiver og tillitsvalgte kan skriftlig avtale utvidede rammer for bruk av overtid, se [arbeidsmiljøloven § 10-6 femte ledd](https://lovdata.no/lov/2005-06-17-62/%C2%A710-6) og [hovedtariffavtalene § 7](https://lovdata.no/tariff/spha-91/%C2%A77).
-
-buttonsBar: k4-2-2
 
 ## 4.2.2 Særlige grupper unntatt overtidsbestemmelsene
 
@@ -41,8 +37,6 @@ Arbeidstakere i ledende stilling eller i særlig uavhengig stilling er ikke omfa
 Arbeidsmiljølovens kapittel 10 om arbeidstid gjelder heller ikke blant annet ansatte ved utenriksstasjonene under Utenriksdepartementet eller polititjenestemenn.
 
 Etter [arbeidsmiljøloven](https://lovdata.no/lov/2005-06-17-62) er det forbudt å benytte arbeidstakere under 18 år til overtidsarbeid, se [arbeidsmiljøloven § 11-1](https://lovdata.no/lov/2005-06-17-62/%C2%A711-1), som gir særlige bestemmelser om arbeidstiden for unge arbeidstakere.
-
-buttonsBar: k4-2-3
 
 ## 4.2.3 Overtidsarbeid i forbindelse med uttak av AFP som delpensjon
 

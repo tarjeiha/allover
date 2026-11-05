@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_6-4"
 lagt_inn: "2026-11-05"
 punkt: "6.4"
@@ -27,8 +27,6 @@ Konsekvensen av at forhandlingene er delegert, er at partene på driftsenhetsniv
 
 Det er særlige bestemmelser om tvisteløsning ved delegerte forhandlinger, se [hovedtariffavtalene punkt 2.7.1](https://lovdata.no/tariff/spha-91/kap2.7.1) og nærmere omtale i [SPH punkt 6.6.5](https://lovdata.no/litteratur/sph/kap6.6.5).
 
-buttonsBar: k6-4-1
-
 ## 6.4.1 Personal- og lønnsstatistikk
 
 De sentrale partene anbefaler at arbeidsgiver minst en gang årlig legger frem lønns- og personalstatistikk. Lokale forhandlinger forutsetter at lønnsdata foreligger i en slik form at partene unngår uenighet om tallgrunnlaget. Statistikken bør legges frem på det forberedende møtet som skal gjennomføres før de årlige lokale forhandlingene starter. Hva personal- og lønnsstatistikken skal inneholde, må bli opp til partene lokalt å avgjøre ut fra hvilke behov virksomhetene har. Statistikkene kan etter behov omfatte stillingsbetegnelse, stillingsbrøk og kode, eventuelt opplysninger om ansiennitet og andre lønnsopplysninger, herunder historiske lønnsdata, som er nødvendig for gjennomføringen av lokale lønnsforhandlinger, se [punkt 2.6.3 i hovedtariffavtalene](https://lovdata.no/tariff/spha-91/kap2.6.3).
@@ -37,21 +35,15 @@ Dersom fremlegging av tallmateriale/statistikk blir innarbeidet i virksomhetene 
 
 Lønnsstatistikken kan være et hjelpemiddel til å avdekke lønnsforskjeller mellom kvinner og menn, og kan også bidra til å intensivere likelønnsarbeidet.
 
-buttonsBar: k6-4-2
-
 ## 6.4.2 Innkalling av partene til forhandlingsmøte
 
 Krav om forhandlinger skal fremsettes skriftlig til det enkelte forhandlingssted. Når forhandlinger kreves opptatt, skal arbeidsgiver skriftlig varsle alle forhandlingsberettigede organisasjoner i forhandlingsområdet.
 
 [Tjenestetvistloven § 2](https://lovdata.no/lov/1958-07-18-2/%C2%A72) pålegger partene en gjensidig forhandlingsplikt.
 
-buttonsBar: k6-4-3
-
 ## 6.4.3 Gjennomføring av lokale forhandlinger, HTA punkt 2.5.1
 
 Forut for de lokale forhandlingene skal det gjennomføres et forberedende møte, se [punkt 2.6.3 i hovedtariffavtalene](https://lovdata.no/tariff/spha-91/kap2.6.3). Det skal føres referat fra det forberedende møtet. De lokale partene oppfordres til å bli enige om en prosess for lokale forhandlinger som passer virksomheten. Dersom ikke annet er avtalt lokalt, skal de lokale forhandlinger gjennomføres slik [hovedtariffavtalene punkt 2.6.3](https://lovdata.no/tariff/spha-91/kap2.6.3) angir. Dersom forhandlingene er delegert, skal partene på virksomhetsnivå forhandle om fordelingen av avsetningen til lokale forhandlinger i det forberedende møtet. Det skal settes opp referat fra det forberedende møtet og protokoll fra forhandlingene om fordelingen av avsetningen. Partene på driftsenhetsnivå må avvente referat og protokoll fra virksomhetsnivået før de kan avholde sitt forberedende møte.
-
-buttonsBar: k6-4-4
 
 ## 6.4.4 Innsyn i protokoll og oversikter over ansattes lønn
 

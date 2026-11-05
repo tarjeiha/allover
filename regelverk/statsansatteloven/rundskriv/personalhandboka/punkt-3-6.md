@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_3-6"
 lagt_inn: "2026-11-05"
 punkt: "3.6"
 ---
 
 # Statens personalhåndbok punkt 3.6 Suspensjon
-
-buttonsBar: k3-6-1
 
 ## 3.6.1 Vilkår for suspensjon
 
@@ -20,21 +18,15 @@ Et vedtak om suspensjon av statsansatte treffes av ansettelsesorganet, se [stats
 
 Vedtak om suspensjon av embetsmenn treffes av Kongen i statsråd, se [Grunnloven § 22 andre ledd](https://lovdata.no/lov/1814-05-17/%C2%A722) og [statsansatteloven § 31 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A731). Myndigheten til å ilegge embetsmenn ordensstraff er delegert til det enkelte departement, se [statsansatteloven § 31 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A731).
 
-buttonsBar: k3-6-2
-
 ## 3.6.2 Varighet av suspensjon
 
 Et vedtak om suspensjon skal fortløpende vurderes og skal som utgangspunkt ha en maksimal varighet på seks måneder, se [statsansatteloven § 29 tredje ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A729). Tidsbegrensningen er satt av hensyn til arbeidstaker, da suspensjon er et inngripende tiltak. Dersom vilkårene for suspensjonen ikke lenger er til stede eller vedtak om avskjed ikke er truffet innen seks måneder, skal suspensjonsvedtaket oppheves.
 
 Suspensjonen kan likevel forlenges dersom særlige forhold tilsier det. Eksempler på situasjoner hvor forlengelse av suspensjon kan være aktuelt, er dersom det er reist tiltale mot den ansatte for adferd som kan begrunne avskjed eller tjenestens tap som straff etter [straffeloven](https://lovdata.no/lov/2005-05-20-28), eller dersom klage over avskjedsvedtaket ikke er endelig avgjort på det tidspunkt suspensjonen utløper. En suspensjon kan også forlenges dersom arbeidstakeren har en særlig betrodd stilling og det vil virke skadelig for tjenesten om vedkommende gjenopptar arbeidet. En særlig betrodd stilling vil ofte være stillinger på et visst nivå med særlige fullmakter til å treffe avgjørelser eller til å disponere større verdier. Ved vurderingen av hva som er skadelig for tjenesten må en se på stillingens posisjon og hensynet til tilliten til forvaltningen. Hvis den ansatte kan forspille bevis som trengs for avskjedssaken, kan en suspensjon også forlenges. Fare for bevisforspillelse vil kunne være aktuelt hvis den ansatte har tilgang til opplysninger som kan være relevante bevis i saken, og faktisk har mulighet til å fjerne disse.
 
-buttonsBar: k3-6-3
-
 ## 3.6.3 Overføring til annen mindre betrodd stilling
 
 Alle statsansatte, samt embetsmenn i departementene og ved Statsministerens kontor, i Forsvaret eller i utenrikstjenesten, kan midlertidig overføres til annen mindre betrodd tjeneste som alternativ til suspensjon, se [statsansatteloven § 29 fjerde ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A729). Slik overføring er ikke avhengig av samtykke eller avtale med arbeidstaker, og innebærer et mindre inngripende tiltak enn suspensjon, samtidig som arbeidsgivers behov for å få arbeidstaker ut av stillingen ivaretas. Forutsetningen er at vilkårene for suspensjon er oppfylt, og de samme saksbehandlingsreglene gjelder som ved suspensjon. En beslutning om overføring til annen mindre betrodd stilling er med andre ord også et enkeltvedtak, og de samme regler om varighet og forlengelse gjelder som ved suspensjon. Arbeidstaker som overføres til mindre betrodd stilling beholder også den opprinnelige stillingens lønn.
-
-buttonsBar: k3-6-4
 
 ## 3.6.4 Lønn under suspensjon
 

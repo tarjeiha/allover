@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_16-4"
 lagt_inn: "2026-11-05"
 punkt: "16.4"
 ---
 
 # Statens personalhåndbok punkt 16.4 Feriefritiden
-
-buttonsBar: k16-4-1
 
 ## 16.4.1 Feriens lengde
 
@@ -30,8 +28,6 @@ Når det gjelder arbeidstakere som arbeider redusert stilling, men som arbeider 
 
 Uansett må man huske på at selv om lørdag for mange er fridag, er også denne dagen virkedag som skal telle med i dagtallet.
 
-buttonsBar: k16-4-2
-
 ## 16.4.2 Ekstraferie for arbeidstakere over 60 år
 
 Arbeidstakere over 60 år har rett til 6 virkedager ekstraferie i tillegg til den alminnelige ferien etter [ferieloven](https://lovdata.no/lov/1988-04-29-21) og avtalefestet ferie. Retten til ekstraferie inntrer for de arbeidstakere som fyller 60 år i løpet av ferieåret. Det er derfor ikke et krav at arbeidstakere har fylt 60 år før ekstraferien avvikles.
@@ -44,8 +40,6 @@ En arbeidstaker på 60 år som arbeider deltid tre dager per uke kan ikke, ved �
 
 En arbeidstaker på 60 år som arbeider deltid tre dager pr. uke kan følgelig ta ut tre enkeltdager i forskjellige uker som ekstraferie, dersom arbeidstakeren tar ut enkeltdager. Dersom dagene tas ut samlet, vil også arbeidstakerens fridager i ferieperioden regnes med, slik at arbeidstakerens ekstraferie totalt vil utgjøre en hel uke (tre arbeidsdager og tre fridager etter arbeidstidsordningen).
 
-buttonsBar: k16-4-3
-
 ## 16.4.3 Feriens lengde ved ansettelse i ferieåret
 
 Arbeidstakere som tiltrer senest 30. september i ferieåret har krav på full feriefritid i dette året, se [ferieloven § 5 nr. 3](https://lovdata.no/lov/1988-04-29-21/%C2%A75). Arbeidstakere som tiltrer etter 15. august i ferieåret kan imidlertid ikke kreve at hovedferien på 18 virkedager avvikles i tidsrommet 1. juni – 30. september, se [ferieloven § 7 nr. 1 andre setning](https://lovdata.no/lov/1988-04-29-21/%C2%A77).
@@ -53,8 +47,6 @@ Arbeidstakere som tiltrer senest 30. september i ferieåret har krav på full fe
 Arbeidstakere som tiltrer senere enn 30. september i ferieåret har rett til seks virkedager ferie. Alle har dermed krav på noe ferie i det ferieåret de blir ansatt.
 
 Den som allerede har avviklet full feriefritid hos en annen arbeidsgiver tidligere i ferieåret, kan ikke kreve avvikling av feriefritid etter forannevnte regler.
-
-buttonsBar: k16-4-4
 
 ## 16.4.4 Tilleggsfritid ved søndags- og skiftarbeid, uregelmessig arbeidstid mv.
 
@@ -68,13 +60,9 @@ buttonsBar: k16-4-4
 
 En arbeidstaker avslutter vakt kl. 22:00 søndag kveld, og tar deretter 18 virkedager ferie. Arbeidstakeren kan da kreve å ikke begynne vakt før kl. 14:00 mandag etter 18 virkedager ferie. (Fra vaktens avslutning kl. 22:00 før ferien til kl. 24:00 er det to timer. Etter endt ferie er det 14 timer fra kl. 00:00 til kl. 14:00. Til sammen utgjør dette 16 timer tilleggsfri).
 
-buttonsBar: k16-4-5
-
 ## 16.4.5 Lovbestemte helge- og høytidsdager
 
 Lovbestemte helge- og høytidsdager regnes ikke som feriedager og kommer i tillegg til den lov- og avtalebestemte ferie. Hvilke dager dette gjelder fremgår av [lov om helligdager og helligdagsfred](https://lovdata.no/lov/1995-02-24-12) og [lov om 1. og 17. mai som høgtidsdager](https://lovdata.no/lov/1947-04-26-1).
-
-buttonsBar: k16-4-6
 
 ## 16.4.6 Arbeidstaker uten full opptjening
 
@@ -96,8 +84,6 @@ På grunn av begrensningen i feriepengegrunnlaget for arbeidstakere over 60 år 
 
 Feriedager som arbeidstakeren motsetter seg å avvikle, med hjemmel i [ferieloven § 5 nr. 5](https://lovdata.no/lov/1988-04-29-21/%C2%A75), blir strøket uten godtgjøring.
 
-buttonsBar: k16-4-7
-
 ## 16.4.7 Hvem som kan bestemme tiden for ferie
 
 [Ferieloven § 6](https://lovdata.no/lov/1988-04-29-21/%C2%A76) gir bestemmelser om fastsettelse og endring av tidspunktet for ferie. Det er arbeidsgiver som i kraft av styringsretten fastsetter tidspunktet for ferie. Dette er imidlertid bare et utgangspunkt. Arbeidsgiver skal drøfte fastsetting av ferie og oppsetting av ferielister, med den enkelte arbeidstaker eller dennes tillitsvalgte før det tas endelig beslutning. I praksis kan drøftingen gjøres ved at den ansatte selv legger inn sine ferieønsker i en ferieliste. Dersom partene ikke blir enige om tidspunktet for avvikling av ferie, er det arbeidsgiveren som bestemmer tiden for ferien innenfor lovens rammer. [Ferieloven § 6](https://lovdata.no/lov/1988-04-29-21/%C2%A76) må ses i sammenheng med [ferielovens](https://lovdata.no/lov/1988-04-29-21) øvrige regler. For eksempel kan arbeidstakeren normalt kreve 3 uker sammenhengende ferie i hovedferieperioden, med hjemmel i [ferieloven § 7 nr. 1](https://lovdata.no/lov/1988-04-29-21/%C2%A77).
@@ -106,13 +92,9 @@ Arbeidstakere over 60 år bestemmer selv tiden for avvikling av ekstraferien, me
 
 Arbeidsgiver skal også fastsette tidspunkt for ferieavvikling for en suspendert arbeidstaker, på lik linje med øvrige ansatte.
 
-buttonsBar: k16-4-8
-
 ## 16.4.8 Arbeidstakers rett til å kreve underretning
 
 Arbeidstaker kan kreve at arbeidsgiver informerer om tidspunktet for ferie så tidlig som mulig og senest to måneder før ferien starter. Dette følger av [ferieloven § 6 nr. 2](https://lovdata.no/lov/1988-04-29-21/%C2%A76). Fristen på to måneder gjelder ikke dersom «særlige grunner» er til hinder for dette. Eksempler på slike særlige grunner kan være driftsmessige forhold eller der den gjenstående del av ferieåret ikke er tilstrekkelig til å gi varsel med to måneder. Arbeidstakere over 60 år skal gi arbeidsgiver minst to ukers varsel før ekstraferien avvikles.
-
-buttonsBar: k16-4-9
 
 ## 16.4.9 Arbeidsgivers adgang til å endre fastsatt ferie
 
@@ -121,8 +103,6 @@ buttonsBar: k16-4-9
 Arbeidstakeren kan kreve erstatning for dokumenterte merutgifter som følger av en omlegging av ferien, se [ferieloven § 6 nr. 3 tredje ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A76). Arbeidstakeren plikter å gi opplysninger om merutgifter som vil bli krevet erstattet. Opplysninger om dette skal arbeidstakeren gi under den drøftingen som på forhånd skal finne sted med arbeidsgiveren, før denne endrer fastsatt ferie. Se [Ot.prp. nr. 54 (1986–1987)](https://www.stortinget.no/no/Saker-og-publikasjoner/Stortingsforhandlinger/Lesevisning/?p=1986-87&paid=4&wid=c&psid=DIVL483) side 145 (stortinget.no).
 
 Disse bestemmelsene gjelder dersom ferieavviklingen ennå ikke er påbegynt. Dersom det skulle være aktuelt å tilbakekalle en arbeidstaker som avvikler ferie, må dette baseres enten på nødrettsbetraktninger eller samtykke fra den enkelte, se [PM-2011-08](https://www.regjeringen.no/contentassets/f3edf015996a4b36b039dfc8a4115663/pm-2011-08.pdf).
-
-buttonsBar: k16-4-10
 
 ## 16.4.10 Tiden for ferie
 
@@ -135,8 +115,6 @@ Etter [hovedtariffavtalene punkt 6](https://lovdata.no/tariff/spha-91/kap6) er a
 Arbeidstaker som tiltrer etter 15. august i ferieåret kan ikke kreve å få avviklet tre uker ferie før hovedferieperiodens utløp 30. september. Arbeidstaker har likevel krav på å avvikle ferien, (inklusive avtalefestet ferie) etter hovedferieperiodens utløp dersom arbeidstakeren ikke har avviklet ferie tidligere i ferieåret.
 
 Det er det faktiske, ikke det avtalte, tiltredelsestidspunktet som er avgjørende for retten til å kreve ferie i hovedferieperioden.
-
-buttonsBar: k16-4-11
 
 ## 16.4.11 Permisjon på grunn av fødsel eller adopsjon
 
@@ -152,8 +130,6 @@ Ferie i permisjonstiden bør avvikles samlet, og ikke som enkeltstående ferieda
 
 De foran nevnte regler hindrer ikke at det kan avtales avvikling av ferien i andre perioder i ferieåret, for eksempel avvikling av all ferie utenfor hovedferieperioden. Avtalen kan treffes i det enkelte tilfellet eller det kan inngås tariffavtale om avvikling av ferien i vedkommende virksomhet.
 
-buttonsBar: k16-4-12
-
 ## 16.4.12 Forskuddferie og overføring av feriedager
 
 Arbeidsgiver og arbeidstaker kan inngå avtale om avvikling av forskuddsferie inntil 12 virkedager, se [ferieloven § 7 nr. 3 første ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A77). En slik avtale må gjøres skriftlig.
@@ -166,11 +142,7 @@ Både arbeidsgiver og arbeidstaker har plikt til å sørge for at ferien avvikle
 
 Det er ikke adgang til å utbetale ikke-avviklet ferie. Dette gjelder uavhengig av årsaken til at ferien ikke er avviklet. Arbeidstakere som på grunn av foreldrepermisjon eller sykdom ikke har fått avviklet hele ferien, har derfor krav på å få overført de resterende feriedagene til året etter. Utbetaling skal bare skje ved avslutning av arbeidsforholdet i virksomheten, se [ferieloven § 11 nr. 3](https://lovdata.no/lov/1988-04-29-21/%C2%A711) og [5](https://lovdata.no/lov/1988-04-29-21/%C2%A711).
 
-buttonsBar: k16-4-13
-
 ## 16.4.13 Ferieavvikling i oppsigelsestid
-
-buttonsBar: k16-4-13-1
 
 ### 16.4.13.1 Ved oppsigelse fra arbeidsgiver
 
@@ -178,15 +150,11 @@ buttonsBar: k16-4-13-1
 
 Dersom arbeidstakeren selv ønsker at ferien avvikles i oppsigelsestiden, kan arbeidstakeren samtykke i at dette gjøres. Det er likevel bare samtykke gitt etter at arbeidstakeren har sagt opp som kan gi grunnlag for at ferie legges i oppsigelsestiden. Et generelt forhåndssamtykke fra arbeidstakeren vil derfor ikke være tilstrekkelig, se [ferieloven § 8 nr. 5](https://lovdata.no/lov/1988-04-29-21/%C2%A78). Denne bestemmelsen gjelder ikke avtalefestet ferie etter [hovedtariffavtalene punkt 6](https://lovdata.no/tariff/spha-91/kap6), men arbeidsgiver bør så langt som mulig følge samme regel også her.
 
-buttonsBar: k16-4-13-2
-
 ### 16.4.13.2 Ved oppsigelse fra arbeidstaker
 
 Oppsigelse fra arbeidstaker har ingen betydning for ferieavviklingen. I slike tilfeller vil fastsetting og avvikling av ferie følge de vanlige reglene i [ferieloven §§ 6](https://lovdata.no/lov/1988-04-29-21/%C2%A76) og [7](https://lovdata.no/lov/1988-04-29-21/%C2%A77), se [ferieloven § 8 nr. 2](https://lovdata.no/lov/1988-04-29-21/%C2%A78). Dette bør også gjelde avtalefestet ferie.
 
 Reglene i lovens §§ 6 og 7 skal følges ved fastsettelse av ferie etter oppsigelse fra arbeidstaker. Ønsker arbeidstakeren å avvikle ferien i oppsigelsestiden, og det på grunn av oppsigelsesfristens lengde fører til at reglene i §§ 6 og 7 ikke kan følges, kan det avtales med arbeidsgiveren at reglene i §§ 6 og 7 fravikes. Tilsvarende bør gjelde avtalefestet ferie.
-
-buttonsBar: k16-4-13-3
 
 ### 16.4.13.3 Rett til å kreve ferie lagt til oppsigelsestid
 
@@ -194,13 +162,9 @@ Både ved oppsigelse fra arbeidsgiver og arbeidstaker, er det fastsatt regler om
 
 Bestemmelsen sier at hvis det etter utløpet av oppsigelsestiden er tid til avvikling av ferie innenfor hovedferieperioden eller ferieåret, kan arbeidstakeren ikke kreve at ferien legges i oppsigelsestiden. Regelen gjelder også for avtalefestet ferie.
 
-buttonsBar: k16-4-14
-
 ## 16.4.14 Ferieavvikling under sykdomsfravær
 
 Reglene i [ferieloven § 9](https://lovdata.no/lov/1988-04-29-21/%C2%A79) gjelder ikke direkte for avtalefestet ferie, men arbeidsgiver bør legge samme regler/praksis til grunn som for lovfestet ferie.
-
-buttonsBar: k16-4-14-1
 
 ### 16.4.14.1 Arbeidsuførhet inntrer før ferien
 
@@ -210,8 +174,6 @@ Arbeidstaker som arbeider deltid og som blir helt arbeidsufør før ferien, må 
 
 Arbeidstakers krav om å få utsatt hele ferien på grunn av sykdom som inntrer før ferien, må fremsettes senest siste arbeidsdag arbeidstakeren skulle hatt før ferien. Kravet må dokumenteres med legeerklæring.
 
-buttonsBar: k16-4-14-2
-
 ### 16.4.14.2 Arbeidsuførhet som inntrer i ferien
 
 En arbeidstaker som har vært 100 prosent arbeidsufør i løpet av ferien, kan etter [ferieloven § 9 nr. 1 andre ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A79) kreve at et tilsvarende antall virkedager ferie utsettes og gis som ny ferie senere i ferieåret.
@@ -220,13 +182,9 @@ En deltidsansatt som er 100 prosent arbeidsufør må sørge for at sykemeldingen
 
 Det gis bare utsatt ferie for den del av ferien som dekkes av legeerklæringen. At kravet må dokumenteres med legeerklæring innebærer at arbeidstakeren ikke kan dekke inn ytterligere dager ved egenmelding.
 
-buttonsBar: k16-4-14-3
-
 ### 16.4.14.3 Overføring av ferie på grunn av sykdom
 
 Arbeidstaker som på grunn av sykdom ikke har avviklet ferien før ferieårets slutt får overført ikke-avviklede feriedager til det påfølgende ferieåret. En arbeidstaker som har vært sykemeldt store deler av ferieåret eller hele ferieåret og som ikke har fått avviklet noe ferie, kan altså få overført et helt års feriefritid til neste ferieår. Unntatt er bare feriefritid som arbeidstakeren har motsatt seg å avvikle på grunn av manglende opptjening av feriepenger, se [ferieloven § 5 nr. 5](https://lovdata.no/lov/1988-04-29-21/%C2%A75).
-
-buttonsBar: k16-4-15
 
 ## 16.4.15 Ferieavvikling under foreldrepermisjon
 
@@ -239,8 +197,6 @@ Etter [ferieloven § 9 nr. 2 andre ledd](https://lovdata.no/lov/1988-04-29-21/%C
 I tilfeller hvor ferien allerede er fastlagt, og hvor permisjonsbehovet først viser seg etterpå, eller hvor fødselen kommer til annen tid enn beregnet, er det reglene om utsettelse i [ferieloven § 9 nr. 2 tredje ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A79) som kommer til anvendelse. Ferie som ikke blir avviklet innen ferieårets utløp, overføres til neste ferieår. Når det gjelder avviklingstiden for utsatt ferie vises det til [§ 7 nr. 1](https://lovdata.no/lov/1988-04-29-21/%C2%A77)
 
 I de tilfellene hvor arbeidstaker har krav på utvidet omsorgspermisjon uten lønn, se [arbeidsmiljøloven § 12-5 andre ledd](https://lovdata.no/lov/2005-06-17-62/%C2%A712-5) og [hovedtariffavtalene § 20 nr. 7](https://lovdata.no/tariff/spha-91/%C2%A720), kan arbeidsgiver legge ferie til det samme tidsrommet. Vilkårene i [ferielovens §§ 6](https://lovdata.no/lov/1988-04-29-21/%C2%A76) og [7](https://lovdata.no/lov/1988-04-29-21/%C2%A77) må være oppfylt.
-
-buttonsBar: k16-4-16
 
 ## 16.4.16 Ferieavvikling under militærtjeneste og annen plikttjeneste
 

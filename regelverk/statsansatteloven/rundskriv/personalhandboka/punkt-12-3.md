@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_12-3"
 lagt_inn: "2026-11-05"
 punkt: "12.3"
@@ -18,8 +18,6 @@ Dersom det stilles spesielle krav til antrekk ved representasjonsoppdrag etter d
 
 Når det gjelder representasjon i Regjeringens representasjonsbolig i Parkveien 45, i 10. etasje i A-blokka i nytt regjeringskvartal og på Akershus Slott, gjelder egne regler som fastsettes av Digitaliserings- og forvaltningsdepartementet og Utenriksdepartementets avdeling for protokoll, kultur og publikumstjenester.
 
-buttonsBar: k12-3-1
-
 ## 12.3.1 Satser for representasjon innenlands
 
 [Sist endret 1. januar 2026 ved [PM-2025-10](https://lovdata.no/litteratur/pm-2025-10)]
@@ -33,8 +31,6 @@ Satsene kan økes med inntil 30 prosent ved arrangementer der utenlandske gjeste
 
 Dersom det inngår kulturelle innslag som for eksempel teaterforestilling, opera, ballett eller idrettsarrangement, kan dette dekkes i tillegg. Det samme gjelder for utgifter til blomster, garderobeavgift m.m.
 
-buttonsBar: k12-3-2
-
 ## 12.3.2 Satser for regjeringens representasjon
 
 [Sist endret 23. mars 2026]
@@ -43,13 +39,9 @@ For mat og drikke gjelder den sats Digitaliserings- og forvaltningsdepartementet
 
 I tillegg dekkes andre nødvendige utgifter til arrangementet etter regning, herunder utgifter til servering og betjening, rengjøring, kulturelle innslag, trykningsutgifter, dekor m.m.
 
-buttonsBar: k12-3-3
-
 ## 12.3.3 Satser for hjemmerepresentasjon
 
 Etter søknad kan statsråd/departementsråd/virksomhetsleder, eller den vedkommende gir fullmakt, i det enkelte tilfelle samtykke i hjemmerepresentasjon. For slik representasjon refunderes legitimerte utgifter med inntil 80 prosent av de satser som gjelder for annen representasjon.
-
-buttonsBar: k12-3-4
 
 ## 12.3.4 Satser for representasjon i utlandet
 

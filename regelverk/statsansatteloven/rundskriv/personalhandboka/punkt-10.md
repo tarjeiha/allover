@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_10"
 lagt_inn: "2026-11-05"
 punkt: "10"
@@ -15,5 +15,3 @@ For å støtte og gi retning for ledere fremover er det i 2024 utarbeidet fem ov
 Målgruppen er de som har lederansvar i en statlig virksomhet. Forventningene som stilles gjelder dermed uavhengig av virksomhetsstørrelse, type samfunnsoppdrag, oppgaver og ledernivå. Det betyr at hver enkelt virksomhet og den enkelte leder må gjøre forventningene til sine, og konkretisere hva det betyr for eget lederskap og for egen virksomhet.
 
 Formålet med forventningene er å bidra til at den enkelte leder løser samfunnsoppdraget og oppnår resultater sammen med medarbeiderne sine.
-
-buttonsBar: k10-1

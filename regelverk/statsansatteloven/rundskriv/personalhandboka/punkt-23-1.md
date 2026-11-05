@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_23-1"
 lagt_inn: "2026-11-05"
 punkt: "23.1"
@@ -12,8 +12,6 @@ Tjenestepensjonsordningen i staten er lovfestet i [lov om Statens pensjonskasse]
 
 Statens pensjonskasse utbetaler følgende pensjonsytelser: alderspensjon, uførepensjon og etterlattepensjon.
 
-buttonsBar: k23-1-1
-
 ## 23.1.1 Medlemskap i Statens pensjonskasse
 
 Arbeidstakere som er ansatt i statens tjeneste er medlemmer av Pensjonskassen, se [lov om Statens pensjonskasse § 5](https://lovdata.no/lov/1949-07-28-26/%C2%A75).
@@ -24,13 +22,9 @@ Korttidsansatte har ikke rett til medlemskap i Statens pensjonskasse. Definisjon
 
 Arbeidstakere som deltar i midlertidige arbeidsrettede tiltak, som helt eller delvis finansieres over statsbudsjettet, er unntatt fra retten til medlemskap i Statens pensjonskasse. Arbeidstakere som ansettes i ordinær stilling med lønnstilskudd er ikke unntatt fra medlemskap. Også enkelte andre grupper er unntatt fra medlemskap, se [forskrift om unntak fra medlemskap i Statens pensjonskasse](https://lovdata.no/forskrift/2003-12-19-1618).
 
-buttonsBar: k23-1-2
-
 ## 23.1.2 Rapportering til Statens pensjonskasse
 
 Arbeidstaker skal ikke gi melding til Statens pensjonskasse ved overgang fra tjeneste til alderspensjon. Rapporteringsansvaret ligger hos arbeidsgiver. For at pensjonen skal avløse lønnen uten opphold, må pensjonsmelding ved overgang til alders- eller uførepensjon sendes senest 3 måneder før lønnsopphøret. Det må også sendes melding ved endringer i stillingsdel for et medlem som samtidig oppebærer pensjon. Utbetalingen av pensjonen foretas av NAV.
-
-buttonsBar: k23-1-3
 
 ## 23.1.3 Medlemskap under permisjon og annet midlertidig fravær
 
@@ -43,8 +37,6 @@ Digitaliserings- og forvaltningsdepartementet har i samsvar med permisjonsavtale
 Statens pensjonskasse kan bestemme at medlemmer som har hel eller delvis permisjon fra den statlige stillingen for å ivareta kommunale/fylkeskommunale tillitsverv, skal kunne opprettholde medlemskapet i Statens pensjonskasse fullt ut i den tiden vedkommende har dette vervet. Det stilles krav om betaling av pensjonspremie i disse tilfellene.
 
 Det blir ikke gitt rett til slik medregning hvis vedkommende kan bli medlem av tjenestepensjonsordning som er med i avtalesystemet om overføring av pensjonsrettigheter. Hvis kommunale ombud er medlemmer av pensjonsordningen for kommunepolitikere, kan de ikke i tillegg tjene opp rettigheter i Statens pensjonskasse.
-
-buttonsBar: k23-1-4
 
 ## 23.1.4 Pensjonsgrunnlag
 

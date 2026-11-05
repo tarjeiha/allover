@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_9-9"
 lagt_inn: "2026-11-05"
 punkt: "9.9"
 ---
 
 # Statens personalhåndbok punkt 9.9 Behandling av saker om underslag mv.
-
-buttonsBar: k9-9-1
 
 ## 9.9.1 Retningslinjer for behandling av saker om økonomiske misligheter
 

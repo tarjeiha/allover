@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_3-7"
 lagt_inn: "2026-11-05"
 punkt: "3.7"
@@ -8,15 +8,11 @@ punkt: "3.7"
 
 # Statens personalhåndbok punkt 3.7 Avskjed
 
-buttonsBar: k3-7-1
-
 ## 3.7.1 Avskjed av statsansatte
 
 Et vedtak om avskjed er en streng reaksjon på et alvorlig forhold hos den ansatte. Avskjed av statsansatte er uttømmende regulert i [statsansatteloven § 26](https://lovdata.no/lov/2017-06-16-67/%C2%A726). Forhold som kan begrunne avskjed kan også være straffbare etter [straffeloven](https://lovdata.no/lov/2005-05-20-28). En statsansatt kan også avskjediges ved dom i forbindelse med straffesak. Det vil si å bli fradømt sin stilling etter bestemmelsene om rettighetstap i [straffeloven kap. 10](https://lovdata.no/lov/2005-05-20-28/kap10), se [straffeloven § 29](https://lovdata.no/lov/2005-05-20-28/%C2%A729).
 
 Etter [arbeidsmiljøloven](https://lovdata.no/lov/2005-06-17-62) vil avskjed innebære at arbeidstaker må fratre sin stilling umiddelbart. Etter [statsansatteloven](https://lovdata.no/lov/2017-06-16-67) vil derimot arbeidstakeren ha klagerett og rett til å fortsette i stillingen inntil en eventuell klage er avgjort, se [statsansatteloven § 35 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A735). Dersom arbeidsgiver mener at det både foreligger grunnlag for avskjed og «tjenestens eller virksomhetens behov» tilsier at arbeidstakeren øyeblikkelig bør fjernes fra stillingen, kan vedkommende suspenderes etter reglene i [statsansatteloven § 29](https://lovdata.no/lov/2017-06-16-67/%C2%A729).
-
-buttonsBar: k3-7-2
 
 ## 3.7.2 Avskjed av embetsmenn
 
@@ -34,17 +30,11 @@ Hovedregelen etter [Grunnlovens](https://lovdata.no/lov/1814-05-17) ordning er a
 
 Hvilke andre, ikke-strafferettslige, forhold som kan danne grunnlag for avskjed av embetsmenn, er det gitt regler om i [statsansatteloven §§ 27](https://lovdata.no/lov/2017-06-16-67/%C2%A727) og [28](https://lovdata.no/lov/2017-06-16-67/%C2%A728). Påstand om avskjed i henhold til [§ 28](https://lovdata.no/lov/2017-06-16-67/%C2%A728) kan det offentlige sette frem ved sivilt søksmål og i tillegg i forbindelse med straffesak mot en embetsmann, se [straffeprosessloven § 3](https://lovdata.no/lov/1981-05-22-25/%C2%A73).
 
-buttonsBar: k3-7-3
-
 ## 3.7.3 Avskjedsgrunner
-
-buttonsBar: k3-7-3-1
 
 ### 3.7.3.1 Grov uforstand i tjenesten
 
 Både statsansatte og embetsmenn kan avskjediges når de har vist grov uforstand i tjenesten, se [statsansatteloven § 26 bokstav a](https://lovdata.no/lov/2017-06-16-67/%C2%A726) og [§ 27 første ledd bokstav c](https://lovdata.no/lov/2017-06-16-67/%C2%A727). Det er ikke et vilkår at vedkommende har fått advarsel på forhånd. Uforstanden må være så grov at det kan ses som rimelig å avskjedige den ansatte selv om vedkommende ikke har fått noen advarsel. Bestemmelsene omfatter både handlinger og unnlatelser av å oppfylle tjenesteplikter. Grov uforstand krever at det foreligger en adferd som både kan bebreides vedkommende og som må være mer graverende enn alminnelig uaktsomhet. Utgangspunktet er hva en gjennomsnittlig arbeidstaker i tilsvarende situasjon burde ha forstått og gjort.
-
-buttonsBar: k3-7-3-2
 
 ### 3.7.3.2 Grov krenkelse av tjenesteplikter
 
@@ -52,13 +42,9 @@ Det foreligger avskjedsgrunn når en embetsmann eller statsansatt «grovt har kr
 
 Grov krenkelse av tjenesteplikter omfatter både aktive brudd på tjenesteplikt og unnlatelser. Tjenesteplikter omfatter alle gjøremål arbeidstaker skal ivareta i kraft av stillingen. Det beror på en totalvurdering om arbeidstaker grovt har krenket sine tjenesteplikter. Flere mindre krenkelser kan ikke legges sammen til en grov krenkelse. I slike tilfeller kan det i stedet vurderes som det foreligger gjentatte brudd på tjenesteplikter til tross for at det er gitt skriftlig advarsel etter [statsansatteloven § 26 bokstav c](https://lovdata.no/lov/2017-06-16-67/%C2%A726) eller [§ 27 første ledd bokstav e](https://lovdata.no/lov/2017-06-16-67/%C2%A727).
 
-buttonsBar: k3-7-3-3
-
 ### 3.7.3.3 På tross av skriftlig advarsel gjentatt har krenket sine tjenesteplikter
 
 I [statsansatteloven § 26 bokstav c](https://lovdata.no/lov/2017-06-16-67/%C2%A726) og [§ 27 første ledd bokstav e](https://lovdata.no/lov/2017-06-16-67/%C2%A727), er det bestemt at det foreligger avskjedsgrunn når en embetsmann eller statsansatt «tross skriftlig advarsel gjentatt har krenket sine tjenesteplikter». Dette må bero på en skjønnsmessig vurdering i det enkelte tilfelle. Ved avgjørelsen må det tas hensyn til hvilke krav det vanligvis stilles i tjeneste av vedkommende art, tjenestepliktenes betydning, nødvendigheten av en rask og nøyaktig oppfyllelse av pliktene, samt den ansattes arbeidssituasjon for øvrig. Gjentatte krenkelser av tjenesteplikt gir anledning til avskjed når den ansatte har fått en skriftlig advarsel om forholdet, selv om hver enkelt krenkelse separat ikke kan karakteriseres som grov. Her har altså den ansatte fått en skriftlig advarsel med pålegg om å endre sitt forhold til tjenestepliktene, uten at dette har ført til den pålagte endring.
-
-buttonsBar: k3-7-3-4
 
 ### 3.7.3.4 Utilbørlig adferd i eller utenfor tjenesten
 
@@ -67,8 +53,6 @@ Både statsansatte og embetsmenn kan avskjediges dersom vedkommende ved utilbør
 Ved vurderingen av om det foreligger grunnlag for avskjed tas hensyn til stillingens art og viktighet. Jo mer ansvarsfull stillingen er, desto større krav må det stilles. Det kan være naturlig å stille strengere krav til ansatte i visse tjenestegrener, eksempelvis rettsvesen, tollvesen og politi. Det må i utgangspunktet også stilles strengere krav når forholdet finner sted i tjenesten enn når det finner sted utenfor tjenesten. Typen av embete eller stilling og gjeldende samfunnsnormer er sentralt for å trekke opp grensene for hva som vil regnes som utilbørlig adferd.
 
 En ansatts handlinger eller opptreden kan også utenfor tjenesten være såvidt kritikkverdig at vedkommende mister den nødvendige tillit i stillingen eller blir ansett som uverdig for den, slik at både den alminnelige rettsoppfatning og det offentliges interesse tilsier at en ansatt blir fjernet.
-
-buttonsBar: k3-7-3-5
 
 ### 3.7.3.5 Avskjedsgrunner – embetsmenn
 

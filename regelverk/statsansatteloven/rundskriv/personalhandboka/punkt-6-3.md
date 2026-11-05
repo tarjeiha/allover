@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_6-3"
 lagt_inn: "2026-11-05"
 punkt: "6.3"
@@ -17,8 +17,6 @@ Lønnssystemet gir virksomhetene et godt grunnlag for å føre en helhetlig pers
 Som ansvarlig for den sektorovergripende arbeidsgiverpolitikken i staten, er det en sentral oppgave for Digitaliserings- og forvaltningsdepartementet å initiere og fremme en statlig lønnspolitikk som stimulerer til utvikling og resultatoppnåelse. Etablering av en lokal lønnspolitikk i den enkelte virksomhet er prioritert fra partenes side.
 
 Statens lønnssystem forutsetter at partene lokalt har en egen omforent lokal lønnspolitikk. Hovedtariffavtalene inneholder noen av de retningslinjer om lokal lønnspolitikk som de sentrale avtalepartene har blitt enige om, se [punkt 2.3 i hovedtariffavtalene](https://lovdata.no/tariff/spha-91/kap2.3), og [punkt 2.5.2](https://lovdata.no/tariff/spha-91/kap2.5.2), 4. ledd.
-
-buttonsBar: k6-3-1
 
 ## 6.3.1 Hvordan styrke arbeidet med lokal lønnspolitikk?
 

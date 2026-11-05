@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_5-2"
 lagt_inn: "2026-11-05"
 punkt: "5.2"
@@ -9,8 +9,6 @@ punkt: "5.2"
 # Statens personalhåndbok punkt 5.2 Lederlønn
 
 Les omtale av [statens lederlønnssystem](https://www.regjeringen.no/no/tema/arbeidsliv/Statlig-arbeidsgiverpolitikk/lonn-og-tariff-i-staten/statens-lederlonnssystem/id2353808/) (SLS). Toppledere som ikke er plassert i lederlønnssystemet, avlønnes i henhold til [hovedtariffavtalene](https://lovdata.no/tariff/spha-91).
-
-buttonsBar: k5-2-1
 
 ## 5.2.1 Fungering for ledere på lederlønnskontrakt
 

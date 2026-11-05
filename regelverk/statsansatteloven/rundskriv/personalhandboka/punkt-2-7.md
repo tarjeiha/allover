@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_2-7"
 lagt_inn: "2026-11-05"
 punkt: "2.7"
 ---
 
 # Statens personalhåndbok punkt 2.7 Andre tilknytningsformer
-
-buttonsBar: k2-7-1
 
 ## 2.7.1 Mobilitetsordninger
 
@@ -18,11 +16,7 @@ Staten som arbeidsgiver ønsker å oppfordre virksomhetene til å legge til rett
 
 Arbeidstakerne i det statlige tariffområdet gis gjennom en hospiteringsavtale anledning til å arbeide et annet tjenestested i egen virksomhet eller i annen statlig virksomhet i et nærmere avtalt tidsrom, fra 3 måneder til maksimum 1 år. En hospiteringsordning som følger retningslinjene, vil være forenelig med [statsansattelovens](https://lovdata.no/lov/2017-06-16-67) regler.
 
-buttonsBar: k2-7-2
-
 ## 2.7.2 Innleie av arbeidstakere
-
-buttonsBar: k2-7-2-1
 
 ### 2.7.2.1 Generelt
 
@@ -40,8 +34,6 @@ Arbeidstakere kan leies inn både fra virksomhet som har til formål å drive ut
 
 Utgangspunktet er at det ikke er et kontraktsforhold mellom arbeidstakeren og innleievirksomheten. Når en arbeidstaker leies inn til en virksomhet for en periode, blir derfor ikke vedkommende ansatt i innleievirksomheten. Opphør av arbeidsforholdet hos innleier reguleres av avtalen mellom utleie- og innleievirksomheten. Det er utleievirksomheten som formelt er arbeidsgiver og har det vanlige arbeidsgiveransvaret. Dette innebærer for eksempel at den innleide skal ha skriftlig arbeidsavtale med utleievirksomheten, og at utleievirksomheten er ansvarlig for utbetaling av lønn og andre ytelser til den utleide som følger av arbeidsavtalen. Den innleide omfattes av innleievirksomhetens vernetjeneste, rammer for arbeidstid og arbeidsmiljø- og sikkerhetskrav etter [arbeidsmiljøloven](https://lovdata.no/lov/2005-06-17-62).
 
-buttonsBar: k2-7-2-2
-
 ### 2.7.2.2 Reglene om innleie
 
 [Statsansatteloven](https://lovdata.no/lov/2017-06-16-67) gjelder for innleie av arbeidstakere i statlig virksomhet der det er uttrykkelig sagt, se [statsansatteloven § 1 første ledd andre punktum. Loven](https://lovdata.no/lov/2017-06-16-67/%C2%A71) har bestemmelser om innleie av arbeidstakere i §§ 11, 12, 14 tredje ledd, 34 andre og tredje ledd og 38 andre ledd.
@@ -55,8 +47,6 @@ Bruken av innleie må ikke benyttes på en måte som fører til at reglene for m
 [Arbeidsmiljøloven § 14-1](https://lovdata.no/lov/2005-06-17-62/%C2%A714-1) bestemmer at arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten. Det fremgår av bestemmelsen at innleide arbeidstakere skal informeres på tilsvarende måte. Dette innebærer at en innleid arbeidstaker også har rett til å søke ledige stillinger som bare blir utlyst internt i den statlige virksomheten, på lik linje med øvrige ansatte i virksomheten.
 
 Etter [statsansatteloven § 11 tredje ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A711) kan det inngås sentral særavtale mellom staten og tjenestemennenes forhandlingsberettigede organisasjoner om unntak fra reglene om likebehandling av lønns- og arbeidsvilkår ved slik innleie. Unntak fra likebehandlingsprinsippet forutsetter derfor en sentral avtale, men den generelle beskyttelsen av arbeidstakerne må respekteres.
-
-buttonsBar: k2-7-2-3
 
 ### 2.7.2.3 Innleie fra virksomhet som har til formål å drive utleie
 
@@ -76,13 +66,9 @@ Virksomheter som leier inn arbeidstakere fra bemanningsforetak, hefter etter [ar
 
 I tillegg til de bestemmelsene som er omtalt ovenfor, er det også fastsatt bestemmelser om innleie i [hovedtariffavtalene punkt 5.7](https://lovdata.no/tariff/spha-91/kap5.7).
 
-buttonsBar: k2-7-2-4
-
 ### 2.7.2.4 Innleie fra virksomhet som ikke har til formål å drive utleie
 
 Det er krav om at arbeidstakeren skal være fast ansatt hos utleieren, dersom man skal kunne benytte bestemmelsen i [statsansatteloven § 12](https://lovdata.no/lov/2017-06-16-67/%C2%A712) om innleie fra virksomhet som ikke har til formål å drive utleie. Videre skal arbeidsgiver og organisasjonene i virksomheten gjennomføre drøftinger før beslutning om innleie foretas. Også her kreves det at organisasjonen må ha forhandlingsrett etter [tjenestetvistloven](https://lovdata.no/lov/1958-07-18-2). Utleie skal skje innenfor de samme fagområder som utgjør utleierens hovedbeskjeftigelse, og utleieaktiviteten skal ikke omfatte mer enn 50 prosent av de fast ansatte hos utleier. Det må inngås avtale med organisasjonene i virksomheten dersom innleien overstiger 10 prosent av de ansatte, og innleien har en avtalt varighet ut over ett år. Kravet gjelder likevel ikke ved innleie av inntil to personer.
-
-buttonsBar: k2-7-3
 
 ## 2.7.3 Tjeneste ut over aldersgrensen
 
@@ -97,8 +83,6 @@ Det foretas ingen kunngjøring av embetet eller stillingen i slike saker. Når a
 Tjenesten kan første gang forlenges opp til to år, senere ett år om gangen, men ikke mer enn fem år totalt. Embetsmannen eller den statsansatte fortsetter i samme embete eller stilling med de lønns- og arbeidsvilkår som vedkommende hadde ved fylte 70 år. De trekkes for pensjonsinnskudd og skal ikke meldes ut av Pensjonskassen. Alderspensjon utbetales først når lønnen er opphørt.
 
 For militært ansatte gjelder [forsvarsloven § 45](https://lovdata.no/lov/2016-08-12-77/%C2%A745).
-
-buttonsBar: k2-7-4
 
 ## 2.7.4 Engasjement som alderspensjonist
 

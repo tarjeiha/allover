@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_12-1"
 lagt_inn: "2026-11-05"
 punkt: "12.1"
 ---
 
 # Statens personalhåndbok punkt 12.1 Bevertning
-
-buttonsBar: k12-1-1
 
 ## 12.1.1 Godtgjøring til mat ved møter, konferanser mv.
 
@@ -34,8 +32,6 @@ Det vises for øvrig til [SPH punkt 8.2](https://lovdata.no/litteratur/sph/kap8.
 - d. Der man av praktiske grunner ikke kan innta måltidene i kantine, spiserom, møterom eller lignende, men må benytte eksterne spisesteder, kan satsene under a til c økes med inntil 50 prosent.
 
 Etter en vurdering av det enkelte arrangement kan statsråd/departementsråd/virksomhetsleder eller den vedkommende gir fullmakt, fravike beløpsgrensene under a – d opp til maksimumssats for representasjon innenlands, se [SPH punkt 12.3.1](https://lovdata.no/litteratur/sph/kap12.3.1).
-
-buttonsBar: k12-1-2
 
 ## 12.1.2 Bevertning av dommere, skjønnsmedlem mv. under skjønn
 

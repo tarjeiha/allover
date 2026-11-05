@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_7-1"
 lagt_inn: "2026-11-05"
 punkt: "7.1"
@@ -9,8 +9,6 @@ punkt: "7.1"
 # Statens personalhåndbok punkt 7.1 Aktivt arbeid for å fremme likestilling og hindre diskriminering
 
 [Hovedavtalen](https://lovdata.no/tariff/spha-90) i staten forplikter statlige arbeidsgivere til å arbeide aktivt, målrettet og planmessig for å fremme likestilling og hindre diskriminering, se [hovedavtalen § 3](https://lovdata.no/tariff/spha-90/%C2%A73). Dette er en oppfølging av aktivitets- og redegjørelsesplikten i [likestillings- og diskrimineringsloven](https://lovdata.no/lov/2017-06-16-51). De lokale tilpasningsavtalene til [hovedavtalen](https://lovdata.no/tariff/spha-90) skal også inneholde bestemmelser om hvordan tillitsvalgte skal involveres i det aktive likestillingsarbeidet. I virksomheter hvor det kan være aktuelt å benytte positiv særbehandling skal tilpasningsavtalen inneholde nærmere bestemmelser om dette.
-
-buttonsBar: k7-1-1
 
 ## 7.1.1 Arbeidsgivers aktivitets- og redegjørelsesplikt
 
@@ -46,8 +44,6 @@ Annethvert år (minimum) skal virksomheten redegjøre for
 Likestillingsredegjørelsene skal tas inn i virksomhetens årsberetning eller i annet offentlig tilgjengelig dokument. Fagdepartementene må rapportere om temaet i Prop. 1 S.
 
 Se [veileder i aktivitets- og redegjørelsesplikten](https://www.bufdir.no/fagstotte/produkter/aktivitets__og_redegjorelsesplikt_for_offentlige_myndigheter/) (bufdir.no).
-
-buttonsBar: k7-1-2
 
 ## 7.1.2 Kartleggingen av lønnsforskjeller mellom kvinner og menn (likelønn)
 

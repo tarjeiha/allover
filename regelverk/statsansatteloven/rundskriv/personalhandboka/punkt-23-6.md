@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_23-6"
 lagt_inn: "2026-11-05"
 punkt: "23.6"
@@ -9,8 +9,6 @@ punkt: "23.6"
 # Statens personalhåndbok punkt 23.6 Overføring av pensjonsrettigheter til annen pensjonsordning (Overføringsavtalen)
 
 Det er inngått en avtale mellom Statens pensjonskasse og andre offentlige tjenestepensjonsordninger (kommunale og fylkeskommunale pensjonsordninger) om overføring av pensjonsrettigheter. Avtalen innebærer at den pensjonsordningen arbeidstaker er medlem av på pensjoneringstidspunktet (siste ordning) tar med all tjenestetid opptjent i offentlig pensjonsordning ved beregningen av pensjonen, slik at samlet tjenestetid legges til grunn. Etter pensjonering gjennomføres løpende refusjonsoppgjør mellom pensjonsordningene. Se mer om avtalen på [spk.no](https://www.spk.no).
-
-buttonsBar: k23-6-1
 
 ## 23.6.1 Den nordiske pensjonsoverenskomst
 

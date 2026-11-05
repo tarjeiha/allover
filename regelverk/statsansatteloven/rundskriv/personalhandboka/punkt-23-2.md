@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_23-2"
 lagt_inn: "2026-11-05"
 punkt: "23.2"
@@ -17,8 +17,6 @@ Det vises ellers til [lov om Statens pensjonskasse § 21 A](https://lovdata.no/l
 Aldersgrenser for offiserer, befal, grenaderer og konstabler i Forsvaret er fastsatt i [forsvarsloven § 45](https://lovdata.no/lov/2016-08-12-77/%C2%A745), jf. [§ 44 andre ledd](https://lovdata.no/lov/2016-08-12-77/%C2%A744). Denne gruppen arbeidstakere er derfor ikke omfattet av [aldersgrenseloven](https://lovdata.no/lov/1956-12-21-1).
 
 Se [oversikt over aldersgrensene](https://www.regjeringen.no/no/tema/arbeidsliv/Statlig-arbeidsgiverpolitikk/aldersgrensene-i-staten/id2629022/) i staten.
-
-buttonsBar: k23-2-1
 
 ## 23.2.1 Tjeneste ut over den alminnelige aldersgrensen
 

@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_20-1"
 lagt_inn: "2026-11-05"
 punkt: "20.1"
@@ -88,8 +88,6 @@ Arbeids- og administrasjonsdepartementet (nå DFD) kan vedta utfyllende regler o
 |---|---|
 | 23 | **Departementets kommentar:** Departementet vil, etter samråd med Riksrevisjonen, bemerke at denne bestemmelse skal forstås slik at det ikke stilles krav om skriftlig reparasjonsavtale mv. ved mindre reparasjoner. |
 
-buttonsBar: k20-1-1
-
 ## 20.1.1 Skade på statens motorvogner
 
 Statens motorvogner er unntatt forsikringsplikten etter [bilansvarsloven § 16](https://lovdata.no/lov/1961-02-03/%C2%A716). Staten har likevel det samme ansvaret for sine motorvogner som et forsikringsselskap ville hatt om vognen hadde vært forsikret der. Personskadesaker hvor statens motorvogner har vært involvert administreres av Statens pensjonskasse. Saker om tingskade administreres av den enkelte statlige virksomhet.
@@ -97,8 +95,6 @@ Statens motorvogner er unntatt forsikringsplikten etter [bilansvarsloven § 16](
 Dersom det fremsettes et erstatningskrav mot motpartens forsikringsselskap på grunn av skade på statens motorvogner, bør kravet normalt også inkludere en godtgjørelse for avsavn. Dersom det ikke er mulig å dokumentere kravet med kvitteringer for leie av drosje, leiebil eller lignende, kan man etter de tilgjengelige opplysningene forvente at det dekkes et fast beløp per dag.
 
 For informasjon om skade påført ved bruk av statens motorvogn, se [SPH punkt 19.4.6](https://lovdata.no/litteratur/sph/kap19.4.6).
-
-buttonsBar: k20-1-2
 
 ## 20.1.2 Avtale om bruk av tjenestebil mellom staten og KS
 

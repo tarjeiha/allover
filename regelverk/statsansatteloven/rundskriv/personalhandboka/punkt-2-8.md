@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_2-8"
 lagt_inn: "2026-11-05"
 punkt: "2.8"
@@ -17,8 +17,6 @@ Det er de høyere stillingene i staten som er embeter. Hvilke stillinger som ska
 Innstilling til Kongen om hvem som skal utnevnes, gis av statsråden i det departement vedkommende embete hører under, som kongelig resolusjon. Nærmere bestemmelser om hvem som eventuelt skal avgi uttalelse før innstillingen avgis, kan være tatt inn i reglement for vedkommende etat eller fagadministrasjon, se bestemmelsen i [statsansatteloven § 8](https://lovdata.no/lov/2017-06-16-67/%C2%A78) og nærmere regulering i [Reglement for personalforvaltningen i departementene](https://www.regjeringen.no/no/dokumenter/personalreglement-for-departementene2/id2662349/) § 7.
 
 Ansvars- og arbeidsområdet er ikke nødvendigvis avgjørende for spørsmålet om det skal være embete eller statsansattstilling. Det finnes flere viktige, høyt lønnede stillinger i staten som ikke er embeter. Noen av disse ansettes (beskikkes) likevel av Kongen i statsråd, for eksempel stillingen som direktør for Jernbanedirektoratet, direktør for Arbeids- og velferdsetaten og direktør for Skatteetaten.
-
-buttonsBar: k2-8-1
 
 ## 2.8.1 Åremål og konstitusjon
 

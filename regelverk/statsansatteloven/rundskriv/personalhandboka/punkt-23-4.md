@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_23-4"
 lagt_inn: "2026-11-05"
 punkt: "23.4"
@@ -23,8 +23,6 @@ Dersom arbeidstakeren på pensjoneringstidspunktet har hel permisjon uten lønn,
 Den tid man mottar AFP-pensjon, er ikke pensjonsgivende i Statens pensjonskasse.
 
 For nærmere omtale av AFP mellom 62 og 65 år og mellom 65 og 67 år, se [hovedtariffavtalene punkt 4.2](https://lovdata.no/tariff/spha-91/kap4.2) og [4.3](https://lovdata.no/tariff/spha-91/kap4.3).
-
-buttonsBar: k23-4-1
 
 ## 23.4.1 AFP og arbeidsinntekt
 

@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_3-9"
 lagt_inn: "2026-11-05"
 punkt: "3.9"
@@ -8,11 +8,7 @@ punkt: "3.9"
 
 # Statens personalhåndbok punkt 3.9 Klage over ordensstraff, oppsigelse, suspensjon og avskjed
 
-buttonsBar: k3-9-1
-
 ## 3.9.1 Hvem er klageinstans
-
-buttonsBar: k3-9-1-1
 
 ### 3.9.1.1 Ansatte i departement og embetsmenn
 
@@ -20,13 +16,9 @@ Regler om klage over vedtak om ordensstraff, oppsigelse, suspensjon eller avskje
 
 Det samme gjelder dersom en embetsmann klager over vedtak om ordensstraff. Også i tilfeller hvor den statsansatte er ansatt i underliggende organ og overordnet departement fatter vedtak som førsteinstans, er det fast praksis at DFD legger klagen frem for Kongen i statsråd.
 
-buttonsBar: k3-9-1-2
-
 ### 3.9.1.2 Ansatte i andre statlige virksomheter
 
 Lovens hovedregel er at det enkelte fagdepartement er klageinstans for den type vedtak som er nevnt i loven. I virksomhetens personalreglement kan det være fastsatt en annen klageinstans. Dette kan være virksomhetens styre eller annet overordnet organ. I klagesaker deltar ikke ansattes representanter i behandlingen av saken.
-
-buttonsBar: k3-9-2
 
 ## 3.9.2 Behandlingen av klagesaken
 
@@ -36,19 +28,13 @@ buttonsBar: k3-9-2
 
 Klageinstansen kan ikke endre vedtaket til skade for klageren, se [statsansatteloven § 33 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A733).
 
-buttonsBar: k3-9-3
-
 ## 3.9.3 Iverksettelse av vedtaket
-
-buttonsBar: k3-9-3-1
 
 ### 3.9.3.1 Hovedregel
 
 [Statsansatteloven § 35](https://lovdata.no/lov/2017-06-16-67/%C2%A735) inneholder regler om iverksettelse av vedtak som gjelder statsansatte. I [statsansatteloven § 36](https://lovdata.no/lov/2017-06-16-67/%C2%A736) er det tatt inn regler om iverksettelse av vedtak som gjelder embetsmenn.
 
 Etter [statsansatteloven § 35 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A735) vil vedtak om oppsigelse, ordensstraff eller avskjed av statsansatt ikke kunne iverksettes før klagefristen er ute. Klagefristen er 3 uker regnet fra det tidspunktet underretningen om vedtaket er kommet frem til den statsansatte, se [forvaltningsloven § 29 første ledd](https://lovdata.no/lov/1967-02-10/%C2%A729). Tilsvarende gjelder vedtak om ordensstraff som gjelder embetsmenn, se [statsansatteloven § 36 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A736). Vedtak om suspensjon iverksettes straks, da dette er vedtak som etter sin art krever rask gjennomføring.
-
-buttonsBar: k3-9-3-2
 
 ### 3.9.3.2 Vedtak påklages – utsatt iverksettelse
 
@@ -58,23 +44,17 @@ Etter [statsansatteloven § 35 tredje ledd](https://lovdata.no/lov/2017-06-16-67
 
 Klage over vedtak om suspensjon fører derimot ikke til utsatt iverksettelse, da dette er vedtak som etter sin art krever rask gjennomføring.
 
-buttonsBar: k3-9-3-3
-
 ### 3.9.3.3 Rettslige skritt som fører til utsatt iverksettelse – søksmål
 
 [Statsansatteloven § 34](https://lovdata.no/lov/2017-06-16-67/%C2%A734) gir statsansatte og embetsmenn adgang til å reise søksmål for å få prøvd klageinstansens vedtak. Klageadgangen må altså ha vært benyttet før det reises søksmål. Domstolenes prøvingsadgang er begrenset til å prøve lovligheten av klageinstansens vedtak. Det vil si at de ikke kan overprøve forvaltningens skjønn og skal ikke ta standpunkt til hensiktsmessigheten eller rimeligheten i forvaltningens vedtak.
 
 Tidspunktet for iverksettelsen av vedtak om oppsigelse og ordensstraff når en statsansatt reiser søksmål eller skriftlig varsler arbeidsgiver om at søksmål vil bli reist, er regulert i [statsansatteloven § 35 tredje ledd andre punktum](https://lovdata.no/lov/2017-06-16-67/%C2%A735) og [§ 35 fjerde ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A735). Overholdes fristene som er fastsatt i disse bestemmelsene, kan vedtak om oppsigelse eller ordensstraff ikke iverksettes før det foreligger rettskraftig dom eller kjennelse. Dersom den statsansatte skriftlig varsler om at søksmål vil bli reist, men likevel ikke gjør det, kan vedtaket ikke iverksettes før søksmålsfristen på åtte uker er ute. I [statsansatteloven § 35 femte ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A735) er det tatt inn en bestemmelse om at arbeidsgiver kan kreve kjennelse for at vedtaket skal iverksettes før saken er rettskraftig avgjort.
 
-buttonsBar: k3-9-3-4
-
 ### 3.9.3.4 Rettslige skritt som ikke fører til utsatt iverksettelse
 
 I [statsansatteloven § 35 sjette ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A735) er det bestemt at søksmål om lovligheten av avskjed eller oppsigelse i prøvetiden ikke utsetter iverksettelsen av vedtaket, med mindre retten bestemmer det ved kjennelse og søksmål er reist innen søksmålsfristen på åtte uker, se [statsansatteloven § 34 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A734).
 
 Søksmålsfristen er seks måneder dersom statsansatte eller embetsmenn bare krever erstatning, eller saken gjelder irettesettelse som ordensstraff (embetsmenn). Krav om erstatning fører ikke til utsatt iverksettelse av vedtak.
-
-buttonsBar: k3-9-3-5
 
 ### 3.9.3.5 Særlig om embetsmenn
 

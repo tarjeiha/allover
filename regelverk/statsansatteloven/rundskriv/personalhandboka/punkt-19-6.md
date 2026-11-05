@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_19-6"
 lagt_inn: "2026-11-05"
 punkt: "19.6"
 ---
 
 # Statens personalhåndbok punkt 19.6 Oversikt over regler om erstatning for tingskade
-
-buttonsBar: k19-6-1
 
 ## 19.6.1 Erstatning for private eiendeler
 
@@ -31,19 +29,13 @@ Den kongelige resolusjonen har følgende bestemmelser:
 | 14 | **Departementets kommentar:** *I henhold til resolusjonens punkt 4 skal det ved vurdering av om det økonomiske tapet helt eller delvis skal dekkes, tas særlig hensyn til om den ansatte har utvist alminnelig aktsomhet*. Det gis normalt ikke erstatning dersom arbeidstaker selv kan bebreides for tapet, for eksempel dersom verdifulle eiendeler har blitt forlatt ubevoktet eller arbeidstaker på annen måte må sies å ha opptrådt uaktsomt. Det kreves at den ansatte i egen interesse gjør det som er praktisk mulig for å ta vare på sine eiendeler. Har arbeidstaker utvist uaktsomhet som ikke karakteriseres som grov, kan det gis delvis erstatning. |
 | 15 | **Departementets kommentar:** *Resolusjonens punkt 5 regulerer behandlingen av søknader om erstatning etter resolusjonen*. Arbeidsgiver avgjør, etter søknad fra arbeidstaker, om erstatning skal utbetales og med hvilket beløp. Den enkelte virksomhet bestemmer hvem som utøver arbeidsgiverfunksjonen i dette henseende. Det kan for eksempel være den ansattes nærmeste leder eller virksomhetens personal- eller administrasjonsavdeling. Resolusjonen etablerer ingen plikt for arbeidsgiver til å utbetale erstatning, men gir hjemmel for at dette kan gjøres dersom vilkårene er oppfylt. Avgjørelsen om det skal gis erstatning eller ikke utgjør ikke et enkeltvedtak etter [forvaltningsloven](https://lovdata.no/lov/1967-02-10), og det er ikke klagerett over avgjørelsen. Erstatningsutbetalinger dekkes over virksomhetens driftsbudsjett. Erstatningsutbetalinger etter denne resolusjonen kan ikke belastes budsjettkapittel 471, post 71. |
 
-buttonsBar: k19-6-2
-
 ## 19.6.2 Erstatning for reisegods
 
 Reisegods til personlig bruk som ansatte i staten tar med på tjenestereise er forsikret i henhold til [særavtale om dekning av utgifter til reise og kost innenlands](https://lovdata.no/tariff/spha-1) § 12 og [særavtale om dekning av utgifter til reise og kost utenfor Norge](https://lovdata.no/tariff/spha-2) § 13.
 
-buttonsBar: k19-6-3
-
 ## 19.6.3 Refusjon av merutgifter og tap som følge av hevnaksjoner som har sammenheng med arbeid for staten
 
 Ved kongelig resolusjon 11. desember 2020 er det gitt regler om [refusjon av merutgifter og tap som følge av hevnaksjoner som har sammenheng med arbeid for staten](https://lovdata.no/forskrift/2020-12-11-2711).
-
-buttonsBar: k19-6-3-1
 
 ### Bakgrunnen for reglene
 
@@ -53,8 +45,6 @@ Rimelighetshensyn tilsier at tap som følge av hevnaksjoner som har sammenheng m
 
 Det er viktig at statlige virksomheter har rutiner for å ivareta de ansattes sikkerhet, og følger opp hendelser og trusler med blant annet politianmeldelse. Anmeldelse til politiet setter politiet i stand til å vurdere om det skal iverksettes sikkerhetstiltak. Det er også prinsipielt viktig og i samfunnets interesse, at straffbare handlinger anmeldes, etterforskes og at gjerningspersonen blir påtalt og straffet. Dersom en hevnaksjon fører til at det blir reist straffesak mot gjerningspersonen, kan også økonomisk tap tas med som et sivilt krav i straffesaken slik at gjerningspersonen holdes ansvarlig.
 
-buttonsBar: k19-6-3-2
-
 ### Hvilke tap som kan søkes refundert
 
 Tap som kan søkes refundert etter reglene i den kongelige resolusjonen er tap som følge av ødeleggelse av eiendom eller eiendeler (tingskade) som ikke dekkes av andre ordninger, og tapt inntekt som følge av iverksatte sikkerhetstiltak.
@@ -62,8 +52,6 @@ Tap som kan søkes refundert etter reglene i den kongelige resolusjonen er tap s
 Dersom statlig ansatte eller medlemmer av husstanden påføres personskade som følge av en hevnaksjon, vil de kunne søke dekket tap etter voldsoffererstatningsordningen eller gjennom yrkesskadeforsikring. Etter disse ordningene kan det tilkjennes erstatning for lidt og fremtidig inntektstap og utgifter som er påført som følge av personskaden. Tap av inntekt som følge av sikkerhetstiltak, dekkes ikke av yrkesskadeforsikringen eller voldsoffererstatningsordningen.
 
 Når det gjelder erstatning for tapte eller ødelagte private eiendeler, vil de nye reglene særlig komme til anvendelse for skade eller tap som oppstår som følge av en hevnaksjon på fritiden, det vil si utenom arbeidstid eller arbeidsstedet. For skade på eller tap av private eiendeler som følge av en hevnaksjon som finner sted på arbeidsstedet og i forbindelse med utførelse av arbeidet, vil [kongelig resolusjon 27. oktober 2017 om erstatning til ansatte i staten ved skade på eller tap av private eiendeler i forbindelse med tjenesten](https://lovdata.no/forskrift/2017-10-27-1667) komme til anvendelse. Slike eventuelle tap skal vurderes og behandles i henhold til disse reglene. Om den ansatte utsettes for vold, dekkes tingskade etter voldsoffererstatningsordningen men bare dersom det dreier seg om klær og personlige bruksting den voldsutsatte hadde på seg da skaden ble voldt.
-
-buttonsBar: k19-6-3-3
 
 ### Den kongelige resolusjonen har følgende bestemmelser:
 

@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_2-4"
 lagt_inn: "2026-11-05"
 punkt: "2.4"
@@ -8,13 +8,9 @@ punkt: "2.4"
 
 # Statens personalhåndbok punkt 2.4 Personalreglement
 
-buttonsBar: k2-4-1
-
 ## 2.4.1 Mal for personalreglement
 
 [Mal for personalreglement i en statlig virksomhet](https://arbeidsgiver.dfo.no/ressurser-og-verktoy/maler-skjema-og-veiledere/ansettelse-og-opphor-av-tjeneste-maler/mal-personalreglement) (Statens arbeidsgiverportal)
-
-buttonsBar: k2-4-2
 
 ## 2.4.2 Generelt om personalreglement
 
@@ -32,23 +28,17 @@ Før det inngås avtale om personalreglement skal fagdepartementet treffe vedtak
 
 Normalt vil personalreglementet omfatte alle ansatte i en virksomhet. Enkelte ganger begrenses reglementet til å omfatte bestemte kategorier av ansatte. I slike tilfeller vil det derfor finnes flere forskjellige reglementer i en og samme virksomhet. Det er derimot ikke adgang til å utelukke en eller noen få stillinger fra reglementet, for eksempel stillingen som virksomhetens øverste leder.
 
-buttonsBar: k2-4-3
-
 ## 2.4.3 Hvem som inngår avtale om et personalreglement
 
 Personalreglementet skal fastsettes etter avtale mellom ledelsen for virksomheten og tjenestemannsorganisasjonene i virksomheten, se [statsansatteloven § 2 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A72). Avtalen må omfatte hele personalreglementet, både forhold som etter loven skal fastsettes i personalreglement og forhold som kan fastsettes i personalreglement, se [statsansatteloven §§ 7 andre](https://lovdata.no/lov/2017-06-16-67/%C2%A77) og [tredje ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A77), [15 sjette ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A715), [33 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A733) og [39 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A739).
 
 Forhandlingsretten skal ivaretas av de tjenestemannsorganisasjonene i virksomheten som har forhandlingsrett etter [tjenestetvistloven](https://lovdata.no/lov/1958-07-18-2). Det innebærer at partsforholdet ved forhandlinger om et personalreglement er det samme som ved lokale lønnsforhandlinger. Det er reglene i hovedavtalen i staten som nærmere regulerer hvordan forhandlinger skal føres og hvordan eventuelle tvister løses, se [hovedavtalen § 19 nr. 2 bokstav d](https://lovdata.no/tariff/spha-90/%C2%A719) og [§ 24](https://lovdata.no/tariff/spha-90/%C2%A724). Det skal skrives protokoll fra forhandlingene i samsvar med [hovedavtalen § 23](https://lovdata.no/tariff/spha-90/%C2%A723). Dersom partene ikke blir enige under forhandlingene skal det tvisteløses i samsvar med [hovedavtalen § 24](https://lovdata.no/tariff/spha-90/%C2%A724), se dom fra Høyesterett [HR-2022-1246-A](https://lovdata.no/avgjorelse/hr-2022-1246-a).
 
-buttonsBar: k2-4-4
-
 ## 2.4.4 Gyldigheten av et personalreglement
 
 Det er virksomheten selv som har ansvar for at personalreglementet er i samsvar med loven. I [statsansatteloven § 2 fjerde ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A72) er det bestemt at et personalreglement er gyldig når det er fastsatt i samsvar med bestemmelsene i [§ 2](https://lovdata.no/lov/2017-06-16-67/%C2%A72) første til tredje ledd. Videre må personalreglementet inneholde bestemmelser som etter loven skal fastsettes i personalreglement. Personalreglementer må ikke inneholde bestemmelser som strider mot lov eller vedtak fattet med hjemmel i lov, eller avtaler sluttet mellom staten og hovedsammenslutningene. Når partene i virksomheten har forhandlet frem et personalreglement etter bestemmelsene i [statsansatteloven](https://lovdata.no/lov/2017-06-16-67), kan reglementet tre i kraft på det tidspunkt partene er enige om. Partene kan når som helst kreve at personalreglementet tas opp til revisjon, se [statsansatteloven § 2 femte ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A72). Den samme retten har fagdepartementet. Reglement som er i strid med lover eller avtaler må endres. Kongen fastsetter personalreglement for departementene og Statsministerens kontor, etter at et utkast er fremforhandlet mellom Digitaliserings- og forvaltningsdepartementet og hovedsammenslutningene, se [statsansatteloven § 2 tredje ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A72).
 
 I Forsvaret er det gitt særlige regler om ansettelsesvilkår for militært ansatte i [forsvarsloven § 44](https://lovdata.no/lov/2016-08-12-77/%C2%A744). Bestemmelsen fastsetter at det er Stortinget som har kompetansen til å fastsette de overordnede rammene i ordningen for militært ansatte. Dersom Forsvarsdepartementet ønsker å endre de overordnede rammene, må det legges frem forslag om dette til Stortinget. Innenfor de overordnede rammene Stortinget har samtykket til, er Forsvarsdepartementet gitt kompetanse til å fastsette nærmere regler innenfor de fire hovedelementene ansettelse, utdanning, disponering og avansement. Gjeldende ordning for militært ansatte følger av innstillinger til Stortinget, [Innst. 335 L (2014–2015)](https://lovdata.no/forarbeid/inns-335-l-201415) og [Innst. 336 S (2014–2015)](https://lovdata.no/forarbeid/inns-336-s-201415), til [Prop. 111 LS (2014–2015)](https://lovdata.no/forarbeid/prop-111-ls-201415).
-
-buttonsBar: k2-4-5
 
 ## 2.4.5 Hva et personalreglement skal inneholde
 
@@ -63,8 +53,6 @@ Malen for personalreglement i en statlig virksomhet inneholder forslag til hvord
 Antallet ansettelsesråd skal fremgå av personalreglementet, se [statsansatteloven § 6 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A76).
 
 Det kan ikke fastsettes i personalreglement at midlertidige stillinger kan omgjøres til faste stillinger, slik at en midlertidig ansatt kan ansettes fast uten ny offentlig utlysning.
-
-buttonsBar: k2-4-6
 
 ## 2.4.6 Hva et personalreglement kan inneholde
 
@@ -81,8 +69,6 @@ Dersom en statsansatt påklager et vedtak om oppsigelse, ordensstraff, suspensjo
 I personalreglementet kan det også gis bestemmelser om forbud mot gaver i tjenesten mv., se [statsansatteloven § 39](https://lovdata.no/lov/2017-06-16-67/%C2%A739). Dette gjelder uttrykkelig nærmere regler om hvilke gaver mv. som det er forbudt å motta etter slike bestemmelser. Det fremgår av lovbestemmelsen at slike bestemmelser kan fastsettes ensidig av arbeidsgiver gjennom instruks. Det fremgår likevel av forarbeidene til [statsansatteloven](https://lovdata.no/lov/2017-06-16-67) at regler gitt i reglement skal være den primære løsningen. Dette innebærer at spørsmålet om hvilke gaver mv. som omfattes av forbudet dermed blir forhandlingsgjenstand, se [Prop. 94 L (2016–2017) punkt 23.4.2](https://lovdata.no/forarbeid/prop-94-l-201617/kap23.4.2).
 
 Dersom virksomheten har embetsmenn eller statsansatte som beskikkes av Kongen, bør disse tas inn i personalreglementet til orientering, se nærmere omtale i [SPH punkt 2.2](https://lovdata.no/litteratur/sph/kap2.2).
-
-buttonsBar: k2-4-7
 
 ## 2.4.7 Forhold som ikke er en del av et personalreglement
 

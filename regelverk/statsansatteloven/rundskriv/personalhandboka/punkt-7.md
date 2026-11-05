@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_7"
 lagt_inn: "2026-11-05"
 punkt: "7"
@@ -15,17 +15,3 @@ Aktivt arbeid for likestilling, inkludering, integrering og mangfold følger bla
 En inkluderende ledelsespraksis og personalpolitikk er viktig for å forebygge og redusere sykefravær, styrke jobbnærværet, bedre arbeidsmiljøet, hindre utstøting og frafall, og videreutvikle statlige virksomheter som attraktive arbeidsplasser. Her vises det også til [statens arbeidsgiverstrategi 2024–2027](https://www.regjeringen.no/no/dokumenter/arbeidsgiverstrategi-2024-2027/id3035042/) og [grunnlag for god ledelse i staten](https://www.regjeringen.no/no/dokumenter/god-ledelse-i-staten/id3035069/).
 
 En sentral lederoppgave er å sørge for at mål om likestilling, inkludering, integrering og mangfold er solid forankret i virksomhetens overordnede personalpolitikk, i den daglige ledelsen og i personalarbeidet. Det skal arbeides systematisk og målrettet med blant annet å ansette flere med nedsatt funksjonsevne, og med innvandrerbakgrunn, samt hindre diskriminering i ansettelsesprosesser og karriereløp.
-
-buttonsBar: k7-1
-
-buttonsBar: k7-2
-
-buttonsBar: k7-3
-
-buttonsBar: k7-4
-
-buttonsBar: k7-5
-
-buttonsBar: k7-6
-
-buttonsBar: k7-7

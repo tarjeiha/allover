@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_9-3"
 lagt_inn: "2026-11-05"
 punkt: "9.3"
@@ -13,8 +13,6 @@ Ingen statsansatt kan motta gaver mv. dersom den er egnet til, eller av giver er
 Gaver eller andre goder som tilbys statsansatte kan være egnet til å svekke tilliten til de statsansattes uavhengighet. Gaver eller andre goder som ansatte mottar kan ikke være av en slik karakter at det skapes et inntrykk av at forvaltningens avgjørelser kan bli påvirket.
 
 En ansatt kan heller ikke motta gaver det er forbudt å motta i henhold til intern instruks i virksomheten. En virksomhet som har oppgaver eller funksjoner som gjør at de har et behov for å regulere ansattes mottak av gaver ytterligere, kan gi interne regler om dette. Dette skal primært gjøres i personalreglementet og dermed være gjenstand for forhandling, men kan eventuelt også gis som instruks.
-
-buttonsBar: k9-3-1
 
 ## 9.3.1 Veileder om gaver i tjenesten
 

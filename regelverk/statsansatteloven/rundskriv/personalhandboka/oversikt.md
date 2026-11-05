@@ -1,6 +1,6 @@
 # Statens personalhåndbok
 
-Statens personalhåndbok - 1 Innledning, hentet fra [Lovdata](https://lovdata.no/dokument/SPH/sph). Håndboka er veiledning og tolkning av regelverket for statsansatte, og gjengir også bestemmelser fra hovedtariffavtalene og særavtalene i staten. Den er ikke lov- eller forskriftstekst. Oppgi den som «Statens personalhåndbok punkt x.y».
+Statens personalhåndbok, hentet fra [Lovdata](https://lovdata.no/dokument/SPH/sph). Håndboka er veiledning og tolkning av regelverket for statsansatte, og gjengir også bestemmelser fra hovedtariffavtalene og særavtalene i staten. Den er ikke lov- eller forskriftstekst. Oppgi den som «Statens personalhåndbok punkt x.y».
 
 Hvert punkt på nivå to har egen fil, og innledningen til hvert kapittel ligger i kapittelfilen (f.eks. `punkt-10.md`). Underpunktene står som overskrifter i filene.
 

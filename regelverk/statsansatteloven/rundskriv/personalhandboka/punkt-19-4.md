@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_19-4"
 lagt_inn: "2026-11-05"
 punkt: "19.4"
 ---
 
 # Statens personalhåndbok punkt 19.4 Oversikt over forsikrings- og erstatningsordninger – personskade
-
-buttonsBar: k19-4-1
 
 ## 19.4.1 Erstatning for yrkesskade og yrkessykdom
 
@@ -20,19 +18,13 @@ Det er gitt særlige bestemmelser om ytelser ved yrkesskade i [hovedtariffavtale
 
 Hovedtariffavtalene utvider dekningsområdet for yrkesskadeerstatning sammenlignet med [folketrygdloven](https://lovdata.no/lov/1997-02-28-19) og [yrkesskadeforsikringsloven](https://lovdata.no/lov/1989-06-16-65) ved andre ledd i § 24 nr. 1. Der går det frem at erstatning også ytes når arbeidstakeren skades ved ulykke på direkte reise mellom hjem og oppdragssted (uten at arbeidstakeren har vært innom sitt faste arbeidssted) og på tjenestereise.
 
-buttonsBar: k19-4-2
-
 ## 19.4.2 Forsikringsdekning på hjemmekontor
 
 [Yrkesskadeforsikringsloven](https://lovdata.no/lov/1989-06-16-65) og reglene om ytelser etter [hovedtariffavtalenes § 24](https://lovdata.no/tariff/spha-91/%C2%A724) gjelder ved arbeid på hjemmekontor etter avtale med arbeidsgiver. Ved avtale om hjemmekontor er arbeidsstedet midlertidig flyttet hjem, og dermed gjelder yrkesskadeforsikringen, forutsatt at arbeidstaker er «i arbeid, på arbeidsstedet og i arbeidstiden». Det kan i noen tilfeller være vanskelig å vurdere om en skade har skjedd under utøvelse av arbeid eller i fritid. Slike skadetilfeller vurderes individuelt av Statens pensjonskasse. I rettspraksis er det trukket opp nærmere grenser for når en skade anses å skje «i arbeid på arbeidsstedet i arbeidstiden», og når arbeidstaker har beveget seg over i den private sfæren, og dermed ikke er dekket. Skader som skjer på hjemmekontoret, skal i utgangspunktet vurderes etter de samme vilkårene i [yrkesskadeforsikringsloven](https://lovdata.no/lov/1989-06-16-65).
 
-buttonsBar: k19-4-3
-
 ## 19.4.3 Forsikringsdekning under tjenestereiser i Norge
 
 Ansatte i staten er dekket av [yrkesskadeforsikringsloven](https://lovdata.no/lov/1989-06-16-65) under tjenestereiser i den tiden de utfører arbeid på reisen. [Hovedtariffavtalene § 24](https://lovdata.no/tariff/spha-91/%C2%A724) kommer til anvendelse for skade som går inn under definisjonen yrkesskade etter [hovedtariffavtalene § 24 nr. 1](https://lovdata.no/tariff/spha-91/%C2%A724). De ansatte er i tillegg ulykkesforsikret under hele reisen (24-timers dekning) etter [særavtale om dekning av utgifter til reise og kost innenlands](https://lovdata.no/tariff/spha-1) § 12.
-
-buttonsBar: k19-4-4
 
 ## 19.4.4 Forsikringsdekning under tjenestereiser og utstasjonering i utlandet
 
@@ -41,8 +33,6 @@ buttonsBar: k19-4-4
 Forsikringsdekning etter [yrkesskadeforsikringsloven](https://lovdata.no/lov/1989-06-16-65) gjelder under utførelse av arbeid for staten. [Hovedtariffavtalen i staten](https://lovdata.no/tariff/spha-91) gjelder ikke i utlandet, men dersom arbeidstakeren får en skade som går inn under definisjonen yrkesskade etter [hovedtariffavtalene § 24 nr. 1](https://lovdata.no/tariff/spha-91/%C2%A724), utbetales erstatning tilsvarende [hovedtariffavtalene § 24](https://lovdata.no/tariff/spha-91/%C2%A724).
 
 Ved tjenestereise i utlandet er de ansatte i tillegg ulykkesforsikret under hele reisen (24-timers dekning) i henhold til [særavtale om dekning av utgifter til reise og kost utenfor Norge](https://lovdata.no/tariff/spha-2) § 13. Etter [særavtale om forsikrings- og erstatningsordninger for statsansatte på tjenestereise og ved stasjonering i utlandet](https://lovdata.no/tariff/spha-14) er alle statsansatte stasjonert i utlandet gitt en ulykkesforsikring som gir rett til erstatning på inntil 30 G, se avtalens punkt 1. Denne avtalen har også egne regler om skade som har årsakssammenheng med terrorhandlinger, væpnet konflikt, naturkatastrofer eller kriminalitet, og om statsansatte som oppholder seg i eller er på tjenestereise i land hvor det pågår internasjonale fredsoperasjoner.
-
-buttonsBar: k19-4-5
 
 ## 19.4.5 Medfølgende familiemedlemmer til embetsmenn og statsansatte i utlandet
 
@@ -77,15 +67,11 @@ Ved død utbetales erstatningen i slik rekkefølge (ugjenkallelig begunstiget i 
 | 9 | **Departementets kommentar:** Dette er i tråd med [forsikringsavtaleloven § 13-9](https://lovdata.no/lov/1989-06-16-69/%C2%A713-9) om uaktsom fremkalling av forsikringstilfellet. Dette prinsippet er også nedfelt i særavtalen om reiser utenlands for statens regning § 13 som gjelder ulykkesforsikring under tjenestereise for statens ansatte. |
 | 10 | **Departementets kommentar:** Unntaket omfatter utpregede risikoaktiviteter som hanggliding, klatring, fallskjermhopping og lignende. |
 
-buttonsBar: k19-4-6
-
 ## 19.4.6 Skade påført ved bruk av statens motorvogner
 
 Regler om bruk av statens motorvogner er gitt ved kongelig resolusjon av 11. desember 1981, se [SPH punkt 20.1](https://lovdata.no/litteratur/sph/kap20.1). Der er det fastsatt regler for når statens motorvogner kan benyttes, og hvem som kan tas med som passasjerer. Statens motorvogner er unntatt fra plikten til å tegne ansvarsforsikring, se [bilansvarsloven § 16](https://lovdata.no/lov/1961-02-03/%C2%A716). Staten er selvassurandør, og har det samme ansvaret for motorvogner som et forsikringsselskap ville hatt dersom motorvognen hadde vært forsikret der.
 
 Det er inngått en avtale mellom staten og KS om bruk av tjenestebil for ansatte i staten, kommuner og fylkeskommuner. Avtalen innebærer at statsansatte fra virksomheter som hører til disse sektorene og som skal til samme oppdragssted, kan reise i samme motorvogn og likevel være forsikringsdekket, se [SPH punkt 20.1.2](https://lovdata.no/litteratur/sph/kap20.1.2).
-
-buttonsBar: k19-4-7
 
 ## 19.4.7 Øvrige bestemmelser om forsikring
 

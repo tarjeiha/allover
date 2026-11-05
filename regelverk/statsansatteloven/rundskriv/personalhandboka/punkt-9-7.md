@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_9-7"
 lagt_inn: "2026-11-05"
 punkt: "9.7"
 ---
 
 # Statens personalhåndbok punkt 9.7 Ekstraerverv mv.
-
-buttonsBar: k9-7-1
 
 ## 9.7.1 Rett til å ta ekstraerverv for ansatte i staten
 
@@ -39,8 +37,6 @@ Se også [PM-1984-23](https://www.regjeringen.no/contentassets/8be6995b65e441af8
 
 En embetsmann eller statsansatt kan som hovedregel inneha politiske verv. [Grunnloven § 62](https://lovdata.no/lov/1814-05-17/%C2%A762) gjør unntak fra hovedregelen idet den fastsetter at tjenestemenn ved Regjeringens kontorer og i utenrikstjenesten ikke kan velges til stortingsrepresentanter. Øvrige ansatte i staten er altså valgbare.
 
-buttonsBar: k9-7-2
-
 ## 9.7.2 Nærmere om ekstraerverv
 
 Adgangen til å inneha annen offentlig eller privat stilling eller erverv er nærmere omtalt i h[ovedtariffavtalene punkt 1.1.4](https://lovdata.no/tariff/spha-91/kap1.1.4). Se også [SPH punkt 9.10](https://lovdata.no/litteratur/sph/kap9.10) om oppnevning av embetsmenn og statsansatte i styrer og råd mv.
@@ -55,8 +51,6 @@ Forhandlingsutvalg er et utvalg hvor det sitter representanter fra staten som re
 
 Er arbeidet i slike utvalg særlig omfattende og byrdefullt, kan fagdepartementet tilstå godtgjøring. Ansatte i staten som blir oppnevnt som medlemmer av slike utvalg bør bli gjort kjent med at ekstragodtgjøring vanligvis ikke kan påregnes i slike tilfelle.
 
-buttonsBar: k9-7-3
-
 ## 9.7.3 Ekstraarbeid i tilknytning til ordinær stilling
 
 Det kan oppstå spørsmål om en ansatt i staten kan gis ekstra godtgjøring for ekstraarbeid når arbeidet har tilknytning til det ordinære arbeidet. Utgangspunktet har vært at stillinger i statens hovedtariffavtaler har tittel og lønn etter en samlet vurdering av stillingens arbeidsområde. Dette innebærer at en statsansatt som hovedregel ikke kan gis ekstra godtgjøring for ekstraarbeid når vedkommende har som tjenesteplikt å utføre dette arbeid i sin ordinære stilling.
@@ -69,13 +63,9 @@ Det ville være naturlig å bruke uttrykket «ekstraarbeid» om godtgjøring for
 
 En slik tidsavgrenset eller varig godtgjøring vil være forhandlingstema etter [hovedtariffavtalen punkt 2.5.3](https://lovdata.no/tariff/spha-91/kap2.5.3) nr. 2 om «ekstraordinær arbeidsinnsats».
 
-buttonsBar: k9-7-4
-
 ## 9.7.4 Ekstraerverv – lønn under permisjoner
 
 Under permisjon med lønn er det bare den ordinære lønnen i hovedstillingen som skal utbetales. Lønn for ekstraerverv skal normalt ikke utbetales. Unntak kan gjøres for ekstraerverv som er naturlig knyttet til (den ordinære) stillingen. Særlige tillegg til lønnen kan som hovedregel ikke utbetales under slike permisjoner. Det kan likevel utbetales særlige tillegg som må ses som en del av stillingens lønn. Fullmakten til å utbetale særlige tillegg ligger hos det enkelte fagdepartement.
-
-buttonsBar: k9-7-5
 
 ## 9.7.5 Deltidsansatte og bistilling
 

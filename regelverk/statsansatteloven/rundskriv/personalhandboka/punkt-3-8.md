@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_3-8"
 lagt_inn: "2026-11-05"
 punkt: "3.8"
 ---
 
 # Statens personalhåndbok punkt 3.8 Saksbehandlingsregler ved ordensstraff, oppsigelse suspensjon og avskjed
-
-buttonsBar: k3-8-1
 
 ## 3.8.1 Hvem kan treffe vedtak
 
@@ -17,8 +15,6 @@ Myndighet til å treffe vedtak om ordensstraff, oppsigelse, suspensjon og avskje
 Ved suspensjon av en statsansatt, eller overføring til annen mindre betrodd tjeneste, hvor saken samtidig krever særlig rask avgjørelse, kan arbeidsgiver (for ordinære statsansatte) eller fagdepartementet (for statsansatte som er beskikket av Kongen) likevel treffe slikt vedtak. Vedtaket skal straks meldes til ansettelsesorganet (for ordinære statsansatte) eller Kongen i statsråd (for beskikkende statsansatte). For ordinære statsansatte kan ansettelsesorganet omgjøre vedtaket eller treffe annet vedtak etter [statsansatteloven § 29](https://lovdata.no/lov/2017-06-16-67/%C2%A729) om vilkårene for det foreligger. For beskikkede statsansatte kan Kongen i statsråd stadfeste vedtaket, omgjøre vedtaket eller treffe annet vedtak etter [statsansatteloven § 29](https://lovdata.no/lov/2017-06-16-67/%C2%A729) om vilkårene for det foreligger. Rettssituasjonen for embetsmenn er noe usikker på dette punkt, se omtale i [Prop. 94 L (2016–2017) side 219](https://lovdata.no/forarbeid/prop-94-l-201617/s219). For høyere statsansatte som beskikkes i statsråd, og embetsmenn, har det enkelte departement fullmakt til å vedta opphør av suspensjon og ilegge ordensstraff, se [statsansatteloven § 31 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A731).
 
 Hovedregelen er at alle avgjørelser vedrørende avskjed og suspensjon av de såkalte avsettelige embetsmenn avgjøres av Kongen i statsråd. Myndigheten til å ilegge embetsmenn ordensstraff er delegert til det enkelte departement, se [statsansatteloven § 31 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A731).
-
-buttonsBar: k3-8-2
 
 ## 3.8.2 Behandlingen av saker om ileggelse av ordensstraff, oppsigelse eller avskjed
 

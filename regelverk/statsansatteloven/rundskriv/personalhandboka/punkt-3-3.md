@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_3-3"
 lagt_inn: "2026-11-05"
 punkt: "3.3"
 ---
 
 # Statens personalhåndbok punkt 3.3 Oppsigelse
-
-buttonsBar: k3-3-1
 
 ## 3.3.1 Oppsigelse på grunn av virksomhetens forhold
 
@@ -27,11 +25,7 @@ I vurderingen av om en oppsigelse er saklig skal arbeidsgiver foreta en interess
 
 Virksomheten som sier opp arbeidstakeren, må orientere den overtallige om reglene om fortrinnsrett til ny ansettelse i staten, se [statsansatteloven § 24 fjerde ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A724).
 
-buttonsBar: k3-3-2
-
 ## 3.3.2 Oppsigelse på grunn av arbeidstakers forhold
-
-buttonsBar: k3-3-2-1
 
 ### 3.3.2.1 Oppsigelse i prøvetid
 
@@ -46,8 +40,6 @@ Etter [statsansatteloven § 35 andre ledd](https://lovdata.no/lov/2017-06-16-67/
 Statlige virksomheter som har egne opplæringsordninger eller programmer, såkalt etatsopplæring, kan fastsette i reglement på hvilken måte og etter hvilke kriterier opplæringen er fullført på tilfredsstillende måte. For denne gruppen vil det normalt være prøvetid som varer ut over seks måneder, se [statsansatteloven § 15 sjette ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A715).
 
 Ansatte i prøvetid kan også bli sagt opp på grunn av virksomhetens forhold etter [statsansatteloven § 19](https://lovdata.no/lov/2017-06-16-67/%C2%A719), og etter [§ 20](https://lovdata.no/lov/2017-06-16-67/%C2%A720) om statsansattes forhold. De kan også bli avskjediget, se [statsansatteloven § 26](https://lovdata.no/lov/2017-06-16-67/%C2%A726).
-
-buttonsBar: k3-3-2-2
 
 ### 3.3.2.2 Oppsigelse på grunn av sykdom
 
@@ -73,21 +65,15 @@ For å ha rett til arbeidsavklaringspenger må arbeidsevnen være redusert med m
 
 Dersom arbeidstakeren blir ufør, kan det etter utløpet av sykelønnsperioden gis uførepensjon fra Statens pensjonskasse. Slik pensjon kan gis helt eller delvis. Den statsansatte må selv søke om pensjon og søknadsskjema fås ved henvendelse til Statens pensjonskasse. Når en statsansatt går over på uførepensjon og samtidig slutter i hele eller deler av sin stilling, skal feriepenger utbetales. Permisjon uten lønn gir ikke arbeidstakeren krav på slikt sluttoppgjør med hensyn til feriepenger. Arbeidsgiver bør ta opp spørsmålet om overgang til uførepensjon med arbeidstaker i god tid før sykelønnsperioden løper ut. Dette er viktig for å unngå at arbeidstakeren får et opphold i utbetalinger ved utløpet av sykelønnsperioden, som følge av den tiden det tar før pensjonssøknaden er ferdigbehandlet.
 
-buttonsBar: k3-3-2-3
-
 ### 3.3.2.3 Oppsigelse på grunn av kvalifikasjonsmangel
 
 [Statsansatteloven § 20 første ledd bokstav b](https://lovdata.no/lov/2017-06-16-67/%C2%A720) gir hjemmel for oppsigelse dersom en arbeidstaker ikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for stillingen. Bestemmelsen dekker både tilfeller der den ansatte har mistet kvalifikasjoner som vedkommende tidligere hadde, og situasjoner der kvalifikasjonskravene til stillingen har endret seg på en slik måte at den ansatte ikke lenger oppfyller disse. Med krav som er «foreskrevet for stillingen» menes tilfeller der arbeidstakeren ikke lenger har de kvalifikasjonene som stillingen krever, for eksempel førerkort, lisens, sikkerhetsklarering, bevilling og liknende. Med «nødvendige» kvalifikasjoner menes realkompetanse som for eksempel faglig dyktighet og pålitelighet.
 
 Kvalifikasjonsmangler som kan avhjelpes innen relativt kort tid er ikke oppsigelsesgrunn. Det må foretas en konkret vurdering av stillingen og de kravene som må stilles til en forsvarlig arbeidsutførelse. Arbeidsgiver må undersøke om det finnes en annen passende stilling i virksomheten før det tas beslutning om oppsigelse, se [statsansatteloven § 20 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A720). Det er ikke stilt krav om minimum ansettelsestid for arbeidstakers plikt til å undersøke om det finnes en annen passende stilling. Det vises til [§ 7 første ledd](https://lovdata.no/forskrift/2017-06-21-838/%C2%A77) i [forskriften til statsansatteloven](https://lovdata.no/forskrift/2017-06-21-838) som gir nærmere regler om hva som ikke regnes som annen passende stilling.
 
-buttonsBar: k3-3-2-4
-
 ### 3.3.2.4 Oppsigelse på grunn av mangelfull arbeidsutførelse
 
 [Statsansatteloven § 20 første ledd bokstav c](https://lovdata.no/lov/2017-06-16-67/%C2%A720) gir hjemmel for oppsigelse for tilfeller der en arbeidstaker på grunn av mangelfull arbeidsutførelse er uskikket for stillingen. Begrepet arbeidsutførelse skal tolkes vidt, men må knyttes til selve utførelsen av arbeidet. Også for slike tilfeller må det foretas en konkret vurdering av om arbeidsutførelsen er mangelfull sett i lys av stillingens art og de krav som må stilles. Det må undersøkes om den mangelfulle arbeidsutførelsen kan rettes og forbedres innen relativt kort tid. Kan det rettes opp, vil arbeidsgiver ikke ha et saklig grunnlag for oppsigelse.
-
-buttonsBar: k3-3-2-5
 
 ### 3.3.2.5 Krenkelse av tjenesteplikter
 
@@ -98,8 +84,6 @@ Mange ansatte i staten utøver offentligrettslig myndighet overfor borgerne. Det
 Hva det innebærer å krenke tjenestepliktene må vurderes konkret, både når det gjelder hvilken krenkelse det er snakk om og til hvilken type stilling arbeidstakeren har. Det stilles høyere krav til erfarne medarbeidere, og særlig til ledere. Det vil være ulike forhold som kan innebære en krenkelse av tjenesteplikter, fra utilbørlig opptreden eller adferd, til varige og uløselige samarbeidsproblemer. For tilfeller der det foreligger samarbeidsproblemer kan det være nødvendig å gå til oppsigelse for å skape et forsvarlig arbeidsmiljø for andre ansatte.
 
 En enkeltstående krenkelse av tjenesteplikter er ikke et tilstrekkelig grunnlag for oppsigelse. Slike enkeltstående tilfeller må håndteres innenfor rammen av styringsretten, eventuelt ved at arbeidsgiver gir en muntlig eller skriftlig advarsel eller ilegger ordensstraff, se [statsansatteloven § 25](https://lovdata.no/lov/2017-06-16-67/%C2%A725). Arbeidsgiver har en plikt til å vurdere slike mindre inngripende reaksjonsformer i stedet for oppsigelse. Ved grov krenkelse av tjenesteplikter kan avskjed være aktuelt, se [statsansatteloven § 26](https://lovdata.no/lov/2017-06-16-67/%C2%A726). Grovere tilfeller av brudd på tjenesteplikter vil være mobbing og trakassering. Også gjentatt krenkelse av tjenesteplikter på tross av skriftlig advarsel, kan være avskjedsgrunn.
-
-buttonsBar: k3-3-3
 
 ## 3.3.3 Oppsigelsesfrister
 

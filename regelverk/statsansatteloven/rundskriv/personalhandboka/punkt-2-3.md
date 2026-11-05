@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_2-3"
 lagt_inn: "2026-11-05"
 punkt: "2.3"
@@ -8,11 +8,7 @@ punkt: "2.3"
 
 # Statens personalhåndbok punkt 2.3 Ansettelsesprosessen
 
-buttonsBar: k2-3-1
-
 ## 2.3.1 Utlysning
-
-buttonsBar: k2-3-1-1
 
 ### 2.3.1.1 Hovedregelen om offentlig utlysning
 
@@ -23,8 +19,6 @@ Arbeidsgiver skal informere egne arbeidstakere om ledige stillinger i virksomhet
 I [statsansatteloven](https://lovdata.no/lov/2017-06-16-67) er det ingen hjemmel for å fastsette generelle unntak fra utlysningsplikten i et personalreglement. Det kan derfor ikke fastsettes i personalreglement at visse stillinger eller stillingskategorier bare kan lyses ut internt. Det kan heller ikke fastsettes i personalreglement at midlertidige stillinger kan omgjøres til faste stillinger, uten ny offentlig utlysning.
 
 De tillitsvalgte skal ha anledning til å uttale seg om utlysningsteksten før stillingen lyses ut, se [hovedavtalen § 30 nr. 4](https://lovdata.no/tariff/spha-90/%C2%A730). De tillitsvalgte kan også kreve å få drøfte lønnsplasseringen, se [hovedtariffavtalene punkt 2.5.5](https://lovdata.no/tariff/spha-91/kap2.5.5). Dersom en stilling utlyses midlertidig skal arbeidsgiver orientere de tillitsvalgte om hjemmelen for midlertidigheten, se [hovedavtalen § 30 nr. 3](https://lovdata.no/tariff/spha-90/%C2%A730).
-
-buttonsBar: k2-3-1-2
 
 ### 2.3.1.2 Unntak fra offentlig utlysning
 
@@ -37,8 +31,6 @@ Dersom en midlertidig ansettelse som er foretatt etter en slik forenklet ansette
 Også en tariffavtale kan danne grunnlag for at plikten til offentlig utlysning kan fravikes, se [statsansatteloven § 4](https://lovdata.no/lov/2017-06-16-67/%C2%A74). Med begrepet tariffavtale menes i denne sammenheng en sentral særavtale som må inngås mellom Digitaliserings- og forvaltningsdepartementet og hovedsammenslutningene i staten. Det er inngått en slik særavtale knyttet til nedbemanning i statlige virksomheter, se [særavtale om adgang til å gjøre unntak fra statsansatteloven § 4](https://lovdata.no/tariff/spha-17). Det er ikke hjemmel for å inngå lokal særavtale om unntak fra plikten til offentlig utlysning av ledige stillinger.
 
 Det er gitt egne bestemmelser i [§ 3a](https://lovdata.no/forskrift/2017-06-21-838/%C2%A73a) i [forskrift til statsansatteloven](https://lovdata.no/forskrift/2017-06-21-838/%C2%A73a) om unntak fra utlysningsplikten for ledige stillinger knyttet til Forsvarets etterretningsvirksomhet, ansettelse av personer som har gjennomført traineeprogram og midlertidig ansatte med midlertidig lønnstilskudd.
-
-buttonsBar: k2-3-1-3
 
 ### 2.3.1.3 Utlysningsteksten
 
@@ -59,8 +51,6 @@ Det er viktig at sentrale forhold knyttet til en ledig stilling omtales i utlysn
 
 Ledige stillinger i staten skal meldes til NAV.
 
-buttonsBar: k2-3-1-3-1
-
 #### 2.3.1.3.1 Standardtekst om krav for å oppfylle positiv særbehandling
 
 For at søkere skal være innforstått med virkemidlene knyttet til inkludering og mangfold oppfordres virksomhetene til å innarbeide følgende standardtekst i utlysningsteksten:
@@ -69,15 +59,11 @@ For at søkere skal være innforstått med virkemidlene knyttet til inkludering 
 
 Virksomhetene kan i sine stillingsannonser velge å lenke til [Statens arbeidsgiverportal](https://arbeidsgiver.dfo.no/strategisk-hr/inkluderingsarbeid/bli-bedre-pa-rekruttering/hvordan-skrive-stillingsannonser-som-inkluderer/positiv-saerbehandling-nar-man-soker-jobb-i-staten) der standardteksten er publisert.
 
-buttonsBar: k2-3-1-3-2
-
 #### 2.3.1.3.2 Forslag til mangfoldserklæring
 
 Virksomhetene bør vurdere hvordan de omtaler inkludering og mangfold i utlysningstekstene. Det beste vil være hvis dette kan gjøres som en integrert del av hele utlysningsteksten gjennom måten man beskriver arbeidsplassen og den stillingen som skal fylles. Virksomhetene bør også vise til at de legger til rette arbeidsforhold og arbeidsplass for medarbeidere som har behov for det. Eventuelt kan virksomhetene utarbeide en mer standardisert mangfoldserklæring, som for eksempel kan se slik ut:
 
 > «Vi mener at inkludering og mangfold er en styrke. Vi ønsker medarbeidere med ulike kompetanser, fagkombinasjoner, livserfaring og perspektiver for å bidra til enda bedre oppgaveløsning.Vi vil tilrettelegge for medarbeidere som har behov for det. Aktuell tilrettelegging kan for eksempel være tekniske hjelpemidler, tilpasning av møbler eller endring av rutiner, arbeidsoppgaver og arbeidstid.»
-
-buttonsBar: k2-3-1-4
 
 ### 2.3.1.4 Fortrinnsrett for deltidsansatte
 
@@ -93,17 +79,11 @@ Retten til utvidelse av stilling for deltidsansatte gjelder bare for fast ansatt
 
 Tvist om fortrinnsrett for deltidsansatte etter [§ 13](https://lovdata.no/lov/2017-06-16-67/%C2%A713) avgjøres av Tvisteløsningsnemnda, se [arbeidsmiljøloven § 17-2](https://lovdata.no/lov/2005-06-17-62/%C2%A717-2).
 
-buttonsBar: k2-3-2
-
 ## 2.3.2 Søkerlister
 
 Søkerlister i staten er offentlige. Det skal settes opp en søkerliste så snart søknadsfristen har gått ut. Offentlig søkerliste skal utarbeides i samsvar [offentlighetsloven § 25](https://lovdata.no/lov/2006-05-19-16/%C2%A725). I tillegg skal det utarbeides en utvidet søkerliste i samsvar med [forvaltningslovforskriften § 15](https://lovdata.no/forskrift/2006-12-15-1456/%C2%A715). Dersom søkeren selv ber om det kan virksomheten unnta vedkommende fra den offentlige søkerlisten, se nærmere [SPH punkt 18.3](https://lovdata.no/litteratur/sph/kap18.3).
 
-buttonsBar: k2-3-3
-
 ## 2.3.3 Krav til den som ansettes
-
-buttonsBar: k2-3-3-1
 
 ### 2.3.3.1 Kvalifikasjonsprinsippet
 
@@ -121,27 +101,19 @@ Kvalifikasjonsprinsippet er ikke til hinder for bruk av positiv særbehandling v
 
 I tilfeller hvor en ansatt eller ekstern søker har fortrinnsrett til en stilling, er det ikke et krav at vedkommende er best kvalifisert, men vedkommende må fylle kvalifikasjonskravene for stillingen.
 
-buttonsBar: k2-3-3-2
-
 ### 2.3.3.2 Statsborgerskap
 
 Det gjelder som hovedregel ikke et krav om at statens ansatte skal være norske statsborgere. Ifølge [Grunnloven § 114](https://lovdata.no/lov/1814-05-17/%C2%A7114) kan likevel som hovedregel bare norske borgere utnevnes til embetsmenn. Enkelte lover stiller krav om norsk statsborgerskap. Det fremgår av [politiloven § 18](https://lovdata.no/lov/1995-08-04-53/%C2%A718) at ansatte med alminnelig politimyndighet må være norske statsborgere. Dommere må være norske statsborgere etter [domstolloven § 53](https://lovdata.no/lov/1915-08-13-5/%C2%A753). [Utenrikstjenesteloven § 9](https://lovdata.no/lov/2015-02-13-9/%C2%A79) krever norsk statsborgerskap av utsendt utenrikstjenesteansatt. Etter [forsvarsloven § 44](https://lovdata.no/lov/2016-08-12-77/%C2%A744) gjelder det samme for militært ansatte og etter [§ 50](https://lovdata.no/lov/2016-08-12-77/%C2%A750) også for dem som skal utføre tjeneste i internasjonale operasjoner.
 
-buttonsBar: k2-3-3-3
-
 ### 2.3.3.3 Sikkerhetsklarering
 
 I enkelte stillinger er det behov for å behandle dokumenter og opplysninger som forutsetter at arbeidstakeren er sikkerhetsklarert etter [sikkerhetsloven](https://lovdata.no/lov/2018-06-01-24). Ved utlysning av slike stillinger bør det opplyses at sikkerhetsklarering er en forutsetning for å kunne tiltre stillingen. Dersom det før tiltredelse viser seg at vedkommende ikke kan bli sikkerhetsklarert, kan dette innebære en bristende forutsetning for ansettelsen, slik at arbeidsforholdet kan avsluttes. Blir det først etter tiltredelse klart at arbeidstakeren ikke kan bli sikkerhetsklarert, må arbeidsforholdet avsluttes gjennom formell oppsigelse.
-
-buttonsBar: k2-3-3-4
 
 ### 2.3.3.4 Alder
 
 Diskriminering på grunn av alder er forbudt, se [arbeidsmiljøloven § 13-1](https://lovdata.no/lov/2005-06-17-62/%C2%A713-1). Oppnådd aldersgrense for en stilling kan likevel være til hinder for ansettelse. Dersom søkeren har passert aldersgrensen som er fastsatt for stillingen, kan vedkommende ikke ansettes, se lov om aldersgrenser for statsansatte m. fl. Personer som har nådd aldersgrensen for stillingen kan likevel engasjeres på de vilkårene som gjelder for engasjement av alderspensjonister, se [SPH punkt 5.5](https://lovdata.no/litteratur/sph/kap5.5).
 
 Det er ingen aldersgrense for valg til styrer, råd og utvalg.
-
-buttonsBar: k2-3-4
 
 ## 2.3.4 Intervju
 
@@ -151,13 +123,9 @@ Dersom noen av søkerne til en stilling oppgir å ha en funksjonsnedsettelse, sk
 
 I intervjuet må stillingens nærmeste leder være til stede, for å ha et best mulig grunnlag for å avgi innstilling. Øvrige deltakere på intervju bestemmes av arbeidsgiver. I mange statlige virksomheter er det praksis for at en representant for de ansattes organisasjoner deltar ved intervjuene. Opplysninger som fremkommer i intervjuene skal nedtegnes og følge saken, se [forvaltningsloven § 11d andre ledd](https://lovdata.no/lov/1967-02-10/%C2%A711). Det samme gjelder opplysninger som gis i forbindelse med innhenting av referanser.
 
-buttonsBar: k2-3-4-1
-
 ### 2.3.4.1 Dekning av reiseutgifter mv. i forbindelse med innkalling av søkere til intervju
 
 Nye digitale løsninger gir muligheter for å gjennomføre intervjuer i form av video- og/eller telefonmøte med søkere som har lang reisevei. Når virksomheten innkaller søkere til intervju, er det virksomheten som avgjør hvilke legitimerte reiseutgifter som dekkes. Dersom søkeren har lang reisevei, skal virksomheten administrere bestillingen av reisen, og eventuelt overnatting på billigste måte for staten. Reiseutgifter som søkeren har lagt ut, for eksempel til drosje, refunderes av arbeidsgiver etter fremlagt kvittering. Reiser i forbindelse med intervju er ikke tjenestereise og de statlige forsikringsordningene gjelder ikke. Søkeren må selv sørge for reiseforsikring og dekke utgifter til kost.
-
-buttonsBar: k2-3-5
 
 ## 2.3.5 Innstilling
 
@@ -175,8 +143,6 @@ Unntak fra lovens regler om innstilling gjelder for ansettelser i inntil henhold
 
 Ved ansettelse i departementene gis innstilling av et innstillingsråd, se [statsansatteloven § 5 fjerde ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A75). Begrunnelsen for dette er at ansettelsesvedtak i departementene ikke treffes av et kollegialt organ, se [Reglement for personalforvaltningen i departementene § 8](https://www.regjeringen.no/no/dokumenter/personalreglement-for-departementene2/id2662349/). Regler om oppnevning og sammensetning av innstillingsråd i departementene er regulert i [statsansatteloven § 5 femte ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A75) og [Personalreglement for departementene § 3](https://www.regjeringen.no/no/dokumenter/personalreglement-for-departementene/id2662336/).
 
-buttonsBar: k2-3-6
-
 ## 2.3.6 Ansettelsesrådet
 
 Ansettelsesmyndigheten i staten kan være lagt til kollegiale organer, og de ansatte er gitt medbestemmelsesrett. I et ansettelsesråd skal det være like mange medlemmer fra arbeidstakersiden som fra arbeidsgiversiden, se [statsansatteloven § 6](https://lovdata.no/lov/2017-06-16-67/%C2%A76). I tillegg oppnevner arbeidsgiver lederen av rådet. I personalreglementet skal det fastsettes hvordan ansettelsesrådet skal sammensettes, og hvordan medlemmene skal oppnevnes. I de virksomhetene hvor et styre har ansettelsesmyndigheten, skal minst to representanter for de ansatte delta i behandlingen av ansettelsessaker, se [statsansatteloven § 6 fjerde ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A76).
@@ -184,8 +150,6 @@ Ansettelsesmyndigheten i staten kan være lagt til kollegiale organer, og de ans
 Den formelle hovedregelen er at vedkommende forhandlingsberettigede tjenestemannsorganisasjon skal oppnevne representanten for de ansatte. I praksis er det vanlig at det er to representanter for de ansatte i et ansettelsesråd, og at ansettelsesrådet totalt har fem medlemmer. Representanten(e) bør tilhøre vedkommende gruppe av ansatte der det benyttes flere ansettelsesråd. Det må fastsettes i personalreglementet at alle medlemmene skal ha vararepresentanter. Ved oppnevning av representanter i innstillings- og ansettelsesråd skal i utgangspunktet virksomheten følge [likestillings- og diskrimineringsloven § 28](https://lovdata.no/lov/2017-06-16-51/%C2%A728). Se også [forskrift om representasjon av begge kjønn](https://lovdata.no/forskrift/1996-02-02-110) i statlige utvalg, styrer, råd og delegasjoner m.v. I praksis oppnevnes likevel representantene fra arbeidsgiversiden vanligvis i kraft av sin stilling, uavhengig av kjønn.
 
 Innstillings- og ansettelsesorganene regnes som egne forvaltningsorganer, som har sin myndighet fastsatt i lov. Medlemmene kan ikke instrueres uten gjennom generelle retningslinjer gitt av Kongen. Medlemmene av et ansettelsesråd, eller et innstillingsråd i et departement, er ikke underlagt instruksjonsmyndighet av noen, verken av lederen for det enkelte organ eller av ledere i virksomheten. Arbeidstakernes representanter kan heller ikke instrueres av den organisasjon de eventuelt har medlemskap i. Medlemmene har taushetsplikt, og har ikke anledning til å diskutere saken med kolleger utenfor rådet eller med noen i den organisasjonen de er medlem i. Deltakelse i ansettelsesråd er en tjenesteplikt. Medlemmene av rådet kan ikke hindre vedtak ved å utebli fra behandlingen. Rådet er beslutningsdyktig om minst halvparten deltar i avgjørelsen.
-
-buttonsBar: k2-3-6-1
 
 ### 2.3.6.1 Uenighet i ansettelsesrådet
 
@@ -197,15 +161,11 @@ Den andre situasjonen som kan oppstå, er at ansettelsesrådet vil ansette en s�
 
 Dersom nærmeste leder selv er medlem av det organet som har ansettelsesretten, avgir vedkommende ikke en formell innstilling, men gir i stedet forslag til hvem som bør ansettes, se [statsansatteloven § 5 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A75). I disse tilfellene kan ansettelsesrådet fritt velge å ansette enten en av dem som er foreslått av nærmeste leder, eller en av de andre søkerne, uten at loven krever at nærmeste leder skal uttale seg om søkerne.
 
-buttonsBar: k2-3-7
-
 ## 2.3.7 Stans av ansettelsesprosessen
 
 Virksomheten kan på ethvert tidspunkt frem til det er inngått bindende avtale eller gitt bindende tilbud til en søker, velge å stanse en ansettelsesprosess.
 
 Det kan for eksempel bli nødvendig å stanse en ansettelsesprosess hvis virksomheten konstaterer at kvalifikasjonskravene for en utlyst stilling bør endres. I så fall må stillingen lyses ut på nytt. Stansing kan også bli nødvendig dersom en deltidsansatt krever utvidet stilling, se [statsansatteloven § 13](https://lovdata.no/lov/2017-06-16-67/%C2%A713). Andre eksempler kan være at arbeidsgiver vurderer det som tilstrekkelig å omfordele oppgaver mellom de som allerede er ansatt, eller at bevilgninger blir redusert. Beslutning om å stanse en ansettelse må ha et saklig grunnlag. At en søker hevder fortrinnsrett til en utlyst stilling etter [statsansatteloven § 24](https://lovdata.no/lov/2017-06-16-67/%C2%A724), utgjør ikke et saklig grunnlag for å stanse en ansettelsesprosess.
-
-buttonsBar: k2-3-8
 
 ## 2.3.8 Underretning til søkerne
 
@@ -214,8 +174,6 @@ Den som ansettes skal underrettes skriftlig om ansettelsesvedtaket, se [statsans
 Bestemmelsen i [statsansatteloven § 6 femte ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A76) gjelder bare statsansatte. For embetsmenn som blir utnevnt eller konstituert, skal det på samme måte sendes en underretning med opplysning om eventuelle særvilkår. Dette skal fremgå av virksomhetens personalreglement.
 
 Alle søkerne skal underrettes om ansettelsesvedtaket etter at vedtak er truffet i henhold til [forvaltningsloven § 27 første ledd](https://lovdata.no/lov/1967-02-10/%C2%A727).
-
-buttonsBar: k2-3-9
 
 ## 2.3.9 Fastsetting av lønn
 
@@ -227,8 +185,6 @@ Etter [hovedtariffavtalene punkt 2.5.5](https://lovdata.no/tariff/spha-91/kap2.5
 
 Statsansatte har krav på den avtalte lønnen fra dato for tiltredelse. Dersom en statsansatt tiltrer den første virkedagen (arbeidsdagen) i en måned, skal likevel full månedslønn utbetales. Dette gjelder selv om den første i måneden faller på en frilørdag, søndag, helgedag eller offisiell fridag. Det samme gjelder når en statsansatt fratrer den siste virkedag i en måned. Ved overgang fra en stilling som statsansatt til en annen, skal den nye stillingens lønn utbetales fra tiltredelsesdagen.
 
-buttonsBar: k2-3-9-1
-
 ### 2.3.9.1 Lønn for embetsmenn
 
 En embetsmann har krav på lønn fra den dag utnevnelsen trer i kraft, med mindre vedkommende er forhindret fra å tiltre på dette tidspunktet. Dersom tidspunktet for ikrafttreden ikke er fastlagt ved uttrykkelig bestemmelse i utnevnelsesresolusjonen eller i administrativt vedtak truffet med hjemmel i denne, antas utnevnelsen å tre i kraft den dag resolusjonen blir behandlet i statsråd. Se [SPH punkt 2.8](https://lovdata.no/litteratur/sph/kap2.8) om embetsmenn.
@@ -238,8 +194,6 @@ Dersom tidspunktet for tiltredelse ikke fremgår av resolusjonen, vil embetsmann
 I visse tilfeller kan det være forbundet særlig store utgifter med overtakelsen av embetet. I slike tilfeller kan det aktuelle departement gi samtykke til utbetaling av embetets lønn fra et tidligere tidspunkt enn tiltredelsen. For statsansatte som ansettes i stilling ved beskikkelse i statsråd, kan det gjelde tilsvarende som for embetsmenn.
 
 Ved overgang til annet embete er det antatt at når Kongen foretar utnevnelsen (ev. beskikkelsen) i det nye embete (stillingen), opphører ansettelsen i det tidligere embete. Det gis altså da ikke noen formell avskjed. Fra samme tid skal embetsmannen ha lønn i det nye embete når det ved utnevnelsen ikke er fastsatt et senere tidspunkt for overgangen til det nye embetet.
-
-buttonsBar: k2-3-10
 
 ## 2.3.10 Arbeidsavtalen
 
@@ -251,13 +205,9 @@ Etter [arbeidsmiljøloven § 14-6 bokstav f](https://lovdata.no/lov/2005-06-17-6
 
 Ved ansettelse i de høyeste stillingene for statsansatte, hvor ansettelse foretas ved beskikkelse i statsråd, utarbeides et beskikkelsesdokument. Dokumentet undertegnes av Kongen, statsministeren og av statsrådssekretæren, i likhet med en bestalling (ved utnevning av embetsmenn).
 
-buttonsBar: k2-3-10-1
-
 ### 2.3.10.1 Karanteneklausul i arbeidsavtalen
 
 Arbeidsgiver må vurdere om det bør tas inn en klausul i arbeidskontrakten om at karantene og saksforbud kan ilegges ved overgang til stilling eller verv utenfor statsforvaltningen, eller ved etablering av næringsvirksomhet. En slik klausul kan inntas dersom stillingens karakter gir saklig grunn til det, se [karanteneloven § 14](https://lovdata.no/lov/2015-06-19-70/%C2%A714). Behovet for en slik klausul kan oppstå dersom ansvaret eller arbeidsoppgavene som ligger til en stilling, og den tilgang til strategisk informasjon som arbeidstakeren vil få, tilsier at en direkte overgang til annen stilling utenfor statsforvaltningen eller etablering av næringsvirksomhet kan gi noen særlige fordeler, eller svekke tilliten til forvaltningen. Dersom en slik klausul ikke er inntatt i arbeidsavtalen vil det som den klare hovedregel ikke kunne ilegges karantene og saksforbud. I standard arbeidsavtale for staten er det tatt inn et felt som skal fylles ut dersom det skal være en karanteneklausul for stillingen.
-
-buttonsBar: k2-3-11
 
 ## 2.3.11 Lederlønnskontrakt
 
@@ -275,8 +225,6 @@ For åremålsansatte på lederlønn er det en begrenset adgang til å avtale ret
 Retningslinjene åpner for å avtale etterlønn for åremålsansatte på lederlønnskontrakt. Ordinær varighet for avtalt etterlønn er seks måneder. Etterlønn kan unntaksvis avtales for inntil 2 år med særskilt begrunnelse. Det kan ikke benyttes både retrettstilling og etterlønn i samme kontrakt.
 
 Arbeidstakere på lederlønnskontrakt kan fratre med avtalefestet pensjon etter de samme regler og vilkår som er avtalt i statens [hovedtariffavtaler punkt 4.2](https://lovdata.no/tariff/spha-91/kap4.2). For øvrig gjelder [statsansattelovens](https://lovdata.no/lov/2017-06-16-67) ordinære regler for oppsigelse av statsansatte og for avskjed av embetsmenn.
-
-buttonsBar: k2-3-11-1
 
 ### 2.3.11.1 Offentlighet om lederlønnskontrakter
 
@@ -298,8 +246,6 @@ Når noen ber om innsyn, skal det alltid vurderes meroffentlighet, se [offentlig
 
 Arbeidsgiver skal gjøre den enkelte leder kjent med adgangen til å offentliggjøre opplysninger om lønns- og arbeidsvilkår. Dette er nedfelt i lederlønnskontrakten. DFD mener det også vil være god personalpolitikk å informere lederen hvis noen ber om innsyn i vedkommendes lederlønnskontrakt.
 
-buttonsBar: k2-3-12
-
 ## 2.3.12 Prøvetid
 
 Hovedregelen er at arbeidstakere som ansettes i staten ansettes med en prøvetid på seks måneder, se [statsansatteloven § 15 første ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A715). Prøvetiden følger av loven, men det forutsettes at det tas inn i arbeidsavtalen at det gjelder prøvetid. Dette følger også av kravene til arbeidsavtalen etter [arbeidsmiljøloven § 14-6 første ledd, bokstav f](https://lovdata.no/lov/2005-06-17-62/%C2%A714-6). Det gjelder prøvetid også ved overgang fra annen stilling i staten.
@@ -318,15 +264,11 @@ Ansatte som har plikt til å gjennomgå en bestemt opplæring, er ansatt på pr�
 
 For embetsmenn gjelder ingen prøvetid.
 
-buttonsBar: k2-3-13
-
 ## 2.3.13 Klage og søksmål
 
 Vedtak om ansettelse er unntatt fra [forvaltningslovens](https://lovdata.no/lov/1967-02-10) regler om begrunnelse, klage og omgjøring, se [forvaltningsloven § 3 andre ledd](https://lovdata.no/lov/1967-02-10/%C2%A73). Det gjelder derfor ikke en forvaltningsrettslig klageadgang som kan føre til at ansettelsesvedtaket omgjøres. Et ansettelsesvedtak kan imidlertid bringes inn for Sivilombudet. Saken kan også klages inn for Diskrimineringsnemnda ved påstand om brudd på [likestillings- og diskrimineringsloven](https://lovdata.no/lov/2017-06-16-51).
 
 En søker som mener seg forbigått på et usaklig grunnlag vil kunne reise sak for domstolene. Søksmål bør reises innen rimelig tid etter at ansettelsesvedtaket ble gjort kjent for vedkommende, men det løper ingen formell søksmålsfrist, se [tvisteloven § 1-3 andre ledd](https://lovdata.no/lov/2005-06-17-90/%C2%A71-3). Dersom det går svært lang tid, vil retten kunne komme til at saksøker ikke (lenger) har rettslig interesse i å få prøvd saken. Selv om saksøker skulle få dom for at ansettelsesvedtaket var ugyldig, vil det ikke få noen betydning for den søkeren som ble ansatt i stillingen. Er vilkårene oppfylt, vil saksøker imidlertid kunne bli tilkjent erstatning for det tap vedkommende måtte ha lidt.
-
-buttonsBar: k2-3-14
 
 ## 2.3.14 Maler og veiledning for ansettelsesprosessen
 

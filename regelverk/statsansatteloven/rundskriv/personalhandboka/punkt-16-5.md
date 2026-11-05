@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_16-5"
 lagt_inn: "2026-11-05"
 punkt: "16.5"
 ---
 
 # Statens personalhåndbok punkt 16.5 Feriepenger
-
-buttonsBar: k16-5-1
 
 ## 16.5.1 Feriepengegrunnlaget
 
@@ -24,8 +22,6 @@ For arbeidstakere med full opptjening som avtaler overføring eller får overfø
 
 Hvis arbeidstakeren ved en feil har fått utbetalt for mye lønn, skal det ikke beregnes feriepenger av det feilaktige utbetalte beløpet selv om arbeidsgiveren frafaller krav om tilbakebetaling.
 
-buttonsBar: k16-5-2
-
 ## 16.5.2 Prosentsatsen
 
 I staten skal det beregnes feriepenger med 12 prosent av feriepengegrunnlaget, se [hovedtariffavtalene punkt 6](https://lovdata.no/tariff/spha-91/kap6) nr. 3. Dette overstiger den alminnelige prosentsatsen etter [ferieloven](https://lovdata.no/lov/1988-04-29-21) som er på 10,2 prosent.
@@ -38,8 +34,6 @@ Arbeidstakere over 60 år kan motsette seg avvikling av deler av ekstraferien de
 
 Arbeidstakere over 60 år kan bare motsette seg avvikling av ferie «i den utstrekning» feriepengene ikke dekker lønnsbortfallet. Det bør på denne bakgrunn beregnes hvor mange dager av ekstraferien som feriepengene fullt ut vil kompensere, slik at det er klart hvor mange dager ferie arbeidstakeren kan motsette seg å avvikle.
 
-buttonsBar: k16-5-3
-
 ## 16.5.3 Opptjening av feriepenger under sykdom, foreldrepermisjon mv.
 
 [Ferieloven § 10 nr. 4](https://lovdata.no/lov/1988-04-29-21/%C2%A710) om opptjening av feriepenger under sykdom, foreldrepermisjon mv. gjelder bare arbeidstakere i staten som ikke har opptjent rett til lønn etter hovedtariffavtalene under fødselspermisjon, se [hovedtariffavtalene § 19](https://lovdata.no/tariff/spha-91/%C2%A719). I disse tilfellene er det NAV lokalt som utbetaler foreldrepenger og feriepenger. Arbeids- og velferdsdirektoratet har opplyst at det kun utbetales feriepenger for lovfestet ferie, ikke avtalefestet ferie.
@@ -48,13 +42,9 @@ I den utstrekning arbeidstakeren har krav på lønn fra arbeidsgiveren enten med
 
 Under ulønnede permisjoner som ikke er nevnt i [ferieloven](https://lovdata.no/lov/1988-04-29-21), tjener arbeidstakeren ikke opp rett til feriepenger i permisjonstiden. Dette gjelder for eksempel for studiepermisjoner uten lønn eller permisjoner for å overta annen stilling mv. Under studiepermisjon og andre permisjoner med full eller redusert lønn, skal lønnen inngå i feriepengegrunnlaget. Tilsvarende gjelder for avtalefestet ferie.
 
-buttonsBar: k16-5-4
-
 ## 16.5.4 Opptjening av feriepenger under militær og sivil plikttjeneste
 
 [Ferieloven § 10 nr. 5](https://lovdata.no/lov/1988-04-29-21/%C2%A710) bestemmer at arbeidstaker som har arbeidet minst 3 måneder hos en arbeidsgiver opptjener feriepenger hos denne under ulønnet permisjon for å avtjene militær og sivil plikttjeneste. Denne bestemmelsen får virkning for arbeidstakere som har arbeidet mellom 3 og 6 måneder før de får ulønnet permisjon for å avtjene slik tjeneste. Arbeidstakere som har minst 6 måneder forutgående sammenhengende tjeneste i det statlige tariffområdet vil få lønn etter [hovedtariffavtalene § 21](https://lovdata.no/tariff/spha-91/%C2%A721) under militærtjeneste, tjeneste i sivilforsvaret og pliktig polititjeneste. I [hovedtariffavtalene § 21 nr. 4](https://lovdata.no/tariff/spha-91/%C2%A721) er det fastsatt at feriepenger opptjenes under militærtjeneste som om arbeidstakeren var i ordinært arbeid. Arbeidstakere som bare får utbetalt 1/3 av lønnen etter [hovedtariffavtalene § 21 nr. 2](https://lovdata.no/tariff/spha-91/%C2%A721) får også beregnet feriepenger som om de hadde hatt full lønn under tjenesten.
-
-buttonsBar: k16-5-5
 
 ## 16.5.5 Utbetaling og beregning av feriepenger
 
@@ -86,13 +76,9 @@ Arbeidstaker med 8 måneders opptjening vil få lønn under ferie i 20 virkedage
 
 Arbeidstaker som arbeider deltid vil få betalt ferie i det antall arbeidsdager som vedkommende har i løpet av en periode på 30 virkedager. En arbeidstaker i 100 prosent stilling kan for eksempel avvikle ferie i 25 arbeidsdager (forutsatt 5 arbeidsdager pr. uke). En annen arbeidstaker i 50 prosent stilling, som for eksempel arbeider fulltid annenhver dag, vil kunne avvikle betalt ferie i 12,5 arbeidsdager. Denne arbeidstakeren vil likevel kunne kreve ferie i en periode på fem uker. Dersom en arbeidstaker i 50 prosent stilling arbeider annenhver uke må arbeidsgiver sørge for at ferien plasseres slik at arbeidstakeren i perioden normalt skulle hatt 12,5 arbeidsdager.
 
-buttonsBar: k16-5-6
-
 ## 16.5.6 Beregning av feriepenger for ansatte som har endret stillingsprosent
 
 For arbeidstaker som er gått over fra deltids- til heltidsstilling eller fra heltids- til deltidsstilling innen juni måned, må feriepengene regnes ut etter [ferieloven § 10 nr. 2](https://lovdata.no/lov/1988-04-29-21/%C2%A710) og [hovedtariffavtalene punkt 6](https://lovdata.no/tariff/spha-91/kap6). For å beregne antall feriedager med lønn, se [beregning av lønn og trekk for kortvarige permisjoner](https://www.regjeringen.no/no/tema/arbeidsliv/Statlig-arbeidsgiverpolitikk/lonn-og-tariff-i-staten/lonnstabellen/beregning-av-timelonn-og-trekk-for-kortvarige-permisjoner/id2555281/).
-
-buttonsBar: k16-5-7
 
 ## 16.5.7 Utbetaling av feriepenger for ikke-avviklet ferie
 
@@ -109,8 +95,6 @@ Bestemmelsen om overføring av ferie etter [ferieloven § 7 nr. 3 andre ledd](ht
 For FN-personell som returnerer til vanlig tjeneste i staten, og ved første årsskifte ikke har avviklet ferie, skal den ikke-avviklede ferien enten avtales overført til det påfølgende ferieår med hjemmel i [ferieloven § 7 nr. 3 første ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A77) og [hovedtariffavtalene punkt 6](https://lovdata.no/tariff/spha-91/kap6) nr. 4 og/eller overføres til det påfølgende ferieår med hjemmel i [ferieloven § 7 nr. 3 andre ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A77).
 
 Arbeidstaker som har vært syk store deler av ferieåret, og av den grunn ikke har fått avviklet all ferien, vil få overført ferie til det påfølgende ferieår etter [ferieloven § 7 nr. 3 andre ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A77). Se også [særavtale om ferie for statsansatte](https://lovdata.no/tariff/spha-4) § 2 note 3.
-
-buttonsBar: k16-5-8
 
 ## 16.5.8 Utbetaling av feriepenger ved opphør av arbeidsforholdet
 
@@ -158,13 +142,9 @@ Dersom en arbeidstaker går ut i ulønnet permisjon, vil vedkommende ikke ha kra
 
 [Ferieloven § 11 nr. 3 andre ledd](https://lovdata.no/lov/1988-04-29-21/%C2%A711) gir arbeidsgiver anledning til å trekke tilbake 1,4 prosent av det feriepengegrunnlaget arbeidstakeren tjente opp i det forkortede opptjeningsåret 1. mai – 31. desember 1988. Bestemmelsen ble gitt som en overgangsordning i forbindelse med det forkortede opptjeningsåret. I staten foretas ikke slikt trekk etter 1. oktober 1996.
 
-buttonsBar: k16-5-9
-
 ## 16.5.9 Utbetaling av feriepenger ved arbeidskamp
 
 Ved lovlig streik eller lockout skal det utbetales ferielønn på vanlig måte hvis det er eller blir fastsatt at arbeidstakeren skal ha ferie i en slik periode. Ved slik utbetaling av ferielønn regnes ferien for å være avviklet, selv om den faller sammen med fraværet på grunn av arbeidskamp.
-
-buttonsBar: k16-5-10
 
 ## 16.5.10 Utbetaling av feriepenger ved dødsfall
 
@@ -172,13 +152,9 @@ Ved dødsfall skal feriepengene beregnes på samme måte som om arbeidstakeren s
 
 Det skal ikke beregnes feriepenger av engangsbeløpet de etterlatte har krav på ved dødsfall etter [hovedtariffavtalene § 23](https://lovdata.no/tariff/spha-91/%C2%A723).
 
-buttonsBar: k16-5-11
-
 ## 16.5.11 Utbetalingsmåte, trekk i feriepenger mv.
 
 Når det gjelder utbetalingsmåte og adgangen til trekk i feriepenger, skal feriepenger behandles som en del av lønnen, og reglene som gjelder for utbetaling og trekk i lønn skal derfor legges til grunn, se [arbeidsmiljøloven § 14-15](https://lovdata.no/lov/2005-06-17-62/%C2%A714-15).
-
-buttonsBar: k16-5-12
 
 ## 16.5.12 Forskuddstrekk i feriepenger
 

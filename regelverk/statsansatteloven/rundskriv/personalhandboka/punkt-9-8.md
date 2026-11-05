@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_9-8"
 lagt_inn: "2026-11-05"
 punkt: "9.8"
@@ -10,8 +10,6 @@ punkt: "9.8"
 
 Etter at saken har vært forelagt Stortinget, se [St.meld. nr. 9 (1969–1970)](https://www.stortinget.no/no/Saker-og-publikasjoner/Stortingsforhandlinger/Lesevisning/?p=1969-70&paid=3&wid=a&psid=DIVL1894&pgid=a_1139) (stortinget.no), er det fastsatt følgende bestemmelser om adgangen til å oppnevne eller foreslå oppnevnt embets- og tjenestemenn i styrer og råd mv.^​1:
 
-buttonsBar: k9-8-1
-
 ## [9.8] § 1
 
 Disse bestemmelser gjelder for styrer, råd, nemnder, utvalg, kommisjoner, representantskap, komiteer eller andre organer der staten kan oppnevne eller foreslå oppnevnt eller valgt formann, varaformann, ett eller flere medlemmer, varamenn eller sekretær.
@@ -19,8 +17,6 @@ Disse bestemmelser gjelder for styrer, råd, nemnder, utvalg, kommisjoner, repre
 Oppnevning eller valg av medlemmer uten stemmerett (observatør) omfattes ikke av reglene.
 
 Unntatt fra bestemmelsene er organer som utelukkende er tillagt utredningsoppgaver eller konsultative eller koordinerende oppgaver uten avgjørelses- eller kontrollmyndighet.
-
-buttonsBar: k9-8-2
 
 ## [9.8] § 2
 
@@ -31,25 +27,17 @@ Til verv som er nevnt i § 1 første ledd, må ikke oppnevnes eller foreslås va
 - c. kontroll eller tilsyn med vedkommende organs virksomhet,
 - d. andre forhold av vesentlig betydning for vedkommende organ, eller for noen hvis konkurransemessige stilling eller interesse for øvrig i vesentlig grad berøres av organets virksomhet.
 
-buttonsBar: k9-8-3
-
 ## [9.8] § 3
 
 Til verv som er nevnt i § 1 første ledd, i selskaper eller forretningsdrivende bedrifter knyttet til offentlig eller privat næringsvirksomhet, må ikke oppnevnes eller foreslås valgt noen embets- eller tjenestemann ansatt i et departement eller i annet sentraladministrativt organ, som regelmessig behandler saker av vesentlig betydning for selskapet eller bedriften eller for vedkommende bransje.
-
-buttonsBar: k9-8-4
 
 ## [9.8] § 4
 
 Hvor §§ 2 og 3 ikke er til hinder for oppnevnelse eller forslag til valg, må særskilt vurderes om arbeidsbyrden for embets- eller tjenestemannen gjør det forsvarlig at vedkommende påtar seg vervet. Det departementet hvor vedkommende er ansatt, skal gis anledning til å uttale seg.
 
-buttonsBar: k9-8-5
-
 ## [9.8] § 5
 
 Hvor særlige forhold i det enkelte tilfelle gjør det påkrevet, kan Kongen gjøre unntak fra reglene i §§ 2 og 3.
-
-buttonsBar: k9-8-6
 
 ## [9.8] § 6
 

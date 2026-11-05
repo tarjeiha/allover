@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_4-3"
 lagt_inn: "2026-11-05"
 punkt: "4.3"
@@ -9,8 +9,6 @@ punkt: "4.3"
 # Statens personalhåndbok punkt 4.3 Fleksible arbeidstidsordninger
 
 Se [hovedtariffavtalene § 7](https://lovdata.no/tariff/spha-91/%C2%A77) nr. 6, 7, 8 og 9 og [arbeidsmiljøloven § 10-5](https://lovdata.no/lov/2005-06-17-62/%C2%A710-5).
-
-buttonsBar: k4-3-1
 
 ## 4.3.1 Generelt
 
@@ -22,13 +20,9 @@ Arbeidsgiver og tillitsvalgte lokalt kan iverksette forsøksordninger om arbeids
 
 Arbeidstakere kan ha rett til individuelle fleksible arbeidstidsordninger etter bestemmelsen i [arbeidsmiljøloven § 10-2 tredje ledd](https://lovdata.no/lov/2005-06-17-62/%C2%A710-2). Denne retten er uavhengig av om virksomheten følger den statlige fleksitidsavtalen.
 
-buttonsBar: k4-3-2
-
 ## 4.3.2 Særavtale om fleksibel arbeidstid i staten
 
 [Særavtale om fleksibel arbeidstid i staten](https://lovdata.no/tariff/spha-3) er en ordning hvor arbeidstaker har mulighet til å innarbeide mertid – utenom ordinær arbeidstid – som senere kan avspaseres. Fleksibel arbeidstid er i utgangspunktet en gjennomsnittsberegnet arbeidstidsordning over en bestemt tidsperiode som ved periodens slutt skal vise et tilnærmet nullregnskap. Se nærmere om særavtalen og departementets kommentarer til denne.
-
-buttonsBar: k4-3-3
 
 ## 4.3.3 Redusert arbeidstid
 

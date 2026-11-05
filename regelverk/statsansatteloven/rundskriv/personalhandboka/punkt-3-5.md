@@ -1,14 +1,12 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_3-5"
 lagt_inn: "2026-11-05"
 punkt: "3.5"
 ---
 
 # Statens personalhåndbok punkt 3.5 Skriftlig advarsel og ordensstraff
-
-buttonsBar: k3-5-1
 
 ## 3.5.1 Skriftlig advarsel
 
@@ -20,11 +18,7 @@ En advarsel skal være en markering fra arbeidsgiver for uønsket handlemåte ho
 
 En advarsel vil kunne være et viktig grunnlagsmateriale for eventuelle senere reaksjoner som ordensstraff, oppsigelse eller avskjed. I slike saker vil det være avgjørende å kunne dokumentere at det har vært en oppfølging av arbeidstaker før det treffes vedtak om strengere reaksjoner. En tidligere advarsel vil derfor være en del av totalvurderingen for å ilegge en strengere reaksjon ved en senere anledning.
 
-buttonsBar: k3-5-2
-
 ## 3.5.2 Ordensstraff
-
-buttonsBar: k3-5-2-1
 
 ### 3.5.2.1 Forhold som kan føre til ordensstraff
 
@@ -32,13 +26,9 @@ Ordensstraff er en reaksjonsform som kan ilegges en statsansatt eller en embetsm
 
 Etter [statsansatteloven § 25 første ledd bokstav b](https://lovdata.no/lov/2017-06-16-67/%C2%A725) kan en statsansatt eller embetsmann ilegges ordensstraff for utilbørlig adferd i eller utenfor tjenesten, som skader den aktelse eller tillit som er nødvendig for stillingen, tjenesten eller embetet. Ordensstraff kan også benyttes når forholdet er graverende nok til objektivt sett å begrunne avskjed, men ansettelsesmyndigheten ikke finner det nødvendig å reagere med avskjed. Det er også her et krav om at den ansatte forsto eller burde forstått at adferden var utilbørlig i relasjon til stillingen.
 
-buttonsBar: k3-5-2-2
-
 ### 3.5.2.2 Arbeidstakere som ikke kan ilegges ordensstraff
 
 Ordensstraff kan ikke ilegges embetsmenn som er dommere eller statsansatte og embetsmenn som er underlagt annen disiplinærmyndighet, se [statsansatteloven § 25 femte ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A725). Unntaket for dommere er begrunnet i domstolenes uavhengighet. Militære embetsmenn kan refses disiplinært etter [lov om militær disiplinærmyndighet](https://lovdata.no/lov/1988-05-20-32) og [lov om politimyndighet i forsvaret](https://lovdata.no/lov/1988-05-20-33). Etter [domstolloven kapittel 10](https://lovdata.no/lov/1915-08-13-5/kap10) og [12](https://lovdata.no/lov/1915-08-13-5/kap12) kan dommere og andre ansatte straffes med kritikk, advarsel eller bøter, og ilegges erstatning i forbindelse med rettergang.
-
-buttonsBar: k3-5-2-3
 
 ### 3.5.2.3 Reaksjoner som kan ilegges som ordensstraff
 
@@ -49,8 +39,6 @@ Tap av ansiennitet fra én måned til to år kan ilegges både statsansatte og e
 For statsansatte kan en ordensstraff også innebære omplassering til annen stilling, enten varig eller for en begrenset periode, se [statsansatteloven § 25 andre ledd bokstav b](https://lovdata.no/lov/2017-06-16-67/%C2%A725). Denne formen for reaksjon vil først og fremst være aktuell når forseelsen eller bruddet på tjenesteplikten er så graverende at arbeidstaker bør fjernes fra stillingen. Normalt vil arbeidsgiver først vurdere om forholdet er så alvorlig at den statsansatte bør avskjediges etter [statsansatteloven § 26](https://lovdata.no/lov/2017-06-16-67/%C2%A726), eller om det er tilstrekkelig å ilegge en mildere reaksjon, i form av ordensstraff, se dom inntatt i [Rt-2002-273](https://lovdata.no/avgjorelse/hr-2001-125-125a). En omplassering i form av ordensstraff kan innebære at vedkommende omplasseres til en lavere stilling eller til en annen lignende stilling. Nedsettelse i stilling innebærer at den statsansatte kan settes ned i både stillingsnivå og lønn. Reaksjonen må imidlertid ikke være så sterk at det klart innebærer oppsigelse eller avskjed fra arbeidsforholdet.
 
 Skriftlig irettesettelse kan etter [statsansatteloven](https://lovdata.no/lov/2017-06-16-67) bare gis som ordensstraff til embetsmenn, se [statsansatteloven § 25 tredje ledd bokstav a](https://lovdata.no/lov/2017-06-16-67/%C2%A725). Slike irettesettelser må gis av rett myndighet, se [statsansatteloven § 31 andre ledd](https://lovdata.no/lov/2017-06-16-67/%C2%A731). Kongens myndighet på dette punkt er delegert til det enkelte fagdepartement.
-
-buttonsBar: k3-5-2-4
 
 ### 3.5.2.4 Lagring av ordensstraff i personalmappe
 

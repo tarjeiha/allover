@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_21-1"
 lagt_inn: "2026-11-05"
 punkt: "21.1"
@@ -9,8 +9,6 @@ punkt: "21.1"
 # Statens personalhåndbok punkt 21.1 Retningslinjer for tjenestemenns lønns- og arbeidsvilkår ved tjeneste i utlandet
 
 Kommunal- og moderniseringsdepartementet (nåværende Digitaliserings- og forvaltningsdepartementet) har i 2016 utarbeidet retningslinjer om lønns- og arbeidsvilkår ved tjeneste i utlandet, i samarbeid med hovedsammenslutningene i staten.
-
-buttonsBar: k21-1-1
 
 ## 1. Bakgrunn
 
@@ -26,19 +24,13 @@ Statlige ledere på lederlønnskontrakt og dommere med særskilt kontrakt omfatt
 
 Dersom arbeidstakere skal arbeide i utlandet i mer enn en måned, skal det inngås en skriftlig arbeidsavtale før avreise, se [aml. § 14-7](https://lovdata.no/lov/2005-06-17-62/%C2%A714-7). Minimumskravene til hva en arbeidsavtale skal inneholde fremgår av [aml. § 14-6](https://lovdata.no/lov/2005-06-17-62/%C2%A714-6), se også [§ 14-8](https://lovdata.no/lov/2005-06-17-62/%C2%A714-8) om endringer i arbeidsforholdet. Kravet om egen arbeidsavtale gjelder ikke ved tjeneste i utlandet for kortere tid enn en måned.
 
-buttonsBar: k21-1-2
-
 ## 2. Særavtaler
 
 Punktet inneholder oversikt over sentrale og lokale særavtaler som gjelder ved tjeneste i utlandet.
 
-buttonsBar: k21-1-2-1
-
 ### 2.1 Sentral særavtale for reiser utenlands for statens regning
 
 Særavtalen gjelder for reiser utenlands for statens regning. Etter avtalens § 1 nr. 3 gjelder endrede satser ved sammenhengende opphold på samme oppdragssted ut over 28 dager.
-
-buttonsBar: k21-1-2-2
 
 ### 2.2 Særavtale om tillegg, ytelser og godtgjørelser i utenrikstjenesten (UD-avtalen)
 
@@ -46,15 +38,11 @@ Særavtalen er inngått i Utenriksdepartementet på grunnlag av sentral protokol
 
 Utenriksdepartementet tolker UD-avtalen og gir de øvrige departementene informasjon og råd om anvendelsen av avtalen. Dette følger av brev fra daværende AAD av 14. april 2000 som etablerte grunnlaget for ordningen.
 
-buttonsBar: k21-1-2-3
-
 ### 2.3 Særavtale om økonomiske vilkår for personell som tjenestegjør ved stasjoner, NATO-staber og andre enheter i utlandet (FD-avtalen)
 
 På grunnlag av protokollene av 26.10.01 og 18.09.03 er det i Forsvarsdepartementet inngått egen særavtale om tilpasning av forsvarssektoren til UD-avtalen. Avtalen gjelder økonomiske vilkår for personell som tjenestegjør ved stasjoner, NATO-staber og andre enheter i utlandet. Avtalen omfatter militære og sivile regulativlønte tjenestemenn tilsatt, lønnet og utsendt av Forsvarsdepartementet eller virksomheter under Forsvarsdepartementet.
 
 Det er også inngått egen arbeidstidsavtale for forsvaret (ATF) vedrørende aktiviteter som i henhold til lov, forskrifter og avtaler faller utenfor [arbeidsmiljøloven](https://lovdata.no/lov/2005-06-17-62). Denne arbeidstidsavtalen kan komme til anvendelse ved tjeneste i utlandet.
-
-buttonsBar: k21-1-2-4
 
 ### 2.4 Særavtaler for tjenestegjøring i internasjonale operasjoner (INTOPS-avtalen)
 
@@ -62,65 +50,43 @@ På grunnlag av protokollene av 26.10.01 og 18.09.03 er det også inngått egen 
 
 Egne tilpasningsavtaler til denne avtalen er også gjort i Utenriksdepartementet og i Justisdepartementet for personell under disse departementer som tjenestegjør i tilsvarende operasjoner.
 
-buttonsBar: k21-1-2-5
-
 ### 2.5 Særavtale for tjenestemenn/personell under Justis- og beredskapsdepartementet (JD-avtalen)
 
 På grunnlag av protokollene av 26.10.01 og 18.09.03 er det i Justisdepartementet inngått særavtale om tilpasning av lønns- og arbeidsvilkår for tjenestemenn i justissektoren til UD-avtalen. Dette er gjort i én særavtale sammen med INTOPS-avtalen, Særavtale for tjenestegjøring i internasjonale operasjoner. Se punkt 2.4.
-
-buttonsBar: k21-1-2-6
 
 ### 2.6 Sentral særavtale for polititjenestemenn som inngår i Utenriksdepartementets utrykningsenhet for krisehåndtering ved ulykker og andre hendelser i utlandet (URE)
 
 Avtalen inneholder godtgjørelse for beredskap i Norge, godtgjørelse ved utrykning til utlandet, samt forsikringsdekning og velferdspermisjon for de polititjenestemenn som har inngått særlig avtale om å inngå i beredskapsstyrken.
 
-buttonsBar: k21-1-3
-
 ## 3. Forsikring ved tjeneste i utlandet
 
 Punktet gir oversikt over hvilke forsikringsordninger i staten som kan komme til anvendelse. Disse forsikringsordninger samordnes.
-
-buttonsBar: k21-1-3-1
 
 ### 3.1 Yrkesskadeforsikringsloven (lov 16. juni 1989 nr. 65)
 
 [Yrkesskadeforsikringsloven](https://lovdata.no/lov/1989-06-16-65) får også anvendelse for personskade påført statens ansatte ved tjeneste i utlandet, se lovens § 1.
 
-buttonsBar: k21-1-3-2
-
 ### 3.2 Forsikringsbestemmelser i hovedtariffavtalen
 
 Hovedtariffavtalens bestemmelser om forsikring i [§ 23](https://lovdata.no/tariff/spha-91/%C2%A723) Gruppeliv og [§ 24](https://lovdata.no/tariff/spha-91/%C2%A724) Yrkesskade får anvendelse ved tjeneste i utlandet.
-
-buttonsBar: k21-1-3-3
 
 ### 3.3 Sentral særavtale for reiser utenlands for statens regning – § 13
 
 I tillegg til de vilkår som fremgår av den individuelle arbeidsavtalen gjelder sentral særavtale for reiser utenlands for statens regning. Tingsskade, ulykkesforsikring og behandling av sykdom/skade er regulert i avtalens § 13. Se også kgl. res. av 10. juni 1983 om erstatning for skade eller tap av private eiendeler i forbindelse med tjenesten. (Denne er erstattet av kongelig resolusjon av 27. oktober 2017. Resolusjonen er omtalt i Statens personalhåndbok (SPH) [punkt 19.6.1](https://lovdata.no/litteratur/sph/kap19.6.1).)
 
-buttonsBar: k21-1-3-4
-
 ### 3.4 Sentral særavtale av 15. november 2017 vedrørende forsikringsordninger ved tjenestegjøring i internasjonale operasjoner
 
 Forsikringsdekningen for personell som tjenestegjør i slike operasjoner er forhøyet og fastsatt i denne avtalen. Særavtalen gir bl.a. forhøyet erstatning etter [hovedtariffavtalens bestemmelser om Gruppeliv i § 23](https://lovdata.no/tariff/spha-91/%C2%A723) og [Yrkesskade i § 24](https://lovdata.no/tariff/spha-91/%C2%A724).
-
-buttonsBar: k21-1-3-5
 
 ### 3.5 Sentral særavtale om forsikrings- og erstatningsordninger for statsansatte på tjenestereise og ved stasjonering i utlandet
 
 I tillegg til den ordinære ulykkesforsikringen har denne særavtalen også bestemmelser om forhøyet ulykkesforsikring ved skade som skyldes terrorhandlinger, krig, naturkatastrofer og kriminalitet. Det samme gjelder for arbeidstaker som oppholder seg eller er på tjenestereise i et område hvor det pågår internasjonale operasjoner. Forhøyet forsikringsdekning gjelder også dersom arbeidstaker inngår i team som er sendt ut på katastrofeoppdrag i utlandet.
 
-buttonsBar: k21-1-4
-
 ## 4. Den individuelle arbeidsavtale ved tjeneste i utlandet
 
 Punktet inneholder oversikt over arbeidsvilkår i den individuelle arbeidsavtalen.
 
-buttonsBar: k21-1-4-1
-
 ### 4.1 Tjenestemenn på tjenestereise eller som utfører arbeid i utlandet på inntil én måned
-
-buttonsBar: k21-1-4-1-1
 
 #### 4.1.1 Bestemmelser i hovedtariffavtalen
 
@@ -134,8 +100,6 @@ Unntatt er hovedtariffavtalens bestemmelser om arbeidstid inntatt i [fellesbeste
 
 Som følge av at arbeidstiden ved arbeid i utlandet vanligvis adskiller seg fra normal arbeidstid i Norge slik denne er regulert i hovedtariffavtalen er det i punkt 4.1.2 og 4.1.3 fastsatt særlige bestemmelser vedrørende godtgjørelse for pålagt arbeid ut over ordinær arbeidstid, samt godtgjørelse for reisetid.
 
-buttonsBar: k21-1-4-1-2
-
 #### 4.1.2 Godtgjørelse for pålagt arbeid ut over alminnelig arbeidstid
 
 For pålagt og kontrollerbart arbeid ut over 8 timer per døgn (faktisk arbeidet tid/nettotid), utbetales et tillegg til ordinær timelønn på 50 prosent. Arbeidstaker i ledende stilling eller i særlig uavhengig stilling, har som hovedregel ikke rett til slik godtgjørelse, men dette kan likevel gis i særlige tilfeller.
@@ -148,13 +112,9 @@ Turnusarbeid i utlandet godtgjøres på samme måte som når arbeidet utføres i
 
 Oppgaver som innebærer tilstedeværelse ved arrangementer mv. som ikke inngår i det ordinære arbeid, godtgjøres bare når dette er særskilt pålagt eller avtalt på forhånd. Har vedkommende departement eller virksomhet utarbeidet særskilte retningslinjer om dette, skal disse følges.
 
-buttonsBar: k21-1-4-1-3
-
 #### 4.1.3 Reisetid
 
 Det gis kompensasjon for reisetid mv. i samsvar med sentral særavtale for reiser utenlands for statens regning § 11 (Utenlandsregulativet).
-
-buttonsBar: k21-1-4-2
 
 ### 4.2 Tjenestemenn på tjenestereise eller som utfører arbeid i utlandet utover én måned
 
@@ -164,19 +124,13 @@ Før utreise skal det etter [arbeidsmiljøloven § 14-7](https://lovdata.no/lov/
 
 Hvilke materielle bestemmelser i [hovedtariffavtalen](https://lovdata.no/tariff/spha-91) som inngår i den arbeidsavtale som opprettes i medhold av [arbeidsmiljøloven § 14-7](https://lovdata.no/lov/2005-06-17-62/%C2%A714-7) avtales med vedkommende tjenestemann. Utgangspunktet er at punkt 4.1 gjelder med de tilpasninger som er nødvendig for utførelsen av arbeidet/oppdraget.
 
-buttonsBar: k21-1-4-3
-
 ### 4.3 Tjenestemenn som stasjoneres og bosetter/oppholder seg i utlandet ut over 6 måneder
-
-buttonsBar: k21-1-4-3-1
 
 #### 4.3.1 Folkeregisterloven og forskriften
 
 Etter [folkeregisterloven (lov 16. januar 1970 nr. 1) § 8 første ledd](https://lovdata.no/lov/1970-01-16-1/%C2%A78) skal arbeidstaker melde fra til folkeregistermyndighet hvis oppholdet i utlandet overstiger 6 måneder. På grunnlag av meldingen avgjør denne myndighet hvor arbeidstaker anses å ha sin bolig under utenlandsoppholdet.
 
 For noen arbeidstakergrupper er boligspørsmålet fastsatt i forskrift. Etter [forskrift om folkeregistrering § 4-5 nr. 1](https://lovdata.no/forskrift/2007-11-09-1268/%C2%A74-5) anses norske diplomater som blir utsendt til stillingen av norsk utenriksmyndighet som fortsatt bosatt i Norge. Det samme gjelder militært personell som blir beordret til tjeneste i utlandet. Se forskriften § 4-5 nr. 2.
-
-buttonsBar: k21-1-4-3-2
 
 #### 4.3.2 Særlig om nasjonale eksperter og andre tjenestemenn som stasjoneres i utlandet ut over 6 måneder
 

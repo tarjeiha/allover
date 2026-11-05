@@ -1,6 +1,6 @@
 ---
 rundskriv: "Statens personalhåndbok"
-utgave: "Statens personalhåndbok - 1 Innledning"
+utgave: "Statens personalhåndbok"
 kilde: "https://lovdata.no/dokument/SPH/sph/KAPITTEL_4-1"
 lagt_inn: "2026-11-05"
 punkt: "4.1"
@@ -18,27 +18,19 @@ De spesielle reguleringene som gjelder arbeidstid i staten, fremgår av hovedtar
 
 Det er også laget et særskilt hefte om [«Arbeidstid med hovedfokus på skift- og turnusarbeid»](https://www.regjeringen.no/globalassets/upload/fad/vedlegg/lonns--og-personalpolitikk/samarbeid/arbeidstid_skift_turnus.pdf).
 
-buttonsBar: k4-1-1
-
 ## 4.1.1 Sommertid/vintertid
 
 Statlige virksomheter kan benytte sommertid, som innebærer kortere arbeid i perioden 15. mai til 14. september. Den kortere arbeidstid i denne perioden må da kompenseres med en tilsvarende forlengelse ellers i året slik at arbeidstiden per uke – regnet i gjennomsnitt over hele året – ikke blir kortere enn før.
 
-buttonsBar: k4-1-2
-
 ## 4.1.2 Arbeidstid jul- og nyttårsaften og romjulen
 
 I den utstrekning tjenstlige hensyn tillater det, skal arbeidstakeren få fri fra kl. 12.00 jul- og nyttårsaften, se [hovedtariffavtalene § 16](https://lovdata.no/tariff/spha-91/%C2%A716). I sentraladministrasjonen begynner kontortiden kl. 10.00 mellom jul og nyttår der hvor tjenesteforholdene tillater det, se departementets kommentarer til hovedtariffavtalene § 16 note 2.
-
-buttonsBar: k4-1-3
 
 ## 4.1.3 Hvile/spisepauser
 
 Hvilepausen er som regel kombinert med spisepausen og skal som utgangspunkt ikke regnes med i arbeidstiden. Unntak kan gjøres dersom arbeidstakeren ikke fritt kan forlate arbeidsstedet i pausen, eller der hvor arbeidsgiveren lar arbeidstakerne ha spisepause under arbeidets gang slik at arbeidstakerne må oppholde seg på arbeidsplassen. I slike tilfeller skal pausen anses som en del av arbeidstiden.
 
 [Reglement for personalforvaltningen i departementene § 13](https://www.regjeringen.no/no/dokumenter/personalreglement-for-departementene2/id2662349/) fastsetter at alle embetsmenn og statsansatte i departementene har rett til 20 minutter spisepause i arbeidstiden.
-
-buttonsBar: k4-1-4
 
 ## 4.1.4 Skift- og turnusarbeid
 
