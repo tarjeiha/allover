@@ -91,6 +91,10 @@ KILDER = {
     },
 }
 
+# Knappetekst og ikonnavn som står igjen som egne linjer etter konverteringen.
+RESTER = re.compile(r"Til toppen|Skriv ut|Del|Lukk|east|west|north|south|close|menu"
+                    r"|(?:arrow|expand|chevron|keyboard_arrow)_\w+", re.I)
+
 BASE = ""  # nettstedet som hentes nå, brukes når relative lenker gjøres fullstendige
 
 
@@ -247,7 +251,7 @@ def markdown(el) -> str:
                 gå(barn)
 
     gå(el)
-    return "\n\n".join(b for b in blokker if b.strip()).strip()
+    return "\n\n".join(b for b in blokker if b.strip() and not RESTER.fullmatch(b.strip())).strip()
 
 
 def les_side(url: str, velgere: list) -> tuple:
