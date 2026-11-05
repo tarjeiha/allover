@@ -52,13 +52,13 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Kapittel 2. Arbeids- og velferdsetaten**
 
 - § 3. Arbeids- og velferdsetaten – `lov/par-3.md`
-- § 4. Arbeids- og velferdsetatens hovedoppgaver – `lov/par-4.md`
-- § 4 a. Behandling av personopplysninger – `lov/par-4a.md`
+- § 4. Arbeids- og velferdsetatens hovedoppgaver – `lov/par-4.md` (rundskriv: `rundskriv/rundskriv-r30-00/par-4.md`)
+- § 4 a. Behandling av personopplysninger – `lov/par-4a.md` (rundskriv: `rundskriv/rundskriv-r30-00/par-4a.md`)
 - § 5. Delegering av myndighet – `lov/par-5.md`
 - § 6. Brukermedvirkning – `lov/par-6.md`
-- § 7. Taushetsplikt – `lov/par-7.md`
+- § 7. Taushetsplikt – `lov/par-7.md` (rundskriv: `rundskriv/rundskriv-r30-00/par-7.md`)
 - § 7 a. Tilgang til opplysninger fra Folkeregisteret – `lov/par-7a.md`
-- § 8. Gjensidig bistand mellom Arbeids- og velferdsetaten og sosialtjenesten – `lov/par-8.md`
+- § 8. Gjensidig bistand mellom Arbeids- og velferdsetaten og sosialtjenesten – `lov/par-8.md` (rundskriv: `rundskriv/rundskriv-r30-00/par-8.md`)
 - § 9. Statens partsstilling – `lov/par-9.md`
 - § 10. Beredskap i Arbeids- og velferdsetaten – `lov/par-10.md`
 - § 11. Beordring ved krise i freds- og krigstid – `lov/par-11.md`
@@ -68,10 +68,10 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 13. Felles lokale kontorer – `lov/par-13.md`
 - § 14. Samarbeid og oppgavedeling – `lov/par-14.md`
-- § 14 a. Vurdering av behov for bistand for å beholde eller skaffe seg arbeid og rett til aktivitetsplan – `lov/par-14a.md`
+- § 14 a. Vurdering av behov for bistand for å beholde eller skaffe seg arbeid og rett til aktivitetsplan – `lov/par-14a.md` (rundskriv: `rundskriv/rundskriv-r30-00/par-14a.md`)
 - § 15. Samarbeid med brukeren og individuell plan – `lov/par-15.md`
-- § 15 a. Samarbeid med andre offentlige organer og tjenesteytere – `lov/par-15a.md`
-- § 16. Behandling av personopplysninger ved det felles lokale kontoret og informasjonsdeling med Arbeids- og velferdsetatens kontaktsentertjeneste – `lov/par-16.md`
+- § 15 a. Samarbeid med andre offentlige organer og tjenesteytere – `lov/par-15a.md` (rundskriv: `rundskriv/rundskriv-r30-00/par-15a.md`)
+- § 16. Behandling av personopplysninger ved det felles lokale kontoret og informasjonsdeling med Arbeids- og velferdsetatens kontaktsentertjeneste – `lov/par-16.md` (rundskriv: `rundskriv/rundskriv-r30-00/par-16.md`)
 
 **Kapittel 4. Sluttbestemmelser**
 
@@ -169,4 +169,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 1. Elektronisk tilgang til opplysninger fra Arbeids- og velferdsetaten – `forskrifter/innkrevingsmyndigheten-tilgang/par-1.md`
 - § 2. Hvem kan gis elektronisk tilgang – `forskrifter/innkrevingsmyndigheten-tilgang/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/innkrevingsmyndigheten-tilgang/par-3.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/rundskriv-r30-00/` – 9 filer, start med `rundskriv/rundskriv-r30-00/oversikt.md`
 <!-- AUTO-SLUTT -->

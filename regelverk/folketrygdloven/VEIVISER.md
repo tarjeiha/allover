@@ -141,7 +141,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Kapittel 1. Formål og definisjoner m.m.**
 
 - § 1-1. Formål – `lov/par-1-1.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-1.md`)
-- § 1-2. Vern mot private avtaler – `lov/par-1-2.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-2.md`)
+- § 1-2. Vern mot private avtaler – `lov/par-1-2.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-2.md`, `rundskriv/rundskriv-r08-00/par-1-2.md`)
 - § 1-3. Forholdet til EØS-avtalens hoveddel – `lov/par-1-3.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-3.md`)
 - § 1-3 a. Gjennomføring av trygdeforordningen og gjennomføringsforordningen – `lov/par-1-3a.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-3a.md`)
 - § 1-3 b. Andre folkerettslige bestemmelser om trygdekoordinering – `lov/par-1-3b.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-3b.md`)
@@ -149,7 +149,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 1-5. Sivilstand – `lov/par-1-5.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-5.md`)
 - § 1-6. Barn – `lov/par-1-6.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-6.md`)
 - § 1-7. (Opphevet) – `lov/par-1-7.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-7.md`)
-- § 1-8. Arbeidstaker – `lov/par-1-8.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-8.md`)
+- § 1-8. Arbeidstaker – `lov/par-1-8.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-8.md`, `rundskriv/rundskriv-r08-00/par-1-8.md`)
 - § 1-9. Frilanser – `lov/par-1-9.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-9.md`)
 - § 1-10. Selvstendig næringsdrivende – `lov/par-1-10.md` (rundskriv: `rundskriv/rundskriv-r01-00/par-1-10.md`)
 
@@ -192,7 +192,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 3-13. Opptjening av pensjonspoeng – hovedregler – `lov/par-3-13.md` (rundskriv: `rundskriv/rundskriv-r03-02/par-3-13.md`)
 - § 3-14. Opptjening av pensjonspoeng for medlemmer som mottar uføretrygd – `lov/par-3-14.md` (rundskriv: `rundskriv/rundskriv-r03-02/par-3-14.md`)
 - § 3-15. Pensjonsgivende inntekt – `lov/par-3-15.md` (rundskriv: `rundskriv/rundskriv-r03-02/par-3-15.md`)
-- § 3-16. Godskriving av pensjonspoeng for omsorgsarbeid – `lov/par-3-16.md` (rundskriv: `rundskriv/rundskriv-r03-02/par-3-16.md`)
+- § 3-16. Godskriving av pensjonspoeng for omsorgsarbeid – `lov/par-3-16.md` (rundskriv: `rundskriv/rundskriv-r03-02/par-3-16.md`, `rundskriv/rundskriv-r06-00/par-3-16.md`)
 - § 3-17. Fastsetting og godskriving av pensjonspoeng for mottakere av uføretrygd – `lov/par-3-17.md` (rundskriv: `rundskriv/rundskriv-r03-03/par-3-17.md`)
 - § 3-18. Beregning av alderspensjon ved yrkesskade – `lov/par-3-18.md` (rundskriv: `rundskriv/rundskriv-r03-03/par-3-18.md`)
 - § 3-19. Godskriving av pensjonspoeng for mottakere av avtalefestet pensjon – `lov/par-3-19.md` (rundskriv: `rundskriv/rundskriv-r03-03/par-3-19.md`)
@@ -203,194 +203,194 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 3-24. (Opphevet) – `lov/par-3-24.md` (rundskriv: `rundskriv/rundskriv-r03-05/par-3-24.md`)
 - § 3-25. (Opphevet) – `lov/par-3-25.md` (rundskriv: `rundskriv/rundskriv-r03-05/par-3-25.md`)
 - § 3-26. (Opphevet) – `lov/par-3-26.md` (rundskriv: `rundskriv/rundskriv-r03-05/par-3-26.md`)
-- § 3-27. (Opphevet) – `lov/par-3-27.md`
+- § 3-27. (Opphevet) – `lov/par-3-27.md` (rundskriv: `rundskriv/rundskriv-r26-00/par-3-27.md`)
 - § 3-28. (Opphevet) – `lov/par-3-28.md`
 - § 3-29. (Opphevet) – `lov/par-3-29.md`
 - § 3-30. (Opphevet) – `lov/par-3-30.md`
 
 **Kapittel 4. Dagpenger under arbeidsløshet**
 
-- § 4-1. Formål – `lov/par-4-1.md`
+- § 4-1. Formål – `lov/par-4-1.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-1.md`)
 - § 4-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-4-1a.md`
-- § 4-2. Opphold i Norge – `lov/par-4-2.md`
-- § 4-3. Tap av arbeidsinntekt og arbeidstid – `lov/par-4-3.md`
-- § 4-4. Krav til minsteinntekt – `lov/par-4-4.md`
-- § 4-5. Reelle arbeidssøkere – `lov/par-4-5.md`
-- § 4-6. Dagpenger under utdanning, opplæring, etablering av egen virksomhet m.v. – `lov/par-4-6.md`
-- § 4-7. Dagpenger til permitterte – `lov/par-4-7.md`
-- § 4-8. Meldeplikt og møteplikt – `lov/par-4-8.md`
-- § 4-9. Egenandel – `lov/par-4-9.md`
-- § 4-10. Sanksjonsperiode ved selvforskyldt arbeidsløshet – `lov/par-4-10.md`
-- § 4-11. Dagpengegrunnlag – `lov/par-4-11.md`
-- § 4-12. Dagpengenes størrelse – `lov/par-4-12.md`
-- § 4-13. Graderte dagpenger – `lov/par-4-13.md`
-- § 4-14. Ferietillegg – `lov/par-4-14.md`
-- § 4-15. Antall stønadsuker (stønadsperiode) – `lov/par-4-15.md`
-- § 4-16. Gjenopptak av løpende stønadsperiode – `lov/par-4-16.md`
+- § 4-2. Opphold i Norge – `lov/par-4-2.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-2.md`, `rundskriv/rundskriv-r26-00/par-4-2.md`)
+- § 4-3. Tap av arbeidsinntekt og arbeidstid – `lov/par-4-3.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-3.md`)
+- § 4-4. Krav til minsteinntekt – `lov/par-4-4.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-4.md`)
+- § 4-5. Reelle arbeidssøkere – `lov/par-4-5.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-5.md`)
+- § 4-6. Dagpenger under utdanning, opplæring, etablering av egen virksomhet m.v. – `lov/par-4-6.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-6.md`)
+- § 4-7. Dagpenger til permitterte – `lov/par-4-7.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-7.md`)
+- § 4-8. Meldeplikt og møteplikt – `lov/par-4-8.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-8.md`)
+- § 4-9. Egenandel – `lov/par-4-9.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-9.md`)
+- § 4-10. Sanksjonsperiode ved selvforskyldt arbeidsløshet – `lov/par-4-10.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-10.md`)
+- § 4-11. Dagpengegrunnlag – `lov/par-4-11.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-11.md`)
+- § 4-12. Dagpengenes størrelse – `lov/par-4-12.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-12.md`)
+- § 4-13. Graderte dagpenger – `lov/par-4-13.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-13.md`)
+- § 4-14. Ferietillegg – `lov/par-4-14.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-14.md`)
+- § 4-15. Antall stønadsuker (stønadsperiode) – `lov/par-4-15.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-15.md`)
+- § 4-16. Gjenopptak av løpende stønadsperiode – `lov/par-4-16.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-16.md`)
 - § 4-17. (Opphevet) – `lov/par-4-17.md`
-- § 4-18. Dagpenger til fiskere og fangstmenn – `lov/par-4-18.md`
-- § 4-19. Dagpenger etter avtjent verneplikt – `lov/par-4-19.md`
-- § 4-20. Tidsbegrenset bortfall av dagpenger – `lov/par-4-20.md`
-- § 4-21. Bortfall av retten til dagpenger – `lov/par-4-21.md`
-- § 4-22. Bortfall ved streik og lock-out – `lov/par-4-22.md`
-- § 4-23. Bortfall på grunn av alder – `lov/par-4-23.md`
-- § 4-24. Medlem som har fulle ytelser etter folketrygdloven eller avtalefestet pensjon – `lov/par-4-24.md`
-- § 4-25. Samordning med reduserte ytelser fra folketrygden, eller redusert avtalefestet pensjon – `lov/par-4-25.md`
-- § 4-26. Samordning med ytelser utenfor folketrygden – `lov/par-4-26.md`
-- § 4-27. Fellesbestemmelser ved bortfall/samordning – `lov/par-4-27.md`
-- § 4-28. Utestengning – `lov/par-4-28.md`
+- § 4-18. Dagpenger til fiskere og fangstmenn – `lov/par-4-18.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-18.md`)
+- § 4-19. Dagpenger etter avtjent verneplikt – `lov/par-4-19.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-19.md`)
+- § 4-20. Tidsbegrenset bortfall av dagpenger – `lov/par-4-20.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-20.md`)
+- § 4-21. Bortfall av retten til dagpenger – `lov/par-4-21.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-21.md`)
+- § 4-22. Bortfall ved streik og lock-out – `lov/par-4-22.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-22.md`)
+- § 4-23. Bortfall på grunn av alder – `lov/par-4-23.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-23.md`)
+- § 4-24. Medlem som har fulle ytelser etter folketrygdloven eller avtalefestet pensjon – `lov/par-4-24.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-24.md`)
+- § 4-25. Samordning med reduserte ytelser fra folketrygden, eller redusert avtalefestet pensjon – `lov/par-4-25.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-25.md`)
+- § 4-26. Samordning med ytelser utenfor folketrygden – `lov/par-4-26.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-26.md`)
+- § 4-27. Fellesbestemmelser ved bortfall/samordning – `lov/par-4-27.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-27.md`)
+- § 4-28. Utestengning – `lov/par-4-28.md` (rundskriv: `rundskriv/rundskriv-r04-00/par-4-28.md`)
 
 **Kapittel 5. Stønad ved helsetjenester**
 
-- § 5-1. Formål m.m. – `lov/par-5-1.md` (rundskriv: `rundskriv/rundskriv-r05-00/par-5-1.md`)
+- § 5-1. Formål m.m. – `lov/par-5-1.md` (rundskriv: `rundskriv/rundskriv-r05-00/par-5-1.md`, `rundskriv/rundskriv-r05-25/par-5-1.md`)
 - § 5-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-5-1a.md`
 - § 5-2. Medlemskap – `lov/par-5-2.md`
 - § 5-3. Utgiftstak for egenandeler – `lov/par-5-3.md`
-- § 5-4. Legehjelp – `lov/par-5-4.md`
+- § 5-4. Legehjelp – `lov/par-5-4.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-4.md`)
 - § 5-5. Private laboratorier og røntgeninstitutter – `lov/par-5-5.md`
-- § 5-6. Tannlegehjelp – `lov/par-5-6.md`
+- § 5-6. Tannlegehjelp – `lov/par-5-6.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-6.md`)
 - § 5-6 a. Tannpleierhjelp – `lov/par-5-6a.md`
-- § 5-7. Psykologhjelp – `lov/par-5-7.md`
-- § 5-8. Fysioterapi – `lov/par-5-8.md`
-- § 5-9. Behandling hos kiropraktor – `lov/par-5-9.md`
+- § 5-7. Psykologhjelp – `lov/par-5-7.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-7.md`)
+- § 5-8. Fysioterapi – `lov/par-5-8.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-8.md`, `rundskriv/rundskriv-r26-00/par-5-8.md`)
+- § 5-9. Behandling hos kiropraktor – `lov/par-5-9.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-9.md`)
 - § 5-10. Behandling hos logoped og audiopedagog – `lov/par-5-10.md`
 - § 5-10a. Behandling hos ortoptist – `lov/par-5-10a.md`
 - § 5-11. (Opphevet) – `lov/par-5-11.md`
 - § 5-12. Jordmorhjelp – `lov/par-5-12.md`
-- § 5-13. Stønad ved fødsel utenfor institusjon – `lov/par-5-13.md`
-- § 5-14. Viktige legemidler og spesielt medisinsk utstyr m.m. – `lov/par-5-14.md`
+- § 5-13. Stønad ved fødsel utenfor institusjon – `lov/par-5-13.md` (rundskriv: `rundskriv/rundskriv-r05-13/par-5-13.md`)
+- § 5-14. Viktige legemidler og spesielt medisinsk utstyr m.m. – `lov/par-5-14.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-14.md`)
 - § 5-15. Viktige legemidler som også brukes i sykehus – `lov/par-5-15.md`
-- § 5-16. (Opphevet) – `lov/par-5-16.md`
+- § 5-16. (Opphevet) – `lov/par-5-16.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-16.md`)
 - § 5-17. (Opphevet) – `lov/par-5-17.md`
 - § 5-18. (Opphevet) – `lov/par-5-18.md`
 - § 5-19. (Opphevet) – `lov/par-5-19.md`
 - § 5-20. (Opphevet) – `lov/par-5-20.md`
 - § 5-21. Fastlønnstilskott – `lov/par-5-21.md`
-- § 5-22. Bidrag til spesielle formål – `lov/par-5-22.md`
+- § 5-22. Bidrag til spesielle formål – `lov/par-5-22.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-22.md`)
 - § 5-23. Unntak for militærpersoner – `lov/par-5-23.md`
 - § 5-24. Stønad til helsetjenester i utlandet – `lov/par-5-24.md`
 - § 5-24 a. Stønad til helsetjenester i et annet EØS-land – `lov/par-5-24a.md`
-- § 5-25. Stønad ved yrkesskade – `lov/par-5-25.md`
+- § 5-25. Stønad ved yrkesskade – `lov/par-5-25.md` (rundskriv: `rundskriv/rundskriv-r05-25/par-5-25.md`)
 - § 5-26. Stønad ved sykdom som har oppstått i tidsrom uten stønadsrett – `lov/par-5-26.md`
 
 **Kapittel 6. Grunnstønad og hjelpestønad**
 
-- § 6-1. Formål – `lov/par-6-1.md`
-- § 6-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-6-1a.md`
-- § 6-2. Sykdom, skade eller lyte – `lov/par-6-2.md`
-- § 6-3. Grunnstønad – `lov/par-6-3.md`
-- § 6-4. Hjelpestønad – `lov/par-6-4.md`
-- § 6-5. Forhøyet hjelpestønad til barn og unge – `lov/par-6-5.md`
-- § 6-6. Reduksjon på grunn av manglende trygdetid – `lov/par-6-6.md`
-- § 6-7. Revurdering – `lov/par-6-7.md`
-- § 6-8. Bortfall av stønad under opphold i institusjon og andre lovregulerte boformer – `lov/par-6-8.md`
-- § 6-9. Stønad ved yrkesskade – `lov/par-6-9.md`
+- § 6-1. Formål – `lov/par-6-1.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-1.md`)
+- § 6-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-6-1a.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-1a.md`)
+- § 6-2. Sykdom, skade eller lyte – `lov/par-6-2.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-2.md`)
+- § 6-3. Grunnstønad – `lov/par-6-3.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-3.md`)
+- § 6-4. Hjelpestønad – `lov/par-6-4.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-4.md`)
+- § 6-5. Forhøyet hjelpestønad til barn og unge – `lov/par-6-5.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-5-2.md`, `rundskriv/rundskriv-r06-00/par-6-5.md`)
+- § 6-6. Reduksjon på grunn av manglende trygdetid – `lov/par-6-6.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-6.md`)
+- § 6-7. Revurdering – `lov/par-6-7.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-7.md`)
+- § 6-8. Bortfall av stønad under opphold i institusjon og andre lovregulerte boformer – `lov/par-6-8.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-8.md`)
+- § 6-9. Stønad ved yrkesskade – `lov/par-6-9.md` (rundskriv: `rundskriv/rundskriv-r06-00/par-6-9.md`)
 
 **Kapittel 7. Stønad ved gravferd**
 
 - § 7-1. Formål – `lov/par-7-1.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-1.md`)
 - § 7-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-7-1a.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-1a.md`)
-- § 7-2. Gravferdsstønad – `lov/par-7-2.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-2.md`)
-- § 7-3. Stønad til båretransport – `lov/par-7-3.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-3.md`)
+- § 7-2. Gravferdsstønad – `lov/par-7-2.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-2.md`, `rundskriv/rundskriv-r19-00/par-7-2.md`)
+- § 7-3. Stønad til båretransport – `lov/par-7-3.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-3.md`, `rundskriv/rundskriv-r26-00/par-7-3.md`)
 - § 7-4. Stønad ved dødsfall utenfor Norge – `lov/par-7-4.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-4.md`)
 - § 7-5. Stønad ved dødsfall som skyldes yrkesskade – `lov/par-7-5.md` (rundskriv: `rundskriv/rundskriv-r07-00/par-7-5.md`)
 
 **Kapittel 8. Sykepenger**
 
-- § 8-1. Formål – `lov/par-8-1.md`
-- § 8-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-8-1a.md`
-- § 8-2. Opptjeningstid – `lov/par-8-2.md`
-- § 8-3. Tap av pensjonsgivende inntekt og minsteinntekt – `lov/par-8-3.md`
-- § 8-4. Arbeidsuførhet – `lov/par-8-4.md`
-- § 8-5. Sykepenger ved friskmelding til arbeidsformidling – `lov/par-8-5.md`
-- § 8-6. Gradert sykmelding – `lov/par-8-6.md`
-- § 8-7. Dokumentasjon av arbeidsuførhet – `lov/par-8-7.md`
-- § 8-7 a. Oppfølging mv. i regi av Arbeids- og velferdsetaten – `lov/par-8-7a.md`
-- § 8-8. Medlemmets medvirkning – `lov/par-8-8.md`
-- § 8-9. Oppholdskrav – `lov/par-8-9.md`
-- § 8-10. Sykepengegrunnlag – `lov/par-8-10.md`
-- § 8-11. Sykepengedager – `lov/par-8-11.md`
-- § 8-12. Antall sykepengedager – `lov/par-8-12.md`
-- § 8-13. Graderte sykepenger – `lov/par-8-13.md`
-- § 8-14. Tilskott til arbeidsreiser – `lov/par-8-14.md`
-- § 8-15. Rett til sykepenger og feriepenger som arbeidstaker – `lov/par-8-15.md`
-- § 8-16. Sykepengenes størrelse (kompensasjonsnivå) – `lov/par-8-16.md`
-- § 8-17. Sykepenger fra trygden – `lov/par-8-17.md`
-- § 8-18. Sykepenger fra arbeidsgiveren – `lov/par-8-18.md`
-- § 8-19. Beregning av arbeidsgiverperiode – `lov/par-8-19.md`
-- § 8-20. Risiko for særlig stort sykefravær eller svangerskapsrelatert sykefravær – `lov/par-8-20.md`
-- § 8-21. Forsikring mot ansvar for sykepenger i arbeidsgiverperioden – `lov/par-8-21.md`
-- § 8-22. Trygdens ansvar når arbeidsgiveren ikke betaler – `lov/par-8-22.md`
-- § 8-23. Egenmelding – `lov/par-8-23.md`
-- § 8-24. Rett til å nytte egenmelding – `lov/par-8-24.md`
-- § 8-25. Unntak fra retten til å nytte egenmelding – `lov/par-8-25.md`
-- § 8-26. Egenerklæring – `lov/par-8-26.md`
-- § 8-27. Tap av retten til å nytte egenmelding – `lov/par-8-27.md`
-- § 8-28. Sykepengegrunnlaget i arbeidsgiverperioden – `lov/par-8-28.md`
-- § 8-29. Inntekter som inngår i beregning av den aktuelle månedsinntekten – `lov/par-8-29.md`
-- § 8-30. Sykepengegrunnlaget når trygden yter sykepenger – `lov/par-8-30.md`
-- § 8-31. Sykepenger under streik og lockout – `lov/par-8-31.md`
-- § 8-32. Sykepenger under gå-sakte-aksjon – `lov/par-8-32.md`
-- § 8-33. Feriepenger – `lov/par-8-33.md`
-- § 8-34. Sykepengedekning m.m. – `lov/par-8-34.md`
-- § 8-35. Sykepengegrunnlag – `lov/par-8-35.md`
-- § 8-36. Forsikring for tillegg til sykepenger – `lov/par-8-36.md`
-- § 8-37. Opphør av forsikring for tillegg til sykepenger – `lov/par-8-37.md`
-- § 8-38. Sykepengedekning og sykepengegrunnlag – `lov/par-8-38.md`
-- § 8-39. Forsikring for tilleggssykepenger – `lov/par-8-39.md`
-- § 8-40. Arbeidstaker og frilanser – `lov/par-8-40.md`
-- § 8-41. Arbeidstaker og selvstendig næringsdrivende – `lov/par-8-41.md`
-- § 8-42. Selvstendig næringsdrivende og frilanser – `lov/par-8-42.md`
-- § 8-43. Arbeidstaker, selvstendig næringsdrivende og frilanser – `lov/par-8-43.md`
-- § 8-44. Arbeidstaker på skip – `lov/par-8-44.md`
-- § 8-45. Fiskere – `lov/par-8-45.md`
-- § 8-46. Vernepliktige – `lov/par-8-46.md`
-- § 8-47. Yrkesaktive medlemmer som midlertidig har vært ute av inntektsgivende arbeid – `lov/par-8-47.md`
-- § 8-48. Forholdet mellom sykepenger og andre folketrygdytelser – `lov/par-8-48.md`
-- § 8-49. Medlemmer med dagpenger under arbeidsløshet eller ventelønn m.m. – `lov/par-8-49.md`
-- § 8-50. Medlemmer med uføretrygd – `lov/par-8-50.md`
-- § 8-51. Medlem mellom 62 og 70 år – `lov/par-8-51.md`
-- § 8-52. Medlemmer med avtalefestet pensjon – `lov/par-8-52.md`
-- § 8-53. Sykepenger under opphold i helseinstitusjon o.l. – `lov/par-8-53.md`
-- § 8-54. Opphold i fengsel – `lov/par-8-54.md`
-- § 8-55. Sykepenger ved yrkesskade – `lov/par-8-55.md`
+- § 8-1. Formål – `lov/par-8-1.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-1.md`)
+- § 8-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-8-1a.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-1a.md`)
+- § 8-2. Opptjeningstid – `lov/par-8-2.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-2.md`)
+- § 8-3. Tap av pensjonsgivende inntekt og minsteinntekt – `lov/par-8-3.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-3.md`)
+- § 8-4. Arbeidsuførhet – `lov/par-8-4.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-4.md`)
+- § 8-5. Sykepenger ved friskmelding til arbeidsformidling – `lov/par-8-5.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-5.md`)
+- § 8-6. Gradert sykmelding – `lov/par-8-6.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-6.md`)
+- § 8-7. Dokumentasjon av arbeidsuførhet – `lov/par-8-7.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-7.md`)
+- § 8-7 a. Oppfølging mv. i regi av Arbeids- og velferdsetaten – `lov/par-8-7a.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-7a.md`)
+- § 8-8. Medlemmets medvirkning – `lov/par-8-8.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-8.md`)
+- § 8-9. Oppholdskrav – `lov/par-8-9.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-9.md`)
+- § 8-10. Sykepengegrunnlag – `lov/par-8-10.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-10.md`)
+- § 8-11. Sykepengedager – `lov/par-8-11.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-11.md`)
+- § 8-12. Antall sykepengedager – `lov/par-8-12.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-12.md`)
+- § 8-13. Graderte sykepenger – `lov/par-8-13.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-13.md`)
+- § 8-14. Tilskott til arbeidsreiser – `lov/par-8-14.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-14.md`)
+- § 8-15. Rett til sykepenger og feriepenger som arbeidstaker – `lov/par-8-15.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-15.md`)
+- § 8-16. Sykepengenes størrelse (kompensasjonsnivå) – `lov/par-8-16.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-16.md`)
+- § 8-17. Sykepenger fra trygden – `lov/par-8-17.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-17.md`)
+- § 8-18. Sykepenger fra arbeidsgiveren – `lov/par-8-18.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-18.md`)
+- § 8-19. Beregning av arbeidsgiverperiode – `lov/par-8-19.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-19.md`)
+- § 8-20. Risiko for særlig stort sykefravær eller svangerskapsrelatert sykefravær – `lov/par-8-20.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-20.md`)
+- § 8-21. Forsikring mot ansvar for sykepenger i arbeidsgiverperioden – `lov/par-8-21.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-21.md`)
+- § 8-22. Trygdens ansvar når arbeidsgiveren ikke betaler – `lov/par-8-22.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-22.md`)
+- § 8-23. Egenmelding – `lov/par-8-23.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-23.md`)
+- § 8-24. Rett til å nytte egenmelding – `lov/par-8-24.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-24.md`)
+- § 8-25. Unntak fra retten til å nytte egenmelding – `lov/par-8-25.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-25.md`)
+- § 8-26. Egenerklæring – `lov/par-8-26.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-26.md`)
+- § 8-27. Tap av retten til å nytte egenmelding – `lov/par-8-27.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-27.md`)
+- § 8-28. Sykepengegrunnlaget i arbeidsgiverperioden – `lov/par-8-28.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-28.md`)
+- § 8-29. Inntekter som inngår i beregning av den aktuelle månedsinntekten – `lov/par-8-29.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-29.md`)
+- § 8-30. Sykepengegrunnlaget når trygden yter sykepenger – `lov/par-8-30.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-30.md`)
+- § 8-31. Sykepenger under streik og lockout – `lov/par-8-31.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-31.md`)
+- § 8-32. Sykepenger under gå-sakte-aksjon – `lov/par-8-32.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-32.md`)
+- § 8-33. Feriepenger – `lov/par-8-33.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-33.md`)
+- § 8-34. Sykepengedekning m.m. – `lov/par-8-34.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-34.md`)
+- § 8-35. Sykepengegrunnlag – `lov/par-8-35.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-35.md`)
+- § 8-36. Forsikring for tillegg til sykepenger – `lov/par-8-36.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-36.md`)
+- § 8-37. Opphør av forsikring for tillegg til sykepenger – `lov/par-8-37.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-37.md`)
+- § 8-38. Sykepengedekning og sykepengegrunnlag – `lov/par-8-38.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-38.md`)
+- § 8-39. Forsikring for tilleggssykepenger – `lov/par-8-39.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-39.md`)
+- § 8-40. Arbeidstaker og frilanser – `lov/par-8-40.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-40.md`)
+- § 8-41. Arbeidstaker og selvstendig næringsdrivende – `lov/par-8-41.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-41.md`)
+- § 8-42. Selvstendig næringsdrivende og frilanser – `lov/par-8-42.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-42.md`)
+- § 8-43. Arbeidstaker, selvstendig næringsdrivende og frilanser – `lov/par-8-43.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-43.md`)
+- § 8-44. Arbeidstaker på skip – `lov/par-8-44.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-44.md`)
+- § 8-45. Fiskere – `lov/par-8-45.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-45.md`)
+- § 8-46. Vernepliktige – `lov/par-8-46.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-46.md`)
+- § 8-47. Yrkesaktive medlemmer som midlertidig har vært ute av inntektsgivende arbeid – `lov/par-8-47.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-47.md`)
+- § 8-48. Forholdet mellom sykepenger og andre folketrygdytelser – `lov/par-8-48.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-48.md`)
+- § 8-49. Medlemmer med dagpenger under arbeidsløshet eller ventelønn m.m. – `lov/par-8-49.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-49.md`)
+- § 8-50. Medlemmer med uføretrygd – `lov/par-8-50.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-50.md`)
+- § 8-51. Medlem mellom 62 og 70 år – `lov/par-8-51.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-51.md`)
+- § 8-52. Medlemmer med avtalefestet pensjon – `lov/par-8-52.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-52.md`)
+- § 8-53. Sykepenger under opphold i helseinstitusjon o.l. – `lov/par-8-53.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-53.md`)
+- § 8-54. Opphold i fengsel – `lov/par-8-54.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-54.md`)
+- § 8-55. Sykepenger ved yrkesskade – `lov/par-8-55.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-8-55.md`)
 
 **Kapittel 9. Stønad ved barns og andre nærståendes sykdom**
 
-- § 9-1. Formål – `lov/par-9-1.md`
+- § 9-1. Formål – `lov/par-9-1.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-1.md`)
 - § 9-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-9-1a.md`
-- § 9-2. Opptjeningstid – `lov/par-9-2.md`
-- § 9-3. Tap av pensjonsgivende inntekt og minsteinntekt – `lov/par-9-3.md`
-- § 9-4. Oppholdskrav – `lov/par-9-4.md`
-- § 9-5. Stønadssituasjonen for omsorgspenger – `lov/par-9-5.md`
-- § 9-6. Antall dager med omsorgspenger – `lov/par-9-6.md`
-- § 9-7. Dokumentasjon av sykdom – `lov/par-9-7.md`
-- § 9-8. Omsorgspenger fra arbeidsgiveren – `lov/par-9-8.md`
-- § 9-9. Omsorgspenger fra trygden – `lov/par-9-9.md`
-- § 9-10. Pleiepenger til medlem med omsorg for syke barn – `lov/par-9-10.md`
-- § 9-11. Graderte pleiepenger – `lov/par-9-11.md`
+- § 9-2. Opptjeningstid – `lov/par-9-2.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-2.md`)
+- § 9-3. Tap av pensjonsgivende inntekt og minsteinntekt – `lov/par-9-3.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-3.md`)
+- § 9-4. Oppholdskrav – `lov/par-9-4.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-4.md`)
+- § 9-5. Stønadssituasjonen for omsorgspenger – `lov/par-9-5.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-5.md`)
+- § 9-6. Antall dager med omsorgspenger – `lov/par-9-6.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-6.md`)
+- § 9-7. Dokumentasjon av sykdom – `lov/par-9-7.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-7.md`)
+- § 9-8. Omsorgspenger fra arbeidsgiveren – `lov/par-9-8.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-8.md`)
+- § 9-9. Omsorgspenger fra trygden – `lov/par-9-9.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-9.md`)
+- § 9-10. Pleiepenger til medlem med omsorg for syke barn – `lov/par-9-10.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-10.md`)
+- § 9-11. Graderte pleiepenger – `lov/par-9-11.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-11.md`)
 - § 9-11 a. (Opphevet) – `lov/par-9-11a.md`
-- § 9-12. (Opphevet) – `lov/par-9-12.md`
-- § 9-13. Pleiepenger for pleie av en nærstående i livets sluttfase – `lov/par-9-13.md`
-- § 9-14. Opplæringspenger til et medlem som tar seg av et funksjonshemmet eller langvarig sykt barn – `lov/par-9-14.md`
-- § 9-15. Utbetaling av pleiepenger og opplæringspenger – `lov/par-9-15.md`
-- § 9-16. Krav til dokumentasjon – `lov/par-9-16.md`
-- § 9-17. Feriepenger til arbeidstakere – `lov/par-9-17.md`
+- § 9-12. (Opphevet) – `lov/par-9-12.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-12.md`)
+- § 9-13. Pleiepenger for pleie av en nærstående i livets sluttfase – `lov/par-9-13.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-13.md`)
+- § 9-14. Opplæringspenger til et medlem som tar seg av et funksjonshemmet eller langvarig sykt barn – `lov/par-9-14.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-14.md`)
+- § 9-15. Utbetaling av pleiepenger og opplæringspenger – `lov/par-9-15.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-15.md`)
+- § 9-16. Krav til dokumentasjon – `lov/par-9-16.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-16.md`)
+- § 9-17. Feriepenger til arbeidstakere – `lov/par-9-17.md` (rundskriv: `rundskriv/rundskriv-r09-00/par-9-17.md`)
 
 **Kapittel 10. Stønad for å kompensere for utgifter til bedring av arbeidsevnen og funksjonsevnen i dagliglivet**
 
-- § 10-1. Formål – `lov/par-10-1.md`
-- § 10-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-10-1a.md`
+- § 10-1. Formål – `lov/par-10-1.md` (rundskriv: `rundskriv/rundskriv-r10-00/par-10-1.md`)
+- § 10-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-10-1a.md` (rundskriv: `rundskriv/rundskriv-r10-00/par-10-1a.md`)
 - § 10-2. (Opphevet) – `lov/par-10-2.md`
-- § 10-3. Opphold i Norge eller i utlandet – `lov/par-10-3.md`
+- § 10-3. Opphold i Norge eller i utlandet – `lov/par-10-3.md` (rundskriv: `rundskriv/rundskriv-r10-00/par-10-3.md`)
 - § 10-4. Alder – `lov/par-10-4.md`
-- § 10-5. Stønad til bedring av funksjonsevnen i arbeidslivet – `lov/par-10-5.md`
-- § 10-6. Stønad til bedring av funksjonsevnen i dagliglivet – `lov/par-10-6.md`
-- § 10-7. Stønadsformer – `lov/par-10-7.md`
+- § 10-5. Stønad til bedring av funksjonsevnen i arbeidslivet – `lov/par-10-5.md` (rundskriv: `rundskriv/rundskriv-r10-00/par-10-5.md`)
+- § 10-6. Stønad til bedring av funksjonsevnen i dagliglivet – `lov/par-10-6.md` (rundskriv: `rundskriv/rundskriv-r10-00/par-10-6.md`)
+- § 10-7. Stønadsformer – `lov/par-10-7.md` (rundskriv: `rundskriv/rundskriv-r10-07-4-5-ledd/par-10-7.md`, `rundskriv/rundskriv-r10-07acd/par-10-7.md`)
 - § 10-7 a. Stønad til briller til barn – `lov/par-10-7a.md`
-- § 10-8. Forholdet til ytelser etter annen lovgivning – `lov/par-10-8.md`
+- § 10-8. Forholdet til ytelser etter annen lovgivning – `lov/par-10-8.md` (rundskriv: `rundskriv/rundskriv-r10-00/par-10-8.md`)
 - § 10-9. (Opphevet) – `lov/par-10-9.md`
-- § 10-10. (Opphevet) – `lov/par-10-10.md`
+- § 10-10. (Opphevet) – `lov/par-10-10.md` (rundskriv: `rundskriv/rundskriv-r26-00/par-10-10.md`)
 - § 10-11. (Opphevet) – `lov/par-10-11.md`
 - § 10-12. (Opphevet) – `lov/par-10-12.md`
 - § 10-13. (Opphevet) – `lov/par-10-13.md`
@@ -402,73 +402,73 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 **Kapittel 11. Arbeidsavklaringspenger**
 
-- § 11-1. Formål – `lov/par-11-1.md`
-- § 11-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-11-1a.md`
-- § 11-2. Forutgående medlemskap – `lov/par-11-2.md`
-- § 11-3. Oppholdskrav – `lov/par-11-3.md`
-- § 11-4. Alder – `lov/par-11-4.md`
-- § 11-5. Nedsatt arbeidsevne – krav til årsakssammenheng – `lov/par-11-5.md`
-- § 11-6. Behov for bistand til å skaffe seg eller beholde arbeid – `lov/par-11-6.md`
-- § 11-7. Medlemmets aktivitetsplikt – `lov/par-11-7.md`
-- § 11-8. Fravær fra fastsatt aktivitet – `lov/par-11-8.md`
-- § 11-9. Reduksjon av arbeidsavklaringspenger ved brudd på nærmere bestemte aktivitetsplikter – `lov/par-11-9.md`
-- § 11-10. Meldeplikt – `lov/par-11-10.md`
-- § 11-11. Oppfølging fra Arbeids- og velferdsetaten – `lov/par-11-11.md`
-- § 11-12. Varighet – `lov/par-11-12.md`
-- § 11-12 a. Opphevet – `lov/par-11-12a.md`
-- § 11-13. Arbeidsavklaringspenger til et medlem som ikke har opparbeidet seg ny rett til sykepenger – `lov/par-11-13.md`
-- § 11-14. Arbeidsavklaringspenger til studenter – `lov/par-11-14.md`
-- § 11-15. Arbeidsavklaringspenger til et medlem som etablerer egen virksomhet – `lov/par-11-15.md`
-- § 11-16. (Opphevet) – `lov/par-11-16.md`
-- § 11-17. Arbeidsavklaringspenger i perioden som arbeidssøker – `lov/par-11-17.md`
-- § 11-18. Arbeidsavklaringspenger under behandling av krav om uføretrygd – `lov/par-11-18.md`
-- § 11-19. Grunnlaget for beregningen av arbeidsavklaringspenger – `lov/par-11-19.md`
-- § 11-20. Arbeidsavklaringspengenes størrelse og vilkår om barnetillegg – `lov/par-11-20.md`
-- § 11-21. (Opphevet) – `lov/par-11-21.md`
-- § 11-22. Arbeidsavklaringspenger ved yrkesskade – `lov/par-11-22.md`
-- § 11-23. Reduksjon ved delvis nedsatt arbeidsevne – `lov/par-11-23.md`
-- § 11-24. Reduksjon av arbeidsavklaringspenger på grunn av ytelser fra en arbeidsgiver – `lov/par-11-24.md`
-- § 11-25. Arbeidsavklaringspenger under opphold i institusjon – `lov/par-11-25.md`
-- § 11-26. Arbeidsavklaringspenger under straffegjennomføring – `lov/par-11-26.md`
-- § 11-27. Forholdet til andre fulle ytelser fra folketrygden – `lov/par-11-27.md`
-- § 11-28. Forholdet til andre reduserte ytelser fra folketrygden – `lov/par-11-28.md`
-- § 11-29. Forholdet til ytelser etter annen lovgivning – `lov/par-11-29.md`
-- § 11-30. Unntak fra kravet om melding om vedtak og unntak fra kravet om forhåndsvarsel – `lov/par-11-30.md`
-- § 11-31. Nytt krav om arbeidsavklaringspenger – `lov/par-11-31.md`
+- § 11-1. Formål – `lov/par-11-1.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-1.md`)
+- § 11-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-11-1a.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-1a.md`)
+- § 11-2. Forutgående medlemskap – `lov/par-11-2.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-2.md`)
+- § 11-3. Oppholdskrav – `lov/par-11-3.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-3.md`)
+- § 11-4. Alder – `lov/par-11-4.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-4.md`)
+- § 11-5. Nedsatt arbeidsevne – krav til årsakssammenheng – `lov/par-11-5.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-5.md`)
+- § 11-6. Behov for bistand til å skaffe seg eller beholde arbeid – `lov/par-11-6.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-6.md`)
+- § 11-7. Medlemmets aktivitetsplikt – `lov/par-11-7.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-7.md`)
+- § 11-8. Fravær fra fastsatt aktivitet – `lov/par-11-8.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-8.md`)
+- § 11-9. Reduksjon av arbeidsavklaringspenger ved brudd på nærmere bestemte aktivitetsplikter – `lov/par-11-9.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-9.md`)
+- § 11-10. Meldeplikt – `lov/par-11-10.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-10.md`)
+- § 11-11. Oppfølging fra Arbeids- og velferdsetaten – `lov/par-11-11.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-11.md`)
+- § 11-12. Varighet – `lov/par-11-12.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-12.md`)
+- § 11-12 a. Opphevet – `lov/par-11-12a.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-12a.md`)
+- § 11-13. Arbeidsavklaringspenger til et medlem som ikke har opparbeidet seg ny rett til sykepenger – `lov/par-11-13.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-13.md`)
+- § 11-14. Arbeidsavklaringspenger til studenter – `lov/par-11-14.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-14.md`)
+- § 11-15. Arbeidsavklaringspenger til et medlem som etablerer egen virksomhet – `lov/par-11-15.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-15.md`)
+- § 11-16. (Opphevet) – `lov/par-11-16.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-16.md`)
+- § 11-17. Arbeidsavklaringspenger i perioden som arbeidssøker – `lov/par-11-17.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-17.md`)
+- § 11-18. Arbeidsavklaringspenger under behandling av krav om uføretrygd – `lov/par-11-18.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-18.md`)
+- § 11-19. Grunnlaget for beregningen av arbeidsavklaringspenger – `lov/par-11-19.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-19-2.md`, `rundskriv/rundskriv-r11-00/par-11-19.md`)
+- § 11-20. Arbeidsavklaringspengenes størrelse og vilkår om barnetillegg – `lov/par-11-20.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-20.md`)
+- § 11-21. (Opphevet) – `lov/par-11-21.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-21.md`)
+- § 11-22. Arbeidsavklaringspenger ved yrkesskade – `lov/par-11-22.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-22.md`)
+- § 11-23. Reduksjon ved delvis nedsatt arbeidsevne – `lov/par-11-23.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-23.md`)
+- § 11-24. Reduksjon av arbeidsavklaringspenger på grunn av ytelser fra en arbeidsgiver – `lov/par-11-24.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-24.md`)
+- § 11-25. Arbeidsavklaringspenger under opphold i institusjon – `lov/par-11-25.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-25.md`)
+- § 11-26. Arbeidsavklaringspenger under straffegjennomføring – `lov/par-11-26.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-26.md`)
+- § 11-27. Forholdet til andre fulle ytelser fra folketrygden – `lov/par-11-27.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-27.md`)
+- § 11-28. Forholdet til andre reduserte ytelser fra folketrygden – `lov/par-11-28.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-28.md`)
+- § 11-29. Forholdet til ytelser etter annen lovgivning – `lov/par-11-29.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-29.md`)
+- § 11-30. Unntak fra kravet om melding om vedtak og unntak fra kravet om forhåndsvarsel – `lov/par-11-30.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-30.md`)
+- § 11-31. Nytt krav om arbeidsavklaringspenger – `lov/par-11-31.md` (rundskriv: `rundskriv/rundskriv-r11-00/par-11-31.md`)
 
 **Kapittel 11 A. Tilleggsstønader til arbeidsrettede tiltak**
 
-- § 11 A-1. Formål – `lov/par-11a-1.md`
+- § 11 A-1. Formål – `lov/par-11a-1.md` (rundskriv: `rundskriv/rundskriv-r11a-00/par-11a-1.md`)
 - § 11 A-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-11a-1a.md`
-- § 11 A-2. Alder – `lov/par-11a-2.md`
-- § 11 A-3. Nedsatt arbeidsevne – krav til årsakssammenheng – `lov/par-11a-3.md`
-- § 11 A-4. Tilleggsstønader til arbeidsrettede tiltak – `lov/par-11a-4.md`
-- § 11 A-5. Forholdet til ytelser etter annen lovgivning – `lov/par-11a-5.md`
+- § 11 A-2. Alder – `lov/par-11a-2.md` (rundskriv: `rundskriv/rundskriv-r11a-00/par-11a-2.md`)
+- § 11 A-3. Nedsatt arbeidsevne – krav til årsakssammenheng – `lov/par-11a-3.md` (rundskriv: `rundskriv/rundskriv-r11a-00/par-11a-3.md`)
+- § 11 A-4. Tilleggsstønader til arbeidsrettede tiltak – `lov/par-11a-4.md` (rundskriv: `rundskriv/rundskriv-r11a-00/par-11a-4.md`)
+- § 11 A-5. Forholdet til ytelser etter annen lovgivning – `lov/par-11a-5.md` (rundskriv: `rundskriv/rundskriv-r11a-00/par-11a-5.md`)
 
 **Kapittel 12. Uføretrygd**
 
-- § 12-1. Formål – `lov/par-12-1.md`
-- § 12-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-12-1a.md`
-- § 12-2. Forutgående medlemskap – `lov/par-12-2.md`
-- § 12-3. Fortsatt medlemskap – `lov/par-12-3.md`
-- § 12-4. Alder – `lov/par-12-4.md`
-- § 12-5. Hensiktsmessig behandling og arbeidsrettede tiltak – `lov/par-12-5.md`
-- § 12-6. Sykdom, skade eller lyte – krav til årsakssammenheng – `lov/par-12-6.md`
-- § 12-7. Nedsatt inntektsevne – `lov/par-12-7.md`
-- § 12-8. Uføretidspunkt – `lov/par-12-8.md`
-- § 12-9. Fastsetting av inntekt før og etter uførhet – `lov/par-12-9.md`
-- § 12-10. Fastsetting og endring av uføregrad – `lov/par-12-10.md`
-- § 12-11. Grunnlaget for beregning av uføretrygd – `lov/par-12-11.md`
-- § 12-12. Trygdetid – `lov/par-12-12.md`
-- § 12-13. Uføretrygdens størrelse – `lov/par-12-13.md`
-- § 12-14. Reduksjon av uføretrygd på grunn av inntekt – `lov/par-12-14.md`
-- § 12-15. Barnetillegg – `lov/par-12-15.md`
-- § 12-16. Reduksjon av barnetillegg på grunn av inntekt – `lov/par-12-16.md`
-- § 12-17. Uføretrygd ved yrkesskade – `lov/par-12-17.md`
-- § 12-18. Tillegg til uføretrygd for gjenlevende ektefelle (gjenlevendetillegg) – `lov/par-12-18.md`
-- § 12-19. Uføretrygd under opphold i institusjon – `lov/par-12-19.md`
-- § 12-20. Uføretrygd under straffegjennomføring – `lov/par-12-20.md`
-- § 12-21. Avkall på uføretrygd – `lov/par-12-21.md`
+- § 12-1. Formål – `lov/par-12-1.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-1.md`)
+- § 12-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-12-1a.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-1a.md`)
+- § 12-2. Forutgående medlemskap – `lov/par-12-2.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-2.md`)
+- § 12-3. Fortsatt medlemskap – `lov/par-12-3.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-3.md`)
+- § 12-4. Alder – `lov/par-12-4.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-4.md`)
+- § 12-5. Hensiktsmessig behandling og arbeidsrettede tiltak – `lov/par-12-5.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-5.md`)
+- § 12-6. Sykdom, skade eller lyte – krav til årsakssammenheng – `lov/par-12-6.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-6.md`)
+- § 12-7. Nedsatt inntektsevne – `lov/par-12-7.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-7.md`, `rundskriv/rundskriv-r26-00/par-12-7.md`)
+- § 12-8. Uføretidspunkt – `lov/par-12-8.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-8.md`)
+- § 12-9. Fastsetting av inntekt før og etter uførhet – `lov/par-12-9.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-9.md`)
+- § 12-10. Fastsetting og endring av uføregrad – `lov/par-12-10.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-10.md`)
+- § 12-11. Grunnlaget for beregning av uføretrygd – `lov/par-12-11.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-11.md`)
+- § 12-12. Trygdetid – `lov/par-12-12.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-12.md`, `rundskriv/rundskriv-r26-00/par-12-12.md`)
+- § 12-13. Uføretrygdens størrelse – `lov/par-12-13.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-13.md`)
+- § 12-14. Reduksjon av uføretrygd på grunn av inntekt – `lov/par-12-14.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-14.md`)
+- § 12-15. Barnetillegg – `lov/par-12-15.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-15.md`)
+- § 12-16. Reduksjon av barnetillegg på grunn av inntekt – `lov/par-12-16.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-16.md`)
+- § 12-17. Uføretrygd ved yrkesskade – `lov/par-12-17.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-17.md`)
+- § 12-18. Tillegg til uføretrygd for gjenlevende ektefelle (gjenlevendetillegg) – `lov/par-12-18.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-18.md`)
+- § 12-19. Uføretrygd under opphold i institusjon – `lov/par-12-19.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-19.md`)
+- § 12-20. Uføretrygd under straffegjennomføring – `lov/par-12-20.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-20.md`)
+- § 12-21. Avkall på uføretrygd – `lov/par-12-21.md` (rundskriv: `rundskriv/rundskriv-r12-00/par-12-21.md`)
 
 **Kapittel 13. Yrkesskadedekning**
 
@@ -478,7 +478,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 13-3. Yrkesskade – `lov/par-13-3.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-3.md`)
 - § 13-4. Yrkessykdommer som likestilles med yrkesskade – `lov/par-13-4.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-4.md`)
 - § 13-5. Skadetidspunktet – `lov/par-13-5.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-5.md`)
-- § 13-6. Arbeidstakere – `lov/par-13-6.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-6.md`)
+- § 13-6. Arbeidstakere – `lov/par-13-6.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-6.md`, `rundskriv/rundskriv-r26-00/par-13-6.md`)
 - § 13-7. Fiskere, lottakere, fangstmenn o.a. – `lov/par-13-7.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-7.md`)
 - § 13-8. Militærpersoner o.a. – `lov/par-13-8.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-8.md`)
 - § 13-9. Medlemmer som utfører branntjeneste, redningstjeneste e.l. – `lov/par-13-9.md` (rundskriv: `rundskriv/rundskriv-r13-00/par-13-9.md`)
@@ -528,7 +528,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 15-9. Avkorting mot inntekt – `lov/par-15-9.md` (rundskriv: `rundskriv/rundskriv-r15-00/par-15-9.md`)
 - § 15-10. Stønad til barnetilsyn til enslig mor eller far som er i arbeid – `lov/par-15-10.md` (rundskriv: `rundskriv/rundskriv-r15-00/par-15-10.md`)
 - § 15-11. (Opphevet) – `lov/par-15-11.md` (rundskriv: `rundskriv/rundskriv-r15-00/par-15-11.md`)
-- § 15-12. Sanksjonsregler – `lov/par-15-12.md` (rundskriv: `rundskriv/rundskriv-r15-00/par-15-12.md`)
+- § 15-12. Sanksjonsregler – `lov/par-15-12.md` (rundskriv: `rundskriv/rundskriv-r15-00/par-15-12.md`, `rundskriv/rundskriv-r26-00/par-15-12.md`)
 - § 15-13. Forholdet til andre folketrygdytelser m.m. – `lov/par-15-13.md` (rundskriv: `rundskriv/rundskriv-r15-00/par-15-13.md`)
 
 **Kapittel 16. (Opphevet)**
@@ -541,7 +541,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 16-5. (Opphevet) – `lov/par-16-5.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-5.md`)
 - § 16-6. (Opphevet) – `lov/par-16-6.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-6.md`)
 - § 16-7. (Opphevet) – `lov/par-16-7.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-7.md`)
-- § 16-8. (Opphevet) – `lov/par-16-8.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-8.md`)
+- § 16-8. (Opphevet) – `lov/par-16-8.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-8.md`, `rundskriv/rundskriv-r26-00/par-16-8.md`)
 - § 16-9. (Opphevet) – `lov/par-16-9.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-9.md`)
 - § 16-10. (Opphevet) – `lov/par-16-10.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-10.md`)
 - § 16-11. (Opphevet) – `lov/par-16-11.md` (rundskriv: `rundskriv/rundskriv-r16-00/par-16-11.md`)
@@ -557,7 +557,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 17-5. Omstillingsstønad – `lov/par-17-5.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-5.md`)
 - § 17-6. Omstillingsstønadens størrelse – `lov/par-17-6.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-6.md`)
 - § 17-7. Plikt til aktivitet med sikte på å komme i arbeid – `lov/par-17-7.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-7.md`)
-- § 17-8. Sanksjoner – `lov/par-17-8.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-8.md`)
+- § 17-8. Sanksjoner – `lov/par-17-8.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-8.md`, `rundskriv/rundskriv-r26-00/par-17-8.md`)
 - § 17-9. Reduksjon av ytelse på grunn av inntekt – `lov/par-17-9.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-9.md`)
 - § 17-10. Stønad til barnetilsyn til gjenlevende i arbeid – `lov/par-17-10.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-10.md`)
 - § 17-10 a. Tilleggsstønader og stønader til skolepenger m.m. – `lov/par-17-10a.md` (rundskriv: `rundskriv/rundskriv-r17-00/par-17-10a.md`)
@@ -626,11 +626,11 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 20-1. Formål og virkeområde – `lov/par-20-1.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-1.md`)
 - § 20-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-20-1a.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-1a.md`)
-- § 20-2. Alder – `lov/par-20-2.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-2.md`)
+- § 20-2. Alder – `lov/par-20-2.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-20-2.md`, `rundskriv/rundskriv-r20-00/par-20-2.md`)
 - § 20-3. Sammensetning av alderspensjon – `lov/par-20-3.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-3.md`)
 - § 20-4. Pensjonsbeholdning – `lov/par-20-4.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-4.md`)
 - § 20-5. Pensjonsopptjening på grunnlag av pensjonsgivende inntekt – `lov/par-20-5.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-5.md`)
-- § 20-6. Pensjonsopptjening ved avtjening av førstegangstjeneste – `lov/par-20-6.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-6.md`)
+- § 20-6. Pensjonsopptjening ved avtjening av førstegangstjeneste – `lov/par-20-6.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-20-6.md`, `rundskriv/rundskriv-r20-00/par-20-6.md`)
 - § 20-7. Pensjonsopptjening for dagpengemottakere – `lov/par-20-7.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-7.md`)
 - § 20-7 a. Pensjonsopptjening for mottakere av uføretrygd – `lov/par-20-7a.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-7a.md`)
 - § 20-8. Pensjonsopptjening ved omsorgsarbeid – `lov/par-20-8.md` (rundskriv: `rundskriv/rundskriv-r20-00/par-20-8.md`)
@@ -653,27 +653,27 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 **Kapittel 21. Saksbehandling i trygdesaker. Anke- og klagebehandling m.m.**
 
-- § 21-1. Forholdet til forvaltningsloven – `lov/par-21-1.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-1.md`)
+- § 21-1. Forholdet til forvaltningsloven – `lov/par-21-1.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-1.md`, `rundskriv/rundskriv-r21-00/par-21-1.md`, `rundskriv/rundskriv-r21-00b/par-21-1.md`)
 - § 21-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-21-1a.md`
-- § 21-2. Hvor kravet skal settes fram – `lov/par-21-2.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-2.md`)
-- § 21-3. Medlemmets opplysningsplikt – `lov/par-21-3.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-3.md`)
-- § 21-4. Innhenting av opplysninger og uttalelser – `lov/par-21-4.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4.md`)
-- § 21-4 a. Innhenting av opplysninger fra tredjemann – stedlig kontroll – `lov/par-21-4a.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4a-2.md`, `rundskriv/rundskriv-r21-00/par-21-4a.md`)
+- § 21-2. Hvor kravet skal settes fram – `lov/par-21-2.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-2.md`, `rundskriv/rundskriv-r21-00/par-21-2.md`, `rundskriv/rundskriv-r21-00b/par-21-2.md`)
+- § 21-3. Medlemmets opplysningsplikt – `lov/par-21-3.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-3.md`, `rundskriv/rundskriv-r21-00/par-21-3.md`, `rundskriv/rundskriv-r21-00b/par-21-3.md`)
+- § 21-4. Innhenting av opplysninger og uttalelser – `lov/par-21-4.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4.md`, `rundskriv/rundskriv-r21-00b/par-21-4.md`)
+- § 21-4 a. Innhenting av opplysninger fra tredjemann – stedlig kontroll – `lov/par-21-4a.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4a-2.md`, `rundskriv/rundskriv-r21-00/par-21-4a.md`, `rundskriv/rundskriv-r21-00b/par-21-4a.md`)
 - § 21-4 b. Utveksling av opplysninger med finansinstitusjoner – `lov/par-21-4b.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4b.md`)
-- § 21-4 c. Nærmere om innhenting av opplysninger – `lov/par-21-4c.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4c.md`)
+- § 21-4 c. Nærmere om innhenting av opplysninger – `lov/par-21-4c.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4c.md`, `rundskriv/rundskriv-r21-00b/par-21-4c.md`)
 - § 21-4 d. Masseinnhenting av opplysninger i kontrolløyemed – `lov/par-21-4d.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-4d.md`)
 - § 21-5. Bistand fra barnevernstjenesten, den kommunale helse- og omsorgstjenesten, sosialtjenesten og kommunale organer etter introduksjonsloven – `lov/par-21-5.md`
-- § 21-6. Endrede forhold – `lov/par-21-6.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-6.md`)
-- § 21-7. Uriktige opplysninger m.m. – følger for ytelser fra trygden – `lov/par-21-7.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-7.md`)
-- § 21-8. Bortfall av rett til ytelser når mottakeren er skjødesløs med sin helse m.m. – `lov/par-21-8.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-8.md`)
-- § 21-9. (Opphevet) – `lov/par-21-9.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-9.md`)
+- § 21-6. Endrede forhold – `lov/par-21-6.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-6.md`, `rundskriv/rundskriv-r21-00/par-21-6.md`)
+- § 21-7. Uriktige opplysninger m.m. – følger for ytelser fra trygden – `lov/par-21-7.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-7.md`, `rundskriv/rundskriv-r21-00/par-21-7.md`, `rundskriv/rundskriv-r21-00b/par-21-7.md`)
+- § 21-8. Bortfall av rett til ytelser når mottakeren er skjødesløs med sin helse m.m. – `lov/par-21-8.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-8.md`, `rundskriv/rundskriv-r21-00/par-21-8.md`)
+- § 21-9. (Opphevet) – `lov/par-21-9.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-9.md`, `rundskriv/rundskriv-r21-00/par-21-9.md`)
 - § 21-10. Saksbehandlingstid og underretning om vedtak – `lov/par-21-10.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-10.md`)
-- § 21-11. Vedtak etter loven – `lov/par-21-11.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-11.md`)
-- § 21-11 a. Saksbehandling m.m. etter kapittel 5 Stønad ved helsetjenester – `lov/par-21-11a.md`
+- § 21-11. Vedtak etter loven – `lov/par-21-11.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-11.md`, `rundskriv/rundskriv-r21-00b/par-21-11.md`)
+- § 21-11 a. Saksbehandling m.m. etter kapittel 5 Stønad ved helsetjenester – `lov/par-21-11a.md` (rundskriv: `rundskriv/rundskriv-r21-00b/par-21-11a-2.md`, `rundskriv/rundskriv-r21-00b/par-21-11a.md`)
 - § 21-11 b. Saksbehandling m.m. i saker etter kapittel 21, 22 og 25 med tilknytning til ytelser etter kapittel 5 Stønad ved helsetjenester – `lov/par-21-11b.md`
-- § 21-12. Klage og anke i trygdesaker – `lov/par-21-12.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-12.md`)
+- § 21-12. Klage og anke i trygdesaker – `lov/par-21-12.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-12.md`, `rundskriv/rundskriv-r21-00/par-21-12.md`, `rundskriv/rundskriv-r21-00b/par-21-12.md`)
 - § 21-12A. (Opphevet) – `lov/par-21-12a.md`
-- § 21-13. Ankenemnda for sykepenger i arbeidsgiverperioden – `lov/par-21-13.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-13.md`)
+- § 21-13. Ankenemnda for sykepenger i arbeidsgiverperioden – `lov/par-21-13.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-21-13.md`, `rundskriv/rundskriv-r21-00/par-21-13.md`)
 - § 21-14. (Opphevet) – `lov/par-21-14.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-14.md`)
 - § 21-15. Dagpenger under arbeidsløshet for fiskere og fangstmenn – `lov/par-21-15.md` (rundskriv: `rundskriv/rundskriv-r21-00/par-21-15.md`)
 - § 21-16. Saksbehandling i avgiftssaker m.m. – `lov/par-21-16.md`
@@ -685,24 +685,24 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 22-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering – `lov/par-22-1a.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-1a.md`)
 - § 22-2. Utbetaling ved direkte oppgjør – `lov/par-22-2.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-2.md`)
 - § 22-2 a. Plikt til direkte oppgjør – `lov/par-22-2a.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-2a.md`)
-- § 22-3. Utbetaling til arbeidsgiver – `lov/par-22-3.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-3.md`)
+- § 22-3. Utbetaling til arbeidsgiver – `lov/par-22-3.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-22-3.md`, `rundskriv/rundskriv-r22-00/par-22-3.md`)
 - § 22-3a. Barnetillegg til bidragspliktige – `lov/par-22-3a.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-3a.md`)
 - § 22-3b. Ytelser til barn i fosterhjem – `lov/par-22-3b.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-3b.md`)
 - § 22-4. Disponering av ytelser til langtidspasienter i helseinstitusjon – `lov/par-22-4.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-4.md`)
 - § 22-5. Felles trivselsordninger for langtidspasienter – `lov/par-22-5.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-5.md`)
 - § 22-6. Utbetaling til Nav-kontor o.a. – `lov/par-22-6.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-6.md`)
-- § 22-7. Utsatt utbetaling – `lov/par-22-7.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-7.md`)
+- § 22-7. Utsatt utbetaling – `lov/par-22-7.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-22-7.md`, `rundskriv/rundskriv-r22-00/par-22-7.md`)
 - § 22-8. Fradrag ved etterbetaling av pensjon o.l. – `lov/par-22-8.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-8.md`)
 - § 22-9. (Opphevet) – `lov/par-22-9.md`
-- § 22-10. Utbetalingsterminer – `lov/par-22-10.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-10.md`)
+- § 22-10. Utbetalingsterminer – `lov/par-22-10.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-22-10.md`, `rundskriv/rundskriv-r22-00/par-22-10.md`)
 - § 22-11. Avrunding av ytelser – `lov/par-22-11.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-11.md`)
-- § 22-12. Tidspunkt for utbetaling når rett til en ytelse oppstår eller opphører – `lov/par-22-12.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-12.md`)
-- § 22-13. Frister for framsetting av krav, virkningstidspunkt og etterbetaling – `lov/par-22-13.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-13.md`)
+- § 22-12. Tidspunkt for utbetaling når rett til en ytelse oppstår eller opphører – `lov/par-22-12.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-22-12.md`, `rundskriv/rundskriv-r22-00/par-22-12.md`)
+- § 22-13. Frister for framsetting av krav, virkningstidspunkt og etterbetaling – `lov/par-22-13.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-22-13.md`, `rundskriv/rundskriv-r22-00/par-22-13.md`)
 - § 22-14. Foreldelse – `lov/par-22-14.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-14.md`)
-- § 22-15. Tilbakekreving etter feilaktig utbetaling – `lov/par-22-15.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-15.md`)
+- § 22-15. Tilbakekreving etter feilaktig utbetaling – `lov/par-22-15.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-22-15.md`, `rundskriv/rundskriv-r22-00/par-22-15.md`)
 - § 22-15 a. Tilbakekreving av utbetalinger etter direkte oppgjørsordning – `lov/par-22-15a.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-15a.md`)
 - § 22-16. Avregning av feilutbetalinger som skyldes for høy inntekt – `lov/par-22-16.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-16.md`)
-- § 22-17. Renter ved etterbetaling av ytelser – `lov/par-22-17.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-17.md`)
+- § 22-17. Renter ved etterbetaling av ytelser – `lov/par-22-17.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-22-17.md`, `rundskriv/rundskriv-r22-00/par-22-17.md`)
 - § 22-17 a. Renter og rentetillegg ved tilbakekreving av feilutbetalinger – `lov/par-22-17a.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-17a.md`)
 - § 22-17 b. Forholdet til erstatning – `lov/par-22-17b.md` (rundskriv: `rundskriv/rundskriv-r22-00/par-22-17b.md`)
 - § 22-18. Utbetalingsmåten for ytelser m.m. – `lov/par-22-18.md`
@@ -717,7 +717,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 23-4. Avgifter for visse grupper – `lov/par-23-4.md` (rundskriv: `rundskriv/rundskriv-r23-00/par-23-4.md`)
 - § 23-4 a. Avgifter for personer som er omfattet av norsk trygdelovgivning etter trygdeavtale mv. – `lov/par-23-4a.md`
 - § 23-5. Produktavgift ved fiske m.m. – `lov/par-23-5.md` (rundskriv: `rundskriv/rundskriv-r23-00/par-23-5.md`)
-- § 23-6. Premie for frivillig forsikring for sykepenger og frivillig yrkesskadetrygd – `lov/par-23-6.md` (rundskriv: `rundskriv/rundskriv-r23-00/par-23-6.md`)
+- § 23-6. Premie for frivillig forsikring for sykepenger og frivillig yrkesskadetrygd – `lov/par-23-6.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-23-6.md`, `rundskriv/rundskriv-r23-00/par-23-6.md`)
 - § 23-7. Refusjon av trygdeutgifter ved trafikkskade – `lov/par-23-7.md` (rundskriv: `rundskriv/rundskriv-r23-00/par-23-7.md`)
 - § 23-8. Refusjon av trygdeutgifter ved yrkesskade – `lov/par-23-8.md` (rundskriv: `rundskriv/rundskriv-r23-00/par-23-8.md`)
 - § 23-9. (Opphevet) – `lov/par-23-9.md` (rundskriv: `rundskriv/rundskriv-r23-00/par-23-9.md`)
@@ -735,24 +735,24 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 **Kapittel 25. Forskjellige bestemmelser**
 
-- § 25-1. Arbeidsgiver- og arbeidstakerregisteret – `lov/par-25-1.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-1.md`)
-- § 25-2. Arbeidsgiverens plikt til å føre statistikk over sykefravær, utarbeide oppfølgingsplan og gjennomføre dialogmøte – `lov/par-25-2.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-2.md`)
-- § 25-3. Overtredelsesgebyr og tvangsmulkt ved brudd på meldeplikten til Arbeidsgiver- og arbeidstakerregisteret mv. – `lov/par-25-3.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-3.md`)
+- § 25-1. Arbeidsgiver- og arbeidstakerregisteret – `lov/par-25-1.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-1.md`, `rundskriv/rundskriv-r25-00/par-25-1.md`)
+- § 25-2. Arbeidsgiverens plikt til å føre statistikk over sykefravær, utarbeide oppfølgingsplan og gjennomføre dialogmøte – `lov/par-25-2.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-2.md`, `rundskriv/rundskriv-r25-00/par-25-2.md`)
+- § 25-3. Overtredelsesgebyr og tvangsmulkt ved brudd på meldeplikten til Arbeidsgiver- og arbeidstakerregisteret mv. – `lov/par-25-3.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-3.md`, `rundskriv/rundskriv-r25-00/par-25-3.md`)
 - § 25-3 a. (Opphevet) – `lov/par-25-3a.md`
 - § 25-4. Særskilt meldeplikt for samboere – `lov/par-25-4.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-4.md`)
-- § 25-5. Behandleres plikt til å delta i samarbeidsmøter – `lov/par-25-5.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-5.md`)
+- § 25-5. Behandleres plikt til å delta i samarbeidsmøter – `lov/par-25-5.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-5.md`, `rundskriv/rundskriv-r25-00/par-25-5.md`)
 - § 25-5 a. (Opphevet) – `lov/par-25-5a.md`
-- § 25-6. Tap av retten til å praktisere for trygdens regning (Helsedirektoratets myndighet) – `lov/par-25-6.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-6.md`)
+- § 25-6. Tap av retten til å praktisere for trygdens regning (Helsedirektoratets myndighet) – `lov/par-25-6.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-6.md`, `rundskriv/rundskriv-r25-00/par-25-6.md`)
 - § 25-6 a. Overtredelsesgebyr – `lov/par-25-6a.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-6a.md`)
-- § 25-7. Tap av retten til å praktisere for trygdens regning (Arbeids- og velferdsdirektoratets myndighet) – `lov/par-25-7.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-7.md`)
+- § 25-7. Tap av retten til å praktisere for trygdens regning (Arbeids- og velferdsdirektoratets myndighet) – `lov/par-25-7.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-7.md`, `rundskriv/rundskriv-r25-00/par-25-7.md`)
 - § 25-7 a. Formell advarsel – `lov/par-25-7a.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-7a.md`)
 - § 25-8. Tilbakekreving av dokumenter som er utlånt – `lov/par-25-8.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-8.md`)
 - § 25-9. Arbeids- og velferdsetatens opplysningsplikt om forventet arbeidsinntekt – `lov/par-25-9.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-9.md`)
 - § 25-10. Arbeidsgivers og oppdragsgivers opplysningsplikt – `lov/par-25-10.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-10.md`)
 - § 25-10a. (Opphevet) – `lov/par-25-10a.md`
 - § 25-11. Opplysningsplikt til barnevernet – `lov/par-25-11.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-11.md`)
-- § 25-12. Straff for å gi uriktige opplysninger og for ikke å gi nødvendige opplysninger – `lov/par-25-12.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-12.md`)
-- § 25-13. Forsøksvirksomhet – avvik fra loven – `lov/par-25-13.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-13.md`)
+- § 25-12. Straff for å gi uriktige opplysninger og for ikke å gi nødvendige opplysninger – `lov/par-25-12.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-12.md`, `rundskriv/rundskriv-r25-00/par-25-12.md`)
+- § 25-13. Forsøksvirksomhet – avvik fra loven – `lov/par-25-13.md` (rundskriv: `rundskriv/rundskriv-r08-00/par-25-13.md`, `rundskriv/rundskriv-r25-00/par-25-13.md`, `rundskriv/rundskriv-r26-00/par-25-13.md`)
 - § 25-14. Forholdet til framtidig lovgivning – `lov/par-25-14.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-14.md`)
 - § 25-15. Forskrifter – `lov/par-25-15.md` (rundskriv: `rundskriv/rundskriv-r25-00/par-25-15.md`)
 - § 25-16. Forskrifter ved allmennfarlig smittsom sykdom – `lov/par-25-16.md`
@@ -762,9 +762,9 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 **Kapittel 26. Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover**
 
-- § 26-1. Ikrafttredelse – `lov/par-26-1.md`
-- § 26-2. Overgangsbestemmelser – `lov/par-26-2.md`
-- § 26-3. Endringer i andre lover – `lov/par-26-3.md`
+- § 26-1. Ikrafttredelse – `lov/par-26-1.md` (rundskriv: `rundskriv/rundskriv-r26-00/par-26-1.md`)
+- § 26-2. Overgangsbestemmelser – `lov/par-26-2.md` (rundskriv: `rundskriv/rundskriv-r26-00/par-26-2.md`)
+- § 26-3. Endringer i andre lover – `lov/par-26-3.md` (rundskriv: `rundskriv/rundskriv-r26-00/par-26-3.md`)
 
 **Innhold utenfor paragrafene**
 
@@ -1941,36 +1941,18 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
-- `rundskriv/forskrifter/aktivitetshjelpemidler-over-26/` – 8 filer
-- `rundskriv/forskrifter/anskaffelse-motorkjoretoy/` – 23 filer
-- `rundskriv/forskrifter/beregning-uforetrygd-institusjon/` – 4 filer
-- `rundskriv/forskrifter/horeapparat-tinnitusmaskerer/` – 12 filer
-- `rundskriv/forskrifter/lese-sekretarhjelp-blinde-svaksynte/` – 1 filer
-- `rundskriv/forskrifter/okt-beregningsgrunnlag-gift-samboende/` – 1 filer
-- `rundskriv/forskrifter/omregning-uforepensjon-til-uforetrygd/` – 9 filer
-- `rundskriv/forskrifter/ortopediske-hjelpemidler-proteser-parykk/` – 14 filer
-- `rundskriv/forskrifter/overgangsregler-barnetillegg-uforetrygd-2015/` – 4 filer
-- `rundskriv/forskrifter/servicehund/` – 10 filer
-- `rundskriv/forskrifter/tilleggsstonadsforskriften/` – 17 filer
-- `rundskriv/forskrifter/tolke-ledsagerhjelp-dovblinde/` – 6 filer
-- `rundskriv/forskrifter/tolkehjelp-horselshemmede/` – 6 filer
-- `rundskriv/forskrifter/uforetrygdforskriften-kap7/` – 6 filer
-- `rundskriv/forskrifter/uredusert-ytelse-institusjon/` – 4 filer
-- `rundskriv/ftrl/kap-10/` – 17 filer
-- `rundskriv/ftrl/kap-10/paragraf-10-7/fjerde-femte-ledd/` – 2 filer
-- `rundskriv/ftrl/kap-10/paragraf-10-7/generelt-reiseutgifter/` – 12 filer
-- `rundskriv/ftrl/kap-10/paragraf-10-7/hjelpemidler-arbeid-dagligliv-acd/` – 22 filer
-- `rundskriv/ftrl/kap-10/paragraf-10-7/` – 1 filer, start med `rundskriv/ftrl/kap-10/paragraf-10-7/oversikt.md`
-- `rundskriv/ftrl/kap-11/` – 74 filer
-- `rundskriv/ftrl/kap-11a/` – 5 filer
-- `rundskriv/ftrl/kap-12/` – 89 filer
-- `rundskriv/ftrl/kap-4/` – 26 filer
-- `rundskriv/ftrl/kap-4/4-05/` – 10 filer
-- `rundskriv/ftrl/kap-4/4-06/` – 20 filer
-- `rundskriv/ftrl/kap-6/` – 31 filer
-- `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/` – 11 filer, start med `rundskriv/ftrl/kap-6/retningslinjer-diagnoser/oversikt.md`
-- `rundskriv/ftrl/kap-8/` – 98 filer
-- `rundskriv/ftrl/kap-9/` – 18 filer
+- `rundskriv/forskrifter/aa-registeret/` – 23 filer, start med `rundskriv/forskrifter/aa-registeret/oversikt.md`
+- `rundskriv/forskrifter/ekspertbistand/` – 12 filer, start med `rundskriv/forskrifter/ekspertbistand/oversikt.md`
+- `rundskriv/forskrifter/okt-beregningsgrunnlag-gift-samboende/` – 6 filer, start med `rundskriv/forskrifter/okt-beregningsgrunnlag-gift-samboende/oversikt.md`
+- `rundskriv/forskrifter/omregning-uforepensjon-til-uforetrygd/` – 9 filer, start med `rundskriv/forskrifter/omregning-uforepensjon-til-uforetrygd/oversikt.md`
+- `rundskriv/forskrifter/omsorgspoeng/` – 5 filer, start med `rundskriv/forskrifter/omsorgspoeng/oversikt.md`
+- `rundskriv/forskrifter/omsorgspoeng-omsorgsarbeid/` – 10 filer, start med `rundskriv/forskrifter/omsorgspoeng-omsorgsarbeid/oversikt.md`
+- `rundskriv/forskrifter/opplysningsplikt-arbeidsgiver/` – 6 filer, start med `rundskriv/forskrifter/opplysningsplikt-arbeidsgiver/oversikt.md`
+- `rundskriv/forskrifter/overgangsregler-institusjon/` – 7 filer, start med `rundskriv/forskrifter/overgangsregler-institusjon/oversikt.md`
+- `rundskriv/forskrifter/overgangsregler-kap15-17-2016/` – 12 filer, start med `rundskriv/forskrifter/overgangsregler-kap15-17-2016/oversikt.md`
+- `rundskriv/forskrifter/uforetrygdforskriften/` – 6 filer, start med `rundskriv/forskrifter/uforetrygdforskriften/oversikt.md`
+- `rundskriv/forskrifter/uredusert-ytelse-institusjon/` – 6 filer, start med `rundskriv/forskrifter/uredusert-ytelse-institusjon/oversikt.md`
+- `rundskriv/forskrifter/yrkessykdommer/` – 2 filer, start med `rundskriv/forskrifter/yrkessykdommer/oversikt.md`
 - `rundskriv/rundskriv-r01-00/` – 14 filer, start med `rundskriv/rundskriv-r01-00/oversikt.md`
 - `rundskriv/rundskriv-r02-00/` – 20 filer, start med `rundskriv/rundskriv-r02-00/oversikt.md`
 - `rundskriv/rundskriv-r03-00/` – 2 filer, start med `rundskriv/rundskriv-r03-00/oversikt.md`
@@ -1979,19 +1961,70 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/rundskriv-r03-03/` – 8 filer, start med `rundskriv/rundskriv-r03-03/oversikt.md`
 - `rundskriv/rundskriv-r03-04/` – 3 filer, start med `rundskriv/rundskriv-r03-04/oversikt.md`
 - `rundskriv/rundskriv-r03-05/` – 5 filer, start med `rundskriv/rundskriv-r03-05/oversikt.md`
+- `rundskriv/rundskriv-r04-00/` – 29 filer, start med `rundskriv/rundskriv-r04-00/oversikt.md`
 - `rundskriv/rundskriv-r05-00/` – 3 filer, start med `rundskriv/rundskriv-r05-00/oversikt.md`
+- `rundskriv/rundskriv-r05-01a/` – 2 filer, start med `rundskriv/rundskriv-r05-01a/oversikt.md`
+- `rundskriv/rundskriv-r05-02/` – 2 filer, start med `rundskriv/rundskriv-r05-02/oversikt.md`
+- `rundskriv/rundskriv-r05-03/` – 8 filer, start med `rundskriv/rundskriv-r05-03/oversikt.md`
+- `rundskriv/rundskriv-r05-03d1/` – 9 filer, start med `rundskriv/rundskriv-r05-03d1/oversikt.md`
+- `rundskriv/rundskriv-r05-03d2/` – 8 filer, start med `rundskriv/rundskriv-r05-03d2/oversikt.md`
+- `rundskriv/rundskriv-r05-05-for-1702/` – 2 filer, start med `rundskriv/rundskriv-r05-05-for-1702/oversikt.md`
+- `rundskriv/rundskriv-r05-07/` – 5 filer, start med `rundskriv/rundskriv-r05-07/oversikt.md`
+- `rundskriv/rundskriv-r05-08/` – 6 filer, start med `rundskriv/rundskriv-r05-08/oversikt.md`
+- `rundskriv/rundskriv-r05-09/` – 8 filer, start med `rundskriv/rundskriv-r05-09/oversikt.md`
+- `rundskriv/rundskriv-r05-10/` – 6 filer, start med `rundskriv/rundskriv-r05-10/oversikt.md`
+- `rundskriv/rundskriv-r05-10a/` – 7 filer, start med `rundskriv/rundskriv-r05-10a/oversikt.md`
+- `rundskriv/rundskriv-r05-12/` – 7 filer, start med `rundskriv/rundskriv-r05-12/oversikt.md`
+- `rundskriv/rundskriv-r05-13/` – 3 filer, start med `rundskriv/rundskriv-r05-13/oversikt.md`
+- `rundskriv/rundskriv-r05-14-01/` – 12 filer, start med `rundskriv/rundskriv-r05-14-01/oversikt.md`
+- `rundskriv/rundskriv-r05-14-02/` – 12 filer, start med `rundskriv/rundskriv-r05-14-02/oversikt.md`
+- `rundskriv/rundskriv-r05-14-03/` – 11 filer, start med `rundskriv/rundskriv-r05-14-03/oversikt.md`
+- `rundskriv/rundskriv-r05-21/` – 5 filer, start med `rundskriv/rundskriv-r05-21/oversikt.md`
+- `rundskriv/rundskriv-r05-22/` – 2 filer, start med `rundskriv/rundskriv-r05-22/oversikt.md`
+- `rundskriv/rundskriv-r05-24/` – 2 filer, start med `rundskriv/rundskriv-r05-24/oversikt.md`
+- `rundskriv/rundskriv-r05-24a-for/` – 15 filer, start med `rundskriv/rundskriv-r05-24a-for/oversikt.md`
+- `rundskriv/rundskriv-r05-25/` – 12 filer, start med `rundskriv/rundskriv-r05-25/oversikt.md`
+- `rundskriv/rundskriv-r05-26/` – 2 filer, start med `rundskriv/rundskriv-r05-26/oversikt.md`
+- `rundskriv/rundskriv-r06-00/` – 14 filer, start med `rundskriv/rundskriv-r06-00/oversikt.md`
+- `rundskriv/rundskriv-r06-04-for/` – 2 filer, start med `rundskriv/rundskriv-r06-04-for/oversikt.md`
 - `rundskriv/rundskriv-r07-00/` – 8 filer, start med `rundskriv/rundskriv-r07-00/oversikt.md`
+- `rundskriv/rundskriv-r08-00/` – 93 filer, start med `rundskriv/rundskriv-r08-00/oversikt.md`
+- `rundskriv/rundskriv-r09-00/` – 25 filer, start med `rundskriv/rundskriv-r09-00/oversikt.md`
+- `rundskriv/rundskriv-r10-00/` – 8 filer, start med `rundskriv/rundskriv-r10-00/oversikt.md`
+- `rundskriv/rundskriv-r10-07/` – 2 filer, start med `rundskriv/rundskriv-r10-07/oversikt.md`
+- `rundskriv/rundskriv-r10-07-4-5-ledd/` – 3 filer, start med `rundskriv/rundskriv-r10-07-4-5-ledd/oversikt.md`
+- `rundskriv/rundskriv-r10-07-for/` – 12 filer, start med `rundskriv/rundskriv-r10-07-for/oversikt.md`
+- `rundskriv/rundskriv-r10-07a/` – 9 filer, start med `rundskriv/rundskriv-r10-07a/oversikt.md`
+- `rundskriv/rundskriv-r10-07acd/` – 4 filer, start med `rundskriv/rundskriv-r10-07acd/oversikt.md`
+- `rundskriv/rundskriv-r10-07b/` – 12 filer, start med `rundskriv/rundskriv-r10-07b/oversikt.md`
+- `rundskriv/rundskriv-r10-07e/` – 6 filer, start med `rundskriv/rundskriv-r10-07e/oversikt.md`
+- `rundskriv/rundskriv-r10-07f/` – 7 filer, start med `rundskriv/rundskriv-r10-07f/oversikt.md`
+- `rundskriv/rundskriv-r10-07g/` – 7 filer, start med `rundskriv/rundskriv-r10-07g/oversikt.md`
+- `rundskriv/rundskriv-r10-07h/` – 18 filer, start med `rundskriv/rundskriv-r10-07h/oversikt.md`
+- `rundskriv/rundskriv-r10-07i/` – 2 filer, start med `rundskriv/rundskriv-r10-07i/oversikt.md`
+- `rundskriv/rundskriv-r11-00/` – 36 filer, start med `rundskriv/rundskriv-r11-00/oversikt.md`
+- `rundskriv/rundskriv-r11a-00/` – 7 filer, start med `rundskriv/rundskriv-r11a-00/oversikt.md`
+- `rundskriv/rundskriv-r11a-00-for/` – 18 filer, start med `rundskriv/rundskriv-r11a-00-for/oversikt.md`
+- `rundskriv/rundskriv-r12-00/` – 45 filer, start med `rundskriv/rundskriv-r12-00/oversikt.md`
+- `rundskriv/rundskriv-r12-15-for/` – 5 filer, start med `rundskriv/rundskriv-r12-15-for/oversikt.md`
+- `rundskriv/rundskriv-r12-19-for-1376/` – 6 filer, start med `rundskriv/rundskriv-r12-19-for-1376/oversikt.md`
 - `rundskriv/rundskriv-r13-00/` – 24 filer, start med `rundskriv/rundskriv-r13-00/oversikt.md`
 - `rundskriv/rundskriv-r14-00/` – 41 filer, start med `rundskriv/rundskriv-r14-00/oversikt.md`
 - `rundskriv/rundskriv-r15-00/` – 15 filer, start med `rundskriv/rundskriv-r15-00/oversikt.md`
+- `rundskriv/rundskriv-r15-00-for-1361/` – 16 filer, start med `rundskriv/rundskriv-r15-00-for-1361/oversikt.md`
+- `rundskriv/rundskriv-r15-08/` – 2 filer, start med `rundskriv/rundskriv-r15-08/oversikt.md`
 - `rundskriv/rundskriv-r16-00/` – 15 filer, start med `rundskriv/rundskriv-r16-00/oversikt.md`
 - `rundskriv/rundskriv-r17-00/` – 19 filer, start med `rundskriv/rundskriv-r17-00/oversikt.md`
 - `rundskriv/rundskriv-r18-00/` – 13 filer, start med `rundskriv/rundskriv-r18-00/oversikt.md`
 - `rundskriv/rundskriv-r19-00/` – 77 filer, start med `rundskriv/rundskriv-r19-00/oversikt.md`
 - `rundskriv/rundskriv-r20-00/` – 81 filer, start med `rundskriv/rundskriv-r20-00/oversikt.md`
 - `rundskriv/rundskriv-r21-00/` – 33 filer, start med `rundskriv/rundskriv-r21-00/oversikt.md`
+- `rundskriv/rundskriv-r21-00b/` – 13 filer, start med `rundskriv/rundskriv-r21-00b/oversikt.md`
 - `rundskriv/rundskriv-r22-00/` – 25 filer, start med `rundskriv/rundskriv-r22-00/oversikt.md`
 - `rundskriv/rundskriv-r23-00/` – 18 filer, start med `rundskriv/rundskriv-r23-00/oversikt.md`
 - `rundskriv/rundskriv-r24-00/` – 4 filer, start med `rundskriv/rundskriv-r24-00/oversikt.md`
 - `rundskriv/rundskriv-r25-00/` – 19 filer, start med `rundskriv/rundskriv-r25-00/oversikt.md`
+- `rundskriv/rundskriv-r25-03-for/` – 8 filer, start med `rundskriv/rundskriv-r25-03-for/oversikt.md`
+- `rundskriv/rundskriv-r25-16-for-368/` – 39 filer, start med `rundskriv/rundskriv-r25-16-for-368/oversikt.md`
+- `rundskriv/rundskriv-r26-00/` – 117 filer, start med `rundskriv/rundskriv-r26-00/oversikt.md`
 <!-- AUTO-SLUTT -->

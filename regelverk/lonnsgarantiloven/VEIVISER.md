@@ -40,16 +40,16 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 ### Lønnsgarantiloven
 
-- § 1. – `lov/par-1.md`
-- § 2. – `lov/par-2.md`
-- § 3. – `lov/par-3.md`
-- § 4. – `lov/par-4.md`
-- § 5. – `lov/par-5.md`
-- § 6. – `lov/par-6.md`
-- § 7. – `lov/par-7.md`
-- § 8. – `lov/par-8.md`
-- § 9. – `lov/par-9.md`
-- § 10. – `lov/par-10.md`
+- § 1. – `lov/par-1.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-1-2.md`, `rundskriv/rundskriv-r67-00/par-1.md`)
+- § 2. – `lov/par-2.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-2.md`)
+- § 3. – `lov/par-3.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-3.md`)
+- § 4. – `lov/par-4.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-4.md`)
+- § 5. – `lov/par-5.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-5.md`)
+- § 6. – `lov/par-6.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-6.md`)
+- § 7. – `lov/par-7.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-7.md`)
+- § 8. – `lov/par-8.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-8.md`)
+- § 9. – `lov/par-9.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-9.md`)
+- § 10. – `lov/par-10.md` (rundskriv: `rundskriv/rundskriv-r67-00/par-10.md`)
 - § 11. – `lov/par-11.md`
 - § 12. – `lov/par-12.md`
 
@@ -122,4 +122,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
 
 - **Direktiv 2008/94** (Insolvensdirektivet (lønnsgaranti)) – i basen: `regelverk/eu/direktiv-2008-94/VEIVISER.md`. Nevnt i `forskrifter/statsgaranti-lonnskrav/par-1-1.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/rundskriv-r67-00/` – 15 filer, start med `rundskriv/rundskriv-r67-00/oversikt.md`
 <!-- AUTO-SLUTT -->

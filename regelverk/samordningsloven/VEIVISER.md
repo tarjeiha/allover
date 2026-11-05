@@ -404,4 +404,13 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 1. Virkeområde – `forskrifter/samordningsgaranti-innforing-2023/par-1.md`
 - § 2. Samordningsgaranti – `forskrifter/samordningsgaranti-innforing-2023/par-2.md`
 - § 3. Ikrafttredelse – `forskrifter/samordningsgaranti-innforing-2023/par-3.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/rundskriv-r80-10/` – 2 filer, start med `rundskriv/rundskriv-r80-10/oversikt.md`
+- `rundskriv/rundskriv-r80-15/` – 2 filer, start med `rundskriv/rundskriv-r80-15/oversikt.md`
 <!-- AUTO-SLUTT -->
