@@ -21,9 +21,7 @@ jobs:
           mkdir -p kartlegg
           UA="regelverksbasen (tarjeiha/allover; GitHub Actions)"
           curl -sL -m 120 -A "$UA" -o /tmp/prop.pdf -w "dfo %{http_code} %{content_type} %{size_download}\n" \
-            "https://kudos.dfo.no/documents/358570/files/46649.pdf" | tee kartlegg/status.txt
-          cp /tmp/prop.pdf kartlegg/dfo-svar.html
-          curl -sL -m 60 -A "$UA" -o kartlegg/dfo-side.html -w "dfo-side %{http_code} %{size_download}\n" "https://kudos.dfo.no/documents/358570" | tee -a kartlegg/status.txt
+            "https://kudos.dfo.no/dokument/42b5b3de-41f1-4c8a-9749-31c5b9155fd0/filer/d2972257-a746-4ba6-beba-6714ae293c59.pdf" | tee kartlegg/status.txt
           for ch in; do
             curl -sL -m 60 -A "$UA" -o "/tmp/ch$ch.html" -w "regjeringen ch=$ch %{http_code} %{size_download}\n" \
               "https://www.regjeringen.no/no/dokumenter/prop.-79-l-20242025/id3094317/?ch=$ch" | tee -a kartlegg/status.txt
