@@ -1,0 +1,17 @@
+---
+rundskriv: "Generelt om forvaltningsloven og elevens beste"
+utgiver: "Utdanningsdirektoratet"
+lov: "Opplæringslova"
+kilde: "https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/forvaltningsloven/elevenes-rett-til-a-bli-hort-og-elevenes-beste/"
+lagt_inn: "2026-11-05"
+---
+
+# Generelt om forvaltningsloven og elevens beste: Elevenes rett til å bli hørt og elevenes beste
+
+Ved handlinger og avgjørelser som angår elever, skal det som er best for eleven være et grunnleggende hensyn. Elevene har rett til å bli hørt, og det skal legges vekt på meningene deres etter alder og modning. Dette følger av Grunnlovens § 104, barnekonvensjonen art. 3 og art. 12. At elevens beste gjelder, følger også av [opplæringsloven §§ 10-1](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/fjerde-del--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-10-det-beste-for-eleven-medverknad-skoledemokrati-foreldresamarbeid-skolereglar-og-plikt-til-a-delta/-10-1-det-beste-for-eleven/)og [10-2](https://www.udir.no/regelverkstolkninger/opplaring/lov-om-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-opplaringslova/fjerde-del--fellesreglar-for-grunnskoleopplaringa-og-den-vidaregaande-opplaringa-for-barn-og-unge/kapittel-10-det-beste-for-eleven-medverknad-skoledemokrati-foreldresamarbeid-skolereglar-og-plikt-til-a-delta/-10-2-elevane-sin-rett-til-medverknad/) og [privatskoleloven §§ 5A-1](https://www.udir.no/regelverkstolkninger/Privatskole/lov-om-frittstaande-skolar-friskolelova/kapittel-5a-det-beste-for-eleven-medverknad-skoledemokrati-foreldresamarbeid-skolereglar-og-plikt-til-a-delta/-5a-1-det-beste-for-eleven/) og [5A-2](https://www.udir.no/regelverkstolkninger/Privatskole/lov-om-frittstaande-skolar-friskolelova/kapittel-5a-det-beste-for-eleven-medverknad-skoledemokrati-foreldresamarbeid-skolereglar-og-plikt-til-a-delta/-5a-2-elevane-sin-rett-til-medverknad/) samt [forvaltningsloven § 17](https://lovdata.no/dokument/NL/lov/1967-02-10/KAPITTEL_4#%C2%A717). I opplæringsloven og privatskoleloven er disse rettighetene utvidet til også å gjelde elever som er over 18 år.
+
+Hensynet til elevenes beste er en rettighet, et grunnleggende hensyn og en saksbehandlingsregel. Det betyr at hensynet til elevenes beste alltid skal vurderes, og det vil være en saksbehandlingsfeil dersom en slik vurdering ikke er gjort. Hensynet til elevenes beste er ikke den eneste faktoren, men vil være en svært viktig del av vurderingen i saker som angår dem. Jo større konsekvenser et tiltak vil ha for en eller flere elever, desto større vekt skal legges på hensynet til eleven eller elevene. I vurderingen av hva som er elevens beste, vil elevens oppfatning være sentral. Hensynet til en enkelt elev kan også komme i konflikt med andre hensyn, for eksempel hensynet til andre elever. Disse hensynene må da vektes mot hverandre i vurderingen.
+
+Alle elever har rett til å bli hørt i saker som vedrører dem. Dette gjelder uavhengig av alder eller forutsetninger. Elever har ikke plikt til å uttale seg, men det må alltid vurderes om de er gitt anledning til bli hørt og om de er hørt godt nok i saken. Utgangspunktet er at elevene skal høres direkte, men de kan også høres gjennom andre personer, for eksempel foreldrene. Det kan også tenkes at elevens stemme kommer tydelig nok fram i annen dokumentasjon.
+
+Til toppen
