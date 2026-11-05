@@ -49,7 +49,7 @@ Navs egne pressemeldinger om statistikken (AAP, uføretrygd, arbeidsledighet, sy
 - Teksten er Navs egen. Tallene i filen er kontrollert mot Navs side. Figurer er lenket, ikke lagret.
 - Nav tar ned pressemeldinger etter omtrent ett år. Eldre tekster er hentet fra Internet Archives kopi av Navs side, og filen sier det. Oppgi da Nav som kilde og nevn at siden ikke lenger ligger ute.
 - Bruk pressemeldingen til å si hva Nav selv peker på og forklarer. Tallene hentes fra tabellene over. Pressemeldingen og tabellene kan ha ulik periode.
-- En pressemelding er Navs framstilling, ikke departementets vurdering.
+- En pressemelding er Navs egen framstilling, ikke en politisk vurdering.
 
 ## Nav-statistikk som ikke er lagt inn
 

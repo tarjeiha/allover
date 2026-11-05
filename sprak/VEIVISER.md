@@ -1,6 +1,6 @@
 # Språk og skriveregler – veiviser
 
-Skriveregler og språkføringer for tekst fra departementet. Bruk ved skriving, omsetting til nynorsk, redigering og korrektur.
+Skriveregler og språkføringer for fagtekst som proposisjoner, meldinger og brev. Bruk ved skriving, omsetting til nynorsk, redigering og korrektur.
 
 ## Hva som er dekket
 
@@ -45,17 +45,15 @@ Brev og e-post fra innbyggere kan behandles, men skal være avidentifisert av br
 - **Grunnregel:** der nynorsk har flere gyldige former, velg formen nærmest bokmål. Unntakene står i `ordliste.md` og `verbboying.md`, og de går foran grunnregelen.
 - **Kjønn:** stoff- og materialeord og ord på *-drag, -eri, -mål, -tak* osv. er intetkjønn (*eit metall*), ikke hunkjønn.
 - **Kildegrunnlaget skal følge med.** Bygger teksten på regelverk eller tall, skal kilden fortsatt stå i svaret (i teksten for internt bruk, adskilt for tekst til innbyggere).
-- **Reglene er ikke uttømmende.** For det som ikke står her, bruk hjelpemidlene nederst i `felles-skriveregler.md`, og si at det er generell nynorskregel, ikke departementets føring.
+- **Reglene er ikke uttømmende.** For det som ikke står her, bruk hjelpemidlene nederst i `felles-skriveregler.md`, og si at det er generell nynorskregel, ikke en føring fra veilederen.
 
-## Uavklart i veilederen
+## Valgte former
 
-Veilederen motsier seg selv eller er utdatert på disse punktene. Filene følger foreløpig det som står under, basert på praksis i Prop. 1 S 2025–2027. Avklares med eieren av veilederen.
+Disse valgene gjelder foran andre steder i filene, og følger praksis i Prop. 1 S 2025–2027:
 
-| Punkt | Motstrid | Foreløpig valg |
-|---|---|---|
-| -ing/-ning | Regelen sier -ning der det er valgfritt. Ordlista sier *forsking, satsing, avkorting, tilråding, verdiskaping* | Ordlista går foran. Prop. 1 S 2027: *forsking* 139, *forskning* 7 |
-| ligge føre | Verbtabellen i veilederen har *liggje føre*. j-regelen og ordlista sier *ligge føre* | *ligge føre* |
-| m.o.t. | Veilederen skriver *mot.* | *m.o.t.*, som proposisjonene bruker |
-| Fordrivne | Ordlista har «Fordrivne (ukrainske flyktningar)», men regelen sier at «ukrainske flyktningar» ikke skal brukes | Følg regelen i `felles-skriveregler.md` |
-| Hurdalsplattformen | Ikke lenger gjeldende regjeringsplattform | Bruk bare om den historiske plattformen, i formen *Hurdalsplattforma* |
-| Arbeidsløyse | Ikke i veilederen, lagt til etter avtale med en bruker. Strider mot grunnregelen om formen nærmest bokmål | *arbeidsløyse*, som proposisjonene bruker (14–18 ganger per år, *arbeidsledigheit* 0) |
+- **-ing/-ning:** ordlista går foran -ning-regelen (*forsking, satsing, avkorting, tilråding, verdiskaping*).
+- *ligge føre*, ikke *liggje føre*.
+- *m.o.t.*, ikke *mot.*
+- **Fordrivne:** følg regelen i `felles-skriveregler.md`, ikke «ukrainske flyktningar».
+- *Hurdalsplattforma* brukes bare om den tidligere regjeringsplattformen.
+- *arbeidsløyse*, ikke *arbeidsledigheit*.

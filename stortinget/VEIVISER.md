@@ -47,7 +47,7 @@ Filtre per type:
 
 Visningen tilpasses antall treff: opptil 5 gir full tekst, 6–20 forkortet, flere enn 20 kompakt. Fritekstsøk sorteres etter relevans og deretter nyeste, andre søk nyeste først.
 
-Matchingen er ordbasert OG: alle ordene må finnes et sted i de søkte feltene, uansett rekkefølge. Vanlige fagord i AIDs område utvides med synonymer og nynorske former (AAP gir også arbeidsavklaringspenger, sykepenger også sjukepengar), se `SYNONYMER` i `scripts/sok_stortinget.py`. Et sammensatt ord som ikke finnes i noen post, deles i to ledd, og skriptet sier fra om det («pårørendestøtte» blir «pårørende» + «støtte»). Et sammensatt ord som finnes, deles ikke, så søk også på leddene hver for seg når dekningen betyr noe.
+Matchingen er ordbasert OG: alle ordene må finnes et sted i de søkte feltene, uansett rekkefølge. Vanlige fagord om arbeid, velferd og integrering utvides med synonymer og nynorske former (AAP gir også arbeidsavklaringspenger, sykepenger også sjukepengar), se `SYNONYMER` i `scripts/sok_stortinget.py`. Et sammensatt ord som ikke finnes i noen post, deles i to ledd, og skriptet sier fra om det («pårørendestøtte» blir «pårørende» + «støtte»). Et sammensatt ord som finnes, deles ikke, så søk også på leddene hver for seg når dekningen betyr noe.
 
 ## Krav til svaret
 

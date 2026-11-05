@@ -1,6 +1,6 @@
 # Føringer for nynorsk (grammatikk)
 
-Gjelder all nynorsk tekst fra departementet. Kilde: veilederen (se `VEIVISER.md`). Ordvalg står i `ordliste.md`, bøying av enkeltverb i `verbboying.md`.
+Gjelder all nynorsk fagtekst. Kilde: veilederen (se `VEIVISER.md`). Ordvalg står i `ordliste.md`, bøying av enkeltverb i `verbboying.md`.
 
 Grunnregel: der nynorsk har flere gyldige alternativer, velg formen som
 ligger nærmest bokmål.

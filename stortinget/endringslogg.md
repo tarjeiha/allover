@@ -1,6 +1,6 @@
 # Endringslogg
 
-Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner skillene og skillmappene som fantes før flyttingen.
+Loggen er overtatt fra skillen stortinget-fra2021. Eldre oppføringer nevner skillene og skillmappene som fantes før flyttingen.
 
 ## 2026-10-21 – Innstillinger i varselet
 
@@ -20,13 +20,13 @@ Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner
 
 **Endring:** `vedtak_felt()` og `vedtak_tekst()` i `felles.py` leser de nye feltene (med fallback til de gamle) og fjerner HTML. Oppdateringen vurderer nå også «annet» uten vedtakstekst på nytt. Prøvekjørt mot 2025-2026 i GitHub: 102 avviste, 6 «annet» (alle med tekst). Nattjobben i oktober og november kjører forrige sesjon og retter dataene av seg selv.
 
-**Søk:** `SYNONYMER` i `sok_stortinget.py` utvider AIDs fagord med synonymer og nynorske former. Et sammensatt søkeord uten treff deles i to ledd, og skriptet sier fra.
+**Søk:** `SYNONYMER` i `sok_stortinget.py` utvider fagord om arbeid, velferd og integrering med synonymer og nynorske former. Et sammensatt søkeord uten treff deles i to ledd, og skriptet sier fra.
 
 **Varsel:** Nattjobben skriver `siste-endringer.json` med nye poster og spørsmål som har fått svar, til varselet om nye stortingssaker (PR #67).
 
 ## 2026-10-19 – Flyttet til allover
 
-**Endring:** Begge skillpakkene (aid-stortinget-2013-2021 og aid-stortinget-fra2021) er slått sammen til `stortinget/` i allover, med én datafil per sesjon og datatype. Søkeskriptet og oppdateringsskriptene er tilpasset (`last_json`/`skriv_json` arbeider på mapper). Oppdateringen kjører som Action hver natt.
+**Endring:** Begge skillpakkene (stortinget-2013-2021 og stortinget-fra2021) er slått sammen til `stortinget/` i allover, med én datafil per sesjon og datatype. Søkeskriptet og oppdateringsskriptene er tilpasset (`last_json`/`skriv_json` arbeider på mapper). Oppdateringen kjører som Action hver natt.
 
 **Funn:** 287 representantforslag i 2013-2021-dataene sto to ganger, med to ulike `sesjon_fremmet`, fordi samme sak er listet i to påfølgende sesjoner. Dublettene er fjernet ved sammenslåingen, og første forekomst er beholdt.
 
@@ -34,7 +34,7 @@ Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner
 
 **Funn:** Lenkene til spørsmål på stortinget.no brukte parameteret `?qid=`, som gir serverfeil. Riktig parameter er `?qnid=`. Bekreftet av bruker 13.10.2026 for alle tre spørsmålstyper (f.eks. `?qid=127672` feiler, `?qnid=127672` gir riktig side).
 
-**Endring:** `URLS` i `scripts/felles.py` og URL-mønstrene i `references/oppdatering.md` endret fra `qid` til `qnid`. Datafilene lagrer ikke lenker (de bygges fra `legacy_id` ved visning), så ingen data måtte bygges om. Samme rettelse gjort i companion-skillen `aid-stortinget-2013-2021`.
+**Endring:** `URLS` i `scripts/felles.py` og URL-mønstrene i `references/oppdatering.md` endret fra `qid` til `qnid`. Datafilene lagrer ikke lenker (de bygges fra `legacy_id` ved visning), så ingen data måtte bygges om. Samme rettelse gjort i companion-skillen `stortinget-2013-2021`.
 
 ## 2026-09-22 – Ordbasert matching og retningslinjer for brede søk
 
@@ -43,7 +43,7 @@ Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner
 **Endring:**
 1. `matcher_tekstfelt()` endret fra fraseoverensstemmelse til ordbasert AND (alle ord i søket må finnes et sted i feltene, uansett rekkefølge/felt). Strengt supersett av gammel oppførsel — utvider aldri innskrenker treffmengden. Løser IKKE sammensatte ord (se «Matching er ordbasert AND» i SKILL.md).
 2. Nye retningslinjer i SKILL.md: ikke kurer fra kompakt titteltavisning over 20 treff (bruk `--format json` eller spør bruker om innsnevring); unngå `--minister`/`--komite` som første innsnevringsakse på tverrgående velferdstemaer.
-3. Samme kodeendring gjort i companion-skillen `aid-stortinget-2013-2021` (egen, uavhengig kopi av skriptet — ikke delt via felles.py, siden matcher_tekstfelt kun brukes av søkeskriptet, ikke av vedlikeholdsskriptene).
+3. Samme kodeendring gjort i companion-skillen `stortinget-2013-2021` (egen, uavhengig kopi av skriptet — ikke delt via felles.py, siden matcher_tekstfelt kun brukes av søkeskriptet, ikke av vedlikeholdsskriptene).
 
 **Basert på:** Brukersamtale 2026-09-22 der et konkret glipp (qid=108210) ble diagnostisert trinnvis, inkludert kvantifisert emne-dekning og et manuelt ord-vs-frase-forsøk før koden ble endret.
 
@@ -82,7 +82,7 @@ Loggen er overtatt fra skillen aid-stortinget-fra2021. Eldre oppføringer nevner
 
 **Endring:** Hentet fersk XML for sesjon 2025-2026 (alle fem endepunkter, `status=alle`) og sammenlignet mot lokale ID-er (som nå inkluderer dagens tidligere `status=alle`-backfill). Lagt til: 14 nye poster i `sporsmal.json` (id 127251–127276: 13 skriftlige spørsmål + 1 interpellasjon fra Kjersti Toppe til helse- og omsorgsministeren om Finnmarkssykehuset, alle `til_behandling`). 0 nye anmodningsvedtak, 0 nye representantforslag.
 
-Relevante for AID blant de 14: 1 stilt direkte til ARI (id 127263, vertskommuners dekning av merutgifter ved asylmottak). 2 traff temaklyngen integrering/migrasjon ved bredt søk (id 127264: UDI-saksbehandlingstid for oppholdstillatelse til sesongarbeidere; id 127267: adgang for Gaza-studenter/-forskere til å fortsette utdanning i Norge, sistnevnte grensetilfelle).
+Relevante for arbeid, velferd og integrering blant de 14: 1 stilt direkte til ARI (id 127263, vertskommuners dekning av merutgifter ved asylmottak). 2 traff temaklyngen integrering/migrasjon ved bredt søk (id 127264: UDI-saksbehandlingstid for oppholdstillatelse til sesongarbeidere; id 127267: adgang for Gaza-studenter/-forskere til å fortsette utdanning i Norge, sistnevnte grensetilfelle).
 
 **Merk om «endringslogg 2026-09-14»:** Oppgaveteksten for denne kjøringen viste igjen til en kjent synk-etterslep-oppføring datert 2026-09-14. Bekreftet på nytt (som i forrige kjøring samme dag): ingen slik oppføring finnes i denne loggen. Flagget til bruker i oppsummeringen i stedet for å anta innhold — samme observasjon som forrige runde, gjentas her for sporbarhet.
 
@@ -118,7 +118,7 @@ Samme mønster bekreftet på de to andre spørsmålstypene for inneværende sesj
 
 ## 2026-09-16 – Ukentlig inkrementell oppdatering (automatisert)
 
-**Endring:** Hentet fersk XML for sesjon 2025-2026 (alle fire datatyper) og sammenlignet mot lokale ID-er. Lagt til: 10 nye spørsmål/interpellasjoner/spørretime (id-er 126991–127163, datert 28.08–15.09.2026). 0 nye anmodningsvedtak, 0 nye representantforslag denne runden. Ingen av de 10 nye spørsmålene var stilt til ARI eller traff AID-ens temaklynger (trygdeytelser, arbeidsliv, NAV, integrering/migrasjon) — sjekket manuelt siden volumet var lite.
+**Endring:** Hentet fersk XML for sesjon 2025-2026 (alle fire datatyper) og sammenlignet mot lokale ID-er. Lagt til: 10 nye spørsmål/interpellasjoner/spørretime (id-er 126991–127163, datert 28.08–15.09.2026). 0 nye anmodningsvedtak, 0 nye representantforslag denne runden. Ingen av de 10 nye spørsmålene var stilt til ARI eller traff temaklyngene for arbeid, velferd og integrering (trygdeytelser, arbeidsliv, NAV, integrering/migrasjon) — sjekket manuelt siden volumet var lite.
 
 **Datakvalitetsfunn (ikke rettet, utenfor omfanget av denne kjøringen):** `representantforslag.json` har 1506 poster men bare 1367 unike id-er — 139 duplikate id-er finnes allerede i datasettet (bekreftet før denne kjøringens skriving, dette er ikke noe jeg introduserte). Bør ryddes ved neste større vedlikehold.
 
@@ -155,7 +155,7 @@ Samme mønster bekreftet på de to andre spørsmålstypene for inneværende sesj
 **Funn:** Brukeren ønsket spørretimespørsmål tilbake (tatt ut i forrige revisjon pga. 30 MB-grensen), og foreslo å løse plassproblemet ved å dele skillen i to periode-pakker i stedet for å kutte innhold — splittet ved regjeringsskiftet Solberg→Støre (sesjon 2020-2021/2021-2022), som gir både en naturlig politisk skillelinje og god størrelsesbalanse.
 
 **Endring:**
-- Skillen delt i `aid-stortinget-2013-2021` (Solberg-perioden, avsluttet) og `aid-stortinget-fra2021` (denne pakken, 5+ sesjoner, Støre-perioden — vokser videre, dette er stedet nye sesjoner alltid legges til)
+- Skillen delt i `stortinget-2013-2021` (Solberg-perioden, avsluttet) og `stortinget-fra2021` (denne pakken, 5+ sesjoner, Støre-perioden — vokser videre, dette er stedet nye sesjoner alltid legges til)
 - Spørretimespørsmål lagt til igjen i begge pakker (samme komprimeringsmønster som skriftlig/interpellasjon: kort typekode, ministertittel-oppslag, rekonstruert lenke)
 - Størrelse denne pakken: 14,6 MB (1695 anmodningsvedtak + 18847 spørsmål/interpellasjon/spørretime + 1506 representantforslag)
 - Søkeskriptet identisk mellom pakkene bortsett fra `PERIODE_START_AAR`/`PERIODE_SLUTT_AAR`/`COMPANION_SKILL`-konstantene, som styrer et presist varsel når en sesjon utenfor denne periodens dekning etterspørres — skiller eksplisitt mellom «feil periode, bruk companion-skillen» og «ikke oppdatert ennå», slik at Claude ikke feilaktig konkluderer at indeksen må friskes opp når det egentlig er snakk om å bruke den andre skillen
@@ -189,7 +189,7 @@ Resultat: 49,4 MB → 25,9 MB. Testet grundig at rekonstruert lenke og ministert
 
 **Funn:** Brukeren ønsket tilsvarende indeksering av skriftlige spørsmål og interpellasjoner. Diskusjon avdekket flere designspørsmål underveis:
 1. Bør dette være egen skill eller del av anmodningsvedtak-skillen? Løst med presedens fra regelverksskillene: del etter fagområde (alt fra Stortinget), ikke kildetype. Én skill, ikke tre-fire.
-2. Bør datasettet avgrenses til AID-relevante saker (f.eks. spørsmål til AID-ministeren)? Forkastet — samme begrunnelse som at anmodningsvedtak dekker alle departementer. Mottaker er dessuten et svakere avgrensningssignal enn komité, siden regjeringsomdanninger flytter ansvarsområder uten at spørsmålets innhold endres. Løsning: full dekning + `--minister`/`--komite` som søkefilter, ikke innebygd avgrensning.
+2. Bør datasettet avgrenses til saker om arbeid, velferd og integrering (f.eks. spørsmål til arbeids- og inkluderingsministeren)? Forkastet — samme begrunnelse som at anmodningsvedtak dekker alle departementer. Mottaker er dessuten et svakere avgrensningssignal enn komité, siden regjeringsomdanninger flytter ansvarsområder uten at spørsmålets innhold endres. Løsning: full dekning + `--minister`/`--komite` som søkefilter, ikke innebygd avgrensning.
 3. Skulle vi ta med spørretimespørsmål og representantforslag også? Ja til begge — spørretimespørsmål har identisk skjema og kostnad som skriftlig/interpellasjon (naturlig å ta med samtidig). Representantforslag ble inkludert etter diskusjon om at avviste forslag ellers usynliggjøres helt (et forslag som stemmes ned produserer aldri et anmodningsvedtak).
 4. Volumsjekk før bygging: skriftlige spørsmål er ~15x volumet av anmodningsvedtak per sesjon. Løst ved å oppdage at liste-endepunktet allerede inneholder full spørsmålstekst + metadata — ingen per-post-berikelse nødvendig (i motsetning til anmodningsvedtak, som krengte sak-oppslag). Selve svarteksten er likevel ikke inkludert (krever `enkeltsporsmal`-oppslag, upraktisk i bulk for 39 000+ poster) — hentes live ved behov i stedet.
 5. **Representantforslag-utfall var den krevende delen.** Første forsøk (voteringsendepunktet, `vedtatt: true/false` per votering) ble testet og forkastet — feltet skiller ikke reelt vedtatt forslag fra vedtatt *avvisning* av forslaget. Løsningen ble å gjenbruke rådata vi allerede hadde (alle vedtakstyper, ikke bare ANMOD, fra alle 13 sesjoner) og matche på sak_id — men et forslags vedtak kan komme i en **senere** sesjon enn den det ble fremmet i (`behandlet_sesjon_id` kan avvike). Løst med ett samlet sak_id-til-vedtak-oppslag på tvers av alle sesjoner (2,9 sek å bygge, null nye API-kall). Avvisningsformelen viste seg å ha mange varianter på bokmål og nynorsk (`vedlegges protokollen`, `vedtas ikke`, `lagt ved møteboka`, `blir å leggja ved`, m.fl.) — funnet iterativt ved å inspisere restkategorien «annet» etter hver runde til den sluttet å krympe merkbart.
@@ -198,7 +198,7 @@ Resultat: 49,4 MB → 25,9 MB. Testet grundig at rekonstruert lenke og ministert
 - Ny fil `data/sporsmal_2013-2026.json` (39040 poster: skriftlig spørsmål, interpellasjon, spørretimespørsmål — samme skjema, type-felt skiller dem)
 - Ny fil `data/representantforslag_2013-2026.json` (3220 poster, utfallsfordeling: 56% avvist, 28% vedtatt som anmodning, 2,5% annet, 14% ukjent)
 - Søkeskriptet omdøpt til `scripts/sok_stortinget.py`, utvidet med `--datatype`, `--minister`, `--sporsmalstype`, `--parti`, `--utfall`. Søker i alle tre datatyper samtidig med mindre `--datatype` er angitt.
-- Skillen omdøpt til `aid-stortinget-fra2013` (fra `aid-anmodningsvedtak-fra2013`) siden omfanget nå er bredere. Se tidligere omdøpingshistorikk under.
+- Skillen omdøpt til `stortinget-fra2013` (fra `anmodningsvedtak-fra2013`) siden omfanget nå er bredere. Se tidligere omdøpingshistorikk under.
 
 **Basert på:** Bygge-samtale 2026-09-10.
 
@@ -211,15 +211,15 @@ Resultat: 49,4 MB → 25,9 MB. Testet grundig at rekonstruert lenke og ministert
 
 ## 2026-09-10 – Omdøping
 
-**Funn:** Ikke et funn, men en bevisst navneendring — fra `aid-anmodningsvedtak` til `aid-anmodningsvedtak-fra2013`, for å gjøre datadekningens startpunkt synlig i navnet uten å bake inn et sluttår som blir feil ved neste sesjonsoppdatering (mellomforslag som inkluderte sluttår, f.eks. `-2013til2026`, ble forkastet av nettopp denne grunnen).
+**Funn:** Ikke et funn, men en bevisst navneendring — fra `anmodningsvedtak` til `anmodningsvedtak-fra2013`, for å gjøre datadekningens startpunkt synlig i navnet uten å bake inn et sluttår som blir feil ved neste sesjonsoppdatering (mellomforslag som inkluderte sluttår, f.eks. `-2013til2026`, ble forkastet av nettopp denne grunnen).
 
 **Endring:** `name`-felt i SKILL.md, mappenavn, og referanse i denne loggens tittel oppdatert. Ingen funksjonell endring i skript eller data.
 
 **Basert på:** Brukerens eksplisitte ønske, 2026-09-10.
 
-**Ikke gjort ennå:** Brukeren må selv slette den tidligere installerte `aid-anmodningsvedtak` (annet navn = ny skill for claude.ai, ikke en oppdatering av den gamle).
+**Ikke gjort ennå:** Brukeren må selv slette den tidligere installerte `anmodningsvedtak` (annet navn = ny skill for claude.ai, ikke en oppdatering av den gamle).
 
-**Vurdert og forkastet:** Navn med eksplisitt sluttår (`aid-anmodningsvedtak-2013til2026`, `aid-sesjon2013-14-til-siste`) — forkastet fordi sluttåret uansett må oppdateres i SKILL.md-teksten ved hver sesjon, og et navn som også må vedlikeholdes er en unødvendig ekstra feilkilde. Endelig navn holder kun startåret, som er stabilt.
+**Vurdert og forkastet:** Navn med eksplisitt sluttår (`anmodningsvedtak-2013til2026`, `sesjon2013-14-til-siste`) — forkastet fordi sluttåret uansett må oppdateres i SKILL.md-teksten ved hver sesjon, og et navn som også må vedlikeholdes er en unødvendig ekstra feilkilde. Endelig navn holder kun startåret, som er stabilt.
 
 ## 2026-09-10 – Kaldtest runde 1: stikkord-bloat, manglende lenke, upresist "viser X"
 

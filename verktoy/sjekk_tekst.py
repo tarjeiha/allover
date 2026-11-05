@@ -3,7 +3,10 @@
 
 Sjekker at
 - stier i `backticks` finnes (relativt til roten, regelverksmappen eller filens mappe),
-- ingen tekst sier at et regelverk som er i regelverk.json, «ikke er i basen» eller «ikke er dekket».
+- ingen tekst sier at et regelverk som er i regelverk.json, «ikke er i basen» eller «ikke er dekket»,
+- ingen håndskrevet tekst har departementsnavnet som avsender: «AID», «ASD», skillnavn med «aid-»
+  eller uttrykk som «tekst fra departementet» og «departementets vurdering». Repoet er åpent og skal ikke
+  se ut som noe et departement har publisert. Når lovteksten selv sier «departementet», er det greit.
 
 Lov- og forskriftstekst, rundskriv og AUTO-blokkene kontrolleres ikke, de bygges automatisk.
 Skriver funnene og avslutter med kode 1 hvis det er feil.
@@ -17,6 +20,11 @@ from pathlib import Path
 
 ROT = Path(__file__).resolve().parent.parent
 STI = re.compile(r"`([^`\s]+)`")
+AVSENDER = re.compile(
+    r"\bAIDs?\b|\bASD\b|(?<![-\w])aid-[a-z]"
+    r"|\b(?:fra|i|for|hos)\s+departementet\b(?!\s+(?:kan|skal|gir|har\s+hjemmel))"
+    r"|\bdepartementets\s+(?:vurdering|føring|skriveregler|interne|egne|mål|budsjett)"
+    r"|\bdepartementet\s+(?:har\s+valgt|mener|vil)\b")
 IKKE_I_BASEN = r"(?:er\s+)?(?:\*\*)?ikke(?:\*\*)?\s+(?:i\s+basen|dekket|med\s+i\s+basen|lagt\s+inn)"
 
 
@@ -29,6 +37,16 @@ def filer() -> list:
     ut = sorted((ROT / "regelverk").rglob("VEIVISER.md"))
     ut += sorted(f for f in (ROT / "regelverk").rglob("merknader/*.md"))
     return ut
+
+
+def avsenderfiler() -> list:
+    """Håndskrevne filer utenfor regelverk/ som leses av alle: inngangsfiler, skills, veivisere og README."""
+    ut = [ROT / n for n in ("README.md", "OM-BASENE.md", "CLAUDE.md", "SKILLVERSJONER.md")]
+    ut += sorted((ROT / "skills").rglob("*.md")) + sorted((ROT / "sprak").glob("*.md"))
+    ut += sorted((ROT / "data").glob("*.md")) + sorted((ROT / "stortinget").glob("*.md"))
+    ut += [ROT / d / "VEIVISER.md" for d in ("budsjett", "politikk", "veiledere")]
+    ut += sorted(ROT.glob("innboks*/README.md")) + sorted((ROT / "verktoy").glob("*.md"))
+    return [f for f in ut if f.exists()]
 
 
 def regelverksmappe(fil: Path) -> Path:
@@ -89,6 +107,13 @@ def sjekk() -> list:
             m = dekket.search(linje)
             if m:
                 funn.append(f"{rel}:{nr}: «{m.group(0).strip()}», men {m.group(1)} er i basen")
+            if a := AVSENDER.search(linje):
+                funn.append(f"{rel}:{nr}: «{a.group(0)}» viser et departement som avsender")
+    for fil in avsenderfiler():
+        rel = fil.relative_to(ROT).as_posix()
+        for nr, linje in enumerate(handskrevet(fil).splitlines(), 1):
+            if a := AVSENDER.search(linje):
+                funn.append(f"{rel}:{nr}: «{a.group(0)}» viser et departement som avsender")
     return funn
 
 

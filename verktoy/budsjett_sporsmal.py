@@ -10,8 +10,9 @@ Finansdepartementets svar. Tomme maler (feltet Parti er «[Parti]») hoppes over
 Svarene legges i budsjett/ÅR/sporsmal/RUNDE/, én Markdown-fil per svar (PARTI-NR.md), og
 sporsmal.tsv lages på nytt av alle filene i mappen. Flere samledokumenter for samme runde kan
 derfor lastes opp etter hverandre. Et svar med samme parti og nummer erstattes.
-Svar som står i utelatt.txt i mappen (én linje per svar, som filnavnet uten .md, f.eks. «v-143»),
-legges ikke inn. Det brukes for svar som ikke er publisert på regjeringen.no.
+Samledokumentet kan ha svar som ikke er publisert. Det skal derfor aldri lastes opp i repoet, og
+skriptet brukes bare lokalt. Vanlig innlegging går via budsjett_sporsmal_json.py, som bare tar med
+publiserte svar.
 felt.tsv i mappen holdes for hånd og har én rad per svar (kolonnen fil) med type, tema, år,
 forutsetninger, grunnlag, familie, se_ogsa, publisert, versjoner og lenke til regjeringen.no.
 Feltene kobles inn i sporsmal.tsv ved hvert bygg, så de overlever ny innlegging.
@@ -161,14 +162,6 @@ def ukjente_familier(rader, budsjett=BUDSJETT):
     return sorted({r["familie"] for r in rader if r.get("familie")} - kjente)
 
 
-def utelatt(mappe):
-    """Gir filnavnene (uten .md) som ikke skal legges inn, fra utelatt.txt i mappen."""
-    f = mappe / "utelatt.txt"
-    if not f.exists():
-        return set()
-    return {l.split("#")[0].strip() for l in f.read_text(encoding="utf-8").splitlines()} - {""}
-
-
 def legg_inn(sti, budsjett=BUDSJETT):
     """Legger inn alle svar i ett samledokument. Gir en kort rapport."""
     svar = [d for b in svarblokker(sti) if (d := les_svar(b))]
@@ -180,24 +173,19 @@ def legg_inn(sti, budsjett=BUDSJETT):
     aar, runde = runder.pop()
     mappe = budsjett / str(aar) / "sporsmal" / slug(runde)
     mappe.mkdir(parents=True, exist_ok=True)
-    nye = hoppet = 0
-    utenfor = utelatt(mappe)
+    nye = 0
     for d in svar:
         navn = f"{slug(d['Parti'])}-{slug(d['Spørsmålsnr'])}"
-        if navn in utenfor:
-            hoppet += 1
-            continue
         f = mappe / f"{navn}.md"
         nye += not f.exists()
         f.write_text(markdown(d), encoding="utf-8")
     rader = oppdater_indeks(mappe)
-    utelatt_tekst = f", {hoppet} utelatt etter utelatt.txt" if hoppet else ""
     per_parti = Counter(r["parti"] for r in rader)
     uten_felt = sum(not r["type"] for r in rader)
     felt_tekst = f". {uten_felt} uten rad i felt.tsv" if uten_felt else ""
     if ukjente := ukjente_familier(rader, budsjett):
         felt_tekst += ". Ukjente familier: " + ", ".join(ukjente)
-    return (f"{len(svar)} svar til {runde} {aar} ({nye} nye{utelatt_tekst}), "
+    return (f"{len(svar)} svar til {runde} {aar} ({nye} nye), "
             f"{len(rader)} i alt i `budsjett/{aar}/sporsmal/{mappe.name}/` ("
             + ", ".join(f"{p} {n}" for p, n in sorted(per_parti.items())) + f"){felt_tekst}")
 

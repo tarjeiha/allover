@@ -87,7 +87,7 @@ def egen_sesjon(v):
     return v.get('sesjon') or v.get('sesjon_fremmet')
 
 
-# Synonymer og skrivemåter for AIDs fagord, inkludert nynorsk. Står ett av uttrykkene i
+# Synonymer og skrivemåter for fagord om arbeid, velferd og integrering, inkludert nynorsk. Står ett av uttrykkene i
 # søket, holder det at ett av uttrykkene i samme gruppe finnes i posten. Hold gruppene
 # smale: et uttrykk skal kunne erstatte et annet uten å endre hva søket handler om.
 SYNONYMER = [
