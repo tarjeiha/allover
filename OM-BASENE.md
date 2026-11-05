@@ -55,13 +55,13 @@ Lov- og forskriftsteksten hentes fra Lovdata hver natt.
 
 ### Statsbudsjettet
 
-- **2021:** Prop. 1 S for arbeid og inkludering, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2022:** Prop. 1 S for arbeid og inkludering, Prop. 1 S Tillegg 1, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2023:** Prop. 1 S for arbeid og inkludering, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2024:** Prop. 1 S for arbeid og inkludering, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2025:** Prop. 1 S for arbeid og inkludering, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2026:** Prop. 1 S for arbeid og inkludering, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
-- **2027:** Prop. 1 S for arbeid og inkludering, Gul bok, bevilgninger fra Gul bok (tabell), Nasjonalbudsjettet og svar på budsjettspørsmål fra Stortinget.
+- **2021:** Prop. 1 S for AID, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2022:** Prop. 1 S for AID, Prop. 1 S Tillegg 1, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2023:** Prop. 1 S for AID, Gul bok, Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2024:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2025:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2026:** Prop. 1 S for AID, bevilgninger fra Gul bok (tabell), Stortingets vedtak og svar på budsjettspørsmål fra Stortinget.
+- **2027:** Prop. 1 S for AID, Gul bok, bevilgninger fra Gul bok (tabell), Nasjonalbudsjettet og svar på budsjettspørsmål fra Stortinget.
 - **Satstabeller over flere år:** grunnstønad og hjelpestønad.
 
 Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.

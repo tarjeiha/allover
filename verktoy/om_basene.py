@@ -18,7 +18,7 @@ AUTO_START = "<!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger f
 AUTO_SLUTT = "<!-- AUTO-SLUTT -->"
 
 BUDSJETTDOK = [
-    ("prop-1-s-aid", "Prop. 1 S for arbeid og inkludering"),
+    ("prop-1-s-aid", "Prop. 1 S for AID"),
     ("prop-1-s-tillegg-1", "Prop. 1 S Tillegg 1"),
     ("gul-bok", "Gul bok"),
     ("gul-bok-bevilgninger.tsv", "bevilgninger fra Gul bok (tabell)"),

@@ -1,13 +1,13 @@
 name: Sjekk håndskrevet tekst
 
 on:
-  # Merknader og veivisere skrives for hånd. Kontrollen fanger døde stier og utsagn om at
-  # regelverk som er i basen, «ikke er i basen».
+  # Merknader og veivisere skrives for hånd. Kontrollen fanger døde stier, utsagn om at
+  # regelverk som er i basen, «ikke er i basen», og departementsnavn som avsender.
   pull_request:
-    paths: ["regelverk/**", "regelverk.json", "verktoy/sjekk_tekst.py"]
+    paths: ["regelverk/**", "regelverk.json", "verktoy/**", "skills/**", "sprak/**", "data/*.md", "stortinget/*.md", "budsjett/VEIVISER.md", "politikk/VEIVISER.md", "veiledere/VEIVISER.md", "innboks*/README.md", "*.md"]
   push:
     branches: [main]
-    paths: ["regelverk/**", "regelverk.json", "verktoy/sjekk_tekst.py"]
+    paths: ["regelverk/**", "regelverk.json", "verktoy/**", "skills/**", "sprak/**", "data/*.md", "stortinget/*.md", "budsjett/VEIVISER.md", "politikk/VEIVISER.md", "veiledere/VEIVISER.md", "innboks*/README.md", "*.md"]
   workflow_dispatch:
 
 permissions:

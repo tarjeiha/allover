@@ -4,7 +4,7 @@ Legger budsjettdokumenter fra innboks-budsjett/ inn i basen.
 
 Filnavn bestemmer hva dokumentet er (ÅR er budsjettåret, f.eks. 2027 for Prop. 1 S 2026–2027):
 
-    prop-1-s-ÅR-aid.docx                 Prop. 1 S arbeid/inkl. -> budsjett/ÅR/prop-1-s-aid/
+    prop-1-s-ÅR-aid.docx                 Prop. 1 S for AID     -> budsjett/ÅR/prop-1-s-aid/
     gul-bok-ÅR.docx                      Prop. 1 S Gul bok      -> budsjett/ÅR/gul-bok/
     nasjonalbudsjettet-ÅR.docx           Meld. St. 1            -> budsjett/ÅR/nasjonalbudsjettet/
     prop-1-s-ÅR-tillegg-N.docx           Prop. 1 S Tillegg N    -> budsjett/ÅR/prop-1-s-tillegg-N/
@@ -74,14 +74,14 @@ def klassifiser(navn):
             raise ValueError(f"sesjonen {fra}–{til} i filnavnet ser feil ut")
         if nr != 1 or dep not in DEP_KODER:
             raise ValueError(
-                f"filnavnet ser ut som Prop. {nr} S fra departementskoden «{dep}». Bare Prop. 1 S for arbeid og inkludering kjennes igjen på "
+                f"filnavnet ser ut som Prop. {nr} S fra departementskoden «{dep}». Bare Prop. 1 S for AID kjennes igjen på "
                 "originalnavnet. Døp om filen etter mønsteret i README.md"
             )
         return "prop", sjekk_aar(til), None
     raise ValueError(
         "filnavnet passer ikke. Bruk prop-1-s-ÅR-aid.docx, prop-1-s-ÅR-tillegg-N.docx, gul-bok-ÅR.docx, "
         "nasjonalbudsjettet-ÅR.docx eller gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027). "
-        "Originalnavnet fra regjeringen.no for Prop. 1 S for arbeid og inkludering (prp…ddddocx.docx) virker også"
+        "Originalnavnet fra regjeringen.no for Prop. 1 S for AID (prp…ddddocx.docx) virker også"
     )
 
 
@@ -154,7 +154,7 @@ def oppdater_veiviser():
     deler = []
     for mappe in sorted((p for p in BUDSJETT.iterdir() if p.is_dir() and p.name.isdigit()), reverse=True):
         funn = []
-        kjente = [("prop-1-s-aid", "Prop. 1 S for arbeid og inkludering")]
+        kjente = [("prop-1-s-aid", "Prop. 1 S for AID")]
         kjente += [(p.name, f"Prop. 1 S Tillegg {p.name.rsplit('-', 1)[1]} (alle departementer)")
                    for p in sorted(mappe.glob("prop-1-s-tillegg-*")) if p.is_dir()]
         kjente += [("gul-bok", "Gul bok"), ("nasjonalbudsjettet", "Nasjonalbudsjettet"), ("stortinget", "Stortingets vedtak"),
