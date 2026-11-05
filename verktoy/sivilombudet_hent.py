@@ -136,7 +136,13 @@ def main() -> int:
     nye, endret, borte, hentet = [], [], [], 0
 
     for side, lastmod in sorted(sider.items(), key=lambda x: x[1], reverse=True):
+        rå, lastmod = lastmod, f"{lastmod}|v{nett.FORMAT}"
         gammel = status.get(side)
+        if gammel and not gammel.get("fil") and gammel.get("lastmod", "").split("|")[0] == rå and not args.tving:
+            # Uttalelser som ble hoppet over (for gamle eller uten lov fra basen) hentes ikke på nytt
+            # bare fordi formatet er endret.
+            gammel["lastmod"] = lastmod
+            continue
         if gammel and gammel.get("lastmod") == lastmod and not args.tving:
             continue
         if args.maks and hentet >= args.maks:
@@ -194,7 +200,7 @@ def main() -> int:
             borte.append(rad["fil"])
 
     skriv_status(status)
-    gjenstår = sum(1 for s, l in sider.items() if status.get(s, {}).get("lastmod") != l)
+    gjenstår = sum(1 for s, l in sider.items() if status.get(s, {}).get("lastmod") != f"{l}|v{nett.FORMAT}")
     print(f"Hentet {hentet}. Nye: {len(nye)}, endret: {len(endret)}, borte: {len(borte)}, gjenstår: {gjenstår}")
     if nye or endret or borte:
         melding = [f"Sivilombudets uttalelser: {len(nye)} nye, {len(endret)} endret, {len(borte)} borte", ""]

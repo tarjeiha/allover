@@ -95,6 +95,9 @@ KILDER = {
 RESTER = re.compile(r"Til toppen|Skriv ut|Del|Lukk|east|west|north|south|close|menu"
                     r"|(?:arrow|expand|chevron|keyboard_arrow)_\w+", re.I)
 
+# Øk når konverteringen til Markdown endres, så alle sidene hentes og skrives på nytt.
+FORMAT = 2
+
 BASE = ""  # nettstedet som hentes nå, brukes når relative lenker gjøres fullstendige
 
 
@@ -339,7 +342,7 @@ def kjør_kilde(navn: str, kilde: dict, lover: dict, status: dict, dato: str, tv
     for (dok, lovmappe), sider in sorted(funnet.items()):
         lov = lover[f"regelverk/{lovmappe}"]
         mappe_rel = f"regelverk/{lovmappe}/rundskriv/{navn}/{mappenavn(dok)}"
-        lastmod = (max(sider.values()) + f"/{len(sider)}") if all(sider.values()) else ""
+        lastmod = (max(sider.values()) + f"/{len(sider)}/v{FORMAT}") if all(sider.values()) else ""
         gammel = status.get((navn, dok))
         finnes = (ROT / mappe_rel).exists()
         if gammel and lastmod and gammel.get("lastmod") == lastmod and finnes and not tving:
