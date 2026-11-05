@@ -29,7 +29,7 @@ import time
 import urllib.request
 from pathlib import Path
 
-from bs4 import BeautifulSoup, NavigableString
+from bs4 import BeautifulSoup, Comment, NavigableString
 
 ROT = Path(__file__).resolve().parent.parent
 LOVDATA = "https://lovdata.no"
@@ -63,6 +63,8 @@ def tekst(el) -> str:
     """Innebygd tekst med lenker."""
     deler = []
     for barn in el.children:
+        if isinstance(barn, Comment):
+            continue
         if isinstance(barn, NavigableString):
             deler.append(str(barn))
         elif barn.name == "a":
@@ -121,6 +123,8 @@ def blokker(div, nivå_fil: int) -> list:
     """Markdown-blokker for ett kapittel-div. Under-div-er blir overskrifter i samme fil."""
     ut = []
     for barn in div.children:
+        if isinstance(barn, Comment):
+            continue
         if isinstance(barn, NavigableString):
             if barn.strip():
                 ut.append(barn.strip())
@@ -175,15 +179,16 @@ def punkt_for(data_id: str) -> str:
 def les_handboka() -> tuple:
     """Returnerer (tittel, {punkt: (overskrift, markdown, url)}) i rekkefølge."""
     punkter = {}
-    url, sett, tittel = START, set(), NAVN
+    url, sett, tittel, sett_tittel = START, set(), NAVN, False
     for _ in range(MAKS_SIDER):
         if url in sett:
             break
         sett.add(url)
         soup = BeautifulSoup(hent(url), "lxml")
-        if soup.title and tittel == NAVN:
-            t = re.sub(r"\s*-\s*Lovdata\s*$", "", soup.title.get_text(" ", strip=True))
-            tittel = t or NAVN
+        if soup.title and not sett_tittel:
+            # Tittelen er «Statens personalhåndbok - 1 Innledning - Lovdata»: behold første ledd.
+            tittel = soup.title.get_text(" ", strip=True).split(" - ")[0].strip() or NAVN
+            sett_tittel = True
         kropp = soup.find(id="documentBody")
         if kropp is None:
             raise RuntimeError(f"fant ikke teksten på {url} – har Lovdata endret oppbygning?")
