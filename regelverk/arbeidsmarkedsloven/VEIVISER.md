@@ -57,7 +57,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Kapittel 1. Formål og virkeområde**
 
 - § 1. Formål – `lov/par-1.md`
-- § 2. Virkeområde – `lov/par-2.md`
+- § 2. Virkeområde – `lov/par-2.md` (rundskriv: `rundskriv/rundskriv-r76-00/par-2.md`)
 
 **Kapittel 2. (Opphevet)**
 
@@ -65,27 +65,27 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 **Kapittel 3. Arbeidsgivers meldeplikt**
 
 - § 7. Arbeidsgivers plikt til å melde ledige stillinger – `lov/par-7.md`
-- § 8. Arbeidsgivers meldeplikt og Arbeids- og velferdsetatens oppfølging ved masseoppsigelser og permitteringer – `lov/par-8.md`
+- § 8. Arbeidsgivers meldeplikt og Arbeids- og velferdsetatens oppfølging ved masseoppsigelser og permitteringer – `lov/par-8.md` (rundskriv: `rundskriv/rundskriv-r76-08-01/par-8.md`)
 
 **Kapittel 4. Registrering og behovsvurdering**
 
 - § 9. (Opphevet) – `lov/par-9.md`
-- § 10. Registrering som arbeidssøker – `lov/par-10.md`
+- § 10. Registrering som arbeidssøker – `lov/par-10.md` (rundskriv: `rundskriv/rundskriv-r76-00/par-10.md`)
 - § 11. (Opphevet) – `lov/par-11.md`
 
 **Kapittel 5. Arbeidsmarkedstiltak mv.**
 
-- § 12. Arbeidsmarkedstiltak – `lov/par-12.md`
+- § 12. Arbeidsmarkedstiltak – `lov/par-12.md` (rundskriv: `rundskriv/rundskriv-r76-00/par-12.md`)
 - § 13. Ytelser til gjennomføring av arbeidsmarkedstiltak mv. – `lov/par-13.md`
 
 **Kapittel 6. Saksbehandlingsregler**
 
 - § 14. Generelle saksbehandlingsregler – `lov/par-14.md`
 - § 15. Hvor krav om stønad skal settes fram – `lov/par-15.md`
-- § 16. Begrepene part og enkeltvedtak i visse saker – `lov/par-16.md`
+- § 16. Begrepene part og enkeltvedtak i visse saker – `lov/par-16.md` (rundskriv: `rundskriv/rundskriv-r76-00/par-16.md`)
 - § 17. Klage – `lov/par-17.md`
 - § 18. Underretning om vedtak – `lov/par-18.md`
-- § 19. Opplysningsplikt overfor Arbeids- og velferdsetaten – `lov/par-19.md`
+- § 19. Opplysningsplikt overfor Arbeids- og velferdsetaten – `lov/par-19.md` (rundskriv: `rundskriv/rundskriv-r76-00/par-19.md`)
 - § 20. Særlige begrensninger i taushetsplikten – `lov/par-20.md`
 - § 21. Politiattest – `lov/par-21.md`
 
@@ -453,4 +453,14 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 2. – `forskrifter/frist-masseoppsigelser/par-2.md`
 - § 3. – `forskrifter/frist-masseoppsigelser/par-3.md`
 - § 4. – `forskrifter/frist-masseoppsigelser/par-4.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/rundskriv-r76-00/` – 7 filer, start med `rundskriv/rundskriv-r76-00/oversikt.md`
+- `rundskriv/rundskriv-r76-08-01/` – 3 filer, start med `rundskriv/rundskriv-r76-08-01/oversikt.md`
+- `rundskriv/rundskriv-r76-12-01/` – 98 filer, start med `rundskriv/rundskriv-r76-12-01/oversikt.md`
 <!-- AUTO-SLUTT -->

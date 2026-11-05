@@ -42,7 +42,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 - § 1. Lovens virkeområde, definisjoner mv – `lov/par-1.md`
 - § 2. Lovens ufravikelighet – `lov/par-2.md`
-- § 3. Tiden for lønnsplikt under permittering – `lov/par-3.md`
+- § 3. Tiden for lønnsplikt under permittering – `lov/par-3.md` (rundskriv: `rundskriv/rundskriv-r37-00/par-3.md`)
 - § 3a. Meldeplikt til offentlig myndighet (Arbeids- og velferdsetaten) – `lov/par-3a.md`
 - § 3 b. (Opphevet) – `lov/par-3b.md`
 - § 4. Beregning av permitteringslønn – `lov/par-4.md`
@@ -58,4 +58,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 3a. (Opphevet) – `forskrifter/lonnsplikt-permittering/par-3a.md`
 - § 4. Forskyvning i beregningsperioden – `forskrifter/lonnsplikt-permittering/par-4.md`
 - § 5. Ikrafttredelse mv. – `forskrifter/lonnsplikt-permittering/par-5.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/rundskriv-r37-00/` – 4 filer, start med `rundskriv/rundskriv-r37-00/oversikt.md`
 <!-- AUTO-SLUTT -->

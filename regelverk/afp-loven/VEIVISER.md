@@ -39,12 +39,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 **Kapittel 1 Avtalefestet pensjon for medlemmer født i 1962 eller tidligere (gammel ordning)**
 
-- § 1. Omfang – `lov/par-1.md`
-- § 2. Vilkår for rett til avtalefestet pensjon – `lov/par-2.md`
-- § 3. Utforming av avtalefestet pensjon – `lov/par-3.md`
-- § 4. Regulering av pensjonen – `lov/par-4.md`
-- § 5. Administrasjon og avgjørelsesmyndighet – `lov/par-5.md`
-- § 6. Forskrifter – `lov/par-6.md`
+- § 1. Omfang – `lov/par-1.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-1-4.md`, `rundskriv/rundskriv-r62-00/par-1.md`)
+- § 2. Vilkår for rett til avtalefestet pensjon – `lov/par-2.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-2-4.md`, `rundskriv/rundskriv-r62-00/par-2.md`)
+- § 3. Utforming av avtalefestet pensjon – `lov/par-3.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-3.md`)
+- § 4. Regulering av pensjonen – `lov/par-4.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-4-4.md`, `rundskriv/rundskriv-r62-00/par-4.md`)
+- § 5. Administrasjon og avgjørelsesmyndighet – `lov/par-5.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-5-4.md`, `rundskriv/rundskriv-r62-00/par-5.md`)
+- § 6. Forskrifter – `lov/par-6.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-6.md`)
 
 **Kapittel 2 Avtalefestet pensjon for medlemmer født i 1963 eller senere (ny ordning)**
 
@@ -54,17 +54,17 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 10. Grunnlaget for beregning av avtalefestet pensjon – `lov/par-10.md`
 - § 11. Uttak av avtalefestet pensjon – `lov/par-11.md`
 - § 12. Regulering av avtalefestet pensjon – `lov/par-12.md`
-- § 13. Saksbehandlingsregler – `lov/par-13.md`
-- § 14. Forskrifter – `lov/par-14.md`
+- § 13. Saksbehandlingsregler – `lov/par-13.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-13.md`)
+- § 14. Forskrifter – `lov/par-14.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-14.md`)
 
 **Kapittel 3 Forskjellige bestemmelser**
 
-- § 15. Statsgaranti – `lov/par-15.md`
-- § 16. Tilbakekreving av feilutbetalinger mv. – `lov/par-16.md`
+- § 15. Statsgaranti – `lov/par-15.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-15.md`)
+- § 16. Tilbakekreving av feilutbetalinger mv. – `lov/par-16.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-16.md`)
 
 **Kapittel 4 Ikrafttredelse**
 
-- § 17. Ikrafttredelse og overgangsbestemmelser – `lov/par-17.md`
+- § 17. Ikrafttredelse og overgangsbestemmelser – `lov/par-17.md` (rundskriv: `rundskriv/rundskriv-r62-00/par-17.md`)
 
 ### Forskrift om kombinasjon av avtalefestet pensjon for medlemmer av Statens pensjonskasse og arbeidsinntekt (pensjonsgivende inntekt)
 
@@ -117,4 +117,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 - § 15. Særskilte tilfeller – `forskrifter/avtalefestet-pensjon-medlemmer-statens-2024/par-15.md`
 - § 16. Overgangsordning – `forskrifter/avtalefestet-pensjon-medlemmer-statens-2024/par-16.md`
 - § 17. Ikrafttredelse – `forskrifter/avtalefestet-pensjon-medlemmer-statens-2024/par-17.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/rundskriv-r62-00/` – 33 filer, start med `rundskriv/rundskriv-r62-00/oversikt.md`
 <!-- AUTO-SLUTT -->

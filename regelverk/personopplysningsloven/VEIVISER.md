@@ -234,4 +234,12 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 - Forordning nr. 182/2011 – ikke i basen. Nevnt i `lov/par-gdpr-a93.md`, `lov/utenfor-paragrafene.md`
 - Forordning nr. 1215/2012 – ikke i basen. Nevnt i `lov/utenfor-paragrafene.md`
 - Forordning nr. 536/2014 – ikke i basen. Nevnt i `lov/utenfor-paragrafene.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/rundskriv-r83-00-32016r0679/` – 2 filer, start med `rundskriv/rundskriv-r83-00-32016r0679/oversikt.md`
 <!-- AUTO-SLUTT -->
