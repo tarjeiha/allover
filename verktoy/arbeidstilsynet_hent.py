@@ -181,16 +181,25 @@ def les_side(side: str, i_basen: dict):
         paragraf = blokk.find_parent("div", class_="accordion__sub-chapter")
         knapp = paragraf.find("button") if paragraf else None
         overskrift = re.sub(r"\s+", " ", knapp.get_text(" ", strip=True)) if knapp else ""
-        m = re.match(r"(§\s*[\d]+(?:-\d+)*\s*[a-z]?)\.?\s*(.*)", overskrift)
+        m = re.match(r"(§\s*\d+\s*[A-Za-z]?(?:-\d+\s*[a-z]?)?)\.?\s*(.*)", overskrift)
         if not m:
             continue
         nr = re.sub(r"\s+", " ", m.group(1)).strip()
-        kommentarer.append((nr, m.group(2).strip().rstrip("."), markdown(innhold)))
+        tekst_ = markdown(innhold)
+        if kommentarer and slug(kommentarer[-1][0]) == slug(nr):
+            forrige = kommentarer.pop()
+            tekst_ = forrige[2] + "\n\n" + tekst_
+        kommentarer.append((nr, m.group(2).strip().rstrip("."), tekst_))
     return lov, forskrift, kommentarer
 
 
 def slug(nr: str) -> str:
-    return "par-" + re.sub(r"[^0-9a-z]+", "-", nr.lower().replace("§", "")).strip("-")
+    """«§ 16 A-7» -> par-16a-7, slik paragraffilene fra Lovdata heter."""
+    m = re.match(r"§\s*(\d+)\s*([A-Za-z]?)(?:-(\d+)\s*([a-z]?))?", nr)
+    if not m:
+        return "par-" + re.sub(r"[^0-9a-z]+", "-", nr.lower().replace("§", "")).strip("-")
+    kap, bokstav, nr2, bokstav2 = m.groups()
+    return f"par-{kap}{bokstav.lower()}" + (f"-{nr2}{bokstav2 or ''}" if nr2 else "")
 
 
 def skriv_mappe(side: str, lov: dict, forskrift: dict, kommentarer: list, dato: str) -> Path:
