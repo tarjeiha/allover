@@ -91,6 +91,8 @@ def type_for(sti: str) -> str | None:
         return "Vedtatte endringer, ikke i kraft"
     if "/rundskriv/personalhandboka/" in sti:
         return None if sti.endswith("/oversikt.md") else "Statens personalhåndbok"
+    if "/rundskriv/udir/" in sti:
+        return "Udirs rundskriv og veiledere"
     if "/rundskriv/arbeidstilsynet/" in sti:
         return "Arbeidstilsynets kommentarer"
     if "/rundskriv/" in sti:
@@ -107,6 +109,8 @@ def navn_for(mappe: str, sti: str, typ: str) -> str:
     rest = sti[len(mappe) + 1:].split("/")
     if typ == "Statens personalhåndbok":
         return Path(sti).stem.removeprefix("punkt-").replace("-", ".")
+    if typ == "Udirs rundskriv og veiledere":
+        return rest[rest.index("udir") + 1]
     if typ == "Arbeidstilsynets kommentarer":
         return rest[rest.index("arbeidstilsynet") + 1]
     if typ == "Rundskriv":
