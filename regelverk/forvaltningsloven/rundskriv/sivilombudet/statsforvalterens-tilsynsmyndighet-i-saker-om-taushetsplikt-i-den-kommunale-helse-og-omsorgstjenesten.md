@@ -15,14 +15,10 @@ Sivilombudets uttalelse 11.5.2023 (sak 2022/2836).
 ## Oppsummering
 
 På bakgrunn av en klagesak hit har Sivilombudet av eget tiltak, jf. sivilombudsloven § 15, undersøkt Statsforvalteren i Rogalands forståelse av reglene om taushetsplikt for personer i den kommunale helse- og omsorgstjenesten som ikke er helsepersonell, og av statsforvalterens tilsynsmyndighet i saker om brudd på taushetsplikt.  
-   
- Ombudet var enig med Statsforvalteren i at ordlyden i helsetilsynsloven § 4 tilsier at deres myndighet til å føre individrettet tilsyn er begrenset til helsepersonell og personell som yter helse- og omsorgstjenester, og som dermed vil ha profesjonsbestemt taushetsplikt etter helsepersonelloven §§ 21 flg. Det er først og fremst denne gruppens profesjonsbestemte taushetsplikt det vil være aktuelt å føre individrettet tilsyn med.  
-   
- I et tilsyn mot kommunen som virksomhet kan det likevel være aktuelt å undersøke den forvaltningsmessige taushetsplikten til personer i helse- og omsorgsforvaltningen uten profesjonsbestemt taushetsplikt. Muligheten til slikt tilsyn vil imidlertid være begrenset som følge av bestemmelsen i helse- og omsorgstjenesteloven § 12-3.  
-   
- Etter ombudets syn kan statsforvalteren uansett som del av et systemrettet tilsyn undersøke taushetsplikten for personer i helse- og omsorgstjenesten som ikke er helsepersonell eller yter helse- og omsorgstjenester, så langt det gjelder deres taushetsplikt for helseopplysninger etter helsepersonelloven §§ 21 flg., jf. helseregisterloven § 17, pasientjournalloven § 15 og helsepersonelloven § 26 fjerde ledd.  
-   
- En pasient, bruker og andres rett etter pasient- og brukerrettighetsloven § 7-4 til å anmode tilsynsmyndigheten om en vurdering av brudd på plikter etter blant annet helsepersonelloven og helse- og omsorgstjenesteloven, er ikke begrenset til pliktbrudd hos helsepersonell eller personell som yter helse- og omsorgstjenester. Ombudet mente derfor at statsforvalteren ved behandlingen av slike anmodninger kan føre individrettet tilsyn med brudd på taushetsplikt etter helse- og omsorgstjenesteloven § 12-1 og helsepersonelloven § 21, uavhengig av om saken gjelder personell som ikke er helsepersonell eller yter helse- og omsorgstjenester.
+Ombudet var enig med Statsforvalteren i at ordlyden i helsetilsynsloven § 4 tilsier at deres myndighet til å føre individrettet tilsyn er begrenset til helsepersonell og personell som yter helse- og omsorgstjenester, og som dermed vil ha profesjonsbestemt taushetsplikt etter helsepersonelloven §§ 21 flg. Det er først og fremst denne gruppens profesjonsbestemte taushetsplikt det vil være aktuelt å føre individrettet tilsyn med.  
+I et tilsyn mot kommunen som virksomhet kan det likevel være aktuelt å undersøke den forvaltningsmessige taushetsplikten til personer i helse- og omsorgsforvaltningen uten profesjonsbestemt taushetsplikt. Muligheten til slikt tilsyn vil imidlertid være begrenset som følge av bestemmelsen i helse- og omsorgstjenesteloven § 12-3.  
+Etter ombudets syn kan statsforvalteren uansett som del av et systemrettet tilsyn undersøke taushetsplikten for personer i helse- og omsorgstjenesten som ikke er helsepersonell eller yter helse- og omsorgstjenester, så langt det gjelder deres taushetsplikt for helseopplysninger etter helsepersonelloven §§ 21 flg., jf. helseregisterloven § 17, pasientjournalloven § 15 og helsepersonelloven § 26 fjerde ledd.  
+En pasient, bruker og andres rett etter pasient- og brukerrettighetsloven § 7-4 til å anmode tilsynsmyndigheten om en vurdering av brudd på plikter etter blant annet helsepersonelloven og helse- og omsorgstjenesteloven, er ikke begrenset til pliktbrudd hos helsepersonell eller personell som yter helse- og omsorgstjenester. Ombudet mente derfor at statsforvalteren ved behandlingen av slike anmodninger kan føre individrettet tilsyn med brudd på taushetsplikt etter helse- og omsorgstjenesteloven § 12-1 og helsepersonelloven § 21, uavhengig av om saken gjelder personell som ikke er helsepersonell eller yter helse- og omsorgstjenester.
 
 ## Sakens bakgrunn
 
@@ -115,7 +111,7 @@ Etter helsetilsynsloven § 4 andre ledd første punktum skal statsforvalteren f�
 Statsforvalterne skiller mellom tilsyn med plikter pålagt det enkelte personellet (individrettet tilsyn) og tilsyn med plikter pålagt kommunen som forvaltningsorgan (systemrettet tilsyn).
 
 Etter Statsforvalterens syn kan de ikke føre individrettet tilsyn med taushetsplikten til personell som ikke omfattes av angivelsen av tilsynssubjekter i helsetilsynsloven § 4, fordi de ikke er «helsepersonell» eller «yter helse og omsorgstjenester». Denne avgrensningen omfatter ifølge Statsforvalteren både personell som kun har forvaltningsmessig taushetsplikt etter helse- og omsorgstjenesteloven § 12-1, og personell som i utgangspunktet ikke omfattes av helsepersonelloven, men som har taushetsplikt etter helsepersonelloven § 21, fordi de behandler helseopplysninger, jf. pasientjournalloven  
- § 15 og helsepersonelloven § 26 fjerde ledd.
+§ 15 og helsepersonelloven § 26 fjerde ledd.
 
 Ombudet er i utgangspunktet enig med Statsforvalteren i at ordlyden i helsetilsynsloven § 4 tilsier at deres myndighet til «individrettet tilsyn» er begrenset til helsepersonell og personell som yter helse- og omsorgstjenester. Som det fremgår under punkt 2.3, vil den forvaltningsmessige taushetsplikten for slikt personell neppe ha selvstendig betydning ved siden av den profesjonsbestemte.
 

@@ -14,15 +14,11 @@ Sivilombudets uttalelse 11.4.2024 (sak 2023/5804).
 
 ## Oppsummering
 
-Saken gjelder lang saksbehandlingstid for behandling av søknader om akkreditering av utdanningsprogrammer i NOKUT og spørsmål om rekkefølgen for behandling av søknadene.   
-   
- To utdanningsinstitusjoner leverte søknader om akkreditering i mars og september 2023. De fikk beskjed av NOKUT om at søknadene ikke ville bli behandlet før i 2025 på grunn av manglende ressurser. NOKUT orienterte også om at søknader om masterstudier ville bli prioritert foran studier på bachelornivå.   
-   
- Sivilombudet kom til at en forventet saksbehandlingstid i NOKUT for akkreditering av studieprogrammer innen høyere utdanning (høyskoler og universiteter) på mer enn to år var i strid med kravene til saksbehandlingstid i forvaltningsloven § 11 a.   
-   
- Sivilombudet mente også at det stred mot det forvaltningsrettslige likhetsprinsippet å foreta en generell nedprioritering over et helt år av søknader om akkreditering av bachelorstudier når prioriteringen fikk klare uheldige følger for saksbehandlingstiden.   
-   
- Etter ombudets syn måtte NOKUT gi søkerne informasjon om forventet saksbehandlingstid så fort de hadde mulighet til å estimere dette.
+Saken gjelder lang saksbehandlingstid for behandling av søknader om akkreditering av utdanningsprogrammer i NOKUT og spørsmål om rekkefølgen for behandling av søknadene.  
+To utdanningsinstitusjoner leverte søknader om akkreditering i mars og september 2023. De fikk beskjed av NOKUT om at søknadene ikke ville bli behandlet før i 2025 på grunn av manglende ressurser. NOKUT orienterte også om at søknader om masterstudier ville bli prioritert foran studier på bachelornivå.  
+Sivilombudet kom til at en forventet saksbehandlingstid i NOKUT for akkreditering av studieprogrammer innen høyere utdanning (høyskoler og universiteter) på mer enn to år var i strid med kravene til saksbehandlingstid i forvaltningsloven § 11 a.  
+Sivilombudet mente også at det stred mot det forvaltningsrettslige likhetsprinsippet å foreta en generell nedprioritering over et helt år av søknader om akkreditering av bachelorstudier når prioriteringen fikk klare uheldige følger for saksbehandlingstiden.  
+Etter ombudets syn måtte NOKUT gi søkerne informasjon om forventet saksbehandlingstid så fort de hadde mulighet til å estimere dette.
 
 Se oppdatering fra forvaltningen
 

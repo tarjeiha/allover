@@ -16,10 +16,8 @@ Sivilombudets uttalelse 27.1.2020 (sak 2019/2174).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i korrespondanse mellom de tidligere tollregionene og Tolldirektoratet om bruk av teknisk utstyr. Kravet ble fremmet overfor hver av de seks regiondirektørene. Tolldirektoratet behandlet saken i første instans, og kom til at kravene ikke var tilstrekkelig spesifiserte. Saken ble tatt opp med Finansdepartementet, som avviste at det var en feil at kravene var behandlet av direktoratet, og ikke regionene, i første instans.  
-   
- Kravet i offentleglova § 29 første ledd om at det organet som mottar et innsynskrav skal vurdere dette «konkret og sjølvstendig», innebærer klare begrensninger for overordnet organs adgang til å behandle et innsynskrav i første instans. Ombudsmannen mener at innsynskravene skulle vært behandlet av de respektive tollregionene, og ikke av direktoratet i første instans.  
-   
- Det er ikke grunnlag for å konkludere med at Tolldirektoratets feilaktige behandling av kravene i første instans, ikke har virket inn på sakens utfall. Direktoratets avgjørelse må anses ugyldig. Ombudsmannen ber om at de seks innsynskravene behandles på nytt. Departementet må avklare hva som er riktig(e) organ(er) for den nye behandlingen.
+Kravet i offentleglova § 29 første ledd om at det organet som mottar et innsynskrav skal vurdere dette «konkret og sjølvstendig», innebærer klare begrensninger for overordnet organs adgang til å behandle et innsynskrav i første instans. Ombudsmannen mener at innsynskravene skulle vært behandlet av de respektive tollregionene, og ikke av direktoratet i første instans.  
+Det er ikke grunnlag for å konkludere med at Tolldirektoratets feilaktige behandling av kravene i første instans, ikke har virket inn på sakens utfall. Direktoratets avgjørelse må anses ugyldig. Ombudsmannen ber om at de seks innsynskravene behandles på nytt. Departementet må avklare hva som er riktig(e) organ(er) for den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

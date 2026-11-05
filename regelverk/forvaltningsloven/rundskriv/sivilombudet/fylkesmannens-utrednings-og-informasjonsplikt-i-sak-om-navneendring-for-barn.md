@@ -15,10 +15,8 @@ Sivilombudets uttalelse 5.1.2021 (sak 2020/1734).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens behandling av en sak om å endre et barns fornavn etter søknad fra barnets mor. Skatteetaten avslo søknaden fordi far ikke samtykket til navneendringen. Etter klage fra moren omgjorde Fylkesmannen vedtaket fordi det ville være barnets beste å endre navnet og at det derfor forelå en «særlig grunn» til å godta søknaden. Moren hadde sendt flere dokumenter til forvaltningen som hun mente støttet søknaden, men som ikke ble forelagt faren til uttalelse før Fylkesmannen fattet vedtak i saken.  
-   
- Ombudsmannen mener det utgjorde et brudd på forvaltningsloven § 17 annet ledd at opplysninger forvaltningen hadde mottatt om klageren ikke ble forelagt ham til uttalelse før Fylkesmannen fattet vedtak i saken. Videre mener ombudsmannen at Fylkesmannens vedtak om at det forelå en «særlig grunn» til å godta navneendring uten klagerens samtykke ikke var tilstrekkelig utredet, jf. forvaltningsloven § 33 femte ledd, jf. § 17 første ledd.   
-   
- Manglene ved saksbehandlingen gjør at ombudsmannen mener det er begrunnet tvil om Fylkesmannens avgjørelse i navnesaken er riktig. Ombudsmannen ber Fylkesmannen vurdere saken på nytt.
+Ombudsmannen mener det utgjorde et brudd på forvaltningsloven § 17 annet ledd at opplysninger forvaltningen hadde mottatt om klageren ikke ble forelagt ham til uttalelse før Fylkesmannen fattet vedtak i saken. Videre mener ombudsmannen at Fylkesmannens vedtak om at det forelå en «særlig grunn» til å godta navneendring uten klagerens samtykke ikke var tilstrekkelig utredet, jf. forvaltningsloven § 33 femte ledd, jf. § 17 første ledd.  
+Manglene ved saksbehandlingen gjør at ombudsmannen mener det er begrunnet tvil om Fylkesmannens avgjørelse i navnesaken er riktig. Ombudsmannen ber Fylkesmannen vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

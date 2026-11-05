@@ -14,15 +14,11 @@ Sivilombudets uttalelse 24.1.2025 (sak 2024/4690).
 
 ## Oppsummering
 
-Sivilombudet besluttet av eget tiltak å undersøke saksbehandlingstiden i reindriftsavdelingen hos Statsforvalteren i Troms og Finnmark. Reindriftsavdelingen har i flere år hatt store restanser og lang saksbehandlingstid på flere sakstyper. Enkelte barn har ventet i opptil fem år på å få godkjent reinmerket sitt. Flere klager over avslag på reinmerkesøknader har ligget ubehandlet siden 2018, mens den eldste ubehandlede søknaden om tilskudd er over seks år gammel. Den lange saksbehandlingstiden ved behandlingen av søknader om reinmerker og saker om tilskudd utgjør en stor belastning for de reindriftsutøvere, barn og familier dette gjelder.   
-   
- Sivilombudet er kommet til at kravet til saksbehandlingstid i flere saker klart er brutt, jf. forvaltningsloven § 11 a. Den lange saksbehandlingstiden i reindriftsavdelingen gir grunn til alvorlig bekymring. Sakene berører en viktig del av kulturutøvelsen til reindriftssamene, og den lange behandlingstiden er økonomisk belastende for partene. Statsforvalterens opplysninger om at de til tross for igangsatte og planlagte tiltak ikke vil klare å behandle sakene innen rimelige frister, uten å få tilført mer ressurser, er særlig bekymringsfullt.   
-   
- Ombudet har merknader til reindriftsforvaltningen prioriteringer og ber forvaltningen om å sikre at rutiner for utsendelse av foreløpig svar og forsinkelsesmeldinger overholdes fremover.   
-   
- Sivilombudet har påpekt at det er en fare for at dagens situasjon er i strid med statens plikter etter Grunnloven § 108, som pålegger statens myndigheter å legge forholdene til rette for at det samiske folk kan sikre og utvikle sin kultur. Ombudet vil derfor gjøre Landbruks- og matdepartementet oppmerksom på uttalelsen og be departementet om å følge opp situasjonen.   
-   
- Ombudet ber Statsforvalteren om en ny redegjørelse innen 15. mai 2025.
+Sivilombudet besluttet av eget tiltak å undersøke saksbehandlingstiden i reindriftsavdelingen hos Statsforvalteren i Troms og Finnmark. Reindriftsavdelingen har i flere år hatt store restanser og lang saksbehandlingstid på flere sakstyper. Enkelte barn har ventet i opptil fem år på å få godkjent reinmerket sitt. Flere klager over avslag på reinmerkesøknader har ligget ubehandlet siden 2018, mens den eldste ubehandlede søknaden om tilskudd er over seks år gammel. Den lange saksbehandlingstiden ved behandlingen av søknader om reinmerker og saker om tilskudd utgjør en stor belastning for de reindriftsutøvere, barn og familier dette gjelder.  
+Sivilombudet er kommet til at kravet til saksbehandlingstid i flere saker klart er brutt, jf. forvaltningsloven § 11 a. Den lange saksbehandlingstiden i reindriftsavdelingen gir grunn til alvorlig bekymring. Sakene berører en viktig del av kulturutøvelsen til reindriftssamene, og den lange behandlingstiden er økonomisk belastende for partene. Statsforvalterens opplysninger om at de til tross for igangsatte og planlagte tiltak ikke vil klare å behandle sakene innen rimelige frister, uten å få tilført mer ressurser, er særlig bekymringsfullt.  
+Ombudet har merknader til reindriftsforvaltningen prioriteringer og ber forvaltningen om å sikre at rutiner for utsendelse av foreløpig svar og forsinkelsesmeldinger overholdes fremover.  
+Sivilombudet har påpekt at det er en fare for at dagens situasjon er i strid med statens plikter etter Grunnloven § 108, som pålegger statens myndigheter å legge forholdene til rette for at det samiske folk kan sikre og utvikle sin kultur. Ombudet vil derfor gjøre Landbruks- og matdepartementet oppmerksom på uttalelsen og be departementet om å følge opp situasjonen.  
+Ombudet ber Statsforvalteren om en ny redegjørelse innen 15. mai 2025.
 
 Se oppdatering fra forvaltningen
 

@@ -16,12 +16,9 @@ Sivilombudets uttalelse 28.11.2023 (sak 2023/3084).
 ## Oppsummering
 
 Saken gjelder en utlending som søkte om statsborgerskap i 2012. Etter at han fikk avslag på søknaden fra Utlendingsdirektoratet (UDI), ble den oversendt Utlendingsnemnda (UNE), som i 2014 sendte saken tilbake for ny behandling i UDI. I 2015 ble klageren kalt inn til forvaltningsintervju hos politiet. Klageren ble dømt for et straffbart forhold i 2016, som medførte en karenstid som var til hinder for å innvilge statsborgerskap før i 2019. UDI opprettet tilbakekallssak i 2021, men henla denne og innvilget klageren norsk statsborgerskap i 2023.  
-   
- Sivilombudet kom til at UDI ikke har behandlet saken «uten ugrunnet opphold», slik forvaltningsloven § 11 a krever. Det skal svært mye til før en behandlingstid på nærmere ni år er akseptabel. Det tok 11 år fra søknad ble sendt til saken var avgjort. UDI både kunne og skulle ha arbeidet med avklaring av klagerens identitet langt tidligere, herunder i perioden de ikke kunne innvilge statsborgerskap på grunn av karenstid (2016-2019).   
-   
- UDI hadde heller ikke prioritert saken slik de skulle ha gjort ut ifra omstendighetene i saken. Blant annet hadde det allerede gått over to år fra søknadstidspunktet da UNE returnerte saken til UDI i 2014, samt at klageren ved innkalling til forvaltningsintervju hos politiet i 2015 hadde blitt varslet om at utlendingsmyndighetene hadde informasjon som kunne føre til at de ville tilbakekalle oppholdstillatelsen hans. Klageren hadde derfor et klart behov for en avklaring av saken.  
-   
- Sivilombudet kom også til at UDI ikke har holdt klageren orientert om sakens fremdrift og årsakene til forsinkelsene, slik forvaltningsloven og god forvaltningsskikk tilsier.
+Sivilombudet kom til at UDI ikke har behandlet saken «uten ugrunnet opphold», slik forvaltningsloven § 11 a krever. Det skal svært mye til før en behandlingstid på nærmere ni år er akseptabel. Det tok 11 år fra søknad ble sendt til saken var avgjort. UDI både kunne og skulle ha arbeidet med avklaring av klagerens identitet langt tidligere, herunder i perioden de ikke kunne innvilge statsborgerskap på grunn av karenstid (2016-2019).  
+UDI hadde heller ikke prioritert saken slik de skulle ha gjort ut ifra omstendighetene i saken. Blant annet hadde det allerede gått over to år fra søknadstidspunktet da UNE returnerte saken til UDI i 2014, samt at klageren ved innkalling til forvaltningsintervju hos politiet i 2015 hadde blitt varslet om at utlendingsmyndighetene hadde informasjon som kunne føre til at de ville tilbakekalle oppholdstillatelsen hans. Klageren hadde derfor et klart behov for en avklaring av saken.  
+Sivilombudet kom også til at UDI ikke har holdt klageren orientert om sakens fremdrift og årsakene til forsinkelsene, slik forvaltningsloven og god forvaltningsskikk tilsier.
 
 ## Sakens bakgrunn
 

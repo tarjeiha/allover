@@ -15,8 +15,8 @@ Sivilombudets uttalelse 14.8.2018 (sak 2018/210).
 ## Oppsummering
 
 Saken gjelder Politidirektoratets saksbehandlingstid for flere klagesaker om avslag på krav om innsyn fremsatt for ulike politidistrikt. Direktoratet brukte om lag 10 måneder på å behandle seks av sakene. Syv av sakene er fremdeles til behandling, og direktoratet anslo at de ville være ferdigbehandlet i løpet av august 2018. Dette vil i så fall gi en saksbehandlingstid på om lag 12 måneder.  
- Ombudsmannen er kommet til at Politidirektoratets saksbehandlingstid i de foreliggende sakene er for lang. Det er også kritikkverdig at direktoratet ikke overholdt de saksbehandlingsfristene direktoratet selv hadde satt etter ombudsmannens involvering i saken.  
- Ombudsmannen ber Politidirektoratet om å behandle de uavsluttede klagesakene omgående og om å ta de grep som er nødvendige for å sikre at fremtidige klagesaker om innsyn behandles med tilstrekkelig hurtighet.
+Ombudsmannen er kommet til at Politidirektoratets saksbehandlingstid i de foreliggende sakene er for lang. Det er også kritikkverdig at direktoratet ikke overholdt de saksbehandlingsfristene direktoratet selv hadde satt etter ombudsmannens involvering i saken.  
+Ombudsmannen ber Politidirektoratet om å behandle de uavsluttede klagesakene omgående og om å ta de grep som er nødvendige for å sikre at fremtidige klagesaker om innsyn behandles med tilstrekkelig hurtighet.
 
 ## Sakens bakgrunn
 

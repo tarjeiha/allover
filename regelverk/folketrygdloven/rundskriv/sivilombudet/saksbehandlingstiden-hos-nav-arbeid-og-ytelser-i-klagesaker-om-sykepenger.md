@@ -15,15 +15,11 @@ Sivilombudets uttalelse 25.10.2022 (sak 2022/4415).
 
 ## Oppsummering
 
-På bakgrunn av opplysninger om lang saksbehandlingstid hos Nav Arbeid og ytelser i klagesaker om sykepenger besluttet ombudet å ta saken opp med Arbeids- og velferdsdirektoratet på generelt grunnlag.   
-   
- Arbeids- og velferdsdirektoratet bekreftet den lange saksbehandlingstiden i klagesakene. Årsaken var implementeringen av et nytt saksbehandlingssystem som var forsinket. De orienterte også om ulike tiltak som var igangsatt for å bøte på situasjonen.  
-   
- Sivilombudet mente at den lange saksbehandlingstiden i klagesaker om sykepenger var bekymringsfull. Sykepenger er en ytelse til livsopphold, og det måtte legges til grunn at sakene hadde stor betydning for den det gjaldt.   
-   
- På bakgrunn av redegjørelsen fra Arbeids- og velferdsdirektoratet ble det ikke funnet grunn til å gå videre med saken nå. De igangsatte tiltakene syntes hensiktsmessige. Det samme gjaldt prioriteringene som ble gjort under saksbehandlingen.   
-   
- Ombudet ønsket likevel å fortsette å følge utviklingen i saksbehandlingstiden i saker om sykepenger. Arbeids- og velferdsdirektoratet ble derfor bedt om å sende en ny redegjørelse ved utgangen av januar 2023.
+På bakgrunn av opplysninger om lang saksbehandlingstid hos Nav Arbeid og ytelser i klagesaker om sykepenger besluttet ombudet å ta saken opp med Arbeids- og velferdsdirektoratet på generelt grunnlag.  
+Arbeids- og velferdsdirektoratet bekreftet den lange saksbehandlingstiden i klagesakene. Årsaken var implementeringen av et nytt saksbehandlingssystem som var forsinket. De orienterte også om ulike tiltak som var igangsatt for å bøte på situasjonen.  
+Sivilombudet mente at den lange saksbehandlingstiden i klagesaker om sykepenger var bekymringsfull. Sykepenger er en ytelse til livsopphold, og det måtte legges til grunn at sakene hadde stor betydning for den det gjaldt.  
+På bakgrunn av redegjørelsen fra Arbeids- og velferdsdirektoratet ble det ikke funnet grunn til å gå videre med saken nå. De igangsatte tiltakene syntes hensiktsmessige. Det samme gjaldt prioriteringene som ble gjort under saksbehandlingen.  
+Ombudet ønsket likevel å fortsette å følge utviklingen i saksbehandlingstiden i saker om sykepenger. Arbeids- og velferdsdirektoratet ble derfor bedt om å sende en ny redegjørelse ved utgangen av januar 2023.
 
 Se oppdatering fra forvaltningen
 
@@ -92,7 +88,7 @@ Ombudet pekte på at en saksbehandlingstid på mer enn ett år ville kunne medf�
 Ombudet ga uttrykk for at den negative utviklingen i saksbehandlingstiden var svært bekymringsfull, og ønsket derfor å fortsette å følge saken. Det ble bedt om en ny tilbakemelding ved utgangen av april 2023, herunder en redegjørelse om eventuelle ytterligere kompenserende tiltak.
 
 Les brevet fra Sivilombudet:  
- [Oppfølging av ombudets uttalelse om saksbehandlingstiden hos NAV Arbeid og ytelser i klagesaker om sykepenger, 2. februar 2023 (pdf)](https://www.sivilombudet.no/wp-content/uploads/2023/02/Brev-fra-Sivilombudet-020223-Oppfolging-av-ombudets-uttalelse-om-saksbehandlingstiden-hos-NAV-Arbeid-og-ytelser-i-klagesaker-om-sykepenger.pdf)
+[Oppfølging av ombudets uttalelse om saksbehandlingstiden hos NAV Arbeid og ytelser i klagesaker om sykepenger, 2. februar 2023 (pdf)](https://www.sivilombudet.no/wp-content/uploads/2023/02/Brev-fra-Sivilombudet-020223-Oppfolging-av-ombudets-uttalelse-om-saksbehandlingstiden-hos-NAV-Arbeid-og-ytelser-i-klagesaker-om-sykepenger.pdf)
 
 *Videre utvikling etter ombudets uttalelse:*
 

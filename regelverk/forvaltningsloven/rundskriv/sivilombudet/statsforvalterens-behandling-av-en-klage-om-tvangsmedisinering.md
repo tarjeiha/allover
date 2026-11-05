@@ -14,11 +14,9 @@ Sivilombudets uttalelse 5.5.2026 (sak 2025/5372).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Vestlands behandling av en klage om tvangsmedisinering. Pasienten hadde blitt overført til en ny institusjon etter førsteinstansvedtaket, og spørsmålet for ombudet var om Statsforvalteren skulle eller burde ha sendt saken til den første eller den andre institusjonen for forberedende klagebehandling. I denne sammenheng vurderte også ombudet om forvaltningsloven § 33 andre ledd gjelder i saker om tvangsmedisinering, og hvilken institusjon som skal anses som underinstansen i overføringstilfellene.   
-   
- Sivilombudet kom til at rekkevidden av psykisk helsevernforskriften § 28, herunder om den fraviker forvaltningsloven § 33 andre ledd, er uklar. Ombudet ba derfor Helse- og omsorgsdepartementet vurdere om det er behov for avklaring, slik at ønsket løsning og praksis samsvarer.  
-   
- For det tilfelle at forvaltningsloven § 33 andre ledd gjelder, ba Sivilombudet departementet vurdere om det bør reguleres hvilken institusjon som skal foreta den forberedende klagebehandlingen der pasienten er overført til en ny institusjon etter førsteinstansvedtaket. Sivilombudet viste til at forvaltningslovens system neppe er utformet med slike situasjoner for øyet.
+Saken gjelder Statsforvalteren i Vestlands behandling av en klage om tvangsmedisinering. Pasienten hadde blitt overført til en ny institusjon etter førsteinstansvedtaket, og spørsmålet for ombudet var om Statsforvalteren skulle eller burde ha sendt saken til den første eller den andre institusjonen for forberedende klagebehandling. I denne sammenheng vurderte også ombudet om forvaltningsloven § 33 andre ledd gjelder i saker om tvangsmedisinering, og hvilken institusjon som skal anses som underinstansen i overføringstilfellene.  
+Sivilombudet kom til at rekkevidden av psykisk helsevernforskriften § 28, herunder om den fraviker forvaltningsloven § 33 andre ledd, er uklar. Ombudet ba derfor Helse- og omsorgsdepartementet vurdere om det er behov for avklaring, slik at ønsket løsning og praksis samsvarer.  
+For det tilfelle at forvaltningsloven § 33 andre ledd gjelder, ba Sivilombudet departementet vurdere om det bør reguleres hvilken institusjon som skal foreta den forberedende klagebehandlingen der pasienten er overført til en ny institusjon etter førsteinstansvedtaket. Sivilombudet viste til at forvaltningslovens system neppe er utformet med slike situasjoner for øyet.
 
 ## Sakens bakgrunn
 

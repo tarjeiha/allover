@@ -14,9 +14,8 @@ Sivilombudets uttalelse 4.5.2023 (sak 2022/5490).
 
 ## Oppsummering
 
-Sivilombudet undersøkte av eget tiltak Oslo kommunes praksis med å treffe vedtak etter sosialtjenesteloven uten underskrift, og der navnet til den som fatter vedtaket heller ikke fremgår på annen måte. Ombudet stilte kommunen spørsmål om denne praksisen var i tråd med god forvaltningsskikk. Kommunen har opplyst at de erkjenner at det ikke er «optimalt at navn på godkjenner ikke fremkommer i selve vedtaket», men at dette skyldes tekniske begrensninger i fagsystemet og et ønske om mest mulig effektiv saksavvikling.   
-   
- Ombudet kom til at det følger av forvaltningslovens habilitetsregler at parten må få kjennskap til hvem som har fattet vedtaket, og at reglene om god forvaltningsskikk stiller krav til at brev fra forvaltningen skal fremstå som endelige og tillitsskapende. Hensynet til effektivitet kan ikke begrunne å rutinemessig utelate beslutningstakers navn. Ombudet har bedt kommunen om å endre praksis i tråd med overnevnte.
+Sivilombudet undersøkte av eget tiltak Oslo kommunes praksis med å treffe vedtak etter sosialtjenesteloven uten underskrift, og der navnet til den som fatter vedtaket heller ikke fremgår på annen måte. Ombudet stilte kommunen spørsmål om denne praksisen var i tråd med god forvaltningsskikk. Kommunen har opplyst at de erkjenner at det ikke er «optimalt at navn på godkjenner ikke fremkommer i selve vedtaket», men at dette skyldes tekniske begrensninger i fagsystemet og et ønske om mest mulig effektiv saksavvikling.  
+Ombudet kom til at det følger av forvaltningslovens habilitetsregler at parten må få kjennskap til hvem som har fattet vedtaket, og at reglene om god forvaltningsskikk stiller krav til at brev fra forvaltningen skal fremstå som endelige og tillitsskapende. Hensynet til effektivitet kan ikke begrunne å rutinemessig utelate beslutningstakers navn. Ombudet har bedt kommunen om å endre praksis i tråd med overnevnte.
 
 ## Sakens bakgrunn
 

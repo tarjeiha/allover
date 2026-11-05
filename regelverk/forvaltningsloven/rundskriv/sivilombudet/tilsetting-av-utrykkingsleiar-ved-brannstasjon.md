@@ -15,10 +15,8 @@ Sivilombudets uttalelse 13.2.2024 (sak 2023/4451 og 2023/4545).
 ## Oppsummering
 
 Saka gjeld tilsetting av utrykkingsleiar ved ein brannstasjon. Sivilombodet har kome til at den tilsette ikkje oppfylte kompetansekrava i brann- og redningsvesenforskriften § 41 og dei krava kommunen sjølv hadde stilt i utlysingsteksten. Tilsettinga var ikkje i samsvar med kvalifikasjonsprinsippet.  
-   
- Ettersom klagarane heller ikkje oppfylte kompetansekrava i brann- og redningsvesenforskriften, var dei heller ikkje kvalifiserte til stillinga og dei har dermed ikkje blitt forbigåtte.   
-   
- Tilsettinga er allereie gjennomført, og fråsegna her får ikkje betydning for den aktuelle tilsettinga. Ombodet ber kommunen merke seg ombodet sitt syn til framtidige tilsettingar.
+Ettersom klagarane heller ikkje oppfylte kompetansekrava i brann- og redningsvesenforskriften, var dei heller ikkje kvalifiserte til stillinga og dei har dermed ikkje blitt forbigåtte.  
+Tilsettinga er allereie gjennomført, og fråsegna her får ikkje betydning for den aktuelle tilsettinga. Ombodet ber kommunen merke seg ombodet sitt syn til framtidige tilsettingar.
 
 ## Bakgrunn for saka
 

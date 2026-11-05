@@ -17,7 +17,7 @@ Sivilombudets uttalelse 6.5.2024 (sak 2024/820).
 A (heretter klageren) søkte om arbeidsavklaringspenger 7. januar 2022. Han fikk først avslag 4. mai 2022 av Nav Utland og fellestjenester Oslo (førsteinstansen) begrunnet i at arbeidsevnen ikke var nedsatt med mer enn 50 %. A påklaget vedtaket. Etter å ha behandlet klagen traff Nav Utland og fellestjenester Oslo et nytt vedtak 18. oktober 2022. Søknaden ble igjen avslått, men denne gangen begrunnet i at klageren ikke var medlem av folketrygden da kravet ble satt frem. Siden Nav Utland og fellestjenester Oslo traff et nytt vedtak, ble ikke saken oversendt til Nav Klageinstans (klageinstansen). A klaget på det nye vedtaket.
 
 I brev 12. september 2023 ble klageren informert om at han fikk medhold i den delen av klagen som gjaldt spørsmålet om medlemskap, og at Nav Utland og fellestjenester Oslo skulle vurdere om de øvrige vilkårene for arbeidsavklaringspenger var oppfylt. I vedtak  
- 3. oktober 2023 avslo Nav Utland og fellestjenester Oslo klagerens søknad på nytt under henvisning til at arbeidsevnen ikke var nedsatt i tilstrekkelig grad. Vedtaket ble påklaget av A. I brev 15. desember 2023 ble han informert om at klagen ville bli behandlet innen ni måneder.
+3. oktober 2023 avslo Nav Utland og fellestjenester Oslo klagerens søknad på nytt under henvisning til at arbeidsevnen ikke var nedsatt i tilstrekkelig grad. Vedtaket ble påklaget av A. I brev 15. desember 2023 ble han informert om at klagen ville bli behandlet innen ni måneder.
 
 A klagde 12. februar 2024 til Sivilombudet over saksbehandlingstiden.
 
@@ -52,7 +52,7 @@ Direktoratet skrev i svaret på vår undersøkelse at Nav Utland og fellestjenes
 ### Prioriteringen av saken fremover
 
 Etter at Nav Utland og fellestjenester Oslo traff det siste vedtaket i saken  
- 3. oktober 2023, fikk klageren i brev 15. desember 2023 informasjon om at saken ville bli behandlet innen ni måneder. Om den forventede saksbehandlingstiden også omfatter behandlingstiden hos Nav Klageinstans, fremgår ikke av brevet.
+3. oktober 2023, fikk klageren i brev 15. desember 2023 informasjon om at saken ville bli behandlet innen ni måneder. Om den forventede saksbehandlingstiden også omfatter behandlingstiden hos Nav Klageinstans, fremgår ikke av brevet.
 
 Det kan etter omstendighetene være nødvendig, og i tråd med god forvaltningsskikk, at en konkret sak gis særskilt prioritet over andre saker, se blant annet ombudets uttalelse 29. februar 2024 (SOM-2023-4310). At saksbehandlingstiden allerede har vært lang, taler for at saken prioriteres fremover.
 

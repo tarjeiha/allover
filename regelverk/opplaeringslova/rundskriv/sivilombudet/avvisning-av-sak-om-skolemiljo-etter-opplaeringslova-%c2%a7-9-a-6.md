@@ -16,14 +16,10 @@ Sivilombudets uttalelse 16.6.2021 (sak 2020/4342).
 ## Oppsummering
 
 Et foreldrepar byttet fra august 2019 skole for sin datter. I begynnelsen av desember 2019 sendte foreldrene et brev til Fylkesmannen, der de blant annet meldte om at datteren ikke hadde hatt et trygt og godt skolemiljø da hun var elev ved den tidligere skolen. Utdanningsdirektoratet avviste saken fordi den ikke gjaldt skolen der datteren var elev da saken ble meldt, og det heller ikke forelå særlige grunner som gjorde en avvisning urimelig.  
-   
- Ombudsmannen er kommet til at Utdanningsdirektoratet kunne avvise foreldrenes melding om datterens skolemiljø på den tidligere skolen. Saken gjaldt ikke «skolen der eleven går», og det er ikke grunnlag for rettslige innvendinger mot direktoratets konklusjon om at vilkåret «særlege grunnar» ikke var oppfylt, jf. opplæringslova § 9 A 6 annet ledd tredje punktum.  
-   
- Ombudsmannen mener imidlertid at direktoratet la til grunn en noe for høy terskel i sin forståelse av lovens vilkår «særlege grunnar», og at det ville vært ønskelig med en mer utfyllende drøftelse av hensynet til barnets beste, jf. opplæringslova § 9 A 6 annet ledd tredje punktum, Grunnloven § 104 annet ledd og FNs barnekonvensjon art. 3.  
-   
- Ombudsmannen har ikke grunnlag for rettslige innvendinger mot måten forvaltningen ivaretok datterens rett til å bli hørt, jf. Grunnloven § 104 første ledd og FNs barnekonvensjon art. 12.  
-   
- Ombudsmannen ber direktoratet merke seg det som er påpekt i uttalelsen for fremtidige saker.
+Ombudsmannen er kommet til at Utdanningsdirektoratet kunne avvise foreldrenes melding om datterens skolemiljø på den tidligere skolen. Saken gjaldt ikke «skolen der eleven går», og det er ikke grunnlag for rettslige innvendinger mot direktoratets konklusjon om at vilkåret «særlege grunnar» ikke var oppfylt, jf. opplæringslova § 9 A 6 annet ledd tredje punktum.  
+Ombudsmannen mener imidlertid at direktoratet la til grunn en noe for høy terskel i sin forståelse av lovens vilkår «særlege grunnar», og at det ville vært ønskelig med en mer utfyllende drøftelse av hensynet til barnets beste, jf. opplæringslova § 9 A 6 annet ledd tredje punktum, Grunnloven § 104 annet ledd og FNs barnekonvensjon art. 3.  
+Ombudsmannen har ikke grunnlag for rettslige innvendinger mot måten forvaltningen ivaretok datterens rett til å bli hørt, jf. Grunnloven § 104 første ledd og FNs barnekonvensjon art. 12.  
+Ombudsmannen ber direktoratet merke seg det som er påpekt i uttalelsen for fremtidige saker.
 
 ## Sakens bakgrunn
 

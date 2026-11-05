@@ -15,15 +15,11 @@ Sivilombudets uttalelse 17.12.2025 (sak 2025/4312).
 
 ## Oppsummering
 
-Saken gjelder innsyn i NRKs a-melding til Skatteetaten for januar 2024 og i alle opplysninger fra meldingen som vedrørte kringkastingssjefen og direktør for juridisk- og stabsdivisjonen i NRK. Kultur- og likestillingsdepartementet opprettholdt NRKs avslag i to avgjørelser. Kravene var avslått da a-meldingen inneholdt opplysninger knyttet til NRKs redaksjons- og programvirksomhet og derfor var unntatt i sin helhet jf. offentleg- forskrifta § 1 tredje ledd bokstav i. Det ble ikke utvist merinnsyn. Departementet mente det ikke forelå en rett til å kreve en ny sammenstilling jf. offentleglova § 9 for å besvare innsynskravene.   
-   
- Sivilombudets undersøkelser har vært begrenset til spørsmålet om det foreligger en plikt til å lage en ny sammenstilling for å besvare innsynskravene.   
-   
- Sivilombudet kom til at departementet har tatt et uriktig utgangspunkt når det er vurdert om det foreligger en rett til å kreve en sammenstilling av opplysninger fra det allerede sammenstilte dokumentet (a-meldingen). Opplysningene og dokumentene som danner grunnlag for den sammenstilte a-meldingen finnes i NRKs elektroniske database som er lønnssystemet.   
-   
- Sivilombudet kom til at departementet skulle ha vurdert om innsynskravene om de to ansatte kunne ha blitt etterkommet ved å lage nye sammenstillinger fra NRKs lønnssystem. I vurderingen av om det kan lages en sammenstilling av de etterspurte opplysningene fra lønnssystemet i medhold av offentleglova § 9, er det ikke av betydning at opplysningene, blant mange andre opplysninger, også finnes i et dokument som NRK har unntatt med hjemmel i offentlegforskrifta § 1 tredje ledd bokstav i. Departementet burde videre ha vurdert om innsynskravet i a-meldingen kunne ha vært delvis etterkommet ved å lage en sammenstilling fra lønnssystemet fra dokumenter som ikke var omfattet av unntaket i offentlegforskrifta.   
-   
- Ombudet har bedt departementet om å behandle innsynssakene på nytt.
+Saken gjelder innsyn i NRKs a-melding til Skatteetaten for januar 2024 og i alle opplysninger fra meldingen som vedrørte kringkastingssjefen og direktør for juridisk- og stabsdivisjonen i NRK. Kultur- og likestillingsdepartementet opprettholdt NRKs avslag i to avgjørelser. Kravene var avslått da a-meldingen inneholdt opplysninger knyttet til NRKs redaksjons- og programvirksomhet og derfor var unntatt i sin helhet jf. offentleg- forskrifta § 1 tredje ledd bokstav i. Det ble ikke utvist merinnsyn. Departementet mente det ikke forelå en rett til å kreve en ny sammenstilling jf. offentleglova § 9 for å besvare innsynskravene.  
+Sivilombudets undersøkelser har vært begrenset til spørsmålet om det foreligger en plikt til å lage en ny sammenstilling for å besvare innsynskravene.  
+Sivilombudet kom til at departementet har tatt et uriktig utgangspunkt når det er vurdert om det foreligger en rett til å kreve en sammenstilling av opplysninger fra det allerede sammenstilte dokumentet (a-meldingen). Opplysningene og dokumentene som danner grunnlag for den sammenstilte a-meldingen finnes i NRKs elektroniske database som er lønnssystemet.  
+Sivilombudet kom til at departementet skulle ha vurdert om innsynskravene om de to ansatte kunne ha blitt etterkommet ved å lage nye sammenstillinger fra NRKs lønnssystem. I vurderingen av om det kan lages en sammenstilling av de etterspurte opplysningene fra lønnssystemet i medhold av offentleglova § 9, er det ikke av betydning at opplysningene, blant mange andre opplysninger, også finnes i et dokument som NRK har unntatt med hjemmel i offentlegforskrifta § 1 tredje ledd bokstav i. Departementet burde videre ha vurdert om innsynskravet i a-meldingen kunne ha vært delvis etterkommet ved å lage en sammenstilling fra lønnssystemet fra dokumenter som ikke var omfattet av unntaket i offentlegforskrifta.  
+Ombudet har bedt departementet om å behandle innsynssakene på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -16,8 +16,7 @@ Sivilombudets uttalelse 31.8.2020 (sak 2020/1572).
 ## Oppsummering
 
 En journalist ba om innsyn i et dokument med opplysninger om antall pasienter innlagt på sykehus med covid-19. Dokumentet inneholdt også informasjon om hvor mange av de innlagte som var på intensivavdeling og i respirator. Tallene var oppgitt for hver helseregion, helseforetak og sykehus, i tillegg til for Norge totalt. Helse- og omsorgsdepartementet avslo kravet med begrunnelse at tallene var relativt små, og at innsyn derfor ville utgjøre en risiko for å utgi informasjon om behandlingsforløpet til identifiserbare pasienter.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om det kan nektes innsyn i alle de unntatte opplysningene med den begrunnelsen departementet har gitt. Usikkerheten knytter seg særlig til tallene for helseregionene, men også tallene for enkelte av de større sykehusene. Etter ombudsmannens syn må det vurderes konkret for de enkelte sykehus, helseforetak og helseregioner om tallene kan knyttes til identifiserbare personer. Ombudsmannen ber departementet vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil om det kan nektes innsyn i alle de unntatte opplysningene med den begrunnelsen departementet har gitt. Usikkerheten knytter seg særlig til tallene for helseregionene, men også tallene for enkelte av de større sykehusene. Etter ombudsmannens syn må det vurderes konkret for de enkelte sykehus, helseforetak og helseregioner om tallene kan knyttes til identifiserbare personer. Ombudsmannen ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

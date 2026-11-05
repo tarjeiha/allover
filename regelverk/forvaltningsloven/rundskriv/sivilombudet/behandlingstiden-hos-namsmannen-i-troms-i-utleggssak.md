@@ -15,10 +15,8 @@ Sivilombudets uttalelse 17.3.2025 (sak 2025/255).
 ## Oppsummering
 
 Saken gjelder behandlingstiden hos Namsmannen i Troms i en utleggsak. Namsmannen mottok klagerens utleggsbegjæring 21. februar 2024, og saken ble avsluttet 4. mars 2025. Ifølge Namsmannen skyldtes den lange behandlingstiden, på over ett år, hovedsakelig at saken har vært mer komplisert enn normalt, stor saksmengde, og lavere kapasitet på det ansvarlige saksbehandlerteamet.  
-   
- Forvaltningslovens regler om saksbehandlingstid kommer ikke direkte til anvendelse i saker som behandles etter tvangsfullbyrdelsesloven. Kravene til saksbehandlingstid og orientering om status underveis i slike saker må i hovedsak utledes fra tvangsfullbyrdelseslovens forarbeider og god forvaltningsskikk.  
-   
- Sivilombudet kom til at klagerens sak klart ikke ble avgjort raskt og uten ugrunnet opphold, og at Namsmannen dermed hadde opptrådt i strid med god forvaltningsskikk. Sivilombudet kom også til at Namsmannen hadde opptrådt i strid med god forvaltningsskikk ved å ikke holde klageren tilstrekkelig orientert om status i saken. Namsmannen bør vurdere om det skal etableres rutiner for utsending av slike orienteringer.
+Forvaltningslovens regler om saksbehandlingstid kommer ikke direkte til anvendelse i saker som behandles etter tvangsfullbyrdelsesloven. Kravene til saksbehandlingstid og orientering om status underveis i slike saker må i hovedsak utledes fra tvangsfullbyrdelseslovens forarbeider og god forvaltningsskikk.  
+Sivilombudet kom til at klagerens sak klart ikke ble avgjort raskt og uten ugrunnet opphold, og at Namsmannen dermed hadde opptrådt i strid med god forvaltningsskikk. Sivilombudet kom også til at Namsmannen hadde opptrådt i strid med god forvaltningsskikk ved å ikke holde klageren tilstrekkelig orientert om status i saken. Namsmannen bør vurdere om det skal etableres rutiner for utsending av slike orienteringer.
 
 ## Sakens bakgrunn
 

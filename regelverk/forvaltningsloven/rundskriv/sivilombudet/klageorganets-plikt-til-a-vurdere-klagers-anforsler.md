@@ -16,16 +16,11 @@ Sivilombudets uttalelse 1.7.2019 (sak 2018/4803).
 ## Oppsummering
 
 Saken gjelder Utlendingsdirektoratets (UDI) behandling av en søknad om visum. I søknaden fremgikk det at et av formålene med å søke om visum var at klager ønsket å delta i en hovedforhandling i Oslo tingrett. Klager var selv part i saken, som gjaldt gyldigheten av Utlendingsnemndas (UNE) avslag på hennes søknad om familieinnvandring til Norge.  
-   
- UDI vurderte ikke hvilken betydning klagers ønske om å delta i hovedforhandlingen i tingretten hadde for visumsøknaden. UDI oppfylte derfor ikke sin plikt til å vurdere klagers synspunkter, jf. forvaltningsloven § 34 annet ledd.  
-   
- UDI avgjorde klagen flere måneder etter hovedforhandlingen i tingretten. Før vedtakstidspunktet hadde klager derfor anmodet om å endre visumperioden, slik at hun kunne delta i ankeforhandlingen i lagmannsretten. Ombudsmannen mener at UDI ikke skulle forholdt seg passive når de etter vedtakstidspunktet ble klar over klagers tidligere innkomne anmodning. UDI skulle vurdert betydningen av anmodningen og orientert klager om sin vurdering.  
-   
- Under ombudsmannssaken har UDI opplyst at de uansett ikke kunne innvilget visum for ankeforhandlingene, da disse lå mer enn tre måneder fram i tid, jf. utlendingsforskriften § 3-9 annet ledd. På bakgrunn av anmodningen skulle UDI derfor ha veiledet klager om at hun måtte søke på nytt tre måneder før hovedforhandlingen for å få en reell behandling av visum for deltagelse i ankeforhandlingen.  
-   
- Ombudsmannen er kommet til at UDI har brutt veiledningsplikten etter forvaltningsloven § 11 annet ledd.  
-   
- Klagers ønske om å delta i rettsaken hun hadde reist mot UNE, har ikke lenger aktualitet, og ombudsmannen finner ikke grunn til å be UDI behandle saken på nytt. UDI bes imidlertid merke seg synspunktene i denne uttalelsen ved behandlingen av senere saker.
+UDI vurderte ikke hvilken betydning klagers ønske om å delta i hovedforhandlingen i tingretten hadde for visumsøknaden. UDI oppfylte derfor ikke sin plikt til å vurdere klagers synspunkter, jf. forvaltningsloven § 34 annet ledd.  
+UDI avgjorde klagen flere måneder etter hovedforhandlingen i tingretten. Før vedtakstidspunktet hadde klager derfor anmodet om å endre visumperioden, slik at hun kunne delta i ankeforhandlingen i lagmannsretten. Ombudsmannen mener at UDI ikke skulle forholdt seg passive når de etter vedtakstidspunktet ble klar over klagers tidligere innkomne anmodning. UDI skulle vurdert betydningen av anmodningen og orientert klager om sin vurdering.  
+Under ombudsmannssaken har UDI opplyst at de uansett ikke kunne innvilget visum for ankeforhandlingene, da disse lå mer enn tre måneder fram i tid, jf. utlendingsforskriften § 3-9 annet ledd. På bakgrunn av anmodningen skulle UDI derfor ha veiledet klager om at hun måtte søke på nytt tre måneder før hovedforhandlingen for å få en reell behandling av visum for deltagelse i ankeforhandlingen.  
+Ombudsmannen er kommet til at UDI har brutt veiledningsplikten etter forvaltningsloven § 11 annet ledd.  
+Klagers ønske om å delta i rettsaken hun hadde reist mot UNE, har ikke lenger aktualitet, og ombudsmannen finner ikke grunn til å be UDI behandle saken på nytt. UDI bes imidlertid merke seg synspunktene i denne uttalelsen ved behandlingen av senere saker.
 
 ## Sakens bakgrunn
 

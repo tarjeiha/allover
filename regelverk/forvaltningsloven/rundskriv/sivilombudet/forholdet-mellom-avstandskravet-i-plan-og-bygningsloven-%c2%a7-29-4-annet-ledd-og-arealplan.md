@@ -15,8 +15,7 @@ Sivilombudets uttalelse 1.10.2018 (sak 2018/807).
 ## Oppsummering
 
 Fjell kommune ga tillatelse til oppføring av parkeringsplass, kjørevei og støttemurer i nabogrensen. Fylkesmannen i Hordaland kom til at tiltakene var i strid med avstandskravet i plan- og bygningsloven § 29-4 annet ledd og opphevet kommunens vedtak. Selv om tiltakene var inntegnet i nabogrensen i reguleringsplankartet, konkluderte Fylkesmannen med at det var nødvendig med uttrykkelig byggegrense i plan før avstandskravet i § 29-4 kunne anses fraveket.  
-   
- Ombudsmannen er kommet til at «bestemt i plan» i § 29-4 annet ledd ikke bare retter seg mot egen byggegrense i plan. Også andre planbestemmelser vil kunne være aktuelle. Dersom et tiltak tydelig er tegnet inn i nabogrensen i plankartet, er inntegningen et sterkt moment for at kommunen har «bestemt i plan» hvor tiltaket skal ligge. Avstandskravet i § 29-4 annet ledd vil i så fall kunne anses fraveket.
+Ombudsmannen er kommet til at «bestemt i plan» i § 29-4 annet ledd ikke bare retter seg mot egen byggegrense i plan. Også andre planbestemmelser vil kunne være aktuelle. Dersom et tiltak tydelig er tegnet inn i nabogrensen i plankartet, er inntegningen et sterkt moment for at kommunen har «bestemt i plan» hvor tiltaket skal ligge. Avstandskravet i § 29-4 annet ledd vil i så fall kunne anses fraveket.
 
 Se oppdatering fra forvaltningen
 

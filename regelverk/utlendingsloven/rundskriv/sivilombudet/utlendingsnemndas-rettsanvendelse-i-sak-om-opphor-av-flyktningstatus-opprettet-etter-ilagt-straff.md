@@ -14,13 +14,10 @@ Sivilombudets uttalelse 11.7.2019 (sak 2018/2414).
 
 ## Oppsummering
 
-Saken gjelder UNEs lovforståelse i en sak om opphør av flyktningstatus.   
-   
- En afghansk gutt fikk i 2010 innvilget flyktningstatus. Om lag åtte år senere ble han utvist fra Norge på bakgrunn av ilagt straff, og det ble fattet vedtak om opphør av hans flyktningstatus. Ombudsmannen har undersøkt UNEs forståelse av vilkårene for opphør i utlendingsloven § 37 første ledd bokstav e.   
-   
- Ombudsmannen er kommet til at UNE la til grunn en uriktig forståelse av utlendingsloven § 37 første ledd bokstav e og flyktningkonvensjonen når de i opphørssaken foretok en ren nåtidsvurdering av behovet for beskyttelse. Vilkårene for opphør kan ikke forstås annerledes i saker opprettet etter ilagt straff. Også i slike tilfeller skal det foretas en vurdering av om de forholdene som begrunnet innvilgelse av status som flyktning, har endret seg og ikke lenger er tilstede. Det kreves også at endringen er vesentlig og stabil.  
-   
- Ombudsmannen mener at UNEs vedtak er ugyldig, og at saken må behandles på nytt. Ved den fornyede vurderingen bes UNE om å legge til grunn ombudsmannens syn på gjeldende rett. UNE bes dessuten om å legge dette synet til grunn ved behandlingen av fremtidige saker.
+Saken gjelder UNEs lovforståelse i en sak om opphør av flyktningstatus.  
+En afghansk gutt fikk i 2010 innvilget flyktningstatus. Om lag åtte år senere ble han utvist fra Norge på bakgrunn av ilagt straff, og det ble fattet vedtak om opphør av hans flyktningstatus. Ombudsmannen har undersøkt UNEs forståelse av vilkårene for opphør i utlendingsloven § 37 første ledd bokstav e.  
+Ombudsmannen er kommet til at UNE la til grunn en uriktig forståelse av utlendingsloven § 37 første ledd bokstav e og flyktningkonvensjonen når de i opphørssaken foretok en ren nåtidsvurdering av behovet for beskyttelse. Vilkårene for opphør kan ikke forstås annerledes i saker opprettet etter ilagt straff. Også i slike tilfeller skal det foretas en vurdering av om de forholdene som begrunnet innvilgelse av status som flyktning, har endret seg og ikke lenger er tilstede. Det kreves også at endringen er vesentlig og stabil.  
+Ombudsmannen mener at UNEs vedtak er ugyldig, og at saken må behandles på nytt. Ved den fornyede vurderingen bes UNE om å legge til grunn ombudsmannens syn på gjeldende rett. UNE bes dessuten om å legge dette synet til grunn ved behandlingen av fremtidige saker.
 
 Se oppdatering fra forvaltningen
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 28.5.2026 (sak 2025/7668).
 ## Oppsummering
 
 Saken gjelder Politidirektoratets vedtak om å tilbakekalle klagers våpentillatelse på bakgrunn av dom på samfunnsstraff og tap av førerrett i ti måneder grunnet grov hastighetsovertredelse, jf. våpenlova § 31 første ledd første punktum. Grunnlaget for tilbakekallet var at klageren på grunn av dommen ikke lenger oppfylte vandelskravet i våpenlova § 16 første ledd første punktum.  
-   
- Sivilombudet kom til at det forelå berettiget tvil om Politidirektoratets vurdering av vandelskravet etter våpenforskrifta § 7-4 andre ledd andre punktum i denne saken var korrekt. Videre mente Sivilombudet at Politidirektoratets vedtak i saken var mangelfullt begrunnet, jf. forvaltningsloven § 25 tredje ledd.  
-   
- Ombudet ba Politidirektoratet om å behandle saken på nytt i lys av de føringene som var gitt i uttalelsen, og om å bli holdt orientert om utfallet av den nye behandlingen av saken innen 10. august 2026.
+Sivilombudet kom til at det forelå berettiget tvil om Politidirektoratets vurdering av vandelskravet etter våpenforskrifta § 7-4 andre ledd andre punktum i denne saken var korrekt. Videre mente Sivilombudet at Politidirektoratets vedtak i saken var mangelfullt begrunnet, jf. forvaltningsloven § 25 tredje ledd.  
+Ombudet ba Politidirektoratet om å behandle saken på nytt i lys av de føringene som var gitt i uttalelsen, og om å bli holdt orientert om utfallet av den nye behandlingen av saken innen 10. august 2026.
 
 Se oppdatering fra forvaltningen
 

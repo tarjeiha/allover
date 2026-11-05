@@ -14,11 +14,9 @@ Sivilombudets uttalelse 17.10.2022 (sak 2022/2142).
 
 ## Oppsummering
 
-Saken gjelder en kommunes avslag på en søknad om fornyelse av parkeringstillatelse for forflytningshemmede. Vilkårene for innvilgelse av parkeringstillatelse er at søkeren må ha «store vansker med å bevege seg over noen lengde» og ha et «særlig behov» for parkeringstillatelse i forbindelse med «bosted, arbeid og/eller annen aktivitet». Kommunen la under tvil til grunn at klageren hadde tilstrekkelig omfattende bevegelsesvansker, men fant at hun ikke hadde et «særlig behov» for parkeringstillatelse. Det ble vist til klageren ikke hadde vist til behov knyttet til arbeid og bosted, og at det skulle mer til for å få parkeringstillatelse i slike tilfeller.   
-   
- Etter ombudets syn, gir ikke regelverket for parkeringstillatelser anledning til å differensiere mellom behov knyttet til bosted og arbeid og andre aktiviteter på generelt grunnlag. Det er derfor uklart om kommunen har anvendt regelverket for parkeringstillatelser riktig i denne saken. Fra kommunens begrunnelse er det også uklart om kommunens endrede vurdering av klagers behov stammet fra en innstramming av praksis. Kommunens begrunnelse burde videre i større grad inneholdt vurderinger av mulige alternativer til parkeringslettelser for klager.   
-   
- Kommunen ved klagenemnda bes behandle saken på nytt innen 1. desember 2022.
+Saken gjelder en kommunes avslag på en søknad om fornyelse av parkeringstillatelse for forflytningshemmede. Vilkårene for innvilgelse av parkeringstillatelse er at søkeren må ha «store vansker med å bevege seg over noen lengde» og ha et «særlig behov» for parkeringstillatelse i forbindelse med «bosted, arbeid og/eller annen aktivitet». Kommunen la under tvil til grunn at klageren hadde tilstrekkelig omfattende bevegelsesvansker, men fant at hun ikke hadde et «særlig behov» for parkeringstillatelse. Det ble vist til klageren ikke hadde vist til behov knyttet til arbeid og bosted, og at det skulle mer til for å få parkeringstillatelse i slike tilfeller.  
+Etter ombudets syn, gir ikke regelverket for parkeringstillatelser anledning til å differensiere mellom behov knyttet til bosted og arbeid og andre aktiviteter på generelt grunnlag. Det er derfor uklart om kommunen har anvendt regelverket for parkeringstillatelser riktig i denne saken. Fra kommunens begrunnelse er det også uklart om kommunens endrede vurdering av klagers behov stammet fra en innstramming av praksis. Kommunens begrunnelse burde videre i større grad inneholdt vurderinger av mulige alternativer til parkeringslettelser for klager.  
+Kommunen ved klagenemnda bes behandle saken på nytt innen 1. desember 2022.
 
 Se oppdatering fra forvaltningen
 

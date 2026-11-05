@@ -15,8 +15,7 @@ Sivilombudets uttalelse 2.11.2020 (sak 2020/1452).
 ## Oppsummering
 
 En kommune ga et eiendomsselskap pålegg om fjerning av avfall og varsel om tvangsmulkt for forurenset avfall som en tidligere leietaker hadde hensatt på eiendomsselskapets næringseiendom. Saksfremlegg og innstilling ble gitt av rådmannen og teknisk sjef i kommunen. Etter klage opprettholdt kommunens klagenemnd vedtaket. Saksfremlegg og innstilling til klagenemnda ble gitt av rådmannen. Ifølge reglementet for kommunens klagenemnd, skulle nemnda settes med tre medlemmer, hvorav to faste. Det var ikke regler for hvem som skulle utgjøre det tredje medlemmet i det aktuelle tilfellet, men nemnda ble satt med de to faste medlemmene og ordføreren.  
-   
- Rådmannen og administrasjonen var inhabile til å forberede saken for klagenemnda. Videre var det feil ved sammensetningen av nemnda. Det er grunn til å tro at disse feilene kan ha påvirket avgjørelsen i saken på en slik måte at resultatet kunne ha blitt et annet dersom forberedelsen var i tråd med kommunelovens habilitetsregler og nemnda var rett sammensatt. Ombudsmannen ber kommunen om å behandle klagen på nytt.
+Rådmannen og administrasjonen var inhabile til å forberede saken for klagenemnda. Videre var det feil ved sammensetningen av nemnda. Det er grunn til å tro at disse feilene kan ha påvirket avgjørelsen i saken på en slik måte at resultatet kunne ha blitt et annet dersom forberedelsen var i tråd med kommunelovens habilitetsregler og nemnda var rett sammensatt. Ombudsmannen ber kommunen om å behandle klagen på nytt.
 
 Se oppdatering fra forvaltningen
 

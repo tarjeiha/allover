@@ -15,10 +15,8 @@ Sivilombudets uttalelse 17.8.2026 (sak 2026/2101).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak undersøkt Ullensaker kommunes praksis for intern klagebehandling etter forvaltningsloven § 28 andre ledd. Bakgrunnen for undersøkelsen var at gjennomgangen av innkomne klager om kommunal bolig etterlot tvil om kommunen overholdt reglene i forvaltningsloven og kravene til god forvaltningsskikk ved klagebehandlingen.  
-   
- Ombudet kom til at kommunens særskilte klagenemnd rutinemessig unnlot å begrunne enkeltvedtak i tråd med forvaltningsloven § 25, jf. § 33 første ledd. Underretting av vedtak inneholdt heller ikke opplysninger om hvem som hadde forberedt og avgjort saken i klagenemnda. Dette er i strid med kravene til god forvaltningsskikk og forutsetningsvis habilitetsreglene i forvaltningsloven og kommuneloven. Til slutt hadde kommunen unnlat å «så snart som mulig» underrette parten om klagenemndas vedtak etter forvaltningsloven § 27 første ledd.   
-   
- Forut for undersøkelsen herfra hadde kommunen allerede endret praksis for begrunnelse, og iverksatt tiltak for å redusere tiden det tok å underrette om vedtak. Sivilombudet uttrykte at det er positivt at Ullensaker kommune allerede har endret praksis og iverksatt tiltak for å forbedre den interne klagebehandlingen. Ombudet ba kommunen sikre at klagebehandlingen fremover følger det som går frem av denne uttalelsen.
+Ombudet kom til at kommunens særskilte klagenemnd rutinemessig unnlot å begrunne enkeltvedtak i tråd med forvaltningsloven § 25, jf. § 33 første ledd. Underretting av vedtak inneholdt heller ikke opplysninger om hvem som hadde forberedt og avgjort saken i klagenemnda. Dette er i strid med kravene til god forvaltningsskikk og forutsetningsvis habilitetsreglene i forvaltningsloven og kommuneloven. Til slutt hadde kommunen unnlat å «så snart som mulig» underrette parten om klagenemndas vedtak etter forvaltningsloven § 27 første ledd.  
+Forut for undersøkelsen herfra hadde kommunen allerede endret praksis for begrunnelse, og iverksatt tiltak for å redusere tiden det tok å underrette om vedtak. Sivilombudet uttrykte at det er positivt at Ullensaker kommune allerede har endret praksis og iverksatt tiltak for å forbedre den interne klagebehandlingen. Ombudet ba kommunen sikre at klagebehandlingen fremover følger det som går frem av denne uttalelsen.
 
 ## Sakens bakgrunn
 

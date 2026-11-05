@@ -14,11 +14,9 @@ Sivilombudets uttalelse 7.3.2025 (sak 2025/763).
 
 ## Oppsummering
 
-Saken gjelder Eidsvoll kommunes tidsbruk i klagesak om omsorgsstønad. Kommunen brukte 8 måneder og 28 dager på å oversende klagen til Statsforvalteren for klagebehandling.   
-   
- Kommunens vedtak i samme sak hadde tidligere blitt opphevet av Statsforvalteren og sendt tilbake til kommunen for ny vurdering. Totalt hadde det derfor gått over tre år og to måneder fra klageren første gang påklaget omfanget av omsorgsstønaden til saken sist ble oversendt Statsforvalteren.   
-   
- Ombudet kom til at kommunens tidsbruk i klagesaken på nesten ni måneder klart var i strid med forvaltningsloven § 33 og § 11 a første ledd,
+Saken gjelder Eidsvoll kommunes tidsbruk i klagesak om omsorgsstønad. Kommunen brukte 8 måneder og 28 dager på å oversende klagen til Statsforvalteren for klagebehandling.  
+Kommunens vedtak i samme sak hadde tidligere blitt opphevet av Statsforvalteren og sendt tilbake til kommunen for ny vurdering. Totalt hadde det derfor gått over tre år og to måneder fra klageren første gang påklaget omfanget av omsorgsstønaden til saken sist ble oversendt Statsforvalteren.  
+Ombudet kom til at kommunens tidsbruk i klagesaken på nesten ni måneder klart var i strid med forvaltningsloven § 33 og § 11 a første ledd,
 
 ## Sakens bakgrunn
 
@@ -27,7 +25,7 @@ Eidsvoll kommune innvilget 1. september 2021 klageren omsorgsstønad med 14 time
 Klageren påklaget 22. september 2021 kommunens vedtak, fordi hun mente kommunen innvilget omsorgsstønad med for få timer per uke. Statsforvalteren i Østfold, Buskerud, Oslo og Akershus, den gang Statsforvalteren i Oslo og Viken, opprettholdt 28. mars 2022 kommunens vedtak.
 
 Klageren ba Statsforvalteren om en ny vurdering av saken 17. oktober 2023. Den  
- 28. november 2023 opphevet Statsforvalteren kommunens vedtak 1. september 2021, da det ble vurdert som ugyldig, og sendte saken tilbake til kommunen for ny behandling.
+28. november 2023 opphevet Statsforvalteren kommunens vedtak 1. september 2021, da det ble vurdert som ugyldig, og sendte saken tilbake til kommunen for ny behandling.
 
 Kommunen fattet et nytt vedtak i saken 26. februar 2024, hvor omfanget av omsorgsstønaden ble opprettholdt med 14 timer per uke. Klageren påklaget det nye vedtaket 19. og 20. mars 2024, blant annet fordi hun mente at utmålingen var for lav.
 
@@ -38,7 +36,7 @@ Den 17. desember 2024 opprettholdt kommunen sitt vedtak fra 26. februar 2024. Da
 ## Våre undersøkelser
 
 Vi fant grunn til å undersøke Eidsvoll kommunes klagebehandlingstid. I brev  
- 8. januar 2025 spurte vi blant annet om hva som var årsaken til at det tok nesten ni måneder før klagesaken ble oversendt til Statsforvalteren for klagebehandling, og om kommunen anså tidsbruken ved behandlingen av klagesaken for å være i tråd med forvaltningsloven § 33 fjerde ledd og § 11 a første ledd.
+8. januar 2025 spurte vi blant annet om hva som var årsaken til at det tok nesten ni måneder før klagesaken ble oversendt til Statsforvalteren for klagebehandling, og om kommunen anså tidsbruken ved behandlingen av klagesaken for å være i tråd med forvaltningsloven § 33 fjerde ledd og § 11 a første ledd.
 
 Kommunen svarte at behandlingstiden hadde vært lengre enn det som var forutsatt i forvaltningsloven, og beklaget den lange behandlingstiden. Kommunen viste til at tildelingsenheten hadde vært i en utfordrende situasjon det siste året, blant annet på grunn av en omfattende omstillingsprosess og hyppige lederskifter. Det ble også vist til «komplekse forhold i selve klagesaken».
 

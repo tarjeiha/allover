@@ -15,11 +15,9 @@ Sivilombudets uttalelse 27.6.2025 (sak 2025/2187).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt saksbehandlingstiden for innsynskrav og innsynsklager hos Grimstad kommune.   
-   
- Ombudet er kommet til at Grimstad kommunes gjennomsnittlige saksbehandlingstid for innsynskrav er for lang. Videre er ombudet enig med kommunen i at behandlingstiden for enkelte innsynskrav ikke er i tråd med offentleglovas krav, og merker seg at kommunen har igangsatt enkelte tiltak for å avhjelpe dette. Undersøkelsen her har avdekket at kommunen ikke har oversikt over behandlingstiden for innsynsklager. Den manglende oversikten begrenser kommunens mulighet til å påse at behandlingstiden i klagesaker om innsyn er lovlig. Kommunen må derfor skaffe seg slik oversikt.   
-   
- Videre anbefaler ombudet kommunen å utarbeide skriftlige rutiner for sin behandling av innsynssaker, samt rutiner for å holde borgerne orientert under sakens gang.
+Sivilombudet har av eget tiltak undersøkt saksbehandlingstiden for innsynskrav og innsynsklager hos Grimstad kommune.  
+Ombudet er kommet til at Grimstad kommunes gjennomsnittlige saksbehandlingstid for innsynskrav er for lang. Videre er ombudet enig med kommunen i at behandlingstiden for enkelte innsynskrav ikke er i tråd med offentleglovas krav, og merker seg at kommunen har igangsatt enkelte tiltak for å avhjelpe dette. Undersøkelsen her har avdekket at kommunen ikke har oversikt over behandlingstiden for innsynsklager. Den manglende oversikten begrenser kommunens mulighet til å påse at behandlingstiden i klagesaker om innsyn er lovlig. Kommunen må derfor skaffe seg slik oversikt.  
+Videre anbefaler ombudet kommunen å utarbeide skriftlige rutiner for sin behandling av innsynssaker, samt rutiner for å holde borgerne orientert under sakens gang.
 
 ## Sakens bakgrunn
 

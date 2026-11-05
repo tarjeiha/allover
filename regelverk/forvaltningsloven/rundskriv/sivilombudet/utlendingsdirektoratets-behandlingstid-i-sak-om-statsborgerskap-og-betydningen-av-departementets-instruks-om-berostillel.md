@@ -16,12 +16,9 @@ Sivilombudets uttalelse 28.10.2019 (sak 2019/1336).
 ## Oppsummering
 
 Saken gjelder Utlendingsdirektoratets (UDIs) behandlingstid i en sak om norsk statsborgerskap for et barn. Søknaden ble fremmet i oktober 2014. UDI informerte 16. mars 2018 søkerens mor om at saken var berostilt, i tråd med instruks fra departementet. Søknaden er etter fem år ennå ikke avgjort.  
-   
- Behandlingstiden i saken er i strid med forvaltningsloven § 11 a første ledd, da saken ikke er behandlet «uten ugrunnet opphold». Saken skulle vært avgjort allerede før den ble berostilt.  
-   
- Ombudsmannen er enig i at et overordnet departements instruks om berostillelse i utgangspunktet kan utgjøre en akseptabel årsak til opphold i saksbehandlingen og som således ikke er i strid med § 11 a første ledd. Ved en eventuell konflikt har UDI, slik ombudsmannen ser det, likevel en plikt til å rette seg etter norsk lov, snarere enn en instruks fra departementet.  
-   
- UDI må nå behandle barnets søknad om statsborgerskap.
+Behandlingstiden i saken er i strid med forvaltningsloven § 11 a første ledd, da saken ikke er behandlet «uten ugrunnet opphold». Saken skulle vært avgjort allerede før den ble berostilt.  
+Ombudsmannen er enig i at et overordnet departements instruks om berostillelse i utgangspunktet kan utgjøre en akseptabel årsak til opphold i saksbehandlingen og som således ikke er i strid med § 11 a første ledd. Ved en eventuell konflikt har UDI, slik ombudsmannen ser det, likevel en plikt til å rette seg etter norsk lov, snarere enn en instruks fra departementet.  
+UDI må nå behandle barnets søknad om statsborgerskap.
 
 Se oppdatering fra forvaltningen
 

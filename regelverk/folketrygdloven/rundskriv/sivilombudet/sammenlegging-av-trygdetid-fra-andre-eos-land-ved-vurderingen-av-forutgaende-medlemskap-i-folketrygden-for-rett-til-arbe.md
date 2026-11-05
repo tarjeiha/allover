@@ -15,14 +15,10 @@ Sivilombudets uttalelse 1.3.2026 (sak 2025/7369).
 ## Oppsummering
 
 Saken gjelder sammenlegging av trygdetid fra andre EØS-land ved vurderingen av forutgående medlemskap i folketrygden for rett til arbeidsavklaringspenger.  
-   
- Klageren i saken er norsk, men flyttet til Spania i 2012. Etter at hun flyttet tilbake til Norge i 2018, søkte hun om arbeidsavklaringspenger. Nav arbeid og ytelser innhentet da informasjon om klagerens perioder med trygdetid fra Spania. Klageren fikk avslag på søknaden fordi hun ikke hadde vært medlem i folketrygden i minst tre år umiddelbart før hun søkte om arbeidsavklaringspenger, jf. folketrygdloven § 11-2 første ledd. Det ble vurdert om klageren oppfylte vilkåret om tre års medlemskap gjennom sammenlegging av den norske og spanske trygdetiden. Nav arbeid og ytelser kom til at vilkåret heller ikke var oppfylt når den spanske trygdetiden ble medregnet. Den spanske trygdetiden ble imidlertid ikke hensyntatt ved vurderingen av om klageren oppfylte unntaksvilkårene i folketrygdloven § 11-2 andre ledd.  
-   
- Klageren begjærte omgjøring av vedtaket flere år senere, men heller ikke da ble trygdetid fra Spania hensyntatt ved vurderingen av om klageren oppfylte unntaksvilkårene.   
-   
- Arbeids- og velferdsdirektoratet uttalte i svaret på Sivilombudets undersøkelse at det forelå feil ved Nav arbeid og ytelsers behandling av klagerens søknad om arbeidsavklaringspenger, som følge av at klagerens trygdetid fra Spania ikke ble medregnet ved vurderingen av om hun oppfylte unntaksvilkårene i folketrygdloven § 11-2 andre ledd. Arbeids- og velferdsdirektoratet tok ikke stilling til om klageren hadde rett til arbeidsavklaringspenger på bakgrunn av den avslåtte søknaden, men ba Nav arbeid- og ytelser om å behandle saken på nytt.   
-   
- Sivilombudet var enig i direktoratets vurdering, og at Nav arbeid og ytelser derfor skal se på saken på nytt.
+Klageren i saken er norsk, men flyttet til Spania i 2012. Etter at hun flyttet tilbake til Norge i 2018, søkte hun om arbeidsavklaringspenger. Nav arbeid og ytelser innhentet da informasjon om klagerens perioder med trygdetid fra Spania. Klageren fikk avslag på søknaden fordi hun ikke hadde vært medlem i folketrygden i minst tre år umiddelbart før hun søkte om arbeidsavklaringspenger, jf. folketrygdloven § 11-2 første ledd. Det ble vurdert om klageren oppfylte vilkåret om tre års medlemskap gjennom sammenlegging av den norske og spanske trygdetiden. Nav arbeid og ytelser kom til at vilkåret heller ikke var oppfylt når den spanske trygdetiden ble medregnet. Den spanske trygdetiden ble imidlertid ikke hensyntatt ved vurderingen av om klageren oppfylte unntaksvilkårene i folketrygdloven § 11-2 andre ledd.  
+Klageren begjærte omgjøring av vedtaket flere år senere, men heller ikke da ble trygdetid fra Spania hensyntatt ved vurderingen av om klageren oppfylte unntaksvilkårene.  
+Arbeids- og velferdsdirektoratet uttalte i svaret på Sivilombudets undersøkelse at det forelå feil ved Nav arbeid og ytelsers behandling av klagerens søknad om arbeidsavklaringspenger, som følge av at klagerens trygdetid fra Spania ikke ble medregnet ved vurderingen av om hun oppfylte unntaksvilkårene i folketrygdloven § 11-2 andre ledd. Arbeids- og velferdsdirektoratet tok ikke stilling til om klageren hadde rett til arbeidsavklaringspenger på bakgrunn av den avslåtte søknaden, men ba Nav arbeid- og ytelser om å behandle saken på nytt.  
+Sivilombudet var enig i direktoratets vurdering, og at Nav arbeid og ytelser derfor skal se på saken på nytt.
 
 ## Sakens bakgrunn
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 6.11.2020 (sak 2020/2098).
 ## Oppsummering
 
 En person ba om innsyn i to dokumenter hos Mattilsynet. Etter seks måneder var kravet ikke besvart. Mattilsynet begrunnet tidsbruken med at vedkommende hadde bedt om innsyn i over tre tusen dokumenter i 2018 og at det lå an til tilsvarende for 2019. Det var derfor satt en øvre grense på hvor mange av personens innsynskrav som skulle behandle per uke. Mattilsynet begrunnet beslutningen med hensynet organets øvrige oppgaver.  
-   
- Ved uvanlig mange innsynskrav fra én enkeltperson over en lang periode, kan organet behandle kravene også etter andre saklige prioriteringskrav enn ren tidsprioritet. Ressursbruken vil da måtte balanseres mot organets andre oppgaver, inkludert andre innsynskrav. Terskelen er imidlertid høy. I tillegg er det en grense for hvor lang tid som kan aksepteres. Ombudsmannen er kommet til at en behandlingstid på over seks måneder er for lang og i strid med lovens krav.
+Ved uvanlig mange innsynskrav fra én enkeltperson over en lang periode, kan organet behandle kravene også etter andre saklige prioriteringskrav enn ren tidsprioritet. Ressursbruken vil da måtte balanseres mot organets andre oppgaver, inkludert andre innsynskrav. Terskelen er imidlertid høy. I tillegg er det en grense for hvor lang tid som kan aksepteres. Ombudsmannen er kommet til at en behandlingstid på over seks måneder er for lang og i strid med lovens krav.
 
 ## Sakens bakgrunn
 

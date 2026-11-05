@@ -15,10 +15,8 @@ Sivilombudets uttalelse 18.6.2018 (sak 2017/2893).
 ## Oppsummering
 
 Telemark fylkeskommunale klagenemnd omgjorde et vedtak om tilbakekall av et drosjeløyve og ileggelse av tre års karantene etter yrkestransportlova § 29 første ledd, jf. yrkestransportforskriften § 45. På bakgrunn av omgjøringen fremsatte løyvehaveren et krav om dekning av sakskostnader etter forvaltningsloven § 36 første ledd. Fylkesutvalget og fylkestinget avslo kravet, fordi klagenemndas omgjøring bygget på opplysninger og dokumentasjon som løyvehaveren først fremla under klagesaksbehandlingen. Fylkestinget mente derfor at klagenemndas omgjøring av vedtaket skyldtes «partens eget forhold» og «forhold utenfor partens og forvaltningens kontroll», samt at «andre særlige forhold» talte mot å innvilge kravet om dekning av sakskostnader, jf. forvaltningsloven § 36 første ledd.  
-   
- Ombudsmannen er kommet til at førsteinstansen i Telemark fylkeskommune ikke hadde oppfylt sin utredningsplikt da vedtaket om tilbakekall av drosjeløyve og karantenetid ble fattet, jf. forvaltningsloven § 17 første ledd. På vedtakstidspunktet forelå det motstridende opplysninger som ga førsteinstansen en oppfordring til å undersøke de faktiske forholdene nærmere. I lys av vedtakets inngripende karakter fremsto førsteinstansens undersøkelser som svært begrenset. Manglende saksutredning i førsteinstansen ligger innenfor forvaltningens kontroll, og kravet om dekning av sakskostnader etter forvaltningsloven § 36 første ledd kan da ikke avslås på bakgrunn av at klagenemndas omgjøring skyldtes nye opplysninger.  
-   
- Telemark fylkeskommune er bedt om å vurdere sakskostnadssaken på nytt.
+Ombudsmannen er kommet til at førsteinstansen i Telemark fylkeskommune ikke hadde oppfylt sin utredningsplikt da vedtaket om tilbakekall av drosjeløyve og karantenetid ble fattet, jf. forvaltningsloven § 17 første ledd. På vedtakstidspunktet forelå det motstridende opplysninger som ga førsteinstansen en oppfordring til å undersøke de faktiske forholdene nærmere. I lys av vedtakets inngripende karakter fremsto førsteinstansens undersøkelser som svært begrenset. Manglende saksutredning i førsteinstansen ligger innenfor forvaltningens kontroll, og kravet om dekning av sakskostnader etter forvaltningsloven § 36 første ledd kan da ikke avslås på bakgrunn av at klagenemndas omgjøring skyldtes nye opplysninger.  
+Telemark fylkeskommune er bedt om å vurdere sakskostnadssaken på nytt.
 
 Se oppdatering fra forvaltningen
 

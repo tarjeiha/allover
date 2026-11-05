@@ -15,14 +15,11 @@ Sivilombudets uttalelse 14.2.2024 (sak 2023/4868).
 
 ## Oppsummering
 
-Saken gjelder behandlingstiden i en sak om spesialundervisning i grunnskolen.   
- Kommunen hadde først avslått en søknad om spesialundervisning. Statsforvalteren opphevet avslaget etter klage på grunn av saksbehandlingsfeil og sendte saken tilbake til kommunen for ny behandling. Kommunen brukte over seks måneder på å treffe et nytt vedtak i saken.   
-   
- Kommunen viste til at den lange behandlingstiden særlig skyldtes at det var nødvendig å utrede saken nærmere ved å innhente en ny sakkyndig vurdering.   
-   
- Sivilombudet er kommet til at kommunen ikke har behandlet saken om spesialundervisning «uten ugrunnet opphold» etter opphevelsen, slik forvaltningsloven krever. Selv om behovet for en ny sakkyndig vurdering kan begrunne en lengre behandlingstid, fremstod seks måneder som for lenge. Elevens behov var godt kjent for kommunen fra før og de nye opplysningene som ble innhentet i forbindelse med den nye sakkyndige vurderingen kunne vært innhentet tidligere.  
-   
- I saker om spesialundervisning vil ofte behandlingstiden løpe parallelt med skoleåret og føre til et direkte tap av rettigheter for elever som viser seg å ha krav på spesialundervisning. Etter ombudets syn har kommunen en særlig oppfordring til å prioritere å treffe nytt vedtak raskt i denne sakstypen når et vedtak oppheves etter klage.
+Saken gjelder behandlingstiden i en sak om spesialundervisning i grunnskolen.  
+Kommunen hadde først avslått en søknad om spesialundervisning. Statsforvalteren opphevet avslaget etter klage på grunn av saksbehandlingsfeil og sendte saken tilbake til kommunen for ny behandling. Kommunen brukte over seks måneder på å treffe et nytt vedtak i saken.  
+Kommunen viste til at den lange behandlingstiden særlig skyldtes at det var nødvendig å utrede saken nærmere ved å innhente en ny sakkyndig vurdering.  
+Sivilombudet er kommet til at kommunen ikke har behandlet saken om spesialundervisning «uten ugrunnet opphold» etter opphevelsen, slik forvaltningsloven krever. Selv om behovet for en ny sakkyndig vurdering kan begrunne en lengre behandlingstid, fremstod seks måneder som for lenge. Elevens behov var godt kjent for kommunen fra før og de nye opplysningene som ble innhentet i forbindelse med den nye sakkyndige vurderingen kunne vært innhentet tidligere.  
+I saker om spesialundervisning vil ofte behandlingstiden løpe parallelt med skoleåret og føre til et direkte tap av rettigheter for elever som viser seg å ha krav på spesialundervisning. Etter ombudets syn har kommunen en særlig oppfordring til å prioritere å treffe nytt vedtak raskt i denne sakstypen når et vedtak oppheves etter klage.
 
 ## Sakens bakgrunn
 

@@ -14,15 +14,11 @@ Sivilombudets uttalelse 18.4.2024 (sak 2023/4428).
 
 ## Oppsummering
 
-Saken gjelder en innsatt som ønsket å studere under soning. Kriminalomsorgen region nord avslo søknaden hans om frigang for å studere, og fengselet kunne ikke tilrettelegge for studier fra fengslet.   
-   
- Regionen avslo søknaden fordi de mente frigang ikke var sikkerhetsmessig forsvarlig. I vurderingen viste regionen til at domfelte hadde «truet og forsøkt å oppvigle innsatte til opprør».  
-   
- Sivilombudet uttalte at hendelsene, som begrunnet avslaget på søknaden om frigang, var gjengitt på en slik måte i vedtaket, at det var uklart hvilket faktum som lå til grunn for regionens vurdering og hvordan hendelsene var vurdert. Det skulle også kommet tydeligere frem av vedtaket, at klagerens idømte handlinger var en viktig del av regionens begrunnelse. På denne bakgrunn kom ombudet til at det forelå begrunnet tvil om regionens vedtak var i tråd med forvaltningslovens krav til begrunnelse.  
-   
- Ombudet uttalte også at regionen burde vurdert betydningen av at fengselet likevel ikke kunne tilrettelegge for utdanningen i fengselet.  
-   
- Ombudet ber regionen merke seg ombudets syn, og at dette legges til grunn ved behandlingen av fremtidige saker om frigang til studier og andre saker der tilrettelegging for høyere utdanning i fengsler er relevant.
+Saken gjelder en innsatt som ønsket å studere under soning. Kriminalomsorgen region nord avslo søknaden hans om frigang for å studere, og fengselet kunne ikke tilrettelegge for studier fra fengslet.  
+Regionen avslo søknaden fordi de mente frigang ikke var sikkerhetsmessig forsvarlig. I vurderingen viste regionen til at domfelte hadde «truet og forsøkt å oppvigle innsatte til opprør».  
+Sivilombudet uttalte at hendelsene, som begrunnet avslaget på søknaden om frigang, var gjengitt på en slik måte i vedtaket, at det var uklart hvilket faktum som lå til grunn for regionens vurdering og hvordan hendelsene var vurdert. Det skulle også kommet tydeligere frem av vedtaket, at klagerens idømte handlinger var en viktig del av regionens begrunnelse. På denne bakgrunn kom ombudet til at det forelå begrunnet tvil om regionens vedtak var i tråd med forvaltningslovens krav til begrunnelse.  
+Ombudet uttalte også at regionen burde vurdert betydningen av at fengselet likevel ikke kunne tilrettelegge for utdanningen i fengselet.  
+Ombudet ber regionen merke seg ombudets syn, og at dette legges til grunn ved behandlingen av fremtidige saker om frigang til studier og andre saker der tilrettelegging for høyere utdanning i fengsler er relevant.
 
 ## Sakens bakgrunn
 

@@ -15,9 +15,9 @@ Sivilombudets uttalelse 16.9.2018 (sak 2018/1323).
 
 ## Oppsummering
 
-Saken gjelder Fylkesmannen i Møre og Romsdals behandling av en klage på avslag på krav om innsyn i dokumentlisten i saksmappen til en skoleelev.   
- Saksbehandlingstiden hos Fylkesmannen var om lag fire måneder. Innsynssaken hadde begrenset omfang, og saken lå ubehandlet hos Fylkesmannen i lang tid. Ombudsmannen mener saksbehandlingsfristen i offentleglova § 32 tredje ledd ikke er overholdt.   
- Under klagesaksbehandlingen hadde Fylkesmannen vurdert innsynsspørsmålet uten å ha dokumentet innsynskravet gjaldt tilgjengelig. Ombudsmannen mener saken ikke var tilstrekkelig utredet da Fylkesmannen traff sitt vedtak. Fylkesmannen er bedt om å behandle saken på nytt.
+Saken gjelder Fylkesmannen i Møre og Romsdals behandling av en klage på avslag på krav om innsyn i dokumentlisten i saksmappen til en skoleelev.  
+Saksbehandlingstiden hos Fylkesmannen var om lag fire måneder. Innsynssaken hadde begrenset omfang, og saken lå ubehandlet hos Fylkesmannen i lang tid. Ombudsmannen mener saksbehandlingsfristen i offentleglova § 32 tredje ledd ikke er overholdt.  
+Under klagesaksbehandlingen hadde Fylkesmannen vurdert innsynsspørsmålet uten å ha dokumentet innsynskravet gjaldt tilgjengelig. Ombudsmannen mener saken ikke var tilstrekkelig utredet da Fylkesmannen traff sitt vedtak. Fylkesmannen er bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

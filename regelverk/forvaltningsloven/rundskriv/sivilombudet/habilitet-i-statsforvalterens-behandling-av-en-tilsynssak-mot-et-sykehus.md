@@ -14,11 +14,9 @@ Sivilombudets uttalelse 25.3.2025 (sak 2025/370).
 
 ## Oppsummering
 
-Ombudet har av eget tiltak undersøkt hva Statsforvalteren i Innlandet har gjort for å sikre medisinskfaglig rådgivers habilitet i en tilsynssak mot et sykehus. Den medisinskfaglige rådgiveren var, i tillegg til sin stilling hos Statsforvalteren, ansatt i en 20% stilling ved det sykehuset tilsynet gjaldt.   
-   
- Ombudet kom til at det forelå begrunnet tvil om As habilitet, og uttalte at ansettelsen ved sykehuset utgjør et særegent forhold som er egnet til å svekke tilliten til As upartiskhet etter forvaltningsloven § 6 annet ledd. Ombudet ba Statsforvalteren vurdere As habilitet på nytt, og om å bli orientert om utfallet av den nye vurderingen.  
-   
- Statsforvalteren ble bedt om å merke seg ombudets syn på habilitetsspørsmålet for fremtidige saker. Ombudet bemerket også at det er positivt at Statsforvalteren jobber med skriftlige rutiner for å avklare habilitet hos ansatte, og la til grunn at dette vil komme på plass i løpet av kort tid.
+Ombudet har av eget tiltak undersøkt hva Statsforvalteren i Innlandet har gjort for å sikre medisinskfaglig rådgivers habilitet i en tilsynssak mot et sykehus. Den medisinskfaglige rådgiveren var, i tillegg til sin stilling hos Statsforvalteren, ansatt i en 20% stilling ved det sykehuset tilsynet gjaldt.  
+Ombudet kom til at det forelå begrunnet tvil om As habilitet, og uttalte at ansettelsen ved sykehuset utgjør et særegent forhold som er egnet til å svekke tilliten til As upartiskhet etter forvaltningsloven § 6 annet ledd. Ombudet ba Statsforvalteren vurdere As habilitet på nytt, og om å bli orientert om utfallet av den nye vurderingen.  
+Statsforvalteren ble bedt om å merke seg ombudets syn på habilitetsspørsmålet for fremtidige saker. Ombudet bemerket også at det er positivt at Statsforvalteren jobber med skriftlige rutiner for å avklare habilitet hos ansatte, og la til grunn at dette vil komme på plass i løpet av kort tid.
 
 ## Sakens bakgrunn
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 2.7.2018 (sak 2018/194).
 ## Oppsummering
 
 Fylkesmannen i Sør-Trøndelag stadfestet Trondheim kommunes vedtak om å gi dispensasjon fra reguleringsplanens bestemmelse om utnyttelsesgrad samt plan- og bygningslovens § 29-4 annet ledd om minste avstand til nabogrense i forbindelse med oppføring av bolighus på en nylig fradelt tomt. Når det gjaldt dispensasjon fra bestemmelse om utnyttelsesgrad, hadde Fylkesmannen blant annet lagt vekt på at planen var av eldre dato og at tomten nylig var fradelt.  
-   
- Ombudsmannen er kommet til at det knytter seg tvil til om Fylkesmannen kunne innvilge dispensasjonssøknaden med den begrunnelse som ble gitt. Fylkesmannen bes om å vurdere saken på nytt.
+Ombudsmannen er kommet til at det knytter seg tvil til om Fylkesmannen kunne innvilge dispensasjonssøknaden med den begrunnelse som ble gitt. Fylkesmannen bes om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

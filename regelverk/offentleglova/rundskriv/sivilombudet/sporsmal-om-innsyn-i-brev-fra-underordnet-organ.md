@@ -15,10 +15,8 @@ Sivilombudets uttalelse 2.12.2019 (sak 2019/3809).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i et brev oversendt fra Politidirektoratet til Justis- og beredskapsdepartementet. Brevet gjelder Politidirektoratets «Innspill - Interoperabilitet administrative og økonomiske konsekvenser». Innsynskravet ble avslått av Politidirektoratet med henvisning til offentleglova § 15 første ledd. Innsynsklagen ble oversendt fra Politidirektoratet til Justis- og beredskapsdepartementet 23. juli 2019. Justis- og beredskapsdepartementet stadfestet avslaget 26. september 2019.  
-   
- Ombudsmannen er kommet til at saksbehandlingstiden i departementet var for lang og i strid med offentleglovas krav. Det er også knyttet «begrunnet tvil» til om det var adgang til å unnta dokumentet fra offentlighet.  
-   
- Ombudsmannen ber departementet om å foreta en ny vurdering av innsynskravet.
+Ombudsmannen er kommet til at saksbehandlingstiden i departementet var for lang og i strid med offentleglovas krav. Det er også knyttet «begrunnet tvil» til om det var adgang til å unnta dokumentet fra offentlighet.  
+Ombudsmannen ber departementet om å foreta en ny vurdering av innsynskravet.
 
 Se oppdatering fra forvaltningen
 

@@ -15,13 +15,10 @@ Sivilombudets uttalelse 21.3.2025 (sak 2024/6446).
 
 ## Oppsummering
 
-Nav lønnsgaranti har forventet saksbehandlingstid på 15 måneder for søknad om dekning under lønnsgarantien. Krav på feriepenger opptjent året før konkursåpning behandles innen to måneder. På bakgrunn av flere klager over lang saksbehandlingstid, besluttet Sivilombudet å ta saken opp av eget tiltak med Arbeids- og velferdsdirektoratet.   
-   
- Arbeids- og velferdsdirektoratet opplyste at det var igangsatt tiltak for å få ned behandlingstiden. To nye saksbehandlere var ansatt høsten 2024, og fire nye medarbeidere skal ansettes i løpet av de fire første månedene i 2025. Direktoratet forventer at saksbehandlingstiden vil gå noe ned første halvår av 2025, forutsatt at saksinngangen av lønnsgarantisaker ikke øker.   
-   
- Sivilombudet mener at den lange forventede saksbehandlingstiden i lønnsgarantisaker er urovekkende og alvorlig for de som venter på lønn og feriepenger, og at det er grunn til å tro at flere saker ikke blir behandlet uten «ugrunnet opphold», jf. forvaltningsloven § 11 a. Videre mener ombudet at det er i strid med god forvaltningsskikk at Nav har unnlatt å orientere om forsinkelse der tidsbruken går utover den opplyste forventede behandlingstiden.   
-   
- Ombudet har merket seg de tiltak som er igangsatt for å få ned behandlingstiden og at Nav heretter vil orientere bostyrer om forsinkelse. Ombudet vil fortsette med å følge med på behandlingstiden og om igangsatte tiltak har tilstrekkelig effekt. Arbeids- og velferdsdirektoratet ble derfor bedt om å sende en ny redegjørelse innen utgangen av september 2025 om utviklingen i saksbehandlingstiden fram til det tidspunktet.
+Nav lønnsgaranti har forventet saksbehandlingstid på 15 måneder for søknad om dekning under lønnsgarantien. Krav på feriepenger opptjent året før konkursåpning behandles innen to måneder. På bakgrunn av flere klager over lang saksbehandlingstid, besluttet Sivilombudet å ta saken opp av eget tiltak med Arbeids- og velferdsdirektoratet.  
+Arbeids- og velferdsdirektoratet opplyste at det var igangsatt tiltak for å få ned behandlingstiden. To nye saksbehandlere var ansatt høsten 2024, og fire nye medarbeidere skal ansettes i løpet av de fire første månedene i 2025. Direktoratet forventer at saksbehandlingstiden vil gå noe ned første halvår av 2025, forutsatt at saksinngangen av lønnsgarantisaker ikke øker.  
+Sivilombudet mener at den lange forventede saksbehandlingstiden i lønnsgarantisaker er urovekkende og alvorlig for de som venter på lønn og feriepenger, og at det er grunn til å tro at flere saker ikke blir behandlet uten «ugrunnet opphold», jf. forvaltningsloven § 11 a. Videre mener ombudet at det er i strid med god forvaltningsskikk at Nav har unnlatt å orientere om forsinkelse der tidsbruken går utover den opplyste forventede behandlingstiden.  
+Ombudet har merket seg de tiltak som er igangsatt for å få ned behandlingstiden og at Nav heretter vil orientere bostyrer om forsinkelse. Ombudet vil fortsette med å følge med på behandlingstiden og om igangsatte tiltak har tilstrekkelig effekt. Arbeids- og velferdsdirektoratet ble derfor bedt om å sende en ny redegjørelse innen utgangen av september 2025 om utviklingen i saksbehandlingstiden fram til det tidspunktet.
 
 Se oppdatering fra forvaltningen
 

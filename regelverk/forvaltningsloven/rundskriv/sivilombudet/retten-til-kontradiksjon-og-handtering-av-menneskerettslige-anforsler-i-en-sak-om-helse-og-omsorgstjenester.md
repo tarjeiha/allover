@@ -15,12 +15,9 @@ Sivilombudets uttalelse 2.7.2020 (sak 2020/292).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens behandling av klage på kommunens vedtak om å endre tjenestested for fortsatt ytelse av nødvendige helse- og omsorgstjenester til en sterkt funksjonshemmet person. Vedkommende hadde tidligere mottatt tjenestene i egen sokkelleilighet tilknyttet foreldrenes bolig. Endringen av tjenestestedet innebar at kommunen stilte krav om flytting til kommunal omsorgsbolig. Vedtaket ble påklaget ved fullmektig. Kommunen som hadde truffet vedtaket, utarbeidet i forbindelse med klagesaken en saksfremstilling til Fylkesmannen. Kopi av saksfremstillingen ble sendt klagerens mor, men ikke fullmektigen eller klagerens verge.  
-   
- Ombudsmannen er kommet til at det var et brudd på forvaltningsloven § 12 tredje ledd andre punktum at kommunens saksfremstilling i oversendelsen til Fylkesmannen ikke ble oversendt klagerens fullmektig – Norsk Forbund for Utviklingshemmede (NFU). Forvaltningen har risikoen og bevisbyrden for at dens underretninger kommer frem i tilfeller der de ikke er blitt sendt på en lovmessig måte. Slik saken er opplyst må det legges til grunn at NFU heller ikke ble kjent med saksfremstillingen før Fylkesmannen traff vedtak i klagesaken. Dette innebærer et brudd på kontradiksjons- og utredningsplikten. Fylkesmannens vedtak er følgelig beheftet med saksbehandlingsfeil.  
-   
- Videre mener ombudsmannen at det var i strid med god forvaltningsskikk at klagerens menneskerettslige anførsler, som var sentrale i saken, ikke ble kommentert i vedtaket. At Fylkesmannen heller ikke kommenterte dette i forbindelse med klagerens påfølgende anmodning om omgjøring av vedtaket, var også i strid med god forvaltningsskikk.  
-   
- Ombudsmannen ber Fylkesmannen vurdere saken på nytt i samsvar med merknadene i denne uttalelsen.
+Ombudsmannen er kommet til at det var et brudd på forvaltningsloven § 12 tredje ledd andre punktum at kommunens saksfremstilling i oversendelsen til Fylkesmannen ikke ble oversendt klagerens fullmektig – Norsk Forbund for Utviklingshemmede (NFU). Forvaltningen har risikoen og bevisbyrden for at dens underretninger kommer frem i tilfeller der de ikke er blitt sendt på en lovmessig måte. Slik saken er opplyst må det legges til grunn at NFU heller ikke ble kjent med saksfremstillingen før Fylkesmannen traff vedtak i klagesaken. Dette innebærer et brudd på kontradiksjons- og utredningsplikten. Fylkesmannens vedtak er følgelig beheftet med saksbehandlingsfeil.  
+Videre mener ombudsmannen at det var i strid med god forvaltningsskikk at klagerens menneskerettslige anførsler, som var sentrale i saken, ikke ble kommentert i vedtaket. At Fylkesmannen heller ikke kommenterte dette i forbindelse med klagerens påfølgende anmodning om omgjøring av vedtaket, var også i strid med god forvaltningsskikk.  
+Ombudsmannen ber Fylkesmannen vurdere saken på nytt i samsvar med merknadene i denne uttalelsen.
 
 ## Sakens bakgrunn
 

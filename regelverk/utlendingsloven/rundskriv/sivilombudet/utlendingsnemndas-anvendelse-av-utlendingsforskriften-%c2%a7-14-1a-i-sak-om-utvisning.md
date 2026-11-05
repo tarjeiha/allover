@@ -16,12 +16,9 @@ Sivilombudets uttalelse 15.12.2025 (sak 2025/3993).
 ## Oppsummering
 
 Saken gjelder Utlendingsnemndas (UNEs) avgjørelse om utvisning av en kvinne som hadde oppholdt seg ulovlig i Norge etter endelig avslag på sin søknad om beskyttelse.  
-   
- I avgjørelsen tok UNE utgangspunkt i utlendingsforskriften § 14-1a som bestemmer at der en utlending har barn i Norge, skal utlendingen ikke utvises for brudd på utlendingsloven hvis det ikke er mulig å videreføre familielivet i utlendingens hjemland.   
-   
- Klageren utøvet et familieliv med sin norske sønn i Norge. UNE mente imidlertid de var avskåret fra å vurdere om det var mulig å videreføre familielivet med sønnen i morens hjemland, fordi det var uklart hva som er hennes rette hjemland. Utvisningen ble derfor opprettholdt.   
-   
- Ombudet konkluderte med at UNE ikke overholdt utredningsplikten da de unnlot å vurdere det aktuelle vilkåret fordi det var uklart hva som var klagerens rette hjemland. UNE skulle vurdert hvilke land som var mest sannsynlige returland, og tatt stilling til om at det ikke var mulig å videreføre familielivet i disse.
+I avgjørelsen tok UNE utgangspunkt i utlendingsforskriften § 14-1a som bestemmer at der en utlending har barn i Norge, skal utlendingen ikke utvises for brudd på utlendingsloven hvis det ikke er mulig å videreføre familielivet i utlendingens hjemland.  
+Klageren utøvet et familieliv med sin norske sønn i Norge. UNE mente imidlertid de var avskåret fra å vurdere om det var mulig å videreføre familielivet med sønnen i morens hjemland, fordi det var uklart hva som er hennes rette hjemland. Utvisningen ble derfor opprettholdt.  
+Ombudet konkluderte med at UNE ikke overholdt utredningsplikten da de unnlot å vurdere det aktuelle vilkåret fordi det var uklart hva som var klagerens rette hjemland. UNE skulle vurdert hvilke land som var mest sannsynlige returland, og tatt stilling til om at det ikke var mulig å videreføre familielivet i disse.
 
 ## Sakens bakgrunn
 

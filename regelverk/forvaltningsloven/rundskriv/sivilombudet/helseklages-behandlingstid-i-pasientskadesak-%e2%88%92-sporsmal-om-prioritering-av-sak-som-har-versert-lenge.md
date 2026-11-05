@@ -14,11 +14,9 @@ Sivilombudets uttalelse 15.12.2020 (sak 2020/2152).
 
 ## Oppsummering
 
-Saken gjelder Helseklages behandlingstid i en enkeltsak om utmåling av erstatning for pasientskade og Helseklages vurdering av spørsmålet om prioritering av saken.   
-   
- Ombudsmannen mener behandlingstiden i utmålingssaken på nesten 29 måneder var for lang. Saken burde ha blitt prioritert fra den kom inn til Helseklage, fordi pasientskadesaken allerede hadde versert lenge for forvaltningen og domstolene, uten at klageren var skyld i dette.   
-   
- Med lang forventet saksbehandlingstid i Helseklage, er det særlig viktig med gode rutiner for å identifisere saker som av ulike grunner bør prioriteres. Ombudsmannen har derfor bedt Helseklage om å gjennomgå rutinene for prioritering mellom saker. Videre forventer ombudsmannen at Helseklage i fremtiden sørger for å gi hensiktsmessig informasjon i orienteringer om forventet saksbehandlingstid.
+Saken gjelder Helseklages behandlingstid i en enkeltsak om utmåling av erstatning for pasientskade og Helseklages vurdering av spørsmålet om prioritering av saken.  
+Ombudsmannen mener behandlingstiden i utmålingssaken på nesten 29 måneder var for lang. Saken burde ha blitt prioritert fra den kom inn til Helseklage, fordi pasientskadesaken allerede hadde versert lenge for forvaltningen og domstolene, uten at klageren var skyld i dette.  
+Med lang forventet saksbehandlingstid i Helseklage, er det særlig viktig med gode rutiner for å identifisere saker som av ulike grunner bør prioriteres. Ombudsmannen har derfor bedt Helseklage om å gjennomgå rutinene for prioritering mellom saker. Videre forventer ombudsmannen at Helseklage i fremtiden sørger for å gi hensiktsmessig informasjon i orienteringer om forventet saksbehandlingstid.
 
 ## Sakens bakgrunn
 

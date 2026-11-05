@@ -14,9 +14,8 @@ Sivilombudets uttalelse 18.11.2022 (sak 2022/1321).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om eieren av en fraflyttet helårsbolig kan pålegges å betale avfallsgebyr etter forurensningsloven § 34 første ledd, jf. § 30.   
-   
- Sivilombudet kom til at ankenemnda hadde tatt feil rettslig utgangspunkt. Nemnda hadde vurdert saken som en fritakssøknad og ikke om det var hjemmel til å kreve gebyr fra en fraflyttet eiendom. Ombudet la til grunn at det må produseres husholdningsavfall på en eiendom for at den er omfattet av gebyrplikten. Hjemmelshaveren hadde flyttet permanent fra eiendommen, og det var opplyst at ingen hadde overnattet på eiendommen etter fraflyttingen. Ombudet kom til at det var tvil om eiendommen var omfattet av gebyrplikten og ba nemnda vurdere saken på nytt.
+Saken gjelder spørsmålet om eieren av en fraflyttet helårsbolig kan pålegges å betale avfallsgebyr etter forurensningsloven § 34 første ledd, jf. § 30.  
+Sivilombudet kom til at ankenemnda hadde tatt feil rettslig utgangspunkt. Nemnda hadde vurdert saken som en fritakssøknad og ikke om det var hjemmel til å kreve gebyr fra en fraflyttet eiendom. Ombudet la til grunn at det må produseres husholdningsavfall på en eiendom for at den er omfattet av gebyrplikten. Hjemmelshaveren hadde flyttet permanent fra eiendommen, og det var opplyst at ingen hadde overnattet på eiendommen etter fraflyttingen. Ombudet kom til at det var tvil om eiendommen var omfattet av gebyrplikten og ba nemnda vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

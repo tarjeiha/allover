@@ -16,8 +16,7 @@ Sivilombudets uttalelse 31.1.2019 (sak 2018/2073).
 ## Oppsummering
 
 En kommune hadde ansatt en skolefaglig ansvarlig uten at stillingen først ble kunngjort internt eller offentlig. Som begrunnelse for denne fremgangsmåten viste kommunen til planer om sammenslåing med nabokommunene. Kommunen mente at det i praksis ikke hadde skjedd en ansettelse i noen ledig stilling, men et samarbeid mellom disse kommunene. Samarbeidet ble likevel formalisert gjennom en avtale om ansettelse.  
-   
- Ombudsmannen uttalte at kommunens begrunnelse for ikke å kunngjøre stillingen som skolefaglig ansvarlig bygger på en uriktig rettslig forståelse. Stillingen skulle vært kunngjort internt. Om ingen interne hevdet å ha rett til stillingen, for eksempel gjennom fortrinnsrett, skulle den også vært kunngjort offentlig.
+Ombudsmannen uttalte at kommunens begrunnelse for ikke å kunngjøre stillingen som skolefaglig ansvarlig bygger på en uriktig rettslig forståelse. Stillingen skulle vært kunngjort internt. Om ingen interne hevdet å ha rett til stillingen, for eksempel gjennom fortrinnsrett, skulle den også vært kunngjort offentlig.
 
 ## Sakens bakgrunn og våre undersøkelser
 

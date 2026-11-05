@@ -15,15 +15,11 @@ Sivilombudets uttalelse 21.4.2024 (sak 2023/3665).
 
 ## Oppsummering
 
-En eldre kvinne hadde hjemmetjenester fra kommunen. Hun ble innlagt på sykehus i dårlig forfatning og døde like etterpå. De etterlatte mente at kommunen skulle ha ivaretatt kvinnen bedre, både hva gjaldt helse og de uhygieniske forholdene i hjemmet og ba Statsforvalteren om å føre tilsyn med kommunen. Statsforvalteren ba kommunen om å gå igjennom saken selv. Senere forsøk fra de etterlatte på å få Statsforvalteren til å føre tilsyn, førte ikke frem.   
-   
- I uttalelsen redegjorde ombudet for sitt syn på vilkårene for at statsforvalteren skal følge opp en anmodning etter pasient- og brukerrettighetsloven § 7-4 med egne undersøkelser. Ombudet uttalte seg også om hva som ligger i begrepene «foreligger forhold som er til fare for pasient- og brukersikkerheten» og «grunn til å anta» i § 7-4 a annet ledd annet punktum. Ombudet tok dessuten stilling til hva som ligger i å «undersøke» et forhold.   
-   
- Videre kom ombudet til at statsforvalteren alltid må vurdere om det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten ved valg av oppfølging (behandlingsmåte) av en anmodning om tilsyn. Vurderingen skal fremgå av begrunnelsen som gis til den som har anmodet om tilsyn.   
-   
- I den aktuelle saken var det usikkert om Statsforvalteren hadde vurdert anmodningen fra de etterlatte slik loven krever, og om saken var tilstrekkelig utredet. Videre var begrunnelsen som ble gitt til de etterlatte, mangelfull.   
-   
- Ombudet fant det ikke hensiktsmessig å be Statsforvalteren om å behandle saken på nytt, men ba imidlertid Statsforvalteren merke seg ombudets syn på saksbehandlingskravene i pasient- og brukerrettighetsloven § 7-4 a annet og femte ledd ved behandlingen av fremtidige anmodninger om tilsyn etter § 7-4 første ledd.
+En eldre kvinne hadde hjemmetjenester fra kommunen. Hun ble innlagt på sykehus i dårlig forfatning og døde like etterpå. De etterlatte mente at kommunen skulle ha ivaretatt kvinnen bedre, både hva gjaldt helse og de uhygieniske forholdene i hjemmet og ba Statsforvalteren om å føre tilsyn med kommunen. Statsforvalteren ba kommunen om å gå igjennom saken selv. Senere forsøk fra de etterlatte på å få Statsforvalteren til å føre tilsyn, førte ikke frem.  
+I uttalelsen redegjorde ombudet for sitt syn på vilkårene for at statsforvalteren skal følge opp en anmodning etter pasient- og brukerrettighetsloven § 7-4 med egne undersøkelser. Ombudet uttalte seg også om hva som ligger i begrepene «foreligger forhold som er til fare for pasient- og brukersikkerheten» og «grunn til å anta» i § 7-4 a annet ledd annet punktum. Ombudet tok dessuten stilling til hva som ligger i å «undersøke» et forhold.  
+Videre kom ombudet til at statsforvalteren alltid må vurdere om det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten ved valg av oppfølging (behandlingsmåte) av en anmodning om tilsyn. Vurderingen skal fremgå av begrunnelsen som gis til den som har anmodet om tilsyn.  
+I den aktuelle saken var det usikkert om Statsforvalteren hadde vurdert anmodningen fra de etterlatte slik loven krever, og om saken var tilstrekkelig utredet. Videre var begrunnelsen som ble gitt til de etterlatte, mangelfull.  
+Ombudet fant det ikke hensiktsmessig å be Statsforvalteren om å behandle saken på nytt, men ba imidlertid Statsforvalteren merke seg ombudets syn på saksbehandlingskravene i pasient- og brukerrettighetsloven § 7-4 a annet og femte ledd ved behandlingen av fremtidige anmodninger om tilsyn etter § 7-4 første ledd.
 
 ## Sakens bakgrunn
 
@@ -138,8 +134,8 @@ Tidligere var statsforvalteren etter pasient- og brukerrettighetsloven § 7-4 a 
 Om endringene av tilsynsmyndighetens plikt til å behandle anmodninger om vurdering av mulig pliktbrudd i den nye bestemmelsen i § 7-4 a annet ledd, står det blant annet i proposisjonen kapittel 4.5:
 
 «Statsforvalteren vil i hver enkelt sak vurdere om det er nødvendig å utrede og vurdere om virksomheter og/eller helsepersonell har overholdt kravene i helselovgivningen og følge opp der det er grunnlag for det … Hvorvidt statsforvalteren skal gå videre med saken eller ikke, må vurderes ut fra den enkelte sak, der vurderingen av hvordan formålet til tilsynet best vil oppnås skal veie tyngst. Videre må statsforvalteren ta i betraktning hva den som anmoder ønsker å oppnå og eventuelle føringer i henvendelsen for hvordan saken skal følges opp. Dette skal imidlertid ikke være avgjørende dersom statsforvalteren mener saken vil avklares bedre i helse- og omsorgstjenesten eller om tilsynsmyndighetens virkemidler ikke vil være formålstjenlig.  
- …  
- I saker der det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten, skal statsforvalteren imidlertid snarest mulig undersøke forholdet.»
+…  
+I saker der det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten, skal statsforvalteren imidlertid snarest mulig undersøke forholdet.»
 
 Om annet punktum står det, som til dels alt nevnt, følgende i merknadene til § 7-4 a:
 
@@ -162,7 +158,7 @@ Videre må organets utredning i tråd med alminnelige prinsipper om forvaltninge
 En utredning av en sak etter pasient- og brukerrettighetsloven § 7-4 a annet ledd annet punktum kan typisk skje ved at statsforvalteren innhenter journalopplysninger, prosedyrer/rutinebeskrivelser og uttalelser fra påklaget virksomhet og/eller helsepersonell. I og med at plikten til å undersøke etter loven ligger hos statsforvalteren, har statsforvalteren et selvstendig ansvar for at det aktuelle forholdet blir tilstrekkelig utredet. Dette innebærer at statsforvalteren i saker som skal undersøkes ikke bare kan oversende tilsynsanmodningen til tilsynssubjektet for utredning og oppfølging lokalt.
 
 Oppsummert innebærer å «undersøke» etter ombudets syn at statsforvalteren etter  
- § 7-4 a annet ledd annet punktum har plikt til hurtig å utrede forholdet med sikte på å avkrefte/bekrefte hvorvidt det foreligger forhold som er til fare for pasient- og brukersikkerheten. Utredningen må være forsvarlig og stå i forhold til sakens alvor og kompleksitet. Plikten til å undersøke rekker således ikke lenger enn til å avklare om det foreligger forhold som er til fare for pasient- og brukersikkerheten. Den videre oppfølgingen av tilsynsanmodningen vil derfor avhenge av hvorvidt det foreligger slike forhold.
+§ 7-4 a annet ledd annet punktum har plikt til hurtig å utrede forholdet med sikte på å avkrefte/bekrefte hvorvidt det foreligger forhold som er til fare for pasient- og brukersikkerheten. Utredningen må være forsvarlig og stå i forhold til sakens alvor og kompleksitet. Plikten til å undersøke rekker således ikke lenger enn til å avklare om det foreligger forhold som er til fare for pasient- og brukersikkerheten. Den videre oppfølgingen av tilsynsanmodningen vil derfor avhenge av hvorvidt det foreligger slike forhold.
 
 Om undersøkelsene avdekker forhold som er til fare for pasient- og/eller brukersikkerheten, tilsier forarbeidene gjengitt i avsnitt (41) og (42) over at statsforvalteren normalt også skal utrede og vurdere om virksomheten og/eller helsepersonell har overholdt kravene i helselovgivningen. En slik kontroll omtales flere steder, også i proposisjonen til lovendringene på s. 10, som «kjernen i tilsynet». Statsforvalterens oppgave er nettopp å føre tilsyn med om helse- og omsorgstjenestene er i samsvar med det som er bestemt i lover og forskrifter, jf. helsetilsynsloven § 4 annet ledd annet punktum. At statsforvalteren normalt skal foreta en kontroll av om forholdet er i samsvar med helselovgivningen i de alvorligste sakene, følger derfor slik ombudet ser det av deres oppgave som tilsynsmyndighet og formålet med tilsyn.
 

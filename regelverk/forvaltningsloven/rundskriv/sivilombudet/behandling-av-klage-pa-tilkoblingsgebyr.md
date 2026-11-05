@@ -15,11 +15,9 @@ Sivilombudets uttalelse 27.1.2022 (sak 2021/3998).
 ## Oppsummering
 
 Saken gjelder Sør-Aurdal kommunes behandling av en klage på gebyr for tilkobling til et kommunalt vann- og avløpsanlegg.  
-   
- På grunnlag av det kommunale gebyrregulativet, sendte kommunen en faktura for tilkobling av et nybygg til det kommunale vann- og avløpsanlegget. Utbyggeren mente at gebyret var for høyt og sendte en klage på fakturaen til kommunen. Kommunen sendte et svarbrev til klageren, der de opplyste at gebyrfastsettelsen ikke var et enkeltvedtak som kunne påklages, og at de derfor avviste klagen. Kommunen har feilaktig lagt til grunn at dette svarbrevet kun var et informasjonsbrev. Ombudet mener at brevet er et enkeltvedtak om avvisning som kan påklages, jf. forvaltningsloven § 2 tredje ledd. Kommunen skulle derfor opplyst om klageadgangen i underretningen om avvisningsvedtaket.  
- Kommunen kunne ikke avslutte saken uten å opplyse om adgangen til å påklage kommunens avvisningsvedtak og uten å avklare med klageren om han påklaget avvisningsvedtaket.   
-   
- Ombudet ber kommunen om å behandle saken på nytt.
+På grunnlag av det kommunale gebyrregulativet, sendte kommunen en faktura for tilkobling av et nybygg til det kommunale vann- og avløpsanlegget. Utbyggeren mente at gebyret var for høyt og sendte en klage på fakturaen til kommunen. Kommunen sendte et svarbrev til klageren, der de opplyste at gebyrfastsettelsen ikke var et enkeltvedtak som kunne påklages, og at de derfor avviste klagen. Kommunen har feilaktig lagt til grunn at dette svarbrevet kun var et informasjonsbrev. Ombudet mener at brevet er et enkeltvedtak om avvisning som kan påklages, jf. forvaltningsloven § 2 tredje ledd. Kommunen skulle derfor opplyst om klageadgangen i underretningen om avvisningsvedtaket.  
+Kommunen kunne ikke avslutte saken uten å opplyse om adgangen til å påklage kommunens avvisningsvedtak og uten å avklare med klageren om han påklaget avvisningsvedtaket.  
+Ombudet ber kommunen om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

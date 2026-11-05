@@ -15,10 +15,8 @@ Sivilombudets uttalelse 3.9.2021 (sak 2021/2020).
 ## Oppsummering
 
 Saken gjelder avvisning av klage over barneverntjenestens avgjørelse om å stanse samvær etter omsorgsovertakelse på grunnlag av nødrett. Statsforvalteren mente at samværsnektelsen ikke er et enkeltvedtak, men en faktisk handling truffet med hjemmel i straffeloven, og at det følgelig ikke er klagerett etter barnevernlovens regler.  
-   
- Sivilombudet er kommet til at den delen av barneverntjenestens avgjørelse som knyttet seg til stans av det fremtidige samværet mellom klageren og barnet, er et enkeltvedtak. Vedtaket kan etter barnevernloven § 6-5 påklages til Statsforvalteren.   
-   
- Sivilombudet ber Statsforvalteren vurdere klagen over barneverntjenestens avgjørelse på nytt, og legge ombudets syn til grunn i senere saker. En kopi av uttalelsen sendes Barne- og familiedepartementet. Ombudet forutsetter at departementets tidligere føringer til statsforvalterembetene justeres i tråd med uttalelsen, og at departementet vurderer behovet for klargjøring i regelverket.
+Sivilombudet er kommet til at den delen av barneverntjenestens avgjørelse som knyttet seg til stans av det fremtidige samværet mellom klageren og barnet, er et enkeltvedtak. Vedtaket kan etter barnevernloven § 6-5 påklages til Statsforvalteren.  
+Sivilombudet ber Statsforvalteren vurdere klagen over barneverntjenestens avgjørelse på nytt, og legge ombudets syn til grunn i senere saker. En kopi av uttalelsen sendes Barne- og familiedepartementet. Ombudet forutsetter at departementets tidligere føringer til statsforvalterembetene justeres i tråd med uttalelsen, og at departementet vurderer behovet for klargjøring i regelverket.
 
 Se oppdatering fra forvaltningen
 

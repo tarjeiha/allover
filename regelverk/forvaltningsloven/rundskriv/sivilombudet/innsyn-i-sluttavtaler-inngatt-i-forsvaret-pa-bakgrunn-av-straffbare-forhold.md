@@ -15,11 +15,9 @@ Sivilombudets uttalelse 25.3.2025 (sak 2024/5638).
 
 ## Oppsummering
 
-Saken gjelder innsyn i sluttavtaler inngått i Forsvaret på bakgrunn av straffbare forhold. Det ble gitt innsyn i avtalene, men uten navnet på arbeidstakerne og andre opplysninger som kunne identifisere de ansatte. Forsvarsdepartementet opprettholdt det delvise avslaget på innsyn i avtalene under henvisning til offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 – taushetsplikt om opplysninger om noens personlige forhold.   
-   
- Sivilombudet kom til at saken ikke var tilstrekkelig opplyst ved klagebehandlingen og at Forsvarsdepartementet ikke har foretatt en tilstrekkelig konkret og helhetlig vurdering av om opplysningen om at sluttavtalen er inngått på bakgrunn av et straffbart forhold i de enkelte sakene er taushetsbelagt, fordi opplysningen sier noe om «noens personlige forhold» jf. offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1.  
-   
- Forsvarsdepartementet er bedt om å behandle saken på nytt.
+Saken gjelder innsyn i sluttavtaler inngått i Forsvaret på bakgrunn av straffbare forhold. Det ble gitt innsyn i avtalene, men uten navnet på arbeidstakerne og andre opplysninger som kunne identifisere de ansatte. Forsvarsdepartementet opprettholdt det delvise avslaget på innsyn i avtalene under henvisning til offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 – taushetsplikt om opplysninger om noens personlige forhold.  
+Sivilombudet kom til at saken ikke var tilstrekkelig opplyst ved klagebehandlingen og at Forsvarsdepartementet ikke har foretatt en tilstrekkelig konkret og helhetlig vurdering av om opplysningen om at sluttavtalen er inngått på bakgrunn av et straffbart forhold i de enkelte sakene er taushetsbelagt, fordi opplysningen sier noe om «noens personlige forhold» jf. offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1.  
+Forsvarsdepartementet er bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

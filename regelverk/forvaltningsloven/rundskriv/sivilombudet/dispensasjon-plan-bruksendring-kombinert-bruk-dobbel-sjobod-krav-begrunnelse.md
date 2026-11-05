@@ -15,8 +15,7 @@ Sivilombudets uttalelse 2.10.2017 (sak 2016/3220).
 ## Oppsummering
 
 Saken gjelder dispensasjon fra plan for bruksendring av sjøbod på Flekkerøy i Kristiansand kommune. Kommunens dispensasjon for den ene sjøboden ble omgjort og avslått av Fylkesmannen i Aust- og Vest-Agder, og vedtaket ble bragt inn for ombudsmannen. Spørsmålet var blant annet om hensynene bak plankravet og arealformålet i gjeldende arealplan ble vesentlig tilsidesatt, jf. plan- og bygningsloven § 19-2 annet ledd første punktum.  
-   
- Ombudsmannen er kommet til at Fylkesmannens vedtak ikke var tilstrekkelig begrunnet, da det ikke fremgikk av vedtaket hvilke konkrete hensyn som er vektlagt i dispensasjons-vurderingen. På bakgrunn av den etterfølgende begrunnelsen Fylkesmannen har gitt, har ombudsmannen likevel funnet å kunne la saken bero.
+Ombudsmannen er kommet til at Fylkesmannens vedtak ikke var tilstrekkelig begrunnet, da det ikke fremgikk av vedtaket hvilke konkrete hensyn som er vektlagt i dispensasjons-vurderingen. På bakgrunn av den etterfølgende begrunnelsen Fylkesmannen har gitt, har ombudsmannen likevel funnet å kunne la saken bero.
 
 ## Sakens bakgrunn
 

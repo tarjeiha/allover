@@ -15,15 +15,11 @@ Sivilombudets uttalelse 22.9.2023 (sak 2023/2014).
 
 ## Oppsummering
 
-Saken gjelder lang behandlingstid i en sak om spesialundervisning i grunnskolen.   
-   
- Klager hadde fått innvilget spesialundervisning ut juni 2022. Ved endt vedtaksperiode ble det ikke truffet noe nytt vedtak om spesialundervisning på tross av gjentatte henvendelser fra klager. Den lange behandlingstiden gjorde at eleven stod uten et nytt vedtak om spesialundervisning basert på en ny og oppdatert sakkyndig vurdering et helt skoleår.   
-   
- Kommunen oppga at den lange saksbehandlingstiden skyldtes at eleven hadde byttet skole og at eleven hadde høyt skolefravær. Etter kommunens syn var behandlingstiden i saken forsvarlig.   
-   
- Sivilombudet er kommet til at kommunen ikke har behandlet saken om spesialundervisning «uten ugrunnet opphold», slik forvaltningsloven krever. Ombudet forutsetter at kommunen i fremtiden besvarer henvendelser om spesialundervisning i samsvar med kravene i forvaltningsloven. I tillegg forutsetter ombudet at kommunen sørger for at det i god tid før utløpet av et enkeltvedtak om spesialundervisning vurderes om det kan være et fortsatt behov for slik spesialundervisning etter endt vedtaksperiode.   
-   
- Videre mener ombudet at kommunen ikke har besvart klagen over den manglende gjennomføringen av det midlertidige vedtaket om spesialundervisning. Ombudet forutsetter at denne henvendelsen nå besvares.
+Saken gjelder lang behandlingstid i en sak om spesialundervisning i grunnskolen.  
+Klager hadde fått innvilget spesialundervisning ut juni 2022. Ved endt vedtaksperiode ble det ikke truffet noe nytt vedtak om spesialundervisning på tross av gjentatte henvendelser fra klager. Den lange behandlingstiden gjorde at eleven stod uten et nytt vedtak om spesialundervisning basert på en ny og oppdatert sakkyndig vurdering et helt skoleår.  
+Kommunen oppga at den lange saksbehandlingstiden skyldtes at eleven hadde byttet skole og at eleven hadde høyt skolefravær. Etter kommunens syn var behandlingstiden i saken forsvarlig.  
+Sivilombudet er kommet til at kommunen ikke har behandlet saken om spesialundervisning «uten ugrunnet opphold», slik forvaltningsloven krever. Ombudet forutsetter at kommunen i fremtiden besvarer henvendelser om spesialundervisning i samsvar med kravene i forvaltningsloven. I tillegg forutsetter ombudet at kommunen sørger for at det i god tid før utløpet av et enkeltvedtak om spesialundervisning vurderes om det kan være et fortsatt behov for slik spesialundervisning etter endt vedtaksperiode.  
+Videre mener ombudet at kommunen ikke har besvart klagen over den manglende gjennomføringen av det midlertidige vedtaket om spesialundervisning. Ombudet forutsetter at denne henvendelsen nå besvares.
 
 ## Sakens bakgrunn
 
@@ -48,7 +44,7 @@ Vi ba først om kommunens syn på om saksbehandlingstiden var forsvarlig, og hva
 Når det gjaldt årsaken til behandlingstiden i saken, viste kommunen til at eleven hadde byttet skole etter vinterferien i 2022. Skolen måtte gjøre seg kjent med eleven, prøve ut tiltak og vurdere om de mente det var behov for ny sakkyndig vurdering eller ikke. Videre ble det vist til at eleven hadde mye fravær og at innvilget spesialundervisning hadde et forholdsvis lite omfang. Det vanskeliggjorde arbeidet med å måle effekten av ulike tiltak.
 
 I nytt brev til kommunen viste vi til klagers opplysninger om at elevens psykolog sendte et brev til PP-tjenesten 8. juni 2022, der det ble bedt om en ny avklaring og vurdering av tiltak for neste skoleår. Vi viste også til at foreldrene selv meldte muntlig i fra om behovet for spesialundervisning og ba om en vurdering i kommunens interne koordineringsteam (KO-team) både i august 2022 og i møte 27. oktober 2022. I tillegg viste vi til at foreldrene ba om et nytt vedtak om spesialundervisning i e-post til kommunen 29. november 2022. I lys av disse opplysningene ba vi om kommunens syn på om saken om spesialundervisning var behandlet «uten ugrunnet opphold»,  
- jf. forvaltningsloven § 11 a.
+jf. forvaltningsloven § 11 a.
 
 Kommunen fastholdt at saken var behandlet uten ugrunnet opphold.
 
@@ -67,7 +63,7 @@ Spørsmålet for Sivilombudet er om behandlingstiden i saken om spesialundervisn
 ### 1. Behandlingstid i sak om spesialundervisning for skoleåret 2022-2023
 
 Vedtak om spesialundervisning skal forberedes og avgjøres «uten ugrunnet opphold»,  
- jf. forvaltningsloven § 11 a første ledd, jf. opplæringslova § 15-1. Saksbehandlingstiden avhenger blant annet av sakens art og omfang, hvilke ressurser det aktuelle forvaltningsorganet har til rådighet og organets totale arbeidsbelastning. Verken opplæringslova kapittel 5 eller forvaltningsloven § 11 a angir en konkret saksbehandlingsfrist for enkeltvedtak om spesialundervisning.
+jf. forvaltningsloven § 11 a første ledd, jf. opplæringslova § 15-1. Saksbehandlingstiden avhenger blant annet av sakens art og omfang, hvilke ressurser det aktuelle forvaltningsorganet har til rådighet og organets totale arbeidsbelastning. Verken opplæringslova kapittel 5 eller forvaltningsloven § 11 a angir en konkret saksbehandlingsfrist for enkeltvedtak om spesialundervisning.
 
 Det følger av Utdanningsdirektoratets veileder for spesialundervisning punkt 6.5 at saker om spesialundervisning må behandles «i løpet av rimelig tid» og at saksbehandlingen skal være «forsvarlig». Dette gjelder for hele prosessen fra skolen starter vurderingen av om eleven har behov for spesialundervisning til enkeltvedtak er fattet. Ved vurderingen av hva som er for lang saksbehandlingstid er det i veilederen vist til at «elevens behov for å få avklart sine behov og rettigheter så raskt som mulig, [vil] føre til at f.eks. en total saksbehandlingstid på over tre måneder kan være for lang tid».
 

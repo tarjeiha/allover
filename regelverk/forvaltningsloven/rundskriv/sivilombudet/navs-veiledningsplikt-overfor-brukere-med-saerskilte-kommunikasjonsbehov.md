@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.10.2016 (sak 2016/689).
 ## Oppsummering
 
 Ombudsmannen har av eget tiltak og på generelt grunnlag undersøkt hvordan Arbeids- og velferdsetaten (Nav) veileder brukere med særskilte kommunikasjonsbehov.  
-   
- Med «særskilte kommunikasjonsbehov» menes i denne sammenheng brukere som av ulike årsaker som manglende norskkunnskaper, svekket hørsel, svekket syn eller lignende, har liten nytte av informasjon som Nav gir over telefon, på SMS eller i e-post.  
-   
- Ved avslutningen av saken understreket ombudsmannen at brukere som har særlig stort behov for tilpasset veiledning, for eksempel på grunn av hørselshemming kombinert med svake eller manglende norskkunnskaper, er ekstra sårbare når Navs veiledning svikter. Ombudsmannen forutsetter derfor at Arbeids- og velferdsdirektoratet for fremtiden vil ha tilstrekkelig fokus på dette kompetansefeltet til at veiledningskompetansen ved Navs lokalkontorer blir styrket, og like viktig, at den styrkede kompetansen holdes ved like. På bakgrunn av ombudsmannens erfaring fra henvendelser fra brukere med spesielle veiledningsbehov, ble direktoratet bedt om å vurdere å påpeke i saksbehandlingsrundskrivet til forvaltningsloven § 11 at veiledningsplikten også innebærer en plikt til å gi veiledning i en form tilpasset den enkelte brukers behov.
+Med «særskilte kommunikasjonsbehov» menes i denne sammenheng brukere som av ulike årsaker som manglende norskkunnskaper, svekket hørsel, svekket syn eller lignende, har liten nytte av informasjon som Nav gir over telefon, på SMS eller i e-post.  
+Ved avslutningen av saken understreket ombudsmannen at brukere som har særlig stort behov for tilpasset veiledning, for eksempel på grunn av hørselshemming kombinert med svake eller manglende norskkunnskaper, er ekstra sårbare når Navs veiledning svikter. Ombudsmannen forutsetter derfor at Arbeids- og velferdsdirektoratet for fremtiden vil ha tilstrekkelig fokus på dette kompetansefeltet til at veiledningskompetansen ved Navs lokalkontorer blir styrket, og like viktig, at den styrkede kompetansen holdes ved like. På bakgrunn av ombudsmannens erfaring fra henvendelser fra brukere med spesielle veiledningsbehov, ble direktoratet bedt om å vurdere å påpeke i saksbehandlingsrundskrivet til forvaltningsloven § 11 at veiledningsplikten også innebærer en plikt til å gi veiledning i en form tilpasset den enkelte brukers behov.
 
 Se oppdatering fra forvaltningen
 

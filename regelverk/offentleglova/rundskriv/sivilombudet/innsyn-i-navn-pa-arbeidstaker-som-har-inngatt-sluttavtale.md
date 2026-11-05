@@ -15,13 +15,10 @@ Sivilombudets uttalelse 16.9.2024 (sak 2024/1887).
 
 ## Oppsummering
 
-Saken gjelder innsyn i en sluttavtale inngått med Sykehusbygg HF. Det ble gitt innsyn i avtalen, men uten navnet på arbeidstakeren og andre opplysninger som kunne identifisere den ansatte. Helse- og omsorgsdepartementet opprettholdt det delvise avslaget på innsyn i avtalen under henvisning til offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 - taushetsplikt om opplysninger om noens personlige forhold. Departementet viste også til offentleglova § 23 første ledd om hensynet til en forsvarlig gjennomføring av virksomhetens personalforvaltning.   
-   
- Sivilombudet kom til at opplysningen om at en arbeidstaker har inngått en sluttavtale med det offentlige ikke er opplysninger om noens personlige forhold og derfor ikke taushetsbelagt jf. forvaltningsloven § 13 første ledd nr. 1. Det er ikke hjemmel for å unnta navnet på arbeidstakeren som har inngått sluttavtalen med Sykehusbygg i medhold av offentleg- lova § 13 jf. forvaltningsloven § 13 første ledd nr. 1.   
-   
- Ombudet kom videre til at det ikke er adgang til å unnta navnet på arbeidstakeren som har inngått sluttavtalen med hjemmel i offentleglova § 23 første ledd da det ikke kan sies å være «påkravd av omsyn til ei forsvarleg gjennomføring av …personalforvaltninga» i Sykehusbygg.   
-   
- Helse- og omsorgsdepartementet er bedt om å behandle saken på nytt.
+Saken gjelder innsyn i en sluttavtale inngått med Sykehusbygg HF. Det ble gitt innsyn i avtalen, men uten navnet på arbeidstakeren og andre opplysninger som kunne identifisere den ansatte. Helse- og omsorgsdepartementet opprettholdt det delvise avslaget på innsyn i avtalen under henvisning til offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 - taushetsplikt om opplysninger om noens personlige forhold. Departementet viste også til offentleglova § 23 første ledd om hensynet til en forsvarlig gjennomføring av virksomhetens personalforvaltning.  
+Sivilombudet kom til at opplysningen om at en arbeidstaker har inngått en sluttavtale med det offentlige ikke er opplysninger om noens personlige forhold og derfor ikke taushetsbelagt jf. forvaltningsloven § 13 første ledd nr. 1. Det er ikke hjemmel for å unnta navnet på arbeidstakeren som har inngått sluttavtalen med Sykehusbygg i medhold av offentleg- lova § 13 jf. forvaltningsloven § 13 første ledd nr. 1.  
+Ombudet kom videre til at det ikke er adgang til å unnta navnet på arbeidstakeren som har inngått sluttavtalen med hjemmel i offentleglova § 23 første ledd da det ikke kan sies å være «påkravd av omsyn til ei forsvarleg gjennomføring av …personalforvaltninga» i Sykehusbygg.  
+Helse- og omsorgsdepartementet er bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -15,10 +15,10 @@ Sivilombudets uttalelse 27.9.2017 (sak 2016/3271).
 
 ## Oppsummering
 
-Saken gjelder UNEs plikt til å utrede barnets beste ved avslag på anmodning om omgjøring av avslag på oppholdstillatelse etter utlendingsloven § 38.   
- Omgjøringsanmodningen var i hovedsak begrunnet med at klageren hadde fått diagnosen barneautisme og derfor er avhengig av helsefaglig oppfølging. I avslaget la UNE blant annet til grunn at det ikke var klart hvilket resultat som var til barnets beste, ettersom foreldrenes identitet og hjemland var uavklart, og at det derfor ikke var mulig å vurdere hvilken helsehjelp barnet ville få i hjemlandet.  
- Ombudsmannen kom til at UNE ikke hadde gjort en tilstrekkelig grundig vurdering av barnets beste i saken. UNE skulle ha foretatt en vurdering av helsetilbudet i de mest sannsynlige returlandene. Videre var det uklart om det var foretatt en tilstrekkelig vurdering av hvilken betydning det helsefaglige hjelpetilbudet i Norge hadde for guttens videre utvikling.   
- På denne bakgrunn ba ombudsmannen nemnda om å utrede og vurdere barnets beste i samsvar med ombudsmannens merknader, og deretter behandle saken på nytt.
+Saken gjelder UNEs plikt til å utrede barnets beste ved avslag på anmodning om omgjøring av avslag på oppholdstillatelse etter utlendingsloven § 38.  
+Omgjøringsanmodningen var i hovedsak begrunnet med at klageren hadde fått diagnosen barneautisme og derfor er avhengig av helsefaglig oppfølging. I avslaget la UNE blant annet til grunn at det ikke var klart hvilket resultat som var til barnets beste, ettersom foreldrenes identitet og hjemland var uavklart, og at det derfor ikke var mulig å vurdere hvilken helsehjelp barnet ville få i hjemlandet.  
+Ombudsmannen kom til at UNE ikke hadde gjort en tilstrekkelig grundig vurdering av barnets beste i saken. UNE skulle ha foretatt en vurdering av helsetilbudet i de mest sannsynlige returlandene. Videre var det uklart om det var foretatt en tilstrekkelig vurdering av hvilken betydning det helsefaglige hjelpetilbudet i Norge hadde for guttens videre utvikling.  
+På denne bakgrunn ba ombudsmannen nemnda om å utrede og vurdere barnets beste i samsvar med ombudsmannens merknader, og deretter behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

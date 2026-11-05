@@ -15,11 +15,9 @@ Sivilombudets uttalelse 22.9.2026 (sak 2026/544).
 
 ## Oppsummering
 
-Saken gjelder lang behandlingstid hos Nav i en sak om endring av virkningstidspunktet for uføretrygd. Klager ble innvilget uføretrygd i oktober 2019. Klager begjærte omgjøring av virkningstidspunktet i april 2023 begrunnet i feil lovforståelse hos Nav. Det ble da opplyst at behandlingstiden var fem måneder. Svartiden ble senere forlenget flere ganger. I brev 8. april 2024 opplyste Nav at årsaken til forsinkelsen var at de ventet på avklaring av forståelsen av folketrygdloven § 22-12 tredje ledd slik den lød før lovendringen 18. juni 2021, og av spørsmålet om retteplikt.   
-   
- I svaret på vår undersøkelse opplyste Arbeids- og velferdsdirektoratet at de prinsipielle spørsmålene om lovforståelse og retteplikt er avklart. Siden avklaringen hadde betydning for ca. 80 000 mottakere, besluttet Nav å dele opp den berørte gruppen i tre kategorier, og å prioritere saker der betydningen av feilen er størst. Klagerens sak er fortsatt ikke behandlet.  
-   
- Sivilombudet kom til at klagerens sak ikke er blitt behandlet uten ugrunnet opphold, og at behandlingstiden derfor var i strid med folketrygdloven § 21-10 første ledd. Ombudet mente at Nav må vurdere å ta klagerens sak opp til behandling, og samtidig vurdere om det er andre saker der tidsbruken tilsa at sakene måtte behandles.
+Saken gjelder lang behandlingstid hos Nav i en sak om endring av virkningstidspunktet for uføretrygd. Klager ble innvilget uføretrygd i oktober 2019. Klager begjærte omgjøring av virkningstidspunktet i april 2023 begrunnet i feil lovforståelse hos Nav. Det ble da opplyst at behandlingstiden var fem måneder. Svartiden ble senere forlenget flere ganger. I brev 8. april 2024 opplyste Nav at årsaken til forsinkelsen var at de ventet på avklaring av forståelsen av folketrygdloven § 22-12 tredje ledd slik den lød før lovendringen 18. juni 2021, og av spørsmålet om retteplikt.  
+I svaret på vår undersøkelse opplyste Arbeids- og velferdsdirektoratet at de prinsipielle spørsmålene om lovforståelse og retteplikt er avklart. Siden avklaringen hadde betydning for ca. 80 000 mottakere, besluttet Nav å dele opp den berørte gruppen i tre kategorier, og å prioritere saker der betydningen av feilen er størst. Klagerens sak er fortsatt ikke behandlet.  
+Sivilombudet kom til at klagerens sak ikke er blitt behandlet uten ugrunnet opphold, og at behandlingstiden derfor var i strid med folketrygdloven § 21-10 første ledd. Ombudet mente at Nav må vurdere å ta klagerens sak opp til behandling, og samtidig vurdere om det er andre saker der tidsbruken tilsa at sakene måtte behandles.
 
 ## Sakens bakgrunn
 

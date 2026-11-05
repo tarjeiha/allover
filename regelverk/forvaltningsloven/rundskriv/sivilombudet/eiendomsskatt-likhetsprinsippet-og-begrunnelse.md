@@ -15,8 +15,7 @@ Sivilombudets uttalelse 6.2.2019 (sak 2018/1845).
 ## Oppsummering
 
 Eierne av en enebolig med to boenheter klaget over for høy eiendomsskattetakst. De mente det forelå usaklig forskjellsbehandling ved at naboeiendommene hadde fått gunstigere takst sett i forhold til omsetningspris enn de selv hadde fått for sin eiendom. Dessuten mente de at vedtaket fra kommunen var for dårlig begrunnet.  
-   
- Sivilombudsmannens undersøkelser har ikke avdekket forhold som tilsier at det foreligger brudd på likhetsprinsippet i denne saken, eller at eiendomsskattetaksten fremstår som klart urimelig. Ombudsmannen er enig med kommunen i at begrunnelsen av klagevedtaket med fordel kunne ha vært noe mer utfyllende, men har ikke grunn til å fastslå at begrunnelsen er i strid med eigedomsskattelovas krav om «stutt grunngjeving».
+Sivilombudsmannens undersøkelser har ikke avdekket forhold som tilsier at det foreligger brudd på likhetsprinsippet i denne saken, eller at eiendomsskattetaksten fremstår som klart urimelig. Ombudsmannen er enig med kommunen i at begrunnelsen av klagevedtaket med fordel kunne ha vært noe mer utfyllende, men har ikke grunn til å fastslå at begrunnelsen er i strid med eigedomsskattelovas krav om «stutt grunngjeving».
 
 ## Sakens bakgrunn
 

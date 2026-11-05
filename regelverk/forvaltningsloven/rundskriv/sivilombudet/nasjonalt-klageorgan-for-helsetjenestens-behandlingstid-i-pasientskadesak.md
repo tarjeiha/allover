@@ -43,7 +43,7 @@ Ombudsmannen ba 5. september 2016 Helseklage opplyse hvorvidt de ville be NPE pr
 ## Ombudsmannens syn på saken
 
 *1. Saksbehandlingstiden*  
- Det fremgår av forvaltningsloven § 11a første ledd at en sak skal forberedes og avgjøres «uten ugrunnet opphold». Ombudsmannen har tidligere uttalt følgende om betydningen av dette, jf. SOM-2012-2142 og SOM-2016-1377:
+Det fremgår av forvaltningsloven § 11a første ledd at en sak skal forberedes og avgjøres «uten ugrunnet opphold». Ombudsmannen har tidligere uttalt følgende om betydningen av dette, jf. SOM-2012-2142 og SOM-2016-1377:
 
 «Bestemmelsen stiller krav både til saksbehandlingstiden og til hva som er akseptable årsaker til lang behandlingstid. Vilkåret ‘uten ugrunnet opphold’ er skjønnsmessig og det nærmere innholdet vil kunne variere etter blant annet saksområde og sakstype. De øvrige saksbehandlingsreglene i forvaltningsloven, blant annet kravet til forsvarlig opplysning av saken i § 17 første ledd, vil kunne begrunne en lengre behandlingstid i kompliserte og prinsipielle saker enn i enklere saker.»
 
@@ -54,7 +54,7 @@ Samlet sett framstår likevel behandlingstiden som uforsvarlig lang. Den totale 
 Når en sak sendes tilbake til førsteinstansen, vil det medføre at behandlingstiden øker ytterligere. Dersom pasientskadeerstatning innvilges, vil utmålingen av erstatningen gi ytterligere behandlingstid. På denne bakgrunn er det på sin plass at Helseklage har opplyst at de vil be NPE om å prioritere saken, og ombudsmannen forutsetter at dette etter forholdene også gjøres i lignende saker.
 
 *2. Informasjon til partene og deres fullmektiger*  
- Det følger av god forvaltningsskikk at partene under sakens gang skal motta forsinkelsesmeldinger dersom saken ikke blir avgjort innen fristen som er satt i det foreløpige svaret. Der behandlingstiden er svært lang vil de berørte parter ha et ekstra stort behov for å holdes løpende orientert om sakens fremdrift, jf. blant annet ombudsmannens uttalelse i sak 2015/201.
+Det følger av god forvaltningsskikk at partene under sakens gang skal motta forsinkelsesmeldinger dersom saken ikke blir avgjort innen fristen som er satt i det foreløpige svaret. Der behandlingstiden er svært lang vil de berørte parter ha et ekstra stort behov for å holdes løpende orientert om sakens fremdrift, jf. blant annet ombudsmannens uttalelse i sak 2015/201.
 
 Der pågående saker for domstolene eller interne utredninger gjør at saken blir forsinket, er det naturlig at det sendes informasjon om dette til klagerne og deres fullmektiger. Som Helseklage selv erkjenner, burde det ha blitt sendt ut informasjon i forbindelse med berostillelsen og avgjørelsen i Høyesterett. Etter ombudsmannens syn burde Helseklage ha informert klagerne både ved berostillelsen, og når behandlingen i Høyesterett var ferdig.
 

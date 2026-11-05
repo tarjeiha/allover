@@ -16,8 +16,7 @@ Sivilombudets uttalelse 2.4.2020 (sak 2019/1192).
 ## Oppsummering
 
 Saken gjelder Statens pensjonskasses (SPK) behandling av et krav om oppsatt alderspensjon. Klager fikk i 2017 vedtak om rett til alderspensjon fra 2009. Pensjonen ble kun etterbetalt for tre år tilbake i tid, da SPK mente at kravet ellers var foreldet. Den brevvekslingen SPK hadde hatt med klager i 2008, kunne etter SPKs vurdering ikke forstås slik at han hadde fremsatt et krav om pensjon.  
-   
- Sivilombudsmannen mener at det ut fra lovens ordlyd, ikke kan oppstilles vilkår om at det må fremsettes krav for å få rett til oppsatt alderspensjon. SPK har ikke fulgt opp klagerens henvendelse på en forsvarlig måte, og har ikke veiledet ham om hva som manglet ved hans søknad. SPK har ikke på en aktsom måte oppfylt veiledningsplikten. Aktsomhetsnormen er overtrådt og det foreligger ansvarsgrunnlag etter skadeserstatningsloven § 2-1 første ledd. SPK er bedt om å vurdere om klager har krav på erstatning.
+Sivilombudsmannen mener at det ut fra lovens ordlyd, ikke kan oppstilles vilkår om at det må fremsettes krav for å få rett til oppsatt alderspensjon. SPK har ikke fulgt opp klagerens henvendelse på en forsvarlig måte, og har ikke veiledet ham om hva som manglet ved hans søknad. SPK har ikke på en aktsom måte oppfylt veiledningsplikten. Aktsomhetsnormen er overtrådt og det foreligger ansvarsgrunnlag etter skadeserstatningsloven § 2-1 første ledd. SPK er bedt om å vurdere om klager har krav på erstatning.
 
 Se oppdatering fra forvaltningen
 

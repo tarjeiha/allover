@@ -14,13 +14,10 @@ Sivilombudets uttalelse 16.8.2024 (sak 2024/1661).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Trøndelags vedtak om tvangsmedisinering.   
-   
- Statsforvalterens begrunnelse for at vilkåret om «stor sannsynlighet» for vesentlig positiv effekt av medisineringen er oppfylt, er ikke i tråd med forvaltningslovens eller psykisk helsevernlovens krav. Det fremgår heller ikke av vedtaket at lovens vilkår om at den gunstige virkningen klart må oppveie ulempene, er vurdert. Dette er også i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.   
-   
- Videre har ikke Statsforvalteren foretatt en reell og selvstendig vurdering av om den gunstige virkningen klart oppveier ulempene, slik forvaltningsloven § 34 andre ledd forutsetter. Statsforvalteren har heller ikke vist i vedtaket at de har vurdert synspunktene i klagen, slik klageinstansen er pliktig til etter samme bestemmelse.   
-   
- Ettersom vedtakets virkningstid var passert på tidspunktet for ombudets uttalelse, var det ikke grunn til å be Statsforvalteren om å behandle saken på nytt. Ombudet ba imidlertid Statsforvalteren merke seg ombudets syn, slik det kommer til uttrykk i denne og tidligere uttalelser om tvangsmedisinering, og at dette legges til grunn ved behandlingen av fremtidige saker.
+Saken gjelder Statsforvalteren i Trøndelags vedtak om tvangsmedisinering.  
+Statsforvalterens begrunnelse for at vilkåret om «stor sannsynlighet» for vesentlig positiv effekt av medisineringen er oppfylt, er ikke i tråd med forvaltningslovens eller psykisk helsevernlovens krav. Det fremgår heller ikke av vedtaket at lovens vilkår om at den gunstige virkningen klart må oppveie ulempene, er vurdert. Dette er også i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.  
+Videre har ikke Statsforvalteren foretatt en reell og selvstendig vurdering av om den gunstige virkningen klart oppveier ulempene, slik forvaltningsloven § 34 andre ledd forutsetter. Statsforvalteren har heller ikke vist i vedtaket at de har vurdert synspunktene i klagen, slik klageinstansen er pliktig til etter samme bestemmelse.  
+Ettersom vedtakets virkningstid var passert på tidspunktet for ombudets uttalelse, var det ikke grunn til å be Statsforvalteren om å behandle saken på nytt. Ombudet ba imidlertid Statsforvalteren merke seg ombudets syn, slik det kommer til uttrykk i denne og tidligere uttalelser om tvangsmedisinering, og at dette legges til grunn ved behandlingen av fremtidige saker.
 
 ## Sakens bakgrunn
 

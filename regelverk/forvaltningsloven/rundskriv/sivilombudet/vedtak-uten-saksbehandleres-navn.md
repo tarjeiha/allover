@@ -15,9 +15,9 @@ Sivilombudets uttalelse 27.11.2017 (sak 2017/1135).
 
 ## Oppsummering
 
-Ombudsmannen har undersøkt praksis og rettslige spørsmål om å utelate saksbehandleres navn i vedtak. Flere forvaltningsorganer er blitt spurt om praksis og adgangen til å utelate saksbehandlernes navn. Av svarene fremkom det at slik anonymisering benyttes helt unntaksvis, i tilfeller der det vurderes å være behov for å skjerme ansatte på grunn av den private partens adferd, i form av trusler, vold, sjikane og uthenging i sosiale medier.   
- Ombudsmannen konkluderer med at det følger av god forvaltningsskikk og forutsetningsvis av forvaltningslovens regler om habilitet at en part skal få kjennskap til hvem som har behandlet saken.   
- Etter ombudsmannens mening tilsier behovet for skjerming av de ansatte i spesielle situasjoner at regelverket gjennomgås og at det vurderes om det bør være adgang til å skjerme saksbehandleres navn og eventuelt hvilken regulering som bør gjøres av dette.
+Ombudsmannen har undersøkt praksis og rettslige spørsmål om å utelate saksbehandleres navn i vedtak. Flere forvaltningsorganer er blitt spurt om praksis og adgangen til å utelate saksbehandlernes navn. Av svarene fremkom det at slik anonymisering benyttes helt unntaksvis, i tilfeller der det vurderes å være behov for å skjerme ansatte på grunn av den private partens adferd, i form av trusler, vold, sjikane og uthenging i sosiale medier.  
+Ombudsmannen konkluderer med at det følger av god forvaltningsskikk og forutsetningsvis av forvaltningslovens regler om habilitet at en part skal få kjennskap til hvem som har behandlet saken.  
+Etter ombudsmannens mening tilsier behovet for skjerming av de ansatte i spesielle situasjoner at regelverket gjennomgås og at det vurderes om det bør være adgang til å skjerme saksbehandleres navn og eventuelt hvilken regulering som bør gjøres av dette.
 
 ## Undersøkelsens bakgrunn
 

@@ -15,14 +15,10 @@ Sivilombudets uttalelse 29.9.2023 (sak 2023/2177).
 ## Oppsummering
 
 Saken gjelder vedtak om overføring fra tvungent psykisk helsevern uten døgnopphold i institusjon (TUD) til tvungent psykisk helsevern med døgnopphold i institusjon.  
-   
- I forbindelse med årsvurderingen av det tvungne vernet, mente sykehuset at det var behov for døgninnleggelse for å kunne gjennomføre en tilstrekkelig undersøkelse av om vilkårene for fortsatt tvang var oppfylt.  
-   
- Sivilombudet er kommet til at grunnvilkårene for bruk av tvang etter psykisk helsevernloven § 4-2 gjelder for vedtak om overføring fra TUD til døgnopphold etter § 4-10, og at kontrollkommisjonen i slike saker må prøve om vilkårene etter § 4-2 første ledd er oppfylt.   
-   
- Ombudet mener det er begrunnet tvil om kontrollkommisjonen vurderte vilkårene i § 4-2 første ledd og om kommisjonen har vektlagt pasientens innsigelser mot overføringen i tråd med psykisk helsevernloven § 4-2 andre ledd tredje punktum og psykisk helsevernforskriften § 11 første ledd tredje punktum. Dette, i kombinasjon med at vedtaket ikke oppfyller kravene til begrunnelse etter forvaltningsloven § 25, jf. § 33 første ledd og psykisk helsevernforskriften § 55 tredje ledd, medfører at vedtaket må anses som ugyldig.  
-   
- Ettersom det tvungne psykiske helsevernet er opphevet, er det ikke hensiktsmessig å be kontrollkommisjonen behandle saken på nytt. Kommisjonen bes imidlertid merke seg ombudets uttalelse og legge ombudets syn til grunn i framtidige saker.
+I forbindelse med årsvurderingen av det tvungne vernet, mente sykehuset at det var behov for døgninnleggelse for å kunne gjennomføre en tilstrekkelig undersøkelse av om vilkårene for fortsatt tvang var oppfylt.  
+Sivilombudet er kommet til at grunnvilkårene for bruk av tvang etter psykisk helsevernloven § 4-2 gjelder for vedtak om overføring fra TUD til døgnopphold etter § 4-10, og at kontrollkommisjonen i slike saker må prøve om vilkårene etter § 4-2 første ledd er oppfylt.  
+Ombudet mener det er begrunnet tvil om kontrollkommisjonen vurderte vilkårene i § 4-2 første ledd og om kommisjonen har vektlagt pasientens innsigelser mot overføringen i tråd med psykisk helsevernloven § 4-2 andre ledd tredje punktum og psykisk helsevernforskriften § 11 første ledd tredje punktum. Dette, i kombinasjon med at vedtaket ikke oppfyller kravene til begrunnelse etter forvaltningsloven § 25, jf. § 33 første ledd og psykisk helsevernforskriften § 55 tredje ledd, medfører at vedtaket må anses som ugyldig.  
+Ettersom det tvungne psykiske helsevernet er opphevet, er det ikke hensiktsmessig å be kontrollkommisjonen behandle saken på nytt. Kommisjonen bes imidlertid merke seg ombudets uttalelse og legge ombudets syn til grunn i framtidige saker.
 
 ## Sakens bakgrunn
 

@@ -14,17 +14,12 @@ Sivilombudets uttalelse 12.9.2023 (sak 2023/647).
 
 ## Oppsummering
 
-Saken gjelder spørsmål om cannabisholdige legemidler («medisinsk cannabis») som ikke er forskrevet av lege i Norge, men importert i tråd med narkotikaforskriften § 19, kan brukes under gjennomføring av fengselsstraff.   
-   
- Ved innsettelse ble klageren nektet å bruke et medbragt cannabisholdig legemiddel som han lovlig kunne bruke utenfor fengselet, utelukkende fordi legemiddelet var forskrevet av en lege i Nederland. Kriminalomsorgen mente at vilkåret for å gjøre unntak fra forbudet i straffegjennomføringsforskriften § 3-21, jf. straffegjennomføringsloven § 29, stiller krav om at legemiddelet må være forskrevet av lege i Norge. Både fengselets og regionens vedtak ble truffet uten at fengselshelsetjenesten hadde foretatt en konkret vurdering av klagerens medisinske behov. Regionen hadde heller ikke vurdert forholdet til menneskerettighetene.  
-   
- Sivilombudet er kommet til at regionen ikke har opplyst saken i tråd med forvaltningsloven § 33 siste ledd eller oppfylt sin plikt etter forvaltningsloven § 34 andre ledd andre punktum til å vurdere klagerens menneskerettslige anførsler. Vedtaket var heller ikke begrunnet i samsvar med forvaltningsloven § 25, jf. § 33 første ledd.  
-   
- Ombudet er også kommet til at det ikke var rettslig grunnlag for å nekte klageren å bruke medbrakt cannabisholdig legemiddel som var importert i tråd med narkotikaforskriften § 19, utelukkende fordi legemiddelet ikke var forskrevet av lege i Norge. Å nekte klageren å bruke det aktuelle legemiddelet var i tillegg et ulovlig inngrep i hans rett til privatliv og selvbestemmelse etter EMK artikkel 8 og Grunnloven § 102.   
-   
- Vedtaket må på denne bakgrunn anses som ugyldig. Ombudet ber regionen merke seg ombudets uttalelse, og legge ombudets syn til grunn i framtidige saker.   
-   
- Ombudet vil også underrette Kriminalomsorgsdirektoratet samt Justis- og beredskapsdepartementet som ansvarlig departement, om den mangelen som er avdekket i kriminalomsorgens praksis, jf. sivilombudsloven § 25 tredje ledd. Ombudet ber direktoratet og departementet om å sørge for at praksisen endres i overensstemmelse med ombudets syn, og gi ombudet tilbakemelding om sin oppfølging av saken.
+Saken gjelder spørsmål om cannabisholdige legemidler («medisinsk cannabis») som ikke er forskrevet av lege i Norge, men importert i tråd med narkotikaforskriften § 19, kan brukes under gjennomføring av fengselsstraff.  
+Ved innsettelse ble klageren nektet å bruke et medbragt cannabisholdig legemiddel som han lovlig kunne bruke utenfor fengselet, utelukkende fordi legemiddelet var forskrevet av en lege i Nederland. Kriminalomsorgen mente at vilkåret for å gjøre unntak fra forbudet i straffegjennomføringsforskriften § 3-21, jf. straffegjennomføringsloven § 29, stiller krav om at legemiddelet må være forskrevet av lege i Norge. Både fengselets og regionens vedtak ble truffet uten at fengselshelsetjenesten hadde foretatt en konkret vurdering av klagerens medisinske behov. Regionen hadde heller ikke vurdert forholdet til menneskerettighetene.  
+Sivilombudet er kommet til at regionen ikke har opplyst saken i tråd med forvaltningsloven § 33 siste ledd eller oppfylt sin plikt etter forvaltningsloven § 34 andre ledd andre punktum til å vurdere klagerens menneskerettslige anførsler. Vedtaket var heller ikke begrunnet i samsvar med forvaltningsloven § 25, jf. § 33 første ledd.  
+Ombudet er også kommet til at det ikke var rettslig grunnlag for å nekte klageren å bruke medbrakt cannabisholdig legemiddel som var importert i tråd med narkotikaforskriften § 19, utelukkende fordi legemiddelet ikke var forskrevet av lege i Norge. Å nekte klageren å bruke det aktuelle legemiddelet var i tillegg et ulovlig inngrep i hans rett til privatliv og selvbestemmelse etter EMK artikkel 8 og Grunnloven § 102.  
+Vedtaket må på denne bakgrunn anses som ugyldig. Ombudet ber regionen merke seg ombudets uttalelse, og legge ombudets syn til grunn i framtidige saker.  
+Ombudet vil også underrette Kriminalomsorgsdirektoratet samt Justis- og beredskapsdepartementet som ansvarlig departement, om den mangelen som er avdekket i kriminalomsorgens praksis, jf. sivilombudsloven § 25 tredje ledd. Ombudet ber direktoratet og departementet om å sørge for at praksisen endres i overensstemmelse med ombudets syn, og gi ombudet tilbakemelding om sin oppfølging av saken.
 
 ## Sakens bakgrunn
 

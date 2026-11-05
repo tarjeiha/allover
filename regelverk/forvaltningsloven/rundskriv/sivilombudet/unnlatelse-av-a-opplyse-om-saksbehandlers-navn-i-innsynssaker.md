@@ -15,10 +15,8 @@ Sivilombudets uttalelse 23.6.2022 (sak 2022/1068).
 ## Oppsummering
 
 Saken gjelder en praksis ved Statsministerens kontor om ikke å opplyse om hvem som er saksbehandler ved behandling av innsynskrav. En journalist ba Statsministerens kontor, i forbindelse med behandlingen av et innsynskrav, om å få opplyst hvem som var saksbehandler i saken. Alle e-postene fra Statsministerens kontor var kun signert med «Med vennlig hilsen Statsministerens kontor, postmottak». Statsministerens kontor svarte journalisten at deres praksis var ikke å opplyse om hvem som var saksbehandler i saken, men at navn på den ansvarlige avdelingsdirektøren kunne oppgis på forespørsel.  
-   
- Ombudet er kommet til at det følger av god forvaltningsskikk, og forutsetningsvis av habilitetsreglene i forvaltningsloven, at en part skal få kjennskap til hvem som har behandlet saken. Statsministerens kontor sin generelle praksis om ikke å opplyse om navnet på saksbehandler i innsynssaker, er etter ombudets syn i strid med god forvaltningsskikk.  
-   
- Statsministerens kontor bes på denne bakgrunn om å endre sin praksis for signering av innsynsavgjørelser slik at saksbehandlers navn rutinemessig opplyses om i svaret på innsynskravet.
+Ombudet er kommet til at det følger av god forvaltningsskikk, og forutsetningsvis av habilitetsreglene i forvaltningsloven, at en part skal få kjennskap til hvem som har behandlet saken. Statsministerens kontor sin generelle praksis om ikke å opplyse om navnet på saksbehandler i innsynssaker, er etter ombudets syn i strid med god forvaltningsskikk.  
+Statsministerens kontor bes på denne bakgrunn om å endre sin praksis for signering av innsynsavgjørelser slik at saksbehandlers navn rutinemessig opplyses om i svaret på innsynskravet.
 
 ## Sakens bakgrunn
 

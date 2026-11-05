@@ -16,8 +16,7 @@ Sivilombudets uttalelse 16.12.2019 (sak 2019/2187).
 ## Oppsummering
 
 Saken gjelder sosialtjenestens rett til refusjon i etterbetalt trygdeytelse til dekning av utlegg «til samme formål og for samme tidsrom» etter sosialtjenesteloven § 26.  
-   
- Ombudsmannen er kommet til at det er begått flere saksbehandlingsfeil både ved Nav-kontorets refusjonsvedtak og Fylkesmannens klagevedtak. Klagevedtaket er ikke tilstrekkelig begrunnet. Det foreligger videre begrunnet tvil ved om saken ble tilstrekkelig utredet i klageinstansen, og ved om Fylkesmannen har lagt til grunn en korrekt forståelse av vilkårene for refusjon etter sosialtjenesteloven § 26. Fylkesmannen bes vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begått flere saksbehandlingsfeil både ved Nav-kontorets refusjonsvedtak og Fylkesmannens klagevedtak. Klagevedtaket er ikke tilstrekkelig begrunnet. Det foreligger videre begrunnet tvil ved om saken ble tilstrekkelig utredet i klageinstansen, og ved om Fylkesmannen har lagt til grunn en korrekt forståelse av vilkårene for refusjon etter sosialtjenesteloven § 26. Fylkesmannen bes vurdere saken på nytt.
 
 ## Sakens bakgrunn
 
@@ -68,7 +67,7 @@ Ved gjennomgangen av saken herfra ble det avdekket at stønad til rens av invent
 Fylkesmannen har også erkjent at de ikke kjenner til om Nav-kontoret sendte forhåndsvarsel til klageren i forbindelse med de to refusjonsvedtakene. Det ble imidlertid påpekt at Nav i de fleste vedtak om økonomisk stønad varsler om mulig refusjon i etterbetalinger. Videre peker Fylkesmannen på at manglende varsel uansett ikke har virket inn på vedtaket ettersom klagerens synpunkter senere har blitt tatt i betraktning ved klagebehandlingen av saken.
 
 Etter forvaltningslovens § 16 er hovedregelen at en part skal varsles og gis anledning til å uttale seg, før vedtak treffes. I Arbeids- og velferdsdirektoratets rundskriv  
- R35-00 presiseres det at dette også gjelder for vedtak om refusjon selv om vedkommende har blitt varslet om mulig refusjon i vedtakene om innvilgelse av økonomisk stønad. Det er uheldig at dette tilsynelatende ikke ble gjort, og heller ikke synes å være vurdert av Fylkesmannen ved behandlingen av klagesaken.
+R35-00 presiseres det at dette også gjelder for vedtak om refusjon selv om vedkommende har blitt varslet om mulig refusjon i vedtakene om innvilgelse av økonomisk stønad. Det er uheldig at dette tilsynelatende ikke ble gjort, og heller ikke synes å være vurdert av Fylkesmannen ved behandlingen av klagesaken.
 
 ### 3.  Vilkårene for refusjon
 
@@ -115,7 +114,7 @@ Hvilket prinsipp som skal legges til grunn ved en slik vurdering knyttet til lø
 Fylkesmannen har i klagesaken stadfestet Navs refusjonskrav til dekning av forfalte strømregninger. Gjennomgangen foretatt her viser at det kan synes som at Nav-kontoret har valgt ulike prinsipper når det skal fastslås hva som er «for samme tidsrom» i relasjon til refusjonsadgangen.
 
 I etterbetalingen for juni 2012 ble det krevd refusjon for sosialstønad gitt i vedtak  
- 12. juni 2012. Denne sosialstønaden var ment å dekke en regning med forfall 28. mai 2012, men som i vedtaket er angitt å gjelde perioden 1. mars – 1. mai 2012. I dette tilfellet er det utbetalingen fra Nav som er avgjørende for hvilken måned det tas refusjon i, ikke når strømmen ble forbrukt eller regningen forfalt.
+12. juni 2012. Denne sosialstønaden var ment å dekke en regning med forfall 28. mai 2012, men som i vedtaket er angitt å gjelde perioden 1. mars – 1. mai 2012. I dette tilfellet er det utbetalingen fra Nav som er avgjørende for hvilken måned det tas refusjon i, ikke når strømmen ble forbrukt eller regningen forfalt.
 
 I etterbetalingene for februar og mars 2014 ble det derimot krevd refusjon for sosialstønad innvilget i vedtak 3. mars 2014 til dekning av strømregninger med forfall hhv. 30. desember 2013 og 30. januar 2014. Her har Fylkesmannen erkjent at det valgt ulik periodiseringsløsning for refusjonskravet de to aktuelle måneder.
 

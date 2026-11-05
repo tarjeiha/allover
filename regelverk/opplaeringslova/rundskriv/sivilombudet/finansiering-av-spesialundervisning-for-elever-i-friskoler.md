@@ -15,8 +15,7 @@ Sivilombudets uttalelse 23.4.2019 (sak 2018/2519).
 ## Oppsummering
 
 A skole klaget til ombudsmannen over beregningsmodellen Oslo kommune benytter for å tildele midler til spesialundervisning i friskoler. Kommunen tar utgangspunkt i gjennomsnittlig årslønn for en lærer med et fratrekk på 187,5 timer. A mener skolen ikke blir kompensert i samsvar med gjeldende regelverk.  
-   
- Kommunen skal sørge for å tildele midler til spesialundervisning i friskolene på et nivå som minst tilsvarer nivået i den kommunale skolen. Modellen Oslo kommune benytter gjør at nivået på tildelingene til friskoler ikke kan sammenlignes direkte. Gjennomgangen som er foretatt, gir ikke grunn for ombudsmannen til å rette vesentlige innvendinger mot fordelingsmodellen på generelt grunnlag.
+Kommunen skal sørge for å tildele midler til spesialundervisning i friskolene på et nivå som minst tilsvarer nivået i den kommunale skolen. Modellen Oslo kommune benytter gjør at nivået på tildelingene til friskoler ikke kan sammenlignes direkte. Gjennomgangen som er foretatt, gir ikke grunn for ombudsmannen til å rette vesentlige innvendinger mot fordelingsmodellen på generelt grunnlag.
 
 ## Sakens bakgrunn
 
@@ -27,7 +26,7 @@ I klagen har friskolen påpekt at kommunen beregner timelønnen ut fra den satse
 ## Våre undersøkelser
 
 Vi fant grunn til å foreta nærmere undersøkelser, og kommunen ble i brev  
- 14. september 2018 bedt om å forklare finansieringsmodellen som benyttes ved tildeling av midler til spesialundervisning i friskoler og for kommunale skoler. Det ble spurt spesifikt om hvordan kommunen sikrer at friskolene får like god utgiftsdekning for denne undervisningsformen som de kommunale skolene, jf. kravet om likebehandling i friskolelova § 3-6 annet ledd.
+14. september 2018 bedt om å forklare finansieringsmodellen som benyttes ved tildeling av midler til spesialundervisning i friskoler og for kommunale skoler. Det ble spurt spesifikt om hvordan kommunen sikrer at friskolene får like god utgiftsdekning for denne undervisningsformen som de kommunale skolene, jf. kravet om likebehandling i friskolelova § 3-6 annet ledd.
 
 Utdanningsetaten ble videre bedt om å forklare hvorfor 187,5 timer av et totalt lærerårsverk på 1687,5 timer, og eventuelle andre kostnader som ikke er direkte knyttet til selve spesialundervisningen, blir trukket fra i beregningen. Det ble spurt om årsaken til at kostnadene ikke kompenseres forholdsmessig f.eks. ut fra antall timer spesialundervisning den enkelte elev har fått innvilget.
 

@@ -14,9 +14,8 @@ Sivilombudets uttalelse 24.11.2023 (sak 2023/4120).
 
 ## Oppsummering
 
-Saken gjaldt saksbehandlingstiden hos Statens sivilrettsforvaltning ved behandlingen av et krav om tilbakebetaling av vergehonorar fra vergemålsmyndigheten. Saken ble liggende ubehandlet i lang tid, og parten mottok ikke et foreløpig svar med informasjon om forventet behandlingstid før det var gått nesten åtte måneder. Informasjonen som da ble gitt – om ytterligere to måneders saksbehandlingstid – ble ikke senere fulgt opp med forsinkelsesmelding da denne tiden ble overskredet.   
-   
- Statens sivilrettsforvaltning beklaget den lange behandlingstiden og uttalte at den ikke var i samsvar med forvaltningsloven. Sivilombudet var enig i det. Statens sivilrettsforvaltning opplyste at de nå ville se nærmere på egne rutiner for å forhindre så lang behandlingstid i tilsvarende saker. Ombudet uttalte at en slik gjennomgang fremsto nødvendig, og ba samtidig om at Statens sivilrettsforvaltning også gjennomgikk egne rutiner for å sende ut foreløpig svar og eventuelle forsinkelsesmeldinger.
+Saken gjaldt saksbehandlingstiden hos Statens sivilrettsforvaltning ved behandlingen av et krav om tilbakebetaling av vergehonorar fra vergemålsmyndigheten. Saken ble liggende ubehandlet i lang tid, og parten mottok ikke et foreløpig svar med informasjon om forventet behandlingstid før det var gått nesten åtte måneder. Informasjonen som da ble gitt – om ytterligere to måneders saksbehandlingstid – ble ikke senere fulgt opp med forsinkelsesmelding da denne tiden ble overskredet.  
+Statens sivilrettsforvaltning beklaget den lange behandlingstiden og uttalte at den ikke var i samsvar med forvaltningsloven. Sivilombudet var enig i det. Statens sivilrettsforvaltning opplyste at de nå ville se nærmere på egne rutiner for å forhindre så lang behandlingstid i tilsvarende saker. Ombudet uttalte at en slik gjennomgang fremsto nødvendig, og ba samtidig om at Statens sivilrettsforvaltning også gjennomgikk egne rutiner for å sende ut foreløpig svar og eventuelle forsinkelsesmeldinger.
 
 ## Sakens bakgrunn
 

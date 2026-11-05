@@ -14,9 +14,8 @@ Sivilombudets uttalelse 19.10.2022 (sak 2022/3100).
 
 ## Oppsummering
 
-Saken gjelder en kommunes ansettelse av SFO-leder. Ombudet har kommet til at det er gjort flere feil ved ansettelsen.   
-   
- Klageren hadde tidligere vært ansatt som lærer i kommunen. På grunn av kommunens kjennskap til klageren, ble hun ikke innkalt til intervju, men innstilt som nummer to av to søkere. Ombudet mener kommunen skulle ha kalt inn klageren til intervju, selv om hun tidligere hadde vært ansatt i kommunen. Hun som ble ansatt, oppfylte dessuten ikke kravet til utdanning i utlysningsteksten.
+Saken gjelder en kommunes ansettelse av SFO-leder. Ombudet har kommet til at det er gjort flere feil ved ansettelsen.  
+Klageren hadde tidligere vært ansatt som lærer i kommunen. På grunn av kommunens kjennskap til klageren, ble hun ikke innkalt til intervju, men innstilt som nummer to av to søkere. Ombudet mener kommunen skulle ha kalt inn klageren til intervju, selv om hun tidligere hadde vært ansatt i kommunen. Hun som ble ansatt, oppfylte dessuten ikke kravet til utdanning i utlysningsteksten.
 
 ## Sakens bakgrunn
 

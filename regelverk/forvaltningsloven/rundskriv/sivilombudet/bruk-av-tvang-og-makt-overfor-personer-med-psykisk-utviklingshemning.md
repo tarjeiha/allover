@@ -15,17 +15,12 @@ Sivilombudets uttalelse 28.6.2024 (sak 2023/4989).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt Statsforvalteren i Møre- og Romsdals håndtering av saker om bruk av tvang og makt overfor personer med psykisk utviklingshemning, jf. helse- og omsorgstjenesteloven § 9-5 tredje ledd bokstavene a og b. Bestemmelsen regulerer henholdsvis skadeavvergende tiltak i nødssituasjoner og planlagte skadeavvergende tiltak i gjentatte nødssituasjoner.   
-   
- Bakgrunnen for undersøkelsen var en klage i en enkeltsak overfor Statsforvalteren i Møre og Romsdal. Formålet har vært å klarlegge forståelsen av regelverket.  
-   
- Bokstav a kommer til anvendelse i uforutsette enkeltsituasjoner. Gjentatte skadesituasjoner skal som et utgangspunkt ikke håndteres etter denne bestemmelsen.   
-   
- Bokstav b kommer til anvendelse i situasjoner som gjentar seg og der tiltak for å avverge skade lar seg planlegge. Tiltak som hjemles i bestemmelsen skal være forberedte og gjennomtenkte. Det er strenge prosessuelle vilkår før et vedtak kan iverksettes.  
-   
- Kommunene må tilstrebe å fatte nytt vedtak etter bokstav b i tide slik at det ikke oppstår vedtaksløse perioder der det utøves tvang etter bokstav a. Statsforvalteren, som tilsynsmyndighet og klageorgan, må påse at kommunene etterlever dette. Statsforvalteren har adgang, og plikt, til å prioritere saker som blir oversendt for sent fra kommunen slik at det ikke oppstår vedtaksløse perioder. Forutsetningen for en slik prioritering er at det ikke har uheldige konsekvenser for andre saker som haster like mye.  
-   
- Statsforvalteren ble bedt om å merke seg ombudets syn og legge det til grunn ved behandlingen av fremtidige saker. Statens helsetilsyn, Helsedirektoratet og de øvrige statsforvalterne ble orientert om uttalelsen.
+Sivilombudet har av eget tiltak undersøkt Statsforvalteren i Møre- og Romsdals håndtering av saker om bruk av tvang og makt overfor personer med psykisk utviklingshemning, jf. helse- og omsorgstjenesteloven § 9-5 tredje ledd bokstavene a og b. Bestemmelsen regulerer henholdsvis skadeavvergende tiltak i nødssituasjoner og planlagte skadeavvergende tiltak i gjentatte nødssituasjoner.  
+Bakgrunnen for undersøkelsen var en klage i en enkeltsak overfor Statsforvalteren i Møre og Romsdal. Formålet har vært å klarlegge forståelsen av regelverket.  
+Bokstav a kommer til anvendelse i uforutsette enkeltsituasjoner. Gjentatte skadesituasjoner skal som et utgangspunkt ikke håndteres etter denne bestemmelsen.  
+Bokstav b kommer til anvendelse i situasjoner som gjentar seg og der tiltak for å avverge skade lar seg planlegge. Tiltak som hjemles i bestemmelsen skal være forberedte og gjennomtenkte. Det er strenge prosessuelle vilkår før et vedtak kan iverksettes.  
+Kommunene må tilstrebe å fatte nytt vedtak etter bokstav b i tide slik at det ikke oppstår vedtaksløse perioder der det utøves tvang etter bokstav a. Statsforvalteren, som tilsynsmyndighet og klageorgan, må påse at kommunene etterlever dette. Statsforvalteren har adgang, og plikt, til å prioritere saker som blir oversendt for sent fra kommunen slik at det ikke oppstår vedtaksløse perioder. Forutsetningen for en slik prioritering er at det ikke har uheldige konsekvenser for andre saker som haster like mye.  
+Statsforvalteren ble bedt om å merke seg ombudets syn og legge det til grunn ved behandlingen av fremtidige saker. Statens helsetilsyn, Helsedirektoratet og de øvrige statsforvalterne ble orientert om uttalelsen.
 
 ## Sakens bakgrunn
 

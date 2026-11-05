@@ -16,8 +16,7 @@ Sivilombudets uttalelse 23.4.2019 (sak 2018/4884).
 ## Oppsummering
 
 Ombudsmannen har av eget tiltak undersøkt Fjell kommunes praksis for journalføring av e-postkorrespondanse i en sak om dispensasjon fra kommunens arealplan. Kommunen hadde lagt til grunn at enkelte av e-postene var arbeidsdokumenter, og at utkast til søknader ble regnet som intern saksforberedelse. Ombudsmannen har stilt spørsmål ved hvilke kriterier kommunen legger til grunn for vurderingen av om en e-post er underlagt journalføringsplikt eller ikke. Videre har ombudsmannen stilt spørsmål ved at det tok lang tid før enkelte e poster ble journalført.  
-   
- Ombudsmannen er kommet til at kommunen har lagt til grunn en for høy terskel for hvilke dokumenter som skal journalføres. Videre påpeker ombudsmannen at journalføringen som utgangspunkt skal skje fortløpende, og at en etappevis journalføring vil kunne føre til at hensynene reglene om innsyn skal ivareta, blir tilsidesatt. Ombudsmannen ber kommunen om å gjennomgå praksisen for journalføring av e-poster og utkast til søknader, samt å gjennomgå de aktuelle dokumentene og vurdere om de skal journalføres.
+Ombudsmannen er kommet til at kommunen har lagt til grunn en for høy terskel for hvilke dokumenter som skal journalføres. Videre påpeker ombudsmannen at journalføringen som utgangspunkt skal skje fortløpende, og at en etappevis journalføring vil kunne føre til at hensynene reglene om innsyn skal ivareta, blir tilsidesatt. Ombudsmannen ber kommunen om å gjennomgå praksisen for journalføring av e-poster og utkast til søknader, samt å gjennomgå de aktuelle dokumentene og vurdere om de skal journalføres.
 
 ## Sakens bakgrunn og våre undersøkelser
 

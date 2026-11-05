@@ -16,8 +16,7 @@ Sivilombudets uttalelse 11.4.2023 (sak 2022/5332).
 ## Oppsummering
 
 Nordland fylkeskommune innvilget skoleskyss for skoleåret 2022/2023 til en syvåring som var bosatt mer enn fire km fra skolen. Skoleskyssens utgangspunkt var et busstopp langs en fylkesvei med fartsgrense 80 km/t. For å komme til og fra busstoppet måtte barnet gå 300-400 meter langs en privat vei hvor fartsgrensen var 50 km/t. Foreldrene klaget til Statsforvalteren over skoleskysstilbudet, og fremhevet at veien eleven måtte gå ofte var dårlig brøytet om vinteren, manglet belysning og at det jevnlig var observert elg på strekningen. Det ble også vist til trafikkfarlige forhold under på- og avstigning, og at det var for vanskelig å vente ved busstoppet for en syvåring. Statsforvalteren mente at skoleskysstilbudet samlet sett var forsvarlig, og at barnets rett til å bli hørt var ivaretatt gjennom foreldrene.  
-   
- Sivilombudet er kommet til at Statsforvalteren har foretatt en tilstrekkelig utredning av saken, og har ikke vesentlige innvendinger mot at barnet i dette konkrete tilfellet er hørt gjennom foreldrenes klage. Etter ombudets oppfatning ligger den interesseavveiningen som Statsforvalteren har foretatt innenfor rammene av opplæringslova § 7-1, og har ikke vesentlige innvendinger mot konklusjonen om at skyssopplegget er forsvarlig.
+Sivilombudet er kommet til at Statsforvalteren har foretatt en tilstrekkelig utredning av saken, og har ikke vesentlige innvendinger mot at barnet i dette konkrete tilfellet er hørt gjennom foreldrenes klage. Etter ombudets oppfatning ligger den interesseavveiningen som Statsforvalteren har foretatt innenfor rammene av opplæringslova § 7-1, og har ikke vesentlige innvendinger mot konklusjonen om at skyssopplegget er forsvarlig.
 
 ## Sakens bakgrunn
 

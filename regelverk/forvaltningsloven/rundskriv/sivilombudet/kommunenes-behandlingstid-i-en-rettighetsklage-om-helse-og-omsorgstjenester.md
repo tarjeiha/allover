@@ -15,12 +15,9 @@ Sivilombudets uttalelse 9.1.2026 (sak 2025/1910).
 ## Oppsummering
 
 Saken gjelder X kommunes behandlingstid av en klage på helse- og omsorgstjenester. Kommunen behandlet klagen etter en intern retningslinje og ikke som en rettighetsklage etter pasient- og brukerrettighetsloven § 7-2, slik den skulle.  
-   
- Over to år etter at klagen ble mottatt i kommunen, var den ennå ikke oversendt Statsforvalteren i Innlandet for klagebehandling. Det var heller ikke fattet nytt vedtak. Ombudet mente at kommunens behandlingstid var klart i strid med forvaltningsloven § 33 fjerde ledd, jf. § 11 a første ledd.   
-   
- Etter at kommunen mottok klagen gikk det over 21 måneder før klageren fikk en skriftlig tilbakemelding i saken, tross flere purringer. Også dette var klart i strid med regelen om foreløpig svar i forvaltningsloven § 11 a andre ledd og krav til god forvaltningsskikk.  
-   
- Siden X kommune erkjente at klagen ikke var behandlet riktig og ville «rydde opp», forutsatte ombudet at kommunen behandlet klagen etter reglene i pasient- og brukerrettighetsloven § 7-2 og forvaltningsloven, om dette ikke alt var gjort. Ombudet ba om å bli holdt orientert om kommunens oppfølging av klagen.
+Over to år etter at klagen ble mottatt i kommunen, var den ennå ikke oversendt Statsforvalteren i Innlandet for klagebehandling. Det var heller ikke fattet nytt vedtak. Ombudet mente at kommunens behandlingstid var klart i strid med forvaltningsloven § 33 fjerde ledd, jf. § 11 a første ledd.  
+Etter at kommunen mottok klagen gikk det over 21 måneder før klageren fikk en skriftlig tilbakemelding i saken, tross flere purringer. Også dette var klart i strid med regelen om foreløpig svar i forvaltningsloven § 11 a andre ledd og krav til god forvaltningsskikk.  
+Siden X kommune erkjente at klagen ikke var behandlet riktig og ville «rydde opp», forutsatte ombudet at kommunen behandlet klagen etter reglene i pasient- og brukerrettighetsloven § 7-2 og forvaltningsloven, om dette ikke alt var gjort. Ombudet ba om å bli holdt orientert om kommunens oppfølging av klagen.
 
 Se oppdatering fra forvaltningen
 

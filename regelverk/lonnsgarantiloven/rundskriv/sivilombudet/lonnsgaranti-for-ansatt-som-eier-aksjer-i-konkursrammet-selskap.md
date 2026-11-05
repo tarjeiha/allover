@@ -14,9 +14,8 @@ Sivilombudets uttalelse 6.12.2023 (sak 2023/3542).
 
 ## Oppsummering
 
-Saken gjaldt lønnsgarantidekning for en ansatt eier med en eierandel på 20 prosent i det konkursrammede selskapet. Etter dekningsloven § 9-3 andre ledd andre setning skulle dekning gis dersom eieren ikke hadde hatt vesentlig innflytelse over driften i virksomheten. Nav mente at eieren hadde hatt vesentlig innflytelse fordi han kunne delta på generalforsamling, og danne et flertall mot vedtektsendringer sammen med andre aksjonærer. Det var etter Navs syn ikke av betydning at de andre eierne var straffedømt for konkursen i selskapet, eller at det aldri var avholdt generalforsamling.   
-   
- Ombudet mente at Nav hadde praktisert lovbestemmelsen feil og for strengt. Ved vurderingen er det etter lovens ordlyd og lovforarbeidene av betydning hvilken innflytelse som faktisk har vært utøvd. Nav hadde kun vurdert hvilken innflytelse som kunne ha vært utøvd. Nav ble bedt om å behandle saken på nytt og endre praksis.
+Saken gjaldt lønnsgarantidekning for en ansatt eier med en eierandel på 20 prosent i det konkursrammede selskapet. Etter dekningsloven § 9-3 andre ledd andre setning skulle dekning gis dersom eieren ikke hadde hatt vesentlig innflytelse over driften i virksomheten. Nav mente at eieren hadde hatt vesentlig innflytelse fordi han kunne delta på generalforsamling, og danne et flertall mot vedtektsendringer sammen med andre aksjonærer. Det var etter Navs syn ikke av betydning at de andre eierne var straffedømt for konkursen i selskapet, eller at det aldri var avholdt generalforsamling.  
+Ombudet mente at Nav hadde praktisert lovbestemmelsen feil og for strengt. Ved vurderingen er det etter lovens ordlyd og lovforarbeidene av betydning hvilken innflytelse som faktisk har vært utøvd. Nav hadde kun vurdert hvilken innflytelse som kunne ha vært utøvd. Nav ble bedt om å behandle saken på nytt og endre praksis.
 
 ## Sakens bakgrunn
 

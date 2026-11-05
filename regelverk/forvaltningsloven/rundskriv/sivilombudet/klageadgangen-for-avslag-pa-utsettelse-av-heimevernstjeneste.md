@@ -15,14 +15,10 @@ Sivilombudets uttalelse 16.10.2026 (sak 2026/1213).
 ## Oppsummering
 
 Saken gjelder behandling av klager på utsettelse av tjeneste i Heimevernet (HV). Sivilombudet er kjent med at Forsvarsdepartementets klagenemnd i vernepliktssaker (klagenemnda) behandler få klager over avslag på utsettelse av HV-tjeneste. Derfor har ombudet innhentet de 21 påklagede avgjørelsene som HV hadde oversendt for behandling i klagenemnda, og undersøkt om klageadgangen fungerer.  
-   
- Undersøkelsen viser at HV-området videresender klager over avslag på utsettelse til klagenemnda uten å kreve at den tjenestepliktige sender ny klage. Dette er en forbedring siden forrige undersøkelse forut for uttalelse SOM-2023-5286.   
-   
- Videre viser de fleste vedtakene at Forsvaret gir klar informasjon om klagerett på avslag på utsettelse. De fleste vedtakene oppgir også klagefrist. Dette fremstår som en forbedring siden forrige undersøkelse.   
-   
- I elleve av de 17 sakene ble imidlertid ikke klagen ferdigbehandlet av FPVS før HV-øvelsen var i gang eller over. Når en klage blir liggende i FPVS i flere uker og ikke blir behandlet før HV-øvelsen, fungerer ikke klageordningen. Dette svekker rettssikkerheten til den som klager.   
-   
- Sivilombudet er kommet til at det er behov for å iverksette tiltak for å effektivisere klagebehandlingen slik at de tjenestepliktige får endelig svar på klagen før øvelsen. Forsvarsdepartementet anmodes om å gi tilbakemelding innen 1. juni 2027.
+Undersøkelsen viser at HV-området videresender klager over avslag på utsettelse til klagenemnda uten å kreve at den tjenestepliktige sender ny klage. Dette er en forbedring siden forrige undersøkelse forut for uttalelse SOM-2023-5286.  
+Videre viser de fleste vedtakene at Forsvaret gir klar informasjon om klagerett på avslag på utsettelse. De fleste vedtakene oppgir også klagefrist. Dette fremstår som en forbedring siden forrige undersøkelse.  
+I elleve av de 17 sakene ble imidlertid ikke klagen ferdigbehandlet av FPVS før HV-øvelsen var i gang eller over. Når en klage blir liggende i FPVS i flere uker og ikke blir behandlet før HV-øvelsen, fungerer ikke klageordningen. Dette svekker rettssikkerheten til den som klager.  
+Sivilombudet er kommet til at det er behov for å iverksette tiltak for å effektivisere klagebehandlingen slik at de tjenestepliktige får endelig svar på klagen før øvelsen. Forsvarsdepartementet anmodes om å gi tilbakemelding innen 1. juni 2027.
 
 ## Sakens bakgrunn
 
@@ -73,8 +69,7 @@ Ombudet ba derfor Forsvaret om å iverksette tiltak for å sikre at reglene i fo
 
 ### 2. Forsvarets behandling av klagene
 
-Sivilombudet har gjennomgått og vurdert de 21 vedtakene som Forsvarsdepartementet opplyste at FPVS hadde omgjort. Ombudet har kun sett på informasjon om klageadgangen og tidsbruken. Utfallet av vedtakene er ikke vurdert.   
-  
+Sivilombudet har gjennomgått og vurdert de 21 vedtakene som Forsvarsdepartementet opplyste at FPVS hadde omgjort. Ombudet har kun sett på informasjon om klageadgangen og tidsbruken. Utfallet av vedtakene er ikke vurdert.  
 Fire av de 21 sakene ga ikke grunnlag for vurdering. To av de fire sakene var ordnet av HV før øvelsen. De to øvrige sakene ga ikke tilstrekkelig informasjon til at ombudet kunne vurdere dem her. Gjennomgangen gjelder derfor informasjon om klageadgang og tidsbruk i klagebehandlingen i de 17 øvrige sakene.
 
 #### 2.1.  Informasjon om klageadgangen

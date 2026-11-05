@@ -15,9 +15,8 @@ Sivilombudets uttalelse 27.10.2022 (sak 2022/1621).
 
 ## Oppsummering
 
-Saken gjelder en søknad om å bytte til en annen skole enn det som er barnets nærskole. Søknaden ble avslått under henvisning til at Statsforvalteren mente ønsket om skolebytte hovedsakelig var begrunnet i barnets erfaringer på en annen skole enn nærskolen, og i søsknenes erfaringer med nærskolen. Hverken kommunen eller statsforvalteren hadde hørt barnet direkte under saksbehandlingen.   
-   
- Sivilombudet har kommet til at Statsforvalteren ikke har foretatt de undersøkelser som var nødvendige for å kunne konkludere med at det var best for barnet å gå på nærskolen. Statsforvalteren har heller ikke har foretatt en tilstrekkelig individuell og konkret vurdering av barnets beste. Slik saken er opplyst for ombudet, fremstår det som at hensynet til barnets beste, talte for å få innvilget søknaden om å bytte til en annen skole enn nærskolen. Dersom søknaden skal avslås, må hensynene som taler mot å innvilge søknaden veie tyngre enn hensynet til barnets beste. Ombudet ber Statsforvalteren behandle saken på nytt i tråd med ombudets merknader.
+Saken gjelder en søknad om å bytte til en annen skole enn det som er barnets nærskole. Søknaden ble avslått under henvisning til at Statsforvalteren mente ønsket om skolebytte hovedsakelig var begrunnet i barnets erfaringer på en annen skole enn nærskolen, og i søsknenes erfaringer med nærskolen. Hverken kommunen eller statsforvalteren hadde hørt barnet direkte under saksbehandlingen.  
+Sivilombudet har kommet til at Statsforvalteren ikke har foretatt de undersøkelser som var nødvendige for å kunne konkludere med at det var best for barnet å gå på nærskolen. Statsforvalteren har heller ikke har foretatt en tilstrekkelig individuell og konkret vurdering av barnets beste. Slik saken er opplyst for ombudet, fremstår det som at hensynet til barnets beste, talte for å få innvilget søknaden om å bytte til en annen skole enn nærskolen. Dersom søknaden skal avslås, må hensynene som taler mot å innvilge søknaden veie tyngre enn hensynet til barnets beste. Ombudet ber Statsforvalteren behandle saken på nytt i tråd med ombudets merknader.
 
 Se oppdatering fra forvaltningen
 

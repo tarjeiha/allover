@@ -15,12 +15,9 @@ Sivilombudets uttalelse 3.11.2021 (sak 2021/2223).
 ## Oppsummering
 
 Saken gjelder kommunens veiledningsplikt etter forvaltningsloven § 11 samt plikten etter plan- og bygningsloven 32-1 jf. § 1-4 til å påse at plan- og bygningslovgivningen overholdes i kommunen.  
-   
- Klager spurte kommunen om leiligheten hans lovlig kan bebos til tross for at det ikke foreligger ferdigattest eller midlertidig brukstillatelse. Kommunen har ikke besvart klagers spørsmål, kun opplyst at de ikke er i besittelse av dokumentasjon som viser at leiligheten er lovlig etablert, samtidig som de ikke har grunnlag for å igangsette ulovlighetsoppfølging.   
-   
- Sivilombudet har kommet til at Bergen kommune ikke har oppfylt veiledningsplikten sin overfor klager. Kommunen burde veiledet klager om hvilke regler som gjelder i tilfeller der boenheten er etablert før søknadsplikt ble innført, og hvilken dokumentasjon som kan belyse spørsmålet om når boenheten ble etablert. I lys av kommunens plikt til å påse at plan- og bygningslovgivningen overholdes burde kommunen videre ha innhentet dokumentasjonen fra rettssaken etter at kommunen ble gjort oppmerksom på at denne dokumentasjonen kunne belyse om leiligheten utgjør en ulovlighet eller ikke. Kommunens behov for å ta forbehold om at nye opplysninger kan dukke opp på et senere tidspunkt bør ikke stå i veien for å kommunisere tydelig til klager hva kommunens standpunkt er, basert på den dokumentasjonen som er kjent per i dag.  
-   
- Sivilombudet ber Bergen kommune om å vurdere klagers henvendelser på nytt.
+Klager spurte kommunen om leiligheten hans lovlig kan bebos til tross for at det ikke foreligger ferdigattest eller midlertidig brukstillatelse. Kommunen har ikke besvart klagers spørsmål, kun opplyst at de ikke er i besittelse av dokumentasjon som viser at leiligheten er lovlig etablert, samtidig som de ikke har grunnlag for å igangsette ulovlighetsoppfølging.  
+Sivilombudet har kommet til at Bergen kommune ikke har oppfylt veiledningsplikten sin overfor klager. Kommunen burde veiledet klager om hvilke regler som gjelder i tilfeller der boenheten er etablert før søknadsplikt ble innført, og hvilken dokumentasjon som kan belyse spørsmålet om når boenheten ble etablert. I lys av kommunens plikt til å påse at plan- og bygningslovgivningen overholdes burde kommunen videre ha innhentet dokumentasjonen fra rettssaken etter at kommunen ble gjort oppmerksom på at denne dokumentasjonen kunne belyse om leiligheten utgjør en ulovlighet eller ikke. Kommunens behov for å ta forbehold om at nye opplysninger kan dukke opp på et senere tidspunkt bør ikke stå i veien for å kommunisere tydelig til klager hva kommunens standpunkt er, basert på den dokumentasjonen som er kjent per i dag.  
+Sivilombudet ber Bergen kommune om å vurdere klagers henvendelser på nytt.
 
 Se oppdatering fra forvaltningen
 

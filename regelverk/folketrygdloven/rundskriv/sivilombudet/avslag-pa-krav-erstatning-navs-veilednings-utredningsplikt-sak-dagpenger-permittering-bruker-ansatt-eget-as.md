@@ -15,8 +15,8 @@ Sivilombudets uttalelse 22.6.2017 (sak 2016/3169).
 
 ## Oppsummering
 
-Saken gjelder Nav Klageinstans Sørs avslag 21. oktober 2016 på et krav om erstatning for økonomisk tap påløpt på grunn av Navs sene innvilgelse av dagpenger under brukers permittering av seg selv som eneste ansatt i eget AS. Permitteringen skjedde som følge av manglende oppdrag for virksomheten. Bruker mente blant annet at Nav hadde brutt sin veiledningsplikt og unnlatt å innhente relevant dokumentasjon ved behandlingen av saken.   
- Ombudsmannen er kommet til at Nav ikke oppfylte sin veiledningsplikt og utredningsplikt etter forvaltningsloven §§ 11 og 33 femte ledd ved behandlingen av brukers klagesak. Bruker kunne med rimelighet forventet nærmere veiledning fra Nav, og også at Nav hadde etterspurt en avklaring av antall arbeidede timer og dokumentasjon på aktiviteten i selskapet for å skaffe nye oppdrag. Aktsomhetsnormen er derfor overtrådt, og det foreligger ansvarsgrunnlag etter skadeserstatningsloven § 2-1 første ledd.
+Saken gjelder Nav Klageinstans Sørs avslag 21. oktober 2016 på et krav om erstatning for økonomisk tap påløpt på grunn av Navs sene innvilgelse av dagpenger under brukers permittering av seg selv som eneste ansatt i eget AS. Permitteringen skjedde som følge av manglende oppdrag for virksomheten. Bruker mente blant annet at Nav hadde brutt sin veiledningsplikt og unnlatt å innhente relevant dokumentasjon ved behandlingen av saken.  
+Ombudsmannen er kommet til at Nav ikke oppfylte sin veiledningsplikt og utredningsplikt etter forvaltningsloven §§ 11 og 33 femte ledd ved behandlingen av brukers klagesak. Bruker kunne med rimelighet forventet nærmere veiledning fra Nav, og også at Nav hadde etterspurt en avklaring av antall arbeidede timer og dokumentasjon på aktiviteten i selskapet for å skaffe nye oppdrag. Aktsomhetsnormen er derfor overtrådt, og det foreligger ansvarsgrunnlag etter skadeserstatningsloven § 2-1 første ledd.
 
 Se oppdatering fra forvaltningen
 

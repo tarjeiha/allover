@@ -16,8 +16,7 @@ Sivilombudets uttalelse 2.10.2019 (sak 2019/108).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i samtlige dokumenter i en anbudskonkurranse om kjøp av sak- og arkivsystem.  
-   
- Kommunal- og moderniseringsdepartementet hadde ikke hjemmel til å avslå innsyn i samtlige dokumenter med henvisning til offentleglova § 23 tredje ledd, slik det først ble gjort. Tiden departementet brukte på å gi en nærmere begrunnelse for avslaget var heller ikke i samsvar med offentleglovas krav. Departementets nye delvise avslag på innsyn i fire av journalpostene var ikke utformet i samsvar med de formelle kravene i offentleglova § 31. For to av journalpostene synes den oppgitte hjemmelen for unntak ikke å være dekkende. For de to andre journalpostene foreligger det begrunnet tvil om departementet har foretatt en tilstrekkelig konkret og riktig vurdering av hvilke opplysninger som er underlagt taushetsplikten, jf. ombudsmannsloven § 10 andre ledd. Ombudsmannen ber på denne bakgrunn departementet om å vurdere innsynsspørsmålet på nytt.
+Kommunal- og moderniseringsdepartementet hadde ikke hjemmel til å avslå innsyn i samtlige dokumenter med henvisning til offentleglova § 23 tredje ledd, slik det først ble gjort. Tiden departementet brukte på å gi en nærmere begrunnelse for avslaget var heller ikke i samsvar med offentleglovas krav. Departementets nye delvise avslag på innsyn i fire av journalpostene var ikke utformet i samsvar med de formelle kravene i offentleglova § 31. For to av journalpostene synes den oppgitte hjemmelen for unntak ikke å være dekkende. For de to andre journalpostene foreligger det begrunnet tvil om departementet har foretatt en tilstrekkelig konkret og riktig vurdering av hvilke opplysninger som er underlagt taushetsplikten, jf. ombudsmannsloven § 10 andre ledd. Ombudsmannen ber på denne bakgrunn departementet om å vurdere innsynsspørsmålet på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -15,11 +15,9 @@ Sivilombudets uttalelse 5.3.2021 (sak 2020/2393).
 
 ## Oppsummering
 
-Det følger av folkebibliotekloven § 5 at en kommune skal ha fagutdannet biblioteksjef. Det er adgang til å dispensere fra dette kravet dersom det kan dokumenteres at det ikke har meldt seg kvalifisert søker. I denne kvalifikasjonsvurderingen skal både søkers formelle kvalifikasjoner og egnethet for stillingen inngå.   
-   
- Ombudsmannen har kommet til at verken X kommune eller Nasjonalbiblioteket har gjort de undersøkelsene som er nødvendige for å kunne konkludere med at klager var uegnet for stillingen som biblioteksjef i kommunen. Det kan ikke utelukkes at hun er kvalifisert for stillingen, og dermed urettmessig forbigått. Det er også mulig at dispensasjonssøknaden ikke skulle ha blitt innvilget.   
-   
- Siden klageren ikke har blitt intervjuet er det heller ikke grunn til å konkludere med at hun rent faktisk er blitt forbigått i denne ansettelsesprosessen. Kommunen bør samtidig vurdere hvordan det kan bøtes på den urett som er begått mot henne. Som minimum bør uttalelsen i lokalavisen om at hun var uegnet for stillingen beklages. Den som ble ansatt i stillingen er samtidig ikke part i saken her, og ombudsmannens uttalelse innvirker ikke på hennes ansettelsesforhold.
+Det følger av folkebibliotekloven § 5 at en kommune skal ha fagutdannet biblioteksjef. Det er adgang til å dispensere fra dette kravet dersom det kan dokumenteres at det ikke har meldt seg kvalifisert søker. I denne kvalifikasjonsvurderingen skal både søkers formelle kvalifikasjoner og egnethet for stillingen inngå.  
+Ombudsmannen har kommet til at verken X kommune eller Nasjonalbiblioteket har gjort de undersøkelsene som er nødvendige for å kunne konkludere med at klager var uegnet for stillingen som biblioteksjef i kommunen. Det kan ikke utelukkes at hun er kvalifisert for stillingen, og dermed urettmessig forbigått. Det er også mulig at dispensasjonssøknaden ikke skulle ha blitt innvilget.  
+Siden klageren ikke har blitt intervjuet er det heller ikke grunn til å konkludere med at hun rent faktisk er blitt forbigått i denne ansettelsesprosessen. Kommunen bør samtidig vurdere hvordan det kan bøtes på den urett som er begått mot henne. Som minimum bør uttalelsen i lokalavisen om at hun var uegnet for stillingen beklages. Den som ble ansatt i stillingen er samtidig ikke part i saken her, og ombudsmannens uttalelse innvirker ikke på hennes ansettelsesforhold.
 
 Saken gjelder spørsmålet om en kommune hadde adgang til å ansette en biblioteksjef uten fagutdanning, når det var fagutdannede søkere til stillingen. Ombudsmannen har også vurdert om Nasjonalbiblioteket har påsett at saken var tilstrekkelig opplyst før det ble fattet vedtak om å innvilge dispensasjon fra kravet i folkebibliotekloven § 5 om at alle kommuner skal ha fagutdannet biblioteksjef.
 

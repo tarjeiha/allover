@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.10.2022 (sak 2022/1377).
 ## Oppsummering
 
 Saken gjelder vedtak av en kommunedelplan for havbruk i Alver, tidligere Meland, kommune. Statsforvalteren i Vestland meldte innsigelse til planen. Etter Statsforvalterens syn var det ikke gjort en tilstrekkelig vurdering av hvordan akvakulturområdene i planen ville kunne påvirke villaks- og sjøørretbestanden i fjordområdene. Kommunal- og distriktsdepartementet godkjente planen, under henvisning til at det ville bli gjort mer detaljerte miljøvurderinger ved den enkelte lokalitetssøknad.  
-   
- Ombudet kom til at det var begrunnet tvil ved om kunnskapsgrunnlaget som lå til grunn for reguleringen av de aktuelle områdene til akvakultur, var i tråd med kravene som følger av konsekvensutredningsforskriften. Ombudet mente videre at det var tvilsomt om departementet hadde gjort en slik vurdering av om de aktuelle områdene var egnet for arealformålet som forskriften og plan- og bygningsloven legger opp til. Dermed kunne ombudet heller ikke se at departementet hadde vurdert Statsforvalterens innsigelse på en slik måte som kreves etter pbl. § 11-16. Etter ombudets syn hadde departementet heller ikke gjort en tilstrekkelig vurdering av prinsippene i naturmangfoldloven §§ 8-12, jf. § 7.   
-   
- Etter ombudets syn kunne det ikke utelukkes at manglene hadde hatt innvirkning på resultatet, jf. prinsippet i forvaltningsloven § 41. Ombudet ber departementet vurdere saken på nytt.
+Ombudet kom til at det var begrunnet tvil ved om kunnskapsgrunnlaget som lå til grunn for reguleringen av de aktuelle områdene til akvakultur, var i tråd med kravene som følger av konsekvensutredningsforskriften. Ombudet mente videre at det var tvilsomt om departementet hadde gjort en slik vurdering av om de aktuelle områdene var egnet for arealformålet som forskriften og plan- og bygningsloven legger opp til. Dermed kunne ombudet heller ikke se at departementet hadde vurdert Statsforvalterens innsigelse på en slik måte som kreves etter pbl. § 11-16. Etter ombudets syn hadde departementet heller ikke gjort en tilstrekkelig vurdering av prinsippene i naturmangfoldloven §§ 8-12, jf. § 7.  
+Etter ombudets syn kunne det ikke utelukkes at manglene hadde hatt innvirkning på resultatet, jf. prinsippet i forvaltningsloven § 41. Ombudet ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -15,10 +15,9 @@ Sivilombudets uttalelse 2.7.2026 (sak 2026/575).
 
 ## Oppsummering
 
-Saken gjelder en elev i videregående skole som klaget på standpunktkarakterene i to fag. Hun fikk medhold av Statsforvalteren i Vestland, fordi klageoversendelsen fra skolen ikke var vedlagt begrunnelser fra faglærer om hvordan karakterene var blitt fastsatt. Som følge av dette var det ikke mulig for Statsforvalteren å kontrollere om opplæringsforskriftas regler om karakterfastsettelse var fulgt.   
-   
- Sivilombudet kom til at skolen ikke hadde foretatt en ny vurdering i opplæringsforskriftas forstand. Vestland fylkeskommune som skoleeier ble bedt om å vurdere om det i denne saken var mulig å gi eleven en ny vurdering – for eksempel ved at en lærer med tilstrekkelige kunnskaper i fagene foretok en ny gjennomgang av elevens innleverte arbeider, prøver eller lignende, og/eller ved at eleven ble tilbudt en ny vurderingssituasjon. Videre ba   
- Sivilombudet om at fylkeskommune vurderte hvordan det kan etableres rutiner og systemer for dokumentasjon av elevkompetanse som gjør det mulig å fastsette standpunktkarakterer i tråd med opplæringsforskrifta selv om faglærer er utilgjengelig.
+Saken gjelder en elev i videregående skole som klaget på standpunktkarakterene i to fag. Hun fikk medhold av Statsforvalteren i Vestland, fordi klageoversendelsen fra skolen ikke var vedlagt begrunnelser fra faglærer om hvordan karakterene var blitt fastsatt. Som følge av dette var det ikke mulig for Statsforvalteren å kontrollere om opplæringsforskriftas regler om karakterfastsettelse var fulgt.  
+Sivilombudet kom til at skolen ikke hadde foretatt en ny vurdering i opplæringsforskriftas forstand. Vestland fylkeskommune som skoleeier ble bedt om å vurdere om det i denne saken var mulig å gi eleven en ny vurdering – for eksempel ved at en lærer med tilstrekkelige kunnskaper i fagene foretok en ny gjennomgang av elevens innleverte arbeider, prøver eller lignende, og/eller ved at eleven ble tilbudt en ny vurderingssituasjon. Videre ba  
+Sivilombudet om at fylkeskommune vurderte hvordan det kan etableres rutiner og systemer for dokumentasjon av elevkompetanse som gjør det mulig å fastsette standpunktkarakterer i tråd med opplæringsforskrifta selv om faglærer er utilgjengelig.
 
 ## Sakens bakgrunn
 

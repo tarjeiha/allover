@@ -15,12 +15,9 @@ Sivilombudets uttalelse 9.6.2021 (sak 2020/2680).
 ## Oppsummering
 
 Et Nav-kontor i Oslo kommune besluttet å utestenge klageren fra fysisk oppmøte ved Navs lokaler i den aktuelle bydelen for en periode på tre måneder. Beslutningen var hovedsakelig begrunnet med at klageren over tid skulle ha kommet med anklager mot en bestemt saksbehandler, og at han nylig hadde levert en søknad som Nav-kontoret oppfattet som truende.  
-   
- Ombudsmannen er kommet til at Nav-kontorets beslutning på flere punkter ikke er gjort i samsvar med Arbeids- og velferdsdirektoratets retningslinjer for utestenging. Klageren ble ikke gitt et tilstrekkelig klart forhåndsvarsel eller en anledning til å komme med sitt syn på saken. Utestengingen på tre måneder oversteg retningslinjenes maksimale periode på 12 uker. Beslutningen skulle vært truffet av Nav-kontorets enhetsleder, og klagerens fullmektig skulle ha fått et skriftlig svar på sin klage. Ombudsmannen mener at beslutningen på disse punktene ikke var i tråd med god forvaltningsskikk.  
-   
- Ombudsmannen mener videre at det knytter seg begrunnet tvil til om Nav-kontoret gjorde en tilstrekkelig vurdering av mulige alternative reaksjonsformer og utestengingens lengde.  
-   
- Ombudsmannen ber kommunen og Nav-kontoret merke seg de forholdene som er påpekt i uttalelsen for fremtidige saker.
+Ombudsmannen er kommet til at Nav-kontorets beslutning på flere punkter ikke er gjort i samsvar med Arbeids- og velferdsdirektoratets retningslinjer for utestenging. Klageren ble ikke gitt et tilstrekkelig klart forhåndsvarsel eller en anledning til å komme med sitt syn på saken. Utestengingen på tre måneder oversteg retningslinjenes maksimale periode på 12 uker. Beslutningen skulle vært truffet av Nav-kontorets enhetsleder, og klagerens fullmektig skulle ha fått et skriftlig svar på sin klage. Ombudsmannen mener at beslutningen på disse punktene ikke var i tråd med god forvaltningsskikk.  
+Ombudsmannen mener videre at det knytter seg begrunnet tvil til om Nav-kontoret gjorde en tilstrekkelig vurdering av mulige alternative reaksjonsformer og utestengingens lengde.  
+Ombudsmannen ber kommunen og Nav-kontoret merke seg de forholdene som er påpekt i uttalelsen for fremtidige saker.
 
 ## Sakens bakgrunn
 

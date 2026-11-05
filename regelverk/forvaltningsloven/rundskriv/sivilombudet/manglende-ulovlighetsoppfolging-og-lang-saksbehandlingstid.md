@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.10.2019 (sak 2019/1750).
 ## Oppsummering
 
 Saken gjelder Lyngdal kommunes oppfølging av varsler om påståtte ulovlige tiltak knyttet til utbygging i Kåveland – Åmland hyttefelt.  
-   
- Ombudsmannen er kommet til at kommunens oppfølging av varslene om mulige ulovligheter er mangelfull og ikke i henhold til reglene om ulovlighetsoppfølging i plan- og bygningsloven. Videre er ombudsmannen kommet til at saksbehandlingstiden har vært for lang, og at klagerne i saken ikke har fått svar på sine henvendelser i tråd med forvaltningsloven.  
-   
- Ombudsmannen forutsetter at kommunen nå følger opp de ulike varslene. Dersom det er begått ulovligheter, må disse følges opp i henhold til plan- og bygningsloven.
+Ombudsmannen er kommet til at kommunens oppfølging av varslene om mulige ulovligheter er mangelfull og ikke i henhold til reglene om ulovlighetsoppfølging i plan- og bygningsloven. Videre er ombudsmannen kommet til at saksbehandlingstiden har vært for lang, og at klagerne i saken ikke har fått svar på sine henvendelser i tråd med forvaltningsloven.  
+Ombudsmannen forutsetter at kommunen nå følger opp de ulike varslene. Dersom det er begått ulovligheter, må disse følges opp i henhold til plan- og bygningsloven.
 
 Se oppdatering fra forvaltningen
 

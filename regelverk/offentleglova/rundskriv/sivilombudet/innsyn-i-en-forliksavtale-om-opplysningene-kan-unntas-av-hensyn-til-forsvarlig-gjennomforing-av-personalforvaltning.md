@@ -15,13 +15,10 @@ Sivilombudets uttalelse 14.2.2025 (sak 2024/6205 og 2024/4326).
 
 ## Oppsummering
 
-Saken gjelder innsyn i en forliksavtale inngått mellom Helse Bergen og en arbeidstaker i 2017. Helse- og omsorgsdepartementet opprettholdt Helse Bergens avslag på innsyn i avtalen i sin helhet, jf. offentleglova § 23 første ledd og § 12 bokstav c. Det ble ikke utvist merinnsyn.   
-   
- Etter at Sivilombudet undersøkte saken, fant departementet etter en fornyet vurdering å utvise merinnsyn i enkelte opplysninger i avtalen. Journalisten klaget saken inn for ombudet på nytt.   
-   
- Sivilombudet kom til at departementet ikke hadde pekt på forhold som tilsier at det nå er en konkret fare for at innsyn i opplysningene vil kunne skade de interessene offentleglova § 23 skal verne og at det derfor ikke lenger er påkrevd med unntak fra offentlighet.   
-   
- Departementet ble bedt om å behandle saken på nytt.
+Saken gjelder innsyn i en forliksavtale inngått mellom Helse Bergen og en arbeidstaker i 2017. Helse- og omsorgsdepartementet opprettholdt Helse Bergens avslag på innsyn i avtalen i sin helhet, jf. offentleglova § 23 første ledd og § 12 bokstav c. Det ble ikke utvist merinnsyn.  
+Etter at Sivilombudet undersøkte saken, fant departementet etter en fornyet vurdering å utvise merinnsyn i enkelte opplysninger i avtalen. Journalisten klaget saken inn for ombudet på nytt.  
+Sivilombudet kom til at departementet ikke hadde pekt på forhold som tilsier at det nå er en konkret fare for at innsyn i opplysningene vil kunne skade de interessene offentleglova § 23 skal verne og at det derfor ikke lenger er påkrevd med unntak fra offentlighet.  
+Departementet ble bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

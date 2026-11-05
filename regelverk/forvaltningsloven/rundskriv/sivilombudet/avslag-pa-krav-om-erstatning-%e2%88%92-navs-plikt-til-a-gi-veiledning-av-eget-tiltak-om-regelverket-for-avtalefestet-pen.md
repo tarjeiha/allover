@@ -16,10 +16,8 @@ Sivilombudets uttalelse 30.4.2021 (sak 2020/3241).
 ## Oppsummering
 
 Saken gjelder Nav Klageinstans Sørs avslag på et krav om erstatning. Klager mente Nav hadde opptrådt uaktsomt ved ikke å gi veiledning om at han ville miste retten til avtalefestet pensjon (AFP) i privat sektor dersom han mottok uførepensjon etter fylte 62 år. Ombudsmannen har undersøkt rekkevidden av Navs plikt til å gi veiledning om regelen i AFP-tilskottsloven § 8 ved behandlingen av klagers uføresøknad.  
-   
- Sivilombudsmannen mener overgangen til en ny AFP-ordning i privat sektor i 2010 medførte at Nav hadde en noe skjerpet veiledningsplikt om innholdet i AFP-tilskottsloven § 8 i den perioden nytt regelverk ble iverksatt. Klagers alder da han fikk innvilget gradert uførepensjon og hans vedvarende tilknytning til arbeidslivet, kunne tilsi at han hadde et aktuelt behov for veiledning om nevnte bestemmelse. Flere av momentene taler for at Nav av eget tiltak skulle gjort klageren oppmerksom på at han måtte si fra seg uføreytelsen innen han fylte 62 år, for ikke å miste retten til AFP i privat sektor. Det knytter seg derfor begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd, til om Navs veiledning overfor klager har vært tilstrekkelig.  
-   
- Ombudsmannen ber Nav om å vurdere erstatningskravet på nytt, i lys av ombudsmannens påpekninger.
+Sivilombudsmannen mener overgangen til en ny AFP-ordning i privat sektor i 2010 medførte at Nav hadde en noe skjerpet veiledningsplikt om innholdet i AFP-tilskottsloven § 8 i den perioden nytt regelverk ble iverksatt. Klagers alder da han fikk innvilget gradert uførepensjon og hans vedvarende tilknytning til arbeidslivet, kunne tilsi at han hadde et aktuelt behov for veiledning om nevnte bestemmelse. Flere av momentene taler for at Nav av eget tiltak skulle gjort klageren oppmerksom på at han måtte si fra seg uføreytelsen innen han fylte 62 år, for ikke å miste retten til AFP i privat sektor. Det knytter seg derfor begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd, til om Navs veiledning overfor klager har vært tilstrekkelig.  
+Ombudsmannen ber Nav om å vurdere erstatningskravet på nytt, i lys av ombudsmannens påpekninger.
 
 Se oppdatering fra forvaltningen
 

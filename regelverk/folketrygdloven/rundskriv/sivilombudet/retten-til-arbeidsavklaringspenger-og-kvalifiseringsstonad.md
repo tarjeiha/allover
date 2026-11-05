@@ -15,13 +15,10 @@ Sivilombudets uttalelse 21.6.2023 (sak 2023/890).
 
 ## Oppsummering
 
-Saken gjelder etterbetaling av arbeidsavklaringspenger. Klager søkte om ytelsen i 2010, men søknaden ble av ukjente årsaker ikke behandlet før i 2018. Da arbeidsavklaringspengene ble innvilget, viste det seg at klager i den aktuelle perioden hadde mottatt kvalifiseringsstønad etter sosialtjenesteloven.   
-   
- Nav og Trygderetten mente at retten til arbeidsavklaringspenger bortfalt i de periodene klager hadde mottatt kvalifiseringsstønad, jf. dagjeldende folketrygdlov § 11-25 (i dag § 11-29). Bestemmelsen fastslår at retten til arbeidsavklaringspenger faller bort i den utstrekning ytelsen kommer inn under ansvarsområdet i annen lovgivning. Hensynet bak regelen er at folketrygden ikke skal dekke utgifter som andre instanser har hovedansvaret for å dekke.   
-   
- Ombudet kom til at dagjeldende folketrygdlov § 11-25 ikke ga grunnlag for bortfall av arbeidsavklaringspenger i klagers tilfelle. For personer som oppfyller vilkårene for arbeidsavklaringspenger, vil denne ytelsen være den primære ytelsen. Ytelser etter sosialtjenesteloven er subsidiære i forhold til ytelser etter folketrygdloven. Det kunne derfor ikke legges til grunn at sosialtjenesteloven hadde hovedansvaret for å dekke klagers inntektstap i en situasjon hvor han oppfylte vilkårene for arbeidsavklaringspenger. Ombudet ba om at saken ble vurdert på nytt.   
-   
- Det er ikke gitt refusjonsregler i sosialtjenesteloven for kommunens utlegg til kvalifiseringsstønad ved etterbetaling av AAP. Sosialtjenesteloven ga derfor ikke rettslig grunnlag for å kreve refusjon i den etterbetalte ytelsen. Ombudet mente det burde utredes om det skulle gis slik refusjonsrett. Ombudet ba om å bli orientert om utfallet av utredningen.
+Saken gjelder etterbetaling av arbeidsavklaringspenger. Klager søkte om ytelsen i 2010, men søknaden ble av ukjente årsaker ikke behandlet før i 2018. Da arbeidsavklaringspengene ble innvilget, viste det seg at klager i den aktuelle perioden hadde mottatt kvalifiseringsstønad etter sosialtjenesteloven.  
+Nav og Trygderetten mente at retten til arbeidsavklaringspenger bortfalt i de periodene klager hadde mottatt kvalifiseringsstønad, jf. dagjeldende folketrygdlov § 11-25 (i dag § 11-29). Bestemmelsen fastslår at retten til arbeidsavklaringspenger faller bort i den utstrekning ytelsen kommer inn under ansvarsområdet i annen lovgivning. Hensynet bak regelen er at folketrygden ikke skal dekke utgifter som andre instanser har hovedansvaret for å dekke.  
+Ombudet kom til at dagjeldende folketrygdlov § 11-25 ikke ga grunnlag for bortfall av arbeidsavklaringspenger i klagers tilfelle. For personer som oppfyller vilkårene for arbeidsavklaringspenger, vil denne ytelsen være den primære ytelsen. Ytelser etter sosialtjenesteloven er subsidiære i forhold til ytelser etter folketrygdloven. Det kunne derfor ikke legges til grunn at sosialtjenesteloven hadde hovedansvaret for å dekke klagers inntektstap i en situasjon hvor han oppfylte vilkårene for arbeidsavklaringspenger. Ombudet ba om at saken ble vurdert på nytt.  
+Det er ikke gitt refusjonsregler i sosialtjenesteloven for kommunens utlegg til kvalifiseringsstønad ved etterbetaling av AAP. Sosialtjenesteloven ga derfor ikke rettslig grunnlag for å kreve refusjon i den etterbetalte ytelsen. Ombudet mente det burde utredes om det skulle gis slik refusjonsrett. Ombudet ba om å bli orientert om utfallet av utredningen.
 
 ## Sakens bakgrunn
 

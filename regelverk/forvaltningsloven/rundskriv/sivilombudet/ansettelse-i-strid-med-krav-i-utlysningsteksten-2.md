@@ -16,13 +16,12 @@ Sivilombudets uttalelse 28.6.2019 (sak 2019/885 2019/883).
 ## Oppsummering
 
 Saken gjelder ansettelse av rådgiver innen IKT-utvikling ved Rådmannens fagstab i X kommune. Etter at det ble klart at kommunen hadde ansatt en søker som ikke oppfylte kravene i stillingsutlysningen, valgte to søkere å klage til ombudsmannen.  
-   
- Ombudsmannen mener kommunen har handlet i strid med kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte kravene i utlysningsteksten. Dersom kommunen ønsket å stille andre kvalifikasjonskrav til stillingen, burde denne vært lyst ut på nytt. Kommunen har erkjent at søknadsprosessen ikke var i tråd med alminnelig god forvaltningsskikk.
+Ombudsmannen mener kommunen har handlet i strid med kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte kravene i utlysningsteksten. Dersom kommunen ønsket å stille andre kvalifikasjonskrav til stillingen, burde denne vært lyst ut på nytt. Kommunen har erkjent at søknadsprosessen ikke var i tråd med alminnelig god forvaltningsskikk.
 
 ## Sakens bakgrunn
 
 X kommune lyste ut en stilling som rådgiver innen strategisk  
- IKT-utvikling ved Rådmannens fagstab med søknadsfrist høsten 2018. I utlysningsteksten ble det blant annet søkt etter en person med «variert erfaring fra utdanningssektoren», «erfaring fra administrasjon og ledelse» og «høyere utdanning innen IKT samt samfunns- og utdanningsrelevante fag på masternivå».
+IKT-utvikling ved Rådmannens fagstab med søknadsfrist høsten 2018. I utlysningsteksten ble det blant annet søkt etter en person med «variert erfaring fra utdanningssektoren», «erfaring fra administrasjon og ledelse» og «høyere utdanning innen IKT samt samfunns- og utdanningsrelevante fag på masternivå».
 
 Etter at ansettelsen var gjennomført, henvendte to av søkerne seg til ombudsmannen med klage over forbigåelse. I klagene ble det vist til at den som ble ansatt, ikke oppfylte kravene i utlysningsteksten. Den ansatte hadde ikke utdannelse på masternivå og syntes å mangle erfaring med administrasjon og ledelse. Klagerne mente at de selv oppfylte samtlige av de angitte kvalifikasjonskravene. Dette hadde også blitt påpekt av Utdanningsforbundet i en dissensmerknad til innstillingsvedtaket.
 

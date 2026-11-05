@@ -15,12 +15,9 @@ Sivilombudets uttalelse 18.12.2018 (sak 2017/4198).
 ## Oppsummering
 
 Saken gjelder klagebehandling av et særskilt løyve til å fravike byggegrense mot kommunal vei.  
-   
- Granvin kommune ga byggetillatelse til oppføring av to landbruksbygg. Som del av tillatelsen fikk tiltakshaver særskilt løyve til å fravike byggegrense mot kommunal vei, jf. veglova § 29 og § 30. Eieren av en naboeiendom påklaget tillatelsen. Kommunen ved formannskapet vurderte saken på nytt. Formannskapet fant ikke grunn til å endre vedtaket og oversendte saken til Fylkesmannen for endelig avgjørelse. Fylkesmannen stadfestet kommunens vedtak. Fylkesmannen behandlet imidlertid ikke det særskilte løyvet, men skrev i vedtaket at Fylkesmannen ikke er klageinstans for kommunens avgjørelser etter veglova.  
-   
- Ombudsmannen er kommet til at formannskapets behandling av klagen i helhet må forstås som en forberedende behandling i medhold av forvaltningsloven § 33 av kommunens vedtak etter plan- og bygningsloven og ikke som et endelig klagevedtak etter veglova. Det særskilte løyvet etter veglova til å fravike byggegrensen mot kommunal vei, har følgelig ikke vært behandlet i to instanser. Ombudsmannen ber kommunens klageinstans om å fatte endelig klagevedtak om det særskilte løyvet.  
-   
- Ombudsmannen er også kommet til at Fylkesmannen burde ha orientert tiltakshaver om muligheten for at det særskilte løyvet ikke var klagebehandlet. Videre burde Fylkesmannen ha opplyst tiltakshaver om at en eventuell klagebehandling kunne medføre at det særskilte løyvet til å fravike byggegrense mot vei ble omgjort, og at tiltaket i så fall ikke kunne iverksettes.
+Granvin kommune ga byggetillatelse til oppføring av to landbruksbygg. Som del av tillatelsen fikk tiltakshaver særskilt løyve til å fravike byggegrense mot kommunal vei, jf. veglova § 29 og § 30. Eieren av en naboeiendom påklaget tillatelsen. Kommunen ved formannskapet vurderte saken på nytt. Formannskapet fant ikke grunn til å endre vedtaket og oversendte saken til Fylkesmannen for endelig avgjørelse. Fylkesmannen stadfestet kommunens vedtak. Fylkesmannen behandlet imidlertid ikke det særskilte løyvet, men skrev i vedtaket at Fylkesmannen ikke er klageinstans for kommunens avgjørelser etter veglova.  
+Ombudsmannen er kommet til at formannskapets behandling av klagen i helhet må forstås som en forberedende behandling i medhold av forvaltningsloven § 33 av kommunens vedtak etter plan- og bygningsloven og ikke som et endelig klagevedtak etter veglova. Det særskilte løyvet etter veglova til å fravike byggegrensen mot kommunal vei, har følgelig ikke vært behandlet i to instanser. Ombudsmannen ber kommunens klageinstans om å fatte endelig klagevedtak om det særskilte løyvet.  
+Ombudsmannen er også kommet til at Fylkesmannen burde ha orientert tiltakshaver om muligheten for at det særskilte løyvet ikke var klagebehandlet. Videre burde Fylkesmannen ha opplyst tiltakshaver om at en eventuell klagebehandling kunne medføre at det særskilte løyvet til å fravike byggegrense mot vei ble omgjort, og at tiltaket i så fall ikke kunne iverksettes.
 
 Se oppdatering fra forvaltningen
 

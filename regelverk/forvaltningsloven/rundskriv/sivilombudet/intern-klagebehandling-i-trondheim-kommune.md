@@ -15,11 +15,9 @@ Sivilombudets uttalelse 26.3.2026 (sak 2026/347).
 ## Oppsummering
 
 Sivilombudet mottok i 2025 flere klager over avslag på søknader om parkeringstillatelse for forflytningshemmede fra klageutvalget i Trondheim kommune. Sivilombudet har derfor av eget tiltak undersøkt Trondheim kommunes praksis for intern klagebehandling etter forvaltningsloven § 28 andre ledd.  
-   
- Ifølge saksdokumentene i flere saker som ble klaget inn til ombudet, ble klagesakene forberedt av de samme saksbehandlerne som hadde fattet vedtaket i underinstansen. Denne saksforberedelsen fremstod som den eneste for klageinstansen. Kommunen opplyste imidlertid i brev hit at sakene forberedes av andre enn dem som fattet førsteinstansvedtaket. Ombudet hadde derfor ikke grunnlag for å konstatere rutinemessige brudd på habilitetsreglene i kommuneloven § 13-3, men minnet likevel om viktigheten av at dokumentene inneholder riktig informasjon, og at habilitetsreglene overholdes i alle saker.  
- Siden kommunen ikke oversender til klageren den uttalelsen underinstansen gir til klageinstansen, fant ombudet grunn til å konstatere rutinemessig brudd på denne plikten etter forvaltningsloven § 33 fjerde ledd andre punktum.  
-   
- Ombudet fant også grunn til å konstatere rutinemessig brudd på begrunnelsesplikten i forvaltningsloven § 25, jf. § 33 første ledd. Klageren blir ikke gitt annen begrunnelse enn at det ikke «fremkommer opplysninger i klagen som tilfører saken nye momenter som gir grunnlag for å endre vedtaket».
+Ifølge saksdokumentene i flere saker som ble klaget inn til ombudet, ble klagesakene forberedt av de samme saksbehandlerne som hadde fattet vedtaket i underinstansen. Denne saksforberedelsen fremstod som den eneste for klageinstansen. Kommunen opplyste imidlertid i brev hit at sakene forberedes av andre enn dem som fattet førsteinstansvedtaket. Ombudet hadde derfor ikke grunnlag for å konstatere rutinemessige brudd på habilitetsreglene i kommuneloven § 13-3, men minnet likevel om viktigheten av at dokumentene inneholder riktig informasjon, og at habilitetsreglene overholdes i alle saker.  
+Siden kommunen ikke oversender til klageren den uttalelsen underinstansen gir til klageinstansen, fant ombudet grunn til å konstatere rutinemessig brudd på denne plikten etter forvaltningsloven § 33 fjerde ledd andre punktum.  
+Ombudet fant også grunn til å konstatere rutinemessig brudd på begrunnelsesplikten i forvaltningsloven § 25, jf. § 33 første ledd. Klageren blir ikke gitt annen begrunnelse enn at det ikke «fremkommer opplysninger i klagen som tilfører saken nye momenter som gir grunnlag for å endre vedtaket».
 
 Se oppdatering fra forvaltningen
 

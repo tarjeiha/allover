@@ -15,18 +15,12 @@ Sivilombudets uttalelse 22.10.2019 (sak 2018/2278).
 ## Oppsummering
 
 Saken gjelder Fylkesmannen i Trøndelags vedtak om tvangsmedisinering. Det sentrale i saken er Fylkesmannens forståelse av beviskravet for manglende samtykkekompetanse, og Fylkesmannens begrunnelse for å anse beviskravet oppfylt.  
-   
- Etter pasient- og brukerrettighetsloven § 4-3 andre ledd er det et vilkår for manglende samtykkekompetanse at en person «åpenbart» mangler evne til å forstå hva samtykket innebærer. Lovens krav om at dette må være åpenbart, innebærer at det ikke er tilstrekkelig med overveiende eller klar sannsynlighetsovervekt. Dersom det er tvil om personen mangler den nødvendige evnen til å forstå hva behandlingsavgjørelsen gjelder, er beviskravet ikke oppfylt, og vedkommende skal regnes for å være samtykkekompetent.  
-   
- I Fylkesmannens vedtak er manglende samtykkekompetanse begrunnet med at personen «ikke virker å forstå, anerkjenne, resonnere eller kan ta et veloverveid valg for den aktuelle helsehjelpen». At Fylkesmannen i ettertid opplyser at de legger til grunn et beviskrav i tråd med lovens ordlyd, kan ikke uten videre legges til grunn når vedtaket tyder på noe annet. Det er derfor uklart om Fylkesmannen anvendte riktig beviskrav i saken. Det skjerpede beviskravet burde ha fremgått klart av vedtakets begrunnelse.  
-   
- Avgjørelser om tvangsmedisinering er særlig inngripende. For slike vedtak gjelder en skjerpet begrunnelsesplikt. Begrunnelseskravet i psykisk helsevernloven § 4-4 a andre ledd nr. 1 innebærer at det for hvert vilkår for tvangsmedisinering må redegjøres for de sentrale momentene i vurderingen. De hovedhensyn som har vært avgjørende for vurderingen av personens samtykkekompetanse, må gjengis – og det må fremgå at alle momenter av betydning har vært avveid.  
-   
- Kravene til begrunnelse for vurderingen av samtykkekompetanse må ses i sammenheng med det strenge beviskravet for manglende forståelsesevne. Etter ombudsmannens syn må vedtaket omtale alle momenter som med rimelighet kan reise tvil om forståelsesevnen er bortfalt. At dette ikke ble gjort i Fylkesmannens vedtak, er i strid med begrunnelsesplikten.  
-   
- Fylkesmannen burde videre ha påpekt at helseforetakets vedtaksskjema ikke var oppdatert etter endringene i psykisk helsevernloven og psykisk helsevernforskriften som trådte i kraft høsten 2017.  
-   
- Fylkesmannen bes rette seg etter ombudsmannens merknader i denne saken og legge disse til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
+Etter pasient- og brukerrettighetsloven § 4-3 andre ledd er det et vilkår for manglende samtykkekompetanse at en person «åpenbart» mangler evne til å forstå hva samtykket innebærer. Lovens krav om at dette må være åpenbart, innebærer at det ikke er tilstrekkelig med overveiende eller klar sannsynlighetsovervekt. Dersom det er tvil om personen mangler den nødvendige evnen til å forstå hva behandlingsavgjørelsen gjelder, er beviskravet ikke oppfylt, og vedkommende skal regnes for å være samtykkekompetent.  
+I Fylkesmannens vedtak er manglende samtykkekompetanse begrunnet med at personen «ikke virker å forstå, anerkjenne, resonnere eller kan ta et veloverveid valg for den aktuelle helsehjelpen». At Fylkesmannen i ettertid opplyser at de legger til grunn et beviskrav i tråd med lovens ordlyd, kan ikke uten videre legges til grunn når vedtaket tyder på noe annet. Det er derfor uklart om Fylkesmannen anvendte riktig beviskrav i saken. Det skjerpede beviskravet burde ha fremgått klart av vedtakets begrunnelse.  
+Avgjørelser om tvangsmedisinering er særlig inngripende. For slike vedtak gjelder en skjerpet begrunnelsesplikt. Begrunnelseskravet i psykisk helsevernloven § 4-4 a andre ledd nr. 1 innebærer at det for hvert vilkår for tvangsmedisinering må redegjøres for de sentrale momentene i vurderingen. De hovedhensyn som har vært avgjørende for vurderingen av personens samtykkekompetanse, må gjengis – og det må fremgå at alle momenter av betydning har vært avveid.  
+Kravene til begrunnelse for vurderingen av samtykkekompetanse må ses i sammenheng med det strenge beviskravet for manglende forståelsesevne. Etter ombudsmannens syn må vedtaket omtale alle momenter som med rimelighet kan reise tvil om forståelsesevnen er bortfalt. At dette ikke ble gjort i Fylkesmannens vedtak, er i strid med begrunnelsesplikten.  
+Fylkesmannen burde videre ha påpekt at helseforetakets vedtaksskjema ikke var oppdatert etter endringene i psykisk helsevernloven og psykisk helsevernforskriften som trådte i kraft høsten 2017.  
+Fylkesmannen bes rette seg etter ombudsmannens merknader i denne saken og legge disse til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
 
 ## Sakens bakgrunn
 

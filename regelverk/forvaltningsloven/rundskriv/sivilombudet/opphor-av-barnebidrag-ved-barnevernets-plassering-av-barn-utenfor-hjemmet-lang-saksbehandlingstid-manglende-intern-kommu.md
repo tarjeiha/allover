@@ -14,26 +14,17 @@ Sivilombudets uttalelse 3.9.2025 (sak 2025/1874).
 
 ## Oppsummering
 
-Saken gjelder opphør av retten til barnebidrag når barnevernet har plassert et barn utenfor hjemmet. Klagers datter ble plassert i beredskapshjem i november 2022. Klager ga Nav beskjed om plasseringen. Bidragsavdelingen i Nav ble ikke orientert om meldingen fra klager. De varslet derfor ikke klager om opphør av barnebidrag før i februar 2023. Vedtaket om opphør ble ikke fattet før i august 2023. Det var da gått ni måneder siden retten til barnebidrag falt bort. Nav krevet tilbakebetalt kr. 65 500.   
-   
- Barnevernet orienterte ikke Nav om plasseringen før i februar 2023. Heller ikke denne meldingen nådde frem til bidragsavdelingen.   
-   
- Sivilombudet mente at det var kritikkverdig at den interne kommunikasjonen i Nav sviktet slik at bidragsavdelingen ikke ble orientert da Nav mottok informasjon fra klager om at barnet var plassert utenfor hjemmet av barnevernet.   
- Det var også kritikkverdig at meldingen om plasseringen, som senere kom fra barnevernet, ikke ble journalført på bidragsmottakeren.  
-   
- Sivilombudet ba Nav sørge for tiltak overfor BufDir for å bedre kunnskapen i barnevernet om viktigheten av informasjonsutveksling mellom de to etatene.   
-   
- Sivilombudet påpekte at lovteksten i barnelova av 1981 § 69 og den nye barnelova av 2025 § 9-4 ikke ga tydelig uttrykk for at plassering av et barn utenfor hjemmet i seg selv er tilstrekkelig for opphør av retten til barnebidrag. Ombudet ville orientere Barne- og familiedepartementet om behovet for en endring av ordlyden i barnelova av 2025 § 9-4.   
-   
- Sivilombudet mente også at behandlingstiden i klagers sak var klart i strid med forvaltningsloven § 11 a første ledd. For å unngå høye tilbakebetalingskrav, ble Arbeids- og velferdsdirektoratet bedt om å iverksette konkrete tiltak for å sørge for at tidsbruken i saker om opphør av barnebidrag ble vesentlig redusert.  
-   
- Sivilombudet slo fast at Nav Kontaktsenter hadde gitt klager feil veiledning om forståelsen av barnelova § 69 om opphør av barnebidrag.   
-   
- Nav Kontaktsenters rutiner burde endres for å tydeliggjøre at barnevernets plassering av et barn utenfor hjemmet i seg selv er tilstrekkelig for opphør av bidrag.   
-   
- Sivilombudet mente videre at vilkårene for tilbakebetaling ikke var oppfylt for perioden fra plasseringen av barnet i beredskapshjem i november 2022 og frem til klager mottok varselet om opphør av barnebidrag 27. februar 2023. Nav ble bedt om å behandle saken på nytt i lys av ombudets konklusjon.   
-   
- Sivilombudet ba om å bli holdt orientert om utfallet av saken om tilbakebetaling og oppfølgingen av uttalelsen.
+Saken gjelder opphør av retten til barnebidrag når barnevernet har plassert et barn utenfor hjemmet. Klagers datter ble plassert i beredskapshjem i november 2022. Klager ga Nav beskjed om plasseringen. Bidragsavdelingen i Nav ble ikke orientert om meldingen fra klager. De varslet derfor ikke klager om opphør av barnebidrag før i februar 2023. Vedtaket om opphør ble ikke fattet før i august 2023. Det var da gått ni måneder siden retten til barnebidrag falt bort. Nav krevet tilbakebetalt kr. 65 500.  
+Barnevernet orienterte ikke Nav om plasseringen før i februar 2023. Heller ikke denne meldingen nådde frem til bidragsavdelingen.  
+Sivilombudet mente at det var kritikkverdig at den interne kommunikasjonen i Nav sviktet slik at bidragsavdelingen ikke ble orientert da Nav mottok informasjon fra klager om at barnet var plassert utenfor hjemmet av barnevernet.  
+Det var også kritikkverdig at meldingen om plasseringen, som senere kom fra barnevernet, ikke ble journalført på bidragsmottakeren.  
+Sivilombudet ba Nav sørge for tiltak overfor BufDir for å bedre kunnskapen i barnevernet om viktigheten av informasjonsutveksling mellom de to etatene.  
+Sivilombudet påpekte at lovteksten i barnelova av 1981 § 69 og den nye barnelova av 2025 § 9-4 ikke ga tydelig uttrykk for at plassering av et barn utenfor hjemmet i seg selv er tilstrekkelig for opphør av retten til barnebidrag. Ombudet ville orientere Barne- og familiedepartementet om behovet for en endring av ordlyden i barnelova av 2025 § 9-4.  
+Sivilombudet mente også at behandlingstiden i klagers sak var klart i strid med forvaltningsloven § 11 a første ledd. For å unngå høye tilbakebetalingskrav, ble Arbeids- og velferdsdirektoratet bedt om å iverksette konkrete tiltak for å sørge for at tidsbruken i saker om opphør av barnebidrag ble vesentlig redusert.  
+Sivilombudet slo fast at Nav Kontaktsenter hadde gitt klager feil veiledning om forståelsen av barnelova § 69 om opphør av barnebidrag.  
+Nav Kontaktsenters rutiner burde endres for å tydeliggjøre at barnevernets plassering av et barn utenfor hjemmet i seg selv er tilstrekkelig for opphør av bidrag.  
+Sivilombudet mente videre at vilkårene for tilbakebetaling ikke var oppfylt for perioden fra plasseringen av barnet i beredskapshjem i november 2022 og frem til klager mottok varselet om opphør av barnebidrag 27. februar 2023. Nav ble bedt om å behandle saken på nytt i lys av ombudets konklusjon.  
+Sivilombudet ba om å bli holdt orientert om utfallet av saken om tilbakebetaling og oppfølgingen av uttalelsen.
 
 Se oppdatering fra forvaltningen
 

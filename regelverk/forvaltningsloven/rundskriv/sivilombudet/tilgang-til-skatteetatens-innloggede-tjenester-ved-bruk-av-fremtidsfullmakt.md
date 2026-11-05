@@ -15,9 +15,8 @@ Sivilombudets uttalelse 24.11.2025 (sak 2025/4429).
 ## Oppsummering
 
 Saken gjelder tilgangen til Skatteetatens innloggede tjenester ved bruk av fremtidsfullmakt. Klageren i saken ble nektet tilgang til farens personlige side på skatteetaten.no, til tross for at klageren la frem en fremtidsfullmakt. Skatteetaten opplyste at de ikke kunne gi elektronisk tilgang, og at dette forutsatte at vedkommende var oppnevnt som verge.  
- Statsforvalteren avslo imidlertid klagerens søknad om vergemål med den begrunnelse at fremtidsfullmakten allerede dekket behovet.  
-   
- Sivilombudet er kommet til at Skatteetaten har plikt til å gi digital tilgang til fullmektiger dersom fremtidsfullmakten må tolkes slik og er trådt i kraft. Direktoratet opplyste at slik tilgang vil gis. Det pågår nå et arbeid med å få på plass en teknisk løsning som gjør dette mulig. Ombudet ba direktoratet følge opp klagerens sak, og ba videre om å bli orientert om fremdriften med den tekniske tilretteleggingen.
+Statsforvalteren avslo imidlertid klagerens søknad om vergemål med den begrunnelse at fremtidsfullmakten allerede dekket behovet.  
+Sivilombudet er kommet til at Skatteetaten har plikt til å gi digital tilgang til fullmektiger dersom fremtidsfullmakten må tolkes slik og er trådt i kraft. Direktoratet opplyste at slik tilgang vil gis. Det pågår nå et arbeid med å få på plass en teknisk løsning som gjør dette mulig. Ombudet ba direktoratet følge opp klagerens sak, og ba videre om å bli orientert om fremdriften med den tekniske tilretteleggingen.
 
 Se oppdatering fra forvaltningen
 

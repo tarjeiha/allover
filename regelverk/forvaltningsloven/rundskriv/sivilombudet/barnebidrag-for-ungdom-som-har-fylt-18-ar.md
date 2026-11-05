@@ -15,13 +15,10 @@ Sivilombudets uttalelse 4.7.2024 (sak 2023/5537).
 
 ## Oppsummering
 
-Saken gjelder barnebidrag for en ungdom som hadde fylt 18 år og tok videregående skole på deltid med to fag i uken. Dette som såkalt voksenopplæring med ungdomsrett. Samtidig som ungdommen mottok barnebidrag mottok hun også arbeidsavklaringspenger.   
-   
- Etter barnelova § 68 andre ledd er det et vilkår at skolegangen anses som vanlig for at ungdommen har krav på barnebidrag etter fylte 18 år. Nav mente at det ikke hadde betydning for vurderingen om skolegangen ble tatt på deltid og at ungdommen mottok arbeidsavklaringspenger.   
-   
- Sivilombudet mener at ungdommen har krav på barnebidrag og at skolegangen hennes måtte anses som vanlig. Lovbestemmelsen gir et stor rom for variasjon i hvordan skolegangen gjennomføres og antall år som brukes. Formålet bak lovbestemmelsen er i stor grad overlappende med formålet bak reglene om videregående opplæring, slik at ungdom som går på videregående skole i de fleste tilfeller vil ha krav på barnebidrag. Kun unntaksvis vil redusert skolegang ikke gi rett til barnebidrag. Det vil da være av vesentlig betydning om ungdommen har tid og mulighet til arbeid, og på den måten kan forsørge seg selv. Selv om ungdommen tok videregående på deltid, hadde hun ikke mulighet til annet arbeid på grunn av helsemessige årsaker. Sivilombudet mener derfor at hun hadde et tilstrekkelig behov for barnebidrag.   
-   
- Sivilombudet mener samtidig at reglene om utmåling av barnebidrag ikke tar hensyn til en redusert studiebelastning og i liten grad mottak av arbeidsavklaringspenger. Det vil kunne gi utfall som oppleves som urimelig for den som plikter å gi bidrag. Sivilombudet gjorde Barne- og familiedepartementet kjent med dette.
+Saken gjelder barnebidrag for en ungdom som hadde fylt 18 år og tok videregående skole på deltid med to fag i uken. Dette som såkalt voksenopplæring med ungdomsrett. Samtidig som ungdommen mottok barnebidrag mottok hun også arbeidsavklaringspenger.  
+Etter barnelova § 68 andre ledd er det et vilkår at skolegangen anses som vanlig for at ungdommen har krav på barnebidrag etter fylte 18 år. Nav mente at det ikke hadde betydning for vurderingen om skolegangen ble tatt på deltid og at ungdommen mottok arbeidsavklaringspenger.  
+Sivilombudet mener at ungdommen har krav på barnebidrag og at skolegangen hennes måtte anses som vanlig. Lovbestemmelsen gir et stor rom for variasjon i hvordan skolegangen gjennomføres og antall år som brukes. Formålet bak lovbestemmelsen er i stor grad overlappende med formålet bak reglene om videregående opplæring, slik at ungdom som går på videregående skole i de fleste tilfeller vil ha krav på barnebidrag. Kun unntaksvis vil redusert skolegang ikke gi rett til barnebidrag. Det vil da være av vesentlig betydning om ungdommen har tid og mulighet til arbeid, og på den måten kan forsørge seg selv. Selv om ungdommen tok videregående på deltid, hadde hun ikke mulighet til annet arbeid på grunn av helsemessige årsaker. Sivilombudet mener derfor at hun hadde et tilstrekkelig behov for barnebidrag.  
+Sivilombudet mener samtidig at reglene om utmåling av barnebidrag ikke tar hensyn til en redusert studiebelastning og i liten grad mottak av arbeidsavklaringspenger. Det vil kunne gi utfall som oppleves som urimelig for den som plikter å gi bidrag. Sivilombudet gjorde Barne- og familiedepartementet kjent med dette.
 
 ## Sakens bakgrunn
 

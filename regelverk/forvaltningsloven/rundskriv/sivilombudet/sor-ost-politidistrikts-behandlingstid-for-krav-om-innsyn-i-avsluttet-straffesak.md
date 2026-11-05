@@ -14,13 +14,10 @@ Sivilombudets uttalelse 7.8.2024 (sak 2024/1255).
 
 ## Oppsummering
 
-Saken gjelder Sør-Øst politidistrikts behandlingstid for et krav om innsyn i tre avsluttede straffesaker. Politidistriktet ferdigbehandlet innsynskravet over to og en halv måned etter at klageren sendte det inn.   
-   
- Sivilombudet kom til at Sør-Øst politidistrikts behandlingstid i denne saket utgjorde et brudd på god påtaleskikk. Ut fra opplysninger mottatt fra Sør-Øst politidistrikt, var det grunn til å tro at behandlingstiden i flere andre saker også er i strid med god påtaleskikk.   
-   
- Sivilombudet mente videre at svaret Sør-Øst politidistrikt ga klageren da han purret på svar, ikke tilfredsstilte de innholdsmessige kravene til foreløpig svar, jf. krav til god påtaleskikk.   
-   
- Ombudet ba politidistriktet om å oppdatere rutinebeskrivelsene sine slik at de bedre legger til rette for behandling av innsynskrav i tråd med god påtaleskikk, ombudets uttalelser og øvrig regelverk.
+Saken gjelder Sør-Øst politidistrikts behandlingstid for et krav om innsyn i tre avsluttede straffesaker. Politidistriktet ferdigbehandlet innsynskravet over to og en halv måned etter at klageren sendte det inn.  
+Sivilombudet kom til at Sør-Øst politidistrikts behandlingstid i denne saket utgjorde et brudd på god påtaleskikk. Ut fra opplysninger mottatt fra Sør-Øst politidistrikt, var det grunn til å tro at behandlingstiden i flere andre saker også er i strid med god påtaleskikk.  
+Sivilombudet mente videre at svaret Sør-Øst politidistrikt ga klageren da han purret på svar, ikke tilfredsstilte de innholdsmessige kravene til foreløpig svar, jf. krav til god påtaleskikk.  
+Ombudet ba politidistriktet om å oppdatere rutinebeskrivelsene sine slik at de bedre legger til rette for behandling av innsynskrav i tråd med god påtaleskikk, ombudets uttalelser og øvrig regelverk.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 25.6.2019 (sak 2018/3021).
 ## Oppsummering
 
 Saken gjelder pasienters rett til dekning av reiseutgifter. Ombudsmannen har tatt opp med Helse- og omsorgsdepartementet forståelsen av regelen om at pasienten ikke har rett til dekning av reiseutgifter hvis hun kan benytte rutegående transportmiddel til lokal minstetakst.  
-   
- Ombudsmannen mener Pasientreiser bare kan avslå å gi refusjon for en pasientreise med den begrunnelse at pasienten kan benytte kollektivtransport, jf. pasientreiseforskriften § 8, hvis helsetjenesten – inkludert pasientreisen – totalt sett er forsvarlig, jf. spesialisthelsetjenesteloven § 2-2. Hva som er forsvarlig, vil bero på en konkret helhetsvurdering i den enkelte sak. Informasjonen som gis på www.helsenorge.no om regelen i pasientreiseforskriften § 8, oppfyller ikke veiledningsplikten godt nok. Departementet bes om både å vurdere å presisere pasientreiseforskriften § 8 og å ta initiativ til å forbedre veiledningen på www.helsenorge.no.
+Ombudsmannen mener Pasientreiser bare kan avslå å gi refusjon for en pasientreise med den begrunnelse at pasienten kan benytte kollektivtransport, jf. pasientreiseforskriften § 8, hvis helsetjenesten – inkludert pasientreisen – totalt sett er forsvarlig, jf. spesialisthelsetjenesteloven § 2-2. Hva som er forsvarlig, vil bero på en konkret helhetsvurdering i den enkelte sak. Informasjonen som gis på www.helsenorge.no om regelen i pasientreiseforskriften § 8, oppfyller ikke veiledningsplikten godt nok. Departementet bes om både å vurdere å presisere pasientreiseforskriften § 8 og å ta initiativ til å forbedre veiledningen på www.helsenorge.no.
 
 ## Sakens bakgrunn
 

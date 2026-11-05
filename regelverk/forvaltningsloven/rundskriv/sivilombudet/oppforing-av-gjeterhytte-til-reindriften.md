@@ -15,10 +15,8 @@ Sivilombudets uttalelse 24.2.2010 (sak 2009/586).
 ## Oppsummering
 
 Landbruks- og matdepartementet omgjorde Reindriftsstyrets vedtak om godkjenning av gjeterhytte etter reindriftsloven § 21 første ledd, under henvisning til at det ikke kunne gis godkjenning for slik hytte til andre enn reinbeitedistrikter, siidaer og siidaandelsinnehavere.  
-   
- Ombudsmannen kom til at det knyttet seg begrunnet tvil til om departementet hadde adgang til å omgjøre vedtaket da det ikke ble foretatt en konkret vurdering av om gjeterhytta var «nødvendig», jf. reindriftsloven § 21 første ledd. Departementet ble bedt om å foreta en ny vurdering av saken.  
-   
- Etter den fornyede vurderingen besluttet departementet å oppheve vedtaket, slik at reindriftsstyrets vedtak om å godkjenne gjeterhytta ble stående.
+Ombudsmannen kom til at det knyttet seg begrunnet tvil til om departementet hadde adgang til å omgjøre vedtaket da det ikke ble foretatt en konkret vurdering av om gjeterhytta var «nødvendig», jf. reindriftsloven § 21 første ledd. Departementet ble bedt om å foreta en ny vurdering av saken.  
+Etter den fornyede vurderingen besluttet departementet å oppheve vedtaket, slik at reindriftsstyrets vedtak om å godkjenne gjeterhytta ble stående.
 
 Se oppdatering fra forvaltningen
 

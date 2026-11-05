@@ -15,11 +15,9 @@ Sivilombudets uttalelse 14.10.2025 (sak 2025/2104).
 
 ## Oppsummering
 
-Saken gjelder utestengelse av en beboer fra et midlertidig botilbud i Trondheim kommune. Spørsmålene for ombudet var hvilke krav som gjelder i slike saker, herunder når kommunen benytter seg av et privat botilbud for å oppfylle forpliktelsen etter sosialtjenesteloven § 27, og om kravene var oppfylt i denne saken.   
-   
- Sivilombudet kom til at Trondheim kommune ikke hadde sørget for tilstrekkelig kontradiksjon og notoritet i klagerens sak. Dette var i strid med krav til forsvarlig saksbehandling og god forvaltningsskikk.  
-   
- På uttalelsens tidspunkt var det over to år siden klageren ble utestengt fra botilbudet. Ombudet fant derfor ikke grunn til å be Trondheim kommune om å innhente uttalelser fra ham om situasjonen som medførte utestengelsen, eller på annen måte behandle saken på nytt. Ombudet ba imidlertid kommunen om å merke seg ombudets syn, og legge det til grunn i fremtidige saker.
+Saken gjelder utestengelse av en beboer fra et midlertidig botilbud i Trondheim kommune. Spørsmålene for ombudet var hvilke krav som gjelder i slike saker, herunder når kommunen benytter seg av et privat botilbud for å oppfylle forpliktelsen etter sosialtjenesteloven § 27, og om kravene var oppfylt i denne saken.  
+Sivilombudet kom til at Trondheim kommune ikke hadde sørget for tilstrekkelig kontradiksjon og notoritet i klagerens sak. Dette var i strid med krav til forsvarlig saksbehandling og god forvaltningsskikk.  
+På uttalelsens tidspunkt var det over to år siden klageren ble utestengt fra botilbudet. Ombudet fant derfor ikke grunn til å be Trondheim kommune om å innhente uttalelser fra ham om situasjonen som medførte utestengelsen, eller på annen måte behandle saken på nytt. Ombudet ba imidlertid kommunen om å merke seg ombudets syn, og legge det til grunn i fremtidige saker.
 
 ## Sakens bakgrunn
 

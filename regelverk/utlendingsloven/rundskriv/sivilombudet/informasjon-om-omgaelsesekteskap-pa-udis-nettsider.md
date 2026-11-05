@@ -16,8 +16,7 @@ Sivilombudets uttalelse 27.5.2020 (sak 2020/603).
 ## Oppsummering
 
 Sivilombudsmannen har i en sak opprettet av eget tiltak undersøkt og funnet flere feil ved den informasjonen UDI gir på sine nettsider om vilkårene for familieinnvandring til ektefelle i Norge. Feilene omfatter bruk av begrepet proformaekteskap på reelle ekteskap, informasjon om hvilke søknader som etter loven skal avslås og opplysninger om hvilke forhold som kan være straffbare.  
-   
- Ombudsmannen ber UDI om å rette opp i disse feilene så snart som mulig, og ber om tilbakemelding når dette er gjort. Dersom dette ikke har skjedd inn utløpet av juni anmodes det om en redegjørelse for hvorfor det ikke har latt seg gjøre.
+Ombudsmannen ber UDI om å rette opp i disse feilene så snart som mulig, og ber om tilbakemelding når dette er gjort. Dersom dette ikke har skjedd inn utløpet av juni anmodes det om en redegjørelse for hvorfor det ikke har latt seg gjøre.
 
 Se oppdatering fra forvaltningen
 

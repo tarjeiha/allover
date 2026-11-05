@@ -14,13 +14,10 @@ Sivilombudets uttalelse 21.8.2026 (sak 2026/2109).
 
 ## Oppsummering
 
-Saken gjaldt Statsforvalteren i Østfold, Buskerud, Oslo og Akershus’ vedtak om tvangsmedisinering, særlig om kravet til «stor sannsynlighet» for «vesentlig» bedring.   
-   
- Sivilombudet kom til at Statsforvalterens begrunnelse, som ikke i tilstrekkelig grad synliggjorde hvorfor lovens krav var oppfylt i det konkrete tilfellet, innebar at det var begrunnet tvil om vilkåret om «stor sannsynlighet» for «vesentlig» bedring var oppfylt på vedtakstidspunktet.  
-   
- Vedtakets virkningstid hadde passert på tidspunktet for uttalelsen. Det var derfor ikke grunn til å be Statsforvalteren om å behandle saken på nytt. Statsforvalteren ble bedt om å merke seg ombudets syn, slik det kommer til uttrykk i denne og tidligere uttalelser om tvangsmedisinering, og at dette legges til grunn ved behandlingen av fremtidige saker.   
-   
- Statsforvalteren hadde opplyst at de ville vurdere sine rutiner. Ombudet forutsatte at denne gjennomgangen bidrar til å sikre at fremtidige vedtak om tvangsmedisinering, og begrunnelsene for disse, oppfyller lovens vilkår.
+Saken gjaldt Statsforvalteren i Østfold, Buskerud, Oslo og Akershus’ vedtak om tvangsmedisinering, særlig om kravet til «stor sannsynlighet» for «vesentlig» bedring.  
+Sivilombudet kom til at Statsforvalterens begrunnelse, som ikke i tilstrekkelig grad synliggjorde hvorfor lovens krav var oppfylt i det konkrete tilfellet, innebar at det var begrunnet tvil om vilkåret om «stor sannsynlighet» for «vesentlig» bedring var oppfylt på vedtakstidspunktet.  
+Vedtakets virkningstid hadde passert på tidspunktet for uttalelsen. Det var derfor ikke grunn til å be Statsforvalteren om å behandle saken på nytt. Statsforvalteren ble bedt om å merke seg ombudets syn, slik det kommer til uttrykk i denne og tidligere uttalelser om tvangsmedisinering, og at dette legges til grunn ved behandlingen av fremtidige saker.  
+Statsforvalteren hadde opplyst at de ville vurdere sine rutiner. Ombudet forutsatte at denne gjennomgangen bidrar til å sikre at fremtidige vedtak om tvangsmedisinering, og begrunnelsene for disse, oppfyller lovens vilkår.
 
 ## Sakens bakgrunn
 

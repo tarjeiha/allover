@@ -65,7 +65,7 @@ Både A og kommunen har utdypet sine standpunkter i etterfølgende korrespondans
 Spørsmålet i denne saken er om fallviltmannskapet i X kommune er å anse som oppdragstakere eller som arbeidstakere.
 
 Hvem som er å anse som arbeidstaker og arbeidsgiver etter arbeidsmiljøloven, reguleres i  
- § 1-8:
+§ 1-8:
 
 «(1) Med arbeidstaker menes i denne lov enhver som utfører arbeid i annens tjeneste.
 

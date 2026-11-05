@@ -37,13 +37,13 @@ Ifølge den offentlige møteinnkallingen til Kontrollutvalgets møte 3. mai 2018
 I protokollen fra møtet heter det:
 
 «Behandling:  
- Ordfører og rådmann ga en orientering og svarte på spørsmål.  
- Møte ble lukket under deler av rådmannens orientering, jf. kommuneloven §31. nr. 3.»
+Ordfører og rådmann ga en orientering og svarte på spørsmål.  
+Møte ble lukket under deler av rådmannens orientering, jf. kommuneloven §31. nr. 3.»
 
 Hverken for møtet 23. mai 2018 eller møtet 21. juni 2018 fremgår det av møteinnkallingen hva møtet gjelder. I protokollen fra møtet 23. mai heter det følgende om sak 25/18:
 
 «Behandling:  
- Møtet ble lukket ved behandling av saken, jf. kommunelovens § 31 2. ledd og forv.l. §13.»
+Møtet ble lukket ved behandling av saken, jf. kommunelovens § 31 2. ledd og forv.l. §13.»
 
 I protokollen fra møtet 21. juni 2018 heter det om sak 28/18:
 

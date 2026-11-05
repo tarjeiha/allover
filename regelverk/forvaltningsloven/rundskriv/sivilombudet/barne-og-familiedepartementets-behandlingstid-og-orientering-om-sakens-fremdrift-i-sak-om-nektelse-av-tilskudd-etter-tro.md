@@ -14,8 +14,8 @@ Sivilombudets uttalelse 3.12.2025 (sak 2025/5940).
 
 ## Oppsummering
 
-Menigheten Samfundet hadde søkt om tilskudd etter trossamfunnsloven, og Statsforvalteren i Agder hadde fattet vedtak om å nekte dette. Menigheten klaget saken inn for Barne- og familiedepartementet, og departementet brukte i underkant av 19 måneder på å behandle klagen. Ved mottak av klagen sendte departementet et foreløpig svar der de skrev at man forventet å behandle ferdig saken i løpet av to måneder. Departementet sendte flere forsinkelsesmeldinger i saken etter dette.   
- Sivilombudet kom til at det forelå begrunnet tvil om menighetens klage ble avgjort «uten ugrunnet opphold» etter forvaltningsloven § 11 a. Sivilombudet kom også til at menigheten ikke hadde blitt holdt orientert om sakens fremdrift, slik forvaltningsloven § 11 a andre ledd og god forvaltningsskikk krever.
+Menigheten Samfundet hadde søkt om tilskudd etter trossamfunnsloven, og Statsforvalteren i Agder hadde fattet vedtak om å nekte dette. Menigheten klaget saken inn for Barne- og familiedepartementet, og departementet brukte i underkant av 19 måneder på å behandle klagen. Ved mottak av klagen sendte departementet et foreløpig svar der de skrev at man forventet å behandle ferdig saken i løpet av to måneder. Departementet sendte flere forsinkelsesmeldinger i saken etter dette.  
+Sivilombudet kom til at det forelå begrunnet tvil om menighetens klage ble avgjort «uten ugrunnet opphold» etter forvaltningsloven § 11 a. Sivilombudet kom også til at menigheten ikke hadde blitt holdt orientert om sakens fremdrift, slik forvaltningsloven § 11 a andre ledd og god forvaltningsskikk krever.
 
 ## Sakens bakgrunn
 

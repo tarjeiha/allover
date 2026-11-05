@@ -16,8 +16,7 @@ Sivilombudets uttalelse 4.3.2019 (sak 2017/4408).
 ## Oppsummering
 
 Saken gjelder Utlendingsnemndas (UNEs) avslag på en søknad fra en etiopisk jente om oppholdstillatelse i familieinnvandring med en som er oppgitt å være hennes far i Norge. Avslaget er begrunnet med at søkeren ikke hadde dokumentert eller sannsynliggjort sin identitet. Bakgrunnen var særlig en sammenligning av et bilde av søkeren og et bilde av ei jente fra en visumsøknad i 2006. UNE mente at det var samme person som nå søkte familieinnvandring som hadde søkt om visum i 2006. Siden det den gang var oppgitt et annet navn, et annet fødselsår og et annet slektskapsforhold til referansepersonen enn det som var oppgitt i familieinnvandringssøknaden, mente UNE at det var tvil om søkerens identitet.  
-   
- Ombudsmannen er kommet til at saken ikke var tilstrekkelig utredet da UNE avgjorde søknaden om familieinnvandring. UNE skulle ha foretatt flere undersøkelser, blant annet DNA-analyser, for å søke å avklare søkerens identitet. Ombudsmannen mener også at søkeren, som på vedtakstidspunktet var oppgitt å være nesten 13 år gammel, skulle ha blitt tilbudt en samtale etter bestemmelsene i utlendingsforskriften om høring av barn.
+Ombudsmannen er kommet til at saken ikke var tilstrekkelig utredet da UNE avgjorde søknaden om familieinnvandring. UNE skulle ha foretatt flere undersøkelser, blant annet DNA-analyser, for å søke å avklare søkerens identitet. Ombudsmannen mener også at søkeren, som på vedtakstidspunktet var oppgitt å være nesten 13 år gammel, skulle ha blitt tilbudt en samtale etter bestemmelsene i utlendingsforskriften om høring av barn.
 
 Se oppdatering fra forvaltningen
 

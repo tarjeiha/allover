@@ -16,12 +16,9 @@ Sivilombudets uttalelse 7.5.2019 (sak 2018/3193).
 ## Oppsummering
 
 Saken gjelder Utlendingsdirektoratets (UDIs) behandlingstid i en sak om oppholdskort som familiemedlem av en EØS-borger.  
-   
- UDI brukte nesten ett år på å behandle saken. Dette er et klart brudd på utlendingslovens og EØS-rettens behandlingsfrist på seks måneder. Søkeren ble heller ikke holdt orientert om sakens fremdrift underveis på en tilfredsstillende måte.  
-   
- Ombudsmannens undersøkelse viser at behandlingsfristen ble brutt i et høyt antall saker om oppholdskort i 2018. UDI har hittil i 2019 jobbet aktivt med å få ned restansene, og har i noen grad lykkes med dette. Dette er positivt. UDI bryter imidlertid fortsatt loven i et høyt antall saker ved å bruke mer enn seks måneder på behandlingen. Ombudsmannen vil fortsette å følge UDIs behandlingstider i disse sakene.  
-   
- UDI bes om å gi en tilbakemelding innen 15. august 2019 på hvor mange uavsluttede saker som da har vært til behandling i seks måneder eller mer, og hva som er blitt gjort for å sikre at partene blir holdt tilstrekkelig orientert under sakens gang.
+UDI brukte nesten ett år på å behandle saken. Dette er et klart brudd på utlendingslovens og EØS-rettens behandlingsfrist på seks måneder. Søkeren ble heller ikke holdt orientert om sakens fremdrift underveis på en tilfredsstillende måte.  
+Ombudsmannens undersøkelse viser at behandlingsfristen ble brutt i et høyt antall saker om oppholdskort i 2018. UDI har hittil i 2019 jobbet aktivt med å få ned restansene, og har i noen grad lykkes med dette. Dette er positivt. UDI bryter imidlertid fortsatt loven i et høyt antall saker ved å bruke mer enn seks måneder på behandlingen. Ombudsmannen vil fortsette å følge UDIs behandlingstider i disse sakene.  
+UDI bes om å gi en tilbakemelding innen 15. august 2019 på hvor mange uavsluttede saker som da har vært til behandling i seks måneder eller mer, og hva som er blitt gjort for å sikre at partene blir holdt tilstrekkelig orientert under sakens gang.
 
 ## Sakens bakgrunn
 

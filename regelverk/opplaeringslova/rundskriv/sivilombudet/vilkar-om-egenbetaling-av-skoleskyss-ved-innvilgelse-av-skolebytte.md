@@ -16,10 +16,8 @@ Sivilombudets uttalelse 4.12.2018 (sak 2017/3746).
 ## Oppsummering
 
 Saken gjelder adgangen til å stille vilkår om egenbetaling av eventuelle reisekostnader i forbindelse med innvilgelse av en søknad om skolebytte. Fylkesmannen i Telemark, Utdanningsdirektoratet og Kunnskapsdepartementet mente at vilkåret kunne stilles fordi skolebyttet ikke var begrunnet i retten til opplæring.  
-   
- Etter å ha undersøkt saken har ikke ombudsmannen innvendinger til skolemyndighetenes lovforståelse eller Fylkesmannens konklusjon i vedtaket i saken. Hvis motivet for søknaden om skolebyttet – som i denne saken – er et annet enn å sikre elevens rett til opplæring, vil skolemyndighetene kunne ha adgang til å stille som vilkår for innvilgelse av søknaden at de foresatte dekker skoleskyss selv.  
-   
- Ombudsmannen mener Fylkesmannen bør vurdere om det er behov for å innskjerpe hos Fylkesmannen i Telemark hvilke redegjørelser og henvisninger et vedtak må inneholde for å oppfylle kravene i forvaltningsloven § 34 andre ledd annet punktum og § 25.
+Etter å ha undersøkt saken har ikke ombudsmannen innvendinger til skolemyndighetenes lovforståelse eller Fylkesmannens konklusjon i vedtaket i saken. Hvis motivet for søknaden om skolebyttet – som i denne saken – er et annet enn å sikre elevens rett til opplæring, vil skolemyndighetene kunne ha adgang til å stille som vilkår for innvilgelse av søknaden at de foresatte dekker skoleskyss selv.  
+Ombudsmannen mener Fylkesmannen bør vurdere om det er behov for å innskjerpe hos Fylkesmannen i Telemark hvilke redegjørelser og henvisninger et vedtak må inneholde for å oppfylle kravene i forvaltningsloven § 34 andre ledd annet punktum og § 25.
 
 ## Sakens bakgrunn
 

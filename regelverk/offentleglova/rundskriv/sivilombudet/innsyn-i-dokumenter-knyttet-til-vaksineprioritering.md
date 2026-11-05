@@ -16,9 +16,7 @@ Sivilombudets uttalelse 21.9.2021 (sak 2021/3211).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i dokumenter knyttet til vaksineprioritering. Helse- og omsorgsdepartementet (HOD) avslo innsynskravet i medhold av offentleglova § 14 første ledd for et regjeringsnotat og § 15 tredje ledd, jf. første ledd for et møtereferat med vedlegg fra et møte mellom departementet og underliggende organer. Departementet begrunnet avslaget for sistnevnte med at det er av avgjørende betydning at de råd og vurderinger som gis ikke begrenses av muligheten for at det blir gitt innsyn i dokumentet.  
-   
-   
- Sivilombudet er kommet til at det på bakgrunn av den begrunnelsen som er gitt fra HOD, er begrunnet tvil om vilkårene for unntak i § 15 tredje ledd er oppfylt for både møtereferatet og vedlegget. Videre er ombudet kommet til at departementets merinnsynsvurdering er mangelfull.
+Sivilombudet er kommet til at det på bakgrunn av den begrunnelsen som er gitt fra HOD, er begrunnet tvil om vilkårene for unntak i § 15 tredje ledd er oppfylt for både møtereferatet og vedlegget. Videre er ombudet kommet til at departementets merinnsynsvurdering er mangelfull.
 
 Se oppdatering fra forvaltningen
 

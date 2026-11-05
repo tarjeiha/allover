@@ -16,14 +16,10 @@ Sivilombudets uttalelse 30.1.2020 (sak 2019/3486).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i Oslo politidistrikts operasjonslogg 10. august 2019 fra kl. 12.00 til 22.00 og lydfilen fra telefonsamtalen samme dag der politiet fikk melding om angrepet mot moskeen Al-Noor Islamic Centre i Bærum. Politidirektoratet avslo kravet om innsyn under henvisning til taushetsplikt for operasjonsloggen og organinterne dokumenter for lydfilen. Direktoratet hadde ikke tilgang til de to dokumentene det var bedt om innsyn i.  
-   
- Ombudsmannen har ikke funnet grunn til å kritisere direktoratets konklusjon om at det på det nåværende tidspunktet ikke er grunnlag for å utøve merinnsyn i lydfilen.  
-   
- Ombudsmannen kan vanskelig se at operasjonsloggen er taushetspliktig i sin helhet. Taushetspliktvurderingen er dessuten noe mangelfull. Direktoratet har ikke vurdert konkret hvilke opplysninger som er taushetspliktige, og dermed unntatt offentlighet. Ombudsmannen ber direktoratet behandle denne delen av saken på nytt.  
-   
- Det gir grunnlag for kritikk at direktoratet ikke hadde tilgang til lydfilen og operasjonsloggen ved behandlingen av klagesaken. Ved ikke å innhente dokumentene har direktoratet ikke oppfylt plikten til å påse at saken er så godt opplyst som mulig før vedtak treffes.  
-   
- Ombudsmannen har ikke innvendinger til direktoratets standpunkt om at å nekte innsyn i denne saken ikke innebærer et brudd på EMK art. 10 nr. 1.
+Ombudsmannen har ikke funnet grunn til å kritisere direktoratets konklusjon om at det på det nåværende tidspunktet ikke er grunnlag for å utøve merinnsyn i lydfilen.  
+Ombudsmannen kan vanskelig se at operasjonsloggen er taushetspliktig i sin helhet. Taushetspliktvurderingen er dessuten noe mangelfull. Direktoratet har ikke vurdert konkret hvilke opplysninger som er taushetspliktige, og dermed unntatt offentlighet. Ombudsmannen ber direktoratet behandle denne delen av saken på nytt.  
+Det gir grunnlag for kritikk at direktoratet ikke hadde tilgang til lydfilen og operasjonsloggen ved behandlingen av klagesaken. Ved ikke å innhente dokumentene har direktoratet ikke oppfylt plikten til å påse at saken er så godt opplyst som mulig før vedtak treffes.  
+Ombudsmannen har ikke innvendinger til direktoratets standpunkt om at å nekte innsyn i denne saken ikke innebærer et brudd på EMK art. 10 nr. 1.
 
 Se oppdatering fra forvaltningen
 

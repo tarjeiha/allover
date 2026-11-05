@@ -14,11 +14,9 @@ Sivilombudets uttalelse 11.5.2023 (sak 2023/379).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak og på generelt grunnlag undersøkt saksbehandlingstiden hos Forbrukertilsynet i saker etter åpenhetsloven.   
-   
- Sivilombudet er enig med Forbrukertilsynet i at forvaltningsloven § 11 a om behandlingstid og foreløpig svar gjelder for tilsynets behandling av sakene. Ombudet mener det er riktig at klagerne holdes orientert om videre fremdrift etter at saken tas opp til nærmere behandling, selv om klagerne ikke regnes som parter i saken mot den innklagede virksomheten.   
-   
- Ombudet har ingen rettslige innvendinger mot Forbrukertilsynets saksbehandlingstid fra en klage er mottatt til det er fattet en avgjørelse om saken skal behandles eller ei. Ombudet vil gjennom behandling av klager følge med på tilsynets saksbehandlingstid fra det er besluttet at en sak skal tas under nærmere behandling til resultatet av behandlingen foreligger.
+Sivilombudet har av eget tiltak og på generelt grunnlag undersøkt saksbehandlingstiden hos Forbrukertilsynet i saker etter åpenhetsloven.  
+Sivilombudet er enig med Forbrukertilsynet i at forvaltningsloven § 11 a om behandlingstid og foreløpig svar gjelder for tilsynets behandling av sakene. Ombudet mener det er riktig at klagerne holdes orientert om videre fremdrift etter at saken tas opp til nærmere behandling, selv om klagerne ikke regnes som parter i saken mot den innklagede virksomheten.  
+Ombudet har ingen rettslige innvendinger mot Forbrukertilsynets saksbehandlingstid fra en klage er mottatt til det er fattet en avgjørelse om saken skal behandles eller ei. Ombudet vil gjennom behandling av klager følge med på tilsynets saksbehandlingstid fra det er besluttet at en sak skal tas under nærmere behandling til resultatet av behandlingen foreligger.
 
 ## Sakens bakgrunn
 

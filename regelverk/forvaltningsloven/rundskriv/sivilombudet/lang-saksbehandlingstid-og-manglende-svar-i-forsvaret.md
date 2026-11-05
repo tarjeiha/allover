@@ -14,11 +14,9 @@ Sivilombudets uttalelse 16.6.2025 (sak 2025/998).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt lang saksbehandlingstid og manglende svar i enkeltsaker i Forsvaret ved Forsvarets personell- og vernepliktssenter (FPVS).   
-   
- Sivilombudets undersøkelse viser at Forsvarets automatisk genererte svar på mottatte henvendelser ikke oppfyller plikten til å gi et foreløpig svar etter forvaltningsloven § 11 a. I tillegg mangler Forsvaret oversikt over hva som er gjennomsnittlig saksbehandlingstid på henvendelser som krever saksbehandling. Den enkelte avdeling er delegert ansvar for oppfølging av slike saker.   
-   
- Sivilombudet anbefaler at Forsvarets ansatte får intern opplæring i kravene som følger av § 11 a for å sikre enhetlig oppfølging av slike henvendelser. Forsvaret bør oppdatere informasjon på hjemmesiden for å gi riktig informasjon om forventet saksbehandlingstid. Sivilombudet imøteser Forsvarets tilbakemelding på anbefalingene innen 15. september 2025.
+Sivilombudet har av eget tiltak undersøkt lang saksbehandlingstid og manglende svar i enkeltsaker i Forsvaret ved Forsvarets personell- og vernepliktssenter (FPVS).  
+Sivilombudets undersøkelse viser at Forsvarets automatisk genererte svar på mottatte henvendelser ikke oppfyller plikten til å gi et foreløpig svar etter forvaltningsloven § 11 a. I tillegg mangler Forsvaret oversikt over hva som er gjennomsnittlig saksbehandlingstid på henvendelser som krever saksbehandling. Den enkelte avdeling er delegert ansvar for oppfølging av slike saker.  
+Sivilombudet anbefaler at Forsvarets ansatte får intern opplæring i kravene som følger av § 11 a for å sikre enhetlig oppfølging av slike henvendelser. Forsvaret bør oppdatere informasjon på hjemmesiden for å gi riktig informasjon om forventet saksbehandlingstid. Sivilombudet imøteser Forsvarets tilbakemelding på anbefalingene innen 15. september 2025.
 
 Se oppdatering fra forvaltningen
 

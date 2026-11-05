@@ -14,9 +14,8 @@ Sivilombudets uttalelse 15.6.2026 (sak 2026/1162).
 
 ## Oppsummering
 
-Nav hadde midlertidig stanset saksbehandlingen av ca. 300 saker om beregning av uføretrygd og alderspensjon. Begrunnelsen var uenighet mellom Trygderetten og Nav om forståelsen av EØS-regler i trygdeforordningen. Arbeids- og velferdsdirektoratet hadde utfordret Trygderettens syn i to søksmål for lagmannsretten. Samtidig stanset de saksbehandlingen av alle tilsvarende saker.   
-   
- Ombudet stilte spørsmål til Arbeids- og velferdsdirektoratet om stansen i saksbehandlingen og reglene for søksmål i trygderettsloven. Etter ombudets syn var det svært uheldig at det var brukerne som ble saksøkt av staten dersom Nav var uenige med Trygderetten. Det var derfor gode grunner til å vurdere om reglene i trygderettsloven burde endres. Ombudets vurderinger i saken fremgår av det avsluttende brevet publisert nedenfor.
+Nav hadde midlertidig stanset saksbehandlingen av ca. 300 saker om beregning av uføretrygd og alderspensjon. Begrunnelsen var uenighet mellom Trygderetten og Nav om forståelsen av EØS-regler i trygdeforordningen. Arbeids- og velferdsdirektoratet hadde utfordret Trygderettens syn i to søksmål for lagmannsretten. Samtidig stanset de saksbehandlingen av alle tilsvarende saker.  
+Ombudet stilte spørsmål til Arbeids- og velferdsdirektoratet om stansen i saksbehandlingen og reglene for søksmål i trygderettsloven. Etter ombudets syn var det svært uheldig at det var brukerne som ble saksøkt av staten dersom Nav var uenige med Trygderetten. Det var derfor gode grunner til å vurdere om reglene i trygderettsloven burde endres. Ombudets vurderinger i saken fremgår av det avsluttende brevet publisert nedenfor.
 
 Ombudet viser til vår undersøkelse 2. mars 2026 om berostillelse av saker i Nav om beregning av ytelser og forståelsen av trygdeforordningen art. 58. Vår henvendelse ble besvart av Arbeids- og velferdsdirektoratet 26. mars 2026.
 
@@ -89,5 +88,4 @@ En sentral begrunnelse for det lave antallet søksmål er ifølge NOU 2023:11 be
 Til tross for retten til fri sakførsel for brukere med lave inntekter, vil et søksmål fra staten utgjøre en stor belastning for den enkelte brukeren. Fri sakførsel endrer derfor ikke ombudets syn om at søksmål fra Arbeids- og velferdsetaten på grunn av rettslig uenighet med Trygderetten, bør rettes mot Trygderetten.
 
 Det er videre grunn til å merke seg at en økning i antallet søksmål fra Arbeids- og velferdsetaten vil medføre hyppigere berostillelser/midlertidig stans i saksbehandlingen for de aktuelle sakstypene. Ombudet mener derfor at det også er grunn til at Arbeids- og velferdsetaten, eventuelt sammen med andre, vurderer muligheten for å få et «hurtigspor» ved domstolsbehandlingen i saker av prinsipiell karakter som har medført berostillelse av et større antall saker om livsoppholdsytelser.  
-  
 Ombudet ber om å bli orientert når sakene for henholdsvis Gulating og Borgarting lagmannsrett blir berammet eller eventuelt avvist. Det bes også om at nye vurderinger av fortsatt berostillelse av de aktuelle sakene sendes i kopi hit.

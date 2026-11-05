@@ -14,9 +14,8 @@ Sivilombudets uttalelse 4.12.2025 (sak 2025/6705).
 
 ## Oppsummering
 
-Saken gjelder Sakkyndig ankenemnd i Arendal kommunes vedtak 17. september 2025 om fastsettelse av eiendomsskatt. Sakkyndig ankenemnd besluttet å behandle alle klagene fra eierne i et eierseksjonssameie samlet i ett vedtak. Etter Sivilombudets syn er ikke denne løsningen egnet til å synliggjøre at alle anførslene til klagerne er vurdert i klagebehandlingen, eller oppfylle kravet til begrunnelse.   
-   
- På bakgrunn av Arendal kommunes etterfølgende korrespondanse med klageren og svaret på vårt undersøkelsesbrev, har vi ikke funnet grunn til å be kommunen eller ankenemnden om å følge opp saken videre nå. Sivilombudet ber kommunen merke seg uttalelsen for fremtidige saker.
+Saken gjelder Sakkyndig ankenemnd i Arendal kommunes vedtak 17. september 2025 om fastsettelse av eiendomsskatt. Sakkyndig ankenemnd besluttet å behandle alle klagene fra eierne i et eierseksjonssameie samlet i ett vedtak. Etter Sivilombudets syn er ikke denne løsningen egnet til å synliggjøre at alle anførslene til klagerne er vurdert i klagebehandlingen, eller oppfylle kravet til begrunnelse.  
+På bakgrunn av Arendal kommunes etterfølgende korrespondanse med klageren og svaret på vårt undersøkelsesbrev, har vi ikke funnet grunn til å be kommunen eller ankenemnden om å følge opp saken videre nå. Sivilombudet ber kommunen merke seg uttalelsen for fremtidige saker.
 
 ## Sakens bakgrunn
 

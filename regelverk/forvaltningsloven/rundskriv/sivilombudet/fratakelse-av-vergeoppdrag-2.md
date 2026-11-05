@@ -14,15 +14,11 @@ Sivilombudets uttalelse 21.5.2021 (sak 2020/1113).
 
 ## Oppsummering
 
-Saken gjelder Statens sivilrettsforvaltnings (SRF) vedtak om å frata en søster oppdraget som verge for sin bror. Vergen hadde over lang tid også hatt en rolle som omsorgsgiver etter helse- og omsorgslovgivningen. Saken om skifte av verge bygget på en bekymringsmelding om vergen fra kommuneoverlegen, som særlig gjaldt at søsteren hadde motsatt seg et tilbud til broren om et kartleggingsopphold på institusjon.   
-   
- Ombudsmannen har kommet til at SRFs vedtak om at det var til det beste for vergehaver at hans søster ble fratatt vergeoppdraget, jf. vergemålsloven § 29 annet ledd, bygget på et utilstrekkelig grunnlag, jf. forvaltningsloven § 17 første ledd.  
-   
- Kommuneoverlegens bekymringsmelding ga ikke et tilstrekkelig grunnlag for avgjørelsen. I en situasjon der det var stor uenighet mellom vergen og kommunen om kommunens tjenester til vergehaver, burde det vært innhentet synspunkter også fra andre fagpersoner på forsvarligheten av å takke nei til kartleggingsoppholdet. Vergehavers fastlege hadde trolig hatt godt grunnlag for å kunne uttale seg, både om hvorvidt det var i strid med vergehavers interesser å takke nei til oppholdet, og mer generelt om søsterens opptreden som verge.  
-   
- SRF burde også i større grad vurdert betydningen av at det er nærliggende å anse søsterens opptreden da hun motsatte seg kartleggingsoppholdet som noe hun foretok seg som del av rollen som nærmeste pårørende, og ikke som verge.  
-   
- Ombudsmannen ber SRF om å behandle saken på nytt.
+Saken gjelder Statens sivilrettsforvaltnings (SRF) vedtak om å frata en søster oppdraget som verge for sin bror. Vergen hadde over lang tid også hatt en rolle som omsorgsgiver etter helse- og omsorgslovgivningen. Saken om skifte av verge bygget på en bekymringsmelding om vergen fra kommuneoverlegen, som særlig gjaldt at søsteren hadde motsatt seg et tilbud til broren om et kartleggingsopphold på institusjon.  
+Ombudsmannen har kommet til at SRFs vedtak om at det var til det beste for vergehaver at hans søster ble fratatt vergeoppdraget, jf. vergemålsloven § 29 annet ledd, bygget på et utilstrekkelig grunnlag, jf. forvaltningsloven § 17 første ledd.  
+Kommuneoverlegens bekymringsmelding ga ikke et tilstrekkelig grunnlag for avgjørelsen. I en situasjon der det var stor uenighet mellom vergen og kommunen om kommunens tjenester til vergehaver, burde det vært innhentet synspunkter også fra andre fagpersoner på forsvarligheten av å takke nei til kartleggingsoppholdet. Vergehavers fastlege hadde trolig hatt godt grunnlag for å kunne uttale seg, både om hvorvidt det var i strid med vergehavers interesser å takke nei til oppholdet, og mer generelt om søsterens opptreden som verge.  
+SRF burde også i større grad vurdert betydningen av at det er nærliggende å anse søsterens opptreden da hun motsatte seg kartleggingsoppholdet som noe hun foretok seg som del av rollen som nærmeste pårørende, og ikke som verge.  
+Ombudsmannen ber SRF om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

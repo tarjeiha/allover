@@ -16,12 +16,9 @@ Sivilombudets uttalelse 9.1.2024 (sak 2022/5784).
 ## Oppsummering
 
 I mai 2022 mottok klager vedtak fra Nav Rana om krav om refusjon av kr. 85 355 i etterbetaling av trygdeytelse. Klager hadde ikke mottatt forhåndsvarsel om refusjonskravet eller vedtak om etterbetaling av trygdeytelse for den aktuelle perioden. Hun oppfattet vedtaket slik at beløpet i sin helhet skulle tilbakebetales til kommunen og tok kontakt med advokat, som påklaget vedtaket. Nav Arbeid og ytelser fattet 20. juli 2022 vedtak om etterbetaling av trygdeytelse. Statsforvalteren i Nordland stadfestet Nav Ranas refusjonsvedtak, etter at det var avklart at refusjonsbeløpet utgjorde kr. 6 271.  
-   
- Sosialtjl. § 26 regulerer retten til refusjon av utbetalt sosialhjelp i etterbetalt trygdeytelse. Det følger forutsetningsvis av ordlyden i sosialtjl. § 26 og rundskriv R35-00 at det må foreligge et vedtak om etterbetaling før det kan kreves refusjon, for at det skal være mulig å foreta en gjennomgang av om refusjonsbeløpet og det etterbetalte beløpet gjelder samme periode og samme formål.  
-   
- Sivilombudet er kommet til at Nav Ranas refusjonsvedtak 5. mai 2022 måtte forstås slik at det ble krevet refusjon av kr. 85 355. Statsforvalterens vedtak 22. november 2022 var derfor en endring til gunst da de kom til at det reelle refusjonskravet var kr. 6 271. Klagebehandlingen innebar således at vedtaket fra Nav Rana var blitt endret i klagers favør. Det var derfor misvisende å stadfeste Nav Ranas vedtak. Statsforvalteren bes merke seg Sivilombudets syn og legge dette til grunn i fremtidige klager på refusjonsvedtak.  
-   
- Sivilombudet anmoder om en tilbakemelding innen 15. mars 2024 på hvordan Statsforvalteren har fulgt opp Sivilombudets konklusjoner.
+Sosialtjl. § 26 regulerer retten til refusjon av utbetalt sosialhjelp i etterbetalt trygdeytelse. Det følger forutsetningsvis av ordlyden i sosialtjl. § 26 og rundskriv R35-00 at det må foreligge et vedtak om etterbetaling før det kan kreves refusjon, for at det skal være mulig å foreta en gjennomgang av om refusjonsbeløpet og det etterbetalte beløpet gjelder samme periode og samme formål.  
+Sivilombudet er kommet til at Nav Ranas refusjonsvedtak 5. mai 2022 måtte forstås slik at det ble krevet refusjon av kr. 85 355. Statsforvalterens vedtak 22. november 2022 var derfor en endring til gunst da de kom til at det reelle refusjonskravet var kr. 6 271. Klagebehandlingen innebar således at vedtaket fra Nav Rana var blitt endret i klagers favør. Det var derfor misvisende å stadfeste Nav Ranas vedtak. Statsforvalteren bes merke seg Sivilombudets syn og legge dette til grunn i fremtidige klager på refusjonsvedtak.  
+Sivilombudet anmoder om en tilbakemelding innen 15. mars 2024 på hvordan Statsforvalteren har fulgt opp Sivilombudets konklusjoner.
 
 Se oppdatering fra forvaltningen
 

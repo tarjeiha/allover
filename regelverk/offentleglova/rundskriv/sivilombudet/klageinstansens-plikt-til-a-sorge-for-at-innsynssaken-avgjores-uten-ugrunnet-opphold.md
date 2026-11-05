@@ -15,11 +15,9 @@ Sivilombudets uttalelse 11.11.2025 (sak 2025/5689).
 
 ## Oppsummering
 
-Saken gjelder behandlingstiden av innsynsklagesaker i Kultur- og likestillingsdepartementet der NRK er førsteinstans. Innsynskravene ble fremsatt 1. oktober 2024 og klagesakene ble oversendt til departementet 6. desember 2024. Særlig reiser saken spørsmål om krav til departementets behandlingstid i de tilfellene der dokumentene det er bedt om innsyn i ikke blir oversendt fra førsteinstansen til klageinstansen og i de tilfellene klageinstansen opphever førsteinstansens avgjørelse og hjemviser saken for ny behandling.   
-   
- Sivilombudet kom til at departementets saksbehandlingstid i tre saker har vært for lang og i strid med lovens krav. Innsynsklagesakene ble ikke behandlet «uten ugrunna opphald», jf. offentleglova § 32 tredje ledd. Etter at departementet opphevet NRKs avgjørelser og hjemviste sakene til ny behandling, har departementet ikke raskt nok purret på NRK og heller ikke fulgt opp raskt nok overfor NRK der NRK ikke har overholdt fristene som er satt. Departementet må nå påse at den videre behandlingen av de tre innsynssakene skjer uten videre opphold.  
-   
- Sivilombudet har på nytt oppfordret Kultur- og likestillingsdepartementet om i samråd med Justis- og beredskapsdepartementet vurdere endringer i offentleglova og offentlegforskrifta.
+Saken gjelder behandlingstiden av innsynsklagesaker i Kultur- og likestillingsdepartementet der NRK er førsteinstans. Innsynskravene ble fremsatt 1. oktober 2024 og klagesakene ble oversendt til departementet 6. desember 2024. Særlig reiser saken spørsmål om krav til departementets behandlingstid i de tilfellene der dokumentene det er bedt om innsyn i ikke blir oversendt fra førsteinstansen til klageinstansen og i de tilfellene klageinstansen opphever førsteinstansens avgjørelse og hjemviser saken for ny behandling.  
+Sivilombudet kom til at departementets saksbehandlingstid i tre saker har vært for lang og i strid med lovens krav. Innsynsklagesakene ble ikke behandlet «uten ugrunna opphald», jf. offentleglova § 32 tredje ledd. Etter at departementet opphevet NRKs avgjørelser og hjemviste sakene til ny behandling, har departementet ikke raskt nok purret på NRK og heller ikke fulgt opp raskt nok overfor NRK der NRK ikke har overholdt fristene som er satt. Departementet må nå påse at den videre behandlingen av de tre innsynssakene skjer uten videre opphold.  
+Sivilombudet har på nytt oppfordret Kultur- og likestillingsdepartementet om i samråd med Justis- og beredskapsdepartementet vurdere endringer i offentleglova og offentlegforskrifta.
 
 ## Sakens bakgrunn
 

@@ -16,8 +16,7 @@ Sivilombudets uttalelse 14.3.2019 (sak 2018/3151).
 ## Oppsummering
 
 X fylkeskommune ansatte en person som yrkesfaglærer som ikke oppfylte kravet i opplæringsforskriften om pedagogisk utdanning. Vedkommende var heller ikke i gang med slik utdannelse på ansettelsestidspunktet. Fylkeskommunen opplyste at han var ansatt på vilkår om å fullføre utdannelsen innen tre år. Klager oppfylte kravet til pedagogisk utdanning, men ble ikke kalt inn til intervju.  
-   
- Ved en sammenligning av klagers utdanning og erfaring med søkerne som ble intervjuet, mener ombudsmannen det er klart urimelig at han ikke ble kalt inn til intervju. Det er en forutsetning for ansettelse på vilkår at den ansatte er i gang med den relevante utdanningen på tidspunktet for ansettelsen. Fordi dette ikke var tilfellet her, hadde skolen ikke rettslig grunnlag for å ansette vedkommende.
+Ved en sammenligning av klagers utdanning og erfaring med søkerne som ble intervjuet, mener ombudsmannen det er klart urimelig at han ikke ble kalt inn til intervju. Det er en forutsetning for ansettelse på vilkår at den ansatte er i gang med den relevante utdanningen på tidspunktet for ansettelsen. Fordi dette ikke var tilfellet her, hadde skolen ikke rettslig grunnlag for å ansette vedkommende.
 
 ## Sakens bakgrunn
 

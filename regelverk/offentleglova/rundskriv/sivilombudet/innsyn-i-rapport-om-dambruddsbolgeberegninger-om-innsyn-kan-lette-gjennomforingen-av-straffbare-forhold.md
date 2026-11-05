@@ -15,10 +15,8 @@ Sivilombudets uttalelse 4.2.2026 (sak 2025/7609).
 ## Oppsummering
 
 Saken gjelder innsyn i en rapport om dambruddsbølgeberegninger for dam Nybusjøen i Hamar kommune. Rapporten ble unntatt fra innsyn i medhold av offentleglova § 24 tredje ledd første punktum. Spørsmålet i saken var om de unntatte opplysningene kunne lette gjennomføringen av straffbare handlinger.  
-   
- Sivilombudet kom til at flere av de unntatte opplysningene ikke er egnet til å lette gjennomføringen av straffbare handlinger. Videre kom ombudet til at det er begrunnet tvil om det er «påkravd» å unnta samtlige av de unntatte opplysningene.  
-   
- Statsforvalteren i Innlandet ble bedt om å vurdere saken på nytt.
+Sivilombudet kom til at flere av de unntatte opplysningene ikke er egnet til å lette gjennomføringen av straffbare handlinger. Videre kom ombudet til at det er begrunnet tvil om det er «påkravd» å unnta samtlige av de unntatte opplysningene.  
+Statsforvalteren i Innlandet ble bedt om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

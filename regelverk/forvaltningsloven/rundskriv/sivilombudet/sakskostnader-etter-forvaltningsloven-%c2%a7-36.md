@@ -14,13 +14,10 @@ Sivilombudets uttalelse 18.12.2020 (sak 2019/5140).
 
 ## Oppsummering
 
-Saken gjelder krav om dekning av sakskostnader i forbindelse med oppheving av statlig reguleringsplan for nasjonalt minnested på Sørbråten. Kommunal- og moderniseringsdepartementet avslo Utstranda Velforenings krav uten nærmere begrunnelse. Etter ombudsmannens undersøkelse begrunnet departementet avslaget med at utgiftene ikke hadde vært «nødvendige» for å få opphevet vedtaket. Departementet stilte også spørsmål ved om andre vilkår for å få dekket sakskostnader var oppfylt, men uten å ta stilling til dette.   
-   
- Ombudsmannen er kommet til at departementet i sitt avslag på krav om sakskostnader ikke har oppfylt lovens krav til begrunnelse. For nødvendighetsvilkåret mener ombudsmannen det var forståelig at velforeningen pådro seg utgifter for å klage den statlige reguleringsplanen inn for ombudsmannen, samt at opphevelsen av den statlige reguleringsplanen ikke «kun» skyldes andre forhold enn velforeningens innsats. Velforeningens vesentlige utgifter til å klage til ombudsmannen var nødvendige for å få opphevet planvedtaket. Ombudsmannen har ikke tatt stilling til hvilke deler av det fremsatte kravet dette omfatter.  
-   
- Ombudsmannen har ikke tatt endelig stilling til om partsvilkåret er oppfylt, men peker på noen forhold som tilsier at partsvilkåret i fvl. § 36 er oppfylt.  
-   
- Ombudsmannen ber departementet om å vurdere sakskostnadskravet på nytt.
+Saken gjelder krav om dekning av sakskostnader i forbindelse med oppheving av statlig reguleringsplan for nasjonalt minnested på Sørbråten. Kommunal- og moderniseringsdepartementet avslo Utstranda Velforenings krav uten nærmere begrunnelse. Etter ombudsmannens undersøkelse begrunnet departementet avslaget med at utgiftene ikke hadde vært «nødvendige» for å få opphevet vedtaket. Departementet stilte også spørsmål ved om andre vilkår for å få dekket sakskostnader var oppfylt, men uten å ta stilling til dette.  
+Ombudsmannen er kommet til at departementet i sitt avslag på krav om sakskostnader ikke har oppfylt lovens krav til begrunnelse. For nødvendighetsvilkåret mener ombudsmannen det var forståelig at velforeningen pådro seg utgifter for å klage den statlige reguleringsplanen inn for ombudsmannen, samt at opphevelsen av den statlige reguleringsplanen ikke «kun» skyldes andre forhold enn velforeningens innsats. Velforeningens vesentlige utgifter til å klage til ombudsmannen var nødvendige for å få opphevet planvedtaket. Ombudsmannen har ikke tatt stilling til hvilke deler av det fremsatte kravet dette omfatter.  
+Ombudsmannen har ikke tatt endelig stilling til om partsvilkåret er oppfylt, men peker på noen forhold som tilsier at partsvilkåret i fvl. § 36 er oppfylt.  
+Ombudsmannen ber departementet om å vurdere sakskostnadskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

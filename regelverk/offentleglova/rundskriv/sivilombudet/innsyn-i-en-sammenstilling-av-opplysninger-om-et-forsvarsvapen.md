@@ -15,10 +15,8 @@ Sivilombudets uttalelse 22.9.2020 (sak 2020/845).
 ## Oppsummering
 
 Saken gjelder Forsvarsdepartementets klagebehandling av en sak om innsyn hos Forsvarsmateriell i opplysninger om destruksjon av et forsvarsvåpen, og opplysninger om transaksjoner for det samme våpenet.  
-   
- Ombudsmannen er enig med departementet i at en arbeidsbelastning på ca. 6 timer for å etablere sammenstillingen av opplysninger om transaksjonene og destruksjonen av våpenet, innebærer at dette ikke kan gjøres med «enkle framgangsmåtar». Vilkårene i offentleglova § 9 for å kreve innsyn i sammenstillingen, er dermed ikke oppfylte.  
-   
- På bakgrunn av opplysninger i klagen burde imidlertid departementet også ha vurdert om det kunne gis innsyn i deler av de opplysningene klager etterspurte gjennom en sammenstilling av en følgeseddel for våpenet. Dersom innsyn i opplysningene gjennom etablering av en følgeseddel ikke allerede er vurdert, må departementet snarest sørge for at dette følges opp.
+Ombudsmannen er enig med departementet i at en arbeidsbelastning på ca. 6 timer for å etablere sammenstillingen av opplysninger om transaksjonene og destruksjonen av våpenet, innebærer at dette ikke kan gjøres med «enkle framgangsmåtar». Vilkårene i offentleglova § 9 for å kreve innsyn i sammenstillingen, er dermed ikke oppfylte.  
+På bakgrunn av opplysninger i klagen burde imidlertid departementet også ha vurdert om det kunne gis innsyn i deler av de opplysningene klager etterspurte gjennom en sammenstilling av en følgeseddel for våpenet. Dersom innsyn i opplysningene gjennom etablering av en følgeseddel ikke allerede er vurdert, må departementet snarest sørge for at dette følges opp.
 
 ## Sakens bakgrunn
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 10.1.2022 (sak 2021/1624).
 
 ## Oppsummering
 
-Saken gjelder godkjenning av jaktvald, jf. hjorteviltforskriften § 11. Et jaktvald er et område som er godkjent av kommunen for jakt på hjortevilt, jf. forskriften § 2 d. Jaktrettshaverne i jaktvaldet A klagde over at det tilgrensende jaktvaldet B fikk inkludert store arealer dyrket mark som tellende areal i valdet, jf. forskriften § 8. Nome kommune hadde godkjent at innmarksområdene var tatt med for å «minske påkjørsel av elg og hjort langs riksveien som går igjennom valdet». Statsforvalteren i Vestfold og Telemark stadfestet kommunens vedtak.   
-   
- Ombudet er kommet til at det ikke er adgang til å inkludere dyrket mark som tellende areal i et jaktvald med den begrunnelse at kommunen ønsker å legge til rette for flere fellingstillatelser, og dermed forebygge viltpåkjørsler. De primære virkemidlene for å regulere bestanden i et område er forskriftsendring av minstearealet, jf. hjorteviltforskriften § 6, eller tidsbegrenset fravik fra minstearealet gjennom enkeltvedtak, jf. forskriften § 7.   
-   
- Vurderingen av hva som skal inngå et jaktvalds tellende areal, jf. forskriften § 8, må skje ut fra hvor viltet jevnlig oppholder seg. Så vidt ombudet kan se, har hverken kommunen eller Statsforvalteren gjort en konkret vurdering av om innmarksområdene som er inkludert i det tellende arealet, faktisk benyttes av hjorteviltet. Begrunnelsen for at områdene er tatt med som tellende areal, synes å være at dette åpner for at det gis flere fellingstillatelser.  
-   
- På denne bakgrunn er det etter ombudets syn tvilsomt om det er gitt en holdbar begrunnelse for hvorfor dyrket mark er tatt med som tellende areal i valdet. Ombudet ber Statsforvalteren om å vurdere kommunens vedtak på nytt i lys av dette.
+Saken gjelder godkjenning av jaktvald, jf. hjorteviltforskriften § 11. Et jaktvald er et område som er godkjent av kommunen for jakt på hjortevilt, jf. forskriften § 2 d. Jaktrettshaverne i jaktvaldet A klagde over at det tilgrensende jaktvaldet B fikk inkludert store arealer dyrket mark som tellende areal i valdet, jf. forskriften § 8. Nome kommune hadde godkjent at innmarksområdene var tatt med for å «minske påkjørsel av elg og hjort langs riksveien som går igjennom valdet». Statsforvalteren i Vestfold og Telemark stadfestet kommunens vedtak.  
+Ombudet er kommet til at det ikke er adgang til å inkludere dyrket mark som tellende areal i et jaktvald med den begrunnelse at kommunen ønsker å legge til rette for flere fellingstillatelser, og dermed forebygge viltpåkjørsler. De primære virkemidlene for å regulere bestanden i et område er forskriftsendring av minstearealet, jf. hjorteviltforskriften § 6, eller tidsbegrenset fravik fra minstearealet gjennom enkeltvedtak, jf. forskriften § 7.  
+Vurderingen av hva som skal inngå et jaktvalds tellende areal, jf. forskriften § 8, må skje ut fra hvor viltet jevnlig oppholder seg. Så vidt ombudet kan se, har hverken kommunen eller Statsforvalteren gjort en konkret vurdering av om innmarksområdene som er inkludert i det tellende arealet, faktisk benyttes av hjorteviltet. Begrunnelsen for at områdene er tatt med som tellende areal, synes å være at dette åpner for at det gis flere fellingstillatelser.  
+På denne bakgrunn er det etter ombudets syn tvilsomt om det er gitt en holdbar begrunnelse for hvorfor dyrket mark er tatt med som tellende areal i valdet. Ombudet ber Statsforvalteren om å vurdere kommunens vedtak på nytt i lys av dette.
 
 ## Sakens bakgrunn
 

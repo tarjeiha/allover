@@ -15,12 +15,9 @@ Sivilombudets uttalelse 7.8.2024 (sak 2024/2607).
 ## Oppsummering
 
 Saken gjelder Øst politidistrikts behandlingstid for et krav om innsyn i dokumenter i en avsluttet straffesak. Politidistriktet ferdigbehandlet innsynskravet over fire måneder etter at klageren sendte det inn.  
-   
- Sivilombudet kom til at Øst politidistrikts behandlingstid i denne saken utgjorde et brudd på god påtaleskikk. Det var grunn til å tro at behandlingen i flere andre saker også er i strid med god påtaleskikk.  
-   
- Sivilombudet mente videre at svaret Øst politidistrikt ga klageren da han purret på svar, ikke tilfredsstilte de innholdsmessige kravene til foreløpig svar, jf. krav til god påtaleskikk.  
-   
- Ombudet ba politidistriktet om å oppdatere rutinebeskrivelsene sine slik at de bedre legger til rette for behandling av krav om innsyn i/utskrift av straffesaksdokumenter i avsluttede straffesaker i tråd med god påtaleskikk, ombudets uttalelser og øvrig regelverk.
+Sivilombudet kom til at Øst politidistrikts behandlingstid i denne saken utgjorde et brudd på god påtaleskikk. Det var grunn til å tro at behandlingen i flere andre saker også er i strid med god påtaleskikk.  
+Sivilombudet mente videre at svaret Øst politidistrikt ga klageren da han purret på svar, ikke tilfredsstilte de innholdsmessige kravene til foreløpig svar, jf. krav til god påtaleskikk.  
+Ombudet ba politidistriktet om å oppdatere rutinebeskrivelsene sine slik at de bedre legger til rette for behandling av krav om innsyn i/utskrift av straffesaksdokumenter i avsluttede straffesaker i tråd med god påtaleskikk, ombudets uttalelser og øvrig regelverk.
 
 ## Sakens bakgrunn
 

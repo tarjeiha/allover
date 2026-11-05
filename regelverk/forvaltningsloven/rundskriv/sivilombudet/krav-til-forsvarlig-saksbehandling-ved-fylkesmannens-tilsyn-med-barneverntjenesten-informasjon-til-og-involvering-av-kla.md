@@ -14,11 +14,9 @@ Sivilombudets uttalelse 12.2.2019 (sak 2017/3066).
 
 ## Oppsummering
 
-Fylkesmannens behandling av en klage på barneverntjenestens oppfølging av et barn i fosterhjem har vært undersøkt her. Saken reiser generelle spørsmål om hvordan Fylkesmannen informerer og involverer personer som er direkte berørt i en tilsynssak.   
-   
- Ved behandlingen av tilsynssaker har Fylkesmannen et ansvar for at saksbehandlingen er forsvarlig. Blant annet må Fylkesmannen sørge for at saken er godt nok opplyst. Ombudsmannen mener denne saken ikke var godt nok opplyst fordi fosterforeldrene ikke fikk mulighet til å gi innspill til barneverntjenestens redegjørelse. Det var også feil å ikke informere fosterforeldrene om at Fylkesmannen senere gjennomførte et nytt tilsyn, som gjaldt barneverntjenestens plassering av barnet i fosterhjem hos dem.   
-   
- Fylkesmannen har erkjent og beklaget flere svakheter i saksbehandlingen, og opplyst at embetet vil gjennomgå egen praksis og retningslinjer. Det er dermed ikke grunn til å be om en ny behandling av den konkrete saken.
+Fylkesmannens behandling av en klage på barneverntjenestens oppfølging av et barn i fosterhjem har vært undersøkt her. Saken reiser generelle spørsmål om hvordan Fylkesmannen informerer og involverer personer som er direkte berørt i en tilsynssak.  
+Ved behandlingen av tilsynssaker har Fylkesmannen et ansvar for at saksbehandlingen er forsvarlig. Blant annet må Fylkesmannen sørge for at saken er godt nok opplyst. Ombudsmannen mener denne saken ikke var godt nok opplyst fordi fosterforeldrene ikke fikk mulighet til å gi innspill til barneverntjenestens redegjørelse. Det var også feil å ikke informere fosterforeldrene om at Fylkesmannen senere gjennomførte et nytt tilsyn, som gjaldt barneverntjenestens plassering av barnet i fosterhjem hos dem.  
+Fylkesmannen har erkjent og beklaget flere svakheter i saksbehandlingen, og opplyst at embetet vil gjennomgå egen praksis og retningslinjer. Det er dermed ikke grunn til å be om en ny behandling av den konkrete saken.
 
 ## Sakens bakgrunn
 

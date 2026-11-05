@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.2.2018 (sak 2017/3065).
 ## Oppsummering
 
 Saken gjelder kriminalomsorgens avslag på søknad om overføring til fengsel med lavere sikkerhet. Søknaden ble blant annet begrunnet med muligheten til å få hyppigere besøk av sønnen på 6 år.  
-   
- Hvis domfelte har barn, skal det ved vurderingen av om overføring til fengsel med lavere sikkerhet skal innvilges, alltid tas hensyn til om dette vil være til barnets beste. Det er uheldig at den vurderingen som ble foretatt av hensynet til sønnen, ikke kom klart frem i kriminalomsorgens vedtak. Ombudsmannen understreker viktigheten av at de vurderingene som foretas synliggjøres i vedtaket, og forutsetter at kriminalomsorgen sørger for at det i fremtidige saker blir gitt en begrunnelse som også omfatter en vurdering av hensynet til barnets beste. Utover dette finner ombudsmannen å kunne la saken bero med den begrunnelse Kriminalomsorgen region øst nå har gitt.
+Hvis domfelte har barn, skal det ved vurderingen av om overføring til fengsel med lavere sikkerhet skal innvilges, alltid tas hensyn til om dette vil være til barnets beste. Det er uheldig at den vurderingen som ble foretatt av hensynet til sønnen, ikke kom klart frem i kriminalomsorgens vedtak. Ombudsmannen understreker viktigheten av at de vurderingene som foretas synliggjøres i vedtaket, og forutsetter at kriminalomsorgen sørger for at det i fremtidige saker blir gitt en begrunnelse som også omfatter en vurdering av hensynet til barnets beste. Utover dette finner ombudsmannen å kunne la saken bero med den begrunnelse Kriminalomsorgen region øst nå har gitt.
 
 ## Sakens bakgrunn
 

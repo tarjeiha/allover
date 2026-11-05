@@ -16,10 +16,8 @@ Sivilombudets uttalelse 25.5.2022 (sak 2022/1390).
 ## Oppsummering
 
 Sivilombudet undersøkte av eget tiltak om Pensjonstrygden for sjømenn har rettslig grunnlag for å kreve at medlemmene må klage over vedtak før de kan anke til Trygderetten og hvilken frist eller frister som gjelder.  
-   
- Ombudet kom til at Pensjonstrygden ikke kan kreve at medlemmene må klage før de kan anke og at det ikke gjelder noen klagefrist. Fristen for å anke følger av trygderettsloven § 9 og er i utgangspunktet seks uker fra underretning om Pensjonstrygdens vedtak er kommet frem til medlemmet.  
-   
- Pensjonstrygden har gitt medlemmene uriktig informasjon om rettsreglene som gjelder for vedtakene. Praksisen synes over tid å ha bygget på en uriktig forståelse av forvaltningsloven og trygderettsloven. Feilen kan ha medført ulemper for medlemmene og risiko for at enkelte kan ha mistet muligheten til å anke. Ombudet ber Pensjonstrygden korrigere sin praksis og informasjon for fremtidige saker, slik at den samsvarer med trygderettsloven.
+Ombudet kom til at Pensjonstrygden ikke kan kreve at medlemmene må klage før de kan anke og at det ikke gjelder noen klagefrist. Fristen for å anke følger av trygderettsloven § 9 og er i utgangspunktet seks uker fra underretning om Pensjonstrygdens vedtak er kommet frem til medlemmet.  
+Pensjonstrygden har gitt medlemmene uriktig informasjon om rettsreglene som gjelder for vedtakene. Praksisen synes over tid å ha bygget på en uriktig forståelse av forvaltningsloven og trygderettsloven. Feilen kan ha medført ulemper for medlemmene og risiko for at enkelte kan ha mistet muligheten til å anke. Ombudet ber Pensjonstrygden korrigere sin praksis og informasjon for fremtidige saker, slik at den samsvarer med trygderettsloven.
 
 ## Sakens bakgrunn
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 2.7.2020 (sak 2019/2517).
 ## Oppsummering
 
 Saken gjelder Politidirektoratets vedtak om å tilbakekalle klagerens førerett på grunn av manglende edruelighet, jf. veitrafikkloven § 34 femte ledd. Grunnlag for tilbakekallet var ifølge vedtaket blant annet at klageren i politiavhør skulle ha opplyste at han siden han var 16 år gammel hadde brukt cannabis «i varierende grad, én til to ganger per måned».  
-   
- Ombudsmannen er kommet til at klagerens cannabisbruk var utilstrekkelig utredet da Politidirektoratet traff vedtaket om tilbakekall, jf. forvaltningsloven § 17 første ledd. Direktoratet skulle ha kontrollert lydopptaket av avhøret for å finne ut om klagerens anførsel om feilsitering var riktig. Den mangelfulle utredningen førte til at direktoratet la en ufullstendig gjengivelse av klagerens forklaring om egen bruk til grunn for sin avgjørelse.  
-   
- Videre er ombudsmannen kommet til at direktoratet ikke foretok en tilstrekkelig konkret vurdering av om vilkåret om trafikkfare i § 34 femte ledd var oppfylt. Vilkåret knytter seg til risikoen for kjøring i påvirket tilstand, jf. grensen for THC-innhold i blodet fastsatt i forskrift om påvirkning av andre rusmiddel enn alkohol.  
-   
- Ombudsmannen ber Politidirektoratet behandle klagesaken på nytt, og ber om at denne og fremtidige saker avgjøres i tråd med føringene i uttalelsen.
+Ombudsmannen er kommet til at klagerens cannabisbruk var utilstrekkelig utredet da Politidirektoratet traff vedtaket om tilbakekall, jf. forvaltningsloven § 17 første ledd. Direktoratet skulle ha kontrollert lydopptaket av avhøret for å finne ut om klagerens anførsel om feilsitering var riktig. Den mangelfulle utredningen førte til at direktoratet la en ufullstendig gjengivelse av klagerens forklaring om egen bruk til grunn for sin avgjørelse.  
+Videre er ombudsmannen kommet til at direktoratet ikke foretok en tilstrekkelig konkret vurdering av om vilkåret om trafikkfare i § 34 femte ledd var oppfylt. Vilkåret knytter seg til risikoen for kjøring i påvirket tilstand, jf. grensen for THC-innhold i blodet fastsatt i forskrift om påvirkning av andre rusmiddel enn alkohol.  
+Ombudsmannen ber Politidirektoratet behandle klagesaken på nytt, og ber om at denne og fremtidige saker avgjøres i tråd med føringene i uttalelsen.
 
 Se oppdatering fra forvaltningen
 
@@ -63,39 +60,39 @@ På bakgrunn av klagen, saksdokumentene og klagerens anførsel om feilsitering b
 Vi ba også direktoratet oversende opptak av avhøret eller en utskrift av opptaket, og fikk oversendt begge deler. De delene av avhøret av klageren som gjaldt klagerens bruksomfang av cannabis lød slik:
 
 Politibetjenten: «Hvor ofte bruker du cannabis?»  
- Klager: «Varierer veldig, men alt i fra et par ganger i måneden, til en gang i måneden, eller sjeldnere.»
+Klager: «Varierer veldig, men alt i fra et par ganger i måneden, til en gang i måneden, eller sjeldnere.»
 
 Politibetjenten: «Kan du gjenta det? Altså to ganger i måneden?»  
- Klager: «En til to ganger i måneden eller sjeldnere.»
+Klager: «En til to ganger i måneden eller sjeldnere.»
 
 Politibetjenten: «En til to ganger i måneden. Kan jeg skrive det?»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 […]
 
 Politibetjenten: «For å oppsummere så forklarer du at du brukte cannabis for to dager siden.»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 Politibetjenten: «Du bruker det i varierende grad.»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 Politibetjenten: «Ca. en til to ganger per måned.»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 Politibetjenten: «Det har du gjort siden du var 16 år.»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 Politibetjenten: «Under ransaking vil vi finne cannabis på soverommet ditt.»  
- Klager: «Ja.
+Klager: «Ja.
 
 Politibetjenten: «Muligens ca. 15 brukerdoser.»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 Politibetjenten: «Det er det jeg leste opp nå som blir forklaringen din.»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 Politibetjenten: «Det er det jeg vil skrive i rapporten.»  
- Klager: «Ja.»
+Klager: «Ja.»
 
 Videre spurte vi direktoratet hvor ofte de mente at klageren brukte cannabis, og om vedtaket var tilstrekkelig begrunnet på dette punktet. Direktoratet opplyste blant annet at vedtaket var tilstrekkelig begrunnet når det ble lagt til grunn at klagerens bruk var innenfor, eller mer omfattende, enn den bruk som etter lagmannsrettspraksis var tilstrekkelig for å konstatere manglende edruelighet.
 
@@ -198,6 +195,6 @@ Saken ble avsluttet av med følgende merknader fra ombudsmannen i brev 6. novemb
 Det andre forholdet som begrunnet anmodningen om ny behandling, var at direktoratet ikke hadde foretatt en tilstrekkelig konkret vurdering av om vilkåret om trafikkfare i veitrafikkloven § 34 femte ledd var oppfylt. I den fornyede vurderingen av dette vilkåret gjentas i stor grad de samme grunnlagene og vurderingene som fremgikk av direktoratets vedtak og redegjørelsen til ombudsmannen. I tillegg fremkommer det at direktoratet ikke vurderer en ventetid på 1-2 dager fra inntak av cannabis for en med klagers bruksmønster som tilstrekkelig. Dessuten opplyses det at direktoratet mener det ikke var tilstrekkelig godtgjort at klagers bruksmønster hadde endret seg.
 
 Ombudsmannen fastholder at det ikke er tilstrekkelig å vise til regelmessig bruk av bil når man er i nedre sjikt for hva som kan regnes som ikke edruelig. Direktoratets begrunnelse gir etter ombudsmannens syn fortsatt ikke grunnlag for å anse vurderingen av vilkåret om trafikkfare for å være tilstrekkelig konkret, selv om begrunnelsen i noen grad er konkretisert ytterligere. Spørsmålet om trafikkfare kan ikke vurderes alene ut fra at cannabis i enkelte tilfelle kan føre til påvirkning i mer enn to dager. Vurderingen må se hen til risikoen for dette i den konkrete sak, herunder hvor lenge man med tilstrekkelig sikkerhet kan påregne at klageren vil vente med å kjøre etter slikt inntak. En kan heller ikke se at klagerens anførsler om endret bruksmønster på grunn endringer i livssituasjonen er blitt omtalt ved den fornyede vurderingen av saken.  
- Ombudsmannen utelukker ikke at direktoratet faktisk har vurdert, helt eller delvis, de momenter ombudsmannen har vist til må inngå i den konkrete vurderingen av saken, men dette fremgår i så fall ikke av begrunnelsen.
+Ombudsmannen utelukker ikke at direktoratet faktisk har vurdert, helt eller delvis, de momenter ombudsmannen har vist til må inngå i den konkrete vurderingen av saken, men dette fremgår i så fall ikke av begrunnelsen.
 
 Etter en konkret vurdering har ombudsmannen ikke funnet grunn til videre oppfølging av denne klagesaken nå, selv om direktoratet etter ombudsmannens syn ikke fullt ut har fulgt opp ombudsmannens påpekninger. Det forventes at direktoratet framover følger ombudsmannens syn på hvilke krav som bør stilles til vurderingen av trafikkfarevilkåret i § 34 femte ledd.»

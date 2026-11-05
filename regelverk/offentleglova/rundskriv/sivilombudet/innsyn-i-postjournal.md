@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.12.2018 (sak 2018/3678).
 ## Oppsummering
 
 Saken gjelder spørsmålet om offentleglova § 9 om innsyn i en sammenstilling fra databaser kan begrense allmennhetens rett til innsyn i et forvaltningsorgans postjournaler etter hovedregelen i offentleglova § 3. Klageren ba om innsyn i en kommunes journal for årene 2008 til og med 2014. Både kommunen og Fylkesmannen avslo begjæringen med henvisning til at det ikke er mulig å gjennomføre en sammenstilling av opplysningene med enkle fremgangsmåter.  
-   
- Ombudsmannen mener at Fylkesmannen skulle vurdert innsynsbegjæringen etter hovedregelen i offentleglova § 3 om retten til innsyn i journaler. Ombudsmannen viser til hensynene bak innsynsretten og påpeker at allmennhetens tilgang til forvaltningens journaler er en viktig forutsetning for at offentlighetsprinsippet skal kunne gjennomføres og virke etter sin hensikt. Videre mener ombudsmannen at offentleglovas systematikk og oppbygning, samt hensynene bak offentleglova § 9, innebærer at bestemmelsen ikke begrenser hovedregelen om innsynsrett i journaler. Ombudsmannen ber Fylkesmannen om å foreta en ny vurdering av innsynsspørsmålet.
+Ombudsmannen mener at Fylkesmannen skulle vurdert innsynsbegjæringen etter hovedregelen i offentleglova § 3 om retten til innsyn i journaler. Ombudsmannen viser til hensynene bak innsynsretten og påpeker at allmennhetens tilgang til forvaltningens journaler er en viktig forutsetning for at offentlighetsprinsippet skal kunne gjennomføres og virke etter sin hensikt. Videre mener ombudsmannen at offentleglovas systematikk og oppbygning, samt hensynene bak offentleglova § 9, innebærer at bestemmelsen ikke begrenser hovedregelen om innsynsrett i journaler. Ombudsmannen ber Fylkesmannen om å foreta en ny vurdering av innsynsspørsmålet.
 
 Se oppdatering fra forvaltningen
 

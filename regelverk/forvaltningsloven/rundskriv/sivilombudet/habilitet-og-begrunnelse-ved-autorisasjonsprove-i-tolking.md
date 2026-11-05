@@ -16,8 +16,7 @@ Sivilombudets uttalelse 8.12.2023 (sak 2023/2963).
 ## Oppsummering
 
 Saken gjelder en sensors habilitet ved sensur av statsautorisasjonsprøven i tolking på somali. Spørsmålene var om sensor var inhabil da vedkommende arbeidet som tolk i det samme tolkemarkedet som klageren, og om utdanningsinstitusjonen OsloMet og klagenemnda i sine vedtak hadde gitt en tilstrekkelig begrunnelse for at sensoren var habil.  
-   
- Ombudet mente at sensoren var habil da tolkemarkedet var relativt stort, selv om kandidaten ved bestått prøve ville bli bedre kategorisert i nasjonalt tolkeregister enn sensoren. OsloMet og klagenemnda hadde derimot vurdert forholdet etter en feil forståelse av habilitetsbestemmelsen i forvaltningsloven § 6, slik at kravet til rettslig begrunnelse i forvaltningsloven § 25 ikke var oppfylt. Vedtakene var også i strid med god forvaltningsskikk, da de ikke gjorde kandidaten i stand til å forstå hvorfor sensoren var habil.
+Ombudet mente at sensoren var habil da tolkemarkedet var relativt stort, selv om kandidaten ved bestått prøve ville bli bedre kategorisert i nasjonalt tolkeregister enn sensoren. OsloMet og klagenemnda hadde derimot vurdert forholdet etter en feil forståelse av habilitetsbestemmelsen i forvaltningsloven § 6, slik at kravet til rettslig begrunnelse i forvaltningsloven § 25 ikke var oppfylt. Vedtakene var også i strid med god forvaltningsskikk, da de ikke gjorde kandidaten i stand til å forstå hvorfor sensoren var habil.
 
 Se oppdatering fra forvaltningen
 
@@ -52,7 +51,7 @@ Til spørsmålene om begrunnelse svarte OsloMet at de har svart punktvis på kla
 Klagenemnda ved OsloMet svarte separat på spørsmålene våre. Av svaret fremkom det at OsloMet hadde vurdert konkurranseforholdet og henvist til forvaltningsloven § 6. Klagenemnda oppfattet habilitetsvurderingen som vanskelig, men det ble sett hen til at det var flere sensorer og at klagen på prøveresultatet ble behandlet av nye sensorer med et uendret resultat. Sensorens påståtte habilitet ville uansett ikke ført til et annet resultat. Når det gjaldt begrunnelsen hadde klageren selv vist til forvaltningsloven § 6, og OsloMets begrunnelse gjorde henne i stand til å forstå vedtaket.
 
 Svaret fra OsloMet ble forelagt for advokat Unhjem på vegne av klageren. I brev av  
- 3. oktober 2023 kom det blant annet fram at klageren mente at OsloMet ikke hadde fulgt egne retningslinjer og foretatt en tilstrekkelig habilitetsvurdering. Hverken OsloMets eller sensorens vurderinger var synliggjort. Svaret ble oversendt til OsloMet, som igjen svarte i brev av 13. november 2023. I svaret kom det blant annet fram at det var foretatt habilitetsvurderinger, og at det vil være svært vanskelig å skaffe sensorer dersom slike konkurranseforhold skulle lede til inhabilitet. Det ble inngitt et siste svar fra klageren 22. november 2023, hvor det blant annet kom fram at hun var uenig at det ville være vanskelig for OsloMet å skaffe sensorer.
+3. oktober 2023 kom det blant annet fram at klageren mente at OsloMet ikke hadde fulgt egne retningslinjer og foretatt en tilstrekkelig habilitetsvurdering. Hverken OsloMets eller sensorens vurderinger var synliggjort. Svaret ble oversendt til OsloMet, som igjen svarte i brev av 13. november 2023. I svaret kom det blant annet fram at det var foretatt habilitetsvurderinger, og at det vil være svært vanskelig å skaffe sensorer dersom slike konkurranseforhold skulle lede til inhabilitet. Det ble inngitt et siste svar fra klageren 22. november 2023, hvor det blant annet kom fram at hun var uenig at det ville være vanskelig for OsloMet å skaffe sensorer.
 
 ## Sivilombudets syn på saken
 
@@ -67,7 +66,7 @@ Etter forvaltningsloven § 6 er en sensor inhabil dersom det foreligger «andre 
 Bestemmelsen viser til første ledd, hvor det er listet opp forhold som ekteskap, nært slektskap og ledende arbeidsforhold. Som det følger av ordlyden må det foretas en konkret vurdering basert på om det tilsvarende forholdet kan svekke tilliten til hens upartiskhet.
 
 Vurderingen må ses i sammenheng med habilitetsregelens formål om å «sikre korrekte avgjørelser, opprettholde tilliten til dem som fatter avgjørelsene, og beskytte beslutningstakerne mot at det sås tvil om deres troverdighet», jf. Høyesteretts dom i  
- Rt. 1996 s. 64 på s. 68.
+Rt. 1996 s. 64 på s. 68.
 
 Ved den nærmere vurderingen skal det som nevnt legges vekt på om avgjørelsen i saken kan innebære en særlig fordel for den som fatter avgjørelsen. Det omfatter økonomiske konkurranseforhold, sml. Høyesteretts dommer i Rt. 1998 s. 1398 og Rt. 2007 s. 983. Ombudet har tidligere uttalt at det blant annet må vurderes «hvor direkte konkurransesituasjonen er, og hvilken betydning saken har for konkurransen», jf. uttalelsen SOM-2020-5288 med videre henvisninger til juridisk teori ved Arvid Frihagen, Inhabilitet etter forvaltningsloven, s. 255.
 

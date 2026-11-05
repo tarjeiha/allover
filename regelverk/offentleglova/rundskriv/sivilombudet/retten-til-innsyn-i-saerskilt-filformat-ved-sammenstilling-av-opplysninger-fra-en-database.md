@@ -15,10 +15,8 @@ Sivilombudets uttalelse 19.7.2016 (sak 2016/726 og 2016/880).
 ## Oppsummering
 
 Saken gjelder retten til innsyn i et særskilt filformat – i denne saken Excel-format – i de tilfellene der det lages en sammenstilling av opplysninger fra en database.  
-   
- Sivilombudsmannen har kommet til at et uttrekk i Excel-format i denne saken vil inneholde andre og mer detaljerte opplysninger enn den PDF-versjonen det er gitt innsyn i. Kravet om innsyn i Excel-format må derfor anses som krav om innsyn i et annet dokument. Fylkesmannen er derfor bedt om å vurdere de to undersøkte sakene på nytt. Ombudsmannen har kritiske merknader til Fylkesmannens generelle uttalelser om at den innsynsberettigede ikke bør ha mulighet til å redigere eller manipulere innholdet i en kopi av et dokument fra et offentlig organ.  
-   
- Selv om det ikke var avgjørende for de undersøkte sakene, har ombudsmannen uttalt at en innsynsberettiget i utgangspunktet har krav på at det utarbeides en sammenstilling i ethvert filformat, dersom vilkårene for sammenstilling for øvrig er oppfylt. Dette gjelder også i de tilfellene der det allerede er foretatt en sammenstilling i et annet format.
+Sivilombudsmannen har kommet til at et uttrekk i Excel-format i denne saken vil inneholde andre og mer detaljerte opplysninger enn den PDF-versjonen det er gitt innsyn i. Kravet om innsyn i Excel-format må derfor anses som krav om innsyn i et annet dokument. Fylkesmannen er derfor bedt om å vurdere de to undersøkte sakene på nytt. Ombudsmannen har kritiske merknader til Fylkesmannens generelle uttalelser om at den innsynsberettigede ikke bør ha mulighet til å redigere eller manipulere innholdet i en kopi av et dokument fra et offentlig organ.  
+Selv om det ikke var avgjørende for de undersøkte sakene, har ombudsmannen uttalt at en innsynsberettiget i utgangspunktet har krav på at det utarbeides en sammenstilling i ethvert filformat, dersom vilkårene for sammenstilling for øvrig er oppfylt. Dette gjelder også i de tilfellene der det allerede er foretatt en sammenstilling i et annet format.
 
 Se oppdatering fra forvaltningen
 

@@ -15,9 +15,9 @@ Sivilombudets uttalelse 20.3.2017 (sak 2016/1205).
 ## Oppsummering
 
 Fylkesmannen omgjorde etter 23 måneder et vedtak om tilskudd til utbedring av vinterskadet eng, med den begrunnelse at søkeren ikke hadde sendt melding til kommunen før skadene var utbedret. Omgjøringen ble opprettholdt av Landbruksdirektoratet.  
- Ombudsmannen har kommet til at Landbruksdirektoratet har lagt til grunn en uriktig forståelse av varslingsregelen i avlingsskadeforskriften § 2 nr. 4 ved vurderingen av om det opprinnelige omgjøringsvedtaket var ugyldig. Mangelen kan ikke avhjelpes med en etterfølgende begrunnelse.  
- Direktoratet bes om å behandle saken på nytt, og å foreta en helhetlig vurdering av gyldighetsspørsmålet, der også de momentene som taler i favør av klageren blir vektlagt.  
- Et eventuelt tilbakebetalingskrav krever en særskilt vurdering etter avlingsskadeforskriften § 8.
+Ombudsmannen har kommet til at Landbruksdirektoratet har lagt til grunn en uriktig forståelse av varslingsregelen i avlingsskadeforskriften § 2 nr. 4 ved vurderingen av om det opprinnelige omgjøringsvedtaket var ugyldig. Mangelen kan ikke avhjelpes med en etterfølgende begrunnelse.  
+Direktoratet bes om å behandle saken på nytt, og å foreta en helhetlig vurdering av gyldighetsspørsmålet, der også de momentene som taler i favør av klageren blir vektlagt.  
+Et eventuelt tilbakebetalingskrav krever en særskilt vurdering etter avlingsskadeforskriften § 8.
 
 Se oppdatering fra forvaltningen
 

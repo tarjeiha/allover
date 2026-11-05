@@ -15,16 +15,11 @@ Sivilombudets uttalelse 18.12.2018 (sak 2017/543).
 ## Oppsummering
 
 Saken dreier seg om Fylkesmannen i Aust- og Vest-Agders vedtak om tvangsmedisinering. Det sentrale i saken er Fylkesmannens forståelse og anvendelse av psykisk helsevernlovens krav om at tvangsmedisinering bare kan igangsettes og gjennomføres når det med «stor sannsynlighet kan føre til helbredelse eller vesentlig bedring i pasientens tilstand, eller at pasienten unngår vesentlig forverring av sykdommen».  
-   
- Lovens krav til «stor sannsynlighet» for positiv effekt av tvangsmedisinering innebærer at det kreves mer enn alminnelig sannsynlighetsovervekt for slik effekt for at tvangsmedisineringen skal være lovlig. Kravet knytter seg til den enkelte pasient og ikke til en gruppe pasienter.  
-   
- Det er begrunnet tvil knyttet til om kravet er oppfylt i saken. Fylkesmannens begrunnelsesplikt er under enhver omstendighet ikke oppfylt.   
-   
- Det fremgår heller ikke av vedtaket at lovens vilkår om at den gunstige virkningen klart må oppveie ulempene, er vurdert. Dette er også i strid med forvaltningslovens krav til begrunnelse.   
-   
- Det er i strid med god forvaltningsskikk at den muntlige kommunikasjonen mellom Fylkesmannens saksbehandler og behandlingsansvarlige ikke er nedtegnet og arkivert.   
-   
- Fylkesmannen bes merke seg ombudsmannens merknader i denne saken og legge disse til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
+Lovens krav til «stor sannsynlighet» for positiv effekt av tvangsmedisinering innebærer at det kreves mer enn alminnelig sannsynlighetsovervekt for slik effekt for at tvangsmedisineringen skal være lovlig. Kravet knytter seg til den enkelte pasient og ikke til en gruppe pasienter.  
+Det er begrunnet tvil knyttet til om kravet er oppfylt i saken. Fylkesmannens begrunnelsesplikt er under enhver omstendighet ikke oppfylt.  
+Det fremgår heller ikke av vedtaket at lovens vilkår om at den gunstige virkningen klart må oppveie ulempene, er vurdert. Dette er også i strid med forvaltningslovens krav til begrunnelse.  
+Det er i strid med god forvaltningsskikk at den muntlige kommunikasjonen mellom Fylkesmannens saksbehandler og behandlingsansvarlige ikke er nedtegnet og arkivert.  
+Fylkesmannen bes merke seg ombudsmannens merknader i denne saken og legge disse til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
 
 ## Sakens bakgrunn
 

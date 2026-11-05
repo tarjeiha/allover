@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.11.2016 (sak 2016/763).
 ## Oppsummering
 
 Saken reiser spørsmål om Fylkesmannen i Hordaland har vurdert hvilke konsekvenser en reguleringsplan vil ha for hensynet til trafikksikkerhet og hensynet til barn og unges interesser på en adkomstvei til to byggefeltområder, herunder om han har vurdert klagernes anførsler vedrørende dette.  
-   
- Ombudsmannen mener det foreligger tvil om Fylkesmannen har vurdert hensynet til trafikksikkerhet og hensynet til barn og unges interesser i forbindelse med adkomstveien, og om Fylkesmannen dermed har oppfylt sin utredningsplikt og sørget for sakens opplysning, jf. forvaltningsloven § 33 femte ledd, jf. § 17 første ledd. Videre er ombudsmannen i tvil om Fylkesmannen har vurdert klagernes anførsler tilstrekkelig, jf. forvaltningsloven § 34 annet ledd.  
-   
- Ombudsmannen ba på denne bakgrunn Fylkesmannen om å vurdere saken på nytt.
+Ombudsmannen mener det foreligger tvil om Fylkesmannen har vurdert hensynet til trafikksikkerhet og hensynet til barn og unges interesser i forbindelse med adkomstveien, og om Fylkesmannen dermed har oppfylt sin utredningsplikt og sørget for sakens opplysning, jf. forvaltningsloven § 33 femte ledd, jf. § 17 første ledd. Videre er ombudsmannen i tvil om Fylkesmannen har vurdert klagernes anførsler tilstrekkelig, jf. forvaltningsloven § 34 annet ledd.  
+Ombudsmannen ba på denne bakgrunn Fylkesmannen om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

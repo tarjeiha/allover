@@ -16,11 +16,11 @@ Sivilombudets uttalelse 15.11.2017 (sak 2016/1689).
 ## Oppsummering
 
 En elev på ungdomstrinnet som var sterkt hørselshemmet hadde vedtak fra kommunen om rett til opplæring i og på tegnspråk og rett til spesialundervisning i alle fag.  
- Elevens foresatte klaget over manglende oppfyllelse av retten til tegnspråkopplæring, men Fylkesmannen kom til at elevens tegnspråkrettigheter var oppfylt. Dette ble hovedsakelig begrunnet med at det var uklart hvilken tegnspråkopplæring eleven hadde krav på, og hvordan den skulle organiseres.   
- I samsvar med Utdanningsdirektoratets veileder om spesialundervisning praktiserer Fylkesmannen en rett til å klage på manglende oppfølging av vedtak om spesialundervisning. Ombudsmannen tok ikke stilling til om det foreligger noen separat klageadgang på oppfyllelse av vedtak om tegnspråkopplæring etter opplæringsloven § 2-6. Eleven skulle uansett ha spesialundervisning i alle fag med avvik fra læreplaner. Også undervisningen i og på tegnspråk skulle dermed gis som spesialundervisning, med tilhørende klagerett.  
- Ombudsmannen uttalte at forvaltningen må respektere foreldrenes valg av om barn skal ha tegnspråk som førstespråk. Når Fylkesmannen i en klagesak skal vurdere om skolen har fulgt opp barnets tegnspråkrettigheter, kan de verken overprøve foreldrenes språkvalg eller kommunens vedtak om rett til grunnskoleopplæring på tegnspråk,   
- Selv om det var uklarheter i den sakkyndige utredningen fra PPT som lå til grunn for kommunens vedtak om tegnspråkopplæring og spesialundervisning, kunne ikke Fylkesmannen unnlate å foreta en realitetsvurdering av om den faktiske opplæringen eleven hadde fått, var i tråd med hans rett til opplæring i og på tegnspråk.   
- Da saken gjaldt elevens rettigheter skoleåret 2015/2016, ble ikke Fylkesmannen bedt om å behandle den på nytt. Ombudsmannen forutsatte imidlertid at Fylkesmannen behandler fremtidige klagesaker i samsvar med merknadene og synspunktene i denne uttalelsen.
+Elevens foresatte klaget over manglende oppfyllelse av retten til tegnspråkopplæring, men Fylkesmannen kom til at elevens tegnspråkrettigheter var oppfylt. Dette ble hovedsakelig begrunnet med at det var uklart hvilken tegnspråkopplæring eleven hadde krav på, og hvordan den skulle organiseres.  
+I samsvar med Utdanningsdirektoratets veileder om spesialundervisning praktiserer Fylkesmannen en rett til å klage på manglende oppfølging av vedtak om spesialundervisning. Ombudsmannen tok ikke stilling til om det foreligger noen separat klageadgang på oppfyllelse av vedtak om tegnspråkopplæring etter opplæringsloven § 2-6. Eleven skulle uansett ha spesialundervisning i alle fag med avvik fra læreplaner. Også undervisningen i og på tegnspråk skulle dermed gis som spesialundervisning, med tilhørende klagerett.  
+Ombudsmannen uttalte at forvaltningen må respektere foreldrenes valg av om barn skal ha tegnspråk som førstespråk. Når Fylkesmannen i en klagesak skal vurdere om skolen har fulgt opp barnets tegnspråkrettigheter, kan de verken overprøve foreldrenes språkvalg eller kommunens vedtak om rett til grunnskoleopplæring på tegnspråk,  
+Selv om det var uklarheter i den sakkyndige utredningen fra PPT som lå til grunn for kommunens vedtak om tegnspråkopplæring og spesialundervisning, kunne ikke Fylkesmannen unnlate å foreta en realitetsvurdering av om den faktiske opplæringen eleven hadde fått, var i tråd med hans rett til opplæring i og på tegnspråk.  
+Da saken gjaldt elevens rettigheter skoleåret 2015/2016, ble ikke Fylkesmannen bedt om å behandle den på nytt. Ombudsmannen forutsatte imidlertid at Fylkesmannen behandler fremtidige klagesaker i samsvar med merknadene og synspunktene i denne uttalelsen.
 
 ## Sakens bakgrunn
 
@@ -169,7 +169,7 @@ Retten til opplæring i og på tegnspråk etter § 2-6 følger av kommunens vedt
 I vedtaket konkluderes det imidlertid også med at eleven skal motta spesialundervisning i alle fag, «med avvik fra læreplaner for fag, og i sosial kompetanse i henhold til generell del av Læreplanverket For Kunnskapsløftet».
 
 Etter opplæringslova § 5-5 kan det i spesialundervisning gjøres unntak fra og tilpasninger til de ellers gjeldene reglene om innholdet i opplæringen. Dette gjelde også de særskilte læreplaner for tegnspråkopplæring etter § 2-6, jf. forskrift til opplæringslova § 1-1 første ledd bokstav a) jf.  
- bokstav d).
+bokstav d).
 
 Rammene for unntakene fra læreplanen skal fremgå av vedtaket om spesialundervisning, men tilpasningen kan være nærmere konkretisert i den sakkyndige utredningen etter § 5-3 eller i den individuelle opplæringsplanen som skal utarbeides. Ombudsmannen antar at en slik tilpasning også vil kunne innebære at opplæring i og på tegnspråk i medhold av § 2-6 delvis kan gis som tegnspråk med norsk syntaks.
 

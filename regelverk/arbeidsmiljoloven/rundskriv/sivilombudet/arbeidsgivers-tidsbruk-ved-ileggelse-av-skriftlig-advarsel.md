@@ -16,8 +16,7 @@ Sivilombudets uttalelse 7.2.2019 (sak 2018/4630).
 ## Oppsummering
 
 Etter en langvarig konflikt med en kollega hadde klager i august 2016 sendt en e-post til instituttledelsen ved universitetet hvor han var ansatt. I e-posten ga han uttrykk for faglige bekymringer. Han fremsatte også ytringer om sin kollega som arbeidsgiver senere la til grunn var trakasserende og utilbørlige. Arbeidsgiver besvarte ikke e-posten, og reagerte heller ikke overfor klager. Konfliktene ved instituttet vedvarte, og i mars 2018 ble det igangsatt en arbeidsmiljøundersøkelse. Både klager og den aktuelle kollegaen ble i august 2018 gitt en skriftlig advarsel av arbeidsgiver. Advarselen til klager var konkret begrunnet i ytringene i e-posten to år tidligere.  
-   
- En skriftlig advarsel bør gis så snart som mulig, gjerne umiddelbart etter den uønskede handlingen. Arbeidsgivers tidsbruk vil kunne få betydning for forholdsmessigheten av reaksjonen. Ombudsmannen er i dette tilfellet kommet til at arbeidsgiver ikke hadde tilstrekkelig grunn til å vente to år med å gi klager en advarsel. Både hensynet til reaksjonens virkning, forutberegnelighet for den ansatte og muligheten til kontradiksjon taler klart for at advarselen var en uforholdsmessig reaksjon. Ombudsmannen har derfor bedt arbeidsgiver om å vurdere å trekke advarselen tilbake.
+En skriftlig advarsel bør gis så snart som mulig, gjerne umiddelbart etter den uønskede handlingen. Arbeidsgivers tidsbruk vil kunne få betydning for forholdsmessigheten av reaksjonen. Ombudsmannen er i dette tilfellet kommet til at arbeidsgiver ikke hadde tilstrekkelig grunn til å vente to år med å gi klager en advarsel. Både hensynet til reaksjonens virkning, forutberegnelighet for den ansatte og muligheten til kontradiksjon taler klart for at advarselen var en uforholdsmessig reaksjon. Ombudsmannen har derfor bedt arbeidsgiver om å vurdere å trekke advarselen tilbake.
 
 Se oppdatering fra forvaltningen
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 19.1.2024 (sak 2023/3490).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalterens plikt til å prøve kommunens vurdering av krav til forsvarlige helse- og omsorgstjenester, jf. helse- og omsorgstjenesteloven § 4-1, i en klagesak om avslag på omsorgsstønad.   
-   
- Klageren søkte om omsorgsstønad for omsorgsarbeid han utfører for sin sønn. Kommunen avslo søknaden under henvisning til at sønnen allerede hadde fått innvilget tilstrekkelige tjenester for å dekke sitt hjelpebehov. Vedtaket ble påklaget til Statsforvalteren, og klageren anførte at kommunens innvilgete tjenester ikke var i samsvar med kravet om nødvendige og forsvarlige helse- og omsorgstjenester. Statsforvalteren stadfestet kommunens vedtak, og viste til at arbeid som klageren gjorde ut over det kommunen hadde vurdert som nødvendig og forsvarlig, ikke ga grunnlag for omsorgsstønad. Statsforvalteren foretok ikke noen selvstendig prøving av kommunens forsvarlighetsvurdering.   
-   
- Sivilombudet er kommet til at Statsforvalteren skulle ha foretatt en selvstendig vurdering av kommunens konklusjon om at det innvilgete tjenestetilbudet til klagerens sønn var i samsvar med forsvarlighetskravet i helse- og omsorgstjenesteloven § 4-1. Dette underbygges av at klagerens sentrale anførsel var at sønnens tjenestetilbud ikke var forsvarlig, noe Statsforvalteren skulle vurdert, jf. forvaltningsloven § 34 annet ledd.  
-   
- Ombudet ba Statsforvalteren om å vurdere saken på nytt og holde ombudet orientert om utfallet.
+Saken gjelder Statsforvalterens plikt til å prøve kommunens vurdering av krav til forsvarlige helse- og omsorgstjenester, jf. helse- og omsorgstjenesteloven § 4-1, i en klagesak om avslag på omsorgsstønad.  
+Klageren søkte om omsorgsstønad for omsorgsarbeid han utfører for sin sønn. Kommunen avslo søknaden under henvisning til at sønnen allerede hadde fått innvilget tilstrekkelige tjenester for å dekke sitt hjelpebehov. Vedtaket ble påklaget til Statsforvalteren, og klageren anførte at kommunens innvilgete tjenester ikke var i samsvar med kravet om nødvendige og forsvarlige helse- og omsorgstjenester. Statsforvalteren stadfestet kommunens vedtak, og viste til at arbeid som klageren gjorde ut over det kommunen hadde vurdert som nødvendig og forsvarlig, ikke ga grunnlag for omsorgsstønad. Statsforvalteren foretok ikke noen selvstendig prøving av kommunens forsvarlighetsvurdering.  
+Sivilombudet er kommet til at Statsforvalteren skulle ha foretatt en selvstendig vurdering av kommunens konklusjon om at det innvilgete tjenestetilbudet til klagerens sønn var i samsvar med forsvarlighetskravet i helse- og omsorgstjenesteloven § 4-1. Dette underbygges av at klagerens sentrale anførsel var at sønnens tjenestetilbud ikke var forsvarlig, noe Statsforvalteren skulle vurdert, jf. forvaltningsloven § 34 annet ledd.  
+Ombudet ba Statsforvalteren om å vurdere saken på nytt og holde ombudet orientert om utfallet.
 
 Se oppdatering fra forvaltningen
 

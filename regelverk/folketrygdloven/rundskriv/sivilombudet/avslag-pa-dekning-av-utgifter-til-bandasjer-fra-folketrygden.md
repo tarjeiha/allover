@@ -14,11 +14,9 @@ Sivilombudets uttalelse 9.10.2026 (sak 2026/1239).
 
 ## Oppsummering
 
-Saken gjelder avslag på refusjon av utgifter til bandasjer på bakgrunn av rundskriv R05-22, jf. folketrygdloven § 5-22 (bidragsordningen). Helfo avslo refusjonskravet, og Nasjonalt klageorgan for helsetjenesten (Helseklage) stadfestet avslaget under henvisning til at grossisten bandasjene var kjøpt hos, ikke var apotek eller bandasjist i tråd med R05-22.   
-   
- Sivilombudet kom til at Helseklage hadde lagt til grunn en for snever tolkning av begrepet bandasjist. En bandasjist må her forståes som et salgssted som selger bandasjer. Ombudet har på denne bakgrunn bedt Helseklage om å behandle saken på nytt.   
-   
- Ombudet ba videre Helsedirektoratet vurdere behovet for klargjøring i regelverket, ettersom bandasjist er et begrep som har gått ut av dagligtalen.
+Saken gjelder avslag på refusjon av utgifter til bandasjer på bakgrunn av rundskriv R05-22, jf. folketrygdloven § 5-22 (bidragsordningen). Helfo avslo refusjonskravet, og Nasjonalt klageorgan for helsetjenesten (Helseklage) stadfestet avslaget under henvisning til at grossisten bandasjene var kjøpt hos, ikke var apotek eller bandasjist i tråd med R05-22.  
+Sivilombudet kom til at Helseklage hadde lagt til grunn en for snever tolkning av begrepet bandasjist. En bandasjist må her forståes som et salgssted som selger bandasjer. Ombudet har på denne bakgrunn bedt Helseklage om å behandle saken på nytt.  
+Ombudet ba videre Helsedirektoratet vurdere behovet for klargjøring i regelverket, ettersom bandasjist er et begrep som har gått ut av dagligtalen.
 
 ## Sakens bakgrunn
 

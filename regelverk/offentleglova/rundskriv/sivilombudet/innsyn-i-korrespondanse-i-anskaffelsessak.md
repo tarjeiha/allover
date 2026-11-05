@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.1.2020 (sak 2019/4197).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i korrespondanse mellom Steigen kommune og Bodø kommune i forbindelse med en anskaffelsessak og senere sak for Klagenemnda for offentlige anskaffelser. Steigen kommune avslo kravet med henvisning til offentleglova § 15 om interne dokumenter. Fylkesmannen i Nordland omgjorde vedtaket delvis ved å gi innsyn i enkelte dokumenter. Tre e-poster ble unntatt offentlighet med henvisning til offentleglova § 15 annet ledd, § 18 om rettssaksdokument og § 23 om hensynet til kommunens forhandlingsposisjon.  
-   
- Ombudsmannen er kommet til at Fylkesmannens begrunnelse etterlater «begrunnet tvil», jf. sivilombudsmannsloven § 10 annet ledd, til om vilkårene for unntak etter offentleglova § 15 annet ledd og § 23 første ledd er oppfylt. Videre er ombudsmannen kommet til at vilkårene for unntak etter offentleglova § 18 ikke er oppfylt. Fylkesmannens meroffentlighetsvurdering er også mangelfull.  
-   
- Ombudsmannen ber Fylkesmannen vurdere innsynskravet på nytt.
+Ombudsmannen er kommet til at Fylkesmannens begrunnelse etterlater «begrunnet tvil», jf. sivilombudsmannsloven § 10 annet ledd, til om vilkårene for unntak etter offentleglova § 15 annet ledd og § 23 første ledd er oppfylt. Videre er ombudsmannen kommet til at vilkårene for unntak etter offentleglova § 18 ikke er oppfylt. Fylkesmannens meroffentlighetsvurdering er også mangelfull.  
+Ombudsmannen ber Fylkesmannen vurdere innsynskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

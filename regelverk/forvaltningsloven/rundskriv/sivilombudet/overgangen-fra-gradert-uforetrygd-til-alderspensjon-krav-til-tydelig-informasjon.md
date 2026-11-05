@@ -16,8 +16,7 @@ Sivilombudets uttalelse 16.6.2025 (sak 2025/258 ).
 ## Oppsummering
 
 Saken gjelder informasjonen som Nav gir til personer med gradert uføretrygd ved overgangen til alderspensjon. Bakgrunnen er NRKs omtale av en pensjonist som i flere år mottok 50 % alderspensjon uten å være klar over retten til full pensjonsutbetaling. Navs praksis er at personer med gradert uføretrygd automatisk får tildelt alderspensjon i samme grad som uføregraden ved fylte 67 år. Personen må selv be om en høyere uttaksgrad om han ønsker det.  
-   
- Sivilombudet er kommet til at Nav ikke gir tilstrekkelig klar informasjon om retten til full alderspensjon. Formuleringer i brevene fra Nav om at brukeren må «søke» om endret utbetaling, kan gi inntrykk av at full pensjon ikke er en rettighet, men noe som krever nærmere vurdering. Selv om Nav ikke har brutt veiledningsplikten etter forvaltningsloven § 11, mener ombudet at praksisen er i strid med god forvaltningsskikk. Ombudet ber direktoratet om å endre brevene og vurdere ytterligere veiledning til brukerne.
+Sivilombudet er kommet til at Nav ikke gir tilstrekkelig klar informasjon om retten til full alderspensjon. Formuleringer i brevene fra Nav om at brukeren må «søke» om endret utbetaling, kan gi inntrykk av at full pensjon ikke er en rettighet, men noe som krever nærmere vurdering. Selv om Nav ikke har brutt veiledningsplikten etter forvaltningsloven § 11, mener ombudet at praksisen er i strid med god forvaltningsskikk. Ombudet ber direktoratet om å endre brevene og vurdere ytterligere veiledning til brukerne.
 
 Se oppdatering fra forvaltningen
 

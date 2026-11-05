@@ -14,11 +14,9 @@ Sivilombudets uttalelse 25.6.2024 (sak 2024/1706).
 
 ## Oppsummering
 
-Saken gjelder Nav i X kommunes behandling av en klage over avslag på søknad om kommunal bolig. Nav behandlet klagen internt, uten å oversende saken til en klageinstans. Sivilombudet vurderte om Nav hadde oppfylt forvaltningslovens regler om klage, herunder om Nav hadde endret eller opphevet det påklagde vedtaket på en slik måte at det ikke var behov for klagebehandling hos et overordnet organ. For det tilfelle at klagen skulle vært oversendt til en klageinstans, vurderte ombudet videre hva som er rett klageinstans i saken.   
-   
- Sivilombudet har kommet til at Navs behandling av klagen ikke er i tråd med forvaltningslovens regler. Rett klageinstans for klagen er Klagenemnda i X kommune. Klagen skulle derfor vært oversendt dit, jf. forvaltningsloven § 33 fjerde ledd. Ettersom den ikke ble det, fikk ikke klageren oppfylt sin rett til å få klagen behandlet av et overordnet organ, jf. forvaltningsloven § 28 første ledd.   
-   
- Sivilombudet ba Nav om å oversende klagen til Klagenemnda for endelig behandling der, med Sivilombudet i kopi. Videre ba ombudet Nav om å gjennomgå egne rutiner for å sikre at Navs vedtak får en reell klagebehandling, i tråd med forvaltningslovens regler.
+Saken gjelder Nav i X kommunes behandling av en klage over avslag på søknad om kommunal bolig. Nav behandlet klagen internt, uten å oversende saken til en klageinstans. Sivilombudet vurderte om Nav hadde oppfylt forvaltningslovens regler om klage, herunder om Nav hadde endret eller opphevet det påklagde vedtaket på en slik måte at det ikke var behov for klagebehandling hos et overordnet organ. For det tilfelle at klagen skulle vært oversendt til en klageinstans, vurderte ombudet videre hva som er rett klageinstans i saken.  
+Sivilombudet har kommet til at Navs behandling av klagen ikke er i tråd med forvaltningslovens regler. Rett klageinstans for klagen er Klagenemnda i X kommune. Klagen skulle derfor vært oversendt dit, jf. forvaltningsloven § 33 fjerde ledd. Ettersom den ikke ble det, fikk ikke klageren oppfylt sin rett til å få klagen behandlet av et overordnet organ, jf. forvaltningsloven § 28 første ledd.  
+Sivilombudet ba Nav om å oversende klagen til Klagenemnda for endelig behandling der, med Sivilombudet i kopi. Videre ba ombudet Nav om å gjennomgå egne rutiner for å sikre at Navs vedtak får en reell klagebehandling, i tråd med forvaltningslovens regler.
 
 Se oppdatering fra forvaltningen
 

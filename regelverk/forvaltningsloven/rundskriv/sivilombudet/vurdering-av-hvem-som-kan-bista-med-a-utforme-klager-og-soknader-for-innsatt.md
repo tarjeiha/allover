@@ -14,11 +14,9 @@ Sivilombudets uttalelse 3.11.2021 (sak 2021/2523).
 
 ## Oppsummering
 
-Saken gjelder Kriminalomsorgsdirektoratets vurdering av hvem som kan bistå innsatte med å utforme klager og søknader. I et brev til en innsatt viste direktoratet til at straffegjennomføringsloven § 7 bokstav a sammenholdt med veiledningsplikten i forvaltningsloven § 11 og rundskriv KSF 02/2002 gir kriminalomsorgen hjemmel til å nekte en innsatt å bistå andre innsatte med å uforme klager og søknader.   
-   
- Etter Sivilombudets undersøkelser modererte direktoratet sitt standpunkt. Sivilombudet og direktoratet er dermed enige om at det ikke er hjemmel i straffegjennomføringsloven § 7 bokstav a, veiledningsplikten eller KSF 02/2002 til å nekte innsatte å bistå medinnsatte med å utforme klager eller søknader, så fremt de ikke opptrer som fullmektig. Ombudet fant likevel grunn til å kommentere direktoratets vurdering av at regelverket sett i sammenheng legger opp til at slik bistand skal ytes av advokater, eksterne fullmektiger eller kriminalomsorgens ansatte, fremfor andre innsatte. Etter ombudets syn kan rettskildene direktoratet viser til verken enkeltvis eller sett i sammenheng tolkes slik.  
-   
- Etter ombudets syn er det usikkert hvorvidt alle kriminalomsorgens enheter praktiserer regelverket i tråd med ombudets vurderinger. Ombudet ber derfor direktoratet påse at innholdet i ombudets uttalelse blir gjort kjent for kriminalomsorgens enheter.
+Saken gjelder Kriminalomsorgsdirektoratets vurdering av hvem som kan bistå innsatte med å utforme klager og søknader. I et brev til en innsatt viste direktoratet til at straffegjennomføringsloven § 7 bokstav a sammenholdt med veiledningsplikten i forvaltningsloven § 11 og rundskriv KSF 02/2002 gir kriminalomsorgen hjemmel til å nekte en innsatt å bistå andre innsatte med å uforme klager og søknader.  
+Etter Sivilombudets undersøkelser modererte direktoratet sitt standpunkt. Sivilombudet og direktoratet er dermed enige om at det ikke er hjemmel i straffegjennomføringsloven § 7 bokstav a, veiledningsplikten eller KSF 02/2002 til å nekte innsatte å bistå medinnsatte med å utforme klager eller søknader, så fremt de ikke opptrer som fullmektig. Ombudet fant likevel grunn til å kommentere direktoratets vurdering av at regelverket sett i sammenheng legger opp til at slik bistand skal ytes av advokater, eksterne fullmektiger eller kriminalomsorgens ansatte, fremfor andre innsatte. Etter ombudets syn kan rettskildene direktoratet viser til verken enkeltvis eller sett i sammenheng tolkes slik.  
+Etter ombudets syn er det usikkert hvorvidt alle kriminalomsorgens enheter praktiserer regelverket i tråd med ombudets vurderinger. Ombudet ber derfor direktoratet påse at innholdet i ombudets uttalelse blir gjort kjent for kriminalomsorgens enheter.
 
 ## Sakens bakgrunn
 

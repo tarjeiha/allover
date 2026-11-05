@@ -15,8 +15,7 @@ Sivilombudets uttalelse 28.9.2016 (sak 2014/2874).
 ## Oppsummering
 
 Saken gjelder et ferdselsforbud som ble gitt av Hordaland politidistrikt i forbindelse med en demonstrasjon mot byggingen av en kraftlinje i Hardanger. I henhold til ordlyden i skrivet som ble delt ut av politiet, gjaldt ferdselsforbudet frem til utbyggingen av kraftlinjen var ferdig. I praksis innebar dette et ferdselsforbud på mer enn to år.  
-   
- Politidirektoratets klagebehandling er kritikkverdig, da det er bygget på faktiske forutsetninger for avgjørelsen som ikke er dokumentert. Ombudsmannen finner videre grunn til å kritisere at ferdselsforbudet ikke ble dokumentert i politiets operasjonslogg eller ved andre nedtegnelser hos politiet. Etter ombudsmannens vurdering gir ikke politiloven § 7 politiet hjemmel til å ilegge et individuelt forbud av så lang varighet som i denne saken. Forbudet må dermed anses som ugyldig.
+Politidirektoratets klagebehandling er kritikkverdig, da det er bygget på faktiske forutsetninger for avgjørelsen som ikke er dokumentert. Ombudsmannen finner videre grunn til å kritisere at ferdselsforbudet ikke ble dokumentert i politiets operasjonslogg eller ved andre nedtegnelser hos politiet. Etter ombudsmannens vurdering gir ikke politiloven § 7 politiet hjemmel til å ilegge et individuelt forbud av så lang varighet som i denne saken. Forbudet må dermed anses som ugyldig.
 
 ## Uttalelse
 
@@ -53,7 +52,7 @@ Ombudsmannen ba videre om at Politidirektoratet redegjorde for hva som var grunn
 Til slutt i brevet ble det vist til at A hadde oppfattet det slik at hun var ilagt ferdselsforbud frem til hele kraftlinjen var ferdigstilt. Overlevering fra utbyggeren og idriftsetting av linjen fant først sted på senhøsten 2013, dvs. mer enn to år etter hendelsen 26. august 2011. Direktoratet ble på denne bakgrunn bedt om å uttale seg om hvor langvarige forbud enkeltpersoner kan ilegges med hjemmel i politiloven § 7.
 
 Etter flere purringer fra ombudsmannen svarte Politidirektoratet i brev  
- 8. mai 2015. Direktoratet opplyste at ferdselsforbud som er rettet mot allmenheten eller som er av stor allmenn interesse, besluttes på politimesternivå. Det fremgikk at det i det aktuelle tilfellet var visepolitimesteren i Hordaland som tok stilling til spørsmålet om ileggelse av ferdselsforbud, og at vedtaket ble meddelt av tjenestepersoner på stedet hvor den ulovlige demonstrasjonen fant sted. For en nærmere begrunnelse for det aktuelle forbudet ble det vist til redegjørelsen fra Hordaland politidistrikt i oversendelsesbrev 26. september 2012 til direktoratet.
+8. mai 2015. Direktoratet opplyste at ferdselsforbud som er rettet mot allmenheten eller som er av stor allmenn interesse, besluttes på politimesternivå. Det fremgikk at det i det aktuelle tilfellet var visepolitimesteren i Hordaland som tok stilling til spørsmålet om ileggelse av ferdselsforbud, og at vedtaket ble meddelt av tjenestepersoner på stedet hvor den ulovlige demonstrasjonen fant sted. For en nærmere begrunnelse for det aktuelle forbudet ble det vist til redegjørelsen fra Hordaland politidistrikt i oversendelsesbrev 26. september 2012 til direktoratet.
 
 Når det gjaldt spørsmålet om hva som faktisk ble meddelt A i forbindelse med demonstrasjonen 26. august 2011, uttalte direktoratet følgende:
 
@@ -188,7 +187,7 @@ Tilsvarende har departementet lagt til grunn følgende når det gjelder politilo
 Når det gjelder inngrep for å avverge lovbrudd, forutsettes det, som ved situasjoner med fare for ordenskrenkelser og sikkerhetstrusler, at det foreligger en konkret og nærliggende risiko. Ordet «avverge» er brukt i stedet for «forebygge» for å få frem at lovbruddet må være nært forestående.»
 
 I forbindelse med vedtakelsen av reglene om oppholdsforbud i straffeprosessloven  
- § 222 b ble politiloven § 7 omtalt i Ot.prp. nr. 85 (1996 – 1997) side 2:
+§ 222 b ble politiloven § 7 omtalt i Ot.prp. nr. 85 (1996 – 1997) side 2:
 
 «Politiloven § 7 om politiets generalfullmakt gir derimot politiet en viss adgang til å ilegge oppholdsforbud før noe lovbrudd er begått for å ivareta enkeltpersoners eller allmennhetens sikkerhet. Bestemmelsen gir bare adgang til å ilegge oppholdsforbud av begrenset varighet.»
 

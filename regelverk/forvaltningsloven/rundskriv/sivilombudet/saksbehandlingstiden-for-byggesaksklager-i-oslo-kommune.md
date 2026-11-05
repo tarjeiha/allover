@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.2.2020 (sak 2018/756).
 ## Oppsummering
 
 Saken gjelder saksbehandlingstiden for byggesaksklager i Oslo kommune. På bakgrunn av en klage hit, etterspurte ombudsmannen generell informasjon om restanser og saksbehandlingstid i byggesaksklager etter plan- og bygningsloven i kommunen.  
-   
- Etter byggesaksforskriften skal byggesaksklager være ferdigbehandlet i kommunen innen åtte uker. Ombudsmannen konstaterer at saksbehandlingstiden for klager som behandles politisk i Oslo kommune, er vesentlig lengre enn forskriftskravet.  
-   
- Ombudsmannen ber Oslo kommune sørge for at byggesaksklager behandles innenfor fristene i byggesaksforskriften. Herunder ber ombudsmannen kommunen iverksette ytterligere tiltak for å sikre at fristene blir overholdt, også i klagesaker som blir behandlet politisk.
+Etter byggesaksforskriften skal byggesaksklager være ferdigbehandlet i kommunen innen åtte uker. Ombudsmannen konstaterer at saksbehandlingstiden for klager som behandles politisk i Oslo kommune, er vesentlig lengre enn forskriftskravet.  
+Ombudsmannen ber Oslo kommune sørge for at byggesaksklager behandles innenfor fristene i byggesaksforskriften. Herunder ber ombudsmannen kommunen iverksette ytterligere tiltak for å sikre at fristene blir overholdt, også i klagesaker som blir behandlet politisk.
 
 Se oppdatering fra forvaltningen
 
@@ -91,7 +89,7 @@ Etter gjeldende rett er det i byggesaksforskriften § 7-1 første ledd bokstav c
 Sivilombudet fastholder uttalelsen 14. februar 2020 og ber Oslo kommune sørge for at byggesaksklager behandles innenfor fristene i byggesaksforskriften.
 
 Det bes om at Oslo kommune orienterer Sivilombudet når saken om delegering av byutviklingsutvalgets myndighet er behandlet i bystyret.  
- Sivilombudet vil følge med på behandlingstiden i byggesaksklager i Oslo kommune og vil vurdere fortløpende om det er grunnlag for å opprette av eget tiltak en undersøkelse på generelt grunnlag rettet mot kommunen.»
+Sivilombudet vil følge med på behandlingstiden i byggesaksklager i Oslo kommune og vil vurdere fortløpende om det er grunnlag for å opprette av eget tiltak en undersøkelse på generelt grunnlag rettet mot kommunen.»
 
 Kommunal- og moderniseringsdepartementet ble tilsendt en kopi av brevet til orientering.
 

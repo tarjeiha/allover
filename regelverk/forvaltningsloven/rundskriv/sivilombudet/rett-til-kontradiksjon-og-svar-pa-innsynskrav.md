@@ -14,15 +14,11 @@ Sivilombudets uttalelse 22.1.2026 (sak 2025/5533).
 
 ## Oppsummering
 
-Saken gjelder klagerens rett til kontradiksjon og innsyn i saksdokumenter i sak om fastsettelse av barnebidrag tilbake i tid, jf. barneloven § 72 andre punktum. I avslagsvedtaket fra Nav familie- og pensjonsytelser stod det at bidragspliktige var varslet og hadde uttalt seg. Klageren henvendte seg til Nav kontaktsenter og ba om å få tilsendt uttalelsen. Henvendelsen ble ikke fulgt opp.   
-   
- Klageren klaget på vedtaket. Bidragspliktige kom med tilsvar til klagen 27. februar 2024 som ikke ble sendt i kopi til klageren.   
-   
- Da Nav familie- og pensjonsytelser oversendte saken til Nav klageinstans, ble det vist til tilsvaret fra bidragspliktige 27. februar 2024. Klageren ba da på nytt om å få oversendt uttalelsen hun tidligere hadde etterlyst og tilsvaret datert 27. februar 2024. Klageren ba også om innsyn i hele saksmappen og ga samtidig uttrykk for at det var behov for å få belyst saken nærmere før den ble endelig avgjort. Nav klageinstans traff endelig vedtak i saken før klageren fikk svar på innsynskravet.   
-   
- Sivilombudet kom til at Nav hadde brutt utrednings- og informasjonsplikten etter forvaltningsloven § 17. Klageren fikk ikke tilsendt bidragspliktiges tilsvar før saken ble endelig avgjort, og retten til kontradiksjon ble ikke ivaretatt. Sivilombudet kom derfor til at saken ikke ble forsvarlig behandlet.   
-   
- Sivilombudet har bedt Nav klageinstans om å behandle saken på nytt, jf. sivilombudsloven §§ 12 første ledd bokstav c og 12 andre ledd.
+Saken gjelder klagerens rett til kontradiksjon og innsyn i saksdokumenter i sak om fastsettelse av barnebidrag tilbake i tid, jf. barneloven § 72 andre punktum. I avslagsvedtaket fra Nav familie- og pensjonsytelser stod det at bidragspliktige var varslet og hadde uttalt seg. Klageren henvendte seg til Nav kontaktsenter og ba om å få tilsendt uttalelsen. Henvendelsen ble ikke fulgt opp.  
+Klageren klaget på vedtaket. Bidragspliktige kom med tilsvar til klagen 27. februar 2024 som ikke ble sendt i kopi til klageren.  
+Da Nav familie- og pensjonsytelser oversendte saken til Nav klageinstans, ble det vist til tilsvaret fra bidragspliktige 27. februar 2024. Klageren ba da på nytt om å få oversendt uttalelsen hun tidligere hadde etterlyst og tilsvaret datert 27. februar 2024. Klageren ba også om innsyn i hele saksmappen og ga samtidig uttrykk for at det var behov for å få belyst saken nærmere før den ble endelig avgjort. Nav klageinstans traff endelig vedtak i saken før klageren fikk svar på innsynskravet.  
+Sivilombudet kom til at Nav hadde brutt utrednings- og informasjonsplikten etter forvaltningsloven § 17. Klageren fikk ikke tilsendt bidragspliktiges tilsvar før saken ble endelig avgjort, og retten til kontradiksjon ble ikke ivaretatt. Sivilombudet kom derfor til at saken ikke ble forsvarlig behandlet.  
+Sivilombudet har bedt Nav klageinstans om å behandle saken på nytt, jf. sivilombudsloven §§ 12 første ledd bokstav c og 12 andre ledd.
 
 ## Sakens bakgrunn
 

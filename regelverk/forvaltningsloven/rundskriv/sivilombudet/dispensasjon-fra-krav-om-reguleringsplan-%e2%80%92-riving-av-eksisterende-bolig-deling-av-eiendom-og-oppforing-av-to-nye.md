@@ -15,8 +15,7 @@ Sivilombudets uttalelse 2.7.2020 (sak 2019/4292).
 ## Oppsummering
 
 Saken gjelder søknad om dispensasjon fra kommuneplanens krav om reguleringsplan for riving av eksisterende bolig på en eiendom i Klepp kommune, deling av eiendommen og oppføring av to nye boliger med carporter. Eiendommen ligger i et uregulert boligområde med i alt 40 eneboliger, der eiendommene er av tilnærmet størrelse og karakter. Fylkesmannen i Rogaland stadfestet Klepp kommunes vedtak om dispensasjon.  
-   
- Ombudsmannen har kommet til at det knytter seg begrunnet tvil til spørsmålet om hensynene bak det generelle plankravet ikke vil bli vesentlig tilsidesatt ved en dispensasjon, jf. plan- og bygningsloven § 19-2 andre ledd første punktum. Videre fremstår Fylkesmannens vurdering av om fordelene ved å gi dispensasjon er «klart større» enn ulempene, jf. § 19-2 andre ledd andre punktum, som mangelfull. Fylkesmannen har vektlagt momenter som vanskelig kan sees å være relevante for spørsmålet om fordelene ved å dispensere fra plankravet er klart større enn ulempene etter en samlet vurdering. Flere relevante momenter er ikke, eller bare i liten grad, berørt. Ombudsmannen ber om at saken behandles på nytt.
+Ombudsmannen har kommet til at det knytter seg begrunnet tvil til spørsmålet om hensynene bak det generelle plankravet ikke vil bli vesentlig tilsidesatt ved en dispensasjon, jf. plan- og bygningsloven § 19-2 andre ledd første punktum. Videre fremstår Fylkesmannens vurdering av om fordelene ved å gi dispensasjon er «klart større» enn ulempene, jf. § 19-2 andre ledd andre punktum, som mangelfull. Fylkesmannen har vektlagt momenter som vanskelig kan sees å være relevante for spørsmålet om fordelene ved å dispensere fra plankravet er klart større enn ulempene etter en samlet vurdering. Flere relevante momenter er ikke, eller bare i liten grad, berørt. Ombudsmannen ber om at saken behandles på nytt.
 
 Se oppdatering fra forvaltningen
 

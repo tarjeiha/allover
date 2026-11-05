@@ -15,8 +15,7 @@ Sivilombudets uttalelse 18.10.2024 (sak 2024/3487).
 ## Oppsummering
 
 Saken gjelder retten til gratis skyss for et barn med krav på spesialpedagogisk hjelp. Moren søkte om gratis skyss til Barnehage 2, da hun mente at sønnen ikke fikk den hjelpen han trengte i Barnehage 1, som lå i gangavstand fra hjemmet. X kommune avslo søknaden, og Statsforvalteren opprettholdt avslaget med den begrunnelse at sønnen kunne motta nødvendig spesialpedagogisk hjelp i Barnehage 1.  
-   
- Sivilombudet er kommet til at Statsforvalterens vedtak ikke oppfyller kravet til begrunnelse etter forvaltningsloven § 25. Statsforvalteren har ikke gitt tilstrekkelig begrunnelse for hvorfor de mente at sønnen fikk nødvendig hjelp i Barnehage 1, til tross for morens innvendinger. Videre mener ombudet at saken ikke var godt nok opplyst, da det mangler rapporter eller evalueringer om barnets opphold i Barnehage 1.
+Sivilombudet er kommet til at Statsforvalterens vedtak ikke oppfyller kravet til begrunnelse etter forvaltningsloven § 25. Statsforvalteren har ikke gitt tilstrekkelig begrunnelse for hvorfor de mente at sønnen fikk nødvendig hjelp i Barnehage 1, til tross for morens innvendinger. Videre mener ombudet at saken ikke var godt nok opplyst, da det mangler rapporter eller evalueringer om barnets opphold i Barnehage 1.
 
 ## Sakens bakgrunn
 
@@ -53,8 +52,8 @@ Saken gjelder retten til gratis skyss for barn med krav på spesialpedagogisk hj
 Barnehageloven § 36 åpner for at barn som mottar spesialpedagogisk hjelp, kan ha krav på gratis skyss:
 
 «Dersom gratis skyss er nødvendig for at barnet skal kunne motta spesialpedagogisk hjelp, har barnet rett til slik skyss.  
- Barnet har rett til nødvendig reisefølge og tilsyn. Kommunen skal innlosjere barnet når daglig skyss ikke er forsvarlig.  
- Kommunen skal fatte vedtak om og oppfylle retten til skyss, nødvendig reisefølge, tilsyn og innlosjering.»
+Barnet har rett til nødvendig reisefølge og tilsyn. Kommunen skal innlosjere barnet når daglig skyss ikke er forsvarlig.  
+Kommunen skal fatte vedtak om og oppfylle retten til skyss, nødvendig reisefølge, tilsyn og innlosjering.»
 
 Lovgiver har uttalt om bestemmelsen at «[u]forholdsmessig store byrder i form av skyss [ikke bør] hindre at barnet kan motta nødvendig hjelp eller opplæring», jf. Prop.103 L (2015-2016) på side 56. På samme sted i forarbeidene står det at retten til gratis skyss krever at foreldrene har «vesentlig større byrder» knyttet til skyssen enn andre foreldre med barn i barnehage.
 

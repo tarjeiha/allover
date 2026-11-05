@@ -15,9 +15,8 @@ Sivilombudets uttalelse 29.5.2020 (sak 2020/253).
 
 ## Oppsummering
 
-Saken gjelder Fylkesmannens kompetanse i klagesaker om rett til kvalifiseringsprogram etter sosialtjenesteloven.   
-   
- Ombudsmannen er kommet til at Fylkesmannens vedtak etterlater tvil om det foretatt en reell klagebehandling av avslaget på kvalifiseringsprogram, slik sosialtjenesteloven § 48 og forvaltningsloven § 34 krever. Den nye utdypende redegjørelsen i svaret hit tilsier imidlertid at feilen ikke har hatt betydning for utfallet i saken. Ombudsmannen ber om at Fylkesmannen vurderer om det er grunn til å forbedre rutinene for å sikre at behandlingen av klager over avslag på kvalifiseringsprogram gjennomføres og begrunnes i samsvar med sosialtjenesteloven § 48 og forvaltningsloven § 34.
+Saken gjelder Fylkesmannens kompetanse i klagesaker om rett til kvalifiseringsprogram etter sosialtjenesteloven.  
+Ombudsmannen er kommet til at Fylkesmannens vedtak etterlater tvil om det foretatt en reell klagebehandling av avslaget på kvalifiseringsprogram, slik sosialtjenesteloven § 48 og forvaltningsloven § 34 krever. Den nye utdypende redegjørelsen i svaret hit tilsier imidlertid at feilen ikke har hatt betydning for utfallet i saken. Ombudsmannen ber om at Fylkesmannen vurderer om det er grunn til å forbedre rutinene for å sikre at behandlingen av klager over avslag på kvalifiseringsprogram gjennomføres og begrunnes i samsvar med sosialtjenesteloven § 48 og forvaltningsloven § 34.
 
 ## Sakens bakgrunn
 

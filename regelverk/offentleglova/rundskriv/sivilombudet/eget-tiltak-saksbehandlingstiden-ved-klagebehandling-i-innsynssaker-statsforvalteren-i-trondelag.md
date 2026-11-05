@@ -15,10 +15,8 @@ Sivilombudets uttalelse 18.11.2021 (sak 2021/4065).
 ## Oppsummering
 
 Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt saksbehandlingstiden i innsynssaker hos Statsforvalteren i Trøndelag. Undersøkelsen viste at Statsforvalteren har en gjennomsnittlig saksbehandlingstid på mellom en og to måneder ved behandling av innsynsklager.  
-   
- Etter ombudets syn er saksbehandlingstiden hos Statsforvalteren i Trøndelag for lang og ikke i tråd med kravet til at klager skal avgjøres «utan ugrunna opphald», jf. offentleglova § 32 tredje ledd.  
-   
- Ombudet ber om tilbakemelding på utvikling i saken, herunder oppdaterte tall for restanser og gjennomsnittlig saksbehandlingstid innen 17. februar 2022. Det bes samtidig om at det redegjøres for tiltakene Statsforvalteren har iverksatt for å redusere saksbehandlingstiden.
+Etter ombudets syn er saksbehandlingstiden hos Statsforvalteren i Trøndelag for lang og ikke i tråd med kravet til at klager skal avgjøres «utan ugrunna opphald», jf. offentleglova § 32 tredje ledd.  
+Ombudet ber om tilbakemelding på utvikling i saken, herunder oppdaterte tall for restanser og gjennomsnittlig saksbehandlingstid innen 17. februar 2022. Det bes samtidig om at det redegjøres for tiltakene Statsforvalteren har iverksatt for å redusere saksbehandlingstiden.
 
 Se oppdatering fra forvaltningen
 

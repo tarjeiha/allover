@@ -15,8 +15,7 @@ Sivilombudets uttalelse 7.7.2022 (sak 2022/1334).
 ## Oppsummering
 
 Saken gjelder tilbakekall av godkjenning av en barnehage som over en lengre periode hadde hatt flere avvik knyttet til innemiljøet. Statsforvalteren anga at godkjenningen var trukket tilbake i medhold av den ulovfestede vilkårslæren.  
-   
- Sivilombudets undersøkelse har vært rettet mot det rettslige grunnlaget for å trekke godkjenningen tilbake. Hverken folkehelseloven eller forskrift om miljørettet helsevern i barnehager og skoler m.v. har uttrykkelige regler om tilbakekall av godkjenning. Etter ombudets syn kan en godkjenning omgjøres etter alminnelige forvaltningsrettslige regler. For at omgjøring i form av å trekke en gitt godkjenning tilbake skal kunne foretas, må de hensyn som taler for omgjøring, veie vesentlig tyngre enn de som taler imot. Ombudet ber Statsforvalteren merke seg disse synspunktene for fremtidige saker.
+Sivilombudets undersøkelse har vært rettet mot det rettslige grunnlaget for å trekke godkjenningen tilbake. Hverken folkehelseloven eller forskrift om miljørettet helsevern i barnehager og skoler m.v. har uttrykkelige regler om tilbakekall av godkjenning. Etter ombudets syn kan en godkjenning omgjøres etter alminnelige forvaltningsrettslige regler. For at omgjøring i form av å trekke en gitt godkjenning tilbake skal kunne foretas, må de hensyn som taler for omgjøring, veie vesentlig tyngre enn de som taler imot. Ombudet ber Statsforvalteren merke seg disse synspunktene for fremtidige saker.
 
 ## Sakens bakgrunn
 

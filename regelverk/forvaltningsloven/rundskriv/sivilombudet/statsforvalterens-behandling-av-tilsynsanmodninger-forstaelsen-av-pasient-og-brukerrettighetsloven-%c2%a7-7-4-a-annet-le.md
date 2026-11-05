@@ -16,20 +16,13 @@ Sivilombudets uttalelse 21.4.2024 (sak 2023/3571).
 ## Oppsummering
 
 Saken gjelder Statsforvalteren i Oslo og Vikens behandling av tilsynssak etter varsel om alvorlig hendelse der en pasient døde dagen etter å ha blitt innlagt på sykehus. Avdødes nærmeste pårørende henvendte seg i tillegg til Statsforvalteren med ønske om tilsynssak.  
-   
- Etter å ha mottatt tilbakemelding fra sykehuset, vurderte Statsforvalteren at virksomheten hadde fulgt opp forholdet i tråd med krav i forskrift om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten. Det tok 18 måneder fra varslet ble mottatt til saken først ble avsluttet. I en ny henvendelse fremla pårørende sakkyndigerklæringer med vurderinger om at konkrete forhold ikke var i tråd med god praksis og at dødsfallet mest sannsynlig kunne ha vært unngått. Statsforvalteren oversendte disse erklæringene til virksomheten for oppfølging som ledd i deres kvalitetsarbeid.  
-   
- I uttalelsen redegjorde ombudet for sitt syn på vilkårene for at statsforvalteren skal følge opp en anmodning etter pasient- og brukerrettighetsloven § 7-4 med egne undersøkelser. Ombudet uttalte seg også om hva som ligger i begrepene «foreligger forhold som er til fare for pasient- og brukersikkerheten» og «grunn til å anta» i § 7-4 a annet ledd annet punktum. Ombudet tok dessuten stilling til hva som ligger i å «undersøke» et forhold.   
-   
- Videre kom ombudet til at statsforvalteren alltid må vurdere om det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten ved valg av oppfølging (behandlingsmåte) av en anmodning om tilsyn. Vurderingen skal fremgå av begrunnelsen som gis til den som har anmodet om tilsyn.   
-   
- I den aktuelle saken kom ombudet til at saksbehandlingstiden på 18 måneder klart var i strid med forvaltningsloven § 11 a første ledd. Statsforvalteren overholdt heller ikke plikten til å gi de etterlatte et foreløpig svar, jf. § 11 a annet ledd.   
-   
- Ombudet mente videre at avdødes nærmeste pårørende hadde anmodet om tilsyn etter regelen i pasient- og brukerrettighetsloven § 7-4, slik at saksbehandlingsreglene i § 7-4 a kom direkte til anvendelse ved Statsforvalterens behandling av saken.  
-   
- Etter ombudets syn var det uklart om Statsforvalteren på bakgrunn av opplysningene som framkom i sakkyndigerklæringene hadde vurdert om det var grunn til å anta at det forelå forhold som var til fare for pasient- og brukersikkerheten. Hvorvidt dette var gjort, fremgikk ikke av tilbakemeldingen til pårørende eller saksdokumentene for øvrig. Ombudet ba derfor Statsforvalteren i Oslo og Viken behandle saken på nytt.   
-   
- Ombudet ba også Statsforvalteren merke seg ombudets syn på saksbehandlingskravene i pasient- og brukerrettighetsloven § 7-4 a annet og femte ledd ved behandlingen av fremtidige anmodninger om tilsyn etter § 7-4 første ledd.
+Etter å ha mottatt tilbakemelding fra sykehuset, vurderte Statsforvalteren at virksomheten hadde fulgt opp forholdet i tråd med krav i forskrift om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten. Det tok 18 måneder fra varslet ble mottatt til saken først ble avsluttet. I en ny henvendelse fremla pårørende sakkyndigerklæringer med vurderinger om at konkrete forhold ikke var i tråd med god praksis og at dødsfallet mest sannsynlig kunne ha vært unngått. Statsforvalteren oversendte disse erklæringene til virksomheten for oppfølging som ledd i deres kvalitetsarbeid.  
+I uttalelsen redegjorde ombudet for sitt syn på vilkårene for at statsforvalteren skal følge opp en anmodning etter pasient- og brukerrettighetsloven § 7-4 med egne undersøkelser. Ombudet uttalte seg også om hva som ligger i begrepene «foreligger forhold som er til fare for pasient- og brukersikkerheten» og «grunn til å anta» i § 7-4 a annet ledd annet punktum. Ombudet tok dessuten stilling til hva som ligger i å «undersøke» et forhold.  
+Videre kom ombudet til at statsforvalteren alltid må vurdere om det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten ved valg av oppfølging (behandlingsmåte) av en anmodning om tilsyn. Vurderingen skal fremgå av begrunnelsen som gis til den som har anmodet om tilsyn.  
+I den aktuelle saken kom ombudet til at saksbehandlingstiden på 18 måneder klart var i strid med forvaltningsloven § 11 a første ledd. Statsforvalteren overholdt heller ikke plikten til å gi de etterlatte et foreløpig svar, jf. § 11 a annet ledd.  
+Ombudet mente videre at avdødes nærmeste pårørende hadde anmodet om tilsyn etter regelen i pasient- og brukerrettighetsloven § 7-4, slik at saksbehandlingsreglene i § 7-4 a kom direkte til anvendelse ved Statsforvalterens behandling av saken.  
+Etter ombudets syn var det uklart om Statsforvalteren på bakgrunn av opplysningene som framkom i sakkyndigerklæringene hadde vurdert om det var grunn til å anta at det forelå forhold som var til fare for pasient- og brukersikkerheten. Hvorvidt dette var gjort, fremgikk ikke av tilbakemeldingen til pårørende eller saksdokumentene for øvrig. Ombudet ba derfor Statsforvalteren i Oslo og Viken behandle saken på nytt.  
+Ombudet ba også Statsforvalteren merke seg ombudets syn på saksbehandlingskravene i pasient- og brukerrettighetsloven § 7-4 a annet og femte ledd ved behandlingen av fremtidige anmodninger om tilsyn etter § 7-4 første ledd.
 
 Se oppdatering fra forvaltningen
 
@@ -170,8 +163,8 @@ Tidligere var statsforvalteren etter pasient- og brukerrettighetsloven § 7-4 a 
 Om endringene av tilsynsmyndighetens plikt til å behandle anmodninger om vurdering av mulig pliktbrudd i den nye bestemmelsen i § 7-4 a annet ledd, står det blant annet i proposisjonen kapittel 4.5:
 
 «Statsforvalteren vil i hver enkelt sak vurdere om det er nødvendig å utrede og vurdere om virksomheter og/eller helsepersonell har overholdt kravene i helselovgivningen og følge opp der det er grunnlag for det … Hvorvidt statsforvalteren skal gå videre med saken eller ikke, må vurderes ut fra den enkelte sak, der vurderingen av hvordan formålet til tilsynet best vil oppnås skal veie tyngst. Videre må statsforvalteren ta i betraktning hva den som anmoder ønsker å oppnå og eventuelle føringer i henvendelsen for hvordan saken skal følges opp. Dette skal imidlertid ikke være avgjørende dersom statsforvalteren mener saken vil avklares bedre i helse- og omsorgstjenesten eller om tilsynsmyndighetens virkemidler ikke vil være formålstjenlig.  
- …  
- I saker der det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten, skal statsforvalteren imidlertid snarest mulig undersøke forholdet.»
+…  
+I saker der det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten, skal statsforvalteren imidlertid snarest mulig undersøke forholdet.»
 
 Om annet punktum står det, som til dels alt nevnt, følgende i merknadene til § 7-4 a:
 

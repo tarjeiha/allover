@@ -14,13 +14,10 @@ Sivilombudets uttalelse 23.2.2025 (sak 2024/5478).
 
 ## Oppsummering
 
-Saken gjelder X kommunes saksbehandlingstid ved klage på vedtak om reduksjon av omsorgsstønad og tilbud om støttekontakt til en mindreårig gutt.   
-   
- Kommunen traff vedtak i februar 2023. Foreldrene til gutten gjorde det klart for kommunen at de var misfornøyde med tilbudet i brev 6. august 2023. Foreldrene anså brevet som en klage. Kommunen på sin side anså først brevet foreldrene sendte til kommunen 22. januar 2024 som en formell klage på tilbudet. Kommunen ga foreldrene medhold i klagen i vedtak 28. november 2024.   
-   
- Sivilombudet kom til at saken ikke ble avgjort «uten ugrunnet opphold», og at kommunen ikke holdt foreldrene tilstrekkelig orientert om sakens fremdrift underveis, jf. forvaltningsloven § 11 a første og andre ledd. Sivilombudet kom også til at kommunen ikke overholdt sin veiledningsplikt, jf. forvaltningsloven § 11 første ledd.   
-   
- Kommunens forsinkede svar på skriftlige og telefoniske henvendelser fra Sivilombudet i denne saken, var i strid med Stortingets forutsetning om at henvendelser fra Sivilombudet skal gis prioritet.
+Saken gjelder X kommunes saksbehandlingstid ved klage på vedtak om reduksjon av omsorgsstønad og tilbud om støttekontakt til en mindreårig gutt.  
+Kommunen traff vedtak i februar 2023. Foreldrene til gutten gjorde det klart for kommunen at de var misfornøyde med tilbudet i brev 6. august 2023. Foreldrene anså brevet som en klage. Kommunen på sin side anså først brevet foreldrene sendte til kommunen 22. januar 2024 som en formell klage på tilbudet. Kommunen ga foreldrene medhold i klagen i vedtak 28. november 2024.  
+Sivilombudet kom til at saken ikke ble avgjort «uten ugrunnet opphold», og at kommunen ikke holdt foreldrene tilstrekkelig orientert om sakens fremdrift underveis, jf. forvaltningsloven § 11 a første og andre ledd. Sivilombudet kom også til at kommunen ikke overholdt sin veiledningsplikt, jf. forvaltningsloven § 11 første ledd.  
+Kommunens forsinkede svar på skriftlige og telefoniske henvendelser fra Sivilombudet i denne saken, var i strid med Stortingets forutsetning om at henvendelser fra Sivilombudet skal gis prioritet.
 
 ## Sakens bakgrunn
 
@@ -39,7 +36,7 @@ Saken ble deretter skriftlig undersøkt av Sivilombudet 23. oktober 2024. Etter 
 Vi fant grunn til å undersøke saken nærmere med kommunen. I brev 23. oktober 2024 ble kommunen bedt om å besvare spørsmål om saksbehandlingstiden.
 
 Vi spurte kommunen om årsaken til at klagen (på undersøkelsestidspunktet) ikke var behandlet. Vi ba om en redegjørelse for saksbehandlingen fra 6. august 2023, da foreldrene mente å ha sendt klagen, og frem til i oktober 2024. Vi ba også om kommunens syn på om tidsbruken i saken hadde vært i tråd med forvaltningsloven  
- § 33 fjerde ledd og § 11 a, og om kommunen mente at foreldrene ble holdt tilstrekkelig orientert underveis i saken.
+§ 33 fjerde ledd og § 11 a, og om kommunen mente at foreldrene ble holdt tilstrekkelig orientert underveis i saken.
 
 Kommunen redegjorde for saksbehandlingen i brev til ombudet 28. november 2024. Kommunen anså ikke foreldrenes brev 6. august 2023 som en formell klage, men heller som spørsmål om tjenestetilbudet. Først da foreldrene sendte et nytt brev 22. januar 2024, hvor de purret på svar på klagen sin, ble saken registrert som en klage hos kommunen.
 
@@ -58,7 +55,7 @@ Det følger av forvaltningsloven § 11 a første ledd at en sak skal forberedes 
 «Kriteriet ‘uten ugrunnet opphold’ er utpreget skjønnsmessig, og betydningen vil kunne variere fra sak til sak. Departementet vil understreke at oppfyllelse av de rettssikkerhetsgarantier som ligger i forvaltningslovens saksbehandlingsregler, nødvendigvis vil medføre at saksbehandlingen etter omstendighetene kan bli tidkrevende. Hva som i det enkelte tilfellet vil være en forsvarlig saksbehandlingstid, vil som tidligere måtte variere med sakens art og omfang, tilgjengelige ressurser m.v.».
 
 Kommunen fattet vedtak om støttekontakt og reduksjon av omsorgsstønad  
- 17. februar 2023. Etter dette tok foreldrene jevnlig kontakt med kommunen. Slik ombudet forstår det, har kommunen og foreldrene ulik oppfatning av når det ble sendt inn en klage på sønnens tjenestetilbud. Foreldrene mener at de klagde til kommunen i brev 6. august 2023. I brevet skrev foreldrene blant annet dette:
+17. februar 2023. Etter dette tok foreldrene jevnlig kontakt med kommunen. Slik ombudet forstår det, har kommunen og foreldrene ulik oppfatning av når det ble sendt inn en klage på sønnens tjenestetilbud. Foreldrene mener at de klagde til kommunen i brev 6. august 2023. I brevet skrev foreldrene blant annet dette:
 
 «Vi undrer oss over at det ble fattet vedtak om støttekontakt da dette var noe som ble snakket om med saksbehandlere fra forvaltning og enhet for tilrettelagte tjenester om på forrige hjemmebesøk i forkant av tidligere vedtak, og det var enighet om at det ikke var riktig tilbud til han. Det er heller ikke noe han ønsker».
 

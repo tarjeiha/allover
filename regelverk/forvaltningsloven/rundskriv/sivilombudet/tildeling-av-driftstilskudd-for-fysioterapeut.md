@@ -16,10 +16,8 @@ Sivilombudets uttalelse 16.6.2020 (sak 2019/4770).
 ## Oppsummering
 
 Saken gjelder en kommunes tildeling av 50 % driftstilskudd for fysioterapeut. Kommunens klagenemnd innstilte en annen fysioterapeut enn førsteinstansen som nummer én. Personen som av kommunens førsteinstans var innstilt som nummer én, klaget til ombudsmannen over nemndas vedtak. I klagen tok han blant annet opp vedtakets korte begrunnelse og nemndas kvalifikasjonsvurdering.  
-   
- Ombudsmannen er kommet til at klagenemndas vedtak ikke var begrunnet i tråd med de kravene som følger av forvaltningsloven §§ 24 og 25. Nemnda skulle i vedtaket vist at den hadde foretatt en sammenlignende vurdering av søkernes kvalifikasjoner opp mot kravene i utlysningsteksten, og hva denne vurderingen nærmere gikk ut på. Det burde også ha fremgått av vedtaket at nemnda hadde vurdert anførslene i et brev en av partene hadde sendt til kommunen.  
-   
- Ombudsmannen har ikke funnet grunnlag for å rette innvendinger mot kvalifikasjonsvurderingen som ligger til grunn for klagenemndas rangering av søkerne.
+Ombudsmannen er kommet til at klagenemndas vedtak ikke var begrunnet i tråd med de kravene som følger av forvaltningsloven §§ 24 og 25. Nemnda skulle i vedtaket vist at den hadde foretatt en sammenlignende vurdering av søkernes kvalifikasjoner opp mot kravene i utlysningsteksten, og hva denne vurderingen nærmere gikk ut på. Det burde også ha fremgått av vedtaket at nemnda hadde vurdert anførslene i et brev en av partene hadde sendt til kommunen.  
+Ombudsmannen har ikke funnet grunnlag for å rette innvendinger mot kvalifikasjonsvurderingen som ligger til grunn for klagenemndas rangering av søkerne.
 
 ## Sakens bakgrunn
 

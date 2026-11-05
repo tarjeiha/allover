@@ -15,9 +15,9 @@ Sivilombudets uttalelse 10.9.2018 (sak 2016/2369).
 
 ## Oppsummering
 
-Saken gjelder Navs veiledning i de tilfellene brukeren vil søke om uføretrygd uten at Nav lokalkontor er enig i dette. I tillegg omhandler saken de tilfellene der Nav lokalkontor har innstilt på uføretrygd, mens Nav Arbeid og ytelser avslår søknaden fordi det ikke blir funnet at vilkårene i folketrygdloven § 12-5 om gjennomgått hensiktsmessig behandling og arbeidsrettede tiltak er oppfylt.   
- Ombudsmannen mener at rundskrivet til folketrygdloven § 12-5 og informasjonen på nav.no ikke gir brukerne god nok veiledning om at folketrygdloven ikke oppstiller vilkår om ferdigstilt arbeidsevnevurdering for å søke om uføretrygd. Det er tvilsomt om Nav gir brukerne rett veiledning om folketrygdlovens vilkår for uføretrygd i de tilfellene det ikke foreligger ferdigstilt arbeidsevnevurdering.   
- Ombudsmannen ber Nav så langt det er praktisk mulig, om å føre en oversikt over saker som sendes i retur fra Nav Arbeid og ytelser til lokalkontoret på grunn av uenighet om uføretrygd er rett ytelse for brukeren. Nav lokalkontor bør minnes om at i slike situasjoner må det vurderes om brukeren oppfyller vilkårene for fortsatt arbeidsavklaringspenger.
+Saken gjelder Navs veiledning i de tilfellene brukeren vil søke om uføretrygd uten at Nav lokalkontor er enig i dette. I tillegg omhandler saken de tilfellene der Nav lokalkontor har innstilt på uføretrygd, mens Nav Arbeid og ytelser avslår søknaden fordi det ikke blir funnet at vilkårene i folketrygdloven § 12-5 om gjennomgått hensiktsmessig behandling og arbeidsrettede tiltak er oppfylt.  
+Ombudsmannen mener at rundskrivet til folketrygdloven § 12-5 og informasjonen på nav.no ikke gir brukerne god nok veiledning om at folketrygdloven ikke oppstiller vilkår om ferdigstilt arbeidsevnevurdering for å søke om uføretrygd. Det er tvilsomt om Nav gir brukerne rett veiledning om folketrygdlovens vilkår for uføretrygd i de tilfellene det ikke foreligger ferdigstilt arbeidsevnevurdering.  
+Ombudsmannen ber Nav så langt det er praktisk mulig, om å føre en oversikt over saker som sendes i retur fra Nav Arbeid og ytelser til lokalkontoret på grunn av uenighet om uføretrygd er rett ytelse for brukeren. Nav lokalkontor bør minnes om at i slike situasjoner må det vurderes om brukeren oppfyller vilkårene for fortsatt arbeidsavklaringspenger.
 
 Se oppdatering fra forvaltningen
 

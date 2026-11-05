@@ -15,8 +15,7 @@ Sivilombudets uttalelse 29.1.2020 (sak 2019/2744).
 ## Oppsummering
 
 En fylkeskommune lyste ut en stilling som gårds- og vedlikeholdsarbeider. I utlysningsteksten fremgikk det under punktet «kvalifikasjonar» at det var søkt etter en «agronom/landbruksmekaniker». Den ansatte var verken utdannet agronom eller landbruksmekaniker. Fylkeskommunen hadde vist til den ansattes realkompetanse som grunnlag for å fravike det som må tolkes som krav til utdanning i utlysningsteksten. Den ansatte hadde også en bakgrunn som ble vurdert som særlig verdifull, og han hadde en kompetanse som dekket et behov hos arbeidsgiver.  
-   
- Ombudsmannen viste til kvalifikasjonsprinsippet, og utlysningstekstens betydning i den forbindelse for å gjøre stillingen kjent for potensielle søkere. I denne saken brøt fylkeskommunen kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte utdanningskravet i utlysningsteksten. Dersom en arbeidsgiver underveis i prosessen ønsker å stille andre krav enn det som fremgår av utlysningen, skal stillingen som hovedregel lyses ut på nytt. Ved fremtidige ansettelsesprosesser må fylkeskommunen være bevisst på rammene som utforming av utlysningstekst setter for den videre ansettelsesprosessen.
+Ombudsmannen viste til kvalifikasjonsprinsippet, og utlysningstekstens betydning i den forbindelse for å gjøre stillingen kjent for potensielle søkere. I denne saken brøt fylkeskommunen kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte utdanningskravet i utlysningsteksten. Dersom en arbeidsgiver underveis i prosessen ønsker å stille andre krav enn det som fremgår av utlysningen, skal stillingen som hovedregel lyses ut på nytt. Ved fremtidige ansettelsesprosesser må fylkeskommunen være bevisst på rammene som utforming av utlysningstekst setter for den videre ansettelsesprosessen.
 
 ## Sakens bakgrunn
 

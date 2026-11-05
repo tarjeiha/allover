@@ -14,11 +14,9 @@ Sivilombudets uttalelse 1.10.2025 (sak 2025/2283).
 
 ## Oppsummering
 
-Saken gjelder Utlendingsnemndas (UNEs) vedtak om utvisning etter utlendingsloven § 122 andre ledd bokstav b av en [EU/EØS] borger med over ti års oppholdstid.   
-   
- UNE utviste klageren på grunnlag av et drapsforsøk i 2019 mens han var tvangsinnlagt og under behandling. Det ble også lagt vekt på en narkotikaovertredelse etter straffeloven § 231. Spørsmålet for Sivilombudet var om UNE hadde tolket vilkåret «tvingende nødvendig av hensyn til offentlig sikkerhet» for vidt når utvisningen var begrunnet med de nevnte handlingene.  
-   
- Ombudet kom til at de aktuelle handlingene ikke kunne sies å være omfattet av begrepet «tvingende nødvendig av hensyn til offentlig sikkerhet» i utlendingsloven § 122 andre ledd bokstav b. Verken norske rettskilder eller EU-domstolens praksis knyttet til unionsborgerdirektivet artikkel 28 nr. 3 bokstav a tilsa at et enkeltstående drapsforsøk begått av en utilregnelig person under tvungen behandling kunne gi grunnlag for utvisning.
+Saken gjelder Utlendingsnemndas (UNEs) vedtak om utvisning etter utlendingsloven § 122 andre ledd bokstav b av en [EU/EØS] borger med over ti års oppholdstid.  
+UNE utviste klageren på grunnlag av et drapsforsøk i 2019 mens han var tvangsinnlagt og under behandling. Det ble også lagt vekt på en narkotikaovertredelse etter straffeloven § 231. Spørsmålet for Sivilombudet var om UNE hadde tolket vilkåret «tvingende nødvendig av hensyn til offentlig sikkerhet» for vidt når utvisningen var begrunnet med de nevnte handlingene.  
+Ombudet kom til at de aktuelle handlingene ikke kunne sies å være omfattet av begrepet «tvingende nødvendig av hensyn til offentlig sikkerhet» i utlendingsloven § 122 andre ledd bokstav b. Verken norske rettskilder eller EU-domstolens praksis knyttet til unionsborgerdirektivet artikkel 28 nr. 3 bokstav a tilsa at et enkeltstående drapsforsøk begått av en utilregnelig person under tvungen behandling kunne gi grunnlag for utvisning.
 
 ## Sakens bakgrunn
 

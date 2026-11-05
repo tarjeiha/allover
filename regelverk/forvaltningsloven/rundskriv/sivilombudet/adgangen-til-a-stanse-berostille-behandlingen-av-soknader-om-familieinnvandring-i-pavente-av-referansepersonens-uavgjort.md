@@ -16,12 +16,9 @@ Sivilombudets uttalelse 16.11.2023 (sak 2022/4445).
 ## Oppsummering
 
 Saken gjelder utlendingsmyndighetenes praksis for alltid å stanse (berostille) behandlingen av saker om familieinnvandring når det er opprettet en sak om tilbakekall av oppholdstillatelsen eller statsborgerskapet til den det søkes om familieinnvandring til. Praksisen følger av Justis- og beredskapsdepartementets instruks GI-05/2019.  
-   
- Utlendingsdirektoratet (UDI) har i utgangspunktet en plikt til å behandle søknadene de får om familieinnvandring. UDI må prøve om vilkårene for å innvilge søknaden er oppfylt og deretter treffe en beslutning. De fleste søkere vil ha en lovbestemt rett til opphold i Norge hvis vilkårene for familieinnvandring er oppfylt.  
-   
- Ombudet har kommet til at en generell stans i behandlingen av søknader om familieinnvandring fordi det er opprettet tilbakekallssak, er i strid med bestemmelsene om rett til familieinnvandring og forvaltningsloven § 11 a. Om det er adgang til berostillelse, og eventuelt hvor lenge, må vurderes konkret i den enkelte sak. I uttalelsen viser ombudet til momenter som vil være relevante ved vurderingen av adgangen til å stanse behandlingen av en familieinnvandringssøknad og hvor lenge.  
-   
- Videre kom ombudet til at instruks GI-05/2019 om å stille alle søknader om familieinnvandring i bero der det er opprettet sak om tilbakekall av referansepersonens oppholdstillatelse eller statsborgerskap, er i strid med de lovbestemte vilkår for rett til familieinnvandring. Ombudet ber derfor Justis- og beredskapsdepartementet om å endre instruksen. Det bes om en tilbakemelding om hvordan departementet vil følge opp saken innen 1. februar 2024.
+Utlendingsdirektoratet (UDI) har i utgangspunktet en plikt til å behandle søknadene de får om familieinnvandring. UDI må prøve om vilkårene for å innvilge søknaden er oppfylt og deretter treffe en beslutning. De fleste søkere vil ha en lovbestemt rett til opphold i Norge hvis vilkårene for familieinnvandring er oppfylt.  
+Ombudet har kommet til at en generell stans i behandlingen av søknader om familieinnvandring fordi det er opprettet tilbakekallssak, er i strid med bestemmelsene om rett til familieinnvandring og forvaltningsloven § 11 a. Om det er adgang til berostillelse, og eventuelt hvor lenge, må vurderes konkret i den enkelte sak. I uttalelsen viser ombudet til momenter som vil være relevante ved vurderingen av adgangen til å stanse behandlingen av en familieinnvandringssøknad og hvor lenge.  
+Videre kom ombudet til at instruks GI-05/2019 om å stille alle søknader om familieinnvandring i bero der det er opprettet sak om tilbakekall av referansepersonens oppholdstillatelse eller statsborgerskap, er i strid med de lovbestemte vilkår for rett til familieinnvandring. Ombudet ber derfor Justis- og beredskapsdepartementet om å endre instruksen. Det bes om en tilbakemelding om hvordan departementet vil følge opp saken innen 1. februar 2024.
 
 ## Sakens bakgrunn
 

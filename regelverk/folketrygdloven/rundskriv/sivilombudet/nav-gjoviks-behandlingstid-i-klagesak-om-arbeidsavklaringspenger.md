@@ -15,10 +15,8 @@ Sivilombudets uttalelse 28.10.2016 (sak 2016/922).
 ## Oppsummering
 
 Saken gjelder Nav Gjøviks tidsbruk ved forberedende behandling av klage 24. februar 2015 over avslag på arbeidsavklaringspenger. Nav Gjøvik ferdigstilte saksforberedelsen 20. juli 2016. Den lange behandlingstiden skyldtes hovedsakelig en teknisk feil i saksbehandlingssystemet.  
-   
- Det følger av folketrygdloven § 21-10 første ledd at saker om folketrygdytelser skal forberedes og avgjøres «uten ugrunnet opphold».  
-   
- Ombudsmannen kom til at saksbehandlingstiden var kritikkverdig lang. Det var alvorlig at den tekniske feilen først ble oppdaget i juli 2016. Ombudsmannen anmodet Nav Klageinstans om å behandle saken så raskt som mulig og å orientere ombudsmannen når klagen var ferdigbehandlet.
+Det følger av folketrygdloven § 21-10 første ledd at saker om folketrygdytelser skal forberedes og avgjøres «uten ugrunnet opphold».  
+Ombudsmannen kom til at saksbehandlingstiden var kritikkverdig lang. Det var alvorlig at den tekniske feilen først ble oppdaget i juli 2016. Ombudsmannen anmodet Nav Klageinstans om å behandle saken så raskt som mulig og å orientere ombudsmannen når klagen var ferdigbehandlet.
 
 Se oppdatering fra forvaltningen
 

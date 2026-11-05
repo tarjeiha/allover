@@ -14,14 +14,11 @@ Sivilombudets uttalelse 2.11.2022 (sak 2022/2000).
 
 ## Oppsummering
 
-Saken gjelder en omgjøring av en avgjørelse fattet av Statsforvalteren i Oslo og Viken i en tilsynssak mot en fastlege, jf. pasient - og brukerrettighetsloven § 7-4. Statsforvalteren fattet først avgjørelse om at fastlegen hadde brutt sin plikt til å yte forsvarlig helsehjelp, samt at han ved to anledninger hadde brutt reglene om journalføring. Avgjørelsen ble senere omgjort etter at saken ble vurdert på nytt av Statsforvalteren.   
- Ombudet har kommet til at klagerens prosessuelle rettigheter etter pasient- og brukerrettighetsloven § 7-4 a ikke ble overholdt i denne saken. Etter ombudets syn, gjelder disse rettighetene også når en tidligere avsluttet tilsynssak tas opp til ny vurdering.   
-   
- Klageren skulle ha blitt forelagt sentrale saksdokumenter forut for de fornyede vurderingene av 8. desember 2021 og 30. desember 2022, og gitt mulighet til å uttale seg. Han burde også ha blitt tilsendt den fornyede avgjørelsen av 8. desember 2021. Statsforvalteren erkjente også at klagerens rett til innsyn og kontradiksjon ikke var blitt tilstrekkelig ivaretatt i saken.   
-   
- Statsforvalteren overholdt heller ikke klagerens rett til underretning og begrunnelse om resultatet av tilsynssaken, da klageren ikke ble informert om at også bruddet på journalføringsplikten ble omgjort i den fornyede vurderingen av 30. januar 2022.  
-   
- Ombudet mener det er alvorlig at Statsforvalteren etter egen vurdering ikke hadde tilstrekkelig faglig kapasitet og kompetanse i perioden da de to første avgjørelsene i saken ble truffet. Ombudet forutsetter at Statsforvalteren i framtiden organiserer seg slik at man til enhver tid har tilstrekkelig kapasitet og faglig kompetanse tilgjengelig til å kunne utføre sine oppgaver som tilsynsmyndighet i tråd med regelverket.
+Saken gjelder en omgjøring av en avgjørelse fattet av Statsforvalteren i Oslo og Viken i en tilsynssak mot en fastlege, jf. pasient - og brukerrettighetsloven § 7-4. Statsforvalteren fattet først avgjørelse om at fastlegen hadde brutt sin plikt til å yte forsvarlig helsehjelp, samt at han ved to anledninger hadde brutt reglene om journalføring. Avgjørelsen ble senere omgjort etter at saken ble vurdert på nytt av Statsforvalteren.  
+Ombudet har kommet til at klagerens prosessuelle rettigheter etter pasient- og brukerrettighetsloven § 7-4 a ikke ble overholdt i denne saken. Etter ombudets syn, gjelder disse rettighetene også når en tidligere avsluttet tilsynssak tas opp til ny vurdering.  
+Klageren skulle ha blitt forelagt sentrale saksdokumenter forut for de fornyede vurderingene av 8. desember 2021 og 30. desember 2022, og gitt mulighet til å uttale seg. Han burde også ha blitt tilsendt den fornyede avgjørelsen av 8. desember 2021. Statsforvalteren erkjente også at klagerens rett til innsyn og kontradiksjon ikke var blitt tilstrekkelig ivaretatt i saken.  
+Statsforvalteren overholdt heller ikke klagerens rett til underretning og begrunnelse om resultatet av tilsynssaken, da klageren ikke ble informert om at også bruddet på journalføringsplikten ble omgjort i den fornyede vurderingen av 30. januar 2022.  
+Ombudet mener det er alvorlig at Statsforvalteren etter egen vurdering ikke hadde tilstrekkelig faglig kapasitet og kompetanse i perioden da de to første avgjørelsene i saken ble truffet. Ombudet forutsetter at Statsforvalteren i framtiden organiserer seg slik at man til enhver tid har tilstrekkelig kapasitet og faglig kompetanse tilgjengelig til å kunne utføre sine oppgaver som tilsynsmyndighet i tråd med regelverket.
 
 ## Sakens bakgrunn
 

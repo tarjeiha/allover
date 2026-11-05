@@ -15,12 +15,9 @@ Sivilombudets uttalelse 17.2.2022 (sak 2021/3474).
 ## Oppsummering
 
 Saken gjelder Indre Fosen kommunes manglende behandling av en klage over et vedtak om blant annet å dispensere fra LNF-formålet i kommuneplanens arealdel for å gi tillatelse til en allerede oppført tretopphytte. Klagen ble først behandlet etter at ombudet igangsatte undersøkelse av saksbehandlingstiden. På avgjørelsestidspunktet hadde det gått mer enn ett år og seks måneder fra vedtaket ble påklaget, til klagesaken var ferdig forberedt i kommunen og oversendt Statsforvalteren for endelig avgjørelse. I samme tidsrom behandlet kommunen de fleste andre byggesaksklagene innen åtteukersfristen i byggesaksforskriften § 7-1 bokstav c.  
-   
- Saksbehandlingstiden er en svært vesentlig oversittelse av åtteukersfristen etter byggesaksforskriften § 7-1 bokstav c. Sett i lys av kommunens saksbehandlingstid for øvrige byggesaksklager i samme periode, er ombudets vurdering at klageren har blitt utsatt for en nedprioritering uten saklig grunnlag og i strid med forvaltningsrettslige prinsipper om likebehandling.  
-   
- Kommunen har ikke holdt klageren orientert eller besvart klagers henvendelser under sakens gang, noe som ikke er i tråd med forvaltningsloven § 11 a og god forvaltningsskikk. De orienteringene som er blitt gitt, har i strid med god forvaltningsskikk vært urealistiske.  
-   
- Kommunen har ikke oppfylt sin plikt til å besvare ombudets henvendelser innen fastsatte frister, jf. sivilombudsloven § 20 første ledd.
+Saksbehandlingstiden er en svært vesentlig oversittelse av åtteukersfristen etter byggesaksforskriften § 7-1 bokstav c. Sett i lys av kommunens saksbehandlingstid for øvrige byggesaksklager i samme periode, er ombudets vurdering at klageren har blitt utsatt for en nedprioritering uten saklig grunnlag og i strid med forvaltningsrettslige prinsipper om likebehandling.  
+Kommunen har ikke holdt klageren orientert eller besvart klagers henvendelser under sakens gang, noe som ikke er i tråd med forvaltningsloven § 11 a og god forvaltningsskikk. De orienteringene som er blitt gitt, har i strid med god forvaltningsskikk vært urealistiske.  
+Kommunen har ikke oppfylt sin plikt til å besvare ombudets henvendelser innen fastsatte frister, jf. sivilombudsloven § 20 første ledd.
 
 ## Sakens bakgrunn
 

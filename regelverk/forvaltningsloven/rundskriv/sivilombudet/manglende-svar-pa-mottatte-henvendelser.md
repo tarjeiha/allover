@@ -14,9 +14,8 @@ Sivilombudets uttalelse 2.12.2020 (sak 2020/3090).
 
 ## Oppsummering
 
-Saken gjelder manglende svar fra Ullensvang kommune på klagerens to brev fra desember 2019. Kommunen beklaget at henvendelsene ikke var besvart, og viste blant annet til kapasitetsutfordringer. Kommunen opplyste at de ikke har rutiner for sending av foreløpig svar i saker som ikke gjelder enkeltvedtak/forskriftsvedtak.   
-   
- Ombudsmannen pekte på at forvaltningslovens alminnelige saksbehandlingsregler, herunder forvaltningsloven § 11 a om at en sak skal forberedes og avgjøres «uten ugrunnet opphold», også kommer til anvendelse i saker som ikke gjelder enkeltvedtak. Ombudsmannen forutsetter at kommunen i fremtiden besvarer henvendelser i henhold til forvaltningslovens krav, og ber kommunen etablere rutiner for utsending av foreløpig svar/forsinkelsesbrev for å sikre borgerne informasjon under sakens gang.
+Saken gjelder manglende svar fra Ullensvang kommune på klagerens to brev fra desember 2019. Kommunen beklaget at henvendelsene ikke var besvart, og viste blant annet til kapasitetsutfordringer. Kommunen opplyste at de ikke har rutiner for sending av foreløpig svar i saker som ikke gjelder enkeltvedtak/forskriftsvedtak.  
+Ombudsmannen pekte på at forvaltningslovens alminnelige saksbehandlingsregler, herunder forvaltningsloven § 11 a om at en sak skal forberedes og avgjøres «uten ugrunnet opphold», også kommer til anvendelse i saker som ikke gjelder enkeltvedtak. Ombudsmannen forutsetter at kommunen i fremtiden besvarer henvendelser i henhold til forvaltningslovens krav, og ber kommunen etablere rutiner for utsending av foreløpig svar/forsinkelsesbrev for å sikre borgerne informasjon under sakens gang.
 
 ## Sakens bakgrunn
 

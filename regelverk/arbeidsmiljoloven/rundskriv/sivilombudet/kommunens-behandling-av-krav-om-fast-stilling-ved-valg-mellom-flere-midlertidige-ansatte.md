@@ -15,15 +15,14 @@ Sivilombudets uttalelse 11.12.2019 (sak 2019/1405).
 ## Oppsummering
 
 To personer hadde vært langvarig midlertidig ansatt i vikariater som vernepleiere i X kommune. Begge ønsket fast stilling innenfor samme enhet. Etter kommunens omdisponering ble det kun en vernepleierstilling igjen, og den ene vikaren fikk stillingen. Den andre klaget hit over å ha blitt forbigått.  
-   
- Ombudsmannen fant flere mangler ved kommunens prosess rundt den faste ansettelsen. Til tross for at kommunen kunne ansette uten kunngjøring, er kommunen i tilfeller der det er flere aktuelle kandidater uten forutgående innbyrdes rangering forpliktet til å foreta en kvalifikasjonsvurdering. Det ble pekt på fravær av skriftlighet og manglende informasjon til berørte parter under sakens gang. Videre var det ikke mulig for ombudsmannen å avgjøre om det var foretatt en tilfredsstillende kvalifikasjonsvurdering.
+Ombudsmannen fant flere mangler ved kommunens prosess rundt den faste ansettelsen. Til tross for at kommunen kunne ansette uten kunngjøring, er kommunen i tilfeller der det er flere aktuelle kandidater uten forutgående innbyrdes rangering forpliktet til å foreta en kvalifikasjonsvurdering. Det ble pekt på fravær av skriftlighet og manglende informasjon til berørte parter under sakens gang. Videre var det ikke mulig for ombudsmannen å avgjøre om det var foretatt en tilfredsstillende kvalifikasjonsvurdering.
 
 ## Sakens bakgrunn
 
 I X kommune, Enhet for helse og mestring, var det etter en arbeidskonflikt med påfølgende permisjoner, flere ledige stillinger som ble dekket opp av vikarer. Dette gjaldt blant annet to vernepleierstillinger hvor klager var vikar i den ene, og den som senere ble fast tilsatt var vikar i den andre.
 
 Klager har jobbet i kommunen siden 1988, blant annet i et vikariat i annen enhet fra  
- 1. april 2016. Hun ble midlertidig ansatt i den aktuelle enheten 8. november 2016, og har hatt flere ulike vikariater både for bestemte personer, og i en vakant stilling frem til 31. mars 2019.
+1. april 2016. Hun ble midlertidig ansatt i den aktuelle enheten 8. november 2016, og har hatt flere ulike vikariater både for bestemte personer, og i en vakant stilling frem til 31. mars 2019.
 
 Etter at klager fikk opplyst at en kollega hadde sendt inn krav om fast stilling i oktober 2018, fikk hun via fagforeningen tilbakemelding om at det ikke var ledige stillinger og at arbeidsgiver var i prosess med å avklare om de som var i permisjon ville komme tilbake.
 
@@ -34,7 +33,7 @@ På nyåret 2019 sa en av vernepleierne opp sin stilling, og klagers krav om fas
 I brev 23. mai 2019 ble kommunen bedt om å gjøre nærmere rede for prosessen rundt stillingsendringen fra 1. april 2019. Kommunen ble spurt om det ble sendt ut intern kunngjøring eller ekstern utlysning av den aktuelle stillingen, og eventuelt begrunne hvorfor dette ikke ble gjort. Videre ble det spurt om det var foretatt en sammenliknende kvalifikasjonsvurdering mellom klageren og den som fikk stillingen, og om å gi en redegjørelse for innholdet i vurderingen. Dersom slik vurdering ikke ble gjort, ble det bedt om en forklaring på dette. Kommunen ble bedt om å oversende den skriftlige dokumentasjon som forelå om denne prosessen.
 
 Kommunen svarte i brev 18. juni 2019. Det ble orientert om at begge vikarene i de to vernepleierstillingene hadde fremmet krav om fast ansettelse. Den tilsatte fremmet krav  
- 22. oktober 2018, mens klager fremmet krav 13. februar 2019. Før klagers krav hadde det vært en prosess mellom arbeidsgiver og tillitsvalgte rundt stillingsanalyser med bakgrunn i driftsmessige behov. En av de to stillingene ble i den forbindelse omgjort til spesialsykepleier, for å kunne ivareta medisinfaglige behov hos tjenestemottakerne. Denne stillingen ble utlyst eksternt. Den andre vernepleierstillingen ble tilbudt klagers kollega. Siden det ikke var ledig vernepleierstilling i enheten da klagers krav ble fremmet, fikk hun tilbud om fast stilling i andre enheter. Kommunen mente derfor de hadde imøtekommet hennes krav om fast ansettelse.
+22. oktober 2018, mens klager fremmet krav 13. februar 2019. Før klagers krav hadde det vært en prosess mellom arbeidsgiver og tillitsvalgte rundt stillingsanalyser med bakgrunn i driftsmessige behov. En av de to stillingene ble i den forbindelse omgjort til spesialsykepleier, for å kunne ivareta medisinfaglige behov hos tjenestemottakerne. Denne stillingen ble utlyst eksternt. Den andre vernepleierstillingen ble tilbudt klagers kollega. Siden det ikke var ledig vernepleierstilling i enheten da klagers krav ble fremmet, fikk hun tilbud om fast stilling i andre enheter. Kommunen mente derfor de hadde imøtekommet hennes krav om fast ansettelse.
 
 Kommunen har ikke skriftlig dokumentasjon på kvalifikasjonsvurdering mellom de to vernepleiervikarene, men uttalte: «Begge har lang ansiennitet, relevant utdanning og erfaring. Når det gjelder personlig egnethet for stillingen ble den andre ansatte vektet høyere enn A.»
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 16.2.2022 (sak 2021/3628).
 ## Oppsummering
 
 Saken gjelder faglig godkjenning av et emne tatt ved en annen utdanningsinstitusjon etter universitets- og høyskoleloven (uhl.) § 3-5 e. Saken reiser særlig spørsmål om høyskolens praktisering av egen forskrift som nektet fritak fra deleksamener.  
-   
- Ombudet mener studenter har rettskrav på godkjenning av et tidligere bestått emne i medhold av uhl. § 3 5 e, dersom det finnes læringskrav som gjør det mulig å konstatere hvilken del av det nye studiestedets utdanningsløp det eksterne emnet skal erstatte.  
-   
- Høgskolen og klagenemndens bruk av dagjeldende Forskrift om eksamen, studierett og grader ved Høgskolen i Østfold § 10-4 fjerde ledd var i denne saken i strid med uhl. § 3-5 e. Siden det var enighet om at det tidligere beståtte emnet tilsvarte deleksamenens faglige krav, skulle klageren ha fått godkjent sin søknad om innpassing. Høgskolen har nå opphevet bestemmelsen, og studenten har bestått den aktuelle eksamenen. Ombudet har derfor ikke funnet grunn til å be om at søknaden vurderes på nytt.
+Ombudet mener studenter har rettskrav på godkjenning av et tidligere bestått emne i medhold av uhl. § 3 5 e, dersom det finnes læringskrav som gjør det mulig å konstatere hvilken del av det nye studiestedets utdanningsløp det eksterne emnet skal erstatte.  
+Høgskolen og klagenemndens bruk av dagjeldende Forskrift om eksamen, studierett og grader ved Høgskolen i Østfold § 10-4 fjerde ledd var i denne saken i strid med uhl. § 3-5 e. Siden det var enighet om at det tidligere beståtte emnet tilsvarte deleksamenens faglige krav, skulle klageren ha fått godkjent sin søknad om innpassing. Høgskolen har nå opphevet bestemmelsen, og studenten har bestått den aktuelle eksamenen. Ombudet har derfor ikke funnet grunn til å be om at søknaden vurderes på nytt.
 
 ## Sakens bakgrunn
 

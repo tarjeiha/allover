@@ -16,12 +16,9 @@ Sivilombudets uttalelse 11.5.2023 (sak 2023/975).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak iverksatt en undersøkelse av Utlendingsdirektoratets (UDIs) praksis for beregning av inntektsgrensene for å få familieinnvandring (utlendingsforskriftens § 10-9 første ledd) og for redusert krav til botid ved søknad om statsborgerskap (statsborgerforskriftens § 6-1).  
-   
- UDIs praksis for beregning av begge inntektsgrensene er å bruke det grunnbeløpet som gjaldt fra og med 1. mai det aktuelle tidligere inntektsåret. Ombudet tok på generelt grunnlag opp spørsmålet om det ved beregningen av inntektskravene i utlendingsforskriften § 10-9 og statsborgerforskriften § 6-1 ville vært mer riktig å legge til grunn gjennomsnittlig G for det aktuelle inntektsåret.   
-   
- I svaret til ombudet har UDI gitt uttrykk for at de enig med ombudet i at det er flere argumenter som taler for at det kan være mer riktig å anvende det gjennomsnittlige grunnbeløpet for det aktuelle inntektsåret som beregningsgrunnlag ved beregningen av inntektsgrensene etter både utlf. § 10-9 og statsborgerforskriften § 6-1. UDI har videre opplyst at de nå skal vurdere å justere sin praksis for beregning av kravet til tidligere inntekt i utlf. § 10-9 og kravet til tilstrekkelig inntekt i statsborgerforskriften § 6-1, eventuelt i samråd med de ansvarlige departementene.  
-   
- Ombudet har kommet til at spørsmålene som er reist i denne saken inntil videre kan settes i bero hos ombudet, i påvente av UDIs vurdering av om direktoratet skal justere sin praksis for beregning av inntektskravene. Ombudet ber imidlertid om å bli holdt orientert om det videre arbeidet med dette.
+UDIs praksis for beregning av begge inntektsgrensene er å bruke det grunnbeløpet som gjaldt fra og med 1. mai det aktuelle tidligere inntektsåret. Ombudet tok på generelt grunnlag opp spørsmålet om det ved beregningen av inntektskravene i utlendingsforskriften § 10-9 og statsborgerforskriften § 6-1 ville vært mer riktig å legge til grunn gjennomsnittlig G for det aktuelle inntektsåret.  
+I svaret til ombudet har UDI gitt uttrykk for at de enig med ombudet i at det er flere argumenter som taler for at det kan være mer riktig å anvende det gjennomsnittlige grunnbeløpet for det aktuelle inntektsåret som beregningsgrunnlag ved beregningen av inntektsgrensene etter både utlf. § 10-9 og statsborgerforskriften § 6-1. UDI har videre opplyst at de nå skal vurdere å justere sin praksis for beregning av kravet til tidligere inntekt i utlf. § 10-9 og kravet til tilstrekkelig inntekt i statsborgerforskriften § 6-1, eventuelt i samråd med de ansvarlige departementene.  
+Ombudet har kommet til at spørsmålene som er reist i denne saken inntil videre kan settes i bero hos ombudet, i påvente av UDIs vurdering av om direktoratet skal justere sin praksis for beregning av inntektskravene. Ombudet ber imidlertid om å bli holdt orientert om det videre arbeidet med dette.
 
 Se oppdatering fra forvaltningen
 

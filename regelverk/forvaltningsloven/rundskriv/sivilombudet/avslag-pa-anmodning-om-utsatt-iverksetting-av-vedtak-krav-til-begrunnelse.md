@@ -15,10 +15,8 @@ Sivilombudets uttalelse 28.6.2019 (sak 2019/410).
 ## Oppsummering
 
 Klima- og miljødepartementet avslo en anmodning om utsatt iverksetting av vedtak om kvote for lisensfelling av ulv innenfor ulvesonen.  
-   
- Ombudsmannen er kommet til at departementets begrunnelse i avslaget ikke tilfredsstiller de minimumskravene som må stilles til innholdet av begrunnelsesplikten etter forvaltningsloven § 42. Departementet skulle ha nevnt de hovedhensynene som inngikk i vurderingen av anmodningen om utsatt iverksetting. Videre skulle departementet på en klarere og mer forståelig måte gjort kort rede for de hensynene som var avgjørende for avslaget.  
-   
- Departementet bes merke seg ombudsmannens merknader i denne saken og legge disse til grunn ved utformingen av fremtidige avslag på anmodninger om utsatt iverksetting av vedtak.
+Ombudsmannen er kommet til at departementets begrunnelse i avslaget ikke tilfredsstiller de minimumskravene som må stilles til innholdet av begrunnelsesplikten etter forvaltningsloven § 42. Departementet skulle ha nevnt de hovedhensynene som inngikk i vurderingen av anmodningen om utsatt iverksetting. Videre skulle departementet på en klarere og mer forståelig måte gjort kort rede for de hensynene som var avgjørende for avslaget.  
+Departementet bes merke seg ombudsmannens merknader i denne saken og legge disse til grunn ved utformingen av fremtidige avslag på anmodninger om utsatt iverksetting av vedtak.
 
 ## Sakens bakgrunn
 

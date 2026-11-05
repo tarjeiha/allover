@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.10.2019 (sak 2019/561).
 ## Oppsummering
 
 Saken gjelder om Fylkesmannen kunne avvise en klage over miljøet ved en skole eleven ikke lenger gikk på da saken ble meldt. Utdanningsdirektoratet hadde i klageavgjørelsen tolket opplæringslova slik at klager over fortidige forhold alltid skulle avvises.  
-   
- Ombudsmannen gjennomgikk aktuelle lovforarbeider, og kom til at det ikke var tilstrekkelige holdepunkter for å tolke ordlyden i lovbestemmelsen innskrenkende. Dette betyr at saker som gjelder skolemiljø på en annen skole enn den eleven går på når saken blir meldt til Fylkesmannen, ikke kan avvises før det er vurdert om det finnes særlige grunner til likevel å realitetsbehandle. Direktoratets vedtak bygget på en uriktig tolkning av bestemmelsen, da «særlige grunner» ikke ble vurdert før avvisningsvedtaket ble fattet. Det ble bedt om at den konkrete saken ble vurdert på nytt, og at aktuelle rundskriv og veiledere ble endret.
+Ombudsmannen gjennomgikk aktuelle lovforarbeider, og kom til at det ikke var tilstrekkelige holdepunkter for å tolke ordlyden i lovbestemmelsen innskrenkende. Dette betyr at saker som gjelder skolemiljø på en annen skole enn den eleven går på når saken blir meldt til Fylkesmannen, ikke kan avvises før det er vurdert om det finnes særlige grunner til likevel å realitetsbehandle. Direktoratets vedtak bygget på en uriktig tolkning av bestemmelsen, da «særlige grunner» ikke ble vurdert før avvisningsvedtaket ble fattet. Det ble bedt om at den konkrete saken ble vurdert på nytt, og at aktuelle rundskriv og veiledere ble endret.
 
 ## Sakens bakgrunn
 

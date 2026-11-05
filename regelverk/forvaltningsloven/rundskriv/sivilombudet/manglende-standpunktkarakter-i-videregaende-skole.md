@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.2.2019 (sak 2018/3140).
 ## Oppsummering
 
 Saken gjelder fylkeskommunens klagebehandling av et vedtak om ikke å gi en elev standpunktkarakter i et fag i videregående skole. Skolen kan ha for lite vurderingsgrunnlag til å sette karakter i et fag. Når skolen er i tvil om standpunktkarakter kan gis, skal eleven varsles skriftlig uten ugrunnet opphold. Klageinstansen skal ikke vurdere det faglige nivået, men kun ta stilling til om reglene for karakterfastsetting er fulgt.  
-   
- Det er tvilsomt om varsel om ikke å gi standpunktkarakter i det aktuelle faget, ble gitt uten ugrunnet opphold i denne saken. Videre er det tvil om klageinstansen har sørget for en forsvarlig utredning og vurdering av alle anførslene fra klager. Ombudsmannen ber derfor fylkeskommunen vurdere klagen på nytt.
+Det er tvilsomt om varsel om ikke å gi standpunktkarakter i det aktuelle faget, ble gitt uten ugrunnet opphold i denne saken. Videre er det tvil om klageinstansen har sørget for en forsvarlig utredning og vurdering av alle anførslene fra klager. Ombudsmannen ber derfor fylkeskommunen vurdere klagen på nytt.
 
 Se oppdatering fra forvaltningen
 
@@ -69,7 +68,7 @@ Opplæringslovforskriftens § 3-7 første og tredje ledd lyder:
 Varselet skal givast utan ugrunna opphald. Varselet skal gi eleven høve til å skaffe grunnlag for halvårsvurdering med karakter og standpunktkarakter, eller gi eleven høve til å forbetre karakteren i orden eller åtferd.»
 
 Reglene er presisert av Utdanningsdirektoratet i rundskriv om individuell vurdering  
- (Udir-5-16):
+(Udir-5-16):
 
 «Varselet skal gis «uten ugrunna opphold», det vil si med en gang læreren er i tvil om eleven kan få karakter. Hensikten med varselet er at eleven fortsatt skal ha mulighet til å få karakter i fag, eller unngå å få nedsatt karakter i orden eller adferd.
 
@@ -88,7 +87,7 @@ Når det gjelder det konkrete varslingstidspunktet i denne saken, har klageinsta
 Ombudsmannen har vanskelig for å se at en forventning om turdeltakelse holder som selvstendig begrunnelse for å vente med å varsle. Det kan like gjerne være slik at et tidligere varsel hadde styrket sjansene for at eleven gjennomførte hele turen.
 
 At det burde vært varslet tidligere, har skolen i sin redegjørelse til klagenemnda (datert  
- 26. juni 2017) vært inne på:
+26. juni 2017) vært inne på:
 
 «Eleven fikk varsel 8. mai, etter utsatt tur. Varsel burde vært sendt tidligere, men jeg har hele tiden håpet på at eleven skulle bli i stand til å framstille seg for vurdering i løpet av våren, slik at standpunktkarakter kunne settes.»
 

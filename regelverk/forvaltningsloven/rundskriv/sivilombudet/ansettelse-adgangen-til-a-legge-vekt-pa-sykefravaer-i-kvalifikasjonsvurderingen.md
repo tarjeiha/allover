@@ -16,10 +16,8 @@ Sivilombudets uttalelse 15.11.2018 (sak 2018/2591).
 ## Oppsummering
 
 Saken gjelder X kommunes ansettelse av pedagogisk leder i Y barnehage. Klageren har vært ansatt i denne stillingen på dispensasjon i mange år. Grunnen til at klageren ikke ble innkalt på intervju og ansatt på dispensasjon for barnehageåret 2018/2019, skyldtes bare hennes tidligere og forventede sykefravær.  
-   
- Ombudsmannen er kommet til at det var saklig av X kommune å legge vekt på klagerens forventede sykefravær ved ansettelsen. Kommunen har dokumentert behovet for stabilitet og tilstedeværelse for stillingen, og det fremkom gjennom utlysningsteksten at dette ville bli vektlagt.  
-   
- Det knytter seg imidlertid tvil til om kommunen har gitt klageren tilstrekkelig mulighet til kontradiksjon, da klageren ikke ble gjort kjent med at det ville bli lagt avgjørende vekt på hennes tidligere og forventede sykefravær. Ombudsmannen ber kommunen merke seg dette til fremtidige ansettelsesprosesser.
+Ombudsmannen er kommet til at det var saklig av X kommune å legge vekt på klagerens forventede sykefravær ved ansettelsen. Kommunen har dokumentert behovet for stabilitet og tilstedeværelse for stillingen, og det fremkom gjennom utlysningsteksten at dette ville bli vektlagt.  
+Det knytter seg imidlertid tvil til om kommunen har gitt klageren tilstrekkelig mulighet til kontradiksjon, da klageren ikke ble gjort kjent med at det ville bli lagt avgjørende vekt på hennes tidligere og forventede sykefravær. Ombudsmannen ber kommunen merke seg dette til fremtidige ansettelsesprosesser.
 
 ## Sakens bakgrunn
 

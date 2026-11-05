@@ -15,12 +15,9 @@ Sivilombudets uttalelse 20.12.2022 (sak 2022/1343).
 ## Oppsummering
 
 Saken gjelder vedtak av en reguleringsplan for landbasert oppdrett og tilknyttet, sjørettet næringsvirksomhet på Toftøya i Brønnøy kommune. Planen ble utarbeidet delvis parallelt med ny kommuneplan. Begge planene ble konsekvensutredet, men uten at utredning av alternative lokaliteter inngikk. Etter innsigelse fra Statsforvalteren i Nordland - grunnet virkningene for naturmangfold og friluftsliv - stadfestet Kommunal- og distriktsdepartementet reguleringsplanen. Norges Naturvernforbund klagde saken inn for Sivilombudet, og anførte at alternative lokaliteter skulle ha vært konsekvensutredet.  
-   
- Ombudet kom til at det var begrunnet tvil ved om undersøkelsene av om det fantes «relevante og realistiske alternativer» til plasseringen av næringsområdet på Toftøya, var omfattende nok til å tilfredsstille kravene i konsekvensutredningsforskriften, jf. forskriften § 19 siste ledd. Ombudet mente videre at det ikke var gitt en tilstrekkelig begrunnelse for hvorfor plasseringen på Toftøya ble ansett som det eneste relevante og realistiske alternativet. Undersøkelsene var heller ikke godt nok dokumentert.  
-   
- Etter ombudets syn var det også begrunnet tvil ved om kriteriene som var lagt til grunn ved vurderingen av om det fantes aktuelle alternativer, var egnet til å skape et tilstrekkelig bredt kunnskapsgrunnlag om ulike lokaliseringer og måter å gjennomføre prosjektet på.  
-   
- Etter ombudets syn kunne det ikke utelukkes at manglene hadde hatt innvirkning på resultatet, jf. forvaltningsloven § 41. Ombudet ber departementet vurdere saken på nytt.
+Ombudet kom til at det var begrunnet tvil ved om undersøkelsene av om det fantes «relevante og realistiske alternativer» til plasseringen av næringsområdet på Toftøya, var omfattende nok til å tilfredsstille kravene i konsekvensutredningsforskriften, jf. forskriften § 19 siste ledd. Ombudet mente videre at det ikke var gitt en tilstrekkelig begrunnelse for hvorfor plasseringen på Toftøya ble ansett som det eneste relevante og realistiske alternativet. Undersøkelsene var heller ikke godt nok dokumentert.  
+Etter ombudets syn var det også begrunnet tvil ved om kriteriene som var lagt til grunn ved vurderingen av om det fantes aktuelle alternativer, var egnet til å skape et tilstrekkelig bredt kunnskapsgrunnlag om ulike lokaliseringer og måter å gjennomføre prosjektet på.  
+Etter ombudets syn kunne det ikke utelukkes at manglene hadde hatt innvirkning på resultatet, jf. forvaltningsloven § 41. Ombudet ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -15,14 +15,10 @@ Sivilombudets uttalelse 6.5.2019 (sak 2017/2817).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens behandling av klage på at barneverntjenesten nektet de biologiske foreldrene samvær med eget barn etter omsorgsovertakelse.  
-   
- Avgjørelsen om å stoppe samværet ble tatt etter at lagmannsretten hadde avsagt dom om omsorgsovertagelse, fratagelse av foreldreansvar og samtykke til adopsjon, men før den påankede dommen var rettskraftig. Barnets biologiske far klaget til Fylkesmannen, og gjorde gjeldende at det var fylkesnemnda som eventuelt kunne redusere samværet. Fylkesmannen opprettet ikke tilsynssak, men sendte saken til kommunen for oppfølging. Kommunen opprettholdt sin vurdering om å nekte samvær, og Fylkesmannen fulgte ikke klagen opp ytterligere.  
-   
- Kravene til Fylkesmannens saksutredning og begrunnelse når de tar stilling til henvendelser om feil hos barnevernet, vil variere ut fra den aktuelle feilens alvorlighetsgrad. Saker med påstander om alvorlige pliktbrudd som ikke kan avskrives som helt usannsynlige, kan ikke avsluttes uten noen form for nærmere utredning.  
-   
- Ombudsmannens kan vanskelig se at barnevernloven ga kommunen myndighet til å begrense retten til samvær etter omsorgsovertagelsen, eller at rettsavgjørelsene i saken innebar noen begrensning i samværsretten i perioden frem til adopsjonen ble gjennomført. Slik saken er opplyst, forelå det heller ikke en slik akutt fare for liv eller helse at kommunen kunne anses å ha hjemmel i nødrett, slik kommunen skal ha hevdet ovenfor Fylkesmannen.  
-   
- På denne bakgrunn er ombudsmannen kommet til at Fylkesmannen i større grad skulle foretatt en utredning og vurdering av kommunens hjemmelsgrunnlag før de vurderte om det skulle opprettes tilsynssak eller iverksettes andre tiltak som følge av klagen.
+Avgjørelsen om å stoppe samværet ble tatt etter at lagmannsretten hadde avsagt dom om omsorgsovertagelse, fratagelse av foreldreansvar og samtykke til adopsjon, men før den påankede dommen var rettskraftig. Barnets biologiske far klaget til Fylkesmannen, og gjorde gjeldende at det var fylkesnemnda som eventuelt kunne redusere samværet. Fylkesmannen opprettet ikke tilsynssak, men sendte saken til kommunen for oppfølging. Kommunen opprettholdt sin vurdering om å nekte samvær, og Fylkesmannen fulgte ikke klagen opp ytterligere.  
+Kravene til Fylkesmannens saksutredning og begrunnelse når de tar stilling til henvendelser om feil hos barnevernet, vil variere ut fra den aktuelle feilens alvorlighetsgrad. Saker med påstander om alvorlige pliktbrudd som ikke kan avskrives som helt usannsynlige, kan ikke avsluttes uten noen form for nærmere utredning.  
+Ombudsmannens kan vanskelig se at barnevernloven ga kommunen myndighet til å begrense retten til samvær etter omsorgsovertagelsen, eller at rettsavgjørelsene i saken innebar noen begrensning i samværsretten i perioden frem til adopsjonen ble gjennomført. Slik saken er opplyst, forelå det heller ikke en slik akutt fare for liv eller helse at kommunen kunne anses å ha hjemmel i nødrett, slik kommunen skal ha hevdet ovenfor Fylkesmannen.  
+På denne bakgrunn er ombudsmannen kommet til at Fylkesmannen i større grad skulle foretatt en utredning og vurdering av kommunens hjemmelsgrunnlag før de vurderte om det skulle opprettes tilsynssak eller iverksettes andre tiltak som følge av klagen.
 
 ## Sakens bakgrunn
 

@@ -15,19 +15,13 @@ Sivilombudets uttalelse 15.12.2023 (sak 2022/5891).
 
 ## Oppsummering
 
-Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt praksis for synliggjøring av hvem som er ilagt aktivitetsforbud i dyrevelferdssaker på offentlig journal med Landbruks- og matdepartementet. Undersøkelsen har omhandlet spørsmål om hvilke opplysninger som er taushetsbelagte i slike saker og sammenhengen mellom opplysninger i den offentlige journalen og hvilke opplysninger det gis innsyn i ved innsynskrav.   
-   
- Departementet svarte at det er underlagt taushetsplikt i medhold av forvaltningsloven § 13 første ledd nr. 1 at noen er ilagt aktivitetsforbud og dette gjelder både der dyreholdet er i privat sammenheng og i næringsvirksomhet. Imidlertid mente departementet at begrensningen i taushetsplikten i § 13 b første ledd nr. 2 gjorde at det likevel ikke er taushetsplikt at noen i vedtak er ilagt et aktivitetsforbud. Departementet hadde innhentet opplysninger fra Mattilsynet som viste at praksis ikke var konsekvent for hvilke opplysninger som ble skjermet på offentlig journal.   
-   
- Ombudet har kommet til at det at noen er ilagt aktivitetsforbud i privat dyrehold er opplysninger om noens personlige forhold som er taushetsbelagt etter forvaltningsloven § 13 første ledd nr. 1. Dersom dyreholdet er i en næringsvirksomhet, vil det etter ombudets syn ikke være taushetsbelagt at dyreholder er ilagt aktivitetsforbud da dette ikke kan sies å være en opplysning om dyreholderens personlige forhold.   
-   
- Ombudet er ikke enig med departementet i at forvaltningsloven § 13 b første ledd nr. 2 kommer til anvendelse for publisering av opplysninger i postjournalen.   
-   
- Ombudet har påpekt at det må gjøres konkrete vurderinger av hvilke øvrige opplysninger som er taushetsbelagte ved innsynskrav i vedtak om aktivitetsforbud.   
-   
- Videre har ombudet bedt departementet påse at Mattilsynet får forbedrede rutiner og opplæring, slik at praksis blir ensartet for hvilke opplysninger som offentliggjøres i postjournalen og hvordan innsynskrav behandles i dyrevelferdssaker.  
-   
- Departementet er også bedt formidle ombudets vurderinger til Mattilsynet og statsforvalterne, som synliggjør saker etter dyrevelferdsloven på sine postjournaler.
+Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt praksis for synliggjøring av hvem som er ilagt aktivitetsforbud i dyrevelferdssaker på offentlig journal med Landbruks- og matdepartementet. Undersøkelsen har omhandlet spørsmål om hvilke opplysninger som er taushetsbelagte i slike saker og sammenhengen mellom opplysninger i den offentlige journalen og hvilke opplysninger det gis innsyn i ved innsynskrav.  
+Departementet svarte at det er underlagt taushetsplikt i medhold av forvaltningsloven § 13 første ledd nr. 1 at noen er ilagt aktivitetsforbud og dette gjelder både der dyreholdet er i privat sammenheng og i næringsvirksomhet. Imidlertid mente departementet at begrensningen i taushetsplikten i § 13 b første ledd nr. 2 gjorde at det likevel ikke er taushetsplikt at noen i vedtak er ilagt et aktivitetsforbud. Departementet hadde innhentet opplysninger fra Mattilsynet som viste at praksis ikke var konsekvent for hvilke opplysninger som ble skjermet på offentlig journal.  
+Ombudet har kommet til at det at noen er ilagt aktivitetsforbud i privat dyrehold er opplysninger om noens personlige forhold som er taushetsbelagt etter forvaltningsloven § 13 første ledd nr. 1. Dersom dyreholdet er i en næringsvirksomhet, vil det etter ombudets syn ikke være taushetsbelagt at dyreholder er ilagt aktivitetsforbud da dette ikke kan sies å være en opplysning om dyreholderens personlige forhold.  
+Ombudet er ikke enig med departementet i at forvaltningsloven § 13 b første ledd nr. 2 kommer til anvendelse for publisering av opplysninger i postjournalen.  
+Ombudet har påpekt at det må gjøres konkrete vurderinger av hvilke øvrige opplysninger som er taushetsbelagte ved innsynskrav i vedtak om aktivitetsforbud.  
+Videre har ombudet bedt departementet påse at Mattilsynet får forbedrede rutiner og opplæring, slik at praksis blir ensartet for hvilke opplysninger som offentliggjøres i postjournalen og hvordan innsynskrav behandles i dyrevelferdssaker.  
+Departementet er også bedt formidle ombudets vurderinger til Mattilsynet og statsforvalterne, som synliggjør saker etter dyrevelferdsloven på sine postjournaler.
 
 Se oppdatering fra forvaltningen
 

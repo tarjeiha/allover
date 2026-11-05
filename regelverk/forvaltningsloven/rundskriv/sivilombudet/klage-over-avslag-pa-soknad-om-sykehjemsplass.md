@@ -15,7 +15,7 @@ Sivilombudets uttalelse 24.9.2010 (sak 2009/1494).
 ## Oppsummering
 
 Helsetilsynet i fylket stadfestet kommunens avslag på en søknad om korttidsplass/rehabiliteringsplass ved et sykehjem. Søkeren ble i stedet tilbudt hjemmebaserte tjenester. Klagen gjaldt blant annet kommunens klageordning og Helsetilsynet i fylkets grunnlag for konklusjonen om at søkeren fikk oppfylt sin rett til «nødvendig helsehjelp» etter kommunehelsetjenesteloven.  
- Ombudsmannen påpekte at kommunen ikke hadde fulgt reglene for korrekt klagebehandling ved at samme organ hadde vurdert saken som beslutningsmyndighet og som klageinstans. Helsetilsynet burde derfor henvist saken til ny behandling i kommunen. Beslutningsgrunnlaget til Helsetilsynet var dessuten sparsomt, og det fremsto som usikkert om tilsynet hadde et tilstrekkelig grunnlag for å vurdere saken.
+Ombudsmannen påpekte at kommunen ikke hadde fulgt reglene for korrekt klagebehandling ved at samme organ hadde vurdert saken som beslutningsmyndighet og som klageinstans. Helsetilsynet burde derfor henvist saken til ny behandling i kommunen. Beslutningsgrunnlaget til Helsetilsynet var dessuten sparsomt, og det fremsto som usikkert om tilsynet hadde et tilstrekkelig grunnlag for å vurdere saken.
 
 A søkte om korttidsplass/rehabiliteringsplass ved et sykehjem i X kommune, der hun oppholdt seg. Søknaden ble blant annet begrunnet med at hun bodde alene i Y kommune og at hun ikke klarte seg selv etter et ankelbrudd. I søknaden ble det dessuten vist til medisinske opplysninger, herunder en IPLOS-registrering, som var vedlagt.
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.6.2016 (sak  2015/1453).
 ## Oppsummering
 
 Utlendingsnemnda innvilget midlertidig oppholdstillatelser etter utlendingsloven § 38 til en russisk familie på grunn av sterke menneskelige hensyn, fordi den ene sønnen hadde en svært alvorlig helsetilstand med omfattende hjelpebehov. Tillatelsene ble imidlertid begrenset ut fra innvandringsregulerende hensyn, blant annet ved at oppholdet ikke danner grunnlag for senere permanente oppholdstillatelser. Denne begrensningen innebærer at familien ikke blir bosatt i en kommune og ikke får delta på introduksjonskurs.  
-   
- Det var ikke tilstrekkelig grunn til å be UNE behandle saken på nytt. Ombudsmannen pekte imidlertid på at ved behandlingen av fremtidige søknader om oppholdstillatelser fra familien bør utlendingsmyndighetene vurdere sannsynligheten for at familiens opphold vil bli varig. Graden av sannsynlighet for dette bør vektlegges når det tas stilling til om eventuelle nye tillatelser skal gis med begrensninger.
+Det var ikke tilstrekkelig grunn til å be UNE behandle saken på nytt. Ombudsmannen pekte imidlertid på at ved behandlingen av fremtidige søknader om oppholdstillatelser fra familien bør utlendingsmyndighetene vurdere sannsynligheten for at familiens opphold vil bli varig. Graden av sannsynlighet for dette bør vektlegges når det tas stilling til om eventuelle nye tillatelser skal gis med begrensninger.
 
 ## Uttalelse
 

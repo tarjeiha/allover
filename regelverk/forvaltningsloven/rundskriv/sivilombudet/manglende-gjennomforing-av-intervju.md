@@ -15,8 +15,7 @@ Sivilombudets uttalelse 30.1.2019 (sak 2018/3219).
 ## Oppsummering
 
 Klageren var intern søker til en ledig stilling ved et kommunalt sykehjem. Kommunen anså henne som en aktuell kandidat, og kalte henne inn til intervju. Klageren ble imidlertid ikke gjort kjent med innkallelsen fordi hun var bortreist på sommerferie. Hun fikk dermed ikke anledning til å gjennomføre intervjuet likevel.  
-   
- Ombudsmannen kom til at det var tvil om saken var tilstrekkelig opplyst da ansettelsesvedtaket ble truffet. Kommunen burde ha vurdert alternative måter å gjennomføre intervjuet på, og uttalte at prosessen ikke virket å være i tråd med kravet til god forvaltningsskikk. Det var ikke grunnlag for å konkludere med om klageren var forbigått ved ansettelsen.
+Ombudsmannen kom til at det var tvil om saken var tilstrekkelig opplyst da ansettelsesvedtaket ble truffet. Kommunen burde ha vurdert alternative måter å gjennomføre intervjuet på, og uttalte at prosessen ikke virket å være i tråd med kravet til god forvaltningsskikk. Det var ikke grunnlag for å konkludere med om klageren var forbigått ved ansettelsen.
 
 ## Sakens bakgrunn
 

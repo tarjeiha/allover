@@ -16,12 +16,9 @@ Sivilombudets uttalelse 12.10.2023 (sak 2023/2524).
 ## Oppsummering
 
 Saken gjelder delvis avslag på krav om innsyn i dokumenter i syv tilsynssaker mot en navngitt lege. Dokumentene inneholdt opplysninger om legen tilsynssakene var rettet mot, og pasientene han hadde behandlet. Statens helsetilsyn vurderte at flere opplysninger var underlagt taushetsplikt etter forvaltningsloven § 13 første ledd nr. 1, og dermed skulle unntas innsyn, jf. offentleglova § 13 første ledd. Hovedspørsmålet i saken var om taushetsplikten var til hinder for å gi innsyn i flere av opplysningene Helsetilsynet hadde unntatt offentlighet, jf. offentleglova § 13 første ledd, jf. forvaltningsloven §§ 13 første ledd nr. 1 og 13 a nr. 2.  
-   
- Sivilombudet hadde ikke innvendinger til at opplysninger om legens personlige forhold var unntatt offentlighet, da disse ikke kunne gis ut i anonymisert form. Resten av de unntatte opplysningene gjaldt pasientene. Ombudet kom til at det var vanskelig å se at taushetsplikten kunne begrunne unntak av alle de unntatte opplysningene når identifiserende kjennetegn som navn, alder og tidsangivelser var unntatt offentlighet.  
-   
- Noen av dokumentene i tilsynssakene hadde vedlegg. Saken reiste også spørsmål om vedleggene utgjorde selvstendige dokumenter, og om Helsetilsynet i så fall kunne unnta disse vedleggene i sin helhet etter offentleglova § 13 første ledd. Etter ombudets syn talte mye for vedleggene var egne dokumenter som ikke kunne unntas i helhet etter offentleglova § 13.   
-   
- Ombudet ba Helsetilsynet vurdere saken på nytt.
+Sivilombudet hadde ikke innvendinger til at opplysninger om legens personlige forhold var unntatt offentlighet, da disse ikke kunne gis ut i anonymisert form. Resten av de unntatte opplysningene gjaldt pasientene. Ombudet kom til at det var vanskelig å se at taushetsplikten kunne begrunne unntak av alle de unntatte opplysningene når identifiserende kjennetegn som navn, alder og tidsangivelser var unntatt offentlighet.  
+Noen av dokumentene i tilsynssakene hadde vedlegg. Saken reiste også spørsmål om vedleggene utgjorde selvstendige dokumenter, og om Helsetilsynet i så fall kunne unnta disse vedleggene i sin helhet etter offentleglova § 13 første ledd. Etter ombudets syn talte mye for vedleggene var egne dokumenter som ikke kunne unntas i helhet etter offentleglova § 13.  
+Ombudet ba Helsetilsynet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

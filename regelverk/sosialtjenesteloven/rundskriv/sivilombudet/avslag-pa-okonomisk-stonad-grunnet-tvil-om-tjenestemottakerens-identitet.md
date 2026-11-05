@@ -15,9 +15,8 @@ Sivilombudets uttalelse 30.4.2026 (sak 2025/7262).
 
 ## Oppsummering
 
-Saken gjelder avslag på økonomisk stønad (sosialhjelp) etter sosialtjenesteloven. Nav-kontoret og Statsforvalteren i Østfold, Buskerud, Oslo og Akershus avslo søknaden fordi de mente at klageren ikke var den norske statsborgeren han oppga at han var. De la avgjørende vekt på at klageren nylig hadde fått avslag på søknad om norsk pass og nasjonalt ID-kort, og at han ikke hadde annen gyldig legitimasjon.   
-   
- Spørsmålet for Sivilombudet var hvilke bevis- og dokumentasjonskrav knyttet til identitet som gjelder ved vurderingen av en søknad om økonomisk stønad. Ombudet er kommet til at det her ikke gjelder et absolutt krav om gyldig legitimasjon, og at tjenestemottakerens identitet må vurderes konkret med utgangspunkt i alminnelig sannsynlighetsovervekt. Sivilombudet har bedt om at klagerens sak behandles på nytt etter å ha vurdert at Statsforvalteren ser ut til å ha tatt utgangspunkt i feil bevis- og dokumentasjonskrav, og som følge av mangler ved vedtakets begrunnelse og sakens utredning.
+Saken gjelder avslag på økonomisk stønad (sosialhjelp) etter sosialtjenesteloven. Nav-kontoret og Statsforvalteren i Østfold, Buskerud, Oslo og Akershus avslo søknaden fordi de mente at klageren ikke var den norske statsborgeren han oppga at han var. De la avgjørende vekt på at klageren nylig hadde fått avslag på søknad om norsk pass og nasjonalt ID-kort, og at han ikke hadde annen gyldig legitimasjon.  
+Spørsmålet for Sivilombudet var hvilke bevis- og dokumentasjonskrav knyttet til identitet som gjelder ved vurderingen av en søknad om økonomisk stønad. Ombudet er kommet til at det her ikke gjelder et absolutt krav om gyldig legitimasjon, og at tjenestemottakerens identitet må vurderes konkret med utgangspunkt i alminnelig sannsynlighetsovervekt. Sivilombudet har bedt om at klagerens sak behandles på nytt etter å ha vurdert at Statsforvalteren ser ut til å ha tatt utgangspunkt i feil bevis- og dokumentasjonskrav, og som følge av mangler ved vedtakets begrunnelse og sakens utredning.
 
 Se oppdatering fra forvaltningen
 

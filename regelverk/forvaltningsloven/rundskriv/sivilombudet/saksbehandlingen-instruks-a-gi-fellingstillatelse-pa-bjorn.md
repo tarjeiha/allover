@@ -15,8 +15,7 @@ Sivilombudets uttalelse 23.3.2017 (sak 2016/1285).
 ## Oppsummering
 
 Saken gjelder behandlingen av en instruks om å gi fellingstillatelse på bjørn. Gjennom samtaler mellom statssekretæren i departementet og en lokalpolitiker på Høyres landsmøte i april 2016 ble Klima- og miljødepartementet kjent med en søknad om fellingstillatelse på bjørn som var sendt til Miljødirektoratet fra en kommune i Hedmark. Etter noen dager besluttet departementet at Miljødirektoratet skulle instrueres om at fellingstillatelse skulle gis. Direktoratet fulgte opp instruksen ved å gi fellingstillatelse, og dagen etter ble bjørnen felt.  
-   
- Overfor ombudsmannen fremhevet departementet at de relevante momentene i naturmangfoldloven var vurdert, og at instruks ble gitt fordi saken ble ansett å haste. Fordi det var en hastesak, hadde departementet ikke tid til å utarbeide noen form for skriftlig dokumentasjon over vurderingene som var foretatt i saken. Ombudsmannen rettet kritikk mot departementets manglende skriftlighet i saksbehandlingen.
+Overfor ombudsmannen fremhevet departementet at de relevante momentene i naturmangfoldloven var vurdert, og at instruks ble gitt fordi saken ble ansett å haste. Fordi det var en hastesak, hadde departementet ikke tid til å utarbeide noen form for skriftlig dokumentasjon over vurderingene som var foretatt i saken. Ombudsmannen rettet kritikk mot departementets manglende skriftlighet i saksbehandlingen.
 
 **Sakens bakgrunn**
 

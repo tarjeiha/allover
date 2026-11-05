@@ -15,15 +15,11 @@ Sivilombudets uttalelse 16.9.2024 (sak 2024/1956).
 
 ## Oppsummering
 
-Saken gjelder innsyn i sluttavtaler inngått ved Stavanger universitetssykehus HF. Det ble gitt innsyn i avtalene, men uten navnene på arbeidstakerne og andre opplysninger som kunne identifisere dem. Helse- og omsorgsdepartementet opprettholdt det delvise avslaget på innsyn i avtalene under henvisning til offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 - taushetsplikt om opplysninger om noens personlige forhold. Departementet viste også til offentleglova § 23 første ledd om hensynet til en forsvarlig gjennomføring av virksomhetens personalforvaltning.   
-   
- Sivilombudet kom til det at opplysningen om at en arbeidstaker har inngått en sluttavtale med det offentlige ikke er opplysninger om noens personlige forhold og er derfor ikke taushetsbelagt jf. forvaltningsloven § 13 første ledd nr. 1. Offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 hjemler ikke unntak fra offentlighet for navnet på arbeidstakerne. I avtaler der det er gitt innsyn i opplysninger som regnes som «personlige forhold» og derfor er taushetsbelagte dersom opplysningene kan knyttes til en bestemt person, vil navnet på arbeidstakeren og andre identifiserende opplysninger fortsatt måtte sladdes for å ivareta taushetsplikten, jf. offentleglova § 13 første ledd jf. forvaltningsloven § 13 første ledd nr. 1 og forvaltningsloven § 13 a nr. 2.   
-   
- Ombudet kom videre til at det ikke er adgang til å unnta navnet på arbeidstakerne som har inngått sluttavtalene med hjemmel i offentleglova § 23 første ledd da det ikke kan sies å være «påkravd av omsyn til ei forsvarleg gjennomføring av …personalforvaltninga» ved Stavanger universitetssykehus.   
-   
- Ombudet kom til at saken ikke var godt nok opplyst i tråd med kravene i offentleglova § 32 tredje ledd jf. forvaltningsloven § 33 femte ledd da departementet ikke hadde de usladdede dokumentene tilgjengelig ved klagebehandlingen.  
-   
- Helse- og omsorgsdepartementet er bedt om å behandle saken på nytt.
+Saken gjelder innsyn i sluttavtaler inngått ved Stavanger universitetssykehus HF. Det ble gitt innsyn i avtalene, men uten navnene på arbeidstakerne og andre opplysninger som kunne identifisere dem. Helse- og omsorgsdepartementet opprettholdt det delvise avslaget på innsyn i avtalene under henvisning til offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 - taushetsplikt om opplysninger om noens personlige forhold. Departementet viste også til offentleglova § 23 første ledd om hensynet til en forsvarlig gjennomføring av virksomhetens personalforvaltning.  
+Sivilombudet kom til det at opplysningen om at en arbeidstaker har inngått en sluttavtale med det offentlige ikke er opplysninger om noens personlige forhold og er derfor ikke taushetsbelagt jf. forvaltningsloven § 13 første ledd nr. 1. Offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 1 hjemler ikke unntak fra offentlighet for navnet på arbeidstakerne. I avtaler der det er gitt innsyn i opplysninger som regnes som «personlige forhold» og derfor er taushetsbelagte dersom opplysningene kan knyttes til en bestemt person, vil navnet på arbeidstakeren og andre identifiserende opplysninger fortsatt måtte sladdes for å ivareta taushetsplikten, jf. offentleglova § 13 første ledd jf. forvaltningsloven § 13 første ledd nr. 1 og forvaltningsloven § 13 a nr. 2.  
+Ombudet kom videre til at det ikke er adgang til å unnta navnet på arbeidstakerne som har inngått sluttavtalene med hjemmel i offentleglova § 23 første ledd da det ikke kan sies å være «påkravd av omsyn til ei forsvarleg gjennomføring av …personalforvaltninga» ved Stavanger universitetssykehus.  
+Ombudet kom til at saken ikke var godt nok opplyst i tråd med kravene i offentleglova § 32 tredje ledd jf. forvaltningsloven § 33 femte ledd da departementet ikke hadde de usladdede dokumentene tilgjengelig ved klagebehandlingen.  
+Helse- og omsorgsdepartementet er bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

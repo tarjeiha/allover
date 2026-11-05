@@ -14,13 +14,10 @@ Sivilombudets uttalelse 26.6.2025 (sak 2025/751).
 
 ## Oppsummering
 
-Saken gjelder om Statsforvalteren i Vestfold og Telemark brøt taushetsplikten ved å dele taushetsbelagt informasjon om en lege med legens arbeidsgiver under utredning av tilsynssak mot legen. Den taushetsbelagte informasjonen ble også delt med en virksomhet som ikke var legens arbeidsgiver. Informasjonen var uten tilknytning til legens yrkesutførelse.   
-   
- Det sentrale spørsmålet var om forvaltningsloven § 13 b første ledd nr. 2 hjemlet bruk av informasjonen.  
-   
- Ombudet kom til at det knyttet seg tvil til Statsforvalterens forståelse og anvendelse av forvaltningsloven § 13 b første ledd nr. 2, og at mye talte for at Statsforvalteren brøt sin taushetsplikt ved å dele informasjonen med legens arbeidsgiver i den innledende fasen av tilsynet. Det var uansett et brudd på taushetsplikten å dele opplysningene med feil arbeidsgiver.  
-   
- Etter ombudets syn må det innfortolkes et nødvendighetsvilkår i forvaltningsloven § 13 b første ledd nr. 2. Vilkåret må forstås slik at taushetsbelagte opplysninger kan deles i den utstrekning det er nødvendig for en forsvarlig saksforberedelse, avgjørelse, gjennomføring av avgjørelsen, oppfølging og kontroll av den enkelte sak.
+Saken gjelder om Statsforvalteren i Vestfold og Telemark brøt taushetsplikten ved å dele taushetsbelagt informasjon om en lege med legens arbeidsgiver under utredning av tilsynssak mot legen. Den taushetsbelagte informasjonen ble også delt med en virksomhet som ikke var legens arbeidsgiver. Informasjonen var uten tilknytning til legens yrkesutførelse.  
+Det sentrale spørsmålet var om forvaltningsloven § 13 b første ledd nr. 2 hjemlet bruk av informasjonen.  
+Ombudet kom til at det knyttet seg tvil til Statsforvalterens forståelse og anvendelse av forvaltningsloven § 13 b første ledd nr. 2, og at mye talte for at Statsforvalteren brøt sin taushetsplikt ved å dele informasjonen med legens arbeidsgiver i den innledende fasen av tilsynet. Det var uansett et brudd på taushetsplikten å dele opplysningene med feil arbeidsgiver.  
+Etter ombudets syn må det innfortolkes et nødvendighetsvilkår i forvaltningsloven § 13 b første ledd nr. 2. Vilkåret må forstås slik at taushetsbelagte opplysninger kan deles i den utstrekning det er nødvendig for en forsvarlig saksforberedelse, avgjørelse, gjennomføring av avgjørelsen, oppfølging og kontroll av den enkelte sak.
 
 ## Sakens bakgrunn
 

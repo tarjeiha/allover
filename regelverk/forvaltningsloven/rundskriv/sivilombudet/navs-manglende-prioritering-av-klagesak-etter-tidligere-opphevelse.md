@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.2.2024 (sak 2023/4310).
 ## Oppsummering
 
 Saken gjelder Nav Klageinstans’ manglende prioritering av en klagesak om menerstatning ved yrkesskade. Saken hadde tidligere vært til behandling i klageinstansen, som opphevet førsteinstansens vedtak om menerstatning og sendte saken tilbake til ny behandling ved Nav Familie- og pensjonsytelser.  
-   
- Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet og spurte om klagen over det nye vedtaket om menerstatning skulle vært prioritert av klageinstansen. Direktoratet var enig i at hjemsendte saker skal prioriteres ved en eventuell ny klage- og ankebehandling. Saken skulle derfor vært prioritert ved klagebehandlingen.   
-   
- Sivilombudet mener den samlede behandlingstiden på tre og et halvt år i klagerens sak er for lang og at den manglende prioriteringen i Nav Klageinstans strider mot god forvaltningsskikk.
+Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet og spurte om klagen over det nye vedtaket om menerstatning skulle vært prioritert av klageinstansen. Direktoratet var enig i at hjemsendte saker skal prioriteres ved en eventuell ny klage- og ankebehandling. Saken skulle derfor vært prioritert ved klagebehandlingen.  
+Sivilombudet mener den samlede behandlingstiden på tre og et halvt år i klagerens sak er for lang og at den manglende prioriteringen i Nav Klageinstans strider mot god forvaltningsskikk.
 
 Se oppdatering fra forvaltningen
 

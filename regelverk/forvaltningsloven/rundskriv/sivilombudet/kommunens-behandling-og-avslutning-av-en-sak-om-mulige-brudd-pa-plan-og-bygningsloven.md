@@ -14,13 +14,10 @@ Sivilombudets uttalelse 14.11.2024 (sak 2024/197).
 
 ## Oppsummering
 
-Saken gjelder Fredrikstad kommunes behandling og avslutning av et varsel om flere påståtte ulovlige byggetiltak på innmelderens naboeiendom.   
-   
- Sivilombudet har kommet til at kommunen ikke har undergitt ulovlighetsvarselet en forsvarlig behandling. Kommunen besvarte varselet med å avslutte saken under henvisning til prioriterings- og ressurshensyn. Ombudet kom til at kommunen har en plikt til å vurdere varselets innhold, samt å vurdere hvilke undersøkelser det er hensiktsmessig og nødvendig å gjøre for å kunne ta stilling til varselet. Kommunen kunne ikke avslutte saken under henvisning til prioriterings- og ressurshensyn.   
-   
- Videre kom ombudet til at saken ikke var godt nok opplyst når kommunen i svaret til ombudet vurderte at det ikke var sannsynlig at det forelå en ulovlighet. Kommunen hadde tidligere forklart til klageren at de manglet nødvendig informasjon om tiltakene, slik at de ikke kunne vurdere om tiltakene var søknadspliktige eller ikke. Beslutningsgrunnlaget var det samme da kommunen i brevet hit gjorde sin sannsynlighetsvurdering.   
-   
- Ombudet ber kommunen om å behandle varselet på nytt i lys av føringene gitt i uttalelsen. Ombudet forutsetter at kommunen organiserer arbeidet sitt slik at kommunen kan oppfylle sine lovpålagte plikter til å avdekke brudd på plan- og bygningsloven, forfølge ulovlige forhold og overholde forvaltningslovens krav til saksbehandling og saksbehandlingstid.
+Saken gjelder Fredrikstad kommunes behandling og avslutning av et varsel om flere påståtte ulovlige byggetiltak på innmelderens naboeiendom.  
+Sivilombudet har kommet til at kommunen ikke har undergitt ulovlighetsvarselet en forsvarlig behandling. Kommunen besvarte varselet med å avslutte saken under henvisning til prioriterings- og ressurshensyn. Ombudet kom til at kommunen har en plikt til å vurdere varselets innhold, samt å vurdere hvilke undersøkelser det er hensiktsmessig og nødvendig å gjøre for å kunne ta stilling til varselet. Kommunen kunne ikke avslutte saken under henvisning til prioriterings- og ressurshensyn.  
+Videre kom ombudet til at saken ikke var godt nok opplyst når kommunen i svaret til ombudet vurderte at det ikke var sannsynlig at det forelå en ulovlighet. Kommunen hadde tidligere forklart til klageren at de manglet nødvendig informasjon om tiltakene, slik at de ikke kunne vurdere om tiltakene var søknadspliktige eller ikke. Beslutningsgrunnlaget var det samme da kommunen i brevet hit gjorde sin sannsynlighetsvurdering.  
+Ombudet ber kommunen om å behandle varselet på nytt i lys av føringene gitt i uttalelsen. Ombudet forutsetter at kommunen organiserer arbeidet sitt slik at kommunen kan oppfylle sine lovpålagte plikter til å avdekke brudd på plan- og bygningsloven, forfølge ulovlige forhold og overholde forvaltningslovens krav til saksbehandling og saksbehandlingstid.
 
 Se oppdatering fra forvaltningen
 

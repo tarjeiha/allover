@@ -15,12 +15,9 @@ Sivilombudets uttalelse 23.5.2025 (sak 2025/95).
 ## Oppsummering
 
 Saken gjelder lang behandlingstid, manglende forsinkelsesmeldinger og ubesvarte henvendelser hos Statsforvalteren i Møre og Romsdal i forbindelse med tilsynssak mot tidligere Molde sjukehus.  
-   
- Statsforvalterens behandlingstid var på om lag 2 år og 5 måneder, med en liggetid på nærmere 1 år og 10 måneder. Den lange behandlingstiden ble forklart med ressurssituasjonen og et behov for å prioritere rettighetssaker og uavklarte tilsynssaker.   
-   
- Etter ombudets syn var behandlingstiden i strid med forvaltningsloven § 11 a første ledd, noe Statsforvalteren også hadde erkjent og beklaget. Opplysninger Statsforvalteren ga om gjennomsnittlig behandlingstid i denne typen tilsynssaker, gjorde ombudet bekymret for at flere saker kan få ulovlig lange behandlingstider. Ombudet ba Statsforvalteren om å vurdere tiltak for å bedre situasjonen og ombudet vil fortsette å følge med på behandlingstidene fremover.  
-   
- Heller ikke reglene i forvaltningsloven § 11 a andre ledd og normer for god forvaltningsskikk om orienteringer til klageren om sakens fremdrift, var overholdt i saken. Statsforvalteren har opplyst at de nå vil utarbeide rutiner for å sende ut forsinkelsesmelding når saksbehandlingstiden opplyst om i det foreløpige svaret ikke kan overholdes.
+Statsforvalterens behandlingstid var på om lag 2 år og 5 måneder, med en liggetid på nærmere 1 år og 10 måneder. Den lange behandlingstiden ble forklart med ressurssituasjonen og et behov for å prioritere rettighetssaker og uavklarte tilsynssaker.  
+Etter ombudets syn var behandlingstiden i strid med forvaltningsloven § 11 a første ledd, noe Statsforvalteren også hadde erkjent og beklaget. Opplysninger Statsforvalteren ga om gjennomsnittlig behandlingstid i denne typen tilsynssaker, gjorde ombudet bekymret for at flere saker kan få ulovlig lange behandlingstider. Ombudet ba Statsforvalteren om å vurdere tiltak for å bedre situasjonen og ombudet vil fortsette å følge med på behandlingstidene fremover.  
+Heller ikke reglene i forvaltningsloven § 11 a andre ledd og normer for god forvaltningsskikk om orienteringer til klageren om sakens fremdrift, var overholdt i saken. Statsforvalteren har opplyst at de nå vil utarbeide rutiner for å sende ut forsinkelsesmelding når saksbehandlingstiden opplyst om i det foreløpige svaret ikke kan overholdes.
 
 ## Sakens bakgrunn
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 8.10.2018 (sak 2017/1645).
 ## Oppsummering
 
 Et tidligere barnevernsbarn hadde fått rettferdsvederlag på kr. 300 000 for plasseringen på en spesialskole. Senere søkte han oppreisning fra oppreisningsordningen for tidligere barnevernsbarn i Møre og Romsdal for oppholdet ved den samme spesialskolen, og for den senere plasseringen på et ungdomshjem.  
-   
- Oppreisningsutvalget for Møre og Romsdal avkortet oppreisningen på kr. 400 000 for begge plasseringene med hele rettferdsvederlaget, da de anså grunnlaget for rettferdsvederlaget for fullt ut å være det «samme forhold» som grunnlaget for oppreisningen, jf. avkortingsbestemmelsen i oppreisningsordningens vedtekter.  
-   
- Ombudsmannen er kommet til at opphold på ulike institusjoner ikke kan regnes som «det samme forhold» etter avkortingsbestemmelsen i § 7 i oppreisningsordningens vedtekter. Det er derfor kun den delen av oppreisningen som gjelder plasseringen på spesialskolen Y som kan avkortes med det statlige rettferdsvederlaget for opphold på spesialskole Y.  
-   
- Utvalgets avgjørelser oppfyller heller ikke kravene til begrunnelse som følger av forvaltningsloven § 25 og god forvaltningsskikk.
+Oppreisningsutvalget for Møre og Romsdal avkortet oppreisningen på kr. 400 000 for begge plasseringene med hele rettferdsvederlaget, da de anså grunnlaget for rettferdsvederlaget for fullt ut å være det «samme forhold» som grunnlaget for oppreisningen, jf. avkortingsbestemmelsen i oppreisningsordningens vedtekter.  
+Ombudsmannen er kommet til at opphold på ulike institusjoner ikke kan regnes som «det samme forhold» etter avkortingsbestemmelsen i § 7 i oppreisningsordningens vedtekter. Det er derfor kun den delen av oppreisningen som gjelder plasseringen på spesialskolen Y som kan avkortes med det statlige rettferdsvederlaget for opphold på spesialskole Y.  
+Utvalgets avgjørelser oppfyller heller ikke kravene til begrunnelse som følger av forvaltningsloven § 25 og god forvaltningsskikk.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 22.10.2018 (sak 2018/2802).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens i Trøndelags saksbehandlingstid ved krav om innsyn i offentlig postjournal. Fylkesmannen hadde i flere måneder ikke publisert offentlig journal på internett. En journalist ba om innsyn i journalen for den aktuelle perioden, men Fylkesmannen svarte at de på grunn av ressurssituasjonen foreløpig ikke hadde en offentlig journal å gi ut.  
-   
- Ombudsmannen er kommet til at journalistens innsynskrav ikke er behandlet uten ugrunnet opphold. At Fylkesmannens offentlige journal er utilgjengelig i flere måneder, innebærer en uthuling av offentlighetsprinsippet.
+Ombudsmannen er kommet til at journalistens innsynskrav ikke er behandlet uten ugrunnet opphold. At Fylkesmannens offentlige journal er utilgjengelig i flere måneder, innebærer en uthuling av offentlighetsprinsippet.
 
 ## Sakens bakgrunn
 

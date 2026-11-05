@@ -15,8 +15,7 @@ Sivilombudets uttalelse 2.9.2021 (sak 2021/1467).
 ## Oppsummering
 
 Saken gjelder en tillatelse til å oppføre et busskur i samsvar med gjeldende plan ca. to meter fra naboens bolig. Naboen klaget og anførte konkrete ulemper ved den godkjente plasseringen. Statsforvalteren synes ikke å ha vurdert tiltakets plassering og naboens argumenter mot denne, men la til grunn at tiltaket måtte godkjennes da det var i samsvar med regelverket. Naboen klaget til Sivilombudet.  
-   
- Sivilombudet er kommet til at plasseringen av tiltaket må vurderes og godkjennes etter plan- og bygningsloven § 29-4 første ledd også der et tiltak er i samsvar med plan. Omfanget av vurderingen avhenger av i hvilken grad tiltakets plassering er konkret vurdert i planen. Her var busskurets plassering og naboens eventuelle ulemper ved denne ikke vurdert i plansaken. I slike tilfeller må disse forholdene vurderes i byggesaken med hjemmel i plan- og bygningsloven § 29-4 første ledd. Da ombudet ikke kan se at klagerens påberope ulemper mot plasseringen er vurdert, sendes saken tilbake til Statsforvalteren for ny behandling.
+Sivilombudet er kommet til at plasseringen av tiltaket må vurderes og godkjennes etter plan- og bygningsloven § 29-4 første ledd også der et tiltak er i samsvar med plan. Omfanget av vurderingen avhenger av i hvilken grad tiltakets plassering er konkret vurdert i planen. Her var busskurets plassering og naboens eventuelle ulemper ved denne ikke vurdert i plansaken. I slike tilfeller må disse forholdene vurderes i byggesaken med hjemmel i plan- og bygningsloven § 29-4 første ledd. Da ombudet ikke kan se at klagerens påberope ulemper mot plasseringen er vurdert, sendes saken tilbake til Statsforvalteren for ny behandling.
 
 Se oppdatering fra forvaltningen
 

@@ -15,11 +15,11 @@ Sivilombudets uttalelse 18.5.2017 (sak 2016/413).
 
 ## Oppsummering
 
-Saken gjelder Utlendingsnemndas (UNEs) vedtak om utvisning med fem års innreiseforbud og innmelding i Schengen informasjonssystem.   
- Utvisningen var begrunnet med at klagerens søknad om oppholdstillatelse for familieinnvandring til ektefelle i Norge var avslått i medhold av bestemmelsen om omgåelsesekteskap i utlendingsloven § 40 fjerde ledd. Ombudsmannen kritiserte UNE for å ha lagt til grunn at et slikt avslag automatisk innebærer at vilkårene for utvisning etter § 66 første ledd bokstav a annet alternativ er oppfylt. UNE skulle ha foretatt en konkret vurdering av om klageren hadde gitt vesentlige uriktige eller villedende opplysninger i oppholdssaken, og av hvilken betydning dette eventuelt skulle gis i utvisningssaken.   
- De manglende vurderingene innebærer en feil ved rettsanvendelsen. Begrunnelsen i utvisningsvedtaket oppfyller heller ikke kravene etter forvaltningsloven §§ 24 og 25.  
- Ombudsmannen kom til at vedtaket er ugyldig, og UNE ble bedt om å behandle saken på nytt. Da UNEs behandling av saken var opplyst å være i samsvar med utlendingsmyndighetenes praksis, ble UNE også bedt om å endre sin praksis, slik at tilsvarende fremtidige saker undergis en tilstrekkelig individuell vurdering.   
- Ombudsmannen bemerket videre at UNEs omtale av klagerens ekteskap som et «proformaekteskap» og som et ekteskap «uten realitet» var misvisende, så lenge det ikke var tatt stilling til om ekteskapet var reelt. Avslag på familieinnvandring etter § 40 fjerde ledd innebærer ikke i seg selv at et ekteskap kan anses å være proforma. UNE ble bedt om å endre sin begrepsbruk i tilsvarende saker.
+Saken gjelder Utlendingsnemndas (UNEs) vedtak om utvisning med fem års innreiseforbud og innmelding i Schengen informasjonssystem.  
+Utvisningen var begrunnet med at klagerens søknad om oppholdstillatelse for familieinnvandring til ektefelle i Norge var avslått i medhold av bestemmelsen om omgåelsesekteskap i utlendingsloven § 40 fjerde ledd. Ombudsmannen kritiserte UNE for å ha lagt til grunn at et slikt avslag automatisk innebærer at vilkårene for utvisning etter § 66 første ledd bokstav a annet alternativ er oppfylt. UNE skulle ha foretatt en konkret vurdering av om klageren hadde gitt vesentlige uriktige eller villedende opplysninger i oppholdssaken, og av hvilken betydning dette eventuelt skulle gis i utvisningssaken.  
+De manglende vurderingene innebærer en feil ved rettsanvendelsen. Begrunnelsen i utvisningsvedtaket oppfyller heller ikke kravene etter forvaltningsloven §§ 24 og 25.  
+Ombudsmannen kom til at vedtaket er ugyldig, og UNE ble bedt om å behandle saken på nytt. Da UNEs behandling av saken var opplyst å være i samsvar med utlendingsmyndighetenes praksis, ble UNE også bedt om å endre sin praksis, slik at tilsvarende fremtidige saker undergis en tilstrekkelig individuell vurdering.  
+Ombudsmannen bemerket videre at UNEs omtale av klagerens ekteskap som et «proformaekteskap» og som et ekteskap «uten realitet» var misvisende, så lenge det ikke var tatt stilling til om ekteskapet var reelt. Avslag på familieinnvandring etter § 40 fjerde ledd innebærer ikke i seg selv at et ekteskap kan anses å være proforma. UNE ble bedt om å endre sin begrepsbruk i tilsvarende saker.
 
 ### Sakens bakgrunn
 

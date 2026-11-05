@@ -14,11 +14,9 @@ Sivilombudets uttalelse 22.12.2023 (sak 2023/4207).
 
 ## Oppsummering
 
-Saken gjelder lempning av skatte- og avgiftskrav etter skattebetalingsloven § 15-1 første ledd. Klageren i saken søkte om å få lempet et større skattekrav som hadde oppstått for mer enn 20 år siden. Klageren ble senere kjent med at han også skyldte et like stort beløp i merverdiavgift. Han mente merverdiavgiftskravet var foreldet. Skattekontoret og Skattedirektoratet kom frem til at vilkårene for lempning ikke var oppfylt, uten å vurdere om merverdiavgiftskravet var foreldet.   
-   
- Sivilombudet er kommet til at Skattedirektoratet skulle ha vurdert om merverdiavgiftskravet var foreldet, og dermed kravets endelige størrelse, før de tok stilling til om gjelden kunne lempes. Ombudet anser dette som en feil ved rettsanvendelsen, jf. sivilombudsloven § 12 første ledd bokstav a. Et vedtak om lempning etter skattebetalingsloven § 15-1 første ledd må omfatte alle skatte- og avgiftskravene som den skattepliktige skylder, med mindre kravene åpenbart ikke har betydning for vurderingen.  
-   
- Skattedirektoratet har opplyst at de vil be skattekontoret vurdere lempningssøknaden på nytt. Ombudet ber om å bli orientert om utfallet av den nye behandlingen av søknaden.
+Saken gjelder lempning av skatte- og avgiftskrav etter skattebetalingsloven § 15-1 første ledd. Klageren i saken søkte om å få lempet et større skattekrav som hadde oppstått for mer enn 20 år siden. Klageren ble senere kjent med at han også skyldte et like stort beløp i merverdiavgift. Han mente merverdiavgiftskravet var foreldet. Skattekontoret og Skattedirektoratet kom frem til at vilkårene for lempning ikke var oppfylt, uten å vurdere om merverdiavgiftskravet var foreldet.  
+Sivilombudet er kommet til at Skattedirektoratet skulle ha vurdert om merverdiavgiftskravet var foreldet, og dermed kravets endelige størrelse, før de tok stilling til om gjelden kunne lempes. Ombudet anser dette som en feil ved rettsanvendelsen, jf. sivilombudsloven § 12 første ledd bokstav a. Et vedtak om lempning etter skattebetalingsloven § 15-1 første ledd må omfatte alle skatte- og avgiftskravene som den skattepliktige skylder, med mindre kravene åpenbart ikke har betydning for vurderingen.  
+Skattedirektoratet har opplyst at de vil be skattekontoret vurdere lempningssøknaden på nytt. Ombudet ber om å bli orientert om utfallet av den nye behandlingen av søknaden.
 
 ## Sakens bakgrunn
 

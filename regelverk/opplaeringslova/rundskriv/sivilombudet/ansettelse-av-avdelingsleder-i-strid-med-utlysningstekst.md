@@ -16,8 +16,7 @@ Sivilombudets uttalelse 10.6.2021 (sak 2021/498).
 ## Oppsummering
 
 En fylkeskommune utlyste en stilling som avdelingsleder ved en videregående skole. En søker ble ikke kalt inn til intervju fordi hun var samboer med en annen avdelingsleder ved skolen, og klaget saken inn til ombudsmannen. Klageren mente at ansettelsen var i strid med kvalifikasjonsprinsippet.  
-   
- Ombudsmannen har kommet til at fylkeskommunen har gjort flere feil ved ansettelsen. Prosessen har på langt nær vært i tråd med de ulovfestede kravene til skriftlighet som gjelder ved ansettelser. Videre var det i strid med kvalifikasjonsprinsippet at fylkeskommunen ansatte en søker som ikke oppfylte utlysningstekstens krav til utdanning. Det knytter seg også begrunnet tvil til om klageren ble forbigått ved ansettelsen. Ved fremtidige ansettelser må fylkeskommunen være bevisst de ulovfestede kravene til skriftlighet, og til utlysningstekstens betydning for hvem som kan ansettes.
+Ombudsmannen har kommet til at fylkeskommunen har gjort flere feil ved ansettelsen. Prosessen har på langt nær vært i tråd med de ulovfestede kravene til skriftlighet som gjelder ved ansettelser. Videre var det i strid med kvalifikasjonsprinsippet at fylkeskommunen ansatte en søker som ikke oppfylte utlysningstekstens krav til utdanning. Det knytter seg også begrunnet tvil til om klageren ble forbigått ved ansettelsen. Ved fremtidige ansettelser må fylkeskommunen være bevisst de ulovfestede kravene til skriftlighet, og til utlysningstekstens betydning for hvem som kan ansettes.
 
 ## Sakens bakgrunn
 

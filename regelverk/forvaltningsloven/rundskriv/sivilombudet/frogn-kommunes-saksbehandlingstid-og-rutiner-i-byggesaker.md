@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.1.2020 (sak 2019/4150).
 ## Oppsummering
 
 Ombudsmannen har av eget tiltak undersøkt saksbehandlingstid og rutiner ved byggesaksavdelingen i Frogn kommune. Ombudsmannen har særlig sett på saksbehandlingstid for byggesøknader og klager i byggesaker, samt kommunens rutiner for informasjon til søkerne under sakens gang.  
-   
- Kommunen har opplyst at de har iverksatt flere tiltak på byggesaksavdelingen. Ombudsmannen påpeker likevel at den gjennomsnittlige saksbehandlingstiden for byggesøknader og behandling av byggesaksklager, er for lang. I mange saker er ikke saksbehandlingsfristene i forvaltningsloven, plan- og bygningsloven og byggesaksforskriften overholdt. I flere saker er det heller ikke sendt tilfredsstillende foreløpige svar, forsinkelsesmeldinger eller svar på henvendelser fra søkere. Kommunen har opplyst at saksbehandlingsreglene nå følges for nye saker.  
-   
- Ombudsmannen forutsetter at kommunen bemanner byggesaksavdelingen og organiserer arbeidet slik at den kan oppfylle lovpålagte plikter for saksbehandlingstid, informasjon til borgerne og til å forfølge ulovlige forhold.
+Kommunen har opplyst at de har iverksatt flere tiltak på byggesaksavdelingen. Ombudsmannen påpeker likevel at den gjennomsnittlige saksbehandlingstiden for byggesøknader og behandling av byggesaksklager, er for lang. I mange saker er ikke saksbehandlingsfristene i forvaltningsloven, plan- og bygningsloven og byggesaksforskriften overholdt. I flere saker er det heller ikke sendt tilfredsstillende foreløpige svar, forsinkelsesmeldinger eller svar på henvendelser fra søkere. Kommunen har opplyst at saksbehandlingsreglene nå følges for nye saker.  
+Ombudsmannen forutsetter at kommunen bemanner byggesaksavdelingen og organiserer arbeidet slik at den kan oppfylle lovpålagte plikter for saksbehandlingstid, informasjon til borgerne og til å forfølge ulovlige forhold.
 
 Se oppdatering fra forvaltningen
 

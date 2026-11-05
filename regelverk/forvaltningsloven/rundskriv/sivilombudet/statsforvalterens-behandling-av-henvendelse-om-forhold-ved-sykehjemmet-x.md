@@ -15,12 +15,9 @@ Sivilombudets uttalelse 24.4.2026 (sak 2025/6933).
 ## Oppsummering
 
 Saken gjelder Statsforvalterens behandling av en henvendelse fra datteren til en beboer ved sykehjemmet X. I henvendelsen tok datteren opp flere forhold ved farens opphold på sykehjemmet. Hun ba uttrykkelig om tilsyn, og anførte samtidig at et vedlagt tvangsvedtak etter pasient- og brukerettighetsloven kapittel 4A var ugyldig. Statsforvalteren behandlet henvendelsen utelukkende som en anmodning om tilsyn.  
-   
- Spørsmålet for ombudet var om henvendelsen ga Statsforvalteren grunn til å avklare med klageren om hun i tillegg til å be om tilsyn, også mente å klage over det vedlagte tvangsvedtaket.   
-   
- Ombudet kom til at henvendelsen, særlig på grunn av klagerens anførsel om at et vedlagt tvangsvedtak var ugyldig, ga grunnlag for å veilede henne og avklare om hun også ønsket klagebehandling etter pasient- og brukerettighetsloven § 4A-7. Statsforvalteren var enig i dette i sin redegjørelse til ombudet.  
-   
- Ombudet uttalte at Statsforvalteren må være særlig oppmerksom på at en henvendelse hvor det eksplisitt bes om tilsyn, også kan være ment som en klage. Statsforvalteren bør ha en lav terskel for å avklare formålet med henvendelsen og gi nødvendig veiledning. Det ble vist til at det for publikum kan være vanskelig å forstå forskjellen mellom en klage og en anmodning om tilsyn, og at skillet mellom ordningene har stor betydning.
+Spørsmålet for ombudet var om henvendelsen ga Statsforvalteren grunn til å avklare med klageren om hun i tillegg til å be om tilsyn, også mente å klage over det vedlagte tvangsvedtaket.  
+Ombudet kom til at henvendelsen, særlig på grunn av klagerens anførsel om at et vedlagt tvangsvedtak var ugyldig, ga grunnlag for å veilede henne og avklare om hun også ønsket klagebehandling etter pasient- og brukerettighetsloven § 4A-7. Statsforvalteren var enig i dette i sin redegjørelse til ombudet.  
+Ombudet uttalte at Statsforvalteren må være særlig oppmerksom på at en henvendelse hvor det eksplisitt bes om tilsyn, også kan være ment som en klage. Statsforvalteren bør ha en lav terskel for å avklare formålet med henvendelsen og gi nødvendig veiledning. Det ble vist til at det for publikum kan være vanskelig å forstå forskjellen mellom en klage og en anmodning om tilsyn, og at skillet mellom ordningene har stor betydning.
 
 Se oppdatering fra forvaltningen
 

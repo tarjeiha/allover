@@ -16,8 +16,8 @@ Sivilombudets uttalelse 24.11.2017 (sak 2017/804).
 ## Oppsummering
 
 Saken gjelder innsyn i opplysninger om Ruters billettkontroller. Innsynskravet gjaldt tidspunkt og sted for gjennomførte kontroller i perioden januar 2015 til juni 2016. Kravet ble avslått under henvisning til at innsyn i opplysningene kunne motvirke fremtidige billettkontroller. Fylkesmannen som klageinstans hadde ikke tilgang til opplysningene om tidspunkt og sted for de gjennomførte kontrollene da saken ble behandlet.  
- Ombudsmannen er kommet til at saken ikke var tilstrekkelig opplyst da den ble klagebehandlet. For å kunne ta stilling til om de aktuelle opplysningene kan unntas etter offentleglova, må Fylkesmannen som klageinstans undersøke dokumentene innsynskravet gjelder. Den kan ikke bygge på Ruters egen oppfatning av innsynsspørsmålet og hva de aktuelle opplysningene eventuelt røper.  
- Etter en gjennomgang av dokumentene innsynskravet gjelder, er ombudsmannen kommet til at offentleglova § 24 første ledd gir adgang til å unnta opplysningene. Ombudsmannen har for øvrig ikke merknader til meroffentlighetsvurderingene. Det vises til at ombudsmannen bare i begrenset utstrekning kan overprøve forvaltningens vurdering av om det skal utøves meroffentlighet.
+Ombudsmannen er kommet til at saken ikke var tilstrekkelig opplyst da den ble klagebehandlet. For å kunne ta stilling til om de aktuelle opplysningene kan unntas etter offentleglova, må Fylkesmannen som klageinstans undersøke dokumentene innsynskravet gjelder. Den kan ikke bygge på Ruters egen oppfatning av innsynsspørsmålet og hva de aktuelle opplysningene eventuelt røper.  
+Etter en gjennomgang av dokumentene innsynskravet gjelder, er ombudsmannen kommet til at offentleglova § 24 første ledd gir adgang til å unnta opplysningene. Ombudsmannen har for øvrig ikke merknader til meroffentlighetsvurderingene. Det vises til at ombudsmannen bare i begrenset utstrekning kan overprøve forvaltningens vurdering av om det skal utøves meroffentlighet.
 
 ## Sakens bakgrunn
 

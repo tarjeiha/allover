@@ -15,8 +15,7 @@ Sivilombudets uttalelse 1.4.2019 (sak 2018/4671).
 ## Oppsummering
 
 Statsministerens kontor avslo en begjæring om innsyn i en e-post som gjaldt håndteringen av en pressehenvendelse om finansministerens private leiekontrakter. E-posten var sendt fra en statssekretær i Finansdepartementet til en statssekretær ved Statsministerens kontor. Spørsmålet i saken er om e-posten er et saksdokument for organet, og derved underlagt lovens regler om innsyn.  
-   
- Ombudsmannen er kommet til at e-posten er et saksdokument for Statsministerens kontor, jf. offentleglova §§ 3 og 4. Den er derved omfattet av lovens regler om innsynsrett. Statsministerens kontor bes på denne bakgrunn om å behandle innsynsbegjæringen på nytt.
+Ombudsmannen er kommet til at e-posten er et saksdokument for Statsministerens kontor, jf. offentleglova §§ 3 og 4. Den er derved omfattet av lovens regler om innsynsrett. Statsministerens kontor bes på denne bakgrunn om å behandle innsynsbegjæringen på nytt.
 
 ## Sakens bakgrunn
 

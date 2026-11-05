@@ -15,11 +15,9 @@ Sivilombudets uttalelse 22.4.2025 (sak 2024/5938).
 
 ## Oppsummering
 
-Saken gjelder saksbehandlingstiden og innhold i avslag etter offentleglova i innsynssaker hos Oslo universitetssykehus HF. Sivilombudet undersøkte saken på generelt grunnlag og av eget tiltak på bakgrunn av informasjon mottatt i konkrete klagesaker.   
-   
- Sivilombudet merket seg Oslo universitetssykehus’ redegjørelse for behandling av innsynskrav. Ombudet fant grunn til å påpeke at sykehuset må organisere arbeidet slik at offentleglovas krav ivaretas ved at innsynskravene og innsynsklagesakene behandles «utan ugrunna opphald». Ombudet ba OUS vurdere om det bør igangsettes tiltak for å sikre at offentleglovas frister overholdes ved alle klinikker.   
-   
- Sivilombudet ba Oslo universitetssykehus vurdere å presisere i rutinene for behandling av innsynskrav at klageadgangen også gjelder for de tilfeller der innsynskrav avvises eller avslås fordi sykehuset ikke har dokumentet/opplysningene som det er bedt om innsyn i.
+Saken gjelder saksbehandlingstiden og innhold i avslag etter offentleglova i innsynssaker hos Oslo universitetssykehus HF. Sivilombudet undersøkte saken på generelt grunnlag og av eget tiltak på bakgrunn av informasjon mottatt i konkrete klagesaker.  
+Sivilombudet merket seg Oslo universitetssykehus’ redegjørelse for behandling av innsynskrav. Ombudet fant grunn til å påpeke at sykehuset må organisere arbeidet slik at offentleglovas krav ivaretas ved at innsynskravene og innsynsklagesakene behandles «utan ugrunna opphald». Ombudet ba OUS vurdere om det bør igangsettes tiltak for å sikre at offentleglovas frister overholdes ved alle klinikker.  
+Sivilombudet ba Oslo universitetssykehus vurdere å presisere i rutinene for behandling av innsynskrav at klageadgangen også gjelder for de tilfeller der innsynskrav avvises eller avslås fordi sykehuset ikke har dokumentet/opplysningene som det er bedt om innsyn i.
 
 ## Sakens bakgrunn
 

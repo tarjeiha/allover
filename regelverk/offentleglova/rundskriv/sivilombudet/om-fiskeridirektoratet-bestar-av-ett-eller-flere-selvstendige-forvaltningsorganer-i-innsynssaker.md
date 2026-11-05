@@ -15,11 +15,9 @@ Sivilombudets uttalelse 11.9.2023 (sak 2022/5132).
 
 ## Oppsummering
 
-Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt betydningen av Fiskeridirektoratets organisering for behandlingen av innsynssaker. Ombudet har rettet tilsvarende undersøkelser mot Mattilsynet, Arbeidstilsynet, Tolletaten, Statens vegvesen og (mer begrenset) mot Skatteetaten. Saken har reist spørsmål om innsynssaker er sikret en reell to-instansbehandling, hvilke dokumenter som er organinterne og hvem som skal behandle innsynskrav. Ombudet har også undersøkt hvordan korrespondanse sendt innad i etaten er synliggjort i postjournalen og i journalen publisert på eInnsyn.   
-   
- Sivilombudet har kommet til at Fiskeridirektoratet er ett forvaltningsorgan etter offentleglova.   
-   
- Ombudet mener at Klagesaksenheten i direktoratet ikke er et eget og overordnet forvaltningsorgan, og dermed heller ikke klageinstans etter offentleglova § 32. Inntil det er eventuelt kommer på plass en lovhjemlet klageordning, vil Nærings- og fiskeridepartementet være klageorgan for alle avgjørelser Fiskeridirektoratet har truffet i første instans i innsynssaker.
+Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt betydningen av Fiskeridirektoratets organisering for behandlingen av innsynssaker. Ombudet har rettet tilsvarende undersøkelser mot Mattilsynet, Arbeidstilsynet, Tolletaten, Statens vegvesen og (mer begrenset) mot Skatteetaten. Saken har reist spørsmål om innsynssaker er sikret en reell to-instansbehandling, hvilke dokumenter som er organinterne og hvem som skal behandle innsynskrav. Ombudet har også undersøkt hvordan korrespondanse sendt innad i etaten er synliggjort i postjournalen og i journalen publisert på eInnsyn.  
+Sivilombudet har kommet til at Fiskeridirektoratet er ett forvaltningsorgan etter offentleglova.  
+Ombudet mener at Klagesaksenheten i direktoratet ikke er et eget og overordnet forvaltningsorgan, og dermed heller ikke klageinstans etter offentleglova § 32. Inntil det er eventuelt kommer på plass en lovhjemlet klageordning, vil Nærings- og fiskeridepartementet være klageorgan for alle avgjørelser Fiskeridirektoratet har truffet i første instans i innsynssaker.
 
 Se oppdatering fra forvaltningen
 

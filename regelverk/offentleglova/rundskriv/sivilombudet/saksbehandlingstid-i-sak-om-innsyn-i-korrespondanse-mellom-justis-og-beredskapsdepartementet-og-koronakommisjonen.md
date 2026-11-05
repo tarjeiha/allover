@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.1.2021 (sak 2020/4857).
 ## Oppsummering
 
 Saken gjelder Justis- og beredskapsdepartementets saksbehandlingstid i sak om innsyn i korrespondanse mellom departementet og Koronakommisjonen. Departementet brukte flere måneder på å behandle innsynskravene. Innsynskravene gjaldt flere hundre dokumenter. Den lange saksbehandlingstiden var begrunnet i den store arbeidsmengden som følge av covid-19-pandemien, samt at innsynskravene var omfattende.  
-   
- Ombudsmannen har forståelse for at den ekstraordinære arbeidsbelastningen i departementet som følge av pandemien også kan føre til forsinkelser ved behandling av innsynssaker. Ombudsmannen er likevel kommet til at departementets saksbehandlingstid i denne saken var for lang og i strid med lovens krav. Krav om innsyn og klager i innsynssaker skal etter offentleglova avgjøres uten ugrunnet opphold. Det er ikke gjort endringer i offentleglova som følge av pandemien.
+Ombudsmannen har forståelse for at den ekstraordinære arbeidsbelastningen i departementet som følge av pandemien også kan føre til forsinkelser ved behandling av innsynssaker. Ombudsmannen er likevel kommet til at departementets saksbehandlingstid i denne saken var for lang og i strid med lovens krav. Krav om innsyn og klager i innsynssaker skal etter offentleglova avgjøres uten ugrunnet opphold. Det er ikke gjort endringer i offentleglova som følge av pandemien.
 
 ## Sakens bakgrunn
 

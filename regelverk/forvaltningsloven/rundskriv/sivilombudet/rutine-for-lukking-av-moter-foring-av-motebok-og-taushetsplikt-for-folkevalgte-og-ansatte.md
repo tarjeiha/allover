@@ -15,10 +15,8 @@ Sivilombudets uttalelse 3.7.2019 (sak 2019/534).
 ## Oppsummering
 
 Ombudsmannen har undersøkt Brønnøy kommunes reglement for kommunestyret av eget tiltak.  
-   
- Reglementet går på flere punkter lenger enn kommunelovens bestemmelser om unntak fra hovedregelen om møteoffentlighet. Videre innebærer reglementet en betydelig skranke i de folkevalgtes og de ansattes ytringsfrihet. Ombudsmannen ber kommunen om å endre reglementet på disse punktene. Videre bes kommunen om å merke seg det som fremgår av ombudsmannens tidligere uttalelse om kommunens mangelfulle føring av møtebok ved vurderingen av behovet for å innta regler om dette i reglementet, og at det fortløpende vurderes om det er behov for andre tiltak for at reglene om føring av møtebok overholdes.  
-   
- Ombudsmannen ber om å bli holdt orientert om kommunens endringer i reglementet.
+Reglementet går på flere punkter lenger enn kommunelovens bestemmelser om unntak fra hovedregelen om møteoffentlighet. Videre innebærer reglementet en betydelig skranke i de folkevalgtes og de ansattes ytringsfrihet. Ombudsmannen ber kommunen om å endre reglementet på disse punktene. Videre bes kommunen om å merke seg det som fremgår av ombudsmannens tidligere uttalelse om kommunens mangelfulle føring av møtebok ved vurderingen av behovet for å innta regler om dette i reglementet, og at det fortløpende vurderes om det er behov for andre tiltak for at reglene om føring av møtebok overholdes.  
+Ombudsmannen ber om å bli holdt orientert om kommunens endringer i reglementet.
 
 Se oppdatering fra forvaltningen
 
@@ -43,16 +41,16 @@ Kommunen svarte i brev 14. mai 2019. På spørsmål 1 om reglementets unntak fra
 «Kommunens reglement sett opp mot § 31 Møteoffentlighet:
 
 *Et folkevalgt organ skal vedta å lukke et møte når det foreligger lovbestemt taushetsplikt*  
- Jamfør kommunens punkt 1
+Jamfør kommunens punkt 1
 
 *Et folkevalgt organ skal vedta å lukke et møte når det skal behandle en sak som angår en arbeidstakers tjenstlige forhold*  
- Jamfør kommunens punkt 4
+Jamfør kommunens punkt 4
 
 *Et folkevalgt organ kan vedta å lukke et møte når hensynet til personvern krever det*  
- Jamfør kommunens punkt 2
+Jamfør kommunens punkt 2
 
 *Et folkevalgt organ kan vedta å lukke et møte når hensynet til tungtveiende offentlige interesser tilsier det, og det vil komme fram opplysninger i møtet som kunne ha vært unntatt offentlig innsyn etter lov 19. mai 2006 nr. 16 (offentleglova) dersom de hadde stått i et dokument*  
- Jamfør kommunens punkt 3
+Jamfør kommunens punkt 3
 
 Kommunen er av den oppfatning at reglementet samsvarer godt på punkt 2-4 i loven. Under punkt 5, som er kommunens punkt 3, kunne kommunen sitt reglement vært mer utfyllende. Dette vil bli forbedret ved neste behandling av dette reglementet.»
 

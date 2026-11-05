@@ -15,11 +15,9 @@ Sivilombudets uttalelse 9.3.2026 (sak 2025/4525).
 
 ## Oppsummering
 
-Saken gjelder innsyn i meldingene mottatt hos Statens jernbanetilsyn om avvik og hendelser som gjelder Bybanen i Bergen. Dokumentene var unntatt i sin helhet som taushetsbelagte etter offentleglova § 13 jf. jernbaneundersøkelsesloven § 23 jf. § 17. Det ble ikke funnet at det forelå tilstrekkelige tungtveiende offentlige hensyn til å fravike taushetsplikten. Samferdselsdepartementet opprettholdt avslaget.   
-   
- Sivilombudet kom til at departementet ikke har vurdert de enkelte meldingene konkret opp mot begrensningene i taushetsplikten. Det er ikke i tilstrekkelig grad synliggjort hvordan offentlige interesser er vurdert og veid opp mot hensynene bak taushetsplikten og det er ikke vurdert om det er opplysninger som er alminnelig tilgjengelig.   
-   
- Ombudet kom til at det foreligger begrunnet tvil om forhold av betydning for saken og departementet ble bedt om å behandle innsynssaken på nytt.
+Saken gjelder innsyn i meldingene mottatt hos Statens jernbanetilsyn om avvik og hendelser som gjelder Bybanen i Bergen. Dokumentene var unntatt i sin helhet som taushetsbelagte etter offentleglova § 13 jf. jernbaneundersøkelsesloven § 23 jf. § 17. Det ble ikke funnet at det forelå tilstrekkelige tungtveiende offentlige hensyn til å fravike taushetsplikten. Samferdselsdepartementet opprettholdt avslaget.  
+Sivilombudet kom til at departementet ikke har vurdert de enkelte meldingene konkret opp mot begrensningene i taushetsplikten. Det er ikke i tilstrekkelig grad synliggjort hvordan offentlige interesser er vurdert og veid opp mot hensynene bak taushetsplikten og det er ikke vurdert om det er opplysninger som er alminnelig tilgjengelig.  
+Ombudet kom til at det foreligger begrunnet tvil om forhold av betydning for saken og departementet ble bedt om å behandle innsynssaken på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 24.11.2025 (sak 2025/3919).
 ## Oppsummering
 
 Saken gjelder tollmyndighetenes saksbehandling ved tilbakehold og beslag av varer etter vareførselsloven kapittel 11. Klageren i saken ble stoppet i en rutinekontroll på flyplassen og fikk beslaglagt reseptbelagte legemidler. Tollpersonellet ga klageren en muntlig orientering på stedet om beslaget og den videre saksgangen. Klageren henvendte seg til Tolletaten på epost og forklarte at det ble tatt beslag i en for stor mengde legemidler. Tolletaten videresendte ikke klagerens henvendelser i henhold til intern instruks, og først etter flere purringer fra klageren ble tollmyndighetene klar over at beslaget var for stort.  
-   
- Sivilombudet er kommet til at Tolletaten ikke oppfylte veiledningsplikten overfor klageren etter forvaltningsloven § 11. Klageren fikk hverken tilstrekkelig eller korrekt informasjon om hvor henvendelser og eventuelle klager skulle rettes. Det ble også tatt beslag i en større mengde legemidler enn det som følger av praksis. Ombudet mener at dagens praksis med muntlig orientering på stedet ved tilbakehold og beslag, ikke er tilstrekkelig til å ivareta partenes interesser og rettssikkerhet. Ombudet har derfor bedt Tolletaten utarbeide standardskriv som utleveres ved tilbakehold og beslag.
+Sivilombudet er kommet til at Tolletaten ikke oppfylte veiledningsplikten overfor klageren etter forvaltningsloven § 11. Klageren fikk hverken tilstrekkelig eller korrekt informasjon om hvor henvendelser og eventuelle klager skulle rettes. Det ble også tatt beslag i en større mengde legemidler enn det som følger av praksis. Ombudet mener at dagens praksis med muntlig orientering på stedet ved tilbakehold og beslag, ikke er tilstrekkelig til å ivareta partenes interesser og rettssikkerhet. Ombudet har derfor bedt Tolletaten utarbeide standardskriv som utleveres ved tilbakehold og beslag.
 
 Se oppdatering fra forvaltningen
 

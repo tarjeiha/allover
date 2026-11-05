@@ -15,8 +15,7 @@ Sivilombudets uttalelse 31.5.2024 (sak 2023/4384).
 ## Oppsummering
 
 Saken gjelder utlevering av foresattes kontaktinformasjon fra en skole i Bergen kommune til skolens nabo etter at noen elever ved skolen angivelig ødela en port på naboeiendommen. Selv om foresattes kontaktinformasjon ikke i seg selv er taushetsbelagte opplysninger, satte kontaktinformasjonen naboen i stand til å identifisere hvilke elever det var som var involvert i hendelsen.  
-   
- Ombudet er kommet til at kommunens vurdering av om utleveringen av kontaktinformasjonen innebar et brudd på reglene om taushetsplikt, jf. forvaltningsloven § 13, er mangelfull og at det knytter seg begrunnet tvil til kommunens vurdering. Ombudet ber kommunen om å foreta en ny vurdering, og eventuelt også vurdere adgangen til likevel å utlevere taushetsbelagte opplysninger, jf. forvaltningsloven § 13 a og § 13 b.
+Ombudet er kommet til at kommunens vurdering av om utleveringen av kontaktinformasjonen innebar et brudd på reglene om taushetsplikt, jf. forvaltningsloven § 13, er mangelfull og at det knytter seg begrunnet tvil til kommunens vurdering. Ombudet ber kommunen om å foreta en ny vurdering, og eventuelt også vurdere adgangen til likevel å utlevere taushetsbelagte opplysninger, jf. forvaltningsloven § 13 a og § 13 b.
 
 Se oppdatering fra forvaltningen
 

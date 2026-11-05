@@ -14,9 +14,8 @@ Sivilombudets uttalelse 30.8.2019 (sak 2018/3829).
 
 ## Oppsummering
 
-Saken gjelder Fylkesmannens stadfestelse av områdereguleringsplan i Sogndal kommune. Fylkesmannen kom til at en bestemmelse om at gjennomføring av nye større tiltak førte til at det ikke lenger kunne drives bensinstasjonsanlegg, hadde hjemmel i lov og var rettslig bindende. Fylkesmannen la videre til grunn at to bestemmelser som ikke var rettslig bindende, kunne bli stående i planen som retningslinjer.   
-   
- Ombudsmannen er kommet til at det er knyttet begrunnet tvil til om bestemmelsen om adgangen til å drive bensinstasjon ved gjennomføring av fremtidige byggetiltak, er gyldig. Fylkesmannen bes videre sikre at reguleringsplanen ikke inneholder retningslinjer som er formulert som bindende krav. Ombudsmannen ber derfor Fylkesmannen om å vurdere saken på nytt.
+Saken gjelder Fylkesmannens stadfestelse av områdereguleringsplan i Sogndal kommune. Fylkesmannen kom til at en bestemmelse om at gjennomføring av nye større tiltak førte til at det ikke lenger kunne drives bensinstasjonsanlegg, hadde hjemmel i lov og var rettslig bindende. Fylkesmannen la videre til grunn at to bestemmelser som ikke var rettslig bindende, kunne bli stående i planen som retningslinjer.  
+Ombudsmannen er kommet til at det er knyttet begrunnet tvil til om bestemmelsen om adgangen til å drive bensinstasjon ved gjennomføring av fremtidige byggetiltak, er gyldig. Fylkesmannen bes videre sikre at reguleringsplanen ikke inneholder retningslinjer som er formulert som bindende krav. Ombudsmannen ber derfor Fylkesmannen om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

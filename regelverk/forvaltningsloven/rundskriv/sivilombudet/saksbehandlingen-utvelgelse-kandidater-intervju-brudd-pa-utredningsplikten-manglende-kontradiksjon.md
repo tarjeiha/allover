@@ -15,8 +15,7 @@ Sivilombudets uttalelse 31.1.2018 (sak 2017/1860).
 ## Oppsummering
 
 Som begrunnelse for ikke å innkalle en av søkerne til førstekonsulentstillinger til intervju, hadde X blant annet lagt vekt på sin kjennskap til hans personlige egenskaper fra et intervju tre år tidligere. De negative erfaringene var dessuten bekreftet ytterligere av søkerens telefoniske kontakt med X i etterkant av søknadsfristens utløp. X kontaktet hans daværende leder og fikk bekreftet sitt negative inntrykk. Opplysningene ble ikke gjort kjent for søkeren.  
-   
- Y direktorat erkjente på vegne av X blant annet at intervjuet i 2014 ikke var tilstrekkelig som grunnlag for å konkludere med at søkeren ikke var kvalifisert til de aktuelle stillingene. Ombudsmannen var enig med direktoratet, og kritiserte X for ikke å ha sørget for tilstrekkelig opplysning av ansettelsessaken, for å ha handlet i strid med personalreglementet og for brudd på kontradiksjonsprinsippet.
+Y direktorat erkjente på vegne av X blant annet at intervjuet i 2014 ikke var tilstrekkelig som grunnlag for å konkludere med at søkeren ikke var kvalifisert til de aktuelle stillingene. Ombudsmannen var enig med direktoratet, og kritiserte X for ikke å ha sørget for tilstrekkelig opplysning av ansettelsessaken, for å ha handlet i strid med personalreglementet og for brudd på kontradiksjonsprinsippet.
 
 ## Sakens bakgrunn
 

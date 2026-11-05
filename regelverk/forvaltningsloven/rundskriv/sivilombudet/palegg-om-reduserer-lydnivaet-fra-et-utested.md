@@ -14,9 +14,8 @@ Sivilombudets uttalelse 6.12.2017 (sak 2016/2083).
 
 ## Oppsummering
 
-Saken gjelder pålegg om å redusere musikklydnivået fra et utested, slik at det er i tråd med vedtatte grenseverdier. Bakgrunnen for pålegget var naboklager på støy.   
-   
- Ombudsmannen er kommet til at saken ikke var tilstrekkelig opplyst da Fylkesmannen i Vestfold traff vedtaket, ettersom opplysninger av betydning for avgjørelsen ikke var innhentet. Driveren av utestedet fikk heller ikke anledning til å uttale seg om sentrale deler av avgjørelsesgrunnlaget. Ombudsmannen er også kommet til at det er begrunnet tvil knyttet til om vedtaket er tilstrekkelig konkret begrunnet.
+Saken gjelder pålegg om å redusere musikklydnivået fra et utested, slik at det er i tråd med vedtatte grenseverdier. Bakgrunnen for pålegget var naboklager på støy.  
+Ombudsmannen er kommet til at saken ikke var tilstrekkelig opplyst da Fylkesmannen i Vestfold traff vedtaket, ettersom opplysninger av betydning for avgjørelsen ikke var innhentet. Driveren av utestedet fikk heller ikke anledning til å uttale seg om sentrale deler av avgjørelsesgrunnlaget. Ombudsmannen er også kommet til at det er begrunnet tvil knyttet til om vedtaket er tilstrekkelig konkret begrunnet.
 
 Se oppdatering fra forvaltningen
 

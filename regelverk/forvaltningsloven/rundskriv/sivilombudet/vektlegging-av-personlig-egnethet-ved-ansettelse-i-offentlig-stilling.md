@@ -14,9 +14,8 @@ Sivilombudets uttalelse 30.4.2021 (sak 2020/1921).
 
 ## Oppsummering
 
-Klageren mente seg forbigått i en kommunal ansettelsesprosess da en med vesentlig mindre erfaring ble valgt. Kommunen anerkjente at klageren var bedre formelt kvalifisert, men anså henne som personlig uegnet for stillingen. Dette til tross for at hun på søknadstidspunktet hadde en tilsvarende stilling i en annen kommune. Ansettelsesmyndigheten bygget vurderingen på klagerens intervju. Klageren mente det stred mot ombudsmannens praksis å både utrede og vektlegge personlige egenskaper på den måten som kommunen hadde gjort.   
-   
- Ombudsmannen uttalte at det må vurderes konkret i hvilken grad personlig egnethet kan vektlegges for en bestemt stilling. Stillingens innhold og hvilke personlige egenskaper stillingen krever, vil normalt ha stor betydning. Vurderingene vil i stor grad måtte basere seg på ansettelsesmyndighetens skjønn. Hvilke krav som må stilles til den konkrete utredning, vil avhenge den enkelte sak. I denne saken mente ombudsmannen at ansettelsesmyndighetens saksbehandling hadde vært tilfredsstillende, og at det ikke var holdepunkter for at klageren var forbigått.
+Klageren mente seg forbigått i en kommunal ansettelsesprosess da en med vesentlig mindre erfaring ble valgt. Kommunen anerkjente at klageren var bedre formelt kvalifisert, men anså henne som personlig uegnet for stillingen. Dette til tross for at hun på søknadstidspunktet hadde en tilsvarende stilling i en annen kommune. Ansettelsesmyndigheten bygget vurderingen på klagerens intervju. Klageren mente det stred mot ombudsmannens praksis å både utrede og vektlegge personlige egenskaper på den måten som kommunen hadde gjort.  
+Ombudsmannen uttalte at det må vurderes konkret i hvilken grad personlig egnethet kan vektlegges for en bestemt stilling. Stillingens innhold og hvilke personlige egenskaper stillingen krever, vil normalt ha stor betydning. Vurderingene vil i stor grad måtte basere seg på ansettelsesmyndighetens skjønn. Hvilke krav som må stilles til den konkrete utredning, vil avhenge den enkelte sak. I denne saken mente ombudsmannen at ansettelsesmyndighetens saksbehandling hadde vært tilfredsstillende, og at det ikke var holdepunkter for at klageren var forbigått.
 
 ## Sakens bakgrunn
 

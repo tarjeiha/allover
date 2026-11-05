@@ -16,10 +16,8 @@ Sivilombudets uttalelse 8.6.2023 (sak 2022/3937).
 ## Oppsummering
 
 En jente i barneskolealder hadde grunnet en livstruende sykdom behov for 2:1-oppfølging av voksne døgnet rundt. Kommunen hadde innvilget brukerstyrt personlig assistanse tilsvarende 48 timer i døgnet. Det var imidlertid ikke satt av tid i ordningen til opplæring, personalmøter, medarbeidersamtaler og møter med skolen. Kommunale koordinatoroppgaver var også integrert i ordningen uten at det var satt av ekstra tid til dette. Saken hos ombudet gjelder Statsforvalterens behandling av klage over omfanget av BPA-ordningen, og deres vurdering av om det ble gitt nødvendige og forsvarlige helsetjenester, jf. pasient- og brukerrettighetsloven § 2-1a annet ledd og helse- og omsorgstjenesteloven § 4-1.  
-   
- Sivilombudet kom til at Statsforvalterens behandling av saken ikke var i tråd med klageinstansens plikt til å vurdere de synspunkter som klageren kommer med, jf. forvaltningsloven § 34 andre ledd andre punktum. Statsforvalteren ble bedt om å foreta en ny behandling av saken hvor de vurderer hvor mange timer personalet i BPA-ordningen må benytte utover den tiden de inngår i 2:1-vaktordningen og hvordan de manglende timene dette medfører skal dekkes opp. Dersom foreldrene skal dekke inn de manglende timene, må Statsforvalteren vurdere hvilken betydning dette får for om ordningen gir forsvarlig avlastning.  
-   
- Statsforvalteren ble også bedt om merke seg ombudets merknader knyttet til arbeidsleders oppgaver og koordinatorrollen.
+Sivilombudet kom til at Statsforvalterens behandling av saken ikke var i tråd med klageinstansens plikt til å vurdere de synspunkter som klageren kommer med, jf. forvaltningsloven § 34 andre ledd andre punktum. Statsforvalteren ble bedt om å foreta en ny behandling av saken hvor de vurderer hvor mange timer personalet i BPA-ordningen må benytte utover den tiden de inngår i 2:1-vaktordningen og hvordan de manglende timene dette medfører skal dekkes opp. Dersom foreldrene skal dekke inn de manglende timene, må Statsforvalteren vurdere hvilken betydning dette får for om ordningen gir forsvarlig avlastning.  
+Statsforvalteren ble også bedt om merke seg ombudets merknader knyttet til arbeidsleders oppgaver og koordinatorrollen.
 
 Se oppdatering fra forvaltningen
 

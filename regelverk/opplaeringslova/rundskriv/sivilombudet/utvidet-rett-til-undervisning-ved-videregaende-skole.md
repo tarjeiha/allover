@@ -16,14 +16,10 @@ Sivilombudets uttalelse 29.8.2018 (sak 2018/782).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens stadfestelse av avslag på søknad om utvidet tid i videregående skole.  
-   
- A var elev i tredje klasse ved videregående skole i undervisningsåret 2016/2017. Hun mottok spesialundervisning og søkte om rett til et fjerde skoleår. Det ble i den forbindelse utarbeidet en sakkyndig uttalelse fra PPT. Klagerens individuelle opplæringsplan (IOP) ble ferdigstilt etter sakkyndig uttalelse var ferdig. Søknaden om et ekstra skoleår ble avslått, og i begrunnelsen er det vist til PPTs konklusjon om at et fjerde år ikke ble anbefalt.  
-   
- I klagen ble det anført at PPT ikke hadde hatt tilstrekkelig grunnlag for å vurdere As behov og måloppnåelse, særlig under henvisning til at IOP ikke var ferdigstilt da sakkyndig vurdering ble skrevet. PPTs vurdering var dermed ikke egnet til å opplyse saken.  
-   
- Ombudsmannen slutter seg til klagerens anførsel om at Fylkesmannen ikke hadde sørget for en tilstrekkelig opplysning av saken før vedtak ble fattet. Det er vanskelig å akseptere at en sakkyndig vurdering ikke tar stilling til opplæringsmål fastsatt i en aktuell IOP, og Fylkesmannen skulle sendt uttalelsen tilbake til PPT for ny vurdering. Videre var det sider av faktum som fremsto som uklare. Fylkesmannen skulle sørget for at disse faktiske sidene var bedre opplyst før vedtak ble fattet, jf. forvaltningsloven § 33 femte ledd, jf. § 17 første ledd.  
-   
- Fylkesmannen ble bedt om å behandle As klage på nytt.
+A var elev i tredje klasse ved videregående skole i undervisningsåret 2016/2017. Hun mottok spesialundervisning og søkte om rett til et fjerde skoleår. Det ble i den forbindelse utarbeidet en sakkyndig uttalelse fra PPT. Klagerens individuelle opplæringsplan (IOP) ble ferdigstilt etter sakkyndig uttalelse var ferdig. Søknaden om et ekstra skoleår ble avslått, og i begrunnelsen er det vist til PPTs konklusjon om at et fjerde år ikke ble anbefalt.  
+I klagen ble det anført at PPT ikke hadde hatt tilstrekkelig grunnlag for å vurdere As behov og måloppnåelse, særlig under henvisning til at IOP ikke var ferdigstilt da sakkyndig vurdering ble skrevet. PPTs vurdering var dermed ikke egnet til å opplyse saken.  
+Ombudsmannen slutter seg til klagerens anførsel om at Fylkesmannen ikke hadde sørget for en tilstrekkelig opplysning av saken før vedtak ble fattet. Det er vanskelig å akseptere at en sakkyndig vurdering ikke tar stilling til opplæringsmål fastsatt i en aktuell IOP, og Fylkesmannen skulle sendt uttalelsen tilbake til PPT for ny vurdering. Videre var det sider av faktum som fremsto som uklare. Fylkesmannen skulle sørget for at disse faktiske sidene var bedre opplyst før vedtak ble fattet, jf. forvaltningsloven § 33 femte ledd, jf. § 17 første ledd.  
+Fylkesmannen ble bedt om å behandle As klage på nytt.
 
 ## Sakens bakgrunn
 

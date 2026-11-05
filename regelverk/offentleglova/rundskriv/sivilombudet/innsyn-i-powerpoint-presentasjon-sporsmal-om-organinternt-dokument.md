@@ -15,10 +15,8 @@ Sivilombudets uttalelse 9.4.2019 (sak 2019/109).
 ## Oppsummering
 
 Saken gjelder spørsmålet om en powerpoint-presentasjon kan unntas fra innsyn som organinternt dokument. Presentasjonen ble vist av en polititjenestemann da vedkommende holdt et foredrag for foreldre og elever på en barneskole. En av de fremmøtte ba i etterkant om innsyn i presentasjonen. Politidirektoratet avslo innsynsbegjæringen med henvisning til at den var et organinternt dokument.  
-   
- Ut fra sakens opplysninger kan ikke ombudsmannen se at vilkårene for å unnta presentasjonen som et organinternt dokument er oppfylt. Presentasjonen synes ikke å være utarbeidet for den interne saksforberedelsen, og mye taler for at presentasjonen må anses for å være sendt ut av organet. Ombudsmannen er videre kommet til at det er mangler ved Politidirektoratets meroffentlighetsvurdering i denne saken.  
-   
- Ombudsmannen ber Politidirektoratet om å foreta en ny vurdering av innsynsspørsmålene.
+Ut fra sakens opplysninger kan ikke ombudsmannen se at vilkårene for å unnta presentasjonen som et organinternt dokument er oppfylt. Presentasjonen synes ikke å være utarbeidet for den interne saksforberedelsen, og mye taler for at presentasjonen må anses for å være sendt ut av organet. Ombudsmannen er videre kommet til at det er mangler ved Politidirektoratets meroffentlighetsvurdering i denne saken.  
+Ombudsmannen ber Politidirektoratet om å foreta en ny vurdering av innsynsspørsmålene.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 8.12.2019 (sak 2019/3621).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i 18 ulike rapporter som Finansdepartementet rutinemessig hadde innhentet fra internrevisjonen i Skattedirektoratet. Departementet avslo innsynskravet under henvisning til offentleglova § 15 første ledd første punktum.  
-   
- Ombudsmannen har kommet til at de 18 dokumentene ikke kan anses innhentet til bruk i departementets interne saksforberedelse. Det foreligger dermed ikke unntaksadgang etter offentleglova § 15 første ledd. Departementets vurdering av nødvendighetsvilkåret er dessuten ikke i tråd med bestemmelsens formål. Videre er merinnsynsvurderingen mangelfull. Ombudsmannen ber departementet behandle spørsmålet om dokumentinnsyn for de 18 dokumentene på nytt. Departementet bes videre påse at eventuelle retningslinjer mv. på området, som departementet er ansvarlig for, samsvarer med gjeldende rett.
+Ombudsmannen har kommet til at de 18 dokumentene ikke kan anses innhentet til bruk i departementets interne saksforberedelse. Det foreligger dermed ikke unntaksadgang etter offentleglova § 15 første ledd. Departementets vurdering av nødvendighetsvilkåret er dessuten ikke i tråd med bestemmelsens formål. Videre er merinnsynsvurderingen mangelfull. Ombudsmannen ber departementet behandle spørsmålet om dokumentinnsyn for de 18 dokumentene på nytt. Departementet bes videre påse at eventuelle retningslinjer mv. på området, som departementet er ansvarlig for, samsvarer med gjeldende rett.
 
 Se oppdatering fra forvaltningen
 

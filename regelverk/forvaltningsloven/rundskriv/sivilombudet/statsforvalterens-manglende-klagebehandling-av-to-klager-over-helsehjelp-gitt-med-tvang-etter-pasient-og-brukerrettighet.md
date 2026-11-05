@@ -15,10 +15,8 @@ Sivilombudets uttalelse 6.11.2025 (sak 2025/2637).
 ## Oppsummering
 
 Saken gjelder hvorvidt to skriv, fra henholdsvis Pasient- og brukerombudet i Innlandet og fra pasientens nærmeste pårørende, skulle vært behandlet som klager over et tvangsvedtak hjemlet i pasient- og brukerrettighetsloven kapittel 4 A. Tvangsvedtaket gjaldt fratakelse av samtykkekompetanse i 24 timer og tvungen flytting fra et omsorgssenter til et annet.  
-   
- Sivilombudet kom til at begge skrivene skulle vært behandlet som klager, og at det forelå feil ved Statsforvalteren i Innlandets klagebehandling. Ombudet kom også til at Statsforvalteren hadde brutt sin veiledningsplikt etter forvaltningsloven § 11.  
-   
- Statsforvalteren hadde for øvrig opplyst i sitt svar at det riktige hadde vært å sende klagene til kommunen for klagebehandling. Ombudet uttalte til det at klager over vedtak om helsehjelp mot pasientens samtykke etter lovens ordlyd skal sendes direkte til statsforvalteren. Sivilombudet er klar over at det i rundskriv fra Helsedirektoratet og Statens helsetilsyn sies at også klager over tvang etter kapittel 4 A, skal sendes kommunen og først behandles der. Sivilombudet ber departementet sikre at det så raskt som mulig blir samsvar mellom den løsning som er ønsket og loven.
+Sivilombudet kom til at begge skrivene skulle vært behandlet som klager, og at det forelå feil ved Statsforvalteren i Innlandets klagebehandling. Ombudet kom også til at Statsforvalteren hadde brutt sin veiledningsplikt etter forvaltningsloven § 11.  
+Statsforvalteren hadde for øvrig opplyst i sitt svar at det riktige hadde vært å sende klagene til kommunen for klagebehandling. Ombudet uttalte til det at klager over vedtak om helsehjelp mot pasientens samtykke etter lovens ordlyd skal sendes direkte til statsforvalteren. Sivilombudet er klar over at det i rundskriv fra Helsedirektoratet og Statens helsetilsyn sies at også klager over tvang etter kapittel 4 A, skal sendes kommunen og først behandles der. Sivilombudet ber departementet sikre at det så raskt som mulig blir samsvar mellom den løsning som er ønsket og loven.
 
 ## Sakens bakgrunn
 

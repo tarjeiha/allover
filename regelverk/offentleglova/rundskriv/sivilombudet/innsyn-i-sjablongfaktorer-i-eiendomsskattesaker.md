@@ -16,10 +16,8 @@ Sivilombudets uttalelse 17.6.2021 (sak 2020/746).
 ## Oppsummering
 
 Saken gjelder innsyn etter offentleglova i sjablongfaktorer (ytre og indre faktor) brukt for å regne ut eiendomsskattegrunnlaget for den enkelte eiendom. Opplysningene fremgår ikke av skattelistene som ligger ute til offentlig gjennomsyn. Et vanlig klagepunkt i eiendomsskattesaker er usaklig forskjellsbehandling, og i den sammenheng kan eiendomsskatteytere henvende seg til kommunen for å kreve innsyn i ytterligere opplysninger om sammenlignbare eiendommer. Spørsmålet er hvordan kommunene skal vurdere innsynskrav i disse opplysningene.  
-   
- Etter eigedomsskattelova § 29, jf. skatteforvaltningsloven § 3-1, har kommunen taushetsplikt om «noens formues- eller inntektsforhold eller andre økonomiske, bedriftsmessige eller personlige forhold». Etter ombudsmannens syn er ytre og indre faktor i eiendomsskattegrunnlaget omfattet av taushetsplikten og derfor som utgangspunkt ikke åpne for innsyn i medhold av offentleglova § 3.  
-   
- Kommunen må likevel foreta en konkret vurdering der det også vurderes om opplysningene er «alminnelig kjent eller alminnelig tilgjengelig andre steder», jf. skatteforvaltningsloven § 3-7 bokstav c. Ombudsmannen minner om at det er lagt til grunn at innsynskrav skal behandles dagen de er mottatt og i alle fall innen én til tre virkedager.
+Etter eigedomsskattelova § 29, jf. skatteforvaltningsloven § 3-1, har kommunen taushetsplikt om «noens formues- eller inntektsforhold eller andre økonomiske, bedriftsmessige eller personlige forhold». Etter ombudsmannens syn er ytre og indre faktor i eiendomsskattegrunnlaget omfattet av taushetsplikten og derfor som utgangspunkt ikke åpne for innsyn i medhold av offentleglova § 3.  
+Kommunen må likevel foreta en konkret vurdering der det også vurderes om opplysningene er «alminnelig kjent eller alminnelig tilgjengelig andre steder», jf. skatteforvaltningsloven § 3-7 bokstav c. Ombudsmannen minner om at det er lagt til grunn at innsynskrav skal behandles dagen de er mottatt og i alle fall innen én til tre virkedager.
 
 ## Sakens bakgrunn
 

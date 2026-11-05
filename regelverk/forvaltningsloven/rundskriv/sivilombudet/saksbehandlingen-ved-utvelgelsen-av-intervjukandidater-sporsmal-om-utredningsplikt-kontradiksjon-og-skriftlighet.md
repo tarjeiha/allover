@@ -16,15 +16,14 @@ Sivilombudets uttalelse 1.2.2019 (sak 2018/3073).
 ## Oppsummering
 
 Klageren søkte på en stilling som enhetsleder skole i Xkommune. Selv om klageren fremsto som formelt godt kvalifisert, ble han ikke innkalt til intervju. Kommunens begrunnelse var at klagerens erfaring fra undervisning i grunnskolen ikke var tilstrekkelig selv om slik undervisningserfaring ikke fremgikk av kravene i utlysningsteksten. Det ble også opplyst at negativ informasjon om klageren – som rådmannen hadde tilegnet seg ved å kontakte personer i sitt eget nettverk – var blitt vektlagt.  
-   
- Ombudsmannen er kommet til at X kommunes saksbehandling er i strid med kravene til en forsvarlig ansettelsesprosess på flere punkter. Kommunen har ikke overholdt de kravene som stilles til skriftlighet i ansettelsessaker. Videre er det ikke i samsvar med god forvaltningsskikk eller forvaltningsloven å innhente referanser uten samtykke, og å vektlegge disse uten å gi klageren mulighet til kontradiksjon. Det er derfor tvil om ansettelsesmyndighetenes skjønn bygger på fullt ut saklige hensyn. Ombudsmannen ber om at kommunen merker seg de forhold som er påpekt, og endrer ansettelsesreglementet slik at retningslinjene der blir i samsvar med kravene til skriftlighet i ansettelsessaker.
+Ombudsmannen er kommet til at X kommunes saksbehandling er i strid med kravene til en forsvarlig ansettelsesprosess på flere punkter. Kommunen har ikke overholdt de kravene som stilles til skriftlighet i ansettelsessaker. Videre er det ikke i samsvar med god forvaltningsskikk eller forvaltningsloven å innhente referanser uten samtykke, og å vektlegge disse uten å gi klageren mulighet til kontradiksjon. Det er derfor tvil om ansettelsesmyndighetenes skjønn bygger på fullt ut saklige hensyn. Ombudsmannen ber om at kommunen merker seg de forhold som er påpekt, og endrer ansettelsesreglementet slik at retningslinjene der blir i samsvar med kravene til skriftlighet i ansettelsessaker.
 
 ## Sakens bakgrunn
 
 X kommune lyste 8. juni 2018 ut stillingen som enhetsleder skole med søknadsfrist 10. juli 2018. Etter søknadsfristens utløp var det tre søkere til stillingen. Den 13. juli 2018 ble det avholdt intervju og foretatt referansesjekk av én aktuell søker. Ansettelsesutvalget fattet samme dag vedtak der søkeren som var på intervju, ble innstilt og tilbudt stillingen. Denne søkeren valgte senere å avslå tilbudet.
 
 A søkte på stillingen, men ble ikke innkalt på intervju. Han klaget  
- 21. august 2018 til ombudsmannen, og mente seg forbigått fordi han var den søkeren med mest relevant utdanning og erfaring. Han mente også at X kommune ikke har foretatt en tilstrekkelig utredning av saken ved ikke å gjennomføre intervju og referansesjekk.
+21. august 2018 til ombudsmannen, og mente seg forbigått fordi han var den søkeren med mest relevant utdanning og erfaring. Han mente også at X kommune ikke har foretatt en tilstrekkelig utredning av saken ved ikke å gjennomføre intervju og referansesjekk.
 
 ## Våre undersøkelser
 
@@ -41,7 +40,7 @@ På grunn av at vi ble kjent med at stillingen ble lyst ut på nytt og at klager
 Kommunen svarte i brev 15. november 2018 at det ble lagt avgjørende vekt på erfaring fra undervisning i grunnskolen, og at dette var utslagsgivende ved valget av hvilke kandidater som ble innkalt til intervju. Etter kommunens syn inngikk «klasseleiing» i utlysningstekstens kvalifikasjonskrav/-ønsker om ledererfaring, lederegenskaper og relasjonskompetanse, og kommunen mente derfor at ansettelsesutvalget har holdt seg til utlysningsteksten da søkerne ble vurdert. Kommunen viste til at ansettelsesprosessen var i tråd med kommunens eget reglement for rekrutering, og mente at ansettelsesutvalget har foretatt en utredning som opplyste saken i tilstrekkelig grad før vedtak om ansettelse ble fattet.
 
 Ombudsmannen ble i e-post fra klageren 15. november 2018 orientert om at han hadde blitt invitert til intervju til stillingen etter ny utlysning, men at tilbudet ble trukket tilbake  
- 14. november 2018. Dette som en følge av at ansettelsesutvalget i kommunen hadde bestemt å vente med å lyse ut stillingen til februar 2019.
+14. november 2018. Dette som en følge av at ansettelsesutvalget i kommunen hadde bestemt å vente med å lyse ut stillingen til februar 2019.
 
 Klageren kom 22. november 2018 med merknader til kommunens svarbrev. Han mente at kommunen feilaktig har lagt til grunn at han har begrenset med undervisningserfaring, og at dette uansett ikke kunne tillegges vekt da det ikke fremkom som et krav i utlysningsteksten. Videre fastholdt han at kommunen ikke har overholdt kvalifikasjonsprinsippet eller foretatt en tilstrekkelig utredning av saken.
 

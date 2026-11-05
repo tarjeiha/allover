@@ -14,11 +14,9 @@ Sivilombudets uttalelse 28.6.2024 (sak 2024/1397).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om dokumenter utarbeidet av Kunnskapsdepartementet for dets interne saksforberedelse fortsatt kan unntas som organinterne jf. offentleglova § 14 etter at de som svar på en anmodning om tilgang til bevis, ble oversendt motparten i forkant av en rettssak.   
-   
- Sivilombudet har kommet til at dokumentene har mistet sin organinterne karakter ved oversendelsen til motparten. For denne vurderingen er det ikke av betydning at kun deler av dokumentene ble påberopt under rettssaken. Oversendelsen til motparten faller ikke inn under unntakene som gjelder i praksis for oversendelse av dokumenter til f.eks. tilsyns- eller kontrollorgan hvor dokumentene beholder sin organinterne karakter. Dokumentene kan derfor ikke lenger unntas som organinterne jf. offentleglova § 14.   
-   
- Ombudet ba departementet om å behandle saken på nytt.
+Saken gjelder spørsmålet om dokumenter utarbeidet av Kunnskapsdepartementet for dets interne saksforberedelse fortsatt kan unntas som organinterne jf. offentleglova § 14 etter at de som svar på en anmodning om tilgang til bevis, ble oversendt motparten i forkant av en rettssak.  
+Sivilombudet har kommet til at dokumentene har mistet sin organinterne karakter ved oversendelsen til motparten. For denne vurderingen er det ikke av betydning at kun deler av dokumentene ble påberopt under rettssaken. Oversendelsen til motparten faller ikke inn under unntakene som gjelder i praksis for oversendelse av dokumenter til f.eks. tilsyns- eller kontrollorgan hvor dokumentene beholder sin organinterne karakter. Dokumentene kan derfor ikke lenger unntas som organinterne jf. offentleglova § 14.  
+Ombudet ba departementet om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

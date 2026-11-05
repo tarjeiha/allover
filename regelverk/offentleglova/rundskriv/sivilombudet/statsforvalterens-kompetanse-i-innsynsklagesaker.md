@@ -15,11 +15,9 @@ Sivilombudets uttalelse 11.4.2025 (sak 2024/6556).
 
 ## Oppsummering
 
-Saken gjelder behandlingen av innsynskrav i flere eiendomsskatteklager i Hvaler kommune. Kommunen avslo delvis kravene under henvisning til taushetsplikt jf. offentleglova § 13 jf. eigedomsskattelova § 29 andre ledd jf. skatteforvaltningsloven § 3-1 første ledd. Statsforvalteren i Østfold, Buskerud, Oslo og Akershus opphevet kommunens vedtak. Kommunen ba Statsforvalteren omgjøre opphevelsesvedtakene, mens Statsforvalteren fastholdt sine vedtak.   
-   
- Sivilombudet kom til at behandlingen hos Statsforvalteren ikke har ivaretatt journalistens rettigheter etter offentleglova da journalisten i realiteten sto uten avgjørelse i sakene det ble bedt om innsyn i 13. februar 2024. Ombudet var ikke enig i Statsforvalterens begrunnelser for at avgjørelsene var opphevet i stedet for omgjort/stadfestet. Behandlingstiden har ikke vært i tråd med kravet i offentleglova § 32 tredje ledd.   
-   
- Ombudet ba Statsforvalteren om å sørge for at sakene ble så godt opplyst som mulig og om å treffe avgjørelser om innsyn/delvis innsyn/stadfestelse i sakene.
+Saken gjelder behandlingen av innsynskrav i flere eiendomsskatteklager i Hvaler kommune. Kommunen avslo delvis kravene under henvisning til taushetsplikt jf. offentleglova § 13 jf. eigedomsskattelova § 29 andre ledd jf. skatteforvaltningsloven § 3-1 første ledd. Statsforvalteren i Østfold, Buskerud, Oslo og Akershus opphevet kommunens vedtak. Kommunen ba Statsforvalteren omgjøre opphevelsesvedtakene, mens Statsforvalteren fastholdt sine vedtak.  
+Sivilombudet kom til at behandlingen hos Statsforvalteren ikke har ivaretatt journalistens rettigheter etter offentleglova da journalisten i realiteten sto uten avgjørelse i sakene det ble bedt om innsyn i 13. februar 2024. Ombudet var ikke enig i Statsforvalterens begrunnelser for at avgjørelsene var opphevet i stedet for omgjort/stadfestet. Behandlingstiden har ikke vært i tråd med kravet i offentleglova § 32 tredje ledd.  
+Ombudet ba Statsforvalteren om å sørge for at sakene ble så godt opplyst som mulig og om å treffe avgjørelser om innsyn/delvis innsyn/stadfestelse i sakene.
 
 Se oppdatering fra forvaltningen
 

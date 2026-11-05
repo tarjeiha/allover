@@ -15,8 +15,7 @@ Sivilombudets uttalelse 10.10.2019 (sak 2018/4777).
 ## Oppsummering
 
 En lærer i en kommune ble ilagt en skriftlig advarsel for en kommentar hun på fritiden hadde skrevet til et innlegg på Facebook. Kommunen mente at læreren hadde brutt de rettmessige forventningene den som arbeidsgiver måtte kunne ha til lærere. I advarselen het det at gjentakende brudd med forventningene kunne føre til en vurdering av lærerens arbeidsforhold i kommunen. I klagen til ombudsmannen ble det anført at advarselen var en krenkelse av lærerens rett til ytringsfrihet etter Grunnloven og Den europeiske menneskerettighetskonvensjon.  
-   
- Ombudsmannen er kommet til at ytringen er vernet av ytringsfriheten. Ytringen er ikke i strid med den ulovfestede lojalitetsplikten for arbeidstakere. Advarselen er derfor urettmessig. Kommunen er bedt om å trekke advarselen tilbake.
+Ombudsmannen er kommet til at ytringen er vernet av ytringsfriheten. Ytringen er ikke i strid med den ulovfestede lojalitetsplikten for arbeidstakere. Advarselen er derfor urettmessig. Kommunen er bedt om å trekke advarselen tilbake.
 
 Se oppdatering fra forvaltningen
 

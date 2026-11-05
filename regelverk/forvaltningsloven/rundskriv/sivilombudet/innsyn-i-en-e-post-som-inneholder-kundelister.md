@@ -15,11 +15,9 @@ Sivilombudets uttalelse 19.3.2021 (sak 2020/4702).
 
 ## Oppsummering
 
-Et foretak ba om innsyn i all korrespondanse mellom et IT-selskap og en kommune for en periode på ca. to år. Kravet omfattet en e-post der navn på noen av IT-selskapets kunder fremgikk. Statsforvalteren i Nordland ga delvis innsyn i e-posten, men unntok samtlige kundenavn som taushetsbelagt informasjon. Statsforvalteren viste til at bransjen selv anser kundelister som forretningshemmeligheter og fremholdt at det var uten betydning om kundene var private eller offentlige.   
-   
- Ombudsmannen er kommet til at opplysninger om eksistensen av et kundeforhold mellom et offentlig organ og en privat virksomhet som hovedregel ikke er taushetsbelagt og at opplysninger om hvilke løsninger avtalen omfatter kan fremgå av offentlige anbudsdokumenter eller annen offentlig informasjon. Det er derfor begrunnet tvil om de unntatte opplysningene er taushetsbelagt.   
-   
- Ombudsmannen ber Statsforvalteren om å behandle saken på nytt.
+Et foretak ba om innsyn i all korrespondanse mellom et IT-selskap og en kommune for en periode på ca. to år. Kravet omfattet en e-post der navn på noen av IT-selskapets kunder fremgikk. Statsforvalteren i Nordland ga delvis innsyn i e-posten, men unntok samtlige kundenavn som taushetsbelagt informasjon. Statsforvalteren viste til at bransjen selv anser kundelister som forretningshemmeligheter og fremholdt at det var uten betydning om kundene var private eller offentlige.  
+Ombudsmannen er kommet til at opplysninger om eksistensen av et kundeforhold mellom et offentlig organ og en privat virksomhet som hovedregel ikke er taushetsbelagt og at opplysninger om hvilke løsninger avtalen omfatter kan fremgå av offentlige anbudsdokumenter eller annen offentlig informasjon. Det er derfor begrunnet tvil om de unntatte opplysningene er taushetsbelagt.  
+Ombudsmannen ber Statsforvalteren om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

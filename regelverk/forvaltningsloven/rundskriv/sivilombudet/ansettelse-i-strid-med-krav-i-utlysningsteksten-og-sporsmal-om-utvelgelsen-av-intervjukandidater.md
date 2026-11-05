@@ -16,8 +16,7 @@ Sivilombudets uttalelse 15.3.2019 (sak 2018/3747).
 ## Oppsummering
 
 Saken gjelder ansettelse av miljøarbeider/miljøterapeut i helgestilling i en kommune. Selv om klageren fremsto som formelt kvalifisert, ble han ikke innkalt til intervju. Kommunens begrunnelse var kjennskap til klageren gjennom en annen stilling i kommunen og uklarheter knyttet til hans arbeidserfaring.  
-   
- Ombudsmannen er kommet til at det hefter begrunnet tvil om saken var tilstrekkelig opplyst hva gjelder klagerens egnethet og erfaring. Gjennomgangen av saken her avdekket også at en av personene som ble ansatt, ikke oppfylte utlysningstekstens krav til utdanning.
+Ombudsmannen er kommet til at det hefter begrunnet tvil om saken var tilstrekkelig opplyst hva gjelder klagerens egnethet og erfaring. Gjennomgangen av saken her avdekket også at en av personene som ble ansatt, ikke oppfylte utlysningstekstens krav til utdanning.
 
 ## Sakens bakgrunn
 

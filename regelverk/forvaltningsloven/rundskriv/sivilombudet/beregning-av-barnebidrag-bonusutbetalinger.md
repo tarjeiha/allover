@@ -15,12 +15,9 @@ Sivilombudets uttalelse 9.8.2023 (sak 2023/1962).
 ## Oppsummering
 
 Saken gjelder fastsettelse av inntektsgrunnlag ved beregning av barnebidrag. Spørsmålet er hvordan bonusutbetalinger/ekstrautbetalinger skal tas hensyn til ved beregningen av inntekt.  
-   
- Sivilombudet kom til at regelverket, herunder rundskrivet til forskrift om fastsetjing og endring av fostringstilskot § 4, var uklart om hvordan bonusutbetalinger/ekstrautbetalinger skal inngå ved beregningen av barnebidrag. Regelverket burde tydeliggjøres.   
-   
- Sivilombudet mente videre at det burde utredes om Nav skal vurdere omgjøring av tidligere vedtak om beregning av barnebidrag når de får kjennskap til en bonusutbetaling for samme periode. Slik omgjøring burde utredes/sees i sammenheng med regelen om endring av bidrag tilbake i tid, jf. barneloven § 74 andre ledd.   
-   
- Sivilombudet ba om å bli orientert om Arbeids- og velferdsdirektoratets vurderinger og oppfølgingen av saken.
+Sivilombudet kom til at regelverket, herunder rundskrivet til forskrift om fastsetjing og endring av fostringstilskot § 4, var uklart om hvordan bonusutbetalinger/ekstrautbetalinger skal inngå ved beregningen av barnebidrag. Regelverket burde tydeliggjøres.  
+Sivilombudet mente videre at det burde utredes om Nav skal vurdere omgjøring av tidligere vedtak om beregning av barnebidrag når de får kjennskap til en bonusutbetaling for samme periode. Slik omgjøring burde utredes/sees i sammenheng med regelen om endring av bidrag tilbake i tid, jf. barneloven § 74 andre ledd.  
+Sivilombudet ba om å bli orientert om Arbeids- og velferdsdirektoratets vurderinger og oppfølgingen av saken.
 
 Se oppdatering fra forvaltningen
 

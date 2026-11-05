@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.9.2023 (sak 2023/2357).
 ## Oppsummering
 
 Saken gjelder Sogndal kommunes tilbakekall av en parkeringstillatelse for forflytningshemmede, også kjent som «HC-kort». A hadde fått innvilget parkeringstillatelse til 2024. I 2023 besluttet kommunen å fatte et vedtak som påla A å returnere parkeringstillatelsen. Vedtaket ble stadfestet av kommunens formannskap.  
-   
- Sivilombudet kom til at kommunens vedtak er ugyldig. Vedtaket oppfylte ikke forvaltningslovens krav til begrunnelse av enkeltvedtak, og viste heller ikke til en bestemmelse som gir hjemmel for tilbakekall eller omgjøring av As parkeringstillatelse.   
-   
- På bakgrunn av kommunens saksbehandling, fant ombudet også grunn til å knytte enkelte generelle kommentarer til vilkårene for innvilgelse av parkeringstillatelse for forflytningshemmede.
+Sivilombudet kom til at kommunens vedtak er ugyldig. Vedtaket oppfylte ikke forvaltningslovens krav til begrunnelse av enkeltvedtak, og viste heller ikke til en bestemmelse som gir hjemmel for tilbakekall eller omgjøring av As parkeringstillatelse.  
+På bakgrunn av kommunens saksbehandling, fant ombudet også grunn til å knytte enkelte generelle kommentarer til vilkårene for innvilgelse av parkeringstillatelse for forflytningshemmede.
 
 ## Sakens bakgrunn
 

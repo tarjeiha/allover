@@ -15,7 +15,7 @@ Sivilombudets uttalelse 8.6.2023 (sak 2022/5984).
 ## Oppsummering
 
 Saken gjelder Fiskeridirektoratets vedtak om stryking av en person fra fiskermanntallet blad B. Grunnlaget for avgjørelsen var at direktoratet mente klageren ikke var reelt bosatt i Norge etter folkeregisterloven § 4-2, blant annet fordi han hadde felles hjem med ektefelle og barn i utlandet.  
- Sivilombudet er kommet til at Fiskeridirektoratet har benyttet feil hjemmel i folkeregisterloven og lagt vekt på utenforliggende hensyn i vurderingen av om klageren er å regne som bosatt i Norge. Videre mener ombudet at direktoratet ikke har foretatt en tilstrekkelig vurdering av om klageren er å regne som utflyttet etter folkeregisterloven § 4-3. Ombudet mener også det er tvil om begrunnelsen i Fiskeridirektoratets vedtak er i tråd med kravene i forvaltningsloven § 25 og kravet til god forvaltningsskikk.
+Sivilombudet er kommet til at Fiskeridirektoratet har benyttet feil hjemmel i folkeregisterloven og lagt vekt på utenforliggende hensyn i vurderingen av om klageren er å regne som bosatt i Norge. Videre mener ombudet at direktoratet ikke har foretatt en tilstrekkelig vurdering av om klageren er å regne som utflyttet etter folkeregisterloven § 4-3. Ombudet mener også det er tvil om begrunnelsen i Fiskeridirektoratets vedtak er i tråd med kravene i forvaltningsloven § 25 og kravet til god forvaltningsskikk.
 
 ## Sakens bakgrunn
 

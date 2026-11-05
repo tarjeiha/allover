@@ -16,13 +16,10 @@ Sivilombudets uttalelse 13.9.2019 (sak 2018/1308).
 ## Oppsummering
 
 Saken gjelder Utlendingsnemndas behandling av en begjæring om omgjøring av avslag på opphold etter utlendingsloven § 38 fra en utlending som i mer enn 15 år har oppholdt seg i Norge under dom på tvunget psykisk helsevern. Omgjøringsbegjæringen var begrunnet i at utlendingen over lang tid har levd med merbelastninger og manglende behandlingsprogresjon som følge av manglende oppholdstillatelse og tilhørende sivile rettigheter. Ansvarlig behandler har lenge påpekt at oppholdstillatelse er en forutsetning for videre progresjon i behandlingsopplegget. Ifølge begjæringen vil det tvungne vernet kunne vare livet ut dersom det ikke gis oppholdstillatelse.  
-   
- Sivilombudsmannen mener UNEs behandling av omgjøringsanmodningen var mangelfull og i strid med alminnelige prinsipper om forsvarlig utredning og saksbehandling. UNE skulle utredet og vurderte hvilke utsikter det var til at utlendingen faktisk kunne bli returnert til sitt hjemland. Når dette ikke var gjort, kunne ikke UNE la være å ta stilling til en anførsel om at tvangsregimet utlendingen lever under utgjør brudd på blant annet EMK artikkel 3, med den begrunnelse at klageren skal uttransporteres.  
-   
- Så lenge det ikke foreligger informasjon om realistiske utsikter til snarlig retur, skulle UNE vurdert nærmere hvordan manglende oppholdstillatelse påvirker gjennomføringen av det tvungne vernet, og hvilken betydning dette skulle gis i oppholdssaken.  
- Ombudsmannen mener også at UNE skulle foretatt en vurdering av om det kunne gis en begrenset tillatelse for tidsrommet det idømte vernet gjelder for, i tråd med utlendingsloven § 38 femte ledd.  
-   
- Ombudsmannen ber UNE om å vurdere saken på nytt, og orientere ombudsmannen om utfallet av den nye behandlingen ved kopi av brev til klageren innen 1. november 2019.
+Sivilombudsmannen mener UNEs behandling av omgjøringsanmodningen var mangelfull og i strid med alminnelige prinsipper om forsvarlig utredning og saksbehandling. UNE skulle utredet og vurderte hvilke utsikter det var til at utlendingen faktisk kunne bli returnert til sitt hjemland. Når dette ikke var gjort, kunne ikke UNE la være å ta stilling til en anførsel om at tvangsregimet utlendingen lever under utgjør brudd på blant annet EMK artikkel 3, med den begrunnelse at klageren skal uttransporteres.  
+Så lenge det ikke foreligger informasjon om realistiske utsikter til snarlig retur, skulle UNE vurdert nærmere hvordan manglende oppholdstillatelse påvirker gjennomføringen av det tvungne vernet, og hvilken betydning dette skulle gis i oppholdssaken.  
+Ombudsmannen mener også at UNE skulle foretatt en vurdering av om det kunne gis en begrenset tillatelse for tidsrommet det idømte vernet gjelder for, i tråd med utlendingsloven § 38 femte ledd.  
+Ombudsmannen ber UNE om å vurdere saken på nytt, og orientere ombudsmannen om utfallet av den nye behandlingen ved kopi av brev til klageren innen 1. november 2019.
 
 Se oppdatering fra forvaltningen
 

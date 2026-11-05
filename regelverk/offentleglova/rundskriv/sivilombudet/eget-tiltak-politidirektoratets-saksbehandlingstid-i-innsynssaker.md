@@ -15,10 +15,8 @@ Sivilombudets uttalelse 13.12.2021 (sak 2021/4778).
 ## Oppsummering
 
 Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt Politidirektoratets saksbehandlingstid i innsynssaker og ved klagebehandling av innsynssaker. Undersøkelsen har avdekket at direktoratet har hatt en praksis med å la være å behandle innsynskrav etter to måneder med mindre den som har bedt om innsyn purrer på svar fra direktoratet.  
-   
- Etter ombudets syn er saksbehandlingstiden hos Politidirektoratet ikke i tråd med kravene om at innsynskrav og innsynsklager skal avgjøres «utan ugrunna opphold», jf. offentleglova § 29 første ledd og § 32 tredje ledd. Politidirektoratet har erkjent dette og iverksatt en rekke tiltak. Ombudet vil følge med på effekten av disse tiltakene.   
-   
- Politidirektoratets praksis med å ikke behandle innsynskrav etter to måneder med mindre den som har bedt om innsyn klaget til direktoratet hadde ikke hjemmel i offentleglova. Praksisen ble stanset 1. desember 2021. Ombudet ber om at direktoratet forhører seg med avsenderne av disse ubehandlede innsynskravene for å få klarhet i om de fortsatt ønsker at innsynsbegjæringene skal behandles, og behandler de innsynskravene som fortsatt ønskes behandlet.
+Etter ombudets syn er saksbehandlingstiden hos Politidirektoratet ikke i tråd med kravene om at innsynskrav og innsynsklager skal avgjøres «utan ugrunna opphold», jf. offentleglova § 29 første ledd og § 32 tredje ledd. Politidirektoratet har erkjent dette og iverksatt en rekke tiltak. Ombudet vil følge med på effekten av disse tiltakene.  
+Politidirektoratets praksis med å ikke behandle innsynskrav etter to måneder med mindre den som har bedt om innsyn klaget til direktoratet hadde ikke hjemmel i offentleglova. Praksisen ble stanset 1. desember 2021. Ombudet ber om at direktoratet forhører seg med avsenderne av disse ubehandlede innsynskravene for å få klarhet i om de fortsatt ønsker at innsynsbegjæringene skal behandles, og behandler de innsynskravene som fortsatt ønskes behandlet.
 
 Se oppdatering fra forvaltningen
 

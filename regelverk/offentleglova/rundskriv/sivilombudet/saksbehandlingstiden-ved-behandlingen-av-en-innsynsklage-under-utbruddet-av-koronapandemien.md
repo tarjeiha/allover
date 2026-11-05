@@ -15,8 +15,7 @@ Sivilombudets uttalelse 28.8.2020 (sak 2020/1664).
 ## Oppsummering
 
 Saken gjelder Universitetet i Oslos saksbehandlingstid i en klagesak om innsyn hos Cicero Senter for klimaforskning.  
-   
- Fra Universitetet i Oslo mottok klagen tok det nesten 3 måneder frem til saken ble sendt til førsteinstansen for forberedende klagebehandling. Ombudsmannen utelukker ikke at håndteringen av koronaepidemien kunne forsvare en noe lengre saksbehandlingstid enn det kravene etter offentleglova vanligvis medfører. Selv i den ekstraordinære situasjonen som forelå, og til tross for at universitetet hadde behov for å få avklart spørsmål om hvem som skulle behandle klagen, var likevel saksbehandlingstiden klart lengre enn det som kan aksepteres. Universitetet har følgelig ikke overholdt lovens krav til behandling «uten ugrunna opphald».
+Fra Universitetet i Oslo mottok klagen tok det nesten 3 måneder frem til saken ble sendt til førsteinstansen for forberedende klagebehandling. Ombudsmannen utelukker ikke at håndteringen av koronaepidemien kunne forsvare en noe lengre saksbehandlingstid enn det kravene etter offentleglova vanligvis medfører. Selv i den ekstraordinære situasjonen som forelå, og til tross for at universitetet hadde behov for å få avklart spørsmål om hvem som skulle behandle klagen, var likevel saksbehandlingstiden klart lengre enn det som kan aksepteres. Universitetet har følgelig ikke overholdt lovens krav til behandling «uten ugrunna opphald».
 
 ## Sakens bakgrunn
 

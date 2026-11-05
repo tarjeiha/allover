@@ -16,8 +16,7 @@ Sivilombudets uttalelse 4.3.2018 (sak 2017/4037).
 ## Oppsummering
 
 Saken gjelder Rogaland statsadvokatembeters saksbehandlingstid for en begjæring om innsyn i straffesaksdokumenter i en avsluttet straffesak. Statsadvokatembetet hadde brukt omlag fire måneder på å behandle innsynsbegjæringen.  
-   
- Ombudsmannen viste til at Riksadvokatens veileder om innsyn i straffesaksdokumenter, alminnelige regler om saksbehandlingstid i forvaltningen og hensynene bak reglene om saksbehandlingstid i offentleglova tilsa at innsynsbegjæringer skal avgjøres raskt. Ombudsmannen fant at statsadvokatembetets saksbehandlingstid i den foreliggende saken var for lang. Videre bemerket ombudsmannen at en rask og hensiktsmessig behandling av innsynsbegjæringer forutsetter interne rutiner som gjør det praktisk gjennomførbart å vurdere innsynssaker fortløpende.
+Ombudsmannen viste til at Riksadvokatens veileder om innsyn i straffesaksdokumenter, alminnelige regler om saksbehandlingstid i forvaltningen og hensynene bak reglene om saksbehandlingstid i offentleglova tilsa at innsynsbegjæringer skal avgjøres raskt. Ombudsmannen fant at statsadvokatembetets saksbehandlingstid i den foreliggende saken var for lang. Videre bemerket ombudsmannen at en rask og hensiktsmessig behandling av innsynsbegjæringer forutsetter interne rutiner som gjør det praktisk gjennomførbart å vurdere innsynssaker fortløpende.
 
 ## Sakens bakgrunn
 

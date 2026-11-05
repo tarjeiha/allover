@@ -14,13 +14,10 @@ Sivilombudets uttalelse 10.4.2025 (sak 2024/5432).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Agders behandling av en klage fra en jente rett under 16 år som sykehuset behandlet med ernæring via sonde mot hennes vilje.   
-   
- Sivilombudet kom til at Statsforvalteren skulle ha vurdert å opprette tilsyn med sykehuset som følge av klagen, jf. pasient- og brukerrettighetsloven §§ 7-4 og 7-4 a. Ombudet la vekt på at informasjonen i klagen ga særlig grunn til å vurdere om det forelå fare for pasientsikkerheten, jf. pasient- og brukerrettighetsloven § 7-4 a. Ombudet la også vekt på at klageren snart var 16 år, at hun hadde uttrykt sterk motvilje mot behandlingen, og at hun hadde vært utsatt for flere former for inngripende tvang over lang tid.  
-   
- Sivilombudet kom også til at Statsforvalteren skulle drøftet hensynet til barnets beste i den begrunnelsen som Statsforvalteren ga for avgjørelsen, jf. forvaltningsloven § 25, Grunnloven § 104 og barnekonvensjonen artikkel 3.  
-   
- Sivilombudet mente også at Statsforvalterens saksbehandlingstid på i underkant av fem måneder var i strid med forvaltningsloven § 11 a.
+Saken gjelder Statsforvalteren i Agders behandling av en klage fra en jente rett under 16 år som sykehuset behandlet med ernæring via sonde mot hennes vilje.  
+Sivilombudet kom til at Statsforvalteren skulle ha vurdert å opprette tilsyn med sykehuset som følge av klagen, jf. pasient- og brukerrettighetsloven §§ 7-4 og 7-4 a. Ombudet la vekt på at informasjonen i klagen ga særlig grunn til å vurdere om det forelå fare for pasientsikkerheten, jf. pasient- og brukerrettighetsloven § 7-4 a. Ombudet la også vekt på at klageren snart var 16 år, at hun hadde uttrykt sterk motvilje mot behandlingen, og at hun hadde vært utsatt for flere former for inngripende tvang over lang tid.  
+Sivilombudet kom også til at Statsforvalteren skulle drøftet hensynet til barnets beste i den begrunnelsen som Statsforvalteren ga for avgjørelsen, jf. forvaltningsloven § 25, Grunnloven § 104 og barnekonvensjonen artikkel 3.  
+Sivilombudet mente også at Statsforvalterens saksbehandlingstid på i underkant av fem måneder var i strid med forvaltningsloven § 11 a.
 
 ## Sakens bakgrunn
 

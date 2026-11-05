@@ -15,8 +15,7 @@ Sivilombudets uttalelse 21.2.2019 (sak 2018/1758).
 ## Oppsummering
 
 Klager søkte på en stilling ved en høyskole. Han ble ikke innkalt til intervju, men det ble foretatt referansesjekk av ham. Han klaget til ombudsmannen over ansettelsesprosessen, og han mente seg forbigått. Han tok også opp at høyskolen ikke hadde oppnevnt et utvalg for å foreta en sakkyndig bedømmelse av søkerne.  
-   
- Da ombudsmannen ba om en redegjørelse, erkjente høyskolen at referanseinnhentingen ikke var nødvendig. Innhenting av opplysninger fra referanser, selv om søkeren er kjent med at dette gjøres, bør primært skje som et ledd i å avkrefte eller bekrefte opplysninger som er kommet frem i et intervju. Det fremstår som i strid med god forvaltningsskikk å innhente referanseopplysninger om en kandidat arbeidsgiver mener ikke er formelt kvalifisert for stillingen. Ombudsmannen har ikke grunn til å rette innvendinger mot den ansettelsen som er foretatt, eller at det i dette tilfellet ikke ble oppnevnt et utvalg for sakkyndig bedømmelse.
+Da ombudsmannen ba om en redegjørelse, erkjente høyskolen at referanseinnhentingen ikke var nødvendig. Innhenting av opplysninger fra referanser, selv om søkeren er kjent med at dette gjøres, bør primært skje som et ledd i å avkrefte eller bekrefte opplysninger som er kommet frem i et intervju. Det fremstår som i strid med god forvaltningsskikk å innhente referanseopplysninger om en kandidat arbeidsgiver mener ikke er formelt kvalifisert for stillingen. Ombudsmannen har ikke grunn til å rette innvendinger mot den ansettelsen som er foretatt, eller at det i dette tilfellet ikke ble oppnevnt et utvalg for sakkyndig bedømmelse.
 
 ## Sakens bakgrunn
 

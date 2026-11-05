@@ -15,14 +15,10 @@ Sivilombudets uttalelse 26.7.2024 (sak 2022/1946).
 
 ## Oppsummering
 
-Sivilombudet har gjennomført en systematisk undersøkelse av hvordan barns rett til å medvirke i saker om skoleplassering blir ivaretatt. Undersøkelsen er gjort som en sak av eget tiltak.   
-   
- I undersøkelsen hentet vi inn alle vedtak gjort av samtlige statsforvalterembeter i 2021 som gjelder skoleplassering etter opplæringslova § 8-1 tredje ledd. Statsforvalterne oversendte til sammen 121 vedtak som falt innenfor kriteriene for undersøkelsen. Når vi har gått gjennom vedtakene, har vi sett på hvordan barns rett til medvirkning er blitt omtalt og ivaretatt av statsforvalterne i klagebehandlingen. Vi har ikke tatt stilling til resultatet i enkeltsakene.   
-   
-   
- Vi presenterer i denne rapporten våre funn fra undersøkelsen. Et vesentlig formål har samtidig vært å kunne gi en beskrivelse av hvordan medvirkningsretten kan gjennomføres.   
-   
- Gjennomgangen er utarbeidet på en sånn måte at innholdet skal være relevant også for andre områder enn skoleplassering når det kommer til å ivareta hensynet til barnets beste.
+Sivilombudet har gjennomført en systematisk undersøkelse av hvordan barns rett til å medvirke i saker om skoleplassering blir ivaretatt. Undersøkelsen er gjort som en sak av eget tiltak.  
+I undersøkelsen hentet vi inn alle vedtak gjort av samtlige statsforvalterembeter i 2021 som gjelder skoleplassering etter opplæringslova § 8-1 tredje ledd. Statsforvalterne oversendte til sammen 121 vedtak som falt innenfor kriteriene for undersøkelsen. Når vi har gått gjennom vedtakene, har vi sett på hvordan barns rett til medvirkning er blitt omtalt og ivaretatt av statsforvalterne i klagebehandlingen. Vi har ikke tatt stilling til resultatet i enkeltsakene.  
+Vi presenterer i denne rapporten våre funn fra undersøkelsen. Et vesentlig formål har samtidig vært å kunne gi en beskrivelse av hvordan medvirkningsretten kan gjennomføres.  
+Gjennomgangen er utarbeidet på en sånn måte at innholdet skal være relevant også for andre områder enn skoleplassering når det kommer til å ivareta hensynet til barnets beste.
 
 ## Les rapporten som pdf
 

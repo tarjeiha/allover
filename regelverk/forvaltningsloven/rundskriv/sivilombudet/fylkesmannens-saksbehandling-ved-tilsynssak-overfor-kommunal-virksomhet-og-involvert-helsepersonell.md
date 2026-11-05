@@ -15,11 +15,9 @@ Sivilombudets uttalelse 16.10.2018 (sak 2018/2056).
 ## Oppsummering
 
 Fylkesmannen åpnet tilsynssak mot X kommune om mulige brudd på helselovgivningen ved en virksomhet innen helsesektoren. Tilsynet gjaldt både virksomheten som sådan og virksomhetens fagleder. For faglederen gjaldt saken påstander om urettmessig tilegnelse av opplysninger i pasientjournaler.  
-   
- Fylkesmannen varslet kommunen om tilsynet og ba kommunen om å innhente faglederens uttalelse i saken, men skrev ikke et eget brev til faglederen. Faglederen fikk lese brevet fra Fylkesmannen, men kommunen involverte henne ikke i saksbehandlingen forøvrig.   
- Da ombudsmannen tok opp saken, erkjente Fylkesmannen at de på sviktende grunnlag hadde forutsatt at faglederen hadde fått tilstrekkelig informasjon i saken av kommunen, og var blitt gjort kjent med grunnlaget for påstandene om «journalsnoking».  
-   
- Ombudsmannen fremhever at Fylkesmannen i tilsynssaker må følge god forvaltningsskikk og oppfylle kravene til forsvarlig saksbehandling. Saken må være tilstrekkelig opplyst før den avgjøres. De involverte partenes rett til kontradiksjon må ivaretas. I dette tilfellet hadde faglederen verken fått tilgang til grunnlaget for påstandene mot henne eller tilgang til all relevant informasjon i saken. Hennes rett til kontradiksjon var derfor ikke godt nok ivaretatt. Den saksbehandlingsfeilen kan ha virket bestemmende for avgjørelsens innhold. Ombudsmannen har derfor bedt Fylkesmannen vurdere saken på nytt.
+Fylkesmannen varslet kommunen om tilsynet og ba kommunen om å innhente faglederens uttalelse i saken, men skrev ikke et eget brev til faglederen. Faglederen fikk lese brevet fra Fylkesmannen, men kommunen involverte henne ikke i saksbehandlingen forøvrig.  
+Da ombudsmannen tok opp saken, erkjente Fylkesmannen at de på sviktende grunnlag hadde forutsatt at faglederen hadde fått tilstrekkelig informasjon i saken av kommunen, og var blitt gjort kjent med grunnlaget for påstandene om «journalsnoking».  
+Ombudsmannen fremhever at Fylkesmannen i tilsynssaker må følge god forvaltningsskikk og oppfylle kravene til forsvarlig saksbehandling. Saken må være tilstrekkelig opplyst før den avgjøres. De involverte partenes rett til kontradiksjon må ivaretas. I dette tilfellet hadde faglederen verken fått tilgang til grunnlaget for påstandene mot henne eller tilgang til all relevant informasjon i saken. Hennes rett til kontradiksjon var derfor ikke godt nok ivaretatt. Den saksbehandlingsfeilen kan ha virket bestemmende for avgjørelsens innhold. Ombudsmannen har derfor bedt Fylkesmannen vurdere saken på nytt.
 
 ## Sakens bakgrunn
 

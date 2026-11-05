@@ -14,11 +14,9 @@ Sivilombudets uttalelse 19.8.2026 (sak 2026/3964).
 
 ## Oppsummering
 
-Saken gjelder søknad om utsatt skolestart for et barn [begrunnelse]. Sivilombudet er kommet til at Statsforvalteren i Vestfold og Telemark har lagt feil rettsanvendelse til grunn ved vurderingen av søknaden.   
-   
- Statsforvalterenes vedtak mangler en tydelig vurdering av om barnet rent faktisk er på et utviklingsnivå på nåværende tidspunkt, som tilsier at han klart har kommet langt nok i sin utvikling til at han bør starte på skolen. Statsforvalterens vurdering av om han er klar for skolestart er knyttet opp mot forventet utvikling frem til neste skoleår og at PP-tjenesten har konkludert med at han «kan» begynne på skolen. Sivilombudet har kommet til at spørsmålet om han bør begynne på skolen nå beror på nå-situasjonen og at eventuell utvikling i løpet av det neste året ikke er avgjørende.  
-   
- Vi har bedt Statsforvalteren om å gjøre en fornyet vurdering av om det foreligger slik tvil om at A har kommet langt nok i utviklinga si til at han bør starte på skolen.
+Saken gjelder søknad om utsatt skolestart for et barn [begrunnelse]. Sivilombudet er kommet til at Statsforvalteren i Vestfold og Telemark har lagt feil rettsanvendelse til grunn ved vurderingen av søknaden.  
+Statsforvalterenes vedtak mangler en tydelig vurdering av om barnet rent faktisk er på et utviklingsnivå på nåværende tidspunkt, som tilsier at han klart har kommet langt nok i sin utvikling til at han bør starte på skolen. Statsforvalterens vurdering av om han er klar for skolestart er knyttet opp mot forventet utvikling frem til neste skoleår og at PP-tjenesten har konkludert med at han «kan» begynne på skolen. Sivilombudet har kommet til at spørsmålet om han bør begynne på skolen nå beror på nå-situasjonen og at eventuell utvikling i løpet av det neste året ikke er avgjørende.  
+Vi har bedt Statsforvalteren om å gjøre en fornyet vurdering av om det foreligger slik tvil om at A har kommet langt nok i utviklinga si til at han bør starte på skolen.
 
 Se oppdatering fra forvaltningen
 

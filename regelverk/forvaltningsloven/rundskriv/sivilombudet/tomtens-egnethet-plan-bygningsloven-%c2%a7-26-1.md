@@ -15,10 +15,8 @@ Sivilombudets uttalelse 26.6.2017 (sak 2016/713).
 ## Oppsummering
 
 Saken gjelder opprettelse av ny grunneiendom for senere oppføring av to eneboliger med garasje. Fylkesmannen i Rogaland opprettholdt Sola kommunes dispensasjon fra reguleringsplanen og tillatelse til fradeling. Fylkesmannen hadde ikke foretatt en selvstendig vurdering etter pbl. § 26-1 annet punktum, men mente å ha vurdert tomtens egnethet i sin dispensasjonsvurdering.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om fradelingen av boligtomten krever dispensasjon fra reguleringsplanen. Pbl. § 26-1 annet punktum skulle uansett ha vært vurdert før det kunne gis tillatelse til fradeling. Ombudsmannen er også i tvil om Fylkesmannen har vurdert klagernes anførsler tilstrekkelig, jf. forvaltningsloven § 34 annet ledd.   
-   
- Fylkesmannen ble bedt om å vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil om fradelingen av boligtomten krever dispensasjon fra reguleringsplanen. Pbl. § 26-1 annet punktum skulle uansett ha vært vurdert før det kunne gis tillatelse til fradeling. Ombudsmannen er også i tvil om Fylkesmannen har vurdert klagernes anførsler tilstrekkelig, jf. forvaltningsloven § 34 annet ledd.  
+Fylkesmannen ble bedt om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 
@@ -49,7 +47,7 @@ Samtidig som kommunens vedtak i fradelingsaken var til klagebehandling, søkte t
 Fylkesmannens vedtak ble brakt inn for ombudsmannen av A på vegne av seg selv og flere beboere i området.
 
 Klagerne anførte blant annet at saken ikke var behandlet i tråd med plan- og bygningsloven (pbl.)  
- § 26-1 annet punktum, og at «[d]et er nettopp at delings-søknaden omhandler kun deling uten vurdering av krav til bebyggelse som er problemet». Det ble også anført å foreligge usaklig forskjellsbehandling. Her viste klagerne til at kommunen hadde brukt forskjellige definisjoner på hagedybde og avstand til vei for en sammenlignbar eiendom, samt at kommunen hadde krevd soldiagram, bygningskropp og aktuell innplassering på tomten da en tilstøtende eiendom skulle deles.
+§ 26-1 annet punktum, og at «[d]et er nettopp at delings-søknaden omhandler kun deling uten vurdering av krav til bebyggelse som er problemet». Det ble også anført å foreligge usaklig forskjellsbehandling. Her viste klagerne til at kommunen hadde brukt forskjellige definisjoner på hagedybde og avstand til vei for en sammenlignbar eiendom, samt at kommunen hadde krevd soldiagram, bygningskropp og aktuell innplassering på tomten da en tilstøtende eiendom skulle deles.
 
 Etter en gjennomgang av klagen og saksdokumentene besluttet ombudsmannen å undersøke saken nærmere.
 
@@ -84,8 +82,8 @@ Ombudsmannen er enig med Fylkesmannen i at pbl. § 26-1 er det rettslige utgangs
 > «Opprettelse av ny grunneiendom … må ikke gjøres på en slik måte at det oppstår forhold som strider mot denne lov, forskrift eller plan. Opprettelse eller endring som nevnt i første punktum, må heller ikke gjøres slik at det dannes tomter som er uegnet til bebyggelse på grunn av sin størrelse, form eller plassering etter reglene i denne lov.»
 
 Som Fylkesmannen også peker på, omfattes opprettelse og endring av eiendom, jf. pbl.  
- § 20-1 første ledd bokstav m, av tiltaksbegrepet i pbl. § 1-6. Det følger da allerede av pbl.  
- § 12-4 annet ledd at fradeling «ikke [må] være i strid med [regulerings]planens arealformål og bestemmelser».
+§ 20-1 første ledd bokstav m, av tiltaksbegrepet i pbl. § 1-6. Det følger da allerede av pbl.  
+§ 12-4 annet ledd at fradeling «ikke [må] være i strid med [regulerings]planens arealformål og bestemmelser».
 
 Eiendommen er regulert til boligbebyggelse, slik at planens arealdisponeringskrav er oppfylt.
 
@@ -106,7 +104,7 @@ I uttalelse 10. mars 2014 (SOM-2013-2528) uttalte ombudsmannen:
 > «Etter ordlyden i bestemmelsen *kan* klageinstansen prøve alle sider av saken. I dette ligger det også en *plikt* til å prøve saken så langt det er nødvendig. Det gjelder både sakens rettslige, faktiske og skjønnsmessige sider. For at klagebehandlingen skal være reell, og for at klager skal få prøvd saken i to instanser slik loven forutsetter, må fylkesmannen som klageinstans foreta en *selvstendig vurdering* av de sider av saken som klagen gir grunn til.»
 
 Klagerne anførte at ingen av de to nye boligene ville kunne tilfredsstille kravene i reguleringsplanen  
- § 3.4 med den omsøkte delingen. Anførselen er nært knyttet til pbl. § 26-1 annet punktum. Etter denne bestemmelsen «må [opprettelse eller endring av grunneiendom] ikke gjøres» slik at det dannes tomter som er uegnet til bebyggelse. En naturlig forståelse av ordlyden tilsier at det her oppstilles en materiell skranke som enhver fradeling må holde seg innenfor.
+§ 3.4 med den omsøkte delingen. Anførselen er nært knyttet til pbl. § 26-1 annet punktum. Etter denne bestemmelsen «må [opprettelse eller endring av grunneiendom] ikke gjøres» slik at det dannes tomter som er uegnet til bebyggelse. En naturlig forståelse av ordlyden tilsier at det her oppstilles en materiell skranke som enhver fradeling må holde seg innenfor.
 
 I Ot.prp. nr. 45 (2007-2008) side 336 står det:
 
@@ -127,7 +125,7 @@ Det knytter seg etter dette begrunnet tvil til om Fylkesmannen har foretatt en k
 ### 3.      Konklusjon
 
 Det er begrunnet tvil om fradelingen av boligtomten krever dispensasjon fra regulerings­planen. Pbl.  
- § 26-1 annet punktum skulle uansett ha vært vurdert før det kunne gis tillatelse til fradeling. Fylkesmannens vedtak etterlater også begrunnet tvil om Fylkesmannen har foretatt en reell og selvstendig klagebehandling slik forvaltningsloven § 34 annet ledd krever. Fylkesmannen må derfor bes om å foreta en ny vurdering.
+§ 26-1 annet punktum skulle uansett ha vært vurdert før det kunne gis tillatelse til fradeling. Fylkesmannens vedtak etterlater også begrunnet tvil om Fylkesmannen har foretatt en reell og selvstendig klagebehandling slik forvaltningsloven § 34 annet ledd krever. Fylkesmannen må derfor bes om å foreta en ny vurdering.
 
 I den nye vurderingen er det naturlig at Fylkesmannen tar nærmere stilling til hvordan reguleringsplanen har blitt praktisert.
 

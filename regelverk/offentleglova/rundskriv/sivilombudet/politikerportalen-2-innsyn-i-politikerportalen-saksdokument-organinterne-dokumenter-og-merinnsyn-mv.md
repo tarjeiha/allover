@@ -15,12 +15,9 @@ Sivilombudets uttalelse 23.2.2023 (sak 2022/4149).
 ## Oppsummering
 
 Saken gjaldt et krav om innsyn i forslag til vedtak som var lagt inn i «bobla» i Larvik kommunes møteportal for folkevalgte organer («politikerportalen»). I uttalelse 21. desember 2022 (SOM-2022-4149) kom ombudet til at mye talte for at det foregikk møtepliktig saksbehandling i «bobla». Ombudet mente at møteoffentlighetsprinsippet som ligger til grunn for kommuneloven § 11-5 ga rett til innsyn i den møtepliktige aktiviteten, så langt aktiviteten ikke oppfylte vilkårene i § 11-5 andre eller tredje ledd om møtelukking.  
-   
- Etter ombudets uttalelse vurderte Statsforvalteren innsynskravet på nytt. Statsforvalteren la til grunn at ombudet ikke hadde funnet feil ved deres vurdering om at forslagene i «bobla» ikke var «ferdigstilte», og derfor ikke saksdokumenter, jf. offentleglova § 4 andre ledd. Statsforvalteren opprettholdt derfor sin avvisning av klagerens krav om innsyn i «bobla».  
-   
- Ombudet presiserte at et medlems forslag i «bobla» er et ferdigstilt dokument, og dermed et «saksdokument», idet det blir synlig for de øvrige medlemmene av det folkevalgte organet, jf. offentleglova § 4 andre ledd. Ombudet tok ikke stilling til om dokumentene i «bobla» kunne anses som organinterne etter offentleglova § 14. Det var uansett vanskelig å se saklige grunner for at det her skulle gis mindre merinnsyn etter offentleglova § 11 enn hva som skulle være offentlig i medhold av møteoffentlighetsprinsippet som ligger til grunn for kommuneloven § 11-5. Dersom aktiviteten i «bobla» var møtepliktig, var aktiviteten offentlig så langt den ikke oppfyller vilkårene for møtelukking, jf. uttalelse 21. desember 2022 (SOM-2022-4149).  
-   
- Statsforvalteren ble bedt om å vurdere saken på nytt innen 24. mars 2023.
+Etter ombudets uttalelse vurderte Statsforvalteren innsynskravet på nytt. Statsforvalteren la til grunn at ombudet ikke hadde funnet feil ved deres vurdering om at forslagene i «bobla» ikke var «ferdigstilte», og derfor ikke saksdokumenter, jf. offentleglova § 4 andre ledd. Statsforvalteren opprettholdt derfor sin avvisning av klagerens krav om innsyn i «bobla».  
+Ombudet presiserte at et medlems forslag i «bobla» er et ferdigstilt dokument, og dermed et «saksdokument», idet det blir synlig for de øvrige medlemmene av det folkevalgte organet, jf. offentleglova § 4 andre ledd. Ombudet tok ikke stilling til om dokumentene i «bobla» kunne anses som organinterne etter offentleglova § 14. Det var uansett vanskelig å se saklige grunner for at det her skulle gis mindre merinnsyn etter offentleglova § 11 enn hva som skulle være offentlig i medhold av møteoffentlighetsprinsippet som ligger til grunn for kommuneloven § 11-5. Dersom aktiviteten i «bobla» var møtepliktig, var aktiviteten offentlig så langt den ikke oppfyller vilkårene for møtelukking, jf. uttalelse 21. desember 2022 (SOM-2022-4149).  
+Statsforvalteren ble bedt om å vurdere saken på nytt innen 24. mars 2023.
 
 Se oppdatering fra forvaltningen
 

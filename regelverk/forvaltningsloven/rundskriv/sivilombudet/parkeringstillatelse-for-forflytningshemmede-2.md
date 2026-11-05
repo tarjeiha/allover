@@ -15,12 +15,9 @@ Sivilombudets uttalelse 23.10.2018 (sak 2017/3442).
 ## Oppsummering
 
 X kommunes klagenemnd avslo søknad om fornyet parkeringstillatelse for forflytningshemmede med den begrunnelsen at søkeren ikke lenger fylte vilkårene for å få slik tillatelse.  
-   
- Ombudsmannen er kommet til at det er uklart om klagenemnda har lagt til grunn riktig forståelse av hvilke aktiviteter som kan gi grunnlag for parkeringstillatelse etter forskrift om parkering for forflytningshemmede.  
-   
- Vedtaket er også mangelfullt begrunnet. Det fremgår ikke tydelig at nemnda mente å vise til begrunnelsen i rådmannens saksfremlegg som sin egen. Rådmannens saksfremlegg ga heller ikke en fullgod begrunnelse, blant annet fordi det ikke fremgår at klagerens synspunkter er tilstrekkelig vurdert og fordi det er uklart hva som er endret siden forrige søknad ble innvilget.  
-   
- Ombudsmannen ber nemnda behandle saken på nytt.
+Ombudsmannen er kommet til at det er uklart om klagenemnda har lagt til grunn riktig forståelse av hvilke aktiviteter som kan gi grunnlag for parkeringstillatelse etter forskrift om parkering for forflytningshemmede.  
+Vedtaket er også mangelfullt begrunnet. Det fremgår ikke tydelig at nemnda mente å vise til begrunnelsen i rådmannens saksfremlegg som sin egen. Rådmannens saksfremlegg ga heller ikke en fullgod begrunnelse, blant annet fordi det ikke fremgår at klagerens synspunkter er tilstrekkelig vurdert og fordi det er uklart hva som er endret siden forrige søknad ble innvilget.  
+Ombudsmannen ber nemnda behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

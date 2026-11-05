@@ -15,19 +15,13 @@ Sivilombudets uttalelse 31.1.2020 (sak 2019/617).
 
 ## Oppsummering
 
-Saken gjelder Utlendingsnemndas (UNEs) avslag på søknad om oppholdstillatelse for familieinnvandring på grunnlag av ekteskap, og etterfølgende utvisning med fem års innreiseforbud på grunn av tilbakeholdte opplysninger i familieinnvandringssaken.   
-   
- Oppholdstillatelsen ble avslått etter bestemmelsen om omgåelsesekteskap i utlendingsloven § 40 fjerde ledd, fordi UNE, etter en vurdering av objektive omstendigheter ved ekteskapet, kom til at søkers hovedsakelige formål med ekteskapsinngåelsen var å få oppholdsgrunnlag i Norge. At søkeren under oppholdssaken ikke opplyste om dette hovedmotivet for ekteskapet ble ansett som en tilbakeholdelse av opplysninger, som ga grunnlag for utvisning i medhold av utlendingsloven § 66 første ledd bokstav a andre alternativ om å gi villedende opplysninger.  
-   
- Føringer i forarbeidene til omgåelsesbestemmelsen i utl. § 40 fjerde ledd legger til grunn at utlendingsmyndighetene «som hovedregel» ikke skal avslå søknader fra «søkere fra den fattigere del av verden som vurderer ekteskap med en vestlig person som en mulighet for en bedre tilværelse for seg og sine barn», forutsatt at ekteskapet skal ha en realitet.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om UNE vurderte betydningen av føringene i forarbeidene ved den skjønnsmessige avgjørelsen av om søknaden om familieinnvandring skulle avslås. UNEs begrunnelse for skjønnet oppfylte heller ikke kravene i forvaltningsloven § 25 tredje ledd.  
-   
- UNE har heller ikke vurdert alle sentrale hensyn ved den skjønnsmessige avgjørelsen av om adgangen til å utvise skulle benyttes. Blant de hensyn UNE skulle ha vurdert er betydningen av usikkerheten knyttet til fastsettelsen av motivet for ekteskapsinngåelsen i oppholdssaken, og om utvisningspraksisen utgjør en skranke for reelle ektefellers muligheter til å søke om familieinnvandring, og for kontradiksjonen i slike familieinnvandringssaker. Videre burde UNE vurdert betydningen av forarbeidenes forutsetning om at det skal være mulig med en fornyet prøving etter avslag på opphold.  
-   
- Ombudsmannen kom til at skjønnet i utvisningssaken ikke er tilfredsstillende begrunnet, jf. forvaltningsloven § 25 tredje ledd, og til at det er begrunnet tvil om UNE har vurdert alle sentrale hensyn ved den skjønnsmessige fastsettelsen av innreiseforbudets lengde.  
-   
- På bakgrunn av dette ber ombudsmannen UNE om å behandle både oppholdssaken og utvisningssaken på nytt i samsvar med ombudsmannens merknader. Det bes om at dette gjøres innen 27. mars 2020 og at ombudsmannen orienteres om den fornyede behandlingen.
+Saken gjelder Utlendingsnemndas (UNEs) avslag på søknad om oppholdstillatelse for familieinnvandring på grunnlag av ekteskap, og etterfølgende utvisning med fem års innreiseforbud på grunn av tilbakeholdte opplysninger i familieinnvandringssaken.  
+Oppholdstillatelsen ble avslått etter bestemmelsen om omgåelsesekteskap i utlendingsloven § 40 fjerde ledd, fordi UNE, etter en vurdering av objektive omstendigheter ved ekteskapet, kom til at søkers hovedsakelige formål med ekteskapsinngåelsen var å få oppholdsgrunnlag i Norge. At søkeren under oppholdssaken ikke opplyste om dette hovedmotivet for ekteskapet ble ansett som en tilbakeholdelse av opplysninger, som ga grunnlag for utvisning i medhold av utlendingsloven § 66 første ledd bokstav a andre alternativ om å gi villedende opplysninger.  
+Føringer i forarbeidene til omgåelsesbestemmelsen i utl. § 40 fjerde ledd legger til grunn at utlendingsmyndighetene «som hovedregel» ikke skal avslå søknader fra «søkere fra den fattigere del av verden som vurderer ekteskap med en vestlig person som en mulighet for en bedre tilværelse for seg og sine barn», forutsatt at ekteskapet skal ha en realitet.  
+Ombudsmannen er kommet til at det er begrunnet tvil om UNE vurderte betydningen av føringene i forarbeidene ved den skjønnsmessige avgjørelsen av om søknaden om familieinnvandring skulle avslås. UNEs begrunnelse for skjønnet oppfylte heller ikke kravene i forvaltningsloven § 25 tredje ledd.  
+UNE har heller ikke vurdert alle sentrale hensyn ved den skjønnsmessige avgjørelsen av om adgangen til å utvise skulle benyttes. Blant de hensyn UNE skulle ha vurdert er betydningen av usikkerheten knyttet til fastsettelsen av motivet for ekteskapsinngåelsen i oppholdssaken, og om utvisningspraksisen utgjør en skranke for reelle ektefellers muligheter til å søke om familieinnvandring, og for kontradiksjonen i slike familieinnvandringssaker. Videre burde UNE vurdert betydningen av forarbeidenes forutsetning om at det skal være mulig med en fornyet prøving etter avslag på opphold.  
+Ombudsmannen kom til at skjønnet i utvisningssaken ikke er tilfredsstillende begrunnet, jf. forvaltningsloven § 25 tredje ledd, og til at det er begrunnet tvil om UNE har vurdert alle sentrale hensyn ved den skjønnsmessige fastsettelsen av innreiseforbudets lengde.  
+På bakgrunn av dette ber ombudsmannen UNE om å behandle både oppholdssaken og utvisningssaken på nytt i samsvar med ombudsmannens merknader. Det bes om at dette gjøres innen 27. mars 2020 og at ombudsmannen orienteres om den fornyede behandlingen.
 
 Se oppdatering fra forvaltningen
 
@@ -202,9 +196,9 @@ Utlendingsforskriften § 14-2 gir nærmere regler om varigheten av innreiseforbu
 «Etter en konkret helhetsvurdering, jf. lovens § 70, kan innreiseforbudet settes til
 
 a) to år  
- b) fem år  
- c) ti år, eller  
- d) varig
+b) fem år  
+c) ti år, eller  
+d) varig
 
 Innreiseforbud gitt i medhold av lovens § 66 første ledd bokstav a, d, f og annet ledd, kan gis for ett år, to år eller fem år. Innreiseforbudet kan likevel gis for mer enn fem år når offentlig orden gjør det nødvendig, eller av hensyn til grunnleggende nasjonale interesser.»
 

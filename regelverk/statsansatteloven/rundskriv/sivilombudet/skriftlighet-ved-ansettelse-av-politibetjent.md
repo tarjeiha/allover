@@ -15,8 +15,7 @@ Sivilombudets uttalelse 17.12.2018 (sak 2018/2964).
 ## Oppsummering
 
 Klageren søkte på en fast stilling som politibetjent, og ble innstilt slik at han lå an til å få en av stillingene. Da ansettelsesrådet behandlet saken, ble andre innstilte kandidater vurdert som bedre kvalifisert enn han. De vurderingene ansettelsesrådet hadde foretatt, fremgikk ikke av protokollen fra møtet eller av andre skriftlige nedtegnelser.  
-   
- At ansettelsesrådet ikke dokumenterte skriftlig vurderingen av klagerens kvalifikasjoner, er i strid med kravet til skriftlighet i ansettelsessaker. Dette er heller ikke i samsvar med politiets eget personalreglement. Politidistriktet bes merke seg dette, og følge opp egne rutiner i fremtidige ansettelsessaker. Slik saken i etterkant er blitt opplyst for ombudsmannen, er det ikke grunnlag for å rette kritikk mot selve kvalifikasjonsvurderingen ansettelsesrådet foretok.
+At ansettelsesrådet ikke dokumenterte skriftlig vurderingen av klagerens kvalifikasjoner, er i strid med kravet til skriftlighet i ansettelsessaker. Dette er heller ikke i samsvar med politiets eget personalreglement. Politidistriktet bes merke seg dette, og følge opp egne rutiner i fremtidige ansettelsessaker. Slik saken i etterkant er blitt opplyst for ombudsmannen, er det ikke grunnlag for å rette kritikk mot selve kvalifikasjonsvurderingen ansettelsesrådet foretok.
 
 ## Sakens bakgrunn
 
@@ -40,7 +39,7 @@ Klagers kommentarer er forelagt politidistriktet, som ikke har hatt ytterligere 
 
 Hovedregelen ved offentlige ansettelser er at kvalifikasjonsprinsippet er styrende. Det vil si at det er den best kvalifiserte søkeren som skal ansettes. For å sikre at ansettelser i det offentlige skjer i tråd med dette prinsippet, må det settes krav til saksbehandlingen.
 
-Hver ansettelse utgjør et enkeltvedtak. Dette betyr at flere av forvaltningslovens saksbehandlingsregler kommer til anvendelser, for eksempel kravet til sakens opplysning i   
+Hver ansettelse utgjør et enkeltvedtak. Dette betyr at flere av forvaltningslovens saksbehandlingsregler kommer til anvendelser, for eksempel kravet til sakens opplysning i  
 § 17. Ellers er det et grunnleggende ulovfestet krav til all offentlig forvaltning at avgjørelser skal være saklig begrunnet, og at saksbehandlingen skal være forsvarlig. Et utslag av dette prinsippet finner vi også i §§ 24 og 25, som gir parter rett til begrunnelse. Disse bestemmelsene gjelder ikke direkte i tilsettingssaker, men selv om en søker ikke har krav på begrunnelse, må tilsettingsmyndighetenes avgjørelser være saklige.
 
 Når det ikke utarbeides skriftlig begrunnelse til partene, blir det desto viktigere å sikre at det i ettertid blir mulig å kontrollere at tilsettingsprosessen har vært saklig og forsvarlig. Dette er spesielt viktig for at ombudsmannskontrollen skal bli effektiv. Tilsettingsorganet må derfor innrette sin virksomhet slik at disse grunnleggende kravene ivaretas på alle trinn i prosessen. Konsekvensen av dette er at hovedpunktene i tilsettingsprosessen bør nedtegnes skriftlig.

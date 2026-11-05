@@ -15,8 +15,7 @@ Sivilombudets uttalelse 24.8.2021 (sak 2021/2256).
 ## Oppsummering
 
 Saken gjelder manglende svar fra Norges vassdrags- og energidirektorat på en henvendelse om lovligheten av et igangsatt tiltak. Direktoratets svar uteble til tross for flere skriftlige purringer fra klager. Direktoratet svarte over 1 år og 10 måneder etter klagers første henvendelse, og først etter at ombudet igangsatte sine undersøkelser i saken. Direktoratet hadde ikke sendt foreløpig svar med informasjon om årsaken til den lange saksbehandlingstiden og når svar kunne ventes.  
-   
- Sivilombudet er kommet til at saken ikke er behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a. Forvaltningslovens krav i § 11 a annet ledd om å orientere klager der det tar uforholdsmessig lang tid før en henvendelse kan besvares, er heller ikke oppfylt. Sivilombudet forutsetter at direktoratet i fremtiden besvarer henvendelser i henhold til forvaltningslovens krav, og ber direktoratet skjerpe rutinene for utsending av foreløpig svar og forsinkelsesbrev for å sikre borgerne informasjon under sakens gang.
+Sivilombudet er kommet til at saken ikke er behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a. Forvaltningslovens krav i § 11 a annet ledd om å orientere klager der det tar uforholdsmessig lang tid før en henvendelse kan besvares, er heller ikke oppfylt. Sivilombudet forutsetter at direktoratet i fremtiden besvarer henvendelser i henhold til forvaltningslovens krav, og ber direktoratet skjerpe rutinene for utsending av foreløpig svar og forsinkelsesbrev for å sikre borgerne informasjon under sakens gang.
 
 ## Sakens bakgrunn
 

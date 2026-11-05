@@ -15,8 +15,7 @@ Sivilombudets uttalelse 6.4.2016 (sak 2015/943).
 ## Oppsummering
 
 Fylkesmannen i Rogaland mottok informasjon fra politiet om at en lege var ilagt et forelegg og var under etterforskning for en straffbar handling. Etter å ha innhentet mer informasjon valgte Fylkesmannen å varsle legens arbeidsgiver. Sammen med varselet ble det oversendt utskrift fra strafferegisteret, uttømmende bøteattest og et ikke vedtatt forelegg.  
-   
- Ombudsmannen har kommet til at det var anledning til å varsle arbeidsgiveren, men at oversendelsen av utskriften fra strafferegisteret, bøteattesten og forelegget gikk lenger enn begrunnelsen for å varsle tilsa. Dette innebar et brudd på taushetsplikten fra Fylkesmannens side.
+Ombudsmannen har kommet til at det var anledning til å varsle arbeidsgiveren, men at oversendelsen av utskriften fra strafferegisteret, bøteattesten og forelegget gikk lenger enn begrunnelsen for å varsle tilsa. Dette innebar et brudd på taushetsplikten fra Fylkesmannens side.
 
 ### Sakens bakgrunn
 
@@ -31,12 +30,12 @@ Fylkesmannen i Rogaland besluttet å starte tilsynssak på bakgrunn av de mottat
 Fylkesmannen i Rogaland har med bakgrunn i underretningen opprettet en tilsynssak.»
 
 Etter å ha innhentet uttalelse fra A og X, ble tilsynssaken oversendt Statens helsetilsyn  
- 5. april 2014. Den aktuelle varslingen til arbeidsgiveren ble i oversendelsen omtalt slik:
+5. april 2014. Den aktuelle varslingen til arbeidsgiveren ble i oversendelsen omtalt slik:
 
 «Etter telefonsamtale med Fylkesmannen i Hordaland fikk vi vite at A tidligere hadde mistet sin lisens som turnuslege i medhold av helsepersonelloven § 57 for bruk av narkotika, men at han hadde fått den tilbake. Fylkesmannen i Hordaland fryktet fare for pasientsikkerheten ettersom nye straffbare forhold hadde dukket opp. Fylkesmannen i Hordaland oppfordret Fylkesmannen i Rogaland til umiddelbart å varsle arbeidsgiver da det det igjen kunne være tale om et rusrelatert problem. Dette ble gjort ved Fylkesmannens brev av 09.01.2014.»
 
 Statens helsetilsyn traff vedtak i tilsynssaken 2. september 2014. A ble gitt en advarsel i medhold av helsepersonelloven § 56 andre ledd. Vedtaket ble påklaget, og  
- 16. juni 2015 kom Statens helsepersonellnemnd til at vilkårene for å gi en advarsel ikke var oppfylt. Det ble i forbindelse med behandlingen i nemnda avklart at saken som resulterte i forelegget 8. desember 2013, var henlagt på grunn av lang saksbehandlingstid hos politiet, mens saken vedrørende legemsfornærmelse var henlagt ut fra bevisets stilling.
+16. juni 2015 kom Statens helsepersonellnemnd til at vilkårene for å gi en advarsel ikke var oppfylt. Det ble i forbindelse med behandlingen i nemnda avklart at saken som resulterte i forelegget 8. desember 2013, var henlagt på grunn av lang saksbehandlingstid hos politiet, mens saken vedrørende legemsfornærmelse var henlagt ut fra bevisets stilling.
 
 Parallelt med behandlingen av tilsynssaken tok Legeforeningen opp spørsmålet om brudd på taushetsplikt i brev til Fylkesmannen 13. mai 2014. I brevet ble det vist til at det ikke var anledning til å varsle As arbeidsgiver om oppstart av tilsynssak.
 

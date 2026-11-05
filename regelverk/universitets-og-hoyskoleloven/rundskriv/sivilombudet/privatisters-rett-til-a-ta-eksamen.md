@@ -14,13 +14,10 @@ Sivilombudets uttalelse 9.1.2024 (sak 2023/4774).
 
 ## Oppsummering
 
-Saken gjelder prinsippet om fri eksamensrett etter universitets- og høyskoleloven.   
-   
- Klageren i saken hadde ikke studieplass, og han søkte derfor om å ta eksamen i faget Mikroøkonomi 1 ved Høgskulen på Vestlandet som privatist. For å ta eksamen i faget måtte kandidatene bestå to obligatoriske arbeidskrav. Søknaden ble avslått fordi klageren ikke hadde bestått arbeidskravene. Fakultetet viste til informasjon på skolens nettside, der det sto at privatister bare kunne ta eksamen i fag uten obligatoriske læringsaktiviteter, eller dersom aktiviteten allerede var bestått. Avslaget ble opprettholdt av klagenemnda. Etter at ombudet undersøkte saken, omgjorde nemnda vedtaket, sånn at klageren kunne ta eksamenen i faget.   
-   
- Sivilombudet er kommet til at klagenemnda la til grunn feil lovforståelse da de avslo klagerens søknad om å ta eksamen i faget. For at en obligatorisk aktivitet skal avskjære retten til å ta eksamen, må aktiviteten i seg selv gi en vesentlig kompetanse som er en del av formålet med utdanningen. Videre er det et krav at denne kompetansen ikke kan prøves på eksamen. I klagerens sak var formålet med de obligatoriske arbeidskravene å sikre at studentene jobbet jevnt og stilte forberedt til eksamen. Dette er ikke tilstrekkelig grunn til å nekte privatister retten til å ta eksamen.  
-   
- I uttalelsen kommenteres også privatisters rett til å ta eksamen i forslaget til ny universitets- og høyskolelov som på tidspunktet for denne uttalelsen er til behandling i Stortinget.
+Saken gjelder prinsippet om fri eksamensrett etter universitets- og høyskoleloven.  
+Klageren i saken hadde ikke studieplass, og han søkte derfor om å ta eksamen i faget Mikroøkonomi 1 ved Høgskulen på Vestlandet som privatist. For å ta eksamen i faget måtte kandidatene bestå to obligatoriske arbeidskrav. Søknaden ble avslått fordi klageren ikke hadde bestått arbeidskravene. Fakultetet viste til informasjon på skolens nettside, der det sto at privatister bare kunne ta eksamen i fag uten obligatoriske læringsaktiviteter, eller dersom aktiviteten allerede var bestått. Avslaget ble opprettholdt av klagenemnda. Etter at ombudet undersøkte saken, omgjorde nemnda vedtaket, sånn at klageren kunne ta eksamenen i faget.  
+Sivilombudet er kommet til at klagenemnda la til grunn feil lovforståelse da de avslo klagerens søknad om å ta eksamen i faget. For at en obligatorisk aktivitet skal avskjære retten til å ta eksamen, må aktiviteten i seg selv gi en vesentlig kompetanse som er en del av formålet med utdanningen. Videre er det et krav at denne kompetansen ikke kan prøves på eksamen. I klagerens sak var formålet med de obligatoriske arbeidskravene å sikre at studentene jobbet jevnt og stilte forberedt til eksamen. Dette er ikke tilstrekkelig grunn til å nekte privatister retten til å ta eksamen.  
+I uttalelsen kommenteres også privatisters rett til å ta eksamen i forslaget til ny universitets- og høyskolelov som på tidspunktet for denne uttalelsen er til behandling i Stortinget.
 
 Se oppdatering fra forvaltningen
 
@@ -93,7 +90,7 @@ Etter dette er det ikke avgjørende for å nekte privatisters oppmelding til eks
 Uhl. § 3-10 er en videreføring av § 40 i universitetsloven av 1995, se Ot.prp. nr. 79 (2003-2004) på side 83. Ordlyden i uhl. § 3-10 annet ledd er den samme som i universitetsloven § 40 annet ledd. Det er ikke i forarbeidene på annen måte gitt uttrykk for at rettstilstanden ble endret med innføringen av någjeldende universitets- og høyskolelov. Forarbeidene til § 40 i universitetsloven av 1995 må derfor tillegges vekt ved tolkningen av uhl. § 3-10 annet ledd.
 
 I forarbeidene til universitetsloven av 1995, Ot.prp. nr. 85 (1993-1994) på side 67, forklarte departementet nærmere hva som lå i kravet om obligatoriske aktiviteter i  
- § 40 annet ledd:
+§ 40 annet ledd:
 
 «I studieplanen fastsettes hvilke obligatoriske kurs, oppgaver, praksis m.m. som inngår i studiet og som må være oppfylt for å kunne gå opp til eksamen. For at en obligatorisk del av undervisningen skal kunne anses som et krav som må være oppfylt for å kunne gå opp til eksamen som privatist, er følgende kriterier avgjørende:
 
@@ -126,7 +123,7 @@ Ombudet har ingen fullstendig oversikt over *forvaltningspraksisen* på området
 Uhl. § 3-10 første ledd slår fast prinsippet om den frie eksamensretten. Enhver som har de nødvendige kunnskaper, og som oppfyller opptakskravene og andre krav, har som utgangspunkt rett til å ta eksamen.
 
 Utdanningsinstitusjonene kan nekte oppmelding til eksamen dersom obligatoriske aktiviteter ikke er fulgt, jf. uhl. § 3-10 andre ledd. Bestemmelsen er en presisering av hovedregelen, og ordlyden i annet ledd er den samme som universitetsloven av 1995  
- § 40 annet ledd. Forarbeidene til den tidligere bestemmelsen oppstilte bestemte kriterier for at en obligatorisk aktivitet skulle kunne avskjære retten til å ta eksamen. Lovhistorikken og formålet med den frie eksamensretten taler for at bestemmelsen må forstås sånn.
+§ 40 annet ledd. Forarbeidene til den tidligere bestemmelsen oppstilte bestemte kriterier for at en obligatorisk aktivitet skulle kunne avskjære retten til å ta eksamen. Lovhistorikken og formålet med den frie eksamensretten taler for at bestemmelsen må forstås sånn.
 
 Etter ombudets syn må det legges til grunn at en «obligatorisk» aktivitet bare kan avskjære retten til å ta eksamen etter uhl. § 3-10 første ledd, jf. annet ledd, dersom aktiviteten i seg selv gir en vesentlig kompetanse som er en del av formålet med utdanningen, og at denne kompetansen ikke kan prøves ved eksamen, jf. Ot.prp. nr. 85 (1993-1994) på side 67.
 

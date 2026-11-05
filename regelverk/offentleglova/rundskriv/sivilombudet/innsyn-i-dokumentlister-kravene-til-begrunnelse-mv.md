@@ -15,10 +15,8 @@ Sivilombudets uttalelse 20.4.2023 (sak 2022/5907).
 ## Oppsummering
 
 Saken gjaldt innsyn i en dokumentliste med oversikt over alle dokumenter registrert på en konkret sak i Finansdepartementet. Finansdepartementet ga innsyn i to dokumentlister, for to ulike saksnumre. Etter spørsmål fra journalisten, opplyste departementet at opplysninger om organinterne dokumenter var utelatt, og at listene kun inneholdt informasjon om inn- og utgående dokumenter.  
-   
- Sivilombudet kom til at Finansdepartementet ikke hadde behandlet innsynskravet i tråd med offentleglovas regler. Det var unntatt opplysninger uten at dette var hjemlet i lov eller forskrift gitt i medhold av lov. Verken avgjørelsen eller den nærmere begrunnelsen var i tråd med lovens krav.  
-   
- Ombudet ba Finansdepartementet snarest om å behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen innen 12. mai 2023.
+Sivilombudet kom til at Finansdepartementet ikke hadde behandlet innsynskravet i tråd med offentleglovas regler. Det var unntatt opplysninger uten at dette var hjemlet i lov eller forskrift gitt i medhold av lov. Verken avgjørelsen eller den nærmere begrunnelsen var i tråd med lovens krav.  
+Ombudet ba Finansdepartementet snarest om å behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen innen 12. mai 2023.
 
 Se oppdatering fra forvaltningen
 

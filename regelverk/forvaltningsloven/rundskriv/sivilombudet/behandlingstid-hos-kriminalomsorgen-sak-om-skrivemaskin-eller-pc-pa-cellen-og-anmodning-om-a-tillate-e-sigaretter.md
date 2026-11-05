@@ -15,12 +15,9 @@ Sivilombudets uttalelse 13.12.2018 (sak 2018/563).
 ## Oppsummering
 
 Saken gjelder saksbehandlingstiden hos Kriminalomsorgen region øst ved behandlingen av en klage og en forespørsel fra en innsatt, heretter omtalt som A.  
-   
- Regionen brukte nesten 14 måneder på å behandle As klage over fengselets avslag på søknad om å få ha skrivemaskin eller pc på cellen. Ombudsmannen er kommet til at behandlingstiden for klagesaken har vært uakseptabelt lang, og at saken ikke kan anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. A ble ikke holdt tilfredsstillende orientert om sakens fremdrift underveis. Manglende orientering om korrigert saksbehandlingstid da behandlingen av saken ble forsinket, var et brudd på krav til god forvaltningsskikk.  
-   
- As forespørsel om å tillate e-sigaretter i norske fengsler, ble ved en feil avskrevet av regionen. Regionen har beklaget feilen, og ombudsmannen tar dette til etterretning.  
-   
- Begge sakene er nå ferdigbehandlet, og klagen over lang saksbehandlingstid gir derfor ikke grunn til videre oppfølging fra ombudsmannens side. Region øst bes sikre at fremtidige klagesaker avgjøres innen rimelig tid og at det sendes ut forsinkelsesmeldinger underveis.
+Regionen brukte nesten 14 måneder på å behandle As klage over fengselets avslag på søknad om å få ha skrivemaskin eller pc på cellen. Ombudsmannen er kommet til at behandlingstiden for klagesaken har vært uakseptabelt lang, og at saken ikke kan anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. A ble ikke holdt tilfredsstillende orientert om sakens fremdrift underveis. Manglende orientering om korrigert saksbehandlingstid da behandlingen av saken ble forsinket, var et brudd på krav til god forvaltningsskikk.  
+As forespørsel om å tillate e-sigaretter i norske fengsler, ble ved en feil avskrevet av regionen. Regionen har beklaget feilen, og ombudsmannen tar dette til etterretning.  
+Begge sakene er nå ferdigbehandlet, og klagen over lang saksbehandlingstid gir derfor ikke grunn til videre oppfølging fra ombudsmannens side. Region øst bes sikre at fremtidige klagesaker avgjøres innen rimelig tid og at det sendes ut forsinkelsesmeldinger underveis.
 
 ## Sakens bakgrunn
 

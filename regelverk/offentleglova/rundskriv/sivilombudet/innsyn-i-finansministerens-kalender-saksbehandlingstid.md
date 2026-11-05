@@ -15,8 +15,7 @@ Sivilombudets uttalelse 19.10.2018 (sak 2018/2602).
 ## Oppsummering
 
 Saken gjelder saksbehandlingstiden ved behandlingen av et krav om innsyn i finansministerens elektroniske kalender. En journalist ba om innsyn i kalenderoppføringer i Outlook fra 1. januar til 1. august 2017. Finansdepartementet avviste kravet 16. april 2018. Samme dag ba journalisten om en nærmere begrunnelse. I e-post 23. april 2018 minnet han departementet om anmodningen. Først 5. juli 2018 besvarte departementet henvendelsen og ga en utvidet begrunnelse.  
-   
- Ombudsmannen er kommet til at saksbehandlingstiden for den utvidede begrunnelsen var for lang og i strid med lovens krav. Departementet har beklaget tidsbruken og opplyst at saksbehandlingstiden ikke er representativ for innsynssaker generelt. Ombudsmannen legger opplysningene til grunn og forutsetter at departementet i fremtidige saker overholder lovens frist.
+Ombudsmannen er kommet til at saksbehandlingstiden for den utvidede begrunnelsen var for lang og i strid med lovens krav. Departementet har beklaget tidsbruken og opplyst at saksbehandlingstiden ikke er representativ for innsynssaker generelt. Ombudsmannen legger opplysningene til grunn og forutsetter at departementet i fremtidige saker overholder lovens frist.
 
 ## Sakens bakgrunn
 

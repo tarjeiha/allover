@@ -15,10 +15,8 @@ Sivilombudets uttalelse 9.1.2019 (sak 2018/2388).
 ## Oppsummering
 
 Saken gjelder en kommunal klagenemnds saksbehandling av klagesak om avslag på startlån og etableringstilskudd. Saksbehandleren fra første instans møtte i nemnda for å orientere om de faktiske forholdene og besvare spørsmål.  
-   
- Saksbehandlerens deltagelse i klagenemndsmøtet var i strid med habilitetsbestemmelsen i kommuneloven § 40 nr. 3 bokstav c. Klagenemnda begrunnet dessuten ikke vedtaket sitt skriftlig. Dette er et brudd på reglene om begrunnelse i forvaltningsloven §§ 24 og 25.  
-   
- Ombudsmannen ber kommunen om å behandle klagen på nytt. Kommunen bes videre om å gjennomgå saksbehandlingspraksis i klagenemnda for å unngå fremtidige brudd på reglene om habilitet og begrunnelse, og om nødvendig utarbeide skriftlige rutiner.
+Saksbehandlerens deltagelse i klagenemndsmøtet var i strid med habilitetsbestemmelsen i kommuneloven § 40 nr. 3 bokstav c. Klagenemnda begrunnet dessuten ikke vedtaket sitt skriftlig. Dette er et brudd på reglene om begrunnelse i forvaltningsloven §§ 24 og 25.  
+Ombudsmannen ber kommunen om å behandle klagen på nytt. Kommunen bes videre om å gjennomgå saksbehandlingspraksis i klagenemnda for å unngå fremtidige brudd på reglene om habilitet og begrunnelse, og om nødvendig utarbeide skriftlige rutiner.
 
 Se oppdatering fra forvaltningen
 

@@ -16,10 +16,8 @@ Sivilombudets uttalelse 15.2.2019 (sak 2018/3457).
 ## Oppsummering
 
 Sivilombudsmannen har på generelt grunnlag henvendt seg til Arbeids- og velferdsdirektoratet for en kort redegjørelse for Navs praksis ved opphør av arbeidsavklaringspenger (AAP). Bakgrunnen er et økende antall henvendelser til ombudsmannen fra klagere som beskriver opphør av ytelsen uten at det først er fattet vedtak eller sendt annen form for varsel i forkant.  
-   
- Direktoratet opplyste i sitt svar at alle AAP-mottakere blir orientert om når stønadsperioden utløper i det siste ordinære vedtaket, altså vedtaket der ytelsen blir innvilget. I tillegg skal bruker motta informasjon underveis fra Navs veileder. Det var også sendt ut informasjon til alle mottakerne av ytelsen i forbindelse med lovendringen i 2018 der AAP-perioden ble redusert fra fire til tre år. Direktoratet mente dermed at brukerne var tilstrekkelig orientert om stønadsperioden, slik at det ikke forelå plikt til å forhåndsvarsle om opphør etter forvaltningsloven § 16.  
-   
- Ombudsmannens vurdering er at NAVs praksis generelt, slik den er redegjort for av direktoratet, er i tråd med varslingspliktreglene i forvaltningsloven § 16.
+Direktoratet opplyste i sitt svar at alle AAP-mottakere blir orientert om når stønadsperioden utløper i det siste ordinære vedtaket, altså vedtaket der ytelsen blir innvilget. I tillegg skal bruker motta informasjon underveis fra Navs veileder. Det var også sendt ut informasjon til alle mottakerne av ytelsen i forbindelse med lovendringen i 2018 der AAP-perioden ble redusert fra fire til tre år. Direktoratet mente dermed at brukerne var tilstrekkelig orientert om stønadsperioden, slik at det ikke forelå plikt til å forhåndsvarsle om opphør etter forvaltningsloven § 16.  
+Ombudsmannens vurdering er at NAVs praksis generelt, slik den er redegjort for av direktoratet, er i tråd med varslingspliktreglene i forvaltningsloven § 16.
 
 ## Sakens bakgrunn og våre undersøkelser
 

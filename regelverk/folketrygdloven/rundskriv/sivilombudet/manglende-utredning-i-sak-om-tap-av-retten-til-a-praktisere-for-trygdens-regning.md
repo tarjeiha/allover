@@ -15,11 +15,9 @@ Sivilombudets uttalelse 16.10.2025 (sak 2025/779 ).
 
 ## Oppsummering
 
-Saken gjelder vedtak om tap av retten til å praktisere for trygdens regning i tre år, jf. folketrygdloven § 25-7. Nav klageinstans begrunnet blant annet vedtaket med at klageren ikke hadde gitt opplysninger til Nav uten ugrunnet opphold, jf. folketrygdloven §§ 21-4 og 21-4 c siste ledd.   
-   
- Ombudet har, i likhet med Arbeids- og velferdsdirektoratet, kommet til at saken ikke var tilstrekkelig utredet, jf. forvaltningsloven § 17, da Nav klageinstans traff vedtaket i saken. Konkrete forhold i saken tilsa at Nav kontroll eller Nav klageinstans skulle tatt kontakt med det lokale Nav-kontoret for å avklare hvordan kommunikasjonen med klageren hadde vært.   
-   
- Nav klageinstans har, i etterkant av ombudets undersøkelser, vurdert saken på nytt og besluttet ikke å omgjøre vedtaket. Denne avgjørelsen har ikke vært en del av ombudets undersøkelser. Ombudet ber direktoratet vurdere om, og eventuelt hvordan, saken skal følges opp videre.
+Saken gjelder vedtak om tap av retten til å praktisere for trygdens regning i tre år, jf. folketrygdloven § 25-7. Nav klageinstans begrunnet blant annet vedtaket med at klageren ikke hadde gitt opplysninger til Nav uten ugrunnet opphold, jf. folketrygdloven §§ 21-4 og 21-4 c siste ledd.  
+Ombudet har, i likhet med Arbeids- og velferdsdirektoratet, kommet til at saken ikke var tilstrekkelig utredet, jf. forvaltningsloven § 17, da Nav klageinstans traff vedtaket i saken. Konkrete forhold i saken tilsa at Nav kontroll eller Nav klageinstans skulle tatt kontakt med det lokale Nav-kontoret for å avklare hvordan kommunikasjonen med klageren hadde vært.  
+Nav klageinstans har, i etterkant av ombudets undersøkelser, vurdert saken på nytt og besluttet ikke å omgjøre vedtaket. Denne avgjørelsen har ikke vært en del av ombudets undersøkelser. Ombudet ber direktoratet vurdere om, og eventuelt hvordan, saken skal følges opp videre.
 
 Se oppdatering fra forvaltningen
 

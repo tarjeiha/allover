@@ -15,8 +15,7 @@ Sivilombudets uttalelse 18.5.2020 (sak 2019/3083).
 ## Oppsummering
 
 Saken gjelder godkjenning etter jordlova § 12 av en livsvarig bruksrett til en hytte. X kommunes avslag ble etter klage omgjort av Fylkesmannen i Troms og Finnmark. Grunneieren klaget til ombudsmannen. Det sentrale spørsmålet er hvilken betydning det har for vurderingen av eiendommens arealressurser at hytta kan leies ut sammen med en fiskerett i …elva, og om saken på dette punktet var tilstrekkelig opplyst.  
-   
- Ombudsmannen er kommet til at Fylkesmannen kan ha vurdert verdien av bruksretten for lavt, da Fylkesmannen ikke synes å ha tatt høyde for at utleie av hytta kan ha vesentlig større verdi dersom den leies ut sammen med fiskeretten. Saken var på dette punktet ikke tilstrekkelig opplyst, da det forelå begrenset informasjon om verdien av eiendommens arealressurser, herunder potensiell inntekt fra utleie av hytta sammen med fiskeretten. Fylkesmannen har i sin vurdering av hensynet til det kommunale selvstyret lagt til grunn en for lav terskel for overprøving av kommunens skjønn, og vurderingen av dette hensynet gikk ikke frem av vedtaket. Ombudsmannen ber om at saken behandles på nytt.
+Ombudsmannen er kommet til at Fylkesmannen kan ha vurdert verdien av bruksretten for lavt, da Fylkesmannen ikke synes å ha tatt høyde for at utleie av hytta kan ha vesentlig større verdi dersom den leies ut sammen med fiskeretten. Saken var på dette punktet ikke tilstrekkelig opplyst, da det forelå begrenset informasjon om verdien av eiendommens arealressurser, herunder potensiell inntekt fra utleie av hytta sammen med fiskeretten. Fylkesmannen har i sin vurdering av hensynet til det kommunale selvstyret lagt til grunn en for lav terskel for overprøving av kommunens skjønn, og vurderingen av dette hensynet gikk ikke frem av vedtaket. Ombudsmannen ber om at saken behandles på nytt.
 
 Se oppdatering fra forvaltningen
 

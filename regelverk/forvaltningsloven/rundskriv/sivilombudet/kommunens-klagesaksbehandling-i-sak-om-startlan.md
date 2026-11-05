@@ -15,10 +15,8 @@ Sivilombudets uttalelse 7.9.2017 (sak 2016/3404).
 ## Oppsummering
 
 Saken gjelder Rissa kommunes behandling av klage i sak om startlån.  
-   
- Ombudsmannen kom til at forvaltningslovens regler om begrunnelse og underretning av vedtak ble brutt ved behandlingen av saken i den interne kommunale klageordningen. Videre er det uklart om kommunens saksbehandling i denne og andre klagesaker om startlån har et slikt skille mellom behandlingen i førsteinstansen og klageinstansen som kreves etter habilitetsreglene i kommuneloven § 40 nr. 3 bokstav c.  
-   
- Kommunen ble bedt om å gjennomgå sine rutiner og praksis, og å behandle den konkrete saken på nytt.
+Ombudsmannen kom til at forvaltningslovens regler om begrunnelse og underretning av vedtak ble brutt ved behandlingen av saken i den interne kommunale klageordningen. Videre er det uklart om kommunens saksbehandling i denne og andre klagesaker om startlån har et slikt skille mellom behandlingen i førsteinstansen og klageinstansen som kreves etter habilitetsreglene i kommuneloven § 40 nr. 3 bokstav c.  
+Kommunen ble bedt om å gjennomgå sine rutiner og praksis, og å behandle den konkrete saken på nytt.
 
 Se oppdatering fra forvaltningen
 

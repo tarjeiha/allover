@@ -15,14 +15,10 @@ Sivilombudets uttalelse 11.10.2021 (sak 2020/3898).
 ## Oppsummering
 
 Sivilombudet tok på generelt grunnlag opp med Politidirektoratet namsmennenes saksbehandlingstid i saker om utlegg og gjeldsordning. Bakgrunnen var at ombudet de siste to til tre årene hadde mottatt flere klager fra enkeltpersoner over lang, til dels svært lang, behandlingstid hos flere av namsmennene i disse sakene.  
-   
- Politidirektoratet ble bedt om å gi en redegjørelse for og vurdering av reststansesituasjonen, og det ble spurt om hva direktoratet mener er årsaken til restansene og om det er ulikheter mellom distriktene. Det ble også stilt spørsmål om iverksatte og eventuelle planlagte tiltak for å bedre restansesituasjonen.   
-   
- Direktoratet svarte at årsaken til lang saksbehandlingstid skyldes en stor økning av antall saker, og at namsmannens oppgaver må prioriteres og løses sammen med politiets øvrige oppgaver. Politidirektoratet opplyste at det var ulikheter mellom politidistriktene. Det ble gitt en redegjørelse for ulike tiltak.  
-   
- Sivilombudet mener at det følger av tvangsfullbyrdelsesloven og gjeldsordningslovens formål og intensjoner at saker om utlegg og gjeldsordning skal søkes behandlet raskt og uten ugrunnet opphold. Det er til dels store variasjoner mellom politidistriktene i begge typer saker.  
-   
- Sivilombudet finner at behandlingstiden i saker om utlegg og gjeldsordning til dels fremstår som uholdbar lang, og vil fortsette å følge utviklingen i saksbehandlingstiden hos namsmennene. Ombudet ber om en oppdatering fra Politidirektoratet om utviklingen, innen 1. april 2022.
+Politidirektoratet ble bedt om å gi en redegjørelse for og vurdering av reststansesituasjonen, og det ble spurt om hva direktoratet mener er årsaken til restansene og om det er ulikheter mellom distriktene. Det ble også stilt spørsmål om iverksatte og eventuelle planlagte tiltak for å bedre restansesituasjonen.  
+Direktoratet svarte at årsaken til lang saksbehandlingstid skyldes en stor økning av antall saker, og at namsmannens oppgaver må prioriteres og løses sammen med politiets øvrige oppgaver. Politidirektoratet opplyste at det var ulikheter mellom politidistriktene. Det ble gitt en redegjørelse for ulike tiltak.  
+Sivilombudet mener at det følger av tvangsfullbyrdelsesloven og gjeldsordningslovens formål og intensjoner at saker om utlegg og gjeldsordning skal søkes behandlet raskt og uten ugrunnet opphold. Det er til dels store variasjoner mellom politidistriktene i begge typer saker.  
+Sivilombudet finner at behandlingstiden i saker om utlegg og gjeldsordning til dels fremstår som uholdbar lang, og vil fortsette å følge utviklingen i saksbehandlingstiden hos namsmennene. Ombudet ber om en oppdatering fra Politidirektoratet om utviklingen, innen 1. april 2022.
 
 Se oppdatering fra forvaltningen
 

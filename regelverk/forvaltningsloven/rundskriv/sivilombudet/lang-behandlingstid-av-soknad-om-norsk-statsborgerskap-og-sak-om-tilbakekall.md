@@ -15,13 +15,10 @@ Sivilombudets uttalelse 14.12.2022 (sak 2022/3856).
 
 ## Oppsummering
 
-Saken gjelder behandlingstiden av en søknad om norsk statsborgerskap og sak om tilbakekall av permanent oppholdstillatelse. Klageren søkte om norsk statsborgerskap i august 2015. Utlendingsdirektoratet (UDI) fattet mistanke om at det kunne være grunnlag for tilbakekall av hans permanente oppholdstillatelse i mars 2016. Forhåndsvarsel om tilbakekall ble sendt i august 2022. Statsborgerskapssaken er – godt over syv år senere – fremdeles ikke avgjort.   
-   
- Sivilombudet er kommet til at en samlet behandlingstid på over syv år i denne saken er i strid med forvaltningsloven § 11 a første ledd om at en sak skal forberedes og avgjøres uten ugrunnet opphold.   
-   
- UDI har heller ikke overholdt forvaltningslovens krav etter § 11 a andre og tredje ledd, samt god forvaltningsskikk, om å holde klageren orientert om saksfremdriften underveis.   
-   
- Verken statsborgerskapssaken eller tilbakekallssaken er per dags dato avgjort. Direktoratet må nå fatte vedtak i sakene.
+Saken gjelder behandlingstiden av en søknad om norsk statsborgerskap og sak om tilbakekall av permanent oppholdstillatelse. Klageren søkte om norsk statsborgerskap i august 2015. Utlendingsdirektoratet (UDI) fattet mistanke om at det kunne være grunnlag for tilbakekall av hans permanente oppholdstillatelse i mars 2016. Forhåndsvarsel om tilbakekall ble sendt i august 2022. Statsborgerskapssaken er – godt over syv år senere – fremdeles ikke avgjort.  
+Sivilombudet er kommet til at en samlet behandlingstid på over syv år i denne saken er i strid med forvaltningsloven § 11 a første ledd om at en sak skal forberedes og avgjøres uten ugrunnet opphold.  
+UDI har heller ikke overholdt forvaltningslovens krav etter § 11 a andre og tredje ledd, samt god forvaltningsskikk, om å holde klageren orientert om saksfremdriften underveis.  
+Verken statsborgerskapssaken eller tilbakekallssaken er per dags dato avgjort. Direktoratet må nå fatte vedtak i sakene.
 
 ## Sakens bakgrunn
 

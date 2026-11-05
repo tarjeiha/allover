@@ -15,14 +15,11 @@ Sivilombudets uttalelse 30.11.2023 (sak 2023/2215).
 
 ## Oppsummering
 
-Saken gjelder Forsvarets arbeidsrettslige håndtering av en ansatt etter varsling. Klager ble varslet på i mars 2019 etter at han hadde begått en straffbar handling i 2018. Han ble dømt for lovbruddene i mai 2020.   
- Arbeidsgiver ga ham en muntlig advarsel i juni 2021 og informerte ham om andre karrieremessige konsekvenser. Fram til dette hadde han periodevis vært omplassert og permittert som følge av varselet. Klager fikk beskjed om at saken med dette var avsluttet.   
-   
- Våren 2022 rettet media søkelyset på flere varslingssaker i Forsvaret, inkludert klagers sak. Dette førte til at Forsvaret gjennomgikk klagers sak på nytt. Klager ble i mai 2022 suspendert mens Forsvaret undersøkte om det var grunnlag for avskjed. Forsvaret kom til at vilkårene for avskjed ikke var oppfylt og klager fikk komme tilbake på jobb. I et møte med klager i juni 2022 informerte Forsvaret om at de hadde besluttet å gi en skriftlig advarsel. Klager fikk den skriftlige advarselen i august 2022.   
-   
- Varslingssaken måtte anses avsluttet med den muntlige advarselen og de øvrige konsekvensene som ble meddelt i juni 2021. Det kunne ikke gis en ny skriftlig advarsel for det samme forholdet over ett år senere. Det forelå heller ikke rettslig grunnlag for å pålegge klager tjenestefri med lønn i mai 2022. Forsvaret opptrådte her i strid med statsansatteloven §§ 29 og 30.   
-   
- Forsvaret utarbeidet heller ikke en sluttrapport med konklusjon og tiltak i tråd med retningslinjene for varsling i forsvarssektoren pkt. 5.9. Forsvaret bes merke seg Sivilombudets kritikk og legge det til grunn i sin videre oppfølging av varslingssaker. Sivilombudet ber om å bli underrettet om hvordan Forsvaret i sin personalbehandling har tatt hensyn til Sivilombudets konklusjoner.
+Saken gjelder Forsvarets arbeidsrettslige håndtering av en ansatt etter varsling. Klager ble varslet på i mars 2019 etter at han hadde begått en straffbar handling i 2018. Han ble dømt for lovbruddene i mai 2020.  
+Arbeidsgiver ga ham en muntlig advarsel i juni 2021 og informerte ham om andre karrieremessige konsekvenser. Fram til dette hadde han periodevis vært omplassert og permittert som følge av varselet. Klager fikk beskjed om at saken med dette var avsluttet.  
+Våren 2022 rettet media søkelyset på flere varslingssaker i Forsvaret, inkludert klagers sak. Dette førte til at Forsvaret gjennomgikk klagers sak på nytt. Klager ble i mai 2022 suspendert mens Forsvaret undersøkte om det var grunnlag for avskjed. Forsvaret kom til at vilkårene for avskjed ikke var oppfylt og klager fikk komme tilbake på jobb. I et møte med klager i juni 2022 informerte Forsvaret om at de hadde besluttet å gi en skriftlig advarsel. Klager fikk den skriftlige advarselen i august 2022.  
+Varslingssaken måtte anses avsluttet med den muntlige advarselen og de øvrige konsekvensene som ble meddelt i juni 2021. Det kunne ikke gis en ny skriftlig advarsel for det samme forholdet over ett år senere. Det forelå heller ikke rettslig grunnlag for å pålegge klager tjenestefri med lønn i mai 2022. Forsvaret opptrådte her i strid med statsansatteloven §§ 29 og 30.  
+Forsvaret utarbeidet heller ikke en sluttrapport med konklusjon og tiltak i tråd med retningslinjene for varsling i forsvarssektoren pkt. 5.9. Forsvaret bes merke seg Sivilombudets kritikk og legge det til grunn i sin videre oppfølging av varslingssaker. Sivilombudet ber om å bli underrettet om hvordan Forsvaret i sin personalbehandling har tatt hensyn til Sivilombudets konklusjoner.
 
 Se oppdatering fra forvaltningen
 

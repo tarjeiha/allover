@@ -15,12 +15,9 @@ Sivilombudets uttalelse 21.6.2025 (sak 2024/5454).
 ## Oppsummering
 
 Sivilombudet har funnet grunn til å kritisere fylkesklagenemnda i Akershus sin behandling av en klage over en skriftlig advarsel til en lærer. Advarselen ble blant annet gitt som reaksjon på en lærers bruk av flagg i undervisningen for å gi uttrykk for egne politiske synspunkter. Nemnda opprettholdt advarselen og viste til begrunnelsen gitt i innstillingen til nemnda.  
-   
- Sivilombudet påpekte at utgangspunktet er at lærere har adgang til å komme med politiske ytringer. Måten de politiske synspunkter kommer til uttrykk på, må ivareta lærerens ansvar for å sikre et godt ytringsklima for elevene og i skolesituasjonen.   
-   
- Sivilombudet mener det var feil at nemnda ikke tok stilling til klagers anførsler. Klager ble heller ikke gitt god nok mulighet å komme med merknader til saksfremstillingen.   
-   
- Det fremgår ikke av vedtaket at nemnda har tatt riktig utgangspunkt for vurderingen når det ikke er gjort klart at lærere i utgangspunktet har ytringsfrihet.
+Sivilombudet påpekte at utgangspunktet er at lærere har adgang til å komme med politiske ytringer. Måten de politiske synspunkter kommer til uttrykk på, må ivareta lærerens ansvar for å sikre et godt ytringsklima for elevene og i skolesituasjonen.  
+Sivilombudet mener det var feil at nemnda ikke tok stilling til klagers anførsler. Klager ble heller ikke gitt god nok mulighet å komme med merknader til saksfremstillingen.  
+Det fremgår ikke av vedtaket at nemnda har tatt riktig utgangspunkt for vurderingen når det ikke er gjort klart at lærere i utgangspunktet har ytringsfrihet.
 
 Se oppdatering fra forvaltningen
 

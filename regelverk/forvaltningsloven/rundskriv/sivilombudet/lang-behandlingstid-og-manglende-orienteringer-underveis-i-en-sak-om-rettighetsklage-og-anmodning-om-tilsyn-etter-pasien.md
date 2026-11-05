@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.4.2023 (sak 2023/385).
 ## Oppsummering
 
 Saken gjelder Statsforvalterens behandlingstid og oppfølging av en klage over manglende oppfyllelse av pasient- og brukerrettighetsloven § 2-1 a andre ledd og en tilsynsanmodning etter pasient- og brukerrettighetsloven § 7-4.  
-   
- Sivilombudet er kommet til at en behandlingstid på nærmere to år i rettighetsklagesaken og godt over et år i tilsynssaken er i strid med forvaltningsloven § 11 a første ledd om at en sak skal forberedes og avgjøres uten ugrunnet opphold.   
-   
- Statsforvalteren har ikke gitt foreløpig svar i tilsynssaken og rettighetsklagesaken i tråd med forvaltningsloven § 11 a, henholdsvis andre og tredje ledd. Statsforvalteren har heller ikke holdt klagerens fullmektig orientert om saksgangen underveis i tråd med kravene til god forvaltningsskikk.
+Sivilombudet er kommet til at en behandlingstid på nærmere to år i rettighetsklagesaken og godt over et år i tilsynssaken er i strid med forvaltningsloven § 11 a første ledd om at en sak skal forberedes og avgjøres uten ugrunnet opphold.  
+Statsforvalteren har ikke gitt foreløpig svar i tilsynssaken og rettighetsklagesaken i tråd med forvaltningsloven § 11 a, henholdsvis andre og tredje ledd. Statsforvalteren har heller ikke holdt klagerens fullmektig orientert om saksgangen underveis i tråd med kravene til god forvaltningsskikk.
 
 ## Sakens bakgrunn
 

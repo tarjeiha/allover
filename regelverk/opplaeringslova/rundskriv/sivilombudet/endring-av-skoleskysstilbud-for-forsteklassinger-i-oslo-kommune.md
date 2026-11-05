@@ -15,13 +15,10 @@ Sivilombudets uttalelse 27.6.2022 (sak 2022/1113).
 
 ## Oppsummering
 
-Oslo kommune endret skysstilbudet i skoleåret 2021/2022 for barna som er bosatt på Solemskogen i Oslo kommune og går på barneskole. Barna fikk innvilget reisekort med Ruter slik at de kunne ta rutebussen fra et busstopp i nærheten av hjemmene sine, og etter avstigning fra rutebussen gå en distanse på ca. 1,2 kilometer til skolen. Tidligere ble barna fraktet i buss mellom Solemskogen og skolen. Endringen var begrunnet med at rutebussen som gikk til og fra Solemskogen, hadde fått hyppigere avgang i rushtiden.   
-   
- Førsteklassingene i saken har krav på gratis skoleskyss fordi de bor lengre enn to kilometer fra skolen. Ved klagebehandlingen skulle Statsforvalteren etter opplæringslova ta stilling til om skoleveien, med det innvilgede skysstilbudet, var særlig farlig eller vanskelig, og om skysstilbudet var forsvarlig.   
-   
- Sivilombudet er kommet til at saken ikke var godt nok opplyst for førsteklassingene, og at deres rett til å bli hørt ikke var tilstrekkelig ivaretatt. Videre mener ombudet at det ikke er gjort en bred nok vurdering av om skysstilbudet med rutebussen var forsvarlig, og at vurderingen av akseptabel reisetid er basert på feil faktisk grunnlag. Drøftelsen av om strekningen barna må gå kan anses som rimelig, er også noe mangelfull fordi det er tatt utgangspunkt i at barna skal kunne gå to kilometer til skolen.  
-   
- Ombudet ber Statsforvalteren behandle fremtidige saker om skoleskyss i lys av de merknadene som kommer frem i uttalelsen.
+Oslo kommune endret skysstilbudet i skoleåret 2021/2022 for barna som er bosatt på Solemskogen i Oslo kommune og går på barneskole. Barna fikk innvilget reisekort med Ruter slik at de kunne ta rutebussen fra et busstopp i nærheten av hjemmene sine, og etter avstigning fra rutebussen gå en distanse på ca. 1,2 kilometer til skolen. Tidligere ble barna fraktet i buss mellom Solemskogen og skolen. Endringen var begrunnet med at rutebussen som gikk til og fra Solemskogen, hadde fått hyppigere avgang i rushtiden.  
+Førsteklassingene i saken har krav på gratis skoleskyss fordi de bor lengre enn to kilometer fra skolen. Ved klagebehandlingen skulle Statsforvalteren etter opplæringslova ta stilling til om skoleveien, med det innvilgede skysstilbudet, var særlig farlig eller vanskelig, og om skysstilbudet var forsvarlig.  
+Sivilombudet er kommet til at saken ikke var godt nok opplyst for førsteklassingene, og at deres rett til å bli hørt ikke var tilstrekkelig ivaretatt. Videre mener ombudet at det ikke er gjort en bred nok vurdering av om skysstilbudet med rutebussen var forsvarlig, og at vurderingen av akseptabel reisetid er basert på feil faktisk grunnlag. Drøftelsen av om strekningen barna må gå kan anses som rimelig, er også noe mangelfull fordi det er tatt utgangspunkt i at barna skal kunne gå to kilometer til skolen.  
+Ombudet ber Statsforvalteren behandle fremtidige saker om skoleskyss i lys av de merknadene som kommer frem i uttalelsen.
 
 ## Sakens bakgrunn
 

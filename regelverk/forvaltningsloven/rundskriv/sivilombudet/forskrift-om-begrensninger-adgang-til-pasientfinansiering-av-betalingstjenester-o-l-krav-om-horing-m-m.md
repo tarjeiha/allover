@@ -16,12 +16,9 @@ Sivilombudets uttalelse 10.5.2017 (sak 2015/3538).
 ## Oppsummering
 
 Saken gjelder Helse- og omsorgsdepartementets saksbehandling knyttet til endringsforskrift 4. desember 2015 nr. 1391. Endringsforskriften medførte at forskrift 26. juni 2015 nr. 796 fikk en ny § 2 nr. 6 som innebar at leger fikk forbud mot «selv å kreve, eller inngå avtaler som innebærer, pasientfinansiering av administrative systemer som betalingstjenester, timebestillingssystemer og lignende». Endringsforskriften ble vedtatt etter at den var blitt tatt opp med KS og Legeforeningen i det årlige takstforhandlingsmøtet knyttet til fastlegeordningen. Utover dette var det ingen høringsbehandling.  
-   
- Departementets saksforberedelse er ikke i tråd med de kravene som følger av forvaltningsloven § 37. I henhold til forvaltningsloven § 37 andre ledd pliktet departementet å sørge for at alle organisasjoner mv. som representerer interesser som særlig ble berørt av forskriften, ble varslet og gitt mulighet til å uttale seg før vedtak ble fattet.  
-   
- Slik saken er opplyst, er det ikke grunnlag for å rette kritikk mot departementets saksutredning for øvrig.  
-   
- Forskrift 26. juni 2015 nr. 796 § 2 nr. 6 er blitt erstattet med en likelydende bestemmelse i forskrift 27. juni 2016 nr. 819. Det ble ikke gjennomført noen høringsbehandling i forbindelse med denne forskriften heller. De saksbehandlingsfeilene som ble begått i forbindelse med endringen av 2015-forskriften, kan dermed ikke anses avhjulpet i etterkant. Departementet bes på denne bakgrunn om å se på saken på nytt og vurdere hvilke tiltak som bør iverksettes som følge av disse saksbehandlingsfeilene. Videre forutsettes det at departementet i fremtidige forskriftsaker sørger for at saksforberedelsen innrettes i tråd med de kravene til høringsbehandling som følger av forvaltningsloven § 37.
+Departementets saksforberedelse er ikke i tråd med de kravene som følger av forvaltningsloven § 37. I henhold til forvaltningsloven § 37 andre ledd pliktet departementet å sørge for at alle organisasjoner mv. som representerer interesser som særlig ble berørt av forskriften, ble varslet og gitt mulighet til å uttale seg før vedtak ble fattet.  
+Slik saken er opplyst, er det ikke grunnlag for å rette kritikk mot departementets saksutredning for øvrig.  
+Forskrift 26. juni 2015 nr. 796 § 2 nr. 6 er blitt erstattet med en likelydende bestemmelse i forskrift 27. juni 2016 nr. 819. Det ble ikke gjennomført noen høringsbehandling i forbindelse med denne forskriften heller. De saksbehandlingsfeilene som ble begått i forbindelse med endringen av 2015-forskriften, kan dermed ikke anses avhjulpet i etterkant. Departementet bes på denne bakgrunn om å se på saken på nytt og vurdere hvilke tiltak som bør iverksettes som følge av disse saksbehandlingsfeilene. Videre forutsettes det at departementet i fremtidige forskriftsaker sørger for at saksforberedelsen innrettes i tråd med de kravene til høringsbehandling som følger av forvaltningsloven § 37.
 
 Se oppdatering fra forvaltningen
 

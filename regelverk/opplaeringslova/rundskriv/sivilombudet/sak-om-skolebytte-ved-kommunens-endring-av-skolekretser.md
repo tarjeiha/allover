@@ -15,17 +15,12 @@ Sivilombudets uttalelse 12.9.2025 (sak 2025/5179).
 
 ## Oppsummering
 
-Saken gjelder avslag på en søknad om skolebytte for en ti år gammel gutt.   
-   
- Da gutten skulle begynne på 5. trinn hadde kommunen endret sine skolekretser. Etter endringen fikk gutten tildelt skoleplass ved en ny skole. Han mistet derfor sin plass ved den skolen han hadde gått på siden 1. trinn.   
-   
- Endringen gjaldt ingen andre gutter i klassen. Gutten fikk derfor ikke med seg noen kamerater over til den nye skolen. Han hadde heller ingen andre kamerater der. Guttens nærmiljø var området rundt den gamle skolen, som lå nærmere hjemmet hans. Situasjonen medførte en stor følelsesmessig belastning for gutten.  
-   
- Kommunen og Statsforvalteren avslo foreldrenes søknad om skolebytte (tilbake til den gamle skolen). Årsaken var kapasitetsutfordringer. Kommunen ønsket å holde av plasser til eventuelle nye elever som flyttet inn i skolekretsen. Statsforvalteren mente at det var til barnets beste å få lov til å fortsette ved den tidligere skolen. De la imidlertid avgjørende vekt på kommunens beslutning om å holde av skoleplasser.   
-   
- Sivilombudet kom til at belastningen for barnet ved å fratas sin skoleplass var så betydelig at hensynet til barnets beste veide tyngre enn kommunens ønske om å holde av skoleplasser. Søknaden om skolebytte skulle derfor vært innvilget. Statsforvalteren ble bedt om å vurdere saken på nytt i lys av sivilombudets syn.   
-   
- Sivilombudet mente også at saksbehandlingstiden hos Statsforvalteren var for lang. Klagesaken skulle vært avgjort i god tid før oppstart av det aktuelle skoleåret.
+Saken gjelder avslag på en søknad om skolebytte for en ti år gammel gutt.  
+Da gutten skulle begynne på 5. trinn hadde kommunen endret sine skolekretser. Etter endringen fikk gutten tildelt skoleplass ved en ny skole. Han mistet derfor sin plass ved den skolen han hadde gått på siden 1. trinn.  
+Endringen gjaldt ingen andre gutter i klassen. Gutten fikk derfor ikke med seg noen kamerater over til den nye skolen. Han hadde heller ingen andre kamerater der. Guttens nærmiljø var området rundt den gamle skolen, som lå nærmere hjemmet hans. Situasjonen medførte en stor følelsesmessig belastning for gutten.  
+Kommunen og Statsforvalteren avslo foreldrenes søknad om skolebytte (tilbake til den gamle skolen). Årsaken var kapasitetsutfordringer. Kommunen ønsket å holde av plasser til eventuelle nye elever som flyttet inn i skolekretsen. Statsforvalteren mente at det var til barnets beste å få lov til å fortsette ved den tidligere skolen. De la imidlertid avgjørende vekt på kommunens beslutning om å holde av skoleplasser.  
+Sivilombudet kom til at belastningen for barnet ved å fratas sin skoleplass var så betydelig at hensynet til barnets beste veide tyngre enn kommunens ønske om å holde av skoleplasser. Søknaden om skolebytte skulle derfor vært innvilget. Statsforvalteren ble bedt om å vurdere saken på nytt i lys av sivilombudets syn.  
+Sivilombudet mente også at saksbehandlingstiden hos Statsforvalteren var for lang. Klagesaken skulle vært avgjort i god tid før oppstart av det aktuelle skoleåret.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 21.12.2020 (sak 2020/2031).
 ## Oppsummering
 
 Saken gjelder innsyn etter offentleglova i et referat fra møte i Beredskapsutvalget mot biologiske hendelser. I sin endelige avgjørelse i saken unntok Helse- og omsorgsdepartementet dokumentet fra innsyn med hjemmel i offentleglova § 14 første ledd om organinterne dokumenter. Det ble ikke funnet grunn til å gi merinnsyn.  
-   
- Ombudsmannen har kommet til at Beredskapsutvalget er et eget organ, men slik at utvalgets rådgivere ikke er del av organet. Når referatet er sendt fra utvalget til rådgiverne og i tillegg til Helse- og omsorgsdepartementet og Justisdepartementet, har det mistet sin organinterne karakter, og kan ikke unntas etter § 14 første ledd. Ettersom referatet er sendt til Helse- og omsorgsdepartementet og Justisdepartementet, mener ombudsmannen at det heller ikke er grunnlag for å unnta det etter § 15 tredje ledd, som departementet har anført som et alternativt grunnlag. Ombudsmannen ber Helse- og omsorgsdepartementet om å foreta en ny vurdering av saken.
+Ombudsmannen har kommet til at Beredskapsutvalget er et eget organ, men slik at utvalgets rådgivere ikke er del av organet. Når referatet er sendt fra utvalget til rådgiverne og i tillegg til Helse- og omsorgsdepartementet og Justisdepartementet, har det mistet sin organinterne karakter, og kan ikke unntas etter § 14 første ledd. Ettersom referatet er sendt til Helse- og omsorgsdepartementet og Justisdepartementet, mener ombudsmannen at det heller ikke er grunnlag for å unnta det etter § 15 tredje ledd, som departementet har anført som et alternativt grunnlag. Ombudsmannen ber Helse- og omsorgsdepartementet om å foreta en ny vurdering av saken.
 
 Se oppdatering fra forvaltningen
 

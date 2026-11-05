@@ -14,11 +14,9 @@ Sivilombudets uttalelse 3.7.2018 (sak 2017/949).
 
 ## Oppsummering
 
-For å kontakte Pasientreiser på telefon måtte publikum ringe det femsifrede nummeret 05515. Det var relativt dyrt å bruke. Pasientreiser ga ikke rutinemessig ut telefonnummer til de enkelte pasientreisekontorene. Hvilket kontor som var riktig å henvende seg til, var avhengig av hvor den reisende befant seg.   
-   
- Etter å ha fått en redegjørelse fra Pasientreiser la ombudsmannen til grunn at ordningen med at samtlige pasientreisekontorers veiledningstjeneste hadde ett felles femsifret nummer, var hensiktsmessig for mange innringere. For innringere med stort veiledningsbehov syntes imidlertid kostnadene ved å ringe 05515 fort å kunne bli store, særlig for dem uten lett tilgang til fasttelefon eller bredbåndstelefon. Ombudsmannen konkluderte med at Pasientreisers strenge praktisering av at telefonhenvendelser skal skje ved å ringe 05515, var i strid med pasientkontorenes veiledningsplikt overfor brukerne med det største kontaktbehovet, og også i strid med god forvaltningsskikk.  
-   
- Ombudsmannen ba derfor Pasientreiser vurdere å gjøre telefonordningen mer fleksibel for de som hadde behov for å ringe pasientkontorene ofte, og som ordningen derfor ble dyr for.
+For å kontakte Pasientreiser på telefon måtte publikum ringe det femsifrede nummeret 05515. Det var relativt dyrt å bruke. Pasientreiser ga ikke rutinemessig ut telefonnummer til de enkelte pasientreisekontorene. Hvilket kontor som var riktig å henvende seg til, var avhengig av hvor den reisende befant seg.  
+Etter å ha fått en redegjørelse fra Pasientreiser la ombudsmannen til grunn at ordningen med at samtlige pasientreisekontorers veiledningstjeneste hadde ett felles femsifret nummer, var hensiktsmessig for mange innringere. For innringere med stort veiledningsbehov syntes imidlertid kostnadene ved å ringe 05515 fort å kunne bli store, særlig for dem uten lett tilgang til fasttelefon eller bredbåndstelefon. Ombudsmannen konkluderte med at Pasientreisers strenge praktisering av at telefonhenvendelser skal skje ved å ringe 05515, var i strid med pasientkontorenes veiledningsplikt overfor brukerne med det største kontaktbehovet, og også i strid med god forvaltningsskikk.  
+Ombudsmannen ba derfor Pasientreiser vurdere å gjøre telefonordningen mer fleksibel for de som hadde behov for å ringe pasientkontorene ofte, og som ordningen derfor ble dyr for.
 
 ## Sakens bakgrunn
 

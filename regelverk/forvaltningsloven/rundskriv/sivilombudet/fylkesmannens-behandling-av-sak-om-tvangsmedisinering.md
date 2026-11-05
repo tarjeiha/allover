@@ -15,14 +15,10 @@ Sivilombudets uttalelse 28.2.2018 (sak 2017/708).
 ## Oppsummering
 
 Saken reiser flere problemstillinger knyttet til Fylkesmannens behandling av en sak om behandling med legemidler uten eget samtykke, jf. psykisk helsevernloven § 4-4.  
-   
- Fylkesmannen oppgir ikke i vedtaket hvilke lovregler som regulerer adgangen til tvangsmedisinering, og angir uriktig rettslig vurderingstema når tvangsmedisineringen tilsynelatende begrunnes med at pasienten «mest sannsynlig profiterer på stabil medisinering». Dette gjør det uklart om saken er behandlet ut fra en korrekt forståelse av vilkårene for tvangsmedisinering i lovens § 4-4 fjerde ledd.  
-   
- Vedtaket inneholder ikke noen opplysninger om Fylkesmannens vurdering av mulige bivirkninger, jf. phvl. § 4-4 annet ledd bokstav a), og om hvorfor det er gjort unntak fra kravet om 3 dagers undersøkelsestid før vedtak om tvangsmedisinering.  
-   
- Når Fylkesmannens vedtak kun nevner ett av flere medikamenter omfattet av sykehusets vedtak, kan vedtaket ikke uten videre anses å omfatte alle disse medikamentene. Det er derfor uklart hvilke medikamenter som omfattes av Fylkesmannens vedtak.  
-   
- Fylkesmannens begrunnelse er mangelfull på flere punkter, og oppfyller ikke kravene i forvaltningsloven §§ 24 og 25 jf. § 33. Manglene ved begrunnelsen gjør det usikkert om Fylkesmannen har vurdert alle vilkårene for tvangsmedisinering og om disse er forstått riktig
+Fylkesmannen oppgir ikke i vedtaket hvilke lovregler som regulerer adgangen til tvangsmedisinering, og angir uriktig rettslig vurderingstema når tvangsmedisineringen tilsynelatende begrunnes med at pasienten «mest sannsynlig profiterer på stabil medisinering». Dette gjør det uklart om saken er behandlet ut fra en korrekt forståelse av vilkårene for tvangsmedisinering i lovens § 4-4 fjerde ledd.  
+Vedtaket inneholder ikke noen opplysninger om Fylkesmannens vurdering av mulige bivirkninger, jf. phvl. § 4-4 annet ledd bokstav a), og om hvorfor det er gjort unntak fra kravet om 3 dagers undersøkelsestid før vedtak om tvangsmedisinering.  
+Når Fylkesmannens vedtak kun nevner ett av flere medikamenter omfattet av sykehusets vedtak, kan vedtaket ikke uten videre anses å omfatte alle disse medikamentene. Det er derfor uklart hvilke medikamenter som omfattes av Fylkesmannens vedtak.  
+Fylkesmannens begrunnelse er mangelfull på flere punkter, og oppfyller ikke kravene i forvaltningsloven §§ 24 og 25 jf. § 33. Manglene ved begrunnelsen gjør det usikkert om Fylkesmannen har vurdert alle vilkårene for tvangsmedisinering og om disse er forstått riktig
 
 ## Sakens bakgrunn
 
@@ -35,10 +31,10 @@ A, heretter klageren, var innlagt ved Nordlandssykehuset fra 20. juli til 8. aug
 Vedtaket ble påklaget 31. januar 2017 og opprettholdt av Fylkesmannen i Nordland 2. februar 2017. Ut over en redegjørelse for sykehusets vurderinger og en samtale med klageren begrunnes Fylkesmannens vedtak slik:
 
 «Du har tatt medisin frivillig i helgen og det er tydelig at den har ført til en bedring i din psykiske helse.  
- Klagen har ikke oppsettende virkning og du er orientert om at du ikke får medhold i klagen.
+Klagen har ikke oppsettende virkning og du er orientert om at du ikke får medhold i klagen.
 
 På bakgrunn av foreliggende opplysninger finner Fylkesmannen det som mest sannsynlig at du profiterer på stabil medisinering.  
- Fylkesmannen finner med dette grunnlag for at vedtaket om behandling er tilstede.»
+Fylkesmannen finner med dette grunnlag for at vedtaket om behandling er tilstede.»
 
 ## Undersøkelsene herfra
 
@@ -125,7 +121,7 @@ Etter psykisk helsevernloven (phvl) § 4-4 fjerde ledd annet punktum kan behandl
 I Fylkesmannens vedtak om tvangsmedisinering redegjøres det for det påklagede vedtaket fra Nordlandssykehuset og for Fylkesmannens samtale med klageren av samme dato som vedtaket. Det opplyses, tilsynelatende ut fra observasjoner gjort i samtalen, at det er tydelig at medisin tatt frivillig i helgen har ført til en bedring den psykiske helsen. Vedtaket redegjør deretter for Fylkesmannens vurdering saken på følgende måte:
 
 «På bakgrunn av foreliggende opplysninger finner Fylkesmannen det som mest sannsynlig at du profiterer på stabil medisinering.  
- Fylkesmannen finner med dette grunnlag for at vedtaket om behandling er tilstede.»
+Fylkesmannen finner med dette grunnlag for at vedtaket om behandling er tilstede.»
 
 Fylkesmannen mente med dette at vilkårene for tvangsmedisinering var tilstede. Slik Fylkesmannens vurdering er formulert, gir den imidlertid ikke grunnlag for en slik konklusjon. At klager «mest sannsynlig profiterer på stabil medisinering» innebærer ikke nødvendigvis at den vedtatte medisineringen «med stor sannsynlighet kan føre til helbredelse eller en vesentlig bedring av pasientens tilstand», jf. phvl. § 4-4 fjerde ledd annet punktum.
 
@@ -202,7 +198,7 @@ Ombudsmannens kontroll er lite egnet til å avklare faktiske spørsmål, slik so
 Ombudsmannen spurte Fylkesmannen hva slags undersøkelser som var omfattet av formuleringen i sykehusets vedtak om at «undersøkelse vil bli gjennomført blant annet i form av blodprøve», og hva som var hjemmelen for å vedta å gjennomføre disse undersøkelsene med tvang.
 
 Som Fylkesmannen har redegjort for i sitt svar, kan psykisk helsevernloven gi grunnlag for at pasienten uten samtykke undergis både undersøkelser og behandling, jf. § 4-4 første ledd.  
- I Helsedirektoratets merknader til bestemmelsen i rundskriv IS-2012-9 er adgangen til å vedta undersøkelser under tvang blant annet beskrevet slik:
+I Helsedirektoratets merknader til bestemmelsen i rundskriv IS-2012-9 er adgangen til å vedta undersøkelser under tvang blant annet beskrevet slik:
 
 «I forbindelse med medikamentell behandling gir § 4-4 også hjemmel for prøvetaking som er nødvendig for medisinsk forsvarlig behandling (jf. § 4-4 første ledd og helsepersonelloven § 4), for eksempel blodprøvetaking.»
 

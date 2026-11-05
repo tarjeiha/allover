@@ -15,12 +15,9 @@ Sivilombudets uttalelse 17.9.2018 (sak 2018/2125).
 ## Oppsummering
 
 Saken gjelder Utlendingsdirektoratets (UDIs) behandling av en begjæring om partsinnsyn. UDI brukte over tre måneder på å behandle saken. Det ble ikke gitt foreløpig svar eller annen informasjon om saksfremdriften. Heller ikke etter at partens advokat sendte en skriftlig purring, kom det noen tilbakemelding fra UDI. Ifølge UDI skyldtes dette svikt i direktoratets rutiner. Først etter at saken ble brakt inn for ombudsmannen, ble innsynsbegjæringen behandlet. UDI brukte da 14 dager på å ferdigbehandle innsynsbegjæringen.  
-   
- Innsynssaken ble ikke behandlet uten «ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Innsynsbegjæringer skal behandles hurtig. Dette forutsetter at forvaltningen allerede på mottakstidspunktet går gjennom alle nye henvendelser og identifiserer innsynsbegjæringer blant disse. Det må videre forventes at forvaltningen er i stand til å identifisere og følge opp skriftlige purringer i slike saker.  
-   
- Det foreligger også brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk ved at parten ikke mottok foreløpig svar eller forsinkelsesmeldinger underveis.  
-   
- Ombudsmannen ber om at UDI innen 12. november 2018 gir en redegjørelse for hvilke tiltak som er eller vil bli iverksatt for å sikre at fremtidige begjæringer om partsinnsyn behandles på en tilfredsstillende måte.
+Innsynssaken ble ikke behandlet uten «ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Innsynsbegjæringer skal behandles hurtig. Dette forutsetter at forvaltningen allerede på mottakstidspunktet går gjennom alle nye henvendelser og identifiserer innsynsbegjæringer blant disse. Det må videre forventes at forvaltningen er i stand til å identifisere og følge opp skriftlige purringer i slike saker.  
+Det foreligger også brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk ved at parten ikke mottok foreløpig svar eller forsinkelsesmeldinger underveis.  
+Ombudsmannen ber om at UDI innen 12. november 2018 gir en redegjørelse for hvilke tiltak som er eller vil bli iverksatt for å sikre at fremtidige begjæringer om partsinnsyn behandles på en tilfredsstillende måte.
 
 Se oppdatering fra forvaltningen
 

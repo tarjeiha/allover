@@ -15,8 +15,7 @@ Sivilombudets uttalelse 27.10.2015 (sak 2013/2871).
 ## Oppsummering
 
 Saken gjelder Fylkesmannen i Rogalands opprettholdelse av Y kommunes avslag på en søknad om permisjon fra en eldre mannlig pasient, som var tvangsinnlagt ved en helse- og omsorgsinstitusjon i kommunen. Bakgrunnen for permisjonssøknaden var at pasienten ønsket å tilbringe tid utenfor institusjonen sammen med sin sønn.  
-   
- Den aktuelle avgjørelsen om å avslå permisjon, kan ikke anses som et enkeltvedtak. I samsvar med blant annet alminnelige prinsipper om god forvaltningsskikk må imidlertid også søknader om permisjon undergis en forsvarlig saksbehandling og vurdering. Hvis en søknad avslås, må det gis en begrunnelse for avslaget. I dette tilfellet har ikke kommunen i tilstrekkelig grad begrunnet sin avgjørelse, og dette er ikke rettet opp gjennom Fylkesmannens behandling. Manglene ved behandlingen av søknaden om permisjon gjør at det foreligger begrunnet tvil knyttet til resultatet i saken. Ombudsmannen ber derfor om at saken behandles på nytt.
+Den aktuelle avgjørelsen om å avslå permisjon, kan ikke anses som et enkeltvedtak. I samsvar med blant annet alminnelige prinsipper om god forvaltningsskikk må imidlertid også søknader om permisjon undergis en forsvarlig saksbehandling og vurdering. Hvis en søknad avslås, må det gis en begrunnelse for avslaget. I dette tilfellet har ikke kommunen i tilstrekkelig grad begrunnet sin avgjørelse, og dette er ikke rettet opp gjennom Fylkesmannens behandling. Manglene ved behandlingen av søknaden om permisjon gjør at det foreligger begrunnet tvil knyttet til resultatet i saken. Ombudsmannen ber derfor om at saken behandles på nytt.
 
 Se oppdatering fra forvaltningen
 

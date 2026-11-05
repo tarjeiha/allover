@@ -14,13 +14,10 @@ Sivilombudets uttalelse 30.9.2024 (sak 2024/1381, 2024/ 1817 og 2024/2588).
 
 ## Oppsummering
 
-Saken gjelder Utlendingsdirektoratets behandlingstid for tre asylsaker. Sakene ble avgjort to år og syv måneder etter at søknadene om asyl ble innlevert. Behandlingstiden i de tre sakene var først og fremst liggetid, som skyldtes kapasitetsutfordringer og interne prioriteringer.   
-   
- Sivilombudet kom til at klagernes saker ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a.   
-   
- UDI hadde heller ikke overholdt kravet etter forvaltningsloven § 11 a andre og tredje ledd, samt kravene til god forvaltningsskikk, om å holde klagerne orientert om fremdriften i saken underveis.   
-   
- UDIs fristoversittelser og utilstrekkelige svar på Sivilombudets henvendelser i forbindelse med undersøkelsen av sakene, var videre i strid med Stortingets forutsetning om at henvendelser fra Sivilombudet skal gis prioritet.
+Saken gjelder Utlendingsdirektoratets behandlingstid for tre asylsaker. Sakene ble avgjort to år og syv måneder etter at søknadene om asyl ble innlevert. Behandlingstiden i de tre sakene var først og fremst liggetid, som skyldtes kapasitetsutfordringer og interne prioriteringer.  
+Sivilombudet kom til at klagernes saker ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a.  
+UDI hadde heller ikke overholdt kravet etter forvaltningsloven § 11 a andre og tredje ledd, samt kravene til god forvaltningsskikk, om å holde klagerne orientert om fremdriften i saken underveis.  
+UDIs fristoversittelser og utilstrekkelige svar på Sivilombudets henvendelser i forbindelse med undersøkelsen av sakene, var videre i strid med Stortingets forutsetning om at henvendelser fra Sivilombudet skal gis prioritet.
 
 ## Sakens bakgrunn
 

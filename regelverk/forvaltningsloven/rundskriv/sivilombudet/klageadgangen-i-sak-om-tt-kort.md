@@ -15,10 +15,8 @@ Sivilombudets uttalelse 19.12.2012 (sak 2012/1871).
 ## Oppsummering
 
 Klageren, som er lett psykisk utviklingshemmet, ble godkjent av Oslo kommune som TT-bruker (tilrettelagt transport). Han ble tildelt det ordinære røde TT-kortet, og ikke det hvite, som tildeles brukere som behøver særskilt tilrettelegging. Han ble heller ikke gitt anledning til å påklage avgjørelsen om å få tildelt hvitt kort. Kommunens begrunnelse var at tildelingen av type kort ikke var å anse som et enkeltvedtak, men en organisatorisk avgjørelse.  
-   
- Ombudsmannen fant at ikke bare godkjenningen som TT-bruker, men også tildelingen av ulike kort, dreier seg om en form for rettighet, som må kunne påklages. Byråden ble gjort oppmerksom på mangelen ved praksis her, og mangler ved kommunens TT-forskrift, og Samferdselsdepartementet ble underrettet i et eget brev.   
-   
- Kommunen meldte tilbake at det skulle gis klageadgang på avgjørelser om særskilt tilrettelagt transport.
+Ombudsmannen fant at ikke bare godkjenningen som TT-bruker, men også tildelingen av ulike kort, dreier seg om en form for rettighet, som må kunne påklages. Byråden ble gjort oppmerksom på mangelen ved praksis her, og mangler ved kommunens TT-forskrift, og Samferdselsdepartementet ble underrettet i et eget brev.  
+Kommunen meldte tilbake at det skulle gis klageadgang på avgjørelser om særskilt tilrettelagt transport.
 
 Se oppdatering fra forvaltningen
 

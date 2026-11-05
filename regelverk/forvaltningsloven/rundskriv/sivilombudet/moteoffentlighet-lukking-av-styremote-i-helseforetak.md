@@ -15,8 +15,7 @@ Sivilombudets uttalelse 26.9.2022 (sak 2022/2637).
 ## Oppsummering
 
 Saken gjaldt lukkingen av deler av et styremøte i Helse Nord RHF. I forbindelse med at habiliteten til et av styremedlemmene skulle vurderes, vedtok styret at dørene til møtet skulle lukkes av personvernhensyn. Helseforetaket viste i etterkant til at det ved habilitetsvurderinger vil kunne være nødvendig å trekke inn sider ved medlemmets person mv., noe som tilsa at denne delen av møtet måtte lukkes av personvernhensyn.  
-   
- Ombudet kom til at det var begrunnet tvil om vilkårene for å lukke deler av møtet var oppfylt. Videre kom ombudet til at helseforetaket la til grunn en for lav terskel ved vurderingen av om det forelå et reelt og saklig behov for lukking, samt at det forelå en mangelfull redegjørelse for avveiingen av relevante hensyn som talte for og imot lukking av møtet.
+Ombudet kom til at det var begrunnet tvil om vilkårene for å lukke deler av møtet var oppfylt. Videre kom ombudet til at helseforetaket la til grunn en for lav terskel ved vurderingen av om det forelå et reelt og saklig behov for lukking, samt at det forelå en mangelfull redegjørelse for avveiingen av relevante hensyn som talte for og imot lukking av møtet.
 
 ## Sakens bakgrunn
 

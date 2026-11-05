@@ -15,12 +15,9 @@ Sivilombudets uttalelse 4.5.2020 (sak 2020/9).
 ## Oppsummering
 
 Saken gjelder Helseklages behandlingstid for klage over Norsk pasientskadeerstatnings avslag på pasientskadeerstatning. Helseklage mottok klagen i november 2017, og den er ennå ikke ferdigbehandlet. Det er opplyst at saken forventes ferdigbehandlet i løpet av juli 2020.  
-   
- Sakens behandlingstid på totalt 33 måneder hittil er utvilsomt altfor lang og i strid med kravet i forvaltningsloven § 11a. Behandlingstiden er lengre enn gjennomsnittlig, men ikke uvanlig for behandlingstidene i saker om ansvarsgrunnlag for pasientskader, og også de generelle behandlingstidene er derfor uakseptable.  
-   
- Helseklage har siden flyttingen av Pasientskadenemndas sekretariat til Bergen ble påbegynt for fire år siden hatt svært lange behandlingstider i pasientskadesaker. Behandlingstidene er uakseptable og har vært det over flere år. Situasjonen blir stadig mer kritikkverdig etter hvert som tiden går uten at de nærmer seg et nivå som overholder de lovbestemte kravene i forvaltningsloven. Ombudsmannen vil fortsette å følge med på behandlingstidene hos Helseklage.  
-   
- Uttalelsen er oversendt Helse- og omsorgsdepartementet, som bes vurdere mulige tiltak for å bøte på situasjonen.
+Sakens behandlingstid på totalt 33 måneder hittil er utvilsomt altfor lang og i strid med kravet i forvaltningsloven § 11a. Behandlingstiden er lengre enn gjennomsnittlig, men ikke uvanlig for behandlingstidene i saker om ansvarsgrunnlag for pasientskader, og også de generelle behandlingstidene er derfor uakseptable.  
+Helseklage har siden flyttingen av Pasientskadenemndas sekretariat til Bergen ble påbegynt for fire år siden hatt svært lange behandlingstider i pasientskadesaker. Behandlingstidene er uakseptable og har vært det over flere år. Situasjonen blir stadig mer kritikkverdig etter hvert som tiden går uten at de nærmer seg et nivå som overholder de lovbestemte kravene i forvaltningsloven. Ombudsmannen vil fortsette å følge med på behandlingstidene hos Helseklage.  
+Uttalelsen er oversendt Helse- og omsorgsdepartementet, som bes vurdere mulige tiltak for å bøte på situasjonen.
 
 Se oppdatering fra forvaltningen
 

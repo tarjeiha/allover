@@ -14,13 +14,10 @@ Sivilombudets uttalelse 12.5.2026 (sak 2025/8386).
 
 ## Oppsummering
 
-Saken gjelder en mors krav om å få avlastning for sin datter organisert som BPA. Kravet omfattet også BPA om natten. Spørsmålet var om Statsforvalteren i Vestland hadde oppfylt sin prøvings- og begrunnelsesplikt som klageinstans.   
-   
- Ombudet kom til at Statsforvalteren ikke hadde prøvd alle sider av saken, da den delen av kravet som gjaldt BPA om natten ikke var vurdert opp mot pasient- og brukerrettighetsloven § 2-1 d andre ledd, som er det aktuelle rettsgrunnlaget for denne delen av kravet. Statsforvalterens vedtak var med dette også mangelfullt begrunnet.  
-   
- Ombudet ba derfor Statsforvalteren om å behandle klagen på nytt. Ombudet bemerket at Statsforvalteren, dersom den nye klagebehandlingen konkluderte med at det ikke forelå rett til BPA om natten, uansett måtte ta stilling til om det totale helse- og omsorgstilbudet var forsvarlig.   
-   
- Dette gjaldt også når omsorgsstønad var en del av det totale tilbudet, jf. tidligere uttalelser fra ombudet om dette.
+Saken gjelder en mors krav om å få avlastning for sin datter organisert som BPA. Kravet omfattet også BPA om natten. Spørsmålet var om Statsforvalteren i Vestland hadde oppfylt sin prøvings- og begrunnelsesplikt som klageinstans.  
+Ombudet kom til at Statsforvalteren ikke hadde prøvd alle sider av saken, da den delen av kravet som gjaldt BPA om natten ikke var vurdert opp mot pasient- og brukerrettighetsloven § 2-1 d andre ledd, som er det aktuelle rettsgrunnlaget for denne delen av kravet. Statsforvalterens vedtak var med dette også mangelfullt begrunnet.  
+Ombudet ba derfor Statsforvalteren om å behandle klagen på nytt. Ombudet bemerket at Statsforvalteren, dersom den nye klagebehandlingen konkluderte med at det ikke forelå rett til BPA om natten, uansett måtte ta stilling til om det totale helse- og omsorgstilbudet var forsvarlig.  
+Dette gjaldt også når omsorgsstønad var en del av det totale tilbudet, jf. tidligere uttalelser fra ombudet om dette.
 
 Se oppdatering fra forvaltningen
 

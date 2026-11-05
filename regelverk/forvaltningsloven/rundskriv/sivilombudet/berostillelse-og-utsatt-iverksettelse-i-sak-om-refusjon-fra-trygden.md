@@ -16,8 +16,7 @@ Sivilombudets uttalelse 23.6.2026 (sak 2026/2079).
 ## Oppsummering
 
 Saken gjelder Nasjonalt klageorgan for helsetjenestens (Helseklages) avgjørelse om å berostille en sak om tap av retten til å praktisere for trygdens regning og avslag på klagerens anmodning om utsatt iverksettelse. Tapssaken er stilt i bero i påvente av at lagmannsretten skal behandle en sak om tilbakekreving av refusjoner som klageren mottok fra folketrygden. Klageren fikk medhold i tingretten i at en større del av tilbakebetalingsvedtaket var ugyldig.  
-   
- Sivilombudet har kommet til at Helseklages begrunnelser for avgjørelsene om berostillelse og utsatt iverksettelse ikke er tilstrekkelige. Ombudet ber Helseklage om å vurdere utsatt iverksettelse på nytt og ta stilling til om vurderingen av berostillelsesspørsmålet er tilstrekkelig konkret.
+Sivilombudet har kommet til at Helseklages begrunnelser for avgjørelsene om berostillelse og utsatt iverksettelse ikke er tilstrekkelige. Ombudet ber Helseklage om å vurdere utsatt iverksettelse på nytt og ta stilling til om vurderingen av berostillelsesspørsmålet er tilstrekkelig konkret.
 
 Se oppdatering fra forvaltningen
 

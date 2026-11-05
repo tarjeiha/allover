@@ -14,11 +14,9 @@ Sivilombudets uttalelse 21.5.2024 (sak 2023/5955).
 
 ## Oppsummering
 
-Saken gjelder en klager som ikke fikk svar på sin henvendelse i papirform til Utlendingsdirektoratet (UDI).   
-   
- Ombudet viste til at private i skriftlig kommunikasjon med forvaltningen i utgangspunktet kan henvende seg i papirform, og at man ikke har en plikt til å kommunisere digitalt med forvaltningen. Avvik fra dette utgangspunktet krever et rettslig grunnlag, normalt lovhjemmel.   
-   
- Ombudet forutsatte at UDI ville forholde seg likt til henvendelser i papirform som til digitale henvendelser, så lenge det ikke er rettslig grunnlag for å avvike det nevnte utgangspunktet.
+Saken gjelder en klager som ikke fikk svar på sin henvendelse i papirform til Utlendingsdirektoratet (UDI).  
+Ombudet viste til at private i skriftlig kommunikasjon med forvaltningen i utgangspunktet kan henvende seg i papirform, og at man ikke har en plikt til å kommunisere digitalt med forvaltningen. Avvik fra dette utgangspunktet krever et rettslig grunnlag, normalt lovhjemmel.  
+Ombudet forutsatte at UDI ville forholde seg likt til henvendelser i papirform som til digitale henvendelser, så lenge det ikke er rettslig grunnlag for å avvike det nevnte utgangspunktet.
 
 ## Sakens bakgrunn
 

@@ -16,10 +16,8 @@ Sivilombudets uttalelse 2.4.2020 (sak 2019/4114).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i oversikt over flyginger til og fra Oslo lufthavn Gardermoen for et konkret fly i en treårsperiode. Flyet blir i hovedsak benyttet av ledelsen i et konsern. Samferdselsdepartementet avslo innsynskravet under henvisning til taushetsplikten for noens personlige forhold.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om den etterspurte oversikten inneholder taushetsbelagte opplysninger og dermed kan unntas offentlighet. Omfanget av opplysningene og kartleggingen dette kan bidra til, tilsier i dette tilfellet at opplysningene er underlagt taushetsplikt, så fremt de faktisk gir informasjon om én eller noen få enkeltpersoners reisevirksomhet. Opplysningene som fremkommer av oversikten synes imidlertid allerede å være helt eller delvis alminnelig tilgjengelig via andre kilder.  
-   
- Ombudsmannen ber departementet om å foreta en ny vurdering av innsynskravet.
+Ombudsmannen er kommet til at det er begrunnet tvil om den etterspurte oversikten inneholder taushetsbelagte opplysninger og dermed kan unntas offentlighet. Omfanget av opplysningene og kartleggingen dette kan bidra til, tilsier i dette tilfellet at opplysningene er underlagt taushetsplikt, så fremt de faktisk gir informasjon om én eller noen få enkeltpersoners reisevirksomhet. Opplysningene som fremkommer av oversikten synes imidlertid allerede å være helt eller delvis alminnelig tilgjengelig via andre kilder.  
+Ombudsmannen ber departementet om å foreta en ny vurdering av innsynskravet.
 
 Se oppdatering fra forvaltningen
 

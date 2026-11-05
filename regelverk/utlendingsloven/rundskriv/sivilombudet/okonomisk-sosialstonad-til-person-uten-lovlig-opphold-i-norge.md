@@ -15,11 +15,9 @@ Sivilombudets uttalelse 19.11.2024 (sak 2024/3514).
 
 ## Oppsummering
 
-Saken gjelder Nav og Statsforvalterens avslag på søknad om økonomisk sosialstønad (nødhjelp) til en person uten lovlig opphold i Norge, jf. forskrift om sosiale tjenester for personer uten fast bopel i Norge § 4.   
-   
- Nav-kontoret begrunnet sitt avslag med at det ikke var mulig for dem å gjøre en selvstendig vurdering av om klageren i praksis kunne forlatt landet, og at de måtte støtte seg til UDI og UNEs vurderinger. Hverken UDI eller UNE hadde vurdert klagerens praktiske muligheter til å forlate Norge. Statsforvalteren stadfestet avslaget begrunnet med at klageren måtte melde seg til politiet slik at de kunne vurdere om han kunne interneres etter utlendingsloven §§ 106 til 107.  
-   
- Sivilombudet har kommet til at Nav og Statsforvalteren må foreta en egen selvstendig vurdering av om, og eventuelt når, en søker uten lovlig opphold i praksis kan forlate landet. Videre mener ombudet at Statsforvalteren ikke kunne avslå søknaden om nødhjelp begrunnet med at klageren kunne sørge for sitt livsopphold ved å ta kontakt med politiet slik at de kunne vurdere pågripelse og internering.
+Saken gjelder Nav og Statsforvalterens avslag på søknad om økonomisk sosialstønad (nødhjelp) til en person uten lovlig opphold i Norge, jf. forskrift om sosiale tjenester for personer uten fast bopel i Norge § 4.  
+Nav-kontoret begrunnet sitt avslag med at det ikke var mulig for dem å gjøre en selvstendig vurdering av om klageren i praksis kunne forlatt landet, og at de måtte støtte seg til UDI og UNEs vurderinger. Hverken UDI eller UNE hadde vurdert klagerens praktiske muligheter til å forlate Norge. Statsforvalteren stadfestet avslaget begrunnet med at klageren måtte melde seg til politiet slik at de kunne vurdere om han kunne interneres etter utlendingsloven §§ 106 til 107.  
+Sivilombudet har kommet til at Nav og Statsforvalteren må foreta en egen selvstendig vurdering av om, og eventuelt når, en søker uten lovlig opphold i praksis kan forlate landet. Videre mener ombudet at Statsforvalteren ikke kunne avslå søknaden om nødhjelp begrunnet med at klageren kunne sørge for sitt livsopphold ved å ta kontakt med politiet slik at de kunne vurdere pågripelse og internering.
 
 Se oppdatering fra forvaltningen
 

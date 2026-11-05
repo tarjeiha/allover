@@ -15,12 +15,9 @@ Sivilombudets uttalelse 3.4.2023 (sak 2022/4818).
 ## Oppsummering
 
 Saken gjelder Statsforvalteren i Vestfold og Telemarks vedtak om å avslå klagerens søknad om rehabiliteringsopphold på en ideell helseinstitusjon med omsorgstilbud til alvorlig syke ME-pasienter. Klageren hadde ME og det var uomtvistet at hun hadde rett på nødvendige helse- og omsorgstjenester. Kommunen hadde blant annet innvilget henne et opphold på kommunens helsehus.  
-   
- Sivilombudet kom til at det var begrunnet tvil om Statsforvalteren hadde gjort en tilstrekkelig konkret og selvstendig vurdering av om kommunens tilbud til klageren var forsvarlig, jf. helse- og omsorgstjenesteloven § 4-1. Ombudet mente også at Statsforvalterens begrunnelse i vedtaket ikke oppfylte kravene i forvaltningsloven § 25, jf. § 33, og kravene til god forvaltningsskikk.  
-   
- Videre kom ombudet til at Statsforvalteren skulle avklart med klageren om hun ønsket å imøtegå eller kommentere kommunens saksfremstilling, og gitt henne mulighet til å gjøre det før klagesaken ble avgjort, jf. forvaltningsloven § 33 fjerde og femte ledd.  
-   
- Ombudet ba Statsforvalteren vurdere saken på nytt og begrunne vedtaket i samsvar med merknadene i uttalelsen.
+Sivilombudet kom til at det var begrunnet tvil om Statsforvalteren hadde gjort en tilstrekkelig konkret og selvstendig vurdering av om kommunens tilbud til klageren var forsvarlig, jf. helse- og omsorgstjenesteloven § 4-1. Ombudet mente også at Statsforvalterens begrunnelse i vedtaket ikke oppfylte kravene i forvaltningsloven § 25, jf. § 33, og kravene til god forvaltningsskikk.  
+Videre kom ombudet til at Statsforvalteren skulle avklart med klageren om hun ønsket å imøtegå eller kommentere kommunens saksfremstilling, og gitt henne mulighet til å gjøre det før klagesaken ble avgjort, jf. forvaltningsloven § 33 fjerde og femte ledd.  
+Ombudet ba Statsforvalteren vurdere saken på nytt og begrunne vedtaket i samsvar med merknadene i uttalelsen.
 
 Se oppdatering fra forvaltningen
 

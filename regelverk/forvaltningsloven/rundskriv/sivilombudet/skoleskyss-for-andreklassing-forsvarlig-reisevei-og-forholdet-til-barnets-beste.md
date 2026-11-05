@@ -16,19 +16,16 @@ Sivilombudets uttalelse 4.12.2024 (sak 2024/4650).
 ## Oppsummering
 
 Saken gjelder skoleskyss for en syv år gammel jente som går på privatskole i samme kommune som hun bor i. Fylkeskommunen hadde innvilget et skysstilbud med reisetid på nesten halvannen time til skolen hver morgen, og en samlet daglig reisetid de fleste dager på ca. to og en halv time. Statsforvalteren hadde kommet til at skysstilbudet var forsvarlig. Statsforvalteren hadde lagt vekt på de økonomiske konsekvensene av å innvilge et bedre skysstilbud, men uten at det var klarlagt hvilke transportalternativer som fantes eller hvor store kostnadene var for de ulike alternativene.  
-   
- Sivilombudet mente at reisetiden på nesten halvannen time til skolen hver morgen i seg selv var en uforsvarlig belastning for en syvåring. Ombudet la også vekt på at reiseveiens kompleksitet, med to transportbytter om morgenen, utgjorde en betydelig belastning for et såpass lite barn. Den samlede daglige reisetiden på om lag to og en halv time de fleste dager var svært lang. Ombudet konkluderte derfor med at reiseveien i saken samlet sett ikke var forsvarlig.   
-   
- Det ble understreket at ombudets forsvarlighetsvurdering er knyttet til barnets alder. Ombudet uttaler seg ikke om en tilsvarende reisevei ville vært forsvarlig for et eldre barn. Ombudet tar heller ikke stilling til om en daglig reisetid på to og en halv time for en andreklassing kan aksepteres under helt spesielle forhold, for eksempel der geografiske forhold og lange avstander gjør at reisetiden nødvendigvis må bli svært lang. Ombudet ga uttrykk for at det i saker der det kan være tvil om den innvilgede reiseveien er forsvarlig, er det særlig viktig at Statsforvalteren sørger for at saken er godt opplyst.   
-   
- Ombudet ba Statsforvalteren om å behandle saken på nytt, og legge ombudets rettsoppfatning til grunn. Ombudet ba om å bli underrettet om utfallet av Statsforvalterens nye behandling av saken.
+Sivilombudet mente at reisetiden på nesten halvannen time til skolen hver morgen i seg selv var en uforsvarlig belastning for en syvåring. Ombudet la også vekt på at reiseveiens kompleksitet, med to transportbytter om morgenen, utgjorde en betydelig belastning for et såpass lite barn. Den samlede daglige reisetiden på om lag to og en halv time de fleste dager var svært lang. Ombudet konkluderte derfor med at reiseveien i saken samlet sett ikke var forsvarlig.  
+Det ble understreket at ombudets forsvarlighetsvurdering er knyttet til barnets alder. Ombudet uttaler seg ikke om en tilsvarende reisevei ville vært forsvarlig for et eldre barn. Ombudet tar heller ikke stilling til om en daglig reisetid på to og en halv time for en andreklassing kan aksepteres under helt spesielle forhold, for eksempel der geografiske forhold og lange avstander gjør at reisetiden nødvendigvis må bli svært lang. Ombudet ga uttrykk for at det i saker der det kan være tvil om den innvilgede reiseveien er forsvarlig, er det særlig viktig at Statsforvalteren sørger for at saken er godt opplyst.  
+Ombudet ba Statsforvalteren om å behandle saken på nytt, og legge ombudets rettsoppfatning til grunn. Ombudet ba om å bli underrettet om utfallet av Statsforvalterens nye behandling av saken.
 
 ## 1.  Sakens bakgrunn
 
 A (heretter klageren) sendte 2. september 2024 klage til Sivilombudet i sak om skoleskyss for hennes datter B (heretter barnet). Barnet er ifølge opplysningene i saken syv år gammel, og går i andre klasse ved en privatskole som ligger i samme kommune som hun bor i.
 
 Klagen gjelder Statsforvalteren i Vestfold og Telemarks vedtak 30. august 2024. Statsforvalteren tok ikke til følge klage over Vestfold fylkeskommunes vedtak  
- 4. juni 2024 om organisering av skoleskyss for barnet.
+4. juni 2024 om organisering av skoleskyss for barnet.
 
 Vestfold fylkeskommune hadde organisert et skysstilbud med en blanding av tilbringerskyss og buss, med to transportbytter på vei til skolen om morgenen og ett transportbytte på vei hjem fra skolen om ettermiddagen. Ifølge Statsforvalterens vedtak er reisetiden ca. 85 minutter til skolen om morgenen og ca. 60 minutter (de fleste dager) hjem fra skolen om ettermiddagen. Klageren har gitt uttrykk for at reisetiden i realiteten er enda noe lenger.
 
@@ -199,7 +196,7 @@ Det understrekes at forsvarlighetsvurderingen er knyttet til barnets alder. Ombu
 I undersøkelsesbrevet til Statsforvalteren ga vi uttrykk for tvil om saken var tilstrekkelig opplyst, jf. forvaltningsloven § 17. Vi viste til at Statsforvalteren selv hadde lagt til grunn at fylkeskommunen ikke hadde gjort rede for andre alternativer for skyss som anført av foresatte», og heller ikke hadde «foretatt kostnadsberegninger knyttet til alternativer for skyss».
 
 I sitt svar til ombudet har Statsforvalteren vist til at de «anmodet Vestfold fylkeskommune om nye opplysninger og redegjørelse på ulike punkt i brev av  
- 25. juni 2024». Alternative transportmuligheter eller kostnadsberegninger ble imidlertid ikke utredet eller klarlagt. Statsforvalteren viser også til at de hadde flere samtaler med mor per telefon før vedtaket ble truffet. I telefonnotat fra samtaler med mor 6. september 2024 har saksbehandler skrevet:
+25. juni 2024». Alternative transportmuligheter eller kostnadsberegninger ble imidlertid ikke utredet eller klarlagt. Statsforvalteren viser også til at de hadde flere samtaler med mor per telefon før vedtaket ble truffet. I telefonnotat fra samtaler med mor 6. september 2024 har saksbehandler skrevet:
 
 «Mor sier at hun synes det er rart at vi ikke har vurdert andre ruter som (mer) aktuelle. Undertegnede sier at vi ikke gjør det i de tilfeller vi vurderer at innvilget tilbud er forsvarlig – da er saken å anse som tilstrekkelig opplyst, jf. fvl. § 33 femte ledd.»
 

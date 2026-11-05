@@ -16,8 +16,7 @@ Sivilombudets uttalelse 29.7.2019 (sak 2019/1297).
 ## Oppsummering
 
 Saken gjelder spørsmålet om opplysninger i dokumenter om avslutningen av et arbeidsforhold i Den norske kirke skal unntas offentlighet som taushetsbelagte. X kirkelige fellesråd avslo et krav om innsyn i oppsigelser og avtaler inngått mellom X kirkelige fellesråd og en arbeidstaker. Personen som ba om innsyn, påklaget avslaget. Saken ble oversendt til Y bispedømmeråd for klagebehandling 24. januar 2019. Bispedømmerådet hadde sitt neste møte 4. februar, men klagen ble ikke behandlet før i møte 18. mars 2019. Avslaget ble opprettholdt.  
-   
- Ombudsmannen er kommet til at bispedømmerådets saksbehandlingstid var for lang og i strid med offentleglovas krav. Det er også knyttet begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd siste punktum, til om bispedømmerådet har lagt til grunn en riktig forståelse av taushetspliktens rekkevidde for opplysninger om ansettelsesforhold i Den norske kirke, jf. forvaltningsloven § 13 første ledd nr.1. Ombudsmannen ber bispedømmerådet om å foreta en ny vurdering av innsynsspørsmålet.
+Ombudsmannen er kommet til at bispedømmerådets saksbehandlingstid var for lang og i strid med offentleglovas krav. Det er også knyttet begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd siste punktum, til om bispedømmerådet har lagt til grunn en riktig forståelse av taushetspliktens rekkevidde for opplysninger om ansettelsesforhold i Den norske kirke, jf. forvaltningsloven § 13 første ledd nr.1. Ombudsmannen ber bispedømmerådet om å foreta en ny vurdering av innsynsspørsmålet.
 
 Se oppdatering fra forvaltningen
 

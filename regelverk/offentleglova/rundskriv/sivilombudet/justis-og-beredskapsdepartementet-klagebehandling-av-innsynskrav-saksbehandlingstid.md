@@ -15,8 +15,7 @@ Sivilombudets uttalelse 28.11.2023 (sak 2023/3995).
 ## Oppsummering
 
 Saken gjelder saksbehandlingstiden i en klagesak om avslag på innsyn hos Justis- og beredskapsdepartementet. Det tok ca. 6,5 måned fra klagen ble sendt til svaret forelå. Departementet brukte 4,5 måned på å behandle saken. Behandlingstiden var begrunnet med at saken ikke var ukomplisert, sykdom og ferieavvikling. Departementet har erkjent at saksbehandlingstiden var for lang og har beklaget forholdet.  
-   
- Ombudet er kommet til at departementets saksbehandlingstid var i strid med offentleglova § 32 tredje ledd. Ombudet ber om departementets tilbakemelding på hvilke tiltak som iverksettes for å sikre at innsynskrav og - klager behandles innen de lovpålagte fristene, om status på innsynsklager innkommet før september 2023 og om departementet har tilstrekkelig verktøy til å holde oversikt over saksbehandlingstiden.
+Ombudet er kommet til at departementets saksbehandlingstid var i strid med offentleglova § 32 tredje ledd. Ombudet ber om departementets tilbakemelding på hvilke tiltak som iverksettes for å sikre at innsynskrav og - klager behandles innen de lovpålagte fristene, om status på innsynsklager innkommet før september 2023 og om departementet har tilstrekkelig verktøy til å holde oversikt over saksbehandlingstiden.
 
 Se oppdatering fra forvaltningen
 

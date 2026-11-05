@@ -16,8 +16,7 @@ Sivilombudets uttalelse 22.6.2019 (sak 2018/3192).
 ## Oppsummering
 
 Saken gjelder behandling av en klage over tildeling av driftstilskudd som fysioterapeut i en kommune.  
-   
- Ombudsmannen er kommet til at det er begått flere rettsanvendelses- og saksbehandlingsfeil i begge instanser. Klagevedtaket er ikke tilfredsstillende begrunnet og gir ikke klarhet i hvilke utfall saken har fått. Vedtaket er verken i samsvar med reglene om begrunnelse eller om underretning. Saksbehandler som utformet det skriftlige dokumentet som ligger til grunn for klagenemndas behandling, er etter kommunelovens bestemmelser inhabil. Videre er det ikke foretatt en sammenliknende kvalifikasjonsvurdering av søkerne, og den skriftlige dokumentasjonen i saken er mangelfull.
+Ombudsmannen er kommet til at det er begått flere rettsanvendelses- og saksbehandlingsfeil i begge instanser. Klagevedtaket er ikke tilfredsstillende begrunnet og gir ikke klarhet i hvilke utfall saken har fått. Vedtaket er verken i samsvar med reglene om begrunnelse eller om underretning. Saksbehandler som utformet det skriftlige dokumentet som ligger til grunn for klagenemndas behandling, er etter kommunelovens bestemmelser inhabil. Videre er det ikke foretatt en sammenliknende kvalifikasjonsvurdering av søkerne, og den skriftlige dokumentasjonen i saken er mangelfull.
 
 ## Sakens bakgrunn
 
@@ -94,7 +93,7 @@ Ombudsmannen ser at underretningen er skriftlig og kom relativt raskt til klager
 ### Klagenemndas begrunnelse
 
 Et vedtak i en klagesak skal begrunnes samtidig som vedtaket treffes, jf. forvaltningsloven  
- § 24. Etter det kommunale reglementet for klagenemnda § 2 skal avslag i klagesaker begrunnes.
+§ 24. Etter det kommunale reglementet for klagenemnda § 2 skal avslag i klagesaker begrunnes.
 
 Kravene til begrunnelsens innhold står i forvaltningsloven § 25. Foruten å gjengi de regler og de faktiske forhold vedtaket bygger på, skal følgende etter bestemmelsens tredje ledd fremgå av begrunnelsen:
 

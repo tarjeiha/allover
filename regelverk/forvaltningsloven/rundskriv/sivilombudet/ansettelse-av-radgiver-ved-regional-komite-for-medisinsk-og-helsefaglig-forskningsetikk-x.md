@@ -16,12 +16,9 @@ Sivilombudets uttalelse 17.4.2018 (sak 2018/212).
 ## Oppsummering
 
 Universitetet i Y hadde høsten 2017 ansatt en rådgiver ved Regional komité for medisinsk og helsefaglig forskningsetikk X (Komité X). Klager hadde søkt på stillingen. På bakgrunn av et såkalt speedintervju ble han ansett som ikke personlig egnet og utelukket fra den videre ansettelsesprosessen.  
-   
- Ombudsmannen kom til at Universitetet i Y ikke hadde oppfylt utredningsplikten som følger av forvaltningsloven § 17. I de tilfeller der forvaltningen mener at en faglig sterk søker ikke er personlig egnet for stillingen, må dette dokumenteres gjennom en grundig saksbehandling. For å sikre at grunnlaget for beslutningen er forsvarlig, må det blant annet innhentes referanser som kan bekrefte eller avkrefte personlige egenskaper. Dette gjør seg særlig gjeldende der vedkommende søker er langt bedre faglig kvalifisert enn søkeren som ellers vil bli ansatt.  
-   
- Ombudsmannen kom videre til at kravet til skriftlighet i ansettelsesprosessen ikke var oppfylt. Det var ikke nedtegnet referat fra intervjuene, og innstillingen inneholdt ingen sammenlignende kvalifikasjonsvurdering av den ansatte og den andre innstilte søkeren.  
-   
- Saksbehandlingen tilfredsstilte heller ikke kravet til likebehandling av søkerne. Innstillingen ga et ubalansert og uriktig inntrykk av klagers kompetanse sett i forhold til den ansattes kompetanse.
+Ombudsmannen kom til at Universitetet i Y ikke hadde oppfylt utredningsplikten som følger av forvaltningsloven § 17. I de tilfeller der forvaltningen mener at en faglig sterk søker ikke er personlig egnet for stillingen, må dette dokumenteres gjennom en grundig saksbehandling. For å sikre at grunnlaget for beslutningen er forsvarlig, må det blant annet innhentes referanser som kan bekrefte eller avkrefte personlige egenskaper. Dette gjør seg særlig gjeldende der vedkommende søker er langt bedre faglig kvalifisert enn søkeren som ellers vil bli ansatt.  
+Ombudsmannen kom videre til at kravet til skriftlighet i ansettelsesprosessen ikke var oppfylt. Det var ikke nedtegnet referat fra intervjuene, og innstillingen inneholdt ingen sammenlignende kvalifikasjonsvurdering av den ansatte og den andre innstilte søkeren.  
+Saksbehandlingen tilfredsstilte heller ikke kravet til likebehandling av søkerne. Innstillingen ga et ubalansert og uriktig inntrykk av klagers kompetanse sett i forhold til den ansattes kompetanse.
 
 ## Sakens bakgrunn
 

@@ -16,7 +16,7 @@ Sivilombudets uttalelse 3.8.2017 (sak 2017/1276).
 ## Oppsummering
 
 Saken gjelder innsyn i et svar fra Fylkesmannen i Finnmark på tips om lovbrudd fra en privatperson. Fylkesmannen og Utdanningsdirektoratet avslo kravet under henvisning til offentleglova § 24 annet ledd første punktum, som gjelder dokumenter om lovbrudd «frå private».  
- Ombudsmannen er kommet til at unntaket i offentleglova § 24 annet ledd første punktum bare kommer til anvendelse når avsenderen er en privatperson, og at unntaket i andre punktum, som blant annet gjelder når avsenderen er et offentlig organ, gjelder inntil en sak er avgjort. Offentleglova § 24 annet ledd gir dermed ikke hjemmel til varig unntak fra hovedregelen om innsyn for forvaltningens svar på dokumenter som kan unntas etter første punktum. Ettersom dokumentet inneholder taushetsbelagte opplysninger, og disse utgjorde den vesentligste delen av dokumentet, var det likevel hjemmel for å unnta dokumentet i sin helhet.
+Ombudsmannen er kommet til at unntaket i offentleglova § 24 annet ledd første punktum bare kommer til anvendelse når avsenderen er en privatperson, og at unntaket i andre punktum, som blant annet gjelder når avsenderen er et offentlig organ, gjelder inntil en sak er avgjort. Offentleglova § 24 annet ledd gir dermed ikke hjemmel til varig unntak fra hovedregelen om innsyn for forvaltningens svar på dokumenter som kan unntas etter første punktum. Ettersom dokumentet inneholder taushetsbelagte opplysninger, og disse utgjorde den vesentligste delen av dokumentet, var det likevel hjemmel for å unnta dokumentet i sin helhet.
 
 ## Sakens bakgrunn
 

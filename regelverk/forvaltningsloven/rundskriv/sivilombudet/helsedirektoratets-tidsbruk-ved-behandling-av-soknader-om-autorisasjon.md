@@ -15,14 +15,10 @@ Sivilombudets uttalelse 13.12.2024 (sak 2024/5313).
 ## Oppsummering
 
 Saken gjelder Helsedirektoratets tidsbruk ved behandling av søknader om autorisasjon. Klager søkte 4. oktober 2022 om autorisasjon som reseptarfarmasøyt med grunnlag i sin utdanning som farmasøyt fra Pakistan. Til tross for at det har gått over to år, er søknaden hans fortsatt ikke ferdigbehandlet. Helsedirektoratet informerer på sin hjemmeside om lang saksbehandlingstid for saker fra Pakistan.  
-   
- Helsedirektoratet har opplyst at årsakene til den lange saksbehandlingstiden er et stort antall søknader og tidkrevende verifisering av utdanningsdokumentasjon og arbeidsattester i disse sakene. Helsedirektoratet har ikke gitt tilstrekkelig konkrete opplysninger til at ombudet kan konkludere med at tidsbruken i klagers sak er ulovlig. Ventetid på mer enn to år er imidlertid svært lenge. Det stiller strenge krav til Helsedirektoratets aktive oppfølging av saken.  
-   
- Helsedirektoratet har heller ikke holdt klager tilstrekkelig orientert om fremdriften i saken, herunder om når saken kan forventes avgjort. Helsedirektoratet informerer på nettsiden om at henvendelser om behandlingstiden ikke vil bli besvart, og viser til generell informasjon på nettsiden om saksbehandlingstiden.  
-   
- Sivilombudet forutsetter at Helsedirektoratet besvarer henvendelser i henhold til forvaltningslovens krav, og at informasjonen om at Helsedirektoratet ikke vil svare på slike henvendelser tas bort fra hjemmesiden. Hjemmesidens opplysninger om saksbehandlingstid bør oppdateres jevnlig og være så konkret som mulig om årsakene til forsinkelser i saksbehandlingen.  
-   
- Helsedirektoratet bes om å ferdigbehandle klagers sak så snart det er mulig. Vi ber om kopi av Helsedirektoratets svar til klager når saken er ferdigbehandlet. Sivilombudet imøteser uansett tilbakemelding på status i klagers sak innen 17. februar 2025. I tillegg ber vi om en redegjørelse for Helsedirektoratets arbeid med å få saksbehandlingstiden ned innen 2. juni 2025.
+Helsedirektoratet har opplyst at årsakene til den lange saksbehandlingstiden er et stort antall søknader og tidkrevende verifisering av utdanningsdokumentasjon og arbeidsattester i disse sakene. Helsedirektoratet har ikke gitt tilstrekkelig konkrete opplysninger til at ombudet kan konkludere med at tidsbruken i klagers sak er ulovlig. Ventetid på mer enn to år er imidlertid svært lenge. Det stiller strenge krav til Helsedirektoratets aktive oppfølging av saken.  
+Helsedirektoratet har heller ikke holdt klager tilstrekkelig orientert om fremdriften i saken, herunder om når saken kan forventes avgjort. Helsedirektoratet informerer på nettsiden om at henvendelser om behandlingstiden ikke vil bli besvart, og viser til generell informasjon på nettsiden om saksbehandlingstiden.  
+Sivilombudet forutsetter at Helsedirektoratet besvarer henvendelser i henhold til forvaltningslovens krav, og at informasjonen om at Helsedirektoratet ikke vil svare på slike henvendelser tas bort fra hjemmesiden. Hjemmesidens opplysninger om saksbehandlingstid bør oppdateres jevnlig og være så konkret som mulig om årsakene til forsinkelser i saksbehandlingen.  
+Helsedirektoratet bes om å ferdigbehandle klagers sak så snart det er mulig. Vi ber om kopi av Helsedirektoratets svar til klager når saken er ferdigbehandlet. Sivilombudet imøteser uansett tilbakemelding på status i klagers sak innen 17. februar 2025. I tillegg ber vi om en redegjørelse for Helsedirektoratets arbeid med å få saksbehandlingstiden ned innen 2. juni 2025.
 
 Se oppdatering fra forvaltningen
 

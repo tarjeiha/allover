@@ -15,12 +15,9 @@ Sivilombudets uttalelse 20.6.2025 (sak 2024/6000).
 ## Oppsummering
 
 Saken gjelder Lånekassens praksis for behandling av klager generelt og Lånekassens behandling av en konkret klagesak. Klagerens søknad om inntektsavhengig stipend ble behandlet og avslått av Lånekassen i tre omganger. Ingen av klagene ble sendt videre til Lånekassens klagenemnd. Lånekassen har vist til at det i enkelte saker gis en utfyllende begrunnelse etter Lånekassens gjennomgang av en klage. I slike tilfeller må klageren opprettholde klagen for at saken skal videresendes til Lånekassens klagenemnd.  
-   
- Sivilombudet mener at praksisen med å gi en utfyllende begrunnelse kan være et hensiktsmessig ledd i forberedelsen av enkelte klager, særlig i tilfeller der det er uklart hva henvendelsen gjelder eller om henvendelsen i det hele tatt kan kategoriseres som en klage, jf. forvaltningsloven §§ 32 tredje ledd og 33 andre ledd. Det er imidlertid i strid med forvaltningsloven dersom denne fremgangsmåten benyttes generelt for å redusere antall klager som videresendes til Lånekassens klagenemnd.   
-   
- Lånekassen bør etter Sivilombudets syn utarbeide tydeligere retningslinjer for når en utfyllende begrunnelse er riktig fremgangsmåte for behandling av en klage. Retningslinjene må overholde kravene i forvaltningsloven. Sivilombudet mener også at Lånekassen må endre informasjonen på nettsidene slik at den samsvarer med forvaltningsloven, Lånekassens interne instruks og svarbrev hit.  
-   
- Sivilombudet mener den aktuelle saken ikke er behandlet i tråd med forvaltningsloven § 33. Saken ble heller ikke avgjort «uten ugrunnet opphold», og klageren ble ikke tilstrekkelig orientert om klageadgangen, jf. forvaltningsloven §§ 11 a og 27 tredje ledd.
+Sivilombudet mener at praksisen med å gi en utfyllende begrunnelse kan være et hensiktsmessig ledd i forberedelsen av enkelte klager, særlig i tilfeller der det er uklart hva henvendelsen gjelder eller om henvendelsen i det hele tatt kan kategoriseres som en klage, jf. forvaltningsloven §§ 32 tredje ledd og 33 andre ledd. Det er imidlertid i strid med forvaltningsloven dersom denne fremgangsmåten benyttes generelt for å redusere antall klager som videresendes til Lånekassens klagenemnd.  
+Lånekassen bør etter Sivilombudets syn utarbeide tydeligere retningslinjer for når en utfyllende begrunnelse er riktig fremgangsmåte for behandling av en klage. Retningslinjene må overholde kravene i forvaltningsloven. Sivilombudet mener også at Lånekassen må endre informasjonen på nettsidene slik at den samsvarer med forvaltningsloven, Lånekassens interne instruks og svarbrev hit.  
+Sivilombudet mener den aktuelle saken ikke er behandlet i tråd med forvaltningsloven § 33. Saken ble heller ikke avgjort «uten ugrunnet opphold», og klageren ble ikke tilstrekkelig orientert om klageadgangen, jf. forvaltningsloven §§ 11 a og 27 tredje ledd.
 
 ## Sakens bakgrunn
 
@@ -179,7 +176,7 @@ Sivilombudet forutsetter at Lånekassen sørger for å ha rutiner og retningslin
 Saken ombudet har undersøkt viser at den samlede behandlingstiden kan bli uforholdsmessig lang dersom saken av ulike grunner behandles på nytt i førsteinstansen. Klageren søkte om inntektsavhengig stipend første gang i mai 2023, og deretter gikk det om lag seks måneder fra klageren opprettholdt klagen sin 4. juli 2023 til Lånekassen behandlet den i vedtak datert 23. januar 2024.
 
 Lånekassen skriver i sitt svarbrev at en henvendelse om opprettholdelse av klage i utgangspunktet prioriteres i behandlingskøen. Hovedforklaringen på den betydelige behandlingstiden mellom As opprettholdte klage og Lånekassens vedtak  
- 23. januar 2024 var etter alt å dømme at sommeren og høsten er høysesong i Lånekassen, hvor det mottas store mengder henvendelser og søknader samtidig.
+23. januar 2024 var etter alt å dømme at sommeren og høsten er høysesong i Lånekassen, hvor det mottas store mengder henvendelser og søknader samtidig.
 
 Søknader til Lånekassen skal forberedes og avgjøres «uten ugrunnet opphold», jf. forvaltningsloven § 11 a. Ombudet har tidligere lagt til grunn at bestemmelsen stiller krav til både behandlingstiden og hva som er akseptable årsaker til opphold i saksbehandlingen. I saker som gjelder enkeltvedtak, skal det gis et foreløpig svar dersom henvendelsen ikke kan besvares i løpet av én måned etter at den er mottatt.
 

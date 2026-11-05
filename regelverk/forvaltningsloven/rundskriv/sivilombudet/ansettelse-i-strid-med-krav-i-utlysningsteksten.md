@@ -16,8 +16,7 @@ Sivilombudets uttalelse 3.6.2019 (sak 2019/642).
 ## Oppsummering
 
 Saken gjelder ansettelse av renholder ved X sykehus. Etter å ha mottatt avslag ble klager informert om han var overkvalifisert til stillingen. Personen som ble ansatt, syntes imidlertid ikke å oppfylle utlysningstekstens krav om å ha «fagbrev som renholdoperatør».  
-   
- Ombudsmannen er kommet til at helseforetaket har handlet i strid med kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte kravene i utlysningsteksten. For øvrig har helseforetaket erkjent at søknadsprosessen ikke var i tråd med alminnelig god forvaltningsskikk. Det er opplyst at avdeling for renhold allerede har endret sine rutiner for rekruttering, slik at sykehusets interne veiledning for ansettelser følges i fremtidige ansettelsessaker.
+Ombudsmannen er kommet til at helseforetaket har handlet i strid med kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte kravene i utlysningsteksten. For øvrig har helseforetaket erkjent at søknadsprosessen ikke var i tråd med alminnelig god forvaltningsskikk. Det er opplyst at avdeling for renhold allerede har endret sine rutiner for rekruttering, slik at sykehusets interne veiledning for ansettelser følges i fremtidige ansettelsessaker.
 
 ## Sakens bakgrunn
 

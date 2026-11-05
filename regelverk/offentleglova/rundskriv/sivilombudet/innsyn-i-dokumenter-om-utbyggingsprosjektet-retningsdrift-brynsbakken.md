@@ -16,10 +16,8 @@ Sivilombudets uttalelse 27.10.2021 (sak 2021/2532).
 ## Oppsummering
 
 En journalist ba om innsyn i dokumenter knyttet til innløsning av privat eiendom som en del av Bane NORs utbygging i Brynsbakken. Bane NOR ga delvis innsyn i takstdokumenter og tilbud om kjøpekontrakt, og avslo innsyn i korrespondanse om to forskjellige eiendommer. Avslaget ble gitt med henvisning til offentleglova § 23 første ledd. Samferdselsdepartementet stadfestet det delvise avslaget, men viste også til forvaltningsloven § 13 første ledd nr. 1, jf. offentleglova § 13 første ledd som alternativ hjemmel for å unnta enkelte av opplysningene.  
-   
- Sivilombudet er kommet til at det på bakgrunn av den begrunnelsen som er gitt fra Samferdselsdepartementet, er begrunnet tvil om opplysninger om verdi i takstdokumentene og i tilbudet om kjøpekontrakt kan unntas av hensyn til det offentliges forhandlingsposisjon etter offentleglova § 23 første ledd. Ombudet er også kommet til at det er begrunnet tvil om vilkårene for unntak i denne bestemmelsen er oppfylt for kommunikasjonen mellom Bane NOR og takstmannen. Sist er ombudet kommet til at det er begrunnet tvil om enkelte av opplysningene i takstrapportene er taushetspliktige.  
-   
- Ombudet ber departementet vurdere saken på nytt.
+Sivilombudet er kommet til at det på bakgrunn av den begrunnelsen som er gitt fra Samferdselsdepartementet, er begrunnet tvil om opplysninger om verdi i takstdokumentene og i tilbudet om kjøpekontrakt kan unntas av hensyn til det offentliges forhandlingsposisjon etter offentleglova § 23 første ledd. Ombudet er også kommet til at det er begrunnet tvil om vilkårene for unntak i denne bestemmelsen er oppfylt for kommunikasjonen mellom Bane NOR og takstmannen. Sist er ombudet kommet til at det er begrunnet tvil om enkelte av opplysningene i takstrapportene er taushetspliktige.  
+Ombudet ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

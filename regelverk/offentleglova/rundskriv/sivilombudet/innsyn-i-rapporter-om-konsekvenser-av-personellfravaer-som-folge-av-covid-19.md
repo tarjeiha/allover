@@ -16,12 +16,9 @@ Sivilombudets uttalelse 26.8.2020 (sak 2020/1403).
 ## Oppsummering
 
 Samferdselsdepartementet ba flere virksomheter innen transportsektoren redegjøre for hvordan de ville håndtere et stort personellfravær som følge av covid-19. En journalist ba om innsyn i svarene. Departementet avslo innsynskravet med henvisning til bl.a. offentleglova § 15 første og andre ledd.  
-   
- For å nekte innsyn etter offentleglova § 15 første ledd, må unntak være nødvendig for å sikre interne avgjørelsesprosesser. Ombudsmannen er kommet til at det er begrunnet tvil om dokumentene som er unntatt etter § 15 første ledd kan unntas med den begrunnelsen departementet har gitt. Det fremgår ikke i tilstrekkelig grad hvorfor innsyn vil utgjøre en fare for skade på interne avgjørelsesprosesser.  
-   
- Videre kan det gjøres unntak etter offentleglova § 15 andre ledd for deler av et dokument som inneholder råd om og vurderinger av hvordan organet bør stille seg i en sak, når det er påkrevd av hensyn til en forsvarlig ivaretakelse av det offentliges interesser i saken. Etter ombudsmannens syn vil flere av opplysningene som er unntatt innsyn etter § 15 andre ledd falle utenfor bestemmelsens virkeområde.  
-   
- Ombudsmannen ber departementet vurdere saken på nytt.
+For å nekte innsyn etter offentleglova § 15 første ledd, må unntak være nødvendig for å sikre interne avgjørelsesprosesser. Ombudsmannen er kommet til at det er begrunnet tvil om dokumentene som er unntatt etter § 15 første ledd kan unntas med den begrunnelsen departementet har gitt. Det fremgår ikke i tilstrekkelig grad hvorfor innsyn vil utgjøre en fare for skade på interne avgjørelsesprosesser.  
+Videre kan det gjøres unntak etter offentleglova § 15 andre ledd for deler av et dokument som inneholder råd om og vurderinger av hvordan organet bør stille seg i en sak, når det er påkrevd av hensyn til en forsvarlig ivaretakelse av det offentliges interesser i saken. Etter ombudsmannens syn vil flere av opplysningene som er unntatt innsyn etter § 15 andre ledd falle utenfor bestemmelsens virkeområde.  
+Ombudsmannen ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

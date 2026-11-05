@@ -15,8 +15,7 @@ Sivilombudets uttalelse 16.1.2020 (sak 2019/3515).
 ## Oppsummering
 
 I to klagesaker på ansettelser i Stavanger kommune ble ombudsmannen gjort kjent med at kommunen ikke opererer med innstillinger i ansettelsessaker. På den bakgrunn har ombudsmannen undersøkt kommunens rutiner om skriftlighet ved ansettelser.  
-   
- Ombudsmannen tar kommunens redegjørelse til etterretning, men understreker samtidig viktigheten av at hovedpunktene i ansettelsesprosessen nedtegnes skriftlig. Kommunen er bedt om at den i det pågående arbeidet med å revidere ansettelsesreglementet og retningslinjene sørger for at praksis er i samsvar med de synspunktene som fremgår her.
+Ombudsmannen tar kommunens redegjørelse til etterretning, men understreker samtidig viktigheten av at hovedpunktene i ansettelsesprosessen nedtegnes skriftlig. Kommunen er bedt om at den i det pågående arbeidet med å revidere ansettelsesreglementet og retningslinjene sørger for at praksis er i samsvar med de synspunktene som fremgår her.
 
 ## Sakens bakgrunn og våre undersøkelser
 
@@ -35,7 +34,7 @@ Ombudsmannen har i flere uttalelser understreket viktigheten av at hovedpunktene
 Ansettelser i det offentlige vil normalt styres av kvalifikasjonsprinsippet. Prinsippet innebærer at det er den best kvalifiserte søkeren som skal ansettes, blant annet for å oppnå en best mulig utnyttelse av offentlige midler. For å sikre at ansettelsene er i tråd med kvalifikasjonsprinsippet, må det settes krav til saksbehandlingen.
 
 Hver ansettelse utgjør et enkeltvedtak. Dette betyr at flere av forvaltningslovens saksbehandlingsregler kommer til anvendelse, for eksempel kravet til sakens opplysning i  
- § 17. For øvrig er det et grunnleggende ulovfestet krav til all offentlig forvaltning at avgjørelser skal være saklig begrunnet, og at saksbehandlingen skal være forsvarlig. Et utslag av dette prinsippet finner vi i forvaltningsloven §§ 24 og 25, som gir parter rett til begrunnelse. Bestemmelsene gjelder riktignok ikke direkte i ansettelsessaker, men selv om en søker ikke har krav på begrunnelse, må ansettelsesmyndighetenes avgjørelser være saklige.
+§ 17. For øvrig er det et grunnleggende ulovfestet krav til all offentlig forvaltning at avgjørelser skal være saklig begrunnet, og at saksbehandlingen skal være forsvarlig. Et utslag av dette prinsippet finner vi i forvaltningsloven §§ 24 og 25, som gir parter rett til begrunnelse. Bestemmelsene gjelder riktignok ikke direkte i ansettelsessaker, men selv om en søker ikke har krav på begrunnelse, må ansettelsesmyndighetenes avgjørelser være saklige.
 
 Når det ikke utarbeides skriftlig begrunnelse til partene, er det desto viktigere å sikre at det i ettertid blir mulig å kontrollere at ansettelsesprosessen har vært saklig og forsvarlig. Dette er spesielt viktig for at ombudsmannskontrollen skal bli effektiv. Av denne grunn bør derfor hovedpunktene i ansettelsesprosessen nedtegnes skriftlig. Erfaring viser at skriftlighet også er egnet til å bevisstgjøre beslutningstakerne, og dermed sikre at forvaltningen treffer korrekte avgjørelser med saklig begrunnelse.
 

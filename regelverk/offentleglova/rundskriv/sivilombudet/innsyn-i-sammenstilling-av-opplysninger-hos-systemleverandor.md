@@ -16,11 +16,8 @@ Sivilombudets uttalelse 5.12.2019 (sak 2019/2154).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i en sammenstilling av opplysninger fra Oslo kommunes arkiv- og saksbehandlingssystemer. Oslo kommune og Fylkesmannen i Oslo og Viken avslo innsynskravet hovedsakelig fordi kommunen selv ikke har tilgang til nødvendige eksportverktøy, og sammenstillingen derfor må bestilles fra systemleverandørene. På den bakgrunn mente Fylkesmannen at den etterspurte sammenstillingen ikke kan etableres med «enkle framgangsmåtar», jf. offentleglova § 9.  
-   
- Ombudsmannen er kommet til at det knytter seg begrunnet tvil til om innsynskravet kan avslås fordi sammenstillingen må bestilles fra leverandørene av kommunens IKT-systemer.  
-   
-   
- Ombudsmannen ber Fylkesmannen om å vurdere innsynskravet på nytt.
+Ombudsmannen er kommet til at det knytter seg begrunnet tvil til om innsynskravet kan avslås fordi sammenstillingen må bestilles fra leverandørene av kommunens IKT-systemer.  
+Ombudsmannen ber Fylkesmannen om å vurdere innsynskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

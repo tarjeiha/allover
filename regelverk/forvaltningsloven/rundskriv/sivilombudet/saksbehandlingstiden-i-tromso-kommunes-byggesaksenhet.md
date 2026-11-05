@@ -14,11 +14,9 @@ Sivilombudets uttalelse 15.5.2023 (sak 2023/617).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt saksbehandlingstiden ved byggesaksenheten i Tromsø kommune. Ombudet har blant annet sett på kommunens saksbehandlingstid og restanser i byggesaker, klagesaker og ulovlighetsvarsler.   
-   
- Kommunen har erkjent at den ikke overholder plikten til å påse at plan- og bygningslovgivningen overholdes. Saksbehandlingstiden i disse sakene er heller ikke i overenstemmelse med forvaltningslovens krav. Ombudet forutsetter at kommunen fremover organiserer arbeidet slik at byggesaksenheten oppfyller lovpålagte plikter, og at den legger en plan for å nedarbeide ulovlighetsrestansene. Ombudet anbefaler kommunen å utarbeide skriftlige rutiner for å holde borgerne orientert om gjeldende saksbehandlingstid.   
-   
- Ombudet ber om en ny oppdatering 15. september 2023.
+Sivilombudet har av eget tiltak undersøkt saksbehandlingstiden ved byggesaksenheten i Tromsø kommune. Ombudet har blant annet sett på kommunens saksbehandlingstid og restanser i byggesaker, klagesaker og ulovlighetsvarsler.  
+Kommunen har erkjent at den ikke overholder plikten til å påse at plan- og bygningslovgivningen overholdes. Saksbehandlingstiden i disse sakene er heller ikke i overenstemmelse med forvaltningslovens krav. Ombudet forutsetter at kommunen fremover organiserer arbeidet slik at byggesaksenheten oppfyller lovpålagte plikter, og at den legger en plan for å nedarbeide ulovlighetsrestansene. Ombudet anbefaler kommunen å utarbeide skriftlige rutiner for å holde borgerne orientert om gjeldende saksbehandlingstid.  
+Ombudet ber om en ny oppdatering 15. september 2023.
 
 Se oppdatering fra forvaltningen
 

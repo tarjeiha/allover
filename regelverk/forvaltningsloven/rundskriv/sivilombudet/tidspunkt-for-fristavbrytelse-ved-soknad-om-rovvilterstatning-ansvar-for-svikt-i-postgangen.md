@@ -15,10 +15,8 @@ Sivilombudets uttalelse 24.2.2021 (sak 2020/3617).
 ## Oppsummering
 
 Saken gjelder Miljødirektoratets avvisning av en søknad om rovvilterstatning etter forskrift 2. juli 1999 nr. 720 om erstatning for tap og følgekostnader når husdyr blir drept eller skadet av rovvilt.  
-   
- Ombudsmannen har kommet til at Miljødirektoratets avvisning av søknaden ikke er i samsvar med de krav som stilles til fristavbrytelse ved innsendelse av søknader etter forskriften. Fristen avbrytes når søknaden innleveres til en postdistributør, jf. prinsippet i forvaltningsloven § 30.   
-   
- Ombudsmannen har også kommet til at Miljødirektoratet ikke har overholdt kravene til saksbehandlingstid i forvaltningsloven § 11 a første ledd, eller plikten til å sende foreløpige svar etter annet ledd. Miljødirektoratet bes om å behandle saken på nytt.
+Ombudsmannen har kommet til at Miljødirektoratets avvisning av søknaden ikke er i samsvar med de krav som stilles til fristavbrytelse ved innsendelse av søknader etter forskriften. Fristen avbrytes når søknaden innleveres til en postdistributør, jf. prinsippet i forvaltningsloven § 30.  
+Ombudsmannen har også kommet til at Miljødirektoratet ikke har overholdt kravene til saksbehandlingstid i forvaltningsloven § 11 a første ledd, eller plikten til å sende foreløpige svar etter annet ledd. Miljødirektoratet bes om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

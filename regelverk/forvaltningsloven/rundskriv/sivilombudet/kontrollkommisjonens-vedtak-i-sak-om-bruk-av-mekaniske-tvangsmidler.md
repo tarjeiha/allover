@@ -15,10 +15,8 @@ Sivilombudets uttalelse 15.10.2025 (sak 2024/5908).
 ## Oppsummering
 
 Sivilombudet har behandlet en klage fra en pasient som gjaldt bruk av mekaniske tvangsmidler (belteseng og transportbelter) på en regional sikkerhetsavdeling. Under klagebehandlingen i kontrollkommisjonen hadde tvangsmiddelbruken blitt opprettholdt gjennom 16 døgn, og pasienten var fortsatt ilagt transportbelter. Kontrollkommisjonen tok ikke klagen til følge, under henvisning til fortsatt stor voldsrisiko.  
-   
- Sivilombudet kom til at kontrollkommisjonens vedtak var mangelfullt begrunnet. Sivilombudet påpekte at det står helt sentralt i kontrollkommisjonens overprøving av et tvangsvedtak at det blir vurdert om vilkårene for tvang har vært kontinuerlig oppfylt fra iverksetting og fram til tidspunktet for klagebehandlingen. Kontrollkommisjonen skal også kontrollere om gjennomføringsmåten har vært i samsvar med vilkårene i psykisk helsevernloven og psykisk helsevernforskriften, herunder at det ikke har blitt brukt mer inngripende tvang enn nødvendig mot pasienten.   
-   
- Ombudet ba kontrollkommisjonen om å behandle fremtidige saker om bruk av mekaniske tvangsmidler i tråd med det som fremgår av uttalelsen.
+Sivilombudet kom til at kontrollkommisjonens vedtak var mangelfullt begrunnet. Sivilombudet påpekte at det står helt sentralt i kontrollkommisjonens overprøving av et tvangsvedtak at det blir vurdert om vilkårene for tvang har vært kontinuerlig oppfylt fra iverksetting og fram til tidspunktet for klagebehandlingen. Kontrollkommisjonen skal også kontrollere om gjennomføringsmåten har vært i samsvar med vilkårene i psykisk helsevernloven og psykisk helsevernforskriften, herunder at det ikke har blitt brukt mer inngripende tvang enn nødvendig mot pasienten.  
+Ombudet ba kontrollkommisjonen om å behandle fremtidige saker om bruk av mekaniske tvangsmidler i tråd med det som fremgår av uttalelsen.
 
 ## Sakens bakgrunn
 

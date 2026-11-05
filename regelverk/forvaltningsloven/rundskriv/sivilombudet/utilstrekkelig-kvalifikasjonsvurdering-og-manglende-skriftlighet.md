@@ -15,8 +15,7 @@ Sivilombudets uttalelse 16.1.2020 (sak 2019/2676).
 ## Oppsummering
 
 En intern søker til en stilling i Y i X kommune klaget til ombudsmannen fordi hun mente seg forbigått. Hun mente seg best formelt kvalifisert, og fryktet at det var lagt vekt på utenforliggende hensyn. Vurderingen av kandidatenes kvalifikasjoner var ikke nedtegnet skriftlig.  
-   
- Ombudsmannen er kommet til at ansettelsesprosessen ikke har vært i tråd med de ulovfestede kravene til skriftlighet som gjelder ved ansettelser. Vurderingen av de aktuelle søkernes formelle kvalifikasjoner er utilstrekkelig. Vurderingen av klagerens personlige egenskaper fremstår imidlertid som saklig og relevant, og det er derfor ikke grunnlag for å hevde at hun ble forbigått ved ansettelsen.
+Ombudsmannen er kommet til at ansettelsesprosessen ikke har vært i tråd med de ulovfestede kravene til skriftlighet som gjelder ved ansettelser. Vurderingen av de aktuelle søkernes formelle kvalifikasjoner er utilstrekkelig. Vurderingen av klagerens personlige egenskaper fremstår imidlertid som saklig og relevant, og det er derfor ikke grunnlag for å hevde at hun ble forbigått ved ansettelsen.
 
 ## Sakens bakgrunn
 

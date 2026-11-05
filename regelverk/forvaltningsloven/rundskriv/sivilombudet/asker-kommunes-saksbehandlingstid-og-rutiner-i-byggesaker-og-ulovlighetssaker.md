@@ -15,14 +15,10 @@ Sivilombudets uttalelse 17.9.2025 (sak 2025/171).
 ## Oppsummering
 
 Saken gjelder saksbehandlingstiden for byggesaker og ulovlighetssaker i Asker kommune. På bakgrunn av flere klager hit, ba ombudet kommunen om generell informasjon om restanser og saksbehandlingstid for byggesaker, byggesaksklager og ulovlighetsvarsler.  
-   
- Kommunen har erkjent at de i dag har store utfordringer når det gjelder saksbehandlingstid, og at kommunen oversitter lovbestemte frister i en stor andel byggesaker og byggesaksklager. Kommunen mangler rutiner for fordeling og mottakskontroll, samt manglende oversikt over saksporteføljen.  
-   
- Sivilombudet er enig i at kommunen må etablere rutiner slik at saker ikke ligger ufordelt og uregistrert over tid. Saksbehandlingstiden er i dag ulovlig lang.  
-   
- Asker kommunes oppfølging av varsler om mulige ulovligheter er mangelfull og ikke i henhold til plan og bygningsloven § 1-4 og § 32-1. Saksbehandlingstiden i disse sakene er heller ikke i overenstemmelse med forvaltningslovens krav.   
-   
- Ombudet forutsetter at kommunen sørger for å få oversikt over saksporteføljen både i byggesaksavdelingene og på ulovlighetsfeltet. Videre må kommunen sette byggesaksenheten i stand til å oppfylle kommunens lovpålagte frister og plikter, og legge en plan for å nedarbeide ulovlighetsrestansene og byggesaksrestansene. Ombudet ber om en ny oppdatering innen 31. januar 2026.
+Kommunen har erkjent at de i dag har store utfordringer når det gjelder saksbehandlingstid, og at kommunen oversitter lovbestemte frister i en stor andel byggesaker og byggesaksklager. Kommunen mangler rutiner for fordeling og mottakskontroll, samt manglende oversikt over saksporteføljen.  
+Sivilombudet er enig i at kommunen må etablere rutiner slik at saker ikke ligger ufordelt og uregistrert over tid. Saksbehandlingstiden er i dag ulovlig lang.  
+Asker kommunes oppfølging av varsler om mulige ulovligheter er mangelfull og ikke i henhold til plan og bygningsloven § 1-4 og § 32-1. Saksbehandlingstiden i disse sakene er heller ikke i overenstemmelse med forvaltningslovens krav.  
+Ombudet forutsetter at kommunen sørger for å få oversikt over saksporteføljen både i byggesaksavdelingene og på ulovlighetsfeltet. Videre må kommunen sette byggesaksenheten i stand til å oppfylle kommunens lovpålagte frister og plikter, og legge en plan for å nedarbeide ulovlighetsrestansene og byggesaksrestansene. Ombudet ber om en ny oppdatering innen 31. januar 2026.
 
 Se oppdatering fra forvaltningen
 

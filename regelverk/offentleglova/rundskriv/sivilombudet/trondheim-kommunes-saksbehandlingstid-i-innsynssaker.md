@@ -15,10 +15,8 @@ Sivilombudets uttalelse 18.8.2021 (sak 2021/2823).
 ## Oppsummering
 
 Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt saksbehandlingstiden i innsynssaker i Trondheim kommune. Undersøkelsen viste at kommunen har en normal saksbehandlingstid på rundt to måneder. Ombudet undersøkte også om kommunen hadde igangsatt eller planlagt tiltak for å få ned eventuelle restanser.  
-   
- Etter ombudets syn er saksbehandlingstiden uakseptabelt lang. Den lange saksbehandlingstiden kan ikke sies å være i tråd med kravet til behandling «utan ugrunna opphald», jf. offentleglova § 29 første ledd. Tiltakene som kommunen har iverksatt eller planlegger å iverksette synes ikke å være tilstrekkelige til å gjøre noe med situasjonen på kort sikt. Kommunen bes derfor om å vurdere iverksettelse av ytterligere tiltak.  
-   
- Ombudet ber om tilbakemelding på utvikling i saken, herunder oppdaterte tall for restanser og gjennomsnittlig saksbehandlingstid innen 15. oktober 2021.
+Etter ombudets syn er saksbehandlingstiden uakseptabelt lang. Den lange saksbehandlingstiden kan ikke sies å være i tråd med kravet til behandling «utan ugrunna opphald», jf. offentleglova § 29 første ledd. Tiltakene som kommunen har iverksatt eller planlegger å iverksette synes ikke å være tilstrekkelige til å gjøre noe med situasjonen på kort sikt. Kommunen bes derfor om å vurdere iverksettelse av ytterligere tiltak.  
+Ombudet ber om tilbakemelding på utvikling i saken, herunder oppdaterte tall for restanser og gjennomsnittlig saksbehandlingstid innen 15. oktober 2021.
 
 Se oppdatering fra forvaltningen
 

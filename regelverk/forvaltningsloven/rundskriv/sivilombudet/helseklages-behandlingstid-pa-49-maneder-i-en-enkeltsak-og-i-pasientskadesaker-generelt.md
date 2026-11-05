@@ -15,12 +15,9 @@ Sivilombudets uttalelse 2.3.2020 (sak 2019/4658).
 ## Oppsummering
 
 En klagesak om utmåling av pasientskadeerstatning ble oversendt Helseklage i januar 2016. Helseklage opplyste da at behandlingstiden kunne bli alt fra noen uker til godt over ett år, og at gjennomsnittlig behandlingstid var tolv måneder. I november 2019 orienterte de om at målsettingen var å behandle saken innen utløpet av februar 2020.  
-   
- Sakens behandlingstid hittil på rundt 49 måneder er utvilsomt altfor lang og i strid med kravet i forvaltningsloven § 11a første ledd.   
-   
- Helseklage har siden flyttingen av Pasientskadenemndas sekretariat til Bergen ble påbegynt for fire år siden hatt svært lange behandlingstider i pasientskadesaker. Behandlingstidene er uakseptable og har vært det over flere år. Situasjonen blir stadig mer kritikkverdig etter hvert som tiden går uten at de nærmer seg et nivå som overholder de lovbestemte kravene i forvaltningsloven § 11 a. Ombudsmannen vil fortsette å følge med på behandlingstidene hos Helseklage.  
-   
- Uttalelsen er oversendt Helse- og omsorgsdepartement, som bes vurdere mulige tiltak for å bøte på situasjonen.
+Sakens behandlingstid hittil på rundt 49 måneder er utvilsomt altfor lang og i strid med kravet i forvaltningsloven § 11a første ledd.  
+Helseklage har siden flyttingen av Pasientskadenemndas sekretariat til Bergen ble påbegynt for fire år siden hatt svært lange behandlingstider i pasientskadesaker. Behandlingstidene er uakseptable og har vært det over flere år. Situasjonen blir stadig mer kritikkverdig etter hvert som tiden går uten at de nærmer seg et nivå som overholder de lovbestemte kravene i forvaltningsloven § 11 a. Ombudsmannen vil fortsette å følge med på behandlingstidene hos Helseklage.  
+Uttalelsen er oversendt Helse- og omsorgsdepartement, som bes vurdere mulige tiltak for å bøte på situasjonen.
 
 ## Sakens bakgrunn
 

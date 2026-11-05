@@ -16,12 +16,9 @@ Sivilombudets uttalelse 20.3.2024 (sak 2023/5666).
 ## Oppsummering
 
 Saken gjelder Bergen kommunes behandlingstid i en sak om spesialundervisning. Eleven ble henvist til pedagogisk-psykologisk tjeneste (PP-tjenesten) for utredning i mai 2023 og fikk opplyst at det ville ta minimum ni måneder før PP-tjenesten kunne starte på sin utredning.  
-   
- I forbindelse med ombudets undersøkelse av behandlingstiden, opplyste kommunen at PP-tjenesten antakelig ville begynne med sin utredning i løpet av juni 2024. Årsaken til den lange behandlingstiden ble opplyst å være store kapasitetsutfordringer ved PP-tjenesten i Bergen kommune.   
-   
- Sivilombudet er kommet til at PP-tjenestens behandlingstid i elevens sak er uforsvarlig lang og i strid med forvaltningslovens krav til at saken skal behandles uten ugrunnet opphold. Bergen kommunes redegjørelse for den generelle situasjonen i PP-tjenesten, viser at lang behandlingstid er et problem for flere elever tilknyttet den samme avdelingen i kommunen. Ombudet ser med bekymring på at flere elever må vente i lang tid på vedtak om spesialundervisning.   
-   
- Bergen kommune ble bedt om å vurdere om det kan treffes et midlertidig vedtak for eleven i påvente av en avgjørelse i saken. I tillegg ba ombudet om å bli holdt orientert om fremdriften i elevens sak. Ombudet vil også følge med på om ventelistene i PP-tjenesten er redusert eller fjernet ved utgangen av året, slik kommunen har forespeilet.
+I forbindelse med ombudets undersøkelse av behandlingstiden, opplyste kommunen at PP-tjenesten antakelig ville begynne med sin utredning i løpet av juni 2024. Årsaken til den lange behandlingstiden ble opplyst å være store kapasitetsutfordringer ved PP-tjenesten i Bergen kommune.  
+Sivilombudet er kommet til at PP-tjenestens behandlingstid i elevens sak er uforsvarlig lang og i strid med forvaltningslovens krav til at saken skal behandles uten ugrunnet opphold. Bergen kommunes redegjørelse for den generelle situasjonen i PP-tjenesten, viser at lang behandlingstid er et problem for flere elever tilknyttet den samme avdelingen i kommunen. Ombudet ser med bekymring på at flere elever må vente i lang tid på vedtak om spesialundervisning.  
+Bergen kommune ble bedt om å vurdere om det kan treffes et midlertidig vedtak for eleven i påvente av en avgjørelse i saken. I tillegg ba ombudet om å bli holdt orientert om fremdriften i elevens sak. Ombudet vil også følge med på om ventelistene i PP-tjenesten er redusert eller fjernet ved utgangen av året, slik kommunen har forespeilet.
 
 ## Sakens bakgrunn
 
@@ -66,7 +63,7 @@ Spesialundervisning er en lovpålagt oppgave for kommunen. Dersom kapasiteten i 
 Eleven ble henvist til PP-tjenesten for utredning i mai 2023. Bergen kommune anslår at PP-tjenesten først vil starte på sin utredning i løpet av juni 2024. Saken vil dermed ha en ren liggetid hos PP-tjenesten på over ett år. I tillegg kommer tiden skolen vil trenge for å utforme et vedtak når utredningen er ferdigstilt. Det innebærer at det vil ha gått mer enn ett helt skoleår fra henvisningen til PP-tjenesten før eleven får et vedtak om spesialundervisning. Slik klager har påpekt, gikk det også noe tid fra høsten 2022 da skolen først var i kontakt med PP-tjenesten for en mulig henvisning av eleven, frem til eleven ble henvist til utredning i mai 2023.
 
 Ombudet ser svært alvorlig på den lange behandlingstiden i saken. Selv om elevens sak ifølge kommunen ikke er av de mest alvorlige, vil det for den enkelte elev som har større eller mindre behov for tilpasninger av opplæringen være en stor belastning å gå i så lang tid uten nødvendige tilpasninger av opplæringstilbudet. Etter ombudets syn er det klart at elevens sak ikke er behandlet uten ugrunnet opphold og at den lange ventetiden i saken er uforsvarlig. Ombudet er glad for at Bergen kommune selv erkjenner at PP-tjenestens behandlingstid verken fremstår forsvarlig eller i tråd med forvaltningsloven  
- § 11 a.
+§ 11 a.
 
 I svaret hit har Bergen kommune redegjort for hvilke tilpasninger som er gjort i elevens opplæringstilbud i påvente av et vedtak om spesialundervisning. Ombudet har ikke grunnlag for å ta stilling til om det tilbudet som nå gis er tilstrekkelig for å sikre eleven et forsvarlig opplæringstilbud frem til det foreligger et vedtak som eventuelt innvilger spesialundervisning. Dette beror på kjennskap til elevens konkrete behov og pedagogfaglige vurderinger som ombudet vanskelig kan overprøve. At eleven, ifølge klageren, selv uttrykker et klart ønske om spesialundervisning og i tillegg opplever å henge etter på skolen kan imidlertid tyde på at tilbudet som gis per i dag ikke oppleves tilstrekkelig. Ombudet ber derfor kommunen vurdere om det bør innvilges mer spesialpedagogisk hjelp i et midlertidig vedtak i påvente av et endelig vedtak om spesialundervisning, alternativt om det er rom for ytterligere tiltak innenfor det ordinære opplæringstilbudet til eleven.
 

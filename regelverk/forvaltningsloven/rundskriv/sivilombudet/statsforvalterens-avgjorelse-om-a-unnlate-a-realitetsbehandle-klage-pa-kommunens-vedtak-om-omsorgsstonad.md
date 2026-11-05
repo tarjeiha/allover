@@ -14,9 +14,8 @@ Sivilombudets uttalelse 11.5.2023 (sak 2023/225).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Agders avgjørelse om å unnlate å realitetsbehandle en klage på en kommunes vedtak om avslag på omsorgsstønad fordi de hadde behandlet flere klager om omsorgsstønad fra samme klager tidligere. Statsforvalteren anså saken for endelig avgjort og viste til forvaltningsloven § 28 tredje ledd første punktum.   
-   
- Ombudet kom til at Statsforvalteren ikke hadde grunnlag for å unnlate å realitetsbehandle klagen, da den gjaldt kommunens vedtak i en ny sak som ikke hadde vært klagebehandlet tidligere. Ombudet ba derfor Statsforvalteren om å behandle saken på nytt.
+Saken gjelder Statsforvalteren i Agders avgjørelse om å unnlate å realitetsbehandle en klage på en kommunes vedtak om avslag på omsorgsstønad fordi de hadde behandlet flere klager om omsorgsstønad fra samme klager tidligere. Statsforvalteren anså saken for endelig avgjort og viste til forvaltningsloven § 28 tredje ledd første punktum.  
+Ombudet kom til at Statsforvalteren ikke hadde grunnlag for å unnlate å realitetsbehandle klagen, da den gjaldt kommunens vedtak i en ny sak som ikke hadde vært klagebehandlet tidligere. Ombudet ba derfor Statsforvalteren om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

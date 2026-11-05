@@ -14,13 +14,10 @@ Sivilombudets uttalelse 25.8.2026 (sak 2025/7636 ).
 
 ## Oppsummering
 
-Saken gjaldt retten til merverdiavgiftskompensasjon for en privat virksomhet, jf. kompensasjonsloven § 2. Selskapet skulle oppføre omsorgsboliger for eldre i samarbeid med to ulike kommuner og Husbanken. Leilighetene skulle utformes med omfattende tilrettelegging for heldøgns pleie fra kommunalt ansatte.   
-   
- Skattemyndighetene stilte et absolutt vilkår om at leilighetsbyggene hadde en personalbase i eget bygg eller i umiddelbar nærhet for å være omfattet av kompensasjonsloven. I tillegg måtte personalbasen tjene utelukkende det aktuelle leilighetsbygget.   
-   
- Sivilombudet mente at et slikt absolutt krav kunne medføre en for snever forståelse av kompensasjonsloven § 2 første ledd bokstav c sett på bakgrunn av Høyesteretts lovtolking i HR-2010-313. Etter ombudets syn måtte det foretas en konkret vurdering av om botilbudet kunne anses som en integrert del av det tilbudet kommunen ga for å etterleve sin lovpålagte plikt til å yte forsvarlige heldøgns helse- og omsorgstjenester.   
-   
- Sivilombudet kom i dette tilfellet til at selskapets oppføring av omsorgsboliger medførte at de var omfattet av kompensasjonslovens virkeområde, jf. § 2 første ledd bokstav c.
+Saken gjaldt retten til merverdiavgiftskompensasjon for en privat virksomhet, jf. kompensasjonsloven § 2. Selskapet skulle oppføre omsorgsboliger for eldre i samarbeid med to ulike kommuner og Husbanken. Leilighetene skulle utformes med omfattende tilrettelegging for heldøgns pleie fra kommunalt ansatte.  
+Skattemyndighetene stilte et absolutt vilkår om at leilighetsbyggene hadde en personalbase i eget bygg eller i umiddelbar nærhet for å være omfattet av kompensasjonsloven. I tillegg måtte personalbasen tjene utelukkende det aktuelle leilighetsbygget.  
+Sivilombudet mente at et slikt absolutt krav kunne medføre en for snever forståelse av kompensasjonsloven § 2 første ledd bokstav c sett på bakgrunn av Høyesteretts lovtolking i HR-2010-313. Etter ombudets syn måtte det foretas en konkret vurdering av om botilbudet kunne anses som en integrert del av det tilbudet kommunen ga for å etterleve sin lovpålagte plikt til å yte forsvarlige heldøgns helse- og omsorgstjenester.  
+Sivilombudet kom i dette tilfellet til at selskapets oppføring av omsorgsboliger medførte at de var omfattet av kompensasjonslovens virkeområde, jf. § 2 første ledd bokstav c.
 
 ## Sakens bakgrunn
 

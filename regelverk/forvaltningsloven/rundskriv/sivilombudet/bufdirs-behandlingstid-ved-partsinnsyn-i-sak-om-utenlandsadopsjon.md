@@ -15,12 +15,9 @@ Sivilombudets uttalelse 13.3.2024 (sak 2023/5674).
 ## Oppsummering
 
 Saken gjelder behandlingstiden hos Barne-, ungdoms- og familiedirektoratet (Bufdir) ved krav om innsyn i saker om utenlandsadopsjon. Ombudet har undersøkt både behandlingstiden i en konkret sak og behandlingstiden generelt.  
-   
- Tidligere brukte Bufdir normalt én til to måneder på å behandle slike saker, men på grunn av en sterk økning av antallet innsynskrav økte vanlig behandlingstid til omtrent fem måneder. I klagerens sak tok det omtrent fire og en halv måned å behandle kravet.  
-   
- Sivilombudet er kommet til at behandlingstiden i klagerens sak ikke er i tråd med forvaltningslovens krav til at saken skal avgjøres «uten ugrunnet opphold». Utgangspunktet er at krav om innsyn skal behandles svært raskt. Ombudet har forståelse for at den sterke økningen i antallet innsynskrav har medført lengre behandlingstider, særlig i en overgangsfase. En normal behandlingstid på fem måneder i denne type saker, over tid, oppfyller ikke forvaltningslovens krav til behandlingstid.   
-   
- Selv om behandling av innsynskrav ved utenlandsadopsjon er ressurskrevende, mener ombudet at det også er begrunnet tvil om allerede de tidligere behandlingstidene på opp mot to måneder er i tråd med lovens krav. Bufdir bes om å vurdere ytterligere tiltak for å få ned behandlingstidene.
+Tidligere brukte Bufdir normalt én til to måneder på å behandle slike saker, men på grunn av en sterk økning av antallet innsynskrav økte vanlig behandlingstid til omtrent fem måneder. I klagerens sak tok det omtrent fire og en halv måned å behandle kravet.  
+Sivilombudet er kommet til at behandlingstiden i klagerens sak ikke er i tråd med forvaltningslovens krav til at saken skal avgjøres «uten ugrunnet opphold». Utgangspunktet er at krav om innsyn skal behandles svært raskt. Ombudet har forståelse for at den sterke økningen i antallet innsynskrav har medført lengre behandlingstider, særlig i en overgangsfase. En normal behandlingstid på fem måneder i denne type saker, over tid, oppfyller ikke forvaltningslovens krav til behandlingstid.  
+Selv om behandling av innsynskrav ved utenlandsadopsjon er ressurskrevende, mener ombudet at det også er begrunnet tvil om allerede de tidligere behandlingstidene på opp mot to måneder er i tråd med lovens krav. Bufdir bes om å vurdere ytterligere tiltak for å få ned behandlingstidene.
 
 Se oppdatering fra forvaltningen
 

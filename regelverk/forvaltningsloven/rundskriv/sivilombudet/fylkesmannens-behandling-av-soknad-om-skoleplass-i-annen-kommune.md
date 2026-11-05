@@ -15,9 +15,8 @@ Sivilombudets uttalelse 22.8.2019 (sak 2019/460).
 
 ## Oppsummering
 
-Saken gjelder søknad om skoleplass i nabokommunen for en skolestarter som bor ved grensen mellom to kommuner. Hovedbegrunnelsen for søknaden er at barnet ikke har nettverk i bostedskommunen grunnet et anstrengt forhold mellom far og hans særkullsbarn og tidligere samboer, som bor på samme sted.   
-   
- Ombudsmannen mener saken ikke er godt nok opplyst. Hensynet til barnets beste er som følge av dette ikke tilstrekkelig kartlagt, og manglende opplysning av saken får også betydning for avveiningen mellom hensynet til barnets beste og hensynet til det kommunale selvstyret. I denne saken har ikke partene fått tilstrekkelig veiledning til å ivareta sine interesser. Fylkesmannen bes vurdere saken på nytt.
+Saken gjelder søknad om skoleplass i nabokommunen for en skolestarter som bor ved grensen mellom to kommuner. Hovedbegrunnelsen for søknaden er at barnet ikke har nettverk i bostedskommunen grunnet et anstrengt forhold mellom far og hans særkullsbarn og tidligere samboer, som bor på samme sted.  
+Ombudsmannen mener saken ikke er godt nok opplyst. Hensynet til barnets beste er som følge av dette ikke tilstrekkelig kartlagt, og manglende opplysning av saken får også betydning for avveiningen mellom hensynet til barnets beste og hensynet til det kommunale selvstyret. I denne saken har ikke partene fått tilstrekkelig veiledning til å ivareta sine interesser. Fylkesmannen bes vurdere saken på nytt.
 
 ## Sakens bakgrunn
 

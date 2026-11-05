@@ -15,10 +15,8 @@ Sivilombudets uttalelse 10.10.2025 (sak 2025/3072).
 ## Oppsummering
 
 Saken gjelder innsyn i en oversikt over ansatte i Mattilsynet. Kravet om innsyn omfattet informasjon om navn, stillingstittel, avdeling/region og ansiennitet. Landbruks- og matdepartementet stadfestet Mattilsynet avslag på kravet om innsyn. Departementet viste i sin avgjørelse til at opplysningene ikke kan anses ferdigstilt, og at det derfor ikke er tale om et saksdokument, jf. offentleglova § 4 andre ledd, jf. § 3. Subsidiært kom departementet til at sammenstillingen kan unntas som organintern etter offentleglova § 14 første ledd, eller atter subsidiært etter § 24 tredje ledd fordi innsyn kan lette gjennomføringen av straffbare handlinger eller utsette enkeltpersoner for fare.  
-   
- Sivilombudet kom til at vilkårene for å lage en sammenstilling etter offentleglova § 9 er oppfylt. Sammenstillingen kan ikke unntas fra innsyn som organintern etter offentleglova § 14 første ledd. Videre kom ombudet til at det er begrunnet tvil om vilkårene for unntak i offentleglova § 24 tredje ledd er oppfylt.  
-   
- Landbruks- og matdepartementet ble bedt om å vurdere saken på nytt.
+Sivilombudet kom til at vilkårene for å lage en sammenstilling etter offentleglova § 9 er oppfylt. Sammenstillingen kan ikke unntas fra innsyn som organintern etter offentleglova § 14 første ledd. Videre kom ombudet til at det er begrunnet tvil om vilkårene for unntak i offentleglova § 24 tredje ledd er oppfylt.  
+Landbruks- og matdepartementet ble bedt om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

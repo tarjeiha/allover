@@ -16,14 +16,10 @@ Sivilombudets uttalelse 26.4.2022 (sak 2022/1576).
 ## Oppsummering
 
 Saken gjelder krav om dekning av sakskostnader i forbindelse med omgjøring av vedtak om arbeidsavklaringspenger. Den som får et vedtak endret til gunst for seg, har etter forvaltningsloven § 36 krav på dekning av nødvendige sakskostnader for å få endret vedtaket, såfremt endringen ikke skyldes forhold «utenfor forvaltningens kontroll».  
-   
- Skyldes omgjøringen nye opplysninger som belyser forholdene på vedtakstidspunktet, vil en part normalt ha krav på dekning av sakskostnader dersom forvaltningen ikke har oppfylt sin utredningsplikt etter forvaltningsloven § 17.   
-   
- Nav Klageinstans omgjorde sitt avslag på bakgrunn av opplysninger om klagerens arbeidsevne beskrevet i en nevropsykologisk undersøkelse. En del av opplysningene i denne rapporten var kjent for Nav Klageinstans før de traff vedtaket i saken, da Nav hadde mottatt en epikrise med informasjon av betydning for vurderingen av klagerens arbeidsevne i forkant av klagevedtaket.   
-   
- Ombudet er kommet til at saken ikke var tilstrekkelig utredet da Nav Klageinstans traff sitt omgjøringsvedtak. Nav må ved vurderingen av utredningspliktens rekkevidde avveie denne mot effektivitet og ressursbruk. Der Nav har kjennskap til opplysninger som klart fremstår egnet til å endre forvaltningens konklusjon dersom opplysningene blir bekreftet, må Nav undersøke opplysningene nærmere før det fattes vedtak. Etter ombudets syn, vil hensynet til effektiv saksfremdrift i slike tilfeller ikke være avgjørende. I dette tilfellet skulle Nav Klageinstans ha foretatt nærmere undersøkelser på bakgrunn av epikrisen eller avventet til ytterligere dokumentasjon forelå. Når dette ikke var gjort, og saken dermed ikke er tilstrekkelig utredet etter forvaltningsloven § 17, skyldes ikke omgjøringsvedtaket til gunst for klageren forhold utenfor forvaltningens kontroll, jf. forvaltningsloven § 36 første ledd.  
-   
- Sivilombudet ber Arbeids- og velferdsdirektoratet om å vurdere sakskostnadskravet på nytt.
+Skyldes omgjøringen nye opplysninger som belyser forholdene på vedtakstidspunktet, vil en part normalt ha krav på dekning av sakskostnader dersom forvaltningen ikke har oppfylt sin utredningsplikt etter forvaltningsloven § 17.  
+Nav Klageinstans omgjorde sitt avslag på bakgrunn av opplysninger om klagerens arbeidsevne beskrevet i en nevropsykologisk undersøkelse. En del av opplysningene i denne rapporten var kjent for Nav Klageinstans før de traff vedtaket i saken, da Nav hadde mottatt en epikrise med informasjon av betydning for vurderingen av klagerens arbeidsevne i forkant av klagevedtaket.  
+Ombudet er kommet til at saken ikke var tilstrekkelig utredet da Nav Klageinstans traff sitt omgjøringsvedtak. Nav må ved vurderingen av utredningspliktens rekkevidde avveie denne mot effektivitet og ressursbruk. Der Nav har kjennskap til opplysninger som klart fremstår egnet til å endre forvaltningens konklusjon dersom opplysningene blir bekreftet, må Nav undersøke opplysningene nærmere før det fattes vedtak. Etter ombudets syn, vil hensynet til effektiv saksfremdrift i slike tilfeller ikke være avgjørende. I dette tilfellet skulle Nav Klageinstans ha foretatt nærmere undersøkelser på bakgrunn av epikrisen eller avventet til ytterligere dokumentasjon forelå. Når dette ikke var gjort, og saken dermed ikke er tilstrekkelig utredet etter forvaltningsloven § 17, skyldes ikke omgjøringsvedtaket til gunst for klageren forhold utenfor forvaltningens kontroll, jf. forvaltningsloven § 36 første ledd.  
+Sivilombudet ber Arbeids- og velferdsdirektoratet om å vurdere sakskostnadskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

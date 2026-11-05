@@ -16,10 +16,8 @@ Sivilombudets uttalelse 20.1.2020 (sak 2019/3089).
 ## Oppsummering
 
 Saken gjelder søknad om fritak fra renovasjonsordningen og gebyrplikten i Solund kommune. Nordhordland og Gulen Interkommunale Renovasjonsselskap (NGIR) avslo søknaden. Vedtaket ble senere stadfestet av NGIRs styre som klagenemnd.  
-   
- Ombudsmannen er kommet til at styret i et interkommunalt selskap ikke kan opptre som klagenemnd for vedtak om fritak fra renovasjonsordningen truffet av selskapets administrasjon i første instans. NGIRs styre var derfor i denne saken ikke rett klageinstans. Ombudsmannen kan for øvrig ikke se at NGIRs klagenemnds (styrets) vedtak viser at det er foretatt en konkret vurdering av de objektive forholdene ved den omsøkte eiendommen, slik forurensningsloven krever. Dette innebærer at avslaget ikke er tilstrekkelig begrunnet.  
-   
- Ombudsmannen ber NGIRs styre i samråd med Solund kommune om å foreta en ny vurdering av hva som er rett klageinstans for vedtak vedrørende fritak fra renovasjonsordningen. Ombudsmannen ber også om at rett klageinstans vurderer klagesaken på nytt.
+Ombudsmannen er kommet til at styret i et interkommunalt selskap ikke kan opptre som klagenemnd for vedtak om fritak fra renovasjonsordningen truffet av selskapets administrasjon i første instans. NGIRs styre var derfor i denne saken ikke rett klageinstans. Ombudsmannen kan for øvrig ikke se at NGIRs klagenemnds (styrets) vedtak viser at det er foretatt en konkret vurdering av de objektive forholdene ved den omsøkte eiendommen, slik forurensningsloven krever. Dette innebærer at avslaget ikke er tilstrekkelig begrunnet.  
+Ombudsmannen ber NGIRs styre i samråd med Solund kommune om å foreta en ny vurdering av hva som er rett klageinstans for vedtak vedrørende fritak fra renovasjonsordningen. Ombudsmannen ber også om at rett klageinstans vurderer klagesaken på nytt.
 
 ## Sakens bakgrunn
 

@@ -14,8 +14,8 @@ Sivilombudets uttalelse 11.10.2017 (sak 2017/646).
 
 ## Oppsummering
 
-Saken gjelder tilsetting av fagarbeider i X kommune. Tre søkere mente de alle var bedre kvalifisert enn den tilsatte. I motsetning til den tilsatte oppfylte alle tre flere av kvalifikasjonene i utlysningsteksten. De mente også at det var feil av kommunen å ikke innhente referanser.   
- Ombudsmannen kom til at manglende skriftlighet og svikt i kommunens opplysning av saken gjorde det vanskelig å kontrollere kommunens kvalifikasjonsvurdering, og følgelig også tilsettingsvedtaket. Ombudsmannen kunne derfor ikke ta stilling til om klagerne ble forbigått ved tilsettingen. Undersøkelsen av saken etterlot begrunnet tvil om søkernes personlige egnethet var godt nok opplyst før tilsettingsvedtaket ble truffet, og om kommunens kvalifikasjonsvurdering bygget på et saklig grunnlag, jf. sivilombudsmannsloven § 10 annet ledd.
+Saken gjelder tilsetting av fagarbeider i X kommune. Tre søkere mente de alle var bedre kvalifisert enn den tilsatte. I motsetning til den tilsatte oppfylte alle tre flere av kvalifikasjonene i utlysningsteksten. De mente også at det var feil av kommunen å ikke innhente referanser.  
+Ombudsmannen kom til at manglende skriftlighet og svikt i kommunens opplysning av saken gjorde det vanskelig å kontrollere kommunens kvalifikasjonsvurdering, og følgelig også tilsettingsvedtaket. Ombudsmannen kunne derfor ikke ta stilling til om klagerne ble forbigått ved tilsettingen. Undersøkelsen av saken etterlot begrunnet tvil om søkernes personlige egnethet var godt nok opplyst før tilsettingsvedtaket ble truffet, og om kommunens kvalifikasjonsvurdering bygget på et saklig grunnlag, jf. sivilombudsmannsloven § 10 annet ledd.
 
 I brev 22. februar 2017 klaget A, B og C sammen til ombudsmannen over X kommunes tilsetting 17. november 2016 av fagarbeider i midlertidig stilling. Alle tre mente seg bedre kvalifisert til stillingen enn han som ble tilsatt. De viste til at de, i motsetning til den tilsatte, hadde lastebilsertifikat, maskinførerbevis og relevant praksis som etterspurt i utlysningsteksten.
 

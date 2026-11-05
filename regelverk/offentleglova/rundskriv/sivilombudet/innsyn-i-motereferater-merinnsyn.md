@@ -14,11 +14,9 @@ Sivilombudets uttalelse 30.3.2022 (sak 2022/1331).
 
 ## Oppsummering
 
-Saken gjelder innsyn i referater fra IDF-møter (informasjons-, drøftings- og forhandlingsmøter) i et politidistrikt. Politidirektoratet avslo innsyn i referatene under henvisning til at de var organinterne dokumenter. Direktoratet vurderte merinnsyn for møtereferatene, men viste til at offentliggjøring kunne medføre risiko for at møtedeltakerne ble mer tilbakeholdne i diskusjoner og i hva som ble gjengitt i referatene. Dette ville begrense både møtenes og referatenes funksjon og nytte- og informasjonsverdi.   
-   
- Sivilombudet mener det er tvilsomt om de aktuelle referatene i sin helhet ligger i kjerneområdet for offentleglova § 14 om organinterne dokumenter. Det er derfor også tvilsomt om disse hensynene kan bli avgjørende for vurderingen av merinnsyn i alle deler av referatene. Vurderingen direktoratet har foretatt er uansett for generell, ved at den ikke er knyttet opp mot innholdet i de enkelte møtereferatene.  
-   
- Ombudet ber på denne bakgrunn direktoratet om å foreta en fornyet merinnsynsvurdering.
+Saken gjelder innsyn i referater fra IDF-møter (informasjons-, drøftings- og forhandlingsmøter) i et politidistrikt. Politidirektoratet avslo innsyn i referatene under henvisning til at de var organinterne dokumenter. Direktoratet vurderte merinnsyn for møtereferatene, men viste til at offentliggjøring kunne medføre risiko for at møtedeltakerne ble mer tilbakeholdne i diskusjoner og i hva som ble gjengitt i referatene. Dette ville begrense både møtenes og referatenes funksjon og nytte- og informasjonsverdi.  
+Sivilombudet mener det er tvilsomt om de aktuelle referatene i sin helhet ligger i kjerneområdet for offentleglova § 14 om organinterne dokumenter. Det er derfor også tvilsomt om disse hensynene kan bli avgjørende for vurderingen av merinnsyn i alle deler av referatene. Vurderingen direktoratet har foretatt er uansett for generell, ved at den ikke er knyttet opp mot innholdet i de enkelte møtereferatene.  
+Ombudet ber på denne bakgrunn direktoratet om å foreta en fornyet merinnsynsvurdering.
 
 Se oppdatering fra forvaltningen
 

@@ -16,8 +16,7 @@ Sivilombudets uttalelse 3.11.2016 (sak 2015/1632).
 ## Oppsummering
 
 Saken gjelder adgangen til å klage over utlendingsmyndighetenes fastsettelse av alder (fødselsår) i forbindelse med innvilgelse av en søknad om oppholdstillatelse.  
-   
- Ombudsmannen er kommet til at når Utlendingsdirektoratet vurderer søkerens alder, og finner grunn til å fravike utlendingens egne opplysninger på en slik måte at søkeren anses som myndig istedenfor umyndig, må avgjørelsen om fødselsår anses som et enkeltvedtak som kan påklages på selvstendig grunnlag og uavhengig av om det innvilges oppholdstillatelse. Fastsettelsen av alder har i slike tilfeller avgjørende betydning for om søkeren får de rettighetene som tilkommer enslige, mindreårige asylsøkere. Utlendingsnemnda bes om å ta den aktuelle klagesaken til behandling, og ta stilling til klagerens alder. Ombudsmannen ber også nemnda sørge for at det gis slik klageadgang i tilsvarende saker.
+Ombudsmannen er kommet til at når Utlendingsdirektoratet vurderer søkerens alder, og finner grunn til å fravike utlendingens egne opplysninger på en slik måte at søkeren anses som myndig istedenfor umyndig, må avgjørelsen om fødselsår anses som et enkeltvedtak som kan påklages på selvstendig grunnlag og uavhengig av om det innvilges oppholdstillatelse. Fastsettelsen av alder har i slike tilfeller avgjørende betydning for om søkeren får de rettighetene som tilkommer enslige, mindreårige asylsøkere. Utlendingsnemnda bes om å ta den aktuelle klagesaken til behandling, og ta stilling til klagerens alder. Ombudsmannen ber også nemnda sørge for at det gis slik klageadgang i tilsvarende saker.
 
 Se oppdatering fra forvaltningen
 
@@ -70,7 +69,7 @@ Det er en sentral oppgave for utlendingsmyndighetene å avklare identiteten til 
 I tilfeller hvor den identiteten søkeren oppgir ikke kan fastsettes med tilstrekkelig grad av sikkerhet ut fra offentlige dokumenter, må utlendingsmyndighetene legge til grunn den identiteten som fremstår som mest sannsynlig.
 
 Det er i utgangspunktet de opplysningene søkeren selv oppgir om navn, fødselsdato, nasjonalitet mv. i forbindelse med den første søknaden, som registreres i utlendingsmyndighetenes saksbehandlingssystem (DUF). Dersom søkeren ikke kjenner til dag, måned eller år vedkommende er født, følger det av retningslinjene gitt i UDIs rundskriv  
- RS 2012-009V1 at dag og/eller måned for registreringen benyttes som fødselsdato. Er fødselsår ukjent, registreres antatt fødselsår.
+RS 2012-009V1 at dag og/eller måned for registreringen benyttes som fødselsdato. Er fødselsår ukjent, registreres antatt fødselsår.
 
 I det samme rundskrivet beskrives saksbehandlingen i tilfellene der det gjennomføres aldersundersøkelse:
 

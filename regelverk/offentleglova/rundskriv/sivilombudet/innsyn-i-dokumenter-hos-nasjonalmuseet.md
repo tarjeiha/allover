@@ -15,10 +15,8 @@ Sivilombudets uttalelse 21.10.2021 (sak 2021/3326 og 2021/3052).
 ## Oppsummering
 
 Saken gjelder innsyn i ulike dokumenter hos Nasjonalmuseet, herunder møtereferater fra innkjøpskomiteen, samt møtereferater og kommunikasjonsplan mellom Fredriksen Family Art Company og museet. Nasjonalmuseet avslo innsynskravene med henvisning til offentlegforskrifta § 1 tredje ledd bokstav a om unntak for dokumenter om «kunstnarleg og fagleg programmering og planlegging av repertoar». Avslaget ble stadfestet av Kulturdepartementet. I begrunnelsene viste departementet blant annet til at ordlyden i forskriftsbestemmelsen ikke kan tolkes så snevert at dokumentene utelukkende må gjelde planleggingen av aktuelle publikumsrettede aktiviteter. Meroffentlighet etter offentleglova § 11 ble ikke vurdert.  
-   
- Sivilombudet har ikke rettslige innvendinger til departementets forståelse av unntaksbestemmelsen, men er kommet til at departementets meroffentlighetsvurdering for møtereferatene fra Nasjonalmuseets innkjøpskomité er mangelfull. Vurderingen departementet har foretatt er ikke knyttet opp mot vilkårene i offentleglova § 11 og er generell og overordnet i stedet for knyttet til det konkrete innholdet i det enkelte dokument.   
-   
- Ombudet ber på denne bakgrunn departementet om å foreta en fornyet meroffentlighetsvurdering av møtereferatene fra museets innkjøpskomité, og orientere ombudet om den nye vurderingen innen 4. november 2021.
+Sivilombudet har ikke rettslige innvendinger til departementets forståelse av unntaksbestemmelsen, men er kommet til at departementets meroffentlighetsvurdering for møtereferatene fra Nasjonalmuseets innkjøpskomité er mangelfull. Vurderingen departementet har foretatt er ikke knyttet opp mot vilkårene i offentleglova § 11 og er generell og overordnet i stedet for knyttet til det konkrete innholdet i det enkelte dokument.  
+Ombudet ber på denne bakgrunn departementet om å foreta en fornyet meroffentlighetsvurdering av møtereferatene fra museets innkjøpskomité, og orientere ombudet om den nye vurderingen innen 4. november 2021.
 
 Se oppdatering fra forvaltningen
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 3.6.2025 (sak 2024/6654).
 
 ## Oppsummering
 
-Sivilombudet har undersøkt Forsvarets klagebehandling av et vedtak om dimisjon på medisinsk grunnlag. Klageren avtjente verneplikt i førstegangstjenesten da han ble dimittert høsten 2024. Den primære legenemndas vurdering var at klager ikke var tjenestedyktig på grunn av en skade i en finger, og anbefalte at han fikk oppfølging av spesialisttjenesten.   
-   
- Rett etter dimisjonen oppsøkte klager spesialisthelsetjenesten. Etter en grundig undersøkelse av klagers hånd kunne ikke legen se noen grunn til at han ikke skulle kunne fortsette sin førstegangstjeneste. Klager påklaget legenemndas vedtak til klageinstansen i Forsvaret og viste til de nye opplysningene fra spesialisthelsetjenesten. Han oversendte også spesialistuttalelsen som et vedlegg til klagen. Klageinstansen behandlet saken, og opprettholdt kjennelsen om at klager var tjenesteudyktig.  
-   
- Sivilombudet mener at Forsvaret handlet i strid med kravene til en akseptabel klagebehandling da de ikke gjennomgikk og vurderte de nye dokumenterte helseopplysningene. Det er etter Sivilombudets syn et alvorlig brudd på helt grunnleggende saksbehandlingskrav. Det følger av feilen at det ikke er mulig å vite om klagenemndas konklusjon er riktig.   
-   
- Ombudet ber Forsvaret vurdere om det er grunnlag for å gjennomgå saksbehandlingen i et utvalg klagesaker vedrørende medisinske vurderinger for å avdekke om denne saken er et enkelttilfelle eller om det kan være utslag av gjennomgående svakheter i saksbehandlingen av klager over skikkethetsvurderingen.
+Sivilombudet har undersøkt Forsvarets klagebehandling av et vedtak om dimisjon på medisinsk grunnlag. Klageren avtjente verneplikt i førstegangstjenesten da han ble dimittert høsten 2024. Den primære legenemndas vurdering var at klager ikke var tjenestedyktig på grunn av en skade i en finger, og anbefalte at han fikk oppfølging av spesialisttjenesten.  
+Rett etter dimisjonen oppsøkte klager spesialisthelsetjenesten. Etter en grundig undersøkelse av klagers hånd kunne ikke legen se noen grunn til at han ikke skulle kunne fortsette sin førstegangstjeneste. Klager påklaget legenemndas vedtak til klageinstansen i Forsvaret og viste til de nye opplysningene fra spesialisthelsetjenesten. Han oversendte også spesialistuttalelsen som et vedlegg til klagen. Klageinstansen behandlet saken, og opprettholdt kjennelsen om at klager var tjenesteudyktig.  
+Sivilombudet mener at Forsvaret handlet i strid med kravene til en akseptabel klagebehandling da de ikke gjennomgikk og vurderte de nye dokumenterte helseopplysningene. Det er etter Sivilombudets syn et alvorlig brudd på helt grunnleggende saksbehandlingskrav. Det følger av feilen at det ikke er mulig å vite om klagenemndas konklusjon er riktig.  
+Ombudet ber Forsvaret vurdere om det er grunnlag for å gjennomgå saksbehandlingen i et utvalg klagesaker vedrørende medisinske vurderinger for å avdekke om denne saken er et enkelttilfelle eller om det kan være utslag av gjennomgående svakheter i saksbehandlingen av klager over skikkethetsvurderingen.
 
 Se oppdatering fra forvaltningen
 

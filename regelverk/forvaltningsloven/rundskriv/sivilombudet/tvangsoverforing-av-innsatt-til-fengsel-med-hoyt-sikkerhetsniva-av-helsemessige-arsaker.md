@@ -15,12 +15,9 @@ Sivilombudets uttalelse 16.5.2025 (sak 2024/5133).
 ## Oppsummering
 
 Saken gjaldt Kriminalomsorgen region nords vedtak om tvangsoverføring av en innsatt fra et fengsel med lavere sikkerhetsnivå til et fengsel med høyere sikkerhetsnivå på grunn av den innsattes helsetilstand. Avgjørelsen ble hjemlet i straffegjennomføringsloven § 14 første ledd bokstav d om at slik overføring kan skje dersom det er nødvendig av hensyn til «ro, orden og sikkerhet».  
-   
- Ombudet kom til at bestemmelsen ikke hjemlet overføringen. Det var ingen opplysninger i saken som tilsa at innsattes helsetilstand utfordret fengselets «ro, orden og sikkerhet». Det var videre begrunnet tvil om regionen hadde oppfylt sin plikt til å vurdere klagers anførsler, jf. forvaltningsloven § 34 andre ledd andre punktum. Vurderingen av hensynet til barnets beste var heller ikke tilstrekkelig individuell og konkret, og Grunnloven § 104 andre ledd og barnekonvensjonen artikkel 3 nr. 1 var derfor ikke oppfylt i saken.  
-   
- Ombudet ba regionen om å vurdere saken på nytt.  
-   
- Ombudet innhentet også informasjon fra Kriminalomsorgsdirektoratet om praksis for tvangsoverføring av innsatte til fengsel med høyere sikkerhetsnivå av hensyn til helseoppfølging med hjemmel i straffegjennomføringsloven § 14 første ledd bokstav d. Det at retningslinjene ikke hadde blitt oppdatert siden tilføyelsen av bestemmelsens andre ledd i 2013, kunne ha bidratt til at første ledd bokstav d fremdeles ble brukt i noen grad. Det var derfor positivt at direktoratet nå ville oppdatere retningslinjene om tvangsoverføring på bakgrunn av innsattes helsetilstand.
+Ombudet kom til at bestemmelsen ikke hjemlet overføringen. Det var ingen opplysninger i saken som tilsa at innsattes helsetilstand utfordret fengselets «ro, orden og sikkerhet». Det var videre begrunnet tvil om regionen hadde oppfylt sin plikt til å vurdere klagers anførsler, jf. forvaltningsloven § 34 andre ledd andre punktum. Vurderingen av hensynet til barnets beste var heller ikke tilstrekkelig individuell og konkret, og Grunnloven § 104 andre ledd og barnekonvensjonen artikkel 3 nr. 1 var derfor ikke oppfylt i saken.  
+Ombudet ba regionen om å vurdere saken på nytt.  
+Ombudet innhentet også informasjon fra Kriminalomsorgsdirektoratet om praksis for tvangsoverføring av innsatte til fengsel med høyere sikkerhetsnivå av hensyn til helseoppfølging med hjemmel i straffegjennomføringsloven § 14 første ledd bokstav d. Det at retningslinjene ikke hadde blitt oppdatert siden tilføyelsen av bestemmelsens andre ledd i 2013, kunne ha bidratt til at første ledd bokstav d fremdeles ble brukt i noen grad. Det var derfor positivt at direktoratet nå ville oppdatere retningslinjene om tvangsoverføring på bakgrunn av innsattes helsetilstand.
 
 ## Sakens bakgrunn
 

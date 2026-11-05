@@ -16,12 +16,9 @@ Sivilombudets uttalelse 11.9.2023 (sak 2022/5127).
 ## Oppsummering
 
 Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt betydningen av Tolletatens organisering for behandlingen av innsynssaker. Ombudet har rettet tilsvarende undersøkelser mot Fiskeridirektoratet, Arbeidstilsynet, Statens vegvesen, Mattilsynet og (mer begrenset) mot Skatteetaten. Saken har reist spørsmål om innsynssaker er sikret en reell to-instansbehandling, hvilke dokumenter som er organinterne og hvem som skal behandle innsynskrav. Ombudet har også undersøkt hvordan korrespondanse sendt innad i etaten er synliggjort i postjournalen og i journalen publisert på eInnsyn.  
-   
- Etter en konkret vurdering av Tolletatens redegjørelse og informasjon som ellers finnes om etaten, har ombudet kommet til at det fremstår som usikkert hvordan organinndelingen i Tolletaten faktisk er per i dag.  
-   
- Ombudet har videre kommet til at selv om Juridisk stab er et selvstendig organ, så er det neppe grunnlag for å anse enheten som et overordnet forvaltningsorgan, og dermed klageinstans etter offentleglova § 32, i innsynssaker som øvrige staber og divisjoner i etaten har behandlet. Juridisk stab kan heller ikke gjennom delegering gjøres til klageinstans for avgjørelser truffet av enheter som inngår i samme organ som tolldirektøren. Ombudet ber derfor Tolletaten i samråd med Finansdepartementet om å vurdere klageordningen, herunder vurdere om det bør lov- eller forskriftsfestes hvilket forvaltningsorgan som er klageinstans i innsynssaker behandlet av de enkelte enhetene i Tolletaten, jf. offentleglova § 32 første ledd fjerde punktum.  
-   
- Ombudet har knyttet enkelte merknader til Tolletatens arkiv, journal og informasjon på eInnsyn.
+Etter en konkret vurdering av Tolletatens redegjørelse og informasjon som ellers finnes om etaten, har ombudet kommet til at det fremstår som usikkert hvordan organinndelingen i Tolletaten faktisk er per i dag.  
+Ombudet har videre kommet til at selv om Juridisk stab er et selvstendig organ, så er det neppe grunnlag for å anse enheten som et overordnet forvaltningsorgan, og dermed klageinstans etter offentleglova § 32, i innsynssaker som øvrige staber og divisjoner i etaten har behandlet. Juridisk stab kan heller ikke gjennom delegering gjøres til klageinstans for avgjørelser truffet av enheter som inngår i samme organ som tolldirektøren. Ombudet ber derfor Tolletaten i samråd med Finansdepartementet om å vurdere klageordningen, herunder vurdere om det bør lov- eller forskriftsfestes hvilket forvaltningsorgan som er klageinstans i innsynssaker behandlet av de enkelte enhetene i Tolletaten, jf. offentleglova § 32 første ledd fjerde punktum.  
+Ombudet har knyttet enkelte merknader til Tolletatens arkiv, journal og informasjon på eInnsyn.
 
 Se oppdatering fra forvaltningen
 

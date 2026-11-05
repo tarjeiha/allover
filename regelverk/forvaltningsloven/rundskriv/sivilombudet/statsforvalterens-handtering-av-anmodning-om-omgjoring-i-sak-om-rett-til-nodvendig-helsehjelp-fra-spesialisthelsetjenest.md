@@ -14,11 +14,9 @@ Sivilombudets uttalelse 11.4.2024 (sak 2023/3819).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om en klager hadde anmodet Statsforvalteren i Trøndelag om omgjøring av deres avgjørelse i en sak om rett til nødvendig helsehjelp, og om Statsforvalteren behandlet henvendelsen som en omgjøringsanmodning.   
-   
- Ombudet kom til at klageren hadde anmodet om omgjøring, slik han har adgang til. Videre mente ombudet at det ikke gikk klart fram av svarene til klageren, eller sakens øvrige dokumenter, at Statsforvalteren hadde oppfattet henvendelsene som anmodning om omgjøring, eller vurdert om det forelå nye opplysninger som ga grunn til en annen vurdering av saken. Ombudet mente derfor at Statsforvalterens håndtering av omgjøringsanmodningene ikke var i tråd med grunnleggende krav til forsvarlig saksbehandling.   
-   
- Ombudet ba Statsforvalteren om å vurdere klagerens henvendelser på nytt.
+Saken gjelder spørsmålet om en klager hadde anmodet Statsforvalteren i Trøndelag om omgjøring av deres avgjørelse i en sak om rett til nødvendig helsehjelp, og om Statsforvalteren behandlet henvendelsen som en omgjøringsanmodning.  
+Ombudet kom til at klageren hadde anmodet om omgjøring, slik han har adgang til. Videre mente ombudet at det ikke gikk klart fram av svarene til klageren, eller sakens øvrige dokumenter, at Statsforvalteren hadde oppfattet henvendelsene som anmodning om omgjøring, eller vurdert om det forelå nye opplysninger som ga grunn til en annen vurdering av saken. Ombudet mente derfor at Statsforvalterens håndtering av omgjøringsanmodningene ikke var i tråd med grunnleggende krav til forsvarlig saksbehandling.  
+Ombudet ba Statsforvalteren om å vurdere klagerens henvendelser på nytt.
 
 Se oppdatering fra forvaltningen
 

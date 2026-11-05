@@ -15,9 +15,8 @@ Sivilombudets uttalelse 19.11.2023 (sak 2023/2295).
 
 ## Oppsummering
 
-Saken gjelder innsyn i tilbudsdokumenter i en anbudskonkurranse for ekstern evaluering av Forsvarets system for varsling. Forsvarsdepartementet avslo innsyn i store deler av tilbudsdokumentet for det vinnende tilbudet med den begrunnelsen at de unntatte opplysningene er taushetsbelagte næringsopplysninger, jf. offentleglova § 13 første ledd, jf. forvaltningsloven § 13 første ledd nr. 2.   
-   
- Ombudet kom til at departementets begrunnelse er mangelfull. Dette gjelder særlig opplysninger som allerede er offentlig tilgjengelig andre steder, opplysninger som departementet tidligere har gitt innsyn i, samt kategorier av opplysninger som ikke synes å være omfattet av departementets begrunnelse. Departementets begrunnelse etterlater tvil om alle de sladdede opplysningene i tilbudsdokumentene er vurdert tilstrekkelig konkret. Ombudet ba departementet behandle saken på nytt.
+Saken gjelder innsyn i tilbudsdokumenter i en anbudskonkurranse for ekstern evaluering av Forsvarets system for varsling. Forsvarsdepartementet avslo innsyn i store deler av tilbudsdokumentet for det vinnende tilbudet med den begrunnelsen at de unntatte opplysningene er taushetsbelagte næringsopplysninger, jf. offentleglova § 13 første ledd, jf. forvaltningsloven § 13 første ledd nr. 2.  
+Ombudet kom til at departementets begrunnelse er mangelfull. Dette gjelder særlig opplysninger som allerede er offentlig tilgjengelig andre steder, opplysninger som departementet tidligere har gitt innsyn i, samt kategorier av opplysninger som ikke synes å være omfattet av departementets begrunnelse. Departementets begrunnelse etterlater tvil om alle de sladdede opplysningene i tilbudsdokumentene er vurdert tilstrekkelig konkret. Ombudet ba departementet behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

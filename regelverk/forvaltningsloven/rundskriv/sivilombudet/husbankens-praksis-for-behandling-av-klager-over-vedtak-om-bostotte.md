@@ -14,11 +14,9 @@ Sivilombudets uttalelse 23.6.2026 (sak 2026/1115).
 
 ## Oppsummering
 
-Saken gjaldt Husbankens generelle praksis for behandling av klager i saker om bostøtte, samt Husbankens behandling av en konkret klagesak.   
-   
- Når et vedtak påklages, skal underinstansen forberede klagesaken, jf. forvaltningsloven § 33. Underinstansens behandling kan resultere i at klagen avvises, at vedtaket oppheves eller endres – eller at saken oversendes klageinstansen. Det er gitt særlige regler om Husbankens (underinstansens) klagebehandling i forskrift om klagenemnd for husbanken. Etter § 6 skal Husbanken gi parten en nærmere begrunnelse for det opprinnelige vedtaket dersom klagen ikke fører frem. Parten må innen tre uker fastholde klagen for at klagesaken skal oversendes klagenemnda i Husbanken (klageinstansen).   
-   
- I denne saken måtte klageren fastholde klagen tre ganger før saken ble oversendt klagenemnda. Sivilombudet kom til at Husbankens klagesaksbehandling var i strid med forskrift om klagenemnd for Husbanken § 6, og hadde medført at klagesaken ikke ble forberedt uten ugrunnet opphold i tråd med forvaltningsloven § 11 a første ledd. Sivilombudet ba Husbanken sørge for at fremtidige klagesaker ble behandlet i tråd med forskriften.
+Saken gjaldt Husbankens generelle praksis for behandling av klager i saker om bostøtte, samt Husbankens behandling av en konkret klagesak.  
+Når et vedtak påklages, skal underinstansen forberede klagesaken, jf. forvaltningsloven § 33. Underinstansens behandling kan resultere i at klagen avvises, at vedtaket oppheves eller endres – eller at saken oversendes klageinstansen. Det er gitt særlige regler om Husbankens (underinstansens) klagebehandling i forskrift om klagenemnd for husbanken. Etter § 6 skal Husbanken gi parten en nærmere begrunnelse for det opprinnelige vedtaket dersom klagen ikke fører frem. Parten må innen tre uker fastholde klagen for at klagesaken skal oversendes klagenemnda i Husbanken (klageinstansen).  
+I denne saken måtte klageren fastholde klagen tre ganger før saken ble oversendt klagenemnda. Sivilombudet kom til at Husbankens klagesaksbehandling var i strid med forskrift om klagenemnd for Husbanken § 6, og hadde medført at klagesaken ikke ble forberedt uten ugrunnet opphold i tråd med forvaltningsloven § 11 a første ledd. Sivilombudet ba Husbanken sørge for at fremtidige klagesaker ble behandlet i tråd med forskriften.
 
 ## Sakens bakgrunn
 

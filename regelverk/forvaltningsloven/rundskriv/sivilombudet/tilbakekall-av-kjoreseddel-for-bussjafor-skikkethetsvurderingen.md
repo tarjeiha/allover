@@ -15,11 +15,9 @@ Sivilombudets uttalelse 28.9.2021 (sak 2021/264).
 ## Oppsummering
 
 Saken gjelder Politidirektoratets vedtak om tilbakekall av en bussjåførs kjøreseddel i medhold av yrkestransportlova § 37 c første ledd og direktoratets vurdering av om sjåføren var «uskikka til å virke som førar».  
-   
- Tap av kjøreseddel er et inngripende vedtak med skjerpet krav til begrunnelse. Når adferden som vektlegges har skjedd uten tilknytning til yrkesutførelsen, kreves det konkrete holdepunkter for å anta at sjåføren har egenskaper som slår negativ ut i situasjoner med passasjerer.   
-   
- Ombudet er kommet til at Politidirektoratets avgjørelse etterlater tvil om alle relevante forhold har vært vurdert og om direktoratet har foretatt en konkret vurdering av om klageren har egenskaper som vil slå negativt ut i situasjoner med passasjerer og dermed er «uskikka til å virke som førar», jf. yrkestransportlova § 37 c første ledd.   
- Ombudet finner derfor at det foreligger begrunnet tvil om forhold av betydning for saken, og ber om at saken behandles på nytt, jf. sivilombudsloven § 12.
+Tap av kjøreseddel er et inngripende vedtak med skjerpet krav til begrunnelse. Når adferden som vektlegges har skjedd uten tilknytning til yrkesutførelsen, kreves det konkrete holdepunkter for å anta at sjåføren har egenskaper som slår negativ ut i situasjoner med passasjerer.  
+Ombudet er kommet til at Politidirektoratets avgjørelse etterlater tvil om alle relevante forhold har vært vurdert og om direktoratet har foretatt en konkret vurdering av om klageren har egenskaper som vil slå negativt ut i situasjoner med passasjerer og dermed er «uskikka til å virke som førar», jf. yrkestransportlova § 37 c første ledd.  
+Ombudet finner derfor at det foreligger begrunnet tvil om forhold av betydning for saken, og ber om at saken behandles på nytt, jf. sivilombudsloven § 12.
 
 Se oppdatering fra forvaltningen
 

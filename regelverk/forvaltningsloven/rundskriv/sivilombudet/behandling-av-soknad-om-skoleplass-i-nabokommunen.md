@@ -79,7 +79,7 @@ For øvrig må en søknad om å gå på annen skole enn nærskolen behandles ett
 **2. Fylkesmannens myndighet**
 
 Reglene for klageinstansens avgjørelsesmyndighet og saksbehandling står i forvaltningsloven  
- §§ 33-34. I § 34 annet ledd fremgår det:
+§§ 33-34. I § 34 annet ledd fremgår det:
 
 «Tas klagen under behandling, kan klageinstansen prøve alle sider av saken og herunder ta hensyn til nye omstendigheter. Den skal vurdere de synspunkter som klageren kommer med, og kan også ta opp forhold som ikke er berørt av ham. Der statlig organ er klageinstans for vedtak truffet av en kommune eller fylkeskommune, skal klageinstansen legge vekt på hensynet til det kommunale selvstyre ved prøving av det frie skjønn.»
 

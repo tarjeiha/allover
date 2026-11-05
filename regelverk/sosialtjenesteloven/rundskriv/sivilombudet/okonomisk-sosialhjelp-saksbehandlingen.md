@@ -15,9 +15,8 @@ Sivilombudets uttalelse 29.4.2021 (sak 2020/3242).
 
 ## Oppsummering
 
-Klagen til ombudsmannen gjelder avslag på økonomisk sosialhjelp til medisiner, boliglån, fellesutgifter, strøm, forsikring, telefonregning og utgifter til søknad om norsk statsborgerskap.   
-   
- Ombudsmannen er kommet til at det er mangler ved Fylkesmannens behandling av sakene. Sakene er ikke på alle punkter blitt godt nok opplyst under klagebehandlingen. Det er vanskelig å se at Fylkesmannen hadde grunnlag for å foreta en konkret og individuell vurdering av om stønadsbehovet ut fra klagerens helhetlige situasjon. Ombudsmannen mener derfor at det kan foreligge begrunnet tvil ved resultatet i sakene. Statsforvalteren bes behandle klagerens saker på nytt, og orientere ombudsmannen om utfallet.
+Klagen til ombudsmannen gjelder avslag på økonomisk sosialhjelp til medisiner, boliglån, fellesutgifter, strøm, forsikring, telefonregning og utgifter til søknad om norsk statsborgerskap.  
+Ombudsmannen er kommet til at det er mangler ved Fylkesmannens behandling av sakene. Sakene er ikke på alle punkter blitt godt nok opplyst under klagebehandlingen. Det er vanskelig å se at Fylkesmannen hadde grunnlag for å foreta en konkret og individuell vurdering av om stønadsbehovet ut fra klagerens helhetlige situasjon. Ombudsmannen mener derfor at det kan foreligge begrunnet tvil ved resultatet i sakene. Statsforvalteren bes behandle klagerens saker på nytt, og orientere ombudsmannen om utfallet.
 
 ## Sakens bakgrunn
 

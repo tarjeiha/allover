@@ -14,11 +14,9 @@ Sivilombudets uttalelse 6.12.2022 (sak 2022/5173).
 
 ## Oppsummering
 
-Saken gjelder Innlandet politidistrikts behandling av en innsynsklage. Klageren ba blant annet om innsyn i søkerliste for stillingen som politiadvokat/politifullmektig øko-jurist. En søker var unntatt offentlighet med hjemmel i offentleglova § 25 andre ledd tredje punktum. Klageren klagde på at han ikke hadde fått innsyn i opplysninger om denne søkeren. Innlandet politidistrikt mente det var gitt fullt innsyn i søkerlisten, og at det derfor ikke var klagerett.   
-   
- Ombudet kom til at det ikke var gitt fullt innsyn i søkerlisten som skal utarbeides etter offentleglova § 25 andre ledd første og andre punktum, og at klageren hadde adgang til å påklage denne avgjørelsen. Ombudet kom videre til at avslaget på innsynsklagen ikke oppfylte kravet til presis hjemmelshenvisning i offentleglova § 31 første ledd.  
-   
- Ombudet ba politidistriktet vurdere innsynsklagen på nytt.
+Saken gjelder Innlandet politidistrikts behandling av en innsynsklage. Klageren ba blant annet om innsyn i søkerliste for stillingen som politiadvokat/politifullmektig øko-jurist. En søker var unntatt offentlighet med hjemmel i offentleglova § 25 andre ledd tredje punktum. Klageren klagde på at han ikke hadde fått innsyn i opplysninger om denne søkeren. Innlandet politidistrikt mente det var gitt fullt innsyn i søkerlisten, og at det derfor ikke var klagerett.  
+Ombudet kom til at det ikke var gitt fullt innsyn i søkerlisten som skal utarbeides etter offentleglova § 25 andre ledd første og andre punktum, og at klageren hadde adgang til å påklage denne avgjørelsen. Ombudet kom videre til at avslaget på innsynsklagen ikke oppfylte kravet til presis hjemmelshenvisning i offentleglova § 31 første ledd.  
+Ombudet ba politidistriktet vurdere innsynsklagen på nytt.
 
 Se oppdatering fra forvaltningen
 

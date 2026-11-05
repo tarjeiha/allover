@@ -15,7 +15,7 @@ Sivilombudets uttalelse 15.4.2010 (sak 2007/2041).
 ## Oppsummering
 
 Etter først å ha tildelt en lakseplass til en søker, omgjorde Finnmarkseiendommen tildelingen, slik at plassen gikk til en annen søker. Saken reiste spørsmål om Finnmarkseiendommens virksomhet ligger innenfor ombudsmannens arbeidsområde og om det omgjøringsvedtaket som ble truffet, var gyldig.  
- Ombudsmannen uttalte at Finnmarkseiendommen må regnes som en del av den offentlige forvaltningen, og dermed i utgangspunktet er omfattet av ombudsmannsloven § 4. Videre mente ombudsmannen at Finnmarkseiendommens omgjøringsvedtak led av slike mangler at det syntes å være ugyldig.
+Ombudsmannen uttalte at Finnmarkseiendommen må regnes som en del av den offentlige forvaltningen, og dermed i utgangspunktet er omfattet av ombudsmannsloven § 4. Videre mente ombudsmannen at Finnmarkseiendommens omgjøringsvedtak led av slike mangler at det syntes å være ugyldig.
 
 Finnmarkseiendommen er et eget rettssubjekt opprettet ved lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke (finnmarksloven). Etter lovens § 6 skal Finnmarkseiendommen «forvalte grunn og naturressurser m.v. som den eier i samsvar med lovens formål og reglene i loven her for øvrig». Ved opprettelsen ble eiendomsretten til statens grunn i Finnmark overført til Finnmarkseiendommen. Finnmarkseiendommen ledes ifølge lovens § 6 av et styre på seks personer. Forvaltningen av Finnmarkseiendommen hører etter lovens § 9 under styret, som også sørger for organiseringen av virksomheten.
 

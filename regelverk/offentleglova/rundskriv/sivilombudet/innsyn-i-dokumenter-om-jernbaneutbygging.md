@@ -15,13 +15,9 @@ Sivilombudets uttalelse 25.3.2021 (sak 2020/3631).
 ## Oppsummering
 
 En journalist ba om innsyn i dokumenter om budsjett- og økonomistyring ved jernbaneutbygging. Samferdselsdepartementet avslo journalistens krav. Kravet omfattet brev fra departementet til Jernbanedirektoratet, Bane NOR og Norske tog AS, samt virksomhetenes svar. Departementet avslo kravet med henvisning til bl.a. offentleglova § 15 første, andre og tredje ledd. Etter undersøkelsene herfra ga departementet innsyn i flere dokumenter og opplysninger som tidligere var unntatt offentlighet. For to av dokumentene ble hjemmelen endret til offentleglova § 22.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om enkelte av dokumentene som det fremdeles er nektet innsyn i kan unntas med den begrunnelsen departementet har gitt. For å nekte innsyn i et dokument etter offentleglova § 15 første ledd, må unntak være nødvendig for å sikre interne avgjørelsesprosesser. Bestemmelsen retter seg primært mot råd, innspill, vurderinger og forslag som det vil innebære en fare for skade å gi innsyn i. Faktiske forhold og generelle premisser vil normalt falle utenfor. Det fremgår ikke i tilstrekkelig grad av begrunnelsen hvorfor noen av dokumentene inneholder råd, innspill og vurderinger som det vil innebære en fare for skade å gi innsyn i.   
-   
- Videre retter offentleglova § 15 andre ledd seg mot råd og vurderinger om hvordan organet bør stille seg i en sak når det er påkrevd av hensyn til en forsvarlig ivaretakelse av det offentliges interesser i saken. Enkelte av opplysningene som er unntatt etter bestemmelsen synes å være beskrivelse av faktiske forhold og ikke råd og vurderinger.   
-   
-   
- Ombudsmannen ber departementet vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil om enkelte av dokumentene som det fremdeles er nektet innsyn i kan unntas med den begrunnelsen departementet har gitt. For å nekte innsyn i et dokument etter offentleglova § 15 første ledd, må unntak være nødvendig for å sikre interne avgjørelsesprosesser. Bestemmelsen retter seg primært mot råd, innspill, vurderinger og forslag som det vil innebære en fare for skade å gi innsyn i. Faktiske forhold og generelle premisser vil normalt falle utenfor. Det fremgår ikke i tilstrekkelig grad av begrunnelsen hvorfor noen av dokumentene inneholder råd, innspill og vurderinger som det vil innebære en fare for skade å gi innsyn i.  
+Videre retter offentleglova § 15 andre ledd seg mot råd og vurderinger om hvordan organet bør stille seg i en sak når det er påkrevd av hensyn til en forsvarlig ivaretakelse av det offentliges interesser i saken. Enkelte av opplysningene som er unntatt etter bestemmelsen synes å være beskrivelse av faktiske forhold og ikke råd og vurderinger.  
+Ombudsmannen ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

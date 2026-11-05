@@ -14,11 +14,9 @@ Sivilombudets uttalelse 21.9.2022 (sak 2022/2782).
 
 ## Oppsummering
 
-Saken gjelder X kommunes saksbehandling i en sak om startlån.   
-   
- Sivilombudet kom til at det var begrunnet tvil ved om kommunens klagenemnd hadde gjort en tilstrekkelig vurdering av klagen. På bakgrunn av klagerens anførsler skulle klagenemnda ha vurdert hensynet til en trygg, god og stabil bosituasjon for barna, jf. forskrift om lån fra husbanken § 5-4 annet ledd bokstav a. Som følge av den manglende vurderingen, i kombinasjon med svakheter ved begrunnelsen, ber ombudet klagenemnda om å behandle klagen på nytt innen 1. november 2022.  
-   
- Klagenemnda bes også om å merke seg ombudets syn i fremtidige saker.
+Saken gjelder X kommunes saksbehandling i en sak om startlån.  
+Sivilombudet kom til at det var begrunnet tvil ved om kommunens klagenemnd hadde gjort en tilstrekkelig vurdering av klagen. På bakgrunn av klagerens anførsler skulle klagenemnda ha vurdert hensynet til en trygg, god og stabil bosituasjon for barna, jf. forskrift om lån fra husbanken § 5-4 annet ledd bokstav a. Som følge av den manglende vurderingen, i kombinasjon med svakheter ved begrunnelsen, ber ombudet klagenemnda om å behandle klagen på nytt innen 1. november 2022.  
+Klagenemnda bes også om å merke seg ombudets syn i fremtidige saker.
 
 ## Sakens bakgrunn
 

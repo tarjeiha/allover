@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.10.2022 (sak 2022/3857).
 ## Oppsummering
 
 Saken gjaldt innsyn i to e-poster sendt til og fra Norges vassdrags- og energidirektorat (NVE). Den ene e-posten inneholdt en melding fra en privatperson med et tips og spørsmål knyttet til håndteringen av kraftsensitiv informasjon i forbindelse med et selskaps konkurs. Den andre e-posten var NVEs svar. Olje- og energidepartementet stadfestet NVEs avslag på krav om innsyn i de to e-postene, under henvisning til offentleglova § 24 annet ledd om dokumenter som omhandler lovbrudd.  
-   
- Sivilombudet kom til at det forelå begrunnet tvil om vilkårene for å unnta NVEs svar på tipset om et mulig lovbrudd fra innsyn var oppfylt.   
-   
- Ombudet ba departementet om å vurdere innsynskravet for dette dokumentet på nytt.
+Sivilombudet kom til at det forelå begrunnet tvil om vilkårene for å unnta NVEs svar på tipset om et mulig lovbrudd fra innsyn var oppfylt.  
+Ombudet ba departementet om å vurdere innsynskravet for dette dokumentet på nytt.
 
 Se oppdatering fra forvaltningen
 

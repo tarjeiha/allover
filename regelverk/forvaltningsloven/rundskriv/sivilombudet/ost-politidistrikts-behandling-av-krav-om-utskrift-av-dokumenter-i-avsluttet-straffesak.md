@@ -15,10 +15,8 @@ Sivilombudets uttalelse 7.9.2026 (sak 2026/2210).
 ## Oppsummering
 
 Saken gjaldt Øst politidistrikts behandling av et krav om utskrift av dokumenter i en avsluttet straffesak etter straffeprosessloven § 28. Klageren fremsatte innsynskravet i april 2025, men mottok først dokumentene i juni 2026 etter gjentatte purringer og flere henvendelser fra ombudet.  
-   
- Ombudet kom til at politidistriktets behandlingstid på om lag 14 måneder for klagerens innsynskrav var klart i strid med kravene til god påtaleskikk. Videre hadde politidistriktet ikke gitt foreløpige svar i tråd med kravene til god påtaleskikk eller fulgt opp ombudets gjentatte henvendelser innen fastsatte frister.  
-   
- Ombudet merket seg at politidistriktet selv hadde erkjent svikt i saksbehandlingen og opplyst at rutinene skal gjennomgås og skjerpes. Ombudet ba politidistriktet orientere om hvilke konkrete tiltak som er gjennomført for å sikre at krav om utskrift av straffesaksdokumenter behandles innen rimelig tid, og at ombudets henvendelser blir fulgt opp.
+Ombudet kom til at politidistriktets behandlingstid på om lag 14 måneder for klagerens innsynskrav var klart i strid med kravene til god påtaleskikk. Videre hadde politidistriktet ikke gitt foreløpige svar i tråd med kravene til god påtaleskikk eller fulgt opp ombudets gjentatte henvendelser innen fastsatte frister.  
+Ombudet merket seg at politidistriktet selv hadde erkjent svikt i saksbehandlingen og opplyst at rutinene skal gjennomgås og skjerpes. Ombudet ba politidistriktet orientere om hvilke konkrete tiltak som er gjennomført for å sikre at krav om utskrift av straffesaksdokumenter behandles innen rimelig tid, og at ombudets henvendelser blir fulgt opp.
 
 ## Sakens bakgrunn
 

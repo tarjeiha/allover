@@ -15,7 +15,7 @@ Sivilombudets uttalelse 14.9.2019 (sak 2018/4198).
 ## Sakens bakgrunn
 
 Saken gjelder avslag på autorisasjon etter helsepersonelloven § 48 a. A er utdannet fysioterapeut i Serbia. Utdanningen ble fullført i 2008, og i 2010 fikk han lisens som fysioterapeut. Han søkte Helsedirektoratet om norsk autorisasjon som fysioterapeut  
- 29. desember 2016.
+29. desember 2016.
 
 I vedtak 5. september 2017 ga Helsedirektoratet «avslag med kvalifiseringsløp». Søknaden om autorisasjon etter helsepersonelloven § 48 a første ledd bokstav c og d ble avslått. Klagers serbiske utdanning ble ikke vurdert som jevngod med den norske fysioterapeututdanningen, og det ble ikke funnet godtgjort at han hadde den nødvendige kyndighet. Direktoratet kom imidlertid til at han kunne kompensere for avvikene ved utdanningen ved å ta minst ett års norsk veiledet turnustjeneste. I vedtaket er det redegjort for turnusordningen og det tilhørende språkkravet, og det er satt en frist for påmelding.
 

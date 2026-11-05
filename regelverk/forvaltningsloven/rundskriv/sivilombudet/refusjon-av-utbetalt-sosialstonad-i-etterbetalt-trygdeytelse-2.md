@@ -15,15 +15,11 @@ Sivilombudets uttalelse 23.6.2025 (sak 2024/5583).
 
 ## Oppsummering
 
-Søknader om ytelser etter folketrygden tar ofte tid å få behandlet. Det er ikke uvanlig at en søker mottar sosialstønad fra det lokale Nav-kontoret over lengre tid i påvente av å få avgjort en trygdesøknad i den statlige delen av Nav.   
-   
- Når en bruker får innvilget en trygdeytelse og etterbetalt denne ytelsen for en periode tilbake i tid, har det lokale Nav-kontoret på nærmere vilkår rett til å få refundert sine utgifter til sosialstønad i beløpet som etterbetales fra den statlige delen av Nav.   
-   
- Sivilombudet har av eget tiltak undersøkt hvordan slike saker behandles og kontrolleres. Undersøkelsen viser at regelverket er vanskelig å praktisere riktig. Det øker risikoen for at brukeren får feil utbetaling.   
-   
- Sivilombudet anbefaler at Arbeids- og velferdsdirektoratet ser på flere tiltak for å forenkle behandlingen av refusjonssaker, herunder ivaretar krav til klarspråk i kommunikasjon med brukerne. For å forebygge feil er det også behov for mer opplæring og informasjon om reglene.  
-   
- Sivilombudet ber om tilbakemelding fra Arbeids- og velferdsdirektoratet innen 15. september 2025 på hvordan konklusjonene i vår undersøkelse er fulgt opp.
+Søknader om ytelser etter folketrygden tar ofte tid å få behandlet. Det er ikke uvanlig at en søker mottar sosialstønad fra det lokale Nav-kontoret over lengre tid i påvente av å få avgjort en trygdesøknad i den statlige delen av Nav.  
+Når en bruker får innvilget en trygdeytelse og etterbetalt denne ytelsen for en periode tilbake i tid, har det lokale Nav-kontoret på nærmere vilkår rett til å få refundert sine utgifter til sosialstønad i beløpet som etterbetales fra den statlige delen av Nav.  
+Sivilombudet har av eget tiltak undersøkt hvordan slike saker behandles og kontrolleres. Undersøkelsen viser at regelverket er vanskelig å praktisere riktig. Det øker risikoen for at brukeren får feil utbetaling.  
+Sivilombudet anbefaler at Arbeids- og velferdsdirektoratet ser på flere tiltak for å forenkle behandlingen av refusjonssaker, herunder ivaretar krav til klarspråk i kommunikasjon med brukerne. For å forebygge feil er det også behov for mer opplæring og informasjon om reglene.  
+Sivilombudet ber om tilbakemelding fra Arbeids- og velferdsdirektoratet innen 15. september 2025 på hvordan konklusjonene i vår undersøkelse er fulgt opp.
 
 Se oppdatering fra forvaltningen
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 22.11.2018 (sak 2017/898).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens behandling av en rettighetsklage om blant annet rett til individuell plan (IP), fra en pasient med progredierende multippel sklerose (MS) som er avhengig av helse- og omsorgstjenester.  
-   
- Fylkesmannens behandling av rettighetssaken gir ikke noe klart svar på om klagerens rett til IP etter pasient- og brukerrettighetsloven § 2-5 ble ansett oppfylt. Den første avgjørelsen i saken, med pålegg til kommunen, og det avsluttende brevet etter tilbakemelding fra kommunen synes å konkludere i forskjellige retninger. Dette til tross for at kommunen ikke hadde fulgt opp noen av Fylkesmannens pålegg i avgjørelsen.  
-   
- Saken var heller ikke utredet tilstrekkelig av Fylkesmannen, jf. kravene i forvaltningsloven § 33 femte ledd. Fylkesmannen skulle blant annet ha innhentet klagerens individuelle plan. Fylkesmannen saksbehandlingstid på 2 år og 2 måneder var altfor lang, og innebærer et klart brudd på kravene i forvaltningsloven § 11a første ledd.  
-   
- På bakgrunn av disse manglene ved behandlingen av saken ber ombudsmannen Fylkesmannen om å behandle den på nytt. Ved den nye behandlingen må Fylkesmannen utrede saken i samsvar med kravene i forvaltningsloven § 33 femte ledd og ta klart stilling til om retten til IP er oppfylt. Den eksisterende IP-en må innhentes, og Fylkesmannen bør i rimelig grad undersøke hvilke helsetilbud klageren har behov for.
+Fylkesmannens behandling av rettighetssaken gir ikke noe klart svar på om klagerens rett til IP etter pasient- og brukerrettighetsloven § 2-5 ble ansett oppfylt. Den første avgjørelsen i saken, med pålegg til kommunen, og det avsluttende brevet etter tilbakemelding fra kommunen synes å konkludere i forskjellige retninger. Dette til tross for at kommunen ikke hadde fulgt opp noen av Fylkesmannens pålegg i avgjørelsen.  
+Saken var heller ikke utredet tilstrekkelig av Fylkesmannen, jf. kravene i forvaltningsloven § 33 femte ledd. Fylkesmannen skulle blant annet ha innhentet klagerens individuelle plan. Fylkesmannen saksbehandlingstid på 2 år og 2 måneder var altfor lang, og innebærer et klart brudd på kravene i forvaltningsloven § 11a første ledd.  
+På bakgrunn av disse manglene ved behandlingen av saken ber ombudsmannen Fylkesmannen om å behandle den på nytt. Ved den nye behandlingen må Fylkesmannen utrede saken i samsvar med kravene i forvaltningsloven § 33 femte ledd og ta klart stilling til om retten til IP er oppfylt. Den eksisterende IP-en må innhentes, og Fylkesmannen bør i rimelig grad undersøke hvilke helsetilbud klageren har behov for.
 
 ## Sakens bakgrunn
 

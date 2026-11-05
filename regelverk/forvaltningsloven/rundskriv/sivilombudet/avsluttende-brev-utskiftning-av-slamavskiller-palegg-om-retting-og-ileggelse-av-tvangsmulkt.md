@@ -15,10 +15,8 @@ Sivilombudets uttalelse 21.1.2026 (sak 2025/4404).
 ## Oppsummering
 
 Sivilombudet har behandlet en sak om pålegg om retting og ileggelse av tvangsmulkt i forbindelse med utskifting av en slamavskiller på et privat vann- og avløpsanlegg. Sivilombudet undersøkte saken for å få klarhet i Statsforvalterens begrunnelse for at utskiftingen av slamavskilleren på eiendommen utgjorde "oppføring, endring eller reparasjon av byggtekniske installasjoner» og derfor var søknadspliktig, jf. plan- og bygningsloven § 20-1 første ledd bokstav f, jf. § 20-2.  
-   
- Etter undersøkelsen har ikke Sivilombudet avgjørende rettslige innvendinger mot Statsforvalterens konklusjon i saken, og har avsluttet saksbehandling.  
-   
- Det avsluttende brevet fra Sivilombudet er publisert under.
+Etter undersøkelsen har ikke Sivilombudet avgjørende rettslige innvendinger mot Statsforvalterens konklusjon i saken, og har avsluttet saksbehandling.  
+Det avsluttende brevet fra Sivilombudet er publisert under.
 
 ## Sakens bakgrunn
 

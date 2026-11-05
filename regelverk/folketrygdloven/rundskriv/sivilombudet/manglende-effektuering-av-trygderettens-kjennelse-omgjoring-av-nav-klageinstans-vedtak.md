@@ -16,10 +16,8 @@ Sivilombudets uttalelse 7.10.2025 (sak 2025/4093).
 ## Oppsummering
 
 Saken gjelder Navs manglende effektuering av Trygderettens kjennelse i sak om uføretrygd. Trygderetten omgjorde Nav klageinstans’ vedtak og kom til at klageren hadde rett til garantitillegg ved beregningen av uføretrygden. Nav brakte ikke Trygderettens kjennelse inn for lagmannsretten gjennom søksmål innen søksmålsfristen. Nav besluttet å avvente effektuering av kjennelsen i påvente av Gulating lagmannsretts prøving av Trygderettens femmedlemskjennelse TRR-2021-1525, som reiste samme rettslige problemstilling om garantitillegg.  
-   
- I svaret til ombudet skrev Arbeids- og velferdsdirektoratet at Nav er forpliktet til å følge Trygderettens kjennelse når Trygderetten avgjør realiteten ved å omgjøre Navs vedtak, og at kjennelsen må effektueres senest ved utløpet av søksmålsfristen. Sivilombudet er kommet til samme konklusjon.   
-   
- Nav har i etterkant av ombudets undersøkelse effektuert Trygderettens kjennelse.
+I svaret til ombudet skrev Arbeids- og velferdsdirektoratet at Nav er forpliktet til å følge Trygderettens kjennelse når Trygderetten avgjør realiteten ved å omgjøre Navs vedtak, og at kjennelsen må effektueres senest ved utløpet av søksmålsfristen. Sivilombudet er kommet til samme konklusjon.  
+Nav har i etterkant av ombudets undersøkelse effektuert Trygderettens kjennelse.
 
 Se oppdatering fra forvaltningen
 

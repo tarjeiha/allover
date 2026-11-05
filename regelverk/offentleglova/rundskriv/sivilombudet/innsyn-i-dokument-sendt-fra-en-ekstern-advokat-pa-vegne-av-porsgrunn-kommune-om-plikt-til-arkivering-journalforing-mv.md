@@ -16,12 +16,9 @@ Sivilombudets uttalelse 18.1.2025 (sak 2024/3633).
 ## Oppsummering
 
 Saken gjelder innsyn i en e-post sendt fra en KS-advokat engasjert av Porsgrunn kommune i forbindelse med håndteringen av en personalsak. E-posten ble sendt fra kommunens advokat til (den daværende) rådmannens advokat. KS-advokaten skal ifølge kommunen ikke ha hatt mandat til å drive saksbehandling i personalsaken. Etter ombudets syn er det flere ting somt taler for at innholdet i den aktuelle e-posten er relatert til personalsaken, og at dokumentet skulle vært arkivert og journalført av Porsgrunn kommune.  
-   
- Sivilombudet kom etter dette til at det er begrunnet tvil om Porsgrunn kommune har overholdt arkiv- og journalføringsplikten sin i denne saken. Den mangelfulle arkiveringen og journalføringen kan dermed ha fått betydning for behandlingen av innsynskravet.  
-   
- Ombudet har bedt Porsgrunn kommune om å innhente alle dokumenter som er utarbeidet i forbindelse med det konkrete oppdraget og sendt mellom KS-advokaten og rådmannens advokat, og vurdere om disse er arkiv- og journalføringspliktige. Kommunen har også blitt bedt om å vurdere om det kan eksistere ytterligere dokumenter i saken som ennå ikke er arkivert og eventuelt journalført.  
-   
- Videre har kommunen blitt bedt om å vurdere innsynskravet til klageren på nytt, herunder undersøke hvorvidt det eksisterer saksdokumenter av en slik art klageren beskriver, og vurdere innsynskravet opp mot disse.
+Sivilombudet kom etter dette til at det er begrunnet tvil om Porsgrunn kommune har overholdt arkiv- og journalføringsplikten sin i denne saken. Den mangelfulle arkiveringen og journalføringen kan dermed ha fått betydning for behandlingen av innsynskravet.  
+Ombudet har bedt Porsgrunn kommune om å innhente alle dokumenter som er utarbeidet i forbindelse med det konkrete oppdraget og sendt mellom KS-advokaten og rådmannens advokat, og vurdere om disse er arkiv- og journalføringspliktige. Kommunen har også blitt bedt om å vurdere om det kan eksistere ytterligere dokumenter i saken som ennå ikke er arkivert og eventuelt journalført.  
+Videre har kommunen blitt bedt om å vurdere innsynskravet til klageren på nytt, herunder undersøke hvorvidt det eksisterer saksdokumenter av en slik art klageren beskriver, og vurdere innsynskravet opp mot disse.
 
 Se oppdatering fra forvaltningen
 

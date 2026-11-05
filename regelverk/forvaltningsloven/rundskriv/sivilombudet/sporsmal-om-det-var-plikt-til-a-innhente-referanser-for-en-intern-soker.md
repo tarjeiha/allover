@@ -15,8 +15,7 @@ Sivilombudets uttalelse 14.2.2019 (sak 2018/3248).
 ## Oppsummering
 
 En intern søker klaget på ansettelsen fordi han mente seg forbigått av flere av de andre innstilte, og fordi han reagerte på at det ikke var innhentet referanser fra hans nærmeste leder. Gjennomgangen av saksdokumentene skapte tvil om det var innhentet andre referanser enn de klager hadde oppgitt.  
-   
- Ombudsmannen er kommet til at den konkrete saken fremstår som tilstrekkelig opplyst, slik at det ikke var nødvendig å innhente referanser for klager. Han og de andre interne søkerne var kjent for ansettelsesmyndigheten. Det er likevel uheldig at det overfor klager var gitt uttrykk for at andre referanser var innhentet.
+Ombudsmannen er kommet til at den konkrete saken fremstår som tilstrekkelig opplyst, slik at det ikke var nødvendig å innhente referanser for klager. Han og de andre interne søkerne var kjent for ansettelsesmyndigheten. Det er likevel uheldig at det overfor klager var gitt uttrykk for at andre referanser var innhentet.
 
 ## Sakens bakgrunn
 

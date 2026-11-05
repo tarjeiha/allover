@@ -15,10 +15,10 @@ Sivilombudets uttalelse 8.2.2023 (sak 2022/4625).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak undersøkt saksbehandlingstiden ved byggesaksavdelingen i Frøya kommune. Ombudet har blant annet sett på kommunens saksbehandlingstid og restanser hva gjelder byggesaker, klager i byggesaker og ulovlighetsvarsler. Vi har også stilt spørsmål om kommunens rutiner for informasjon til borgerne under sakens gang.  
- Kommunen har erkjent at åtteukersfristen i byggesaksforskriften § 7-1 bokstav c for å behandle byggesaksklager ikke overholdes i dag. Kommunen har opplyst at de har iverksatt flere tiltak.  
- Kommunen har opplyst at ulovlighetsvarsler prioriteres. Kommunen synes imidlertid ikke å ha oversikt over det totale antallet innkomne ulovlighetsvarsler, og alderen på disse. Ombudet vil bemerke at den manglende oversikten gir grunn til bekymring for kommunens mulighet til å oppfylle sine plikter etter plan- og bygningsloven § 32-1.  
- Kommunen har opplyst at de etterstreber å bli flinkere til å sende foreløpig svar i tråd med forvaltningsloven § 11 a annet ledd. Ombudet ber videre om at kommunen etablerer rutiner for foreløpig svar og forsinkelsesmeldinger, med et reelt estimat om forventet behandlingstid.  
- Ombudet ber kommunen om en ny statusoppdatering innen 15. april 2023.
+Kommunen har erkjent at åtteukersfristen i byggesaksforskriften § 7-1 bokstav c for å behandle byggesaksklager ikke overholdes i dag. Kommunen har opplyst at de har iverksatt flere tiltak.  
+Kommunen har opplyst at ulovlighetsvarsler prioriteres. Kommunen synes imidlertid ikke å ha oversikt over det totale antallet innkomne ulovlighetsvarsler, og alderen på disse. Ombudet vil bemerke at den manglende oversikten gir grunn til bekymring for kommunens mulighet til å oppfylle sine plikter etter plan- og bygningsloven § 32-1.  
+Kommunen har opplyst at de etterstreber å bli flinkere til å sende foreløpig svar i tråd med forvaltningsloven § 11 a annet ledd. Ombudet ber videre om at kommunen etablerer rutiner for foreløpig svar og forsinkelsesmeldinger, med et reelt estimat om forventet behandlingstid.  
+Ombudet ber kommunen om en ny statusoppdatering innen 15. april 2023.
 
 Se oppdatering fra forvaltningen
 

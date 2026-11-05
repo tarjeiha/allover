@@ -16,10 +16,8 @@ Sivilombudets uttalelse 26.2.2026 (sak 2025/3886).
 ## Oppsummering
 
 Stiftelsen Kirkens Bymisjon, tiltak Gatejuristen, hadde søkt Lillehammer kommune om bistand etter boligsosialloven på vegne av en klient. Mer enn ett år senere hadde kommunen ennå ikke fattet vedtak etter boligsosialloven. Det var kun fattet vedtak om avslag på kommunal bolig og på veiledning etter sosialtjenesteloven § 17.  
-   
- Sivilombudet kom til at kommunen ikke hadde behandlet saken «uten ugrunnet opphold», slik forvaltningsloven § 11 a krever. Ombudet kom også til at søknaden uoppfordret skulle ha vært oversendt til den enheten i kommunen som kunne fatte vedtak etter boligsosialloven. Ombudet kritiserte også kommunen for å ikke ha sendt vedtaket til Kirkens Bymisjon, som fullmektig for klageren, slik forvaltningsloven § 12 gir anvisning på.  
-   
- Sivilombudet kom til at kommunens manglende oppfølging av ombudets henvendelser ga grunn til alvorlig kritikk. Kommunen hadde gjentatte ganger unnlatt å overholde Sivilombudets frister og i liten eller ingen grad besvart de spørsmålene som ble stilt. Kommunens sene og mangelfulle svar hadde vanskeliggjort ombudets behandling av saken. Ombudet forutsatte at fremtidige henvendelser til kommunen blir undergitt den nødvendige behandling, og at de svarfrister ombudet setter blir overholdt.
+Sivilombudet kom til at kommunen ikke hadde behandlet saken «uten ugrunnet opphold», slik forvaltningsloven § 11 a krever. Ombudet kom også til at søknaden uoppfordret skulle ha vært oversendt til den enheten i kommunen som kunne fatte vedtak etter boligsosialloven. Ombudet kritiserte også kommunen for å ikke ha sendt vedtaket til Kirkens Bymisjon, som fullmektig for klageren, slik forvaltningsloven § 12 gir anvisning på.  
+Sivilombudet kom til at kommunens manglende oppfølging av ombudets henvendelser ga grunn til alvorlig kritikk. Kommunen hadde gjentatte ganger unnlatt å overholde Sivilombudets frister og i liten eller ingen grad besvart de spørsmålene som ble stilt. Kommunens sene og mangelfulle svar hadde vanskeliggjort ombudets behandling av saken. Ombudet forutsatte at fremtidige henvendelser til kommunen blir undergitt den nødvendige behandling, og at de svarfrister ombudet setter blir overholdt.
 
 ## Sakens bakgrunn
 

@@ -14,9 +14,9 @@ Sivilombudets uttalelse 21.3.2017 (sak 2016/289).
 
 ## Oppsummering
 
-Saken gjelder Arbeidstilsynets krav om formell opplæring for å anse arbeidsgivers plikt til å gjennomgå opplæring i helse-, miljø- og sikkerhetsarbeid i arbeidsmiljøloven § 3-5 som oppfylt.   
- Ombudsmannen kom under en viss tvil til at pliktene en arbeidsgiver har etter arbeidsmiljøloven § 3-5 første ledd til å gjennomgå opplæring i HMS, ikke kan oppfylles ved selvstudier. Vedtak om pålegg om fremleggelse av bevis på formalkompetanse var gyldig.   
- De uklarheter som § 3-5 første ledd gir opphav til, bør søkes utbedret ved å bruke bestemmelsens annet ledd til å gi forskrift om de nærmere krav til opplæringen.
+Saken gjelder Arbeidstilsynets krav om formell opplæring for å anse arbeidsgivers plikt til å gjennomgå opplæring i helse-, miljø- og sikkerhetsarbeid i arbeidsmiljøloven § 3-5 som oppfylt.  
+Ombudsmannen kom under en viss tvil til at pliktene en arbeidsgiver har etter arbeidsmiljøloven § 3-5 første ledd til å gjennomgå opplæring i HMS, ikke kan oppfylles ved selvstudier. Vedtak om pålegg om fremleggelse av bevis på formalkompetanse var gyldig.  
+De uklarheter som § 3-5 første ledd gir opphav til, bør søkes utbedret ved å bruke bestemmelsens annet ledd til å gi forskrift om de nærmere krav til opplæringen.
 
 ## Sakens bakgrunn
 

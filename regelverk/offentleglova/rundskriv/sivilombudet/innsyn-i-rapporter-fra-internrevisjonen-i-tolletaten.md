@@ -15,8 +15,7 @@ Sivilombudets uttalelse 8.12.2019 (sak 2019/3392).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i fire ulike rapporter som Finansdepartementet rutinemessig hadde innhentet fra internrevisjonen i Tolletaten. Departementet avslo innsynskravene under henvisning til offentleglova § 15 første ledd første punktum.  
-   
- Ombudsmannen har kommet til at de fire dokumentene ikke kan anses innhentet til bruk i departementets interne saksforberedelse. Det foreligger dermed ikke unntaksadgang etter offentleglova § 15 første ledd. Departementets vurdering av nødvendighetsvilkåret er dessuten ikke i tråd med bestemmelsens formål. Videre er departementets merinnsynvurdering mangelfull. Ombudsmannen ber departementet behandle de fire innsynskravene på nytt. Departementet bes videre påse at eventuelle retningslinjer mv. på området, som departementet er ansvarlig for, samsvarer med gjeldende rett.
+Ombudsmannen har kommet til at de fire dokumentene ikke kan anses innhentet til bruk i departementets interne saksforberedelse. Det foreligger dermed ikke unntaksadgang etter offentleglova § 15 første ledd. Departementets vurdering av nødvendighetsvilkåret er dessuten ikke i tråd med bestemmelsens formål. Videre er departementets merinnsynvurdering mangelfull. Ombudsmannen ber departementet behandle de fire innsynskravene på nytt. Departementet bes videre påse at eventuelle retningslinjer mv. på området, som departementet er ansvarlig for, samsvarer med gjeldende rett.
 
 Se oppdatering fra forvaltningen
 

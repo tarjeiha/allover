@@ -14,10 +14,10 @@ Sivilombudets uttalelse 5.5.2017 (sak 2017/12).
 
 ## Oppsummering
 
-Saken gjelder Fylkesmannen i Nord-Trøndelags behandling av klagesak om sletting av opplysninger i pasientjournal.   
- Ombudsmannen kom til at Fylkesmannen skulle ha innhentet de aktuelle delene av journalen før det ble tatt stilling til kravet om sletting. At dette ikke ble gjort, var i strid med utredningsplikten etter forvaltningsloven.   
- Det var videre i strid med veilednings- og utredningsplikten at Fylkesmannen avslo kravet om sletting med den begrunnelse at det ikke var tilstrekkelig spesifisert hvilke opplysninger klager krevde slettet, uten at klager var gitt anledning til å utdype og spesifisere kravet om sletting.   
- Fylkesmannen bes på denne bakgrunn om å innhente de aktuelle delene av journalen og behandle saken på nytt.
+Saken gjelder Fylkesmannen i Nord-Trøndelags behandling av klagesak om sletting av opplysninger i pasientjournal.  
+Ombudsmannen kom til at Fylkesmannen skulle ha innhentet de aktuelle delene av journalen før det ble tatt stilling til kravet om sletting. At dette ikke ble gjort, var i strid med utredningsplikten etter forvaltningsloven.  
+Det var videre i strid med veilednings- og utredningsplikten at Fylkesmannen avslo kravet om sletting med den begrunnelse at det ikke var tilstrekkelig spesifisert hvilke opplysninger klager krevde slettet, uten at klager var gitt anledning til å utdype og spesifisere kravet om sletting.  
+Fylkesmannen bes på denne bakgrunn om å innhente de aktuelle delene av journalen og behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

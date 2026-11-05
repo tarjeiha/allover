@@ -15,8 +15,7 @@ Sivilombudets uttalelse 7.6.2024 (sak 2023/5533).
 ## Oppsummering
 
 Saken gjelder Navs behandlingstid ved opphør av barnebidrag etter barnelova § 69 fordi barnet ble plassert i beredskapshjem. Mor mottok løpende barnebidrag fra far. Barnet ble plassert frivillig i beredskapshjem høsten 2021 og frem til mars 2022. I mors søknad om nedsettelse av barnebidrag i februar 2022 fikk Nav informasjon om at barnet hadde vært plassert i beredskapshjem. Nav ba barneverntjenesten om opplysninger i mars 2022 som var nødvendige for å ta stilling til om barnebidraget etter barnelova skulle opphøre. Opplysningene Nav mottok var mangelfulle, men Nav fulgte ikke opp med å be om ytterligere opplysninger. Fra Nav fikk opplysninger om beredskapshjem til opphørsvedtaket ble fattet gikk det åtte måneder. I fem måneder lå saken inaktiv hos Nav.  
-   
- Sivilombudet har kommet til at saken ikke har vært behandlet uten ugrunnet opphold, jf. forvaltningsloven § 11 a, og at fremdriften ikke har vært forsvarlig når Nav unnlot å be om ytterligere opplysninger fra barneverntjenesten.
+Sivilombudet har kommet til at saken ikke har vært behandlet uten ugrunnet opphold, jf. forvaltningsloven § 11 a, og at fremdriften ikke har vært forsvarlig når Nav unnlot å be om ytterligere opplysninger fra barneverntjenesten.
 
 ## Sakens bakgrunn
 
@@ -25,7 +24,7 @@ Saken gjelder Nav Familie- og pensjonsytelsers behandling av en sak om opphør a
 Det er Nav Familie- og pensjonsytelser som fatter vedtak om opphør av barnebidrag. En sak om opphør av barnebidrag fordi barnet er plassert utenfor hjemmet, krever derfor et samarbeid på tvers av etater (mellom Nav Familie- og pensjonsytelser, som behandler saker om barnebidrag, og den kommunale barnverntjenesten).
 
 Bidragsmottaker (heretter mor) søkte 21. februar 2022 om endring av barnebidrag for sin datter fordi «far har høyere samvær enn før». Samtidig ba hun om at bidraget skulle betales direkte til barnet, som på dette tidspunktet var 17 år. Hun la ved en bekreftelse datert 17. februar 2022 fra barneverntjenesten hvor det stod at barnet hadde vært frivillig plassert i beredskapshjem og at barnet etter planen skal flyttet i egen bolig  
- 1. mars 2022. I telefonsamtale med Nav 3. mars 2022 presiserte mor at hun ikke mente å søke om endring tilbake i tid, men fra 1. april 2022.
+1. mars 2022. I telefonsamtale med Nav 3. mars 2022 presiserte mor at hun ikke mente å søke om endring tilbake i tid, men fra 1. april 2022.
 
 I brev 3. mars 2022 fra Nav ble barneverntjenesten bedt om å svare på om den ut fra de tiltak som hadde vært iverksatt hadde adgang til å kreve oppfostringsbidrag etter barnevernloven § 9-2. Nav ba også barneverntjenesten opplyse om fra hvilken dato den hadde slik kompetanse. I brev 18. mars 2022 svarte barneverntjenesten at den «ikke krever oppfostringsbidrag». I tillegg stod det:
 
@@ -68,7 +67,7 @@ På tidspunktet denne saken var til behandling i førsteinstans gjaldt lov 17. j
 Fra 1. januar 2023 trådte ny lov om barnevern (barnevernsloven) i kraft. Bestemmelsen i § 9-2 første ledd er videreført uten materielle endringer i ny § 15-2 første ledd.
 
 Både i den gamle barnevernloven § 9-2 annet ledd femte punktum og i någjeldende  
- § 15-12 annet ledd femte punktum står det at «[b]idrag som er fastsatt etter barneloven faller bort fra det tidspunktet bidrag kan fastsettes etter denne bestemmelsen». Barnelova § 69 har en tilsvarende bestemmelse om bortfall.
+§ 15-12 annet ledd femte punktum står det at «[b]idrag som er fastsatt etter barneloven faller bort fra det tidspunktet bidrag kan fastsettes etter denne bestemmelsen». Barnelova § 69 har en tilsvarende bestemmelse om bortfall.
 
 Barneverntjenesten skal gi Nav de opplysninger som er nødvendige i den enkelte sak, jf. § 9-2 annet ledd siste punktum. I merknadene til bestemmelsen i Ot.prp.nr.64 (2004–2005), står det at barnverntjenesten må gi slike opplysninger også i de sakene der den ikke vil kreve oppfostringsbidrag, men hvor opplysningene er nødvendige for at Nav skal kunne stanse et pågående bidrag etter barnelova. Nav har retningslinjer om egen informasjonsinnhenting i rundskriv R55-02 til barnelova § 69:
 

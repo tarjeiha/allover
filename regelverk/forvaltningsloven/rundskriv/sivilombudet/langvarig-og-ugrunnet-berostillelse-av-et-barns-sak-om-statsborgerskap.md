@@ -16,10 +16,8 @@ Sivilombudets uttalelse 6.12.2022 (sak 2022/4247).
 ## Oppsummering
 
 Saken gjelder lang behandlingstid i Utlendingsdirektoratet (UDI) for et barns søknad om statsborgerskap. Den lange behandlingstiden var en følge av at saken hadde vært berostilt i påvente av vurderinger av tilbakekall av farens oppholdstillatelse. På bakgrunn av ombudets undersøkelser kom UNE til at saken ikke skulle vært berostilt, da utfallet av barnets sak ikke var avhengig av farens tilbakekallssak. UDI behandlet da klagerens sak og innvilget norsk statsborgerskap – omtrent fire og et halvt år etter at klageren hadde søkt.  
-   
- Sivilombudet er kommet til at UDIs behandlingstid på om lag fire år og fem måneder ikke oppfylte forvaltningslovens krav om å behandle saken «uten ugrunnet opphold». Som UNE selv har erkjent, skulle saken ha vært behandlet tidligere – uten å avvente behandlingen av farens sak. UDI har heller ikke handlet i tråd med god forvaltningsskikk når de i forsinkelsesmeldingene ikke opplyste om årsakene til forsinkelsen.  
-   
- Det er positivt at UDI vil gå gjennom statsborgerskapssaker for barn der én forelder har åpen tilbakekallssak og utarbeide rutiner som sørger for at ikke flere saker berostilles uten at det er nødvendig. Ombudet ber om å bli holdt orientert om dette arbeidet og ber om en tilbakemelding innen 1. april 2023.
+Sivilombudet er kommet til at UDIs behandlingstid på om lag fire år og fem måneder ikke oppfylte forvaltningslovens krav om å behandle saken «uten ugrunnet opphold». Som UNE selv har erkjent, skulle saken ha vært behandlet tidligere – uten å avvente behandlingen av farens sak. UDI har heller ikke handlet i tråd med god forvaltningsskikk når de i forsinkelsesmeldingene ikke opplyste om årsakene til forsinkelsen.  
+Det er positivt at UDI vil gå gjennom statsborgerskapssaker for barn der én forelder har åpen tilbakekallssak og utarbeide rutiner som sørger for at ikke flere saker berostilles uten at det er nødvendig. Ombudet ber om å bli holdt orientert om dette arbeidet og ber om en tilbakemelding innen 1. april 2023.
 
 Se oppdatering fra forvaltningen
 

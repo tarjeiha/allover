@@ -15,13 +15,10 @@ Sivilombudets uttalelse 16.3.2022 (sak 2022/1400).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Cs avgjørelse om å gi delvis innsyn i dokumenter i en varslingssak.   
-   
- Ombudet er kommet til at X kontrollutvalg må anses som en del av Y kommune. Reglene i arbeidsmiljøloven § 2 A-7 om taushetsplikt ved varsling til eksternt organ får derfor ikke anvendelse.   
-   
- Ombudet er kommet til at det var riktig å gi delvis innsyn i varslingssaken. Det er ikke rettslig grunnlag for å unnta dokumentene i sin helhet så lenge de taushetsbelagte opplysningene ikke utgjør det «vesentligste» av dokumentet. Det er heller ikke funnet grunnlag for avgjørende rettslige innvendinger til Statsforvalterens konkrete vurdering av hvilke opplysninger som var omfattet av taushetsplikt.  
-   
- Ved vurderingen av taushetspliktens rekkevidde etter reglene i offentleglova er det ikke et relevant hensyn at den som ber om innsyn muligens kunne anses som part i varslingssaken. Innsyn må vurderes enten etter reglene i offentleglova eller forvaltningsloven kapittel IV om partsinnsyn.
+Saken gjelder Statsforvalteren i Cs avgjørelse om å gi delvis innsyn i dokumenter i en varslingssak.  
+Ombudet er kommet til at X kontrollutvalg må anses som en del av Y kommune. Reglene i arbeidsmiljøloven § 2 A-7 om taushetsplikt ved varsling til eksternt organ får derfor ikke anvendelse.  
+Ombudet er kommet til at det var riktig å gi delvis innsyn i varslingssaken. Det er ikke rettslig grunnlag for å unnta dokumentene i sin helhet så lenge de taushetsbelagte opplysningene ikke utgjør det «vesentligste» av dokumentet. Det er heller ikke funnet grunnlag for avgjørende rettslige innvendinger til Statsforvalterens konkrete vurdering av hvilke opplysninger som var omfattet av taushetsplikt.  
+Ved vurderingen av taushetspliktens rekkevidde etter reglene i offentleglova er det ikke et relevant hensyn at den som ber om innsyn muligens kunne anses som part i varslingssaken. Innsyn må vurderes enten etter reglene i offentleglova eller forvaltningsloven kapittel IV om partsinnsyn.
 
 ## Sakens bakgrunn
 

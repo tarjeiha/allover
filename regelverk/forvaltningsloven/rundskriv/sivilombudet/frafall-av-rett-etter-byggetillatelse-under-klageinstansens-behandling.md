@@ -14,9 +14,8 @@ Sivilombudets uttalelse 18.7.2022 (sak 2022/2305).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om en erklæring fra søkeren om frafall av byggetillatelse binder Statsforvalteren til å oppheve kommunens vedtak uten realitetsbehandling. Erklæringen ble sendt inn etter at naboer og Statsforvalteren i fylket hadde påklaget tillatelsen gitt av kommunen og saken var innkommet til settestatsforvalteren for behandling. Søkeren besluttet å trekke søknaden og erklærte samtidig at han frafalt retten som fulgte av byggetillatelsen. Statsforvalteren mente at det ikke lenger var en søknad å trekke, og at rettsvirkningene inntrådte så snart byggetillatelsen var gitt. Videre mente Statsforvalteren at klagerne hadde en berettiget interesse av å få realitetsbehandlet klagen.   
-   
- Ombudet kom til at det var naturlig å se det slik at klagegjenstanden var bortfalt som følge av frafallet. Ombudet ba Statsforvalteren om å vurdere sitt standpunkt på ny med sikte på å oppheve kommunens vedtak og avslutte klagebehandlingen.
+Saken gjelder spørsmålet om en erklæring fra søkeren om frafall av byggetillatelse binder Statsforvalteren til å oppheve kommunens vedtak uten realitetsbehandling. Erklæringen ble sendt inn etter at naboer og Statsforvalteren i fylket hadde påklaget tillatelsen gitt av kommunen og saken var innkommet til settestatsforvalteren for behandling. Søkeren besluttet å trekke søknaden og erklærte samtidig at han frafalt retten som fulgte av byggetillatelsen. Statsforvalteren mente at det ikke lenger var en søknad å trekke, og at rettsvirkningene inntrådte så snart byggetillatelsen var gitt. Videre mente Statsforvalteren at klagerne hadde en berettiget interesse av å få realitetsbehandlet klagen.  
+Ombudet kom til at det var naturlig å se det slik at klagegjenstanden var bortfalt som følge av frafallet. Ombudet ba Statsforvalteren om å vurdere sitt standpunkt på ny med sikte på å oppheve kommunens vedtak og avslutte klagebehandlingen.
 
 Se oppdatering fra forvaltningen
 

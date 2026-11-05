@@ -15,8 +15,7 @@ Sivilombudets uttalelse 5.6.2025 (sak 2024/6610).
 ## Oppsummering
 
 Saken gjaldt næringsetaten i Oslo kommunes behandling av en søknad om kommunal skjenkebevilling. Den aktuelle søknaden var klar til behandling 13. april 2023. Søknaden ble innvilget 3. april 2025, etter at ombudet hadde igangsatt undersøkelse av saken. Spørsmålet for ombudet var om etaten hadde overholdt alkohollovens og forvaltningslovens saksbehandlingsregler.  
-   
- Ombudet kom til at den nevnte saksbehandlingstiden klart var i strid med alkoholloven § 1-11, og at det var berettiget tvil om etaten hadde sørget for en forsvarlig fremdrift i saken. Videre hadde etaten etter ombudets syn ikke holdt klageren tilstrekkelig orientert under sakens gang. Det var også uklart om etaten hadde besvart klagerens purringer underveis uten ugrunnet opphold.
+Ombudet kom til at den nevnte saksbehandlingstiden klart var i strid med alkoholloven § 1-11, og at det var berettiget tvil om etaten hadde sørget for en forsvarlig fremdrift i saken. Videre hadde etaten etter ombudets syn ikke holdt klageren tilstrekkelig orientert under sakens gang. Det var også uklart om etaten hadde besvart klagerens purringer underveis uten ugrunnet opphold.
 
 ## Sakens bakgrunn
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 18.3.2024 (sak 2024/246).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak undersøkt Statsforvalteren i Vestlands praksisomlegging knyttet til høring av dispensasjonssaker etter plan- og bygningsloven § 19-1 siste punktum. I brev 4. januar 2024 til kommunene i fylket, skrev Statsforvalteren blant annet at Statsforvalteren ikke lenger ville be om å få dispensasjonssaker oversendt til høring før kommunene fatter vedtak.  
-   
- Sivilombudet har kommet til at plan- og bygningsloven § 19-1 siste punktum innebærer en plikt for kommunene til å sende dispensasjonssøknader omfattet av bestemmelsen på høring, dersom ansvarsområdet til en regional eller statlig myndighet blir direkte berørt. Statsforvalteren har videre en plikt til å motta disse sakene og vurdere konkret om det skal gis en uttalelse til den enkelte sak.  
-   
- På bakgrunn av dette har ombudet kommet til at Statsforvalterens praksis knyttet til høring av kommunale dispensasjonssaker ikke er i tråd med kravene i plan- og bygningsloven § 19 1. Ombudet ber Statsforvalteren vurdere sin praksis på nytt, og om å bli orientert om utfallet av den nye vurderingen.
+Sivilombudet har kommet til at plan- og bygningsloven § 19-1 siste punktum innebærer en plikt for kommunene til å sende dispensasjonssøknader omfattet av bestemmelsen på høring, dersom ansvarsområdet til en regional eller statlig myndighet blir direkte berørt. Statsforvalteren har videre en plikt til å motta disse sakene og vurdere konkret om det skal gis en uttalelse til den enkelte sak.  
+På bakgrunn av dette har ombudet kommet til at Statsforvalterens praksis knyttet til høring av kommunale dispensasjonssaker ikke er i tråd med kravene i plan- og bygningsloven § 19 1. Ombudet ber Statsforvalteren vurdere sin praksis på nytt, og om å bli orientert om utfallet av den nye vurderingen.
 
 Se oppdatering fra forvaltningen
 

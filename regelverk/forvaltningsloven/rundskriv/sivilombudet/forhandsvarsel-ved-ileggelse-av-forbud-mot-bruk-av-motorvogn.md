@@ -15,10 +15,8 @@ Sivilombudets uttalelse 27.4.2021 (sak 2020/4862).
 ## Oppsummering
 
 Saken gjelder manglende forhåndsvarsel før det ble fattet vedtak om bruksforbud for motorvogn.  
-   
- Ombudsmannen er kommet til at politidistriktet brøt forvaltningslovens plikt til å forhåndsvarsle parten. Unntaket fra varslingsplikten for tilfeller der varsling kan medføre fare for at vedtaket ikke kan gjennomføres kom ikke til anvendelse, da gjennomføringen av vedtaket kunne sikres på annen måte. Politidirektoratet skulle påpekt den manglende forhåndsvarslingen ved deres klagebehandling av saken.  
-   
- Da feilen også ser ut til å omfatte mange andre saker ber ombudsmannen Politidirektoratet sørge for at politidistriktene følger reglene om forhåndsvarsling i saker om bruksforbud.
+Ombudsmannen er kommet til at politidistriktet brøt forvaltningslovens plikt til å forhåndsvarsle parten. Unntaket fra varslingsplikten for tilfeller der varsling kan medføre fare for at vedtaket ikke kan gjennomføres kom ikke til anvendelse, da gjennomføringen av vedtaket kunne sikres på annen måte. Politidirektoratet skulle påpekt den manglende forhåndsvarslingen ved deres klagebehandling av saken.  
+Da feilen også ser ut til å omfatte mange andre saker ber ombudsmannen Politidirektoratet sørge for at politidistriktene følger reglene om forhåndsvarsling i saker om bruksforbud.
 
 ## Sakens bakgrunn
 

@@ -15,17 +15,12 @@ Sivilombudets uttalelse 22.6.2021 (sak 2020/1513).
 
 ## Oppsummering
 
-Saken gjelder UNEs fornyede vurdering etter at ombudsmannen i uttalelse 12. september 2019 (SOM-2018-4025) kom til at deres vedtak i en sak om familieinnvandring var ugyldig. Ombudsmannen konstaterte i uttalelsen at UNE hadde lagt til grunn en uriktig forståelse av utlendingsloven § 43, ved å innfortolke et krav om referansepersonen må være enslig.   
-   
- UNE behandlet søknadene på nytt 1. og 19. november 2019. Avslaget ble opprettholdt, men med en ny begrunnelse. UNE viste til at moren ikke hadde fremlagt pass, eller noen forklaring på hvorfor dette ikke var fremlagt, før referansepersonen fylte 18 år.   
-   
- Ved vurderingen av aldersvilkåret i utlendingsloven § 43 er det avgjørende om søknaden med nødvendige vedlegg var innkommet før 18-årsdagen, jf. lovens § 50. Vurderingen av hvilke vedlegg som skal anses nødvendige etter bestemmelsen må etter ombudsmannens syn ta utgangspunkt i hvilke vedlegg som objektivt sett fremsto som nødvendige for moren på søknadstidspunktet.  
-   
- Regelverket oppstiller ikke noe absolutt krav om at pass må følge søknaden, og det kan ikke legges til grunn at det var gitt noen veiledning om at forklaringen moren ga om årsakene til manglende pass eventuelt ikke var tilstrekkelig. Ombudsmannen er derfor under noe tvil kommet til at pass ikke fremsto som et «nødvendig vedlegg» for moren på søknadstidspunktet. Det må etter dette legges til grunn at aldersvilkåret i § 43, jf. § 50, var oppfylt, da søknaden med nødvendig vedlegg må anses innkommet før referansepersonens 18-årsdag.   
-   
- Ombudsmannen bemerker også at det uansett er uheldig at UNE 2 ½ år etter søknaden, og i en sak som tidligere har vært realitetsbehandlet av UDI og UNE, avgjør saken på det grunnlag at søknaden manglet nødvendige vedlegg. Det må kunne forventes at de grunnleggende kravene til søknaden blir vurdert og avgjort på et tidligere tidspunkt, særlig sett i lys av at det organet som mottar søknaden har en plikt til å vurdere om de nødvendige vedleggene følger med.  
-   
- UNE bes på denne bakgrunn behandle saken på nytt innen utløpet av august 2021.
+Saken gjelder UNEs fornyede vurdering etter at ombudsmannen i uttalelse 12. september 2019 (SOM-2018-4025) kom til at deres vedtak i en sak om familieinnvandring var ugyldig. Ombudsmannen konstaterte i uttalelsen at UNE hadde lagt til grunn en uriktig forståelse av utlendingsloven § 43, ved å innfortolke et krav om referansepersonen må være enslig.  
+UNE behandlet søknadene på nytt 1. og 19. november 2019. Avslaget ble opprettholdt, men med en ny begrunnelse. UNE viste til at moren ikke hadde fremlagt pass, eller noen forklaring på hvorfor dette ikke var fremlagt, før referansepersonen fylte 18 år.  
+Ved vurderingen av aldersvilkåret i utlendingsloven § 43 er det avgjørende om søknaden med nødvendige vedlegg var innkommet før 18-årsdagen, jf. lovens § 50. Vurderingen av hvilke vedlegg som skal anses nødvendige etter bestemmelsen må etter ombudsmannens syn ta utgangspunkt i hvilke vedlegg som objektivt sett fremsto som nødvendige for moren på søknadstidspunktet.  
+Regelverket oppstiller ikke noe absolutt krav om at pass må følge søknaden, og det kan ikke legges til grunn at det var gitt noen veiledning om at forklaringen moren ga om årsakene til manglende pass eventuelt ikke var tilstrekkelig. Ombudsmannen er derfor under noe tvil kommet til at pass ikke fremsto som et «nødvendig vedlegg» for moren på søknadstidspunktet. Det må etter dette legges til grunn at aldersvilkåret i § 43, jf. § 50, var oppfylt, da søknaden med nødvendig vedlegg må anses innkommet før referansepersonens 18-årsdag.  
+Ombudsmannen bemerker også at det uansett er uheldig at UNE 2 ½ år etter søknaden, og i en sak som tidligere har vært realitetsbehandlet av UDI og UNE, avgjør saken på det grunnlag at søknaden manglet nødvendige vedlegg. Det må kunne forventes at de grunnleggende kravene til søknaden blir vurdert og avgjort på et tidligere tidspunkt, særlig sett i lys av at det organet som mottar søknaden har en plikt til å vurdere om de nødvendige vedleggene følger med.  
+UNE bes på denne bakgrunn behandle saken på nytt innen utløpet av august 2021.
 
 Se oppdatering fra forvaltningen
 

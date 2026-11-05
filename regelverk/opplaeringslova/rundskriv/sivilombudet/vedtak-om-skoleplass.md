@@ -16,8 +16,7 @@ Sivilombudets uttalelse 25.5.2020 (sak 2019/3190).
 ## Oppsummering
 
 Saken gjelder Fylkesmannen i Oslo og Vikens overprøving av Drammen kommunes avslag på søknad om skolebytte i medhold av opplæringslova § 8-1 tredje ledd.  
-   
- Ombudsmannen er kommet til at Fylkesmannen ikke har foretatt en tilstrekkelig konkret og individuell avveining av de ulike momentene i saken. Fylkesmannen sørget for at barnets beste ble tilstrekkelig belyst, men mange av de hensynene som ble trukket frem, gjør seg i liten grad gjeldende i saken. Kommunens utgangspunkt for behandlingen av søknaden, ga ikke Fylkesmannen grunnlag for å legge avgjørende vekt på hensynet til det kommunale selvstyret. Flere av momentene som på generelt grunnlag kan tale mot å beholde skoleplassen etter flytting, mener ombudsmannen ville ha talt til klagers fordel i denne saken. Etter ombudsmannens syn burde klagers søknad om skolebytte ha vært innvilget. Fylkesmannen ble bedt om å merke seg ombudsmannens påpekninger for behandlingen av fremtidige skolebyttesaker.
+Ombudsmannen er kommet til at Fylkesmannen ikke har foretatt en tilstrekkelig konkret og individuell avveining av de ulike momentene i saken. Fylkesmannen sørget for at barnets beste ble tilstrekkelig belyst, men mange av de hensynene som ble trukket frem, gjør seg i liten grad gjeldende i saken. Kommunens utgangspunkt for behandlingen av søknaden, ga ikke Fylkesmannen grunnlag for å legge avgjørende vekt på hensynet til det kommunale selvstyret. Flere av momentene som på generelt grunnlag kan tale mot å beholde skoleplassen etter flytting, mener ombudsmannen ville ha talt til klagers fordel i denne saken. Etter ombudsmannens syn burde klagers søknad om skolebytte ha vært innvilget. Fylkesmannen ble bedt om å merke seg ombudsmannens påpekninger for behandlingen av fremtidige skolebyttesaker.
 
 ## Sakens bakgrunn
 

@@ -16,12 +16,9 @@ Sivilombudets uttalelse 7.5.2019 (sak 2018/673).
 ## Oppsummering
 
 Saken gjelder dels om Utlendingsdirektoratet (UDI) har adgang til å vente med å behandle flyktningens søknad om fornyet midlertidig oppholdstillatelse (asyl) til utvisningssaken hans er avgjort. Det andre hovedspørsmålet er om UDI har adgang til fortsatt å stille utvisningssaken hans i bero ca. 10 år etter at den ble åpnet.  
-   
- Ombudsmannen har ikke rettslige innvendinger til at utvisningssaken fortsatt er stilt i bero.  
-   
- Ombudsmannen mener at UDI ikke har adgang til å avvente behandlingen av klagerens søknad om oppholdstillatelse (asyl) så lenge utvisningssaken er stilt i bero.  
-   
- Ombudsmannen ber UDI realitetsbehandle klagerens søknad om fornyet midlertidig oppholdstillatelse så snart som mulig.
+Ombudsmannen har ikke rettslige innvendinger til at utvisningssaken fortsatt er stilt i bero.  
+Ombudsmannen mener at UDI ikke har adgang til å avvente behandlingen av klagerens søknad om oppholdstillatelse (asyl) så lenge utvisningssaken er stilt i bero.  
+Ombudsmannen ber UDI realitetsbehandle klagerens søknad om fornyet midlertidig oppholdstillatelse så snart som mulig.
 
 Se oppdatering fra forvaltningen
 

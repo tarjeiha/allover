@@ -15,8 +15,8 @@ Sivilombudets uttalelse 22.10.2017 (sak 2017/1340).
 
 ## Oppsummering
 
-Saken gjelder ansettelse av leger i spesialisering (LIS) ved X sykehus. På vegne av A mente Den norske legeforening at hun var forbigått i ansettelsesprosessen, og at ansettelsene var gjort i strid med kvalifikasjonsprinsippet. Dette fordi to kandidater ble ansatt før A hadde sendt inn sin søknad, og før søknadsfristen var utløpt.   
- Ombudsmannen uttalte at det var i strid med kvalifikasjonsprinsippet å foreta ansettelse før søknadsfristens utløp. Ved å ansette noen før søknadsfristens utløp, og før As søknad var mottatt, hadde sykehuset begått urett mot A.
+Saken gjelder ansettelse av leger i spesialisering (LIS) ved X sykehus. På vegne av A mente Den norske legeforening at hun var forbigått i ansettelsesprosessen, og at ansettelsene var gjort i strid med kvalifikasjonsprinsippet. Dette fordi to kandidater ble ansatt før A hadde sendt inn sin søknad, og før søknadsfristen var utløpt.  
+Ombudsmannen uttalte at det var i strid med kvalifikasjonsprinsippet å foreta ansettelse før søknadsfristens utløp. Ved å ansette noen før søknadsfristens utløp, og før As søknad var mottatt, hadde sykehuset begått urett mot A.
 
 I brev hit 26. april 2017 klaget Den norske legeforening på vegne av A over X sykehus’ ansettelse av to leger i spesialisering i fast stilling ved Y avdeling. Ansettelse i de faste stillingene ble gjort henholdsvis 25. januar 2017 og 26. januar 2017. I utlysningsteksten var 31. januar 2017 opplyst som søknadsfrist. Legeforeningen mente sykehuset hadde brutt kvalifikasjonsprinsippet ved å foreta ansettelse før søknadsfristens utløp, og at A var forbigått i ansettelsesprosessen.
 

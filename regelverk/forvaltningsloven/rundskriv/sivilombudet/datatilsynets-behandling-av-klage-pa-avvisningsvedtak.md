@@ -14,11 +14,9 @@ Sivilombudets uttalelse 8.12.2022 (sak 2022/2358).
 
 ## Oppsummering
 
-Datatilsynet fattet vedtak om avvisning av en klage, som gjaldt utfallet av en tilsynssak med en kommune. Avvisningsvedtaket ble påklaget.   
-   
- Det tok i underkant ett år og tre måneder fra klagen over avvisningsvedtaket ble mottatt hos Datatilsynet, til saken ble oversendt Personvernnemnda for overprøving. Sivilombudet mener at Datatilsynet ikke har gitt noen tilfredsstillende forklaring på hvorfor oversendelsen av klagesaken tok så lang tid. Tidsbruken fremstår i hovedsak som ren liggetid. Datatilsynet har heller ikke gitt noen tilfredsstillende forklaring på hvorfor klagerne verken mottok foreløpig svar eller forsinkelsesmeldinger under saksgangen.   
-   
- Sivilombudet finner det klart at saksbehandlingen har vært i strid med forvaltningsloven. Datatilsynet må gjennomgå sine rutiner for å sikre at klagesaker alltid forberedes «uten ugrunnet opphold» og oversendes Personvernnemnda «så snart saken er tilrettelagt», jf. forvaltningsloven §§ 11 a første ledd og 33 fjerde ledd. Rutinene må også sikre at klagesaker omfordeles når saksbehandlere slutter. Datatilsynet må i tillegg gjennomgå sine rutiner for å sende foreløpig svar, og sende forsinkelsesmelding hvis behandlingen av saken trekker ut i tid.
+Datatilsynet fattet vedtak om avvisning av en klage, som gjaldt utfallet av en tilsynssak med en kommune. Avvisningsvedtaket ble påklaget.  
+Det tok i underkant ett år og tre måneder fra klagen over avvisningsvedtaket ble mottatt hos Datatilsynet, til saken ble oversendt Personvernnemnda for overprøving. Sivilombudet mener at Datatilsynet ikke har gitt noen tilfredsstillende forklaring på hvorfor oversendelsen av klagesaken tok så lang tid. Tidsbruken fremstår i hovedsak som ren liggetid. Datatilsynet har heller ikke gitt noen tilfredsstillende forklaring på hvorfor klagerne verken mottok foreløpig svar eller forsinkelsesmeldinger under saksgangen.  
+Sivilombudet finner det klart at saksbehandlingen har vært i strid med forvaltningsloven. Datatilsynet må gjennomgå sine rutiner for å sikre at klagesaker alltid forberedes «uten ugrunnet opphold» og oversendes Personvernnemnda «så snart saken er tilrettelagt», jf. forvaltningsloven §§ 11 a første ledd og 33 fjerde ledd. Rutinene må også sikre at klagesaker omfordeles når saksbehandlere slutter. Datatilsynet må i tillegg gjennomgå sine rutiner for å sende foreløpig svar, og sende forsinkelsesmelding hvis behandlingen av saken trekker ut i tid.
 
 ## Sakens bakgrunn
 
@@ -105,7 +103,7 @@ Ombudet mener denne saken viser klare svakheter ved Datatilsynets praksis for ut
 ## Konklusjon
 
 Datatilsynet har ikke behandlet klagesaken «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd, og heller ikke overholdt kravet i forvaltningsloven  
- § 33 fjerde ledd om å oversende saken til klageinstansen så snart den er tilrettelagt.
+§ 33 fjerde ledd om å oversende saken til klageinstansen så snart den er tilrettelagt.
 
 Datatilsynets manglende utsendelse av foreløpig svar, forsinkelsesmeldinger og svar på tre skriftlige purringer, er i strid med forvaltningsloven § 11 a annet ledd, jf. tredje ledd, og kravene som følger av god forvaltningsskikk.
 

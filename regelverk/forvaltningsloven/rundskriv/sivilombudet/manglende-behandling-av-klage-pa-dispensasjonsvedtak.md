@@ -15,8 +15,7 @@ Sivilombudets uttalelse 6.2.2019 (sak 2018/3029).
 ## Oppsummering
 
 Saken gjelder manglende behandling av en klage på et dispensasjonsvedtak i Rissa kommune, nå Indre Fosen kommune. Kommunen hadde heller ikke tatt stilling til en begjæring om utsatt iverksetting av det påklagede vedtaket. Klagen datert 7. mars 2017 ble først behandlet etter at vi besluttet å undersøke saken i oktober 2018.  
-   
- Ombudsmannen har kommet til at kommunen ikke har fulgt reglene om saksbehandlingstid og foreløpig svar i forvaltningsloven § 11 a. Videre har kommunen ikke overholdt sin plikt etter forvaltningsloven § 42 til å vurdere begjæringen om utsatt iverksetting «snarest mulig». Ombudsmannen forutsetter at kommunen for fremtiden organiserer sitt arbeid på en slik måte at reglene i forvaltningsloven § 11 a og § 42 overholdes.
+Ombudsmannen har kommet til at kommunen ikke har fulgt reglene om saksbehandlingstid og foreløpig svar i forvaltningsloven § 11 a. Videre har kommunen ikke overholdt sin plikt etter forvaltningsloven § 42 til å vurdere begjæringen om utsatt iverksetting «snarest mulig». Ombudsmannen forutsetter at kommunen for fremtiden organiserer sitt arbeid på en slik måte at reglene i forvaltningsloven § 11 a og § 42 overholdes.
 
 ## Sakens bakgrunn
 

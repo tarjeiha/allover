@@ -15,10 +15,8 @@ Sivilombudets uttalelse 22.11.2016 (sak 2016/1417).
 ## Oppsummering
 
 Saken gjelder Helseklages behandlingstid generelt og i en enkeltsak om utmåling av erstatning for pasientskade. Ombudsmannen har kommet til at en gjennomsnittlig behandlingstid i pasientskadesaker på 20 måneder eller mer er for lang. Helseklage må bestrebe seg på å korte ned på saksbehandlingstidene snarest mulig.  
-   
- I den undersøkte enkeltsaken er behandlingstiden hittil på mer enn 31 måneder, og sist ombudsmannen ble informert om status var saken fortsatt ikke fordelt til saksbehandler. Dette er klart kritikkverdig. Den informasjonen som er gitt til klager underveis i saken, har heller ikke vært tilfredsstillende.  
-   
- Helseklage bes om å følge opp saken både på generelt grunnlag og i tilknytning til den aktuelle klagen. Ombudsmannen ber om at klager innen to uker informeres skriftlig om forventet tidspunkt for avslutning av hans sak. Kopi av meldingen bes sendt til ombudsmannen.
+I den undersøkte enkeltsaken er behandlingstiden hittil på mer enn 31 måneder, og sist ombudsmannen ble informert om status var saken fortsatt ikke fordelt til saksbehandler. Dette er klart kritikkverdig. Den informasjonen som er gitt til klager underveis i saken, har heller ikke vært tilfredsstillende.  
+Helseklage bes om å følge opp saken både på generelt grunnlag og i tilknytning til den aktuelle klagen. Ombudsmannen ber om at klager innen to uker informeres skriftlig om forventet tidspunkt for avslutning av hans sak. Kopi av meldingen bes sendt til ombudsmannen.
 
 Se oppdatering fra forvaltningen
 

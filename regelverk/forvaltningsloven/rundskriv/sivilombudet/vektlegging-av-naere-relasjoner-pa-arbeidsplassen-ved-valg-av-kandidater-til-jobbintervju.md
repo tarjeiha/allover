@@ -15,11 +15,9 @@ Sivilombudets uttalelse 12.12.2025 (sak 2025/4878).
 
 ## Oppsummering
 
-Saken gjelder en klage på en kommunal ansettelsesprosess. Klager søkte på en stilling med samme arbeidssted som sin mor. Det fremgikk av kommunens etiske reglement at nære relasjoner på tjenestestedet skal unngås.   
-   
- Klager ble ikke kalt inn til intervju, og mente kommunen uriktig hadde vektlagt det etiske reglementet. Klager mente at kommunen uansett ikke hadde dokumentert at det var gjort en konkret og individuell vurdering av hvorfor klager ikke ble kalt inn til intervju, i tråd med kvalifikasjonsprinsippet for offentlige ansettelser.   
-   
- Sivilombudet har kommet til at kommunen ikke overholdt de ulovfestede kravene til skriftlighet som gjelder ved ansettelser. Manglende skriftlighet medførte videre at det knyttet seg berettiget tvil til om saken kunne anses tilstrekkelig opplyst uten at klager ble kalt inn til intervju.
+Saken gjelder en klage på en kommunal ansettelsesprosess. Klager søkte på en stilling med samme arbeidssted som sin mor. Det fremgikk av kommunens etiske reglement at nære relasjoner på tjenestestedet skal unngås.  
+Klager ble ikke kalt inn til intervju, og mente kommunen uriktig hadde vektlagt det etiske reglementet. Klager mente at kommunen uansett ikke hadde dokumentert at det var gjort en konkret og individuell vurdering av hvorfor klager ikke ble kalt inn til intervju, i tråd med kvalifikasjonsprinsippet for offentlige ansettelser.  
+Sivilombudet har kommet til at kommunen ikke overholdt de ulovfestede kravene til skriftlighet som gjelder ved ansettelser. Manglende skriftlighet medførte videre at det knyttet seg berettiget tvil til om saken kunne anses tilstrekkelig opplyst uten at klager ble kalt inn til intervju.
 
 ## Sakens bakgrunn
 

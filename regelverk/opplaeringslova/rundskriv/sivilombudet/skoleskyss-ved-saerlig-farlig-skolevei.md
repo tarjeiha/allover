@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.12.2021 (sak 2021/3315).
 ## Oppsummering
 
 Saken gjelder retten til skoleskyss ved særlig farlig skolevei. Et foreldrepar søkte om skyss for sin datter, og viste blant annet til at skoleveien var svært smal, svingete og uoversiktlig, og hadde fartsgrense 80 km/t. Statsforvalteren i Vestland avslo søknaden. Avslaget var særlig begrunnet med at trafikkmengden på veien var lav og at det ikke var registrert ulykker eller klager på trafikkadferden.  
-   
- Sivilombudet er kommet til at Statsforvalteren synes å ha lagt til grunn en for høy terskel ved vurderingen av om skoleveien er «særleg farleg» for eleven. Ombudet mener videre at de objektive faremomentene på veien er farligere enn det Statsforvalteren ga uttrykk for. Samlet finner ombudet at elevens skolevei må anses som «særleg farleg» for henne, slik at hun har rett til gratis skyss, jf. opplæringslova § 7-1 første ledd tredje punktum. Ombudet ber Statsforvalteren behandle saken på nytt.
+Sivilombudet er kommet til at Statsforvalteren synes å ha lagt til grunn en for høy terskel ved vurderingen av om skoleveien er «særleg farleg» for eleven. Ombudet mener videre at de objektive faremomentene på veien er farligere enn det Statsforvalteren ga uttrykk for. Samlet finner ombudet at elevens skolevei må anses som «særleg farleg» for henne, slik at hun har rett til gratis skyss, jf. opplæringslova § 7-1 første ledd tredje punktum. Ombudet ber Statsforvalteren behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

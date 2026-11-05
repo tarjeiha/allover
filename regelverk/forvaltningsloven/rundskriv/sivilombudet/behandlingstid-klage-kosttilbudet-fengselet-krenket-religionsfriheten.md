@@ -15,8 +15,8 @@ Sivilombudets uttalelse 10.11.2017 (sak 2017/1246).
 ## Oppsummering
 
 Saken gjelder behandlingstiden for en klage over at kosttilbudet i fengselet krenket innsattes rett til fri religionsutøvelse.  
- Ombudsmannen har kommet til at regionens behandlingstid på ni måneder ikke kan aksepteres, og at klagen ikke har blitt avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Videre er det kritikkverdig at regionen ikke har sendt ut forsinkelsesmelding under sakens gang.   
- Det er et overordnet ledelsesansvar å sørge for at forvaltningsorganet har forsvarlige saksbehandlingstider, og at saksavviklingen blir tilfredsstillende håndtert. Regionledelsen må sørge for at det etableres rutiner for å sikre at det blir sendt foreløpig svar, og at det blir sendt forsinkelsesmeldinger der dette er nødvendig. Ombudsmannen ba regionen gi tilbakemelding om hvordan uttalelsen ble fulgt opp.
+Ombudsmannen har kommet til at regionens behandlingstid på ni måneder ikke kan aksepteres, og at klagen ikke har blitt avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Videre er det kritikkverdig at regionen ikke har sendt ut forsinkelsesmelding under sakens gang.  
+Det er et overordnet ledelsesansvar å sørge for at forvaltningsorganet har forsvarlige saksbehandlingstider, og at saksavviklingen blir tilfredsstillende håndtert. Regionledelsen må sørge for at det etableres rutiner for å sikre at det blir sendt foreløpig svar, og at det blir sendt forsinkelsesmeldinger der dette er nødvendig. Ombudsmannen ba regionen gi tilbakemelding om hvordan uttalelsen ble fulgt opp.
 
 Se oppdatering fra forvaltningen
 
@@ -41,14 +41,14 @@ I svar 16. mai 2017 opplyste regionen at sakspapirene ble oversendt fra fengsele
 Sett hen til situasjonen må vi stadig foreta prioriteringer av saker. Vi har mange saker som har svært stor betydning for domfelte og innsatte og som må behandles innen kort tid for at de ikke skal ha negative og uopprettelige konsekvenser for den det gjelder. Vi har også saker som til enhver tid må prioriteres foran andre på grunn av lovbestemte frister, som begjæring om videre bruk av sikkerhetscelle, sikkerhetsseng eller utelukkelser fra fellesskapet.»
 
 Om behandlingstiden i den konkrete saken viste regionen til at spørsmål om kosthold hadde vært tatt opp tidligere og var besvart av Kriminalomsorgens sentrale forvaltning  
- 23. mai 2012. Regionen opplyste deretter:
+23. mai 2012. Regionen opplyste deretter:
 
 «Situasjonen har ikke endret seg siden vedtaket fra KSF, jf. oversendelse fra X fengsel av 14.7.16. Det forelå derfor slik vi ser det ikke forhold i saken som tilsa at den hastet. Region øst mener derfor det ikke kunne forsvares å prioritere å besvare saken på nytt foran andre saker som for eksempel soningsutsettelser, utelukkelser, tvangsmiddelbruk, permisjoner og prøveløslatelser. Saksbehandler har heller ikke vært involvert i saken tidligere og har brukt noe tid på å finne og gå gjennom alle dokumentene som knytter seg til innsatte og kosthold. Fra tidligere var det omtrent 29 dokumenter som gjaldt innsatte og kostholdet i fengselet, i tillegg kommer dokumentene fra 2016. Det har også gått relativt mye tid og ressurser til å besvare de ulike henvendelsene i saken. Saken reiste også spørsmål om i hvilken grad klage over kosthold er å anse som et enkeltvedtak, og vi har brukt noe tid på å utrede dette.»
 
 Regionen beklaget den lange behandlingstiden – både i svaret til ombudsmannen og i brevet som avsluttet fengselsklagen. Det ble også beklaget at saken ikke lot seg besvare innenfor det tidsrom som ble oppgitt i muntlig kontakt med ombudsmannens kontor, uten at det ble redegjort nærmer for årsaken til dette.
 
 Regionen opplyste at det ikke var sendt skriftlig melding utover foreløpig svar  
- 5. desember 2016. Det ble presisert at saksbehandler i tiden før foreløpig svar ble sendt, var i kontakt både med Jussbuss og fengselet, slik at de skulle være kjent med at saken ikke ville bli behandlet innen fristen, og at dette skyldtes stor saksmengde. Regionen gjentok at den hadde behov for å prioritere mellom saker, og anførte:
+5. desember 2016. Det ble presisert at saksbehandler i tiden før foreløpig svar ble sendt, var i kontakt både med Jussbuss og fengselet, slik at de skulle være kjent med at saken ikke ville bli behandlet innen fristen, og at dette skyldtes stor saksmengde. Regionen gjentok at den hadde behov for å prioritere mellom saker, og anførte:
 
 «Under henvisning til at innsatte tidligere har fått prøvet akkurat det samme spørsmålet som nå var gjenstand for klage i flere instanser, kan vi ikke se at saksbehandlingstiden i denne saken har vært uforsvarlig lang eller at denne saken burde vært gitt prioritet foran andre saker. Det er imidlertid beklagelig at innsatte og hans fullmektig ikke har mottatt skriftlig underretting om sakens gang, og vi vil sikre at dette blir gjort i fremtidige saker.»
 

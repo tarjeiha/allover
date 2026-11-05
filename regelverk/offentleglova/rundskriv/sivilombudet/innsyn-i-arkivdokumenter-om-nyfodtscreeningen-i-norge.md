@@ -16,10 +16,8 @@ Sivilombudets uttalelse 20.12.2021 (sak 2021/4205).
 ## Oppsummering
 
 En forsker ved NTNU i Trondheim ba om innsyn i eldre arkivdokumenter vedrørende nyfødtscreening-programmet i Norge. Statens Helsetilsyn ga innsyn i flere saker, men avslo innsyn i organinterne dokumenter, samt enkelte opplysninger i andre dokumenter under henvisning til lovbestemt taushetsplikt. Helse- og omsorgsdepartementet stadfestet hovedsakelig avslaget, men ga delvis innsyn i ytterligere to dokumenter. Departementet viste til offentleglova § 14 første ledd og offentleglova § 13, jf. forvaltningsloven § 13 første ledd nr. 1 som hjemmel for unntakene. Departementet vurderte merinnsyn for de dokumentene og delene som ble unntatt etter offentleglova § 14 første ledd, men viste til at hensynene til offentlighet ikke veide tyngre enn behovet for unntak.  
-   
- Sivilombudet er kommet til at Helse- og omsorgsdepartementets meroffentlighetsvurdering er mangelfull. Vurderingen departementet har foretatt er generell, og ikke knyttet opp mot innholdet i det enkelte dokument eller i de konkrete opplysningene som er unntatt. I den nye vurderingen må behovet for unntak vurderes konkret for hvert dokument og opplysning som er unntatt. Dersom behovet for unntak ikke gjør seg gjeldende, bør departementet gi helt eller delvis innsyn.   
-   
- Ombudet ber på denne bakgrunn departementet om å foreta en fornyet meroffentlighetsvurdering, og orientere ombudet om den nye vurderingen innen 14. januar 2022.
+Sivilombudet er kommet til at Helse- og omsorgsdepartementets meroffentlighetsvurdering er mangelfull. Vurderingen departementet har foretatt er generell, og ikke knyttet opp mot innholdet i det enkelte dokument eller i de konkrete opplysningene som er unntatt. I den nye vurderingen må behovet for unntak vurderes konkret for hvert dokument og opplysning som er unntatt. Dersom behovet for unntak ikke gjør seg gjeldende, bør departementet gi helt eller delvis innsyn.  
+Ombudet ber på denne bakgrunn departementet om å foreta en fornyet meroffentlighetsvurdering, og orientere ombudet om den nye vurderingen innen 14. januar 2022.
 
 Se oppdatering fra forvaltningen
 

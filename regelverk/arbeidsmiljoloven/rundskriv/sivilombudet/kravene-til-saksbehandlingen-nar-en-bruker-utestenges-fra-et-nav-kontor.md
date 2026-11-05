@@ -16,8 +16,7 @@ Sivilombudets uttalelse 19.1.2017 (sak Sak 2016/1175).
 ## Oppsummering
 
 Nav Grünerløkka besluttet i desember 2015 å utestenge en bruker i tolv uker, fordi han skulle ha oppført seg verbalt truende overfor en av de ansatte i «vertsskranken». Første informasjon om utestengingen fikk brukeren på en håndskrevet lapp da han oppsøkte Nav-kontoret en måned senere. Nav-kontoret hadde hverken vurdert om mindre inngripende tiltak var tilstrekkelig, eller om utestenging i tolv uker var nødvendig. Beslutningen ble truffet i etterkant av episoden. Brukeren hadde likevel ikke fått anledning til å uttale seg før han ble utestengt. Nav-kontoret hadde heller ikke arkivert noen kopi av beslutningen.  
-   
- Arbeids- og velferdsetatens «Retningslinjer for beslutning om sikkerhetstiltaket utestenging» gjaldt først fra mai 2016. Ombudsmannen konkluderte derfor med at Nav Grünerløkkas saksbehandling i forbindelse med utestengingsbeslutningen hadde vært i strid med de ulovfestede kravene til forsvarlig saksbehandling og god forvaltningsskikk på flere vesentlige punkter.
+Arbeids- og velferdsetatens «Retningslinjer for beslutning om sikkerhetstiltaket utestenging» gjaldt først fra mai 2016. Ombudsmannen konkluderte derfor med at Nav Grünerløkkas saksbehandling i forbindelse med utestengingsbeslutningen hadde vært i strid med de ulovfestede kravene til forsvarlig saksbehandling og god forvaltningsskikk på flere vesentlige punkter.
 
 ## Uttalelse
 

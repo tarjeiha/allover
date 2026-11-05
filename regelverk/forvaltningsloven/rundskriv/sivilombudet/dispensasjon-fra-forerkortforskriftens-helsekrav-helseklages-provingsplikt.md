@@ -15,10 +15,8 @@ Sivilombudets uttalelse 22.3.2018 (sak 2016/3093).
 ## Oppsummering
 
 Saken gjelder Helseklages klagebehandling i en sak om dispensasjon fra helsekravene i førerkortforskriften. Helseklage mente at klagesaken skulle vurderes ut fra opplysningene som forelå ved førsteinstansens vedtak, og at det ikke skulle tas hensyn til utviklingen etter dette.  
-   
- Helseklage har tatt et uriktig rettslig utgangspunkt ved sin behandling av klagesaken. Helseklage har adgang – og etter omstendighetene plikt – til å ta hensyn til fakta som er tilkommet etter førsteinstansens vedtak. Klagesaken skal avgjøres ut fra de opplysninger som foreligger på tidspunktet for klageinstansens vedtak. Etter omstendighetene plikter klageinstansen også å undersøke om det er tilkommet slike nye fakta, og å gi parten veiledning om behov for ytterligere dokumentasjon. I denne saken har Helseklage ikke foretatt en fullverdig behandling av klagesaken. Det foreligger brudd på utrednings- og veiledningsplikten.  
-   
- Helseklage bes om å behandle saken på nytt. Videre bes Helseklage om merke seg ombudsmannens synspunkter og innrette saksbehandlingen i fremtidige saker i henhold til disse. Ombudsmannen har også merknader til hvordan henvendelsene fra ombudsmannen ble behandlet i Helseklage. Det forutsettes at fremtidige henvendelser herfra gis en tilfredsstillende behandling.
+Helseklage har tatt et uriktig rettslig utgangspunkt ved sin behandling av klagesaken. Helseklage har adgang – og etter omstendighetene plikt – til å ta hensyn til fakta som er tilkommet etter førsteinstansens vedtak. Klagesaken skal avgjøres ut fra de opplysninger som foreligger på tidspunktet for klageinstansens vedtak. Etter omstendighetene plikter klageinstansen også å undersøke om det er tilkommet slike nye fakta, og å gi parten veiledning om behov for ytterligere dokumentasjon. I denne saken har Helseklage ikke foretatt en fullverdig behandling av klagesaken. Det foreligger brudd på utrednings- og veiledningsplikten.  
+Helseklage bes om å behandle saken på nytt. Videre bes Helseklage om merke seg ombudsmannens synspunkter og innrette saksbehandlingen i fremtidige saker i henhold til disse. Ombudsmannen har også merknader til hvordan henvendelsene fra ombudsmannen ble behandlet i Helseklage. Det forutsettes at fremtidige henvendelser herfra gis en tilfredsstillende behandling.
 
 Se oppdatering fra forvaltningen
 

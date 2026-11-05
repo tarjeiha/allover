@@ -14,9 +14,8 @@ Sivilombudets uttalelse 30.1.2023 (sak 2022/3750).
 
 ## Oppsummering
 
-Saken gjelder Nav Klageinstans’ avgjørelse om ikke å endre fastsettelsen av klagerens trygdeavgift for inntektsårene 2011 og 2013 fra høy til lav sats. Trygdeavgiften ble for inntektsåret 2012 satt til lav sats etter dom i Høyesterett. Spørsmålet i saken er om endring av trygdeavgiften for inntektsårene 2011 og 2013 følger av, eller forutsettes i, utfallet av høyesterettsdommen, jf. skatteforvaltningsloven §§ 12-1 tredje ledd bokstav a og 12-8 bokstav a.   
-   
- Ombudet mener Nav har plikt til å endre skattefastsettingen også for inntektsårene 2011 og 2013, og ber om at saken blir vurdert på nytt.
+Saken gjelder Nav Klageinstans’ avgjørelse om ikke å endre fastsettelsen av klagerens trygdeavgift for inntektsårene 2011 og 2013 fra høy til lav sats. Trygdeavgiften ble for inntektsåret 2012 satt til lav sats etter dom i Høyesterett. Spørsmålet i saken er om endring av trygdeavgiften for inntektsårene 2011 og 2013 følger av, eller forutsettes i, utfallet av høyesterettsdommen, jf. skatteforvaltningsloven §§ 12-1 tredje ledd bokstav a og 12-8 bokstav a.  
+Ombudet mener Nav har plikt til å endre skattefastsettingen også for inntektsårene 2011 og 2013, og ber om at saken blir vurdert på nytt.
 
 Se oppdatering fra forvaltningen
 
@@ -47,14 +46,14 @@ Etter å ha forelagt saken for Arbeids- og velferdsdirektoratet fant vi grunn ti
 Utgangspunktet etter forvaltningslovens regler om omgjøring er at det ikke gjelder noen frist for når forvaltningen kan endre et vedtak. Når et vedtak lider av materielle feil og omgjøring vil være til gunst for den enkelte, vil forvaltningen stort sett ha rett, og i noen tilfeller plikt, til å omgjøre vedtaket. Fastsettelse av trygdeavgift faller imidlertid inn under skatteforvaltningslovens virkeområde, jf. § 1-1 bokstav a. Forvaltningsloven gjelder ikke for behandling av saker etter skatteforvaltningsloven, jf. skatteforvaltningsloven § 3-1.
 
 Regler om endring av skattefastsetting finnes i skatteforvaltningslovens kapittel 12. I  
- § 12-1 tredje ledd bokstav a første punktum står det at skattemyndigheten «skal» ta opp skattefastsetting til endring når:
+§ 12-1 tredje ledd bokstav a første punktum står det at skattemyndigheten «skal» ta opp skattefastsetting til endring når:
 
 «endringen følger av, eller forutsettes i, utfallet av et søksmål».
 
 Normalt gjelder det en absolutt frist for å ta opp skattefastsetting til endring på fem år, jf. skatteforvaltningsloven § 12-6 første ledd. Fristen gjelder imidlertid ikke når endringen følger av, eller forutsettes i, utfallet av et søksmål, jf. § 12-8 bokstav a.
 
 Spørsmålet i saken her er om endring av hvilken trygdeavgiftssats klageren skulle betale for inntektsårene 2011 og 2013, «følger av, eller forutsettes i, utfallet» av dommen  
- HR-2019-2193-A som kun gjaldt inntektsåret 2012.
+HR-2019-2193-A som kun gjaldt inntektsåret 2012.
 
 Lovens ordlyd om at det gjelder en endringsplikt når endringen «følger av» eller «forutsettes i» utfallet av et søksmål, taler i retning av at endringsplikten er ment å gå lengre enn dommens materielle rettskraft, se også HR-2016-988-A avsnitt 41. Hvor grensen går for forvaltningens plikt til å endre skattefastsettingen i etterkant av en dom, kan imidlertid vanskelig utledes fra lovens ordlyd alene. Forarbeidene gir heller ikke særlig veiledning.
 

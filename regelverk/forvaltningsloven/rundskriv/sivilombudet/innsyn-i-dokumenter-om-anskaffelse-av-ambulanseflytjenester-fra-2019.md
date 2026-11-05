@@ -16,8 +16,7 @@ Sivilombudets uttalelse 16.8.2019 (sak 2018/4937).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i tilbudsdokumenter i en anbudskonkurranse for levering av ambulanseflytjenester fra juli 2019. En tilbyder som ikke fikk avtalen, ba om innsyn i tilbudene til leverandøren som vant konkurransen. Helse- og omsorgsdepartementet avslo delvis kravet om innsyn. Departementet begrunnet avslaget med at de unntatte opplysningene var taushetsbelagte.  
-   
- Ombudsmannen har kommet til at departementet ikke har foretatt en tilstrekkelig selvstendig og konkret vurdering av om vilkårene for unntak fra offentlighet er oppfylt. Departementets begrunnelse er også mangelfull. Ombudsmannen ber departementet om å behandle innsynssaken på nytt.
+Ombudsmannen har kommet til at departementet ikke har foretatt en tilstrekkelig selvstendig og konkret vurdering av om vilkårene for unntak fra offentlighet er oppfylt. Departementets begrunnelse er også mangelfull. Ombudsmannen ber departementet om å behandle innsynssaken på nytt.
 
 Se oppdatering fra forvaltningen
 
@@ -63,8 +62,8 @@ Utover dokumentoversiktene utleveres følgende dokumenter nå:
 De ovenfor nevnte dokumenter er gjort tilgjengelig på https://intra.sykehusinnkjop.no/innsyn/Sider/hjem.aspx
 
 Her benyttes  
- Brukernavn: […]  
- Passord: […]
+Brukernavn: […]  
+Passord: […]
 
 Til info utløper denne tilgangen 11. august 2017.»
 

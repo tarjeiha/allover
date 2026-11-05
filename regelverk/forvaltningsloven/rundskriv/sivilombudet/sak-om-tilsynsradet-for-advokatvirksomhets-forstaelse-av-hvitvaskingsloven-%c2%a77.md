@@ -15,10 +15,8 @@ Sivilombudets uttalelse 1.3.2024 (sak 2023/4069).
 ## Oppsummering
 
 Saken gjelder Tilsynsrådet for advokatvirksomhets forståelse av anvendelsesområdet for hvitvaskingsloven § 7, som gjelder plikten til å gjennomføre en virksomhetsinnrettet risikovurdering.  
-   
- Ombudet er kommet til at bestemmelsen ikke kan tolkes slik at den omfatter alle advokater, slik Tilsynsrådet har lagt til grunn. Bestemmelsen omfatter kun advokater som er «rapporteringspliktige» i henhold til hvitvaskingsloven § 2 første ledd bokstav c, jf. § 4 andre ledd bokstav c. Ombudet kom også til at Tilsynsrådets begrunnelse i vedtaket var mangelfull.   
-   
- Tilsynsrådet ble bedt om å behandle saken på nytt. Videre ba ombudet Tilsynsrådet om å endre sin hvitvaskingsveileder og å legge ombudets konklusjon til grunn ved behandlingen av fremtidige saker.
+Ombudet er kommet til at bestemmelsen ikke kan tolkes slik at den omfatter alle advokater, slik Tilsynsrådet har lagt til grunn. Bestemmelsen omfatter kun advokater som er «rapporteringspliktige» i henhold til hvitvaskingsloven § 2 første ledd bokstav c, jf. § 4 andre ledd bokstav c. Ombudet kom også til at Tilsynsrådets begrunnelse i vedtaket var mangelfull.  
+Tilsynsrådet ble bedt om å behandle saken på nytt. Videre ba ombudet Tilsynsrådet om å endre sin hvitvaskingsveileder og å legge ombudets konklusjon til grunn ved behandlingen av fremtidige saker.
 
 Se oppdatering fra forvaltningen
 
@@ -61,14 +59,14 @@ Sivilombudet vil i det følgende drøfte om hvitvaskingsloven § 7 gjelder for a
 Hvitvaskingsloven av 2018 bygger på anbefalingene til Financial Action Task Force (FATF) og EUs fjerde hvitvaskingsdirektiv. Loven inneholder enkelte endringer og presiseringer i forhold til tidligere lovverk. Formålet med loven er å forebygge og avdekke hvitvasking og terrorfinansiering, jf. hvitvaskingsloven § 1. Lovens § 4 angir anvendelsesområdet. I hvilke tilfeller advokater er omfattet av loven, er regulert i § 4 andre ledd bokstav c:
 
 «(2) Loven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:  
- […]  
- c) advokater og andre som ervervsmessig eller stadig yter selvstendig rettshjelp, når de på klientens vegne utfører finansiell transaksjon eller en transaksjon som gjelder fast eiendom, eller når de bistår ved planlegging eller utføring av transaksjon for klient i forbindelse med
+[…]  
+c) advokater og andre som ervervsmessig eller stadig yter selvstendig rettshjelp, når de på klientens vegne utfører finansiell transaksjon eller en transaksjon som gjelder fast eiendom, eller når de bistår ved planlegging eller utføring av transaksjon for klient i forbindelse med
 
 1. kjøp og salg av fast eiendom eller virksomhet  
- 2. forvaltning av en klients penger, verdipapir eller andre aktiva  
- 3. åpning eller forvaltning av bank- eller verdipapirkonto  
- 4. fremskaffelse av nødvendig kapital til opprettelse, drift eller ledelse av selskap  
- 5. opprettelse, drift eller ledelse av selskap, fond eller en lignende juridisk person eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement»
+2. forvaltning av en klients penger, verdipapir eller andre aktiva  
+3. åpning eller forvaltning av bank- eller verdipapirkonto  
+4. fremskaffelse av nødvendig kapital til opprettelse, drift eller ledelse av selskap  
+5. opprettelse, drift eller ledelse av selskap, fond eller en lignende juridisk person eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement»
 
 Advokater som omfattes av definisjonen, er å anse som «rapporteringspliktig», jf. hvitvaskingsloven § 2 første ledd bokstav c
 

@@ -15,9 +15,8 @@ Sivilombudets uttalelse 28.5.2024 (sak 2024/769).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Vestfold og Telemarks opprettholdelse av X kommunes avslag på søknad om å få beholde skoleplassen i nabokommunen etter flytting. Fordi kommunens vurdering av barnets beste var mangelfull, opphevet Statsforvalteren vedtaket og fattet ny realitetsavgjørelse med samme resultat. Statsforvalteren la avgjørende vekt på økonomiske hensyn ved vektingen mot barnets beste. I kommunes vedtak var det ikke synliggjort at økonomiske hensyn var vurdert eller vektlagt.   
-   
- Ombudet er kommet til at saken ikke var tilstrekkelig opplyst da Statsforvalteren avgjorde klagen. Kommunens saksbehandling ga ikke grunnlag for å kunne legge vekt på at økonomiske hensyn hadde vært avgjørende for skjønnsutøvelsen. Ombudet ber Statsforvalteren behandle saken om skoleplassering for skoleåret 2024/2025 på nytt.
+Saken gjelder Statsforvalteren i Vestfold og Telemarks opprettholdelse av X kommunes avslag på søknad om å få beholde skoleplassen i nabokommunen etter flytting. Fordi kommunens vurdering av barnets beste var mangelfull, opphevet Statsforvalteren vedtaket og fattet ny realitetsavgjørelse med samme resultat. Statsforvalteren la avgjørende vekt på økonomiske hensyn ved vektingen mot barnets beste. I kommunes vedtak var det ikke synliggjort at økonomiske hensyn var vurdert eller vektlagt.  
+Ombudet er kommet til at saken ikke var tilstrekkelig opplyst da Statsforvalteren avgjorde klagen. Kommunens saksbehandling ga ikke grunnlag for å kunne legge vekt på at økonomiske hensyn hadde vært avgjørende for skjønnsutøvelsen. Ombudet ber Statsforvalteren behandle saken om skoleplassering for skoleåret 2024/2025 på nytt.
 
 Se oppdatering fra forvaltningen
 

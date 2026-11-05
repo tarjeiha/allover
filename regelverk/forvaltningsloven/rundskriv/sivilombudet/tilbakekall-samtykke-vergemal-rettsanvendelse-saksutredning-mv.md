@@ -14,15 +14,11 @@ Sivilombudets uttalelse 7.11.2017 (sak 2016/2884).
 
 ## Oppsummering
 
-Saken gjelder Statens sivilrettsforvaltning (SRFs) avgjørelse om ikke å oppheve et vergemål for A. A ga opprinnelig samtykke til vergemålet, men Fylkesmannen la til grunn at hun ikke hadde samtykkekompetanse. Vergemål ble likevel etablert. Da hun senere avga en erklæring om at hun ikke ønsket å være under vergemål, kom både Fylkesmannen og SRF til at vergemålet skulle videreføres. SRF la til grunn at tilbakekallsbestemmelsen i vergemålsloven § 63 første ledd annet punktum kom til anvendelse, men SRF mente at A ikke hadde evne til å tilbakekalle samtykket, idet hun ikke forsto hva dette innebar. Til grunn for avgjørelsen lå blant annet flere erklæringer fra tilsynslegen ved sykehjemmet der A er bosatt. I erklæringene er det gitt tilsynelatende motstridende vurderinger av As samtykkekompetanse.   
-   
- Det knytter seg begrunnet tvil til om SRF har hatt et riktig rettslig utgangspunkt ved sin vurdering av tilbakekallserklæringen fra A. Vergemålsloven § 63 første ledd annet punktum kommer bare til anvendelse i tilfeller hvor personen med verge var samtykkekompetent da vergemålet ble opprettet. I andre tilfeller må tilbakekallserklæringen vurderes opp mot bestemmelsen i § 63 første ledd første punktum, jf. § 20 annet ledd. Til tross for at lovforarbeidene trekker i retning av en annen løsning, er imidlertid ombudsmannen tilbøyelig til å mene at det avgjørende i begge tilfeller vil være om vedkommende er i stand til å forstå hva et samtykke til vergemål innebærer. Begrunnelsen i SRFs vedtak og redegjørelse hit tyder på at tilbakekallserklæringen fra A har blitt vurdert med utgangspunkt i et vurderingstema som iallfall ikke stiller høyere krav til forståelse enn det som følger av gjeldende rett.  
-   
- Saksutredningen fremstår som mangelfull. SRF skulle ha forsøkt å kartlegge hva som lå til grunn for de tilsynelatende motstridende erklæringene fra tilsynslegen ved sykehjemmet. Dersom slike undersøkelser ikke i tilstrekkelig grad hadde avhjulpet den usikkerhet som knytter seg til legens vurderinger, måtte SRF ha innhentet en ny erklæring fra en annen sakkyndig.  
-   
- Den samlede saksbehandlingstiden i klageomgangen var på over ti måneder. Dette er for lenge i en sak som denne.  
-   
- SRF bes om å vurdere saken på nytt i lys av ombudsmannens merknader.
+Saken gjelder Statens sivilrettsforvaltning (SRFs) avgjørelse om ikke å oppheve et vergemål for A. A ga opprinnelig samtykke til vergemålet, men Fylkesmannen la til grunn at hun ikke hadde samtykkekompetanse. Vergemål ble likevel etablert. Da hun senere avga en erklæring om at hun ikke ønsket å være under vergemål, kom både Fylkesmannen og SRF til at vergemålet skulle videreføres. SRF la til grunn at tilbakekallsbestemmelsen i vergemålsloven § 63 første ledd annet punktum kom til anvendelse, men SRF mente at A ikke hadde evne til å tilbakekalle samtykket, idet hun ikke forsto hva dette innebar. Til grunn for avgjørelsen lå blant annet flere erklæringer fra tilsynslegen ved sykehjemmet der A er bosatt. I erklæringene er det gitt tilsynelatende motstridende vurderinger av As samtykkekompetanse.  
+Det knytter seg begrunnet tvil til om SRF har hatt et riktig rettslig utgangspunkt ved sin vurdering av tilbakekallserklæringen fra A. Vergemålsloven § 63 første ledd annet punktum kommer bare til anvendelse i tilfeller hvor personen med verge var samtykkekompetent da vergemålet ble opprettet. I andre tilfeller må tilbakekallserklæringen vurderes opp mot bestemmelsen i § 63 første ledd første punktum, jf. § 20 annet ledd. Til tross for at lovforarbeidene trekker i retning av en annen løsning, er imidlertid ombudsmannen tilbøyelig til å mene at det avgjørende i begge tilfeller vil være om vedkommende er i stand til å forstå hva et samtykke til vergemål innebærer. Begrunnelsen i SRFs vedtak og redegjørelse hit tyder på at tilbakekallserklæringen fra A har blitt vurdert med utgangspunkt i et vurderingstema som iallfall ikke stiller høyere krav til forståelse enn det som følger av gjeldende rett.  
+Saksutredningen fremstår som mangelfull. SRF skulle ha forsøkt å kartlegge hva som lå til grunn for de tilsynelatende motstridende erklæringene fra tilsynslegen ved sykehjemmet. Dersom slike undersøkelser ikke i tilstrekkelig grad hadde avhjulpet den usikkerhet som knytter seg til legens vurderinger, måtte SRF ha innhentet en ny erklæring fra en annen sakkyndig.  
+Den samlede saksbehandlingstiden i klageomgangen var på over ti måneder. Dette er for lenge i en sak som denne.  
+SRF bes om å vurdere saken på nytt i lys av ombudsmannens merknader.
 
 ## Sakens bakgrunn
 
@@ -57,7 +53,7 @@ Etter en gjennomgang av de ovennevnte uttalelsene og journalene fra helsepersone
 «Etter en samlet vurdering har Statens sivilrettsforvaltning kommet til at personen med verge ikke er i stand til å forstå hva det innebærer å trekke sitt samtykke til vergemålet, og at hun således heller ikke gyldig har tilbakekalt sitt samtykke. Det er etter dette ikke grunnlag for å oppheve vergemålet med bakgrunn i vergemålsloven § 63 første ledd annet punktum.»
 
 SRF konkluderte videre med at de øvrige vilkårene for vergemål fortsatt var til stede, slik at det ikke var grunnlag for tilbakekall etter § 63 første ledd første punktum.  
- SRF gjennomgikk også anførslene i klagen knyttet til fratakelsen av vergeoppdraget fra B, og kom til at vilkårene for dette var oppfylt. Den lange behandlingstiden ble beklaget.
+SRF gjennomgikk også anførslene i klagen knyttet til fratakelsen av vergeoppdraget fra B, og kom til at vilkårene for dette var oppfylt. Den lange behandlingstiden ble beklaget.
 
 ### Klagen til ombudsmannen og undersøkelsene herfra
 

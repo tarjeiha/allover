@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.9.2023 (sak 2023/2570).
 ## Oppsummering
 
 Saken gjelder spørsmålet om det påløper tvangsmulkt etter plan- og bygningsloven § 32-5 når det er gitt utsatt iverksetting for retting av tiltaket etter forvaltningsloven § 42.  
-   
- Ombudet har kommet til at det ikke påløp tvangsmulkt i perioden mellom den fristen kommunen hadde satt for retting, og den nye gjennomføringsfristen etter Statsforvalterens endelige vedtak i klagesaken. Kommunen kan derfor ikke innkreve tvangsmulkt for denne perioden. Ombudet mener også at kommunens behandlingstid for å ta stilling til klagerens anmodning om utsatt iverksetting, i utgangspunktet ikke er i samsvar med forvaltningslovens krav.
+Ombudet har kommet til at det ikke påløp tvangsmulkt i perioden mellom den fristen kommunen hadde satt for retting, og den nye gjennomføringsfristen etter Statsforvalterens endelige vedtak i klagesaken. Kommunen kan derfor ikke innkreve tvangsmulkt for denne perioden. Ombudet mener også at kommunens behandlingstid for å ta stilling til klagerens anmodning om utsatt iverksetting, i utgangspunktet ikke er i samsvar med forvaltningslovens krav.
 
 Se oppdatering fra forvaltningen
 

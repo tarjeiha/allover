@@ -16,10 +16,8 @@ Sivilombudets uttalelse 14.6.2018 (sak 2017/3094).
 ## Oppsummering
 
 X politidistrikt ansatte to økoetterforskere i ansettelsesvedtak 12. juli 2017. En av søkerne mente seg forbigått av kandidaten som ble innstilt som nummer to og ansatt i en av stillingene.  
-   
- Avgjørende for at klageren ikke ble ansett kvalifisert for stillingene, fremsto å være at ansettelsesmyndigheten mente hun ikke var personlig egnet. Denne vurderingen ble gjort på bakgrunn av intervju, referanseinnhenting og politidistriktets kjennskap til henne fra tidligere arbeidsforhold.  
-   
- Ombudsmannen kom til at det knyttet seg begrunnet tvil til om politidistriktets vurdering av klagerens personlige egnethet bygget på fullt ut saklige hensyn. I tillegg mente ombudsmannen det var tvil om klagerens rett til kontradiksjon var tilstrekkelig ivaretatt i ansettelsesprosessen.
+Avgjørende for at klageren ikke ble ansett kvalifisert for stillingene, fremsto å være at ansettelsesmyndigheten mente hun ikke var personlig egnet. Denne vurderingen ble gjort på bakgrunn av intervju, referanseinnhenting og politidistriktets kjennskap til henne fra tidligere arbeidsforhold.  
+Ombudsmannen kom til at det knyttet seg begrunnet tvil til om politidistriktets vurdering av klagerens personlige egnethet bygget på fullt ut saklige hensyn. I tillegg mente ombudsmannen det var tvil om klagerens rett til kontradiksjon var tilstrekkelig ivaretatt i ansettelsesprosessen.
 
 ## Sakens bakgrunn
 

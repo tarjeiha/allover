@@ -15,8 +15,7 @@ Sivilombudets uttalelse 17.2.2022 (sak 2021/4663).
 ## Oppsummering
 
 Saken gjelder lang saksbehandlingstid hos Norges Vassdrags- og energidirektorat i forbindelse med regulering av Randsfjorden. Da det ble fastsatt et midlertidig manøvrerings-reglement i 1995, ble det stilt krav om at reglementet skulle tas opp til ny vurdering etter en driftstid på fem år, det vil si i 2000. Etter 22 år er endelig manøvrerings¬reglement fortsatt ikke fastsatt.  
-   
- Ombudet er kommet til at NVEs saksbehandlingstid ikke er i samsvar med kravet i forvaltningsloven § 11a første ledd om at saken skal forberedes og avgjøres uten ugrunnet opphold. Selv om NVE må prioritere mer presserende saker, og konsekvensene av den lange saksbehandlings¬tiden trolig ikke er så omfattende, må NVE snarest bidra til å oppfylle kravet om et endelig manøvreringsreglement. Ombudet ber om tilbakemelding innen tre uker på når NVE forventer å sende saken til Olje- og energidepartementet for avgjørelse.
+Ombudet er kommet til at NVEs saksbehandlingstid ikke er i samsvar med kravet i forvaltningsloven § 11a første ledd om at saken skal forberedes og avgjøres uten ugrunnet opphold. Selv om NVE må prioritere mer presserende saker, og konsekvensene av den lange saksbehandlings¬tiden trolig ikke er så omfattende, må NVE snarest bidra til å oppfylle kravet om et endelig manøvreringsreglement. Ombudet ber om tilbakemelding innen tre uker på når NVE forventer å sende saken til Olje- og energidepartementet for avgjørelse.
 
 Se oppdatering fra forvaltningen
 
@@ -29,7 +28,7 @@ I 2002 ba Norges Vassdrags- og energidirektorat (NVE) FRR om en rapport om manø
 I forbindelse med høring og offentlig ettersyn i 2004 meldte flere av høringsinstansene inn et behov for miljømessige utredninger av reguleringens konsekvenser før endelig manøvreringsreglement kunne fastsettes. Undersøkelser ble utført i perioden 2008–2011. FRR sendte i desember 2013 rapportene til NVE, sammen med en oppsummering og justert forslag til endelig manøvreringsreglement.
 
 NVE sendte 8. februar 2016 det nye forslaget på begrenset høring, med høringsfrist 20. juni 2016. Etter å ha mottatt ni høringsuttalelser, har ikke NVE gjort ytterligere med saken.  
- Randsfjordens Grunneierforening klaget til ombudet og anførte at den lange saksbehandlingstiden har konsekvenser for «miljø (les fisk i Randselva), tiltak for flomdemping i Randsfjorden og ikke minst den allmenne respekt for offentlig saksbehandling».
+Randsfjordens Grunneierforening klaget til ombudet og anførte at den lange saksbehandlingstiden har konsekvenser for «miljø (les fisk i Randselva), tiltak for flomdemping i Randsfjorden og ikke minst den allmenne respekt for offentlig saksbehandling».
 
 ## Våre undersøkelser
 

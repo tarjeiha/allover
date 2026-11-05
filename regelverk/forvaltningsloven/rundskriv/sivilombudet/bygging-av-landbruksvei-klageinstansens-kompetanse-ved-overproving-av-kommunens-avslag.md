@@ -14,11 +14,9 @@ Sivilombudets uttalelse 4.3.2026 (sak 2025/1633).
 
 ## Oppsummering
 
-Saken gjelder tillatelse til bygging av landbruksvei. A søkte om å bygge en landbruksvei i Østmarka. Lørenskog kommune avslo søknaden etter landbruksveiforskriften § 3-2. Etter klage fra A, omgjorde Statsforvalteren i Østfold, Buskerud, Oslo og Akershus kommunens avslag og innvilget søknaden om bygging av landbruksvei.   
-   
- Saken reiser spørsmål om tillatelse etter landbruksveiforskriften er avhengig av at det utarbeides reguleringsplan etter plan- og bygningsloven § 12-1. Videre er det spørsmål om vurderingen av om tillatelse skal gis etter landbruksveiforskriften § 3-2 er fritt skjønn eller rettsanvendelse.   
-   
- Etter ombudet syn kan Statsforvalteren ikke kritiseres for å ha lagt til grunn at tillatelse etter landbruksveiforskriften ikke er avhengig av at det utarbeides reguleringsplan etter plan- og bygningsloven § 12-1 tredje ledd. Ombudet er likevel kommet til at Statsforvalterens vedtak bygger på en uriktig forståelse av landbruksveiforskriften § 3-2. Vurderingen av om det skal gis tillatelse etter forskriften er fritt skjønn og ikke rettsanvendelse. Som en konsekvens, har Statsforvalteren ikke overholdt retningslinjen i forvaltningsloven § 34 andre ledd tredje punktum om å «legge stor vekt på hensynet til det kommunale selvstyre» ved prøvingen av det frie skjønn.
+Saken gjelder tillatelse til bygging av landbruksvei. A søkte om å bygge en landbruksvei i Østmarka. Lørenskog kommune avslo søknaden etter landbruksveiforskriften § 3-2. Etter klage fra A, omgjorde Statsforvalteren i Østfold, Buskerud, Oslo og Akershus kommunens avslag og innvilget søknaden om bygging av landbruksvei.  
+Saken reiser spørsmål om tillatelse etter landbruksveiforskriften er avhengig av at det utarbeides reguleringsplan etter plan- og bygningsloven § 12-1. Videre er det spørsmål om vurderingen av om tillatelse skal gis etter landbruksveiforskriften § 3-2 er fritt skjønn eller rettsanvendelse.  
+Etter ombudet syn kan Statsforvalteren ikke kritiseres for å ha lagt til grunn at tillatelse etter landbruksveiforskriften ikke er avhengig av at det utarbeides reguleringsplan etter plan- og bygningsloven § 12-1 tredje ledd. Ombudet er likevel kommet til at Statsforvalterens vedtak bygger på en uriktig forståelse av landbruksveiforskriften § 3-2. Vurderingen av om det skal gis tillatelse etter forskriften er fritt skjønn og ikke rettsanvendelse. Som en konsekvens, har Statsforvalteren ikke overholdt retningslinjen i forvaltningsloven § 34 andre ledd tredje punktum om å «legge stor vekt på hensynet til det kommunale selvstyre» ved prøvingen av det frie skjønn.
 
 ## Sakens bakgrunn
 

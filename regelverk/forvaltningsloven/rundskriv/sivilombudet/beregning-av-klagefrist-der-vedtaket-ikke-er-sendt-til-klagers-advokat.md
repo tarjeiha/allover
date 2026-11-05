@@ -14,13 +14,10 @@ Sivilombudets uttalelse 26.11.2021 (sak 2021/2692).
 
 ## Oppsummering
 
-Saken gjelder beregning av klagefrist der et vedtak som innvilget en kvinne uføretrygd ikke ble sendt til hennes advokat. Da advokaten ble kjent med vedtaket, fire måneder senere, fremmet han straks klage over at det ikke var innvilget rettigheter som ung ufør. Klagen ble avvist i to instanser i Nav som for sent fremsatt.   
-   
- Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet, med spørsmål om hvordan Nav Klageinstans’ standpunkt harmonerer med forvaltningsloven § 12 om rett til å bruke fullmektig og Navs rundskriv om klagefristregelen i forvaltningsloven § 29. I rundskrivet står det at der parten bruker fullmektig, løper fristen fra da fullmektigen mottok vedtaket.   
-   
- Direktoratet svarte at avvisningen av klagen i dette tilfellet var ugyldig. Fristen løp fra advokaten ble orientert, og klagen var dermed rettidig fremsatt. Ny behandling av saken ville bli prioritert.   
-   
- Sivilombudet er enig i Arbeids- og velferdsdirektoratets vurdering. Vedtaket skulle vært sendt klagers advokat, og fristen begynt å løpe da han ble kjent med vedtaket. Videre skulle det vært gitt ankerett til Trygderetten på opprettholdelsen av avvisningsvedtaket. Ettersom det her har skjedd en svikt i flere ledd, og feilen fremstår som nokså alvorlig, ber ombudet om at direktoratet setter inn nødvendige tiltak for å hindre at dette skjer igjen.
+Saken gjelder beregning av klagefrist der et vedtak som innvilget en kvinne uføretrygd ikke ble sendt til hennes advokat. Da advokaten ble kjent med vedtaket, fire måneder senere, fremmet han straks klage over at det ikke var innvilget rettigheter som ung ufør. Klagen ble avvist i to instanser i Nav som for sent fremsatt.  
+Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet, med spørsmål om hvordan Nav Klageinstans’ standpunkt harmonerer med forvaltningsloven § 12 om rett til å bruke fullmektig og Navs rundskriv om klagefristregelen i forvaltningsloven § 29. I rundskrivet står det at der parten bruker fullmektig, løper fristen fra da fullmektigen mottok vedtaket.  
+Direktoratet svarte at avvisningen av klagen i dette tilfellet var ugyldig. Fristen løp fra advokaten ble orientert, og klagen var dermed rettidig fremsatt. Ny behandling av saken ville bli prioritert.  
+Sivilombudet er enig i Arbeids- og velferdsdirektoratets vurdering. Vedtaket skulle vært sendt klagers advokat, og fristen begynt å løpe da han ble kjent med vedtaket. Videre skulle det vært gitt ankerett til Trygderetten på opprettholdelsen av avvisningsvedtaket. Ettersom det her har skjedd en svikt i flere ledd, og feilen fremstår som nokså alvorlig, ber ombudet om at direktoratet setter inn nødvendige tiltak for å hindre at dette skjer igjen.
 
 ## Sakens bakgrunn
 

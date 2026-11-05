@@ -15,11 +15,9 @@ Sivilombudets uttalelse 1.3.2017 (sak 2016/597).
 
 ## Oppsummering
 
-Sak om Navs tidsbruk og behandling av EØS-borgers søknader/saker om medlemskap i norsk folketrygd og ulike familieytelser. Én av medlemskapssøknadene ble etter hvert ankebehandlet i Trygderetten. I påvente av kjennelse i den saken stilte Nav klagers øvrige saker i bero.   
-   
- Ombudsmannen kom til at Navs tidsbruk og behandling av klagers saker om medlemskap ikke var i overensstemmelse med Navs plikter etter reglene om utveksling av informasjon mellom medlemsstatene i EØS-forordning 987/2009 art. 2, og heller ikke i samsvar med prosedyren for midlertidig lovvalg i saker om trygdetilhørighet i art. 16. Navs veiledning overfor søkeren hadde også vært mangelfull. Det samme gjaldt Navs utredning av sakene hennes.   
-   
- Arbeids- og velferdsdirektoratet erkjente at så vel den lange saksbehandlingstiden som svikten i veiledningen langt på vei kunne skyldes sviktende kommunikasjon innad i Nav, samt uklar arbeids- og ansvarsfordeling mellom Nav Medlemskap og avgift og de enkelte ytelsesområdene.
+Sak om Navs tidsbruk og behandling av EØS-borgers søknader/saker om medlemskap i norsk folketrygd og ulike familieytelser. Én av medlemskapssøknadene ble etter hvert ankebehandlet i Trygderetten. I påvente av kjennelse i den saken stilte Nav klagers øvrige saker i bero.  
+Ombudsmannen kom til at Navs tidsbruk og behandling av klagers saker om medlemskap ikke var i overensstemmelse med Navs plikter etter reglene om utveksling av informasjon mellom medlemsstatene i EØS-forordning 987/2009 art. 2, og heller ikke i samsvar med prosedyren for midlertidig lovvalg i saker om trygdetilhørighet i art. 16. Navs veiledning overfor søkeren hadde også vært mangelfull. Det samme gjaldt Navs utredning av sakene hennes.  
+Arbeids- og velferdsdirektoratet erkjente at så vel den lange saksbehandlingstiden som svikten i veiledningen langt på vei kunne skyldes sviktende kommunikasjon innad i Nav, samt uklar arbeids- og ansvarsfordeling mellom Nav Medlemskap og avgift og de enkelte ytelsesområdene.
 
 **Sakens bakgrunn**
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 21.1.2026 (sak 2025/4938).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Troms og Finnmarks saksbehandlingstid ved behandlingen av klagerens melding om reindrift for reindriftsåret 2023/2024.   
-   
- Sivilombudet kom til at behandlingstiden i saken ikke var i tråd med kravet til saksbehandlingstid i forvaltningsloven § 11 a. Den lange behandlingstiden hadde flere konsekvenser for reindriftsutøveren. Klageren fikk blant annet utfordringer ved utfylling og innlevering av melding for reindriftsåret 2024/2025, og hans søknad om erstatning for tap av rein til fredet rovvilt kunne ikke behandles før meldingen ble ferdigbehandlet.   
-   
- Statsforvalterens manglende orientering om saksbehandlingen underveis i saken er i strid med kravet om god forvaltningsskikk. Det er kritikkverdig at orienteringene gjentatte ganger ikke inneholdt realistiske opplysninger om forventet saksbehandlingstid.   
-   
- Ombudet forutsatte at Statsforvalteren ga saken tilstrekkelig prioritet slik at det er mulig å overholde fristen 28. februar 2026. Videre ba ombudet Statsforvalteren om å sørge for at de skriftlige rutinene om orienteringer under sakens gang overholdes, med realistiske opplysninger om forventet behandlingstid.
+Saken gjelder Statsforvalteren i Troms og Finnmarks saksbehandlingstid ved behandlingen av klagerens melding om reindrift for reindriftsåret 2023/2024.  
+Sivilombudet kom til at behandlingstiden i saken ikke var i tråd med kravet til saksbehandlingstid i forvaltningsloven § 11 a. Den lange behandlingstiden hadde flere konsekvenser for reindriftsutøveren. Klageren fikk blant annet utfordringer ved utfylling og innlevering av melding for reindriftsåret 2024/2025, og hans søknad om erstatning for tap av rein til fredet rovvilt kunne ikke behandles før meldingen ble ferdigbehandlet.  
+Statsforvalterens manglende orientering om saksbehandlingen underveis i saken er i strid med kravet om god forvaltningsskikk. Det er kritikkverdig at orienteringene gjentatte ganger ikke inneholdt realistiske opplysninger om forventet saksbehandlingstid.  
+Ombudet forutsatte at Statsforvalteren ga saken tilstrekkelig prioritet slik at det er mulig å overholde fristen 28. februar 2026. Videre ba ombudet Statsforvalteren om å sørge for at de skriftlige rutinene om orienteringer under sakens gang overholdes, med realistiske opplysninger om forventet behandlingstid.
 
 ## Sakens bakgrunn
 

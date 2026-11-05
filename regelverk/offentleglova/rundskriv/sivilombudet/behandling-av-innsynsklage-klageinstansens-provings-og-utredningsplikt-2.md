@@ -15,11 +15,9 @@ Sivilombudets uttalelse 11.2.2026 (sak 2025/7017).
 
 ## Oppsummering
 
-Saken gjelder Nærings- og fiskeridepartementets behandling av en innsynsklage.   
-   
- Klageren ba om innsyn i alle Fiskeridirektoratets dokumenter tilknyttet en bifangstepisode, der et fiskefartøy fikk spekkhoggere i nota under sildefiske. Klageren fikk innsyn i en rapport og en logg om hendelsen, men fikk avslag på innsyn i e-postkorrespondanse om saken innad i direktoratet, jf. offentleglova § 14 første ledd. Han klagde, og ba blant annet om at det på nytt ble undersøkt om «innsynstilgangen på det fulle bildet av dokumenter tilknyttet hendelsen» var vurdert. Departementet stadfestet direktoratets avgjørelse uten å gjøre undersøkelser i saken.   
-   
- Sivilombudet har kommet til at departementet ikke har handlet i tråd med den prøvings- og utredningsplikten som gjelder for klagesaker om innsyn etter offentleglova. For å sikre en reell klagebehandling burde departementet ha klarlagt hvilke undersøkelser direktoratet hadde gjort ved sin behandling av innsynskravet. Videre burde departementet ha bedt om direktoratets kommentarer til saksdokumenter som indikerte at det fantes andre dokumenter om hendelsen som var omfattet av innsynskravet. Departementet bes merke seg ombudets synspunkter til senere behandling av innsynsklager.
+Saken gjelder Nærings- og fiskeridepartementets behandling av en innsynsklage.  
+Klageren ba om innsyn i alle Fiskeridirektoratets dokumenter tilknyttet en bifangstepisode, der et fiskefartøy fikk spekkhoggere i nota under sildefiske. Klageren fikk innsyn i en rapport og en logg om hendelsen, men fikk avslag på innsyn i e-postkorrespondanse om saken innad i direktoratet, jf. offentleglova § 14 første ledd. Han klagde, og ba blant annet om at det på nytt ble undersøkt om «innsynstilgangen på det fulle bildet av dokumenter tilknyttet hendelsen» var vurdert. Departementet stadfestet direktoratets avgjørelse uten å gjøre undersøkelser i saken.  
+Sivilombudet har kommet til at departementet ikke har handlet i tråd med den prøvings- og utredningsplikten som gjelder for klagesaker om innsyn etter offentleglova. For å sikre en reell klagebehandling burde departementet ha klarlagt hvilke undersøkelser direktoratet hadde gjort ved sin behandling av innsynskravet. Videre burde departementet ha bedt om direktoratets kommentarer til saksdokumenter som indikerte at det fantes andre dokumenter om hendelsen som var omfattet av innsynskravet. Departementet bes merke seg ombudets synspunkter til senere behandling av innsynsklager.
 
 ## Sakens bakgrunn
 

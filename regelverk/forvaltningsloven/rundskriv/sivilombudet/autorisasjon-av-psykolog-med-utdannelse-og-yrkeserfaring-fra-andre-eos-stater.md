@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.1.2026 (sak 2025/3261).
 ## Oppsummering
 
 En norsk psykolog med utdanning fra Ungarn og yrkeserfaring fra Danmark og Norge søkte om autorisasjon for å arbeide i Norge. Han hadde dansk autorisasjon som psykolog. Statens helsepersonellnemnd (nemnda) traff vedtak om at han måtte gjennomføre en prøveperiode på 12 måneder før han kunne søke om autorisasjon. Årsaken var at han var utdannet i Ungarn, etter en annen utdanningsmodell enn den norske, som ikke førte til samme yrke som en norsk psykolog. Nemnda mente videre at han ikke hadde dokumentert yrkeserfaring, tilleggsutdanning eller annen relevant kompetanse som veide helt opp for at klagerens utdanning er vesentlig forskjellig fra den norske utdanningen.  
-   
- Sivilombudet er kommet til at nemnda ikke har begrunnet om prøveperioden er i samsvar med det EØS-rettslige proporsjonalitetsprinsippet. I tillegg har nemnda oppgitt at klager som alternativ kan gjennomføre en egnethetsprøve, selv om dette alternativet ennå ikke tilbys av Helsedirektoratet. Sivilombudet har bedt nemnda vurdere saken på nytt i lys av våre konklusjoner innen 2. mars 2026.
+Sivilombudet er kommet til at nemnda ikke har begrunnet om prøveperioden er i samsvar med det EØS-rettslige proporsjonalitetsprinsippet. I tillegg har nemnda oppgitt at klager som alternativ kan gjennomføre en egnethetsprøve, selv om dette alternativet ennå ikke tilbys av Helsedirektoratet. Sivilombudet har bedt nemnda vurdere saken på nytt i lys av våre konklusjoner innen 2. mars 2026.
 
 Se oppdatering fra forvaltningen
 

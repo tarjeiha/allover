@@ -14,9 +14,8 @@ Sivilombudets uttalelse 3.12.2024 (sak 2024/3943).
 
 ## Oppsummering
 
-Saken gjelder behandlingen av en klage over eiendomsskatt. Klageren eier en hytte i Hvaler kommune og mente at kommunen hadde satt taksten for høyt. Takstnemnda ga klageren delvis medhold, og satte ned taksten. Kommunen informerte klageren om at hun kunne trekke klagen for at den nye taksten skulle bli stående. Da klageren ikke ga tilbakemelding, ble saken sendt til klageinstansen, som økte taksten med ca. en million kroner.   
-   
- Sivilombudet er kommet til at takstnemnda fattet et nytt vedtak da de tok klagen delvis til følge. Etter eigedomsskattelova § 20 skal klagen avgjøres av klageinstansen dersom kommunen ikke tar klagen «til følgje». Ombudet mener at uttrykket «til følgje» også omfatter tilfeller der klageren gis delvis medhold. Det var dermed en saksbehandlingsfeil å oversende saken til klageinstansen uten at klageren selv hadde bedt om dette. Klageinstansen hadde ikke kompetanse til å behandle saken. Ombudet ber klageinstansen behandle saken på nytt og vurdere sin egen kompetanse til å behandle klagen.
+Saken gjelder behandlingen av en klage over eiendomsskatt. Klageren eier en hytte i Hvaler kommune og mente at kommunen hadde satt taksten for høyt. Takstnemnda ga klageren delvis medhold, og satte ned taksten. Kommunen informerte klageren om at hun kunne trekke klagen for at den nye taksten skulle bli stående. Da klageren ikke ga tilbakemelding, ble saken sendt til klageinstansen, som økte taksten med ca. en million kroner.  
+Sivilombudet er kommet til at takstnemnda fattet et nytt vedtak da de tok klagen delvis til følge. Etter eigedomsskattelova § 20 skal klagen avgjøres av klageinstansen dersom kommunen ikke tar klagen «til følgje». Ombudet mener at uttrykket «til følgje» også omfatter tilfeller der klageren gis delvis medhold. Det var dermed en saksbehandlingsfeil å oversende saken til klageinstansen uten at klageren selv hadde bedt om dette. Klageinstansen hadde ikke kompetanse til å behandle saken. Ombudet ber klageinstansen behandle saken på nytt og vurdere sin egen kompetanse til å behandle klagen.
 
 Se oppdatering fra forvaltningen
 
@@ -74,8 +73,8 @@ Et enkeltvedtak er en avgjørelse som treffes under utøving av offentlig myndig
 For å avgjøre om takstnemnda fattet et vedtak, må avgjørelsen tolkes. Ombudet legger til grunn at takstnemnda utøvet offentlig myndighet. Videre angår saken klagerens plikt til å betale skatt. Spørsmålet er om nemnda også traff en bestemmende avgjørelse, eller om de bare ga en forberedende uttalelse til klageinstansen. I avgjørelsen står det:
 
 «Vedtak i Skattetakstnemnda 18.04.2024:  
- Skattetakstnemnda har vurdert deres klage på eiendommen gnr x bnr y. Klagen tas delvis til følge. Skattetakstnemda tilslutter seg eiendomsskattekontorets vurderinger og forslag i saksframlegget. Ny takst settes til x kroner for skatteåret 2024.  
- Saken oversende[s] til Overskattetakstnemda til behandling.»
+Skattetakstnemnda har vurdert deres klage på eiendommen gnr x bnr y. Klagen tas delvis til følge. Skattetakstnemda tilslutter seg eiendomsskattekontorets vurderinger og forslag i saksframlegget. Ny takst settes til x kroner for skatteåret 2024.  
+Saken oversende[s] til Overskattetakstnemda til behandling.»
 
 Takstnemnda omtaler avgjørelsen som et vedtak. Klageren er gitt delvis medhold. Videre skriver nemnda at den slutter seg til eiendomsskattekontorets vurderinger og forslag. I saksdokumentene som ombudet har fått oversendt, er det lagt ved et takstvedtak som ble utformet av eiendomsskattekontoret 4. mars 2024. Nemndas avgjørelse må forstås sånn at det er dette takstvedtaket nemnda har sluttet seg til. Samlet sett fremstår avgjørelsen som et enkeltvedtak, og ikke som en forberedende uttalelse.
 

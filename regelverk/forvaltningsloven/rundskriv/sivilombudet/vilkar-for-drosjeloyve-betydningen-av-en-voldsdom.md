@@ -15,10 +15,8 @@ Sivilombudets uttalelse 28.6.2018 (sak 2017/696).
 ## Oppsummering
 
 Saken gjelder hvorvidt en søknad om drosjeløyve kan avslås fordi søkeren er straffet for utøvelse av vold. Oslo kommunes klagenemnd fant at vandelskravet for drosjeløyve ikke var oppfylt fordi søkeren var domfelt for overtredelse av straffeloven 1902 § 228 om legemsfornærmelse.  
-   
- Ombudsmannen er kommet til at hvilke rettsområder som omfattes av vandelskravet for drosjeløyve, er uttømmende angitt i EUs forordning nr. 1071/2009 artikkel 6 nr. 1 tredje ledd. Voldsutøvelse inngår ikke i rettsområdene som angis i artikkelen. En straffedom for utøvelse av vold er følgelig ikke relevant for vandelskravet ved søknad om drosjeløyve.  
-   
- En voldsdom kan heller ikke utgjøre «særlige grunner» som taler mot å gi løyve etter yrkestransporforskriften § 4 første ledd. Ombudsmannen viser til at krav om løyve retter seg mot den næringsmessige delen av drosjeyrket og regulerer yrkesadgangen for næringsdrivende, mens det er kravet om kjøreseddel som regulerer adgangen til yrket som drosjesjåfør.
+Ombudsmannen er kommet til at hvilke rettsområder som omfattes av vandelskravet for drosjeløyve, er uttømmende angitt i EUs forordning nr. 1071/2009 artikkel 6 nr. 1 tredje ledd. Voldsutøvelse inngår ikke i rettsområdene som angis i artikkelen. En straffedom for utøvelse av vold er følgelig ikke relevant for vandelskravet ved søknad om drosjeløyve.  
+En voldsdom kan heller ikke utgjøre «særlige grunner» som taler mot å gi løyve etter yrkestransporforskriften § 4 første ledd. Ombudsmannen viser til at krav om løyve retter seg mot den næringsmessige delen av drosjeyrket og regulerer yrkesadgangen for næringsdrivende, mens det er kravet om kjøreseddel som regulerer adgangen til yrket som drosjesjåfør.
 
 ## Sakens bakgrunn
 

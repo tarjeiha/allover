@@ -14,9 +14,8 @@ Sivilombudets uttalelse 5.12.2024 (sak 2024/3486).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Troms og Finnmarks vedtak om å stadfeste syv tillatelser om skadefelling av inntil 79 grågjess med hjemmel i viltforskriften § 3-3. Statsforvalteren påpekte at tre av søkerne hadde opplyst at skadeforebyggende tiltak ikke var forsøkt, og at kommunen i vedtakene ikke hadde dokumentert at alle vilkårene faktisk var oppfylt. Statsforvalteren kom likevel til at vilkårene for å gi fellingstillatelse var oppfylt for alle søknadene, basert på eksisterende kunnskapsgrunnlag, tidligere års søknader og oppdatert forskning på området.   
-   
- Sivilombudet kom til at Statsforvalteren ikke kunne stadfeste de tre tillatelsene der søker hadde opplyst at ett av de kumulative vilkårene ikke var oppfylt. Det er videre tvil om vilkårene var oppfylt for de øvrige søknadene. Alle søknadene manglet opplysninger som var nødvendige for å kunne vurdere om søkerens faktiske nåsituasjon tilsa at vilkårene for å kunne gjøre unntak fra fellingsforbudet var oppfylt. Statsforvalteren hadde i vedtaket ikke redegjort for hvordan supplering av søknadene med generell bakgrunnsinformasjon var relevant. Sivilombudet kom derfor til at vedtaket var både mangelfullt utredet og begrunnet.
+Saken gjelder Statsforvalteren i Troms og Finnmarks vedtak om å stadfeste syv tillatelser om skadefelling av inntil 79 grågjess med hjemmel i viltforskriften § 3-3. Statsforvalteren påpekte at tre av søkerne hadde opplyst at skadeforebyggende tiltak ikke var forsøkt, og at kommunen i vedtakene ikke hadde dokumentert at alle vilkårene faktisk var oppfylt. Statsforvalteren kom likevel til at vilkårene for å gi fellingstillatelse var oppfylt for alle søknadene, basert på eksisterende kunnskapsgrunnlag, tidligere års søknader og oppdatert forskning på området.  
+Sivilombudet kom til at Statsforvalteren ikke kunne stadfeste de tre tillatelsene der søker hadde opplyst at ett av de kumulative vilkårene ikke var oppfylt. Det er videre tvil om vilkårene var oppfylt for de øvrige søknadene. Alle søknadene manglet opplysninger som var nødvendige for å kunne vurdere om søkerens faktiske nåsituasjon tilsa at vilkårene for å kunne gjøre unntak fra fellingsforbudet var oppfylt. Statsforvalteren hadde i vedtaket ikke redegjort for hvordan supplering av søknadene med generell bakgrunnsinformasjon var relevant. Sivilombudet kom derfor til at vedtaket var både mangelfullt utredet og begrunnet.
 
 ## Sakens bakgrunn
 
@@ -89,7 +88,7 @@ I Statsforvalterens vedtak er det ikke for noen av vilkårene i viltforskriften 
 ### Om adgangen til å dispensere fra vilkårene i viltforskriften
 
 Når det gjelder spørsmålet om det er adgang til å dispensere fra vilkårene i viltforskriften  
- § 3-3, legger ombudet til grunn at Statsforvalteren er enig i at det ikke finnes en slik adgang.
+§ 3-3, legger ombudet til grunn at Statsforvalteren er enig i at det ikke finnes en slik adgang.
 
 ## Konklusjon
 

@@ -14,10 +14,10 @@ Sivilombudets uttalelse 23.3.2026 (sak 2025/8587).
 
 ## Oppsummering
 
-Saken gjelder Oslo kommune bydel Alnas tidsbruk ved behandling av en søknad om brukerstyrt personlig assistanse (BPA). Bydelen brukte 51 uker på å ferdigbehandle søknaden. Det var ingen opplysninger i saken om at det var foretatt noen aktive behandlingsskritt i tiden mellom 11. mars 2025 og 13. januar 2026.   
- Sivilombudet kom til at behandlingstiden av søknaden om BPA på nesten ett år klart var i strid med forvaltningsloven § 11 a første ledd.  
- Ombudet mente at når behandlingstiden blir lang fordi det ikke sikres forsvarlig fremdrift i saken, skal det lite til før saksbehandlingstiden blir ulovlig. Også sakens karakter tilsa at saksbehandlingstiden burde vært kortere.   
- Bydelen ferdigbehandlet søknaden etter ombudets undersøkelser. Ombudet lot derfor saken bero, men ba bydelen merke seg ombudets syn på reglene om saksbehandlingstid ved behandling av fremtidige søknader om BPA.
+Saken gjelder Oslo kommune bydel Alnas tidsbruk ved behandling av en søknad om brukerstyrt personlig assistanse (BPA). Bydelen brukte 51 uker på å ferdigbehandle søknaden. Det var ingen opplysninger i saken om at det var foretatt noen aktive behandlingsskritt i tiden mellom 11. mars 2025 og 13. januar 2026.  
+Sivilombudet kom til at behandlingstiden av søknaden om BPA på nesten ett år klart var i strid med forvaltningsloven § 11 a første ledd.  
+Ombudet mente at når behandlingstiden blir lang fordi det ikke sikres forsvarlig fremdrift i saken, skal det lite til før saksbehandlingstiden blir ulovlig. Også sakens karakter tilsa at saksbehandlingstiden burde vært kortere.  
+Bydelen ferdigbehandlet søknaden etter ombudets undersøkelser. Ombudet lot derfor saken bero, men ba bydelen merke seg ombudets syn på reglene om saksbehandlingstid ved behandling av fremtidige søknader om BPA.
 
 ## Sakens bakgrunn
 

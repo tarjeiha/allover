@@ -15,11 +15,9 @@ Sivilombudets uttalelse 21.8.2026 (sak 2026/1770).
 
 ## Oppsummering
 
-Saken gjelder Digitaliserings- og forvaltningsdepartementets avgjørelse som stadfestet Direktoratet for forvaltning og øknonomistyring sitt avslag på krav om innsyn i en oversikt over varemerke/produsent og spesisfikt produktnavn/modell, for møbler kjøpt utenfor standardsortiment under Statens fellesavtale om kjøp av kontormøbler. Opplysningene ble unntatt som taushetsbelagte etter offentleglova § 13 første ledd, jf. forvaltningsloven § 13 første ledd nr. 2.   
-   
- Sivilombudet kom til at det er begrunnet tvil om de unntatte opplysningene er underlagt taushetsplikt etter forvaltningsloven § 13 første ledd nr. 2. Etter ombudet syn har ikke departementet i tilstrekkelig grad sett hen til arten og graden av sensitivitet i opplysningene, den offentlige interessen i å gjøre seg kjent med hvordan offentlige midler benyttes, og hvorvidt opplysningene er alminnelig tilgjengelig andre steder.  
-   
- Digitaliserings- og forvaltningsdepartementet ble bedt om å vurdere saken på nytt.
+Saken gjelder Digitaliserings- og forvaltningsdepartementets avgjørelse som stadfestet Direktoratet for forvaltning og øknonomistyring sitt avslag på krav om innsyn i en oversikt over varemerke/produsent og spesisfikt produktnavn/modell, for møbler kjøpt utenfor standardsortiment under Statens fellesavtale om kjøp av kontormøbler. Opplysningene ble unntatt som taushetsbelagte etter offentleglova § 13 første ledd, jf. forvaltningsloven § 13 første ledd nr. 2.  
+Sivilombudet kom til at det er begrunnet tvil om de unntatte opplysningene er underlagt taushetsplikt etter forvaltningsloven § 13 første ledd nr. 2. Etter ombudet syn har ikke departementet i tilstrekkelig grad sett hen til arten og graden av sensitivitet i opplysningene, den offentlige interessen i å gjøre seg kjent med hvordan offentlige midler benyttes, og hvorvidt opplysningene er alminnelig tilgjengelig andre steder.  
+Digitaliserings- og forvaltningsdepartementet ble bedt om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

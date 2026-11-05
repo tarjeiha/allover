@@ -14,11 +14,9 @@ Sivilombudets uttalelse 14.11.2024 (sak 2024/4360).
 
 ## Oppsummering
 
-Saken gjelder Kontoret for voldsoffererstatnings (KFVs) behandlingstid for en konkret søknad om voldsoffererstatning, og de generelle behandlingstidene ved KFV.   
-   
- Søknaden i den konkrete saken ble sendt i januar 2022. Da ombudet avsluttet saken, var saken ennå ikke ferdigbehandlet. Ifølge KFV skyldes den lange behandlingstiden hovedsakelig at de fulgte føringene i tildelingsbrev fra Statens sivilrettsforvaltning om å prioritere saker etter ny voldserstatningslov, som trådte i kraft 1. januar 2023. De viste dessuten også til manglende ressurser.  
-   
- Sivilombudet kom til at klagerens sak ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. I tildelingsbrev fra Statens sivilrettsforvaltning til KFV er det gitt føringer om at de skal prioritere saker etter ny lov, samtidig som alle søknader etter gammel lov skal behandles innen rimelig tid. Ombudet la til grunn at Statens sivilrettsforvaltning gjennom dette har forutsatt at alle saker, også etter gammel lov, skal behandles i tråd med forvaltningsloven § 11 a første ledd. Dersom det i enkeltsaker skulle oppstå konflikt mellom forvaltningsloven og føringer i tildelingsbrevet, har KFV en plikt til å følge forvaltningslovens bestemmelser. Sivilombudet konkluderte dessuten med at det er grunn til å tro at behandlingstiden i et stort antall saker er i strid med forvaltningsloven § 11 a første ledd.
+Saken gjelder Kontoret for voldsoffererstatnings (KFVs) behandlingstid for en konkret søknad om voldsoffererstatning, og de generelle behandlingstidene ved KFV.  
+Søknaden i den konkrete saken ble sendt i januar 2022. Da ombudet avsluttet saken, var saken ennå ikke ferdigbehandlet. Ifølge KFV skyldes den lange behandlingstiden hovedsakelig at de fulgte føringene i tildelingsbrev fra Statens sivilrettsforvaltning om å prioritere saker etter ny voldserstatningslov, som trådte i kraft 1. januar 2023. De viste dessuten også til manglende ressurser.  
+Sivilombudet kom til at klagerens sak ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. I tildelingsbrev fra Statens sivilrettsforvaltning til KFV er det gitt føringer om at de skal prioritere saker etter ny lov, samtidig som alle søknader etter gammel lov skal behandles innen rimelig tid. Ombudet la til grunn at Statens sivilrettsforvaltning gjennom dette har forutsatt at alle saker, også etter gammel lov, skal behandles i tråd med forvaltningsloven § 11 a første ledd. Dersom det i enkeltsaker skulle oppstå konflikt mellom forvaltningsloven og føringer i tildelingsbrevet, har KFV en plikt til å følge forvaltningslovens bestemmelser. Sivilombudet konkluderte dessuten med at det er grunn til å tro at behandlingstiden i et stort antall saker er i strid med forvaltningsloven § 11 a første ledd.
 
 Se oppdatering fra forvaltningen
 
@@ -89,8 +87,8 @@ Oppsummert kan både manglende ressurser, interne prioriteringer og prioritering
 På spørsmålet om hvor mange søknader om voldsoffererstatning Kontoret for voldsoffererstatning har til behandling, oppga KFV statistikk for saker i kategoriene «første søknad» og «tilleggssøknad». For behandlingen av denne ombudssaken har det vært antall saker i restanse i kategorien «første søknad» som har vært sentralt, og derfor gjengis kun disse tallene nedenfor. Etter den nye voldserstatningsloven går det et tydeligere skille mellom «krav», som er saker med utmålt erstatning i retten, og «søknader», som blant annet kreves for saker som er blitt henlagt av politiet, jf. voldserstatningsloven §§ 6 og 7. Restansene KFV oppga per 7. oktober 2024 er som følger:
 
 «Ny lov krav: 243 saker i restanse, hvorav 7 er klar til vedtak.  
- Ny lov første søknad: 1 129 saker i restanse, hvorav 460 er klar til vedtak.  
- Gammel lov første søknad: 4 668 saker i restanse, hvorav 4 321 er klar til vedtak.»
+Ny lov første søknad: 1 129 saker i restanse, hvorav 460 er klar til vedtak.  
+Gammel lov første søknad: 4 668 saker i restanse, hvorav 4 321 er klar til vedtak.»
 
 Det er særlig i kategorien første søknad etter gammel lov at Kontoret for voldsoffererstatning har mange saker i restanse, og de fleste av disse sakene er klare til vedtak.
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 12.6.2019 (sak 2018/4232).
 ## Oppsummering
 
 Det ble lagt til grunn feil faktiske forhold da en rammetillatelse for oppføring av bolig ble gitt og stadfestet. Sol-/skyggediagrammet som var utarbeidet av ansvarlig søker, viste mer sol på naboens uteoppholdsarealer enn det faktisk ble da huset ble oppført. Boligens skyggelegging var et sentralt tema da rammetillatelsen ble gitt, og kommunen kom under tvil til at dette ikke var en kvalifisert ulempe for naboen.  
-   
- Naboens begjæring om omgjøring ble ikke tatt til følge av Fylkesmannen i Rogaland. Fylkesmannen kom til at feilen ikke kunne hatt avgjørende betydning for en dispensasjon som ble gitt sammen med rammetillatelsen. Saken ble klaget inn for ombudsmannen.  
-   
- Ombudsmannen er kommet til at Fylkesmannen har lagt til grunn feil rettslig utgangspunkt for sin omgjøringsvurdering. Ulempene for naboen burde fortrinnsvis vært vurdert etter plan- og bygningsloven § 29-4 om byggverkets plassering, høyde og avstand fra nabogrense. Videre er ombudsmannen kommet til at feilen i de faktiske forholdene kan ha virket bestemmende på innholdet i Fylkesmannens vedtak. Ombudsmannen ber Fylkesmannen vurdere saken på nytt, og kommenterer et par forhold som Fylkesmannen bør merke seg ved sin nye vurdering av om vedtaket er ugyldig og bør omgjøres.
+Naboens begjæring om omgjøring ble ikke tatt til følge av Fylkesmannen i Rogaland. Fylkesmannen kom til at feilen ikke kunne hatt avgjørende betydning for en dispensasjon som ble gitt sammen med rammetillatelsen. Saken ble klaget inn for ombudsmannen.  
+Ombudsmannen er kommet til at Fylkesmannen har lagt til grunn feil rettslig utgangspunkt for sin omgjøringsvurdering. Ulempene for naboen burde fortrinnsvis vært vurdert etter plan- og bygningsloven § 29-4 om byggverkets plassering, høyde og avstand fra nabogrense. Videre er ombudsmannen kommet til at feilen i de faktiske forholdene kan ha virket bestemmende på innholdet i Fylkesmannens vedtak. Ombudsmannen ber Fylkesmannen vurdere saken på nytt, og kommenterer et par forhold som Fylkesmannen bør merke seg ved sin nye vurdering av om vedtaket er ugyldig og bør omgjøres.
 
 Se oppdatering fra forvaltningen
 

@@ -15,7 +15,7 @@ Sivilombudets uttalelse 19.5.2017 (sak 2016/2902).
 ## Oppsummering
 
 Saken gjelder behandlingstiden i en sak om innsyn i journalen til Nasjonal sikkerhetsmyndighet (NSM) for perioden 2013-2015. Ved journalføring av dokumenter i sitt elektroniske arkiv- eller saksbehandlingssystem hadde NSM ikke vurdert om det var opplysninger i journalinnførslene som skulle skjermes for allmennheten. NSM måtte derfor gjennomgå journalen manuelt, og skjerme en stor andel opplysninger, før det kunne gis innsyn.  
- Ombudsmannen er kommet til at spørsmålet om innsyn i journalen først skal vurderes når NSM mottar et krav om innsyn. NSM skulle likevel rutinemessig ha vurdert å skjerme opplysninger i journalen ved journalføringen, for deretter å kunne hente ut og gjøre tilgjengelig de journalopplysningene som allmennheten har krav på innsyn i på en enkel måte. Ettersom NSM ikke har hatt rutiner for skjerming av opplysninger i journalen, tok det for lang tid å behandle kravet om innsyn i journalen for den aktuelle perioden.
+Ombudsmannen er kommet til at spørsmålet om innsyn i journalen først skal vurderes når NSM mottar et krav om innsyn. NSM skulle likevel rutinemessig ha vurdert å skjerme opplysninger i journalen ved journalføringen, for deretter å kunne hente ut og gjøre tilgjengelig de journalopplysningene som allmennheten har krav på innsyn i på en enkel måte. Ettersom NSM ikke har hatt rutiner for skjerming av opplysninger i journalen, tok det for lang tid å behandle kravet om innsyn i journalen for den aktuelle perioden.
 
 ### Sakens bakgrunn
 

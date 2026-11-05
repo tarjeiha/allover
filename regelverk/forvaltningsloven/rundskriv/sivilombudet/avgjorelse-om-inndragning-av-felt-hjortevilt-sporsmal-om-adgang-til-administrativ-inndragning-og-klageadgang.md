@@ -14,15 +14,11 @@ Sivilombudets uttalelse 3.12.2024 (sak 2024/2381).
 
 ## Oppsummering
 
-Saken gjelder en kommunes avgjørelse om inndragning av felt elgokse i medhold av viltloven § 48. Jegeren som hadde skutt elgen bestred avgjørelsen, men fikk opplyst at avgjørelsen ikke var et enkeltvedtak med klageadgang. Kommunen opplyste at ulovlig felt vilt tilfalt kommunen ifølge viltloven § 48 og viste til Miljødirektoratets veileder som grunnlag for sitt syn. Jegeren var uenig i at elgen var felt ulovlig.   
-   
- Sivilombudet har kommet til at viltloven § 48 hjemler administrativ inndragning av ulovlig felt vilt.  
-   
- Sivilombudet har også kommet til at avgjørelsen om administrativ inndragning etter viltloven § 48 er et enkeltvedtak der kravene i forvaltningsloven om enkeltvedtak må følges.   
-   
- Sivilombudet har kommet til at viltnemnda i avgjørelsen 24. oktober 2022 ikke kun avgjorde eiendomsretten, men også vurderte og tok stilling til om elgen var felt i strid med viltlova og dermed var ulovlig felt. Denne avgjørelsen var et enkeltvedtak der ikke forvaltningslovens regler ble fulgt.   
-   
- Sivilombudet har bedt kommunen behandle saken om inndragning av den felte elgen på nytt.
+Saken gjelder en kommunes avgjørelse om inndragning av felt elgokse i medhold av viltloven § 48. Jegeren som hadde skutt elgen bestred avgjørelsen, men fikk opplyst at avgjørelsen ikke var et enkeltvedtak med klageadgang. Kommunen opplyste at ulovlig felt vilt tilfalt kommunen ifølge viltloven § 48 og viste til Miljødirektoratets veileder som grunnlag for sitt syn. Jegeren var uenig i at elgen var felt ulovlig.  
+Sivilombudet har kommet til at viltloven § 48 hjemler administrativ inndragning av ulovlig felt vilt.  
+Sivilombudet har også kommet til at avgjørelsen om administrativ inndragning etter viltloven § 48 er et enkeltvedtak der kravene i forvaltningsloven om enkeltvedtak må følges.  
+Sivilombudet har kommet til at viltnemnda i avgjørelsen 24. oktober 2022 ikke kun avgjorde eiendomsretten, men også vurderte og tok stilling til om elgen var felt i strid med viltlova og dermed var ulovlig felt. Denne avgjørelsen var et enkeltvedtak der ikke forvaltningslovens regler ble fulgt.  
+Sivilombudet har bedt kommunen behandle saken om inndragning av den felte elgen på nytt.
 
 Se oppdatering fra forvaltningen
 
@@ -187,8 +183,8 @@ Naturmangfoldloven § 72 b (tilføyd ved LOV-2016-11-18-83) inneholder en bestem
 I høringsnotatet 26. juni 2024 om ny lov om utøvelse av jakt, fangst og felling av vilt mv. (viltressursloven) kapittel 14.3.1 Gjeldende rett, står det følgende om viltloven § 48:
 
 «Viltloven § 48 første ledd første punktum regulerer viltfondets og kommunens eiendomsrett til vilt som ulovlig er felt, innført til Norge eller ulovlig holdes fanget, eller til verdien av dette viltet. Bestemmelsen definerer eiendomsretten til vilt som det ikke foreligger en lovlig rett til å besitte. […]  
- Levende vilt er eiendomsløst, med mindre det er gitt tillatelse til å eie og holde viltet fanget. Dødt vilt er også eiendomsløst, helt til noen tar dyret i sin besittelse. Idet noen tar dyret i sin besittelse, etableres eiendomsretten gjennom viltloven § 48. Det innebærer at utgangspunktet er at ingen, utenom viltfondet og kommunen, kan etablere eiendomsrett til funn av dødt vilt i naturen. […]  
- Det stilles ikke vilkår om at det foreligger en straffbar handling eller at det er utvist skyld for å kunne inndra vilt etter viltloven § 48.»
+Levende vilt er eiendomsløst, med mindre det er gitt tillatelse til å eie og holde viltet fanget. Dødt vilt er også eiendomsløst, helt til noen tar dyret i sin besittelse. Idet noen tar dyret i sin besittelse, etableres eiendomsretten gjennom viltloven § 48. Det innebærer at utgangspunktet er at ingen, utenom viltfondet og kommunen, kan etablere eiendomsrett til funn av dødt vilt i naturen. […]  
+Det stilles ikke vilkår om at det foreligger en straffbar handling eller at det er utvist skyld for å kunne inndra vilt etter viltloven § 48.»
 
 Videre står det i høringsnotatet kapittel 15.1 at Landbruks- og matdepartementet og Klima- og miljødepartementet foreslår at det innføres bestemmelser om overtredelsesgebyr og administrativt rettighetstap i ny lov og ber om innspill på om det er behov for andre administrative sanksjoner slik som administrativt beslag og administrativ inndragning. Departementene har pekt på at viltloven kun inneholder én sanksjonsbestemmelse, straffebestemmelsen i § 56.
 

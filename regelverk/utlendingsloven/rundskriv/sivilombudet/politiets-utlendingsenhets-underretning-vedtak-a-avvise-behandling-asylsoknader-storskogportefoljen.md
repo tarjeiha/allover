@@ -15,11 +15,9 @@ Sivilombudets uttalelse 23.1.2018 (sak 2016/2249).
 
 ## Oppsummering
 
-I asylsakene til søkere som ankom Norge fra Russland over Storskog grensestasjon vinteren 2015/2016, «Storskogporteføljen», hadde Politiets utlendingsenhet (PU) ansvaret for å underrette søkerne om Utlendingsdirektoratets (UDIs) avvisningsvedtak etter utlendingsloven § 32 første ledd.   
-   
- Ved ikke å underrette, eller i noen tilfeller underrette lang tid etter at UDI har fattet vedtak, har PU brutt forvaltningslovens regler om underretning, jf. forvaltningsloven § 27 første ledd. PU har heller ikke oppfylt søkernes rett til opplysninger om blant annet klageadgang, klagefrist, klageinstans og den nærmere fremgangsmåten ved klage, jf. § 27 tredje ledd.  
-   
- De aktuelle søknadene var avvist i samsvar med Justis- og beredskapsdepartementets instruks GI-13/2015, som forutsatte at søkerne skulle returneres til Russland så raskt som mulig. PU mente at de flest avviste sakene uansett burde realitetsbehandles fordi det ikke var mulig å returnere søkerne til Russland, og hadde informerte UDI, politidirektoratet og departementet om sitt syn. At PU mente den praksis departementet hadde pålagt UDI, burde endres, ga imidlertid ikke tilstrekkelig grunn til å fravike plikten til å underrette om vedtak så snart som mulig.
+I asylsakene til søkere som ankom Norge fra Russland over Storskog grensestasjon vinteren 2015/2016, «Storskogporteføljen», hadde Politiets utlendingsenhet (PU) ansvaret for å underrette søkerne om Utlendingsdirektoratets (UDIs) avvisningsvedtak etter utlendingsloven § 32 første ledd.  
+Ved ikke å underrette, eller i noen tilfeller underrette lang tid etter at UDI har fattet vedtak, har PU brutt forvaltningslovens regler om underretning, jf. forvaltningsloven § 27 første ledd. PU har heller ikke oppfylt søkernes rett til opplysninger om blant annet klageadgang, klagefrist, klageinstans og den nærmere fremgangsmåten ved klage, jf. § 27 tredje ledd.  
+De aktuelle søknadene var avvist i samsvar med Justis- og beredskapsdepartementets instruks GI-13/2015, som forutsatte at søkerne skulle returneres til Russland så raskt som mulig. PU mente at de flest avviste sakene uansett burde realitetsbehandles fordi det ikke var mulig å returnere søkerne til Russland, og hadde informerte UDI, politidirektoratet og departementet om sitt syn. At PU mente den praksis departementet hadde pålagt UDI, burde endres, ga imidlertid ikke tilstrekkelig grunn til å fravike plikten til å underrette om vedtak så snart som mulig.
 
 ## Den faktiske og rettslige bakgrunnen
 

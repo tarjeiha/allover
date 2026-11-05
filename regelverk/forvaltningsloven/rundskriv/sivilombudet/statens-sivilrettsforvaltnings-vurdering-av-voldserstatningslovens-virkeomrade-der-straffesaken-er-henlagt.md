@@ -15,10 +15,8 @@ Sivilombudets uttalelse 26.3.2026 (sak 2026/110).
 ## Oppsummering
 
 Saken gjaldt Statens sivilrettsforvaltnings (SRFs) behandling av søknader om voldserstatning der straffesaken er henlagt.  
-   
- Voldserstatningsloven gir rett til erstatning for personer som er utsatt for visse, opplistede straffbare handlinger. Der straffesaken er henlagt, legger SRF uten egne vurderinger straffebudet i straffesaksdokumentene til grunn ved behandlingen av søknaden. SRF vurderer ikke om den voldsutsatte er utsatt for en handling omfattet av voldserstatningslovens virkeområde. Sivilombudet tok opp denne praksisen med SRF av eget tiltak.  
-   
- Ombudet kom til at SRF ved behandlingen av erstatningssaker plikter å vurdere på selvstendig grunnlag om den voldsutsatte er utsatt for en handling omfattet av lovens virkeområde. Det var derfor ikke rettslig grunnlag for SRFs praksis om automatisk å legge til grunn politiets angivelse av aktuell straffebestemmelse i en henlagt straffesak. Betydningen av at et bestemt straffebud er angitt i straffesaksdokumentene, må vurderes konkret i den enkelte saken. Ombudet ba SRF legge dette til grunn for behandlingen av søknader fremover.
+Voldserstatningsloven gir rett til erstatning for personer som er utsatt for visse, opplistede straffbare handlinger. Der straffesaken er henlagt, legger SRF uten egne vurderinger straffebudet i straffesaksdokumentene til grunn ved behandlingen av søknaden. SRF vurderer ikke om den voldsutsatte er utsatt for en handling omfattet av voldserstatningslovens virkeområde. Sivilombudet tok opp denne praksisen med SRF av eget tiltak.  
+Ombudet kom til at SRF ved behandlingen av erstatningssaker plikter å vurdere på selvstendig grunnlag om den voldsutsatte er utsatt for en handling omfattet av lovens virkeområde. Det var derfor ikke rettslig grunnlag for SRFs praksis om automatisk å legge til grunn politiets angivelse av aktuell straffebestemmelse i en henlagt straffesak. Betydningen av at et bestemt straffebud er angitt i straffesaksdokumentene, må vurderes konkret i den enkelte saken. Ombudet ba SRF legge dette til grunn for behandlingen av søknader fremover.
 
 ## Sakens bakgrunn
 

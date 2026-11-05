@@ -15,12 +15,9 @@ Sivilombudets uttalelse 2.7.2021 (sak 2021/434).
 ## Oppsummering
 
 Sivilombudet har fra sensommeren 2020 og frem til i dag mottatt en rekke klager fra utlendinger som har behov for timer til personlig oppmøte hos politiet for å levere søknader om statsborgerskap eller oppholdskort. Disse søkerne har enten ikke fått time, hatt problemer med å bestille time eller fått time svært langt frem i tid. Årsaken til problemene har vært avlysning av timer og mindre kapasitet på grunn av pandemien, samt et økt antall søknader om norsk statsborgerskap etter at det ble åpnet for dobbelt statsborgerskap i januar 2020. På denne bakgrunn har Sivilombudet bedt Politidirektoratet om å redegjøre for blant annet tilgjengeligheten av timer i politidistriktene og for hvordan man ivaretar at den som har søkt først, også får time først (køprinsippet).  
-   
- Undersøkelsen med direktoratet bekrefter langt på vei opplysningene fra klagene hit om at det i noen distrikter var lange ventetider på time i flere sakstyper, og at det i lengre perioder ikke var tilgjengelige timer for bestilling. Dette førte blant annet til at køprinsippet ikke lot seg ivareta, og at flere søkere måtte bruke uforholdsmessig mye ressurser på å følge med i portalen.  
-   
- Sivilombudet er enig med direktoratet i at det var vanskelig å unngå avlysning av oppsatte timer og manglende tilgang på nye timer i tiden etter at pandemien brøt ut. Ettersom tiden gikk, måtte det likevel kunne forventes at politidistriktene iverksatte tiltak for å avhjelpe de ulempene pandemien skapte, og ivareta de som fikk timen avlyst. Alle som ønsker det, må få anledning til å levere sine søknader. Senere klager til Sivilombudet viser at det fortsatt er lange ventetider i enkelte distrikter.  
-   
- Direktoratet bes følge med på den videre utviklingen for å sikre en forsvarlig saksavvikling og ivaretagelse av køprinsippet.
+Undersøkelsen med direktoratet bekrefter langt på vei opplysningene fra klagene hit om at det i noen distrikter var lange ventetider på time i flere sakstyper, og at det i lengre perioder ikke var tilgjengelige timer for bestilling. Dette førte blant annet til at køprinsippet ikke lot seg ivareta, og at flere søkere måtte bruke uforholdsmessig mye ressurser på å følge med i portalen.  
+Sivilombudet er enig med direktoratet i at det var vanskelig å unngå avlysning av oppsatte timer og manglende tilgang på nye timer i tiden etter at pandemien brøt ut. Ettersom tiden gikk, måtte det likevel kunne forventes at politidistriktene iverksatte tiltak for å avhjelpe de ulempene pandemien skapte, og ivareta de som fikk timen avlyst. Alle som ønsker det, må få anledning til å levere sine søknader. Senere klager til Sivilombudet viser at det fortsatt er lange ventetider i enkelte distrikter.  
+Direktoratet bes følge med på den videre utviklingen for å sikre en forsvarlig saksavvikling og ivaretagelse av køprinsippet.
 
 ## Sakens bakgrunn
 

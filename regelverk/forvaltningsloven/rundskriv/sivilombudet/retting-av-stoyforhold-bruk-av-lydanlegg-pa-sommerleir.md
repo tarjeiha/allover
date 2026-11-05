@@ -14,8 +14,8 @@ Sivilombudets uttalelse 18.5.2018 (sak 2017/760).
 
 ## Oppsummering
 
-Saken gjelder støy fra lydanlegg på en sommerleir. Fylkesmannen i Aust- og Vest-Agder traff vedtak om retting av støyforholdene etter regelverket om miljørettet helsevern. Bakgrunnen for rettingsvedtaket var klager på støy fra hyttenaboer. Vedtaket begrenset antall ganger og tidspunkter lydanlegg kunne brukes, og hva det kunne brukes til.   
- Ombudsmannen er kommet til at Fylkesmannen ikke i tilstrekkelig grad har angitt det rettslige grunnlaget for å pålegge retting av støyforholdene, og at Fylkesmannens vedtak ellers ikke er godt nok begrunnet når det gjelder vilkårene for retting i folkehelseloven.
+Saken gjelder støy fra lydanlegg på en sommerleir. Fylkesmannen i Aust- og Vest-Agder traff vedtak om retting av støyforholdene etter regelverket om miljørettet helsevern. Bakgrunnen for rettingsvedtaket var klager på støy fra hyttenaboer. Vedtaket begrenset antall ganger og tidspunkter lydanlegg kunne brukes, og hva det kunne brukes til.  
+Ombudsmannen er kommet til at Fylkesmannen ikke i tilstrekkelig grad har angitt det rettslige grunnlaget for å pålegge retting av støyforholdene, og at Fylkesmannens vedtak ellers ikke er godt nok begrunnet når det gjelder vilkårene for retting i folkehelseloven.
 
 ## Sakens bakgrunn
 

@@ -16,10 +16,8 @@ Sivilombudets uttalelse 4.12.2018 (sak 2017/1239).
 ## Oppsummering
 
 Som ledd i oppgaven med å skaffe faste representanter og verger til enslige mindreårige asylsøkere, har fylkesmennene lister over mulige personer. Det er undersøkt om det å bli strøket fra listen er å anse som et enkeltvedtak som kan påklages.  
-   
- Ombudsmannen er kommet til at det å ta en person ut av slike lister vanskelig kan ses å være et enkeltvedtak etter definisjonen i forvaltningsloven § 2 første ledd bokstav b, jf. bokstav a.  
-   
- Statens sivilrettsforvaltning bes vurdere om det kan være hensiktsmessig med en gjennomgang av ordningen, eventuelt også fra Justisdepartementets side.
+Ombudsmannen er kommet til at det å ta en person ut av slike lister vanskelig kan ses å være et enkeltvedtak etter definisjonen i forvaltningsloven § 2 første ledd bokstav b, jf. bokstav a.  
+Statens sivilrettsforvaltning bes vurdere om det kan være hensiktsmessig med en gjennomgang av ordningen, eventuelt også fra Justisdepartementets side.
 
 ## Sakens bakgrunn
 

@@ -16,8 +16,7 @@ Sivilombudets uttalelse 22.9.2026 (sak 2026/1514).
 ## Oppsummering
 
 Saken gjelder forholdet mellom hjelpestønad etter folketrygdloven og kommunal avlastning organisert som brukerstyrt personlig assistanse (BPA). Ombudet kom til at hjelpestønad ikke kan tas i betraktning ved fastsettelsen av det forsvarlige minstenivået av tjenester i saker om avlastning i form av BPA. Hjelpestønaden kan eventuelt inngå som moment ved den skjønnsmessige utmålingen av tjenestetilbudet utover det lovbestemte minstenivået.  
-   
- Ombudet mente at Statsforvalterens begrunnelse kunne gi inntrykk av at hjelpestønaden var hensyntatt ved fastsettelsen av det forsvarlige minstenivået av tjenestene. Ombudet uttalte at begrunnelsen i slike saker må utformes slik at det ikke oppstår tvil om hvordan hjelpestønaden er tillagt vekt.
+Ombudet mente at Statsforvalterens begrunnelse kunne gi inntrykk av at hjelpestønaden var hensyntatt ved fastsettelsen av det forsvarlige minstenivået av tjenestene. Ombudet uttalte at begrunnelsen i slike saker må utformes slik at det ikke oppstår tvil om hvordan hjelpestønaden er tillagt vekt.
 
 ## Sakens bakgrunn
 

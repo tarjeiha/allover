@@ -14,11 +14,9 @@ Sivilombudets uttalelse 7.3.2025 (sak 2024/6630).
 
 ## Oppsummering
 
-Saken gjelder Oslo kommune bydel Ullerns tidsbruk ved saksforberedelse av klage på vedtak om praktisk bistand og opplæring. Kommunen brukte nesten ni måneder på å oversende klagen til Statsforvalteren for klagebehandling. Klagen krevde ingen ytterligere utredning.   
-   
- Ombudet kom til at kommunens tidsbruk på nesten ni måneder var klart i strid med forvaltningsloven § 33 fjerde ledd, jf. § 11 a første ledd, og at kommunen burde ha prioritert klagen høyere ut fra den tid som allerede var gått fra vedtaket ble påklaget og til kommunen ble klar over at klagen skulle klagebehandles.   
-   
- At kommunen ikke ga et svar i saken før det var gått over 6 måneder, var etter ombudets syn klart i strid med regelen om foreløpig svar i forvaltningsloven § 11 a andre ledd. Heller ikke klagerens purring underveis i saksgangen ble besvart innen rimelig tid i tråd med kravet til god forvaltningsskikk.
+Saken gjelder Oslo kommune bydel Ullerns tidsbruk ved saksforberedelse av klage på vedtak om praktisk bistand og opplæring. Kommunen brukte nesten ni måneder på å oversende klagen til Statsforvalteren for klagebehandling. Klagen krevde ingen ytterligere utredning.  
+Ombudet kom til at kommunens tidsbruk på nesten ni måneder var klart i strid med forvaltningsloven § 33 fjerde ledd, jf. § 11 a første ledd, og at kommunen burde ha prioritert klagen høyere ut fra den tid som allerede var gått fra vedtaket ble påklaget og til kommunen ble klar over at klagen skulle klagebehandles.  
+At kommunen ikke ga et svar i saken før det var gått over 6 måneder, var etter ombudets syn klart i strid med regelen om foreløpig svar i forvaltningsloven § 11 a andre ledd. Heller ikke klagerens purring underveis i saksgangen ble besvart innen rimelig tid i tråd med kravet til god forvaltningsskikk.
 
 ## Sakens bakgrunn
 
@@ -33,8 +31,8 @@ I svar 4. oktober 2024 «på brev av 22.03.24» skrev bydel Ullern at vedtaket i
 I tilbakemelding 13. oktober 2024 skrev klageren at bydelens svar «på ingen måte [var] behandling av klagen … iht. forvaltningsloven».
 
 Bydel Ullern sendte foreløpig svar 28. oktober 2024 om at klagen på vedtaket  
- 11. mars 2024 ville bli behandlet innen 25. november 2024. I nytt foreløpig svar  
- 25. november 2024 skrev bydelen at klagen ville bli behandlet innen utgangen av januar 2025. Årsaken til forsinkelsen var «stor saksmengde i avdelingen».
+11. mars 2024 ville bli behandlet innen 25. november 2024. I nytt foreløpig svar  
+25. november 2024 skrev bydelen at klagen ville bli behandlet innen utgangen av januar 2025. Årsaken til forsinkelsen var «stor saksmengde i avdelingen».
 
 Klageren klaget etter dette til ombudet på lang saksbehandling og manglende svar fra Oslo kommune bydel Ullern.
 
@@ -45,7 +43,7 @@ Vi fant grunn til å undersøke saken nærmere. I brev 8. januar 2025 stilte vi 
 Bydel Ullern svarte 23. januar 2025 at de oppfattet klagen 22. mars 2024 dithen at saken skulle sendes Statsforvalteren forutsatt at det hadde vært en endring i tjenestetilbudet. Da tilbudet etter deres vurdering var det samme, ble ikke saken sendt videre. Ifølge bydelen var de ikke klar over at klageren ønsket at klagen skulle behandles av Statsforvalteren før tilbakemeldingen 13. oktober 2024. I ettertid så de imidlertid at klageren burde ha blitt kontaktet for å få avklart hva hun mente.
 
 Bydelen opplyste videre at saken ble oversendt Statsforvalteren for klagebehandling  
- 17. desember 2024. Årsaken til at det tok to måneder fra de ble klar over at klageren ønsket at saken skulle klagebehandles, var saksmengde og sykdom.
+17. desember 2024. Årsaken til at det tok to måneder fra de ble klar over at klageren ønsket at saken skulle klagebehandles, var saksmengde og sykdom.
 
 På spørsmål herfra om dette var en sak som krevde ytterligere utredning fra kommunen før oversendelse til Statsforvalteren, svarte bydelen benektende.
 
@@ -100,7 +98,7 @@ Om prioritering av klagesaker om personlig assistanse generelt, og denne klagesa
 Ombudet forstår svaret slik at bydel Ullern normalt ikke har en saksbehandlingstid på ni måneder i klagesaker om helse- og omsorgstjenester, herunder personlig assistanse. Ombudet forstår det videre slik at denne klagen kom i «kø» regnet fra tilbakemeldingen 13. oktober 2024, og ikke ble prioritert etter at bydelen ble klar over at de hadde misforstått klagen. På det tidspunktet hadde det allerede gått nesten syv måneder siden vedtaket ble påklaget. Ut fra opplysningene om forventet saksbehandlingstid i foreløpig svar 25. november 2024, ville behandlingstiden totalt ha vært opptil ti måneder.
 
 Ombudet har flere ganger tatt opp behovet for å prioritere saker som har versert lenge, uten at klageren kan lastes for tidsbruken. Se blant annet ombudets uttalelse  
- 12. september 2022 (SOM-2022-1133).
+12. september 2022 (SOM-2022-1133).
 
 Etter ombudets syn burde bydel Ullern ha innrettet klagebehandlingen, og gjort nødvendige prioriteringer, ut ifra det totale tidsforløpet i saken. Derfor burde kommunen ha prioritert klagen høyere på bakgrunn av den tid som var gått fra vedtaket ble påklaget og til kommunen ble klar over at klagen skulle klagebehandles.
 

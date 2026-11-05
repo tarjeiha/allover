@@ -16,10 +16,8 @@ Sivilombudets uttalelse 30.11.2018 (sak 2018/509).
 ## Oppsummering
 
 Saken gjelder Navs utredningsplikt ved behandlingen av søknad om støtte til spesialtilpasning av bil på grunn av klagers medisinske behov. Klageren mente at Navs vedtak om spesialtilpasning ikke møter hans behov. Han kan dokumentere at det finnes produkter på markedet som Nav ikke har vurdert. Saken reiser og spørsmål om Bilsenterets hensiktsmessighetsvurderinger ble tilstrekkelig overprøvd av klageinstansen og av Trygderetten.  
-   
- Ombudsmannen mener Nav Bilsenter har kartlagt klagers behov for hensiktsmessige spesialtilpasninger så utførlig som kan kreves innenfor rammen av Navs masseforvaltning.  
-   
- Ombudsmannen har ikke rettslige innvendinger til Nav Klageinstans klagebehandling eller Trygderettens ankebehandling.
+Ombudsmannen mener Nav Bilsenter har kartlagt klagers behov for hensiktsmessige spesialtilpasninger så utførlig som kan kreves innenfor rammen av Navs masseforvaltning.  
+Ombudsmannen har ikke rettslige innvendinger til Nav Klageinstans klagebehandling eller Trygderettens ankebehandling.
 
 ## Sakens bakgrunn
 

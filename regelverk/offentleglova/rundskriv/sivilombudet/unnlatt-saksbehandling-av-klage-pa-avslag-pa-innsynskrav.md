@@ -16,10 +16,8 @@ Sivilombudets uttalelse 1.12.2022 (sak 2022/4213).
 ## Oppsummering
 
 Saken gjelder Domstoladministrasjonens manglende saksbehandling av en klage på avslag på innsyn i en sammenstilling av opplysninger om dommer som dreide seg om straffeloven § 231 fra tingrettene i Oslo og Viken. Domstoladministrasjonen begrunnet avslaget med at innsyn i domsavgjørelser reguleres av rettspleielovgivningen, og at innsynskravet derfor var unntatt offentleglovas virkeområde, jf. § 2 fjerde ledd. Domstoladministrasjonen mente at klagerens innvendinger mot avslaget ikke skulle oversendes til klageinstansen, fordi innsynskravet ikke var omfattet av offentleglova.  
-   
- Ombudet har kommet til at Domstoladministrasjonen må behandle klagen over avslag på innsyn etter reglene i offentleglova § 32, jf. forvaltningsloven § 33 andre og fjerde ledd. Herunder må Domstoladministrasjonen vurdere saken på nytt, og eventuelt forberede saken for og oversende den til klageinstansen (Domstoladministrasjonens styre).   
-   
- Ombudet ba Domstoladministrasjonen følge opp klagebehandlingen snarest, og senest innen 16. desember 2022.
+Ombudet har kommet til at Domstoladministrasjonen må behandle klagen over avslag på innsyn etter reglene i offentleglova § 32, jf. forvaltningsloven § 33 andre og fjerde ledd. Herunder må Domstoladministrasjonen vurdere saken på nytt, og eventuelt forberede saken for og oversende den til klageinstansen (Domstoladministrasjonens styre).  
+Ombudet ba Domstoladministrasjonen følge opp klagebehandlingen snarest, og senest innen 16. desember 2022.
 
 Se oppdatering fra forvaltningen
 

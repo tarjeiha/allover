@@ -15,11 +15,9 @@ Sivilombudets uttalelse 29.10.2024 (sak 2023/5286).
 ## Oppsummering
 
 Saken gjelder Heimevernets behandling av søknader fra tjenestepliktige soldater om å få utsatt heimevernstjenesten. Sivilombudet har innhentet vedtak fra alle heimevernsdistriktene og Forsvarsdepartementets klagenemnd i vernepliktssaker. Undersøkelsen er gjort av eget tiltak.  
-   
- Undersøkelsen viser at Forsvaret har gjort flere feil. De har ikke opplyst om at soldatene har rett til å klage på avslag om utsatt tjeneste. Vedtakene er ikke begrunnet slik at de tjenestepliktige soldatene kan forstå hvorfor de har fått avslag. Heimevernet har i de fleste tilfellene ikke sendt klagene videre til klageinstansen, som er Forsvarsdepartementets klagenemnd i vernepliktssaker.   
- Sivilombudet konkluderer med at grunnleggende rettigheter til de tjenestepliktige soldatene er brutt, se forvaltningsloven §§ 27 tredje ledd, 24, 25, 28 og 33. Feilene kan ha ført til at flere har gjennomført heimevernstjeneste selv om de kan ha hatt rett til utsettelse. Det kan ha hatt konsekvenser for familieliv, utdanning eller arbeidsforhold. Sivilombudet utelukker ikke at tjenestepliktige som skulle ha fått innvilget søknad om utsettelse kan ha blitt strafferettslig forfulgt for å ikke ha møtt opp til tjeneste.   
-   
- Sivilombudet har bedt Forsvaret om en redegjørelse for hvilke tiltak de vil iverksette for å unngå lignende feil. Forsvaret er også bedt om å vurdere om feilene som har blitt gjort har ført til at tjenestepliktige soldater har blitt feilaktig straffet.
+Undersøkelsen viser at Forsvaret har gjort flere feil. De har ikke opplyst om at soldatene har rett til å klage på avslag om utsatt tjeneste. Vedtakene er ikke begrunnet slik at de tjenestepliktige soldatene kan forstå hvorfor de har fått avslag. Heimevernet har i de fleste tilfellene ikke sendt klagene videre til klageinstansen, som er Forsvarsdepartementets klagenemnd i vernepliktssaker.  
+Sivilombudet konkluderer med at grunnleggende rettigheter til de tjenestepliktige soldatene er brutt, se forvaltningsloven §§ 27 tredje ledd, 24, 25, 28 og 33. Feilene kan ha ført til at flere har gjennomført heimevernstjeneste selv om de kan ha hatt rett til utsettelse. Det kan ha hatt konsekvenser for familieliv, utdanning eller arbeidsforhold. Sivilombudet utelukker ikke at tjenestepliktige som skulle ha fått innvilget søknad om utsettelse kan ha blitt strafferettslig forfulgt for å ikke ha møtt opp til tjeneste.  
+Sivilombudet har bedt Forsvaret om en redegjørelse for hvilke tiltak de vil iverksette for å unngå lignende feil. Forsvaret er også bedt om å vurdere om feilene som har blitt gjort har ført til at tjenestepliktige soldater har blitt feilaktig straffet.
 
 Se oppdatering fra forvaltningen
 

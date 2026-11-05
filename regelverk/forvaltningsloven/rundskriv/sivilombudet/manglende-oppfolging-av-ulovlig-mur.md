@@ -15,10 +15,8 @@ Sivilombudets uttalelse 28.11.2018 (sak 2017/3924).
 ## Oppsummering
 
 Saken gjelder Os kommunes saksbehandlingstid i sak om ulovlighetsoppfølging etter plan og bygningsloven kapittel 32. Fylkesmannen i Hordaland fattet i 2012 endelig vedtak om lovligheten av en mur fra 2009 som var oppført uten tillatelse. Kommunen har ikke brakt det ulovlige tiltaket i overenstemmelse med Fylkesmannens vedtak.  
-   
- Ombudsmannen er kommet til at den medgåtte saksbehandlingstiden ikke er i samsvar med forvaltningsloven § 11 a første ledd.  
-   
- Ombudsmannen forutsetter at kommunen følger opp saken i henhold til plan- og bygningsloven § 32-1. Kommunen må også holde sakens parter orientert om den videre saksgangen jf. forvaltningsloven § 11 a annet ledd.
+Ombudsmannen er kommet til at den medgåtte saksbehandlingstiden ikke er i samsvar med forvaltningsloven § 11 a første ledd.  
+Ombudsmannen forutsetter at kommunen følger opp saken i henhold til plan- og bygningsloven § 32-1. Kommunen må også holde sakens parter orientert om den videre saksgangen jf. forvaltningsloven § 11 a annet ledd.
 
 ## Sakens bakgrunn
 

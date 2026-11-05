@@ -15,8 +15,7 @@ Sivilombudets uttalelse 30.10.2026 (sak 2026/749).
 ## Oppsummering
 
 Saken gjaldt hvilke krav som kan stilles til vedtakets begrunnelse når Statsforvalteren som klageinstans stadfester en kommunes vedtak om å gi tillatelse til et byggetiltak, etter tidligere å ha opphevet kommunens vedtak om å gi tillatelse til det samme byggetiltaket i et annet klagevedtak i samme sak.  
-   
- Ombudet kom til at Statsforvalterens vedtak ikke oppfylte plikten i forvaltningsloven § 25 andre ledd første punktum til å nevne «de faktiske forhold som vedtaket bygger på». Ombudet kom videre til at forvaltningslovens krav til begrunnelse ikke var oppfylt, fordi vedtaket ikke behandlet klagerens anførsel om at tiltaket var i strid med reguleringsplanens høydebegrensning.
+Ombudet kom til at Statsforvalterens vedtak ikke oppfylte plikten i forvaltningsloven § 25 andre ledd første punktum til å nevne «de faktiske forhold som vedtaket bygger på». Ombudet kom videre til at forvaltningslovens krav til begrunnelse ikke var oppfylt, fordi vedtaket ikke behandlet klagerens anførsel om at tiltaket var i strid med reguleringsplanens høydebegrensning.
 
 ## Sakens bakgrunn
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 14.3.2023 (sak 2022/4834).
 
 ## Oppsummering
 
-Saken gjaldt Statsforvalteren i Oslo og Vikens vedtak om tvangsmedisinering.   
-   
- Statsforvalterens begrunnelse for at vilkåret om «stor sannsynlighet» for vesentlig positiv effekt av medisineringen var ikke i tråd med forvaltningslovens eller psykisk helsevernlovens krav. Det var dessuten begrunnet tvil om Statsforvalteren hadde forstått lovens krav riktig.  
-   
- Det fremgikk heller ikke av vedtaket at lovens vilkår om at den gunstige virkningen klart må oppveie ulempene, var vurdert. Dette er også i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.  
-   
- Ombudet ba Statsforvalteren merke seg ombudets syn, og at dette legges til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
+Saken gjaldt Statsforvalteren i Oslo og Vikens vedtak om tvangsmedisinering.  
+Statsforvalterens begrunnelse for at vilkåret om «stor sannsynlighet» for vesentlig positiv effekt av medisineringen var ikke i tråd med forvaltningslovens eller psykisk helsevernlovens krav. Det var dessuten begrunnet tvil om Statsforvalteren hadde forstått lovens krav riktig.  
+Det fremgikk heller ikke av vedtaket at lovens vilkår om at den gunstige virkningen klart må oppveie ulempene, var vurdert. Dette er også i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.  
+Ombudet ba Statsforvalteren merke seg ombudets syn, og at dette legges til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
 
 ## Sakens bakgrunn
 

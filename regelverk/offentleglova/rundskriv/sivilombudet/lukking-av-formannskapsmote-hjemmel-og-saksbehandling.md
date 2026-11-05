@@ -15,21 +15,18 @@ Sivilombudets uttalelse 5.6.2020 (sak 2020/916).
 ## Oppsummering
 
 Deler av formannskapsmøtet 20. februar 2020 i Narvik kommune ble holdt for lukkede dører.  
-   
- Ombudsmannen har kommet til at det var hjemmel for å lukke møtet.  
-   
- Lukking av et møte i et folkevalgt organ skal besluttes ved vedtak etter forutgående debatt. Slik saken er opplyst, er det begrunnet tvil om kommunen fulgte saksbehandlingsreglene for lukking av møtet.  
-   
- Ut fra møteprotokollen er det uklart hvilke deler av møtet som ble lukket og med hvilken hjemmel. Ombudsmannen er i tvil om kommunen har vist til riktig hjemmel i kommuneloven. Møteprotokollen er ikke i tråd med kommunelovens regler for føring av møtebok.
+Ombudsmannen har kommet til at det var hjemmel for å lukke møtet.  
+Lukking av et møte i et folkevalgt organ skal besluttes ved vedtak etter forutgående debatt. Slik saken er opplyst, er det begrunnet tvil om kommunen fulgte saksbehandlingsreglene for lukking av møtet.  
+Ut fra møteprotokollen er det uklart hvilke deler av møtet som ble lukket og med hvilken hjemmel. Ombudsmannen er i tvil om kommunen har vist til riktig hjemmel i kommuneloven. Møteprotokollen er ikke i tråd med kommunelovens regler for føring av møtebok.
 
 ## Sakens bakgrunn
 
 Deler av formannskapsmøtet 20. februar 2020 i Narvik kommune ble holdt for lukkede dører. I møteprotokollen fra møtet heter det:
 
 «Behandling av ikke offentlig sak tilslutt.  
- Møtet lukkes ihht. Kml. §11-5 jf. Off.l. §18  
- Orientering vedr. Frydenlundforbindelsen tilslutt. Det ble besluttet at orienteringen tas i lukket møte.  
- Lukking av møte etter Kml. §11-5 2. ledd jf. Off.l.§23 første ledd.»
+Møtet lukkes ihht. Kml. §11-5 jf. Off.l. §18  
+Orientering vedr. Frydenlundforbindelsen tilslutt. Det ble besluttet at orienteringen tas i lukket møte.  
+Lukking av møte etter Kml. §11-5 2. ledd jf. Off.l.§23 første ledd.»
 
 Advokat Egil Malm klaget hit på vegne av flere beboere ved det planlagte vegprosjektet Frydenlundforbindelsen (klagerne). Klagen gjaldt kommunes lukking av formannskapsmøtet under orienteringen om Frydenlundforbindelsen.
 

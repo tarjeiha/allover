@@ -16,16 +16,11 @@ Sivilombudets uttalelse 23.1.2023 (sak 2022/5067).
 ## Oppsummering
 
 Spørsmålet i saken er om Nav kan unnlate å sende et forhåndsvarsel før det fattes vedtak om reduksjon i utbetalingen av uføretrygd ved overskridelse av inntektsgrensen.  
-   
- Vedtak om reduksjon av ytelsen fattes gjennom en helautomatisert løsning uten innslag av manuell behandling. Nav forhåndsvarsler ikke den uføretrygdede før vedtaket treffes. En eventuell klage i etterkant behandles manuelt.   
-   
- EUs personvernforordning, som er del av EØS-avtalen, stiller krav om nasjonalrettslig grunnlag for helautomatisert behandling av personopplysninger. Det er en forutsetning at de internrettslige reglene må sikre en forsvarlig saksbehandling. Kravet om forhåndsvarsling og retten til kontradiksjon i forvaltningsloven § 16 er en sentral saksbehandlingsregel for å sikre en forsvarlig saksbehandling. Etter ombudets syn gir verken bestemmelsen i seg selv eller EUs personvernforordning grunnlag for å unnlate å forhåndsvarsle om reduksjon i uføretrygd.  
-   
- Arbeids- og velferdsdirektoratet erkjenner at Nav mangler rettslig grunnlag for å unnlate forhåndsvarsling. Av hensyn til en effektiv ressursutnyttelse ønsker direktoratet å fortsette å bruke den helautomatiserte løsningen. De har derfor opplyst at de vil igangsette et regelverksarbeid for å skaffe seg rettslig grunnlag for å unnlate varsling.   
-   
- Kravet i Nav-loven § 4 a om forsvarlig saksbehandling ved helautomatiserte avgjørelser følger av EUs personvernforordning artikkel 22 nr. 2 bokstav b og fortalepunkt 71.Et eventuelt unntak fra kravet om forhåndsvarsling ved helautomatiserte vedtak må utformes innenfor rammene av de EØS-rettslige forpliktelsene.  
-   
- Ettersom kravene i personvernforordningen ikke bare gjelder arbeids- og velferdsforvaltningen, men forvaltningen generelt, mener ombudet at det er gode grunner for at den rettslige vurderingen av unnlatelse av forhåndsvarsling ved helautomatiserte avgjørelser bør inngå i arbeidet med ny forvaltningslov.
+Vedtak om reduksjon av ytelsen fattes gjennom en helautomatisert løsning uten innslag av manuell behandling. Nav forhåndsvarsler ikke den uføretrygdede før vedtaket treffes. En eventuell klage i etterkant behandles manuelt.  
+EUs personvernforordning, som er del av EØS-avtalen, stiller krav om nasjonalrettslig grunnlag for helautomatisert behandling av personopplysninger. Det er en forutsetning at de internrettslige reglene må sikre en forsvarlig saksbehandling. Kravet om forhåndsvarsling og retten til kontradiksjon i forvaltningsloven § 16 er en sentral saksbehandlingsregel for å sikre en forsvarlig saksbehandling. Etter ombudets syn gir verken bestemmelsen i seg selv eller EUs personvernforordning grunnlag for å unnlate å forhåndsvarsle om reduksjon i uføretrygd.  
+Arbeids- og velferdsdirektoratet erkjenner at Nav mangler rettslig grunnlag for å unnlate forhåndsvarsling. Av hensyn til en effektiv ressursutnyttelse ønsker direktoratet å fortsette å bruke den helautomatiserte løsningen. De har derfor opplyst at de vil igangsette et regelverksarbeid for å skaffe seg rettslig grunnlag for å unnlate varsling.  
+Kravet i Nav-loven § 4 a om forsvarlig saksbehandling ved helautomatiserte avgjørelser følger av EUs personvernforordning artikkel 22 nr. 2 bokstav b og fortalepunkt 71.Et eventuelt unntak fra kravet om forhåndsvarsling ved helautomatiserte vedtak må utformes innenfor rammene av de EØS-rettslige forpliktelsene.  
+Ettersom kravene i personvernforordningen ikke bare gjelder arbeids- og velferdsforvaltningen, men forvaltningen generelt, mener ombudet at det er gode grunner for at den rettslige vurderingen av unnlatelse av forhåndsvarsling ved helautomatiserte avgjørelser bør inngå i arbeidet med ny forvaltningslov.
 
 Se oppdatering fra forvaltningen
 

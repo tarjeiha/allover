@@ -16,14 +16,10 @@ Sivilombudets uttalelse 20.3.2024 (sak 2023/4731).
 ## Oppsummering
 
 Saken gjelder en klage til Sivilombudet der klageren ga uttrykk for at Nav hadde brutt taushetsplikten ved å sende et brev til hennes nye fastlege, før hun selv hadde møtt vedkommende. Brevet inneholdt sensitive opplysninger om klagerens helse.  
-   
- Sivilombudet kom til at Nav-kontoret ikke hadde hatt rettslig grunnlag for å dele de aktuelle helseopplysningene. Ombudet fant derfor grunn til å rette kritikk mot Nav for brudd på taushetsplikten og personvernlovgivningen.  
-   
- Ombudet sa seg enig med Arbeids- og velferdsdirektoratet i at det var hensiktsmessig å gjøre endringer i Navs interne saksbehandlingsrutine for innhenting av helseopplysninger. Det burde tas inn et punkt om i hvilken grad Nav har adgang til å utlevere opplysninger i forbindelse med slik innhenting. Det burde også poengteres at det må foretas en vurdering av forholdet til taushetsplikten og personvernregelverket før Nav eventuelt kan utlevere opplysninger om brukernes personlige forhold til andre. Utleveringen av opplysninger må både ligge innenfor hjemmelen for å gjøre unntak fra taushetsplikten, og være nødvendig og forsvarlig.   
-   
- Ombudet ba direktoratet om å om å vurdere om Nav kunne eller burde gjort noe annerledes i håndteringen av saken overfor klageren, og om det er behov for tydeligere føringer for hva de lokale Nav-kontorene skal gjøre når det oppstår spørsmål om brudd på taushetsplikten.   
-   
- Ombudet ba om å bli orientert om direktoratets oppfølgning av saken.
+Sivilombudet kom til at Nav-kontoret ikke hadde hatt rettslig grunnlag for å dele de aktuelle helseopplysningene. Ombudet fant derfor grunn til å rette kritikk mot Nav for brudd på taushetsplikten og personvernlovgivningen.  
+Ombudet sa seg enig med Arbeids- og velferdsdirektoratet i at det var hensiktsmessig å gjøre endringer i Navs interne saksbehandlingsrutine for innhenting av helseopplysninger. Det burde tas inn et punkt om i hvilken grad Nav har adgang til å utlevere opplysninger i forbindelse med slik innhenting. Det burde også poengteres at det må foretas en vurdering av forholdet til taushetsplikten og personvernregelverket før Nav eventuelt kan utlevere opplysninger om brukernes personlige forhold til andre. Utleveringen av opplysninger må både ligge innenfor hjemmelen for å gjøre unntak fra taushetsplikten, og være nødvendig og forsvarlig.  
+Ombudet ba direktoratet om å om å vurdere om Nav kunne eller burde gjort noe annerledes i håndteringen av saken overfor klageren, og om det er behov for tydeligere føringer for hva de lokale Nav-kontorene skal gjøre når det oppstår spørsmål om brudd på taushetsplikten.  
+Ombudet ba om å bli orientert om direktoratets oppfølgning av saken.
 
 ## 1.  Sakens bakgrunn
 

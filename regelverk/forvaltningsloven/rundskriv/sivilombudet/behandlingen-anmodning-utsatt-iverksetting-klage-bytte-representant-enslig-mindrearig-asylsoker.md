@@ -15,8 +15,8 @@ Sivilombudets uttalelse 20.6.2017 (sak 2016/3636).
 ## Oppsummering
 
 Fylkesmannen fattet vedtak om bytte av representant for en enslig, mindreårig asylsøker dagen før det skulle avholdes asylintervju. Den tidligere representanten påklaget vedtaket samme dag og anmodet i medhold av forvaltningsloven § 42 om at iverksettingen av vedtaket ble utsatt til klagen var behandlet. Klageren ble først flere måneder senere underrettet skriftlig om at anmodningen var avslått - etter at spørsmålet var tatt opp av ombudsmannen.  
- Ombudsmannen slo fast at forvaltningsloven krever en beslutning «snarest mulig». Skriftlig underretning ble sendt klageren alt for sent, og saksdokumentene etterlot tvil om anmodningen om utsatt iverksetting i det hele tatt var blitt vurdert av Fylkesmannen før dette tidspunktet. At vedtaket faktisk ble iverksatt, og at klageren i en telefonsamtale ble fortalt at han ikke lenger var representant for asylsøkeren, innebar ikke at spørsmålet om utsatt iverksetting var blitt behandlet. Fylkesmannen ble kritisert for at det ikke var skrevet noe referat fra telefonsamtalen.  
- Fylkesmannen ble bedt om å vurdere om det var behov for å gi interne retningslinjer om forståelsen og praktiseringen av forvaltningsloven § 42.
+Ombudsmannen slo fast at forvaltningsloven krever en beslutning «snarest mulig». Skriftlig underretning ble sendt klageren alt for sent, og saksdokumentene etterlot tvil om anmodningen om utsatt iverksetting i det hele tatt var blitt vurdert av Fylkesmannen før dette tidspunktet. At vedtaket faktisk ble iverksatt, og at klageren i en telefonsamtale ble fortalt at han ikke lenger var representant for asylsøkeren, innebar ikke at spørsmålet om utsatt iverksetting var blitt behandlet. Fylkesmannen ble kritisert for at det ikke var skrevet noe referat fra telefonsamtalen.  
+Fylkesmannen ble bedt om å vurdere om det var behov for å gi interne retningslinjer om forståelsen og praktiseringen av forvaltningsloven § 42.
 
 ## Sakens bakgrunn
 

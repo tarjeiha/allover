@@ -16,10 +16,8 @@ Sivilombudets uttalelse 5.12.2018 (sak 2017/1735).
 ## Oppsummering
 
 Ledelsen ved en barneskole hadde inngitt bekymringsmelding til barneverntjenesten etter et utsagn fra et barn. Barnets mor klaget til Fylkesmannen over brudd på taushetsplikten. Fylkesmannen henviste saken til avklaring hos kommunen.  
-   
- Det er uheldig at Fylkesmannen gir inntrykk av ikke å ha foretatt noen vurdering av om det skulle reises tilsynssak mot skolen, og at saken ville bli avsluttet hos Fylkesmannen når kommunen hadde besvart foreldrenes klage. Selv om saken fremstod som en sak om brudd på taushetsplikten, reiser klagen også andre, prinsipielle problemstillinger som Fylkesmannen bør ha rutiner for å vurdere. Fylkesmannen kunne blant annet ha vurdert plikten til å foreta en selvstendig vurdering før det inngis bekymringsmelding, og behovet for å nedtegne slike vurderinger. Det kunne også være aktuelt å undersøke om kommunen hadde sikret at de ansatte hadde tilstrekkelig kunnskap om opplysningsplikten og vilkårene for å melde.  
-   
- Ombudsmannen ber Fylkesmannen vurdere å presisere i sine rutiner at det skal vurderes å åpne tilsynssak etter klager som reiser prinsipielle problemstillinger uavhengig av om klageren også mener at enkeltpersoner har brutt bestemmelser i lovverket. Fylkesmannen bes videre om å vurdere om det er behov for å veilede kommuner om når skoler og barnehager skal sende bekymringsmelding til barneverntjenesten, og behovet for nedtegning av observasjoner og vurderinger i disse sakene.
+Det er uheldig at Fylkesmannen gir inntrykk av ikke å ha foretatt noen vurdering av om det skulle reises tilsynssak mot skolen, og at saken ville bli avsluttet hos Fylkesmannen når kommunen hadde besvart foreldrenes klage. Selv om saken fremstod som en sak om brudd på taushetsplikten, reiser klagen også andre, prinsipielle problemstillinger som Fylkesmannen bør ha rutiner for å vurdere. Fylkesmannen kunne blant annet ha vurdert plikten til å foreta en selvstendig vurdering før det inngis bekymringsmelding, og behovet for å nedtegne slike vurderinger. Det kunne også være aktuelt å undersøke om kommunen hadde sikret at de ansatte hadde tilstrekkelig kunnskap om opplysningsplikten og vilkårene for å melde.  
+Ombudsmannen ber Fylkesmannen vurdere å presisere i sine rutiner at det skal vurderes å åpne tilsynssak etter klager som reiser prinsipielle problemstillinger uavhengig av om klageren også mener at enkeltpersoner har brutt bestemmelser i lovverket. Fylkesmannen bes videre om å vurdere om det er behov for å veilede kommuner om når skoler og barnehager skal sende bekymringsmelding til barneverntjenesten, og behovet for nedtegning av observasjoner og vurderinger i disse sakene.
 
 ## Sakens bakgrunn
 
@@ -57,7 +55,7 @@ Klager innga ytterligere merknader, og Fylkesmannen fikk anledning til å kommen
 
 Saken for ombudsmannen handler om Fylkesmannens behandling av foreldrenes klage var lovmessig og i tråd med god forvaltningsskikk.
 
-Det følger av opplæringslova § 14-1 at Fylkesmannen skal føre tilsyn med at kommunene oppfyller pliktene de er pålagt i eller i medhold av denne loven. Bestemmelsen gir reglene i kommuneloven kapittel 10 A anvendelse for tilsynsvirksomheten. Etter kommuneloven   
+Det følger av opplæringslova § 14-1 at Fylkesmannen skal føre tilsyn med at kommunene oppfyller pliktene de er pålagt i eller i medhold av denne loven. Bestemmelsen gir reglene i kommuneloven kapittel 10 A anvendelse for tilsynsvirksomheten. Etter kommuneloven  
 § 60 b er det et lovlighetstilsyn Fylkesmannen kan utøve, hvilket innebærer en kontroll med at kommunens avgjørelse er lovlig og er blitt til på korrekt måte. Det siste betyr ikke bare at avgjørelsen må være truffet av kompetent myndighet, men også at den bygger på et korrekt og fullstendig faktum og at det ikke er lagt vekt på usaklige eller utenforliggende hensyn.
 
 ### Lokal avklaring

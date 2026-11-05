@@ -14,11 +14,9 @@ Sivilombudets uttalelse 21.2.2026 (sak 2025/5225).
 
 ## Oppsummering
 
-Saken gjelder beskatning av deler av bygg på en landbrukseiendom. Eiendommen var i utgangspunktet unntatt eiendomsskatt fordi den ble drevet som gårds- eller skogbruk, se eigedomsskattelova § 5 første ledd bokstav h. Kommunen hadde likevel skjønnsmessig beskattet et areal på 20 kvadratmeter hver i tre bygninger, og begrunnet det med at arealene ble brukt til å parkere privatbiler. Det fulgte av kommunens retningslinjer at deler av enkeltbygg kunne beskattes, når enkeltdelene ikke hørte til driften.   
-   
- Sivilombudet mener at det i utgangspunktet ikke er grunnlag for å beskatte enkeltdeler av landbruksbygg på en eiendom som er unntatt eiendomsskatt etter landbruksfritaket. Lovens ordlyd, lovforarbeidene og lovens system viser at vurderingen av om eiendommen drives som gårds- eller skogbruk er ment for et større omfang enn enkeltarealene i saken. Som følge av feil lovforståelse er vedtakene om taksering og beskatning ugyldig.   
-   
- Videre mener Sivilombudet at kommunens konkrete begrunnelse ikke var god nok, da den ikke kommenterte sentrale anførsler fra klagerne om den faktiske bruken av arealene. Det var heller ikke mulig for Sivilombudet å etterprøve begrunnelsen fullt ut. Kommunen er bedt om å fatte nye vedtak og informere Sivilombudet.
+Saken gjelder beskatning av deler av bygg på en landbrukseiendom. Eiendommen var i utgangspunktet unntatt eiendomsskatt fordi den ble drevet som gårds- eller skogbruk, se eigedomsskattelova § 5 første ledd bokstav h. Kommunen hadde likevel skjønnsmessig beskattet et areal på 20 kvadratmeter hver i tre bygninger, og begrunnet det med at arealene ble brukt til å parkere privatbiler. Det fulgte av kommunens retningslinjer at deler av enkeltbygg kunne beskattes, når enkeltdelene ikke hørte til driften.  
+Sivilombudet mener at det i utgangspunktet ikke er grunnlag for å beskatte enkeltdeler av landbruksbygg på en eiendom som er unntatt eiendomsskatt etter landbruksfritaket. Lovens ordlyd, lovforarbeidene og lovens system viser at vurderingen av om eiendommen drives som gårds- eller skogbruk er ment for et større omfang enn enkeltarealene i saken. Som følge av feil lovforståelse er vedtakene om taksering og beskatning ugyldig.  
+Videre mener Sivilombudet at kommunens konkrete begrunnelse ikke var god nok, da den ikke kommenterte sentrale anførsler fra klagerne om den faktiske bruken av arealene. Det var heller ikke mulig for Sivilombudet å etterprøve begrunnelsen fullt ut. Kommunen er bedt om å fatte nye vedtak og informere Sivilombudet.
 
 Se oppdatering fra forvaltningen
 

@@ -15,13 +15,10 @@ Sivilombudets uttalelse 18.12.2024 (sak 2024/2034).
 
 ## Oppsummering
 
-Nav Arbeid og ytelser avslo 8. november 2021 en søknad om uføretrygd. Klagen over avslaget er datert 21. november 2021. Klagen ble oversendt fra Nav Arbeid og ytelser til Nav Klageinstans 8. september 2022. Det ble da opplyst at behandlingstiden var 15 uker. Svartiden ble senere forlenget. I brev 7. juli 2023 opplyste klageinstansen at årsaken til forsinkelsen var at Arbeids- og velferdsdirektoratet utredet problemstillinger som gjaldt klagers sak.   
-   
- Klagerens sak har ligget hos Nav Klageinstans siden 8. september 2022, det vil si i over to år. I denne perioden har saken vært stilt i bero i påvente av en rettslig avklaring fra direktoratet og Arbeids- og inkluderingsdepartementet om tolkningen av trygdeforordningen artikkel 57 nr. 1. Beslutning om berostillelse av disse sakene ble tatt allerede i februar 2023.  
-   
- Ombudet mener klagerens sak ikke er behandlet uten ugrunnet opphold, og at behandlingstiden derfor er i strid med folketrygdloven § 21-10 første ledd. Selv om en berostillelse av saken kan være saklig og anses som et grunnet opphold, stilles det krav til bedre fremdrift i arbeidet med å sikre en rettslig avklaring for at en berostillelse i så lang tid som i klagerens sak skal kunne aksepteres. Særlig når det er flere saker som gjelder ytelser til livsopphold som er satt på vent.   
-   
- Nav er bedt om å gjenoppta behandlingen av klagesaken selv om avklaringen fra Arbeids- og inkluderingsdepartementet ikke foreligger enda. Ombudet forutsetter at saken nå vil avgjøres innen rimelig tid.
+Nav Arbeid og ytelser avslo 8. november 2021 en søknad om uføretrygd. Klagen over avslaget er datert 21. november 2021. Klagen ble oversendt fra Nav Arbeid og ytelser til Nav Klageinstans 8. september 2022. Det ble da opplyst at behandlingstiden var 15 uker. Svartiden ble senere forlenget. I brev 7. juli 2023 opplyste klageinstansen at årsaken til forsinkelsen var at Arbeids- og velferdsdirektoratet utredet problemstillinger som gjaldt klagers sak.  
+Klagerens sak har ligget hos Nav Klageinstans siden 8. september 2022, det vil si i over to år. I denne perioden har saken vært stilt i bero i påvente av en rettslig avklaring fra direktoratet og Arbeids- og inkluderingsdepartementet om tolkningen av trygdeforordningen artikkel 57 nr. 1. Beslutning om berostillelse av disse sakene ble tatt allerede i februar 2023.  
+Ombudet mener klagerens sak ikke er behandlet uten ugrunnet opphold, og at behandlingstiden derfor er i strid med folketrygdloven § 21-10 første ledd. Selv om en berostillelse av saken kan være saklig og anses som et grunnet opphold, stilles det krav til bedre fremdrift i arbeidet med å sikre en rettslig avklaring for at en berostillelse i så lang tid som i klagerens sak skal kunne aksepteres. Særlig når det er flere saker som gjelder ytelser til livsopphold som er satt på vent.  
+Nav er bedt om å gjenoppta behandlingen av klagesaken selv om avklaringen fra Arbeids- og inkluderingsdepartementet ikke foreligger enda. Ombudet forutsetter at saken nå vil avgjøres innen rimelig tid.
 
 Se oppdatering fra forvaltningen
 
@@ -64,7 +61,7 @@ Om forvaltningsloven § 11 a første ledd har ombudet i tidligere uttalelser –
 «Bestemmelsen stiller krav til både saksbehandlingstiden og hva som er akseptable årsaker til opphold i saksbehandlingen. Vilkåret ‘uten ugrunnet opphold’ er skjønnsmessig og det nærmere innholdet vil kunne variere etter blant annet saksområde og sakstype.»
 
 At behandlingen av en sak strekker ut er ikke i seg selv i strid med forvaltningsloven §  
- 11 a første ledd, så lenge det er tilstrekkelig saklige grunner for dette. Hvor tungtveiende grunner som kreves for at en fortsatt forsinkelse skal kunne aksepteres, vil bero på en helhetsvurdering, der blant annet sakens art, hensynet til parten og den tid som allerede har gått, må tas i betraktning. Se blant annet ombudets uttalelse i SOM-2020-766. I den konkrete vurderingen av om en sak er behandlet uten ugrunnet opphold vil det også være relevant å se hen til hva som er årsaken til eventuelle opphold i saksbehandlingen, hvilken ytelse det dreier seg om og den velferdsmessige betydningen ytelsen har for den enkelte.
+11 a første ledd, så lenge det er tilstrekkelig saklige grunner for dette. Hvor tungtveiende grunner som kreves for at en fortsatt forsinkelse skal kunne aksepteres, vil bero på en helhetsvurdering, der blant annet sakens art, hensynet til parten og den tid som allerede har gått, må tas i betraktning. Se blant annet ombudets uttalelse i SOM-2020-766. I den konkrete vurderingen av om en sak er behandlet uten ugrunnet opphold vil det også være relevant å se hen til hva som er årsaken til eventuelle opphold i saksbehandlingen, hvilken ytelse det dreier seg om og den velferdsmessige betydningen ytelsen har for den enkelte.
 
 I utgangspunktet vil kravet til at en sak skal behandles uten ugrunnet opphold tilsi at forvaltningen ikke kan stille enkelte saker eller en gruppe saker i bero med mindre det foreligger lovhjemmel for det, jf. NOU 2019:5 punkt 13.7.3. Det kan likevel aksepteres at behandlingen av saker utsettes en stund for å se liknende saker i sammenheng eller for å avvente en prinsipiell avklaring i domstolene, jf. HR-2014-1296-A premiss 96.
 
@@ -127,7 +124,7 @@ Det er også positivt at tidsmomentet er nevnt blant momentene som skal inngå i
 ## Konklusjon
 
 Sivilombudet er kommet til at klagesaken om uføretrygd ikke er behandlet «uten ugrunnet opphold» og at behandlingstiden derfor er i strid med folketrygdloven  
- § 21-10 første ledd. Den manglende informasjonen om status og forventet behandlingstid i saken er i strid med krav til god forvaltningsskikk.
+§ 21-10 første ledd. Den manglende informasjonen om status og forventet behandlingstid i saken er i strid med krav til god forvaltningsskikk.
 
 Ombudet legger til grunn at klagers sak nå tas opp til behandling og avgjøres innen rimelig tid. Direktoratet bes også vurdere om det er andre berostilte saker der tidsbruken ligger slik an at folketrygdloven § 21-10 første ledd krever at sakene må behandles.
 

@@ -16,8 +16,7 @@ Sivilombudets uttalelse 21.10.2019 (sak 2019/1415).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i Bodø kommunes IT-driftsmeldinger, inkludert rapporter, notater og lignende. Fylkesmannen i Nordland ga delvis innsyn i dokumentene, men unntok enkelte opplysninger med henvisning til at de var underlagt lovbestemt taushetsplikt. Det delvise avslaget ble påklaget. I klagevedtaket avslo Kommunal- og moderniseringsdepartementet kravet som sådan i medhold av offentleglova § 14 første ledd om organinterne dokumenter.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om hvorvidt saken var tilstrekkelig opplyst ved klagebehandlingen. For å kunne ta stilling til innsynskravet må departementet som klageinstans gjennomgå og vurdere dokumentene kravet gjelder. Departementet kan ikke bygge vurderingen på andre organers redegjørelse. Videre er ombudsmannen kommet til at flere av dokumentene ikke omfattes av offentleglova § 14 første ledd om organinterne dokumenter. Ombudsmannen ber departementet vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil om hvorvidt saken var tilstrekkelig opplyst ved klagebehandlingen. For å kunne ta stilling til innsynskravet må departementet som klageinstans gjennomgå og vurdere dokumentene kravet gjelder. Departementet kan ikke bygge vurderingen på andre organers redegjørelse. Videre er ombudsmannen kommet til at flere av dokumentene ikke omfattes av offentleglova § 14 første ledd om organinterne dokumenter. Ombudsmannen ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

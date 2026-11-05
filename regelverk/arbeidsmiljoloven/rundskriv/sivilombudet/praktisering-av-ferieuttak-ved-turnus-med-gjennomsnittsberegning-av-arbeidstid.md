@@ -15,19 +15,13 @@ Sivilombudets uttalelse 1.2.2024 (sak 2023/2303).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt Sør-Vest politidistrikts praksis for avvikling av ferie for ansatte som jobber turnus og har avtale om gjennomsnittsberegning av arbeidstid etter bestemmelsen i arbeidsmiljøloven § 10-5.   
-   
- Undersøkelsen er basert på en klage til ombudet der politidistriktets verneombud anførte at praksisen fører til at ansatte i distriktet kan gå ut av ferie med «minustid». Å føre ferie som timer, ikke hele dager, ble anført å være i strid med bestemmelsen i ferieloven om at ferie gis som «virkedager».  
-   
- Etter ombudets vurdering er det ikke i strid med ferieloven at politidistriktet endrer arbeidsplaner når ferie innvilges før arbeidsplanen er iverksatt.   
-   
- Feriefritid skal ikke inngå i det antall arbeidstimer som danner grunnlag for gjennomsnittsberegning av arbeidstid innenfor en arbeidsperiode. Ferien må derfor føres på en slik måte at den fremstår som «nøytral», for å sikre at gjennomsnittlig arbeidstid blir i samsvar med avtalen. At feriedager føres som «normalarbeidstid» i arbeidsplan- og tidsregistreringssystemet innebærer at den ansatte verken får pluss- eller minustimer i løpet av perioden den ansatte tar ferie. Dette fører til at ansatte i samme stillingsprosent har like mange arbeidstimer i løpet av en arbeidsperiode.   
-   
- Sivilombudet anbefaler at politidistriktet, av hensyn til både ledere og ansatte, får fram og formidler gode beskrivelser av fremgangsmåten ved fastlegging av arbeidsplanene, virkningen av at feriedager settes som «normalarbeidsdag» og konsekvensen for den enkelte av feriedager og gjennomsnittlig arbeidstid.  
-   
- Ombudet anbefaler videre at politidistriktet legger vekt på å utarbeide arbeidsplaner med så jevn belastning som mulig, spesielt i perioder der det er påregnelig at det tas ut en del ferie, i tråd med bestemmelsen i ATB-avtalen § 3-1 (9). Om mulig bør distriktet dessuten ha arbeidsplaner som varer såpass lenge at det ikke oppleves som en ekstrabelastning for den ansatte å ta ut ferie, jf. plikten etter ATB-avtalen § 3-1 (3) og (9) til å sikre at de ansatte har jevnest mulig belastning ved oppsett av arbeidsplaner.   
-   
- For å sikre forutsigbarhet, både for ansatte og arbeidsgiver, er det viktig at ferie, og eventuelle andre endringer arbeidsplanen som følger av ferieavviklingen, planlegges inn i arbeidsplanene i god tid før ferien skal avvikles, slik også ATB-avtalen forutsetter.
+Sivilombudet har av eget tiltak undersøkt Sør-Vest politidistrikts praksis for avvikling av ferie for ansatte som jobber turnus og har avtale om gjennomsnittsberegning av arbeidstid etter bestemmelsen i arbeidsmiljøloven § 10-5.  
+Undersøkelsen er basert på en klage til ombudet der politidistriktets verneombud anførte at praksisen fører til at ansatte i distriktet kan gå ut av ferie med «minustid». Å føre ferie som timer, ikke hele dager, ble anført å være i strid med bestemmelsen i ferieloven om at ferie gis som «virkedager».  
+Etter ombudets vurdering er det ikke i strid med ferieloven at politidistriktet endrer arbeidsplaner når ferie innvilges før arbeidsplanen er iverksatt.  
+Feriefritid skal ikke inngå i det antall arbeidstimer som danner grunnlag for gjennomsnittsberegning av arbeidstid innenfor en arbeidsperiode. Ferien må derfor føres på en slik måte at den fremstår som «nøytral», for å sikre at gjennomsnittlig arbeidstid blir i samsvar med avtalen. At feriedager føres som «normalarbeidstid» i arbeidsplan- og tidsregistreringssystemet innebærer at den ansatte verken får pluss- eller minustimer i løpet av perioden den ansatte tar ferie. Dette fører til at ansatte i samme stillingsprosent har like mange arbeidstimer i løpet av en arbeidsperiode.  
+Sivilombudet anbefaler at politidistriktet, av hensyn til både ledere og ansatte, får fram og formidler gode beskrivelser av fremgangsmåten ved fastlegging av arbeidsplanene, virkningen av at feriedager settes som «normalarbeidsdag» og konsekvensen for den enkelte av feriedager og gjennomsnittlig arbeidstid.  
+Ombudet anbefaler videre at politidistriktet legger vekt på å utarbeide arbeidsplaner med så jevn belastning som mulig, spesielt i perioder der det er påregnelig at det tas ut en del ferie, i tråd med bestemmelsen i ATB-avtalen § 3-1 (9). Om mulig bør distriktet dessuten ha arbeidsplaner som varer såpass lenge at det ikke oppleves som en ekstrabelastning for den ansatte å ta ut ferie, jf. plikten etter ATB-avtalen § 3-1 (3) og (9) til å sikre at de ansatte har jevnest mulig belastning ved oppsett av arbeidsplaner.  
+For å sikre forutsigbarhet, både for ansatte og arbeidsgiver, er det viktig at ferie, og eventuelle andre endringer arbeidsplanen som følger av ferieavviklingen, planlegges inn i arbeidsplanene i god tid før ferien skal avvikles, slik også ATB-avtalen forutsetter.
 
 ## Sakens bakgrunn
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 28.8.2019 (sak 2018/4143).
 ## Oppsummering
 
 Saken gjelder den norske ambassaden i Addis Abebas behandlingstid, informasjon til partene og oppfølgning av ombudsmannens undersøkelse i en sak om søknad om statsborgerskap. På tidspunktet for ambassadens siste redegjørelse hit hadde søknaden vært til behandling hos ambassaden i over 20 måneder. I forbindelse med ombudsmannens undersøkelse av saken har ambassaden gjentatte ganger oversittet fastsatte frister og unnlatt å gi opplysninger og fremlegge etterspurt dokumentasjon.  
-   
- Ambassaden har ikke etterlevd kravene til forsvarlig fremdrift og orienteringer til parten etter forvaltningsloven § 11 a og god forvaltningsskikk. Ambassaden har heller ikke oversendt sakens dokumenter eller svart på ombudsmannens spørsmål innen ombudsmannens frister, i strid med sivilombudsmannsloven § 7 første ledd første og tredje setning og sivilombudsmannsinstruksen § 6 andre ledd andre setning.   
-   
- Ambassaden har – i tråd med god forvaltningsskikk – beklaget sin håndtering av saken. Ombudsmannen tar beklagelsen til etterretning.   
-   
- Ombudsmannen forutsetter at ambassaden nå ferdigbehandler søknaden uten ugrunnet opphold, og at søkernes fullmektig holdes orientert om den videre saksfremdriften. Videre forutsetter ombudsmannen at ambassaden gjennomgår sine rutiner for hvordan den følger opp henvendelser fra ombudsmannen, og om tiltak er nødvendig for å sikre postgangen til og fra ambassaden.
+Ambassaden har ikke etterlevd kravene til forsvarlig fremdrift og orienteringer til parten etter forvaltningsloven § 11 a og god forvaltningsskikk. Ambassaden har heller ikke oversendt sakens dokumenter eller svart på ombudsmannens spørsmål innen ombudsmannens frister, i strid med sivilombudsmannsloven § 7 første ledd første og tredje setning og sivilombudsmannsinstruksen § 6 andre ledd andre setning.  
+Ambassaden har – i tråd med god forvaltningsskikk – beklaget sin håndtering av saken. Ombudsmannen tar beklagelsen til etterretning.  
+Ombudsmannen forutsetter at ambassaden nå ferdigbehandler søknaden uten ugrunnet opphold, og at søkernes fullmektig holdes orientert om den videre saksfremdriften. Videre forutsetter ombudsmannen at ambassaden gjennomgår sine rutiner for hvordan den følger opp henvendelser fra ombudsmannen, og om tiltak er nødvendig for å sikre postgangen til og fra ambassaden.
 
 ## Sakens bakgrunn
 
@@ -87,7 +84,7 @@ Advokatfirmaet er holdt orientert om vår kontakt med ambassaden, og de er bedt 
 ### 1. Behandlingen av søknaden om statsborgerskap
 
 1.1 Saksbehandlingstiden  
- Etter forvaltningsloven § 11 a første ledd skal forvaltningsorganet «forberede og avgjøre saken uten ugrunnet opphold». Vilkåret «uten ugrunnet opphold» er skjønnsmessig. Hva som i det enkelte tilfellet vil være en akseptabel saksbehandlingstid, vil variere med sakens art og omfang. Også tilgjengelige ressurser har betydning i vurderingen av om en sak er avgjort uten ugrunnet opphold. Øvrige saksbehandlingsregler – blant annet det alminnelige kravet om forsvarlig saksutredning – vil kunne begrunne en lengre saksbehandlingstid i kompliserte og prinsipielle saker enn i enklere saker, jf. Ot.prp. nr. 75 (1993–1994) side 59.
+Etter forvaltningsloven § 11 a første ledd skal forvaltningsorganet «forberede og avgjøre saken uten ugrunnet opphold». Vilkåret «uten ugrunnet opphold» er skjønnsmessig. Hva som i det enkelte tilfellet vil være en akseptabel saksbehandlingstid, vil variere med sakens art og omfang. Også tilgjengelige ressurser har betydning i vurderingen av om en sak er avgjort uten ugrunnet opphold. Øvrige saksbehandlingsregler – blant annet det alminnelige kravet om forsvarlig saksutredning – vil kunne begrunne en lengre saksbehandlingstid i kompliserte og prinsipielle saker enn i enklere saker, jf. Ot.prp. nr. 75 (1993–1994) side 59.
 
 Ambassaden har ikke gitt noen nærmere redegjørelse for tidsbruken i de enkelte ledd i saken. Ut fra de opplysninger ambassaden og klagerne har fremlagt, synes det imidlertid ikke å ha vært vesentlig fremdrift i saken fra søknaden om statsborgerskap ble levert i oktober 2017 og frem til våren 2019. Ambassaden har forklart den lange behandlingstiden med ferieavvikling, skifte i stilling og avvikling av svangerskapspermisjon.
 
@@ -96,7 +93,7 @@ I korrespondansen med ombudsmannen har ambassaden erkjent at saken ikke har blit
 Slik saken er opplyst, finner ombudsmannen derfor å måtte legge til grunn at ambassaden ikke har behandlet søknaden om statsborgerskap «uten ugrunnet opphold». Dette er i strid med forvaltningsloven § 11 a første ledd.
 
 1.2 Foreløpig svar og informasjon under sakens gang  
- Etter forvaltningsloven § 11 a andre ledd skal forvaltningsorganet gi et foreløpig svar dersom det må ventes at det vil ta uforholdsmessig lang tid før en henvendelse kan besvares. Det foreløpige svaret skal redegjøre for grunnen til at henvendelsen ikke kan behandles tidligere og – såvidt mulig – angi når svar kan ventes. Det er god forvaltningsskikk at det foreløpige svaret følges med nye orienteringer, dersom den varslede saksbehandlingstiden overskrides.
+Etter forvaltningsloven § 11 a andre ledd skal forvaltningsorganet gi et foreløpig svar dersom det må ventes at det vil ta uforholdsmessig lang tid før en henvendelse kan besvares. Det foreløpige svaret skal redegjøre for grunnen til at henvendelsen ikke kan behandles tidligere og – såvidt mulig – angi når svar kan ventes. Det er god forvaltningsskikk at det foreløpige svaret følges med nye orienteringer, dersom den varslede saksbehandlingstiden overskrides.
 
 Ett av de opplistede saksdokumentene i ambassadens brev 15. april 2019 er «[k]ontakt med advokat hvor vi ber om noe tid til å gi svar». Det fremgår ikke noen dato for når kontakten fant sted, og dokumentets dato er ikke oppgitt. Ambassaden oppgir også to dokumenter som gjelder «[k]ontakt per telefon med advokat», hvor det ene dokumentet angir kontakten til april 2019.
 

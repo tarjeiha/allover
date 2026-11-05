@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.10.2023 (sak 2022/6138).
 ## Oppsummering
 
 Saken gjelder overtredelsesgebyr for riving av SEFRAK-registrerte bygninger uten søknad. En låve- og driftsbygning på klagerens tomt fikk betydelige skader som følge av store snømengder. Klageren rev bygningen og fjernet materialene for å unngå at barn skulle ta seg inn på tomten og risikere å skade seg i den sammenraste bygningen. Låvebygningen var sammenbygd med våningshuset, og deler av huset ble skadet. Denne delen ble derfor revet samtidig med låve- og driftsbygningen. Klageren kontaktet ikke kommunen før han rev bygningene. Noen måneder senere brant resten av våningshuset og ble totalskadet. Kommunen ila klageren et overtredelsesgebyr på kr 70 000 for riving av SEFRAK-registrerte bygninger uten å søke om tillatelse, jf. plan og bygningsloven § 20-2, og kr 3 000 for å rive bygninger uten å bruke ansvarlig foretak, jf. plan- og bygningsloven § 20-3.  
-   
- Sivilombudet er kommet til at det er begrunnet tvil om rivingen av de skadede bygningene medførte «fare» for «alvorlig uopprettelig skade», jf. byggesaksforskriften § 16-1 første ledd bokstav a nr. 3. Videre er det tvil om Statsforvalteren har gjort en tilstrekkelig vurdering av relevante momenter ved utmålingen av gebyrets størrelse.  
-   
- Statsforvalteren er bedt om å vurdere saken på nytt.
+Sivilombudet er kommet til at det er begrunnet tvil om rivingen av de skadede bygningene medførte «fare» for «alvorlig uopprettelig skade», jf. byggesaksforskriften § 16-1 første ledd bokstav a nr. 3. Videre er det tvil om Statsforvalteren har gjort en tilstrekkelig vurdering av relevante momenter ved utmålingen av gebyrets størrelse.  
+Statsforvalteren er bedt om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

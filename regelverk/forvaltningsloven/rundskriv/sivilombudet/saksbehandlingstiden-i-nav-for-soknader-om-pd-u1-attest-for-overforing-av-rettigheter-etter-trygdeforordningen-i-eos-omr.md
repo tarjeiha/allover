@@ -14,15 +14,11 @@ Sivilombudets uttalelse 3.4.2025 (sak 2025/717).
 
 ## Oppsummering
 
-Saken gjelder saksbehandlingstiden i Nav for søknader om PD U1-attest. Dette er en attest som dokumenterer trygdetid, arbeid og inntekt i et gitt land innenfor EØS-området og Sveits. Sveits er ikke et EØS-land, men er medlem av EFTA. De har knyttet seg til den EU-/EØS-rettslige trygdeforordningen gjennom en særskilt avtale med EU og EFTA-landene, inkludert Norge. En PD U1-attest brukes for overføring av trygderettigheter mellom medlemslandene.   
-   
- Klager hadde flyttet fra Norge til Sveits. Hun søkte sveitsiske trygdemyndigheter om dagpenger og ba derfor Nav om en PD U1-attest. Nav opplyste at saksbehandlingstiden var 22 uker.  
-   
- Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet som var enig i at behandlingstiden var for lang. I et møte i 2024 var medlemslandene blitt enige om en anbefalt behandlingstid på ti uker. Nav hadde igangsatt flere tiltak for å redusere behandlingstiden.   
-   
- Sivilombudet mente at saksbehandlingstiden var i strid med Navs forpliktelse til rask og effektiv utveksling av opplysninger mellom medlemslandene, jf. gjennomføringsforordningen til trygdeforordningen. Dagpenger er en ytelse til livsopphold. Søkerne kan derfor ende i en svært vanskelig økonomisk situasjon med så lang behandlingstid.   
-   
- Sivilombudet tok Arbeids- og velferdsdirektoratets redegjørelse for tiltak for å redusere behandlingstiden til etterretning, og ba om å bli orientert om utviklingen i saksbehandlingstiden innen seks måneder.
+Saken gjelder saksbehandlingstiden i Nav for søknader om PD U1-attest. Dette er en attest som dokumenterer trygdetid, arbeid og inntekt i et gitt land innenfor EØS-området og Sveits. Sveits er ikke et EØS-land, men er medlem av EFTA. De har knyttet seg til den EU-/EØS-rettslige trygdeforordningen gjennom en særskilt avtale med EU og EFTA-landene, inkludert Norge. En PD U1-attest brukes for overføring av trygderettigheter mellom medlemslandene.  
+Klager hadde flyttet fra Norge til Sveits. Hun søkte sveitsiske trygdemyndigheter om dagpenger og ba derfor Nav om en PD U1-attest. Nav opplyste at saksbehandlingstiden var 22 uker.  
+Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet som var enig i at behandlingstiden var for lang. I et møte i 2024 var medlemslandene blitt enige om en anbefalt behandlingstid på ti uker. Nav hadde igangsatt flere tiltak for å redusere behandlingstiden.  
+Sivilombudet mente at saksbehandlingstiden var i strid med Navs forpliktelse til rask og effektiv utveksling av opplysninger mellom medlemslandene, jf. gjennomføringsforordningen til trygdeforordningen. Dagpenger er en ytelse til livsopphold. Søkerne kan derfor ende i en svært vanskelig økonomisk situasjon med så lang behandlingstid.  
+Sivilombudet tok Arbeids- og velferdsdirektoratets redegjørelse for tiltak for å redusere behandlingstiden til etterretning, og ba om å bli orientert om utviklingen i saksbehandlingstiden innen seks måneder.
 
 Se oppdatering fra forvaltningen
 

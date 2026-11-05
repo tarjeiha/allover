@@ -15,13 +15,10 @@ Sivilombudets uttalelse 7.6.2022 (sak 2022/1232).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt politidistriktenes ventetider for å få intervju hos politiet i saker om familieinnvandring. Bakgrunnen var at Utlendingsdirektoratets (UDIs) behandlingstider for mange søknader om familieinnvandring har vært svært lange over tid, og at direktoratet har pekt på lange ventetider for å få intervjuet de involverte hos politiet som en av årsakene til dette.   
-   
- Etter ombudets syn er ventetiden for å få time til intervju alt for lang hos de fleste politidistriktene. Nesten halvparten av politidistriktene har ventetider på 8 måneder eller mer. De lengste ventetidene finnes i Oslo politidistrikt med 19 måneder, og i distriktene Øst og Vest med 16-17 måneder.  
-   
- Ventetidene hos politiet fører til at behandlingstidene i et stort antall familieinnvandringssaker hos UDI blir alt for lange, og ikke oppfyller de lovbestemte kravene til behandlingstid i forvaltningsloven § 11 a. I saker der søkerne er adskilt i påvente av behandlingen av familieinnvandringssaken vil lange behandlingstider også innebære en risiko for brudd på retten til familieliv etter Den Europeiske Menneskerettighetskonvensjonen artikkel 8.  
-   
- Sivilombudet vil følge med på utviklingen i ventetiden for intervju. Politidirektoratet bes om å i januar 2023 oversende en oppdatert oversikt over behandlingstidene og en redegjørelse for hva som er gjort for å forbedre dem. Sivilombudet ber også Justis- og beredskapsdepartementet om å orientere om hva de vil foreta seg for å forbedre situasjonen.
+Sivilombudet har av eget tiltak undersøkt politidistriktenes ventetider for å få intervju hos politiet i saker om familieinnvandring. Bakgrunnen var at Utlendingsdirektoratets (UDIs) behandlingstider for mange søknader om familieinnvandring har vært svært lange over tid, og at direktoratet har pekt på lange ventetider for å få intervjuet de involverte hos politiet som en av årsakene til dette.  
+Etter ombudets syn er ventetiden for å få time til intervju alt for lang hos de fleste politidistriktene. Nesten halvparten av politidistriktene har ventetider på 8 måneder eller mer. De lengste ventetidene finnes i Oslo politidistrikt med 19 måneder, og i distriktene Øst og Vest med 16-17 måneder.  
+Ventetidene hos politiet fører til at behandlingstidene i et stort antall familieinnvandringssaker hos UDI blir alt for lange, og ikke oppfyller de lovbestemte kravene til behandlingstid i forvaltningsloven § 11 a. I saker der søkerne er adskilt i påvente av behandlingen av familieinnvandringssaken vil lange behandlingstider også innebære en risiko for brudd på retten til familieliv etter Den Europeiske Menneskerettighetskonvensjonen artikkel 8.  
+Sivilombudet vil følge med på utviklingen i ventetiden for intervju. Politidirektoratet bes om å i januar 2023 oversende en oppdatert oversikt over behandlingstidene og en redegjørelse for hva som er gjort for å forbedre dem. Sivilombudet ber også Justis- og beredskapsdepartementet om å orientere om hva de vil foreta seg for å forbedre situasjonen.
 
 ## Sakens bakgrunn
 

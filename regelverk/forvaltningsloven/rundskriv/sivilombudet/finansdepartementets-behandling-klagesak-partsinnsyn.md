@@ -14,11 +14,9 @@ Sivilombudets uttalelse 13.3.2017 (sak 2016/1178).
 
 ## Oppsummering
 
-Saken gjelder Finansdepartementets behandling av klage på Finanstilsynets avslag på partsinnsyn i sak om forbud mot å drive eiendomsmegling.   
-   
- Ombudsmannen kom til at departementet ikke kunne utsette avgjørelsen av innsynssaken for å behandle den samtidig med klagen i den underliggende saken. Det var derfor på sin plass at departementet omgjorde utsettelsen og behandlet saken.   
-   
- Departementets behandlingstid på over 7 måneder for klage over avslag på partsinnsyn var uakseptabelt lang. Ombudsmannen ber departementet om å sikre at fremtidige klagesaker om partsinnsyn behandles med tilstrekkelig hurtighet.
+Saken gjelder Finansdepartementets behandling av klage på Finanstilsynets avslag på partsinnsyn i sak om forbud mot å drive eiendomsmegling.  
+Ombudsmannen kom til at departementet ikke kunne utsette avgjørelsen av innsynssaken for å behandle den samtidig med klagen i den underliggende saken. Det var derfor på sin plass at departementet omgjorde utsettelsen og behandlet saken.  
+Departementets behandlingstid på over 7 måneder for klage over avslag på partsinnsyn var uakseptabelt lang. Ombudsmannen ber departementet om å sikre at fremtidige klagesaker om partsinnsyn behandles med tilstrekkelig hurtighet.
 
 **Sakens bakgrunn**
 

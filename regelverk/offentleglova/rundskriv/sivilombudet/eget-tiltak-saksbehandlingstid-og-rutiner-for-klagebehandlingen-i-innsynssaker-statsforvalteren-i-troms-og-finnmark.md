@@ -15,10 +15,8 @@ Sivilombudets uttalelse 19.10.2021 (sak 2021/2848).
 ## Oppsummering
 
 Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt Statsforvalteren i Troms og Finnmarks saksbehandlingstid ved behandling av innsynsklager og rutiner for innhenting av relevante dokumenter fra underinstansen ved behandling av slike klager. Undersøkelsen viste at Statsforvalteren hadde tilfredsstillende rutiner for innhenting av saksdokumenter fra underinstansen, men at saksbehandlingstiden i de fleste tilfellene er for lang.  
-   
- Etter ombudets syn er saksbehandlingstiden hos Statsforvalteren ikke i tråd med kravet til at klager skal avgjøres «utan ugrunna opphald», jf. offentleglova § 32 tredje ledd. Statsforvalteren bes på denne bakgrunn om å vurdere iverksettelse av tiltak for å få ned saksbehandlingstiden.  
-   
- Ombudet ber om tilbakemelding på utvikling i saken, herunder oppdaterte tall for gjennomsnittlig saksbehandlingstid av innsynsklager innen 15. januar 2022.
+Etter ombudets syn er saksbehandlingstiden hos Statsforvalteren ikke i tråd med kravet til at klager skal avgjøres «utan ugrunna opphald», jf. offentleglova § 32 tredje ledd. Statsforvalteren bes på denne bakgrunn om å vurdere iverksettelse av tiltak for å få ned saksbehandlingstiden.  
+Ombudet ber om tilbakemelding på utvikling i saken, herunder oppdaterte tall for gjennomsnittlig saksbehandlingstid av innsynsklager innen 15. januar 2022.
 
 Se oppdatering fra forvaltningen
 

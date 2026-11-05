@@ -15,10 +15,8 @@ Sivilombudets uttalelse 30.6.2021 (sak 2021/1117).
 ## Oppsummering
 
 Saken gjelder krav om dekning av sakskostnader i forbindelse med omgjøring av vedtak i byggesak som bygget på feil versjon av reguleringsplan, samt krav om sakskostnader i forbindelse med klage på avslag på sakskostnader i samme saken. Kommunal- og moderniseringsdepartementet avslo deler av klagerens krav under henvisning til at arbeidet med å få endret de to vedtakene ikke var «nødvendige».  
-   
- Sivilombudsmannen er kommet til at det var rimelig og naturlig at klageren pådro seg utgifter både til å undersøke revisjonshistorikken til den aktuelle reguleringsplanen og til å inngi tilleggsmerknader til Statsforvalterens oversendelsesbrev til departementet. Disse utgiftene var «nødvendige» for å få begge vedtakene endret. Hvilke utgifter som knytter seg til dette arbeidet har ikke ombudsmannen vurdert.  
-   
- Sivilombudsmannen ber departementet om å vurdere sakskostnadskravet på nytt.
+Sivilombudsmannen er kommet til at det var rimelig og naturlig at klageren pådro seg utgifter både til å undersøke revisjonshistorikken til den aktuelle reguleringsplanen og til å inngi tilleggsmerknader til Statsforvalterens oversendelsesbrev til departementet. Disse utgiftene var «nødvendige» for å få begge vedtakene endret. Hvilke utgifter som knytter seg til dette arbeidet har ikke ombudsmannen vurdert.  
+Sivilombudsmannen ber departementet om å vurdere sakskostnadskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

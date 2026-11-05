@@ -16,10 +16,8 @@ Sivilombudets uttalelse 22.1.2019 (sak 2018/805).
 ## Oppsummering
 
 Saken gjelder et Nav-kontors ansettelse av en avdelingsleder uten at stillingen var utlyst. Da ombudsmannen undersøkte saken, opplyste Nav først at stillingen var blitt offentlig kunngjort før ansettelsen. Etter hvert kom det frem at ansettelsen bygget på innstillingen for en annen stilling. Den ansettelsesprosessen var avsluttet fem måneder før stillingen som denne saken gjelder, ble ledig.  
-   
- Etter å ha blitt gjort kjent med saken av ombudsmannen, uttalte Arbeids- og velferdsdirektoratet at Nav-kontorets fremgangsmåte ikke var lovlig, og at stillingen skulle vært lyst ut, jf. statsansatteloven § 4. I tillegg har direktoratet opplyst at saken er fulgt opp overfor det aktuelle Nav-kontoret. Direktoratets redegjørelse gjør at ombudsmannen avslutter undersøkelsen av utlysningsspørsmålet.  
-   
- Nav-kontorets besvarelser av ombudsmannens henvendelser fulgte ikke god forvaltningsskikk.
+Etter å ha blitt gjort kjent med saken av ombudsmannen, uttalte Arbeids- og velferdsdirektoratet at Nav-kontorets fremgangsmåte ikke var lovlig, og at stillingen skulle vært lyst ut, jf. statsansatteloven § 4. I tillegg har direktoratet opplyst at saken er fulgt opp overfor det aktuelle Nav-kontoret. Direktoratets redegjørelse gjør at ombudsmannen avslutter undersøkelsen av utlysningsspørsmålet.  
+Nav-kontorets besvarelser av ombudsmannens henvendelser fulgte ikke god forvaltningsskikk.
 
 ## Sakens bakgrunn
 

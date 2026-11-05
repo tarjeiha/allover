@@ -16,12 +16,9 @@ Sivilombudets uttalelse 21.5.2025 (sak 2024/6572).
 ## Oppsummering
 
 Saken gjelder Statsforvalteren i Østfold, Buskerud, Oslo og Akershus’ saksbehandlingstid ved behandling av en søknad om samtykke etter vergemålsloven § 11, og den generelle saksbehandlingstiden for slike søknader.  
-   
- På Statsforvalterens nettsider står det at saksbehandlingstiden for denne sakstypen er 14 måneder. Statsforvalteren oppga den samme behandlingstiden i sitt foreløpige svar på klagerens søknad. Brevet ble først sendt om lag tre måneder etter at søknaden ble mottatt.   
-   
- Sivilombudet har forståelse for at Statsforvalteren innenfor den tildelte ressursrammen må prioritere, men forutsetter at søknaden behandles så snart som mulig og «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Statsforvalteren har ikke holdt klageren tilstrekkelig orientert om status i saken, og ombudet forutsetter at klageren blir orientert underveis i saksbehandlingen dersom den videre behandlingen av saken vil ta uforholdsmessig lang tid, jf. forvaltningsloven § 11 a andre ledd.  
-   
- Sivilombudet er positiv til at Statsforvalteren allerede har iverksatt tiltak som har redusert behandlingstiden, og forutsetter at Statsforvalteren fortsetter å arbeide aktivt med å redusere restansene og sikrer fremdrift også på dette saksfeltet.
+På Statsforvalterens nettsider står det at saksbehandlingstiden for denne sakstypen er 14 måneder. Statsforvalteren oppga den samme behandlingstiden i sitt foreløpige svar på klagerens søknad. Brevet ble først sendt om lag tre måneder etter at søknaden ble mottatt.  
+Sivilombudet har forståelse for at Statsforvalteren innenfor den tildelte ressursrammen må prioritere, men forutsetter at søknaden behandles så snart som mulig og «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Statsforvalteren har ikke holdt klageren tilstrekkelig orientert om status i saken, og ombudet forutsetter at klageren blir orientert underveis i saksbehandlingen dersom den videre behandlingen av saken vil ta uforholdsmessig lang tid, jf. forvaltningsloven § 11 a andre ledd.  
+Sivilombudet er positiv til at Statsforvalteren allerede har iverksatt tiltak som har redusert behandlingstiden, og forutsetter at Statsforvalteren fortsetter å arbeide aktivt med å redusere restansene og sikrer fremdrift også på dette saksfeltet.
 
 ## Sakens bakgrunn
 
@@ -30,7 +27,7 @@ Saken gjelder Statsforvalteren i Østfold, Buskerud, Oslo og Akershus’ (herett
 A søkte 20. oktober 2024 om samtykke fra Statsforvalteren til etablering av enkeltpersonsforetak for mindreårig.
 
 A mottok ikke svar, og purret på Statsforvalterens behandling av søknaden  
- 11. november 2024. Da heller ikke purringen ble besvart, tok B på vegne av A telefonisk kontakt med Statsforvalteren 28. november 2024. Statsforvalteren opplyste i telefonsamtalen at forventet saksbehandlingstid var ti måneder. Begrunnelsen var ressursprioriteringer.
+11. november 2024. Da heller ikke purringen ble besvart, tok B på vegne av A telefonisk kontakt med Statsforvalteren 28. november 2024. Statsforvalteren opplyste i telefonsamtalen at forventet saksbehandlingstid var ti måneder. Begrunnelsen var ressursprioriteringer.
 
 Statsforvalteren i Østfold, Buskerud, Oslo og Akershus’ behandlingstid for søknaden om samtykke, ble brakt inn for ombudet 3. desember 2024 av B på vegne av A.
 
@@ -69,7 +66,7 @@ Det følger av vergemålsloven § 11 at «vergen kan med samtykke fra statsforva
 Forarbeidene forutsetter at virksomheten skal drives som et enkeltpersonforetak, jf. Ot.prp. nr. 110 (2008–2009) s. 27. Når Statsforvalteren og vergen tar stilling til om det skal gis tillatelse, må det foretas en vurdering av den konkrete risikoen denne virksomheten representerer, samt den mindreåriges egne forutsetninger for å drive virksomheten, se Ot.prp. nr. 110 (2008–2009) på side 173. Momenter i en slik vurdering vil være alder, modenhet og evnen til å gjennomføre en forsvarlig drift, se Sande, Linge og Rasmussen, Vergemålsloven og utlendingsloven kapittel 11 a med kommentarer, 1. utgave (2017) side 124.
 
 Reglene om saksbehandlingstid i forvaltningsloven gjelder ved Statsforvalterens behandling av søknader om samtykke etter vergemålsloven § 11, jf. vergemålsloven  
- § 55 tredje ledd.
+§ 55 tredje ledd.
 
 Det følger av forvaltningsloven § 11 a første ledd at en sak skal forberedes og avgjøres «uten ugrunnet opphold». Sivilombudet har tidligere lagt til grunn at bestemmelsen stiller krav både til saksbehandlingstiden og hva som er akseptable årsaker til opphold i saks­be­handlingen.
 

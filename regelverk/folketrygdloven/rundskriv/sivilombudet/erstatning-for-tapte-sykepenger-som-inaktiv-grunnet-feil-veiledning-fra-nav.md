@@ -16,10 +16,8 @@ Sivilombudets uttalelse 23.6.2022 (sak 2022/1379).
 ## Oppsummering
 
 Saken gjelder erstatning for tapte sykepenger som inaktiv etter folketrygdloven § 8-47, på grunn av feil veiledning fra Nav. Klageren hadde fått beskjed fra Nav om at han hadde sykepengerettighetene sine i behold frem til sluttvederlaget fra hans tidligere arbeidsgiver utløp. Dette var feil, og klageren fikk derfor avslag på søknad om sykepenger. Klageren fikk også avslag på krav om erstatning.  
-   
- Ombudet er kommet til at Nav har lagt til grunn feil beviskrav i erstatningsavgjørelsen. Beviskravet i slike saker er sannsynlighetsovervekt. Klagerens begrensede muligheter til å sikre bevis fra den aktuelle perioden bør også inngå i bevisvurderingen. Videre har ombudet kommet til at det foreligger ansvarsgrunnlag, da bruddet på veiledningsplikten var et markert avvik fra de krav klageren kan stille til Nav, jf. skadeerstatningsloven § 2-1. Når det gjelder det økonomiske tapet har ombudet lagt til grunn at klageren kunne mottatt sykepenger som inaktiv samtidig som han mottok sluttvederlag fra sin tidligere arbeidsgiver.  
-   
- Ombudet har bedt Arbeids- og velferdsdirektoratet om å behandle saken på nytt i tråd med ombudets uttalelse. Ombudet har også bedt direktoratet om å endre rundskrivet om erstatning, slik at det blir tydelig at beviskravet for erstatning for tapte stønadsrettigheter er sannsynlighetsovervekt ‒ og ikke «utvilsomt» – slik rundskrivet nå gir inntrykk av.
+Ombudet er kommet til at Nav har lagt til grunn feil beviskrav i erstatningsavgjørelsen. Beviskravet i slike saker er sannsynlighetsovervekt. Klagerens begrensede muligheter til å sikre bevis fra den aktuelle perioden bør også inngå i bevisvurderingen. Videre har ombudet kommet til at det foreligger ansvarsgrunnlag, da bruddet på veiledningsplikten var et markert avvik fra de krav klageren kan stille til Nav, jf. skadeerstatningsloven § 2-1. Når det gjelder det økonomiske tapet har ombudet lagt til grunn at klageren kunne mottatt sykepenger som inaktiv samtidig som han mottok sluttvederlag fra sin tidligere arbeidsgiver.  
+Ombudet har bedt Arbeids- og velferdsdirektoratet om å behandle saken på nytt i tråd med ombudets uttalelse. Ombudet har også bedt direktoratet om å endre rundskrivet om erstatning, slik at det blir tydelig at beviskravet for erstatning for tapte stønadsrettigheter er sannsynlighetsovervekt ‒ og ikke «utvilsomt» – slik rundskrivet nå gir inntrykk av.
 
 Se oppdatering fra forvaltningen
 

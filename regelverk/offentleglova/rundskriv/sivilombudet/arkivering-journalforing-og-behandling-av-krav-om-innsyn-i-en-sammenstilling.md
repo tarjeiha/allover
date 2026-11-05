@@ -16,12 +16,9 @@ Sivilombudets uttalelse 11.2.2026 (sak 2025/6149).
 ## Oppsummering
 
 Saken gjelder et krav om innsyn i «a list or log» av alle tekstmeldinger, både ordinære tekstmeldinger og meldinger på øvrige meldingsplattformer, utvekslet mellom utenriksministeren og EUs høyrepresentant siden desember 2024. Saken gjelder også Utenriksdepartementets arkivering og journalføring av denne korrespondansen.  
-   
- Sivilombudet kom til at korrespondansen ikke var journalført i tråd med de rettslige kravene til journalføring, og at departementets rutiner ikke var egnet til å sikre at kravene til journalføring ble ivaretatt. Dokumentene i saken indikerte at departementets interne oppfølging for å sikre etterlevelse av rutinene ikke var tilstrekkelig.  
-   
- Ombudet kom videre til at departementet hadde tatt et feil rettslig utgangspunkt ved vurderingen av innsynskravet i «a list or log» av den aktuelle korrespondansen.   
-   
- Ombudet ba departementet om å rette journalføringen og vurdere innsynskravet på nytt. Ombudet ba videre departementet om å oppdatere gjeldende arkiverings- og journalføringsrutiner, og om å gi en redegjørelse for hvordan departementet vil sørge for at rutinene gjøres kjent og etterleves i fremtiden.
+Sivilombudet kom til at korrespondansen ikke var journalført i tråd med de rettslige kravene til journalføring, og at departementets rutiner ikke var egnet til å sikre at kravene til journalføring ble ivaretatt. Dokumentene i saken indikerte at departementets interne oppfølging for å sikre etterlevelse av rutinene ikke var tilstrekkelig.  
+Ombudet kom videre til at departementet hadde tatt et feil rettslig utgangspunkt ved vurderingen av innsynskravet i «a list or log» av den aktuelle korrespondansen.  
+Ombudet ba departementet om å rette journalføringen og vurdere innsynskravet på nytt. Ombudet ba videre departementet om å oppdatere gjeldende arkiverings- og journalføringsrutiner, og om å gi en redegjørelse for hvordan departementet vil sørge for at rutinene gjøres kjent og etterleves i fremtiden.
 
 ## 1. Sakens bakgrunn
 

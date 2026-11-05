@@ -21,7 +21,7 @@ Etter ombudsmannens undersøkelse erkjente Skattedirektoratet at det ikke var ad
 A (klageren) hadde en skatterestanse for inntekståret 2010 på kr 9 252. I desember 2011 inngikk hun en avtale om gjeldsordning som var ferdig i desember 2017. I mars 2018 sendte namsmannen brev til klageren om at gjeldsordningen var gjennomført. Skattekravet inngikk i gjeldsordningen, og ettersom kravet ikke ble dekket, avskrev skatteoppkreveren kravet på restskatt.
 
 Skatteetaten varslet klageren om nedsettelse av pensjonsgivende inntekt i brev  
- 2. februar 2020. I brevet sto det at fastsettingen av skatt ville bli endret i samsvar med varselet dersom Skatteetaten ikke hørte fra henne innen fire uker. Videre fremgikk det at hun ikke ville få ytterligere varsel eller skriftlig vedtak. Det er i brevet informert om at den pensjonsgivende inntekten for 2010 ville bli satt ned fra kr 205 584 til kr 156 411.
+2. februar 2020. I brevet sto det at fastsettingen av skatt ville bli endret i samsvar med varselet dersom Skatteetaten ikke hørte fra henne innen fire uker. Videre fremgikk det at hun ikke ville få ytterligere varsel eller skriftlig vedtak. Det er i brevet informert om at den pensjonsgivende inntekten for 2010 ville bli satt ned fra kr 205 584 til kr 156 411.
 
 Etter ha mottatt varselet var klageren flere ganger i kontakt med Skatteetaten. Blant annet ba hun om en vurdering av fristene i saken.
 

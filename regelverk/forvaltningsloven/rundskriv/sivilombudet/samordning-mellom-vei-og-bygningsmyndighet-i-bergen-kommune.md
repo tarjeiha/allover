@@ -15,10 +15,8 @@ Sivilombudets uttalelse 5.3.2021 (sak 2020/4411).
 ## Oppsummering
 
 Ombudsmannen besluttet av eget tiltak å undersøke Bergen kommunes rutiner for samordning mellom den kommunale vei- og bygningsmyndigheten. Bakgrunnen for undersøkelsen var en byggesak som var klaget inn til ombudsmannen, hvor det hadde oppstått uenighet mellom Plan- og bygningsetaten og Bymiljøetaten om hvem som var rett myndighet til å fatte vedtak om henholdsvis tillatelse til å oppføre byggverk innenfor byggegrense langs kommunal vei, jf. veglova § 29, og godkjenning av avkjørsel fra offentlig vei, jf. plan- og bygningsloven § 27-4 første ledd. Uenigheten mellom etatene førte til at det ikke ble fattet enkeltvedtak, hverken i spørsmålet om dispensasjon fra byggegrense eller avkjørselstillatelse. Som følge av dette ble byggesøknaden avvist.  
-   
- Etter ombudsmannens syn mangler Bergen kommune tilfredsstillende rutiner for samordning mellom den kommunale vei- og bygningsmyndigheten, jf. plan- og bygningsloven § 21-5. Byrådens svar etterlater også tvil om kommunens forståelse av reglene om personell kompetanse til å gi dispensasjon fra byggegrense langs kommunal vei er i tråd med veglova § 30 og forarbeidene til plan- og bygningsloven.  
-   
- Ombudsmannen oppfordrer byråden til å utarbeide nye rutiner som sikrer bedre samordning mellom etatene og sørger for at tvilsomme kompetansespørsmål avklares. Byråden bør også utarbeide retningslinjer for vurdering av vedtakskompetansen i saker om dispensasjon fra byggegrense langs kommunal vei.
+Etter ombudsmannens syn mangler Bergen kommune tilfredsstillende rutiner for samordning mellom den kommunale vei- og bygningsmyndigheten, jf. plan- og bygningsloven § 21-5. Byrådens svar etterlater også tvil om kommunens forståelse av reglene om personell kompetanse til å gi dispensasjon fra byggegrense langs kommunal vei er i tråd med veglova § 30 og forarbeidene til plan- og bygningsloven.  
+Ombudsmannen oppfordrer byråden til å utarbeide nye rutiner som sikrer bedre samordning mellom etatene og sørger for at tvilsomme kompetansespørsmål avklares. Byråden bør også utarbeide retningslinjer for vurdering av vedtakskompetansen i saker om dispensasjon fra byggegrense langs kommunal vei.
 
 Se oppdatering fra forvaltningen
 

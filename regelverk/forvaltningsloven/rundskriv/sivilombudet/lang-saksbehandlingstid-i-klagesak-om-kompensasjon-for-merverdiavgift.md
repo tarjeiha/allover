@@ -14,13 +14,10 @@ Sivilombudets uttalelse 11.10.2023 (sak 2023/4617).
 
 ## Oppsummering
 
-Saken gjelder skattekontorets saksbehandling i en klagesak om merverdiavgiftskompensasjon. Fra klagetidspunktet tok det mer enn tre og et halvt år før skattekontoret fattet et nytt vedtak der klager ble gitt delvis medhold i klagen. Klager opprettholdt den delen av klagen som ikke ble tatt til følge. Denne delen av saken er fortsatt til behandling ved skattekontoret og skal behandles av Skattedirektoratet.   
-   
- Sivilombudet kom til at skattekontorets saksbehandlingstid i klagesaken om merverdiavgiftskompensasjon på mer enn tre og et halvt år, før vedtaket om delvis omgjøring, utgjorde et klart og alvorlig brudd på regelen om saksbehandlingstid i skatteforvaltningsloven § 5-2 første ledd.   
-   
- Sivilombudet mente videre at den manglende løpende orienteringen fra skattekontoret medførte et klart brudd med god forvaltningsskikk. Klager skulle vært holdt løpende orientert når skattekontoret innså at tidsfrister ikke ville overholdes. Skattekontoret skulle samtidig ha opplyst om årsaken til forsinkelsen og gitt en ny og reell saksbehandlingsfrist.  
-   
- På bakgrunn av den svært lange saksbehandlingstiden i første instans ba Sivilombudet om at klagesaken ble prioritert i Skattedirektoratet.
+Saken gjelder skattekontorets saksbehandling i en klagesak om merverdiavgiftskompensasjon. Fra klagetidspunktet tok det mer enn tre og et halvt år før skattekontoret fattet et nytt vedtak der klager ble gitt delvis medhold i klagen. Klager opprettholdt den delen av klagen som ikke ble tatt til følge. Denne delen av saken er fortsatt til behandling ved skattekontoret og skal behandles av Skattedirektoratet.  
+Sivilombudet kom til at skattekontorets saksbehandlingstid i klagesaken om merverdiavgiftskompensasjon på mer enn tre og et halvt år, før vedtaket om delvis omgjøring, utgjorde et klart og alvorlig brudd på regelen om saksbehandlingstid i skatteforvaltningsloven § 5-2 første ledd.  
+Sivilombudet mente videre at den manglende løpende orienteringen fra skattekontoret medførte et klart brudd med god forvaltningsskikk. Klager skulle vært holdt løpende orientert når skattekontoret innså at tidsfrister ikke ville overholdes. Skattekontoret skulle samtidig ha opplyst om årsaken til forsinkelsen og gitt en ny og reell saksbehandlingsfrist.  
+På bakgrunn av den svært lange saksbehandlingstiden i første instans ba Sivilombudet om at klagesaken ble prioritert i Skattedirektoratet.
 
 ## Sakens bakgrunn
 

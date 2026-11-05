@@ -14,10 +14,10 @@ Sivilombudets uttalelse 28.6.2018 (sak 2017/672).
 
 ## Oppsummering
 
-Saken gjelder Fylkesmannens behandling av anmodning om vurdering av flere pliktbrudd hos en barnehabiliteringsavdeling i spesialisthelsetjenesten.   
- Ombudsmannen konkluderer med at Fylkesmannens behandlingstid på 21 måneder for å vurdere opprettelse av tilsynssak var for lang, og at det skulle ha vært sendt ut forsinkelsesmeldinger under sakens gang.   
- Det er uklart om Fylkesmannen hadde en riktig forståelse av adgangen til å la være å ta stilling til en pliktbruddsanmodning som «åpenbart grunnløs». Da forholdene som ble tatt opp i anmodningen i hovedsak uansett kunne avsluttes uten tilsynssak fordi de var eldre enn fem år, er det imidlertid ikke grunn til å tro at dette hadde hatt betydning for resultatet.  
- Begrunnelsen i Fylkesmannens avgjørelse er mangelfull, blant annet fordi det ikke er vist til femårsfristen.
+Saken gjelder Fylkesmannens behandling av anmodning om vurdering av flere pliktbrudd hos en barnehabiliteringsavdeling i spesialisthelsetjenesten.  
+Ombudsmannen konkluderer med at Fylkesmannens behandlingstid på 21 måneder for å vurdere opprettelse av tilsynssak var for lang, og at det skulle ha vært sendt ut forsinkelsesmeldinger under sakens gang.  
+Det er uklart om Fylkesmannen hadde en riktig forståelse av adgangen til å la være å ta stilling til en pliktbruddsanmodning som «åpenbart grunnløs». Da forholdene som ble tatt opp i anmodningen i hovedsak uansett kunne avsluttes uten tilsynssak fordi de var eldre enn fem år, er det imidlertid ikke grunn til å tro at dette hadde hatt betydning for resultatet.  
+Begrunnelsen i Fylkesmannens avgjørelse er mangelfull, blant annet fordi det ikke er vist til femårsfristen.
 
 ## Sakens bakgrunn
 

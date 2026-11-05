@@ -15,8 +15,7 @@ Sivilombudets uttalelse 23.4.2018 (sak 2017/2921).
 ## Oppsummering
 
 Saken gjelder dispensasjon fra bestemmelser i reguleringsplan, bl.a. utnyttelsesgrad, for rivning av eksisterende enebolig og oppføring av tre nye eneboliger. Fylkesmannen viste i dispensasjonsvurderingene til kommunens mål om at 50 prosent av nye boliger skal etableres ved fortetting.  
-   
- Ombudsmannen kom til at det er tvil om dispensasjonene kan gis med denne begrunnelsen. I den fornyede gjennomgangen bes Fylkesmannen om å ta stilling til om hensynet til en helhetlig vurdering av planområdet tilsier at det skulle vært utarbeidet ny plan.
+Ombudsmannen kom til at det er tvil om dispensasjonene kan gis med denne begrunnelsen. I den fornyede gjennomgangen bes Fylkesmannen om å ta stilling til om hensynet til en helhetlig vurdering av planområdet tilsier at det skulle vært utarbeidet ny plan.
 
 Se oppdatering fra forvaltningen
 

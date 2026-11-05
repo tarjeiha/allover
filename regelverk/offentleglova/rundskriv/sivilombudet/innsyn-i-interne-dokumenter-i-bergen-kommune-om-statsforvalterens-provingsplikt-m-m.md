@@ -16,13 +16,10 @@ Sivilombudets uttalelse 18.9.2025 (sak 2025/2442).
 ## Oppsummering
 
 Saken gjelder innsyn i en dokumentoversikt og dokumenter knyttet til en beslutning om å investere i nye dører i Bergen rådhus. Bergen kommune avslo innsynskravet under henvisning til at dokumentene er organinterne, og at dokumentoversikten ville inneholde opplysninger som ikke skal gå frem av en offentlig journal. Statsforvalteren i Vestland stadfestet avgjørelsen og viste blant annet til de ikke hadde merknader til kommunens vurderinger av at dokumentene omfattes av unntaksbestemmelsene i offentleglova §§ 14 og 15, og at det i merinnsynsvurderingen skal legges stor vekt på det kommunale selvstyret.  
-   
- Sivilombudet kom til at Statsforvalteren ikke har foretatt en reell og selvstendig prøving i tråd med forvaltningsloven § 34 andre ledd. Videre kom ombudet til at Statsforvalterens merinnsynsvurdering var mangelfull og basert på feil lovforståelse.   
-   
- Ombudet tok ikke stilling til om offentleglova § 14 første ledd, offentleglova § 15 første ledd eller offentleglova § 16 tredje ledd kommer til anvendelse.   
- Det var videre ombudets syn at det er begrunnet tvil knyttet til om det er grunnlag for å avslå kravet om innsyn i en oversikt over dokumentene i den aktuelle saken.  
-   
- Statsforvalteren i Vestland ble bedt om å behandle saken på nytt.
+Sivilombudet kom til at Statsforvalteren ikke har foretatt en reell og selvstendig prøving i tråd med forvaltningsloven § 34 andre ledd. Videre kom ombudet til at Statsforvalterens merinnsynsvurdering var mangelfull og basert på feil lovforståelse.  
+Ombudet tok ikke stilling til om offentleglova § 14 første ledd, offentleglova § 15 første ledd eller offentleglova § 16 tredje ledd kommer til anvendelse.  
+Det var videre ombudets syn at det er begrunnet tvil knyttet til om det er grunnlag for å avslå kravet om innsyn i en oversikt over dokumentene i den aktuelle saken.  
+Statsforvalteren i Vestland ble bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

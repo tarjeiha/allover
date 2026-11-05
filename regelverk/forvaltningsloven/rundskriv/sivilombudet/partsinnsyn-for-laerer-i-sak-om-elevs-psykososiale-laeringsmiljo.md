@@ -16,8 +16,7 @@ Sivilombudets uttalelse 29.6.2018 (sak 2018/496).
 ## Oppsummering
 
 Saken gjelder hvorvidt en lærer er part i sak om en elevs psykososiale læringsmiljø. Et foreldrepar var bekymret for måten sønnens kontaktlærer utførte sin rolle. Etter å blant annet ha anmeldt læreren to ganger til politiet for vold og trusler mot elever klaget de til skolen over sønnens læringsmiljø. Da skolen kun fattet vedtak om å fjerne læreren som guttens kontaktlærer, men ikke som lærer for resten av klassen, ble vedtaket påklaget til Fylkesmannen. Læreren mente å ha rett til partsinnsyn i klagen. Fylkesmannen og senere også Utdanningsdirektoratet avslo begjæringen om innsyn med begrunnelsen at læreren ikke kunne være part i en sak om enkeltelevers læringsmiljø.  
-   
- Ombudsmannen kom til at læreren i alle fall ut fra krav til forsvarlig saksbehandling og god forvaltningsskikk måtte anses å ha rett til å se sakens dokumenter og rett til å bli hørt på grunn av sin tilknytning til saken, og fordi hun er berørt gjennom alvorlige påstander om måten hun utfører sitt arbeid.
+Ombudsmannen kom til at læreren i alle fall ut fra krav til forsvarlig saksbehandling og god forvaltningsskikk måtte anses å ha rett til å se sakens dokumenter og rett til å bli hørt på grunn av sin tilknytning til saken, og fordi hun er berørt gjennom alvorlige påstander om måten hun utfører sitt arbeid.
 
 ## Sakens bakgrunn
 

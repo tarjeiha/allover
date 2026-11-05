@@ -14,9 +14,8 @@ Sivilombudets uttalelse 6.6.2023 (sak 2022/5453).
 
 ## Oppsummering
 
-Saken gjelder en detaljreguleringsplan for en skole i Karmøy kommune. Etter kommunens planvedtak ble det gjort nye funn av naturverdier i planområdet. Statsforvalteren i Rogaland stadfestet imidlertid planen med henvisning til at saken var tilstrekkelig utredet på tidspunktet for kommunens vedtak.   
-   
- Sivilombudet er kommet til at Statsforvalteren ikke foretok en tilstrekkelig prøving av kommunens planvedtak, jf. forvaltningsloven § 34 andre ledd. Ombudet mener det er mangler i Statsforvalterens vurderinger av om planen var tilstrekkelig utredet på klageinstansens vedtakstidspunkt, om det forelå krav om konsekvensutredning og om kommunens vurdering av prinsippene i naturmangfoldloven §§ 8-12 var i samsvar med den faktiske situasjonen i planområdet. Ombudet har videre kommet til at planvedtaket må anses ugyldig som følge av at det er basert på et uriktig/mangelfullt faktum.
+Saken gjelder en detaljreguleringsplan for en skole i Karmøy kommune. Etter kommunens planvedtak ble det gjort nye funn av naturverdier i planområdet. Statsforvalteren i Rogaland stadfestet imidlertid planen med henvisning til at saken var tilstrekkelig utredet på tidspunktet for kommunens vedtak.  
+Sivilombudet er kommet til at Statsforvalteren ikke foretok en tilstrekkelig prøving av kommunens planvedtak, jf. forvaltningsloven § 34 andre ledd. Ombudet mener det er mangler i Statsforvalterens vurderinger av om planen var tilstrekkelig utredet på klageinstansens vedtakstidspunkt, om det forelå krav om konsekvensutredning og om kommunens vurdering av prinsippene i naturmangfoldloven §§ 8-12 var i samsvar med den faktiske situasjonen i planområdet. Ombudet har videre kommet til at planvedtaket må anses ugyldig som følge av at det er basert på et uriktig/mangelfullt faktum.
 
 ## Sakens bakgrunn
 

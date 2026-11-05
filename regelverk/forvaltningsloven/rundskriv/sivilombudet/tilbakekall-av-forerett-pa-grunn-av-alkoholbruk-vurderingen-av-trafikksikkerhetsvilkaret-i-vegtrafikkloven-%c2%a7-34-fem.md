@@ -15,12 +15,9 @@ Sivilombudets uttalelse 19.10.2021 (sak 2020/4698).
 ## Oppsummering
 
 Saken gjelder Politidirektoratets vedtak om tilbakekall av førerett på grunn av manglende edruelighet som følge av bruk av alkohol i helger og ferier.  
-   
- Sivilombudet er kommet til at Politidirektoratets vurdering av trafikksikkerhetsvilkåret i vegtrafikkloven § 34 femte ledd er mangelfull. Slik saken er opplyst er det begrunnet tvil om det foreligger en rimelig risiko for kjøring i påvirket tilstand, og dermed om trafikksikkerhetsvilkåret er oppfylt.   
-   
- Ombudet bemerker generelt at det at en person med jevne mellomrom er beruset på alkohol ikke i seg selv vil gi grunnlag for tilbakekall av førerett, så lenge vedkommende sørger for at det ikke er risiko for kjøring i påvirket tilstand. Der mulig risiko for kjøring i påvirket tilstand oppstår noe tid etter alkoholinntaket, og det foreligger informasjon om alkoholmengden eller måling av alkoholkonsentrasjon i blodet, bør politiet så langt som mulig anslå påvirkningens varighet før de tar stilling til trafikksikkerhetsvilkåret.   
-   
- Politidirektoratet bes på denne bakgrunn behandle saken på nytt innen 26. november 2021.
+Sivilombudet er kommet til at Politidirektoratets vurdering av trafikksikkerhetsvilkåret i vegtrafikkloven § 34 femte ledd er mangelfull. Slik saken er opplyst er det begrunnet tvil om det foreligger en rimelig risiko for kjøring i påvirket tilstand, og dermed om trafikksikkerhetsvilkåret er oppfylt.  
+Ombudet bemerker generelt at det at en person med jevne mellomrom er beruset på alkohol ikke i seg selv vil gi grunnlag for tilbakekall av førerett, så lenge vedkommende sørger for at det ikke er risiko for kjøring i påvirket tilstand. Der mulig risiko for kjøring i påvirket tilstand oppstår noe tid etter alkoholinntaket, og det foreligger informasjon om alkoholmengden eller måling av alkoholkonsentrasjon i blodet, bør politiet så langt som mulig anslå påvirkningens varighet før de tar stilling til trafikksikkerhetsvilkåret.  
+Politidirektoratet bes på denne bakgrunn behandle saken på nytt innen 26. november 2021.
 
 Se oppdatering fra forvaltningen
 

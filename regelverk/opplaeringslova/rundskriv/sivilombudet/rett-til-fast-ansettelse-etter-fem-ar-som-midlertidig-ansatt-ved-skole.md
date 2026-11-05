@@ -15,13 +15,10 @@ Sivilombudets uttalelse 11.12.2023 (sak 2023/3221).
 
 ## Oppsummering
 
-Saken gjelder spørsmål om rett til fast ansettelse etter langvarig ansettelse i midlertidig stilling. Da hennes siste ansettelseskontrakt på skolen utløp, hadde klageren i fem år vært midlertidig ansatt som lærer for elever med autismespekterforstyrrelse. Skolen hadde regelmessig fornyet hennes midlertidige kontrakter, uten å utlyse stillingene. Klageren oppfylte ikke kravet om undervisningskompetanse, men hadde en bachelorgrad i spesialpedagogikk. Samtidig som hennes siste kontrakt utløp, ansatte skolen andre personer som heller ikke hadde undervisningskompetanse til å ivareta liknende funksjoner som hun hadde dekket.   
-   
- Sivilombudet kom til at klageren hadde krav på fast stilling etter arbeidsmiljøloven § 14-9 syvende ledd. Bestemmelsen gir rett til fast stilling for personer som har vært midlertidig ansatt i mer enn tre eller fire år.   
-   
- Hvis klageren derimot hadde vært midlertidig ansatt etter opplæringslova § 10-6, slik kommunen mente, ville hun ikke hatt rett til fast stilling. Ombudet kom til at klageren ikke hadde vært ansatt etter opplæringslova § 10-6. Grunnen til det var at skolen gjennom fem år ikke hadde utlyst stillingene som klageren hadde hatt. Skolen hadde dermed ikke forsøkt å tiltrekke seg kvalifisert personell. Vilkårene for å ansette klageren midlertidig etter opplæringslova § 10-6 var da ikke oppfylt.  
-   
- Ombudet ba kommunen om å sørge for at skolen fikk bedre kjennskap til regelverket om ansettelser, herunder kravet om at ledige stillinger skal utlyses. Ombudet ba også kommunen om å vurdere hvordan den kunne rette opp i uretten som var begått mot klageren, for eksempel ved å tilby henne en fast stilling som ikke krever undervisningskompetanse.
+Saken gjelder spørsmål om rett til fast ansettelse etter langvarig ansettelse i midlertidig stilling. Da hennes siste ansettelseskontrakt på skolen utløp, hadde klageren i fem år vært midlertidig ansatt som lærer for elever med autismespekterforstyrrelse. Skolen hadde regelmessig fornyet hennes midlertidige kontrakter, uten å utlyse stillingene. Klageren oppfylte ikke kravet om undervisningskompetanse, men hadde en bachelorgrad i spesialpedagogikk. Samtidig som hennes siste kontrakt utløp, ansatte skolen andre personer som heller ikke hadde undervisningskompetanse til å ivareta liknende funksjoner som hun hadde dekket.  
+Sivilombudet kom til at klageren hadde krav på fast stilling etter arbeidsmiljøloven § 14-9 syvende ledd. Bestemmelsen gir rett til fast stilling for personer som har vært midlertidig ansatt i mer enn tre eller fire år.  
+Hvis klageren derimot hadde vært midlertidig ansatt etter opplæringslova § 10-6, slik kommunen mente, ville hun ikke hatt rett til fast stilling. Ombudet kom til at klageren ikke hadde vært ansatt etter opplæringslova § 10-6. Grunnen til det var at skolen gjennom fem år ikke hadde utlyst stillingene som klageren hadde hatt. Skolen hadde dermed ikke forsøkt å tiltrekke seg kvalifisert personell. Vilkårene for å ansette klageren midlertidig etter opplæringslova § 10-6 var da ikke oppfylt.  
+Ombudet ba kommunen om å sørge for at skolen fikk bedre kjennskap til regelverket om ansettelser, herunder kravet om at ledige stillinger skal utlyses. Ombudet ba også kommunen om å vurdere hvordan den kunne rette opp i uretten som var begått mot klageren, for eksempel ved å tilby henne en fast stilling som ikke krever undervisningskompetanse.
 
 ## Sakens bakgrunn
 

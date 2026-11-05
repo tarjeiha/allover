@@ -15,11 +15,9 @@ Sivilombudets uttalelse 23.3.2022 (sak 2022/1333).
 
 ## Oppsummering
 
-Saken gjelder hvorvidt opplysninger om offentlig ansattes ansiennitet omfattes av retten til innsyn etter offentleglova, eller om slike opplysninger er et personlig forhold som er taushetsbelagt.   
-   
- Opplysninger om offentlig ansattes ansettelsesforhold er i utgangspunktet ikke et personlig forhold og derfor ikke taushetsbelagt i henhold til forvaltningsloven § 13 første ledd nr. 1. Slike opplysninger kan da ikke unntas fra innsyn etter offentleglova § 13 første ledd. Dersom det skal gjøres unntak fra dette utgangspunktet må det begrunnes konkret hvorfor opplysninger om for eksempel ansiennitet utgjør et personlig forhold. Det skal mye til for å si at opplysninger om offentlig ansattes ansettelsesforhold gjelder personlige forhold, fordi hensynet til at allmennheten skal kunne gjøre seg kjent med offentlig ansattes arbeid gjør seg gjeldende. Ombudet kan ikke se at det i denne saken er grunnlag for å fravike utgangspunktet om at opplysninger om offentlig ansattes arbeid og ansettelsesforhold, herunder ansiennitet, ikke er et personlig forhold som er taushetsbelagt.  
-   
- Sivilombudet ber Kommunal- og distriktsdepartementet om å foreta en ny vurdering av innsynsklagen.
+Saken gjelder hvorvidt opplysninger om offentlig ansattes ansiennitet omfattes av retten til innsyn etter offentleglova, eller om slike opplysninger er et personlig forhold som er taushetsbelagt.  
+Opplysninger om offentlig ansattes ansettelsesforhold er i utgangspunktet ikke et personlig forhold og derfor ikke taushetsbelagt i henhold til forvaltningsloven § 13 første ledd nr. 1. Slike opplysninger kan da ikke unntas fra innsyn etter offentleglova § 13 første ledd. Dersom det skal gjøres unntak fra dette utgangspunktet må det begrunnes konkret hvorfor opplysninger om for eksempel ansiennitet utgjør et personlig forhold. Det skal mye til for å si at opplysninger om offentlig ansattes ansettelsesforhold gjelder personlige forhold, fordi hensynet til at allmennheten skal kunne gjøre seg kjent med offentlig ansattes arbeid gjør seg gjeldende. Ombudet kan ikke se at det i denne saken er grunnlag for å fravike utgangspunktet om at opplysninger om offentlig ansattes arbeid og ansettelsesforhold, herunder ansiennitet, ikke er et personlig forhold som er taushetsbelagt.  
+Sivilombudet ber Kommunal- og distriktsdepartementet om å foreta en ny vurdering av innsynsklagen.
 
 Se oppdatering fra forvaltningen
 

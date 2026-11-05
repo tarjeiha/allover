@@ -15,9 +15,8 @@ Sivilombudets uttalelse 12.12.2025 (sak 2025/6076).
 
 ## Oppsummering
 
-Saken gjelder en klage på lang saksbehandlingstid i sak om beregning av uføretrygd. Klager fikk godkjent en skade, som inntraff etter uføretidspunktet, som yrkesskade. På denne bakgrunn fremmet klager krav om ny beregning av uføretrygd etter reglene for yrkesskade. I påvente av nødvendige endringer i Navs digitale saksbehandlingssystem, avventet saksbehandlende enhet behandling av kravet i over ett og et halvt år.   
-   
- Sivilombudet har kommet til at Nav ikke overholdt de lovfestede kravene til behandling «uten ugrunnet opphold», jf. folketrygdloven og forvaltningsloven. Sivilombudet kom videre frem til at hverken Nav eller Arbeids- og velferdsdirektoratet ved sin oppfølging av praksisendringen overholdt forvaltningens plikt til å sikre borgernes rettigheter ved bruk av digitale systemer.
+Saken gjelder en klage på lang saksbehandlingstid i sak om beregning av uføretrygd. Klager fikk godkjent en skade, som inntraff etter uføretidspunktet, som yrkesskade. På denne bakgrunn fremmet klager krav om ny beregning av uføretrygd etter reglene for yrkesskade. I påvente av nødvendige endringer i Navs digitale saksbehandlingssystem, avventet saksbehandlende enhet behandling av kravet i over ett og et halvt år.  
+Sivilombudet har kommet til at Nav ikke overholdt de lovfestede kravene til behandling «uten ugrunnet opphold», jf. folketrygdloven og forvaltningsloven. Sivilombudet kom videre frem til at hverken Nav eller Arbeids- og velferdsdirektoratet ved sin oppfølging av praksisendringen overholdt forvaltningens plikt til å sikre borgernes rettigheter ved bruk av digitale systemer.
 
 ## Sakens bakgrunn
 

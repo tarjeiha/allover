@@ -15,12 +15,10 @@ Sivilombudets uttalelse 27.6.2025 (sak 2024/6159).
 
 ## Oppsummering
 
-Saken gjelder innsyn i X radios aksjonslogg som Statens havarikommisjon innhentet i forbindelse med sine undersøkelser av et forlis i 2015. Innsynskravet ble først avslått av Statens havarikommisjon (SHK). Samferdselsdepartementet opprettholdt avslaget slik at loggen ble unntatt innsyn i sin helhet. Departementet mente at aksjonsloggen var en «forklaring» som det ikke kunne gis innsyn i da dette ville være i strid med sjøloven § 477 tredje ledd der det står at forklaringer «kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen».   
-   
- Sivilombudet kom til at det knytter seg begrunnet tvil til om departementet har rett forståelse av § 477 tredje ledd sett hen til direktiv 2009/18/EF når departementet har kommet til at aksjonsloggen som er produsert i utgangspunkt for et annet formål av en ekstern instans og i forkant av SHKs undersøkelser, er taushetsbelagt i sin helhet.   
-   
- Ombudet ba Samferdselsdepartementet om å behandle saken på nytt i lys av de føringene som er gitt i uttalelsen.   
- Ombudet var enig med departementet at samordningen mellom §§ 477 og 480 synes å ha blitt krevende. Det er etter dette bra at departementet har et pågående revisjonsarbeid knyttet til taushetspliktbestemmelsene.
+Saken gjelder innsyn i X radios aksjonslogg som Statens havarikommisjon innhentet i forbindelse med sine undersøkelser av et forlis i 2015. Innsynskravet ble først avslått av Statens havarikommisjon (SHK). Samferdselsdepartementet opprettholdt avslaget slik at loggen ble unntatt innsyn i sin helhet. Departementet mente at aksjonsloggen var en «forklaring» som det ikke kunne gis innsyn i da dette ville være i strid med sjøloven § 477 tredje ledd der det står at forklaringer «kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen».  
+Sivilombudet kom til at det knytter seg begrunnet tvil til om departementet har rett forståelse av § 477 tredje ledd sett hen til direktiv 2009/18/EF når departementet har kommet til at aksjonsloggen som er produsert i utgangspunkt for et annet formål av en ekstern instans og i forkant av SHKs undersøkelser, er taushetsbelagt i sin helhet.  
+Ombudet ba Samferdselsdepartementet om å behandle saken på nytt i lys av de føringene som er gitt i uttalelsen.  
+Ombudet var enig med departementet at samordningen mellom §§ 477 og 480 synes å ha blitt krevende. Det er etter dette bra at departementet har et pågående revisjonsarbeid knyttet til taushetspliktbestemmelsene.
 
 Se oppdatering fra forvaltningen
 

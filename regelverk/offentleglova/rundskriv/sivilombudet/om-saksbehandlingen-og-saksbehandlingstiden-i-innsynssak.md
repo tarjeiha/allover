@@ -15,10 +15,8 @@ Sivilombudets uttalelse 25.9.2026 (sak 2026/1665).
 ## Oppsummering
 
 Saken gjelder Nesseby kommunes behandling av en rekke krav om innsyn etter offentleglova. Klageren hadde gjentatte ganger klaget over manglende svar, og kommunen oversatt også frister for oversendelse av klagesaker satt av Statsforvalteren i Troms og Finnmark. Innsynsavgjørelsene ble fattet av en ekstern advokat som bistod kommunen. Den samme advokaten vurderte de innkomne klagene og oversendte sakene til Statsforvalteren i Troms og Finnmark. Undersøkelsene fra ombudet knyttet seg ikke til selve innholdet i innsynsavgjørelsene, men til saksbehandlingen.  
-   
- Sivilombudet kom til at saksbehandlingstiden for flere av innsynskravene og innsynsklagene ikke er i tråd med offentleglovas krav. Videre kom ombudet til at det ikke foreligger hjemmel for advokaten til å utøve offentlig myndighet på vegne av Nesseby kommune, i form av å fatte avgjørelser etter offentleglova. Det er også begrunnet tvil om kommunens arkivering i saken er i tråd med kravene som oppstilles i arkivlova med tilhørende forskrifter.  
-   
- Ombudet ba Nesseby kommune behandle innsynskravene på nytt. Videre ble kommunen bedt om å gjennomgå arkiveringen og de ulike journalene i saken, og sørge for at arkivet og journalene er i tråd med arkivlova og tilhørende forskrifter.
+Sivilombudet kom til at saksbehandlingstiden for flere av innsynskravene og innsynsklagene ikke er i tråd med offentleglovas krav. Videre kom ombudet til at det ikke foreligger hjemmel for advokaten til å utøve offentlig myndighet på vegne av Nesseby kommune, i form av å fatte avgjørelser etter offentleglova. Det er også begrunnet tvil om kommunens arkivering i saken er i tråd med kravene som oppstilles i arkivlova med tilhørende forskrifter.  
+Ombudet ba Nesseby kommune behandle innsynskravene på nytt. Videre ble kommunen bedt om å gjennomgå arkiveringen og de ulike journalene i saken, og sørge for at arkivet og journalene er i tråd med arkivlova og tilhørende forskrifter.
 
 ## Sakens bakgrunn
 

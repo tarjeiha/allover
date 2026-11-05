@@ -15,15 +15,11 @@ Sivilombudets uttalelse 11.4.2025 (sak 2024/6209).
 
 ## Oppsummering
 
-Saken gjelder en samisk elev i X kommune, som hadde krav på opplæring i samisk som andrespråk. Han fikk ikke dekket reiseutgifter til en språksamling i nordsamisk, selv om samlingen var en del av undervisningsopplegget tilbudt fra Y kommune. X kommune anså imidlertid ikke samlingen for å være en del av undervisningsopplegget, men dekket likevel deltakerkostnaden og regnet timene med i vurderingen av antall undervisningstimer, etter en fastsatt timefordeling. Kommunen mente også at undervisningsopplegget som ellers for det meste besto av fjernundervisning og enkeltbesøk av fjernundervisningslæreren var forsvarlig, slik at deltakelse på språksamlingen ikke var nødvendig.   
-   
- Sivilombudet mente at X kommune ikke hadde oppfylt retten til samisk opplæring, da de ikke dekket reisen til språksamlingen. Uten språksamlingen hadde ikke undervisningsopplegget et tilstrekkelig antall timer.   
-   
- Kommunen vurderte om undervisningen var forsvarlig i svaret til ombudet, men kunne ikke dokumentere at det var gjort en slik vurdering tidligere. Sivilombudet mente derfor at kravene til skriftlighet ikke var fulgt og at saksbehandlingen ikke var forsvarlig.   
-   
- Kommunen erkjente at de ikke hadde gitt god nok informasjon om retten til opplæring i samisk og hvilket undervisningstilbud de mente at eleven skulle ha.   
-   
- Sivilombudet redegjorde for retten til opplæring i samisk både etter ny og gammel opplæringslov og ba kommunen foreta en ny vurdering.
+Saken gjelder en samisk elev i X kommune, som hadde krav på opplæring i samisk som andrespråk. Han fikk ikke dekket reiseutgifter til en språksamling i nordsamisk, selv om samlingen var en del av undervisningsopplegget tilbudt fra Y kommune. X kommune anså imidlertid ikke samlingen for å være en del av undervisningsopplegget, men dekket likevel deltakerkostnaden og regnet timene med i vurderingen av antall undervisningstimer, etter en fastsatt timefordeling. Kommunen mente også at undervisningsopplegget som ellers for det meste besto av fjernundervisning og enkeltbesøk av fjernundervisningslæreren var forsvarlig, slik at deltakelse på språksamlingen ikke var nødvendig.  
+Sivilombudet mente at X kommune ikke hadde oppfylt retten til samisk opplæring, da de ikke dekket reisen til språksamlingen. Uten språksamlingen hadde ikke undervisningsopplegget et tilstrekkelig antall timer.  
+Kommunen vurderte om undervisningen var forsvarlig i svaret til ombudet, men kunne ikke dokumentere at det var gjort en slik vurdering tidligere. Sivilombudet mente derfor at kravene til skriftlighet ikke var fulgt og at saksbehandlingen ikke var forsvarlig.  
+Kommunen erkjente at de ikke hadde gitt god nok informasjon om retten til opplæring i samisk og hvilket undervisningstilbud de mente at eleven skulle ha.  
+Sivilombudet redegjorde for retten til opplæring i samisk både etter ny og gammel opplæringslov og ba kommunen foreta en ny vurdering.
 
 Se oppdatering fra forvaltningen
 

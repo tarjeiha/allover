@@ -16,12 +16,9 @@ Sivilombudets uttalelse 29.10.2020 (sak 2019/2945).
 ## Oppsummering
 
 Saken gjelder Navs omgjøring av tidligere fastsatt uføretidspunkt for en mottaker av hel uføretrygd. Omgjøringen skjedde uten forutgående klage, og førte til en lavere utbetaling for den trygdede.  
-   
- Omgjøringen med senere opprettholdelse fylte etter ombudsmannens syn ikke kravene i forvaltningslovens § 25 om begrunnelsens innhold. Begrunnelsen som til slutt ble gitt i brev juli 2019, syntes å bygge på en uriktig rettslig forståelse av folketrygdloven § 12-10 om fastsetting og endring av uføregrad. Ombudsmannen har bedt Arbeids- og velferdsdirektoratet om å undersøke og følge opp svikten som har skjedd i flere ledd under behandlingen av saken.  
-   
- Partene er nå enige om tolkningen av § 12-10, altså at det ved overgangen fra tidsbegrenset til varig ytelse kan settes et nytt uføretidspunkt, der arbeids- og inntektsevnen er ytterligere nedsatt. Under saksgangen hos ombudsmannen omgjorde Nav det tidligere omgjøringsvedtaket, slik at klageren fikk tilbake sin høyere utbetaling.  
-   
- Under henvisning til Trygderettens kjennelse TRR-2018/00619, har ombudsmannen bedt Arbeids- og sosialdepartementet om å prioritere arbeidet med å få avklart den rettslige uenighet og tvil som har oppstått mellom departementet og Trygderetten, om adgangen til å bringe Navs beslutninger om ikke å omgjøre enkeltvedtak inn for Trygderetten.
+Omgjøringen med senere opprettholdelse fylte etter ombudsmannens syn ikke kravene i forvaltningslovens § 25 om begrunnelsens innhold. Begrunnelsen som til slutt ble gitt i brev juli 2019, syntes å bygge på en uriktig rettslig forståelse av folketrygdloven § 12-10 om fastsetting og endring av uføregrad. Ombudsmannen har bedt Arbeids- og velferdsdirektoratet om å undersøke og følge opp svikten som har skjedd i flere ledd under behandlingen av saken.  
+Partene er nå enige om tolkningen av § 12-10, altså at det ved overgangen fra tidsbegrenset til varig ytelse kan settes et nytt uføretidspunkt, der arbeids- og inntektsevnen er ytterligere nedsatt. Under saksgangen hos ombudsmannen omgjorde Nav det tidligere omgjøringsvedtaket, slik at klageren fikk tilbake sin høyere utbetaling.  
+Under henvisning til Trygderettens kjennelse TRR-2018/00619, har ombudsmannen bedt Arbeids- og sosialdepartementet om å prioritere arbeidet med å få avklart den rettslige uenighet og tvil som har oppstått mellom departementet og Trygderetten, om adgangen til å bringe Navs beslutninger om ikke å omgjøre enkeltvedtak inn for Trygderetten.
 
 ## Sakens bakgrunn
 

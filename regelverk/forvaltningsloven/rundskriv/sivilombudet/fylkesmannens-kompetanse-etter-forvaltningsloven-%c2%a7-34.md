@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.11.2019 (sak 2019/1123).
 ## Oppsummering
 
 Saken gjelder omgjøring av vedtak om dispensasjon for oppføring av tilbygg til eksisterende enebolig og ny enebolig på samme tomt. Fylkesmannen i Hedmark omgjorde, etter klage fra Fylkesmannen i Oslo og Akershus, kommunens vedtak om innvilgelse av dispensasjon for begge tiltakene med hjemmel i fvl. § 34.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om dispensasjon for oppføring av tilbygg var en del av den «saken» Fylkesmannen hadde til klagebehandling etter forvaltningsloven § 34. Ombudsmannen ber Fylkesmannen i Innlandet vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil om dispensasjon for oppføring av tilbygg var en del av den «saken» Fylkesmannen hadde til klagebehandling etter forvaltningsloven § 34. Ombudsmannen ber Fylkesmannen i Innlandet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

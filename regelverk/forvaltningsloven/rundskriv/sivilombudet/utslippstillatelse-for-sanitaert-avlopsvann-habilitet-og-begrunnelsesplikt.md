@@ -73,7 +73,7 @@ I klagenemndas møte 1. desember 2022 voterte et enstemmig formannskap for å ve
 «Votering: Narvik Vann KFs innstilling – enstemmig vedtatt
 
 FORMS-031/22 Vedtak:  
- Narvik Vanns vedtak datert 20.09.22 «Utslippstillatelse for sanitært avløpsvann fra fritidsbolig til minirenseanlegg med overløp til infiltrasjon på gnr. 337, bnr. 15. Råna- E6 227» opprettholdes».
+Narvik Vanns vedtak datert 20.09.22 «Utslippstillatelse for sanitært avløpsvann fra fritidsbolig til minirenseanlegg med overløp til infiltrasjon på gnr. 337, bnr. 15. Råna- E6 227» opprettholdes».
 
 Klagenemndas vedtak inneholder ikke noen egen begrunnelse, og det er heller ikke i vedtaket henvist til underinstansens begrunnelse eller begrunnelsen som fremgår av innstillingen. Heller ikke i underretningen om vedtaket til klagerne oppga eller henviste klagenemnda til en begrunnelse, noe som normalt bør gjøres, jf. forvaltningsloven § 27 andre ledd.
 

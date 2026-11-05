@@ -14,11 +14,9 @@ Sivilombudets uttalelse 23.6.2021 (sak 2021/659).
 
 ## Oppsummering
 
-Ombudsmannen har undersøkt på generelt grunnlag og av eget tiltak saksbehandlingstiden av klager som behandles av Oslo kommunes klagenemnd i saker om drosjeløyve, vann- og avløp, miljøgebyr og avkjørsel. Undersøkelsen har omfattet saksbehandlingstiden i underliggende etat, berørt byrådsavdeling og klagenemnda. I tillegg rettet undersøkelsen seg mot behandlingstiden av avvisningssaker og sakskostnadssaker. Ombudsmannen undersøkte også rutiner for å sende ut foreløpig svar og forsinkelsesmeldinger.   
-   
- Etter ombudsmannens syn fremstår den totale behandlingstiden i drosjeløyvesakene, renovasjonsgebyrsakene og avkjørselssakene i 2020 som beklagelig lang, og i mange saker kan behandlingstiden vanskelig sies å være i samsvar med kravet om at en sak skal forberedes og avgjøres «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Behandlingstiden i saker som er avvist av Oslo kommunes klagenemnd, fremstår som for lang. Ombudsmannen ber Oslo kommune vurdere om det er tilstrekkelige rutiner for å fange opp og behandle saker om avvisning «uten ugrunnet opphold».  
-   
- Ombudsmannen mener det er uklart hvorvidt det er rutiner for å orientere om forsinkelser i klagesaksbehandlingen. Ombudsmannen minner derfor om at det følger av god forvaltningsskikk å orientere om forsinkelser i saksgangen, grunnen til forsinkelsen og at det angis ny forventet svartid.
+Ombudsmannen har undersøkt på generelt grunnlag og av eget tiltak saksbehandlingstiden av klager som behandles av Oslo kommunes klagenemnd i saker om drosjeløyve, vann- og avløp, miljøgebyr og avkjørsel. Undersøkelsen har omfattet saksbehandlingstiden i underliggende etat, berørt byrådsavdeling og klagenemnda. I tillegg rettet undersøkelsen seg mot behandlingstiden av avvisningssaker og sakskostnadssaker. Ombudsmannen undersøkte også rutiner for å sende ut foreløpig svar og forsinkelsesmeldinger.  
+Etter ombudsmannens syn fremstår den totale behandlingstiden i drosjeløyvesakene, renovasjonsgebyrsakene og avkjørselssakene i 2020 som beklagelig lang, og i mange saker kan behandlingstiden vanskelig sies å være i samsvar med kravet om at en sak skal forberedes og avgjøres «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Behandlingstiden i saker som er avvist av Oslo kommunes klagenemnd, fremstår som for lang. Ombudsmannen ber Oslo kommune vurdere om det er tilstrekkelige rutiner for å fange opp og behandle saker om avvisning «uten ugrunnet opphold».  
+Ombudsmannen mener det er uklart hvorvidt det er rutiner for å orientere om forsinkelser i klagesaksbehandlingen. Ombudsmannen minner derfor om at det følger av god forvaltningsskikk å orientere om forsinkelser i saksgangen, grunnen til forsinkelsen og at det angis ny forventet svartid.
 
 ## Sakens bakgrunn
 

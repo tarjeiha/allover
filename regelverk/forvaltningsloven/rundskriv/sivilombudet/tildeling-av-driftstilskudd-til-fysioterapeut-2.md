@@ -16,10 +16,8 @@ Sivilombudets uttalelse 17.10.2018 (sak 2018/367).
 ## Oppsummering
 
 Etter utlysning vinteren 2017 tildelte X kommune 100 % driftstilskudd til en fysioterapeut som ledd i en nedtrappingsplan. Klageren mente både kommunens og klagenemndas saksbehandling var preget av feil og mangler, og i tillegg at tildelingen bygget på feilvurderinger.  
-   
- Da ombudsmannen undersøkte saken erkjente kommunen at det var begått saksbehandlingsfeil både når det gjaldt den skriftlige underretningen og begrunnelsen som søkerne fikk om tildelingen. Forberedelsen av klagesaken hadde også sviktet ved at sentrale dokumenter ikke ble oversendt til klagenemnda før behandlingen der. I tillegg oppfylte heller ikke klagenemndas vedtak forvaltningslovens krav til begrunnelse. For øvrig er ombudsmannen i tvil om kommunen forsto og anvendte kvalifikasjonsprinsippet riktig.  
-   
- Kommunen har opplyst at behandlingsrutinene for saker om driftstilskudd skal forbedres. Ombudsmannen ber om at de nye rutinene er klare før neste gang det lyses ut en avtalehjemmel for fysioterapeut.
+Da ombudsmannen undersøkte saken erkjente kommunen at det var begått saksbehandlingsfeil både når det gjaldt den skriftlige underretningen og begrunnelsen som søkerne fikk om tildelingen. Forberedelsen av klagesaken hadde også sviktet ved at sentrale dokumenter ikke ble oversendt til klagenemnda før behandlingen der. I tillegg oppfylte heller ikke klagenemndas vedtak forvaltningslovens krav til begrunnelse. For øvrig er ombudsmannen i tvil om kommunen forsto og anvendte kvalifikasjonsprinsippet riktig.  
+Kommunen har opplyst at behandlingsrutinene for saker om driftstilskudd skal forbedres. Ombudsmannen ber om at de nye rutinene er klare før neste gang det lyses ut en avtalehjemmel for fysioterapeut.
 
 ## Sakens bakgrunn
 

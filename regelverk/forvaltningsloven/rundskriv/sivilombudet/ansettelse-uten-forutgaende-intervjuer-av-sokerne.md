@@ -14,9 +14,8 @@ Sivilombudets uttalelse 23.8.2019 (sak 2019/1176).
 
 ## Oppsummering
 
-Klageren søkte på en stilling ved driftsenhet for tekniske tjenester i en kommune. Verken han eller noen andre søkere ble innkalt til intervju. Kommunen ansatte en person som hadde hatt et vikariat i teknisk enhet de siste årene, og som derfor var kjent for kommunen. I klagen til ombudsmannen mente klageren at flere av søkerne fremsto som bedre kvalifisert enn den ansatte, og at hele prosessen var et spill fra kommunens side.   
-   
- Ombudsmannen er kommet til at den manglende gjennomføringen av intervjuer førte til at ansettelsessaken ikke var tilstrekkelig opplyst da ansettelsesvedtaket ble truffet. Kommunen har ikke hatt et forsvarlig grunnlag for å treffe avgjørelsen i tråd med kvalifikasjonsprinsippet.
+Klageren søkte på en stilling ved driftsenhet for tekniske tjenester i en kommune. Verken han eller noen andre søkere ble innkalt til intervju. Kommunen ansatte en person som hadde hatt et vikariat i teknisk enhet de siste årene, og som derfor var kjent for kommunen. I klagen til ombudsmannen mente klageren at flere av søkerne fremsto som bedre kvalifisert enn den ansatte, og at hele prosessen var et spill fra kommunens side.  
+Ombudsmannen er kommet til at den manglende gjennomføringen av intervjuer førte til at ansettelsessaken ikke var tilstrekkelig opplyst da ansettelsesvedtaket ble truffet. Kommunen har ikke hatt et forsvarlig grunnlag for å treffe avgjørelsen i tråd med kvalifikasjonsprinsippet.
 
 ## Sakens bakgrunn
 

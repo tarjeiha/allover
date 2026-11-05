@@ -15,10 +15,8 @@ Sivilombudets uttalelse 5.12.2024 (sak 2024/2886).
 ## Oppsummering
 
 Saken gjelder skjønnsfastsettelse av klagers inntekt som bidragspliktig etter barnelova §§ 70 og 71 og forskrift 15. januar 2003 nr. 123 om fastsetjing og endring av fostringstilskot § 4 sjette ledd.  
-   
- Sivilombudet behandlet spørsmålet om klager hadde rimelig grunn til å ha lav inntekt, og om det var riktig av Nav klageinstans å se bort ifra klagers masterstudium i denne vurderingen.  
-   
- Ombudet kom til at klageren hadde en rimelig grunn til å ha lav inntekt og at det ikke var riktig av Nav klageinstans å se bort ifra klagers masterstudium i klagebehandlingen. Masterstudiet skulle blitt hensyntatt som en del av klagers øvrige utdannings- og karriereløp, som han var i gang med på vedtakstidspunktet til førsteinstansen. Ombudet påpekte også at uavhengig av om masterstudiet vurderes som et etterfølgende forhold eller ikke, burde klageinstansen hensyntatt studiet i klageomgangen, slik de har adgang til etter forvaltningsloven § 34 annet ledd.
+Sivilombudet behandlet spørsmålet om klager hadde rimelig grunn til å ha lav inntekt, og om det var riktig av Nav klageinstans å se bort ifra klagers masterstudium i denne vurderingen.  
+Ombudet kom til at klageren hadde en rimelig grunn til å ha lav inntekt og at det ikke var riktig av Nav klageinstans å se bort ifra klagers masterstudium i klagebehandlingen. Masterstudiet skulle blitt hensyntatt som en del av klagers øvrige utdannings- og karriereløp, som han var i gang med på vedtakstidspunktet til førsteinstansen. Ombudet påpekte også at uavhengig av om masterstudiet vurderes som et etterfølgende forhold eller ikke, burde klageinstansen hensyntatt studiet i klageomgangen, slik de har adgang til etter forvaltningsloven § 34 annet ledd.
 
 ## Sakens bakgrunn
 

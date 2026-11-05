@@ -15,11 +15,9 @@ Sivilombudets uttalelse 20.4.2023 (sak 2022/5454).
 
 ## Oppsummering
 
-Saken gjelder en utlending som søkte norsk statsborgerskap i januar 2017. Utlendingsdirektoratet (UDI) avslo søknaden i november 2018. Vedtaket ble påklaget i desember 2018. UDI har ennå ikke behandlet klagen.   
-   
- Sivilombudet har kommet til at en klagebehandlingstid på over fire år og fire måneder i denne saken ikke er i tråd med forvaltningslovens krav til at saken skal avgjøres «uten ugrunnet opphold». Ombudet har forståelse for at pandemien og smittevernhensyn gjorde at det tok lengre tid enn vanlig å få gjennomført forvaltningsintervju, men det kan ikke aksepteres at det tok så lang tid som 19 måneder. Når forvaltningsintervjuet var gjennomført, skulle UDI dessuten ha prioritert å ferdigbehandle saken.  
-   
- Sivilombudet har også kommet til at UDI ikke har oppfylt kravet i forvaltningsloven om å gi et foreløpig svar. De har heller ikke holdt klageren orientert om sakens fremdrift i tråd med god forvaltningsskikk. UDI bes om å utarbeide hensiktsmessige rutiner for å sende foreløpige svar og forsinkelsesmeldinger, der behandlingstiden vil gå over forventet tid.
+Saken gjelder en utlending som søkte norsk statsborgerskap i januar 2017. Utlendingsdirektoratet (UDI) avslo søknaden i november 2018. Vedtaket ble påklaget i desember 2018. UDI har ennå ikke behandlet klagen.  
+Sivilombudet har kommet til at en klagebehandlingstid på over fire år og fire måneder i denne saken ikke er i tråd med forvaltningslovens krav til at saken skal avgjøres «uten ugrunnet opphold». Ombudet har forståelse for at pandemien og smittevernhensyn gjorde at det tok lengre tid enn vanlig å få gjennomført forvaltningsintervju, men det kan ikke aksepteres at det tok så lang tid som 19 måneder. Når forvaltningsintervjuet var gjennomført, skulle UDI dessuten ha prioritert å ferdigbehandle saken.  
+Sivilombudet har også kommet til at UDI ikke har oppfylt kravet i forvaltningsloven om å gi et foreløpig svar. De har heller ikke holdt klageren orientert om sakens fremdrift i tråd med god forvaltningsskikk. UDI bes om å utarbeide hensiktsmessige rutiner for å sende foreløpige svar og forsinkelsesmeldinger, der behandlingstiden vil gå over forventet tid.
 
 ## Sakens bakgrunn
 

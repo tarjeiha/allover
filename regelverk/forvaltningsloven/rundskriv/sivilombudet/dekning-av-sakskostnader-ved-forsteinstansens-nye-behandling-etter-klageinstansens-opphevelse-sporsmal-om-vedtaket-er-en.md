@@ -16,8 +16,7 @@ Sivilombudets uttalelse 29.3.2019 (sak 2018/31).
 ## Oppsummering
 
 Saken gjelder krav om dekning av sakskostnader for arbeid som ble utført i forbindelse med Utlendingsdirektoratets fornyede behandling av en søknad om midlertidig oppholdstillatelse. Direktoratet avslo i første omgang søknaden om oppholdstillatelse, fordi søkeren ikke fylte vilkårene for å søke fra Norge. Utlendingsnemnda opphevet direktoratets vedtak, og ved direktoratets fornyede behandling fikk søkeren en begrenset midlertidig oppholdstillatelse. Direktoratet og nemnda avslo søkerens krav om dekning av kostnader for arbeid som hans advokat hadde utført i forbindelse med direktoratets fornyede behandling.  
-   
- Ombudsmannen er kommet til at Utlendingsdirektoratets andre vedtak om innvilgelse av søknaden om oppholdstillatelse endret direktoratets første vedtak til partens gunst, jf. forvaltningsloven § 36 første ledd. Parten oppnådde her en bedret rettsstilling sammenlignet med avslaget i direktoratets første vedtak. Det er uten betydning at Utlendingsdirektoratet ikke hadde vurdert alle lovens vilkår for oppholdstillatelse i sin første behandling, og at parten hadde rett til å få dekket nødvendige sakskostnader i forbindelse med nemndas opphevelse.
+Ombudsmannen er kommet til at Utlendingsdirektoratets andre vedtak om innvilgelse av søknaden om oppholdstillatelse endret direktoratets første vedtak til partens gunst, jf. forvaltningsloven § 36 første ledd. Parten oppnådde her en bedret rettsstilling sammenlignet med avslaget i direktoratets første vedtak. Det er uten betydning at Utlendingsdirektoratet ikke hadde vurdert alle lovens vilkår for oppholdstillatelse i sin første behandling, og at parten hadde rett til å få dekket nødvendige sakskostnader i forbindelse med nemndas opphevelse.
 
 Se oppdatering fra forvaltningen
 

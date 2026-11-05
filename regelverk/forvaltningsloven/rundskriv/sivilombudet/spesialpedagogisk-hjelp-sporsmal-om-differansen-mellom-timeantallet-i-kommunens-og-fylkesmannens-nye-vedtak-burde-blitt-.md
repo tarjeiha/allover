@@ -16,10 +16,8 @@ Sivilombudets uttalelse 30.6.2020 (sak 2019/3872).
 ## Oppsummering
 
 Saken gjelder vedtak etter barnehageloven om spesialpedagogisk hjelp for barnehageåret 2019/2020. Fylkesmannen fant kommunens vedtak ugyldig og gjorde nytt vedtak i saken. Med virkning fra vedtaksdatoen ble den spesialpedagogiske hjelpen økt fra fem timer i uken, som kommunen hadde satt, til ti timer i uken. Barnets foreldre mente barnet i tillegg hadde krav på etterlevering av den samlede timedifferansen som oppsto mellom de to vedtakene i tiden frem til fylkesmannens nye vedtak ble iverksatt. I vedtaket i klagesaken var spørsmålet om etterlevering ikke berørt.  
-   
- Da dette spørsmålet ble tatt opp herfra, svarte Fylkesmannen at vurderingen av barnets beste tilsa at det var best for barnet ikke å få etterlevering.  
-   
- Ombudsmannen mener at Fylkesmannen i vedtaket i klagesaken burde ha vurdert uttrykkelig om barnet skulle fått etterlevert de ca. 40 uketimene som hun ikke hadde mottatt i tiden mellom kommunens og Fylkesmannens vedtak. Hvis foreldrenes syn på spørsmålet om etterlevering ikke allerede var kjent for Fylkesmannen, burde Fylkesmannen ha innhentet foreldrenes syn på spørsmålet om etterlevering. Fordi barnehageåret 2019/2020 nå er over, har ombudsmannen ikke funnet grunn til å be Fylkesmannen behandle saken på nytt.
+Da dette spørsmålet ble tatt opp herfra, svarte Fylkesmannen at vurderingen av barnets beste tilsa at det var best for barnet ikke å få etterlevering.  
+Ombudsmannen mener at Fylkesmannen i vedtaket i klagesaken burde ha vurdert uttrykkelig om barnet skulle fått etterlevert de ca. 40 uketimene som hun ikke hadde mottatt i tiden mellom kommunens og Fylkesmannens vedtak. Hvis foreldrenes syn på spørsmålet om etterlevering ikke allerede var kjent for Fylkesmannen, burde Fylkesmannen ha innhentet foreldrenes syn på spørsmålet om etterlevering. Fordi barnehageåret 2019/2020 nå er over, har ombudsmannen ikke funnet grunn til å be Fylkesmannen behandle saken på nytt.
 
 Barnet i saken er født vinteren 2014. Siden høsten 2017 har hun gått i barnehage i bydel X i Oslo kommune. PP-tjenesten i Oslo kommune kom i sakkyndig vurdering 23. februar 2017 til at barnet hadde behov for spesialpedagogisk hjelp som følge av språkvansker. PPT tilrådet «spesialpedagogisk hjelp i 10 uketimer til individuell oppfølging. Oppfølgingen gis av en pedagog eller person med erfaring fra arbeid med barn med særskilte behov».
 

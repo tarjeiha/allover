@@ -14,9 +14,9 @@ Sivilombudets uttalelse 11.12.2017 (sak 2016/2929).
 
 ## Oppsummering
 
-Saken gjelder tre tiltakshaveres søknad om tilskudd til skredsikringstiltak, som var utført på boligeiendommenes deres. NVE avslo søknaden fordi tiltaket var gjennomført før søknaden om tilskudd ble sendt. Olje- og energidepartementet fastholdt avslaget, og tilføyde at tiltakshaverne ikke oppfylte tilskuddsregelverkets krav om å dokumentere at sikringstiltaket ikke kunne realiseres uten støtte fra NVE.   
- Ombudsmannen uttalte at regelverket ikke ga adgang til rutinemessig å avslå søknader som kom inn etter at tiltaket var påbegynt. Hvorvidt slike søknader skal avslås, må avgjøres etter en konkret og helhetlig vurdering.  
- Ombudsmannen konkluderte med at departementet ikke hadde foretatt en tilstrekkelig vurdering, og departementet ble derfor bedt om å vurdere saken på nytt.
+Saken gjelder tre tiltakshaveres søknad om tilskudd til skredsikringstiltak, som var utført på boligeiendommenes deres. NVE avslo søknaden fordi tiltaket var gjennomført før søknaden om tilskudd ble sendt. Olje- og energidepartementet fastholdt avslaget, og tilføyde at tiltakshaverne ikke oppfylte tilskuddsregelverkets krav om å dokumentere at sikringstiltaket ikke kunne realiseres uten støtte fra NVE.  
+Ombudsmannen uttalte at regelverket ikke ga adgang til rutinemessig å avslå søknader som kom inn etter at tiltaket var påbegynt. Hvorvidt slike søknader skal avslås, må avgjøres etter en konkret og helhetlig vurdering.  
+Ombudsmannen konkluderte med at departementet ikke hadde foretatt en tilstrekkelig vurdering, og departementet ble derfor bedt om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

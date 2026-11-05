@@ -16,8 +16,7 @@ Sivilombudets uttalelse 25.4.2013 (sak 2012/3392).
 ## Oppsummering
 
 A ble i tingretten frifunnet for trygdebedrageri, men dømt til å betale erstatning til Nav for urettmessig mottatte attføringspenger. På grunn av tvil om kravets størrelse ble erstatningssummen fastsatt skjønnsmessig og viste seg å være lavere enn det beløp A faktisk skyldte Nav. Spørsmålet i denne saken er om den rettskraftige dommen er til hinder for at Nav kan inndrive det overskytende beløpet etter reglene om tilbakesøking i folketrygdloven § 22-15.  
-   
- Jeg er kommet til at kravet i sin helhet ble rettskraftig avgjort ved dommen, og at dommen dermed utelukker ny tilbakesøkning og inndrivelse fra Nav. At det eksisterer to alternative rettslige grunnlag for kravet medfører ikke at det kan regnes som to ulike krav. Arbeids- og velferdsdirektoratet besluttet deretter å tilbakebetale det beløpet som var inndrevet.
+Jeg er kommet til at kravet i sin helhet ble rettskraftig avgjort ved dommen, og at dommen dermed utelukker ny tilbakesøkning og inndrivelse fra Nav. At det eksisterer to alternative rettslige grunnlag for kravet medfører ikke at det kan regnes som to ulike krav. Arbeids- og velferdsdirektoratet besluttet deretter å tilbakebetale det beløpet som var inndrevet.
 
 ### Sakens bakgrunn
 

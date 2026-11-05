@@ -16,10 +16,8 @@ Sivilombudets uttalelse 13.5.2026 (sak 2025/6368).
 ## Oppsummering
 
 Saken gjelder krav om dekning av sakskostnader etter forvaltningsloven § 36. Nærings- og fiskeridepartementet avslo et krav om innsyn i en evalueringsrapport utarbeidet etter en hendelse med et lasteskip. Etter fem måneder, og etter at ombudet hadde foretatt skriftlige undersøkelser i saken, fattet departementet en ny avgjørelse hvor det ble gitt fullt innsyn i det aktuelle dokumentet. Departementet avslo sakskostnadskravet under henvisning til at utgiftene ikke hadde vært nødvendige for å få endret innsynsavslaget. Departementet viste til at det var foretatt løpende vurderinger og at det ble gitt fullt innsyn så snart det ikke lenger var grunnlag for å unnta dokumentet fra innsyn.  
-   
- Ombudet kom til at Nærings- og fiskeridepartementet synes å ha lagt til grunn feil forståelse av nødvendighetsvilkåret i forvaltningsloven § 36 ved vurderingen av sakskostnadskravet. Ved vurderingen av om de pådratte utgiftene var «nødvendige», må det tas utgangspunkt i hva som må ha fremstått som rimelig og naturlig for klagerne og deres advokat på klagetidspunktet. Videre kom ombudet til at det var rimelig og naturlig at klageren pådro seg utgifter til å klage departementets avgjørelse inn for Sivilombudet. Hvilke utgifter som knytter seg til dette arbeidet har ikke ombudet vurdert.  
-   
- Departementet ble bedt om å vurdere sakskostnadskravet på nytt.
+Ombudet kom til at Nærings- og fiskeridepartementet synes å ha lagt til grunn feil forståelse av nødvendighetsvilkåret i forvaltningsloven § 36 ved vurderingen av sakskostnadskravet. Ved vurderingen av om de pådratte utgiftene var «nødvendige», må det tas utgangspunkt i hva som må ha fremstått som rimelig og naturlig for klagerne og deres advokat på klagetidspunktet. Videre kom ombudet til at det var rimelig og naturlig at klageren pådro seg utgifter til å klage departementets avgjørelse inn for Sivilombudet. Hvilke utgifter som knytter seg til dette arbeidet har ikke ombudet vurdert.  
+Departementet ble bedt om å vurdere sakskostnadskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

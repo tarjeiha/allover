@@ -16,14 +16,10 @@ Sivilombudets uttalelse 20.12.2022 (sak 2022/2672).
 ## Oppsummering
 
 Saken gjelder retten til innsyn i hvem som har skrevet pasientjournal. Klagerne hadde i utgangspunktet rett til innsyn i pasientjournalen, jf. pasient- og brukerrettighetsloven § 5-1. Stjørdal kommune skjermet navnet til personen som hadde skrevet pasientjournalen med henvisning til arbeidsgivers plikt til å sikre at ansatte ikke utsettes for trakassering, annen utilbørlig adferd, vold eller trusler, jf. arbeidsmiljøloven § 3-4 nr. 3 og 4. Statsforvalteren hadde omgjort kommunens innsynsnektelse, uten at kommunen rettet seg etter vedtaket.  
-   
- Hovedspørsmålet er om kommunen kan anvende arbeidsmiljøloven § 4-3 til å nekte innsyn i pasientjournalen fordi kommunen mener klagerne vil bruke opplysningene på en krenkende måte overfor kommunens arbeidstaker. Saken reiser også spørsmål om kommunen som underinstans har plikt til å rette seg etter klageinstansens endelige vedtak.  
-   
- Stjørdal kommune skulle etter ombudets syn ha rettet seg etter Statsforvalterens endelige vedtak i saken. Ombudet ber kommunen gjennomføre Statsforvalterens vedtak.   
-   
- Stjørdal kommune har videre lagt feil rettsanvendelse til grunn for innsynssaken. Kommunen kan ikke benytte arbeidsmiljøloven § 4-3 for å innskrenke retten til innsyn i pasientjournalen. Etter ombudets oppfatning må unntak fra innsynsretten hjemles i unntaksreglene i pasient- og brukerrettighetsloven § 5-1 andre ledd eller forvaltningsloven § 19 andre ledd bokstav b. Kommunen har ikke vist til konkrete holdepunkter for at det er grunnlag for å holde tilbake den ansattes navn og stilling etter disse bestemmelsene.   
-   
- Ombudet ber kommunen merke seg ombudets vurderinger av anvendelse av arbeidsmiljøloven § 4-3 i lignende fremtidige saker.
+Hovedspørsmålet er om kommunen kan anvende arbeidsmiljøloven § 4-3 til å nekte innsyn i pasientjournalen fordi kommunen mener klagerne vil bruke opplysningene på en krenkende måte overfor kommunens arbeidstaker. Saken reiser også spørsmål om kommunen som underinstans har plikt til å rette seg etter klageinstansens endelige vedtak.  
+Stjørdal kommune skulle etter ombudets syn ha rettet seg etter Statsforvalterens endelige vedtak i saken. Ombudet ber kommunen gjennomføre Statsforvalterens vedtak.  
+Stjørdal kommune har videre lagt feil rettsanvendelse til grunn for innsynssaken. Kommunen kan ikke benytte arbeidsmiljøloven § 4-3 for å innskrenke retten til innsyn i pasientjournalen. Etter ombudets oppfatning må unntak fra innsynsretten hjemles i unntaksreglene i pasient- og brukerrettighetsloven § 5-1 andre ledd eller forvaltningsloven § 19 andre ledd bokstav b. Kommunen har ikke vist til konkrete holdepunkter for at det er grunnlag for å holde tilbake den ansattes navn og stilling etter disse bestemmelsene.  
+Ombudet ber kommunen merke seg ombudets vurderinger av anvendelse av arbeidsmiljøloven § 4-3 i lignende fremtidige saker.
 
 ## Sakens bakgrunn
 

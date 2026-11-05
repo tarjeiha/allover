@@ -15,11 +15,9 @@ Sivilombudets uttalelse 26.11.2025 (sak 2025/2952).
 
 ## Oppsummering
 
-Saken gjelder brudd på utredningsplikten etter forvaltningsloven § 17 i forbindelse med ansettelse av landmåler i X kommune. Klageren hadde om lag 25 års relevant erfaring og utdanningen det ble søkt etter. Han ble ikke innkalt til intervju. Kommunen ansatte en nyutdannet søker som kommunen hadde erfaring med etter at han hadde hatt sommerjobb i kommunen to år tidligere.   
-   
- I lys av at klageren ikke hadde blitt kalt inn til intervju, forelå det ikke tilstrekkelig dokumentasjon i saken til å kunne konkludere med at det hadde skjedd en urettmessig forbigåelse. Det kan samtidig ikke utelukkes, da kommunen ikke hadde lagt frem dokumentasjon på at klageren var uegnet for stillingen, eller mindre egnet for stillingen, enn den som ble ansatt.  
-   
- Ombudet har bedt kommunen sørge for å ha rutiner som sikrer at utredningsplikten i forvaltningsloven § 17 og grunnleggende krav til saklig og forsvarlig saksbehandling ivaretas i ansettelsessaker.
+Saken gjelder brudd på utredningsplikten etter forvaltningsloven § 17 i forbindelse med ansettelse av landmåler i X kommune. Klageren hadde om lag 25 års relevant erfaring og utdanningen det ble søkt etter. Han ble ikke innkalt til intervju. Kommunen ansatte en nyutdannet søker som kommunen hadde erfaring med etter at han hadde hatt sommerjobb i kommunen to år tidligere.  
+I lys av at klageren ikke hadde blitt kalt inn til intervju, forelå det ikke tilstrekkelig dokumentasjon i saken til å kunne konkludere med at det hadde skjedd en urettmessig forbigåelse. Det kan samtidig ikke utelukkes, da kommunen ikke hadde lagt frem dokumentasjon på at klageren var uegnet for stillingen, eller mindre egnet for stillingen, enn den som ble ansatt.  
+Ombudet har bedt kommunen sørge for å ha rutiner som sikrer at utredningsplikten i forvaltningsloven § 17 og grunnleggende krav til saklig og forsvarlig saksbehandling ivaretas i ansettelsessaker.
 
 ## Sakens bakgrunn
 

@@ -15,11 +15,9 @@ Sivilombudets uttalelse 10.12.2024 (sak 2024/3596).
 
 ## Oppsummering
 
-Saken gjelder Politidirektoratets (PODs) avgjørelse om å avslå et krav om innsyn i en rapport utarbeidet etter varsel mot en politistasjonssjef. Direktoratet mente rapporten inneholdt taushetsbelagte opplysninger, både om omvarslede selv og andre. Dokumentet ble unntatt fra innsyn i sin helhet, fordi de taushetsbelagte opplysningene utgjorde den vesentligste delen av dokumentet.   
-   
- Sivilombudet kom til at det var begrunnet tvil om POD hadde foretatt en tilstrekkelig konkret vurdering av hvilke andre personer enn omvarslede selv rapporten inneholdt taushetsbelagte opplysninger om. Videre kom sivilombudet til at det var begrunnet tvil om POD hadde foretatt en korrekt og tilstrekkelig konkret vurdering av hvilke opplysninger som gjaldt omvarsledes «personlige forhold», jf. forvaltningsloven § 13 første ledd nr. 1. Som en følge av dette kom ombudet også til at det var begrunnet tvil om vilkårene for å unnta hele dokumentet fra innsyn i medhold av offentleglova § 12 bokstav c var oppfylt.   
-   
- Sivilombudet ba POD behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
+Saken gjelder Politidirektoratets (PODs) avgjørelse om å avslå et krav om innsyn i en rapport utarbeidet etter varsel mot en politistasjonssjef. Direktoratet mente rapporten inneholdt taushetsbelagte opplysninger, både om omvarslede selv og andre. Dokumentet ble unntatt fra innsyn i sin helhet, fordi de taushetsbelagte opplysningene utgjorde den vesentligste delen av dokumentet.  
+Sivilombudet kom til at det var begrunnet tvil om POD hadde foretatt en tilstrekkelig konkret vurdering av hvilke andre personer enn omvarslede selv rapporten inneholdt taushetsbelagte opplysninger om. Videre kom sivilombudet til at det var begrunnet tvil om POD hadde foretatt en korrekt og tilstrekkelig konkret vurdering av hvilke opplysninger som gjaldt omvarsledes «personlige forhold», jf. forvaltningsloven § 13 første ledd nr. 1. Som en følge av dette kom ombudet også til at det var begrunnet tvil om vilkårene for å unnta hele dokumentet fra innsyn i medhold av offentleglova § 12 bokstav c var oppfylt.  
+Sivilombudet ba POD behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

@@ -15,14 +15,10 @@ Sivilombudets uttalelse 17.12.2019 (sak 2019/3483).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i sammenstillinger av politiets responstid fremsatt for de enkelte politidistriktene. Kravene ble behandlet av Politidirektoratet i første instans og klagebehandlet av Justis- og beredskapsdepartementet. Innsynskravene ble avslått med henvisning til taushetsplikten og at vilkårene for sammenstilling i offentleglova § 9 ikke var oppfylt.  
-   
- Kravet i offentleglova § 29 første ledd til at det organet som mottar et innsynskrav skal vurdere dette «konkret og sjølvstendig» innebærer begrensinger for overordnet organs adgang til å behandle innsynskravet i første instans. Ombudsmannen mener Politidirektoratet ikke kunne behandle innsynskravene som var fremsatt for de enkelte politidistriktene i første instans.  
-   
- Hverken kvalitetskontroll av dataene eller taushetspliktvurderinger inngår i vurderingen av om sammenstillingen kan gjøres med enkle fremgangsmåter etter offentleglova § 9. Ettersom hver enkelt sammenstilling i dette tilfellet kunne gjøres raskt, anser ombudsmannen vilkåret som oppfylt.  
-   
- Opplysninger som er underlagt lovbestemt taushetsplikt skal unntas offentlighet. Ombudsmannen kan ikke se at politiregisterloven § 19, jf. § 34 og politiregisterforskriften § 53-8 hjemler taushetsplikt, slik departementet har lagt til grunn.  
-   
- Ombudsmannen ber om at de innsynskravene der det ikke er gitt innsyn behandles på nytt. Departementet må også avklare hva som er riktig(e) organ(er) for behandlingene av innsynskravene.
+Kravet i offentleglova § 29 første ledd til at det organet som mottar et innsynskrav skal vurdere dette «konkret og sjølvstendig» innebærer begrensinger for overordnet organs adgang til å behandle innsynskravet i første instans. Ombudsmannen mener Politidirektoratet ikke kunne behandle innsynskravene som var fremsatt for de enkelte politidistriktene i første instans.  
+Hverken kvalitetskontroll av dataene eller taushetspliktvurderinger inngår i vurderingen av om sammenstillingen kan gjøres med enkle fremgangsmåter etter offentleglova § 9. Ettersom hver enkelt sammenstilling i dette tilfellet kunne gjøres raskt, anser ombudsmannen vilkåret som oppfylt.  
+Opplysninger som er underlagt lovbestemt taushetsplikt skal unntas offentlighet. Ombudsmannen kan ikke se at politiregisterloven § 19, jf. § 34 og politiregisterforskriften § 53-8 hjemler taushetsplikt, slik departementet har lagt til grunn.  
+Ombudsmannen ber om at de innsynskravene der det ikke er gitt innsyn behandles på nytt. Departementet må også avklare hva som er riktig(e) organ(er) for behandlingene av innsynskravene.
 
 Se oppdatering fra forvaltningen
 

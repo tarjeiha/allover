@@ -15,13 +15,10 @@ Sivilombudets uttalelse 27.10.2026 (sak 2025/2831).
 
 ## Oppsummering
 
-Saken gjelder Navs behandling av en sak om endring av barnebidrag der klageren sonet i fengsel. Utbetaling av uføretrygd stanses som utgangspunkt når en person soner fengselsstraff. Dersom vedkommende forsørger barn, utbetales likevel 50 prosent uføretrygd jf. folketrygdloven § 12-20 første ledd andre punktum.   
-   
- Klagerens bidragsplikt ble etter en endringssøknad satt til 0 kroner, til tross for at klageren på dette tidspunktet hadde rett til utbetaling av 50 prosent uføretrygd. Etter at bidraget ble satt til 0 kroner, ble utbetalingen av uføretrygden stanset. Klageren forsøkte senere å få gjenopptatt både bidragsplikten og utbetalingen av uføretrygden, og anførte at det var en sammenheng mellom bidragsvedtaket og stansen i utbetalingene. Han ble imidlertid møtt med at han ikke hadde bidragsevne, fordi han ikke hadde inntekt. At han ikke lenger hadde inntekt, var samtidig en konsekvens av vedtaket om endring av barnebidraget.  
-   
- Saken reiste spørsmål om Nav hadde oppfylt utredningsplikten etter forvaltningsloven § 17 og veiledningsplikten etter § 11, både ved behandlingen av endringssøknaden og senere begjæringer om omgjøring. Ombudet mente at Nav ikke hadde utredet saken tilstrekkelig før bidraget ble satt til 0 kroner, og heller ikke fulgt opp klagerens senere opplysninger om sammenhengen mellom bidragsvedtaket og stansen av uføretrygden. Ombudet kom også til at klageren ikke hadde fått tilstrekkelig veiledning.  
-   
- Sivilombudet konkluderte med at Nav hadde brutt veilednings- og utredningsplikten, jf. forvaltningsloven §§ 11 og 17.
+Saken gjelder Navs behandling av en sak om endring av barnebidrag der klageren sonet i fengsel. Utbetaling av uføretrygd stanses som utgangspunkt når en person soner fengselsstraff. Dersom vedkommende forsørger barn, utbetales likevel 50 prosent uføretrygd jf. folketrygdloven § 12-20 første ledd andre punktum.  
+Klagerens bidragsplikt ble etter en endringssøknad satt til 0 kroner, til tross for at klageren på dette tidspunktet hadde rett til utbetaling av 50 prosent uføretrygd. Etter at bidraget ble satt til 0 kroner, ble utbetalingen av uføretrygden stanset. Klageren forsøkte senere å få gjenopptatt både bidragsplikten og utbetalingen av uføretrygden, og anførte at det var en sammenheng mellom bidragsvedtaket og stansen i utbetalingene. Han ble imidlertid møtt med at han ikke hadde bidragsevne, fordi han ikke hadde inntekt. At han ikke lenger hadde inntekt, var samtidig en konsekvens av vedtaket om endring av barnebidraget.  
+Saken reiste spørsmål om Nav hadde oppfylt utredningsplikten etter forvaltningsloven § 17 og veiledningsplikten etter § 11, både ved behandlingen av endringssøknaden og senere begjæringer om omgjøring. Ombudet mente at Nav ikke hadde utredet saken tilstrekkelig før bidraget ble satt til 0 kroner, og heller ikke fulgt opp klagerens senere opplysninger om sammenhengen mellom bidragsvedtaket og stansen av uføretrygden. Ombudet kom også til at klageren ikke hadde fått tilstrekkelig veiledning.  
+Sivilombudet konkluderte med at Nav hadde brutt veilednings- og utredningsplikten, jf. forvaltningsloven §§ 11 og 17.
 
 ## Sakens bakgrunn
 

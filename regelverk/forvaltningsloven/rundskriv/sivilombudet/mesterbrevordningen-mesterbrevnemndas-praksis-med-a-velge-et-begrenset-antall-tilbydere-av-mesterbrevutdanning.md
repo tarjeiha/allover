@@ -14,11 +14,9 @@ Sivilombudets uttalelse 27.5.2020 (sak 2019/1698).
 
 ## Oppsummering
 
-Saken gjelder Mesterbrevnemndas praksis med å velge et begrenset antall tilbydere av mesterbrevutdanning. Spørsmålet er om Mesterbrevnemndas valg av tilbydere må anses som en offentlig godkjenningsordning uten tilstrekkelig rettslig forankring i nemndas private autonomi.   
-   
- Ombudsmannen legger til grunn at Mesterbrevnemndas praksis ikke kan anses å ha rettslig forankring i nemndas private autonomi. Nemndas godkjenningspraksis har heller ikke tilstrekkelig hjemmel i mesterbrevloven eller forskrifter fastsatt med hjemmel i den. Avgjørelsen om ikke å ville realitetsbehandle klagers søknad må derfor anses ugyldig.   
-   
- Ombudsmannen forutsetter at Mesterbrevnemnda nå omgående realitetsbehandler klagers søknad.
+Saken gjelder Mesterbrevnemndas praksis med å velge et begrenset antall tilbydere av mesterbrevutdanning. Spørsmålet er om Mesterbrevnemndas valg av tilbydere må anses som en offentlig godkjenningsordning uten tilstrekkelig rettslig forankring i nemndas private autonomi.  
+Ombudsmannen legger til grunn at Mesterbrevnemndas praksis ikke kan anses å ha rettslig forankring i nemndas private autonomi. Nemndas godkjenningspraksis har heller ikke tilstrekkelig hjemmel i mesterbrevloven eller forskrifter fastsatt med hjemmel i den. Avgjørelsen om ikke å ville realitetsbehandle klagers søknad må derfor anses ugyldig.  
+Ombudsmannen forutsetter at Mesterbrevnemnda nå omgående realitetsbehandler klagers søknad.
 
 ## Sakens bakgrunn
 

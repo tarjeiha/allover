@@ -15,10 +15,8 @@ Sivilombudets uttalelse 28.11.2018 (sak 2017/4052).
 ## Oppsummering
 
 Sivilombudsmannen har av eget tiltak gjennomgått et politidistrikts systemer for utvelgelse av intervjukandidater, og bruken av poenggivning ved rangering av søkere når det skal ansettes et større antall personer (masseansettelser). I den konkrete saken som er undersøkt var det nesten 300 søkere, og det ble gjennomført 100 intervjuer.  
-   
- Å bruke poengskjemaer basert på en stillingsanalyse, utlysningstekst og sentralt gitte retningslinjer, mener Sivilombudsmannen er et godt egnet virkemiddel for å ivareta kvalifikasjonsprinsippet. Det forutsetter at kvalifikasjonsprinsippet er fulgt allerede ved utvelgelsen av kandidater til intervju.  
-   
- Undersøkelsen viser at det kan være mangler ved politidistriktets rutiner for utvelgelse av intervjukandidater. Dette kan føre til at det er enkelte søkere som kommer til intervju og eventuell innstilles, som ikke samlet sett er best kvalifisert for stillingen. Ombudsmannen anbefaler politidistriktet å foreta en gjennomgang av rutinene slik at det er de best kvalifiserte kandidatene som går videre til intervjurunden.
+Å bruke poengskjemaer basert på en stillingsanalyse, utlysningstekst og sentralt gitte retningslinjer, mener Sivilombudsmannen er et godt egnet virkemiddel for å ivareta kvalifikasjonsprinsippet. Det forutsetter at kvalifikasjonsprinsippet er fulgt allerede ved utvelgelsen av kandidater til intervju.  
+Undersøkelsen viser at det kan være mangler ved politidistriktets rutiner for utvelgelse av intervjukandidater. Dette kan føre til at det er enkelte søkere som kommer til intervju og eventuell innstilles, som ikke samlet sett er best kvalifisert for stillingen. Ombudsmannen anbefaler politidistriktet å foreta en gjennomgang av rutinene slik at det er de best kvalifiserte kandidatene som går videre til intervjurunden.
 
 ## Sakens bakgrunn
 

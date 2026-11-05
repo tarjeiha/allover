@@ -16,12 +16,9 @@ Sivilombudets uttalelse 23.4.2019 (sak 2018/2270).
 ## Oppsummering
 
 Saken gjelder manglende svar fra Måsøy kommune i en sak om gebyr for slamtømming. Ombudsmannens undersøkelse av saken viste at kommunen journalførte henvendelser om gebyrfastsettelsen fra flere innbyggere på samme sak. Samtidig ble flere henvendelser fra én klager fordelt på flere saker. Dette gjorde det uklart hvilke henvendelser som var besvart og om det var sendt foreløpig svar.  
-   
- Ombudsmannen bemerker at kommunen har et arkivansvar. Kommunen plikter ifølge arkivlova å ha arkiv, og at disse er «ordna og innretta slik at dokumenta er tryggja som informasjonskjelder for samtid og ettertid». Reglene om arkiv og journalføring skal sikre både det kortsiktige behovet kommunen har for tilgang til informasjon i egne arkiver, men også det langsiktige, samfunnsmessige behovet for å ta vare på viktig dokumentasjon for fremtiden. Et godt arkiv muliggjør også kontroll med forvaltningen, herunder fra ombudsmannens side.  
-   
- Kommunens journalføring har i betydelig grad vanskeliggjort ombudsmannens undersøkelse av saken, og den kan ha bidratt til å vanskeliggjøre kommunens oppfølging av borgernes henvendelser. Ombudsmannen ber Måsøy kommune om å gjennomgå sine rutiner for journalføring for å påse at arkivansvaret blir oppfylt.  
-   
- Det er uklart for ombudsmannen når de forskjellige henvendelsene fra klagerne kom inn til kommunen og når de er besvart. Kommunen bes merke seg reglene om saksbehandlingstid og foreløpig svar i forvaltningsloven.
+Ombudsmannen bemerker at kommunen har et arkivansvar. Kommunen plikter ifølge arkivlova å ha arkiv, og at disse er «ordna og innretta slik at dokumenta er tryggja som informasjonskjelder for samtid og ettertid». Reglene om arkiv og journalføring skal sikre både det kortsiktige behovet kommunen har for tilgang til informasjon i egne arkiver, men også det langsiktige, samfunnsmessige behovet for å ta vare på viktig dokumentasjon for fremtiden. Et godt arkiv muliggjør også kontroll med forvaltningen, herunder fra ombudsmannens side.  
+Kommunens journalføring har i betydelig grad vanskeliggjort ombudsmannens undersøkelse av saken, og den kan ha bidratt til å vanskeliggjøre kommunens oppfølging av borgernes henvendelser. Ombudsmannen ber Måsøy kommune om å gjennomgå sine rutiner for journalføring for å påse at arkivansvaret blir oppfylt.  
+Det er uklart for ombudsmannen når de forskjellige henvendelsene fra klagerne kom inn til kommunen og når de er besvart. Kommunen bes merke seg reglene om saksbehandlingstid og foreløpig svar i forvaltningsloven.
 
 ## Sakens bakgrunn
 

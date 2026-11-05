@@ -14,11 +14,9 @@ Sivilombudets uttalelse 22.3.2023 (sak 2022/6116).
 
 ## Oppsummering
 
-Saken gjelder lovligheten av et krav fra Mesterbrevnemnda om at en søker måtte legge inn søknaden om mesterbrev på grunnlag av realkompetanse på nytt etter innføringen av en ny digital søknadsportal. Klager hadde sendt inn søknaden fire måneder før innføringen av den nye digitale portalen. Søknaden oppfylte kravene til format i gjeldende regelverk på tidspunktet for innsendingen.   
-   
- Sivilombudet er kommet til at Mesterbrevnemnda ikke hadde rettslig grunnlag for å kreve at klager/søker måtte legge inn søknaden om mesterbrev på nytt etter innføring av en digital søknadsportal. Søknaden oppfylte formkravene i regelverket på tidspunktet for innsendelsen. Den må derfor anses som levert og må behandles slik den foreligger.   
-   
- Ved et eventuelt avslag på søknaden, eller ved krav om innsending av utfyllende informasjon/dokumentasjon, etter ikrafttredelsen av forskrift om søknad om mesterbrev på grunnlag av realkompetanse § 2 annet ledd, vil nemnda kunne kreve at en søker benytter den digitale portalen.
+Saken gjelder lovligheten av et krav fra Mesterbrevnemnda om at en søker måtte legge inn søknaden om mesterbrev på grunnlag av realkompetanse på nytt etter innføringen av en ny digital søknadsportal. Klager hadde sendt inn søknaden fire måneder før innføringen av den nye digitale portalen. Søknaden oppfylte kravene til format i gjeldende regelverk på tidspunktet for innsendingen.  
+Sivilombudet er kommet til at Mesterbrevnemnda ikke hadde rettslig grunnlag for å kreve at klager/søker måtte legge inn søknaden om mesterbrev på nytt etter innføring av en digital søknadsportal. Søknaden oppfylte formkravene i regelverket på tidspunktet for innsendelsen. Den må derfor anses som levert og må behandles slik den foreligger.  
+Ved et eventuelt avslag på søknaden, eller ved krav om innsending av utfyllende informasjon/dokumentasjon, etter ikrafttredelsen av forskrift om søknad om mesterbrev på grunnlag av realkompetanse § 2 annet ledd, vil nemnda kunne kreve at en søker benytter den digitale portalen.
 
 ## Sakens bakgrunn
 

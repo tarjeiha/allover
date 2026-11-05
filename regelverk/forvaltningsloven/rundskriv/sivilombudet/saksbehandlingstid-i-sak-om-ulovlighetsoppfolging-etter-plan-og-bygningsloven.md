@@ -15,8 +15,7 @@ Sivilombudets uttalelse 2.11.2020 (sak 2020/1831).
 ## Oppsummering
 
 Saken gjelder Oslo kommunes saksbehandlingstid i en sak om ulovlighetsoppfølging av en terrengpåfylling. Ulovlighetsoppfølgingen startet da en velforening klaget til kommunen i 2014. Ombudsmannens undersøkelser gjelder kommunens saksbehandlingstid etter at tiltakshaveren la frem en uttalelse 23. mai 2019 med kommentarer til kommunens tilsynsrapport om tiltaket. Tre uker etter dette påpekte vellet at de påklagde forholdene fortsatt ikke var rettet.  
-   
- Fra vellet orienterte kommunen om at tiltaket ikke var rettet, til kommunen sendte varsel om retting og tvangsmulkt til tiltakshaveren, tok det rundt 11 måneder. Fremdriften i saksbehandlingen i denne perioden var ikke i samsvar med forvaltningslovens krav om at en sak skal forberedes og avgjøres «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. At saken på dette tidspunktet allerede hadde pågått svært lenge, tilsa at kommunen måtte være særlig oppmerksom på å sikre en god fremdrift, slik at den kunne få en avslutning.
+Fra vellet orienterte kommunen om at tiltaket ikke var rettet, til kommunen sendte varsel om retting og tvangsmulkt til tiltakshaveren, tok det rundt 11 måneder. Fremdriften i saksbehandlingen i denne perioden var ikke i samsvar med forvaltningslovens krav om at en sak skal forberedes og avgjøres «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. At saken på dette tidspunktet allerede hadde pågått svært lenge, tilsa at kommunen måtte være særlig oppmerksom på å sikre en god fremdrift, slik at den kunne få en avslutning.
 
 ## Sakens bakgrunn
 

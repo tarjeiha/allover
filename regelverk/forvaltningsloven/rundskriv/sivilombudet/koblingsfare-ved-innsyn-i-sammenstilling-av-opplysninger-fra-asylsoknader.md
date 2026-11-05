@@ -15,11 +15,9 @@ Sivilombudets uttalelse 5.7.2022 (sak 2022/1089).
 
 ## Oppsummering
 
-Saken gjaldt et krav om innsyn i en sammenstilling av opplysninger om søknader om beskyttelse (asyl). Utlendingsdirektoratet (UDI) avslo kravet under henvisning til taushetsplikten om personlige forhold. UDI mente at innsyn i en slik sammenstilling ville kunne føre til at individuelle asylsøkere ble identifisert. Justis- og beredskapsdepartementet opprettholdt UDIs avslag.   
-   
- Ombudet kom til at departementet ikke har gitt en tilstrekkelig begrunnelse for hvordan innsyn i en slik sammenstilling kan røpe taushetsbelagte opplysninger. Ut fra den redegjørelsen departementet har gitt, er det vanskelig å se at opplysningene i sammenstillingen kan kobles sammen med opplysninger som er kjent andre steder, og på den måten røpe den taushetsbelagte opplysningen at en person har søkt om beskyttelse.   
-   
- Ombudet ba departementet vurdere saken på nytt.
+Saken gjaldt et krav om innsyn i en sammenstilling av opplysninger om søknader om beskyttelse (asyl). Utlendingsdirektoratet (UDI) avslo kravet under henvisning til taushetsplikten om personlige forhold. UDI mente at innsyn i en slik sammenstilling ville kunne føre til at individuelle asylsøkere ble identifisert. Justis- og beredskapsdepartementet opprettholdt UDIs avslag.  
+Ombudet kom til at departementet ikke har gitt en tilstrekkelig begrunnelse for hvordan innsyn i en slik sammenstilling kan røpe taushetsbelagte opplysninger. Ut fra den redegjørelsen departementet har gitt, er det vanskelig å se at opplysningene i sammenstillingen kan kobles sammen med opplysninger som er kjent andre steder, og på den måten røpe den taushetsbelagte opplysningen at en person har søkt om beskyttelse.  
+Ombudet ba departementet vurdere saken på nytt.
 
 ## Sakens bakgrunn
 

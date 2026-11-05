@@ -16,12 +16,9 @@ Sivilombudets uttalelse 22.6.2023 (sak 2023/630).
 ## Oppsummering
 
 Saken gjelder UDIs behandling av søknad om fornyelse av reisebevis for en utlending med oppholdstillatelse som flyktning. Søknaden om fornyelse av reisebeviset ble i to perioder, på henholdsvis omtrent ti måneder og sju måneder, lagt til side av Utlendingsdirektoratet (UDI) i påvente av at det ble vurdert å utvise klageren.  
-   
- Sivilombudet er kommet til at UDI ikke skulle ha stoppet behandlingen av søknaden om reisebevis i påvente av utvisningssakene. Saken har derfor ikke vært behandlet i tråd med kravet i forvaltningslovens § 11 a om behandling «uten ugrunnet opphold».  
-   
- Fordi UDI i sin første redegjørelse uriktig opplyste at de ikke hadde satt saken på vent i påvente av utvisningssakene, ber Sivilombudet UDI om å gå gjennom rutinene sine for å sikre at de gir korrekte opplysninger til ombudet.  
-   
- Det bes om en orientering om den videre behandlingen av saken om reisebevis innen 1. september 2023.
+Sivilombudet er kommet til at UDI ikke skulle ha stoppet behandlingen av søknaden om reisebevis i påvente av utvisningssakene. Saken har derfor ikke vært behandlet i tråd med kravet i forvaltningslovens § 11 a om behandling «uten ugrunnet opphold».  
+Fordi UDI i sin første redegjørelse uriktig opplyste at de ikke hadde satt saken på vent i påvente av utvisningssakene, ber Sivilombudet UDI om å gå gjennom rutinene sine for å sikre at de gir korrekte opplysninger til ombudet.  
+Det bes om en orientering om den videre behandlingen av saken om reisebevis innen 1. september 2023.
 
 Se oppdatering fra forvaltningen
 

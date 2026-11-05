@@ -16,8 +16,7 @@ Sivilombudets uttalelse 11.2.2015 (sak 2014/2291).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i en sammenstilling av opplysninger fra politiets straffesaksregister (STRASAK). Spørsmålet var om det kunne gis innsyn i en statistisk oversikt over antall drapssaker i Norge fordelt på politidistrikt.  
-   
- Ombudsmannen er kommet til at Politidirektoratet skulle ha sørget for at det ble etablert en sammenstilling av de opplysningene det var bedt om innsyn i før innsynsspørsmålet ble vurdert, for å sikre en forsvarlig vurdering. Videre hadde direktoratet ikke foretatt tilstrekkelig undersøkelser for å avklare om de aktuelle opplysningene i sammenstillingen var taushetsbelagte. Etter ombudsmannens vurdering kan ikke den aktuelle sammenstillingen unntas etter bestemmelsen i offentleglova § 14 om organinterne dokumenter. Direktoratets saksbehandlingstid ved behandlingen av innsynssaken har dessuten vært for lang.
+Ombudsmannen er kommet til at Politidirektoratet skulle ha sørget for at det ble etablert en sammenstilling av de opplysningene det var bedt om innsyn i før innsynsspørsmålet ble vurdert, for å sikre en forsvarlig vurdering. Videre hadde direktoratet ikke foretatt tilstrekkelig undersøkelser for å avklare om de aktuelle opplysningene i sammenstillingen var taushetsbelagte. Etter ombudsmannens vurdering kan ikke den aktuelle sammenstillingen unntas etter bestemmelsen i offentleglova § 14 om organinterne dokumenter. Direktoratets saksbehandlingstid ved behandlingen av innsynssaken har dessuten vært for lang.
 
 Se oppdatering fra forvaltningen
 

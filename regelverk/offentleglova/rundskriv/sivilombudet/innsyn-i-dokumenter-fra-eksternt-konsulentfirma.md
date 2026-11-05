@@ -16,8 +16,7 @@ Sivilombudets uttalelse 26.9.2018 (sak 2018/1246).
 ## Oppsummering
 
 Saken gjelder spørsmål om innsyn i en presentasjon og i habilitetsvurderinger i forbindelse med et oppdrag et privat konsulentfirma hadde utført for Grimstad kommune. Kommunen ga klageren innsyn i en sladdet versjon av presentasjonen og avslo begjæringen om innsyn i habilitetsvurderingene. Kommunen hadde ikke mottatt en fullstendig usladdet versjon av presentasjonen eller habilitetsvurderingene fra firmaet. Det fremkom også at det ikke nødvendigvis forelå noen skriftlig vurdering av habilitetsspørsmålet hos firmaet.  
-   
- Ombudsmannen er kommet til at kommunen ikke hadde ivaretatt hensynene bak offentleglova og offentlighetsprinsippet i saksbehandlingen. Ombudsmannen mener at kommunen ved bruk av eksterne private konsulentfirmaer i fremtiden må sikre seg tilgang til de dokumenter firmaet har utarbeidet på grunnlag av oppdraget.
+Ombudsmannen er kommet til at kommunen ikke hadde ivaretatt hensynene bak offentleglova og offentlighetsprinsippet i saksbehandlingen. Ombudsmannen mener at kommunen ved bruk av eksterne private konsulentfirmaer i fremtiden må sikre seg tilgang til de dokumenter firmaet har utarbeidet på grunnlag av oppdraget.
 
 ## Sakens bakgrunn
 

@@ -16,10 +16,8 @@ Sivilombudets uttalelse 13.12.2023 (sak 2023/1068).
 ## Oppsummering
 
 Saken gjelder uføretrygd. Spørsmålet er om klageren, som har diagnosene CFS/ME og fibromyalgi, har gjennomgått all hensiktsmessig behandling etter folketrygdloven § 12-5 første ledd første punktum, og om åpenbare grunner tilsier at arbeidsrettede tiltak ikke er hensiktsmessig, jf. folketrygdloven § 12-5 første ledd annet punktum.  
-   
- Klagerens fastlege vurderte at ytterligere behandling og arbeidsrettede tiltak ville kunne føre til en forverring av klagerens symptomer og redusere hennes daglige funksjon ytterligere. Ombudet mener det ikke går klart nok frem av Trygderettens kjennelse og Navs vedtak hvordan klagerens tåleevne konkret er vurdert.  
-   
- Ombudet ber Nav følge opp uføresaken i samsvar med uttalelsen.
+Klagerens fastlege vurderte at ytterligere behandling og arbeidsrettede tiltak ville kunne føre til en forverring av klagerens symptomer og redusere hennes daglige funksjon ytterligere. Ombudet mener det ikke går klart nok frem av Trygderettens kjennelse og Navs vedtak hvordan klagerens tåleevne konkret er vurdert.  
+Ombudet ber Nav følge opp uføresaken i samsvar med uttalelsen.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 3.4.2019 (sak 2018/2665).
 ## Oppsummering
 
 To kommunale vedtak om tilbakebetaling av feilutbetalt produksjonstilskudd ble omgjort av Fylkesmannen etter «alminnelige forvaltningsrettslige regler», jf. forvaltningsloven § 35 siste ledd, fordi kommunen ikke hadde avkortet i klagers tilskudd og det heller ikke fremgikk av vedtakene at avkorting var vurdert. Landbruksdirektoratet stadfestet omgjøringsvedtaket etter klage, men på et annet hjemmelsgrunnlag. Direktoratet mente at vedtakene var ugyldige på grunn av saksbehandlingsfeil og rettsanvendelsesfeil, og dermed kunne omgjøres i medhold av forvaltningsloven § 35 første ledd bokstav c.  
-   
- Ombudsmannen er kommet til at kommunens vedtak verken lider av saksbehandlingsfeil eller rettsanvendelsesfeil. Vedtakene må anses gyldige, og direktoratet hadde dermed ikke omgjøringsadgang etter forvaltningsloven § 35 første ledd bokstav c. Videre har direktoratet brutt de minimumskravene som må stilles til kontradiksjon, ved at klager ikke fikk anledning til å uttale seg om det nye hjemmelsgrunnlaget for omgjøring. Ombudsmannen ber om å bli holdt orientert om hvordan direktoratet følger opp saken videre.
+Ombudsmannen er kommet til at kommunens vedtak verken lider av saksbehandlingsfeil eller rettsanvendelsesfeil. Vedtakene må anses gyldige, og direktoratet hadde dermed ikke omgjøringsadgang etter forvaltningsloven § 35 første ledd bokstav c. Videre har direktoratet brutt de minimumskravene som må stilles til kontradiksjon, ved at klager ikke fikk anledning til å uttale seg om det nye hjemmelsgrunnlaget for omgjøring. Ombudsmannen ber om å bli holdt orientert om hvordan direktoratet følger opp saken videre.
 
 Se oppdatering fra forvaltningen
 

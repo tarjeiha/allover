@@ -15,13 +15,10 @@ Sivilombudets uttalelse 24.9.2026 (sak 2026/2125).
 
 ## Oppsummering
 
-Saken gjelder Navs behandling av en søknad om midlertidig lønnstilskudd. Daglig leder i et aksjeselskap som han var eneeier av, søkte om midlertidig lønnstilskudd på grunn av redusert arbeidskapasitet som følge av sykdom. På søknadstidspunktet hadde han vært sykmeldt i 12 måneder og gikk tilbake i arbeid siden retten til sykepenger utløp. Søknaden ble avslått av det lokale Nav-kontoret, fordi han ble ansett som «nærstående» til virksomheten, og det etter Navs syn ikke var «særlige grunner» til å gi midlertidige tilskudd.   
-   
- Han påklaget vedtaket. Da klagen ble behandlet, ni måneder senere, var han sykemeldt på nytt etter å ha opptjent ny rett til sykepenger. Nav klageinstans la til grunn at søkeren ikke hadde vært sykmeldt i 12 måneder, som er et vilkår for å få midlertidig lønnstilskudd, og opprettholdt avslaget.   
-   
- Sivilombudet stilte blant annet direktoratet spørsmål om forholdet mellom reglene om midlertidig lønnstilskudd og retten til sykepenger. Videre ble det stilt spørsmål om saksbehandlingstiden, i lys av formålet med reglene om midlertidig lønnstilskudd.   
-   
- Etter at Sivilombudet henvendte seg til Arbeids- og velferdsdirektoratet om saken, kom direktoratet til at klageinstansens avgjørelse var ugyldig, og sendte den tilbake til Nav klageinstans for ny vurdering.
+Saken gjelder Navs behandling av en søknad om midlertidig lønnstilskudd. Daglig leder i et aksjeselskap som han var eneeier av, søkte om midlertidig lønnstilskudd på grunn av redusert arbeidskapasitet som følge av sykdom. På søknadstidspunktet hadde han vært sykmeldt i 12 måneder og gikk tilbake i arbeid siden retten til sykepenger utløp. Søknaden ble avslått av det lokale Nav-kontoret, fordi han ble ansett som «nærstående» til virksomheten, og det etter Navs syn ikke var «særlige grunner» til å gi midlertidige tilskudd.  
+Han påklaget vedtaket. Da klagen ble behandlet, ni måneder senere, var han sykemeldt på nytt etter å ha opptjent ny rett til sykepenger. Nav klageinstans la til grunn at søkeren ikke hadde vært sykmeldt i 12 måneder, som er et vilkår for å få midlertidig lønnstilskudd, og opprettholdt avslaget.  
+Sivilombudet stilte blant annet direktoratet spørsmål om forholdet mellom reglene om midlertidig lønnstilskudd og retten til sykepenger. Videre ble det stilt spørsmål om saksbehandlingstiden, i lys av formålet med reglene om midlertidig lønnstilskudd.  
+Etter at Sivilombudet henvendte seg til Arbeids- og velferdsdirektoratet om saken, kom direktoratet til at klageinstansens avgjørelse var ugyldig, og sendte den tilbake til Nav klageinstans for ny vurdering.
 
 ## Sakens bakgrunn
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 27.9.2019 (sak 2019/2930).
 ## Oppsummering
 
 Saken gjelder statlig tilsyn etter barnehageloven § 9. Bestemmelsen gir Fylkesmannen kompetanse til å føre tilsyn med kommunens oppfyllelse av plikter som barnehagemyndighet. Fylkesmannen mente at bestemmelsen ikke hjemlet tilsyn med seksjon for internrevisjon ved Byrådslederens kontor i Oslo kommune, da denne seksjonen ikke utførte oppgaver som knytter seg til kommunens oppgave som barnehagemyndighet.  
-   
- Det følger av barnehageloven § 8 at kommunen er lokal barnehagemyndighet. Kommunen velger selv hvordan den ønsker å utøve denne myndigheten. Internrevisjonen er en seksjon ved byrådslederens kontor. Arbeidet der favner over alle kommunens fagområder og virksomheter, herunder kommunens barnehager. I denne saken hadde Internrevisjonen behandlet et varsel som gjaldt kommunens barnehagedrift helt konkret, og der flere lovbrudd var påpekt. Håndteringen av varselet må anses som en del av kommunens ansvar som lokal barnehagemyndighet. At det kan føres tilsyn med virksomheten i byrådsavdelingene, er også i tråd med de hensyn som er skissert i forarbeidene til barnehagelovens bestemmelser om statlig tilsyn.   
-   
- Ombudsmannens konkluderte med at Fylkesmannen har hjemmel i barnehageloven 9 til å føre tilsyn med Oslo kommunes Internrevisjon i saker som berører kommunens ansvar som lokal barnehagemyndighet.
+Det følger av barnehageloven § 8 at kommunen er lokal barnehagemyndighet. Kommunen velger selv hvordan den ønsker å utøve denne myndigheten. Internrevisjonen er en seksjon ved byrådslederens kontor. Arbeidet der favner over alle kommunens fagområder og virksomheter, herunder kommunens barnehager. I denne saken hadde Internrevisjonen behandlet et varsel som gjaldt kommunens barnehagedrift helt konkret, og der flere lovbrudd var påpekt. Håndteringen av varselet må anses som en del av kommunens ansvar som lokal barnehagemyndighet. At det kan føres tilsyn med virksomheten i byrådsavdelingene, er også i tråd med de hensyn som er skissert i forarbeidene til barnehagelovens bestemmelser om statlig tilsyn.  
+Ombudsmannens konkluderte med at Fylkesmannen har hjemmel i barnehageloven 9 til å føre tilsyn med Oslo kommunes Internrevisjon i saker som berører kommunens ansvar som lokal barnehagemyndighet.
 
 ## Sakens bakgrunn
 

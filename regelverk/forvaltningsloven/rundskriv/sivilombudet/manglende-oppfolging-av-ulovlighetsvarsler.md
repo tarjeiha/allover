@@ -15,12 +15,9 @@ Sivilombudets uttalelse 25.11.2019 (sak 2019/3688).
 ## Oppsummering
 
 Ombudsmannen har av eget tiltak undersøkt Fjell kommunes praksis for håndtering av innkomne varsler om tiltak som kan være ulovlige etter plan- og bygningslovgivingen.  
-   
- Ombudsmannen har blant annet stilt spørsmål om kommunens restanser for ubehandlede ulovlighetsvarsler og kommunens saksbehandlingstid for ulovlighetsvarslene.  
-   
- Ombudsmannen er kommet til at kommunen ikke har overholdt sin plikt til å påse at plan- og bygningslovgivingen overholdes i kommunen. Saksbehandlingstiden i disse sakene er heller ikke i overenstemmelse med forvaltningslovens krav. Ombudsmannen forutsetter at kommunen fremover organiserer sitt arbeid på en slik måte at byggesaksavdelingen settes i stand til å oppfylle sine lovpålagte plikter.  
-   
- Fjell kommune slås sammen med Sund kommune og Øygarden kommune 1. januar 2020. Ombudsmannen ber om å bli holdt orientert om utviklingen i nye Øygarden kommune ved at kommunen oversender en statusoppdatering innen 15. mai 2020 om blant annet restansene for ulovlighetssaker fra Fjell kommune. Nye Øygarden kommune bes også redegjøre for hvordan de skal arbeide ned restansene, samt redegjøre for tidshorisonten for dette arbeidet.
+Ombudsmannen har blant annet stilt spørsmål om kommunens restanser for ubehandlede ulovlighetsvarsler og kommunens saksbehandlingstid for ulovlighetsvarslene.  
+Ombudsmannen er kommet til at kommunen ikke har overholdt sin plikt til å påse at plan- og bygningslovgivingen overholdes i kommunen. Saksbehandlingstiden i disse sakene er heller ikke i overenstemmelse med forvaltningslovens krav. Ombudsmannen forutsetter at kommunen fremover organiserer sitt arbeid på en slik måte at byggesaksavdelingen settes i stand til å oppfylle sine lovpålagte plikter.  
+Fjell kommune slås sammen med Sund kommune og Øygarden kommune 1. januar 2020. Ombudsmannen ber om å bli holdt orientert om utviklingen i nye Øygarden kommune ved at kommunen oversender en statusoppdatering innen 15. mai 2020 om blant annet restansene for ulovlighetssaker fra Fjell kommune. Nye Øygarden kommune bes også redegjøre for hvordan de skal arbeide ned restansene, samt redegjøre for tidshorisonten for dette arbeidet.
 
 ## Sakens bakgrunn og våre undersøkelser
 

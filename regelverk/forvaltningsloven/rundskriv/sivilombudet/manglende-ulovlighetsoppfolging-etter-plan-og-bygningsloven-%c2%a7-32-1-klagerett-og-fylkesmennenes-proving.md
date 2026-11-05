@@ -15,10 +15,8 @@ Sivilombudets uttalelse 28.2.2019 (sak 2018/4398).
 ## Oppsummering
 
 Saken gjelder spørsmål om det er klagerett på kommunenes beslutninger om ulovlighetsoppfølging etter plan- og bygningsloven § 32-1. Videre gjelder saken hva fylkesmennene skal prøve ved klager på kommunenes manglende ulovlighetsoppfølging.  
-   
- Ombudsmannen er kommet til at kommunenes beslutninger om å forfølge ulovligheter eller la det være, ikke er enkeltvedtak etter forvaltningsloven. Borgerne har da ikke klagerett på slike beslutninger.  
-   
- Når kommunene avviser klager fra borgerne på manglende ulovlighetsoppfølging, er dette avvisningsvedtak som kan påklages til fylkesmennene, jf. forvaltningsloven § 2 tredje ledd. Når fylkesmennene mottar klager på slike avvisningsvedtak, skal fylkesmennene – etter ombudsmannens syn – bare prøve om det var riktig av kommunene å avvise klagen, det vil si om beslutningene det klages på er enkeltvedtak som er undergitt klagerett.
+Ombudsmannen er kommet til at kommunenes beslutninger om å forfølge ulovligheter eller la det være, ikke er enkeltvedtak etter forvaltningsloven. Borgerne har da ikke klagerett på slike beslutninger.  
+Når kommunene avviser klager fra borgerne på manglende ulovlighetsoppfølging, er dette avvisningsvedtak som kan påklages til fylkesmennene, jf. forvaltningsloven § 2 tredje ledd. Når fylkesmennene mottar klager på slike avvisningsvedtak, skal fylkesmennene – etter ombudsmannens syn – bare prøve om det var riktig av kommunene å avvise klagen, det vil si om beslutningene det klages på er enkeltvedtak som er undergitt klagerett.
 
 ## Sakens bakgrunn
 

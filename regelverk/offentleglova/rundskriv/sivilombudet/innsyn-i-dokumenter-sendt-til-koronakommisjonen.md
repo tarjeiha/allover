@@ -15,8 +15,7 @@ Sivilombudets uttalelse 31.5.2021 (sak 2020/4858).
 ## Oppsummering
 
 En journalist ba om innsyn i dokumentasjon oversendt fra Statsministerens kontor (SMK) til Koronakommisjonen. Dokumentasjonen omfattet all informasjonsutveksling mellom personer som var involvert i vurderinger og beslutninger i forkant av nedstengningen 12. mars 2020. I tillegg ble det bedt om innsyn i svaret på henvendelsen til Koronakommisjonen. Statsministerens kontor avslo innsynskravet med henvisning til offentleglova §§ 14 første ledd og § 15 første og tredje ledd.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil knyttet til en del av ett dokument som er unntatt offentlighet, og om delen av dokumentet kan unntas med den begrunnelsen SMK har gitt. Det fremgår ikke i tilstrekkelig grad hvorfor unntak er nødvendig for sikre forsvarlige interne avgjørelsesprosesser. Ombudsmannen ber SMK vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil knyttet til en del av ett dokument som er unntatt offentlighet, og om delen av dokumentet kan unntas med den begrunnelsen SMK har gitt. Det fremgår ikke i tilstrekkelig grad hvorfor unntak er nødvendig for sikre forsvarlige interne avgjørelsesprosesser. Ombudsmannen ber SMK vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

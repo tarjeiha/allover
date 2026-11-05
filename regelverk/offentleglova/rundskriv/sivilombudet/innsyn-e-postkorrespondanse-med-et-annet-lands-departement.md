@@ -14,8 +14,8 @@ Sivilombudets uttalelse 26.4.2017 (sak 2017/102).
 
 ## Oppsummering
 
-Saken gjelder avslag på innsyn i e-postkorrespondanse mellom departementsråden i Nærings- og fiskeridepartementet og dennes kollega i det islandske nærings- og innovasjonsdepartementet. Under henvisning til offentleglova § 20 første ledd litra b om unntak fra innsyn av hensyn til Norges utenrikspolitiske interesser, avslo departementet innsynskravet.   
- Ombudsmannen finner det ikke godtgjort at det er «påkravd» å unnta dokumentet i sin helhet av hensyn til Norges utenrikspolitiske interesser. For enkelte deler av dokumentet er det ikke påvist konkrete forhold som oppfyller skadekravet. Ombudsmannen ber om at det foretas en ny vurdering av om det kan gis innsyn i deler av korrespondansen.
+Saken gjelder avslag på innsyn i e-postkorrespondanse mellom departementsråden i Nærings- og fiskeridepartementet og dennes kollega i det islandske nærings- og innovasjonsdepartementet. Under henvisning til offentleglova § 20 første ledd litra b om unntak fra innsyn av hensyn til Norges utenrikspolitiske interesser, avslo departementet innsynskravet.  
+Ombudsmannen finner det ikke godtgjort at det er «påkravd» å unnta dokumentet i sin helhet av hensyn til Norges utenrikspolitiske interesser. For enkelte deler av dokumentet er det ikke påvist konkrete forhold som oppfyller skadekravet. Ombudsmannen ber om at det foretas en ny vurdering av om det kan gis innsyn i deler av korrespondansen.
 
 ### Sakens bakgrunn
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 12.9.2024 (sak 2024/2972).
 
 ## Oppsummering
 
-Saken gjelder Kriminalomsorgen region østs behandlingstid i en klagesak fra en innsatt ved X fengsel som ble nektet å be under lufting i fengselets luftegård.   
-   
- Regionen mottok klagen 27. april 2023. Da ombudet avsluttet saken var klagen ennå ikke ferdig behandlet. Regionen opplyste at behandlingstiden skyldtes kapasitetsutfordringer, interne prioriteringer og at saken reiste vanskelige problemstillinger og krevde grundig utredning.  
-   
- Sivilombudet kom til at regionen ikke hadde forberedt og avgjort klagerens sak «uten ugrunnet opphold» etter forvaltningsloven.   
-   
- Ombudet ba regionen ferdigbehandle klagen. Videre ba ombudet regionen merke seg ombudets syn ved behandlingen av fremtidige saker.
+Saken gjelder Kriminalomsorgen region østs behandlingstid i en klagesak fra en innsatt ved X fengsel som ble nektet å be under lufting i fengselets luftegård.  
+Regionen mottok klagen 27. april 2023. Da ombudet avsluttet saken var klagen ennå ikke ferdig behandlet. Regionen opplyste at behandlingstiden skyldtes kapasitetsutfordringer, interne prioriteringer og at saken reiste vanskelige problemstillinger og krevde grundig utredning.  
+Sivilombudet kom til at regionen ikke hadde forberedt og avgjort klagerens sak «uten ugrunnet opphold» etter forvaltningsloven.  
+Ombudet ba regionen ferdigbehandle klagen. Videre ba ombudet regionen merke seg ombudets syn ved behandlingen av fremtidige saker.
 
 ## Sakens bakgrunn
 

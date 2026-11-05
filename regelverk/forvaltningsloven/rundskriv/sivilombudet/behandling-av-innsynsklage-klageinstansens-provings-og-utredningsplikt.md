@@ -15,10 +15,9 @@ Sivilombudets uttalelse 13.6.2023 (sak 2022/6028).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Agders behandling av en innsynsklage.   
-   
- Klageren ba det kommunale foretaket Arendal Eiendom KF om innsyn i logg og korrespondanse som det kommunale foretaket hadde hatt med et kommunalt aksjeselskap. Klageren fikk innsyn i postlistene. Han klagde over at korrespondanse mellom det kommunale foretaket og aksjeselskapet ikke fremgikk av postlistene. Statsforvalteren stadfestet det kommunale foretakets vedtak uten å gjøre undersøkelser i saken. Statsforvalteren innhentet heller ikke postlistene det ble gitt innsyn i.   
- Ombudet har kommet til at Statsforvalteren ikke har handlet i tråd med den prøvings- og utredningsplikten som gjelder for klagesaker om innsyn etter offentleglova. For å sikre en reell klagebehandling burde Statsforvalteren ha undersøkt hvordan førsteinstansen behandlet innsynskravet. Videre burde Statsforvalteren innhentet postlistene ved sin klagebehandling.
+Saken gjelder Statsforvalteren i Agders behandling av en innsynsklage.  
+Klageren ba det kommunale foretaket Arendal Eiendom KF om innsyn i logg og korrespondanse som det kommunale foretaket hadde hatt med et kommunalt aksjeselskap. Klageren fikk innsyn i postlistene. Han klagde over at korrespondanse mellom det kommunale foretaket og aksjeselskapet ikke fremgikk av postlistene. Statsforvalteren stadfestet det kommunale foretakets vedtak uten å gjøre undersøkelser i saken. Statsforvalteren innhentet heller ikke postlistene det ble gitt innsyn i.  
+Ombudet har kommet til at Statsforvalteren ikke har handlet i tråd med den prøvings- og utredningsplikten som gjelder for klagesaker om innsyn etter offentleglova. For å sikre en reell klagebehandling burde Statsforvalteren ha undersøkt hvordan førsteinstansen behandlet innsynskravet. Videre burde Statsforvalteren innhentet postlistene ved sin klagebehandling.
 
 ## Sakens bakgrunn
 

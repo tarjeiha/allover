@@ -15,10 +15,8 @@ Sivilombudets uttalelse 27.3.2019 (sak 2018/4012).
 ## Oppsummering
 
 Saken gjelder dispensasjon fra byggegrensen i kommuneplanens arealdel for riving og oppføring av enebolig på en eiendom i strandkanten. Fylkesmannen i Telemark kom til at Bamble kommunes vedtak led av mangler, men at disse var reparert ved Fylkesmannens klagebehandling. Fylkesmannen vurderte og innvilget dispensasjon fra byggeforbudet i plan- og bygningsloven § 1-8 annet ledd, uten at det var søkt om dispensasjon og uten at berørte parter var varslet.  
-   
- Ombudsmannen er kommet til at Fylkesmannens klagevedtak er beheftet med flere feil. Det var ikke sendt inn en grunngitt dispensasjonssøknad og verken kommunen eller Fylkesmannen hadde da hjemmel til å gi dispensasjon. Videre skulle berørte naboer og sektormyndigheter vært varslet, og varselet skulle angitt den bestemmelsen det var aktuelt å dispensere fra. Kommunen vurderte dispensasjon etter feil bestemmelse. Ombudsmannen kan ikke se at Fylkesmannen har reparert tidligere feil.  
-   
- Fylkesmannen bes om å vurdere saken på nytt.
+Ombudsmannen er kommet til at Fylkesmannens klagevedtak er beheftet med flere feil. Det var ikke sendt inn en grunngitt dispensasjonssøknad og verken kommunen eller Fylkesmannen hadde da hjemmel til å gi dispensasjon. Videre skulle berørte naboer og sektormyndigheter vært varslet, og varselet skulle angitt den bestemmelsen det var aktuelt å dispensere fra. Kommunen vurderte dispensasjon etter feil bestemmelse. Ombudsmannen kan ikke se at Fylkesmannen har reparert tidligere feil.  
+Fylkesmannen bes om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -15,16 +15,11 @@ Sivilombudets uttalelse 21.1.2019 (sak 2017/3156).
 ## Oppsummering
 
 Saken gjelder to vedtak fattet av Fylkesmannen i Oslo og Akershus om tvangsmedisinering. Det mest sentrale i saken er Fylkesmannens forståelse og anvendelse av psykisk helsevernlovens krav om at tvangsmedisinering bare kan igangsettes og gjennomføres når det med «stor sannsynlighet kan føre til helbredelse eller vesentlig bedring i pasientens tilstand, eller at pasienten unngår vesentlig forverring av sykdommen».  
-   
- Kravet til stor sannsynlighet innebærer – i motsetning til det som er lagt til grunn av Fylkesmannen – at det kreves mer enn alminnelig sannsynlighetsovervekt for tilstrekkelig positiv effekt. Kravet knytter seg til den enkelte pasient og ikke til en gruppe pasienter.  
-   
- Ettersom Fylkesmannen har lagt til grunn en uriktig forståelse av kravet til stor sannsynlighet og dermed en uriktig rettsanvendelse, er vedtakene om tvangsmedisinering ulovlige.  
-   
- Psykisk helsevernloven § 4-4 gir ikke hjemmel til å «forsøke» eller «prøve ut» tvangsmedisinering med antipsykotika, med mindre kravet til «stor sannsynlighet» for tilstrekkelig positiv effekt er oppfylt.  
-   
- Videre har Fylkesmannen brutt utredningsplikten i forvaltningsloven § 17, jf. § 33, ved at overlegens nærmere forklaring både på hvorfor vesentlighetskriteriet og kravet om at de gunstige virkningene klart skal veie opp for ulempene, ikke ble etterspurt før Fylkesmannen fattet vedtak i saken. Fylkesmannens begrunnelse for at kravet om at den gunstige virkningen klart må oppveie ulempene ved behandlingen, er i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.   
-   
- Fylkesmannen bes merke seg ombudsmannens syn på gjeldende rett, og legge denne til grunn ved behandlingen av fremtidige saker om tvangsmedisinering. Ombudsmannen ber dessuten Fylkesmannen vurdere hvordan det kan bøtes på den urett som er begått overfor klageren.
+Kravet til stor sannsynlighet innebærer – i motsetning til det som er lagt til grunn av Fylkesmannen – at det kreves mer enn alminnelig sannsynlighetsovervekt for tilstrekkelig positiv effekt. Kravet knytter seg til den enkelte pasient og ikke til en gruppe pasienter.  
+Ettersom Fylkesmannen har lagt til grunn en uriktig forståelse av kravet til stor sannsynlighet og dermed en uriktig rettsanvendelse, er vedtakene om tvangsmedisinering ulovlige.  
+Psykisk helsevernloven § 4-4 gir ikke hjemmel til å «forsøke» eller «prøve ut» tvangsmedisinering med antipsykotika, med mindre kravet til «stor sannsynlighet» for tilstrekkelig positiv effekt er oppfylt.  
+Videre har Fylkesmannen brutt utredningsplikten i forvaltningsloven § 17, jf. § 33, ved at overlegens nærmere forklaring både på hvorfor vesentlighetskriteriet og kravet om at de gunstige virkningene klart skal veie opp for ulempene, ikke ble etterspurt før Fylkesmannen fattet vedtak i saken. Fylkesmannens begrunnelse for at kravet om at den gunstige virkningen klart må oppveie ulempene ved behandlingen, er i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.  
+Fylkesmannen bes merke seg ombudsmannens syn på gjeldende rett, og legge denne til grunn ved behandlingen av fremtidige saker om tvangsmedisinering. Ombudsmannen ber dessuten Fylkesmannen vurdere hvordan det kan bøtes på den urett som er begått overfor klageren.
 
 Se oppdatering fra forvaltningen
 

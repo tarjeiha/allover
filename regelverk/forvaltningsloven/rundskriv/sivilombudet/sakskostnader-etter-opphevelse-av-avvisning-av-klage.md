@@ -14,13 +14,10 @@ Sivilombudets uttalelse 27.9.2021 (sak 2020/4265).
 
 ## Oppsummering
 
-Saken gjelder krav om dekning av sakskostnader. Et avslag på voldsoffererstatning ble påklaget, men klagen ble avvist. Avvisningsvedtaket ble påklaget, og opphevet av Statens sivilrettsforvaltning. Klagen over avslaget på erstatning ble deretter realitetsbehandlet i to instanser og avslått. Spørsmålet i saken er om klagers kostnader ved å påklage avvisningsvedtaket skulle dekkes av staten i medhold av forvaltningsloven § 36.   
-   
- Sivilombudet er kommet til at et vedtak om avvisning av klage må regnes som endret til gunst for parten, jf. § 36, når avvisningsvedtaket oppheves og klagen realitetsbehandles. Dette gjelder uavhengig av utfallet av realitetsbehandlingen.  
-   
- Departementets avgjørelse bygget derfor på en uriktig tolkning av forvaltningsloven § 36, og avslaget på kravet om sakskostnader må anses ugyldig.  
-   
- Sivilombudet ber departementet om å vurdere sakskostnadskravet på nytt.
+Saken gjelder krav om dekning av sakskostnader. Et avslag på voldsoffererstatning ble påklaget, men klagen ble avvist. Avvisningsvedtaket ble påklaget, og opphevet av Statens sivilrettsforvaltning. Klagen over avslaget på erstatning ble deretter realitetsbehandlet i to instanser og avslått. Spørsmålet i saken er om klagers kostnader ved å påklage avvisningsvedtaket skulle dekkes av staten i medhold av forvaltningsloven § 36.  
+Sivilombudet er kommet til at et vedtak om avvisning av klage må regnes som endret til gunst for parten, jf. § 36, når avvisningsvedtaket oppheves og klagen realitetsbehandles. Dette gjelder uavhengig av utfallet av realitetsbehandlingen.  
+Departementets avgjørelse bygget derfor på en uriktig tolkning av forvaltningsloven § 36, og avslaget på kravet om sakskostnader må anses ugyldig.  
+Sivilombudet ber departementet om å vurdere sakskostnadskravet på nytt.
 
 ## Sakens bakgrunn
 

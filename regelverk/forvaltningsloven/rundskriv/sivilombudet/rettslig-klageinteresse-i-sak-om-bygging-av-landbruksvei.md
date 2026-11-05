@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.6.2020 (sak 2019/4519).
 ## Oppsummering
 
 Saken gjelder rettslig klageinteresse i en sak om bygging av landbruksvei. Eier av en eiendom som har allmenningsrett til seter og beite i området der veien skal gå, påklaget kommens godkjenning av veien. Kommunen avviste klagen under henvisning til at klageren ikke hadde rettslig klageinteresse. Fylkesmannen la til grunn at veien vil berøre klagerens beiterett, men at virkningene ikke var tilstrekkelige til at det forelå rettslig klageinteresse. Fylkesmannen avviste klagen.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om saken kunne avvises på grunn av manglende rettslig klageinteresse. Ombudsmannen viser til at veien vil berøre klagers beiterett ved å redusere beitearealet, og at økt tilgang til området med blant annet motorkjøretøy kan forstyrre beitedyrene. Ombudsmannen ber Fylkesmannen vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil om saken kunne avvises på grunn av manglende rettslig klageinteresse. Ombudsmannen viser til at veien vil berøre klagers beiterett ved å redusere beitearealet, og at økt tilgang til området med blant annet motorkjøretøy kan forstyrre beitedyrene. Ombudsmannen ber Fylkesmannen vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

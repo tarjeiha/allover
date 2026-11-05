@@ -16,8 +16,7 @@ Sivilombudets uttalelse 24.9.2018 (sak 2017/2436).
 ## Oppsummering
 
 Saken gjelder Utlendingsnemndas avslag på søknad om oppholdstillatelse etter reglene om familieinnvandring. Før en utlending fremmet søknad om familieinnvandring hadde hun søkt asyl i Norge. Hovedspørsmålet i ombudsmannssaken har vært om utlendingsmyndighetene burde veiledet henne om muligheten til å søke familieinnvandring med ektemannen i Norge under behandlingen av hennes asylsøknad. Slik veiledning ble først gitt ett år og tre måneder etter at søknaden ble fremmet, og da hadde fristen etter utlendingsforskriften § 10-8 for å få unntak fra underholdskravet utløpt.  
-   
- Ombudsmannen er kommet til at utlendingsmyndighetene skulle ha veiledet om ordningen med familieinnvandring på et tidligere tidspunkt. Veiledningsplikten var derved brutt ved behandlingen av asylsaken. Utlendingsnemnda bes om å vurdere familieinnvandringssaken på nytt og om å se hen til bruddet på veiledningsplikten i den nye vurderingen av søknaden.
+Ombudsmannen er kommet til at utlendingsmyndighetene skulle ha veiledet om ordningen med familieinnvandring på et tidligere tidspunkt. Veiledningsplikten var derved brutt ved behandlingen av asylsaken. Utlendingsnemnda bes om å vurdere familieinnvandringssaken på nytt og om å se hen til bruddet på veiledningsplikten i den nye vurderingen av søknaden.
 
 Se oppdatering fra forvaltningen
 

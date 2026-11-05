@@ -15,12 +15,9 @@ Sivilombudets uttalelse 23.1.2020 (sak 2019/1404).
 ## Oppsummering
 
 Saken gjelder en kommunes behandling av sak om parkeringstillatelse for forflytningshemmede. Spørsmålet er om den kommunale klagenemnda overholdt forvaltningslovens krav til begrunnelse og plikt til å vurdere klagers anførsler da den behandlet klagesaken.  
-   
- Klagenemnda begrunnet ikke sitt vedtak da den avslo søknaden. Det foreligger således brudd på plikten til å begrunne vedtak samtidig med at vedtak treffes, jf. forvaltningsloven § 24 første ledd. Da ombudsmannen undersøkte saken ba vi om en redegjørelse for hva som hadde vært klagenemndas begrunnelse for vedtaket, og hvor denne fremgikk. I sitt svar til oss viste klagenemnda til sakens dokumenter. Det er etter ombudsmannens vurdering fremdeles uklart hva som var klagenemndas begrunnelse for avslaget.  
-   
- Ombudsmannen mener det knytter seg begrunnet tvil til om klagenemnda oppfylte sin plikt til å foreta en vurdering av klagers anførsel om at han hadde et «særlig behov» for parkeringstillatelse, jf. forvaltningsloven § 34 annet ledd annet punktum.  
-   
- På ovennevnte bakgrunn ber ombudsmannen kommunens klagenemnd om å behandle saken på nytt.
+Klagenemnda begrunnet ikke sitt vedtak da den avslo søknaden. Det foreligger således brudd på plikten til å begrunne vedtak samtidig med at vedtak treffes, jf. forvaltningsloven § 24 første ledd. Da ombudsmannen undersøkte saken ba vi om en redegjørelse for hva som hadde vært klagenemndas begrunnelse for vedtaket, og hvor denne fremgikk. I sitt svar til oss viste klagenemnda til sakens dokumenter. Det er etter ombudsmannens vurdering fremdeles uklart hva som var klagenemndas begrunnelse for avslaget.  
+Ombudsmannen mener det knytter seg begrunnet tvil til om klagenemnda oppfylte sin plikt til å foreta en vurdering av klagers anførsel om at han hadde et «særlig behov» for parkeringstillatelse, jf. forvaltningsloven § 34 annet ledd annet punktum.  
+På ovennevnte bakgrunn ber ombudsmannen kommunens klagenemnd om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

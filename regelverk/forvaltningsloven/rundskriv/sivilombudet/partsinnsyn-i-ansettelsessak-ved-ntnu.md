@@ -15,12 +15,9 @@ Sivilombudets uttalelse 22.1.2020 (sak 2019/4328).
 ## Oppsummering
 
 NTNU brukte elleve uker på å behandle et krav om partsinnsyn i en ansettelsessak. Årsaken til behandlingstiden ble opplyst å være lav feriebemanning.  
-   
- Ombudsmannen viste til at innsynssaker som hovedregel bør avgjøres samme dag, og senest innen tre dager. Feriefravær er ikke i seg selv saklig grunn til å fravike utgangspunktet om at innsynssaker skal avgjøres uten «ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd.  
-   
- Videre utgjør det brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk at klageren ikke mottok forsinkelsesmelding underveis. Ombudsmannen bemerket at fakultetets rutine, slik den ble beskrevet av NTNU selv i svaret til ombudsmannen, ikke oppfyller kravet om hurtig behandling.  
-   
- Ombudsmannen ber om at NTNU innen 1. april 2020 gir en redegjørelse for hvilke tiltak som er eller vil bli iverksatt for å sikre at fremtidige begjæringer om partsinnsyn behandles på en tilfredsstillende måte.
+Ombudsmannen viste til at innsynssaker som hovedregel bør avgjøres samme dag, og senest innen tre dager. Feriefravær er ikke i seg selv saklig grunn til å fravike utgangspunktet om at innsynssaker skal avgjøres uten «ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd.  
+Videre utgjør det brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk at klageren ikke mottok forsinkelsesmelding underveis. Ombudsmannen bemerket at fakultetets rutine, slik den ble beskrevet av NTNU selv i svaret til ombudsmannen, ikke oppfyller kravet om hurtig behandling.  
+Ombudsmannen ber om at NTNU innen 1. april 2020 gir en redegjørelse for hvilke tiltak som er eller vil bli iverksatt for å sikre at fremtidige begjæringer om partsinnsyn behandles på en tilfredsstillende måte.
 
 Se oppdatering fra forvaltningen
 
@@ -37,7 +34,7 @@ I brev til NTNU gjenga vi klagerens beskrivelse av de faktiske forhold. Videre v
 NTNU ble videre bedt om å redegjøre for behandlingstiden på seks virkedager for begjæringen om innsyn i utvidet søkerliste. Videre ble NTNU bedt om å redegjøre for tiden det tok å behandle kravet om innsyn i den ansattes søknad. Kravet var fremsatt drøye fire måneder før klagen til ombudsmannen, og fremsto på undersøkelsestidspunktet som ubesvart, tross en purring fra klageren.
 
 Vi ba om en redegjørelse for hvilken informasjon klageren hadde fått om saksbehandlingen underveis, og om NTNU mente at behandlingen hadde vært i tråd med forvaltningsloven  
- § 11 a annet ledd og god forvaltningsskikk.
+§ 11 a annet ledd og god forvaltningsskikk.
 
 Endelig ble det stilt spørsmål om NTNU fant den samlede saksbehandlingstiden forenlig med forvaltningsloven § 11 a første ledd om behandling uten ugrunnet opphold. NTNU ble oppfordret til å behandle innsynskravet så snart som mulig, dersom dette ikke allerede var gjort.
 
@@ -54,7 +51,7 @@ Når det gjaldt NTNUs opplysning om at foreløpig svar i henhold til forvaltning
 NTNU oversendte deretter kopi av e-post 8. juli 2019. Dette er den samme e-posten der klageren ble forespeilet svar i månedsskiftet juli/august.
 
 Klageren fikk komme med merknader, og han opplyste å ha mottatt dokumentene  
- 5. desember 2019. Han påpekte at ombudsmannen ikke kunne sies å ha fått svar på spørsmålet knyttet til foreløpig svar i saken, ettersom det NTNU hadde oversendt ikke utgjorde noe nytt. Klageren uttrykte skuffelse over NTNU, da han hadde sett for seg noe mer åpenhet og en beklagelse. Ettersom han nå hadde mottatt etterspurt dokumentasjon, ønsket han likevel ikke å forfølge saken videre.
+5. desember 2019. Han påpekte at ombudsmannen ikke kunne sies å ha fått svar på spørsmålet knyttet til foreløpig svar i saken, ettersom det NTNU hadde oversendt ikke utgjorde noe nytt. Klageren uttrykte skuffelse over NTNU, da han hadde sett for seg noe mer åpenhet og en beklagelse. Ettersom han nå hadde mottatt etterspurt dokumentasjon, ønsket han likevel ikke å forfølge saken videre.
 
 NTNU ble, med en kort frist, gitt anledning til å kommentere klagerens merknader. Ombudsmannen har ikke mottatt noe mer fra NTNU.
 

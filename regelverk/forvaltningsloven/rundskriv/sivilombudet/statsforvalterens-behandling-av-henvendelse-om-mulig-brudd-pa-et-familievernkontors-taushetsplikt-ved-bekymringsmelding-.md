@@ -14,17 +14,12 @@ Sivilombudets uttalelse 7.3.2023 (sak 2022/3357).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Oslo og Vikens behandling av en klage på flere forhold ved et familievernkontor, herunder på mulig brudd på taushetsplikten ved en bekymringsmelding til barnevernet om klagers opptreden i et meklingsmøte ledet av en psykolog.   
-   
- Statsforvalterens tilsynsansvar for familievernkontorene og for helsepersonell håndteres av to ulike avdelinger, som begge var involvert ved behandlingen av klagen. Statsforvalterens sosial- og barnevernsavdeling kom til at Bufetat sto nærmest til å følge opp klagerens henvendelse, og at det derfor ikke skulle opprettes tilsynssak. Statsforvalterens helseavdeling svarte blant annet at det i dette tilfellet ikke var grunn til å tro at helselovgivningen var brutt. Konklusjonen fra begge avdelingene var at saken ikke ga grunnlag for videre tilsynsmessig oppfølging.   
-   
- Overfor ombudet har Statsforvalteren opplyst at de ved behandlingen av klagerens henvendelser ikke tok stilling til om psykologen eller familievernkontoret hadde brutt taushetsplikten. At de ikke trengte å vurdere dette, begrunnet de blant annet med at tilsynet med familievernkontorene utføres som systemrettede tilsyn, mens dette gjaldt en enkeltsak.  
-   
- Sivilombudet peker på at Statsforvalterens tilsynsansvar med familievernkontor ikke er begrenset til kun å utføre systemrettet tilsyn og har kommet til at det er begrunnet tvil om Statsforvalteren i denne saken har hatt en for snever forståelse av sitt tilsynsansvar i enkeltsaker.   
-   
- Ombudet er også kommet til at Statsforvalterens avgjørelse fra helseavdelingen gir et misvisende inntrykk av hvilke vurderinger Statsforvalteren har foretatt og ikke oppfyller de krav til begrunnelse som følger av alminnelige normer for god forvaltningsskikk.  
-   
- Det er ikke funnet tilstrekkelig grunnlag for å be om ny behandling av denne enkeltsaken, men Statsforvalteren bes merke seg det som er påpekt og se hen til dette ved behandlingen av senere saker.
+Saken gjelder Statsforvalteren i Oslo og Vikens behandling av en klage på flere forhold ved et familievernkontor, herunder på mulig brudd på taushetsplikten ved en bekymringsmelding til barnevernet om klagers opptreden i et meklingsmøte ledet av en psykolog.  
+Statsforvalterens tilsynsansvar for familievernkontorene og for helsepersonell håndteres av to ulike avdelinger, som begge var involvert ved behandlingen av klagen. Statsforvalterens sosial- og barnevernsavdeling kom til at Bufetat sto nærmest til å følge opp klagerens henvendelse, og at det derfor ikke skulle opprettes tilsynssak. Statsforvalterens helseavdeling svarte blant annet at det i dette tilfellet ikke var grunn til å tro at helselovgivningen var brutt. Konklusjonen fra begge avdelingene var at saken ikke ga grunnlag for videre tilsynsmessig oppfølging.  
+Overfor ombudet har Statsforvalteren opplyst at de ved behandlingen av klagerens henvendelser ikke tok stilling til om psykologen eller familievernkontoret hadde brutt taushetsplikten. At de ikke trengte å vurdere dette, begrunnet de blant annet med at tilsynet med familievernkontorene utføres som systemrettede tilsyn, mens dette gjaldt en enkeltsak.  
+Sivilombudet peker på at Statsforvalterens tilsynsansvar med familievernkontor ikke er begrenset til kun å utføre systemrettet tilsyn og har kommet til at det er begrunnet tvil om Statsforvalteren i denne saken har hatt en for snever forståelse av sitt tilsynsansvar i enkeltsaker.  
+Ombudet er også kommet til at Statsforvalterens avgjørelse fra helseavdelingen gir et misvisende inntrykk av hvilke vurderinger Statsforvalteren har foretatt og ikke oppfyller de krav til begrunnelse som følger av alminnelige normer for god forvaltningsskikk.  
+Det er ikke funnet tilstrekkelig grunnlag for å be om ny behandling av denne enkeltsaken, men Statsforvalteren bes merke seg det som er påpekt og se hen til dette ved behandlingen av senere saker.
 
 ## Sakens bakgrunn
 

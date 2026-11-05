@@ -15,10 +15,8 @@ Sivilombudets uttalelse 26.6.2024 (sak 2024/1635).
 ## Oppsummering
 
 Saken gjelder innsyn i et brev sendt fra Justis- og beredskapsdepartementet til Politidirektoratet i forbindelse med oppfølgingen av et anmodningsvedtak fra Stortinget vedrørende tap av førerrett på grunn av rusmiddelbruk. Justis- og beredskapsdepartementet avslo en journalists innsynskrav i dokumentet med hjemmel i offentleglova § 15 tredje ledd, jf. første ledd. Det ble ikke gitt merinnsyn.  
-   
- Ombudet kom til at det er begrunnet tvil om dokumentet kan unntas fra innsyn. Departementet har ikke i tilstrekkelig grad forklart hvorfor unntak er nødvendig for å sikre forsvarlige interne avgjørelsesprosesser. For ombudet fremstår dokumentet i all hovedsak som en gjennomgang av faktiske og rettslige premisser, ikke fortrolige råd og vurderinger. I den grad det er nødvendig å unnta deler av dokumentet, er det uansett ombudets syn at departementet bør gi merinnsyn i de øvrige delene.  
-   
- På denne bakgrunn ble departementet bedt om å behandle saken på nytt.
+Ombudet kom til at det er begrunnet tvil om dokumentet kan unntas fra innsyn. Departementet har ikke i tilstrekkelig grad forklart hvorfor unntak er nødvendig for å sikre forsvarlige interne avgjørelsesprosesser. For ombudet fremstår dokumentet i all hovedsak som en gjennomgang av faktiske og rettslige premisser, ikke fortrolige råd og vurderinger. I den grad det er nødvendig å unnta deler av dokumentet, er det uansett ombudets syn at departementet bør gi merinnsyn i de øvrige delene.  
+På denne bakgrunn ble departementet bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

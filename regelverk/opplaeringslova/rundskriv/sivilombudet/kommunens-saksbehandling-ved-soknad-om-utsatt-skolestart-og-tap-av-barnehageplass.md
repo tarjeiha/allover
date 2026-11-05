@@ -15,10 +15,8 @@ Sivilombudets uttalelse 22.3.2019 (sak 2018/3627).
 ## Oppsummering
 
 Et foreldrepar søkte kommunen om utsatt skolestart for sin sønn. Søknaden ble innvilget, og gutten ble samtidig tildelt plass i en annen barnehage enn der han frem til da hadde hatt barnehageplass. Det var ikke søkt om fortsatt plass i hans daværende barnehage. Foreldrene mente at behovet for utsatt skolestart nettopp var knyttet til at han skulle fortsette i barnehagen med de trygge rammene han var vant til der. I klagen til ombudsmannen ble det anført at kommunen ikke kunne legge ansvaret for den oppståtte situasjonen på foreldrene, og at hensynet til barnets beste ikke var vektlagt i tilstrekkelig grad.  
-   
- Ombudsmannen finner ikke grunnlag for utelukkende å legge ansvaret på kommunen for at gutten ikke fikk fortsette i den samme barnehagen, og har ikke innvendinger mot utfallet av barnets beste-vurderingen. Kommunen er bedt om å sørge for å behandle fremtidige søknader om utsatt skolestart innen de oppgitte frister, og synliggjøre vurderingen av barnets beste i vedtakene.  
-   
- Fra 1. januar 2019 fikk gutten plass i den ønskede barnehagen.
+Ombudsmannen finner ikke grunnlag for utelukkende å legge ansvaret på kommunen for at gutten ikke fikk fortsette i den samme barnehagen, og har ikke innvendinger mot utfallet av barnets beste-vurderingen. Kommunen er bedt om å sørge for å behandle fremtidige søknader om utsatt skolestart innen de oppgitte frister, og synliggjøre vurderingen av barnets beste i vedtakene.  
+Fra 1. januar 2019 fikk gutten plass i den ønskede barnehagen.
 
 ## Sakens bakgrunn
 

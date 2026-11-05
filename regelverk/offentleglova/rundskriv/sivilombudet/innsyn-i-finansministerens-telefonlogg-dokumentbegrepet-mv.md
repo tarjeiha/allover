@@ -15,12 +15,9 @@ Sivilombudets uttalelse 5.7.2022 (sak 2022/1297).
 ## Oppsummering
 
 Saken gjaldt krav om innsyn i en oversikt over finansminister Trygve Slagsvold Vedums telefonsamtaler som omhandlet skjenkestopp, og som fant sted mellom søndag 9. januar 2022 kl. 12.00 og mandag 10. januar 2022 kl. 12.00. Finansdepartementet avslo innsynskravet under henvisning til at en telefonlogg ikke var omfattet av innsynsretten. Departementet viste blant annet til at opplysningene ikke lenger var tilgjengelig hos Finansdepartementet eller statsråden, samt at telefonloggen var å regne som elektroniske spor.  
-   
- Ombudet er kommet til at en loggføring med informasjon om en konkret telefonsamtale (telefonlogg) utgjør et «dokument» i offentleglovas forstand. Spørsmålet om en slik telefonlogg er å anse som et «saksdokument for organet», og dermed omfattet av hovedregelen om innsynsrett, må vurderes konkret for hver enkelt oppføring.  
-   
- Det er kun arbeidsrelaterte telefonlogger som kan anses som saksdokumenter, og telefonlogger knyttet til for eksempel private eller partipolitiske samtaler vil på lik linje med det som gjelder andre dokumenter ikke anses som saksdokumenter for organet.  
-   
- Ettersom det i denne saken er opplyst at de etterspurte telefonloggene ikke lenger eksisterer, finner ikke ombudet grunn til å be Finansdepartementet om å behandle saken på nytt. Departementet bes imidlertid merke seg ombudets synspunkter for eventuelle senere saker. Ombudet presiserer også at det ikke er tatt stilling til om telefonlogger kan tenkes unntatt innsyn på annet grunnlag.
+Ombudet er kommet til at en loggføring med informasjon om en konkret telefonsamtale (telefonlogg) utgjør et «dokument» i offentleglovas forstand. Spørsmålet om en slik telefonlogg er å anse som et «saksdokument for organet», og dermed omfattet av hovedregelen om innsynsrett, må vurderes konkret for hver enkelt oppføring.  
+Det er kun arbeidsrelaterte telefonlogger som kan anses som saksdokumenter, og telefonlogger knyttet til for eksempel private eller partipolitiske samtaler vil på lik linje med det som gjelder andre dokumenter ikke anses som saksdokumenter for organet.  
+Ettersom det i denne saken er opplyst at de etterspurte telefonloggene ikke lenger eksisterer, finner ikke ombudet grunn til å be Finansdepartementet om å behandle saken på nytt. Departementet bes imidlertid merke seg ombudets synspunkter for eventuelle senere saker. Ombudet presiserer også at det ikke er tatt stilling til om telefonlogger kan tenkes unntatt innsyn på annet grunnlag.
 
 ## Sakens bakgrunn
 

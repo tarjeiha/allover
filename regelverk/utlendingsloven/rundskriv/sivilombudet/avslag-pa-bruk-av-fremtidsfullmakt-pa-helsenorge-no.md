@@ -15,11 +15,9 @@ Sivilombudets uttalelse 24.5.2024 (sak 2023/5441).
 
 ## Oppsummering
 
-Saken gjelder avslag på bruk av en fremtidsfullmakt for tilgang til helsenorge.no (Helsenorge). Norsk helsenett, som drifter Helsenorge, godtok ikke fremtidsfullmakten under henvisning til at kun egne fullmaktsskjema – eller legeerklæring som dokumenterer varig manglende samtykkekompetanse – blir akseptert for å få tilgang til helseplattformen på vegne av andre.   
-   
- Sivilombudet uttalte at Norsk helsenett – i likhet med andre offentlige og private aktører – må akseptere fremtidsfullmakter. Videre mente ombudet at Norsk helsenett ikke kan forutsette at tilgang til Helsenorge er uttrykkelig nevnt i fullmakten, men at de må tolke fremtidsfullmakten for å vurdere om den gir fremtidsfullmektigen rett til tilgang. Det fremgår klart av forarbeidene til vergemålsloven at hvilken kompetanse en fremtidsfullmakt gir – også på helse- og sosialområdet – beror på en tolkning av fullmakten. Et krav om uttrykkelig samtykke i fullmakten kan heller ikke utledes av personvernforordningen (GDPR).   
-   
- Sivilombudet ber Norsk helsenett vurdere den fremlagte fremtidsfullmakten på nytt i lys av ombudets merknader. Videre ber Sivilombudet Norsk helsenett behandle fremtidige saker om fremtidsfullmakter i samsvar med føringene gitt i denne uttalelsen.
+Saken gjelder avslag på bruk av en fremtidsfullmakt for tilgang til helsenorge.no (Helsenorge). Norsk helsenett, som drifter Helsenorge, godtok ikke fremtidsfullmakten under henvisning til at kun egne fullmaktsskjema – eller legeerklæring som dokumenterer varig manglende samtykkekompetanse – blir akseptert for å få tilgang til helseplattformen på vegne av andre.  
+Sivilombudet uttalte at Norsk helsenett – i likhet med andre offentlige og private aktører – må akseptere fremtidsfullmakter. Videre mente ombudet at Norsk helsenett ikke kan forutsette at tilgang til Helsenorge er uttrykkelig nevnt i fullmakten, men at de må tolke fremtidsfullmakten for å vurdere om den gir fremtidsfullmektigen rett til tilgang. Det fremgår klart av forarbeidene til vergemålsloven at hvilken kompetanse en fremtidsfullmakt gir – også på helse- og sosialområdet – beror på en tolkning av fullmakten. Et krav om uttrykkelig samtykke i fullmakten kan heller ikke utledes av personvernforordningen (GDPR).  
+Sivilombudet ber Norsk helsenett vurdere den fremlagte fremtidsfullmakten på nytt i lys av ombudets merknader. Videre ber Sivilombudet Norsk helsenett behandle fremtidige saker om fremtidsfullmakter i samsvar med føringene gitt i denne uttalelsen.
 
 Se oppdatering fra forvaltningen
 

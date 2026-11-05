@@ -15,10 +15,8 @@ Sivilombudets uttalelse 21.2.2018 (sak 2017/4250).
 ## Oppsummering
 
 Saken gjelder Fylkesmannen i Rogalands behandling av en klagesak om partsinnsyn i en barnevernssak. Fylkesmannen brukte nesten fem måneder på å behandle saken. Klageren mottok verken et foreløpig svar eller annen underretning om saksbehandlingstiden underveis, til tross for at hun skriftlig etterspurte informasjon om sakens fremdrift.  
-   
- Innsynssaken kan ikke anses behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Videre var det brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk at klageren ikke ble sendt et foreløpig svar eller forsinkelsesmeldinger, og at klagerens skriftlige spørsmål om sakens fremdrift hos Fylkesmannen ikke ble besvart.  
-   
- Fylkesmannen har nå truffet avgjørelse i klagerens innsynssak. I tråd med god forvaltningsskikk har Fylkesmannen videre beklaget sin håndtering av saken. Ombudsmannen ber Fylkesmannen om å ta de grep som er nødvendige for å sikre at fremtidige klagesaker om partsinnsyn behandles med tilstrekkelig hurtighet. Videre bes det om at Fylkesmannen gjennomgår sine rutiner, for å sikre at det i fremtiden sendes ut slik informasjon som er påkrevd for å holde parten tilfredsstillende orientert om saksbehandlingen underveis.
+Innsynssaken kan ikke anses behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Videre var det brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk at klageren ikke ble sendt et foreløpig svar eller forsinkelsesmeldinger, og at klagerens skriftlige spørsmål om sakens fremdrift hos Fylkesmannen ikke ble besvart.  
+Fylkesmannen har nå truffet avgjørelse i klagerens innsynssak. I tråd med god forvaltningsskikk har Fylkesmannen videre beklaget sin håndtering av saken. Ombudsmannen ber Fylkesmannen om å ta de grep som er nødvendige for å sikre at fremtidige klagesaker om partsinnsyn behandles med tilstrekkelig hurtighet. Videre bes det om at Fylkesmannen gjennomgår sine rutiner, for å sikre at det i fremtiden sendes ut slik informasjon som er påkrevd for å holde parten tilfredsstillende orientert om saksbehandlingen underveis.
 
 ## Sakens bakgrunn
 

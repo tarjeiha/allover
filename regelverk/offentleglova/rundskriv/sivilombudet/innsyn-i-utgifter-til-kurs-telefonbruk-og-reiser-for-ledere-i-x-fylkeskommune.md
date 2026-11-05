@@ -15,12 +15,9 @@ Sivilombudets uttalelse 26.10.2016 (sak 2016/721).
 ## Oppsummering
 
 Saken gjelder retten til innsyn i en fylkeskommunes utgifter til kurs, telefonbruk og reiser for 16 ledere over en periode på fire år. For å imøtekomme kravet om innsyn i utgifter til reiser og telefonbruk måtte det foretas totalt 128 sammenstillinger fra fylkeskommunens database. For å gjøre en sammenstilling av utgifter til kurs ville fylkeskommunen ha vært nødt til å foreta en manuell gjennomgang av 800–1000 fakturaer.  
-   
- Vedrørende utgifter til reise og telefonbruk har ombudsmannen kommet til at vurderingen av om sammenstillingene kan gjøres med enkle fremgangsmåter, jf. offentleglova § 9, må knytte seg til hver enkelt av de 128 sammenstillingene. Ettersom hver sammenstilling vil ta omlag 1 minutt og 20 sekunder anses vilkårene etter § 9 for oppfylt. Vilkåret om at innsynskravet må gjelde «i rimelig utstrekning saker av ein bestemt art» etter offentleglova § 28 annet ledd, må også anses oppfylt for reise- og telefonutgiftene. Avslaget på innsyn i opplysninger om utgifter til telefonbruk og reiser er derfor ikke i tråd med offentleglovas bestemmelser.  
-   
- Når det gjelder utgifter til kurs, kan verken vilkåret om at en sammenstilling må kunne gjøres med enkle fremgangsmåter etter § 9 eller vilkåret om at innsynsbegjæringen «i rimeleg utstrekning» må gjelde saker av en bestemt art etter § 28 annet ledd, anses oppfylt. Fylkeskommunen hadde derved grunnlag for å avslå kravet om innsyn i kursutgiftene.   
-   
- Fylkesmannens saksbehandlingstid på mer enn sju uker var for lang.
+Vedrørende utgifter til reise og telefonbruk har ombudsmannen kommet til at vurderingen av om sammenstillingene kan gjøres med enkle fremgangsmåter, jf. offentleglova § 9, må knytte seg til hver enkelt av de 128 sammenstillingene. Ettersom hver sammenstilling vil ta omlag 1 minutt og 20 sekunder anses vilkårene etter § 9 for oppfylt. Vilkåret om at innsynskravet må gjelde «i rimelig utstrekning saker av ein bestemt art» etter offentleglova § 28 annet ledd, må også anses oppfylt for reise- og telefonutgiftene. Avslaget på innsyn i opplysninger om utgifter til telefonbruk og reiser er derfor ikke i tråd med offentleglovas bestemmelser.  
+Når det gjelder utgifter til kurs, kan verken vilkåret om at en sammenstilling må kunne gjøres med enkle fremgangsmåter etter § 9 eller vilkåret om at innsynsbegjæringen «i rimeleg utstrekning» må gjelde saker av en bestemt art etter § 28 annet ledd, anses oppfylt. Fylkeskommunen hadde derved grunnlag for å avslå kravet om innsyn i kursutgiftene.  
+Fylkesmannens saksbehandlingstid på mer enn sju uker var for lang.
 
 Se oppdatering fra forvaltningen
 

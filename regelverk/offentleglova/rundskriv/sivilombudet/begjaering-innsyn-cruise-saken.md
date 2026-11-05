@@ -15,17 +15,12 @@ Sivilombudets uttalelse 16.3.2017 (sak 2016/1006 og 2016/1234).
 ## Oppsummering
 
 Sakene gjelder Nærings- og fiskeridepartementets avslag på begjæring om innsyn i flere dokumenter som blant annet omhandler cruiseskipet Viking Star. De fleste innsynsbegjæringene ble avslått under henvisning til offentleglova § 14 (organinterne dokumenter), og enkelte under henvisning til offentleglova § 24 annet ledd (dokumenter om lovbrudd).  
-   
- Ombudsmannen har kommet til at det hefter begrunnet tvil ved om de dokumentene som departementet har unntatt offentlighet etter offentleglova § 24 annet ledd er «dokument om lovbrot», og dermed omfattes av denne bestemmelsen.   
-   
- Departementet bes om å vurdere innsynskravene i disse dokumentene på nytt.  
-   
- Departementets merinnsynsvurderinger for de ulike dokumentene er i stor grad likelydende og ikke særlig konkrete. Departementet har i liten grad vist til reelle og saklige behov for å nekte innsyn i dokumentene eller nevnt momenter som taler for offentliggjøring. Ombudsmannen kan ikke se at departementet har foretatt en så konkret vurdering av hensynene for og mot offentliggjøring og en avveiing av disse som det offentleglova § 11 krever.   
-   
- Departementet bes derfor om å foreta en ny vurdering av spørsmålet om merinnsyn der alle relevante momenter inngår.  
- Ombudsmannen har ikke funnet grunn til å kritisere departementets konklusjon om at de dokumentene som er oversendt til politiet, ikke har mistet sin karakter av å være organinterne, jf. offentleglova § 14.  
-   
- Ombudsmannens undersøkelser gir et inntrykk av at Nærings- og fiskeridepartementet ikke har hatt tilstrekkelig oversikt over innsynssakene og de aktuelle dokumentene, og gir grunnlag for begrunnet tvil om de aktuelle sakene er korrekt behandlet. Departementets behandling av innsynssakene og henvendelsene fra ombudsmannen har vanskeliggjort ombudsmannens undersøkelser.
+Ombudsmannen har kommet til at det hefter begrunnet tvil ved om de dokumentene som departementet har unntatt offentlighet etter offentleglova § 24 annet ledd er «dokument om lovbrot», og dermed omfattes av denne bestemmelsen.  
+Departementet bes om å vurdere innsynskravene i disse dokumentene på nytt.  
+Departementets merinnsynsvurderinger for de ulike dokumentene er i stor grad likelydende og ikke særlig konkrete. Departementet har i liten grad vist til reelle og saklige behov for å nekte innsyn i dokumentene eller nevnt momenter som taler for offentliggjøring. Ombudsmannen kan ikke se at departementet har foretatt en så konkret vurdering av hensynene for og mot offentliggjøring og en avveiing av disse som det offentleglova § 11 krever.  
+Departementet bes derfor om å foreta en ny vurdering av spørsmålet om merinnsyn der alle relevante momenter inngår.  
+Ombudsmannen har ikke funnet grunn til å kritisere departementets konklusjon om at de dokumentene som er oversendt til politiet, ikke har mistet sin karakter av å være organinterne, jf. offentleglova § 14.  
+Ombudsmannens undersøkelser gir et inntrykk av at Nærings- og fiskeridepartementet ikke har hatt tilstrekkelig oversikt over innsynssakene og de aktuelle dokumentene, og gir grunnlag for begrunnet tvil om de aktuelle sakene er korrekt behandlet. Departementets behandling av innsynssakene og henvendelsene fra ombudsmannen har vanskeliggjort ombudsmannens undersøkelser.
 
 ### Sakens bakgrunn
 

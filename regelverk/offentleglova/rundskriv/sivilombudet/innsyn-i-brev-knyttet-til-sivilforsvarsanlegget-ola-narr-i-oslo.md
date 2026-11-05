@@ -15,12 +15,9 @@ Sivilombudets uttalelse 23.8.2024 (sak 2024/2201).
 ## Oppsummering
 
 Saken gjelder innsyn i et brev sendt fra Det kongelige hoff til Direktoratet for samfunnssikkerhet og beredskap i april 2013, vedrørende leie av sivilforsvarsanlegget Ola Narr i Oslo.  
-   
- Spørsmålet var for det første om en sladdet opplysning i brevets første avsnitt, om hva som lagres, er egnet til å lette gjennomføringen av straffbare handlinger. For det andre var det sladdet opplysninger om en annen lokasjon i brevets tredje avsnitt, og spørsmålet var om innsyn i disse opplysningene kunne skade hensynet til nasjonale sikkerhetsinteresser eller forsvaret av landet.  
-   
- Sivilombudet kom til at det er begrunnet tvil om de unntatte opplysningene om hva som er lagret på det aktuelle lageret er av en slik karakter at de er egnet til å lette gjennomføringen av straffbare handlinger. Videre kom ombudet til at det er begrunnet tvil om opplysningene om lokasjonen sladdet i tredje avsnitt kan unntas fra innsyn med den begrunnelsen departementet har gitt.  
-   
- Ombudet ba departementet om å behandle saken på nytt.
+Spørsmålet var for det første om en sladdet opplysning i brevets første avsnitt, om hva som lagres, er egnet til å lette gjennomføringen av straffbare handlinger. For det andre var det sladdet opplysninger om en annen lokasjon i brevets tredje avsnitt, og spørsmålet var om innsyn i disse opplysningene kunne skade hensynet til nasjonale sikkerhetsinteresser eller forsvaret av landet.  
+Sivilombudet kom til at det er begrunnet tvil om de unntatte opplysningene om hva som er lagret på det aktuelle lageret er av en slik karakter at de er egnet til å lette gjennomføringen av straffbare handlinger. Videre kom ombudet til at det er begrunnet tvil om opplysningene om lokasjonen sladdet i tredje avsnitt kan unntas fra innsyn med den begrunnelsen departementet har gitt.  
+Ombudet ba departementet om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

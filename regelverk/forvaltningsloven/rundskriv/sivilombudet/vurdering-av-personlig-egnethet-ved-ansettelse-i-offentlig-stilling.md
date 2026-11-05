@@ -16,10 +16,8 @@ Sivilombudets uttalelse 14.11.2022 (sak 2022/2520).
 ## Oppsummering
 
 Saken gjelder en klage på en kommunal ansettelsesprosess. Klageren mente at kommunen hadde lagt vekt på utenforliggende hensyn. Kommunen erkjente at klageren var formelt kvalifisert for stillingen, men anså henne ikke som personlig egnet for den, fordi hun manglet tilliten som var nødvendig i stillingen.  
-   
- Ombudet uttalte at evne til å skape tillit er en viktig personlig egenskap for en ansatt i barnevernet. Kommunen har samtidig ikke sørget for å dokumentere egnethetsvurderingen slik at det er klart hva kommunen bygget vurderingen på da de mente at klageren ikke hadde tillit. Det er også uklart om vurderingen av klagerens egnethet var basert på klagerens egenskaper eller om det også var lagt vekt på utenforliggende hensyn; klagerens relasjon til en person som tidligere hadde uttalt seg kritisk om barnevernet i kommunen. Dette innebærer at det er tvil om kommunen hadde et tilstrekkelig grunnlag for å konkludere med at klageren ikke var personlig egnet for stillingen.  
-   
- Ombudet ber kommunen gjennomgå sine rutiner i ansettelsessaker for å sikre at kvalifikasjonsprinsippet blir fulgt i fremtiden, og at egnethetsvurderingen er basert på saklige hensyn.
+Ombudet uttalte at evne til å skape tillit er en viktig personlig egenskap for en ansatt i barnevernet. Kommunen har samtidig ikke sørget for å dokumentere egnethetsvurderingen slik at det er klart hva kommunen bygget vurderingen på da de mente at klageren ikke hadde tillit. Det er også uklart om vurderingen av klagerens egnethet var basert på klagerens egenskaper eller om det også var lagt vekt på utenforliggende hensyn; klagerens relasjon til en person som tidligere hadde uttalt seg kritisk om barnevernet i kommunen. Dette innebærer at det er tvil om kommunen hadde et tilstrekkelig grunnlag for å konkludere med at klageren ikke var personlig egnet for stillingen.  
+Ombudet ber kommunen gjennomgå sine rutiner i ansettelsessaker for å sikre at kvalifikasjonsprinsippet blir fulgt i fremtiden, og at egnethetsvurderingen er basert på saklige hensyn.
 
 ## Sakens bakgrunn
 

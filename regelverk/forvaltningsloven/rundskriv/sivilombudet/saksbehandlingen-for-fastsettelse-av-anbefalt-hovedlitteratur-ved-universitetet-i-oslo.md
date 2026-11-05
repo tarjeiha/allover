@@ -14,15 +14,11 @@ Sivilombudets uttalelse 12.1.2022 (sak 2020/5288).
 
 ## Oppsummering
 
-Sivilombudet mottok en klage fra professor emeritus A. Klagen gjaldt saksbehandlingen for fastsettelse av anbefalt hovedlitteratur («pensum») på masterstudiet i rettsvitenskap ved Universitetet i Oslo. Avgjørelser om fastsettelse av anbefalt hovedlitteratur treffes av Programrådet for Masterstudiet i Rettsvitenskap.   
-   
- Som ledd i saksbehandlingen ga professor B en uttalelse til ansvarlig faglærer C om hvorvidt klagerens lærebok skulle anbefales som hovedlitteratur. B var imidlertid forfatter av en av to bøker som allerede var anbefalt hovedlitteratur i det samme faget. På grunn av dette, og enkelte andre forhold, mente klageren at professor B var inhabil.  
-   
- Etter en samlet vurdering mener Sivilombudet at faglærer professor B var inhabil da hun uttalte seg om klagerens bok til ansvarlig faglærer C, jf. forvaltningsloven § 6, andre ledd.  
-   
- Ombudet viser særlig til at det forelå en direkte konkurransesituasjon mellom B og klageren, og at avgjørelsen B tilrettela grunnlaget for hadde vesentlig betydning for konkurranseforholdet.  
-   
- Sivilombudet ber UiO vurdere eventuelle følger av at B var inhabil, herunder hvilken innvirkning det kan ha hatt på PMRs avgjørelse og om saken bør behandles på nytt. Sivilombudet ber om tilbakemelding på UiOs oppfølging innen 28. februar 2022.
+Sivilombudet mottok en klage fra professor emeritus A. Klagen gjaldt saksbehandlingen for fastsettelse av anbefalt hovedlitteratur («pensum») på masterstudiet i rettsvitenskap ved Universitetet i Oslo. Avgjørelser om fastsettelse av anbefalt hovedlitteratur treffes av Programrådet for Masterstudiet i Rettsvitenskap.  
+Som ledd i saksbehandlingen ga professor B en uttalelse til ansvarlig faglærer C om hvorvidt klagerens lærebok skulle anbefales som hovedlitteratur. B var imidlertid forfatter av en av to bøker som allerede var anbefalt hovedlitteratur i det samme faget. På grunn av dette, og enkelte andre forhold, mente klageren at professor B var inhabil.  
+Etter en samlet vurdering mener Sivilombudet at faglærer professor B var inhabil da hun uttalte seg om klagerens bok til ansvarlig faglærer C, jf. forvaltningsloven § 6, andre ledd.  
+Ombudet viser særlig til at det forelå en direkte konkurransesituasjon mellom B og klageren, og at avgjørelsen B tilrettela grunnlaget for hadde vesentlig betydning for konkurranseforholdet.  
+Sivilombudet ber UiO vurdere eventuelle følger av at B var inhabil, herunder hvilken innvirkning det kan ha hatt på PMRs avgjørelse og om saken bør behandles på nytt. Sivilombudet ber om tilbakemelding på UiOs oppfølging innen 28. februar 2022.
 
 Se oppdatering fra forvaltningen
 

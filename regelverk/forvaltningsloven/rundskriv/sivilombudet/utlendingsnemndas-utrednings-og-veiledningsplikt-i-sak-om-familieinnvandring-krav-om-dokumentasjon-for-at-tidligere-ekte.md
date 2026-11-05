@@ -16,8 +16,7 @@ Sivilombudets uttalelse 10.9.2018 (sak 2017/2238).
 ## Oppsummering
 
 Saken gjelder Utlendingsnemndas veilednings- og utredningsplikt i en sak om familieinnvandring. Utlendingsmyndighetene avslo søknaden fordi søkerne ikke hadde dokumentert at referansepersonens norske skilsmisse med en tidligere ektefelle var registrert også i hjemlandet, i tråd med kravet etter utlendingsforskriften § 9-1a.  
-   
- Ombudsmannen er kommet til at Utlendingsnemnda burde utredet nærmere om og eventuelt hvordan en norsk skilsmisse kan registreres i Afghanistan, og at nemnda dermed ikke sørget for sakens opplysning i tråd med utredningsplikten etter forvaltningsloven § 17. Videre er veiledningsplikten i forvaltningsloven § 11 ikke ivaretatt fordi referansepersonen fikk misvisende og utilstrekkelig informasjon om hvilken dokumentasjon som skulle leveres. Nemnda bes om å behandle saken på nytt.
+Ombudsmannen er kommet til at Utlendingsnemnda burde utredet nærmere om og eventuelt hvordan en norsk skilsmisse kan registreres i Afghanistan, og at nemnda dermed ikke sørget for sakens opplysning i tråd med utredningsplikten etter forvaltningsloven § 17. Videre er veiledningsplikten i forvaltningsloven § 11 ikke ivaretatt fordi referansepersonen fikk misvisende og utilstrekkelig informasjon om hvilken dokumentasjon som skulle leveres. Nemnda bes om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

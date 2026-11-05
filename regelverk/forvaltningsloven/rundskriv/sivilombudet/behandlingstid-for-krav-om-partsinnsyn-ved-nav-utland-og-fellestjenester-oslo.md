@@ -14,15 +14,11 @@ Sivilombudets uttalelse 27.6.2025 (sak 2025/2359 og 2025/2889).
 
 ## Oppsummering
 
-Saken gjelder saksbehandlingstiden for krav om partsinnsyn ved enheten Nav utland og fellestjenester Oslo. Sivilombudet mottok flere klager på saksbehandlingstiden ved den samme Nav-enheten, og valgte å undersøke to saker. I begge sakene var det gitt en orientering om at saksbehandlingstiden på innsynskravet var estimert til 19 uker på grunn av stor saksmengde. I en av sakene hadde behandlingstiden da orienteringen ble gitt allerede oversteget fire måneder.   
-   
- Sivilombudet hadde i tidligere uttalelse av 13. desember 2024 (SOM-2024-4613) undersøkt saksbehandlingstiden for partsinnsyn ved Nav kontaktsenter, som er en annen enhet i Nav. Sivilombudet fant grunn til å se undersøkelsene i sammenheng.   
-   
- Sivilombudet er kommet til at de to undersøkte sakene ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Dette ble også erkjent og beklaget av Arbeids- og velferdsdirektoratet.   
-   
- Sivilombudet merket seg at restansene fra tidligere innsynskrav ved Nav utland og fellestjenester nå har blitt overført til Nav kontaktsenter, og at Nav kontaktsenter har startet behandling av disse sakene.  
-   
- Ombudet har bedt direktoratet organisere det videre arbeidet med partsinnsyn slik at Nav overholder forvaltningslovens krav til saksbehandlingstid, og at arbeidet med å effektivisere håndteringen av partsinnsynskrav i Nav fortsetter. Ombudet ber om tilbakemelding på hvordan restansesituasjonen er etter utgangen av tredje kvartal (september 2025), både for krav som er overført fra Nav utland og fellestjenester og for partsinnsynskrav generelt.
+Saken gjelder saksbehandlingstiden for krav om partsinnsyn ved enheten Nav utland og fellestjenester Oslo. Sivilombudet mottok flere klager på saksbehandlingstiden ved den samme Nav-enheten, og valgte å undersøke to saker. I begge sakene var det gitt en orientering om at saksbehandlingstiden på innsynskravet var estimert til 19 uker på grunn av stor saksmengde. I en av sakene hadde behandlingstiden da orienteringen ble gitt allerede oversteget fire måneder.  
+Sivilombudet hadde i tidligere uttalelse av 13. desember 2024 (SOM-2024-4613) undersøkt saksbehandlingstiden for partsinnsyn ved Nav kontaktsenter, som er en annen enhet i Nav. Sivilombudet fant grunn til å se undersøkelsene i sammenheng.  
+Sivilombudet er kommet til at de to undersøkte sakene ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Dette ble også erkjent og beklaget av Arbeids- og velferdsdirektoratet.  
+Sivilombudet merket seg at restansene fra tidligere innsynskrav ved Nav utland og fellestjenester nå har blitt overført til Nav kontaktsenter, og at Nav kontaktsenter har startet behandling av disse sakene.  
+Ombudet har bedt direktoratet organisere det videre arbeidet med partsinnsyn slik at Nav overholder forvaltningslovens krav til saksbehandlingstid, og at arbeidet med å effektivisere håndteringen av partsinnsynskrav i Nav fortsetter. Ombudet ber om tilbakemelding på hvordan restansesituasjonen er etter utgangen av tredje kvartal (september 2025), både for krav som er overført fra Nav utland og fellestjenester og for partsinnsynskrav generelt.
 
 Se oppdatering fra forvaltningen
 

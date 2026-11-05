@@ -15,8 +15,7 @@ Sivilombudets uttalelse 1.6.2018 (sak 2017/2102).
 ## Oppsummering
 
 Saken gjelder spørsmålet om rettslig klageinteresse for en lokal natur- og miljøvernorganisasjon. Foreningen påklaget et vedtak om konsesjon til endringer i en pågående vindkraftutbygging og anførte at endringen innebar at flere boliger ble liggende i elektromagnetiske felt med stråling over utredningsgrensen på 0,4 mikrotesla. Olje- og energidepartementet fant at klagegjenstanden falt utenfor foreningens formål og avviste klagen.  
-   
- Ombudsmannen kom til at departementet ikke la tilstrekkelig vekt på foreningens formålsbestemmelse og faktiske virksomhet i avvisningsvedtaket. Ombudsmannen kom imidlertid også til at foreningen ikke hadde representativitet i området som berøres av endringskonsesjonen. Vilkårene for rettslig klageinteresse er da ikke til stede.
+Ombudsmannen kom til at departementet ikke la tilstrekkelig vekt på foreningens formålsbestemmelse og faktiske virksomhet i avvisningsvedtaket. Ombudsmannen kom imidlertid også til at foreningen ikke hadde representativitet i området som berøres av endringskonsesjonen. Vilkårene for rettslig klageinteresse er da ikke til stede.
 
 ## Sakens bakgrunn
 

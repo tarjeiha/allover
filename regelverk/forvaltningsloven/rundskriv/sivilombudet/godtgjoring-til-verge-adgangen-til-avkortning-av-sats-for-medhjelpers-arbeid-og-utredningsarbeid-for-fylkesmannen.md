@@ -15,10 +15,8 @@ Sivilombudets uttalelse 29.5.2019 (sak 2017/2799).
 ## Oppsummering
 
 Vergemålsmyndighetenes saksbehandling og rettsanvendelse ved vedtak om avkortning av en advokatverges krav om godtgjøring har vært undersøkt her. Saken gjelder rundt 70 vergeoppdrag og reiser spørsmål om arbeid utført av andre enn vergen selv kunne godtgjøres med en lavere timesats enn det vergen selv mente var avtalt. Statens sivilrettsforvaltning (SRF) mente at det ikke er adgang til å avtale godtgjøring for slikt arbeid med en timesats høyere enn 400 kr. Videre er det spørsmål om advokaten kunne kreve dekning for arbeid med å fremlegge opplysninger Fylkesmannen hadde etterspurt.  
-   
- Ombudsmannen er kommet til at SRFs oppfatning om at det gjelder en maksimal timesats på 400 kr for arbeid utført av andre enn vergen selv, beror på en uriktig forståelse av vergemålsforskriften. SRF kunne derfor ikke på dette grunnlaget se bort fra vergens anførsel om at det var inngått en avtale om godtgjøringssatsene. Ombudsmannen mener også at arbeidet med å utarbeide en oversikt over vergeoppdragene etter pålegg fra Fylkesmannen må regnes som arbeid vergen kan kreve godtgjøring for.  
-   
- SRF bes om å behandle den konkrete saken på nytt, og om å vurdere om det er behov for å endre et rundskriv om utgiftsdekning og godtgjøring. Ombudsmannen ber om å bli holdt orientert om SRFs oppfølging av saken.
+Ombudsmannen er kommet til at SRFs oppfatning om at det gjelder en maksimal timesats på 400 kr for arbeid utført av andre enn vergen selv, beror på en uriktig forståelse av vergemålsforskriften. SRF kunne derfor ikke på dette grunnlaget se bort fra vergens anførsel om at det var inngått en avtale om godtgjøringssatsene. Ombudsmannen mener også at arbeidet med å utarbeide en oversikt over vergeoppdragene etter pålegg fra Fylkesmannen må regnes som arbeid vergen kan kreve godtgjøring for.  
+SRF bes om å behandle den konkrete saken på nytt, og om å vurdere om det er behov for å endre et rundskriv om utgiftsdekning og godtgjøring. Ombudsmannen ber om å bli holdt orientert om SRFs oppfølging av saken.
 
 Se oppdatering fra forvaltningen
 

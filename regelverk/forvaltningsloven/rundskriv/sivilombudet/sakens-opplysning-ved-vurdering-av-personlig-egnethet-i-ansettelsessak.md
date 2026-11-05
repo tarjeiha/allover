@@ -16,8 +16,7 @@ Sivilombudets uttalelse 24.1.2019 (sak 2018/1863).
 ## Oppsummering
 
 Saken gjelder ansettelse av politibetjent. Det var enighet om at klageren var formelt kvalifisert for stillingen. Året før hadde han hatt et hospiteringsopphold på samme sted i tilsvarende stilling. Han ble likevel ikke innkalt til intervju, og fikk opplyst at årsaken til dette var at han ikke ble vurdert som personlig egnet. I klagen til ombudsmannen viste kandidaten til at han ikke hadde mottatt negative tilbakemeldinger på sitt arbeid under hospiteringsperioden, men tvert imot en positiv skriftlig attest. I denne ble han beskrevet som egnet for stillingen. Klageren stilte seg derfor tvilende til om prosessen hadde gått riktig for seg.  
-   
- Selv om sakens dokumenter bekreftet at det hadde kommet negative tilbakemeldinger på kandidaten en stund etter at hospiteringen var avsluttet, fremgikk det like klart at nærmeste leder ikke hadde registrert noen problemer under selve hospiteringen og ga ham gode skussmål etter endt opphold. Spørsmålet om klageren var personlig egnet, fremsto som for usikkert til at det kunne konkluderes uten å kalle ham inn til en nærmere samtale om de negative forholdene som hadde kommet frem i ettertid. Det er dermed en saksbehandlingsfeil at spørsmålet om personlig egnethet ikke ble nærmere utredet.
+Selv om sakens dokumenter bekreftet at det hadde kommet negative tilbakemeldinger på kandidaten en stund etter at hospiteringen var avsluttet, fremgikk det like klart at nærmeste leder ikke hadde registrert noen problemer under selve hospiteringen og ga ham gode skussmål etter endt opphold. Spørsmålet om klageren var personlig egnet, fremsto som for usikkert til at det kunne konkluderes uten å kalle ham inn til en nærmere samtale om de negative forholdene som hadde kommet frem i ettertid. Det er dermed en saksbehandlingsfeil at spørsmålet om personlig egnethet ikke ble nærmere utredet.
 
 ## Sakens bakgrunn
 

@@ -16,12 +16,9 @@ Sivilombudets uttalelse 21.9.2023 (sak 2022/5350).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak undersøkt begrunnelsene i vedtak om avslag på sykepenger og uføretrygd fra Nav.  
-   
- I undersøkelsen har vi gjennomgått 100 avslagsvedtak, jevnt fordelt på de to ytelsene. Alle vedtakene er fattet før 15. januar 2023. I tillegg har vi sett på de 15 nyeste avslagsvedtakene (per siste uken i januar 2023) for hver av ytelsene som en kontrollgruppe. Vi har kun sett på begrunnelsene, og ikke vurdert riktigheten av vedtakene.  
-   
- Ombudet kan etter sivilombudsloven § 12 vurdere om forvaltningen har opptrådt i strid med god forvaltningsskikk. Dette betyr at vi ikke bare har sett på om Nav oppfyller minimumsvilkårene for begrunnelse etter forvaltningsloven §§ 24 og 25. Vi har også vurdert begrunnelsene i lys av formålet bak kravet til begrunnelsene og Navs rolle som leverandør av svært viktige tjenester til alle.  
-   
- Vi presenterer i denne rapporten våre funn fra undersøkelsen, og ombudet gir sine anbefalinger til Arbeids- og velferdsdirektoratet.
+I undersøkelsen har vi gjennomgått 100 avslagsvedtak, jevnt fordelt på de to ytelsene. Alle vedtakene er fattet før 15. januar 2023. I tillegg har vi sett på de 15 nyeste avslagsvedtakene (per siste uken i januar 2023) for hver av ytelsene som en kontrollgruppe. Vi har kun sett på begrunnelsene, og ikke vurdert riktigheten av vedtakene.  
+Ombudet kan etter sivilombudsloven § 12 vurdere om forvaltningen har opptrådt i strid med god forvaltningsskikk. Dette betyr at vi ikke bare har sett på om Nav oppfyller minimumsvilkårene for begrunnelse etter forvaltningsloven §§ 24 og 25. Vi har også vurdert begrunnelsene i lys av formålet bak kravet til begrunnelsene og Navs rolle som leverandør av svært viktige tjenester til alle.  
+Vi presenterer i denne rapporten våre funn fra undersøkelsen, og ombudet gir sine anbefalinger til Arbeids- og velferdsdirektoratet.
 
 ## Last ned rapporten fra undersøkelsen
 
@@ -842,5 +839,5 @@ Direktoratet og Nav må særlig sikre at det ved avslag på ytelser klart kommer
 Fotnoter
 
 [1] I NOU 2019: 5 Ny forvaltningslov kapittel 11.7.5 konkluderer utvalget med at det er et omdiskutert spørsmål om det finnes et slikt ulovfestet grunnkrav til forsvarlig saksbehandling og utvalget konkluderte med at det ikke er behov for å innta en regel om dette i ny forvaltningslov.  
- [2] Se for eksempel Prop. 108 L (2019–2020) kapittel 14.1.1 med videre henvisninger.  
- [3] Se NOU 2023: 11 kapittel 20 der et av funnene var at 40 % av Nav-vedtakene som påklages omgjøres eller oppheves under klage- og ankeprosessen. Det pekes på ulike grunner til dette, men utvalget legger til grunn at en viktig årsak til dette er et høyt antall uriktige førsteinstansvedtak (se punkt 20.1). Vinteren 2022/2023 var saksbehandlingstiden for klager over sykepenger ca. ett år, se SOM-2022-4415.
+[2] Se for eksempel Prop. 108 L (2019–2020) kapittel 14.1.1 med videre henvisninger.  
+[3] Se NOU 2023: 11 kapittel 20 der et av funnene var at 40 % av Nav-vedtakene som påklages omgjøres eller oppheves under klage- og ankeprosessen. Det pekes på ulike grunner til dette, men utvalget legger til grunn at en viktig årsak til dette er et høyt antall uriktige førsteinstansvedtak (se punkt 20.1). Vinteren 2022/2023 var saksbehandlingstiden for klager over sykepenger ca. ett år, se SOM-2022-4415.

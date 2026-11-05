@@ -54,8 +54,8 @@ Det ble også pekt på at det ikke var gitt noen advarsel eller ilagt andre arbe
 Utgangspunktet etter offentleglova § 3 er at alle kan kreve innsyn i saksdokumenter og journaler i forvaltningen. Unntak fra innsynsretten krever en konkret hjemmel i lov. Etter offentleglova § 13 første ledd er opplysninger som er underlagt lovbestemt taushetsplikt unntatt fra innsyn. De alminnelige reglene om taushetsplikt følger av forvaltningsloven § 13. Forvaltningsloven § 13 første ledd nr. 1 lyder som følger:
 
 «Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at andre får adgang eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om:  
- 1) noens personlige forhold, eller  
- 2) —»
+1) noens personlige forhold, eller  
+2) —»
 
 Hva som skal anses som «personlig forhold», er nærmere beskrevet i forarbeidene til forvaltningsloven. Ifølge Ot.prp. nr.3 (1976–1977) pkt. 3.2.2. er opplysninger som kan «bidra til å utlevere eller skade vedkommende person i allmenhetens øyne» taushetsbelagte. Et relevant hensyn er i hvilken situasjon opplysningene har kommet frem. Dersom opplysningene er gitt «under omstendigheter som minner om et betroelsesforhold» og hvor det «kan ha uheldige virkninger for tillitsforholdet til forvaltningen dersom de brukes ut over denne sammenhengen», kan det tale for taushetsplikt. Tilfeller hvor en opplysning isolert sett verken er særlig følsom eller fremkommet som ledd i et tillitsforhold, men hvor det foreligger koblingsfare til andre sensitive opplysninger, er også nevnt som et eksempel på opplysninger som er taushetsbelagte.
 

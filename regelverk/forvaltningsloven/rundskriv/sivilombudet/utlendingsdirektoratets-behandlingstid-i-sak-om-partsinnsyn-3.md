@@ -15,10 +15,8 @@ Sivilombudets uttalelse 18.10.2024 (sak 2024/3808).
 ## Oppsummering
 
 Saken gjelder behandlingstiden i en sak der Norsk organisasjon for asylsøkere (NOAS) hadde bedt Utlendingsdirektoratet (UDI) om partsinnsyn på vegne av en utlending. Saken hennes gjaldt mulig avslag på søknad om beskyttelse under henvisning til at hun kan kreves mottatt av et annet land som deltar i Dublin-samarbeidet. UDI brukte 16 dager på å sende et svar, og da de sendte svar, feilet den digitale oversendelsen, slik at NOAS ikke mottok svaret. NOAS purret på saken etter den feilslåtte oversendingen, og UDI sendte svar på nytt omtrent seks uker senere – ni uker etter at NOAS hadde sendt begjæringen.  
-   
- Sivilombudet er kommet til at saken ikke ble behandlet «uten ugrunnet opphold» slik forvaltningsloven § 11 a krever.   
-   
- Ut fra opplysningene i saken er det begrunnet tvil om hvorvidt UDI generelt overholder kravene til behandlingstid ved begjæringer om partsinnsyn. UDI bes derfor om å redegjøre for arbeidet med å forbedre sine rutiner for å sikre overholdelse av lovens krav i slike saker innen 1. januar 2025.
+Sivilombudet er kommet til at saken ikke ble behandlet «uten ugrunnet opphold» slik forvaltningsloven § 11 a krever.  
+Ut fra opplysningene i saken er det begrunnet tvil om hvorvidt UDI generelt overholder kravene til behandlingstid ved begjæringer om partsinnsyn. UDI bes derfor om å redegjøre for arbeidet med å forbedre sine rutiner for å sikre overholdelse av lovens krav i slike saker innen 1. januar 2025.
 
 Se oppdatering fra forvaltningen
 

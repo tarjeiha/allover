@@ -15,15 +15,11 @@ Sivilombudets uttalelse 25.9.2018 (sak 2016/3672).
 ## Oppsummering
 
 Saken reiser flere problemstillinger knyttet til fylkesmannens behandling av en sak om behandling med legemidler uten eget samtykke, jf. dagjeldende  
- psykisk helsevernloven § 4-4.  
-   
- Fylkesmannens begrunnelse oppfyller ikke kravene i forvaltningsloven §§ 24 og 25 jf. § 33, da det ikke er begrunnet tilstrekkelig hvorfor sentrale vilkår for tvangsmedisinering ble ansett oppfylt. Dersom Fylkesmannen mente å tiltre begrunnelsen i sykehusets vedtak eller begrunnelsen i en innføring i helsejournalen, skulle dette fremgått klart av vedtaket.  
-   
- Videre fremkommer det ikke av Fylkesmannens vedtak at de har vurdert synspunktene i klagen, slik klageinstansen er pliktig til etter forvaltningsloven § 34 annet ledd.  
-   
- I klagen ble det blant annet pekt på konkrete journaluttalelser fra tidligere behandlere om manglende effekt av det aktuelle medikamentet. Disse uttalelsene synes ikke å ha vært innhentet og vurdert av Fylkesmannen. Slik saken er opplyst, mener ombudsmannen at dette skulle vært gjort, jf. utredningsplikten i forvaltningsloven § 17 første ledd.  
-   
- Fylkesmannen har overfor ombudsmannen erkjent mangler ved begrunnelsen, og har utdypet deres vurdering av saken. Vedtakets virkningstid på tre måneder er for lengst passert, og det er ikke opplysninger om noen aktive vedtak om tvangsmedisinering. Det er derfor ikke grunn til å be Fylkesmannen behandle saken på nytt nå. Fylkesmannen bes imidlertid merke seg ombudsmannens synspunkter ved behandlingen av fremtidige saker.
+psykisk helsevernloven § 4-4.  
+Fylkesmannens begrunnelse oppfyller ikke kravene i forvaltningsloven §§ 24 og 25 jf. § 33, da det ikke er begrunnet tilstrekkelig hvorfor sentrale vilkår for tvangsmedisinering ble ansett oppfylt. Dersom Fylkesmannen mente å tiltre begrunnelsen i sykehusets vedtak eller begrunnelsen i en innføring i helsejournalen, skulle dette fremgått klart av vedtaket.  
+Videre fremkommer det ikke av Fylkesmannens vedtak at de har vurdert synspunktene i klagen, slik klageinstansen er pliktig til etter forvaltningsloven § 34 annet ledd.  
+I klagen ble det blant annet pekt på konkrete journaluttalelser fra tidligere behandlere om manglende effekt av det aktuelle medikamentet. Disse uttalelsene synes ikke å ha vært innhentet og vurdert av Fylkesmannen. Slik saken er opplyst, mener ombudsmannen at dette skulle vært gjort, jf. utredningsplikten i forvaltningsloven § 17 første ledd.  
+Fylkesmannen har overfor ombudsmannen erkjent mangler ved begrunnelsen, og har utdypet deres vurdering av saken. Vedtakets virkningstid på tre måneder er for lengst passert, og det er ikke opplysninger om noen aktive vedtak om tvangsmedisinering. Det er derfor ikke grunn til å be Fylkesmannen behandle saken på nytt nå. Fylkesmannen bes imidlertid merke seg ombudsmannens synspunkter ved behandlingen av fremtidige saker.
 
 ## Sakens bakgrunn
 

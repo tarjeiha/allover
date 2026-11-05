@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.8.2026 (sak 2026/990).
 ## Oppsummering
 
 Saken gjelder Politidirektoratets avslag på søknad om førerrett fra en innsatt under soning. Avslaget var begrunnet med at klageren ikke oppfylte vandelskravet i vegtrafikkloven § 24 fjerde ledd. Det ble i hovedsak vist til at det ikke kunne foretas en tilstrekkelig vandelsvurdering så lenge klageren var under lengre tids soning. Under henvisning til direktoratets rundskriv RPOD-2022-13 punkt 3.1.5.5 ble det vist til at den innsattes vandel først kunne bedømmes en viss tid etter endt soning. Som en del av begrunnelsen for avslaget ble det også vist til de straffbare forholdene klageren var domfelt for.  
-   
- Ombudet kom til at rundskrivets krav om ventetid i en bestemt periode etter endt soning for å kunne foreta en vandelsvurdering manglet forankring i vegtrafikkloven § 24 fjerde ledd. Ombudet mente videre at forvaltningen ikke kan avslå en søknad under henvisning til manglende vurderingsgrunnlag. Endelig fant ombudet at det forelå begrunnet tvil om Politidirektoratet hadde lagt til grunn riktig forståelse av vandelskravet i denne konkrete saken. Direktoratet ble bedt om å behandle saken på nytt, samt følge opp arbeidet med å revidere rundskrivet.
+Ombudet kom til at rundskrivets krav om ventetid i en bestemt periode etter endt soning for å kunne foreta en vandelsvurdering manglet forankring i vegtrafikkloven § 24 fjerde ledd. Ombudet mente videre at forvaltningen ikke kan avslå en søknad under henvisning til manglende vurderingsgrunnlag. Endelig fant ombudet at det forelå begrunnet tvil om Politidirektoratet hadde lagt til grunn riktig forståelse av vandelskravet i denne konkrete saken. Direktoratet ble bedt om å behandle saken på nytt, samt følge opp arbeidet med å revidere rundskrivet.
 
 Se oppdatering fra forvaltningen
 

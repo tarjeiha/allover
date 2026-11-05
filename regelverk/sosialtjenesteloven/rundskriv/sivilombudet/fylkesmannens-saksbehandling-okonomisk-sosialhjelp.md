@@ -15,11 +15,9 @@ Sivilombudets uttalelse 22.12.2020 (sak 2020/1078).
 
 ## Oppsummering
 
-Saken gjelder avslag på økonomisk stønad til livsopphold.   
-   
- Ombudsmannen er kommet til at saksbehandlingen sett under ett ikke er i samsvar med det som etter forvaltningsloven kreves for en forsvarlig saksbehandling. Begrunnelsene i saken har vært mangelfulle, noe som gjør at ombudsmannen mener det foreligger begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd, om det er foretatt en tilstrekkelig individuell vurdering av klagerens helhetlige situasjon.  
-   
- På denne bakgrunn bes Fylkesmannen om å behandle klagen på nytt, og å merke seg ombudsmannens påpekninger til fremtidige saker.
+Saken gjelder avslag på økonomisk stønad til livsopphold.  
+Ombudsmannen er kommet til at saksbehandlingen sett under ett ikke er i samsvar med det som etter forvaltningsloven kreves for en forsvarlig saksbehandling. Begrunnelsene i saken har vært mangelfulle, noe som gjør at ombudsmannen mener det foreligger begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd, om det er foretatt en tilstrekkelig individuell vurdering av klagerens helhetlige situasjon.  
+På denne bakgrunn bes Fylkesmannen om å behandle klagen på nytt, og å merke seg ombudsmannens påpekninger til fremtidige saker.
 
 ## Sakens bakgrunn
 

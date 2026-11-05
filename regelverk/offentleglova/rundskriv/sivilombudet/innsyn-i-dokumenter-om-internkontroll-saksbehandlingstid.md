@@ -16,8 +16,7 @@ Sivilombudets uttalelse 27.5.2019 (sak 2019/702).
 ## Oppsummering
 
 Utdanningsdirektoratet avslo et krav om innsyn i dokumenter om internkontroll. Personen som ba om innsyn, påklaget avslaget. Direktoratet oversendte saken til Kunnskapsdepartementet for klagebehandling 22. januar 2019. Departementet behandlet klagen 8. mars 2019.  
-   
- Ombudsmannen er kommet til at departementets klagesaksbehandlingstid var for lang og i strid med lovens krav. Departementet har opplyst at saksbehandlingstiden ikke er representativ for innsynssaker generelt, og har videre beklaget at klageren ikke ble orientert om tidsbruken. Ombudsmannen legger opplysningene til grunn, og forutsetter at departementet i fremtidige saker overholder lovens frist.
+Ombudsmannen er kommet til at departementets klagesaksbehandlingstid var for lang og i strid med lovens krav. Departementet har opplyst at saksbehandlingstiden ikke er representativ for innsynssaker generelt, og har videre beklaget at klageren ikke ble orientert om tidsbruken. Ombudsmannen legger opplysningene til grunn, og forutsetter at departementet i fremtidige saker overholder lovens frist.
 
 ## Sakens bakgrunn
 

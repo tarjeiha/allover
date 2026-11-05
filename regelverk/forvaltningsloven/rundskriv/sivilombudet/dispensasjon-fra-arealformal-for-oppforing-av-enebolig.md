@@ -15,12 +15,9 @@ Sivilombudets uttalelse 17.12.2021 (sak 2021/3135).
 ## Oppsummering
 
 Saken gjelder søknad om dispensasjon fra reguleringsplan. Søknaden gjelder oppføring av enebolig på en eiendom i Bergen kommune. Fylkesmannen i Vestland, nå Statsforvalteren i Vestland, la til grunn at eiendommen er regulert til «fellesareal, lekeplass, friareal» og parkering, og stadfestet kommunens vedtak om dispensasjon fra denne reguleringen.  
-   
- Ombudet har kommet til at det er knyttet begrunnet tvil til om hensynene bak det regulerte fellesarealet ikke vil bli vesentlig tilsidesatt ved dispensasjonen, jf. plan- og bygningsloven § 19-2 andre ledd første punktum. Tvilen er knyttet til Statsforvalterens vurderinger av reguleringsplanens alder og aktualitet, og til om det foreligger «fullverdig erstatning» etter Rikspolitiske retningslinjer for å styrke barn og unges interesser i planleggingen punkt 5 d.  
-   
- Ombudet har kommet til at det ikke er vist til relevante fordeler ved dispensasjon som er «klart større» enn ulempene, jf. plan- og bygningsloven § 19-2 andre ledd andre punktum. Det er knyttet store ulemper til å gjøre en så betydningsfull endring av planen. For at fordelene skal være «klart større» enn disse ulempene, må det normalt foreligge sterke areal- og ressursdisponeringshensyn som tilsier at det skal gis dispensasjon fra den planbestemte arealbruken. Ombudet kan ikke se at det er vist til slike hensyn her.   
-   
- Det kan ikke gis dispensasjon med den begrunnelsen som er gitt i denne saken.
+Ombudet har kommet til at det er knyttet begrunnet tvil til om hensynene bak det regulerte fellesarealet ikke vil bli vesentlig tilsidesatt ved dispensasjonen, jf. plan- og bygningsloven § 19-2 andre ledd første punktum. Tvilen er knyttet til Statsforvalterens vurderinger av reguleringsplanens alder og aktualitet, og til om det foreligger «fullverdig erstatning» etter Rikspolitiske retningslinjer for å styrke barn og unges interesser i planleggingen punkt 5 d.  
+Ombudet har kommet til at det ikke er vist til relevante fordeler ved dispensasjon som er «klart større» enn ulempene, jf. plan- og bygningsloven § 19-2 andre ledd andre punktum. Det er knyttet store ulemper til å gjøre en så betydningsfull endring av planen. For at fordelene skal være «klart større» enn disse ulempene, må det normalt foreligge sterke areal- og ressursdisponeringshensyn som tilsier at det skal gis dispensasjon fra den planbestemte arealbruken. Ombudet kan ikke se at det er vist til slike hensyn her.  
+Det kan ikke gis dispensasjon med den begrunnelsen som er gitt i denne saken.
 
 Se oppdatering fra forvaltningen
 

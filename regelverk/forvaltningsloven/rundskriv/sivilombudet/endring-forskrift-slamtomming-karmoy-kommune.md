@@ -15,8 +15,7 @@ Sivilombudets uttalelse 10.7.2017 (sak 2016/1886).
 ## Oppsummering
 
 Saken gjelder spørsmålet om Karmøy kommunes forskrift med differensiering av slamtømmings-tjenesten og slamtømmings¬gebyret, er i overensstemmelse med forurensingsloven § 26 om pliktig og tvungen renovasjon. Det ble også reist spørsmål om kommunen hadde fulgt reglene for forhåndsvarsel før forskriftsendringen.  
-   
- Ombudsmannen er kommet til at verken kommunens ordning med differensierte slamtømmingstjenester eller differensierte slamtømmingsgebyr er i strid med forurensningsloven. Innbyggerne på Feøy hadde ikke krav på annet forhåndsvarsel enn de fikk.
+Ombudsmannen er kommet til at verken kommunens ordning med differensierte slamtømmingstjenester eller differensierte slamtømmingsgebyr er i strid med forurensningsloven. Innbyggerne på Feøy hadde ikke krav på annet forhåndsvarsel enn de fikk.
 
 ### Sakens bakgrunn
 

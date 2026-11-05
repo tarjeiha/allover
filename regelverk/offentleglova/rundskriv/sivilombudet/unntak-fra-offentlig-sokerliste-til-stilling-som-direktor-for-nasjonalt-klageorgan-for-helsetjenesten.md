@@ -15,9 +15,8 @@ Sivilombudets uttalelse 4.2.2022 (sak 2021/4932).
 
 ## Oppsummering
 
-Saken gjelder offentlig søkerliste til stillingen som direktør for Nasjonalt klageorgan for helsetjenesten. Navnene til fire søkere ble unntatt offentlighet. Helse- og omsorgsdepartementet begrunnet dette med at disse søkerne på søknadstidspunktet ledet arbeidsplasser i omstillings- eller omorganiseringsprosesser.   
-   
- Ombudet er kommet til at departementets begrunnelse for å unnta navnene fra den offentlige søkerlisten ikke er tilstrekkelig, jf. offentleglova § 25. Videre har ombudet kommet til at saken ikke var tilstrekkelig opplyst, jf. prinsippet i forvaltningsloven § 17 og at departementet ikke har foretatt en tilstrekkelig merinnsynsvurdering etter offentleglova § 11. Det kreves særlige grunner for å unnta en søker fra søkerlisten til en lederstilling. Det må foretas en konkret avveiing av behovet for unntak opp mot behovet for offentlighet for den enkelte søker. I denne saken har departementet ikke i tilstrekkelig grad konkretisert de særlige grunnene som kan begrunne unntak fra den offentlige søkerlisten eller vurdert momentene som taler for offentlighet.
+Saken gjelder offentlig søkerliste til stillingen som direktør for Nasjonalt klageorgan for helsetjenesten. Navnene til fire søkere ble unntatt offentlighet. Helse- og omsorgsdepartementet begrunnet dette med at disse søkerne på søknadstidspunktet ledet arbeidsplasser i omstillings- eller omorganiseringsprosesser.  
+Ombudet er kommet til at departementets begrunnelse for å unnta navnene fra den offentlige søkerlisten ikke er tilstrekkelig, jf. offentleglova § 25. Videre har ombudet kommet til at saken ikke var tilstrekkelig opplyst, jf. prinsippet i forvaltningsloven § 17 og at departementet ikke har foretatt en tilstrekkelig merinnsynsvurdering etter offentleglova § 11. Det kreves særlige grunner for å unnta en søker fra søkerlisten til en lederstilling. Det må foretas en konkret avveiing av behovet for unntak opp mot behovet for offentlighet for den enkelte søker. I denne saken har departementet ikke i tilstrekkelig grad konkretisert de særlige grunnene som kan begrunne unntak fra den offentlige søkerlisten eller vurdert momentene som taler for offentlighet.
 
 ## Sakens bakgrunn
 

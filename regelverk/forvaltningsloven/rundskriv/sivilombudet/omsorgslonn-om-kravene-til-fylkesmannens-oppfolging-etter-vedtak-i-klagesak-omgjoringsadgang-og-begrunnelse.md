@@ -16,12 +16,9 @@ Sivilombudets uttalelse 14.9.2018 (sak 2017/597).
 ## Oppsummering
 
 Saken gjelder et vedtak fra Fylkesmannen i Østfold i klagesak om omsorgslønn.  
-   
- Fylkesmannen fastsatte i 2013 at klager minst skulle ha samme lønn som hjemmehjelpere i kommunen. X kommune mente fylkesmannens lønnsfastsettelse gikk for langt inn i kommunens frie skjønn og fulgte derfor ikke opp vedtaket fullt ut. Klager ba i 2016 kommunen om etterbetaling i henhold til Fylkesmannens vedtak, men fikk avslag. Avslaget ble påklaget. Fylkesmannen stadfestet i januar 2017 kommunens avslag, og omgjorde derved sitt eget vedtak fra 2013.  
-   
- Fylkesmannens oppfølging i saken fulgte ikke god forvaltningsskikk.  
-   
- Fylkesmannen gikk i 2013-vedtaket lenger i overprøvingen av kommunens frie skjønn etter helse- og omsorgstjenesteloven § 3-6 enn pasient- og brukerrettighetsloven § 7-6 gir kompetanse til. Vedtaket var derfor ugyldig. Det gikk ikke frem av omgjøringsvedtaket at 2013-vedtaket ble ansett ugyldig. Etter en konkret avveining av de sentrale hensynene i saken var ikke omgjøringsadgangen falt bort etter tre år. Fylkesmannen ble bedt om å gi klager en uforbeholden unnskyldning for saksbehandlings- og rettsanvendelsesfeilene i saken.
+Fylkesmannen fastsatte i 2013 at klager minst skulle ha samme lønn som hjemmehjelpere i kommunen. X kommune mente fylkesmannens lønnsfastsettelse gikk for langt inn i kommunens frie skjønn og fulgte derfor ikke opp vedtaket fullt ut. Klager ba i 2016 kommunen om etterbetaling i henhold til Fylkesmannens vedtak, men fikk avslag. Avslaget ble påklaget. Fylkesmannen stadfestet i januar 2017 kommunens avslag, og omgjorde derved sitt eget vedtak fra 2013.  
+Fylkesmannens oppfølging i saken fulgte ikke god forvaltningsskikk.  
+Fylkesmannen gikk i 2013-vedtaket lenger i overprøvingen av kommunens frie skjønn etter helse- og omsorgstjenesteloven § 3-6 enn pasient- og brukerrettighetsloven § 7-6 gir kompetanse til. Vedtaket var derfor ugyldig. Det gikk ikke frem av omgjøringsvedtaket at 2013-vedtaket ble ansett ugyldig. Etter en konkret avveining av de sentrale hensynene i saken var ikke omgjøringsadgangen falt bort etter tre år. Fylkesmannen ble bedt om å gi klager en uforbeholden unnskyldning for saksbehandlings- og rettsanvendelsesfeilene i saken.
 
 Se oppdatering fra forvaltningen
 

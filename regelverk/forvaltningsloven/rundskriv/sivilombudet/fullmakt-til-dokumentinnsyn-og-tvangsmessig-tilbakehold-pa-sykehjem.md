@@ -15,12 +15,9 @@ Sivilombudets uttalelse 27.4.2018 (sak 2017/836).
 ## Oppsummering
 
 En eldre kvinne ble lagt inn på sykehjem under tvang, jf. pasient- og brukerrettighetsloven kapittel 4A. Pasient- og brukerombudet i Y ba om innsyn i sakens dokumenter for eventuelt å klage på tvangsvedtaket på hennes vegne. Delvis innsyn ble gitt. Fylkesmannen i Y skrev senere at kvinnen ikke kunne avgi gyldig fullmakt, og at Pasient- og brukerombudet derfor ikke kunne representere kvinnen. Klagen til Helsetilsynet var fortsatt ikke realitetsbehandlet ett år etter at innsynsbegjæringen ble fremsatt. Ombudet klaget også over at pasienten ønsket å fremsette en klage over tvangsoppholdet, men ikke var blitt hørt.  
-   
- Ombudsmannen ba Helsetilsynet sørge for at innsynskravet fra Pasient- og brukerombudet ble oversendt fra Fylkesmannen og klagebehandlet snarest mulig hvis ombudet ba om det. Helsetilsynet og Fylkesmannen ble også bedt om å merke seg de korte fristene som gjelder ved behandling av innsynskrav.  
-   
- Helsetilsynet og Fylkesmannen syntes å ha lagt til grunn en riktig forståelse av begrepet «samtykkekompetanse» i redegjørelsen for ombudsmannen. Terskelen må ikke være høy for sykehjemsbeboere som trenger bistand fra Pasient- og brukerombudet til å klage på bruk av tvang.  
-   
- Fylkesmannen burde gjort mer for å avklare om pasienten ønsket å klage etter å ha mottatt bekymringsmeldinger fra Pasient- og brukerombudet, og om nødvendig sørget for at pasienten fikk hjelp til å sette opp en klage.
+Ombudsmannen ba Helsetilsynet sørge for at innsynskravet fra Pasient- og brukerombudet ble oversendt fra Fylkesmannen og klagebehandlet snarest mulig hvis ombudet ba om det. Helsetilsynet og Fylkesmannen ble også bedt om å merke seg de korte fristene som gjelder ved behandling av innsynskrav.  
+Helsetilsynet og Fylkesmannen syntes å ha lagt til grunn en riktig forståelse av begrepet «samtykkekompetanse» i redegjørelsen for ombudsmannen. Terskelen må ikke være høy for sykehjemsbeboere som trenger bistand fra Pasient- og brukerombudet til å klage på bruk av tvang.  
+Fylkesmannen burde gjort mer for å avklare om pasienten ønsket å klage etter å ha mottatt bekymringsmeldinger fra Pasient- og brukerombudet, og om nødvendig sørget for at pasienten fikk hjelp til å sette opp en klage.
 
 Se oppdatering fra forvaltningen
 

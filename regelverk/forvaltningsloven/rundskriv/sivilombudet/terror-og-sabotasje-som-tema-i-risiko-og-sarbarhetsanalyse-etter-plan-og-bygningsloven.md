@@ -15,8 +15,7 @@ Sivilombudets uttalelse 4.11.2018 (sak 2017/4303).
 ## Oppsummering
 
 Saken gjelder en detaljregulering som åpner for ny storbyhall i Trondheim kommune. Det er gjennomført risiko- og sårbarhetsanalyse, men den endelige analysen omhandler ikke temaet terror og sabotasje. Daværende fylkesmann i Sør-Trøndelag stadfestet planvedtaket.  
-   
- Ombudsmannen er kommet til at detaljreguleringen åpner for en utbygging som medfører at terror og sabotasje skulle vært vurdert i risiko- og sårbarhetsanalysen. Anlegget vil etter utbyggingen kunne samle en relativt stor menneskemengde på et område med klare utfordringer knyttet til evakuering og tilgjengelighet for nødetater. Manglende vurdering av terror og sabotasje er en saksbehandlingsfeil, og det knytter seg begrunnet tvil til om Fylkesmannen har lagt til grunn riktig forståelse av plan- og bygningsloven § 4-3 første ledd. Ombudsmannen ber om at Fylkesmannen behandler denne delen av saken på nytt og orienterer ombudsmannen om utfallet av den nye behandlingen.
+Ombudsmannen er kommet til at detaljreguleringen åpner for en utbygging som medfører at terror og sabotasje skulle vært vurdert i risiko- og sårbarhetsanalysen. Anlegget vil etter utbyggingen kunne samle en relativt stor menneskemengde på et område med klare utfordringer knyttet til evakuering og tilgjengelighet for nødetater. Manglende vurdering av terror og sabotasje er en saksbehandlingsfeil, og det knytter seg begrunnet tvil til om Fylkesmannen har lagt til grunn riktig forståelse av plan- og bygningsloven § 4-3 første ledd. Ombudsmannen ber om at Fylkesmannen behandler denne delen av saken på nytt og orienterer ombudsmannen om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

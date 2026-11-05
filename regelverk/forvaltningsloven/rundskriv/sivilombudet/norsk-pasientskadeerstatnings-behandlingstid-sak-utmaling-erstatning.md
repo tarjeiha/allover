@@ -15,8 +15,8 @@ Sivilombudets uttalelse 14.7.2017 (sak 2016/3415).
 ## Oppsummering
 
 Saken gjelder behandlingstiden ved Norsk pasientskadeerstatnings utmåling av erstatning etter et tidligere vedtak om at pasienten hadde rett på erstatning for behandlingen av en skulderskade.  
- Ombudsmannen har kommet til at saksbehandlingstiden hos Norsk Pasientskadeerstatning på mer enn to år og syv måneder er for lang. NPE må kritiseres for den lange saksbehandlingstiden, og for manglende behandling av krav om delutbetalinger. Dessuten har tilbakemeldingene til pasienten underveis i saken ikke vært tilfredsstillende.  
- Ombudsmannen forutsetter at saken nå ferdigbehandles. Det forutsettes videre at Norsk pasientskadeerstatning merker seg ombudsmannens synspunkter, og sørger for å innrette saksbehandlingen i fremtidige saker i henhold til disse.
+Ombudsmannen har kommet til at saksbehandlingstiden hos Norsk Pasientskadeerstatning på mer enn to år og syv måneder er for lang. NPE må kritiseres for den lange saksbehandlingstiden, og for manglende behandling av krav om delutbetalinger. Dessuten har tilbakemeldingene til pasienten underveis i saken ikke vært tilfredsstillende.  
+Ombudsmannen forutsetter at saken nå ferdigbehandles. Det forutsettes videre at Norsk pasientskadeerstatning merker seg ombudsmannens synspunkter, og sørger for å innrette saksbehandlingen i fremtidige saker i henhold til disse.
 
 ### 1. Sakens bakgrunn
 

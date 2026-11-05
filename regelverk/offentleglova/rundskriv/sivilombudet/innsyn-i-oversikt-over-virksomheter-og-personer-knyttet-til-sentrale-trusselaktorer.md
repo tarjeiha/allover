@@ -15,9 +15,8 @@ Sivilombudets uttalelse 21.6.2023 (sak 2022/4465).
 
 ## Oppsummering
 
-Saken gjelder et krav om innsyn hos Skatteetaten i en oversikt over virksomheter og personer knyttet til sentrale trusselaktører utenom a-krimsentrenes oversikt. Skattedirektoratet avslo innsynskravet med den begrunnelse at oversikten inneholder taushetsbelagte opplysninger etter skatteforvaltningsloven § 3-1. Direktoratet har også overfor ombudet gitt utrykk for at flere av opplysningene i dokumentet kan unntas etter offentleglova § 24.   
-   
- Sivilombudet er kommet til at det er begrunnet tvil om det kan nektes innsyn i alle de unntatte opplysningene med den begrunnelsen Skattedirektoratet har gitt. Ombudet mener det foreligger tvil om vilkårene for unntak etter offentleglova § 13, jf. skatteforvaltningsloven §§ 3-1 og 3-7 bokstav b og offentleglova § 24 er oppfylt, da direktoratet ikke i tilstrekkelig grad har vurdert konkret eller begrunnet nærmere hvorfor opplysningene kan unntas på dette grunnlaget. Ombudet ber derfor Skattedirektoratet behandle saken på nytt.
+Saken gjelder et krav om innsyn hos Skatteetaten i en oversikt over virksomheter og personer knyttet til sentrale trusselaktører utenom a-krimsentrenes oversikt. Skattedirektoratet avslo innsynskravet med den begrunnelse at oversikten inneholder taushetsbelagte opplysninger etter skatteforvaltningsloven § 3-1. Direktoratet har også overfor ombudet gitt utrykk for at flere av opplysningene i dokumentet kan unntas etter offentleglova § 24.  
+Sivilombudet er kommet til at det er begrunnet tvil om det kan nektes innsyn i alle de unntatte opplysningene med den begrunnelsen Skattedirektoratet har gitt. Ombudet mener det foreligger tvil om vilkårene for unntak etter offentleglova § 13, jf. skatteforvaltningsloven §§ 3-1 og 3-7 bokstav b og offentleglova § 24 er oppfylt, da direktoratet ikke i tilstrekkelig grad har vurdert konkret eller begrunnet nærmere hvorfor opplysningene kan unntas på dette grunnlaget. Ombudet ber derfor Skattedirektoratet behandle saken på nytt.
 
 ## Sakens bakgrunn
 

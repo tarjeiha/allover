@@ -15,13 +15,10 @@ Sivilombudets uttalelse 10.6.2024 (sak 2023/5211).
 
 ## Oppsummering
 
-Saken gjelder oppnevning av ny fast (heretter kalt profesjonell) verge for en ung voksen vergehaver. Spørsmålet i saken var om vedtaket var tilfredsstillende begrunnet, og om Statsforvalteren i Innlandet hadde oppfylt veiledningsplikten overfor vergehavers nærmeste familie om hva som skal til for å bli vurdert egnet som verge.   
-   
- Ombudet kom til at vedtaket ikke var tilfredsstillende begrunnet. Det fremgikk ikke av begrunnelsen hvorfor Statsforvalteren mente det var best for vergehaveren å ha profesjonell verge. Ombudet viste i den forbindelse til uttalelser i forarbeidene til vergemålsloven, der det er understreket at frivillige verger skal være hovedløsningen.   
-   
- Ombudet hadde ikke tilstrekkelig grunnlag for å fastslå at veiledningsplikten var brutt, men hadde merknader om hva som må kunne forventes av Statsforvalteren i tilfeller der nærstående ber om informasjon om hva som ligger i egnethetskriteriet.  
-   
- Statsforvalteren i Innlandet ble bedt om å følge ombudets merknader i fremtidige saker om vergeoppnevning.
+Saken gjelder oppnevning av ny fast (heretter kalt profesjonell) verge for en ung voksen vergehaver. Spørsmålet i saken var om vedtaket var tilfredsstillende begrunnet, og om Statsforvalteren i Innlandet hadde oppfylt veiledningsplikten overfor vergehavers nærmeste familie om hva som skal til for å bli vurdert egnet som verge.  
+Ombudet kom til at vedtaket ikke var tilfredsstillende begrunnet. Det fremgikk ikke av begrunnelsen hvorfor Statsforvalteren mente det var best for vergehaveren å ha profesjonell verge. Ombudet viste i den forbindelse til uttalelser i forarbeidene til vergemålsloven, der det er understreket at frivillige verger skal være hovedløsningen.  
+Ombudet hadde ikke tilstrekkelig grunnlag for å fastslå at veiledningsplikten var brutt, men hadde merknader om hva som må kunne forventes av Statsforvalteren i tilfeller der nærstående ber om informasjon om hva som ligger i egnethetskriteriet.  
+Statsforvalteren i Innlandet ble bedt om å følge ombudets merknader i fremtidige saker om vergeoppnevning.
 
 ## Sakens bakgrunn
 

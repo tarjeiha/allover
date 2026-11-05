@@ -15,17 +15,12 @@ Sivilombudets uttalelse 3.11.2023 (sak 2023/802).
 
 ## Oppsummering
 
-Saken gjelder utlendingsmyndighetenes praksis med å berostille flyktningers søknader om reisebevis i påvente av avgjørelse i sak om tilbakekall av flyktningens oppholdstillatelse etter utlendingsloven § 63. Praksisen er regulert i Justis- og beredskapsdepartementets instruks GI 05/2019.   
-   
- Reisebevis gir ikke bare rett til å reise ut av landet, men fungerer også som eneste gyldige legitimasjon for mange flyktninger i Norge. Et reisebevis har derfor stor betydning for flyktningenes muligheter til å delta i samfunnslivet.  
-   
- Ombudet har kommet til at instruks GI 05/2019 og UDIs praksis for berostillelser, bygger på en forståelse av vilkårene for reisebevis i utlendingsloven § 64 som er i strid med flyktningkonvensjonen artikkel 28. Feiltolkningen medfører at flyktninger urettmessig kan bli stående uten reisebevis i lengre perioder i påvente av en tilbakekallssak.  
-   
- At instruksen gir adgang til én gangs fornyelse av reisebeviset med inntil ett år reduserer virkningen av feilen noe, men fornyelsesadgangen benyttes ikke alltid, og tilbakekallssaker tar uansett ofte vesentlig lenger tid enn ett år å ferdigbehandle.  
-   
- Sivilombudet ber departementet om å sørge for at instruks GI-05/2019 endres og at utlendingsmyndighetene justerer sin praksis, i tråd med merknadene i denne saken. Ombudet ber videre departementet vurdere om endringene som gjøres også bør gjelde for saker om utlendingspass.  
-   
- Det bes om en tilbakemelding innen tre måneder på hvordan departementet vil følge opp saken.
+Saken gjelder utlendingsmyndighetenes praksis med å berostille flyktningers søknader om reisebevis i påvente av avgjørelse i sak om tilbakekall av flyktningens oppholdstillatelse etter utlendingsloven § 63. Praksisen er regulert i Justis- og beredskapsdepartementets instruks GI 05/2019.  
+Reisebevis gir ikke bare rett til å reise ut av landet, men fungerer også som eneste gyldige legitimasjon for mange flyktninger i Norge. Et reisebevis har derfor stor betydning for flyktningenes muligheter til å delta i samfunnslivet.  
+Ombudet har kommet til at instruks GI 05/2019 og UDIs praksis for berostillelser, bygger på en forståelse av vilkårene for reisebevis i utlendingsloven § 64 som er i strid med flyktningkonvensjonen artikkel 28. Feiltolkningen medfører at flyktninger urettmessig kan bli stående uten reisebevis i lengre perioder i påvente av en tilbakekallssak.  
+At instruksen gir adgang til én gangs fornyelse av reisebeviset med inntil ett år reduserer virkningen av feilen noe, men fornyelsesadgangen benyttes ikke alltid, og tilbakekallssaker tar uansett ofte vesentlig lenger tid enn ett år å ferdigbehandle.  
+Sivilombudet ber departementet om å sørge for at instruks GI-05/2019 endres og at utlendingsmyndighetene justerer sin praksis, i tråd med merknadene i denne saken. Ombudet ber videre departementet vurdere om endringene som gjøres også bør gjelde for saker om utlendingspass.  
+Det bes om en tilbakemelding innen tre måneder på hvordan departementet vil følge opp saken.
 
 Se oppdatering fra forvaltningen
 

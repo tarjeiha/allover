@@ -16,12 +16,9 @@ Sivilombudets uttalelse 4.12.2025 (sak 2025/2373).
 ## Oppsummering
 
 Saken gjelder Arbeids- og velferdsdirektoratets behandling av en innsynsklage.  
-   
- Klagerens advokat ba om innsyn i alle saksdokumenter, herunder all intern og ekstern korrespondanse hos Nav Klageinstans, i forbindelse med Navs utredning om mors aktivitetsplikt når far mottar foreldrepenger.   
-   
- Nav Klageinstans la til grunn at innsynskravet gjaldt fem dokumenter. Advokaten klaget på avgjørelsen, og presiserte at innsynskravet gjaldt all kommunikasjon hos Nav Klageinstans om saken, herunder interne e-poster, SMS-er og annen elektronisk kommunikasjon. Arbeids- og velferdsdirektoratet vurderte ytterligere tre dokumenter, og stadfestet ellers Nav Klageinstans’ avgjørelse.   
-   
- Til ombudet har direktoratet opplyst at det under sin saksforberedelse var i muntlig kontakt med Nav Klageinstans for å avklare om det fantes ytterligere dokumenter og korrespondanse om saken innsynskravet gjaldt. I ettertid, mens saken var til behandling her, fant Nav Klageinstans en rekke interne dokumenter som gjaldt spørsmålet om mors aktivitetsplikt, og som klageren fikk innsyn i. Direktoratet har medgitt at de skulle ha sørget for å dokumentere de undersøkelsene de gjorde hos Nav Klageinstans. Ombudet er enig i dette. Videre er det tvil om direktoratets muntlige undersøkelser var grundige nok til å få saken tilstrekkelig opplyst. Ombudet har også kommet til at direktoratet skulle ha veiledet klageren om rett organ etter forvaltningsloven § 11.
+Klagerens advokat ba om innsyn i alle saksdokumenter, herunder all intern og ekstern korrespondanse hos Nav Klageinstans, i forbindelse med Navs utredning om mors aktivitetsplikt når far mottar foreldrepenger.  
+Nav Klageinstans la til grunn at innsynskravet gjaldt fem dokumenter. Advokaten klaget på avgjørelsen, og presiserte at innsynskravet gjaldt all kommunikasjon hos Nav Klageinstans om saken, herunder interne e-poster, SMS-er og annen elektronisk kommunikasjon. Arbeids- og velferdsdirektoratet vurderte ytterligere tre dokumenter, og stadfestet ellers Nav Klageinstans’ avgjørelse.  
+Til ombudet har direktoratet opplyst at det under sin saksforberedelse var i muntlig kontakt med Nav Klageinstans for å avklare om det fantes ytterligere dokumenter og korrespondanse om saken innsynskravet gjaldt. I ettertid, mens saken var til behandling her, fant Nav Klageinstans en rekke interne dokumenter som gjaldt spørsmålet om mors aktivitetsplikt, og som klageren fikk innsyn i. Direktoratet har medgitt at de skulle ha sørget for å dokumentere de undersøkelsene de gjorde hos Nav Klageinstans. Ombudet er enig i dette. Videre er det tvil om direktoratets muntlige undersøkelser var grundige nok til å få saken tilstrekkelig opplyst. Ombudet har også kommet til at direktoratet skulle ha veiledet klageren om rett organ etter forvaltningsloven § 11.
 
 ## Sakens bakgrunn
 

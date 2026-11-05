@@ -15,8 +15,8 @@ Sivilombudets uttalelse 14.8.2017 (sak 2017/133).
 ## Oppsummering
 
 Ombudsmannen følger kontinuerlig med på saksbehandlingstiden i Nav og foretar jevnlig undersøkelser av eget tiltak og på generelt grunnlag. Forrige undersøkelse av behandlingstiden i internasjonale saker ble gjort i 2015 (se sak 2015/2817). I mellomtiden har Nav omorganisert behandlingen av internasjonale saker.  
- Arbeids- og velferdsdirektoratet ble i brev 6. februar 2017 bedt om å redegjøre for behandlingstiden sammenlignet med det som ble opplyst ved forrige undersøkelse i 2015. Arbeids- og velferdsdirektoratet svarte ombudsmannen i brev 7. april 2017.   
- Ombudsmannen fant etter dette å la saken bero med den redegjørelsen og forklaringen som var gitt. Imidlertid vil ombudsmannen følge utviklingen videre, i første omgang gjennom klagesakene og telefonhenvendelsene ombudsmannen får.
+Arbeids- og velferdsdirektoratet ble i brev 6. februar 2017 bedt om å redegjøre for behandlingstiden sammenlignet med det som ble opplyst ved forrige undersøkelse i 2015. Arbeids- og velferdsdirektoratet svarte ombudsmannen i brev 7. april 2017.  
+Ombudsmannen fant etter dette å la saken bero med den redegjørelsen og forklaringen som var gitt. Imidlertid vil ombudsmannen følge utviklingen videre, i første omgang gjennom klagesakene og telefonhenvendelsene ombudsmannen får.
 
 Se også[sak 2015/2817](https://www.sivilombudet.no/uttalelser/saksbehandlingstiden-ved-nav-internasjonalt/)
 

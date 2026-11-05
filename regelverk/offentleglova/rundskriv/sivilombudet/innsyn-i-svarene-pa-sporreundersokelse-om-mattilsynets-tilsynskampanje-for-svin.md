@@ -15,10 +15,8 @@ Sivilombudets uttalelse 26.6.2025 (sak 2025/459).
 ## Oppsummering
 
 Saken gjelder et krav om innsyn i svarene fra nærings- og dyrevernorganisasjoner på en spørreundersøkelse om Mattilsynets tilsynskampanje for svin. Landbruks- og matdepartementet stadfestet Mattilsynets delvise avslag på klagerens krav om innsyn. Aktørenes svar på spørreundersøkelsen ble unntatt i sin helhet etter offentleglova § 15 andre ledd, fordi dokumentene etter departementets og Mattilsynets syn inneholdt råd og vurderinger som det var nødvendig å unnta.  
-   
- Sivilombudet kom til at det er begrunnet tvil om departementet kan unnta svarene på spørreundersøkelsen med hjemmel i offentleglova § 15 andre ledd. Departementet hadde ikke foretatt en korrekt og tilstrekkelig konkret vurdering av hvilke deler av de forskjellige besvarelse som kunne unntas. Ombudet mente at aktørenes svar på spørreundersøkelsen ikke inneholdt råd og vurderinger i offentleglovas forstand. Ombudet kunne heller ikke se at departementet hadde sannsynliggjort at det var nødvendig å unnta svarene av hensyn til en forsvarlig ivaretakelse av det offentliges interesser i saken.  
-   
- Departementet ble bedt om å behandle saken på nytt.
+Sivilombudet kom til at det er begrunnet tvil om departementet kan unnta svarene på spørreundersøkelsen med hjemmel i offentleglova § 15 andre ledd. Departementet hadde ikke foretatt en korrekt og tilstrekkelig konkret vurdering av hvilke deler av de forskjellige besvarelse som kunne unntas. Ombudet mente at aktørenes svar på spørreundersøkelsen ikke inneholdt råd og vurderinger i offentleglovas forstand. Ombudet kunne heller ikke se at departementet hadde sannsynliggjort at det var nødvendig å unnta svarene av hensyn til en forsvarlig ivaretakelse av det offentliges interesser i saken.  
+Departementet ble bedt om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

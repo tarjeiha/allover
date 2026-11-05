@@ -16,12 +16,9 @@ Sivilombudets uttalelse 23.10.2024 (sak 2024/4343).
 ## Oppsummering
 
 Saken gjelder Statsforvalteren i Vestlands overprøving av kommunens avslag på søknad om skolebytte til nabokommunen for en elev som skulle starte på ungdomsskolen. Kommunen hadde vist til at den ikke hadde samarbeidsavtale om felles skolekrets med nabokommunen, jf. tidligere opplæringslov § 8-1 annet ledd, og at slik avtale må foreligge hvis skolebytte til nabokommune skal innvilges. Kommunens vedtak viste ikke hvilke hensyn som talte imot å innvilge skolebytte.  
-   
- Statsforvalteren vurderte at flere momenter i saken talte for at det beste for barnet var å få bytte skole, men at kommunen ikke kunne pålegges et slikt økonomisk ansvar.  
-   
- Sivilombudet er kommet til at Statsforvalteren burde opphevet kommunens vedtak som følge av feil ved rettsanvendelsen. En samarbeidsavtale med hjemmel i § 8-1 annet ledd er ikke en forutsetning for å innvilge en enkeltelevs søknad om skolebytte etter tredje ledd. Kommunens begrunnelse ga heller ikke Statsforvalteren tilstrekkelig grunnlag til å prøve den kommunale skjønnsutøvelsen. De hensyn som etter kommunens syn talte mot å innvilge søknaden fremgikk ikke av vedtaket.   
-   
- Mens saken var til behandling hos ombudet hadde barnet blitt folkeregistrert i nabokommunen og fått plass på den aktuelle skolen. Det var derfor ikke grunn til å be Statsforvalteren behandle saken på nytt.
+Statsforvalteren vurderte at flere momenter i saken talte for at det beste for barnet var å få bytte skole, men at kommunen ikke kunne pålegges et slikt økonomisk ansvar.  
+Sivilombudet er kommet til at Statsforvalteren burde opphevet kommunens vedtak som følge av feil ved rettsanvendelsen. En samarbeidsavtale med hjemmel i § 8-1 annet ledd er ikke en forutsetning for å innvilge en enkeltelevs søknad om skolebytte etter tredje ledd. Kommunens begrunnelse ga heller ikke Statsforvalteren tilstrekkelig grunnlag til å prøve den kommunale skjønnsutøvelsen. De hensyn som etter kommunens syn talte mot å innvilge søknaden fremgikk ikke av vedtaket.  
+Mens saken var til behandling hos ombudet hadde barnet blitt folkeregistrert i nabokommunen og fått plass på den aktuelle skolen. Det var derfor ikke grunn til å be Statsforvalteren behandle saken på nytt.
 
 ## Sakens bakgrunn
 

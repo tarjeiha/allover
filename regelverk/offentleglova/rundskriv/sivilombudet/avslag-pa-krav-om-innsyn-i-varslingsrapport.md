@@ -16,10 +16,8 @@ Sivilombudets uttalelse 1.4.2022 (sak 2022/1353).
 ## Oppsummering
 
 En journalist i Kommunal Rapport ba om innsyn i en rapport skrevet av advokater fra et eksternt advokatfirma i forbindelse med en varslingssak i Vestfold og Telemark fylkeskommune. Statsforvalteren i Vestfold og Telemark stadfestet fylkeskommunens delvise avslag på krav om innsyn i rapporten under henvisning til at det var et organinternt dokument, jf. offentleglova § 14 første ledd. I begrunnelsen viste Statsforvalteren til at advokatfirmaet måtte anses som en del av fylkeskommunen i forbindelse med utarbeidelsen av rapporten. Statsforvalteren la blant annet vekt på at oppgaven normalt ville blitt utført av fylkeskommunen selv, og at det hadde vært et tett samarbeid mellom fylkeskommunen og advokatfirmaet. I merinnsynsvurderingen viste Statsforvalteren til at prøvingsadgangen var begrenset til å legge stor vekt på hensynet til det kommunale selvstyret.  
-   
- Ombudet har, under tvil, kommet til at det i utgangspunktet er adgang til å unnta dokumentet fra innsyn som organinternt. Videre er ombudet kommet til at merinnsynsvurderingen er mangelfull og basert på en feilaktig lovforståelse.  
-   
- Ombudet ber på denne bakgrunn Statsforvalteren om å vurdere helt eller delvis merinnsyn på nytt.
+Ombudet har, under tvil, kommet til at det i utgangspunktet er adgang til å unnta dokumentet fra innsyn som organinternt. Videre er ombudet kommet til at merinnsynsvurderingen er mangelfull og basert på en feilaktig lovforståelse.  
+Ombudet ber på denne bakgrunn Statsforvalteren om å vurdere helt eller delvis merinnsyn på nytt.
 
 Se oppdatering fra forvaltningen
 

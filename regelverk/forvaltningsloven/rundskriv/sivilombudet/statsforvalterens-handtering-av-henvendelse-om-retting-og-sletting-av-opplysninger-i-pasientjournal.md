@@ -15,11 +15,9 @@ Sivilombudets uttalelse 15.10.2026 (sak 2026/3149).
 ## Oppsummering
 
 Saken gjaldt Statsforvalteren i Østfold, Buskerud, Oslo og Akershus’ håndtering av en henvendelse fra en klager som ønsket opplysninger i egen pasientjournal rettet/slettet.  
-   
- Ombudet kom til at henvendelsen klart skulle vært behandlet som en klage på Volvats håndtering av klagerens krav om retting og sletting. Etter ombudets syn behandlet Statsforvalteren saken i feil spor da den ble vurdert som en tilsynssak.  
- Saken ble avsluttet hos Sivilombudet ettersom Statsforvalteren nå hadde oversendt saken om retting og sletting til Volvat for forberedende klagebehandling.   
-   
- Ombudet la til grunn at Statsforvalteren merker seg ombudets synspunkter for fremtidige saker.
+Ombudet kom til at henvendelsen klart skulle vært behandlet som en klage på Volvats håndtering av klagerens krav om retting og sletting. Etter ombudets syn behandlet Statsforvalteren saken i feil spor da den ble vurdert som en tilsynssak.  
+Saken ble avsluttet hos Sivilombudet ettersom Statsforvalteren nå hadde oversendt saken om retting og sletting til Volvat for forberedende klagebehandling.  
+Ombudet la til grunn at Statsforvalteren merker seg ombudets synspunkter for fremtidige saker.
 
 ## Sakens bakgrunn
 

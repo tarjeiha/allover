@@ -14,13 +14,11 @@ Sivilombudets uttalelse 4.2.2026 (sak 2025/5747).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt Navs saksbehandlingstid for søknader om uføretrygd i saker der søkeren er eller har vært bosatt i utlandet.   
- Saksbehandlingstiden er på 22 måneder.   
- Sivilombudet har forståelse for at den lange saksbehandlingen for søknader om uføretrygd der søker er bosatt i utlandet, delvis skyldes forhold hos andre lands myndigheter. Samtidig utgjør store deler av behandlingstiden ren liggetid. Årsaken til dette er manglende saksbehandlingskapasitet. Etter ombudets syn kan begrunnelsen som er gitt, ikke anses tilstrekkelig for å akseptere en så lang liggetid.  
-   
- Slik situasjonen er nå, og slik den har vært over lengre tid, må det antas at kravet om behandling «uten ugrunnet opphold» i forvaltningsloven § 11 a første ledd blir brutt i flere saker. Dette til tross for at Nav tidligere har opplyst at det er iverksatt tiltak for å redusere behandlingstiden, og at antall innkomne saker ikke har økt. Ombudet ser det derfor som viktig at arbeidet med å redusere behandlingstiden intensiveres, og legger til grunn at direktoratet fastsetter nødvendige tiltak for å kunne behandle sakene innen lovlige frister.  
-   
- At Nav Arbeid og ytelser i alminnelighet ikke sender ut foreløpige svar og forsinkelsesmeldinger til søkerne, er et brudd på forvaltningsloven § 11 a andre ledd og kravene til god forvaltningsskikk. Sivilombudet ber direktoratet om å iverksette tiltak for å sikre at søkerne blir tilstrekkelig orientert underveis i saksgangen.
+Sivilombudet har av eget tiltak undersøkt Navs saksbehandlingstid for søknader om uføretrygd i saker der søkeren er eller har vært bosatt i utlandet.  
+Saksbehandlingstiden er på 22 måneder.  
+Sivilombudet har forståelse for at den lange saksbehandlingen for søknader om uføretrygd der søker er bosatt i utlandet, delvis skyldes forhold hos andre lands myndigheter. Samtidig utgjør store deler av behandlingstiden ren liggetid. Årsaken til dette er manglende saksbehandlingskapasitet. Etter ombudets syn kan begrunnelsen som er gitt, ikke anses tilstrekkelig for å akseptere en så lang liggetid.  
+Slik situasjonen er nå, og slik den har vært over lengre tid, må det antas at kravet om behandling «uten ugrunnet opphold» i forvaltningsloven § 11 a første ledd blir brutt i flere saker. Dette til tross for at Nav tidligere har opplyst at det er iverksatt tiltak for å redusere behandlingstiden, og at antall innkomne saker ikke har økt. Ombudet ser det derfor som viktig at arbeidet med å redusere behandlingstiden intensiveres, og legger til grunn at direktoratet fastsetter nødvendige tiltak for å kunne behandle sakene innen lovlige frister.  
+At Nav Arbeid og ytelser i alminnelighet ikke sender ut foreløpige svar og forsinkelsesmeldinger til søkerne, er et brudd på forvaltningsloven § 11 a andre ledd og kravene til god forvaltningsskikk. Sivilombudet ber direktoratet om å iverksette tiltak for å sikre at søkerne blir tilstrekkelig orientert underveis i saksgangen.
 
 Se oppdatering fra forvaltningen
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 20.4.2018 (sak 2017/1393).
 ## Oppsummering
 
 Saken gjelder utvisning fra folkehøyskole som følge av brudd på skolens alkoholreglement. Skolens disiplinærråd fattet vedtak om bortvisning. Ved behandlingen av klagen fra studenten endret disiplinærrådet vedtaket til å omfatte avbrutt skoleår. Vedtaket ble deretter videresendt skolestyret, som var klageinstans, og som opprettholdt vedtaket.  
-   
- Ombudsmannen kom til at folkehøyskolen ikke hadde hjemmel til å fatte vedtak om å avbryte studentens skoleår som følge av brudd på skolereglementets regler om bruk og oppbevaring av alkohol. Det var også begått flere saksbehandlingsfeil. Blant annet uttalte ombudsmannen at førsteinstansen ikke har adgang til å endre vedtaket til ugunst for studenten i klageomgangen, jf. forvaltningsloven § 33 annet ledd. Kravene som stilles til begrunnelse i forvaltningsloven §§ 24 og 25, jf. § 34 annet ledd annet punktum var heller ikke ivaretatt.  
-   
- Styret ved folkehøyskolen ble bedt om å se på saken på nytt i lys av ombudsmannens merknader, og herunder vurdere hvordan skolen kan bøte på uretten som har skjedd overfor klageren.
+Ombudsmannen kom til at folkehøyskolen ikke hadde hjemmel til å fatte vedtak om å avbryte studentens skoleår som følge av brudd på skolereglementets regler om bruk og oppbevaring av alkohol. Det var også begått flere saksbehandlingsfeil. Blant annet uttalte ombudsmannen at førsteinstansen ikke har adgang til å endre vedtaket til ugunst for studenten i klageomgangen, jf. forvaltningsloven § 33 annet ledd. Kravene som stilles til begrunnelse i forvaltningsloven §§ 24 og 25, jf. § 34 annet ledd annet punktum var heller ikke ivaretatt.  
+Styret ved folkehøyskolen ble bedt om å se på saken på nytt i lys av ombudsmannens merknader, og herunder vurdere hvordan skolen kan bøte på uretten som har skjedd overfor klageren.
 
 Se oppdatering fra forvaltningen
 

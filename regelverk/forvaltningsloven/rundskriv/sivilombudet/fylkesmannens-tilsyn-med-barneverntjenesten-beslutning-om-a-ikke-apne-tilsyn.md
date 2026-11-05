@@ -15,10 +15,8 @@ Sivilombudets uttalelse 10.12.2018 (sak 2017/1856).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens behandling av en klage på en barneverntjenestes valg av fosterhjem for en gutt. Guttens tante ønsket å være fosterhjem for ham, og klagde derfor på barnevernets saksbehandling og beslutning om å plassere ham i et annet fosterhjem. Både barneverntjenesten og Fylkesmannen besvarte klagen med at den som ikke er part i saken, ikke kan få informasjon om saken.  
-   
- Ombudsmannen er kommet til at Fylkesmannens behandling av klagen har flere svakheter. Fylkesmannens tilbakemelding til klagerne burde inneholdt en orientering om hvorfor tilsyn ikke ble åpnet. Det var også feil å anse taushetsplikten til hinder for å gi et svar på klagen.  
-   
- Fylkesmannen har erkjent svakhetene i saksbehandlingen og har nå gitt en nærmere redegjørelse for hvorfor det ikke ble åpnet tilsyn i saken. Det er derfor ikke grunn til å be om at denne saken behandles på nytt. Ombudsmannen ber imidlertid Fylkesmannen merke seg ombudsmannens synspunkter og sørge for at krav til god forvaltningsskikk og forsvarlig saksbehandling ivaretas ved behandlingen av fremtidige klager på barneverntjenesten.
+Ombudsmannen er kommet til at Fylkesmannens behandling av klagen har flere svakheter. Fylkesmannens tilbakemelding til klagerne burde inneholdt en orientering om hvorfor tilsyn ikke ble åpnet. Det var også feil å anse taushetsplikten til hinder for å gi et svar på klagen.  
+Fylkesmannen har erkjent svakhetene i saksbehandlingen og har nå gitt en nærmere redegjørelse for hvorfor det ikke ble åpnet tilsyn i saken. Det er derfor ikke grunn til å be om at denne saken behandles på nytt. Ombudsmannen ber imidlertid Fylkesmannen merke seg ombudsmannens synspunkter og sørge for at krav til god forvaltningsskikk og forsvarlig saksbehandling ivaretas ved behandlingen av fremtidige klager på barneverntjenesten.
 
 ## Sakens bakgrunn
 

@@ -15,13 +15,10 @@ Sivilombudets uttalelse 10.10.2024 (sak 2024/3333).
 
 ## Oppsummering
 
-Saken gjelder Ullersmo fengsels behandlingstid i sak om innsynsbegjæring i Infoflyt-systemet fra en innsatt. Fengselet brukte nesten ett år og ni måneder på å besvare begjæringen.   
-   
- Ullersmo fengsel beklaget sterkt tidsbruken i saken. Fengselet viste til at behandlingstiden skyldtes flere forhold, slik som svært mange andre henvendelser fra den innsatte, stor saksmengde ved juridisk avdeling og praktiske utfordringer med å få tak i den fysiske mappen som opplysningene var registrert i.   
-   
- Sivilombudet viste til at det følger av personopplysningsloven at henvendelser om innsyn i egne personopplysninger som utgangspunkt skal besvares uten ugrunnet opphold og senest innen 30 dager. Adgangen til å bruke lenger tid er etter personopplysningsloven snever. Det var i denne saken klart at fristen uansett var brutt. Manglende forsinkelsesmeldinger og manglende svar på klagerens purringer var i strid med kravene til god forvaltningsskikk.   
-   
- Ombudet ba fengselet merke seg ombudets syn, og overholde fristen i personopplysningsloven ved behandlingen av fremtidige innsynskrav i Infoflyt-systemet. I tillegg rettet ombudet en henstilling til Kriminalomsorgsdirektoratet om å vurdere å innarbeide rutiner for svarfrister på innsynsbegjæringer i Infoflyt-systemet i kriminalomsorgens generelle rundskriv.
+Saken gjelder Ullersmo fengsels behandlingstid i sak om innsynsbegjæring i Infoflyt-systemet fra en innsatt. Fengselet brukte nesten ett år og ni måneder på å besvare begjæringen.  
+Ullersmo fengsel beklaget sterkt tidsbruken i saken. Fengselet viste til at behandlingstiden skyldtes flere forhold, slik som svært mange andre henvendelser fra den innsatte, stor saksmengde ved juridisk avdeling og praktiske utfordringer med å få tak i den fysiske mappen som opplysningene var registrert i.  
+Sivilombudet viste til at det følger av personopplysningsloven at henvendelser om innsyn i egne personopplysninger som utgangspunkt skal besvares uten ugrunnet opphold og senest innen 30 dager. Adgangen til å bruke lenger tid er etter personopplysningsloven snever. Det var i denne saken klart at fristen uansett var brutt. Manglende forsinkelsesmeldinger og manglende svar på klagerens purringer var i strid med kravene til god forvaltningsskikk.  
+Ombudet ba fengselet merke seg ombudets syn, og overholde fristen i personopplysningsloven ved behandlingen av fremtidige innsynskrav i Infoflyt-systemet. I tillegg rettet ombudet en henstilling til Kriminalomsorgsdirektoratet om å vurdere å innarbeide rutiner for svarfrister på innsynsbegjæringer i Infoflyt-systemet i kriminalomsorgens generelle rundskriv.
 
 Se oppdatering fra forvaltningen
 
@@ -100,7 +97,7 @@ Ombudet har imidlertid merket seg at det generelle rundskrivet for kriminalomsor
 ## Konklusjon
 
 Sivilombudet er kommet til at Ullersmo fengsel brøt fristen i personopplysningsloven  
- § 16 ved behandlingen av innsynsbegjæringen fra klageren.
+§ 16 ved behandlingen av innsynsbegjæringen fra klageren.
 
 Ullersmo fengsel brøt kravene til god forvaltningsskikk ved å unnlate å sende ut forsinkelsesmeldinger, og ved ikke å svare på klagerens purringer.
 

@@ -15,13 +15,10 @@ Sivilombudets uttalelse 17.6.2026 (sak 2025/7710).
 
 ## Oppsummering
 
-Saken gjelder krav om innsyn i dokumenter om tilskuddsordningen for sysselsetting av sjøfolk. Nærings- og fiskeridepartementet avslo innsynskravene. I de utvidede begrunnelsene ble samtlige avslag hjemlet i offentleglova §§ 14 første ledd, 15 første ledd eller 15 tredje, jf. første ledd, om unntaksadgang for henholdsvis organinterne dokumenter og dokumenter innhentet utenifra for den interne saksforberedelsen. Det ble ikke gitt merinnsyn i noen av dokumentene, jf. offentleglova § 11.   
-   
- Etter undersøkelsene herfra ga departementet innsyn og merinnsyn i flere dokumenter samt endret avslagshjemmelen for to dokumenter til § 20 første ledd bokstav b, jf. § 12 bokstav c. Sivilombudet fant etter dette ikke tilstrekkelig grunn til videre behandling av deler av saken.  
-   
- For de øvrige delene av saken, kom ombudet til at det var begrunnet tvil om dokumentene kunne unntas fra innsyn etter § 15 og § 20 første ledd bokstav b, jf. § 12 bokstav c. Det var også begrunnet tvil om departementet hadde tatt utgangspunkt i en riktig forståelse av taushetspliktbestemmelsen i forvaltningsloven § 13 første ledd nr. 1, og om tre av dokumentene inneholdt taushetsbelagte opplysninger. Videre knyttet det seg begrunnet til departementets merinnsynsvurderinger.   
-   
- Departementet ble bedt om å vurdere retten til innsyn i dokumentene på nytt.
+Saken gjelder krav om innsyn i dokumenter om tilskuddsordningen for sysselsetting av sjøfolk. Nærings- og fiskeridepartementet avslo innsynskravene. I de utvidede begrunnelsene ble samtlige avslag hjemlet i offentleglova §§ 14 første ledd, 15 første ledd eller 15 tredje, jf. første ledd, om unntaksadgang for henholdsvis organinterne dokumenter og dokumenter innhentet utenifra for den interne saksforberedelsen. Det ble ikke gitt merinnsyn i noen av dokumentene, jf. offentleglova § 11.  
+Etter undersøkelsene herfra ga departementet innsyn og merinnsyn i flere dokumenter samt endret avslagshjemmelen for to dokumenter til § 20 første ledd bokstav b, jf. § 12 bokstav c. Sivilombudet fant etter dette ikke tilstrekkelig grunn til videre behandling av deler av saken.  
+For de øvrige delene av saken, kom ombudet til at det var begrunnet tvil om dokumentene kunne unntas fra innsyn etter § 15 og § 20 første ledd bokstav b, jf. § 12 bokstav c. Det var også begrunnet tvil om departementet hadde tatt utgangspunkt i en riktig forståelse av taushetspliktbestemmelsen i forvaltningsloven § 13 første ledd nr. 1, og om tre av dokumentene inneholdt taushetsbelagte opplysninger. Videre knyttet det seg begrunnet til departementets merinnsynsvurderinger.  
+Departementet ble bedt om å vurdere retten til innsyn i dokumentene på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -14,11 +14,9 @@ Sivilombudets uttalelse 27.10.2022 (sak 2022/3899).
 
 ## Oppsummering
 
-Statsforvalteren brukte til sammen over 1 år og 3 måneder på å behandle en pasients begjæring om innsyn i egen pasientjournal, som var lagret hos statsforvalteren fordi legen hadde avsluttet sin praksis. Den lange behandlingstiden skyldtes ifølge statsforvalteren at de var usikre på om de var rett instans til å behandle begjæringen og ikke visste hvordan de skulle håndtere den. Deretter ble saken ikke prioritert og i en periode ble den liggende ufordelt som følge av at saksbehandleren sluttet.   
-   
- Sivilombudet er kommet til at innsynssaken ikke ble behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Saker om journalinnsyn skal avgjøres innen en til tre dager, med mindre særlige forhold kan begrunne et noe lengre tidsforløp. I denne saken var det nok behov for undersøkelser som kunne begrunne en noe lengre behandlingstid enn tre dager, men neppe lenger enn en uke eller to. Videre var det brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk at klageren ikke mottok tilstrekkelig informasjon om saksbehandlingen underveis.   
-   
- Ombudet har bedt Statsforvalteren om å iverksette de tiltak som er nødvendige for å sikre at fremtidige innsynsbegjæringer blir behandlet med tilstrekkelig hurtighet, og å sørge for at de har rutiner som sikrer at det sendes ut informasjon for å holde parten tilfredsstillende orientert om saksbehandlingen underveis.
+Statsforvalteren brukte til sammen over 1 år og 3 måneder på å behandle en pasients begjæring om innsyn i egen pasientjournal, som var lagret hos statsforvalteren fordi legen hadde avsluttet sin praksis. Den lange behandlingstiden skyldtes ifølge statsforvalteren at de var usikre på om de var rett instans til å behandle begjæringen og ikke visste hvordan de skulle håndtere den. Deretter ble saken ikke prioritert og i en periode ble den liggende ufordelt som følge av at saksbehandleren sluttet.  
+Sivilombudet er kommet til at innsynssaken ikke ble behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Saker om journalinnsyn skal avgjøres innen en til tre dager, med mindre særlige forhold kan begrunne et noe lengre tidsforløp. I denne saken var det nok behov for undersøkelser som kunne begrunne en noe lengre behandlingstid enn tre dager, men neppe lenger enn en uke eller to. Videre var det brudd på forvaltningsloven § 11 a annet ledd og god forvaltningsskikk at klageren ikke mottok tilstrekkelig informasjon om saksbehandlingen underveis.  
+Ombudet har bedt Statsforvalteren om å iverksette de tiltak som er nødvendige for å sikre at fremtidige innsynsbegjæringer blir behandlet med tilstrekkelig hurtighet, og å sørge for at de har rutiner som sikrer at det sendes ut informasjon for å holde parten tilfredsstillende orientert om saksbehandlingen underveis.
 
 ## Sakens bakgrunn
 

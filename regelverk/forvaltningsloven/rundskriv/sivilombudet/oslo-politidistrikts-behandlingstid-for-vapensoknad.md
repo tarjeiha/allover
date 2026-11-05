@@ -15,12 +15,9 @@ Sivilombudets uttalelse 1.11.2024 (sak 2024/3463).
 ## Oppsummering
 
 Saken gjaldt lang behandlingstid hos våpenkontoret ved Oslo politidistrikt i forbindelse med en våpensøknad. Politidistriktet brukte om lag ett år og én måned på å behandle søknaden. Den lange behandlingstiden ble forklart med at søknaden reiste vanskelige spørsmål, kombinert med generelt stor arbeidsmengde og kapasitetsutfordringer hos våpenkontoret.  
-   
- Sivilombudet undersøkte også politidistriktets generelle behandlingstider for våpensøknader, og håndteringen av muntlige og skriftlige henvendelser fra søkere under sakens gang.   
-   
- Sivilombudet konkluderte med at politidistriktets tidsbruk og manglende informasjonen om status i saken underveis, var i strid med forvaltningsloven. Det er også grunn til å tro at behandlingstiden i flere andre saker er i strid med kravene til forsvarlig fremdrift. Ombudet ba politidistriktet om å vurdere å utarbeide skriftlige rutiner om foreløpige svar og forsinkelsesmeldinger i tråd med de kravene forvaltningsloven stiller, og foreta en gjennomgang av dagens praksis om å kun unntaksvis være tilgjengelige på telefon.   
-   
- Politidistriktet ble videre bedt om å redegjøre for hvilke tiltak som er iverksatt for å få ned behandlingstidene, i etterkant av uttalelsen.
+Sivilombudet undersøkte også politidistriktets generelle behandlingstider for våpensøknader, og håndteringen av muntlige og skriftlige henvendelser fra søkere under sakens gang.  
+Sivilombudet konkluderte med at politidistriktets tidsbruk og manglende informasjonen om status i saken underveis, var i strid med forvaltningsloven. Det er også grunn til å tro at behandlingstiden i flere andre saker er i strid med kravene til forsvarlig fremdrift. Ombudet ba politidistriktet om å vurdere å utarbeide skriftlige rutiner om foreløpige svar og forsinkelsesmeldinger i tråd med de kravene forvaltningsloven stiller, og foreta en gjennomgang av dagens praksis om å kun unntaksvis være tilgjengelige på telefon.  
+Politidistriktet ble videre bedt om å redegjøre for hvilke tiltak som er iverksatt for å få ned behandlingstidene, i etterkant av uttalelsen.
 
 Se oppdatering fra forvaltningen
 

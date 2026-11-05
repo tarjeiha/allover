@@ -15,15 +15,11 @@ Sivilombudets uttalelse 7.6.2022 (sak 2022/1160).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak undersøkt Utlendingsdirektoratets (UDIs) behandlingstider i familieinnvandringssaker, samt hvordan UDI prioriterer slike saker som gjelder barn.   
-   
- Behandlingstidene i et stort antall familieinnvandringssaker er i strid med de lovbestemte kravene til behandlingstid i forvaltningsloven § 11 a). Av søkerne som ventet på svar per januar 2022 hadde 453 søkere allerede ventet på svar i rundt 2 år eller mer, mens den aller eldste saken gjaldt en søknad fra 2013. Selv om drøye 60 % av sakene har en behandlingstid på under seks måneder, ser Sivilombudet alvorlig på at UDI over flere år har hatt mange saker med svært lange behandlingstider. Det er særlig alvorlig at dette også gjelder mange saker om barn.   
-   
- Lange behandlingstider i familieinnvandringssaker utgjør en risiko for brudd på retten til familieliv etter Den Europeiske Menneskerettighetskonvensjonen artikkel 8. I saker som gjelder eller berører barn kan svært lange behandlingstider dessuten innebære et brudd på bestemmelsene om at barnets beste skal være et grunnleggende hensyn, jf. Grunnloven § 104 annet ledd og FNs barnekonvensjon artikkel 3 nr. 1. Ombudet mener det er begrunnet tvil om UDIs system for prioritering av barn i tilstrekkelig grad sikrer oppfyllelse av disse bestemmelsene.  
-   
- Sivilombudet vil følge med på den videre utviklingen i saksbehandlingstidene i familieinnvandringssaker. UDI bes om å i januar 2023 oversende en oppdatert oversikt over behandlingstider med tall for 2022 og en redegjørelse for hva som er gjort for å forbedre dem.   
-   
- Uttalelsen oversendes også til Justis- og beredskapsdepartementet, som bes om å holde ombudet orientert om hva de foretar seg for å forbedre situasjonen. Orienteringene må koordineres med tilbakemeldingene på ombudets uttalelse 7. juni 2022 om politiets ventetider for intervjuer i familieinnvandringssaker, SOM-2022-1232.
+Sivilombudet har av eget tiltak undersøkt Utlendingsdirektoratets (UDIs) behandlingstider i familieinnvandringssaker, samt hvordan UDI prioriterer slike saker som gjelder barn.  
+Behandlingstidene i et stort antall familieinnvandringssaker er i strid med de lovbestemte kravene til behandlingstid i forvaltningsloven § 11 a). Av søkerne som ventet på svar per januar 2022 hadde 453 søkere allerede ventet på svar i rundt 2 år eller mer, mens den aller eldste saken gjaldt en søknad fra 2013. Selv om drøye 60 % av sakene har en behandlingstid på under seks måneder, ser Sivilombudet alvorlig på at UDI over flere år har hatt mange saker med svært lange behandlingstider. Det er særlig alvorlig at dette også gjelder mange saker om barn.  
+Lange behandlingstider i familieinnvandringssaker utgjør en risiko for brudd på retten til familieliv etter Den Europeiske Menneskerettighetskonvensjonen artikkel 8. I saker som gjelder eller berører barn kan svært lange behandlingstider dessuten innebære et brudd på bestemmelsene om at barnets beste skal være et grunnleggende hensyn, jf. Grunnloven § 104 annet ledd og FNs barnekonvensjon artikkel 3 nr. 1. Ombudet mener det er begrunnet tvil om UDIs system for prioritering av barn i tilstrekkelig grad sikrer oppfyllelse av disse bestemmelsene.  
+Sivilombudet vil følge med på den videre utviklingen i saksbehandlingstidene i familieinnvandringssaker. UDI bes om å i januar 2023 oversende en oppdatert oversikt over behandlingstider med tall for 2022 og en redegjørelse for hva som er gjort for å forbedre dem.  
+Uttalelsen oversendes også til Justis- og beredskapsdepartementet, som bes om å holde ombudet orientert om hva de foretar seg for å forbedre situasjonen. Orienteringene må koordineres med tilbakemeldingene på ombudets uttalelse 7. juni 2022 om politiets ventetider for intervjuer i familieinnvandringssaker, SOM-2022-1232.
 
 Innhold
 

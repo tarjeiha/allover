@@ -15,13 +15,9 @@ Sivilombudets uttalelse 12.5.2021 (sak 2020/1680).
 ## Oppsummering
 
 En kvinne fikk avslag av bostedskommunen på dekning av et spesifikt helse- og omsorgstilbud utenfor kommunen. Hun nådde ikke frem med klage og omgjøringsbegjæringer til Statsforvalteren. Noen måneder etter siste avslag på omgjøring fattet kommuneadministrasjonen flere vedtak om helse- og omsorgstjenester lokalt. Kommunestyret innvilget imidlertid kort tid etterpå det tilbudet kvinnen hadde fått avslag på, uten at det var fremsatt noen ny søknad. Kvinnen fikk ikke dekket utgifter til advokatbistand etter forvaltningsloven § 36, da innvilgelsen av tjenestene ble ansett som et vedtak i ny sak, og ikke en omgjøring av avslaget.  
-   
-   
- Om innvilgelse av en tidligere avslått tjeneste skal anses som omgjøring eller vedtak i en ny sak, vil som et utgangspunkt bero på om parten har søkt på nytt eller begjært omgjøring av avslaget. Unntak fra dette kan tenkes når det faktiske eller rettslige grunnlaget for avgjørelsen har endret seg siden avslaget. Denne saken stod imidlertid i samme stilling, og det var ikke søkt på nytt.  
-   
- Ombudsmannen er ikke enig i Statsforvalterens begrunnelse for å likevel anse innvilgelsen som fattet i en ny sak. Selv om Statsforvalteren har stadfestet en kommunes avslag på helse- og omsorgstjenester, vil ikke kommunen være avskåret fra å omgjøre tidligere avslag og innvilge tjenestene. At det var opprettet ny sak om ulike helse- og omsorgstjenester i bostedskommunen, hadde heller ikke betydning for vurderingen av sakskostnader. Innvilgelsen av det tidligere avslåtte tilbudet utenfor kommunen måtte uansett anses fattet i samme sak som avslaget.  
-   
- Ombudsmannen er kommet til at kommunestyrets innvilgelsesvedtak i den aktuelle saken må anses som en omgjøring av tidligere avslag. Statsforvalterens stadfestelse av kommunens avslag på dekning av sakskostnader bygger på en uriktig lovforståelse, og Statsforvalteren bes foreta en ny vurdering av omkostningskravet.
+Om innvilgelse av en tidligere avslått tjeneste skal anses som omgjøring eller vedtak i en ny sak, vil som et utgangspunkt bero på om parten har søkt på nytt eller begjært omgjøring av avslaget. Unntak fra dette kan tenkes når det faktiske eller rettslige grunnlaget for avgjørelsen har endret seg siden avslaget. Denne saken stod imidlertid i samme stilling, og det var ikke søkt på nytt.  
+Ombudsmannen er ikke enig i Statsforvalterens begrunnelse for å likevel anse innvilgelsen som fattet i en ny sak. Selv om Statsforvalteren har stadfestet en kommunes avslag på helse- og omsorgstjenester, vil ikke kommunen være avskåret fra å omgjøre tidligere avslag og innvilge tjenestene. At det var opprettet ny sak om ulike helse- og omsorgstjenester i bostedskommunen, hadde heller ikke betydning for vurderingen av sakskostnader. Innvilgelsen av det tidligere avslåtte tilbudet utenfor kommunen måtte uansett anses fattet i samme sak som avslaget.  
+Ombudsmannen er kommet til at kommunestyrets innvilgelsesvedtak i den aktuelle saken må anses som en omgjøring av tidligere avslag. Statsforvalterens stadfestelse av kommunens avslag på dekning av sakskostnader bygger på en uriktig lovforståelse, og Statsforvalteren bes foreta en ny vurdering av omkostningskravet.
 
 Se oppdatering fra forvaltningen
 

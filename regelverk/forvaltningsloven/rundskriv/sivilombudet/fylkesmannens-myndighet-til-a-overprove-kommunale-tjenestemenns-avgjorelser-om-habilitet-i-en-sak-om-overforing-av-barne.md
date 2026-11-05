@@ -15,16 +15,11 @@ Sivilombudets uttalelse 2.4.2019 (sak 2018/3120).
 ## Oppsummering
 
 Saken gjelder tolkningen av forvaltningsloven § 9 andre ledd om overføring av en sak til sideordnet eller overordnet forvaltningsorgan ved inhabilitet.  
-   
- Barnevernlederen i en kommune anmodet om overføring av en barnevernssak til en annen kommune fordi hun anså hele tjenesten som inhabil. Fylkesmannen avslo anmodningen etter å ha kommet til at det ikke var grunnlag for å konstatere inhabilitet etter loven. Klageren som hadde fremsatt inhabilitetsinnsigelsen, reiste spørsmål om Fylkesmannen hadde kompetanse til å sette barnevernlederens habilitetsvurdering til side.  
-   
- Ombudsmannen er, under tvil, kommet til at det ikke er grunnlag for å kritisere Fylkesmannen for å ha foretatt en selvstendig prøving av om habilitetsvilkåret etter forvaltningsloven § 9 første ledd er oppfylt i saken om overføring etter andre ledd. Det rettslige grunnlaget for Fylkesmannens kompetanse til å se bort fra kommunale tjenestemenns konklusjon om inhabilitet etter forvaltningsloven § 8 i en slik sak er imidlertid uklart, og regelverket kan med fordel presiseres.  
-   
- Etter ombudsmannens syn er ikke Fylkesmannens vurdering av habilitetsspørsmålet i en sak om overføring bindende for kommunens tjenestemenn, som selv tar stilling til habiliteten etter § 8. Kommunen kan derfor fastholde at barnevernlederen og hennes underordnede er inhabile, hvis barnevernlederen fortsatt mener at dette er riktig. Saken må da behandles av en overordnet tjenestemann eller en oppnevnt stedfortreder.  
-   
- Fylkesmannen skulle ikke ha formulert konklusjonen i avslaget om overføring slik at den fremsto som en bindende avgjørelse om kommunens habilitet. Ombudsmannen ber Fylkesmannen klargjøre overfor kommunen og klager at Fylkesmannens syn på habilitetsspørsmålet i en sak om overføring ikke er bindende for kommunen.  
-   
- Fylkesmannen bes også rette seg etter merknadene i denne uttalelsen ved behandlingen av fremtidige saker om overføring etter forvaltningsloven § 9 andre ledd.
+Barnevernlederen i en kommune anmodet om overføring av en barnevernssak til en annen kommune fordi hun anså hele tjenesten som inhabil. Fylkesmannen avslo anmodningen etter å ha kommet til at det ikke var grunnlag for å konstatere inhabilitet etter loven. Klageren som hadde fremsatt inhabilitetsinnsigelsen, reiste spørsmål om Fylkesmannen hadde kompetanse til å sette barnevernlederens habilitetsvurdering til side.  
+Ombudsmannen er, under tvil, kommet til at det ikke er grunnlag for å kritisere Fylkesmannen for å ha foretatt en selvstendig prøving av om habilitetsvilkåret etter forvaltningsloven § 9 første ledd er oppfylt i saken om overføring etter andre ledd. Det rettslige grunnlaget for Fylkesmannens kompetanse til å se bort fra kommunale tjenestemenns konklusjon om inhabilitet etter forvaltningsloven § 8 i en slik sak er imidlertid uklart, og regelverket kan med fordel presiseres.  
+Etter ombudsmannens syn er ikke Fylkesmannens vurdering av habilitetsspørsmålet i en sak om overføring bindende for kommunens tjenestemenn, som selv tar stilling til habiliteten etter § 8. Kommunen kan derfor fastholde at barnevernlederen og hennes underordnede er inhabile, hvis barnevernlederen fortsatt mener at dette er riktig. Saken må da behandles av en overordnet tjenestemann eller en oppnevnt stedfortreder.  
+Fylkesmannen skulle ikke ha formulert konklusjonen i avslaget om overføring slik at den fremsto som en bindende avgjørelse om kommunens habilitet. Ombudsmannen ber Fylkesmannen klargjøre overfor kommunen og klager at Fylkesmannens syn på habilitetsspørsmålet i en sak om overføring ikke er bindende for kommunen.  
+Fylkesmannen bes også rette seg etter merknadene i denne uttalelsen ved behandlingen av fremtidige saker om overføring etter forvaltningsloven § 9 andre ledd.
 
 Se oppdatering fra forvaltningen
 

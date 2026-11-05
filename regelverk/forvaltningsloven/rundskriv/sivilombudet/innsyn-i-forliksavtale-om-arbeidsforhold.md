@@ -16,8 +16,7 @@ Sivilombudets uttalelse 17.12.2018 (sak 2018/3722).
 ## Oppsummering
 
 Saken gjelder spørsmålet om opplysningene i en forliksavtale mellom en arbeidstaker og et helseforetak skal unntas offentlighet som taushetsbelagt. En journalist ba om innsyn i forliksavtalen, og Helse- og omsorgsdepartementet avslo innsynsbegjæringen med henvisning til taushetsplikten om «noens personlige forhold».  
-   
- Ut fra sakens opplysninger kan ombudsmannen ikke se at vilkårene for å unnta forliksavtalen fra offentlighet som taushetsbelagt, er oppfylt. Ombudsmannen viser til at forliksavtaler om arbeidsforhold inngått med det offentlige i utgangspunktet er åpne for allmennheten. Videre påpeker ombudsmannen at taushetsplikten må trekkes noe snevrere for opplysninger om offentlige arbeidsforhold. Begrunnelsen for dette er de særlige samfunnsinteressene som gjør seg gjeldende i slike saker. Ombudsmannen ber departementet om å foreta en ny vurdering av innsynsspørsmålet.
+Ut fra sakens opplysninger kan ombudsmannen ikke se at vilkårene for å unnta forliksavtalen fra offentlighet som taushetsbelagt, er oppfylt. Ombudsmannen viser til at forliksavtaler om arbeidsforhold inngått med det offentlige i utgangspunktet er åpne for allmennheten. Videre påpeker ombudsmannen at taushetsplikten må trekkes noe snevrere for opplysninger om offentlige arbeidsforhold. Begrunnelsen for dette er de særlige samfunnsinteressene som gjør seg gjeldende i slike saker. Ombudsmannen ber departementet om å foreta en ny vurdering av innsynsspørsmålet.
 
 Se oppdatering fra forvaltningen
 

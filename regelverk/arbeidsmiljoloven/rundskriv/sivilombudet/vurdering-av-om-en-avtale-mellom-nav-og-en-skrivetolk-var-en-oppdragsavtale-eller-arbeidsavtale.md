@@ -16,8 +16,7 @@ Sivilombudets uttalelse 26.1.2022 (sak 2021/1064).
 ## Oppsummering
 
 Saken gjelder spørsmål om en avtale mellom en skrivetolk og Nav var en arbeidsavtale eller en oppdragsavtale, og om skrivetolken hadde krav på å få utbetalt feriepenger for det arbeidet han hadde gjort for Nav innenfor rammene av avtalen.  
-   
- Etter en samlet vurdering har Sivilombudet kommet til at avtalen mellom klager og Nav, som gjaldt perioden 2. januar til 14. juni 2019, var å anse som en arbeidsavtale, ikke en oppdragsavtale. Tolken hadde krav på å få utbetalt feriepenger for utført arbeid innenfor rammene av denne avtalen. Sivilombudet ber om at Nav foretar en fornyet vurdering av saken.
+Etter en samlet vurdering har Sivilombudet kommet til at avtalen mellom klager og Nav, som gjaldt perioden 2. januar til 14. juni 2019, var å anse som en arbeidsavtale, ikke en oppdragsavtale. Tolken hadde krav på å få utbetalt feriepenger for utført arbeid innenfor rammene av denne avtalen. Sivilombudet ber om at Nav foretar en fornyet vurdering av saken.
 
 Se oppdatering fra forvaltningen
 

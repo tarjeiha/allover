@@ -16,10 +16,8 @@ Sivilombudets uttalelse 22.2.2022 (sak 2021/4640).
 ## Oppsummering
 
 Klageren ble nektet å avlegge eksamen som privatist i videregående opplæring, fordi han ikke kunne fremvise slik legitimasjon Privatistkontoret i Oslo kommune krevde. Kravet til legitimasjon fremgikk av Privatistkontorets hjemmeside og vilkårene privatisten hadde akseptert da han meldte seg opp til eksamen. Avgjørelsen ble ikke regnet som et enkeltvedtak, og saken ble derfor ikke klagebehandlet.  
-   
- Sivilombudet kom til at det var tilstrekkelig hjemmel for å stille krav til legitimasjon i forskrift til opplæringsloven § 3-23 som gir skoleeier ansvar for å gjennomføre eksamen. Det vil likevel være en fordel om dette kommer klarere til uttrykk i forskriften eller loven. Ombudet mente videre at avvisning var et enkeltvedtak, og at det derfor var klageadgang. Kommunen har endret sine rutiner slik at det nå fattes enkeltvedtak innen syv dager etter avvisningen, med tilhørende klageadgang til Oslo kommunes klagenemnd.  
-   
- Klageren har nå avlagt den aktuelle eksamenen i en annen fylkeskommune. Ombudet ser derfor ikke grunn til å be om klagebehandling av den aktuelle saken. Uttalelsen ble oversendt Kunnskapsdepartementet til orientering i anledning av arbeidet med ny opplæringslov.
+Sivilombudet kom til at det var tilstrekkelig hjemmel for å stille krav til legitimasjon i forskrift til opplæringsloven § 3-23 som gir skoleeier ansvar for å gjennomføre eksamen. Det vil likevel være en fordel om dette kommer klarere til uttrykk i forskriften eller loven. Ombudet mente videre at avvisning var et enkeltvedtak, og at det derfor var klageadgang. Kommunen har endret sine rutiner slik at det nå fattes enkeltvedtak innen syv dager etter avvisningen, med tilhørende klageadgang til Oslo kommunes klagenemnd.  
+Klageren har nå avlagt den aktuelle eksamenen i en annen fylkeskommune. Ombudet ser derfor ikke grunn til å be om klagebehandling av den aktuelle saken. Uttalelsen ble oversendt Kunnskapsdepartementet til orientering i anledning av arbeidet med ny opplæringslov.
 
 ## Sakens bakgrunn
 

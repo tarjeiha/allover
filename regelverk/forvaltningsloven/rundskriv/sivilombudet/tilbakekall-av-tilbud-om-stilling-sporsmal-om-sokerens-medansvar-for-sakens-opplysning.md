@@ -15,10 +15,8 @@ Sivilombudets uttalelse 9.4.2019 (sak 2018/3959).
 ## Oppsummering
 
 Saken gjelder ansettelse av henholdsvis byplanlegger og enhetsleder for samme seksjon i X kommune. Klageren ble tilbudt stillingen som byplanlegger, og akseptfristen ble utsatt i påvente av resultatet for stillingen som enhetsleder. Som følge av at klageren ikke hadde opplyst om angivelige «konflikter» på arbeidsplassen, ble klageren ikke ansett som egnet til stillingen som enhetsleder. Kommunen trakk også tilbake tilbudet om stillingen som byplanlegger av den grunn.  
-   
- Ombudsmannen er kommet til at det foreligger begrunnet tvil om kommunens omgjøringsvedtak er gyldig. Kommunen hadde ikke rettslig adgang til å trekke tilbake tilbudet om stillingen som byplanlegger. Etter ombudsmannens syn pliktet neppe klageren å opplyse om de faglige uenighetene på arbeidsplassen. De anført manglende opplysningene kan derfor ikke føre til at vedtaket var ugyldig. Av samme grunn er kommunens beslutning om å avslå klagerens søknad på stillingen som enhetsleder tatt på et sviktende grunnlag. På denne bakgrunn foreligger det begrunnet tvil om ikke klageren er blitt urettmessig forbigått til den stillingen.  
-   
- Ombudsmannen ber kommunen vurdere hvordan den kan bøte på den urett som her synes å være begått. Ombudsmannen ber om å bli orientert om utfallet av vurderingen.
+Ombudsmannen er kommet til at det foreligger begrunnet tvil om kommunens omgjøringsvedtak er gyldig. Kommunen hadde ikke rettslig adgang til å trekke tilbake tilbudet om stillingen som byplanlegger. Etter ombudsmannens syn pliktet neppe klageren å opplyse om de faglige uenighetene på arbeidsplassen. De anført manglende opplysningene kan derfor ikke føre til at vedtaket var ugyldig. Av samme grunn er kommunens beslutning om å avslå klagerens søknad på stillingen som enhetsleder tatt på et sviktende grunnlag. På denne bakgrunn foreligger det begrunnet tvil om ikke klageren er blitt urettmessig forbigått til den stillingen.  
+Ombudsmannen ber kommunen vurdere hvordan den kan bøte på den urett som her synes å være begått. Ombudsmannen ber om å bli orientert om utfallet av vurderingen.
 
 Se oppdatering fra forvaltningen
 

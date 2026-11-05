@@ -16,12 +16,9 @@ Sivilombudets uttalelse 25.6.2024 (sak 2023/5205).
 ## Oppsummering
 
 Saken gjelder Helseklages vedtak om tap av retten til å praktisere for trygdens regning, jf. folketrygdloven § 25-6 første ledd bokstav a.  
-   
- Sivilombudet mener det er tvil om hvorvidt Helseklage foretok en selvstendig vurdering av om det forelå uberettigede utbetalinger fra trygden. Ombudet er kommet til at Helseklage i vurderingen av om klageren skulle tape retten til å praktisere for trygdens regning ikke uten videre kunne legge til grunn vurderingene i et tidligere vedtak om tilbakekreving av feilutbetalinger.  
-   
- Ombudet mener videre at Helseklage ikke har grunnlag for standpunktet om at etterfølgende dokumentasjon fremskaffet i forbindelse med en kontroll av refusjonskrav, på generelt grunnlag ikke tillegges vekt. Bevisverdien av den fremlagte dokumentasjonen må fastsettes konkret.  
-   
- Når det gjelder utøvelsen av «kan-skjønnet» etter folketrygdloven § 25-6 første ledd, mener ombudet at også uaktsom opptreden kan vektlegges, selv om bestemmelsen gjelder forsettlige eller grovt uaktsomme handlinger. Det bør imidlertid utvises varsomhet med å legge stor vekt på slike forhold.
+Sivilombudet mener det er tvil om hvorvidt Helseklage foretok en selvstendig vurdering av om det forelå uberettigede utbetalinger fra trygden. Ombudet er kommet til at Helseklage i vurderingen av om klageren skulle tape retten til å praktisere for trygdens regning ikke uten videre kunne legge til grunn vurderingene i et tidligere vedtak om tilbakekreving av feilutbetalinger.  
+Ombudet mener videre at Helseklage ikke har grunnlag for standpunktet om at etterfølgende dokumentasjon fremskaffet i forbindelse med en kontroll av refusjonskrav, på generelt grunnlag ikke tillegges vekt. Bevisverdien av den fremlagte dokumentasjonen må fastsettes konkret.  
+Når det gjelder utøvelsen av «kan-skjønnet» etter folketrygdloven § 25-6 første ledd, mener ombudet at også uaktsom opptreden kan vektlegges, selv om bestemmelsen gjelder forsettlige eller grovt uaktsomme handlinger. Det bør imidlertid utvises varsomhet med å legge stor vekt på slike forhold.
 
 Se oppdatering fra forvaltningen
 

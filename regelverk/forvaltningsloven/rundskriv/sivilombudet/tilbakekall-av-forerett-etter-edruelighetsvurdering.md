@@ -14,9 +14,9 @@ Sivilombudets uttalelse 23.3.2017 (sak 2016/1196).
 
 ## Oppsummering
 
-Saken gjelder tilbakekall av førerett som følge av manglende edruelighet. Grunnlaget for tilbakekallet var flere anmeldelser i saker som var henlagte, en straffedom for oppbevaring av hasj og opplysninger gitt i avhør to år tidligere om bruk av hasj på et enda tidligere tidspunkt.   
- Ombudsmannen uttalte at det i vedtak om tilbakekall av førerett må angis konkret hvilken rusbruk som innebærer at grensen for edruelighet er overskredet i den aktuelle saken, og som minst anses sannsynliggjort.  
- Ombudsmannen kom også til at saken kunne vært bedre opplyst. Det er derfor begrunnet tvil om forhold av betydning i saken. Politidirektoratet ble bedt om å vurdere saken på nytt.
+Saken gjelder tilbakekall av førerett som følge av manglende edruelighet. Grunnlaget for tilbakekallet var flere anmeldelser i saker som var henlagte, en straffedom for oppbevaring av hasj og opplysninger gitt i avhør to år tidligere om bruk av hasj på et enda tidligere tidspunkt.  
+Ombudsmannen uttalte at det i vedtak om tilbakekall av førerett må angis konkret hvilken rusbruk som innebærer at grensen for edruelighet er overskredet i den aktuelle saken, og som minst anses sannsynliggjort.  
+Ombudsmannen kom også til at saken kunne vært bedre opplyst. Det er derfor begrunnet tvil om forhold av betydning i saken. Politidirektoratet ble bedt om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

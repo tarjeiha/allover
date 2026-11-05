@@ -15,15 +15,11 @@ Sivilombudets uttalelse 29.5.2024 (sak 2023/5270).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalterens behandling av en klagesak om flytting av brukerens tjenestetilbud fra en bemannet bolig i en kommune til en omsorgsbolig drevet av en privat tilbyder i en annen kommune, ca. 45 mil fra hjemstedet. Brukeren har omfattende hjelpebehov som følge av sin helsetilstand.   
-   
- Etter ombudets syn oppfylte ikke Statsforvalterens begrunnelse kravene i forvaltningsloven §§ 24 og 25, jf. § 33, og kravene til god forvaltningsskikk. En av brukerens mest sentrale anførsler var at vedtaket var i strid med EMK artikkel 8, og det burde også ha kommet klart frem at Statsforvalteren hadde vurdert dette, jf. forvaltningsloven § 34 andre ledd andre punktum.  
-   
- Sivilombudet mente at det var begrunnet tvil om Statsforvalteren i vurderingen av om kommunens nye tjenestetilbud til brukeren var forsvarlig, jf. helse- og omsorgstjenesteloven § 4-1, hadde tatt riktig rettslig utgangspunkt og om de hadde gjort en tilstrekkelig konkret og selvstendig vurdering.   
-   
- Retten til brukermedvirkning etter pasient- og brukerrettighetsloven § 3-1 samt utredningsplikten etter forvaltningsloven § 17 var heller ikke oppfylt ved behandlingen av saken.   
-   
- Ombudet ba Statsforvalteren merke seg ombudets syn og legge dette til grunn ved behandlingen av fremtidige saker, særlig ved behandlingen av en eventuell ny klage i denne saken, over forlengelsen av vedtaket.
+Saken gjelder Statsforvalterens behandling av en klagesak om flytting av brukerens tjenestetilbud fra en bemannet bolig i en kommune til en omsorgsbolig drevet av en privat tilbyder i en annen kommune, ca. 45 mil fra hjemstedet. Brukeren har omfattende hjelpebehov som følge av sin helsetilstand.  
+Etter ombudets syn oppfylte ikke Statsforvalterens begrunnelse kravene i forvaltningsloven §§ 24 og 25, jf. § 33, og kravene til god forvaltningsskikk. En av brukerens mest sentrale anførsler var at vedtaket var i strid med EMK artikkel 8, og det burde også ha kommet klart frem at Statsforvalteren hadde vurdert dette, jf. forvaltningsloven § 34 andre ledd andre punktum.  
+Sivilombudet mente at det var begrunnet tvil om Statsforvalteren i vurderingen av om kommunens nye tjenestetilbud til brukeren var forsvarlig, jf. helse- og omsorgstjenesteloven § 4-1, hadde tatt riktig rettslig utgangspunkt og om de hadde gjort en tilstrekkelig konkret og selvstendig vurdering.  
+Retten til brukermedvirkning etter pasient- og brukerrettighetsloven § 3-1 samt utredningsplikten etter forvaltningsloven § 17 var heller ikke oppfylt ved behandlingen av saken.  
+Ombudet ba Statsforvalteren merke seg ombudets syn og legge dette til grunn ved behandlingen av fremtidige saker, særlig ved behandlingen av en eventuell ny klage i denne saken, over forlengelsen av vedtaket.
 
 ## Sakens bakgrunn
 

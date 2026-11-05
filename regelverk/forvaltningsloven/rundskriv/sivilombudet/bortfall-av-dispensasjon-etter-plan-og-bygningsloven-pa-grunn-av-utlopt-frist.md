@@ -15,10 +15,8 @@ Sivilombudets uttalelse 22.6.2021 (sak 2020/5073).
 ## Oppsummering
 
 Saken gjelder forståelsen av fristbestemmelsen i plan- og bygningsloven § 21-9 første ledd, nærmere bestemt hvilken frist som gjaldt for å fremme søknad om byggetillatelse etter at det var gitt dispensasjon fra kommunens arealplan for oppføring av fritidsbolig. Klage over kommunens dispensasjon hadde blitt behandlet i flere omganger av Statsforvalteren og hos ombudsmannen. Tiltakshaveren hadde i påvente av denne prosessen ikke søkt om byggetillatelse før treårsfristen hadde løpt ut. Statsforvalteren kom etter dette til at dispensasjonen til byggingen av fritidsboligen var bortfalt før søknaden om byggetillatelse ble fremmet.  
-   
- Ombudsmannen har kommet til at plan- og bygningsloven § 21-9 første ledd ikke kan tolkes slik at treårsfristen suspenderes eller løper fra et senere tidspunkt enn klageinstansens vedtak, selv om saken senere bringes inn for ombudsmannen. Etter ombudsmannens mening er det riktignok flere hensyn som isolert sett taler for at en klage til ombudsmannen burde ha slike virkninger. Andre rettskilder – og da særlig ordlyden i plan- og bygningsloven § 21-9 første ledd, sammenholdt med uttalelsene i forarbeidene til bestemmelsen – må likevel tillegges større vekt ved tolkingen.  
-   
- Ombudsmannens undersøkelser i denne saken viser likevel at det kan være grunn til å overveie endringer i det gjeldende regelverket. Kommunal- og moderniseringedepartementet vil bli gjort oppmerksom på ombudsmannens uttalelse i eget brev herfra og oppfordret til å vurdere behovet for endringer i bestemmelsen.
+Ombudsmannen har kommet til at plan- og bygningsloven § 21-9 første ledd ikke kan tolkes slik at treårsfristen suspenderes eller løper fra et senere tidspunkt enn klageinstansens vedtak, selv om saken senere bringes inn for ombudsmannen. Etter ombudsmannens mening er det riktignok flere hensyn som isolert sett taler for at en klage til ombudsmannen burde ha slike virkninger. Andre rettskilder – og da særlig ordlyden i plan- og bygningsloven § 21-9 første ledd, sammenholdt med uttalelsene i forarbeidene til bestemmelsen – må likevel tillegges større vekt ved tolkingen.  
+Ombudsmannens undersøkelser i denne saken viser likevel at det kan være grunn til å overveie endringer i det gjeldende regelverket. Kommunal- og moderniseringedepartementet vil bli gjort oppmerksom på ombudsmannens uttalelse i eget brev herfra og oppfordret til å vurdere behovet for endringer i bestemmelsen.
 
 ## Sakens bakgrunn
 

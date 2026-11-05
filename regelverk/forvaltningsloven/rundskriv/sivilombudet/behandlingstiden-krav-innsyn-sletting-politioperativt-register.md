@@ -14,8 +14,8 @@ Sivilombudets uttalelse 20.3.2017 (sak 2017/225).
 
 ## Oppsummering
 
-Saken gjelder Kripos’ og Politidirektoratets behandlingstid for et krav om innsyn i og sletting av opplysninger i politioperativt register.   
- Kripos brukte mer enn syv uker på å avvise klagers innsynsbegjæring som følge av at det ikke var fremlagt gyldig legitimasjon. Etter at legitimasjonen var fremlagt, tok det tre måneder før Kripos traff avgjørelse i saken. Behandlingstiden er vesentlig lenger enn den lovpålagte lengstefristen på 30 dager, jf. politiregisterloven § 54 annet ledd. Også i klageomgangen var saksbehandlingstiden uakseptabelt lang. Både Kripos og Politidirektoratet har dessuten forsømt plikten til å gi klager foreløpig svar, jf. forvaltningsloven § 11 a annet og tredje ledd.
+Saken gjelder Kripos’ og Politidirektoratets behandlingstid for et krav om innsyn i og sletting av opplysninger i politioperativt register.  
+Kripos brukte mer enn syv uker på å avvise klagers innsynsbegjæring som følge av at det ikke var fremlagt gyldig legitimasjon. Etter at legitimasjonen var fremlagt, tok det tre måneder før Kripos traff avgjørelse i saken. Behandlingstiden er vesentlig lenger enn den lovpålagte lengstefristen på 30 dager, jf. politiregisterloven § 54 annet ledd. Også i klageomgangen var saksbehandlingstiden uakseptabelt lang. Både Kripos og Politidirektoratet har dessuten forsømt plikten til å gi klager foreløpig svar, jf. forvaltningsloven § 11 a annet og tredje ledd.
 
 **Sakens bakgrunn**
 

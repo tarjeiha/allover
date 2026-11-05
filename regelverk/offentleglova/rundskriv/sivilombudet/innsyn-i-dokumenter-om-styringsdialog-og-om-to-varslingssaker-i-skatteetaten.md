@@ -15,15 +15,11 @@ Sivilombudets uttalelse 16.2.2022 (sak 2021/3904).
 
 ## Oppsummering
 
-Saken gjelder innsyn i ulike dokumenter hos Finansdepartementet, blant annet om styringsdialogen mellom departementet og Skattedirektoratet og om undersøkelser av to varsler. Departementet avslo innsyn med en samlet begrunnelse om at noen dokumenter var unntatt med hjemmel i taushetsplikten etter forvaltningsloven og skatteforvaltningsloven, jf. offentleglova § 13, og at noen av dokumentene var organinterne, jf. offentleglova § 14 første ledd. For et dokument om vurdering av risiko for misligheter i Skatteetaten avslo departementet fordi innsyn vil lette gjennomføring av straffbare handlinger, jf. offentleglova § 24 tredje ledd første punktum.   
-   
- Finansdepartementet har i redegjørelsen til Sivilombudet gitt en nærmere begrunnelse for innsynsavslaget med en konkret oversikt over hvilke dokumenter innsynskravet gjaldt og oppgitt konkret avslagshjemmel for de enkelte dokumentene. Med den nye begrunnelsen anser ombudet at begrunnelsesplikten i offentleglova § 31 nå er ivaretatt. Ombudet forutsetter at Finansdepartementet i fremtidige innsynsavslag gir en begrunnelse som på en tilstrekkelig klar måte angir hvilke unntakshjemler som gjelder hvilke dokumenter.   
-   
- Ombudet er kommet til at det er begrunnet tvil om Finansdepartementet har tatt utgangspunkt i en riktig forståelse av taushetspliktens rekkevidde for opplysninger i varslingssaken.   
-   
- Når det gjelder dokumentet om vurdering av risiko for misligheter, har ombudet ikke innvendinger til departementets standpunkt om at dokumentet inneholder mange opplysninger som kan unntas fordi innsyn vil lette gjennomføring av straffbare handlinger. Etter ombudets syn vil resten av dokumentet likevel kunne ha selvstendig betydning for den som ber om innsyn og finner det derfor usikkert om dokumentet kan unntas i sin helhet etter § 12 bokstav c.  
-   
- Ombudet ber derfor Finansdepartementet om å vurdere på nytt om det kan gis mer innsyn.
+Saken gjelder innsyn i ulike dokumenter hos Finansdepartementet, blant annet om styringsdialogen mellom departementet og Skattedirektoratet og om undersøkelser av to varsler. Departementet avslo innsyn med en samlet begrunnelse om at noen dokumenter var unntatt med hjemmel i taushetsplikten etter forvaltningsloven og skatteforvaltningsloven, jf. offentleglova § 13, og at noen av dokumentene var organinterne, jf. offentleglova § 14 første ledd. For et dokument om vurdering av risiko for misligheter i Skatteetaten avslo departementet fordi innsyn vil lette gjennomføring av straffbare handlinger, jf. offentleglova § 24 tredje ledd første punktum.  
+Finansdepartementet har i redegjørelsen til Sivilombudet gitt en nærmere begrunnelse for innsynsavslaget med en konkret oversikt over hvilke dokumenter innsynskravet gjaldt og oppgitt konkret avslagshjemmel for de enkelte dokumentene. Med den nye begrunnelsen anser ombudet at begrunnelsesplikten i offentleglova § 31 nå er ivaretatt. Ombudet forutsetter at Finansdepartementet i fremtidige innsynsavslag gir en begrunnelse som på en tilstrekkelig klar måte angir hvilke unntakshjemler som gjelder hvilke dokumenter.  
+Ombudet er kommet til at det er begrunnet tvil om Finansdepartementet har tatt utgangspunkt i en riktig forståelse av taushetspliktens rekkevidde for opplysninger i varslingssaken.  
+Når det gjelder dokumentet om vurdering av risiko for misligheter, har ombudet ikke innvendinger til departementets standpunkt om at dokumentet inneholder mange opplysninger som kan unntas fordi innsyn vil lette gjennomføring av straffbare handlinger. Etter ombudets syn vil resten av dokumentet likevel kunne ha selvstendig betydning for den som ber om innsyn og finner det derfor usikkert om dokumentet kan unntas i sin helhet etter § 12 bokstav c.  
+Ombudet ber derfor Finansdepartementet om å vurdere på nytt om det kan gis mer innsyn.
 
 Se oppdatering fra forvaltningen
 

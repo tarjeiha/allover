@@ -14,17 +14,12 @@ Sivilombudets uttalelse 23.3.2023 (sak 2022/4915).
 
 ## Oppsummering
 
-Saken gjelder rett til merverdiavgiftskompensasjon for en privat virksomhet ved produksjon av fylkeskommunale lovpålagte undervisningstjenester, jf. merverdiavgiftskompensasjonsloven § 2 første ledd bokstav c. Saken gjelder videre kravene til begrunnelse av enkeltvedtak i skatteforvaltningsloven § 5-7.   
-   
- Klager i saken var en helseinstitusjon med døgnopphold for pasienter med barn. Fylkeskommunen hadde en lovpålagt plikt til å tilby grunnskole- og videregående opplæring til barna som oppholdt seg på institusjonen. Institusjonen (klager) hadde samtidig en lovpålagt plikt til å stille undervisningslokaler til rådighet for fylkeskommunen.   
-   
- Skattedirektoratet hadde avslått kravet om kompensasjon. Ettersom klager selv hadde en lovpålagt plikt til å stille lokalene til rådighet, kunne dette bidraget ikke anses som del av fylkeskommunens plikter. Skattedirektoratet mente uansett at bidraget ikke utgjorde et vesentlig element av tjenesteproduksjonen, som var et vilkår for kompensasjon.  
-   
- Sivilombudet kom til at helseinstitusjonens lovpålagte plikt til å stille undervisningslokaler til rådighet for fylkeskommunen ikke i seg selv stengte for rett til merverdiavgiftskompensasjon. Vurderingen av kompensasjonsrett måtte foretas med grunnlag i merverdiavgifts- kompensasjonsloven § 2 første ledd bokstav c.   
-   
- Sivilombudet mente imidlertid at institusjonens bidrag til produksjonen av de lovpålagte undervisningstjenestene ikke var tilstrekkelige til å utgjøre et vesentlig element av produksjonen. Vilkårene for merverdiavgiftskompensasjon var derfor ikke oppfylt.  
-   
- Etter Sivilombudets syn ga ikke Skattedirektoratet en tilstrekkelig begrunnelse for sitt vedtak, jf. skatteforvaltningsloven § 5-7. Direktoratet ga ingen selvstendig fremstilling av sine rettslige vurderinger som klageinstans. På bakgrunn av sakens art og viktighet var det ikke tilstrekkelig med en ren henvisning og tilslutning til førsteinstansens vurderinger.
+Saken gjelder rett til merverdiavgiftskompensasjon for en privat virksomhet ved produksjon av fylkeskommunale lovpålagte undervisningstjenester, jf. merverdiavgiftskompensasjonsloven § 2 første ledd bokstav c. Saken gjelder videre kravene til begrunnelse av enkeltvedtak i skatteforvaltningsloven § 5-7.  
+Klager i saken var en helseinstitusjon med døgnopphold for pasienter med barn. Fylkeskommunen hadde en lovpålagt plikt til å tilby grunnskole- og videregående opplæring til barna som oppholdt seg på institusjonen. Institusjonen (klager) hadde samtidig en lovpålagt plikt til å stille undervisningslokaler til rådighet for fylkeskommunen.  
+Skattedirektoratet hadde avslått kravet om kompensasjon. Ettersom klager selv hadde en lovpålagt plikt til å stille lokalene til rådighet, kunne dette bidraget ikke anses som del av fylkeskommunens plikter. Skattedirektoratet mente uansett at bidraget ikke utgjorde et vesentlig element av tjenesteproduksjonen, som var et vilkår for kompensasjon.  
+Sivilombudet kom til at helseinstitusjonens lovpålagte plikt til å stille undervisningslokaler til rådighet for fylkeskommunen ikke i seg selv stengte for rett til merverdiavgiftskompensasjon. Vurderingen av kompensasjonsrett måtte foretas med grunnlag i merverdiavgifts- kompensasjonsloven § 2 første ledd bokstav c.  
+Sivilombudet mente imidlertid at institusjonens bidrag til produksjonen av de lovpålagte undervisningstjenestene ikke var tilstrekkelige til å utgjøre et vesentlig element av produksjonen. Vilkårene for merverdiavgiftskompensasjon var derfor ikke oppfylt.  
+Etter Sivilombudets syn ga ikke Skattedirektoratet en tilstrekkelig begrunnelse for sitt vedtak, jf. skatteforvaltningsloven § 5-7. Direktoratet ga ingen selvstendig fremstilling av sine rettslige vurderinger som klageinstans. På bakgrunn av sakens art og viktighet var det ikke tilstrekkelig med en ren henvisning og tilslutning til førsteinstansens vurderinger.
 
 ## Sakens bakgrunn
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 26.6.2023 (sak 2023/563).
 ## Oppsummering
 
 Saken gjelder frist for å fremsette krav om stønad til dekning av utgifter til helsetjenester i et annet EØS-land, jf. folketrygdloven § 5-24 a. Etter folketrygdloven § 22-13 annet ledd må krav fremsettes innen seks måneder. Spørsmålet i saken er når fristen begynner å løpe. Nasjonalt klageorgan for helsetjenesten la til grunn at fristen begynner å løpe fra behandlingstidspunktet, i samsvar med forvaltningspraksis og helsedirektoratets rundskriv. Klageren fikk avslag på krav om stønad fordi kravene ble ansett fremsatt for sent.  
-   
- Ombudet har kommet til at fristen for å fremsette krav om stønad etter folketrygdloven § 5 24 a løper fra relevant behandling er mottatt og betalt. Ombudet ber om at saken vurderes på nytt.
+Ombudet har kommet til at fristen for å fremsette krav om stønad etter folketrygdloven § 5 24 a løper fra relevant behandling er mottatt og betalt. Ombudet ber om at saken vurderes på nytt.
 
 Se oppdatering fra forvaltningen
 

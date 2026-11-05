@@ -14,13 +14,10 @@ Sivilombudets uttalelse 13.10.2022 (sak 2022/1299).
 
 ## Oppsummering
 
-Saken gjelder innsyn i dokumenter om salg/oppkjøp av Bergen Engines AS sendt mellom departementer. Utenriksdepartementet avslo innsynskravene fra en journalist i noen av dokumentene med hjemmel i offentleglova § 14 første ledd fordi de var interne dokumenter for regjeringen som kollegium.   
-   
- Sivilombudet har kommet til at Utenriksdepartementet har lagt en for vid forståelse til grunn for hva som inngår i regjeringen som kollegiums interne dokumenter og som derved kan unntas offentlighet med hjemmel i offentleglova § 14 første ledd. Enkelte av dokumentene knytter seg ikke innholdsmessig i tilstrekkelig grad til felles forarbeid for regjeringsnotater og regjeringskonferanser. Det var også begrunnet tvil om departementet hadde hjemmel til å unnta enkelte andre dokumenter som interne sett hen til det tidspunktet de var sendt til Justisdepartementet.   
-   
- Ombudet har bedt Utenriksdepartementet om å behandle flere innsynskrav på nytt og om å bli orientert om utfallet av den nye behandlingen.   
-   
- Ombudet har også hatt merknader til sladdingen i svarbrev til ombudet, saksbehandlingstiden og angivelse av konkret unntaksbestemmelse i avslag på innsyn.
+Saken gjelder innsyn i dokumenter om salg/oppkjøp av Bergen Engines AS sendt mellom departementer. Utenriksdepartementet avslo innsynskravene fra en journalist i noen av dokumentene med hjemmel i offentleglova § 14 første ledd fordi de var interne dokumenter for regjeringen som kollegium.  
+Sivilombudet har kommet til at Utenriksdepartementet har lagt en for vid forståelse til grunn for hva som inngår i regjeringen som kollegiums interne dokumenter og som derved kan unntas offentlighet med hjemmel i offentleglova § 14 første ledd. Enkelte av dokumentene knytter seg ikke innholdsmessig i tilstrekkelig grad til felles forarbeid for regjeringsnotater og regjeringskonferanser. Det var også begrunnet tvil om departementet hadde hjemmel til å unnta enkelte andre dokumenter som interne sett hen til det tidspunktet de var sendt til Justisdepartementet.  
+Ombudet har bedt Utenriksdepartementet om å behandle flere innsynskrav på nytt og om å bli orientert om utfallet av den nye behandlingen.  
+Ombudet har også hatt merknader til sladdingen i svarbrev til ombudet, saksbehandlingstiden og angivelse av konkret unntaksbestemmelse i avslag på innsyn.
 
 Se oppdatering fra forvaltningen
 

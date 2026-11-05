@@ -15,8 +15,8 @@ Sivilombudets uttalelse 20.1.2023 (sak 2022/1217).
 ## Oppsummering
 
 Saken gjelder Statsforvalteren i Vestlands behandling av krav om retting eller sletting av til sammen 48 innføringer i en pasientjournal. I klagen til ombudet gjorde klageren blant annet gjeldende at Statsforvalteren ikke hadde vurdert alle innføringene som var omfattet av kravet, og at hennes krav og svarene på dem ikke var nedtegnet i journalen.  
- Ombudet er kommet til at det er begrunnet tvil om Statsforvalteren oppfylte sin plikt til å vurdere samtlige krav som var påklaget i klagesaken, jf. forvaltningsloven § 34 andre ledd andre punktum. Det er også tvil om klagerens krav var nedtegnet i journalen i tråd med helsepersonelloven § 42 andre ledd første punktum og § 43 andre ledd, og ombudet ber Statsforvalteren påse at dette er eller blir gjort.   
- Ombudet ber Statsforvalteren behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
+Ombudet er kommet til at det er begrunnet tvil om Statsforvalteren oppfylte sin plikt til å vurdere samtlige krav som var påklaget i klagesaken, jf. forvaltningsloven § 34 andre ledd andre punktum. Det er også tvil om klagerens krav var nedtegnet i journalen i tråd med helsepersonelloven § 42 andre ledd første punktum og § 43 andre ledd, og ombudet ber Statsforvalteren påse at dette er eller blir gjort.  
+Ombudet ber Statsforvalteren behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 15.12.2016 (sak 2015/3400).
 ## Oppsummering
 
 Saken knytter seg til Statens helsetilsyns behandling av en tilsynssak mot en psykolog. Tilsynssaken ble opprettet på bakgrunn av en henvendelse fra faren til klager, som er tidligere pasient av psykologen. Helsetilsynet ga faren kopi av et brev med vedtak om tilbakekall av psykologens autorisasjon. Vedtaksbrevet inneholdt blant annet opplysninger hentet fra klagerens pasientjournal. Klager var voksen på tidspunktet for farens henvendelse til Helsetilsynet.  
-   
- Klagers far inngikk ikke i den personkretsen som etter pasient- og brukerrettighetsloven § 7-4 hadde rett om å be tilsynsmyndighetene om en pliktbruddsvurdering. Han hadde heller ikke prosessuelle rettigheter etter § 7-4 a. At faren ikke hadde slike prosessuelle rettigheter, var likevel ikke til hindre for at det kunne opprettes tilsynssak mot psykologen som følge av farens henvendelse.  
-   
- Slik saken er opplyst, er det ikke grunnlag for å kritisere Helsetilsynet for å ha orientert klagers far om selve utfallet av tilsynssaken. Ombudsmannen finner det derimot ikke godtgjort at det å gi faren tilgang til opplysningene i vedtaksbrevet om klagers personlige forhold, var forenlig med Helsetilsynets taushetsplikt etter forvaltningsloven § 13 første ledd nr. 1.   
-   
- Helsetilsynet må også kritiseres for ikke å ha nedtegnet muntlige opplysninger gitt av klagerens far i tilstrekkelig grad. Nedtegning sikrer notoritet og gir mulighet til å etterprøve saksbehandlingen. Nedtegning vil i mange tilfeller også være en forutsetning for å kunne ivareta en parts rett til kontradiksjon i tilfeller hvor forvaltningen mottar opplysninger muntlig fra andre enn parten selv.
+Klagers far inngikk ikke i den personkretsen som etter pasient- og brukerrettighetsloven § 7-4 hadde rett om å be tilsynsmyndighetene om en pliktbruddsvurdering. Han hadde heller ikke prosessuelle rettigheter etter § 7-4 a. At faren ikke hadde slike prosessuelle rettigheter, var likevel ikke til hindre for at det kunne opprettes tilsynssak mot psykologen som følge av farens henvendelse.  
+Slik saken er opplyst, er det ikke grunnlag for å kritisere Helsetilsynet for å ha orientert klagers far om selve utfallet av tilsynssaken. Ombudsmannen finner det derimot ikke godtgjort at det å gi faren tilgang til opplysningene i vedtaksbrevet om klagers personlige forhold, var forenlig med Helsetilsynets taushetsplikt etter forvaltningsloven § 13 første ledd nr. 1.  
+Helsetilsynet må også kritiseres for ikke å ha nedtegnet muntlige opplysninger gitt av klagerens far i tilstrekkelig grad. Nedtegning sikrer notoritet og gir mulighet til å etterprøve saksbehandlingen. Nedtegning vil i mange tilfeller også være en forutsetning for å kunne ivareta en parts rett til kontradiksjon i tilfeller hvor forvaltningen mottar opplysninger muntlig fra andre enn parten selv.
 
 ### Sakens bakgrunn
 

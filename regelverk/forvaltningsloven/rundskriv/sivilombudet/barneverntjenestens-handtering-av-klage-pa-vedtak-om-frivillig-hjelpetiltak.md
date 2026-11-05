@@ -14,13 +14,10 @@ Sivilombudets uttalelse 6.5.2024 (sak 2023/3992).
 
 ## Oppsummering
 
-Barnevernstjenesten fattet vedtak om frivillig hjelpetiltak i form av utredning ved et senter for foreldre og barn. Barnets mor medvirket til gjennomføringen, men påklaget likevel vedtaket dagen før hun og barnet skulle flytte inn på senteret. Det gikk over 10 uker før barnevernstjenesten svarte på klagen ved et brev til klager. Mor og barn hadde da flyttet hjem igjen. Selv om Statsforvalteren i Oslo og Viken stod oppført som kopimottaker i svaret på klagen, fremgikk det ikke at saken var ment oversendt til klagebehandling.   
-   
- Barnevernstjenesten skulle ha sørget for at saken ble oversendt til Statsforvalteren på en slik måte at det klart fremgikk at et vedtak fattet av kommunen skulle klagebehandles av Statsforvalteren.   
-   
- Barnevernstjenestens behandlingstid i klagesaken var i strid med forvaltningsloven §§ 11 a og 33 fjerde ledd. Klagen gjaldt et pågående tiltak, og barnevernstjenesten skulle derfor ha prioritert å sende klagen til Statsforvalteren så snart som mulig. Siden behandlingen av klagen ble forsinket, skulle barnevernstjenesten videre ha sendt klager et foreløpig svar.   
-   
- Barnevernstjenesten ble bedt om å merke seg ombudets syn til senere saker.
+Barnevernstjenesten fattet vedtak om frivillig hjelpetiltak i form av utredning ved et senter for foreldre og barn. Barnets mor medvirket til gjennomføringen, men påklaget likevel vedtaket dagen før hun og barnet skulle flytte inn på senteret. Det gikk over 10 uker før barnevernstjenesten svarte på klagen ved et brev til klager. Mor og barn hadde da flyttet hjem igjen. Selv om Statsforvalteren i Oslo og Viken stod oppført som kopimottaker i svaret på klagen, fremgikk det ikke at saken var ment oversendt til klagebehandling.  
+Barnevernstjenesten skulle ha sørget for at saken ble oversendt til Statsforvalteren på en slik måte at det klart fremgikk at et vedtak fattet av kommunen skulle klagebehandles av Statsforvalteren.  
+Barnevernstjenestens behandlingstid i klagesaken var i strid med forvaltningsloven §§ 11 a og 33 fjerde ledd. Klagen gjaldt et pågående tiltak, og barnevernstjenesten skulle derfor ha prioritert å sende klagen til Statsforvalteren så snart som mulig. Siden behandlingen av klagen ble forsinket, skulle barnevernstjenesten videre ha sendt klager et foreløpig svar.  
+Barnevernstjenesten ble bedt om å merke seg ombudets syn til senere saker.
 
 ## Sakens bakgrunn
 

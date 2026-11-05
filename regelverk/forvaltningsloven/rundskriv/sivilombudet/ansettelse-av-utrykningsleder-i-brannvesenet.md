@@ -15,9 +15,8 @@ Sivilombudets uttalelse 11.9.2019 (sak 2019/1867).
 
 ## Oppsummering
 
-Saken gjelder ansettelse av utrykningsleder i brannvesenet i X kommune. Stillingen ble lyst ut internt, og det var ingen av søkerne som oppfylte alle utdanningskravene i dimensjoneringsforskriften § 7-7. En av søkerne som ikke fikk stillingen, klaget til ombudsmannen og mente seg forbigått på bakgrunn av ansiennitet og kvalifikasjoner.   
-   
- Ombudsmannen er kommet til at ansettelsen var i strid med dimensjoneringsforskriften. Klager kan imidlertid ikke sies å ha blitt forbigått, ettersom han ikke oppfylte forskriftens utdanningskrav. Kommunens saksbehandling ved ansettelsen var ikke tilfredsstillende.
+Saken gjelder ansettelse av utrykningsleder i brannvesenet i X kommune. Stillingen ble lyst ut internt, og det var ingen av søkerne som oppfylte alle utdanningskravene i dimensjoneringsforskriften § 7-7. En av søkerne som ikke fikk stillingen, klaget til ombudsmannen og mente seg forbigått på bakgrunn av ansiennitet og kvalifikasjoner.  
+Ombudsmannen er kommet til at ansettelsen var i strid med dimensjoneringsforskriften. Klager kan imidlertid ikke sies å ha blitt forbigått, ettersom han ikke oppfylte forskriftens utdanningskrav. Kommunens saksbehandling ved ansettelsen var ikke tilfredsstillende.
 
 ## Sakens bakgrunn
 

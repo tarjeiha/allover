@@ -15,10 +15,8 @@ Sivilombudets uttalelse 16.3.2018 (sak 2017/2318).
 ## Oppsummering
 
 Saken gjelder Utlendingsnemndas vedtak om å avvise en klage i en sak om midlertidig oppholdstillatelse etter regelverket om familieinnvandring. I forbindelse med søknaden ga klageren sin ektefelle fullmakt. Da søknaden ble avslått, kontaktet ektefellen Selvhjelp for innvandrere og flyktninger (SEIF) som utformet en klage og sendte den inn.  
-   
- Omfanget av en fullmakt – herunder muligheten til å gi den videre – må i utgangspunktet bero på en konkret tolkning av ordlyden. Ombudsmannen har ikke funnet grunn til å kritisere nemnda for ikke å ha ansett SEIF som fullmektig i saken.  
-   
- Utlendingsnemnda skulle imidlertid ha avklart fullmaktsforholdet med klageren eller hennes ektefelle, som hadde fullmakt, og som var i den tro at klagesaken var til klagebehandling i nemnda.
+Omfanget av en fullmakt – herunder muligheten til å gi den videre – må i utgangspunktet bero på en konkret tolkning av ordlyden. Ombudsmannen har ikke funnet grunn til å kritisere nemnda for ikke å ha ansett SEIF som fullmektig i saken.  
+Utlendingsnemnda skulle imidlertid ha avklart fullmaktsforholdet med klageren eller hennes ektefelle, som hadde fullmakt, og som var i den tro at klagesaken var til klagebehandling i nemnda.
 
 Se oppdatering fra forvaltningen
 

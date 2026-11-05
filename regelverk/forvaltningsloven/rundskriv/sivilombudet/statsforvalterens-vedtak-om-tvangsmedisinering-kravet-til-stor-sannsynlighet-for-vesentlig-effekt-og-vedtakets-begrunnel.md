@@ -14,13 +14,10 @@ Sivilombudets uttalelse 23.6.2022 (sak 2022/1235).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Møre og Romsdals vedtak om tvangsmedisinering.   
-   
- Statsforvalterens begrunnelse for at kravet om «stor sannsynlighet» for vesentlig positiv effekt av medisineringen er ikke i tråd med forvaltningslovens eller psykisk helsevernlovens krav.  
-   
- Det er uheldig at Statsforvalteren ikke viste til lovens ordlyd «vesentlig» bedring, men i stedet «betydelig» bedring, da de tok stilling til om lovens krav om tilstrekkelig positiv effekt av medisineringen var oppfylt. Ombudet har merket seg forklaringen om at dette skyldes Helsedirektoratets vedtaksmal, og at Statsforvalterens egen vedtaksmal nå er endret i tråd med lovens ordlyd. Helsedirektoratet bør endre ordlyden i sin vedtaksmal, slik at også denne er i tråd med lovens ordlyd.  
-   
- Ombudet ber Statsforvalteren merke seg ombudets syn på kravene til begrunnelse, og at det legges til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
+Saken gjelder Statsforvalteren i Møre og Romsdals vedtak om tvangsmedisinering.  
+Statsforvalterens begrunnelse for at kravet om «stor sannsynlighet» for vesentlig positiv effekt av medisineringen er ikke i tråd med forvaltningslovens eller psykisk helsevernlovens krav.  
+Det er uheldig at Statsforvalteren ikke viste til lovens ordlyd «vesentlig» bedring, men i stedet «betydelig» bedring, da de tok stilling til om lovens krav om tilstrekkelig positiv effekt av medisineringen var oppfylt. Ombudet har merket seg forklaringen om at dette skyldes Helsedirektoratets vedtaksmal, og at Statsforvalterens egen vedtaksmal nå er endret i tråd med lovens ordlyd. Helsedirektoratet bør endre ordlyden i sin vedtaksmal, slik at også denne er i tråd med lovens ordlyd.  
+Ombudet ber Statsforvalteren merke seg ombudets syn på kravene til begrunnelse, og at det legges til grunn ved behandlingen av fremtidige saker om tvangsmedisinering.
 
 ## Sakens bakgrunn
 

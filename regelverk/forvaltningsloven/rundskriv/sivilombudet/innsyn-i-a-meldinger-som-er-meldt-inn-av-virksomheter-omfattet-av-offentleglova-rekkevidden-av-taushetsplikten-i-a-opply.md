@@ -16,10 +16,8 @@ Sivilombudets uttalelse 7.4.2025 (sak 2024/6021).
 ## Oppsummering
 
 Saken gjelder et krav om innsyn i a-meldinger, som NRK har sendt inn til a-ordningen. A-ordningen forvaltes av Skatteetaten og legger til rette for at arbeidsgivere kan melde inn blant annet opplysninger om arbeidstakeres inntekts- og arbeidsforhold, skattetrekk og utleggstrekk.  
-   
- Alle opplysninger samlet inn i a-ordningen er underlagt taushetsplikt etter a-opplysningsloven § 7. Saken reiser spørsmål om hvor langt taushetsplikten etter a-opplysningsloven går når det er innsynsrett i de samme opplysningene hos en virksomhet som er omfattet av offentleglova.  
-   
- Sivilombudet kom til at det er begrunnet tvil knyttet til om alle opplysningene i a-meldingene er underlagt taushetsplikt, spesielt ansattes bruttoopplysninger om lønn. Ombudet kom videre til at a-opplysningsloven § 7 må suppleres med en begrensning i taushetsplikten når ingen berettiget interesse tilsier hemmelighold. Ombudet mente at det er vanskelig å se at noen berettiget interesse tilsier at det skal være hemmelighold om opplysninger som klart vil være offentlige hos et annet organ, for eksempel ansattes bruttoopplysninger om lønn.
+Alle opplysninger samlet inn i a-ordningen er underlagt taushetsplikt etter a-opplysningsloven § 7. Saken reiser spørsmål om hvor langt taushetsplikten etter a-opplysningsloven går når det er innsynsrett i de samme opplysningene hos en virksomhet som er omfattet av offentleglova.  
+Sivilombudet kom til at det er begrunnet tvil knyttet til om alle opplysningene i a-meldingene er underlagt taushetsplikt, spesielt ansattes bruttoopplysninger om lønn. Ombudet kom videre til at a-opplysningsloven § 7 må suppleres med en begrensning i taushetsplikten når ingen berettiget interesse tilsier hemmelighold. Ombudet mente at det er vanskelig å se at noen berettiget interesse tilsier at det skal være hemmelighold om opplysninger som klart vil være offentlige hos et annet organ, for eksempel ansattes bruttoopplysninger om lønn.
 
 Se oppdatering fra forvaltningen
 

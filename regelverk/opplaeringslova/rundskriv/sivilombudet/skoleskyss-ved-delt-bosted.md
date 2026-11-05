@@ -16,14 +16,10 @@ Sivilombudets uttalelse 16.4.2018 (sak 2016/3376).
 ## Oppsummering
 
 Saken gjelder rett til gratis skoleskyss for en grunnskoleelev som har delt bosted, og bor annenhver uke hos mor og far.  
-   
- Konkrete spørsmål som saken reiser, har vært tatt opp med Fylkesmannen, og generelle tolkingsspørsmål er forelagt Kunnskapsdepartementet.  
-   
- Dersom vilkårene i opplæringslova § 7-1 er oppfylt, har elever i grunnskolen rett til gratis skoleskyss, uavhengig av om de har et eller to foreldrehjem. Det er et krav om at skysstilbudet skal være forsvarlig, noe som innebærer blant annet at eleven skal ha en akseptabel reisetid. Vurderingen av hva som er akseptabelt og forsvarlig bygger på en avveining mellom individuelle hensyn til eleven, og forhold knyttet til denne på den ene siden, og en effektiv og rasjonell organisering av skoleskyssen på den andre siden. Samfunnsøkonomiske hensyn er også relevante. Avveiningene skal skje etter de samme kriteriene uavhengig av antall hjem eleven måtte ha.  
-   
- Lokale retningslinjer for hva som anses som maksimal akseptabel reisetid for elever i ulike aldre, må gjelde uten tanke på om det er snakk om transport mellom skole og folkeregistrert adresse, eller til og fra bostedsadressen.  
-   
- Fylkesmannens utredning og vurdering av barnets beste og av alternative transportløsninger, var noe mangelfull. Ved avveiningen mot økonomiske hensyn og en rasjonell organisering av skoleskyss, ble det pekt på at kravet til rasjonell organisering nettopp innebar å følge samfunnsutviklingen og reflektere de behov og bosettingsmønstre som til enhver tid eksisterer i fylket.
+Konkrete spørsmål som saken reiser, har vært tatt opp med Fylkesmannen, og generelle tolkingsspørsmål er forelagt Kunnskapsdepartementet.  
+Dersom vilkårene i opplæringslova § 7-1 er oppfylt, har elever i grunnskolen rett til gratis skoleskyss, uavhengig av om de har et eller to foreldrehjem. Det er et krav om at skysstilbudet skal være forsvarlig, noe som innebærer blant annet at eleven skal ha en akseptabel reisetid. Vurderingen av hva som er akseptabelt og forsvarlig bygger på en avveining mellom individuelle hensyn til eleven, og forhold knyttet til denne på den ene siden, og en effektiv og rasjonell organisering av skoleskyssen på den andre siden. Samfunnsøkonomiske hensyn er også relevante. Avveiningene skal skje etter de samme kriteriene uavhengig av antall hjem eleven måtte ha.  
+Lokale retningslinjer for hva som anses som maksimal akseptabel reisetid for elever i ulike aldre, må gjelde uten tanke på om det er snakk om transport mellom skole og folkeregistrert adresse, eller til og fra bostedsadressen.  
+Fylkesmannens utredning og vurdering av barnets beste og av alternative transportløsninger, var noe mangelfull. Ved avveiningen mot økonomiske hensyn og en rasjonell organisering av skoleskyss, ble det pekt på at kravet til rasjonell organisering nettopp innebar å følge samfunnsutviklingen og reflektere de behov og bosettingsmønstre som til enhver tid eksisterer i fylket.
 
 Se oppdatering fra forvaltningen
 

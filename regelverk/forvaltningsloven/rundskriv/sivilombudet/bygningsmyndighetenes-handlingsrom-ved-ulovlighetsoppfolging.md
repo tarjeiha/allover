@@ -15,12 +15,9 @@ Sivilombudets uttalelse 1.12.2025 (sak 2025/261).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak tatt opp forståelsen av plan- og bygningsloven § 32-1 andre ledd med Kommunal- og distriktsdepartementet. Bestemmelsen gir kommunen adgang til å unnlate å forfølge overtredelser av «mindre betydning». Flere av landets kommuner har store restanser på ulovlighetsoppfølging, og det er derfor viktig å klargjøre kommunenes handlingsrom etter bestemmelsen.  
-   
- Ombudet kom til at pbl. § 32-1 andre ledd åpner for at kommunen kan avslutte en sak uten å først konstatere om tiltaket er ulovlig, dersom kommunen har et forsvarlig beslutningsgrunnlag.  
-   
- Videre kom ombudet til at tiltak som er avhengig av dispensasjon for å kunne godkjennes etter en konkret vurdering kan anses som overtredelser av «mindre betydning».   
-   
- Til sist kom ombudet til at kommunen kan avslutte en igangsatt oppfølging når den gjenstående delen av ulovligheten er av «mindre betydning».
+Ombudet kom til at pbl. § 32-1 andre ledd åpner for at kommunen kan avslutte en sak uten å først konstatere om tiltaket er ulovlig, dersom kommunen har et forsvarlig beslutningsgrunnlag.  
+Videre kom ombudet til at tiltak som er avhengig av dispensasjon for å kunne godkjennes etter en konkret vurdering kan anses som overtredelser av «mindre betydning».  
+Til sist kom ombudet til at kommunen kan avslutte en igangsatt oppfølging når den gjenstående delen av ulovligheten er av «mindre betydning».
 
 ## 1. Sakens bakgrunn
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 28.11.2022 (sak 2022/3926).
 
 ## Oppsummering
 
-Saken gjaldt konsesjonslovens krav til vurdering av søknad om konsesjon til sameie og Statsforvalterens kompetanse og plikt til å overprøve kommunestyrets vedtak.   
-   
- To brødre, som hadde arvet en eiendom fra sin mor, søkte om konsesjon til erverv med fritak fra boplikten. Statsforvalteren stadfestet kommunestyrets vedtak om å avslå konsesjonssøknadene og viste blant annet til at kommunestyret i en tidligere sak hadde bestemt seg for å avslå alle søknader om konsesjon til sameie.  
-   
- Sivilombudet kom til at Statsforvalteren ikke hadde behandlet saken i tråd med forvaltningsloven § 34 andre ledd. Statsforvalteren hadde ikke foretatt en reell prøving av om kommunens avgjørelse lå innenfor de rettslige rammene i konsesjonsloven §§ 1 og 9. Videre var vurderingen etter § 9 annet ledd ikke basert på relevante hensyn.   
-   
- Ombudet ba Statsforvalteren om å behandle saken på nytt.
+Saken gjaldt konsesjonslovens krav til vurdering av søknad om konsesjon til sameie og Statsforvalterens kompetanse og plikt til å overprøve kommunestyrets vedtak.  
+To brødre, som hadde arvet en eiendom fra sin mor, søkte om konsesjon til erverv med fritak fra boplikten. Statsforvalteren stadfestet kommunestyrets vedtak om å avslå konsesjonssøknadene og viste blant annet til at kommunestyret i en tidligere sak hadde bestemt seg for å avslå alle søknader om konsesjon til sameie.  
+Sivilombudet kom til at Statsforvalteren ikke hadde behandlet saken i tråd med forvaltningsloven § 34 andre ledd. Statsforvalteren hadde ikke foretatt en reell prøving av om kommunens avgjørelse lå innenfor de rettslige rammene i konsesjonsloven §§ 1 og 9. Videre var vurderingen etter § 9 annet ledd ikke basert på relevante hensyn.  
+Ombudet ba Statsforvalteren om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

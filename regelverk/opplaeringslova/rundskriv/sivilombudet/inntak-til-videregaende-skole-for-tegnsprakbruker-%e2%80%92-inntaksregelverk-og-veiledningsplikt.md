@@ -15,13 +15,10 @@ Sivilombudets uttalelse 13.5.2022 (sak 2022/1398).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om en tegnspråklig ungdom hadde krav på opptak til en knutepunktskole i nabofylket. Saken reiser også spørsmål om fylkeskommunen har oppfylt veiledningsplikten knyttet til eget permisjonsregelverk.   
-   
- For skoleåret 2020/2021 fikk eleven plass som prioritert gjesteelev ved knutepunktskolen X videregående skole i Bergen. På grunn av alvorlig sykdom sa klageren fra seg skoleplassen. Klageren ble så bedre, og søkte på samme skole for skoleåret 2021/2022. Vestland fylkeskommune avslo søknaden fordi det ikke var ledige plasser dette året.  
-   
- Sivilombudet kom til at eleven verken hadde krav på opptak til knutepunktskolen i nabofylket etter forskrift til opplæringslova § 6-4 om gjesteelever, eller etter §§ 6-40 jf. 6-43 om knutepunktskoler. Dette fordi plassene allerede var fylt opp av elever fra fylket der skolen ligger.   
-   
- Vestland fylkeskommune hadde ikke oppfylte veiledningsplikt etter forvaltningsloven § 11. Fylkeskommunen skulle veiledet eleven og foreldrene om muligheten til å søke permisjon før eleven sa opp skoleplassen i august 2020. Sivilombudet ba fylkeskommunen om å vurdere tiltak for å avbøte de vidtrekkende negative konsekvensene den mangelfulle veiledningen har hatt for elevens skolegang.
+Saken gjelder spørsmålet om en tegnspråklig ungdom hadde krav på opptak til en knutepunktskole i nabofylket. Saken reiser også spørsmål om fylkeskommunen har oppfylt veiledningsplikten knyttet til eget permisjonsregelverk.  
+For skoleåret 2020/2021 fikk eleven plass som prioritert gjesteelev ved knutepunktskolen X videregående skole i Bergen. På grunn av alvorlig sykdom sa klageren fra seg skoleplassen. Klageren ble så bedre, og søkte på samme skole for skoleåret 2021/2022. Vestland fylkeskommune avslo søknaden fordi det ikke var ledige plasser dette året.  
+Sivilombudet kom til at eleven verken hadde krav på opptak til knutepunktskolen i nabofylket etter forskrift til opplæringslova § 6-4 om gjesteelever, eller etter §§ 6-40 jf. 6-43 om knutepunktskoler. Dette fordi plassene allerede var fylt opp av elever fra fylket der skolen ligger.  
+Vestland fylkeskommune hadde ikke oppfylte veiledningsplikt etter forvaltningsloven § 11. Fylkeskommunen skulle veiledet eleven og foreldrene om muligheten til å søke permisjon før eleven sa opp skoleplassen i august 2020. Sivilombudet ba fylkeskommunen om å vurdere tiltak for å avbøte de vidtrekkende negative konsekvensene den mangelfulle veiledningen har hatt for elevens skolegang.
 
 Se oppdatering fra forvaltningen
 
@@ -80,8 +77,8 @@ Inntak til videregående skole er nærmere regulert i forskrift til opplæringsl
 Opptak på skoler som ligger i andre fylker enn bostedsfylket er regulert i § 6-4 om gjesteelever. Bestemmelsen er plassert under overskriften «I. Felles føresegner», noe som betyr at den gjelder ved siden av de andre bestemmelsene om inntak i kapittel 6. I § 6-4 tredje ledd er prioriteringsrekkefølgen ved inntak av gjesteelever bestemt:
 
 «1. Søkjarar busette i fylket i samsvar med § 6-14 og § 6-29  
- 2. Prioriterte gjesteelevar  
- 3. Gjesteelevar som konkurrerer etter poeng.»
+2. Prioriterte gjesteelevar  
+3. Gjesteelevar som konkurrerer etter poeng.»
 
 I § 6-18 er det regler om fortrinnsrett for søkere med rett til opplæring på tegnspråk. Første ledd har slik ordlyd:
 
@@ -92,9 +89,9 @@ Bestemmelsen gir ikke søkere med rett til opplæring på tegnspråk større ret
 I §§ 6-40 til 6-43 er det gitt regler om inntak til knutepunktskoler for tegnspråklige søkere. Knutepunktskoler er ordinære fylkeskommunale videregående skoler som har tilrettelagte opplæringstilbud for døve og sterkt tunghørte elever, jf. § 6-40 først ledd andre punktum. I paragraf § 6-43 er inntaksrekkefølgen fastsatt slik:
 
 «a. søkjarar frå eige fylke med rett til opplæring etter opplæringslova § 3-1  
- b. søkjarar frå eige fylke utan rett til opplæring etter opplæringslova § 3-1  
- c. søkjarar frå resten av landet med rett til opplæring etter opplæringslova § 3-1  
- d. søkjarar frå resten av landet utan rett til opplæring etter opplæringslova § 3-1»
+b. søkjarar frå eige fylke utan rett til opplæring etter opplæringslova § 3-1  
+c. søkjarar frå resten av landet med rett til opplæring etter opplæringslova § 3-1  
+d. søkjarar frå resten av landet utan rett til opplæring etter opplæringslova § 3-1»
 
 Innenfor hver av gruppene skal plassene fordeles etter bestemmelsene om inntaksrekkefølge i §§ 6-14 til 6-28, jf. andre ledd.
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.2.2019 (sak 2018/3269).
 ## Oppsummering
 
 Klageren var intern søker til to stillinger som H. Han ble innkalt til intervju, men ikke innstilt til stillingen. I klagen til ombudsmannen mente han seg forbigått, og han påpekte at ansettelsesmyndigheten hadde kontaktet andre referanser enn de han selv hadde oppgitt i søknaden.  
-   
- Ombudsmannen er kommet til at ansettelsesmyndigheten på forhånd burde ha informert klager om at de kom til å kontakte andre referanser enn de han selv hadde oppgitt. Det var anledning til å legge vekt på ansettelsesmyndighetens egen kjennskap til klagers personlige egnethet. Ombudsmannen har ikke rettslige innvendinger mot vurderingen av klagers kvalifikasjoner.
+Ombudsmannen er kommet til at ansettelsesmyndigheten på forhånd burde ha informert klager om at de kom til å kontakte andre referanser enn de han selv hadde oppgitt. Det var anledning til å legge vekt på ansettelsesmyndighetens egen kjennskap til klagers personlige egnethet. Ombudsmannen har ikke rettslige innvendinger mot vurderingen av klagers kvalifikasjoner.
 
 ## Sakens bakgrunn
 

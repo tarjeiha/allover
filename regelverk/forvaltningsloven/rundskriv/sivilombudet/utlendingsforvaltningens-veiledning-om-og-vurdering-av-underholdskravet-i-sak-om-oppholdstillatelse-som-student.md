@@ -15,13 +15,10 @@ Sivilombudets uttalelse 20.3.2024 (sak 2023/4423).
 
 ## Oppsummering
 
-Saken gjelder utlendingsforvaltningens behandling av en søknad om oppholdstillatelse som student. Søknaden ble avslått som følge av manglende oppfyllelse av utlendingslovens underholdskrav. Studenten hadde egne midler til å sikre underhold, men kunne ikke oppfylle utlendingsforvaltningens krav om å overføre midlene til norsk bankkonto i eget navn eller til en depositumskonto opprettet av studentens utdanningsinstitusjon. Utlendingsforvaltningen kunne i saksgangen ikke gi svar på om overføring av midlene til en klientkonto disponert av studentens advokat kunne være en tilfredsstillende løsning.   
-   
- Sivilombudet har kommet til at det ikke foreligger grunnlag i lov eller forskrift til å kreve midlene overført til norsk bankkonto i søkerens egne navn. Utlendingsforvaltningen bør i tilsvarende saker vurdere mulighetene for alternative løsninger for oppfyllelse av underholdskravet.   
-   
- Videre har Sivilombudet kommet til at studenten ikke fikk den veiledningen hun hadde krav på etter forvaltningsloven. Utlendingsforvaltningen burde ha svart på advokatens henvendelser om hvorvidt bruk av hans klientkonto kunne være et tilstrekkelig grunnlag for sikring av underhold. Uansett skulle Utlendingsnemnda (UNE) på et tidligere tidspunkt i saksgangen presisert at en vurdering av denne løsningen forutsatte dokumentasjon på at midlene var overført til klientkontoen.   
-   
- UNE ble bedt om å merke seg ombudets uttalelse, og legge den til grunn ved behandling av fremtidige saker om oppholdstillatelse som student.
+Saken gjelder utlendingsforvaltningens behandling av en søknad om oppholdstillatelse som student. Søknaden ble avslått som følge av manglende oppfyllelse av utlendingslovens underholdskrav. Studenten hadde egne midler til å sikre underhold, men kunne ikke oppfylle utlendingsforvaltningens krav om å overføre midlene til norsk bankkonto i eget navn eller til en depositumskonto opprettet av studentens utdanningsinstitusjon. Utlendingsforvaltningen kunne i saksgangen ikke gi svar på om overføring av midlene til en klientkonto disponert av studentens advokat kunne være en tilfredsstillende løsning.  
+Sivilombudet har kommet til at det ikke foreligger grunnlag i lov eller forskrift til å kreve midlene overført til norsk bankkonto i søkerens egne navn. Utlendingsforvaltningen bør i tilsvarende saker vurdere mulighetene for alternative løsninger for oppfyllelse av underholdskravet.  
+Videre har Sivilombudet kommet til at studenten ikke fikk den veiledningen hun hadde krav på etter forvaltningsloven. Utlendingsforvaltningen burde ha svart på advokatens henvendelser om hvorvidt bruk av hans klientkonto kunne være et tilstrekkelig grunnlag for sikring av underhold. Uansett skulle Utlendingsnemnda (UNE) på et tidligere tidspunkt i saksgangen presisert at en vurdering av denne løsningen forutsatte dokumentasjon på at midlene var overført til klientkontoen.  
+UNE ble bedt om å merke seg ombudets uttalelse, og legge den til grunn ved behandling av fremtidige saker om oppholdstillatelse som student.
 
 Se oppdatering fra forvaltningen
 

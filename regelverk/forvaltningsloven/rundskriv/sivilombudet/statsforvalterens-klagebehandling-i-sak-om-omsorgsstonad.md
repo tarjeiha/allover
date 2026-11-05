@@ -15,8 +15,7 @@ Sivilombudets uttalelse 19.5.2026 (sak 2025/8130).
 ## Oppsummering
 
 Saken gjelder Statsforvalterens klagebehandling i sak om omsorgsstønad. Klageren fikk innvilget omsorgsstønad for det særlig tyngende omsorgsarbeidet hun utførte for sin nå avdøde ektefelle, men klaget over utmålingen. Statsforvalteren skrev i det endelige vedtaket at prøvingstemaet var om kommunens vedtak var «åpenbart urimelig». Det fremgikk ikke av vedtaket at det var vurdert om tjenestetilbudet samlet sett dekket behovet for forsvarlige helse- og omsorgstjenester.  
-   
- Sivilombudet kom til at en vurdering av forsvarlighetskravet skulle inngått i det endelige vedtaket. Sivilombudet kom også til at Statsforvalteren skulle foretatt en full prøving av kommunens vedtak hvor hensynet til det kommunale selvstyret tillegges stor vekt ved prøvingen av det frie skjønn. Sivilombudet ba Helse- og omsorgsdepartementet sørge for at gjeldende veiledere endres i tråd med ombudets og departementets syn på gjeldende rett.
+Sivilombudet kom til at en vurdering av forsvarlighetskravet skulle inngått i det endelige vedtaket. Sivilombudet kom også til at Statsforvalteren skulle foretatt en full prøving av kommunens vedtak hvor hensynet til det kommunale selvstyret tillegges stor vekt ved prøvingen av det frie skjønn. Sivilombudet ba Helse- og omsorgsdepartementet sørge for at gjeldende veiledere endres i tråd med ombudets og departementets syn på gjeldende rett.
 
 ## Sakens bakgrunn
 

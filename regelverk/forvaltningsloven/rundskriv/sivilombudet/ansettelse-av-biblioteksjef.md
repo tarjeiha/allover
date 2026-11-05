@@ -15,13 +15,10 @@ Sivilombudets uttalelse 18.10.2023 (sak 2023/532).
 
 ## Oppsummering
 
-Spørsmålet i saken er om en kommune hadde adgang til å ansette en biblioteksjef som ikke hadde bibliotekfaglig utdanning når det var en annen kvalifisert søker. A, som har bibliotekfaglig utdanning, søkte på utlyst stilling som biblioteksjef i X kommune. Hun ble innstilt som nr. 2. Stillingen gikk til en søker uten bibliotekfaglig utdanning.   
-   
- Sivilombudet er kommet til at ansettelsen er i strid med folkebibliotekloven § 5, forskrift om kvalifikasjonskrav til ansatte i folkebibliotek § 2 og utlysningsteksten. Etter folkebibliotekloven § 5 skal en biblioteksjef ha bibliotekfaglig utdanning.   
-   
- Kommunen har erkjent at søkeren som ble tilsatt ikke oppfylte lovbestemte kompetansekrav, men kom til at hun like fullt fremsto som best egnet blant annet ut fra sine lederegenskaper. I denne saken var klager kvalifisert til stillingen, selv om kommunen vurderte henne som mindre egnet enn den som ble tilsatt.   
-   
- Klager er urettmessig blitt forbigått i denne ansettelsesprosessen og kommunen bør vurdere hvordan uretten som er begått mot henne kan bøtes på.
+Spørsmålet i saken er om en kommune hadde adgang til å ansette en biblioteksjef som ikke hadde bibliotekfaglig utdanning når det var en annen kvalifisert søker. A, som har bibliotekfaglig utdanning, søkte på utlyst stilling som biblioteksjef i X kommune. Hun ble innstilt som nr. 2. Stillingen gikk til en søker uten bibliotekfaglig utdanning.  
+Sivilombudet er kommet til at ansettelsen er i strid med folkebibliotekloven § 5, forskrift om kvalifikasjonskrav til ansatte i folkebibliotek § 2 og utlysningsteksten. Etter folkebibliotekloven § 5 skal en biblioteksjef ha bibliotekfaglig utdanning.  
+Kommunen har erkjent at søkeren som ble tilsatt ikke oppfylte lovbestemte kompetansekrav, men kom til at hun like fullt fremsto som best egnet blant annet ut fra sine lederegenskaper. I denne saken var klager kvalifisert til stillingen, selv om kommunen vurderte henne som mindre egnet enn den som ble tilsatt.  
+Klager er urettmessig blitt forbigått i denne ansettelsesprosessen og kommunen bør vurdere hvordan uretten som er begått mot henne kan bøtes på.
 
 Spørsmålet i saken er om en kommune hadde adgang til å ansette en biblioteksjef uten bibliotekfaglig utdanning, når det var en annen kvalifisert søker. Videre er spørsmålet om kommunens saksbehandling var i samsvar med kravene i forvaltningsloven og kvalifikasjonsprinsippet som gjelder for ansettelser.
 

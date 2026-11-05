@@ -16,8 +16,7 @@ Sivilombudets uttalelse 24.5.2024 (sak 2023/5625).
 ## Oppsummering
 
 Saken gjelder behandlingen av en søknad om skoleskyss på grunn av lang skolevei etter opplæringslova § 7-1 første ledd. Eleven hadde fått innvilget skolebytte til en skole i nabokommunen noen år tidligere. I skolebyttevedtaket var det satt vilkår om at foreldrene betaler merkostnaden til skyss selv. Dette vedtaket ble ikke påklaget av foreldrene. I kommunens og Statsforvalterens vedtak om avslag på gratis skoleskyss ble det vist til kommunens adgang til å stille vilkår om egenbetaling i et vedtak om skolebytte der skolebyttet ikke har sammenheng med retten til opplæring. Videre ble det vist til at skolebyttevedtaket ikke var påklaget og at den absolutte klagefristen på ett år etter forvaltningsloven var utløpt.  
-   
- Sivilombudet er kommet til at søknaden om skoleskyss må realitetsbehandles ut fra nåsituasjonen, og at vurderingstemaet knyttet til vilkåret om egenbetaling er om elevens rett til opplæring kan oppfylles på nærskolen. Ombudet har ingen innvendinger til at kommunen har behandlet søknaden i førsteinstans.
+Sivilombudet er kommet til at søknaden om skoleskyss må realitetsbehandles ut fra nåsituasjonen, og at vurderingstemaet knyttet til vilkåret om egenbetaling er om elevens rett til opplæring kan oppfylles på nærskolen. Ombudet har ingen innvendinger til at kommunen har behandlet søknaden i førsteinstans.
 
 ## Sakens bakgrunn
 

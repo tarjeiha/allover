@@ -16,10 +16,8 @@ Sivilombudets uttalelse 13.12.2024 (sak 2024/4613).
 ## Oppsummering
 
 Saken gjelder Nav kontaktsenters behandling av krav om partsinnsyn. Innsynskravet i saken ble besvart 28 dager etter at kravet var fremsatt, og 19 dager etter at det var mottatt. I Nav kontaktsenters interne rutiner for behandling av partsinnsynskrav fremgikk det at saksbehandlingstiden for krav om partsinnsyn var 8 uker.  
-   
- Sivilombudet er kommet til at klagerens sak ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd.  
-   
- Sivilombudet har merket seg endringene i Nav kontaktsenters interne rutiner for behandling av partsinnsynskrav. Det er positivt at rutinene er endret slik at det fremgår at innsynskrav som utgangspunkt skal behandles innen en til tre dager. Ombudet er også positiv til tiltakene som Arbeids- og velferdsdirektoratet har iverksatt for å håndtere behandlingstiden i partsinnsynssaker. Ombudet forutsetter at direktoratet fortsetter arbeidet med å effektivisere håndteringen av partsinnsynskrav, og at direktoratet påser at Nav kontaktsenters behandling av partsinnsynskrav skjer i tråd med forvaltningslovens krav.
+Sivilombudet er kommet til at klagerens sak ikke ble avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd.  
+Sivilombudet har merket seg endringene i Nav kontaktsenters interne rutiner for behandling av partsinnsynskrav. Det er positivt at rutinene er endret slik at det fremgår at innsynskrav som utgangspunkt skal behandles innen en til tre dager. Ombudet er også positiv til tiltakene som Arbeids- og velferdsdirektoratet har iverksatt for å håndtere behandlingstiden i partsinnsynssaker. Ombudet forutsetter at direktoratet fortsetter arbeidet med å effektivisere håndteringen av partsinnsynskrav, og at direktoratet påser at Nav kontaktsenters behandling av partsinnsynskrav skjer i tråd med forvaltningslovens krav.
 
 ## Sakens bakgrunn
 

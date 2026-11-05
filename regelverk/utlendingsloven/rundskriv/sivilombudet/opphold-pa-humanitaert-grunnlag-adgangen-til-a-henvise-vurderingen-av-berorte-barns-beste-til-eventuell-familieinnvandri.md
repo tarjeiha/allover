@@ -15,17 +15,12 @@ Sivilombudets uttalelse 10.11.2022 (sak 2022/1137).
 
 ## Oppsummering
 
-Saken gjelder Utlendingsnemndas (UNEs) avgjørelse om å avslå søknad om oppholdstillatelse på humanitært grunnlag, jf. utlendingsloven § 38, fra en afghansk borger som i sju år hadde bodd i Norge mens han ventet på endelig svar på søknad om asyl. Da saken ble avgjort av nemnda hadde Utlendingsdirektoratet (UDI) gitt klagerens familie oppholdstillatelse på grunn av den eldste datterens tilknytning til Norge som lengeværende barn. Bakgrunnen for at saken ikke ble behandlet sammen med de andre familiemedlemmenes saker var at utlendingen hadde kommet til Norge etter resten av familien.   
-   
- Hovedtemaet for ombudets undersøkelse har vært om hensynet til utlendingens barn ble tilstrekkelig vurdert og vektlagt av UNE i deres avgjørelser i saken. Spørsmålet var særlig om UNE kunne henvise en nærmere vurdering av barnas omsorgssituasjon til en eventuell senere sak om familieinnvandring.   
-   
- Berørte barns beste skal etter barnekonvensjonen, Grunnloven og utlendingsloven være et grunnleggende hensyn i en sak om opphold etter § 38. Hensynet til berørte barns beste må vurderes og vektlegges i samsvar med dette kravet, når utlendingsmyndighetene vurderer opphold etter § 38 til en av barnas foreldre i en asylsak.   
-   
- Ombudet mener at kravene til denne vurderingen ikke kan reduseres under henvisning til at barnas beste vil bli vurdert og vektlagt i en eventuell senere familieinnvandringssak. Det bør kun «henvises» til reglene om familieinnvandring der en slik vurdering viser at det ikke foreligger sterke menneskelige hensyn som er tilstrekkelige til å begrunne opphold etter totalvurderingen i § 38.   
-   
- Ombudet har kommet til at UNE i denne saken har lagt til grunn en feilaktig forståelse av utlendingsloven § 38, og at de ikke i tilstrekkelig grad har vurdert og vektlagt barnas beste som et grunnleggende hensyn i farens sak om opphold på humanitært grunnlag. Dette er et brudd på forpliktelsene etter blant annet barnekonvensjonen artikkel 3 og Grunnloven § 104, og innebærer at avgjørelsene må anses ugyldige.   
-   
- Ombudet ber nemnda om å behandle saken på nytt innen 31. januar 2023, og om å bli underrettet om utfallet. Det bes videre om at nemnda vurderer om det er behov for å justere praksis på området, og om aktuelle retningslinjer må endres.
+Saken gjelder Utlendingsnemndas (UNEs) avgjørelse om å avslå søknad om oppholdstillatelse på humanitært grunnlag, jf. utlendingsloven § 38, fra en afghansk borger som i sju år hadde bodd i Norge mens han ventet på endelig svar på søknad om asyl. Da saken ble avgjort av nemnda hadde Utlendingsdirektoratet (UDI) gitt klagerens familie oppholdstillatelse på grunn av den eldste datterens tilknytning til Norge som lengeværende barn. Bakgrunnen for at saken ikke ble behandlet sammen med de andre familiemedlemmenes saker var at utlendingen hadde kommet til Norge etter resten av familien.  
+Hovedtemaet for ombudets undersøkelse har vært om hensynet til utlendingens barn ble tilstrekkelig vurdert og vektlagt av UNE i deres avgjørelser i saken. Spørsmålet var særlig om UNE kunne henvise en nærmere vurdering av barnas omsorgssituasjon til en eventuell senere sak om familieinnvandring.  
+Berørte barns beste skal etter barnekonvensjonen, Grunnloven og utlendingsloven være et grunnleggende hensyn i en sak om opphold etter § 38. Hensynet til berørte barns beste må vurderes og vektlegges i samsvar med dette kravet, når utlendingsmyndighetene vurderer opphold etter § 38 til en av barnas foreldre i en asylsak.  
+Ombudet mener at kravene til denne vurderingen ikke kan reduseres under henvisning til at barnas beste vil bli vurdert og vektlagt i en eventuell senere familieinnvandringssak. Det bør kun «henvises» til reglene om familieinnvandring der en slik vurdering viser at det ikke foreligger sterke menneskelige hensyn som er tilstrekkelige til å begrunne opphold etter totalvurderingen i § 38.  
+Ombudet har kommet til at UNE i denne saken har lagt til grunn en feilaktig forståelse av utlendingsloven § 38, og at de ikke i tilstrekkelig grad har vurdert og vektlagt barnas beste som et grunnleggende hensyn i farens sak om opphold på humanitært grunnlag. Dette er et brudd på forpliktelsene etter blant annet barnekonvensjonen artikkel 3 og Grunnloven § 104, og innebærer at avgjørelsene må anses ugyldige.  
+Ombudet ber nemnda om å behandle saken på nytt innen 31. januar 2023, og om å bli underrettet om utfallet. Det bes videre om at nemnda vurderer om det er behov for å justere praksis på området, og om aktuelle retningslinjer må endres.
 
 ## Sakens bakgrunn
 

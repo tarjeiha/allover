@@ -14,14 +14,11 @@ Sivilombudets uttalelse 19.5.2026 (sak 2025/6379).
 
 ## Oppsummering
 
-Saken gjelder klage over saksbehandlingen til Nasjonalt utvalg for uredelighet i Forskning (Granskningsutvalget). Klageren hadde meldt inn en kollega i samme forskningsprosjekt for vitenskapelig uredelighet. Underinstansen kom til at det forelå alvorlige brudd på forskningsetiske normer.   
- Den innmeldte forskeren påklaget avgjørelsen til Granskningsutvalget. Under saksforberedelsen for Granskningsutvalget fikk klageren, som hadde meldt inn saken, ikke anledning til kontradiksjon. Granskningsutvalgets praksis var at bare den innmeldte forskeren hadde partsrettigheter. Opplysninger fra den innmeldte forskeren ble lagt til grunn i uttalelsen, uten at klageren var kjent med disse eller hadde fått uttale seg. Utvalget konkluderte med at det ikke forelå alvorlige brudd på forskningsetiske normer i saken.   
-   
- Klageren anmodet om omgjøring. Han viste blant annet til at Kunnskapsdepartementet i et brev til Granskningsutvalget i en annen sak ga uttrykk for at utvalget hadde feil forståelse av hvem som har partsrettigheter i sakene for utvalget. Klageren hevdet at uttalelsen bygde på feil opplysninger og at manglende kontradiksjon hadde påvirket utfallet. Granskningsutvalget omgjorde ikke uttalelsen.   
-   
- Sivilombudet kom til at klageren skulle vært gitt partsrettigheter og fått anledning til kontradiksjon. Saken var ikke tilstrekkelig opplyst før utvalget avsa sin uttalelse. Beslutningen om å ikke omgjøre var mangelfullt begrunnet. Den inneholdt ingen nærmere vurdering av klagerens argumenter, og viste ikke at alle relevante sider ved saken nå var vurdert.  
-   
- Sivilombudet ba Granskningsutvalget om å behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen av saken. Ombudet ba også om informasjon om hvilke retningslinjer for kontradiksjon Granskningsutvalget vil følge fremover.
+Saken gjelder klage over saksbehandlingen til Nasjonalt utvalg for uredelighet i Forskning (Granskningsutvalget). Klageren hadde meldt inn en kollega i samme forskningsprosjekt for vitenskapelig uredelighet. Underinstansen kom til at det forelå alvorlige brudd på forskningsetiske normer.  
+Den innmeldte forskeren påklaget avgjørelsen til Granskningsutvalget. Under saksforberedelsen for Granskningsutvalget fikk klageren, som hadde meldt inn saken, ikke anledning til kontradiksjon. Granskningsutvalgets praksis var at bare den innmeldte forskeren hadde partsrettigheter. Opplysninger fra den innmeldte forskeren ble lagt til grunn i uttalelsen, uten at klageren var kjent med disse eller hadde fått uttale seg. Utvalget konkluderte med at det ikke forelå alvorlige brudd på forskningsetiske normer i saken.  
+Klageren anmodet om omgjøring. Han viste blant annet til at Kunnskapsdepartementet i et brev til Granskningsutvalget i en annen sak ga uttrykk for at utvalget hadde feil forståelse av hvem som har partsrettigheter i sakene for utvalget. Klageren hevdet at uttalelsen bygde på feil opplysninger og at manglende kontradiksjon hadde påvirket utfallet. Granskningsutvalget omgjorde ikke uttalelsen.  
+Sivilombudet kom til at klageren skulle vært gitt partsrettigheter og fått anledning til kontradiksjon. Saken var ikke tilstrekkelig opplyst før utvalget avsa sin uttalelse. Beslutningen om å ikke omgjøre var mangelfullt begrunnet. Den inneholdt ingen nærmere vurdering av klagerens argumenter, og viste ikke at alle relevante sider ved saken nå var vurdert.  
+Sivilombudet ba Granskningsutvalget om å behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen av saken. Ombudet ba også om informasjon om hvilke retningslinjer for kontradiksjon Granskningsutvalget vil følge fremover.
 
 ## Sakens bakgrunn
 

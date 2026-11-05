@@ -14,11 +14,9 @@ Sivilombudets uttalelse 6.2.2024 (sak 2023/4750).
 
 ## Oppsummering
 
-Saken gjelder to innsynsavslag i to politidistrikters publiserte videoer på TikTok. Politidirektoratet stadfestet Vest og Trøndelag politidistrikts avslag på klagerens krav om innsyn. Direktoratet begrunnet avslaget med at TikTok-videoer ikke kan anses som «saker av ein bestemt art» (identifikasjonskravet), jf. offentleglova § 28 andre ledd.   
-   
- Sivilombudet kom til at direktoratet har lagt til grunn en uriktig forståelse av identifikasjonskravet i offentleglova § 28 andre ledd. Bestemmelsen åpner ikke for at innsynskrav kan avvises dersom forvaltningen allerede har identifisert, eller enkelt kan identifisere, dokumentene som det er bedt om innsyn i.   
-   
- Ombudet ba direktoratet om å behandle saken på nytt.
+Saken gjelder to innsynsavslag i to politidistrikters publiserte videoer på TikTok. Politidirektoratet stadfestet Vest og Trøndelag politidistrikts avslag på klagerens krav om innsyn. Direktoratet begrunnet avslaget med at TikTok-videoer ikke kan anses som «saker av ein bestemt art» (identifikasjonskravet), jf. offentleglova § 28 andre ledd.  
+Sivilombudet kom til at direktoratet har lagt til grunn en uriktig forståelse av identifikasjonskravet i offentleglova § 28 andre ledd. Bestemmelsen åpner ikke for at innsynskrav kan avvises dersom forvaltningen allerede har identifisert, eller enkelt kan identifisere, dokumentene som det er bedt om innsyn i.  
+Ombudet ba direktoratet om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

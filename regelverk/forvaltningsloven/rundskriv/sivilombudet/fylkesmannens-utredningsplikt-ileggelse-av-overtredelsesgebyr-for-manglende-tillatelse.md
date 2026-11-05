@@ -15,12 +15,9 @@ Sivilombudets uttalelse 19.12.2016 (sak 2016/593).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens utredningsplikt i en sak om ileggelse av overtredelsesgebyr etter plan- og bygningsloven § 32-8 bokstav b, jf. SAK10 § 16-1 bokstav a nr. 2.  
-   
- Fylkesmannen i Troms stadfestet Tromsø kommunes ileggelse av et gebyr på kroner 40.000 for overtredelse av bestemmelsene, med den begrunnelse at klager hadde foretatt et større terrenginngrep på en eiendom enn det ramme- og igangsettingstillatelsen for tiltaket tillot. Den delen av terrenginngrepet som overskred tillatelsen, måtte etter Fylkesmannens syn anses utført uten nødvendig tillatelse.  
-   
- Vedtaket ble klaget inn for ombudsmannen. Det ble anført at Fylkesmannen ikke hadde sørget for å klarlegge omfanget av tillatt masseuttak etter igangsettingstillatelsen. Dette hadde medført at Fylkesmannen hadde tolket tillatelsen uriktig, og lagt feil faktum til grunn for vedtaket.  
-   
- Ombudsmannen er kommet til at Fylkesmannen må kritiseres for at saken ikke var godt nok opplyst da Fylkesmannen stadfestet kommunens vedtak, jf. forvaltningsloven § 17 første ledd, jf. § 33 femte ledd.
+Fylkesmannen i Troms stadfestet Tromsø kommunes ileggelse av et gebyr på kroner 40.000 for overtredelse av bestemmelsene, med den begrunnelse at klager hadde foretatt et større terrenginngrep på en eiendom enn det ramme- og igangsettingstillatelsen for tiltaket tillot. Den delen av terrenginngrepet som overskred tillatelsen, måtte etter Fylkesmannens syn anses utført uten nødvendig tillatelse.  
+Vedtaket ble klaget inn for ombudsmannen. Det ble anført at Fylkesmannen ikke hadde sørget for å klarlegge omfanget av tillatt masseuttak etter igangsettingstillatelsen. Dette hadde medført at Fylkesmannen hadde tolket tillatelsen uriktig, og lagt feil faktum til grunn for vedtaket.  
+Ombudsmannen er kommet til at Fylkesmannen må kritiseres for at saken ikke var godt nok opplyst da Fylkesmannen stadfestet kommunens vedtak, jf. forvaltningsloven § 17 første ledd, jf. § 33 femte ledd.
 
 ## Uttalelse
 

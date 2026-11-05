@@ -15,12 +15,9 @@ Sivilombudets uttalelse 24.2.2022 (sak 2021/4312).
 ## Oppsummering
 
 Sivilombudet mottok en klage som blant annet gjaldt Trygderettens avvisning av anke som for sent fremsatt, jf. trygderettsloven § 9. Anken gjaldt vedtak om yrkessykdom.  
-   
- Ombudets undersøkelser i saken viste at klagerens fullmektig hadde fremlagt dokumentasjon i saken som var relevant for spørsmålet om oppfrisking av ankefristen etter trygderettsloven § 9 andre ledd, men som ikke hadde blitt vurdert, hverken av Nav klageinstans eller av Trygderetten. Undersøkelsene viste videre at årsaken til dette var mangelfull utredning og veiledning fra Nav.  
-   
- Nav Klageinstans har opptrådt i strid med kravet til god forvaltningsskikk og kravet til forsvarlig saksutredning ved ikke å gjennomgå dokumenter som klageren hadde lagt frem i saken som var relevante for spørsmålet om oppfriskning av ankefristen etter trygderettsloven § 9 fjerde ledd.  
-   
- Sivilombudet ber Arbeids- og velferdsdirektoratet om å vurdere følgene av saksbehandlingsfeilen, hensyntatt at klagerens etterlatte kan ha en interesse i hovedsaken.
+Ombudets undersøkelser i saken viste at klagerens fullmektig hadde fremlagt dokumentasjon i saken som var relevant for spørsmålet om oppfrisking av ankefristen etter trygderettsloven § 9 andre ledd, men som ikke hadde blitt vurdert, hverken av Nav klageinstans eller av Trygderetten. Undersøkelsene viste videre at årsaken til dette var mangelfull utredning og veiledning fra Nav.  
+Nav Klageinstans har opptrådt i strid med kravet til god forvaltningsskikk og kravet til forsvarlig saksutredning ved ikke å gjennomgå dokumenter som klageren hadde lagt frem i saken som var relevante for spørsmålet om oppfriskning av ankefristen etter trygderettsloven § 9 fjerde ledd.  
+Sivilombudet ber Arbeids- og velferdsdirektoratet om å vurdere følgene av saksbehandlingsfeilen, hensyntatt at klagerens etterlatte kan ha en interesse i hovedsaken.
 
 ## Sakens bakgrunn
 

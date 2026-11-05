@@ -15,12 +15,9 @@ Sivilombudets uttalelse 31.5.2021 (sak 2020/5214).
 ## Oppsummering
 
 Saken gjelder Fredrikstad kommunes avslag på en søknad om parkeringslettelse for forflytningshemmede. I begrunnelsen for avslaget viste kommunen til at klagerens særskilte parkeringsbehov må være av regelmessig og hyppig karakter.  
-   
- Ombudsmannen kan ikke se at det er rettslig grunnlag for å kreve, som selvstendige og absolutte vilkår, at parkeringsbehovet må være regelmessig og hyppig for å tilfredsstille kravet om «særlig behov» i den aktuelle forskriften. Etter ombudsmannens syn er hyppigheten og regelmessigheten kun momenter ved helhetsvurderingen av om behovet for parkeringslettelse er «særlig». Ombudsmannen finner derfor at det foreligger begrunnet tvil om Klageutvalget forsto det nevnte vilkåret riktig ved avgjørelsen av klagerens sak. Ombudsmannen ber kommunen behandle saken på nytt.   
-   
- Ombudsmannen ber videre kommunen vurdere om informasjonen på kommunens hjemmeside er i tråd med ombudsmannens syn på gjeldende rett, og eventuelt justere den så snart som mulig.  
-   
- Ombudsmannen er enig i kommunens vurdering av at det var en saksbehandlingsfeil at oversendelsesbrevet til klageutvalget ikke ble sendt til klageren i kopi. Ombudsmannen ser positivt på at kommunedirektøren vil minne om hvilke rutiner som gjelder for klageutvalget, og sørge for at oversendelsesbrevene til klageutvalget heretter sendes i kopi til klagerne i samsvar med forvaltningsloven § 33 fjerde ledd.
+Ombudsmannen kan ikke se at det er rettslig grunnlag for å kreve, som selvstendige og absolutte vilkår, at parkeringsbehovet må være regelmessig og hyppig for å tilfredsstille kravet om «særlig behov» i den aktuelle forskriften. Etter ombudsmannens syn er hyppigheten og regelmessigheten kun momenter ved helhetsvurderingen av om behovet for parkeringslettelse er «særlig». Ombudsmannen finner derfor at det foreligger begrunnet tvil om Klageutvalget forsto det nevnte vilkåret riktig ved avgjørelsen av klagerens sak. Ombudsmannen ber kommunen behandle saken på nytt.  
+Ombudsmannen ber videre kommunen vurdere om informasjonen på kommunens hjemmeside er i tråd med ombudsmannens syn på gjeldende rett, og eventuelt justere den så snart som mulig.  
+Ombudsmannen er enig i kommunens vurdering av at det var en saksbehandlingsfeil at oversendelsesbrevet til klageutvalget ikke ble sendt til klageren i kopi. Ombudsmannen ser positivt på at kommunedirektøren vil minne om hvilke rutiner som gjelder for klageutvalget, og sørge for at oversendelsesbrevene til klageutvalget heretter sendes i kopi til klagerne i samsvar med forvaltningsloven § 33 fjerde ledd.
 
 Se oppdatering fra forvaltningen
 
@@ -89,7 +86,7 @@ Ombudsmannen ber kommunen vurdere om informasjonen på kommunens hjemmeside harm
 Ombudsmannen er enig i kommunens vurdering av at det var en saksbehandlingsfeil at oversendelsesbrevet til klageutvalget ikke ble sendt til klageren i kopi. Ombudsmannen ser positivt på at kommunedirektøren vil minne om hvilke rutiner som gjelder for Klageutvalget, og sørge for at oversendelsesbrevene til Klageutvalget heretter sendes i kopi til klagerne i samsvar med forvaltningsloven § 33 fjerde ledd.
 
 [1] Retningslinjene er tilgjengelige på [www.vegvesen.no/_attachment/60503/binary/12223](https://www.vegvesen.no/_attachment/60503/binary/12223)  
- [2] Ordlyden i dagens forskrift § 3 tilsvarer § 2 i tidligere forskrift.
+[2] Ordlyden i dagens forskrift § 3 tilsvarer § 2 i tidligere forskrift.
 
 ## Forvaltningens oppfølging
 

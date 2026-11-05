@@ -14,13 +14,10 @@ Sivilombudets uttalelse 3.12.2024 (sak 2024/682).
 
 ## Oppsummering
 
-Saken gjelder Kristiansand kommunes behandling og avslutning av et varsel om et påstått ulovlig byggetiltak på innmelderens naboeiendom.   
-   
- Sivilombudet har kommet til at kommunen ikke har undergitt ulovlighetsvarselet en forsvarlig behandling. Formålet med tilsynsplikten og plikten til å forfølge ulovligheter tilsier at kommunen ikke kunne avslutte saken, ut fra en forståelse om at de ikke har en generell plikt til å iverksette tilsyn i alle saker, jf. plan- og bygningsloven § 25-1. Tilsynsplikten etter plan- og bygningsloven kapittel 25 innskrenker ikke den alminnelige plikten til å påse at plan- og bygningslovgivningen overholdes i kommunen etter § 32-1, jf. § 1-4. Kommunen må derfor avklare om det er sannsynlig at det foreligger en overtredelse som kommunen plikter å forfølge. Videre har kommunen feilaktig lagt til grunn at en ulovlighetsoppfølging alltid må innledes med at det åpnes et tilsyn etter plan- og bygningsloven § 25-1.   
-   
- Ombudet ber kommunen om å behandle varselet på nytt i lys av føringene gitt i uttalelsen, og å merke seg det ombudet har uttalt ved behandlingen av fremtidige ulovlighetssaker.   
-   
- Videre forutsetter ombudet at kommunen organiserer arbeidet sitt slik at kommunen overholder forvaltningslovens krav til saksbehandling og saksbehandlingstid.
+Saken gjelder Kristiansand kommunes behandling og avslutning av et varsel om et påstått ulovlig byggetiltak på innmelderens naboeiendom.  
+Sivilombudet har kommet til at kommunen ikke har undergitt ulovlighetsvarselet en forsvarlig behandling. Formålet med tilsynsplikten og plikten til å forfølge ulovligheter tilsier at kommunen ikke kunne avslutte saken, ut fra en forståelse om at de ikke har en generell plikt til å iverksette tilsyn i alle saker, jf. plan- og bygningsloven § 25-1. Tilsynsplikten etter plan- og bygningsloven kapittel 25 innskrenker ikke den alminnelige plikten til å påse at plan- og bygningslovgivningen overholdes i kommunen etter § 32-1, jf. § 1-4. Kommunen må derfor avklare om det er sannsynlig at det foreligger en overtredelse som kommunen plikter å forfølge. Videre har kommunen feilaktig lagt til grunn at en ulovlighetsoppfølging alltid må innledes med at det åpnes et tilsyn etter plan- og bygningsloven § 25-1.  
+Ombudet ber kommunen om å behandle varselet på nytt i lys av føringene gitt i uttalelsen, og å merke seg det ombudet har uttalt ved behandlingen av fremtidige ulovlighetssaker.  
+Videre forutsetter ombudet at kommunen organiserer arbeidet sitt slik at kommunen overholder forvaltningslovens krav til saksbehandling og saksbehandlingstid.
 
 Se oppdatering fra forvaltningen
 

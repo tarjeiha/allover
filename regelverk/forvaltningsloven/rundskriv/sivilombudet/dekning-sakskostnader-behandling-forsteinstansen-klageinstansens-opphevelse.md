@@ -14,9 +14,8 @@ Sivilombudets uttalelse 1.10.2017 (sak 2016/2523).
 
 ## Oppsummering
 
-Saken gjelder en tiltakshavers krav om dekning av sakskostnader for arbeid som ble utført i forbindelse med Oslo kommunes fornyede behandling av en søknad om nedsettelse av et byggesaksgebyr. Kommunen avslo i første omgang søknaden, men Fylkesmannen i Oslo og Akershus opphevet kommunens vedtak. Ved kommunens fornyede behandling fikk tiltakshaveren delvis innvilget søknaden om gebyrnedsettelse. Fylkesmannen innvilget tiltakshaverens krav om sakskostnader for arbeid i forbindelse med behandlingen i klageinstansen, der kommunens vedtak ble opphevet og sendt tilbake for ny vurdering. Fylkesmannen avslo imidlertid tiltakshaverens krav om dekning av kostnader for arbeid i forbindelse med kommunens fornyede behandling.   
-   
- Ombudsmannen er kommet til at sakskostnader for arbeid utført i forbindelse med førsteinstansens fornyede behandling etter klageinstansens opphevelse, er omfattet av bestemmelsen, dersom parten oppnår noen bedring i sin rettsstilling sammenlignet med det første avslaget. Det er uten betydning at parten har fått dekket sakskostnader for arbeid i forbindelse med opphevelsen i klageinstansen.
+Saken gjelder en tiltakshavers krav om dekning av sakskostnader for arbeid som ble utført i forbindelse med Oslo kommunes fornyede behandling av en søknad om nedsettelse av et byggesaksgebyr. Kommunen avslo i første omgang søknaden, men Fylkesmannen i Oslo og Akershus opphevet kommunens vedtak. Ved kommunens fornyede behandling fikk tiltakshaveren delvis innvilget søknaden om gebyrnedsettelse. Fylkesmannen innvilget tiltakshaverens krav om sakskostnader for arbeid i forbindelse med behandlingen i klageinstansen, der kommunens vedtak ble opphevet og sendt tilbake for ny vurdering. Fylkesmannen avslo imidlertid tiltakshaverens krav om dekning av kostnader for arbeid i forbindelse med kommunens fornyede behandling.  
+Ombudsmannen er kommet til at sakskostnader for arbeid utført i forbindelse med førsteinstansens fornyede behandling etter klageinstansens opphevelse, er omfattet av bestemmelsen, dersom parten oppnår noen bedring i sin rettsstilling sammenlignet med det første avslaget. Det er uten betydning at parten har fått dekket sakskostnader for arbeid i forbindelse med opphevelsen i klageinstansen.
 
 Se oppdatering fra forvaltningen
 

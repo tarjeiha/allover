@@ -16,8 +16,7 @@ Sivilombudets uttalelse 30.10.2020 (sak 2020/1786).
 ## Oppsummering
 
 Saken gjelder innsyn hos Finansdepartementet i syv internrevisjonsrapporter som departementet hadde innhentet fra Skattedirektoratet. Innsynssaken har vært undersøkt av ombudsmannen i to omganger. I forbindelse med ombudsmannens siste undersøkelse har departementet foretatt enda en vurdering av innsynssaken, og har for samtlige av de syv rapportene gitt innsyn i flere opplysninger enn tidligere.  
-   
- Ombudsmannen har etter dette ikke funnet grunn til å gjøre mer i saken. Departementets redegjørelse for den nye vurderingen tilsier imidlertid at departementet i sin forrige avgjørelse unntok vesentlig flere opplysninger enn det var hjemmel for. Det er også kritikkverdig at det har tatt om lag ett år, og to klagerunder hos ombudsmannen, før klageren har fått det innsynet i rapportene som han i utgangspunktet hadde krav på.
+Ombudsmannen har etter dette ikke funnet grunn til å gjøre mer i saken. Departementets redegjørelse for den nye vurderingen tilsier imidlertid at departementet i sin forrige avgjørelse unntok vesentlig flere opplysninger enn det var hjemmel for. Det er også kritikkverdig at det har tatt om lag ett år, og to klagerunder hos ombudsmannen, før klageren har fått det innsynet i rapportene som han i utgangspunktet hadde krav på.
 
 ## Sakens bakgrunn
 

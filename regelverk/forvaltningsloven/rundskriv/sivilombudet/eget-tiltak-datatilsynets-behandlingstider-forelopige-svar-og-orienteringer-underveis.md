@@ -14,11 +14,9 @@ Sivilombudets uttalelse 12.9.2025 (sak 2025/2069).
 
 ## Oppsummering
 
-På bakgrunn av flere enkeltsaker og som en oppfølging av Sivilombudets uttalelse 8. desember 2022 (SOM-2022-2358), har Sivilombudet undersøkt Datatilsynets behandlingstider.   
-   
- Saken gjelder både behandlingstidene der en part klager til Datatilsynet (klagesaker) og der en part klager over Datatilsynets vedtak (vedtaksklagesaker). Ombudet stilte også spørsmål til Datatilsynets rutiner om å sende foreløpige svar og orientering til partene om eventuelle forsinkelser underveis.  
-   
- Sivilombudet kom til at det er begrunnet tvil om Datatilsynet har behandlet de eldste sakene i tråd med forvaltningsloven krav til behandlingstid. Datatilsynet oppfyller, slik ombudet forstår det, sin plikt til å sende foreløpige svar etter forvaltningsloven § 11 a andre ledd i klagesaker, men ikke i vedtaksklagesaker. Datatilsynet sender heller ikke forsinkelsesmeldinger der behandlingen av saken trekker ut i tid, slik god forvaltningsskikk tilsier. Datatilsynet ble bedt om å oppdatere sine rutiner i tråd med ombudets uttalelse, slik at det sikres at det sendes foreløpige svar og eventuelle forsinkelsesmeldinger, der det er nødvendig i henhold til forvaltningsloven og god forvaltningsskikk.
+På bakgrunn av flere enkeltsaker og som en oppfølging av Sivilombudets uttalelse 8. desember 2022 (SOM-2022-2358), har Sivilombudet undersøkt Datatilsynets behandlingstider.  
+Saken gjelder både behandlingstidene der en part klager til Datatilsynet (klagesaker) og der en part klager over Datatilsynets vedtak (vedtaksklagesaker). Ombudet stilte også spørsmål til Datatilsynets rutiner om å sende foreløpige svar og orientering til partene om eventuelle forsinkelser underveis.  
+Sivilombudet kom til at det er begrunnet tvil om Datatilsynet har behandlet de eldste sakene i tråd med forvaltningsloven krav til behandlingstid. Datatilsynet oppfyller, slik ombudet forstår det, sin plikt til å sende foreløpige svar etter forvaltningsloven § 11 a andre ledd i klagesaker, men ikke i vedtaksklagesaker. Datatilsynet sender heller ikke forsinkelsesmeldinger der behandlingen av saken trekker ut i tid, slik god forvaltningsskikk tilsier. Datatilsynet ble bedt om å oppdatere sine rutiner i tråd med ombudets uttalelse, slik at det sikres at det sendes foreløpige svar og eventuelle forsinkelsesmeldinger, der det er nødvendig i henhold til forvaltningsloven og god forvaltningsskikk.
 
 Se oppdatering fra forvaltningen
 

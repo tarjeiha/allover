@@ -15,12 +15,9 @@ Sivilombudets uttalelse 25.5.2018 (sak 2016/3741).
 ## Oppsummering
 
 En X borger ble stoppet ved innreisekontrollen på Oslo lufthavn. Hun hadde oppholdskort i Frankrike, men politiet mente hun hadde oversittet den lovlig oppholdstiden dette ga i Norge. Det ble opprettet utvisningssak og hun ble pågrepet etter utlendingsloven på grunn av unndragelsesfare. Andre dag etter pågripelsen ble hun uttransportert til Frankrike.  
-   
- Pågripelsesbeslutningen i denne saken oppfylte ikke kravene til begrunnelse i straffeprosessloven § 175 jf. utl § 106 tredje ledd, og EMK artikkel 5 nr. 2. Beslutninger om pågripelser begrunnet med unndragelsesfare må som et minimum gi en kort beskrivelse av de viktigste faktiske forhold som legges til grunn og oppgi hvilke «konkrete holdepunkter» for unndragelse som foreligger, jf. § 106 annet ledd bokstav b).  
-   
- Beslutningen er nedtegnet på et standardskjema som ikke har noen rubrikk for begrunnelse ut over angivelse av hjemmel. Manglene ved begrunnelsen i denne saken må derfor antas å foreligge i en rekke andre saker, noe politiet har bekreftet.  
-   
- Det er tvil om politiet foretok en forsvarlig vurdering av om alle vilkårene for pågripelse var oppfylt, og det er ikke er nedtegnet noe sted eller fremgår av politiets redegjørelse overfor ombudsmannen at de har vurdert om andre tiltak kunne ha vært tilstrekkelig for å oppnå formålet med pågripelsen.
+Pågripelsesbeslutningen i denne saken oppfylte ikke kravene til begrunnelse i straffeprosessloven § 175 jf. utl § 106 tredje ledd, og EMK artikkel 5 nr. 2. Beslutninger om pågripelser begrunnet med unndragelsesfare må som et minimum gi en kort beskrivelse av de viktigste faktiske forhold som legges til grunn og oppgi hvilke «konkrete holdepunkter» for unndragelse som foreligger, jf. § 106 annet ledd bokstav b).  
+Beslutningen er nedtegnet på et standardskjema som ikke har noen rubrikk for begrunnelse ut over angivelse av hjemmel. Manglene ved begrunnelsen i denne saken må derfor antas å foreligge i en rekke andre saker, noe politiet har bekreftet.  
+Det er tvil om politiet foretok en forsvarlig vurdering av om alle vilkårene for pågripelse var oppfylt, og det er ikke er nedtegnet noe sted eller fremgår av politiets redegjørelse overfor ombudsmannen at de har vurdert om andre tiltak kunne ha vært tilstrekkelig for å oppnå formålet med pågripelsen.
 
 Se oppdatering fra forvaltningen
 

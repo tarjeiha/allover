@@ -16,8 +16,7 @@ Sivilombudets uttalelse 3.3.2020 (sak 2019/3993).
 ## Oppsummering
 
 Cappelen Damm ved Tanum vant anbudskonkurransen om kommersiell drift av bokhandel på Oslo lufthavn i 2015. Saken gjelder Tanums krav om innsyn i de øvrige tilbydernes tilbudte minimumsleie og omsetningsbaserte leie. Samferdselsdepartementet avslo innsynskravet under henvisning til at prisene var forretningshemmeligheter som kunne unntas etter offentleglova § 13 jf. forvaltningsloven § 13 første ledd nr. 2.  
-   
- Ombudsmannen har kommet til at innsyn i disse leieprisene vil gi innsikt i tilbydernes prisstrategi på en slik måte at det vil kunne utnyttes i en fremtidig anbudskonkurranse. Innsyn vil derfor kunne skade konkurranseforholdene, og er underlagt taushetsplikt. Det er etter dette ikke grunn til å kritisere Samferdselsdepartementets avslag på kravet om innsyn i leieprisene.
+Ombudsmannen har kommet til at innsyn i disse leieprisene vil gi innsikt i tilbydernes prisstrategi på en slik måte at det vil kunne utnyttes i en fremtidig anbudskonkurranse. Innsyn vil derfor kunne skade konkurranseforholdene, og er underlagt taushetsplikt. Det er etter dette ikke grunn til å kritisere Samferdselsdepartementets avslag på kravet om innsyn i leieprisene.
 
 ## Sakens bakgrunn
 

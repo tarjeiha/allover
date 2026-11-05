@@ -15,14 +15,10 @@ Sivilombudets uttalelse 26.6.2025 (sak 2024/4355).
 ## Oppsummering
 
 Sivilombudet har behandlet en sak om virkningstidspunktet for uføretrygd. Klagen gjaldt trygderettens femmedlemskjennelse TRR-2022-1424. Problemstillingen i saken var hva som skal til for at vilkårene i folketrygdloven § 12-5 første ledd anses oppfylt.  
-   
- Trygderettens flertall på tre medlemmer og Arbeids- og velferdsdirektoratet mente at vilkårene i folketrygdloven § 12-5 først er oppfylt når søkerens inntektsevne er endelig avklart. Etter denne forståelsen kan det ikke gjenstå noe hensiktsmessig behandling eller arbeidsrettede tiltak som kan bedre søkerens inntektsevne, uavhengig av om det er avklart at vedkommende har varig nedsatt inntektsevne i stønadsbetingende grad.  
-   
- Trygderettens mindretall på to medlemmer og klageren mente at vilkårene i folketrygdloven § 12-5 første ledd er oppfylt når det er tilstrekkelig avklart at inntektsevnen er varig nedsatt med minst halvparten/40 prosent, jf. folketrygdloven §§ 12-6 og 12-7.  
-   
- Ombudet mente det rettslige spørsmålet var svært tvilsomt og avsluttet saken uten kritikk.  
-   
- Det avsluttende brevet fra Sivilombudet er publisert under.
+Trygderettens flertall på tre medlemmer og Arbeids- og velferdsdirektoratet mente at vilkårene i folketrygdloven § 12-5 først er oppfylt når søkerens inntektsevne er endelig avklart. Etter denne forståelsen kan det ikke gjenstå noe hensiktsmessig behandling eller arbeidsrettede tiltak som kan bedre søkerens inntektsevne, uavhengig av om det er avklart at vedkommende har varig nedsatt inntektsevne i stønadsbetingende grad.  
+Trygderettens mindretall på to medlemmer og klageren mente at vilkårene i folketrygdloven § 12-5 første ledd er oppfylt når det er tilstrekkelig avklart at inntektsevnen er varig nedsatt med minst halvparten/40 prosent, jf. folketrygdloven §§ 12-6 og 12-7.  
+Ombudet mente det rettslige spørsmålet var svært tvilsomt og avsluttet saken uten kritikk.  
+Det avsluttende brevet fra Sivilombudet er publisert under.
 
 ## Avslutning av sak om virkningstidspunkt for uføretrygd
 

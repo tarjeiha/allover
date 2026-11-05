@@ -15,8 +15,7 @@ Sivilombudets uttalelse 9.10.2019 (sak 2019/589).
 ## Oppsummering
 
 Ombudsmannen besluttet av eget tiltak å undersøke Fylkesmannen i Rogalands praksis ved dispensasjon fra eldre reguleringsplaner. Fylkesmannen ble bedt om å oversende alle vedtak om dispensasjon fra reguleringsplan vedtatt før 2000 for perioden 1. juli 2018 til 31. mars 2019.  
-   
- Det overordnede inntrykket etter en gjennomgang av vedtakene er at vurderingene etter plan- og bygningsloven § 19-2 annet ledd i hovedsak oppfyller lovens krav. Ombudsmannen ber likevel Fylkesmannen være oppmerksom på risikoen for en dispensasjonspraksis som på sikt vil føre til at planer eller enkeltbestemmelser uthules. Videre minner ombudsmannen om at dersom en plan eller planbestemmelse ikke lenger er i samsvar med hvordan kommunen ønsker å utvikle området, bør kommunen endre planen fremfor å dispensere.
+Det overordnede inntrykket etter en gjennomgang av vedtakene er at vurderingene etter plan- og bygningsloven § 19-2 annet ledd i hovedsak oppfyller lovens krav. Ombudsmannen ber likevel Fylkesmannen være oppmerksom på risikoen for en dispensasjonspraksis som på sikt vil føre til at planer eller enkeltbestemmelser uthules. Videre minner ombudsmannen om at dersom en plan eller planbestemmelse ikke lenger er i samsvar med hvordan kommunen ønsker å utvikle området, bør kommunen endre planen fremfor å dispensere.
 
 ## Sakens bakgrunn
 

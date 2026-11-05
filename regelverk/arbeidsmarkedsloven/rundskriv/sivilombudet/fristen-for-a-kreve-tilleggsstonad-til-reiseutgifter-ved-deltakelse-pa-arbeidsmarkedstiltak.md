@@ -16,8 +16,7 @@ Sivilombudets uttalelse 10.12.2020 (sak 2019/3750).
 ## Oppsummering
 
 Klageren deltok på et arbeidsmarkedstiltak i fire uker, og hadde utgifter til de daglige reisene til og fra tiltaksstedet. Da tiltaket var avsluttet søkte han om tilleggsstønad til reiseutgiftene etter dagjeldende arbeidsmarkedsloven § 13 annet ledd og tilleggsstønadsforskriften §§ 1 og 3. Nav Klageinstans avslo søknaden fordi klageren søkte først etter at reiseutgiftene påløp, og viste hovedsakelig til forskriften § 15.  
-   
- Ombudsmannen er kommet til at det ikke gjaldt en frist for klageren til å søke om tilleggsstønad til reiseutgiftene. Nav Klageinstans’ begrunnelse for å avslå klagerens søknad var derfor ikke riktig. Ombudsmannen ber Arbeids- og velferdsdirektoratet sørge for at saken blir behandlet på nytt i tråd med påpekningene i denne uttalelsen. Ombudsmannen mener også at saken viser at det er behov for en klargjøring av det någjeldende regelverket.
+Ombudsmannen er kommet til at det ikke gjaldt en frist for klageren til å søke om tilleggsstønad til reiseutgiftene. Nav Klageinstans’ begrunnelse for å avslå klagerens søknad var derfor ikke riktig. Ombudsmannen ber Arbeids- og velferdsdirektoratet sørge for at saken blir behandlet på nytt i tråd med påpekningene i denne uttalelsen. Ombudsmannen mener også at saken viser at det er behov for en klargjøring av det någjeldende regelverket.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 8.12.2019 (sak 2019/3572).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i internrevisjonsdokumenter oversendt fra Garantiinstituttet for eksportkreditt (GIEK) til Nærings- og fiskeridepartementet. Innsynskravet ble avslått av departementet under henvisning til offentleglova § 15 første ledd første punktum.  
-   
- Ombudsmannen er kommet til at de ni dokumentene saken gjelder, ikke kan anses innhentet til bruk i Nærings- og fiskeridepartementets interne saksforberedelse. Det foreligger dermed ikke unntaksadgang etter offentleglova § 15 første ledd. Departementets vurderinger av nødvendighetsvilkåret er dessuten ikke i tråd med bestemmelsens formål. Videre er departementets meroffentlighetsvurdering mangelfull. Departementet bes derfor om å behandle spørsmålet om dokumentinnsyn for de ni aktuelle dokumentene på nytt.
+Ombudsmannen er kommet til at de ni dokumentene saken gjelder, ikke kan anses innhentet til bruk i Nærings- og fiskeridepartementets interne saksforberedelse. Det foreligger dermed ikke unntaksadgang etter offentleglova § 15 første ledd. Departementets vurderinger av nødvendighetsvilkåret er dessuten ikke i tråd med bestemmelsens formål. Videre er departementets meroffentlighetsvurdering mangelfull. Departementet bes derfor om å behandle spørsmålet om dokumentinnsyn for de ni aktuelle dokumentene på nytt.
 
 Se oppdatering fra forvaltningen
 

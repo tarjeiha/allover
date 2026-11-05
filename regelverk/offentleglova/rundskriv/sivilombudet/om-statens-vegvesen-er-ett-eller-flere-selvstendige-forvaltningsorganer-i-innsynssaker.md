@@ -15,13 +15,10 @@ Sivilombudets uttalelse 11.9.2023 (sak 2022/5129).
 
 ## Oppsummering
 
-Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt betydningen av Statens vegvesens organisering for behandlingen av innsynssaker. Ombudet har også rettet undersøkelsen mot Fiskeridirektoratet, Arbeidstilsynet, Tolletaten, Mattilsynet og (mer begrenset) mot Skatteetaten. Saken har reist spørsmål om innsynssaker er sikret en reell to-instansbehandling, hvilke dokumenter som er organinterne og hvem som skal behandle innsynskrav. Ombudet har også undersøkt hvordan korrespondanse sendt innad i etaten er synliggjort i postjournalen og i journalen publisert på eInnsyn.   
-   
- Etter en konkret vurdering av Statens vegvesens redegjørelse og informasjon som ellers finnes om etaten, har ombudet ikke innvendinger til at Vegdirektoratet og de seks divisjonene er selvstendige forvaltningsorganer etter offentleglova, og at Vegdirektoratet er nærmeste overordnede organ til divisjonene etter offentleg- lova § 32. Statens vegvesen bør likevel vurdere tiltak for å synliggjøre internt og eksternt avstanden som er nødvendig for å opprette tillit til en reell to-instansbehandling i Statens vegvesen.   
-   
- I Statens vegvesens rutiner benyttes betegnelsen «organinternt» om all korrespondanse innad i etaten. Ombudet ber vegvesenet merke seg at offentleg- lova § 14 ikke hjemler unntak for korrespondanse mellom enheter som anses som selvstendige forvaltningsorganer. Begrepet «organinternt» kan ikke brukes for all form for korrespondanse innad i etaten. Statens vegvesen bes endre rutinene.   
-   
- Ombudet har knyttet enkelte merknader til vegvesenets arkiv, journal og informasjon på eInnsyn.
+Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt betydningen av Statens vegvesens organisering for behandlingen av innsynssaker. Ombudet har også rettet undersøkelsen mot Fiskeridirektoratet, Arbeidstilsynet, Tolletaten, Mattilsynet og (mer begrenset) mot Skatteetaten. Saken har reist spørsmål om innsynssaker er sikret en reell to-instansbehandling, hvilke dokumenter som er organinterne og hvem som skal behandle innsynskrav. Ombudet har også undersøkt hvordan korrespondanse sendt innad i etaten er synliggjort i postjournalen og i journalen publisert på eInnsyn.  
+Etter en konkret vurdering av Statens vegvesens redegjørelse og informasjon som ellers finnes om etaten, har ombudet ikke innvendinger til at Vegdirektoratet og de seks divisjonene er selvstendige forvaltningsorganer etter offentleglova, og at Vegdirektoratet er nærmeste overordnede organ til divisjonene etter offentleg- lova § 32. Statens vegvesen bør likevel vurdere tiltak for å synliggjøre internt og eksternt avstanden som er nødvendig for å opprette tillit til en reell to-instansbehandling i Statens vegvesen.  
+I Statens vegvesens rutiner benyttes betegnelsen «organinternt» om all korrespondanse innad i etaten. Ombudet ber vegvesenet merke seg at offentleg- lova § 14 ikke hjemler unntak for korrespondanse mellom enheter som anses som selvstendige forvaltningsorganer. Begrepet «organinternt» kan ikke brukes for all form for korrespondanse innad i etaten. Statens vegvesen bes endre rutinene.  
+Ombudet har knyttet enkelte merknader til vegvesenets arkiv, journal og informasjon på eInnsyn.
 
 Se oppdatering fra forvaltningen
 

@@ -14,11 +14,9 @@ Sivilombudets uttalelse 9.6.2020 (sak 2020/417).
 
 ## Oppsummering
 
-Saken gjelder krav om tilbakebetaling av for mye utbetalt lønn. Over et halvt år fikk klageren utbetalt lønn med utgangspunkt i en årslønn som var om lag 100 000 kroner høyere enn avtalt lønn. Da Y oppdaget feilen ble det besluttet å kreve det overskytende beløpet tilbakebetalt med henvisning til en klausul i arbeidsavtalen.   
-   
- Ombudsmannen har funnet grunn til å rette innvendinger mot at Y ikke foretok en konkret rimelighetsvurdering av om det forelå et krav på tilbakebetaling av lønn. Videre har ombudsmannen funnet grunn til å rette innvendinger mot at Y uten holdbart rettslig grunnlag besluttet å starte inndriving av den feilutbetalte lønnen.   
-   
- Ombudsmannen ber om at Y foretar en ny vurdering av om det i lys av den ulovfestede læren om condictio indebiti, foreligger et krav på tilbakebetaling av lønn. Dersom dette besvares bekreftende, ber ombudsmannen om at kravet inndrives på lovlig måte.
+Saken gjelder krav om tilbakebetaling av for mye utbetalt lønn. Over et halvt år fikk klageren utbetalt lønn med utgangspunkt i en årslønn som var om lag 100 000 kroner høyere enn avtalt lønn. Da Y oppdaget feilen ble det besluttet å kreve det overskytende beløpet tilbakebetalt med henvisning til en klausul i arbeidsavtalen.  
+Ombudsmannen har funnet grunn til å rette innvendinger mot at Y ikke foretok en konkret rimelighetsvurdering av om det forelå et krav på tilbakebetaling av lønn. Videre har ombudsmannen funnet grunn til å rette innvendinger mot at Y uten holdbart rettslig grunnlag besluttet å starte inndriving av den feilutbetalte lønnen.  
+Ombudsmannen ber om at Y foretar en ny vurdering av om det i lys av den ulovfestede læren om condictio indebiti, foreligger et krav på tilbakebetaling av lønn. Dersom dette besvares bekreftende, ber ombudsmannen om at kravet inndrives på lovlig måte.
 
 Se oppdatering fra forvaltningen
 

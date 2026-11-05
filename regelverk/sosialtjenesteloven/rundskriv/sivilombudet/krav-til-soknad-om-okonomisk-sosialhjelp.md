@@ -15,13 +15,10 @@ Sivilombudets uttalelse 9.12.2020 (sak 2020/1574).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om hvilke krav som kan stilles til en søknad om økonomisk sosialhjelp. Klager sendte et brev til Nav der han blant annet skrev at han trengte penger til livsopphold. Brevet ble ikke behandlet av Nav som en søknad om økonomisk sosialhjelp. Fylkesmannen var enig i Navs vurdering av at brevet ikke var å anse som en søknad.   
-   
- Fylkesmannen begrunnet sin vurdering overfor ombudsmannen med at klagers brev var gitt tittelen «Kjære Nav…» og at det ikke konkretiserte hva han trengte sosialhjelp til og fra hvilket tidspunkt. I tillegg hadde klager tidligere fått veiledning om hvordan en skulle gå frem for å søke om økonomisk sosialhjelp.  
-   
- Ombudsmannen er kommet til at klagers brev burde blitt fulgt opp som en søknad. Det kan ikke stilles for strenge krav til innholdet i en henvendelse før det anses som en søknad. Klager hadde gitt uttrykk for et hjelpebehov. Navs skjerpede veiledningsplikt i sosialtjenestesaker innebærer at det i dette tilfellet ikke var tilstrekkelig å sende et generelt veiledningsbrev.  
-   
- Fylkesmannen bes behandle saken om søknadsdato på nytt. Fylkesmannen bes merke seg ombudsmannens syn og ta dette i betraktning i fremtidige saker om økonomisk sosialhjelp.
+Saken gjelder spørsmålet om hvilke krav som kan stilles til en søknad om økonomisk sosialhjelp. Klager sendte et brev til Nav der han blant annet skrev at han trengte penger til livsopphold. Brevet ble ikke behandlet av Nav som en søknad om økonomisk sosialhjelp. Fylkesmannen var enig i Navs vurdering av at brevet ikke var å anse som en søknad.  
+Fylkesmannen begrunnet sin vurdering overfor ombudsmannen med at klagers brev var gitt tittelen «Kjære Nav…» og at det ikke konkretiserte hva han trengte sosialhjelp til og fra hvilket tidspunkt. I tillegg hadde klager tidligere fått veiledning om hvordan en skulle gå frem for å søke om økonomisk sosialhjelp.  
+Ombudsmannen er kommet til at klagers brev burde blitt fulgt opp som en søknad. Det kan ikke stilles for strenge krav til innholdet i en henvendelse før det anses som en søknad. Klager hadde gitt uttrykk for et hjelpebehov. Navs skjerpede veiledningsplikt i sosialtjenestesaker innebærer at det i dette tilfellet ikke var tilstrekkelig å sende et generelt veiledningsbrev.  
+Fylkesmannen bes behandle saken om søknadsdato på nytt. Fylkesmannen bes merke seg ombudsmannens syn og ta dette i betraktning i fremtidige saker om økonomisk sosialhjelp.
 
 Se oppdatering fra forvaltningen
 

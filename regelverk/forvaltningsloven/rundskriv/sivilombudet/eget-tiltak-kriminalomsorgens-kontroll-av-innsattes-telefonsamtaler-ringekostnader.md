@@ -15,18 +15,15 @@ Sivilombudets uttalelse 21.12.2021 (sak 2021/244).
 ## Oppsummering
 
 Sivilombudet har på generelt grunnlag undersøkt om kriminalomsorgens kontroll av innsattes telefonsamtaler oppfyller vilkårene for lovlige inngrep i rettighetene etter EMK artikkel 8 og Grunnloven § 102. Ombudet har også undersøkt de innsattes ringekostnader, og begrunnelsen for at ringeprisen for innsatte inkluderer merkostnadene som følge av telefoniløsningenes bruk av overvåkningsteknologi.  
-   
- Sivilombudet er kommet til at straffegjennomføringsloven § 32 andre ledd og kriminalomsorgens praktisering av bestemmelsen ikke oppfyller vilkårene for lovlige inngrep i de innsattes kommunikasjonsfrihet og fortrolighetsvern etter EMK artikkel 8 og Grunnloven § 102. Ombudet mener at hjemmelsgrunnlaget for telefonkontroll i fengsel på samtlige sikkerhetsnivåer ikke i tilstrekkelig grad setter rammer for kriminalomsorgens myndighet gjennom vilkår fastsatt i loven, eller gir anvisning på prosessuelle rettssikkerhetsgarantier eller tidsmessige avgrensninger for gjennomføring av kontrollen. Dagens lovgivning og praksis på samtlige sikkerhetsnivåer ivaretar heller ikke kravet til konkrete vurderinger av nødvendigheten og forholdsmessigheten av inngrepet.   
-   
- Sivilombudet har merket seg at myndighetene vil foreta en gjennomgang av regelverket, og at departementet vil vurdere midlertidige føringer for kriminalomsorgens praktisering av reglene for kommunikasjonskontroll. Ombudet forutsetter at de midlertidige føringene utformes i tråd med ombudets vurderinger i denne uttalelsen. En kopi av de midlertidige føringene bes oversendt ombudet straks disse foreligger.  
-   
- Sivilombudet har også merket seg at myndighetene vil foreta en gjennomgang av ringekostnadene for innsatte i forbindelse med innføringen av en felles telefoniløsning i 2021. Ombudet lar derfor saken bero med dette nå, og ber om å bli orientert om resultatet av gjennomgangen innen 18. februar 2022.
+Sivilombudet er kommet til at straffegjennomføringsloven § 32 andre ledd og kriminalomsorgens praktisering av bestemmelsen ikke oppfyller vilkårene for lovlige inngrep i de innsattes kommunikasjonsfrihet og fortrolighetsvern etter EMK artikkel 8 og Grunnloven § 102. Ombudet mener at hjemmelsgrunnlaget for telefonkontroll i fengsel på samtlige sikkerhetsnivåer ikke i tilstrekkelig grad setter rammer for kriminalomsorgens myndighet gjennom vilkår fastsatt i loven, eller gir anvisning på prosessuelle rettssikkerhetsgarantier eller tidsmessige avgrensninger for gjennomføring av kontrollen. Dagens lovgivning og praksis på samtlige sikkerhetsnivåer ivaretar heller ikke kravet til konkrete vurderinger av nødvendigheten og forholdsmessigheten av inngrepet.  
+Sivilombudet har merket seg at myndighetene vil foreta en gjennomgang av regelverket, og at departementet vil vurdere midlertidige føringer for kriminalomsorgens praktisering av reglene for kommunikasjonskontroll. Ombudet forutsetter at de midlertidige føringene utformes i tråd med ombudets vurderinger i denne uttalelsen. En kopi av de midlertidige føringene bes oversendt ombudet straks disse foreligger.  
+Sivilombudet har også merket seg at myndighetene vil foreta en gjennomgang av ringekostnadene for innsatte i forbindelse med innføringen av en felles telefoniløsning i 2021. Ombudet lar derfor saken bero med dette nå, og ber om å bli orientert om resultatet av gjennomgangen innen 18. februar 2022.
 
 Se oppdatering fra forvaltningen
 
 Sakens bakgrunn  
- Våre undersøkelser  
- Sivilombudets syn på saken
+Våre undersøkelser  
+Sivilombudets syn på saken
 
 1. Innledning
 2. Rettslige utgangspunkter
@@ -389,49 +386,49 @@ Sivilombudet har også merket seg at myndighetene vil foreta en gjennomgang av r
 ### Fotnoter
 
 [1] Se for eksempel Ringerike fengsel (2015) punkt 5.4 og 5.6.1, Bredtveit fengsel (2016) punkt 13, Drammen fengsel (2016) punkt 9.2, Stavanger fengsel (2016) punkt 11.2 og Åna fengsel (2017) punkt 10.3.4. Rapportene er tilgjengelige på Sivilombudets nettsider www.sivilombudet.no/.  
- [2] Se også Særskilt melding til Stortinget om isolasjon og mangel på menneskelig kontakt i norske fengsler, Dokument 4:3 (2018/19).  
- [3] Meld. St. nr. 39 (2020–2021) Kriminalomsorgsmeldingen – fremtidens kriminalomsorg og straffegjennomføring, fremlagt 18. juni 2021, se blant annet side 15.  
- [4] Infoflyt er en samarbeidsordning mellom politiet og kriminalomsorgen for utveksling av personopplysninger. Systemet ble formelt etablert i 2005 for å ivareta hensynet til offentlig sikkerhet og forebygge alvorlig kriminalitet. Systemet fikk imidlertid et lovgrunnlag først i 2015 gjennom vedtakelsen av straffegjennomføringsloven kapittel 1 B. Sivilombudet hadde forut for dette vært kritisk til at de personvernmessige sidene ikke hadde blitt avklart før systemet ble tatt i bruk, se uttalelse 3. desember 2010 (SOM-2007-2274).  
- [5] Dommen er rettskraftig. Anke til Høyesterett ble ikke tillatt fremmet, jf. HR-2017-1127-U. Klage 30. juni 2017 til EMD ble avvist fra behandling av domstolen, se sak nr. 48852/17.  
- [6] Forskrift 22. februar 2002 nr. 183.  
- [7] Se Grunnloven § 100 og EMK artikkel 10.  
- [8] Slik Sivilombudet oppfatter det blir det heller ikke fattet enkeltvedtak før gjennomføring av kontroll i fengsel med lavere sikkerhetsnivå og overgangsboliger, men KDIs samlede redegjørelse til ombudet på dette punktet er uklar.  
- [9] Dokument 16 (2011–2012) Rapport til Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i Grunnloven punkt 9.4 side 47.  
- [10] Se Sivilombudets uttalelse 2. juli 2020 (SOM-2020-292) om retten til kontradiksjon og håndtering av menneskerettslige anførsler i en sak om helse- og omsorgstjenester.  
- [11] Se videre Maria-dommen avsnitt 57 og Grunnloven § 88.  
- [12] Dokument 16 (2011–2012) punkt 30.6.6.2 side 178.  
- [13] Se også Mestad og Michalsen (red.): Grunnloven – Historisk kommentarutgave 1814–2014, § 102 av Marius Stub punkt 3.1.5 side 1148.  
- [14] Se for eksempel Tyrer mot Storbritannia 25. april 1978 (nr. 5856/72) avsnitt 31.  
- [15] EMK artikkel 46 nr. 1.  
- [16] Se for eksempel Strand Lobben m.fl. mot Norge 10. september 2019 (nr. 37283/13) avsnitt 203.  
- [17] Dette er uttrykk for det minste inngreps prinsipp.  
- [18] Se også Møse, Erik: Menneskerettigheter, Oslo 2002, side 435–436.  
- [19] Se Kruslin mot Frankrike 24. april 1990 (nr. 11801/85) avsnitt 27.  
- [20] Se Kruslin avsnitt 33. Se også Olsson mot Sverige 24. mars 1988 (nr. 10465/83) avsnitt 61.  
- [21] Se Kruslin avsnitt 35.  
- [22] Se EMDs Guide on the case-law of the European Convention on Human Rights – Prisoners’ rights (sist oppdatert 31. august 2021) side 26 flg.  
- [23] Se også Rui, Jon Petter: Kriminalomsorgens adgang til å kontrollere innsattes kommunikasjon, 2009, Rettshjelp fra kyst til vidde, Festskrift til Jusshjelpa i Nord-Norge 20 år, side 248–249.  
- [24] Se blant annet Silver m.fl. mot Storbritannia 25. mars 1983 (nr. 5947/72) avsnitt 97 bokstav c.  
- [25] I dommen er dette referert til som statens skjønnsmargin («margin of appreciation»).  
- [26] Se blant annet sitatet fra Petra, der EMD var kritisk til at kontrollen “seems to be automatic, independent of any decision by a judicial authority and unappealable”.  
- [27] NOU 1988: 37 Ny fengselslov side 188.  
- [28] Ot.prp. nr. 5 (2000–2001) punkt 7.5.2.3.  
- [29] Ot.prp. nr. 5 (2000–2001) punkt 3.5.  
- [30] Ot.prp. nr. 5 (2000–2001) punkt 7.5.3.5.  
- [31] St.meld. nr. 37 (2007–2008) Straff som virker – mindre kriminalitet – tryggere samfunn (kriminalomsorgsmelding) side 101.  
- [32] Meld. St. nr. 39 (2020–2021) Kriminalomsorgsmeldingen – fremtidens kriminalomsorg og straffegjennomføring, 18. juni 2021.  
- [33] Se Kruslin mot Frankrike 24. april 1990 (nr. 11801/85) avsnitt 33.  
- [34] Med mindre det er grunnlag for å gjøre unntak etter straffegjennomføringsloven § 7 bokstav d.  
- [35] Se www.kriminalomsorgen.no. Nøkkeltall per 30. juni 2021.  
- [36] Se også Rui, Jon Petter: Kriminalomsorgens adgang til å kontrollere innsattes kommunikasjon, 2009, Rettshjelp fra kyst til vidde, Festskrift til Jusshjelpa i Nord-Norge 20 år, side 249.  
- [37] Dom 1. mars 2017 (LB-2016-111749).  
- [38] Telefonnektelse etter straffegjennomføringsloven § 32 fjerde ledd var også inkludert i lagmannsrettens ankebehandling. Slik ombudet leser dommen, ble telefonnektelsen underlagt en konkret forholdsmessighetsvurdering, men da som en del av rettens vurdering av de samlede soningsforholdene under spørsmålet om krenkelse av torturforbudsbestemmelsen i EMK artikkel 3, se dommens punkt 2.5.5 og 2.8. Telefonnektelsen ble ikke på samme måte som brevnektelsen skilt ut i en egen drøftelse under spørsmålet om krenkelse av EMK artikkel 8 slik tingretten hadde gjort, se Oslo tingretts dom 20. april 2016 (TOSLO-2015-107496-3) punkt 4.4.
+[2] Se også Særskilt melding til Stortinget om isolasjon og mangel på menneskelig kontakt i norske fengsler, Dokument 4:3 (2018/19).  
+[3] Meld. St. nr. 39 (2020–2021) Kriminalomsorgsmeldingen – fremtidens kriminalomsorg og straffegjennomføring, fremlagt 18. juni 2021, se blant annet side 15.  
+[4] Infoflyt er en samarbeidsordning mellom politiet og kriminalomsorgen for utveksling av personopplysninger. Systemet ble formelt etablert i 2005 for å ivareta hensynet til offentlig sikkerhet og forebygge alvorlig kriminalitet. Systemet fikk imidlertid et lovgrunnlag først i 2015 gjennom vedtakelsen av straffegjennomføringsloven kapittel 1 B. Sivilombudet hadde forut for dette vært kritisk til at de personvernmessige sidene ikke hadde blitt avklart før systemet ble tatt i bruk, se uttalelse 3. desember 2010 (SOM-2007-2274).  
+[5] Dommen er rettskraftig. Anke til Høyesterett ble ikke tillatt fremmet, jf. HR-2017-1127-U. Klage 30. juni 2017 til EMD ble avvist fra behandling av domstolen, se sak nr. 48852/17.  
+[6] Forskrift 22. februar 2002 nr. 183.  
+[7] Se Grunnloven § 100 og EMK artikkel 10.  
+[8] Slik Sivilombudet oppfatter det blir det heller ikke fattet enkeltvedtak før gjennomføring av kontroll i fengsel med lavere sikkerhetsnivå og overgangsboliger, men KDIs samlede redegjørelse til ombudet på dette punktet er uklar.  
+[9] Dokument 16 (2011–2012) Rapport til Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i Grunnloven punkt 9.4 side 47.  
+[10] Se Sivilombudets uttalelse 2. juli 2020 (SOM-2020-292) om retten til kontradiksjon og håndtering av menneskerettslige anførsler i en sak om helse- og omsorgstjenester.  
+[11] Se videre Maria-dommen avsnitt 57 og Grunnloven § 88.  
+[12] Dokument 16 (2011–2012) punkt 30.6.6.2 side 178.  
+[13] Se også Mestad og Michalsen (red.): Grunnloven – Historisk kommentarutgave 1814–2014, § 102 av Marius Stub punkt 3.1.5 side 1148.  
+[14] Se for eksempel Tyrer mot Storbritannia 25. april 1978 (nr. 5856/72) avsnitt 31.  
+[15] EMK artikkel 46 nr. 1.  
+[16] Se for eksempel Strand Lobben m.fl. mot Norge 10. september 2019 (nr. 37283/13) avsnitt 203.  
+[17] Dette er uttrykk for det minste inngreps prinsipp.  
+[18] Se også Møse, Erik: Menneskerettigheter, Oslo 2002, side 435–436.  
+[19] Se Kruslin mot Frankrike 24. april 1990 (nr. 11801/85) avsnitt 27.  
+[20] Se Kruslin avsnitt 33. Se også Olsson mot Sverige 24. mars 1988 (nr. 10465/83) avsnitt 61.  
+[21] Se Kruslin avsnitt 35.  
+[22] Se EMDs Guide on the case-law of the European Convention on Human Rights – Prisoners’ rights (sist oppdatert 31. august 2021) side 26 flg.  
+[23] Se også Rui, Jon Petter: Kriminalomsorgens adgang til å kontrollere innsattes kommunikasjon, 2009, Rettshjelp fra kyst til vidde, Festskrift til Jusshjelpa i Nord-Norge 20 år, side 248–249.  
+[24] Se blant annet Silver m.fl. mot Storbritannia 25. mars 1983 (nr. 5947/72) avsnitt 97 bokstav c.  
+[25] I dommen er dette referert til som statens skjønnsmargin («margin of appreciation»).  
+[26] Se blant annet sitatet fra Petra, der EMD var kritisk til at kontrollen “seems to be automatic, independent of any decision by a judicial authority and unappealable”.  
+[27] NOU 1988: 37 Ny fengselslov side 188.  
+[28] Ot.prp. nr. 5 (2000–2001) punkt 7.5.2.3.  
+[29] Ot.prp. nr. 5 (2000–2001) punkt 3.5.  
+[30] Ot.prp. nr. 5 (2000–2001) punkt 7.5.3.5.  
+[31] St.meld. nr. 37 (2007–2008) Straff som virker – mindre kriminalitet – tryggere samfunn (kriminalomsorgsmelding) side 101.  
+[32] Meld. St. nr. 39 (2020–2021) Kriminalomsorgsmeldingen – fremtidens kriminalomsorg og straffegjennomføring, 18. juni 2021.  
+[33] Se Kruslin mot Frankrike 24. april 1990 (nr. 11801/85) avsnitt 33.  
+[34] Med mindre det er grunnlag for å gjøre unntak etter straffegjennomføringsloven § 7 bokstav d.  
+[35] Se www.kriminalomsorgen.no. Nøkkeltall per 30. juni 2021.  
+[36] Se også Rui, Jon Petter: Kriminalomsorgens adgang til å kontrollere innsattes kommunikasjon, 2009, Rettshjelp fra kyst til vidde, Festskrift til Jusshjelpa i Nord-Norge 20 år, side 249.  
+[37] Dom 1. mars 2017 (LB-2016-111749).  
+[38] Telefonnektelse etter straffegjennomføringsloven § 32 fjerde ledd var også inkludert i lagmannsrettens ankebehandling. Slik ombudet leser dommen, ble telefonnektelsen underlagt en konkret forholdsmessighetsvurdering, men da som en del av rettens vurdering av de samlede soningsforholdene under spørsmålet om krenkelse av torturforbudsbestemmelsen i EMK artikkel 3, se dommens punkt 2.5.5 og 2.8. Telefonnektelsen ble ikke på samme måte som brevnektelsen skilt ut i en egen drøftelse under spørsmålet om krenkelse av EMK artikkel 8 slik tingretten hadde gjort, se Oslo tingretts dom 20. april 2016 (TOSLO-2015-107496-3) punkt 4.4.
 
 [39] Se også straffegjennomføringsloven § 11 tredje ledd.  
- [40] Se Ot.prp. nr. 5 (2000–2001) punkt 7.1.2.5.  
- [41] Se også Rui, Jon Petter: Kriminalomsorgens adgang til å kontrollere innsattes kommunikasjon, 2009, Rettshjelp fra kyst til vidde, Festskrift til Jusshjelpa i Nord-Norge 20 år, side 238–252.  
- [42] Høringsnotat 14. mars 2000 om utkast til ny lov om gjennomføring av straff mv. side 111.  
- [43] Forskrift 12. desember 1961 nr. 8944 for fengselsvesenet (fengselsreglement), gitt med hjemmel i fengselsloven av 1958 § 56.
+[40] Se Ot.prp. nr. 5 (2000–2001) punkt 7.1.2.5.  
+[41] Se også Rui, Jon Petter: Kriminalomsorgens adgang til å kontrollere innsattes kommunikasjon, 2009, Rettshjelp fra kyst til vidde, Festskrift til Jusshjelpa i Nord-Norge 20 år, side 238–252.  
+[42] Høringsnotat 14. mars 2000 om utkast til ny lov om gjennomføring av straff mv. side 111.  
+[43] Forskrift 12. desember 1961 nr. 8944 for fengselsvesenet (fengselsreglement), gitt med hjemmel i fengselsloven av 1958 § 56.
 
 ## Forvaltningens oppfølging
 

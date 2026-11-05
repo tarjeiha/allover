@@ -14,9 +14,8 @@ Sivilombudets uttalelse 6.4.2022 (sak 2022/1408).
 
 ## Oppsummering
 
-Saken gjelder tildeling av forskningsmidler internt på en sykehusklinikk. Sivilombudet mottok en klage fra en ansatt som hadde fått avslag på søknad om midler. Klageren mente at de som hadde deltatt i tildelingsavgjørelsen, var inhabile.   
-   
- Selv om en arbeidsgivers fordeling til ansatte av interne budsjettmidler prinsipielt sett faller innenfor anvendelsesområdet til habilitetsreglene i forvaltningsloven § 6, er ombudet, etter en konkret vurdering, kommet til at det i denne saken ikke foreligger inhabilitet for de som deltok i tildelingsavgjørelsen.
+Saken gjelder tildeling av forskningsmidler internt på en sykehusklinikk. Sivilombudet mottok en klage fra en ansatt som hadde fått avslag på søknad om midler. Klageren mente at de som hadde deltatt i tildelingsavgjørelsen, var inhabile.  
+Selv om en arbeidsgivers fordeling til ansatte av interne budsjettmidler prinsipielt sett faller innenfor anvendelsesområdet til habilitetsreglene i forvaltningsloven § 6, er ombudet, etter en konkret vurdering, kommet til at det i denne saken ikke foreligger inhabilitet for de som deltok i tildelingsavgjørelsen.
 
 ## Sakens bakgrunn
 

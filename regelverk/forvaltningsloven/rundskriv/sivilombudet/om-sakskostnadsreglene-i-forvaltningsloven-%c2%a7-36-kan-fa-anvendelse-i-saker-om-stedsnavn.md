@@ -15,8 +15,7 @@ Sivilombudets uttalelse 7.12.2016 (sak 2016/802).
 ## Oppsummering
 
 X kommunes vedtak om endring av to stedsnavn i kommunen ble opphevet av Klagenemnda for stedsnavnsaker etter klage og omgjøringsbegjæring fra interesseorganisasjonene A og B. De fremsatte krav om dekning av sakskostnader etter forvaltningsloven § 36. Klagenemnda avslo kravet med den begrunnelse at hverken A eller B var parter i saken, og at nemndas vedtak heller ikke var endret til gunst for noen av dem. Kulturdepartementet opprettholdt avslaget, med til dels samme begrunnelse.  
-   
- Ombudsmannen kom til at både A og B måtte anses som parter i klagesaken etter lov om stadnamn, og følgelig også som parter etter forvaltningsloven § 36. I de aktuelle endringsvedtakene hadde de to interesseorganisasjonene fått gjennomslag for sine syn på de to navnespørsmålene. Sakskostnadsbestemmelsen i forvaltningsloven § 36 skiller ikke mellom økonomiske interesser og rene verdibaserte eller ideelle interesser. Vedtakene var følgelig til gunst for begge parter. Departementet ble derfor bedt om å vurdere sakskostnadskravet på nytt.
+Ombudsmannen kom til at både A og B måtte anses som parter i klagesaken etter lov om stadnamn, og følgelig også som parter etter forvaltningsloven § 36. I de aktuelle endringsvedtakene hadde de to interesseorganisasjonene fått gjennomslag for sine syn på de to navnespørsmålene. Sakskostnadsbestemmelsen i forvaltningsloven § 36 skiller ikke mellom økonomiske interesser og rene verdibaserte eller ideelle interesser. Vedtakene var følgelig til gunst for begge parter. Departementet ble derfor bedt om å vurdere sakskostnadskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

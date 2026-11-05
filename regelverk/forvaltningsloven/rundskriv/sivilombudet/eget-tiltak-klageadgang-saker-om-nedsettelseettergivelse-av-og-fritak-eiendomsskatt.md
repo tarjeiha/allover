@@ -15,10 +15,8 @@ Sivilombudets uttalelse 27.3.2017 (sak 2015/2514).
 ## Oppsummering
 
 Ombudsmannen har av eget tiltak undersøkt klageadgang og klageordningen i saker om nedsettelse/ettergivelse av- og fritak for eiendomsskatt. Undersøkelsen har både vært rettet mot kommunene for å avklare praksis og Finansdepartementet for å få departementets syn.  
-   
- Svarene fra kommunene viste at mange kommuner ikke praktiserer klageadgang i saker om nedsettelse/ettergivelse og i saker om fritak. Blant de kommunene som ga klageadgang, var det stor variasjon vedrørende hvilket organ som var klageinstans.  
-   
- Etter ordlyden i eiendomsskatteloven § 20 skal alle klager behandles av en kommunal nemnd som velges av kommunestyret. Undersøkelsene av saken herfra har vist at den klageordningen eigedomsskattelova § 20 generelt gir anvisning på også for fritakssaker etter § 7, harmonerer dårlig med de grunnleggende behov for rettssikkerhet ved reell to-instansbehandling som følger av hovedregelen i forvaltningsloven § 28. Det er derfor spørsmål om det her har oppstått en utilsiktet virkning av regelverket. Ombudsmannen ber Finansdepartementet om å vurdere å gå gjennom klageadgang og klageordning for disse sakene på nytt.
+Svarene fra kommunene viste at mange kommuner ikke praktiserer klageadgang i saker om nedsettelse/ettergivelse og i saker om fritak. Blant de kommunene som ga klageadgang, var det stor variasjon vedrørende hvilket organ som var klageinstans.  
+Etter ordlyden i eiendomsskatteloven § 20 skal alle klager behandles av en kommunal nemnd som velges av kommunestyret. Undersøkelsene av saken herfra har vist at den klageordningen eigedomsskattelova § 20 generelt gir anvisning på også for fritakssaker etter § 7, harmonerer dårlig med de grunnleggende behov for rettssikkerhet ved reell to-instansbehandling som følger av hovedregelen i forvaltningsloven § 28. Det er derfor spørsmål om det her har oppstått en utilsiktet virkning av regelverket. Ombudsmannen ber Finansdepartementet om å vurdere å gå gjennom klageadgang og klageordning for disse sakene på nytt.
 
 ## Uttalelse
 

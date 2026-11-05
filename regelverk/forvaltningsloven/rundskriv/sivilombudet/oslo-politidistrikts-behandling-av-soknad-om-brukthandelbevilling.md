@@ -14,13 +14,10 @@ Sivilombudets uttalelse 16.5.2022 (sak 2022/1212).
 
 ## Oppsummering
 
-Saken gjelder Oslo politidistrikts behandling av en søknad om brukthandelbevilling, jf. brukthandellova § 2. På søknadstidspunktet opplyste Oslo politidistrikt at saken ville ha åtte ukers saksbehandlingstid regnet fra tidspunktet all nødvendig dokumentasjon var mottatt. Søknaden ble ikke behandlet innen fristen, og er fortsatt - ett år og fire måneder etter at den ble sendt til politidistriktet - ikke realitetsbehandlet.   
-   
- Oslo politidistrikt har brutt saksbehandlingsfristene i brukthandelforskriften og tjenesteloven. Den samlede behandlingstiden er heller ikke i samsvar med forvaltningsloven.   
-   
- Forsinkelsesmelding ble ikke sendt da åtteukersfristen utløp. Dette var i strid med tjenesteloven. Politidistriktet har heller ikke på et senere tidspunkt sendt skriftlig forsinkelsesmelding, slik det følger av god forvaltningsskikk at forvaltningen plikter å gjøre.   
-   
- Oslo politidistrikt må nå behandle søknaden. Politidistriktet må også gjennomgå sine rutiner for å sikre at alle søknader om brukthandelbevilling som utgangspunkt behandles innen saksbehandlingsfristen på åtte uker.
+Saken gjelder Oslo politidistrikts behandling av en søknad om brukthandelbevilling, jf. brukthandellova § 2. På søknadstidspunktet opplyste Oslo politidistrikt at saken ville ha åtte ukers saksbehandlingstid regnet fra tidspunktet all nødvendig dokumentasjon var mottatt. Søknaden ble ikke behandlet innen fristen, og er fortsatt - ett år og fire måneder etter at den ble sendt til politidistriktet - ikke realitetsbehandlet.  
+Oslo politidistrikt har brutt saksbehandlingsfristene i brukthandelforskriften og tjenesteloven. Den samlede behandlingstiden er heller ikke i samsvar med forvaltningsloven.  
+Forsinkelsesmelding ble ikke sendt da åtteukersfristen utløp. Dette var i strid med tjenesteloven. Politidistriktet har heller ikke på et senere tidspunkt sendt skriftlig forsinkelsesmelding, slik det følger av god forvaltningsskikk at forvaltningen plikter å gjøre.  
+Oslo politidistrikt må nå behandle søknaden. Politidistriktet må også gjennomgå sine rutiner for å sikre at alle søknader om brukthandelbevilling som utgangspunkt behandles innen saksbehandlingsfristen på åtte uker.
 
 Se oppdatering fra forvaltningen
 
@@ -65,7 +62,7 @@ Oslo politidistrikt innga ikke merknader til advokatens brev.
 Den som vil drive handelsvirksomhet med oppkjøp og salg av brukte ting, må ha bevilling (løyve) fra politiet, jf. brukthandellova § 2. Både fysiske og juridiske personer kan søke om å få bevilling. Hvis søkeren er en juridisk person, skal bevillingen gis til foretaket ved en navngitt person som må godkjennes av politiet, jf. brukthandelforskriften § 3 fjerde ledd. Skal en annen enn bevillingshaveren stå for handelen, må han også ha bevilling fra politiet, jf. brukthandelforskriften § 3 tredje ledd.
 
 Saksbehandlingsregler for behandling av søknader om bevilling er gitt i tjenesteloven § 11 og brukthandelforskriften § 3a. Tjenesteloven gjennomfører Norges forpliktelser etter europaparlaments- og rådsdirektiv 2006/123/EF 12. desember 2006 om tjenester i det indre markedet (tjenestedirektivet), som er inntatt i EØS-avtalen. Tjenestedirektivet bestemmer at det skal fastsettes saksbehandlingsfrister for hver enkelt tillatelsesordning. For søknader om brukthandelbevilling er fristen i norsk rett fastsatt til åtte uker, jf. brukthandelforskriften  
- § 3a.
+§ 3a.
 
 Saksbehandlingsfristen regnes fra den dagen da nødvendig dokumentasjon har kommet inn til ansvarlig myndighet, jf. tjenesteloven § 11 første ledd. Etter å ha mottatt søknad med nødvendig dokumentasjon skal ansvarlig myndighet så raskt som mulig gi søkeren et foreløpig svar. Det foreløpige svaret skal opplyse om fristen som gjelder for saksbehandlingen og klageadgang, jf. tjenesteloven § 11 tredje ledd. Dersom det mangler nødvendig dokumentasjon fra søkeren, skal denne så snart som mulig oppfordres til å gi fullstendig dokumentasjon og opplyses om at saksbehandlingsfristen først løper fra det er gjort.
 
@@ -96,7 +93,7 @@ Sivilombudet finner også grunn til å påpeke at heller ikke berostillelsen av 
 Det er fortsatt uklart når bevillingssøknaden vil bli avgjort. I oversendelsesbrevet av saksdokumentene 20. januar 2022, opplyste Oslo politidistrikt at søknaden om brukthandelbevilling ville bli avgjort innen 1. april 2022. Sivilombudet forstår det imidlertid slik at heller ikke denne fristen ble overholdt. Advokat Østby har i brev til Sivilombudet 11. april 2022 opplyst at søknaden fortsatt er under behandling og at Oslo politidistrikt ikke har kunnet opplyse om noen ny frist.
 
 Sivilombudet konkluderer på denne bakgrunn med at Oslo politidistrikt har brutt saksbehandlingsfristen i brukthandelforskriften § 3a første ledd. Politidistriktet har heller ikke godtgjort at det var adgang til fristforlengelse etter tjenesteloven § 11 første ledd annet punktum. Videre medfører unnlatelsen av å behandle søknaden i så lang tid som nå har gått, at saken ikke har blitt forberedt og avgjort uten ugrunnet opphold, jf. forvaltningsloven  
- § 11 a.
+§ 11 a.
 
 #### 2.2 Informasjon til søkeren underveis
 

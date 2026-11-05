@@ -14,13 +14,10 @@ Sivilombudets uttalelse 22.12.2025 (sak 2025/2606).
 
 ## Oppsummering
 
-Saken gjelder pålegg om tilleggstjeneste i Heimevernet for opplæring av befal. Forsvaret kan pålegge 14 dager tilleggstjeneste hvert tredje år. Klageren fikk først informasjon om at han kunne søke om utsettelse hvis han allerede hadde gjennomført tilstrekkelig tilleggstjeneste. Siden klageren allerede hadde gjennomført ett kurs for to år siden, søkte han om utsettelse. Klageren fikk avslag uten en tilstrekkelig begrunnelse. Han klaget og fikk ny informasjon om at det ikke var klageadgang på pålegget om tilleggstjeneste. Klagen ble derfor ikke sendt til klagebehandling hos Forsvarsdepartementets klagenemnd i vernepliktssaker.   
-   
- Sivilombudet mener at det er klageadgang på pålegg om tilleggstjeneste i Heimevernet. Dette følger av sammenhengen i regelverket og det ulovfestede kravet om forsvarlig saksbehandling. Det var derfor feil av Forsvaret å avvise klagen. Forsvaret er bedt om å sende klagen til klagenemnda.   
-   
- Forsvaret ga klageren motstridende informasjon om adgangen til å søke om utsettelse og om å klage. I tillegg var ikke avslaget tilstrekkelig begrunnet. Sivilombudet mener derfor at Forsvaret ikke har overholdt veiledningsplikten over klageren.   
-   
- Forsvaret får også kritikk for sen og ufullstendig oppfølging av Sivilombudets undersøkelser.
+Saken gjelder pålegg om tilleggstjeneste i Heimevernet for opplæring av befal. Forsvaret kan pålegge 14 dager tilleggstjeneste hvert tredje år. Klageren fikk først informasjon om at han kunne søke om utsettelse hvis han allerede hadde gjennomført tilstrekkelig tilleggstjeneste. Siden klageren allerede hadde gjennomført ett kurs for to år siden, søkte han om utsettelse. Klageren fikk avslag uten en tilstrekkelig begrunnelse. Han klaget og fikk ny informasjon om at det ikke var klageadgang på pålegget om tilleggstjeneste. Klagen ble derfor ikke sendt til klagebehandling hos Forsvarsdepartementets klagenemnd i vernepliktssaker.  
+Sivilombudet mener at det er klageadgang på pålegg om tilleggstjeneste i Heimevernet. Dette følger av sammenhengen i regelverket og det ulovfestede kravet om forsvarlig saksbehandling. Det var derfor feil av Forsvaret å avvise klagen. Forsvaret er bedt om å sende klagen til klagenemnda.  
+Forsvaret ga klageren motstridende informasjon om adgangen til å søke om utsettelse og om å klage. I tillegg var ikke avslaget tilstrekkelig begrunnet. Sivilombudet mener derfor at Forsvaret ikke har overholdt veiledningsplikten over klageren.  
+Forsvaret får også kritikk for sen og ufullstendig oppfølging av Sivilombudets undersøkelser.
 
 Se oppdatering fra forvaltningen
 

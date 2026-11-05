@@ -16,8 +16,7 @@ Sivilombudets uttalelse 6.6.2019 (sak 2018/2252).
 ## Oppsummering
 
 Klager mottok i 2008 og 2009 individstønad etter arbeidsmarkedsloven. Senere ble det klart at hun i deler av den samme tidsperioden også var kvalifisert for attføringspenger etter folketrygdloven. Ved etterbetalingen av attføringspenger ble det i medhold av folketrygdloven § 22-8 sjette ledd gjort fradrag for individstønaden utbetalt fra 1. januar 2009. Denne lovbestemmelsen ble vedtatt 16. januar med ikrafttredelse 1. januar 2009. I klagen til ombudsmannen ble det anført at det var i strid med tilbakevirkningsforbudet i Grunnloven § 97 å anvende fradragsreglene på tidsperioden forut for vedtakelsen.  
-   
- Ombudsmannen er kommet til at det var adgang til å samordne ytelsene i form av å gjøre fradrag for tidligere mottatt individstønad etter rettstilstanden slik den var før 1. januar 2009. Lovendringen var dermed ikke i konflikt med den tidligere rettstilstanden. Grunnloven § 97 er heller ikke til hinder for å anvende folketrygdloven § 22-8 sjette ledd for tidsperioden mellom ikrafttredelse og vedtakelse. Rettsposisjonen som hevdes å ha grunnlovsvern – doble livsoppholdsytelser fra folketrygden – er ikke beskyttelsesverdig.
+Ombudsmannen er kommet til at det var adgang til å samordne ytelsene i form av å gjøre fradrag for tidligere mottatt individstønad etter rettstilstanden slik den var før 1. januar 2009. Lovendringen var dermed ikke i konflikt med den tidligere rettstilstanden. Grunnloven § 97 er heller ikke til hinder for å anvende folketrygdloven § 22-8 sjette ledd for tidsperioden mellom ikrafttredelse og vedtakelse. Rettsposisjonen som hevdes å ha grunnlovsvern – doble livsoppholdsytelser fra folketrygden – er ikke beskyttelsesverdig.
 
 ## Sakens bakgrunn
 
@@ -34,14 +33,14 @@ Det fremgår av endringsloven del VIII at «lova her tek til å gjelde 1. januar
 Vedtaket om etterbetaling og fradrag ble anket til Trygderetten. I kjennelse 25. mai 2018 ble Nav Klageinstans’ avgjørelse opprettholdt. I Trygderettens kjennelse er det ved en feil vist til folketrygdloven § 22-8 femte ledd som hjemmelsgrunnlag for fradrag. Trygderetten mente at Grunnloven § 97 ikke var til hinder for å gjøre fradrag i etterbetalingen av attføringspengene fra 1. januar 2009. Det er ikke gitt noen begrunnelse for standpunktet.
 
 Advokat B klaget 6. juni 2018 på vegne av A til ombudsmannen. Klagen gjelder fradraget i etterbetalingen av attføringspenger for individstønaden for perioden  
- 1. januar 2009 og frem til endringsloven ble vedtatt. Det er i klagen anført at anvendelsen av folketrygdloven § 22-8 sjette ledd for denne tidsperioden strider mot tilbakevirkningsforbudet i Grunnloven § 97.
+1. januar 2009 og frem til endringsloven ble vedtatt. Det er i klagen anført at anvendelsen av folketrygdloven § 22-8 sjette ledd for denne tidsperioden strider mot tilbakevirkningsforbudet i Grunnloven § 97.
 
 ## Våre undersøkelser
 
 Arbeids- og velferdsdirektoratet ble bedt om å redegjøre for sitt syn på om avkortningsregelen i folketrygdloven § 22-8 sjette ledd kan anvendes for individstønad utbetalt i perioden 1. januar 2009 og frem til endringsloven ble vedtatt, eller om Grunnloven § 97 gir vern mot slik avkortning.
 
 I svarbrevet bemerket direktoratet at saken reiser prinsipielt sett to spørsmål. Det første er hvordan rettstilstanden var før lovendringen, og det andre gjelder forholdet til Grunnloven  
- § 97.
+§ 97.
 
 Hva gjelder rettstilstanden før lovendringen, har direktoratet vist til samordningsregelen i den nå opphevde forskrift 20. desember 2001 nr. 1544 om arbeidsmarkedstiltak § 10-7 første ledd første punktum. Det er fremholdt at bestemmelsen gir uttrykk for et generelt prinsipp om at man ikke samtidig har rett til to fulle livsoppholdsytelser. At regelen er gitt i forskriften og gir anvisning på at det er ytelsen etter arbeidsmarkedsloven som skal falle bort, innebærer etter direktoratets syn ikke at det foreligger rett til å få etterbetalt attføringspenger og derved doble livsoppholdsytelser.
 

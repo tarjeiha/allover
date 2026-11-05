@@ -16,11 +16,9 @@ Sivilombudets uttalelse 29.5.2024 (sak 2024/1229).
 ## Oppsummering
 
 Saken gjelder Landbruks- og matdepartementets saksbehandlingstid ved behandling av en klage på innsynsavslag. Klageren ble gjennom foreløpig svar forespeilet en saksbehandlingstid som innebærer en samlet behandlingstid på over åtte måneder etter at departementet mottok klagen. Den lange saksbehandlingstiden ble begrunnet med stor saksmengde og at det konkrete innsynskravet var omfattende og krevde grundige vurderinger.  
-   
- Ombudet er kommet til at departementets saksbehandlingstid er for lang og i strid med offentleglova § 32 tredje ledd. Ressurssituasjonen og det at innsynskravet krever vanskelige vurderinger kan ikke forsvare den forespeilede saksbehandlingstiden på over åtte måneder.  
-   
- Ombudet er også kommet til at den gjennomsnittlige saksbehandlingstiden på 72 dager ved behandlingen av andre innsynsklager, er uakseptabelt lang.  
- Departementet bes om å iverksette tiltak for å få ned saksbehandlingstiden ved behandlingen av innsynsklagene.
+Ombudet er kommet til at departementets saksbehandlingstid er for lang og i strid med offentleglova § 32 tredje ledd. Ressurssituasjonen og det at innsynskravet krever vanskelige vurderinger kan ikke forsvare den forespeilede saksbehandlingstiden på over åtte måneder.  
+Ombudet er også kommet til at den gjennomsnittlige saksbehandlingstiden på 72 dager ved behandlingen av andre innsynsklager, er uakseptabelt lang.  
+Departementet bes om å iverksette tiltak for å få ned saksbehandlingstiden ved behandlingen av innsynsklagene.
 
 ## Sakens bakgrunn
 

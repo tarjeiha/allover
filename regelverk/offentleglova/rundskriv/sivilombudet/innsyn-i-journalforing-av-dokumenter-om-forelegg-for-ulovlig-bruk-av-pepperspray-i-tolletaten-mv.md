@@ -15,13 +15,10 @@ Sivilombudets uttalelse 25.9.2020 (sak 2020/1047).
 
 ## Oppsummering
 
-Saken gjelder innsyn i og journalføring av åtte dokumenter i en sak om forelegg for ulovlig bruk av pepperspray i Tolletaten.   
-   
- Etter at saken ble undersøkt herfra, har departementet gitt innsyn i flere av de dokumentene det ble bedt om innsyn i. Ombudsmannen har ikke merknader til departementets fornyede merinnsynsvurdering knyttet til de øvrige dokumentene.  
-   
- Departementet har ikke gitt noe tilfredsstillende svar på hvorfor dokument 4¬–11 var journalført 9–10 dager etter at saken ble presentert for pressen gjennom en pressemelding. Ut fra den redegjørelsen departementet har gitt, finner ombudsmannen å måtte legge til grunn at journalføringen ikke skjedde fortløpende og så raskt som mulig. Ombudsmannen ber departementet om å vurdere om det er behov for å innføre, eller eventuelt revidere, interne rutiner for journalføring.  
-   
- At departementet i journalen har gitt flere av dokumentene dokumentdato den datoen de ble registrert istedenfor den dateringen som fremgår av dokumentet, er i strid med arkivforskriften § 10 første ledd bokstav e.
+Saken gjelder innsyn i og journalføring av åtte dokumenter i en sak om forelegg for ulovlig bruk av pepperspray i Tolletaten.  
+Etter at saken ble undersøkt herfra, har departementet gitt innsyn i flere av de dokumentene det ble bedt om innsyn i. Ombudsmannen har ikke merknader til departementets fornyede merinnsynsvurdering knyttet til de øvrige dokumentene.  
+Departementet har ikke gitt noe tilfredsstillende svar på hvorfor dokument 4¬–11 var journalført 9–10 dager etter at saken ble presentert for pressen gjennom en pressemelding. Ut fra den redegjørelsen departementet har gitt, finner ombudsmannen å måtte legge til grunn at journalføringen ikke skjedde fortløpende og så raskt som mulig. Ombudsmannen ber departementet om å vurdere om det er behov for å innføre, eller eventuelt revidere, interne rutiner for journalføring.  
+At departementet i journalen har gitt flere av dokumentene dokumentdato den datoen de ble registrert istedenfor den dateringen som fremgår av dokumentet, er i strid med arkivforskriften § 10 første ledd bokstav e.
 
 ## Sakens bakgrunn
 

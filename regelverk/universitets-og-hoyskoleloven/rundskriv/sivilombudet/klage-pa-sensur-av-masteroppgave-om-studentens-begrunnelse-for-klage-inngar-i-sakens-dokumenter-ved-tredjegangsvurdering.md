@@ -15,11 +15,9 @@ Sivilombudets uttalelse 21.11.2023 (sak 2023/2435).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om studentens begrunnelse for en klage over karakteren på en masteroppgave skulle ha vært tilgjengelig for sensorene ved den såkalte tredjegangsvurderingen, jf. universitets- og høyskoleloven § 5-3 sjette ledd. Ved klage over karakter skal oppgaven undergis en ny sensur, som i likhet med ordinær sensur, er såkalt blind. Dersom klagesensuren fører til at karakteren avviker med to eller flere karakterer, må det gjøres ytterligere en vurdering før endelig karakter fastsettes.   
-   
- I denne saken hadde klageren gitt en begrunnelse for klagen og bedt om at denne ble gjort kjent for dem som eventuelt skulle gjøre en tredje vurdering av masteroppgaven. Universitetet mente imidlertid at regelen om blind sensur også gjaldt ved tredjegangsvurderingen av oppgaven.   
-   
- I lys av uttalelser i forarbeidene har ombudet kommet til at det var en saksbehandlingsfeil at klagerens begrunnelse ikke var tilgjengelig ved tredjegangsvurderingen. Regelen om blind sensur gjelder ikke for tredjegangsvurderingen. Ombudet har derfor bedt Universitetet i Oslo om å behandle klagen over formelle feil ved klagebehandlingen på nytt.
+Saken gjelder spørsmålet om studentens begrunnelse for en klage over karakteren på en masteroppgave skulle ha vært tilgjengelig for sensorene ved den såkalte tredjegangsvurderingen, jf. universitets- og høyskoleloven § 5-3 sjette ledd. Ved klage over karakter skal oppgaven undergis en ny sensur, som i likhet med ordinær sensur, er såkalt blind. Dersom klagesensuren fører til at karakteren avviker med to eller flere karakterer, må det gjøres ytterligere en vurdering før endelig karakter fastsettes.  
+I denne saken hadde klageren gitt en begrunnelse for klagen og bedt om at denne ble gjort kjent for dem som eventuelt skulle gjøre en tredje vurdering av masteroppgaven. Universitetet mente imidlertid at regelen om blind sensur også gjaldt ved tredjegangsvurderingen av oppgaven.  
+I lys av uttalelser i forarbeidene har ombudet kommet til at det var en saksbehandlingsfeil at klagerens begrunnelse ikke var tilgjengelig ved tredjegangsvurderingen. Regelen om blind sensur gjelder ikke for tredjegangsvurderingen. Ombudet har derfor bedt Universitetet i Oslo om å behandle klagen over formelle feil ved klagebehandlingen på nytt.
 
 Se oppdatering fra forvaltningen
 

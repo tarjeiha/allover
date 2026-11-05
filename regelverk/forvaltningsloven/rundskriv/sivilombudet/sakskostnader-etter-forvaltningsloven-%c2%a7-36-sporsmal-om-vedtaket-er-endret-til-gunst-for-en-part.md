@@ -15,10 +15,8 @@ Sivilombudets uttalelse 18.11.2020 (sak 2020/1663).
 ## Oppsummering
 
 Saken gjelder krav om dekning av sakskostnader etter forvaltningsloven § 36 etter at Stiftelsestilsynet opphevet sitt vedtak om å oppheve en urådighetsklausul på en fritidseiendom. Bakgrunnen for kravet om sakskostnader var at klagerens far søkte om å få opphevet urådighetsklausulen, og fikk dette innvilget. Klageren påklaget vedtaket, men før klagebehandlingen var ferdig trakk faren søknaden sin. Stiftelsestilsynet opphevet deretter vedtaket om å fjerne urådighetsklausulen.  
-   
- Stiftelsesklagenemnda kom til at vedtaket ikke var «endret til gunst» for klageren, blant annet fordi omgjøringen ikke nødvendigvis betyr at saken er endelig avsluttet i klagerens favør, og fordi endringene ikke bygger på noen vurdering av realiteten i klagerens anførsler.  
-   
- Ombudsmannen er kommet til at Stiftelsestilsynets opphevelse av sitt tidligere vedtak var en endring til gunst for klageren. Stiftelsesklagenemndas avgjørelse bygger derfor på en uriktig rettsanvendelse. Ombudsmannen ber om at klagen over avslag på dekning av sakskostnader behandles på nytt.
+Stiftelsesklagenemnda kom til at vedtaket ikke var «endret til gunst» for klageren, blant annet fordi omgjøringen ikke nødvendigvis betyr at saken er endelig avsluttet i klagerens favør, og fordi endringene ikke bygger på noen vurdering av realiteten i klagerens anførsler.  
+Ombudsmannen er kommet til at Stiftelsestilsynets opphevelse av sitt tidligere vedtak var en endring til gunst for klageren. Stiftelsesklagenemndas avgjørelse bygger derfor på en uriktig rettsanvendelse. Ombudsmannen ber om at klagen over avslag på dekning av sakskostnader behandles på nytt.
 
 Se oppdatering fra forvaltningen
 

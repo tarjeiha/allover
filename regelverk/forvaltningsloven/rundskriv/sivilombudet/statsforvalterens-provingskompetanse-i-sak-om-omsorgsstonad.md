@@ -14,13 +14,10 @@ Sivilombudets uttalelse 1.4.2025 (sak 2024/3854).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Østfold, Buskerud, Oslo og Akershus` behandling av en klagesak om omsorgsstønad. Statsforvalteren vurderte ikke om tjenestetilbudet samlet sett var forsvarlig, kun om kommunens vedtak var åpenbart urimelig.   
-   
- Ombudet mente at Statsforvalteren, slik kommunen gjorde, skulle ha foretatt en vurdering av om tjenestetilbudet samlet sett var forsvarlig, jf. helse- og omsorgstjenesteloven § 4-1.   
-   
- Etter ombudets syn kan statsforvalteren ikke avstå fra en forsvarlighetsvurdering i saker om utmåling/omfang av omsorgsstønad der omsorgsstønad til omsorgsgiver er gjort til en del av tjenestetilbudet til omsorgsmottaker, som i denne saken.   
-   
- Statsforvalteren har full adgang til å prøve om kommunens tjenestetilbud er forsvarlig. Idet Statsforvalteren ikke gjorde en selvstendig prøving av om tjenestetilbudet var forsvarlig, var det etter ombudets syn ikke gjort en reell toinstansbehandling. Ombudet ba derfor Statsforvalteren om å behandle saken på nytt, og om at ombudets syn på gjeldende rett blir lagt til grunn ved behandlingen av fremtidige saker.
+Saken gjelder Statsforvalteren i Østfold, Buskerud, Oslo og Akershus` behandling av en klagesak om omsorgsstønad. Statsforvalteren vurderte ikke om tjenestetilbudet samlet sett var forsvarlig, kun om kommunens vedtak var åpenbart urimelig.  
+Ombudet mente at Statsforvalteren, slik kommunen gjorde, skulle ha foretatt en vurdering av om tjenestetilbudet samlet sett var forsvarlig, jf. helse- og omsorgstjenesteloven § 4-1.  
+Etter ombudets syn kan statsforvalteren ikke avstå fra en forsvarlighetsvurdering i saker om utmåling/omfang av omsorgsstønad der omsorgsstønad til omsorgsgiver er gjort til en del av tjenestetilbudet til omsorgsmottaker, som i denne saken.  
+Statsforvalteren har full adgang til å prøve om kommunens tjenestetilbud er forsvarlig. Idet Statsforvalteren ikke gjorde en selvstendig prøving av om tjenestetilbudet var forsvarlig, var det etter ombudets syn ikke gjort en reell toinstansbehandling. Ombudet ba derfor Statsforvalteren om å behandle saken på nytt, og om at ombudets syn på gjeldende rett blir lagt til grunn ved behandlingen av fremtidige saker.
 
 Se oppdatering fra forvaltningen
 

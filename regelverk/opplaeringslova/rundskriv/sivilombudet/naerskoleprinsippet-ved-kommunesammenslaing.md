@@ -14,11 +14,9 @@ Sivilombudets uttalelse 26.4.2021 (sak 2020/2915).
 
 ## Oppsummering
 
-Saken gjelder grunnskoleelevers rett til å gå på «nærskolen» etter sammenslåing av kommuner, og er tatt opp av eget tiltak. Avhengig av de geografiske forholdene, kan videreføring av tidligere skoleforskrifter etter kommunesammenslåing stride mot retten til å gå på nærskolen i kommunen etter opplæringslova § 8-1 første ledd.   
-   
- Selv om inndelingslova § 13 generelt hjemler videreføring av tidligere kommunale skoleforskrifter i etterkant av kommunesammenslåing, må kommunene være oppmerksomme på at det kan oppstå motstrid mellom forskriftene og retten til å gå på nærskolen. Dersom områder i den sammenslåtte kommunen kan komme til å sokne til en skole i en annen tidligere kommune, bør arbeidet med ny skoleforskrift gis høy prioritet, og i det minste være klart før skolestart i august etter sammenslåingen.  
-   
- Ved søknad om skolebytte eller klage på nærskolevedtak, er det ikke tilstrekkelig bare å vise til at skolekretsene følger av de videreførte forskriftene uten også å gjøre en vurdering av nærskoleprinsippets betydning. Vurderingene som må gjøres i slike saker er konkrete og sammensatte, og hensynet til barnets beste må stå sentralt. I de antagelig få tilfellene der det etter en individuell vurdering er motstrid mellom gjeldende skoleforskrift og nærskoleprinsippet, kan det derfor ligge slik an at kommunen er forpliktet til å innvilge en søknad om skolebytte.
+Saken gjelder grunnskoleelevers rett til å gå på «nærskolen» etter sammenslåing av kommuner, og er tatt opp av eget tiltak. Avhengig av de geografiske forholdene, kan videreføring av tidligere skoleforskrifter etter kommunesammenslåing stride mot retten til å gå på nærskolen i kommunen etter opplæringslova § 8-1 første ledd.  
+Selv om inndelingslova § 13 generelt hjemler videreføring av tidligere kommunale skoleforskrifter i etterkant av kommunesammenslåing, må kommunene være oppmerksomme på at det kan oppstå motstrid mellom forskriftene og retten til å gå på nærskolen. Dersom områder i den sammenslåtte kommunen kan komme til å sokne til en skole i en annen tidligere kommune, bør arbeidet med ny skoleforskrift gis høy prioritet, og i det minste være klart før skolestart i august etter sammenslåingen.  
+Ved søknad om skolebytte eller klage på nærskolevedtak, er det ikke tilstrekkelig bare å vise til at skolekretsene følger av de videreførte forskriftene uten også å gjøre en vurdering av nærskoleprinsippets betydning. Vurderingene som må gjøres i slike saker er konkrete og sammensatte, og hensynet til barnets beste må stå sentralt. I de antagelig få tilfellene der det etter en individuell vurdering er motstrid mellom gjeldende skoleforskrift og nærskoleprinsippet, kan det derfor ligge slik an at kommunen er forpliktet til å innvilge en søknad om skolebytte.
 
 ## Sakens bakgrunn
 

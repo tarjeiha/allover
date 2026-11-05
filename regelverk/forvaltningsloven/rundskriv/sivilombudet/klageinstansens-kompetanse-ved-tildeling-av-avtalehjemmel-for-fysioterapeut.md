@@ -15,10 +15,8 @@ Sivilombudets uttalelse 11.10.2022 (sak 2022/1135).
 ## Oppsummering
 
 Saken gjaldt klagenemnda i X kommunes vedtak om tildeling av avtalehjemmel for fysioterapeut. Klagerens advokat gjorde gjeldende at driftsavtalen ikke var tildelt den best kvalifiserte søkeren, at begrunnelsen var mangelfull og at det forelå brudd på habilitetsregelen i kommuneloven § 13-3 annet ledd.  
-   
- Ombudet er kommet til klagenemnda hadde en plikt til å foreta en selvstendig vurdering av hvilken søker som var best kvalifisert til driftsavtalen når klageren hadde reist innvendinger mot underinstansens vurderinger i klagen. Det fremgikk ikke av klagenemndas begrunnelse at nemnda hadde foretatt en slik vurdering.  
-   
- Ombudet mente imidlertid at det ikke forelå brudd på habilitetsregelen i kommuneloven § 13-3 annet ledd.
+Ombudet er kommet til klagenemnda hadde en plikt til å foreta en selvstendig vurdering av hvilken søker som var best kvalifisert til driftsavtalen når klageren hadde reist innvendinger mot underinstansens vurderinger i klagen. Det fremgikk ikke av klagenemndas begrunnelse at nemnda hadde foretatt en slik vurdering.  
+Ombudet mente imidlertid at det ikke forelå brudd på habilitetsregelen i kommuneloven § 13-3 annet ledd.
 
 ## Sakens bakgrunn
 

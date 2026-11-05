@@ -15,13 +15,10 @@ Sivilombudets uttalelse 15.1.2026 (sak 2025/5988).
 
 ## Oppsummering
 
-Saken gjelder innsyn i fakturaer som NRK har betalt på seks angitte dager i november 2024, der kravene var fremsatt i seks separate krav sendt 10. og 23. april 2025. Kultur og likestillingsdepartementet mente det var riktig at kravene skulle behandles som ett samlet innsynskrav og opprettholdt NRKs avvisning av innsynskravene. Det ble vist til at NRK måtte foreta en manuell gjennomgang av fakturaene for å skille ut fakturaer som var knyttet til NRKs redaksjons- og programvirksomhet. Vilkåret om at rett til innsyn bare omfatter «i rimeleg utstrekning saker av ein bestemt art», var derfor ikke oppfylt, jf. offentleglova § 28 andre ledd.   
-   
- Sivilombudet kom til at departementet har lagt uriktig lovforståelse til grunn når det har kommet til at de seks innsynskravene som gjelder forskjellige dokumenter, kan slås sammen i vurderingen av om identifikasjonskravet i offentleglova § 28 er oppfylt.   
-   
- Ombudet kom videre til at arbeidet med å avgjøre om hele eller deler av dokumentet skal eller kan unntas offentlighet, ikke skal medregnes i vurderingen av om innsynskravet gjelder «i rimeleg utstrekning» saker av en bestemt art jf. § 28. Departementet hadde opplyst at NRK hadde teknologiske verktøy som gjorde det mulig å hente frem alle fakturaer som NRK har betalt en bestemt dag og ombudet la til grunn at det var identifisert hva det var bedt om innsyn i.   
-   
- Kultur- og likestillingsdepartementet ble bedt om å behandle innsynssakene på nytt.
+Saken gjelder innsyn i fakturaer som NRK har betalt på seks angitte dager i november 2024, der kravene var fremsatt i seks separate krav sendt 10. og 23. april 2025. Kultur og likestillingsdepartementet mente det var riktig at kravene skulle behandles som ett samlet innsynskrav og opprettholdt NRKs avvisning av innsynskravene. Det ble vist til at NRK måtte foreta en manuell gjennomgang av fakturaene for å skille ut fakturaer som var knyttet til NRKs redaksjons- og programvirksomhet. Vilkåret om at rett til innsyn bare omfatter «i rimeleg utstrekning saker av ein bestemt art», var derfor ikke oppfylt, jf. offentleglova § 28 andre ledd.  
+Sivilombudet kom til at departementet har lagt uriktig lovforståelse til grunn når det har kommet til at de seks innsynskravene som gjelder forskjellige dokumenter, kan slås sammen i vurderingen av om identifikasjonskravet i offentleglova § 28 er oppfylt.  
+Ombudet kom videre til at arbeidet med å avgjøre om hele eller deler av dokumentet skal eller kan unntas offentlighet, ikke skal medregnes i vurderingen av om innsynskravet gjelder «i rimeleg utstrekning» saker av en bestemt art jf. § 28. Departementet hadde opplyst at NRK hadde teknologiske verktøy som gjorde det mulig å hente frem alle fakturaer som NRK har betalt en bestemt dag og ombudet la til grunn at det var identifisert hva det var bedt om innsyn i.  
+Kultur- og likestillingsdepartementet ble bedt om å behandle innsynssakene på nytt.
 
 Se oppdatering fra forvaltningen
 

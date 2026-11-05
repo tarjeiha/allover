@@ -14,16 +14,12 @@ Sivilombudets uttalelse 31.10.2025 (sak 2025/1947).
 
 ## Oppsummering
 
-Saken gjelder en kontrollkommisjons klagebehandling i en sak om innskrenkning av en pasients forbindelse med omverden. For pasienten innebar vedtaket at besøk måtte foregå med personell til stede, eller med skillevegg, og at telefonsamtaler og elektronisk kommunikasjon måtte forhåndsgodkjennes og kunne overvåkes/avlyttes og avbrytes.   
-   
- Sykehuset hadde med hjemmel i psykisk helsevernloven § 4A-6 vedtatt innskrenkning av pasientens forbindelse med omverden i fire uker.   
- Kontrollkommisjonen stadfestet vedtaket, men kontrollkommisjonens vedtak var tilsynelatende begrunnet med at vilkårene i psykisk helsevernloven § 4-5 var oppfylt. Sistnevnte bestemmelse har andre vilkår, og hjemler innskrenkning i kun 14 dager.  
-   
- I svarene på ombudets spørsmål, svarte kontrollkommisjonen at klagen hadde blitt behandlet etter § 4A-6, men i forbindelse med den etterfølgende skrivingen av vedtaket ble det ved en feil benyttet mal/tekst knyttet til § 4-5.  
-   
- Ombudet kom til at kontrollkommisjonens vedtak led av feil ved begrunnelsen, i en slik grad at det ikke var mulig å kontrollere om kontrollkommisjonen hadde oppfylt sine plikter som klageorgan etter forvaltningsloven. Ombudet mente at vedtaket ikke var gyldig.   
-   
- Ombudet ba kontrollkommisjonen om å behandle fremtidige saker om innskrenkning av pasienters forbindelse med omverdenen i tråd med det som fremgår av uttalelsen.
+Saken gjelder en kontrollkommisjons klagebehandling i en sak om innskrenkning av en pasients forbindelse med omverden. For pasienten innebar vedtaket at besøk måtte foregå med personell til stede, eller med skillevegg, og at telefonsamtaler og elektronisk kommunikasjon måtte forhåndsgodkjennes og kunne overvåkes/avlyttes og avbrytes.  
+Sykehuset hadde med hjemmel i psykisk helsevernloven § 4A-6 vedtatt innskrenkning av pasientens forbindelse med omverden i fire uker.  
+Kontrollkommisjonen stadfestet vedtaket, men kontrollkommisjonens vedtak var tilsynelatende begrunnet med at vilkårene i psykisk helsevernloven § 4-5 var oppfylt. Sistnevnte bestemmelse har andre vilkår, og hjemler innskrenkning i kun 14 dager.  
+I svarene på ombudets spørsmål, svarte kontrollkommisjonen at klagen hadde blitt behandlet etter § 4A-6, men i forbindelse med den etterfølgende skrivingen av vedtaket ble det ved en feil benyttet mal/tekst knyttet til § 4-5.  
+Ombudet kom til at kontrollkommisjonens vedtak led av feil ved begrunnelsen, i en slik grad at det ikke var mulig å kontrollere om kontrollkommisjonen hadde oppfylt sine plikter som klageorgan etter forvaltningsloven. Ombudet mente at vedtaket ikke var gyldig.  
+Ombudet ba kontrollkommisjonen om å behandle fremtidige saker om innskrenkning av pasienters forbindelse med omverdenen i tråd med det som fremgår av uttalelsen.
 
 ## Sakens bakgrunn
 

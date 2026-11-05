@@ -14,11 +14,9 @@ Sivilombudets uttalelse 26.3.2018 (sak 2017/1425).
 
 ## Oppsummering
 
-Saken gjelder krav om erstatning etter klimabetinget avlingssvikt. Fylkesmannen i Møre og Romsdal og Landbruksdirektoratet avslo en erstatningssøknad under henvisning til reglene for beregning av slik erstatning. Avslaget syntes å være begrunnet i at det ved beregning av avlingsmengde kun var anledning til å se hen til avlingsmengde som er dokumentert i kilo i regnskap, eventuelt regnskapsbilag. Da bare en mindre del av søkerens avlingsmengde i årene før skadeåret var dokumentert på denne måten, ble det lagt til grunn at det ikke var grunnlag for å tilkjenne erstatning.   
-   
- Ombudsmannen fremholdt at beregningsreglene ikke skal forstås slik at forvaltningen kun har anledning til å se hen til avlingsmengde i kilo som er dokumentert i regnskap eller regnskapsbilag, men at også annen relevant dokumentasjon en søker fremlegger må vurderes når foretakets avlingsmengde skal beregnes.   
-   
- Under sakens gang opplyste Landbruksdirektoratet at direktoratet ville omgjøre eget vedtak, oppheve Fylkesmannens vedtak, og sende saken tilbake til ny behandling. Ombudsmannen tok dette til etterretning og lot saken bero.
+Saken gjelder krav om erstatning etter klimabetinget avlingssvikt. Fylkesmannen i Møre og Romsdal og Landbruksdirektoratet avslo en erstatningssøknad under henvisning til reglene for beregning av slik erstatning. Avslaget syntes å være begrunnet i at det ved beregning av avlingsmengde kun var anledning til å se hen til avlingsmengde som er dokumentert i kilo i regnskap, eventuelt regnskapsbilag. Da bare en mindre del av søkerens avlingsmengde i årene før skadeåret var dokumentert på denne måten, ble det lagt til grunn at det ikke var grunnlag for å tilkjenne erstatning.  
+Ombudsmannen fremholdt at beregningsreglene ikke skal forstås slik at forvaltningen kun har anledning til å se hen til avlingsmengde i kilo som er dokumentert i regnskap eller regnskapsbilag, men at også annen relevant dokumentasjon en søker fremlegger må vurderes når foretakets avlingsmengde skal beregnes.  
+Under sakens gang opplyste Landbruksdirektoratet at direktoratet ville omgjøre eget vedtak, oppheve Fylkesmannens vedtak, og sende saken tilbake til ny behandling. Ombudsmannen tok dette til etterretning og lot saken bero.
 
 ## Sakens bakgrunn
 

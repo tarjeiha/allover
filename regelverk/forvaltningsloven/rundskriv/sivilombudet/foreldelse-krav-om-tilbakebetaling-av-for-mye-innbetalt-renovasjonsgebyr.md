@@ -14,9 +14,8 @@ Sivilombudets uttalelse 26.11.2025 (sak 2025/4117).
 
 ## Oppsummering
 
-Saken gjelder Interkommunal klagenemnd for Søndre Helgeland Miljøverks (SHMILs) vedtak om å tilbakebetale for mye innbetalt renovasjonsgebyr for tre år. Nemnda mente at krav fra tidligere år var foreldet. Klageren krevde tilbakebetaling for ytterligere ti år fordi han hadde vært uvitende om kravet, jf. foreldelsesloven § 10.   
-   
- Sivilombudet mente det er tvil om Klagenemnda hadde tatt et riktig rettslig utgangspunkt ved sin vurdering av saken, og om nemnda har vurdert klagerens anførsler jf. forvaltningsloven § 34 annet ledd annet punktum. Ombudet ba Klagenemnda behandle saken på nytt.
+Saken gjelder Interkommunal klagenemnd for Søndre Helgeland Miljøverks (SHMILs) vedtak om å tilbakebetale for mye innbetalt renovasjonsgebyr for tre år. Nemnda mente at krav fra tidligere år var foreldet. Klageren krevde tilbakebetaling for ytterligere ti år fordi han hadde vært uvitende om kravet, jf. foreldelsesloven § 10.  
+Sivilombudet mente det er tvil om Klagenemnda hadde tatt et riktig rettslig utgangspunkt ved sin vurdering av saken, og om nemnda har vurdert klagerens anførsler jf. forvaltningsloven § 34 annet ledd annet punktum. Ombudet ba Klagenemnda behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

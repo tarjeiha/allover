@@ -15,8 +15,7 @@ Sivilombudets uttalelse 18.5.2022 (sak 2022/2071).
 ## Oppsummering
 
 Saken gjelder Arbeids- og inkluderingsdepartementets saksbehandlingstid i sak om innsyn i e-poster som gjelder daværende statsråd Hadia Tajiks pendlerboliger. Departementet brukte fire uker på å behandle innsynskravet, og begrunnet saksbehandlingstiden med at departementet på kort tid mottok mange og omfattende innsynskrav om sakskomplekset.  
-   
- Krav om innsyn skal avgjøres uten ugrunnet opphold, jf. offentleglova § 29 første ledd andre punktum. Ombudet har kommet til at departementets saksbehandlingstid i denne saken var for lang og i strid med lovens krav. I vurderingen er det blant annet lagt vekt på at innsynskravet gjaldt en svært samfunnsaktuell sak, der rask behandling var særlig viktig.
+Krav om innsyn skal avgjøres uten ugrunnet opphold, jf. offentleglova § 29 første ledd andre punktum. Ombudet har kommet til at departementets saksbehandlingstid i denne saken var for lang og i strid med lovens krav. I vurderingen er det blant annet lagt vekt på at innsynskravet gjaldt en svært samfunnsaktuell sak, der rask behandling var særlig viktig.
 
 ## Sakens bakgrunn
 

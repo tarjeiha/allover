@@ -16,8 +16,7 @@ Sivilombudets uttalelse 6.12.2019 (sak 2019/3885).
 ## Oppsummering
 
 Saken gjelder X kommunes ansettelse av fløytelærer i kulturskolen. Klageren mente seg forbigått blant annet ved at den som ble ansatt, hadde mindre utdannelse og erfaring enn henne selv.  
-   
- Ombudsmannen er kommet til at det er tvil om kommunen ansatte den personen som var best kvalifisert sett hen til utdanning og erfaring. Gjennomgangen av saken her avdekket også at personen som ble ansatt, ikke oppfylte utlysningstekstens kvalifikasjonskrav, og at kommunen dermed brøt kvalifikasjonsprinsippet. Videre har ombudsmannen funnet grunn til å kommentere kommunens rutiner for skriftlighet under ansettelsesprosessen.
+Ombudsmannen er kommet til at det er tvil om kommunen ansatte den personen som var best kvalifisert sett hen til utdanning og erfaring. Gjennomgangen av saken her avdekket også at personen som ble ansatt, ikke oppfylte utlysningstekstens kvalifikasjonskrav, og at kommunen dermed brøt kvalifikasjonsprinsippet. Videre har ombudsmannen funnet grunn til å kommentere kommunens rutiner for skriftlighet under ansettelsesprosessen.
 
 ## Sakens bakgrunn
 

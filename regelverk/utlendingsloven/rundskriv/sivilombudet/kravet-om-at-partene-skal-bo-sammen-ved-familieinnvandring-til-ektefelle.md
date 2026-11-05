@@ -16,10 +16,8 @@ Sivilombudets uttalelse 4.3.2021 (sak 2020/2662).
 ## Oppsummering
 
 Klageren hadde fått innvilget oppholdstillatelse for familieinnvandring med ektefellen (referansepersonen). Tillatelsen ble fornyet flere ganger, men da klageren søkte om permanent oppholdstillatelse, kom det frem at referansepersonen en periode hadde utført konsulentoppdrag i Sverige. Utlendingsnemnda (UNE) kom til at klageren og referansepersonen i denne periode ikke hadde oppfylt kravet i utlendingsloven § 40 tredje ledd om at partene skal «bo sammen». De viste til at referansepersonen i den aktuelle perioden hadde vært fire dager eller flere i uka på oppdrag i Sverige.  
-   
- Sivilombudsmannen er kommet til at UNE har lagt til grunn en for streng forståelse av hva som skal til for å anses å «bo sammen». At referansepersonen normalt var på jobb i Sverige fire dager per uke, var ikke avgjørende, når han tilbragte flertallet av ukens kvelder og netter på felles adresse i Norge. UNE skulle dessuten ha lagt vekt på at partene hadde bodd sammen i Norge i mange år før den avgrensede perioden med pendling til Sverige. Oppdraget som medførte pendling, var dessuten initiert av referansepersonens arbeidsgiver, og det ble ikke etablert noen selvstendig husholdning i Sverige. Samlet sett må partene anses å ha bodd sammen i lovens forstand i den aktuelle perioden.  
-   
- Etter ombudsmannens syn er UNEs vedtak ugyldig. UNE bes om å behandle saken på nytt innen 15. april 2021.
+Sivilombudsmannen er kommet til at UNE har lagt til grunn en for streng forståelse av hva som skal til for å anses å «bo sammen». At referansepersonen normalt var på jobb i Sverige fire dager per uke, var ikke avgjørende, når han tilbragte flertallet av ukens kvelder og netter på felles adresse i Norge. UNE skulle dessuten ha lagt vekt på at partene hadde bodd sammen i Norge i mange år før den avgrensede perioden med pendling til Sverige. Oppdraget som medførte pendling, var dessuten initiert av referansepersonens arbeidsgiver, og det ble ikke etablert noen selvstendig husholdning i Sverige. Samlet sett må partene anses å ha bodd sammen i lovens forstand i den aktuelle perioden.  
+Etter ombudsmannens syn er UNEs vedtak ugyldig. UNE bes om å behandle saken på nytt innen 15. april 2021.
 
 Se oppdatering fra forvaltningen
 

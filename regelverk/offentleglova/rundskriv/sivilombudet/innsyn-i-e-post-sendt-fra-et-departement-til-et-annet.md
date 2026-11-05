@@ -15,12 +15,9 @@ Sivilombudets uttalelse 20.3.2025 (sak 2024/3724).
 ## Oppsummering
 
 Saken gjelder innsyn i en e-post som ble sendt fra Norges spesialutsending for integreringssaker i kopi til Barne- og familiedepartementet. E-posten inneholdt en oppsummering av det som fremkom i møter mellom spesialutsendingen og flere thailandske, norske og internasjonale myndigheter og organisasjoner i Bangkok og Pattaya 3.-6. juli 2023.  
-   
- Barne- og familiedepartementet avslo innsynskravet etter offentleglova § 15 første ledd, fordi dokumentet var innhentet for departementets interne saksforberedelse. Departementet mente også at dokumentet kunne unntas etter bestemmelsens tredje ledd, samt offentleglova § 20.  
-   
- Ombudet kom til at e-posten synes å være sendt på spesialutsendingens eget initiativ, og at det derfor var tvil om departementet hadde «innhenta» dokumentet. Videre var ombudet i tvil om e-posten var utarbeidet for departementets interne saksforberedelse, og om unntak var nødvendig for å sikre interne avgjørelsesprosesser.   
-   
- Ombudet var også i tvil om unntak var «påkravd» for å sikre Norges utenrikspolitiske interesser og om opplysningene i dokumentet var gitt av møtedeltakerne under forutsetning av hemmelighold eller som følge av fast praksis, jf. offentleglova § 20 første ledd bokstav b.
+Barne- og familiedepartementet avslo innsynskravet etter offentleglova § 15 første ledd, fordi dokumentet var innhentet for departementets interne saksforberedelse. Departementet mente også at dokumentet kunne unntas etter bestemmelsens tredje ledd, samt offentleglova § 20.  
+Ombudet kom til at e-posten synes å være sendt på spesialutsendingens eget initiativ, og at det derfor var tvil om departementet hadde «innhenta» dokumentet. Videre var ombudet i tvil om e-posten var utarbeidet for departementets interne saksforberedelse, og om unntak var nødvendig for å sikre interne avgjørelsesprosesser.  
+Ombudet var også i tvil om unntak var «påkravd» for å sikre Norges utenrikspolitiske interesser og om opplysningene i dokumentet var gitt av møtedeltakerne under forutsetning av hemmelighold eller som følge av fast praksis, jf. offentleglova § 20 første ledd bokstav b.
 
 Se oppdatering fra forvaltningen
 

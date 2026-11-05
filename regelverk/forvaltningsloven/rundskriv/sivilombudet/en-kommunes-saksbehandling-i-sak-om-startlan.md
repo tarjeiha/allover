@@ -15,13 +15,10 @@ Sivilombudets uttalelse 2.10.2023 (sak 2023/585).
 ## Oppsummering
 
 Saken gjelder X kommunes behandling av en klage på avslag om startlån.  
-   
- Klageren søkte om startlån til kjøp av bolig til seg og sin familie. Søknaden ble avslått av kommunen, ved lokalt NAV-kontor. Klageren påklagde vedtaket, men klagen ble liggende ubehandlet hos det lokale Nav-kontoret (førsteinstansen) i over ett år. I forbindelse med klagesaken, utarbeidet den samme personen som godkjente førsteinstansvedtaket et saksframlegg for klageinstansen og deltok i klageinstansens behandling av saken. Klageinstansen opprettholdt vedtaket, uten nærmere begrunnelse.   
-   
- Sivilombudet kom til at reglene om habilitet, saksbehandlingstid, begrunnelse av vedtaket og plikt til å vurdere klagerens synspunkter, herunder hensynet til barnas beste, var brutt ved behandlingen av klagen. Kommunen gjentok saksbehandlingsfeilene i et nytt vedtak som ble fattet under ombudets behandling av saken.  
-   
- Ombudet ba kommunen om å behandle saken på nytt og å gjennomgå sine rutiner og praksis, slik at fremtidige klagesaker blir behandlet i tråd med forvaltningsloven, kommuneloven og FNs barnekonvensjon.   
- Kommunens gjentatte fristoversittelser og utilstrekkelige svar på ombudets henvendelser i forbindelse med undersøkelsen av saken, er i strid med Stortingets forutsetning om at henvendelser fra Sivilombudet skal gis prioritet.
+Klageren søkte om startlån til kjøp av bolig til seg og sin familie. Søknaden ble avslått av kommunen, ved lokalt NAV-kontor. Klageren påklagde vedtaket, men klagen ble liggende ubehandlet hos det lokale Nav-kontoret (førsteinstansen) i over ett år. I forbindelse med klagesaken, utarbeidet den samme personen som godkjente førsteinstansvedtaket et saksframlegg for klageinstansen og deltok i klageinstansens behandling av saken. Klageinstansen opprettholdt vedtaket, uten nærmere begrunnelse.  
+Sivilombudet kom til at reglene om habilitet, saksbehandlingstid, begrunnelse av vedtaket og plikt til å vurdere klagerens synspunkter, herunder hensynet til barnas beste, var brutt ved behandlingen av klagen. Kommunen gjentok saksbehandlingsfeilene i et nytt vedtak som ble fattet under ombudets behandling av saken.  
+Ombudet ba kommunen om å behandle saken på nytt og å gjennomgå sine rutiner og praksis, slik at fremtidige klagesaker blir behandlet i tråd med forvaltningsloven, kommuneloven og FNs barnekonvensjon.  
+Kommunens gjentatte fristoversittelser og utilstrekkelige svar på ombudets henvendelser i forbindelse med undersøkelsen av saken, er i strid med Stortingets forutsetning om at henvendelser fra Sivilombudet skal gis prioritet.
 
 Se oppdatering fra forvaltningen
 

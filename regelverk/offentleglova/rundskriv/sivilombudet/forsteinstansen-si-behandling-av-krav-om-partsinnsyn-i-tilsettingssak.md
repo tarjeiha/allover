@@ -16,12 +16,9 @@ Sivilombudets uttalelse 16.10.2024 (sak 2024/3653).
 ## Oppsummering
 
 Saka gjeld Vestland fylkeskommune si behandling av krav om partsinnsyn i ei tilsettingssak. Saka reiser spørsmål om forvaltninga si plikt til å identifisere, journalføre og vurdere krav om partsinnsyn. Saka gjeld også kva som må reknast som eit avslag på partsinnsyn, og plikta til å informere om klageretten til overordna organ i forvaltninga og om klagefristen når innsynskrav vert avslått.  
-   
- Sivilombodet kom til at fylkeskommunen, som førsteinstans, på fleire punkt ikkje hadde behandla innsynskrava i saka på rett måte. Etter at Sivilombodet undersøkte saka, har fylkeskommunen vurdert klagaren sitt innsynskrav på nytt, og gitt innsyn i dokument og opplysningar som klagaren tidlegare ikkje hadde fått.   
-   
- Sivilombodet bad fylkeskommunen om å sørge for det i framtida vert gitt informasjon om rettsleg grunnlag, klagerett og klagefrist når fylkeskommunen heilt eller delvis avslår partsinnsynskrav.   
-   
- Sivilombodet gav uttrykk for at det er viktig at fylkeskommunen legg til rette for at innsynskrav blir identifisert, journalført og behandla på rett måte, etter rett regelverk. Ombodet bad fylkeskommunen om å svare på kva tiltak som er eller eventuelt vil bli iverksett for å sikre at krav om partsinnsyn blir behandla på ein tilfredsstillande måte i framtida.
+Sivilombodet kom til at fylkeskommunen, som førsteinstans, på fleire punkt ikkje hadde behandla innsynskrava i saka på rett måte. Etter at Sivilombodet undersøkte saka, har fylkeskommunen vurdert klagaren sitt innsynskrav på nytt, og gitt innsyn i dokument og opplysningar som klagaren tidlegare ikkje hadde fått.  
+Sivilombodet bad fylkeskommunen om å sørge for det i framtida vert gitt informasjon om rettsleg grunnlag, klagerett og klagefrist når fylkeskommunen heilt eller delvis avslår partsinnsynskrav.  
+Sivilombodet gav uttrykk for at det er viktig at fylkeskommunen legg til rette for at innsynskrav blir identifisert, journalført og behandla på rett måte, etter rett regelverk. Ombodet bad fylkeskommunen om å svare på kva tiltak som er eller eventuelt vil bli iverksett for å sikre at krav om partsinnsyn blir behandla på ein tilfredsstillande måte i framtida.
 
 ## 1. Bakgrunn for saka
 

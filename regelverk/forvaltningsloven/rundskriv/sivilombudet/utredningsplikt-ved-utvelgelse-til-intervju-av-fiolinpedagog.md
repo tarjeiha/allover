@@ -15,9 +15,8 @@ Sivilombudets uttalelse 5.10.2020 (sak 2019/3731).
 
 ## Oppsummering
 
-Saken gjelder ansettelse av fiolinpedagog ved en kulturskole. Klageren fremsto som formelt godt kvalifisert, men ble ikke innkalt til intervju eller tatt med i den videre vurderingen. Den som ble ansatt i stillingen var intern søker, med betraktelig kortere erfaring enn klageren.   
-   
- Ombudsmannen mener klageren skulle ha vært innkalt til intervju. Hun fremsto med sin utdanning og sin erfaring som en av dem som var best formelt kvalifisert for stillingen. At klageren ikke ble intervjuet, innebærer at saken ikke ble tilstrekkelig utredet før det ble fattet vedtak om ansettelse, jf. forvaltningsloven § 17. Ettersom hun ikke ble intervjuet kan ombudsmannen ikke ta stilling til om selve ansettelsen var i tråd med kvalifikasjonsprinsippet.
+Saken gjelder ansettelse av fiolinpedagog ved en kulturskole. Klageren fremsto som formelt godt kvalifisert, men ble ikke innkalt til intervju eller tatt med i den videre vurderingen. Den som ble ansatt i stillingen var intern søker, med betraktelig kortere erfaring enn klageren.  
+Ombudsmannen mener klageren skulle ha vært innkalt til intervju. Hun fremsto med sin utdanning og sin erfaring som en av dem som var best formelt kvalifisert for stillingen. At klageren ikke ble intervjuet, innebærer at saken ikke ble tilstrekkelig utredet før det ble fattet vedtak om ansettelse, jf. forvaltningsloven § 17. Ettersom hun ikke ble intervjuet kan ombudsmannen ikke ta stilling til om selve ansettelsen var i tråd med kvalifikasjonsprinsippet.
 
 ## Sakens bakgrunn
 

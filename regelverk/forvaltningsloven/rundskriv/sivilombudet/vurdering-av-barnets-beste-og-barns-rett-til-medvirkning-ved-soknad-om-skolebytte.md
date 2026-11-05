@@ -16,10 +16,8 @@ Sivilombudets uttalelse 24.5.2023 (sak 2022/3839).
 ## Oppsummering
 
 Saken gjelder søknad om skolebytte for et søskenpar. Statsforvalteren hadde konkludert med at det var best for barna å gå på nærskolen, selv om både foreldre og barna selv mente det var best at de fikk plass på en annen skole.  
-   
- Sivilombudet er kommet til at Statsforvalteren ikke har foretatt de undersøkelser som var nødvendige for å kunne konkludere med at det var best for barna å gå på nærskolen. I en barnets beste-vurdering kan det ikke bare legges til grunn generelle prinsipper og betraktninger ved vurderingen av hva som er best for et konkret barn. Det må foretas en konkret og individuell vurdering av hva som er barnets beste. Det burde i den sammenhengen også ha blitt vurdert om barnas alder og modenhetsnivå tilsa at de burde vært gitt mulighet til å uttale seg direkte til Statsforvalteren.   
-   
- Slik saken er opplyst for ombudet, er det uklart om søknaden om å bytte til en annen skole enn nærskolen burde vært innvilget. Dersom søknadene skal avslås, må hensynene som taler mot å innvilge søknadene veie tyngre enn hensynet til barnets beste. Ombudet ber Statsforvalteren behandle sakene på nytt i tråd med ombudets merknader.
+Sivilombudet er kommet til at Statsforvalteren ikke har foretatt de undersøkelser som var nødvendige for å kunne konkludere med at det var best for barna å gå på nærskolen. I en barnets beste-vurdering kan det ikke bare legges til grunn generelle prinsipper og betraktninger ved vurderingen av hva som er best for et konkret barn. Det må foretas en konkret og individuell vurdering av hva som er barnets beste. Det burde i den sammenhengen også ha blitt vurdert om barnas alder og modenhetsnivå tilsa at de burde vært gitt mulighet til å uttale seg direkte til Statsforvalteren.  
+Slik saken er opplyst for ombudet, er det uklart om søknaden om å bytte til en annen skole enn nærskolen burde vært innvilget. Dersom søknadene skal avslås, må hensynene som taler mot å innvilge søknadene veie tyngre enn hensynet til barnets beste. Ombudet ber Statsforvalteren behandle sakene på nytt i tråd med ombudets merknader.
 
 ## Sakens bakgrunn
 

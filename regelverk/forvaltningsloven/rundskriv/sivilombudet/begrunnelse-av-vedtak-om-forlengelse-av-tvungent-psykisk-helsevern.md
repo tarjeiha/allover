@@ -14,13 +14,10 @@ Sivilombudets uttalelse 12.12.2022 (sak 2022/3720).
 
 ## Oppsummering
 
-Saken gjelder en kontrollkommisjons vedtak om forlengelse av tvungent psykisk helsevern, jf. psykisk helsevernloven § 3-3 og § 3-8.   
-   
- Sivilombudet kom til at kontrollkommisjonens begrunnelse for fortsatt tvungent psykisk helsevern ikke oppfylte kravene til begrunnelse i forvaltningsloven § 25 og psykisk helsevernforskriften § 55 tredje ledd. Kommisjonens begrunnelse for at vilkårene for tvungent psykisk helsevern var oppfylt, var mangelfull. Det skulle videre fremgått av vedtaket hvilke faktiske forhold kommisjonen la til grunn, samt at det skulle vært redegjort for innholdet i regelen om bortfall av samtykkekompetanse i pasient- og brukerrettighetsloven § 4-3.  
-   
- Videre mente ombudet at det skulle fremgått av vedtaket at klagerens menneskerettslige anførsel hadde blitt sett og vurdert, jf. forvaltningsloven § 25 og § 34 andre ledd, samt kravene til god forvaltningsskikk.  
-   
- Ombudet ba kommisjonen vurdere saken på nytt og begrunne vedtaket i samsvar med merknadene i denne uttalelsen.
+Saken gjelder en kontrollkommisjons vedtak om forlengelse av tvungent psykisk helsevern, jf. psykisk helsevernloven § 3-3 og § 3-8.  
+Sivilombudet kom til at kontrollkommisjonens begrunnelse for fortsatt tvungent psykisk helsevern ikke oppfylte kravene til begrunnelse i forvaltningsloven § 25 og psykisk helsevernforskriften § 55 tredje ledd. Kommisjonens begrunnelse for at vilkårene for tvungent psykisk helsevern var oppfylt, var mangelfull. Det skulle videre fremgått av vedtaket hvilke faktiske forhold kommisjonen la til grunn, samt at det skulle vært redegjort for innholdet i regelen om bortfall av samtykkekompetanse i pasient- og brukerrettighetsloven § 4-3.  
+Videre mente ombudet at det skulle fremgått av vedtaket at klagerens menneskerettslige anførsel hadde blitt sett og vurdert, jf. forvaltningsloven § 25 og § 34 andre ledd, samt kravene til god forvaltningsskikk.  
+Ombudet ba kommisjonen vurdere saken på nytt og begrunne vedtaket i samsvar med merknadene i denne uttalelsen.
 
 Se oppdatering fra forvaltningen
 
@@ -67,7 +64,7 @@ Undersøkelsene i denne saken er rettet mot kontrollkommisjonens saksbehandling 
 Psykisk helsevernloven § 3-3 oppstiller vilkår for etablering og forlengelse av tvungent psykisk helsevern. Hovedvilkåret for tvungent psykisk helsevern er at pasienten har en «alvorlig sinnslidelse», jf. § 3-3 nr. 3. I tillegg er det vilkår om at etableringen av tvungent psykisk helsevern er nødvendig for å hindre at vedkommende på grunn av sinnslidelsen enten
 
 a. får sin utsikt til helbredelse eller vesentlig bedring i betydelig grad redusert, eller det er stor sannsynlighet for at vedkommende i meget nær framtid får sin tilstand vesentlig forverret, eller  
- b. utgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse.
+b. utgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse.
 
 Vilkåret i bokstav a kalles gjerne forverringsvilkåret, og er det aktuelle vilkåret i denne saken.
 

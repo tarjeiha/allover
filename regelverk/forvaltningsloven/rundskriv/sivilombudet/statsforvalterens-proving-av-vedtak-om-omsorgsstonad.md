@@ -15,8 +15,7 @@ Sivilombudets uttalelse 19.5.2026 (sak 2025/7239).
 ## Oppsummering
 
 Saken gjelder behandlingen av klager over vedtak om omsorgsstønad. Klageren fikk innvilget omsorgsstønad for omsorgsoppgaver overfor sin sønn, men klaget over utmålingen. Statsforvalteren skrev i klagevedtaket at prøvingstemaet var om kommunens vedtak var «åpenbart urimelig». Det fremgikk ikke av vedtaket at det var vurdert om tjenestetilbudet samlet sett dekket sønnens behov for forsvarlige helse- og omsorgstjenester. I etterkant av ombudets undersøkelsesbrev foretok Statsforvalteren en fornyet vurdering hvor forsvarlighetskravet inngikk.  
-   
- Sivilombudet kom til at en vurdering av forsvarlighetskravet skulle inngått i det opprinnelige klagevedtaket. Sivilombudet kom også til at Statsforvalteren skulle foretatt en full prøving av kommunens vedtak hvor hensynet til det kommunale selvstyret tillegges stor vekt ved prøvingen av det frie skjønn. Ombudet ba Helse- og omsorgsdepartementet sørge for at gjeldende veiledere endres i tråd med ombudets og departementets syn på gjeldende rett.
+Sivilombudet kom til at en vurdering av forsvarlighetskravet skulle inngått i det opprinnelige klagevedtaket. Sivilombudet kom også til at Statsforvalteren skulle foretatt en full prøving av kommunens vedtak hvor hensynet til det kommunale selvstyret tillegges stor vekt ved prøvingen av det frie skjønn. Ombudet ba Helse- og omsorgsdepartementet sørge for at gjeldende veiledere endres i tråd med ombudets og departementets syn på gjeldende rett.
 
 Se oppdatering fra forvaltningen
 

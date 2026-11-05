@@ -15,8 +15,7 @@ Sivilombudets uttalelse 24.1.2025 (sak 2024/1708).
 ## Oppsummering
 
 Kommunestyret i Larvik kommune vedtok en detaljreguleringsplan som legger til rette for oppføring av seks fritidsboliger i Sørskogen ved Nevlunghavn. Planområdet ligger nær fuglefredningsområdet ved Mølen og Nevlungstranda naturreservat og er en del av raet som ligger på den UNESCO-godkjente geoparken, Geo Norwegica. I planområdet er det truede arter og sårbare naturtyper, men det fremgår ikke av kommunens vedtak hvordan utbyggingen vil påvirke dette naturmangfoldet. Statsforvalteren i Vestfold og Telemark stadfestet kommunens vedtak i klageomgangen.  
-   
- Ombudet er kommet til at Statsforvalteren ikke i tilstrekkelig grad har vurdert om kommunen har fulgt kravene til utredning og begrunnelse etter naturmangfoldloven § 7, jf. §§ 8-12, jf. forvaltningsloven § 34. Statsforvalteren har heller ikke foretatt selvstendige vurderinger av naturmangfoldprinsippene i tråd med naturmangfoldloven § 7. Det er tvil om vedtaket er gyldig. Ombudet ber Statsforvalteren om å vurdere saken på nytt.
+Ombudet er kommet til at Statsforvalteren ikke i tilstrekkelig grad har vurdert om kommunen har fulgt kravene til utredning og begrunnelse etter naturmangfoldloven § 7, jf. §§ 8-12, jf. forvaltningsloven § 34. Statsforvalteren har heller ikke foretatt selvstendige vurderinger av naturmangfoldprinsippene i tråd med naturmangfoldloven § 7. Det er tvil om vedtaket er gyldig. Ombudet ber Statsforvalteren om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

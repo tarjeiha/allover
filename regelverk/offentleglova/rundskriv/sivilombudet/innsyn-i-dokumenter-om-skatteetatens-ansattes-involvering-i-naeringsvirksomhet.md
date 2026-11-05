@@ -15,10 +15,8 @@ Sivilombudets uttalelse 6.8.2020 (sak 2020/1185).
 ## Oppsummering
 
 En journalist fikk avslag på sitt krav om innsyn i to dokumenter om ansatte i Skatteetatens eierandel og roller i næringsvirksomhet. Finansdepartementets avslag var begrunnet i at dokumentene var organinterne og at det ikke var grunnlag for å gi merinnsyn.  
-   
- Ombudsmannen er kommet til at Finansdepartementets vurdering av merinnsyn er mangelfull. Når et dokument kan unntas offentlighet, skal det vurderes om det likevel skal gis helt eller delvis innsyn, jf. offentleglova § 11. I denne vurderingen må de hensyn som begrunner unntakshjemmelen og som gjør seg gjeldende for de aktuelle dokumentene veies mot de hensynene som taler for innsyn. Departementet har ikke sett de relevante hensynene som taler for offentlighet. Disse hensynene er derfor ikke avveid mot de hensynene som begrunner unntaket, slik offentleglova § 11 gir anvisning på. Departementet skulle også vurdert om det var grunn til å gi innsyn i enkelte av opplysningene i dokumentene.  
-   
- Ombudsmannen ber departementet om å vurdere innsynskravet på nytt.
+Ombudsmannen er kommet til at Finansdepartementets vurdering av merinnsyn er mangelfull. Når et dokument kan unntas offentlighet, skal det vurderes om det likevel skal gis helt eller delvis innsyn, jf. offentleglova § 11. I denne vurderingen må de hensyn som begrunner unntakshjemmelen og som gjør seg gjeldende for de aktuelle dokumentene veies mot de hensynene som taler for innsyn. Departementet har ikke sett de relevante hensynene som taler for offentlighet. Disse hensynene er derfor ikke avveid mot de hensynene som begrunner unntaket, slik offentleglova § 11 gir anvisning på. Departementet skulle også vurdert om det var grunn til å gi innsyn i enkelte av opplysningene i dokumentene.  
+Ombudsmannen ber departementet om å vurdere innsynskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

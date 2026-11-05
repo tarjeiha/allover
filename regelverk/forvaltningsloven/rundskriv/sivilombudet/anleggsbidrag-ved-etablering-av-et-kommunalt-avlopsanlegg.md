@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.12.2019 (sak 2018/3058).
 ## Oppsummering
 
 Saken gjelder Sande kommunes adgang til å inngå alminnelige avtaler med hjemmelshavere i et allerede utbygd område om betaling av anleggsbidrag til dekning av kostnader til etableringen av et kommunalt avløpsanlegg.  
-   
- Ombudsmannen finner det vanskelig å konkludere sikkert på spørsmålet om en kommune i kraft av sin private autonomi har rettslig adgang til å inngå alminnelige, frivillige avtaler med borgene om betaling av anleggsbidrag til dekning av etableringskostnader til et kommunalt avløpsanlegg. Dette er formidlet Klima- og miljødepartementet, med henstilling om en nærmere avklaring.  
-   
- Avtalene om betaling av anleggsbidrag i denne konkrete saken er inngått på sviktende og feilaktig grunnlag. Det er vanskelig å se at avtalene er inngått frivillig. Hjemmelshaverne hadde i alle tilfeller ikke tilstrekkelig kunnskap om at de sto fritt til å inngå avtalene. Ombudsmannen mener at hjemmelshaverne ikke er rettslig bundet av avtalene. Avtalene kan da ikke gjøres gjeldende. Ombudsmannen forutsetter at anleggsbidragene ikke oppkreves. Eventuelle innbetalte anleggsbidrag bes tilbakebetalt innen kort tid, med tillegg av renter.
+Ombudsmannen finner det vanskelig å konkludere sikkert på spørsmålet om en kommune i kraft av sin private autonomi har rettslig adgang til å inngå alminnelige, frivillige avtaler med borgene om betaling av anleggsbidrag til dekning av etableringskostnader til et kommunalt avløpsanlegg. Dette er formidlet Klima- og miljødepartementet, med henstilling om en nærmere avklaring.  
+Avtalene om betaling av anleggsbidrag i denne konkrete saken er inngått på sviktende og feilaktig grunnlag. Det er vanskelig å se at avtalene er inngått frivillig. Hjemmelshaverne hadde i alle tilfeller ikke tilstrekkelig kunnskap om at de sto fritt til å inngå avtalene. Ombudsmannen mener at hjemmelshaverne ikke er rettslig bundet av avtalene. Avtalene kan da ikke gjøres gjeldende. Ombudsmannen forutsetter at anleggsbidragene ikke oppkreves. Eventuelle innbetalte anleggsbidrag bes tilbakebetalt innen kort tid, med tillegg av renter.
 
 Se oppdatering fra forvaltningen
 

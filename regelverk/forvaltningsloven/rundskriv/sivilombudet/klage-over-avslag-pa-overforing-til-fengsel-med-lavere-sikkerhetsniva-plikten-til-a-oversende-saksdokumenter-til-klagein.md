@@ -15,10 +15,8 @@ Sivilombudets uttalelse 13.3.2019 (sak 2018/4083).
 ## Oppsummering
 
 Saken gjelder klage på avslag på soningsoverføring fra Ullersmo fengsel til Bastøy fengsel. Klageren leverte med få dagers mellomrom to brev som begge var formulert som klager på avslaget. Begge brevene ble fremmet gjennom Ullersmo fengsel. Det siste brevet ble imidlertid ikke identifisert som en egen klage ved den opprinnelige registreringen i Ullersmo fengsels saksbehandlingssystem. Brevet ble ikke oversendt Bastøy fengsel eller Kriminalomsorgen region sør før etter at regionen hadde fattet vedtak i klagesaken.  
-   
- Klagerens siste brev skulle vært oversendt Bastøy fengsel og Kriminalomsorgen region sør i tide til at regionen kunne ta dette i betraktning ved sin behandling av klagesaken. Ullersmo fengsel har på dette punktet ikke håndtert saken i tråd med alminnelige prinsipper om forsvarlig saksbehandling og normer for god forvaltningsskikk. Som en konsekvens av dette har klagerens rett til kontradiksjon – herunder retten til å få vurdert sine synspunkter hos klageinstansen – ikke blitt tilstrekkelig ivaretatt ved kriminalomsorgens behandling av klagesaken.  
-   
- Klageren er etter det opplyste nå innvilget overføring til Bastøy fengsel. Videre har Ullersmo fengsel beklaget sin håndtering av saken. Ombudsmannen finner derfor å kunne la den konkrete saken bero. Det bes imidlertid om at Kriminalomsorgen region sør videreformidler denne uttalelsen til Ullersmo fengsel, og at både fengselet og regionen merker seg ombudsmannens synspunkter med tanke på fremtidige saker.
+Klagerens siste brev skulle vært oversendt Bastøy fengsel og Kriminalomsorgen region sør i tide til at regionen kunne ta dette i betraktning ved sin behandling av klagesaken. Ullersmo fengsel har på dette punktet ikke håndtert saken i tråd med alminnelige prinsipper om forsvarlig saksbehandling og normer for god forvaltningsskikk. Som en konsekvens av dette har klagerens rett til kontradiksjon – herunder retten til å få vurdert sine synspunkter hos klageinstansen – ikke blitt tilstrekkelig ivaretatt ved kriminalomsorgens behandling av klagesaken.  
+Klageren er etter det opplyste nå innvilget overføring til Bastøy fengsel. Videre har Ullersmo fengsel beklaget sin håndtering av saken. Ombudsmannen finner derfor å kunne la den konkrete saken bero. Det bes imidlertid om at Kriminalomsorgen region sør videreformidler denne uttalelsen til Ullersmo fengsel, og at både fengselet og regionen merker seg ombudsmannens synspunkter med tanke på fremtidige saker.
 
 ## Sakens bakgrunn
 

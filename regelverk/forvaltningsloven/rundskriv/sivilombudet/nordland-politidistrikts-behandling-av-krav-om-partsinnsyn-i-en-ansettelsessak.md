@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.10.2026 (sak 2026/2510).
 ## Oppsummering
 
 Saken gjelder Nordland politidistrikts behandling av et krav om partsinnsyn i en ansettelsessak. Klager begjærte partsinnsyn i dokumenter før tilsettingsprosessen var avsluttet. Nordland politidistrikt brukte over tre måneder på å besvare innsynskravet, og svarte at han først ville få svar på innsynsbegjæringen når tilsettingen var ferdig. Klager oppfattet svaret som et avslag på krav om innsyn.  
-   
- Sivilombudet er kommet til at Nordland politidistrikt skulle ha identifisert kravet om partsinnsyn raskere og behandlet det uten ugrunnet opphold. Det var også en klar feil å stille partsinnsynskravet i bero til etter at ansettelsessaken var avsluttet. Klager fikk dermed i realiteten et avslag på innsynskravet uten at han fikk informasjon om hvilke bestemmelser avslaget bygget på, klagerett eller klagefrist.  
-   
- Nordland politidistrikt bes merke seg at et innsynskrav også kan fremsettes muntlig og at retten til innsyn kan inntre før tilsettingsvedtak er fattet.
+Sivilombudet er kommet til at Nordland politidistrikt skulle ha identifisert kravet om partsinnsyn raskere og behandlet det uten ugrunnet opphold. Det var også en klar feil å stille partsinnsynskravet i bero til etter at ansettelsessaken var avsluttet. Klager fikk dermed i realiteten et avslag på innsynskravet uten at han fikk informasjon om hvilke bestemmelser avslaget bygget på, klagerett eller klagefrist.  
+Nordland politidistrikt bes merke seg at et innsynskrav også kan fremsettes muntlig og at retten til innsyn kan inntre før tilsettingsvedtak er fattet.
 
 ## 1. Sakens bakgrunn
 

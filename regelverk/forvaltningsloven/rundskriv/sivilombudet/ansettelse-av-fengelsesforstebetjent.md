@@ -16,8 +16,7 @@ Sivilombudets uttalelse 25.3.2019 (sak 2018/2466).
 ## Oppsummering
 
 Klager søkte på en ledig stilling som fengselsførstebetjent, men ble ikke innkalt til intervju. Han fikk opplyst at han ble vurdert av arbeidsgiver som aktuell til stillingen, men at det ikke var nødvendig å gjennomføre intervju da han ved to anledninger året før var blitt intervjuet til samme stillinger. I klagen til ombudsmannen ble det fremhevet at kvalifikasjonsprinsippet ikke var fulgt.  
-   
- Sivilombudsmannen mener det er uheldig at kvalifikasjonsvurderingen av de aktuelle kandidatene ikke ble samlet i en skriftlig innstilling, og at ansettelsesprosessen for øvrig ikke ble bedre dokumentert. Det er derfor positivt at arbeidsgiver vil endre sine rutiner når det gjelder skriftlig dokumentasjon av intervjuer og referanseinnhenting. Siden vurderingene av klager ved de to tidligere ansettelsesprosessene ikke var sammenfallende, er ombudsmannen i tvil om saken ble godt nok utredet da han ikke ble innkalt på intervju. Ettersom klager ikke ble intervjuet og det er mangler ved den skriftlige dokumentasjonen, kan ikke ombudsmannen ta stilling til om klager ble urettmessig forbigått ved ansettelsen.
+Sivilombudsmannen mener det er uheldig at kvalifikasjonsvurderingen av de aktuelle kandidatene ikke ble samlet i en skriftlig innstilling, og at ansettelsesprosessen for øvrig ikke ble bedre dokumentert. Det er derfor positivt at arbeidsgiver vil endre sine rutiner når det gjelder skriftlig dokumentasjon av intervjuer og referanseinnhenting. Siden vurderingene av klager ved de to tidligere ansettelsesprosessene ikke var sammenfallende, er ombudsmannen i tvil om saken ble godt nok utredet da han ikke ble innkalt på intervju. Ettersom klager ikke ble intervjuet og det er mangler ved den skriftlige dokumentasjonen, kan ikke ombudsmannen ta stilling til om klager ble urettmessig forbigått ved ansettelsen.
 
 ## Sakens bakgrunn
 

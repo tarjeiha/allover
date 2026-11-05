@@ -15,10 +15,8 @@ Sivilombudets uttalelse 23.1.2025 (sak 2024/3225).
 ## Oppsummering
 
 Klageren mottok helsetjenester i sitt eget hjem, blant annet hjelp med sondemating. Fra klagerens side var det vist til at hun kunne dissosiere og dermed være ute av stand til å motsette seg helsehjelpen, og at det derfor kunne være fare for at hun ble utsatt for uhjemlet tvang.  
-   
- Sivilombudet er kommet til at det er begrunnet tvil om Statsforvalteren har vurdert om klagerens helsetilbud er uforsvarlig fordi det innebærer fare for uhjemlet tvang, se helse- og omsorgstjenesteloven § 4-1, jf. § 3-1 og pasient- og brukerrettighetsloven § 2-1. Alminnelige normer for god forvaltningsskikk tilsier videre at denne vurderingen skulle ha fremgått av begrunnelsen i Statsforvalterens avgjørelser.   
-   
- Statsforvalteren bes om å behandle saken på nytt innen 25. februar 2025.
+Sivilombudet er kommet til at det er begrunnet tvil om Statsforvalteren har vurdert om klagerens helsetilbud er uforsvarlig fordi det innebærer fare for uhjemlet tvang, se helse- og omsorgstjenesteloven § 4-1, jf. § 3-1 og pasient- og brukerrettighetsloven § 2-1. Alminnelige normer for god forvaltningsskikk tilsier videre at denne vurderingen skulle ha fremgått av begrunnelsen i Statsforvalterens avgjørelser.  
+Statsforvalteren bes om å behandle saken på nytt innen 25. februar 2025.
 
 Se oppdatering fra forvaltningen
 

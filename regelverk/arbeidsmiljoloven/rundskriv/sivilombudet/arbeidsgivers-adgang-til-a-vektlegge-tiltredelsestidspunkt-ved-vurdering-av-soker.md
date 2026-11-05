@@ -15,17 +15,12 @@ Sivilombudets uttalelse 17.10.2022 (sak 2022/2070).
 
 ## Oppsummering
 
-Saken gjelder klage fra søker til stilling som spesialsykepleier på X sykehus (X). Klageren mente hun var forbigått. Hun mente hun hadde fått opplyst at hun var vurdert som best kvalifisert. Likevel fikk hun ikke stillingen fordi hun hadde full stilling som fungerende varaordfører og derfor ikke kunne tiltre før i oktober 2023.   
-   
- Saken reiste spørsmål om arbeidsgivers adgang til å vektlegge tidspunkt for tiltredelse i en ansettelsesprosess, og videre om det har betydning at søkeren er forhindret i å tiltre innen rimelig tid fordi søkeren er folkevalgt.   
-   
- En arbeidsgiver har etter Sivilombudets syn adgang til å vektlegge tiltredelsestidspunktet som et moment i helhetsvurderingen ved en ansettelse. Kvalifikasjonsprinsippet vil imidlertid begrense vektleggingen av hensynet. Det gjelder også der søkeren er folkevalgt.  
-   
- Arbeidsmiljøloven og kommuneloven har bestemmelser om at arbeidsgiver må akseptere en arbeidstakers fravær som følge av plikter som folkevalgt. En tilsvarende plikt for arbeidsgiver ved ansettelser, er ikke lovregulert. Hensynene bak bestemmelsene om rett til fravær for å fylle plikter som folkevalgt, tilsier likevel at der årsaken til sen tiltredelse er plikter som folkevalgt, må det tas hensyn til i helhetsvurderingen.   
-   
- En plikt for arbeidsgiver til å se helt bort fra mulig tidspunkt for tiltredelse der årsaken er plikter som folkevalgt, må etter ombudets syn ha en klarere rettslig forankring.   
-   
- I denne saken kunne ikke søkeren tiltre før etter 1 år og 8 måneder. Slik sykehuset her har begrunnet behovet for raskere tiltredelse, har ombudet ikke funnet grunn til å kritisere sykehusets avgjørelse.
+Saken gjelder klage fra søker til stilling som spesialsykepleier på X sykehus (X). Klageren mente hun var forbigått. Hun mente hun hadde fått opplyst at hun var vurdert som best kvalifisert. Likevel fikk hun ikke stillingen fordi hun hadde full stilling som fungerende varaordfører og derfor ikke kunne tiltre før i oktober 2023.  
+Saken reiste spørsmål om arbeidsgivers adgang til å vektlegge tidspunkt for tiltredelse i en ansettelsesprosess, og videre om det har betydning at søkeren er forhindret i å tiltre innen rimelig tid fordi søkeren er folkevalgt.  
+En arbeidsgiver har etter Sivilombudets syn adgang til å vektlegge tiltredelsestidspunktet som et moment i helhetsvurderingen ved en ansettelse. Kvalifikasjonsprinsippet vil imidlertid begrense vektleggingen av hensynet. Det gjelder også der søkeren er folkevalgt.  
+Arbeidsmiljøloven og kommuneloven har bestemmelser om at arbeidsgiver må akseptere en arbeidstakers fravær som følge av plikter som folkevalgt. En tilsvarende plikt for arbeidsgiver ved ansettelser, er ikke lovregulert. Hensynene bak bestemmelsene om rett til fravær for å fylle plikter som folkevalgt, tilsier likevel at der årsaken til sen tiltredelse er plikter som folkevalgt, må det tas hensyn til i helhetsvurderingen.  
+En plikt for arbeidsgiver til å se helt bort fra mulig tidspunkt for tiltredelse der årsaken er plikter som folkevalgt, må etter ombudets syn ha en klarere rettslig forankring.  
+I denne saken kunne ikke søkeren tiltre før etter 1 år og 8 måneder. Slik sykehuset her har begrunnet behovet for raskere tiltredelse, har ombudet ikke funnet grunn til å kritisere sykehusets avgjørelse.
 
 ## Sakens bakgrunn
 

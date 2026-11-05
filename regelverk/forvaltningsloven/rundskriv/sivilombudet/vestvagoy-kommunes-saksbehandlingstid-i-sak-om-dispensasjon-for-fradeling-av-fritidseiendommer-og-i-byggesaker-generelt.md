@@ -15,10 +15,8 @@ Sivilombudets uttalelse 27.3.2020 (sak 2019/4284).
 ## Oppsummering
 
 Saken gjelder Vestvågøy kommunes saksbehandlingstid i en sak om dispensasjon for fradeling av hyttetomter og i saker om dispensasjon og deling generelt.  
-   
- Det er kommunens ansvar å sikre at lovpålagte frister følges. Kommunen har ikke oppfylt saksbehandlingsfristene i plan- og bygningsloven i saker om dispensasjon og deling mens arbeidet med ny reguleringsplan har pågått. Kommunen har heller ikke sendt foreløpig svar og forsinkelsesmelding i tråd med forvaltningsloven og god forvaltningsskikk.  
-   
- Ombudsmannen har merket seg kommunens tiltak og forutsetter at kravene til saksbehandlingstid, foreløpig svar og eventuelle forsinkelsesmeldinger blir overholdt i fremtiden.
+Det er kommunens ansvar å sikre at lovpålagte frister følges. Kommunen har ikke oppfylt saksbehandlingsfristene i plan- og bygningsloven i saker om dispensasjon og deling mens arbeidet med ny reguleringsplan har pågått. Kommunen har heller ikke sendt foreløpig svar og forsinkelsesmelding i tråd med forvaltningsloven og god forvaltningsskikk.  
+Ombudsmannen har merket seg kommunens tiltak og forutsetter at kravene til saksbehandlingstid, foreløpig svar og eventuelle forsinkelsesmeldinger blir overholdt i fremtiden.
 
 ## Sakens bakgrunn
 
@@ -46,8 +44,8 @@ Dispensasjons- og delingssøknader ble behandlet av kommunens planleggere, ikke 
 4. Dispensasjonssøknader, med følgende prioritering pålagt av kommunens planutvalg:
 
 a. Næring  
- b. Bolig  
- c. Fritid
+b. Bolig  
+c. Fritid
 
 Som følge av arbeidet med arealplanen hadde kommunen styrket planenheten med ett årsverk, med tiltredelse høsten 2018. Dette var imidlertid ikke tilstrekkelig da planarbeidet tok mer ressurser enn antatt. Ansvaret for delingssaker var fra desember 2019 flyttet fra planavdelingen til byggesaksavdelingen, og seksjoneringssaker var flyttet fra planavdelingen til Næring, plan og utvikling. Avslutningsvis viste kommunen til at de skulle redusere bemanningen med 40 årsverk i løpet av 2020–21.
 

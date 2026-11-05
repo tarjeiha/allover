@@ -15,8 +15,7 @@ Sivilombudets uttalelse 29.5.2020 (sak 2019/3575).
 ## Oppsummering
 
 Saken gjelder Flakstad kommunes behandling av en grunneiers klage på vedtak om områdereguleringsplan.  
-   
- Kommunen har ikke behandlet klagen på planvedtaket i tråd med forvaltningslovens regler. Klagen kan ikke anses besvart gjennom den løpende kommunikasjonen som har funnet sted mellom klager og kommunen eller i forbindelse med vedtagelsen av den nye områdereguleringsplanen for Ramberg. Det har gått nesten ett år siden klagen ble fremsatt, og det er ikke vist til relevante forhold som kan begrunne hvorfor klagen ikke har blitt behandlet. Etter ombudsmannens syn er behandlingen av saken dermed i strid med regelen i forvaltningsloven § 11 a første ledd, om at saken skal forberedes og avgjøres «uten ugrunnet opphold».
+Kommunen har ikke behandlet klagen på planvedtaket i tråd med forvaltningslovens regler. Klagen kan ikke anses besvart gjennom den løpende kommunikasjonen som har funnet sted mellom klager og kommunen eller i forbindelse med vedtagelsen av den nye områdereguleringsplanen for Ramberg. Det har gått nesten ett år siden klagen ble fremsatt, og det er ikke vist til relevante forhold som kan begrunne hvorfor klagen ikke har blitt behandlet. Etter ombudsmannens syn er behandlingen av saken dermed i strid med regelen i forvaltningsloven § 11 a første ledd, om at saken skal forberedes og avgjøres «uten ugrunnet opphold».
 
 Se oppdatering fra forvaltningen
 

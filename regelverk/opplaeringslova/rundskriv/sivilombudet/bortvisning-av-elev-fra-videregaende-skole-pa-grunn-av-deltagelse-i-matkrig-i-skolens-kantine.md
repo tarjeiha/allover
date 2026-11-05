@@ -16,10 +16,8 @@ Sivilombudets uttalelse 11.12.2019 (sak 2019/2410).
 ## Oppsummering
 
 Saken gjelder adgangen til å bortvise en elev fra undervisningen i en videregående skole i én dag på grunn av deltakelse i matkrig i skolens kantine. Skolen hadde først fattet vedtak både om å bortvise eleven, og å pålegge ham å delta i rydding av skolens kantine i fire uker, samtidig som han ble nektet å innta lunsjen sin i kantinen i den samme perioden. Klagenemnda i fylkeskommunen opphevet vedtak om ryddig og nekting av adgang til kantinen, men opprettholdt vedtaket om bortvisning i én dag.  
-   
- Ombudsmannen kom til at deltakelse i matkasting var et alvorlig brudd på skolens ordensreglement, som kan sanksjoneres med bortvisning, jf. opplæringslova § 9 A-11. Det var samtidig mangler ved saksbehandlingen i forkant av skolens vedtak. En mangel ved klagenemndas vedtak var at den ikke hadde tatt stilling om saksbehandlingsfeilene hadde påvirket det endelige vedtaket i saken. Feilene var ikke reparert ved klagenemndas behandling av saken. Videre var det en mangel ved vedtaket at det ikke var foretatt en tilstrekkelig vurdering av om bortvisning fra kantinen kunne benyttes som en mer egnet og forholdsmessig sanksjon enn bortvisning fra undervisningen.  
-   
- Klagenemnda er bedt om å merke seg ombudsmannens syn på saken og foreta en fornyet vurdering.
+Ombudsmannen kom til at deltakelse i matkasting var et alvorlig brudd på skolens ordensreglement, som kan sanksjoneres med bortvisning, jf. opplæringslova § 9 A-11. Det var samtidig mangler ved saksbehandlingen i forkant av skolens vedtak. En mangel ved klagenemndas vedtak var at den ikke hadde tatt stilling om saksbehandlingsfeilene hadde påvirket det endelige vedtaket i saken. Feilene var ikke reparert ved klagenemndas behandling av saken. Videre var det en mangel ved vedtaket at det ikke var foretatt en tilstrekkelig vurdering av om bortvisning fra kantinen kunne benyttes som en mer egnet og forholdsmessig sanksjon enn bortvisning fra undervisningen.  
+Klagenemnda er bedt om å merke seg ombudsmannens syn på saken og foreta en fornyet vurdering.
 
 ## Sakens bakgrunn
 

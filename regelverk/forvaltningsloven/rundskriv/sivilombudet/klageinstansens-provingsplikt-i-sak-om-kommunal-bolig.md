@@ -14,11 +14,9 @@ Sivilombudets uttalelse 15.1.2025 (sak 2024/5020).
 
 ## Oppsummering
 
-Saken gjelder Klagenemnda i X kommunes behandling av en klage over avslag på søknad om kommunal bolig. Klagenemnda opprettholdt førsteinstansens avslag, blant annet med henvisning til at Klagenemnda ikke visste noe om de andre søkerne av kommunal bolig, at en tildeling av kommunal bolig vil innebære en prioritering av klageren fremfor andre søkere, og at Klagenemnda ikke visste noe om det var egnet kommunal bolig i X kommune på daværende tidspunkt eller i nær fremtid.   
-   
- Sivilombudet uttalte at klageinstansens manglende kjennskap til deler av faktum, inkludert opplysninger om andre i søkermassen, ikke er et argument for å opprettholde underinstansens vedtak. Sivilombudet kom til at Klagenemnda ikke hadde foretatt en slik reell og selvstendig prøving av klagen som forvaltningsloven § 34 andre ledd forutsetter. Forvaltningslovens regler om klage var derfor ikke oppfylt.   
-   
- Sivilombudet ba Klagenemnda behandle saken på nytt i tråd med uttalelsen, og om å bli orientert om utfallet av den nye behandlingen.
+Saken gjelder Klagenemnda i X kommunes behandling av en klage over avslag på søknad om kommunal bolig. Klagenemnda opprettholdt førsteinstansens avslag, blant annet med henvisning til at Klagenemnda ikke visste noe om de andre søkerne av kommunal bolig, at en tildeling av kommunal bolig vil innebære en prioritering av klageren fremfor andre søkere, og at Klagenemnda ikke visste noe om det var egnet kommunal bolig i X kommune på daværende tidspunkt eller i nær fremtid.  
+Sivilombudet uttalte at klageinstansens manglende kjennskap til deler av faktum, inkludert opplysninger om andre i søkermassen, ikke er et argument for å opprettholde underinstansens vedtak. Sivilombudet kom til at Klagenemnda ikke hadde foretatt en slik reell og selvstendig prøving av klagen som forvaltningsloven § 34 andre ledd forutsetter. Forvaltningslovens regler om klage var derfor ikke oppfylt.  
+Sivilombudet ba Klagenemnda behandle saken på nytt i tråd med uttalelsen, og om å bli orientert om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

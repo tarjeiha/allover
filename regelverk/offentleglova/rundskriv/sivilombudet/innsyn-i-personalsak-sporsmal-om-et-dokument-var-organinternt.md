@@ -15,10 +15,9 @@ Sivilombudets uttalelse 1.2.2024 (sak 2023/4336).
 
 ## Oppsummering
 
-Saken gjelder Arbeids- og velferdsdirektoratets avslag på krav om innsyn i et dokument i en personalsak hos et regionskontor i Nav. Dokumentet inneholdt den ansattes merknader til arbeidsgivers utkast til et referat fra et møte i personalsaken. Direktoratet unntok dokumentet fra innsyn fordi det var utarbeidet for Navs interne saksforberedelse.   
-   
- Ombudet er kommet til at dokumentet ikke kunne unntas som organinternt i medhold av offentleglova § 14 første ledd. Fast ansatte anses som del av organet i tilfeller der den ansatte opptrer i egenskap av å være tjenestemann. I denne saken opptrådte den ansatte i egenskap av å være arbeidstaker i en personalsak som gjaldt vedkommende selv, og kunne derfor ikke anses som del av organet.   
- Ombudet ber Arbeids- og velferdsdirektoratet behandle saken på nytt i tråd med ombudets syn, og om å bli orientert om utfallet av den nye behandlingen.
+Saken gjelder Arbeids- og velferdsdirektoratets avslag på krav om innsyn i et dokument i en personalsak hos et regionskontor i Nav. Dokumentet inneholdt den ansattes merknader til arbeidsgivers utkast til et referat fra et møte i personalsaken. Direktoratet unntok dokumentet fra innsyn fordi det var utarbeidet for Navs interne saksforberedelse.  
+Ombudet er kommet til at dokumentet ikke kunne unntas som organinternt i medhold av offentleglova § 14 første ledd. Fast ansatte anses som del av organet i tilfeller der den ansatte opptrer i egenskap av å være tjenestemann. I denne saken opptrådte den ansatte i egenskap av å være arbeidstaker i en personalsak som gjaldt vedkommende selv, og kunne derfor ikke anses som del av organet.  
+Ombudet ber Arbeids- og velferdsdirektoratet behandle saken på nytt i tråd med ombudets syn, og om å bli orientert om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

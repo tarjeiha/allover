@@ -16,12 +16,9 @@ Sivilombudets uttalelse 9.4.2025 (sak 2024/5331).
 ## Oppsummering
 
 Saken gjelder veiledning om dagpengerettigheter ved flytting fra Danmark til Norge. Ved to henvendelser fra klageren veiledet Nav først om at hun skulle søke dagpenger i Danmark, og så at hun skulle søke dagpenger i Norge. Da klageren flyttet til Norge og søkte dagpenger, fikk hun avslag fordi kravet til arbeid i Norge ikke var oppfylt. Samtidig hadde klageren ikke lenger rett til dagpenger i Danmark siden hun hadde flyttet. Hun søkte erstatning fra Nav for mangelfull veiledning.  
-   
- For Sivilombudet var spørsmålet om veiledningsplikten var brutt og om klageren hadde rett til erstatning. Sivilombudet mener at det kan kreves mer av Nav for å oppfylle veiledningsplikten ved veiledning om EØS-rettslige regler, gitt veiledningspliktens formål.   
-   
- I det konkrete tilfellet kunne ikke Nav legge til grunn at klageren skulle søke dagpenger i Norge. I så fall skulle Nav ha oppklart henvendelsen eller veiledet om vilkåret om arbeid i Norge for retten til dagpenger. Sivilombudet mener at Nav ikke har oppfylt veiledningsplikten og at det er et ansvarsgrunnlag for erstatning overfor klageren.   
-   
- Nav ble bedt om å veilede klageren om øvrige vilkår for erstatning og behandle saken på nytt.
+For Sivilombudet var spørsmålet om veiledningsplikten var brutt og om klageren hadde rett til erstatning. Sivilombudet mener at det kan kreves mer av Nav for å oppfylle veiledningsplikten ved veiledning om EØS-rettslige regler, gitt veiledningspliktens formål.  
+I det konkrete tilfellet kunne ikke Nav legge til grunn at klageren skulle søke dagpenger i Norge. I så fall skulle Nav ha oppklart henvendelsen eller veiledet om vilkåret om arbeid i Norge for retten til dagpenger. Sivilombudet mener at Nav ikke har oppfylt veiledningsplikten og at det er et ansvarsgrunnlag for erstatning overfor klageren.  
+Nav ble bedt om å veilede klageren om øvrige vilkår for erstatning og behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 
@@ -124,7 +121,7 @@ Sivilombudet har forståelse for mengden henvendelser Nav mottar og tilsvarende 
 Oppsummert mener Sivilombudet at Nav veiledet feil da det ble lagt til grunn at klageren skulle søke dagpenger i Norge. Da det ble veiledet om at hun skulle søke dagpenger i Norge, skulle vilkåret om arbeid i Norge vært nevnt. Samlet gjorde forholdene at klageren ikke kunne ivareta sine interesser på best mulig måte. Hun flyttet til Norge og søkte dagpenger, selv om hun ikke hadde rett til det. Samtidig mistet hun ved flyttingen muligheten til å søke dagpenger i Danmark.
 
 Som en følge av bruddet på veiledningsplikten mener ombudet at Nav har opptrådt uaktsomt overfor klageren, og at dette utgjør et ansvarsgrunnlag for erstatning,  
- jf. skadeserstatningsloven § 2-1.
+jf. skadeserstatningsloven § 2-1.
 
 ### Videre oppfølging
 

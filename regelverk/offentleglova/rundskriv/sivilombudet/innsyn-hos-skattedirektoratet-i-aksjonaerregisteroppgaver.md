@@ -16,8 +16,7 @@ Sivilombudets uttalelse 14.11.2014 (sak 2014/1596).
 ## Oppsummering
 
 Skatteetatens tjenesteeierarkiv i Altinn må i forhold til innsynskrav etter offentleglova anses å være en av Skatteetatens egne databaser.  
-   
- Selv om offentleglova skulle forstås slik at databasen er en, for Skatteetaten, «ekstern» database vil dokumenter fra Skatteetatens tjenesteeierarkiv, anses å ha kommet frem til, eller være lagt frem for Skatteetaten, senest på det tidspunkt Skatteetaten har overført alle opplysningene i dokumentet til sin egen database, jf. offentleglova § 4. Det aktuelle dokumentet vil derfor i hvert fall være å anse som et saksdokument for organet fra det tidspunkt opplysningene i det opprinnelige dokumentet er overført til organets database. Dersom opplysningene ikke lastes over i organets egen database, vil dokumentet være å anse som saksdokument for organet på det tidspunkt dokumentet benyttes i organets saksbehandling.
+Selv om offentleglova skulle forstås slik at databasen er en, for Skatteetaten, «ekstern» database vil dokumenter fra Skatteetatens tjenesteeierarkiv, anses å ha kommet frem til, eller være lagt frem for Skatteetaten, senest på det tidspunkt Skatteetaten har overført alle opplysningene i dokumentet til sin egen database, jf. offentleglova § 4. Det aktuelle dokumentet vil derfor i hvert fall være å anse som et saksdokument for organet fra det tidspunkt opplysningene i det opprinnelige dokumentet er overført til organets database. Dersom opplysningene ikke lastes over i organets egen database, vil dokumentet være å anse som saksdokument for organet på det tidspunkt dokumentet benyttes i organets saksbehandling.
 
 Se oppdatering fra forvaltningen
 

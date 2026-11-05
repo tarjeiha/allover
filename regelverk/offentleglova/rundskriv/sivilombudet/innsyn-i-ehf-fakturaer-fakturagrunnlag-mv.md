@@ -16,10 +16,8 @@ Sivilombudets uttalelse 26.10.2026 (sak 2026/2592).
 ## Oppsummering
 
 Saken gjelder Helse- og omsorgsdepartementets stadfestelse av Helse Bergen HF sitt avslag på et krav om innsyn i nærmere spesifiserte fakturaer i EHF/XML-format. Helse- og omsorgsdepartementet viste i avslaget til at fakturaene kun er lagret i PDF-format og at en ikke kan kreve innsyn i formater som organet ikke har. Spørsmålet var for det første om saken var tilstrekkelig opplyst da departementet fattet avgjørelse(r) i klagesaken, og for det andre om det kan kreves innsyn i fakturaene i EHF-format.  
-   
- Sivilombudet kom til at saken ikke var godt nok opplyst da Helse- og omsorgsdepartementet fattet sine avgjørelser 7. og 10. april 2026, jf. forvaltningsloven § 33 femte ledd. Det er også begrunnet tvil om innsynskravet kunne avslås med den begrunnelsen departementet har gitt.  
-   
- Helse- og omsorgsdepartementet ble bedt om å vurdere saken på nytt.
+Sivilombudet kom til at saken ikke var godt nok opplyst da Helse- og omsorgsdepartementet fattet sine avgjørelser 7. og 10. april 2026, jf. forvaltningsloven § 33 femte ledd. Det er også begrunnet tvil om innsynskravet kunne avslås med den begrunnelsen departementet har gitt.  
+Helse- og omsorgsdepartementet ble bedt om å vurdere saken på nytt.
 
 ## Sakens bakgrunn
 

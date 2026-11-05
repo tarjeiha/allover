@@ -16,10 +16,8 @@ Sivilombudets uttalelse 27.6.2022 (sak 2022/1340).
 ## Oppsummering
 
 Saken gjelder et krav om innsyn i saker om tilbakebetaling av studiestøtte ved brudd på avtale mellom en arbeidsgiver og arbeidstakere om plikttid. Finansdepartementet mente kravet kunne ha vært avvist under henvisning til identifikasjonskravet, men ga delvis innsyn i tre dokumenter Skattedirektoratet hadde funnet frem.  
-   
- Ombudet var enig med departementet i at innsynskravet, slik det var utformet, kunne avvises. For å imøtekomme innsynskravet, måtte det foretas en manuell gjennomgang av et stort antall personalmapper, og dette ville være urimelig arbeidskrevende.   
-   
- Ombudet kom videre til at ingen av de dokumentene det er vurdert innsyn i, er organinterne. Et av dokumentene er sendt fra Skattedirektoratet til den arbeidstakeren som hadde bedt om beregning av tilbakebetalingskrav, og er av den grunn ikke organinternt. De to andre dokumentene er sendt mellom Skattedirektoratet og henholdsvis Skatt sør og divisjonen Brukerdialog. Ombudet kom til at Skattedirektoratet og hver av de tidligere regionene og de nåværende divisjonene er selvstendige organer, og at disse dokumentene derfor ikke er organinterne.
+Ombudet var enig med departementet i at innsynskravet, slik det var utformet, kunne avvises. For å imøtekomme innsynskravet, måtte det foretas en manuell gjennomgang av et stort antall personalmapper, og dette ville være urimelig arbeidskrevende.  
+Ombudet kom videre til at ingen av de dokumentene det er vurdert innsyn i, er organinterne. Et av dokumentene er sendt fra Skattedirektoratet til den arbeidstakeren som hadde bedt om beregning av tilbakebetalingskrav, og er av den grunn ikke organinternt. De to andre dokumentene er sendt mellom Skattedirektoratet og henholdsvis Skatt sør og divisjonen Brukerdialog. Ombudet kom til at Skattedirektoratet og hver av de tidligere regionene og de nåværende divisjonene er selvstendige organer, og at disse dokumentene derfor ikke er organinterne.
 
 ## Sakens bakgrunn
 

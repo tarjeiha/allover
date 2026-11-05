@@ -15,10 +15,8 @@ Sivilombudets uttalelse 26.3.2021 (sak 2020/4458).
 ## Oppsummering
 
 Saken gjaldt behandling av søknad om parkeringstillatelse for forflytningshemmede.  
-   
- Ombudsmannen kom til at kommunens saksbehandler var inhabil ved utarbeidelse av saksframlegget for klagenemnda når rådmannen i kommunen hadde underskrevet førsteinstansens avslag. Ombudsmannen kom videre til at forskrift om parkering for forflytningshemmede må forstås slik at også forflytningsproblemer knyttet til på- og avstigning i forbindelse med parkering kan gi grunnlag for parkeringstillatelse. Kommunen har derfor tolket forskriften feil.  
-   
- Ombudsmannen ba kommunens klagenemnd behandle klagen på nytt med grunnlag i en riktig forståelse av forskriften. Denne gangen uten at saksframlegget skrevet av kommunens administrasjon ble lagt til grunn for behandlingen. Ombudsmannen ba videre kommunen være oppmerksom på habilitetsreglene i kommuneloven § 13-3 ved fremtidig klagebehandling og sørge for en organisering av den kommunale klagebehandlingen som sikrer at habilitetsreglene fastsatt i kommuneloven overholdes.
+Ombudsmannen kom til at kommunens saksbehandler var inhabil ved utarbeidelse av saksframlegget for klagenemnda når rådmannen i kommunen hadde underskrevet førsteinstansens avslag. Ombudsmannen kom videre til at forskrift om parkering for forflytningshemmede må forstås slik at også forflytningsproblemer knyttet til på- og avstigning i forbindelse med parkering kan gi grunnlag for parkeringstillatelse. Kommunen har derfor tolket forskriften feil.  
+Ombudsmannen ba kommunens klagenemnd behandle klagen på nytt med grunnlag i en riktig forståelse av forskriften. Denne gangen uten at saksframlegget skrevet av kommunens administrasjon ble lagt til grunn for behandlingen. Ombudsmannen ba videre kommunen være oppmerksom på habilitetsreglene i kommuneloven § 13-3 ved fremtidig klagebehandling og sørge for en organisering av den kommunale klagebehandlingen som sikrer at habilitetsreglene fastsatt i kommuneloven overholdes.
 
 Se oppdatering fra forvaltningen
 

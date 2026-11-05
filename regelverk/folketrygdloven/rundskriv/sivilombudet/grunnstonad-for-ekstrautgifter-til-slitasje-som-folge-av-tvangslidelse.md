@@ -14,9 +14,8 @@ Sivilombudets uttalelse 17.12.2025 (sak 2025/3878).
 
 ## Oppsummering
 
-Saken gjelder tolkningen av vilkåret om «nødvendige ekstrautgifter» i folketrygdloven § 6-3 første ledd ved krav om grunnstønad for slitasje på klær og sengetøy som følge av en tvangslidelse. Klageren søkte grunnstønad grunnet en varig tvangslidelse som blant annet førte til hyppig og ødeleggende klesvask. Nav avslo søknaden, og Trygderetten stadfestet avslaget under henvisning til tidligere trygderettspraksis som fastslo at utgiftene ikke var å anse som nødvendige i lovens forstand.   
-   
- Sivilombudet kom til at ekstrautgifter til klesslitasje som skyldes varig tvangslidelse kan være nødvendige og at vilkåret har blitt tolket feil av Nav og Trygderetten. Ombudet så positivt på at Arbeids- og velferdsdirektoratet har besluttet å endre praksis. Klagerens sak er allerede blitt behandlet på nytt, og grunnstønad er blitt innvilget.
+Saken gjelder tolkningen av vilkåret om «nødvendige ekstrautgifter» i folketrygdloven § 6-3 første ledd ved krav om grunnstønad for slitasje på klær og sengetøy som følge av en tvangslidelse. Klageren søkte grunnstønad grunnet en varig tvangslidelse som blant annet førte til hyppig og ødeleggende klesvask. Nav avslo søknaden, og Trygderetten stadfestet avslaget under henvisning til tidligere trygderettspraksis som fastslo at utgiftene ikke var å anse som nødvendige i lovens forstand.  
+Sivilombudet kom til at ekstrautgifter til klesslitasje som skyldes varig tvangslidelse kan være nødvendige og at vilkåret har blitt tolket feil av Nav og Trygderetten. Ombudet så positivt på at Arbeids- og velferdsdirektoratet har besluttet å endre praksis. Klagerens sak er allerede blitt behandlet på nytt, og grunnstønad er blitt innvilget.
 
 ## Sakens bakgrunn
 

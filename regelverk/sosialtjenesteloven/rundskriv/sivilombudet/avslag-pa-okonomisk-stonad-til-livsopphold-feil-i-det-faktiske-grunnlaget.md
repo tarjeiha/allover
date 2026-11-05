@@ -16,8 +16,7 @@ Sivilombudets uttalelse 13.9.2016 (sak 2016/969).
 ## Oppsummering
 
 Saken gjelder avslag på krav om økonomisk stønad til livsopphold. Det sentrale spørsmålet var om saken var tilstrekkelig opplyst da Nav og Fylkesmannen traff sine vedtak i saken.  
-   
- Ombudsmannen mente det knyttet seg begrunnet tvil til Fylkesmannens standpunkt om at det ikke hadde betydning for konklusjonen i vedtaket til Fylkesmannen i Østfold at det feilaktig ble lagt til grunn at brukeren mottok grunnstønad for de ekstrautgiftene hun hadde opplyst om. Fylkesmannen ble derfor bedt om å vurdere saken på nytt, og å orientere ombudsmannen om utfallet av den nye vurderingen.
+Ombudsmannen mente det knyttet seg begrunnet tvil til Fylkesmannens standpunkt om at det ikke hadde betydning for konklusjonen i vedtaket til Fylkesmannen i Østfold at det feilaktig ble lagt til grunn at brukeren mottok grunnstønad for de ekstrautgiftene hun hadde opplyst om. Fylkesmannen ble derfor bedt om å vurdere saken på nytt, og å orientere ombudsmannen om utfallet av den nye vurderingen.
 
 Se oppdatering fra forvaltningen
 

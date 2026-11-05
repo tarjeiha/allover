@@ -16,10 +16,8 @@ Sivilombudets uttalelse 7.2.2025 (sak 2024/5511).
 ## Oppsummering
 
 Saken gjelder kravet til veiledning om fremtidige lovendringer av betydning for klageren. Klageren i saken var under arbeidsutprøving høsten 2020. Arbeidsevnevurderingen fra Nav-kontoret forelå 7. januar 2021, og klageren søkte om uføretrygd samme dag. Søknaden ble avslått fordi klageren ikke oppfylte kravet til forutgående medlemskap.  
-   
- Retten til uføretrygd forutsetter at søkeren har bodd i Norge i en bestemt periode før uføretidspunktet inntreffer. Fra 1. januar 2021 ble kravet til forutgående medlemskap økt fra tre til fem år. Som følge av lovendringen oppfylte ikke klageren lenger vilkåret for uføretrygd.   
-   
- Sivilombudet er kommet til at klageren fikk manglende veiledning, jf. forvaltningsloven § 11. Arbeids- og velferdsdirektoratet erkjente feilen. Direktoratet ble i 2022 kjent med at det ikke var god nok kunnskap i etaten om lovendringen. Et større antall saker ble derfor gjennomgått manuelt for å avdekke om manglende veiledning var gitt. Om lag 200 saker ble omgjort. Klagerens sak ble ikke fanget opp i dette arbeidet. Etter at ombudet tok saken opp med direktoratet, ble klagerens søknad behandlet på nytt og uføretrygd ble innvilget. Ombudet ba direktoratet følge opp saken med Nav Klageinstans, som man antok at ikke hadde kjennskap til direktoratets arbeid i etterkant av lovendringen.
+Retten til uføretrygd forutsetter at søkeren har bodd i Norge i en bestemt periode før uføretidspunktet inntreffer. Fra 1. januar 2021 ble kravet til forutgående medlemskap økt fra tre til fem år. Som følge av lovendringen oppfylte ikke klageren lenger vilkåret for uføretrygd.  
+Sivilombudet er kommet til at klageren fikk manglende veiledning, jf. forvaltningsloven § 11. Arbeids- og velferdsdirektoratet erkjente feilen. Direktoratet ble i 2022 kjent med at det ikke var god nok kunnskap i etaten om lovendringen. Et større antall saker ble derfor gjennomgått manuelt for å avdekke om manglende veiledning var gitt. Om lag 200 saker ble omgjort. Klagerens sak ble ikke fanget opp i dette arbeidet. Etter at ombudet tok saken opp med direktoratet, ble klagerens søknad behandlet på nytt og uføretrygd ble innvilget. Ombudet ba direktoratet følge opp saken med Nav Klageinstans, som man antok at ikke hadde kjennskap til direktoratets arbeid i etterkant av lovendringen.
 
 Se oppdatering fra forvaltningen
 

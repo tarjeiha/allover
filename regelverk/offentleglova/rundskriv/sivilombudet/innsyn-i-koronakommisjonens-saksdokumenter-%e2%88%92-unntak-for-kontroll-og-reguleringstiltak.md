@@ -14,9 +14,8 @@ Sivilombudets uttalelse 22.3.2021 (sak 2021/105).
 
 ## Oppsummering
 
-En journalist ba om innsyn i Koronakommisjonens brev til ulike aktører om deres håndtering av koronapandemien. Kravet ble avslått med henvisning til offentleglova § 24 første ledd om unntak fordi innsyn vil motvirke et offentlig kontroll- og reguleringstiltak.   
-   
- Saken reiser et prinsipielt spørsmål om Koronakommisjonen kan anses som et «kontroll- og reguleringstiltak» i lovens forstand. Med mandatets overordnede målsetning om læring og forbedring av nasjonens beredskap og krisehåndtering har Koronakommisjonens mandat, slik ombudsmannen ser det, lite preg av å være et kontrolltiltak. Ombudsmannen har derfor kommet til at offentleglova § 24 første ledd ikke kommer til anvendelse og ber om at Klagenemnda for Koronakommisjonen behandler innsynskravene på nytt.
+En journalist ba om innsyn i Koronakommisjonens brev til ulike aktører om deres håndtering av koronapandemien. Kravet ble avslått med henvisning til offentleglova § 24 første ledd om unntak fordi innsyn vil motvirke et offentlig kontroll- og reguleringstiltak.  
+Saken reiser et prinsipielt spørsmål om Koronakommisjonen kan anses som et «kontroll- og reguleringstiltak» i lovens forstand. Med mandatets overordnede målsetning om læring og forbedring av nasjonens beredskap og krisehåndtering har Koronakommisjonens mandat, slik ombudsmannen ser det, lite preg av å være et kontrolltiltak. Ombudsmannen har derfor kommet til at offentleglova § 24 første ledd ikke kommer til anvendelse og ber om at Klagenemnda for Koronakommisjonen behandler innsynskravene på nytt.
 
 ## Sakens bakgrunn
 

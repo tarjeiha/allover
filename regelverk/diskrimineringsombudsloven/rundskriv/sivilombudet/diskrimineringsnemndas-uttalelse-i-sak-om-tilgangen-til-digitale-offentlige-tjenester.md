@@ -16,12 +16,9 @@ Sivilombudets uttalelse 27.6.2025 (sak 2024/6302).
 ## Oppsummering
 
 Saken gjelder Diskrimineringsnemndas behandling av en klage fra Norsk forbund for Utviklingshemmede (NFU) mot Digitaliserings- og forvaltningsdepartementet. Spørsmålet i saken var om departementet hadde handlet i strid med forbudet mot indirekte diskriminering på grunn av funksjonsnedsettelse, ved ikke å sikre et innloggingssystem til offentlige digitale tjenester som er tilgjengelig for alle. NFU viste til at mange mennesker utestenges fra digitale offentlige tjenester fordi de ikke får tilgang til eID på høyeste sikkerhetsnivå.  
-   
- Diskrimineringsnemnda avsa uttalelse i saken 11. mars 2024, og konkluderte med at det ikke forelå diskriminering fra departementets side.   
-   
- Sivilombudet kom til at det var feil ved Diskrimineringsnemndas uttalelse. Sivilombudet pekte på at nemndas utredning og begrunnelse var mangelfull. Det gjaldt både vurderingen av faktiske omstendigheter og rettslige spørsmål. Uttalelsen manglet en nærmere drøftelse av hovedspørsmålet. Det var dermed uklart hva som var grunnlaget for Diskrimineringsnemndas konklusjon om at departementet ikke diskriminerer.   
-   
- Sivilombudet anbefalte NFU å sende Diskrimineringsnemnda en begjæring om gjenåpning, så raskt som mulig.
+Diskrimineringsnemnda avsa uttalelse i saken 11. mars 2024, og konkluderte med at det ikke forelå diskriminering fra departementets side.  
+Sivilombudet kom til at det var feil ved Diskrimineringsnemndas uttalelse. Sivilombudet pekte på at nemndas utredning og begrunnelse var mangelfull. Det gjaldt både vurderingen av faktiske omstendigheter og rettslige spørsmål. Uttalelsen manglet en nærmere drøftelse av hovedspørsmålet. Det var dermed uklart hva som var grunnlaget for Diskrimineringsnemndas konklusjon om at departementet ikke diskriminerer.  
+Sivilombudet anbefalte NFU å sende Diskrimineringsnemnda en begjæring om gjenåpning, så raskt som mulig.
 
 ## 1. Sakens bakgrunn
 

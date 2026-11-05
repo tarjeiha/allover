@@ -16,8 +16,7 @@ Sivilombudets uttalelse 22.6.2022 (sak 2022/1346).
 ## Oppsummering
 
 Saken gjaldt spørsmålet om klageren kunne kreve dekket sakskostnader etter forvaltningsloven § 36 i en sak om partsinnsyn. Nav avslo kravet begrunnet i at bestemmelsen, etter Navs syn, ikke kom til anvendelse i partsinnsynssaker.  
-   
- Ombudet kom til at forvaltningsloven § 21 annet ledd første punktum må forstås slik at forvaltningsloven § 36 kan gjøres gjeldende ved avslag på krav om partsinnsyn som endres til partens gunst. Nav ble bedt om å vurdere saken på nytt og om å oppdatere rundskrivet i samsvar med uttalelsen.
+Ombudet kom til at forvaltningsloven § 21 annet ledd første punktum må forstås slik at forvaltningsloven § 36 kan gjøres gjeldende ved avslag på krav om partsinnsyn som endres til partens gunst. Nav ble bedt om å vurdere saken på nytt og om å oppdatere rundskrivet i samsvar med uttalelsen.
 
 Se oppdatering fra forvaltningen
 

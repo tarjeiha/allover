@@ -14,17 +14,11 @@ Sivilombudets uttalelse 2.2.2024 (sak 2023/4247).
 
 ## Oppsummering
 
-Saken gjelder innsyn i innsideoversikter ført hos Statsministerens kontor de siste to årene. Kravet ble avslått med henvisning til at oversiktene var organinterne dokumenter og kunne unntas med hjemmel i offentleglova § 14. Det ble ikke utvist merinnsyn jf. offentleglova § 11. Etter at ombudet undersøkte saken ga Statsministerens kontor innsyn i navnene som sto oppført på oversiktene, men sladdet opplysninger som kunne avsløre at en sak var behandlet i regjering og når en sak var behandlet i regjering.   
-   
-   
- Sivilombudet er kommet til at det er adgang til å unnta innsideoversiktene i medhold av offentleglova § 14 og har ingen innvendinger til Statsministerens kontors vurdering at det er tungtveiende argumenter mot å utvise merinnsyn i opplysninger som vil røpe at en sak skal behandles/er behandlet i regjering.  
-   
-   
- Sivilombudet mener merinnsynsvurderingen fremstår som mangelfull for innsideoversikter knyttet til saker det er offentlig kjent at er behandlet i regjeringen. Innsideoversikter med det innholdet de har, er ikke i kjernen av unntaksbestemmelsen i offentleglova § 14. Ombudet kan heller ikke se at de hensynene som er trukket fram i merinnsynsvurderingen, samsvarer med begrunnelsen for unntaksregelen i offentleglova § 14 første ledd. Det er etter ombudets syn feil å vektlegge hensynet til fortrolighet om en avsluttet saksbehandlingsprosess i en merinnsynsvurdering knyttet til innsideoversikter. Hensynene som er vektlagt i Statsministerens kontors merinnsynsvurdering, gjør seg i begrenset grad gjeldende. De kan dermed heller ikke være avgjørende for vurderingen av merinnsyn i innsideoversikter knyttet til saker det er kjent at regjeringen har behandlet.   
-   
- Sivilombudet ber Statsministerens kontor gjøre en fornyet merinnsynsvurdering knyttet konkret til hver av innsideoversiktene.   
-   
- Sivilombudet har enkelte merknader til praksis med å gradere dokumenter i medhold av beskyttelsesinstruksen og ber Statsministerens kontor vurdere om innsideoversiktene skal være graderte.
+Saken gjelder innsyn i innsideoversikter ført hos Statsministerens kontor de siste to årene. Kravet ble avslått med henvisning til at oversiktene var organinterne dokumenter og kunne unntas med hjemmel i offentleglova § 14. Det ble ikke utvist merinnsyn jf. offentleglova § 11. Etter at ombudet undersøkte saken ga Statsministerens kontor innsyn i navnene som sto oppført på oversiktene, men sladdet opplysninger som kunne avsløre at en sak var behandlet i regjering og når en sak var behandlet i regjering.  
+Sivilombudet er kommet til at det er adgang til å unnta innsideoversiktene i medhold av offentleglova § 14 og har ingen innvendinger til Statsministerens kontors vurdering at det er tungtveiende argumenter mot å utvise merinnsyn i opplysninger som vil røpe at en sak skal behandles/er behandlet i regjering.  
+Sivilombudet mener merinnsynsvurderingen fremstår som mangelfull for innsideoversikter knyttet til saker det er offentlig kjent at er behandlet i regjeringen. Innsideoversikter med det innholdet de har, er ikke i kjernen av unntaksbestemmelsen i offentleglova § 14. Ombudet kan heller ikke se at de hensynene som er trukket fram i merinnsynsvurderingen, samsvarer med begrunnelsen for unntaksregelen i offentleglova § 14 første ledd. Det er etter ombudets syn feil å vektlegge hensynet til fortrolighet om en avsluttet saksbehandlingsprosess i en merinnsynsvurdering knyttet til innsideoversikter. Hensynene som er vektlagt i Statsministerens kontors merinnsynsvurdering, gjør seg i begrenset grad gjeldende. De kan dermed heller ikke være avgjørende for vurderingen av merinnsyn i innsideoversikter knyttet til saker det er kjent at regjeringen har behandlet.  
+Sivilombudet ber Statsministerens kontor gjøre en fornyet merinnsynsvurdering knyttet konkret til hver av innsideoversiktene.  
+Sivilombudet har enkelte merknader til praksis med å gradere dokumenter i medhold av beskyttelsesinstruksen og ber Statsministerens kontor vurdere om innsideoversiktene skal være graderte.
 
 Se oppdatering fra forvaltningen
 

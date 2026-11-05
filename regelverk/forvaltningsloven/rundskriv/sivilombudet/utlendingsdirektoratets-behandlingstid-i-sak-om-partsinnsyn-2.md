@@ -14,17 +14,12 @@ Sivilombudets uttalelse 29.4.2022 (sak 2022/1239).
 
 ## Oppsummering
 
-Utlendingsdirektoratet (UDI) brukte til sammen over ett år på å behandle en begjæring om partsinnsyn og sende klagen til rett klageorgan. Det tok nesten tre måneder før UDI traff vedtak i første instans. Vedtaket ble påklagd. Det tok seks uker før UDI sendte klagen videre, og da til feil klageorgan. Etter at UDI ble gjort oppmerksom på feilen gikk det ytterligere seks uker før klagen ble sendt til rett instans.   
-   
- Innsynssaken ble ikke behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Saker om partsinnsyn skal som hovedregel avgjøres samme dag, og normalt senest innen tre dager. Saken representerer et klart brudd på reglene om hurtig behandling av innsynssaker.   
-   
- UDI har videre ikke oppfylt sin plikt til å holde parten orientert om saksfremdriften, jf. forvaltningsloven § 11 a andre ledd og normer for god forvaltningsskikk.  
-   
- UDI har også brutt forvaltningsloven § 33 fjerde ledd om at saken skal oversendes klageinstansen så snart den er tilrettelagt. UDI lot klagen ligge vesentlig for lenge før den ble sendt videre, men da til feil klageorgan. Når feilen ble oppdaget tok det ytterligere seks uker før saken ble oversendt til rett instans, noe som er uakseptabelt lang tid i en sak om partsinnsyn.  
-   
- I denne saken tok det mer enn ett år og fire måneder fra innsyn ble krevd til parten fikk fullt innsyn i saksdokumentene etter å ha fått medhold av klageinstansen. Det er en uakseptabelt lang saksbehandlingstid.  
-   
- Ombudet ber om at UDI innen 25. mai 2022 gir en nærmere redegjørelse for hvilke tiltak som er eller vil bli iverksatt for å sikre at fremtidige begjæringer om partsinnsyn behandles på en tilfredsstillende måte.
+Utlendingsdirektoratet (UDI) brukte til sammen over ett år på å behandle en begjæring om partsinnsyn og sende klagen til rett klageorgan. Det tok nesten tre måneder før UDI traff vedtak i første instans. Vedtaket ble påklagd. Det tok seks uker før UDI sendte klagen videre, og da til feil klageorgan. Etter at UDI ble gjort oppmerksom på feilen gikk det ytterligere seks uker før klagen ble sendt til rett instans.  
+Innsynssaken ble ikke behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Saker om partsinnsyn skal som hovedregel avgjøres samme dag, og normalt senest innen tre dager. Saken representerer et klart brudd på reglene om hurtig behandling av innsynssaker.  
+UDI har videre ikke oppfylt sin plikt til å holde parten orientert om saksfremdriften, jf. forvaltningsloven § 11 a andre ledd og normer for god forvaltningsskikk.  
+UDI har også brutt forvaltningsloven § 33 fjerde ledd om at saken skal oversendes klageinstansen så snart den er tilrettelagt. UDI lot klagen ligge vesentlig for lenge før den ble sendt videre, men da til feil klageorgan. Når feilen ble oppdaget tok det ytterligere seks uker før saken ble oversendt til rett instans, noe som er uakseptabelt lang tid i en sak om partsinnsyn.  
+I denne saken tok det mer enn ett år og fire måneder fra innsyn ble krevd til parten fikk fullt innsyn i saksdokumentene etter å ha fått medhold av klageinstansen. Det er en uakseptabelt lang saksbehandlingstid.  
+Ombudet ber om at UDI innen 25. mai 2022 gir en nærmere redegjørelse for hvilke tiltak som er eller vil bli iverksatt for å sikre at fremtidige begjæringer om partsinnsyn behandles på en tilfredsstillende måte.
 
 ## Sakens bakgrunn
 

@@ -16,12 +16,9 @@ Sivilombudets uttalelse 17.6.2020 (sak 2019/5141).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i dokumenter om behandling av norsk brukt atombrensel. Nærings- og fiskeridepartementet avslo innsynskravet delvis med henvisning til offentleglova § 15 første ledd om dokument innhentet fra underordnet organ for intern saksforberedelse, samt offentleglova § 13, jf. forvaltningsloven § 13 første ledd nr. 2 og atomenergiloven § 53 første ledd bokstav b om lovbestemt taushetsplikt.  
-   
- Ombudsmannen er kommet til at dokumentene inneholder miljøinformasjon og at departementets vurdering av innsyn etter miljøinformasjonsloven er mangelfull. Departementet har ikke foretatt en tilstrekkelig konkret vurdering av om det foreligger et reelt og saklig behov for å unnta samtlige av de sladdede opplysningene, herunder foretatt en slik interesseavveining som miljøinformasjonsloven gir anvisning på.  
-   
- Ombudsmannen har ikke innvendinger til departementets vurdering av at opplysningene i dokument 18/7339-6 og 7 der Norsk nukleær dekommisjonering gir fortrolige råd og vurderinger til departementet i utgangspunktet er omfattet av offentleglova § 15 første ledd første punktum. Ombudsmannen har heller ikke avgjørende innvendinger mot departementets vurderinger av at opplysninger om teknologi, pris og behandlingsmetoder, i utgangspunktet er underlagt taushetsplikt. Slik saken fremstår for ombudsmannen, synes de sladdede opplysningene hovedsakelig å gjelde slike forhold. Ombudsmannen har ikke den nødvendige fagkunnskapen for å kunne overprøve den nærmere avgrensningen av hvilke opplysninger som er taushetsbelagte. Ombudsmannen finner likevel grunn til å påpeke at departementets begrunnelser fremstår korte og generelle.  
-   
- Ombudsmannen ber departementet om å foreta en ny vurdering av saken.
+Ombudsmannen er kommet til at dokumentene inneholder miljøinformasjon og at departementets vurdering av innsyn etter miljøinformasjonsloven er mangelfull. Departementet har ikke foretatt en tilstrekkelig konkret vurdering av om det foreligger et reelt og saklig behov for å unnta samtlige av de sladdede opplysningene, herunder foretatt en slik interesseavveining som miljøinformasjonsloven gir anvisning på.  
+Ombudsmannen har ikke innvendinger til departementets vurdering av at opplysningene i dokument 18/7339-6 og 7 der Norsk nukleær dekommisjonering gir fortrolige råd og vurderinger til departementet i utgangspunktet er omfattet av offentleglova § 15 første ledd første punktum. Ombudsmannen har heller ikke avgjørende innvendinger mot departementets vurderinger av at opplysninger om teknologi, pris og behandlingsmetoder, i utgangspunktet er underlagt taushetsplikt. Slik saken fremstår for ombudsmannen, synes de sladdede opplysningene hovedsakelig å gjelde slike forhold. Ombudsmannen har ikke den nødvendige fagkunnskapen for å kunne overprøve den nærmere avgrensningen av hvilke opplysninger som er taushetsbelagte. Ombudsmannen finner likevel grunn til å påpeke at departementets begrunnelser fremstår korte og generelle.  
+Ombudsmannen ber departementet om å foreta en ny vurdering av saken.
 
 Se oppdatering fra forvaltningen
 

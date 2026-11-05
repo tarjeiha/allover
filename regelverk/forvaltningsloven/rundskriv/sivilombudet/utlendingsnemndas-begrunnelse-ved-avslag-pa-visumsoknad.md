@@ -16,8 +16,7 @@ Sivilombudets uttalelse 10.12.2018 (sak 2017/4030).
 ## Oppsummering
 
 Saken gjelder Utlendingsnemndas avslag på søknad om Schengenvisum for en pakistansk borger. Hun skulle til Norge for å besøke sin norske ektemann, som samtidig også var formelt gift med en annen kvinne i Norge. Utlendingsmyndighetene har hjemmel til å avslå søknader om visum dersom innvandringsregulerende hensyn taler mot at visum gis. Avslaget i denne saken bygget på at klagers returforutsetninger var svake, og at det ikke forelå velferdshensyn som kunne veie opp for dette. Det var derfor innvandringsregulerende hensyn som talte mot at visum skulle gis til klager.  
-   
- Ombudsmannen er kommet til at den delen av Utlendingsnemndas vedtak som gjaldt vurderingen av forholdet mellom klager og ektemannen som et velferdshensyn, ikke var godt nok begrunnet. Det er ikke nok kun å vise til at ekteskapet deres ikke kan legges til grunn, uten å foreta noen nærmere individuell vurdering av relasjonen dem imellom. Basert på Utlendingsnemndas redegjørelse hit, og begrunnelsen i vedtaket for øvrig, har ombudsmannen likevel ikke rettslige innvendinger mot den konkrete skjønnsmessige vurderingen av om det forelå innvandringsregulerende hensyn som talte mot innvilgelse av visumsøknaden.
+Ombudsmannen er kommet til at den delen av Utlendingsnemndas vedtak som gjaldt vurderingen av forholdet mellom klager og ektemannen som et velferdshensyn, ikke var godt nok begrunnet. Det er ikke nok kun å vise til at ekteskapet deres ikke kan legges til grunn, uten å foreta noen nærmere individuell vurdering av relasjonen dem imellom. Basert på Utlendingsnemndas redegjørelse hit, og begrunnelsen i vedtaket for øvrig, har ombudsmannen likevel ikke rettslige innvendinger mot den konkrete skjønnsmessige vurderingen av om det forelå innvandringsregulerende hensyn som talte mot innvilgelse av visumsøknaden.
 
 ## Sakens bakgrunn
 

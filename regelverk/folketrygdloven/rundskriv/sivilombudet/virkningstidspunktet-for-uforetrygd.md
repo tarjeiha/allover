@@ -15,12 +15,10 @@ Sivilombudets uttalelse 8.7.2022 (sak 2022/1139).
 
 ## Oppsummering
 
-Saken gjelder fastsettelse av virkningstidspunktet for uføretrygd.   
- Etter folketrygdloven § 22-13 syvende ledd kan en ytelse gis for opptil tre år før kravet ble satt fram, dersom den som har rett til ytelsen åpenbart ikke har vært i stand til å sette fram krav tidligere. En ytelse kan også gis for opptil tre år tilbake dersom kravet ikke er satt fram tidligere fordi trygdens organer har gitt misvisende opplysninger.   
-   
- Sivilombudet er kommet til at vilkåret om at «den som har rett til ytelsen, åpenbart ikke har vært i stand til å sette fram krav tidligere» gjelder rettighetshaveren, og at rettighetshaveren ikke kan identifiseres med vergen. Videre er ombudet kommet til at Nav ga misvisende opplysninger til klageren. Klageren har dermed rett til etterbetaling og virkningstidspunktet for klagerens uføretrygd settes tilbake til hennes 18-årsdag, ti måneder før kravet ble satt fram.   
-   
- Ombudet ber Arbeids- og velferdsdirektoratet sørge for at saken blir behandlet på nytt.
+Saken gjelder fastsettelse av virkningstidspunktet for uføretrygd.  
+Etter folketrygdloven § 22-13 syvende ledd kan en ytelse gis for opptil tre år før kravet ble satt fram, dersom den som har rett til ytelsen åpenbart ikke har vært i stand til å sette fram krav tidligere. En ytelse kan også gis for opptil tre år tilbake dersom kravet ikke er satt fram tidligere fordi trygdens organer har gitt misvisende opplysninger.  
+Sivilombudet er kommet til at vilkåret om at «den som har rett til ytelsen, åpenbart ikke har vært i stand til å sette fram krav tidligere» gjelder rettighetshaveren, og at rettighetshaveren ikke kan identifiseres med vergen. Videre er ombudet kommet til at Nav ga misvisende opplysninger til klageren. Klageren har dermed rett til etterbetaling og virkningstidspunktet for klagerens uføretrygd settes tilbake til hennes 18-årsdag, ti måneder før kravet ble satt fram.  
+Ombudet ber Arbeids- og velferdsdirektoratet sørge for at saken blir behandlet på nytt.
 
 Se oppdatering fra forvaltningen
 

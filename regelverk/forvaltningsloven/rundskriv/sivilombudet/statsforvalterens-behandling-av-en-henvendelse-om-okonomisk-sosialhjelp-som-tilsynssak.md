@@ -16,8 +16,7 @@ Sivilombudets uttalelse 31.5.2022 (sak 2022/1350).
 ## Oppsummering
 
 Saken gjelder Statsforvalterens oppfølgning av en henvendelse fra en person som ikke fikk levert muntlig søknad om økonomisk stønad (nødhjelp). Han mente også at Navs krav til dokumentasjon for søknaden var for omfattende. Samme dag henvendelsen var sendt hadde han fått avslag på søknad om nødhjelp. Statsforvalteren åpnet tilsynssak på bakgrunn av henvendelsen og fikk tilsendt saksutredning og avslagsvedtaket fra Nav, men undersøkte ikke med klageren om henvendelsen var ment som en klage over avslaget.  
-   
- Sivilombudet er kommet til at Statsforvalteren burde ha undersøkt med klageren om henvendelsen også var ment som en klage over enkeltvedtaket. Den som henvender seg til Statsforvalteren i saker etter sosialtjenesteloven, er ikke nødvendigvis kjent med Statsforvalterens rolle både som klage- og tilsynsorgan, og hvilke konsekvenser de ulike funksjonene har. Statsforvalteren bes om å undersøke med klageren om han mente å klage på enkeltvedtaket.
+Sivilombudet er kommet til at Statsforvalteren burde ha undersøkt med klageren om henvendelsen også var ment som en klage over enkeltvedtaket. Den som henvender seg til Statsforvalteren i saker etter sosialtjenesteloven, er ikke nødvendigvis kjent med Statsforvalterens rolle både som klage- og tilsynsorgan, og hvilke konsekvenser de ulike funksjonene har. Statsforvalteren bes om å undersøke med klageren om han mente å klage på enkeltvedtaket.
 
 Se oppdatering fra forvaltningen
 
@@ -44,7 +43,7 @@ Klageren brakte saken inn for Sivilombudet 14. desember 2021.
 ## Våre undersøkelser
 
 Etter en gjennomgang av saksdokumentene fant vi grunn til å stille Statsforvalteren noen spørsmål om grensedragningen mellom rollen som klageinstans etter sosialtjenesteloven  
- § 47 og som tilsynsmyndighet etter § 9.
+§ 47 og som tilsynsmyndighet etter § 9.
 
 Vi spurte om Statsforvalteren, etter at vedtaket om avslag på nødhjelp var mottatt 1. juli 2021, vurderte om henvendelsen fra klageren måtte anses som en klage over et enkeltvedtak. Vi ba også om en redegjørelse for hva som var grunnen til at henvendelsen fra klageren utelukkende ble behandlet som en tilsynssak.
 

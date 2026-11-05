@@ -15,8 +15,7 @@ Sivilombudets uttalelse 23.11.2018 (sak 2017/1186).
 ## Oppsummering
 
 I forbindelse med etterforskning av straffbare forhold mot klagers mor sendte politiet en begjæring om at en ansatt i barnevernet skulle fritas fra lovbestemt taushetsplikt i en tidligere barnevernssak hvor klager var part. Hovedspørsmålene i saken er hvilke saksbehandlingsregler som gjelder for Fylkesmannens behandling av slike begjæringer.  
-   
- Ombudsmannen er kommet til at behandlingsmåten ikke fullt ut samsvarer med ulovfestede krav til forsvarlig saksbehandling. Klageren skulle fått anledning til å uttale seg før avgjørelsen ble truffet. Det er en saksbehandlingsfeil at Fylkesmannen ikke underrettet klageren om sin avgjørelse. Fylkesmannens veiledning etter henvendelse fra klagerens advokat er ikke tilstrekkelig til at parten kunne ivareta sine interesser. Fylkesmannens praksis ved utsendelse av avgjørelser etter straffeprosessloven § 118 bør endres slik at den som har krav på hemmelighold blir underrettet så lenge dette ikke er uforenlig med pågående etterforskning eller straffesak. Ombudsmannen ber om å bli orientert om Fylkesmannens oppfølging på dette punktet.
+Ombudsmannen er kommet til at behandlingsmåten ikke fullt ut samsvarer med ulovfestede krav til forsvarlig saksbehandling. Klageren skulle fått anledning til å uttale seg før avgjørelsen ble truffet. Det er en saksbehandlingsfeil at Fylkesmannen ikke underrettet klageren om sin avgjørelse. Fylkesmannens veiledning etter henvendelse fra klagerens advokat er ikke tilstrekkelig til at parten kunne ivareta sine interesser. Fylkesmannens praksis ved utsendelse av avgjørelser etter straffeprosessloven § 118 bør endres slik at den som har krav på hemmelighold blir underrettet så lenge dette ikke er uforenlig med pågående etterforskning eller straffesak. Ombudsmannen ber om å bli orientert om Fylkesmannens oppfølging på dette punktet.
 
 Se oppdatering fra forvaltningen
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 3.9.2025 (sak 2025/752).
 
 ## Oppsummering
 
-Saken gjaldt Statsforvalteren i Nordlands vedtak om tvangsmedisinering.   
-   
- Sivilombudet kom til at det var begrunnet tvil om de materielle vilkårene for tvangsmedisinering var oppfylt i denne saken. Statsforvalterens begrunnelse ga ikke grunnlag for å konkludere med at det var «stor sannsynlighet» for vesentlig positiv effekt av medisineringen. Det var ikke tilstrekkelig i seg selv å vise til at klageren er psykotisk og alvorlig sinnslidende, og at Helsedirektoratet i retningslinjen IS-1957 anbefaler frivillig bruk av antipsykotisk medisin ved diagnostisert psykoselidelse.  
-   
- Det fremgikk heller ikke av vedtaket hvilke momenter som ble vektlagt i avveiningen av om den gunstige virkningen klart oppveier ulempene ved tvangsmedisineringen. Dette var også i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.  
-   
- Ettersom vedtakets virkningstid var passert på tidspunktet for ombudets uttalelse, var det ikke grunn til å be Statsforvalteren om å behandle saken på nytt. Ombudet ba imidlertid Statsforvalteren merke seg ombudets syn i denne og tidligere saker om tvangsmedisinering, og legge dette til grunn ved behandlingen av fremtidige saker.
+Saken gjaldt Statsforvalteren i Nordlands vedtak om tvangsmedisinering.  
+Sivilombudet kom til at det var begrunnet tvil om de materielle vilkårene for tvangsmedisinering var oppfylt i denne saken. Statsforvalterens begrunnelse ga ikke grunnlag for å konkludere med at det var «stor sannsynlighet» for vesentlig positiv effekt av medisineringen. Det var ikke tilstrekkelig i seg selv å vise til at klageren er psykotisk og alvorlig sinnslidende, og at Helsedirektoratet i retningslinjen IS-1957 anbefaler frivillig bruk av antipsykotisk medisin ved diagnostisert psykoselidelse.  
+Det fremgikk heller ikke av vedtaket hvilke momenter som ble vektlagt i avveiningen av om den gunstige virkningen klart oppveier ulempene ved tvangsmedisineringen. Dette var også i strid med forvaltningslovens og psykisk helsevernlovens krav til begrunnelse.  
+Ettersom vedtakets virkningstid var passert på tidspunktet for ombudets uttalelse, var det ikke grunn til å be Statsforvalteren om å behandle saken på nytt. Ombudet ba imidlertid Statsforvalteren merke seg ombudets syn i denne og tidligere saker om tvangsmedisinering, og legge dette til grunn ved behandlingen av fremtidige saker.
 
 ## Sakens bakgrunn
 

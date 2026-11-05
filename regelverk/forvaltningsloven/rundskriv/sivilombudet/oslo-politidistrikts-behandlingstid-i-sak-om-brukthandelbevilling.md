@@ -14,9 +14,8 @@ Sivilombudets uttalelse 9.2.2026 (sak 2025/5756).
 
 ## Oppsummering
 
-Saken gjelder Oslo politidistrikts behandlingstid av en søknad om brukthandelbevilling, jf. brukthandelloven § 2. Politidistriktet anmodet søkeren om ytterligere dokumentasjon i saken, og orienterte om at saksbehandlingsfristen på åtte uker ikke begynte å løpe før all nødvendig dokumentasjon var mottatt. Ytterligere opplysninger ble ikke sendt inn. Etter at fristen for å sende inn dokumentasjonen hadde utløpt, gikk det syv måneder før politidistriktet fattet vedtak i saken.   
-   
- Sivilombudet kom til at Oslo politidistrikt hadde brutt kravet i forvaltningsloven § 11 a første ledd om at saken skal forberedes og avgjøres uten ugrunnet opphold. Sivilombudet forutsatte at politiet fremover vil forberede og avgjøre søknader om brukthandelbevilling i samsvar med fristene i regelverket.
+Saken gjelder Oslo politidistrikts behandlingstid av en søknad om brukthandelbevilling, jf. brukthandelloven § 2. Politidistriktet anmodet søkeren om ytterligere dokumentasjon i saken, og orienterte om at saksbehandlingsfristen på åtte uker ikke begynte å løpe før all nødvendig dokumentasjon var mottatt. Ytterligere opplysninger ble ikke sendt inn. Etter at fristen for å sende inn dokumentasjonen hadde utløpt, gikk det syv måneder før politidistriktet fattet vedtak i saken.  
+Sivilombudet kom til at Oslo politidistrikt hadde brutt kravet i forvaltningsloven § 11 a første ledd om at saken skal forberedes og avgjøres uten ugrunnet opphold. Sivilombudet forutsatte at politiet fremover vil forberede og avgjøre søknader om brukthandelbevilling i samsvar med fristene i regelverket.
 
 ## Sakens bakgrunn
 

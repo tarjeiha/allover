@@ -14,15 +14,11 @@ Sivilombudets uttalelse 28.6.2022 (sak 2022/2554).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Oslo og Vikens stadfestelse av et avslag fra Nav på søknad om økonomisk stønad i form av nødhjelp.   
-   
- Det følger av sosialtjenesteloven § 18 at den som «ikke kan sørge for sitt livsopphold gjennom arbeid eller ved å gjøre gjeldende økonomiske rettigheter, har krav på økonomisk stønad». Forarbeidene til bestemmelsen understreker at søkere i en nødssituasjon har krav på stønad til umiddelbare utgifter til blant annet mat, uavhengig av om vilkårene for økonomisk stønad er oppfylt.   
-   
- Klager opplyste i søknaden at hun ikke hadde mat. Hun dokumenterte også at det ikke var midler på kontoen hennes. Klager var kjent for sosialtjenesten i Nav, og hadde flere ganger tidligere søkt om nødhjelp.   
-   
- Nav avslo søknaden. Statsforvalteren stadfestet avslaget med den begrunnelse at klager hadde mottatt kr. 4020 i lønn to dager før søknaden. Ettersom hun hadde brukt hele lønningen til å betale en faktura, måtte hun ha tatt en avgjørelse om at hun klarte seg frem til ny inntekt. Statsforvalteren viste særlig til at klager flere ganger hadde fått råd og veiledning om å sikre sitt eget livsopphold før hun betalte andre utgifter.   
-   
- Sivilombudet er kommet til at Statsforvalteren la en feil vurdering av de faktiske forholdene til grunn for avslaget. De måtte ha klarere holdepunkter å bygge på for å forutsette at klager hadde tilgang til mat. En antakelse om at klager må ha ment at hun ville klare seg kunne vanskelig legges til grunn når hun opplyste at hun faktisk ikke hadde mat eller penger.
+Saken gjelder Statsforvalteren i Oslo og Vikens stadfestelse av et avslag fra Nav på søknad om økonomisk stønad i form av nødhjelp.  
+Det følger av sosialtjenesteloven § 18 at den som «ikke kan sørge for sitt livsopphold gjennom arbeid eller ved å gjøre gjeldende økonomiske rettigheter, har krav på økonomisk stønad». Forarbeidene til bestemmelsen understreker at søkere i en nødssituasjon har krav på stønad til umiddelbare utgifter til blant annet mat, uavhengig av om vilkårene for økonomisk stønad er oppfylt.  
+Klager opplyste i søknaden at hun ikke hadde mat. Hun dokumenterte også at det ikke var midler på kontoen hennes. Klager var kjent for sosialtjenesten i Nav, og hadde flere ganger tidligere søkt om nødhjelp.  
+Nav avslo søknaden. Statsforvalteren stadfestet avslaget med den begrunnelse at klager hadde mottatt kr. 4020 i lønn to dager før søknaden. Ettersom hun hadde brukt hele lønningen til å betale en faktura, måtte hun ha tatt en avgjørelse om at hun klarte seg frem til ny inntekt. Statsforvalteren viste særlig til at klager flere ganger hadde fått råd og veiledning om å sikre sitt eget livsopphold før hun betalte andre utgifter.  
+Sivilombudet er kommet til at Statsforvalteren la en feil vurdering av de faktiske forholdene til grunn for avslaget. De måtte ha klarere holdepunkter å bygge på for å forutsette at klager hadde tilgang til mat. En antakelse om at klager må ha ment at hun ville klare seg kunne vanskelig legges til grunn når hun opplyste at hun faktisk ikke hadde mat eller penger.
 
 ## Sakens bakgrunn
 

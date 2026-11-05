@@ -15,10 +15,8 @@ Sivilombudets uttalelse 11.11.2016 (sak 2016/1152).
 ## Oppsummering
 
 Spørsmål om barnets rettigheter ved barneverntjenestens vedtak om flytting av barn er på generelt grunnlag tatt opp med Barne- og likestillingsdepartementet, særlig tolkningen av barnevernloven § 6-3. Den gir barnet en medvirkningsrett, og spørsmålet er om den er absolutt. Det har også vært undersøkt om fylkesmennene i praksis anvender en riktig forståelse av bestemmelsen ved deres tilsyn med barneverntjenesten.  
-   
- Undersøkelsen viser at Barne- og likestillingsdepartementets rettslige forståelse av barns rett til å medvirke ved barneverntjenestens avgjørelser ikke fullt ut er i samsvar med Norges menneskerettslige forpliktelser og barnevernlovens bestemmelser. Fylkesmennenes praksis i tilsynssakene er ikke ensartet, og fylkesmennene la også en ulik forståelse av medvirkningsbestemmelsens rekkevidde i flyttesakene.  
-   
- Ombudsmannen mener det er behov for konkrete tiltak for å styrke barns medvirkningsrett i barnevernssaker og å styrke kunnskapen i barnevernet om hva plikten til å høre barn innebærer. Barne- og likestillingsdepartementet bes derfor følge opp uttalelsen med egnede tiltak, blant annet med sikte på å få en ensartet praksis hos fylkesmennene. Ombudsmannen ber om å bli holdt orientert om departementets oppfølging.
+Undersøkelsen viser at Barne- og likestillingsdepartementets rettslige forståelse av barns rett til å medvirke ved barneverntjenestens avgjørelser ikke fullt ut er i samsvar med Norges menneskerettslige forpliktelser og barnevernlovens bestemmelser. Fylkesmennenes praksis i tilsynssakene er ikke ensartet, og fylkesmennene la også en ulik forståelse av medvirkningsbestemmelsens rekkevidde i flyttesakene.  
+Ombudsmannen mener det er behov for konkrete tiltak for å styrke barns medvirkningsrett i barnevernssaker og å styrke kunnskapen i barnevernet om hva plikten til å høre barn innebærer. Barne- og likestillingsdepartementet bes derfor følge opp uttalelsen med egnede tiltak, blant annet med sikte på å få en ensartet praksis hos fylkesmennene. Ombudsmannen ber om å bli holdt orientert om departementets oppfølging.
 
 ## 1. Innledning
 

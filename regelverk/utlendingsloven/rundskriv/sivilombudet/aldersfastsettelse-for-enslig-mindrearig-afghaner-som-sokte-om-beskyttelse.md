@@ -15,14 +15,10 @@ Sivilombudets uttalelse 10.4.2019 (sak 2017/4181).
 ## Oppsummering
 
 Saken gjelder utlendingsmyndighetenes anvendelse av utlendingslovens regler for fastsettelse av alder når det grunn til tvil om utlendingen er barn eller voksen.  
-   
- Klageren kom fra Afghanistan til Norge og søkte om beskyttelse. Han mente han var 15 år gammel. Utlendingsdirektoratet (UDI) la vekt på aldersundersøkelsen og politiets uttalelser og kom til at klageren var ett år eldre enn han selv forklarte. Utlendingsnemnda (UNE) tiltrådte UDIs aldersvurdering. Etter at ombudsmannen stilte spørsmål ved de vurderingene som førte frem til UDIs aldersfastsettelse, vurderte UNE alle aldersopplysningene i saken på nytt. UNE kom da til at den alderen klageren selv hadde oppgitt skulle legges til grunn.  
-   
- Ombudsmannen har ingen innvendinger til UNEs forståelse og anvendelse av § 88 første ledd da de vurderte aldersopplysningene på nytt. Ombudsmannens alminnelige erfaring med denne sakstypen er likevel at lignende svakheter og feil som i det vedtaket UNE tiltrådte under den ordinære klagebehandlingen, ikke er uvanlig. Ombudsmannen ber derfor både UDI og UNE om å innskjerpe i sine organisasjoner de kravene som utlendingsloven § 88 første ledd stiller til utlendingsmyndighetenes vurderinger av aldersopplysningene i den enkelte sak.  
-   
- Ombudsmannen mener at aldersspørsmålet i klagers sak var et vesentlig tvilsspørsmål som skulle være avgjort av en nemndleder og to nemndmedlemmer etter hovedregelen i utlendingsloven § 78 første ledd.  
-   
- Utlendingsnemnda bes om å behandle saken på nytt.
+Klageren kom fra Afghanistan til Norge og søkte om beskyttelse. Han mente han var 15 år gammel. Utlendingsdirektoratet (UDI) la vekt på aldersundersøkelsen og politiets uttalelser og kom til at klageren var ett år eldre enn han selv forklarte. Utlendingsnemnda (UNE) tiltrådte UDIs aldersvurdering. Etter at ombudsmannen stilte spørsmål ved de vurderingene som førte frem til UDIs aldersfastsettelse, vurderte UNE alle aldersopplysningene i saken på nytt. UNE kom da til at den alderen klageren selv hadde oppgitt skulle legges til grunn.  
+Ombudsmannen har ingen innvendinger til UNEs forståelse og anvendelse av § 88 første ledd da de vurderte aldersopplysningene på nytt. Ombudsmannens alminnelige erfaring med denne sakstypen er likevel at lignende svakheter og feil som i det vedtaket UNE tiltrådte under den ordinære klagebehandlingen, ikke er uvanlig. Ombudsmannen ber derfor både UDI og UNE om å innskjerpe i sine organisasjoner de kravene som utlendingsloven § 88 første ledd stiller til utlendingsmyndighetenes vurderinger av aldersopplysningene i den enkelte sak.  
+Ombudsmannen mener at aldersspørsmålet i klagers sak var et vesentlig tvilsspørsmål som skulle være avgjort av en nemndleder og to nemndmedlemmer etter hovedregelen i utlendingsloven § 78 første ledd.  
+Utlendingsnemnda bes om å behandle saken på nytt.
 
 ## Sakens bakgrunn
 

@@ -15,15 +15,11 @@ Sivilombudets uttalelse 11.9.2023 (sak 2022/5130).
 
 ## Oppsummering
 
-Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt betydningen av Mattilsynets organisering for behandlingen av innsynssaker. Ombudet har også rettet undersøkelsen mot Fiskeridirektoratet, Arbeidstilsynet, Tolletaten, Statens vegvesen og (mer begrenset) mot Skatteetaten. Saken har reist spørsmål om innsynssaker er sikret en reell to-instansbehandling, hvilke dokumenter som er organinterne og hvem som skal behandle innsynskrav. Ombudet har også undersøkt hvordan korrespondanse sendt innad i etaten er synliggjort i postjournalen og i journalen publisert på eInnsyn.   
-   
- Etter en konkret vurdering av Mattilsynets redegjørelse og informasjon som ellers finnes om tilsynet, har ombudet ikke innvendinger til at Mattilsynets hovedkontor og hver av regionene utgjør selvstendige forvaltningsorgan etter offentleglova. Ombudet mener det er lite tvilsomt at hovedkontoret er klageinstans etter offentleglova § 32 i saker som regionene har behandlet i førsteinstans.   
-   
- Mattilsynet bør likevel vurdere tiltak for å synliggjøre organisasjonsstrukturen både internt og eksternt, særlig for å markere avstanden som er nødvendig for å opprette tillit til en reell to-instansbehandling.   
-   
- At Mattilsynet består av flere selvstendige forvaltningsorganer, har konsekvenser for hvilke dokumenter som kan unntas som organinterne etter offentleglova § 14. Mattilsynet må sikre at dokumenter som sendes mellom selvstendige organer, ikke uriktig fremstår som organinterne. Mattilsynets praksis om at den enkelte enhet behandler innsynskrav etter offentleglova i de sakene de er ansvarlig for, er i tråd med offentleglova § 29.   
-   
- Ombudet har også knyttet enkelte øvrige merknader til Mattilsynets arkiv, journal og informasjon på eInnsyn.
+Sivilombudet har på generelt grunnlag og av eget tiltak undersøkt betydningen av Mattilsynets organisering for behandlingen av innsynssaker. Ombudet har også rettet undersøkelsen mot Fiskeridirektoratet, Arbeidstilsynet, Tolletaten, Statens vegvesen og (mer begrenset) mot Skatteetaten. Saken har reist spørsmål om innsynssaker er sikret en reell to-instansbehandling, hvilke dokumenter som er organinterne og hvem som skal behandle innsynskrav. Ombudet har også undersøkt hvordan korrespondanse sendt innad i etaten er synliggjort i postjournalen og i journalen publisert på eInnsyn.  
+Etter en konkret vurdering av Mattilsynets redegjørelse og informasjon som ellers finnes om tilsynet, har ombudet ikke innvendinger til at Mattilsynets hovedkontor og hver av regionene utgjør selvstendige forvaltningsorgan etter offentleglova. Ombudet mener det er lite tvilsomt at hovedkontoret er klageinstans etter offentleglova § 32 i saker som regionene har behandlet i førsteinstans.  
+Mattilsynet bør likevel vurdere tiltak for å synliggjøre organisasjonsstrukturen både internt og eksternt, særlig for å markere avstanden som er nødvendig for å opprette tillit til en reell to-instansbehandling.  
+At Mattilsynet består av flere selvstendige forvaltningsorganer, har konsekvenser for hvilke dokumenter som kan unntas som organinterne etter offentleglova § 14. Mattilsynet må sikre at dokumenter som sendes mellom selvstendige organer, ikke uriktig fremstår som organinterne. Mattilsynets praksis om at den enkelte enhet behandler innsynskrav etter offentleglova i de sakene de er ansvarlig for, er i tråd med offentleglova § 29.  
+Ombudet har også knyttet enkelte øvrige merknader til Mattilsynets arkiv, journal og informasjon på eInnsyn.
 
 Se oppdatering fra forvaltningen
 

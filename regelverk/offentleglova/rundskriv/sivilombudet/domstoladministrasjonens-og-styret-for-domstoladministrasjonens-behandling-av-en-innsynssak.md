@@ -15,16 +15,12 @@ Sivilombudets uttalelse 10.4.2025 (sak 2024/6266).
 
 ## Oppsummering
 
-Saken gjelder Domstoladministrasjonens og styret for Domstoladministrasjonens behandling av en sak om krav om innsyn i en sammenstilling av opplysninger. Innsynskravet ble avslått under henvisning til at opplysningene ikke kunne sammenstilles med enkle fremgangsmåter, jf. offentleglova § 9. Den samlede saksbehandlingstiden var lang, klageren ble nektet innsyn i saksfremlegget til styret (klageinstansen), styret tok ikke stilling til om klageren hadde rett til innsyn i saksfremlegget, og klageren mottok ingen begrunnelse for klagesaksavgjørelsen.   
-   
- Sivilombudet fant ikke grunnlag for å kritisere konklusjonen om at vilkårene for rett til sammenstilling i offentleglova § 9 ikke var oppfylt, men rettet kritikk mot saksbehandlingen.  
-   
- Domstoladministrasjonens håndtering av saken var ikke i tråd med offentleglovas krav til rask behandling av innsynssaker. Videre begikk Domstoladministrasjonen en feil da klageren ble nektet innsyn i saksfremlegget. Sivilombudet ba Domstoladministrasjonen påse at det innarbeides tydelig i rutinene at en part som utgangspunkt har rett til innsyn i saksfremlegget til styret om saken, og ba om å få tilsendt de reviderte rutinene.   
-   
- Sivilombudet mente at styret for Domstoladministrasjonen som ledd i klagebehandlingen pliktet å ta stilling til om klageren hadde rett til innsyn i saksfremlegget, og at klageren skulle fått anledning til å kommentere saksfremlegget før styret behandlet saken.   
- Når det ikke ble gjort tilsier det at kravene til sakens opplysning ikke ble overholdt. Sivilombudet tok ikke stilling til om saksbehandlingsfeilene kunne ha virket inn på klagesaksavgjørelsens innhold, men ba styret merke seg ombudets syn for senere saker.   
-   
- Klagesaksavgjørelsen var ikke tilstrekkelig begrunnet, fordi klageren ikke hadde fått innsyn i saksfremlegget. Den manglende begrunnelsen er imidlertid rettet opp i ettertid.
+Saken gjelder Domstoladministrasjonens og styret for Domstoladministrasjonens behandling av en sak om krav om innsyn i en sammenstilling av opplysninger. Innsynskravet ble avslått under henvisning til at opplysningene ikke kunne sammenstilles med enkle fremgangsmåter, jf. offentleglova § 9. Den samlede saksbehandlingstiden var lang, klageren ble nektet innsyn i saksfremlegget til styret (klageinstansen), styret tok ikke stilling til om klageren hadde rett til innsyn i saksfremlegget, og klageren mottok ingen begrunnelse for klagesaksavgjørelsen.  
+Sivilombudet fant ikke grunnlag for å kritisere konklusjonen om at vilkårene for rett til sammenstilling i offentleglova § 9 ikke var oppfylt, men rettet kritikk mot saksbehandlingen.  
+Domstoladministrasjonens håndtering av saken var ikke i tråd med offentleglovas krav til rask behandling av innsynssaker. Videre begikk Domstoladministrasjonen en feil da klageren ble nektet innsyn i saksfremlegget. Sivilombudet ba Domstoladministrasjonen påse at det innarbeides tydelig i rutinene at en part som utgangspunkt har rett til innsyn i saksfremlegget til styret om saken, og ba om å få tilsendt de reviderte rutinene.  
+Sivilombudet mente at styret for Domstoladministrasjonen som ledd i klagebehandlingen pliktet å ta stilling til om klageren hadde rett til innsyn i saksfremlegget, og at klageren skulle fått anledning til å kommentere saksfremlegget før styret behandlet saken.  
+Når det ikke ble gjort tilsier det at kravene til sakens opplysning ikke ble overholdt. Sivilombudet tok ikke stilling til om saksbehandlingsfeilene kunne ha virket inn på klagesaksavgjørelsens innhold, men ba styret merke seg ombudets syn for senere saker.  
+Klagesaksavgjørelsen var ikke tilstrekkelig begrunnet, fordi klageren ikke hadde fått innsyn i saksfremlegget. Den manglende begrunnelsen er imidlertid rettet opp i ettertid.
 
 Se oppdatering fra forvaltningen
 

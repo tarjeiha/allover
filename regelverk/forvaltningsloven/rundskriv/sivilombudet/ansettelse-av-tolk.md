@@ -16,10 +16,8 @@ Sivilombudets uttalelse 18.11.2019 (sak 2019/2265).
 ## Oppsummering
 
 Saken gjelder ansettelse av tolk/språkhjelp i arabisk i X kommune.  
-   
- Ombudsmannen mener at kommunens manglende skriftlige nedtegnelser i ansettelsessaken er i strid med ulovfestede krav til forsvarlig saksbehandling. Det er derfor nødvendig at kommunen gjennomgår sitt ansettelsesreglement og tilhørende praksis for å bringe det i samsvar med kravene som stilles til en forsvarlig ansettelsesprosess.  
-   
- Slik saken i etterkant er blitt opplyst for ombudsmannen, er det ikke grunnlag for å rette avgjørende innvendinger mot selve kvalifikasjonsvurderingen kommunen foretok.
+Ombudsmannen mener at kommunens manglende skriftlige nedtegnelser i ansettelsessaken er i strid med ulovfestede krav til forsvarlig saksbehandling. Det er derfor nødvendig at kommunen gjennomgår sitt ansettelsesreglement og tilhørende praksis for å bringe det i samsvar med kravene som stilles til en forsvarlig ansettelsesprosess.  
+Slik saken i etterkant er blitt opplyst for ombudsmannen, er det ikke grunnlag for å rette avgjørende innvendinger mot selve kvalifikasjonsvurderingen kommunen foretok.
 
 ## Sakens bakgrunn
 

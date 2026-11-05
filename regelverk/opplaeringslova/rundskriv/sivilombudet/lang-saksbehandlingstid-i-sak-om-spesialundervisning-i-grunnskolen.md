@@ -15,13 +15,10 @@ Sivilombudets uttalelse 22.6.2022 (sak 2022/1074).
 
 ## Oppsummering
 
-Saken gjelder klage over lang saksbehandlingstid hos barne- og familietjenesten i X kommune i en sak om spesialundervisning i grunnskolen.   
-   
- Det hadde gått ti måneder fra kommunen i juni 2021 mottok henvisning om sakkyndig vurdering, til kommunen svarte at et eventuelt enkeltvedtak om spesialundervisning senest kunne foreligge ved skolestart høsten 2022. Den totale saksbehandlingstiden før klager får et vedtak om spesialundervisning er dermed et helt skoleår.  
-   
- Kommunen oppga at den lange saksbehandlingstiden skyldtes store kapasitetsutfordringer i tjenesten. Kommunen anså ikke at den aktuelle saken hadde høyere prioritert enn andre saker med tilsvarende lang saksbehandlingstid.   
-   
- Sivilombudet er kommet til at saken ikke er behandlet «uten ugrunnet opphold» i henhold til forvaltningsloven. Forvaltningslovens krav om å orientere klager der det tar uforholdsmessig lang tid før en henvendelse besvares, er heller ikke oppfylt. Sivilombudet forutsetter at kommunen i fremtiden besvarer henvendelser i samsvar med kravene i forvaltningsloven.
+Saken gjelder klage over lang saksbehandlingstid hos barne- og familietjenesten i X kommune i en sak om spesialundervisning i grunnskolen.  
+Det hadde gått ti måneder fra kommunen i juni 2021 mottok henvisning om sakkyndig vurdering, til kommunen svarte at et eventuelt enkeltvedtak om spesialundervisning senest kunne foreligge ved skolestart høsten 2022. Den totale saksbehandlingstiden før klager får et vedtak om spesialundervisning er dermed et helt skoleår.  
+Kommunen oppga at den lange saksbehandlingstiden skyldtes store kapasitetsutfordringer i tjenesten. Kommunen anså ikke at den aktuelle saken hadde høyere prioritert enn andre saker med tilsvarende lang saksbehandlingstid.  
+Sivilombudet er kommet til at saken ikke er behandlet «uten ugrunnet opphold» i henhold til forvaltningsloven. Forvaltningslovens krav om å orientere klager der det tar uforholdsmessig lang tid før en henvendelse besvares, er heller ikke oppfylt. Sivilombudet forutsetter at kommunen i fremtiden besvarer henvendelser i samsvar med kravene i forvaltningsloven.
 
 Se oppdatering fra forvaltningen
 

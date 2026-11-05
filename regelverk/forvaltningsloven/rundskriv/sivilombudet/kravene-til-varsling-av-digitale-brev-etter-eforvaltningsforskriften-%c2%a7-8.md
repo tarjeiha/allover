@@ -15,8 +15,7 @@ Sivilombudets uttalelse 28.11.2025 (sak 2025/982).
 ## Oppsummering
 
 Saken gjelder ileggelse av overtredelsesgebyr etter folkeregisterloven § 12-1. Våren 2024 mottok klageren et digitalt brev fra Skatteetaten med pålegg om å opplyse hvem som bodde på hennes adresse. Skatteetaten sendte varsel om brevet per SMS og e-post, med informasjon om at brevet var tilgjengelig på www.skatteetaten.no. Klageren åpnet ikke brevet, og Skatteetaten sendte derfor ut forhåndsvarsel og senere vedtak om overtredelsesgebyr for brudd på opplysningsplikten.  
-   
- Sivilombudet er kommet til at Skatteetatens varsler ikke oppfylte kravene i eForvaltningsforskriften § 8 tredje og sjette ledd. Manglene utgjorde en saksbehandlingsfeil fordi varslene bare opplyste at et «brev» var mottatt, uten å informere om at det blant annet gjaldt et enkeltvedtak og et forhåndsvarsel.
+Sivilombudet er kommet til at Skatteetatens varsler ikke oppfylte kravene i eForvaltningsforskriften § 8 tredje og sjette ledd. Manglene utgjorde en saksbehandlingsfeil fordi varslene bare opplyste at et «brev» var mottatt, uten å informere om at det blant annet gjaldt et enkeltvedtak og et forhåndsvarsel.
 
 Se oppdatering fra forvaltningen
 

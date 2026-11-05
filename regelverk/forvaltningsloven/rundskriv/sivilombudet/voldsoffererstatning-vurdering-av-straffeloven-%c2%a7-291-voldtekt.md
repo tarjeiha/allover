@@ -15,16 +15,11 @@ Sivilombudets uttalelse 4.11.2022 (sak 2022/1801).
 ## Oppsummering
 
 Saken gjelder klage over Erstatningsnemnda for voldsofres avgjørelse i en erstatningssak. Klageren opplevde at en mann stakk en finger opp i skjeden hennes på et dansegulv. Nemnda kom til at det ikke var godgjort med klar sannsynlighetsovervekt at klageren var utsatt for en overtredelse av straffeloven § 291 bokstav b (voldtekt).  
-   
- Spørsmålene i saken for ombudet har vært om det å føre en finger inn i skjeden er å anse som seksuell omgang etter straffeloven § 291, og hvorvidt klageren måtte være i en psykisk eller fysisk svekket tilstand for å være ute av stand til å motsette seg handlingen, jf. § 291 bokstav b. Sivilombudet har også vurdert om klagerens anførsler har vært tilstrekkelig behandlet av nemnda.  
-   
- Etter Sivilombudet undersøkte saken vurderte Erstatningsnemnda for voldsofre saken på nytt, og kom til at forholdet var å anse som seksuell omgang. Ombudet er enig i dette.  
-   
- Sivilombudet finner at det er begrunnet tvil om Erstatningsnemnda for voldsofre har lagt riktig lovforståelse til grunn når de skriver at fornærmede må være i en psykisk eller fysisk svekket tilstand for å være ute av stand til å motsette seg handlingen. Ombudet mener at der offeret blir overrasket og derfor ikke har mulighet til å reagere (såkalte overraskelsestilfeller), også kan omfattes av straffeloven § 291 bokstav b.   
-   
- Ombudet finner også at det er begrunnet tvil om nemnda i tilstrekkelig grad vurderte klagerens anførsler i forbindelse med klagesaken, jf. forvaltningsloven § 34.   
-   
- Ombudet ber nemnda behandle saken på nytt, og legge ombudets lovforståelse til grunn. Ombudet ber også om at nemnda merker seg ombudets uttalelse og sikrer at fremtidige saker behandles i tråd med denne.
+Spørsmålene i saken for ombudet har vært om det å føre en finger inn i skjeden er å anse som seksuell omgang etter straffeloven § 291, og hvorvidt klageren måtte være i en psykisk eller fysisk svekket tilstand for å være ute av stand til å motsette seg handlingen, jf. § 291 bokstav b. Sivilombudet har også vurdert om klagerens anførsler har vært tilstrekkelig behandlet av nemnda.  
+Etter Sivilombudet undersøkte saken vurderte Erstatningsnemnda for voldsofre saken på nytt, og kom til at forholdet var å anse som seksuell omgang. Ombudet er enig i dette.  
+Sivilombudet finner at det er begrunnet tvil om Erstatningsnemnda for voldsofre har lagt riktig lovforståelse til grunn når de skriver at fornærmede må være i en psykisk eller fysisk svekket tilstand for å være ute av stand til å motsette seg handlingen. Ombudet mener at der offeret blir overrasket og derfor ikke har mulighet til å reagere (såkalte overraskelsestilfeller), også kan omfattes av straffeloven § 291 bokstav b.  
+Ombudet finner også at det er begrunnet tvil om nemnda i tilstrekkelig grad vurderte klagerens anførsler i forbindelse med klagesaken, jf. forvaltningsloven § 34.  
+Ombudet ber nemnda behandle saken på nytt, og legge ombudets lovforståelse til grunn. Ombudet ber også om at nemnda merker seg ombudets uttalelse og sikrer at fremtidige saker behandles i tråd med denne.
 
 Se oppdatering fra forvaltningen
 

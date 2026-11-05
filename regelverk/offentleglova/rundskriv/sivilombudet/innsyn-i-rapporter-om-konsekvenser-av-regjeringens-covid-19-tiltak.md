@@ -15,8 +15,7 @@ Sivilombudets uttalelse 13.11.2020 (sak 2020/2672).
 ## Oppsummering
 
 Saken gjelder innsyn hos Justis- og beredskapsdepartementet i rapporter om konsekvenser av regjeringens covid-19-tiltak. Departementet foretok en generell vurdering av samtlige rapporter som er innhentet fra de øvrige departementene, og kom til at det er nødvendig å unnta disse av hensyn til den spesielle samarbeidssituasjonen som forelå, jf. offentleglova § 15 første ledd.  
-   
- Ombudsmannen har ikke innvendinger mot departementets konklusjon om at det i utgangspunktet er adgang til å unnta mange av rapportene. Selv om den spesielle samarbeidssituasjonen gjør seg gjeldende for alle rapportene, er ombudsmannen i tvil om alle rapportene kan unntas med den begrunnelsen departementet har gitt. Ombudsmannen ber Justis- og beredskapsdepartementet om å foreta en ny vurdering der nødvendighetsvilkåret knyttes opp mot hver enkelt rapport.
+Ombudsmannen har ikke innvendinger mot departementets konklusjon om at det i utgangspunktet er adgang til å unnta mange av rapportene. Selv om den spesielle samarbeidssituasjonen gjør seg gjeldende for alle rapportene, er ombudsmannen i tvil om alle rapportene kan unntas med den begrunnelsen departementet har gitt. Ombudsmannen ber Justis- og beredskapsdepartementet om å foreta en ny vurdering der nødvendighetsvilkåret knyttes opp mot hver enkelt rapport.
 
 Se oppdatering fra forvaltningen
 
@@ -97,4 +96,4 @@ Departementet bes om å holde ombudsmannen orientert om den fornyede vurderingen
 ## Forvaltningens oppfølging
 
 Justisdepartementet behandlet saken på nytt. Som ledd i den nye behandlingen ga departementet innsyn i fire rapporter som tidligere var unntatt offentlighet, inkludert rapportene fra Klima- og miljødepartementet og Helse- og omsorgsdepartementet.  
- Ombudsmannen fant på denne bakgrunn grunn til å avslutte saken.
+Ombudsmannen fant på denne bakgrunn grunn til å avslutte saken.

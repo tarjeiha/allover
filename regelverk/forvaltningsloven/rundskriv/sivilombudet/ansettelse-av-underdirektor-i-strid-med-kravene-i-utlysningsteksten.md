@@ -16,8 +16,7 @@ Sivilombudets uttalelse 8.12.2020 (sak 2020/953).
 ## Oppsummering
 
 Ombudsmannen har kommet til at X har ansatt underdirektør og leder for Y i strid med utdanningskravet i egen utlysningstekst. Omtalen av kandidaten i innstillingen inneholdt dessuten gale opplysninger om hans kompetanse. Dette kan ha medført at tilsettingsrådet ikke var klar over at de ansatte en kandidat som ikke oppfylte utdanningskravet. Klager ble innstilt som nummer to til stillingen. Det er ikke utenkelig at han ville fått tilbud om ansettelse, dersom det hadde fremgått av innstillingen at kandidaten som var innstilt som nummer én ikke oppfylte det formelle utdanningskravet.  
-   
- Slik saken er opplyst hit synes klager å være urettmessig forbigått ved ansettelsen. Den som ble ansatt i stillingen er samtidig ikke part i saken her, og ombudsmannens uttalelse innvirker ikke på hans ansettelsesforhold. Selv om klager ikke har krav på stillingen han er forbigått til, bør X vurdere hvordan det kan bøtes på den urett som er begått mot ham.
+Slik saken er opplyst hit synes klager å være urettmessig forbigått ved ansettelsen. Den som ble ansatt i stillingen er samtidig ikke part i saken her, og ombudsmannens uttalelse innvirker ikke på hans ansettelsesforhold. Selv om klager ikke har krav på stillingen han er forbigått til, bør X vurdere hvordan det kan bøtes på den urett som er begått mot ham.
 
 Se oppdatering fra forvaltningen
 

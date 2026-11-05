@@ -15,8 +15,7 @@ Sivilombudets uttalelse 10.7.2014 (sak 2013/2480).
 ## Oppsummering
 
 Kommunal Rapport ved journalist Vegard Venli ba 6. mai 2013 Skattedirektoratet om å få innsyn i en «full oversikt over aksjeeierne i landets aksjeselskap per tidspunkt». Informasjonen som var nødvendig for å lage en slik oversikt, var lagret i Skatteetatens aksjonærregister. Både Skattedirektoratet og Finansdepartementet avslo innsynskravet. Departementet begrunnet avslaget med at arbeidsbyrden knyttet til å lage en slik sammenstilling fra aksjonærregisteret som Kommunal Rapport hadde bedt om, ville overskride grensene for hva som kan pålegges etter offentleglova § 9.  
-   
- Ombudsmannen kom til at vilkåret i offentleglova § 9 om at sammenstillingen skal kunne gjøres med enkle fremgangsmåter, ikke var oppfylt i dette tilfellet. Konklusjonen var basert på en helhetsvurdering av de arbeidsprosesser som var nødvendige for å ferdigstille aksjeeieroversikten.
+Ombudsmannen kom til at vilkåret i offentleglova § 9 om at sammenstillingen skal kunne gjøres med enkle fremgangsmåter, ikke var oppfylt i dette tilfellet. Konklusjonen var basert på en helhetsvurdering av de arbeidsprosesser som var nødvendige for å ferdigstille aksjeeieroversikten.
 
 ### Bakgrunn
 

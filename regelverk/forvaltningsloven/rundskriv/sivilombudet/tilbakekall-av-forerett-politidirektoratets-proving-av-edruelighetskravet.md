@@ -15,10 +15,8 @@ Sivilombudets uttalelse 3.12.2018 (sak 2017/4027).
 ## Oppsummering
 
 Saken gjelder Politidirektoratets klagebehandling i en sak om tilbakekall av førerett på grunn av manglende edruelighet. Spørsmålet er hvilken betydning det får for klagebehandlingen at klageren har holdt seg rusfri etter politidistriktets vedtak. Politidirektoratet mente slike opplysninger ikke kan få avgjørende betydning med mindre det foreligger minst ett års forutgående dokumentert rusfrihet.  
-   
- Ombudsmannen er kommet til at Politidirektoratet har tatt uriktig rettslig utgangspunkt ved klagesaksbehandlingen. Politidirektoratet skal ved behandlingen av klager på vedtak om tilbakekall, foreta en ny selvstendig prøving av om vilkårene for tilbakekall er oppfylt på direktoratets vedtakstidspunkt, herunder om klageren er edruelig på dette tidspunktet. I vurderingen av om tilbakekall skal skje som følge av manglende edruelighet, inngår både opplysninger som ble vurdert av politidistriktet og eventuelle nye opplysninger som kan kaste lys over klagerens forhold til rusmidler. Tilbakekallsbestemmelsen gir uansett ikke adgang til å oppstille et krav om dokumentasjon for tolv måneders forutgående rusfrihet.  
-   
- Politidirektoratet bes om å behandle saken på nytt og orientere ombudsmannen om utfallet av den nye behandlingen. Videre bes direktoratet om å merke seg ombudsmannens synspunkter og innrette saksbehandlingen i fremtidige saker i henhold til disse.
+Ombudsmannen er kommet til at Politidirektoratet har tatt uriktig rettslig utgangspunkt ved klagesaksbehandlingen. Politidirektoratet skal ved behandlingen av klager på vedtak om tilbakekall, foreta en ny selvstendig prøving av om vilkårene for tilbakekall er oppfylt på direktoratets vedtakstidspunkt, herunder om klageren er edruelig på dette tidspunktet. I vurderingen av om tilbakekall skal skje som følge av manglende edruelighet, inngår både opplysninger som ble vurdert av politidistriktet og eventuelle nye opplysninger som kan kaste lys over klagerens forhold til rusmidler. Tilbakekallsbestemmelsen gir uansett ikke adgang til å oppstille et krav om dokumentasjon for tolv måneders forutgående rusfrihet.  
+Politidirektoratet bes om å behandle saken på nytt og orientere ombudsmannen om utfallet av den nye behandlingen. Videre bes direktoratet om å merke seg ombudsmannens synspunkter og innrette saksbehandlingen i fremtidige saker i henhold til disse.
 
 ## Sakens bakgrunn
 

@@ -15,9 +15,8 @@ Sivilombudets uttalelse 25.6.2024 (sak 2024/1112).
 
 ## Oppsummering
 
-Saken gjelder Navs oppfølging av en sak om arbeidsavklaringspenger. Klager hadde på tidspunktet for uttalelsen mottatt arbeidsavklaringspenger i nesten syv år.   
-   
- Sivilombudet kom til at Nav ikke hadde overholdt kravene til oppfølging i saker om arbeidsavklaringspenger som følger av folketrygdloven § 11-11. Videre mente sivilombudet at Nav hadde brutt forvaltningslovens regler om informasjonsplikt, plikten til å nedtegne opplysninger og partens rett til å uttale seg. Det er viktig at Nav informerer brukerne om at alle saksdokumenter ikke er tilgjengelige i MittNav. Det er videre viktig at Nav raskt besvarer krav fra brukerne om innsyn i dokumenter i sin egen sak.
+Saken gjelder Navs oppfølging av en sak om arbeidsavklaringspenger. Klager hadde på tidspunktet for uttalelsen mottatt arbeidsavklaringspenger i nesten syv år.  
+Sivilombudet kom til at Nav ikke hadde overholdt kravene til oppfølging i saker om arbeidsavklaringspenger som følger av folketrygdloven § 11-11. Videre mente sivilombudet at Nav hadde brutt forvaltningslovens regler om informasjonsplikt, plikten til å nedtegne opplysninger og partens rett til å uttale seg. Det er viktig at Nav informerer brukerne om at alle saksdokumenter ikke er tilgjengelige i MittNav. Det er videre viktig at Nav raskt besvarer krav fra brukerne om innsyn i dokumenter i sin egen sak.
 
 ## Sakens bakgrunn
 

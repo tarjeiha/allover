@@ -15,8 +15,7 @@ Sivilombudets uttalelse 19.5.2026 (sak 2025/6563).
 ## Oppsummering
 
 Saken gjelder spørsmål om det er i strid med arealformålet offentlig friområde i reguleringsplan å gi samtykke etter plan- og bygningsloven § 20-2 første ledd, jf. § 20-1 første ledd bokstav m og § 26-1, til en søknad om å arealoverføre ca. 950 m2 fra Statens vegvesen til en privat part.  
-   
- Ombudet kom til at plan- og bygningsloven ikke ga rettslig grunnlag for å avslå søknaden om arealoverføring på grunnlag av at arealoverføringen var i strid med reguleringen til offentlig friområde.
+Ombudet kom til at plan- og bygningsloven ikke ga rettslig grunnlag for å avslå søknaden om arealoverføring på grunnlag av at arealoverføringen var i strid med reguleringen til offentlig friområde.
 
 Se oppdatering fra forvaltningen
 

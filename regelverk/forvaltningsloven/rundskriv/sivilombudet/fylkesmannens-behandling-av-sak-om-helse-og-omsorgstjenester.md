@@ -15,8 +15,7 @@ Sivilombudets uttalelse 1.2.2019 (sak 2017/3037).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens behandling av en klage på en bydels sviktende helse- og omsorgsoppfølging av en bruker som ikke evnet å ta vare på seg selv. Klagen ble fremsatt av brukerens søster rett før brukeren døde. Fylkesmannen oppfattet klagen utelukkende som en rettighetsklage og avsluttet saken etter å ha fått bydelens redegjørelse for tiltakene den siste måneden før brukeren døde.  
-   
- Ombudsmannen mener Fylkesmannen handlet i strid med god forvaltningsskikk og forsvarlig saksbehandling ved ikke å spørre brukerens søster om hun også ønsket en vurdering av om bydelen hadde begått pliktbrudd. Fylkesmannen bør derfor vurdere saken på nytt. For at oppfølgingen av søsterens eventuelle anmodning skal bli forsvarlig og i tråd med pasient- og brukerrettighetsloven § 7-4 a, må Fylkesmannen også ta i betraktning opplysninger som går lenger tilbake i tid enn siste måned før bruker døde. Søsteren må få anledning til å sende inn supplerende dokumentasjon, hvis hun ønsker det.
+Ombudsmannen mener Fylkesmannen handlet i strid med god forvaltningsskikk og forsvarlig saksbehandling ved ikke å spørre brukerens søster om hun også ønsket en vurdering av om bydelen hadde begått pliktbrudd. Fylkesmannen bør derfor vurdere saken på nytt. For at oppfølgingen av søsterens eventuelle anmodning skal bli forsvarlig og i tråd med pasient- og brukerrettighetsloven § 7-4 a, må Fylkesmannen også ta i betraktning opplysninger som går lenger tilbake i tid enn siste måned før bruker døde. Søsteren må få anledning til å sende inn supplerende dokumentasjon, hvis hun ønsker det.
 
 Se oppdatering fra forvaltningen
 

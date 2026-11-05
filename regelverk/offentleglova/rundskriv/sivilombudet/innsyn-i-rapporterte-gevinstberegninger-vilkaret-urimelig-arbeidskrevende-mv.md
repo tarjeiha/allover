@@ -16,10 +16,8 @@ Sivilombudets uttalelse 15.6.2022 (sak 2022/1395).
 ## Oppsummering
 
 Saken gjelder innsyn i gevinstberegninger knyttet til anskaffelser som er rapportert fra Politiets fellestjenester til Politidirektoratet i perioden 2015 til 2020. Politidirektoratet stadfestet Politiets fellestjenesters avslag på krav om innsyn i beregningene begrunnet i at dokumentene inneholdt taushetsbelagte næringsopplysninger. Politidirektoratet viste til at opplysninger om enhetspriser og opplysninger som gjorde det mulig å regne seg frem til enhetsprisene, var taushetsbelagte. De resterende delene av dokumentene ble unntatt da det ble ansett urimelig arbeidskrevende å skille ut de taushetsbelagte opplysningene.  
-   
- Sivilombudet er kommet til at det fremstår uklart i hvilken grad direktoratet har foretatt en selvstendig og konkret vurdering av hvert enkelt dokument. Det foreligger også begrunnet tvil om vilkårene for unntak for de resterende delene av dokumentene som ikke inneholder taushetsbelagt informasjon, er oppfylt.  
-   
- Ombudet ber Politidirektoratet om å behandle saken på nytt.
+Sivilombudet er kommet til at det fremstår uklart i hvilken grad direktoratet har foretatt en selvstendig og konkret vurdering av hvert enkelt dokument. Det foreligger også begrunnet tvil om vilkårene for unntak for de resterende delene av dokumentene som ikke inneholder taushetsbelagt informasjon, er oppfylt.  
+Ombudet ber Politidirektoratet om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

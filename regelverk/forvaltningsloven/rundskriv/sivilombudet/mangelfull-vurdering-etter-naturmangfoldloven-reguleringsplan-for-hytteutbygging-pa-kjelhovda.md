@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.12.2024 (sak 2024/1117).
 ## Oppsummering
 
 Kommunestyret i Hemsedal kommune vedtok en detaljreguleringsplan som legger til rette for oppføring av fritidsboliger på 35 tomter på Kjelhovda. I planområdet er det enkelte sårbare naturtyper. Ytterligere hytteutbygging vil ifølge fagrapporter bidra til å opprettholde og forsterke den negative situasjonen for villreinbestanden i Nordfjella villreinområde som følge av at dagens utbygging, ferdsel og aktivitet er til hinder for villreinens bruk av viktige trekkorridorer og vinterbeiteområder. Statsforvalteren i Oslo og Viken (nå Statsforvalteren i Østfold, Buskerud, Oslo og Akershus) stadfestet kommunens vedtak i klageomgangen.  
-   
- Ombudet er kommet til at Statsforvalterens overprøving av kommunestyrets vedtak bygger på feil forståelse av naturmangfoldprinsippene og kravet til begrunnelse i naturmangfoldloven § 7, jf. §§ 8 til 12. Statsforvalteren har heller ikke foretatt selvstendige vurderinger av naturmangfoldprinsippene i tråd med naturmangfoldloven § 7. Statsforvalterens vedtak er ikke i tråd med kravene til klageinstansens prøving, jf. forvaltningsloven § 34. Det er tvil om vedtaket er gyldig. Ombudet ber Statsforvalteren om å vurdere saken på nytt.
+Ombudet er kommet til at Statsforvalterens overprøving av kommunestyrets vedtak bygger på feil forståelse av naturmangfoldprinsippene og kravet til begrunnelse i naturmangfoldloven § 7, jf. §§ 8 til 12. Statsforvalteren har heller ikke foretatt selvstendige vurderinger av naturmangfoldprinsippene i tråd med naturmangfoldloven § 7. Statsforvalterens vedtak er ikke i tråd med kravene til klageinstansens prøving, jf. forvaltningsloven § 34. Det er tvil om vedtaket er gyldig. Ombudet ber Statsforvalteren om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

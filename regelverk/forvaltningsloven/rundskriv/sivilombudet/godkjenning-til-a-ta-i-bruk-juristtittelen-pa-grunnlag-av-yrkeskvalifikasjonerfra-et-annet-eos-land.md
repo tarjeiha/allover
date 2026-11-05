@@ -14,9 +14,8 @@ Sivilombudets uttalelse 24.6.2026 (sak 2026/213).
 
 ## Oppsummering
 
-En person med yrkeskvalifikasjoner fra Spania (klageren) søkte om godkjenning til å ta i bruk juristtittelen i Norge. På grunn av vesentlige forskjeller mellom klagerens spanske utdanning og norsk mastergrad i rettsvitenskap, fattet Advokattilsynet vedtak om at klageren måtte avlegge egnethetsprøven før hun kunne få slik godkjenning. Vedtaket ble opprettholdt av Advokatnemnda etter klagebehandling.   
-   
- Sivilombudet fant at Advokatnemndas vedtak ikke var tilstrekkelig begrunnet. Det kom ikke frem av vedtaket om nemnda hadde vurdert om søkerens yrkeserfaring delvis utlignet utdanningsforskjellene, og – i den forbindelse – om det var grunnlag for å redusere omfanget av egnethetsprøven. Sivilombudet fant videre at Advokatnemnda skulle ha gitt nærmere veiledning om hvordan yrkeserfaringen må beskrives for å dokumentere kunnskapsnivået.
+En person med yrkeskvalifikasjoner fra Spania (klageren) søkte om godkjenning til å ta i bruk juristtittelen i Norge. På grunn av vesentlige forskjeller mellom klagerens spanske utdanning og norsk mastergrad i rettsvitenskap, fattet Advokattilsynet vedtak om at klageren måtte avlegge egnethetsprøven før hun kunne få slik godkjenning. Vedtaket ble opprettholdt av Advokatnemnda etter klagebehandling.  
+Sivilombudet fant at Advokatnemndas vedtak ikke var tilstrekkelig begrunnet. Det kom ikke frem av vedtaket om nemnda hadde vurdert om søkerens yrkeserfaring delvis utlignet utdanningsforskjellene, og – i den forbindelse – om det var grunnlag for å redusere omfanget av egnethetsprøven. Sivilombudet fant videre at Advokatnemnda skulle ha gitt nærmere veiledning om hvordan yrkeserfaringen må beskrives for å dokumentere kunnskapsnivået.
 
 Se oppdatering fra forvaltningen
 

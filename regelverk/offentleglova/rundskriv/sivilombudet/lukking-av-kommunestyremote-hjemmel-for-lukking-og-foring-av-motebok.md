@@ -16,12 +16,9 @@ Sivilombudets uttalelse 5.12.2018 (sak 2018/1922).
 ## Oppsummering
 
 Saken gjelder en kommunes lukking av kommunestyremøtet ved behandlingen av tre saker.  
-   
- Ombudsmannen mener det er begrunnet tvil om vilkårene for å lukke møtet ved behandlingen av sakene er oppfylt. Kommunen har blant annet mangelfulle henvisninger til lovhjemlene som har begrunnet lukkingen av møtet. Ombudsmannen ber kommunen om å behandle spørsmålet om lukkingen av møtet på nytt.  
-   
- Videre har ikke kommunen fulgt reglene for føring av møtebok, og undersøkelsen av saken viser at dette har hatt betydning for beslutningenes klarhet og ombudsmannens mulighet for kontroll. Ombudsmannen ber kommunen vurdere om det er behov for skriftlige rutiner for lukking av møter og/eller andre tiltak for å påse at saksbehandlingsreglene for lukking av møter følges i fremtiden.  
-   
- Ombudsmannen forutsetter også at kommunen i fremtiden overholder de frister ombudsmannen setter.
+Ombudsmannen mener det er begrunnet tvil om vilkårene for å lukke møtet ved behandlingen av sakene er oppfylt. Kommunen har blant annet mangelfulle henvisninger til lovhjemlene som har begrunnet lukkingen av møtet. Ombudsmannen ber kommunen om å behandle spørsmålet om lukkingen av møtet på nytt.  
+Videre har ikke kommunen fulgt reglene for føring av møtebok, og undersøkelsen av saken viser at dette har hatt betydning for beslutningenes klarhet og ombudsmannens mulighet for kontroll. Ombudsmannen ber kommunen vurdere om det er behov for skriftlige rutiner for lukking av møter og/eller andre tiltak for å påse at saksbehandlingsreglene for lukking av møter følges i fremtiden.  
+Ombudsmannen forutsetter også at kommunen i fremtiden overholder de frister ombudsmannen setter.
 
 Se oppdatering fra forvaltningen
 
@@ -32,16 +29,16 @@ Kommunestyret i Brønnøy kommune lukket kommunestyremøtet 16. mai 2018 ved beh
 Etter forespørsel fra en journalist oppga kommunen i e-post 18. mai 2018 følgende om hjemlene for lukkingen av møtet:
 
 «Sak 24/18  
- Søknad om fritak for eiendomsskatt etter eiendomsskattelovens §7a, for eiendommene gnr. 104/606 og 104/949 – Stiftelsen Kløverenga eldreboliger  
- Unntatt off.: Offl. § 13 jf. fvl. § 13 1.ledd
+Søknad om fritak for eiendomsskatt etter eiendomsskattelovens §7a, for eiendommene gnr. 104/606 og 104/949 – Stiftelsen Kløverenga eldreboliger  
+Unntatt off.: Offl. § 13 jf. fvl. § 13 1.ledd
 
 Sak 25/18  
- Søknad om fritak for eiendomsskatt etter eiendomsskattelovens § 7b – historisk verdi, for eiendommen gnr. 104/55, Ytre Høgåsvei 33  
- Unntatt off.: Offl. § 13 jf. fvl. § 13 1. ledd
+Søknad om fritak for eiendomsskatt etter eiendomsskattelovens § 7b – historisk verdi, for eiendommen gnr. 104/55, Ytre Høgåsvei 33  
+Unntatt off.: Offl. § 13 jf. fvl. § 13 1. ledd
 
 Sak 26/18  
- Salg av aksjer i Norsk Havbrukssenter  
- Unntatt off.: Offl. § 13 jf. fvl. § 13 2. ledd»
+Salg av aksjer i Norsk Havbrukssenter  
+Unntatt off.: Offl. § 13 jf. fvl. § 13 2. ledd»
 
 Journalisten klaget til ombudsmannen over at kommunen ikke fulgte kommunelovens regler for lukking av møtet. Videre mente han at ingen av sakene skulle vært behandlet bak lukkede dører. To av sakene gjaldt prinsipielle diskusjoner om eiendomsskatt, herunder om stiftelser eller eiendommer med verneverdige egenskaper skal få fritak for eiendomsskatt. Den tredje saken gjaldt kommunens svar på et tilbud fra en lokal bedrift om kjøp av kommunens aksjer i et lokalt oppdrettsselskap.
 

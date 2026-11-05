@@ -15,10 +15,8 @@ Sivilombudets uttalelse 30.4.2024 (sak 2023/5927).
 ## Oppsummering
 
 Saken gjaldt saksbehandlingstiden i Kriminalomsorgen region sør ved behandlingen av en klage over avslag på søknad om straffavbrudd for å være sammen med familien etter et dødsfall. Regionen brukte over åtte måneder på å behandle klagen, og parten mottok ikke foreløpig svar med informasjon om forventet behandlingstid.  
-   
- Regionen beklaget den lange behandlingstiden og at det ikke var blitt gitt informasjon om forventet behandlingstid, og uttalte at behandlingen ikke var i samsvar med forvaltningsloven. Sivilombudet var enig i det. Ressurshensyn kunne ikke begrunne den lange behandlingstiden. Ombudet la til grunn at regionen i fremtiden vil sende foreløpig svar, og om nødvendig forsinkelsesmeldinger.  
-   
- Ombudet fant det sannsynlig at forvaltningslovens krav til behandlingstid har vært brutt i en rekke saker de siste to årene. Det er alvorlig. At regionen har styrket saksbehandlingskapasiteten er derfor positivt. Ombudet vil følge med på den videre utviklingen gjennom vår klagebehandling.
+Regionen beklaget den lange behandlingstiden og at det ikke var blitt gitt informasjon om forventet behandlingstid, og uttalte at behandlingen ikke var i samsvar med forvaltningsloven. Sivilombudet var enig i det. Ressurshensyn kunne ikke begrunne den lange behandlingstiden. Ombudet la til grunn at regionen i fremtiden vil sende foreløpig svar, og om nødvendig forsinkelsesmeldinger.  
+Ombudet fant det sannsynlig at forvaltningslovens krav til behandlingstid har vært brutt i en rekke saker de siste to årene. Det er alvorlig. At regionen har styrket saksbehandlingskapasiteten er derfor positivt. Ombudet vil følge med på den videre utviklingen gjennom vår klagebehandling.
 
 ## Sakens bakgrunn
 

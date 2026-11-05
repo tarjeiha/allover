@@ -16,10 +16,8 @@ Sivilombudets uttalelse 28.6.2022 (sak 2022/1485).
 ## Oppsummering
 
 Saken gjaldt innsyn i en oversikt over internerte ved Politiets utlendingsinternat, Trandum, per 1. desember 2021. Politidirektoratet stadfestet Politiets utlendingsenhets delvise avslag på krav om innsyn. Det ble gitt innsyn i en oversikt over antall internerte og antall døgn de hadde vært innsatt, men opplysninger om alder ved innsettelse, kjønn og nasjonalitet, ble unntatt som taushetsbelagte. Politidirektoratet la i avgjørelsen til grunn at de etterspurte opplysningene isolert sett ikke var taushetsbelagte. Direktoratet mente imidlertid at opplysningene om alder, kjønn og nasjonalitet samlet sett, og sammenholdt med opplysninger som er gjort kjent andre steder, var egnet til å identifisere enkeltpersoner og dermed taushetsbelagte opplysninger.  
-   
- Sivilombudet kom til at det er begrunnet tvil om det foreligger koblingsfare og om vilkårene for unntak fra innsyn er oppfylt. Dersom det er fare for at en eller flere personer i den etterspurte oversikten kan identifiseres, var ombudet også i tvil om det kan gjøres unntak for samtlige av de unntatte opplysningene. Videre mente ombudet at Politidirektoratet pliktet å innhente den etterspurte oversikten før innsynsklagen ble behandlet for å påse at saken var så godt opplyst som mulig før avgjørelse i klagesaken ble truffet.  
-   
- Ombudet ba direktoratet om å behandle saken på nytt.
+Sivilombudet kom til at det er begrunnet tvil om det foreligger koblingsfare og om vilkårene for unntak fra innsyn er oppfylt. Dersom det er fare for at en eller flere personer i den etterspurte oversikten kan identifiseres, var ombudet også i tvil om det kan gjøres unntak for samtlige av de unntatte opplysningene. Videre mente ombudet at Politidirektoratet pliktet å innhente den etterspurte oversikten før innsynsklagen ble behandlet for å påse at saken var så godt opplyst som mulig før avgjørelse i klagesaken ble truffet.  
+Ombudet ba direktoratet om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

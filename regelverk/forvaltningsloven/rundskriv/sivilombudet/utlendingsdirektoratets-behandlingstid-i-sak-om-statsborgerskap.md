@@ -14,11 +14,9 @@ Sivilombudets uttalelse 31.10.2016 (sak 2016/1318).
 
 ## Oppsummering
 
-Saken gjelder Utlendingsdirektoratets behandling av en søknad fra en iransk statsborger om norsk statsborgerskap. Søknaden ble innlevert hos politiet 11. november 2013. Direktoratet fattet vedtak i saken 7. juli 2016.   
-   
- Ombudsmannen har kommet til at saksbehandlingstiden på to år og åtte måneder ikke er akseptabel. Direktoratet har heller ikke på en fullt ut tilfredsstillende måte informert parten underveis i saken. Klagerens søknad om statsborgerskap kan følgelig ikke anses å ha blitt håndtert i henhold til de kravene som følger av forvaltningsloven § 11 a og alminnelige prinsipper om god forvaltningsskikk.  
-   
- Direktoratet har beklaget den lange saksbehandlingstiden og at lovnader til klageren om oppdatering ikke ble fulgt opp. Ombudsmannen tar beklagelsen til etterretning. Det bemerkes samtidig at dette er det fjerde tilfellet i år hvor ombudsmannen har rettet kritikk mot direktoratet for lang saksbehandlingstid og mangelfull orientering til parten i saker om statsborgerskap. Det bes om at direktoratet merker seg ombudsmannens vurderinger og konklusjoner i så vel denne saken som i tidligere uttalelser, og at det tas hensyn til dem ved behandlingen av fremtidige saker.
+Saken gjelder Utlendingsdirektoratets behandling av en søknad fra en iransk statsborger om norsk statsborgerskap. Søknaden ble innlevert hos politiet 11. november 2013. Direktoratet fattet vedtak i saken 7. juli 2016.  
+Ombudsmannen har kommet til at saksbehandlingstiden på to år og åtte måneder ikke er akseptabel. Direktoratet har heller ikke på en fullt ut tilfredsstillende måte informert parten underveis i saken. Klagerens søknad om statsborgerskap kan følgelig ikke anses å ha blitt håndtert i henhold til de kravene som følger av forvaltningsloven § 11 a og alminnelige prinsipper om god forvaltningsskikk.  
+Direktoratet har beklaget den lange saksbehandlingstiden og at lovnader til klageren om oppdatering ikke ble fulgt opp. Ombudsmannen tar beklagelsen til etterretning. Det bemerkes samtidig at dette er det fjerde tilfellet i år hvor ombudsmannen har rettet kritikk mot direktoratet for lang saksbehandlingstid og mangelfull orientering til parten i saker om statsborgerskap. Det bes om at direktoratet merker seg ombudsmannens vurderinger og konklusjoner i så vel denne saken som i tidligere uttalelser, og at det tas hensyn til dem ved behandlingen av fremtidige saker.
 
 ## Uttalelse
 

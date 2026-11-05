@@ -14,11 +14,9 @@ Sivilombudets uttalelse 21.1.2022 (sak 2021/2112).
 
 ## Oppsummering
 
-Saken gjelder tolkning av en reguleringsplan. Spørsmålet er om reguleringsplanen inneholder en bestemmelse om rettslig bindende tomtegrenser, slik at opprettelse av ny grunneiendom i planområdet er forbudt. Fylkesmannen i Oslo og Viken, nå Statsforvalteren i Oslo og Viken, opprettholdt Asker kommunes avslag på søknad om opprettelse av ny grunneiendom av to eiendommer, og mente at tomtegrensene i plankartet var gjort rettslig bindende.   
-   
- Ombudet er kommet til at reguleringsplanen ikke inneholder en bestemmelse om at de inntegnede tomtegrensene i plankartet er rettslig bindende. Verken planens ordlyd, symboler, tegnforklaringer, forarbeider eller sammenhengen med øvrige bestemmelser taler klart nok i retning av juridisk bindende tomtegrenser til å oppfylle legalitetsprinsippets krav om tilstrekkelig klar hjemmel for inngrep i borgernes eierrådighet. Kommunen og Statsforvalteren hadde derfor ikke hjemmel til å avslå søknaden om opprettelse av ny grunneiendom med den begrunnelsen som var gitt.   
-   
- Ombudet ber om at Statsforvalteren behandler saken på nytt.
+Saken gjelder tolkning av en reguleringsplan. Spørsmålet er om reguleringsplanen inneholder en bestemmelse om rettslig bindende tomtegrenser, slik at opprettelse av ny grunneiendom i planområdet er forbudt. Fylkesmannen i Oslo og Viken, nå Statsforvalteren i Oslo og Viken, opprettholdt Asker kommunes avslag på søknad om opprettelse av ny grunneiendom av to eiendommer, og mente at tomtegrensene i plankartet var gjort rettslig bindende.  
+Ombudet er kommet til at reguleringsplanen ikke inneholder en bestemmelse om at de inntegnede tomtegrensene i plankartet er rettslig bindende. Verken planens ordlyd, symboler, tegnforklaringer, forarbeider eller sammenhengen med øvrige bestemmelser taler klart nok i retning av juridisk bindende tomtegrenser til å oppfylle legalitetsprinsippets krav om tilstrekkelig klar hjemmel for inngrep i borgernes eierrådighet. Kommunen og Statsforvalteren hadde derfor ikke hjemmel til å avslå søknaden om opprettelse av ny grunneiendom med den begrunnelsen som var gitt.  
+Ombudet ber om at Statsforvalteren behandler saken på nytt.
 
 ## Sakens bakgrunn
 

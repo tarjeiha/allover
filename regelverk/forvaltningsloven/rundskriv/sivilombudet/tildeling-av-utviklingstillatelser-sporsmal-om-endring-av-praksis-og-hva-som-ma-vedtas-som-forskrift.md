@@ -14,17 +14,12 @@ Sivilombudets uttalelse 23.3.2022 (sak 2022/1461).
 
 ## Oppsummering
 
-Fiskeridirektoratet åpnet for søknader om utviklingstillatelser 20. november 2015. Dette var en midlertidig ordning med tildeling av særtillatelser til prosjekter innen akvakulturnæringen som kunne bidra til å løse areal- og miljøutfordringer næringen står ovenfor. Ordningen opphørte 17. november 2017. Nærmere regler om vilkårene for innvilgelse og saksbehandlingen var dels nedfelt i forskrift og retningslinje, eller fremkom av praksis beskrevet på fiskeridirektoratets nettsted.   
-   
- Et selskap søkte om 20 utviklingstillatelser etter denne ordningen. Søknaden ble avslått fordi selskapet ikke hadde dokumentert tilstrekkelig at prosjektet kunne bidra til å løse areal- eller miljøutfordringene næringen står ovenfor. Senere innvilget departementet tillatelse i en annen sak, der avslaget i første instans også var begrunnet i at søknaden ikke var tilstrekkelig dokumentert. I vedtaket skrev departementet at det var besluttet å endre dokumentasjonskravet slik at det ikke kreves like omfattende dokumentasjon som i tidligere saker. Dersom potensialet i prosjektet tilsa at tildelingskriteriene var oppfylt, kunne tillatelse innvilges på vilkår om at nærmere fastsatte dokumentasjonskrav ble oppfylt innen seks måneder.  
-   
- Selskapet mente de ble utsatt for usaklig forskjellsbehandling på bakgrunn av denne praksisendringen.   
-   
- Etter sivilombudets syn måtte departementet ved praksisendringen i den midlertidige tildelingsordningen se hen til hensynet til likebehandling og innrettelse. Når dette ikke var gjort hadde ikke departementet anledning til å endre tolkningen og praktiseringen av kriteriene for å innvilge utviklingstillatelser underveis i denne tildelingsprosessen.   
-   
- Videre mener sivilombudet at praksisen beskrevet på Fiskeridirektoratets nettside med en treukersfrist for ettersending av dokumentasjon var «bestemmende for rettigheter og plikter» for søkerne, og derfor er forskrifter etter legaldefinisjonen i forvaltningsloven § 2 første ledd bokstav c.   
-   
- Den aktuelle tildelingsordningen er nå avsluttet, og det er derfor ikke aktuelt å be departementet om å behandle søknaden på nytt . Sivilombudet ber departementet merke seg ombudets synspunkter.
+Fiskeridirektoratet åpnet for søknader om utviklingstillatelser 20. november 2015. Dette var en midlertidig ordning med tildeling av særtillatelser til prosjekter innen akvakulturnæringen som kunne bidra til å løse areal- og miljøutfordringer næringen står ovenfor. Ordningen opphørte 17. november 2017. Nærmere regler om vilkårene for innvilgelse og saksbehandlingen var dels nedfelt i forskrift og retningslinje, eller fremkom av praksis beskrevet på fiskeridirektoratets nettsted.  
+Et selskap søkte om 20 utviklingstillatelser etter denne ordningen. Søknaden ble avslått fordi selskapet ikke hadde dokumentert tilstrekkelig at prosjektet kunne bidra til å løse areal- eller miljøutfordringene næringen står ovenfor. Senere innvilget departementet tillatelse i en annen sak, der avslaget i første instans også var begrunnet i at søknaden ikke var tilstrekkelig dokumentert. I vedtaket skrev departementet at det var besluttet å endre dokumentasjonskravet slik at det ikke kreves like omfattende dokumentasjon som i tidligere saker. Dersom potensialet i prosjektet tilsa at tildelingskriteriene var oppfylt, kunne tillatelse innvilges på vilkår om at nærmere fastsatte dokumentasjonskrav ble oppfylt innen seks måneder.  
+Selskapet mente de ble utsatt for usaklig forskjellsbehandling på bakgrunn av denne praksisendringen.  
+Etter sivilombudets syn måtte departementet ved praksisendringen i den midlertidige tildelingsordningen se hen til hensynet til likebehandling og innrettelse. Når dette ikke var gjort hadde ikke departementet anledning til å endre tolkningen og praktiseringen av kriteriene for å innvilge utviklingstillatelser underveis i denne tildelingsprosessen.  
+Videre mener sivilombudet at praksisen beskrevet på Fiskeridirektoratets nettside med en treukersfrist for ettersending av dokumentasjon var «bestemmende for rettigheter og plikter» for søkerne, og derfor er forskrifter etter legaldefinisjonen i forvaltningsloven § 2 første ledd bokstav c.  
+Den aktuelle tildelingsordningen er nå avsluttet, og det er derfor ikke aktuelt å be departementet om å behandle søknaden på nytt . Sivilombudet ber departementet merke seg ombudets synspunkter.
 
 ## Sakens bakgrunn
 

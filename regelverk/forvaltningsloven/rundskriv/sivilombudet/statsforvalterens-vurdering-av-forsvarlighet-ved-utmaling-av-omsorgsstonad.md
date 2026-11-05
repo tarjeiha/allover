@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.3.2026 (sak 2025/5579).
 ## Oppsummering
 
 Klageren hadde i vedtak fra kommunen fått innvilget nattevakt i hjemmet, støttekontakt og hjemmesykepleie, samtidig som noe av klagerens behov for helse- og omsorgstjenester ble dekket gjennom omsorgsstønad til foreldrene. Foreldrene klaget på kommunens vedtak. Statsforvalteren opphevet den delen av vedtaket som gjaldt helse- og omsorgstjenester fra kommunen fordi saken ikke var godt nok opplyst til at de kunne ta stilling til om ytterligere personlig bistand i hjemmet på dagtid var mulig. Samtidig opprettholdt de den delen av kommunens vedtak som gjaldt omsorgsstønad fordi de mente at vedtaket på dette punktet ikke var åpenbart urimelig.  
-   
- Sivilombudet kom til at Statsforvalteren hadde plikt til å ta stilling til om omsorgsstønaden, sammen med andre tjenester klageren mottar, dekker behovet for nødvendige og forsvarlige helsetjenester.
+Sivilombudet kom til at Statsforvalteren hadde plikt til å ta stilling til om omsorgsstønaden, sammen med andre tjenester klageren mottar, dekker behovet for nødvendige og forsvarlige helsetjenester.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.1.2018 (sak 2017/1616).
 ## Oppsummering
 
 Saken gjelder klage over vedtak om tilknytningsavgift og betaling for vannforbruk i Fjell kommune. Rådmannen ved kommuneadvokaten forberedte og traff kommunens vedtak. Da vedtaket ble påklaget, nedtegnet og underskrev kommuneadvokaten tilretteleggingen og innstillingen til klagenemnda etter instruks fra ordføreren. Kommuneadvokaten deltok også i klagenemndas møte for å svare på spørsmål om faktum.  
-   
- Ombudsmannen er kommet til at kommuneadvokatens medvirkning ved klagebehandlingen var i strid med kommunelovens regel om habilitet. Ombudsmannen ber kommunen om en fornyet klagebehandling.
+Ombudsmannen er kommet til at kommuneadvokatens medvirkning ved klagebehandlingen var i strid med kommunelovens regel om habilitet. Ombudsmannen ber kommunen om en fornyet klagebehandling.
 
 Se oppdatering fra forvaltningen
 

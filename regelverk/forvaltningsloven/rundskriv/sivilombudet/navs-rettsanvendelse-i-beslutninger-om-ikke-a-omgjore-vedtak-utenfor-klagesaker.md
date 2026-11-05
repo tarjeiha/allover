@@ -15,12 +15,9 @@ Sivilombudets uttalelse 7.6.2022 (sak 2022/1413).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak undersøkt Navs rettsanvendelse i beslutninger etter forvaltningsloven § 35 om ikke å omgjøre vedtak utenfor klagesaker. Undersøkelsen viste at Nav i perioden fra juli 2017 til januar 2022 traff beslutninger bygget på en uriktig og for streng tolkning av forvaltningsloven § 35. Feilen besto i at Nav brukte de strengere vilkårene som tidligere gjaldt for den ulovfestede regelen om gjenopptak. Ombudet er ikke overbevist av Arbeids- og inkluderingsdepartementets forklaring om at saksbehandlere i Nav som har skrevet beslutninger med en for streng tolkning av forvaltningsloven § 35, egentlig hadde en god forståelse av bestemmelsen.  
-   
- En viktig bakenforliggende årsak til feiltolkningen er Arbeids- og velferdsdirektoratets mangelfulle oppfølging av hvordan Navs enheter skulle legge om praksis etter en instruks fra departementet 30. mai 2017.  
-   
- Departementet har ikke kunnet gi et anslag over hvor mange saker som er omfattet av feiltolkningen. Ombudet mener departementet burde gjort en større innsats for å kartlegge omfanget av feilen i Nav og en bedre vurdering av hvilke konsekvenser den kan ha hatt for utfallet av de berørte sakene. Direktoratet har varslet at det nå skal oppdatere Navs rundskriv til forvaltningsloven og lage en ny mal for beslutninger om omgjøring.  
-   
- Ombudet ber departementet vurdere hvordan de personene som er berørt av feiltolkningen på en egnet måte kan informeres om feilen og muligheten de har for å be Nav om en ny vurdering av omgjøringsspørsmålet etter en korrekt og mindre streng lovtolkning, samt om en redegjørelse for fremdriften i direktoratets arbeid med rundskrivet og malen.
+En viktig bakenforliggende årsak til feiltolkningen er Arbeids- og velferdsdirektoratets mangelfulle oppfølging av hvordan Navs enheter skulle legge om praksis etter en instruks fra departementet 30. mai 2017.  
+Departementet har ikke kunnet gi et anslag over hvor mange saker som er omfattet av feiltolkningen. Ombudet mener departementet burde gjort en større innsats for å kartlegge omfanget av feilen i Nav og en bedre vurdering av hvilke konsekvenser den kan ha hatt for utfallet av de berørte sakene. Direktoratet har varslet at det nå skal oppdatere Navs rundskriv til forvaltningsloven og lage en ny mal for beslutninger om omgjøring.  
+Ombudet ber departementet vurdere hvordan de personene som er berørt av feiltolkningen på en egnet måte kan informeres om feilen og muligheten de har for å be Nav om en ny vurdering av omgjøringsspørsmålet etter en korrekt og mindre streng lovtolkning, samt om en redegjørelse for fremdriften i direktoratets arbeid med rundskrivet og malen.
 
 ## Sakens bakgrunn
 

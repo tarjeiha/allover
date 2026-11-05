@@ -15,14 +15,10 @@ Sivilombudets uttalelse 24.10.2019 (sak 2018/4557 og 2018/4740).
 ## Oppsummering
 
 Saken gjelder X kommunes klagebehandling av et eldre ektepars søknader om parkeringstillatelse for henholdsvis forflytningshemmet sjåfør og passasjer. Begge ektefellene var betydelig bevegelseshemmet. Søknadene ble likevel avslått fordi kravet til særlig behov for parkeringslette i forbindelse med aktiviteter ikke var oppfylt.  
-   
- Ombudsmannen er kommet til at kommunelegen var inhabil da han medvirket ved tilretteleggelsen av mannens sak for kommunens klagenemnd ut fra bestemmelsen i kommuneloven § 40 nr. 3 bokstav c første ledd.  
-   
- Det fremgår ikke tilstrekkelig klart av underretningen til klager at klagenemndas begrunnelse for vedtakene er den samme som i rådmannens innstilling til nemnda.  
-   
- Videre er det uklart om klagenemndas rettsanvendelse bygger på en riktig forståelse av aktivitetskravet etter forskrift om parkeringstillatelse for forflytningshemmede § 3 første ledd. Dessuten skulle klagenemnda ha foretatt en totalvurdering av ekteparets samlede behov, selv om de søkte hver for seg.  
-   
- På bakgrunn av disse manglene ber ombudsmannen klagenemnda behandle sakene på nytt.
+Ombudsmannen er kommet til at kommunelegen var inhabil da han medvirket ved tilretteleggelsen av mannens sak for kommunens klagenemnd ut fra bestemmelsen i kommuneloven § 40 nr. 3 bokstav c første ledd.  
+Det fremgår ikke tilstrekkelig klart av underretningen til klager at klagenemndas begrunnelse for vedtakene er den samme som i rådmannens innstilling til nemnda.  
+Videre er det uklart om klagenemndas rettsanvendelse bygger på en riktig forståelse av aktivitetskravet etter forskrift om parkeringstillatelse for forflytningshemmede § 3 første ledd. Dessuten skulle klagenemnda ha foretatt en totalvurdering av ekteparets samlede behov, selv om de søkte hver for seg.  
+På bakgrunn av disse manglene ber ombudsmannen klagenemnda behandle sakene på nytt.
 
 Se oppdatering fra forvaltningen
 

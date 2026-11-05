@@ -15,8 +15,7 @@ Sivilombudets uttalelse 25.11.2019 (sak 2019/2249).
 ## Oppsummering
 
 Etter forskrift om tildeling av utdanningsstøtte for undervisningsåret 2018 – 2019 § 39-4 skal foreldrestipend regnes ut fra den maksimale summen søkeren har krav på, og det er «studiebelastningen i opptjeningsperioden som legges til grunn». Spørsmålet er hvordan begrepet «studiebelastning» skal forstås ved beregningen av foreldrestipend til en person med varierende studiebelastning i opptjeningsperioden.  
-   
- Ombudsmannen er kommet til at det knytter seg begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd, til å runde ned reell studiebelastning under gjennomsnittsberegningen av studiebelastningen. Lånekassen må ta opp klagerens sak til ny behandling. I tillegg bør gjeldende forvaltningspraksis med nedrundingen i tilfelle klargjøres og forankres i en forskriftsbestemmelse.
+Ombudsmannen er kommet til at det knytter seg begrunnet tvil, jf. sivilombudsmannsloven § 10 annet ledd, til å runde ned reell studiebelastning under gjennomsnittsberegningen av studiebelastningen. Lånekassen må ta opp klagerens sak til ny behandling. I tillegg bør gjeldende forvaltningspraksis med nedrundingen i tilfelle klargjøres og forankres i en forskriftsbestemmelse.
 
 Se oppdatering fra forvaltningen
 

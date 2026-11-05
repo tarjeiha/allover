@@ -15,10 +15,8 @@ Sivilombudets uttalelse 15.1.2019 (sak 2018/2622).
 ## Oppsummering
 
 Saken gjelder Hedmark fylkeskommunes behandling av et busselskaps søknader om utvidelse av eksisterende løyve for persontransport med buss.  
-   
- Ombudsmannen er kommet til at fylkeskommunens saksbehandling var mangelfull på flere stadier av saken. Det er tvilsomt om fylkeskommunen har oppfylt sin plikt til å behandle busselskapets søknader, om enkeltvedtakene som er truffet er i tråd med de krav som stilles i forvaltningsloven, om saken er behandlet i førsteinstans eller som klagesak, og om saken er forberedt og avgjort uten ugrunnet opphold. Fylkeskommunen har heller ikke opplyst busselskapet om retten til å påklage enkeltvedtak.  
-   
- Fylkeskommunen er bedt om å merke seg dette for fremtidig behandling av søknader de mottar.
+Ombudsmannen er kommet til at fylkeskommunens saksbehandling var mangelfull på flere stadier av saken. Det er tvilsomt om fylkeskommunen har oppfylt sin plikt til å behandle busselskapets søknader, om enkeltvedtakene som er truffet er i tråd med de krav som stilles i forvaltningsloven, om saken er behandlet i førsteinstans eller som klagesak, og om saken er forberedt og avgjort uten ugrunnet opphold. Fylkeskommunen har heller ikke opplyst busselskapet om retten til å påklage enkeltvedtak.  
+Fylkeskommunen er bedt om å merke seg dette for fremtidig behandling av søknader de mottar.
 
 ## Sakens bakgrunn
 

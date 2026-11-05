@@ -15,8 +15,7 @@ Sivilombudets uttalelse 22.5.2025 (sak 2025/401).
 ## Oppsummering
 
 Saken gjelder Statsforvalterens behandling av forespørsler om lovlighetskontroll etter kommuneloven § 27-1 annet ledd. Saken ble tatt opp av ombudet på eget tiltak. Bakgrunnen for undersøkelsen var at Sivilombudet mottok to klager på et kommunestyrevedtak om skolestruktur i Vestland fylke. I begge sakene hadde Statsforvalteren avvist å åpne lovlighetskontroll av eget initiativ.  
-   
- Ombudet har kommet til at Statsforvalteren må vurdere alle innsendte henvendelser og ta stilling til om lovlighetskontroll bør åpnes. Alle henvendelser må besvares. God forvaltningsskikk tilsier at en kort forklaring gis når Statsforvalteren avslår å kontrollere vedtaket.
+Ombudet har kommet til at Statsforvalteren må vurdere alle innsendte henvendelser og ta stilling til om lovlighetskontroll bør åpnes. Alle henvendelser må besvares. God forvaltningsskikk tilsier at en kort forklaring gis når Statsforvalteren avslår å kontrollere vedtaket.
 
 ## Sakens bakgrunn
 
@@ -77,7 +76,7 @@ En beslutning om å avstå fra å føre kontroll, er ikke et enkeltvedtak. Regle
 ### Vurdering av henvendelser om lovlighetskontroll
 
 Problemstillingen er om Statsforvalteren har plikt til å vurdere om innsendte henvendelser gir grunnlag for å åpne kontroll på eget initiativ etter kommuneloven  
- § 27-1 andre ledd, og hvilke krav som eventuelt gjelder til begrunnelse.
+§ 27-1 andre ledd, og hvilke krav som eventuelt gjelder til begrunnelse.
 
 Bakgrunnen for at ombudet tar opp dette spørsmålet, er begrunnelsen som ble gitt i saken som er sitert i avsnitt 2 foran. I denne konkrete saken kan begrunnelsen gi inntrykk av at Statsforvalteren har inntatt et forhåndsstandpunkt, og at innholdet i henvendelsen ikke ble vurdert. Saken er avsluttet hos ombudet og gir ikke grunnlag for kritikk etter sivilombudsloven § 12.
 
@@ -106,6 +105,6 @@ Statsforvalterens kontroll med kommunale vedtak er viktig for å ivareta rettssi
 ## Konklusjon
 
 Sivilombudet mener Statsforvalteren konkret må vurdere alle innsendte henvendelser om lovlighetskontroll, og om det er særlige grunner til å åpne kontroll på eget initiativ,  
- jf. kommuneloven § 27-1 annet ledd. Alle henvendelser må i utgangspunktet besvares. God forvaltningsskikk tilsier at det også gis en kort forklaring på hvorfor Statsforvalteren ikke går videre med saken.
+jf. kommuneloven § 27-1 annet ledd. Alle henvendelser må i utgangspunktet besvares. God forvaltningsskikk tilsier at det også gis en kort forklaring på hvorfor Statsforvalteren ikke går videre med saken.
 
 Saken som ombudet har tatt opp med Statsforvalteren har ikke gitt grunnlag for kritikk. Sivilombudet oppfordrer imidlertid Statsforvalteren til å til å videreføre praksisen med å kort begrunne hvorfor en anmodning om lovlighetskontroll av eget tiltak ikke tas til følge.

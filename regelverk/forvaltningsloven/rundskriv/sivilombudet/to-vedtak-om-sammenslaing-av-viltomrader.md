@@ -15,8 +15,7 @@ Sivilombudets uttalelse 31.8.2018 (sak 2017/4302).
 ## Oppsummering
 
 Saken gjelder tvangssammenslåing av eiendommer til felles viltområde i medhold av viltloven § 37. Miljødirektoratet omgjorde to vedtak fra kommunen om videreføring av slik sammenslåing. I begrunnelsen skrev direktoratet at viltloven § 37 har utspilt sin rolle i sakene og at partene enten må finne en frivillig ordning eller bringe sakene inn for jordskifteverket. Videre fremholdt direktoratet at sammenslåingene så langt ikke har fungert og at partene i liten grad har forsøkt å finne en frivillig ordning. Direktoratet gjorde også gjeldende at vedtak med hjemmel i viltloven § 37 i stadig mindre grad oppfyller målsettingen om en rasjonell og forsvarlig viltforvaltning.  
-   
- Ombudsmannen er kommet til at direktoratet ikke i tilstrekkelig grad har angitt de faktiske forhold vedtakene bygger på, jf. forvaltningsloven § 25. Det er derfor begrunnet tvil om direktoratet kunne omgjøre sammenslåingene med den begrunnelsen som er gitt. Direktoratet bes om å vurdere sakene på nytt.
+Ombudsmannen er kommet til at direktoratet ikke i tilstrekkelig grad har angitt de faktiske forhold vedtakene bygger på, jf. forvaltningsloven § 25. Det er derfor begrunnet tvil om direktoratet kunne omgjøre sammenslåingene med den begrunnelsen som er gitt. Direktoratet bes om å vurdere sakene på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -14,13 +14,10 @@ Sivilombudets uttalelse 17.3.2025 (sak 2024/6761).
 
 ## Oppsummering
 
-Saken gjelder lang behandlingstid hos Statsforvalteren i Østfold, Buskerud, Oslo og Akershus i forbindelse med to saker om tilsyn med Sykehuset Østfold HF og en fastlege. Statsforvalterens behandlingstid i de to sakene er foreløpig om lag 20 måneder. Sakene er ennå ikke ferdigbehandlet. Den lange behandlingstiden ble blant annet forklart med ressurssituasjonen og store restanser.   
-   
- Sivilombudet undersøkte også Statsforvalterens generelle behandlingstider i tilsynssaker, og Statsforvalterens praksis knyttet til foreløpige svar og forsinkelsesmeldinger.  
-   
- Etter ombudets syn er Statsforvalterens behandlingstid hittil i de konkrete tilsynssakene i strid med forvaltningsloven § 11 a første ledd. Det er også grunn til å tro at behandlingstiden i flere andre saker er i strid med kravene til forsvarlig fremdrift. Sivilombudet var enig med Statsforvalteren i at klageren ikke ble holdt orientert om sakenes fremdrift, slik forvaltningsloven § 11 a andre ledd og god forvaltningsskikk krever. Det var også grunnlag for å konkludere med at Statsforvalteren ikke overholder plikten til å sende foreløpige svar og forsinkelsesbrev i flere andre saker.  
-   
- Ombudet ba Statsforvalteren vurdere å utarbeide skriftlige rutiner om foreløpige svar og forsinkelsesmeldinger, dersom slike ikke allerede er utarbeidet, og om å redegjøre for effekten av tiltakene som er iverksatt for å få ned behandlingstiden.
+Saken gjelder lang behandlingstid hos Statsforvalteren i Østfold, Buskerud, Oslo og Akershus i forbindelse med to saker om tilsyn med Sykehuset Østfold HF og en fastlege. Statsforvalterens behandlingstid i de to sakene er foreløpig om lag 20 måneder. Sakene er ennå ikke ferdigbehandlet. Den lange behandlingstiden ble blant annet forklart med ressurssituasjonen og store restanser.  
+Sivilombudet undersøkte også Statsforvalterens generelle behandlingstider i tilsynssaker, og Statsforvalterens praksis knyttet til foreløpige svar og forsinkelsesmeldinger.  
+Etter ombudets syn er Statsforvalterens behandlingstid hittil i de konkrete tilsynssakene i strid med forvaltningsloven § 11 a første ledd. Det er også grunn til å tro at behandlingstiden i flere andre saker er i strid med kravene til forsvarlig fremdrift. Sivilombudet var enig med Statsforvalteren i at klageren ikke ble holdt orientert om sakenes fremdrift, slik forvaltningsloven § 11 a andre ledd og god forvaltningsskikk krever. Det var også grunnlag for å konkludere med at Statsforvalteren ikke overholder plikten til å sende foreløpige svar og forsinkelsesbrev i flere andre saker.  
+Ombudet ba Statsforvalteren vurdere å utarbeide skriftlige rutiner om foreløpige svar og forsinkelsesmeldinger, dersom slike ikke allerede er utarbeidet, og om å redegjøre for effekten av tiltakene som er iverksatt for å få ned behandlingstiden.
 
 Se oppdatering fra forvaltningen
 

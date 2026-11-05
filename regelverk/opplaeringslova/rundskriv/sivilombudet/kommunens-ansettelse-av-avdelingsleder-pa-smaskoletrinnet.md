@@ -16,8 +16,7 @@ Sivilombudets uttalelse 16.2.2021 (sak 2020/2678).
 ## Oppsummering
 
 En kommune lyste ut fast stilling som avdelingsleder med 20-30 % undervisningsdel på småskoletrinnet. Kommunen ansatte en person som ikke oppfylte kompetansekravene til undervisningsstilling i lov og forskrift. En søker som oppfylte kravene mente seg forbigått, og brakte saken inn for ombudsmannen.  
-   
- Ombudsmannen mener at ansettelsen er i strid med kravene i opplæringslova da en person uten tilstrekkelig pedagogisk kompetanse ble fast ansatt. Ved fremtidige ansettelser må kommunen også være bevisst på rammene som utformingen av utlysningsteksten setter for den videre ansettelsesprosessen. Slik saken er opplyst, er det ikke grunnlag for å ta stilling til om klager er forbigått. Ansettelsesprosessen har ikke vært i tråd med de ulovfestede kravene til skriftlighet som gjelder ved ansettelser.
+Ombudsmannen mener at ansettelsen er i strid med kravene i opplæringslova da en person uten tilstrekkelig pedagogisk kompetanse ble fast ansatt. Ved fremtidige ansettelser må kommunen også være bevisst på rammene som utformingen av utlysningsteksten setter for den videre ansettelsesprosessen. Slik saken er opplyst, er det ikke grunnlag for å ta stilling til om klager er forbigått. Ansettelsesprosessen har ikke vært i tråd med de ulovfestede kravene til skriftlighet som gjelder ved ansettelser.
 
 ## Sakens bakgrunn
 
@@ -105,7 +104,7 @@ Utlysningsteksten oppgir at avdelingslederstillingen innebærer 20-30 % undervis
 Det er på det rene at klager oppfyller forskriftskravene. Det er derimot ikke tilfelle for den som ble ansatt. Den ansatte er utdannet førskolelærer, og det fremgår av søknaden hans at han har fordypning i organisasjon og ledelse. I et dokument som lister opp søkernes utdanning fremgår det at fordypningsfaget var på 10 studiepoeng. Ombudsmannen har ikke fått oversendt dokumentasjon på den ansattes høgskoleutdanning, og det er grunn til å anta at fordypningsfaget var en del av bachelorutdanningen som førskolelærer. Dette har ikke kommunen gått inn på i svaret. Uansett utgjør fordypningsfaget 10 studiepoeng, og han oppfyller dermed ikke kravet til 60 studiepoeng videreutdanning innrettet på undervisning på barnetrinnet.
 
 For undervisningsstillinger er det etter Høyesteretts dom 31. oktober 2016 (HR-2016-2229-A) bare der man kan fastslå at en formelt kvalifisert kandidat ikke er personlig egnet at man i stedet kan ansette midlertidig en søker som ikke er formelt kvalifisert, jf. opplæringslova  
- § 10-6, eller ansette på vilkår om at relevant utdanning vil bli fullført jf. § 10-6a. Vurderingen av egnetheten gjøres som ledd i prøvingen av om kandidaten har «relevant faglig og pedagogisk kompetanse», jf. § 10-1. Dokumentene i ansettelsessaken eller kommunens svar gir ikke holdepunkter for at klager er vurdert som uegnet som pedagog.
+§ 10-6, eller ansette på vilkår om at relevant utdanning vil bli fullført jf. § 10-6a. Vurderingen av egnetheten gjøres som ledd i prøvingen av om kandidaten har «relevant faglig og pedagogisk kompetanse», jf. § 10-1. Dokumentene i ansettelsessaken eller kommunens svar gir ikke holdepunkter for at klager er vurdert som uegnet som pedagog.
 
 Ansettelsen har skjedd i strid med opplæringslovas kompetansekrav, da en person uten tilstrekkelig pedagogisk utdannelse ble fast ansatt.
 

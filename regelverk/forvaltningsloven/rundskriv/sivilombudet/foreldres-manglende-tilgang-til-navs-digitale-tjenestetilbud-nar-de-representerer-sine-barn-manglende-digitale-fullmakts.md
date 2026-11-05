@@ -14,19 +14,13 @@ Sivilombudets uttalelse 12.3.2026 (sak 2025/6916).
 
 ## Oppsummering
 
-Nav har et omfattende digitalt tjenestetilbud som stadig videreutvikles. De digitale løsningene er imidlertid ikke tilgjengelige for alle. Nav mangler digitale systemer for verger, advokater og andre fullmektiger. Brukere som trenger hjelp fra andre overfor Nav, er derfor henvist til kommunikasjon via brev, telefon eller personlig oppmøte.   
-   
- Foreldre er verger for sine mindreårige barn og handler på deres vegne. Familier med syke barn er en gruppe som ofte har rett til flere ytelser og større behov for dialog med Nav. Mangelen på et digitalt tjenestetilbud har vist seg å skape store praktiske utfordringer i møte med Nav.   
-   
- Sivilombudet har siden 2019 fulgt med på utviklingen av digitale fullmaktsløsninger i Nav. Etter seks år er utviklingen fortsatt på et planleggingsstadium.   
-   
- Sivilombudet mente at Navs manglende digitale/elektroniske kommunikasjonskanaler for brukere som blir representert av andre, innebar et brudd på forvaltningsloven § 15 a og eForvaltningsforskriften § 3.  
-   
- Tilgang til digitale tjenester er av svært stor betydning for et likeverdig tjenestetilbud for brukere som trenger bistand av en fullmektig eller annen representant for å sikre sine rettigheter. Ombudet mente derfor at Nav måtte gi arbeidet med å utvikle tekniske løsninger for digital/elektronisk kommunikasjon høyeste prioritet.   
-   
- Ombudet mente også at Nav, i påvente av en digital fullmaktsløsning, måtte iverksette nødvendige tiltak for å sikre etterlevelse av regler om taushetsplikt og personvern og gjøre den digitale kommunikasjonskanalen «Skriv til oss» tilgjengelig for foreldre som handler på vegne av sine mindreårige barn.   
-   
- I tillegg måtte Nav iverksette tiltak for å sørge for at Navs ansatte fulgte rutinene for kommunikasjon med foreldre som handler på vegne av sine barn slik at foreldrene ble gitt den informasjonen de hadde krav på.
+Nav har et omfattende digitalt tjenestetilbud som stadig videreutvikles. De digitale løsningene er imidlertid ikke tilgjengelige for alle. Nav mangler digitale systemer for verger, advokater og andre fullmektiger. Brukere som trenger hjelp fra andre overfor Nav, er derfor henvist til kommunikasjon via brev, telefon eller personlig oppmøte.  
+Foreldre er verger for sine mindreårige barn og handler på deres vegne. Familier med syke barn er en gruppe som ofte har rett til flere ytelser og større behov for dialog med Nav. Mangelen på et digitalt tjenestetilbud har vist seg å skape store praktiske utfordringer i møte med Nav.  
+Sivilombudet har siden 2019 fulgt med på utviklingen av digitale fullmaktsløsninger i Nav. Etter seks år er utviklingen fortsatt på et planleggingsstadium.  
+Sivilombudet mente at Navs manglende digitale/elektroniske kommunikasjonskanaler for brukere som blir representert av andre, innebar et brudd på forvaltningsloven § 15 a og eForvaltningsforskriften § 3.  
+Tilgang til digitale tjenester er av svært stor betydning for et likeverdig tjenestetilbud for brukere som trenger bistand av en fullmektig eller annen representant for å sikre sine rettigheter. Ombudet mente derfor at Nav måtte gi arbeidet med å utvikle tekniske løsninger for digital/elektronisk kommunikasjon høyeste prioritet.  
+Ombudet mente også at Nav, i påvente av en digital fullmaktsløsning, måtte iverksette nødvendige tiltak for å sikre etterlevelse av regler om taushetsplikt og personvern og gjøre den digitale kommunikasjonskanalen «Skriv til oss» tilgjengelig for foreldre som handler på vegne av sine mindreårige barn.  
+I tillegg måtte Nav iverksette tiltak for å sørge for at Navs ansatte fulgte rutinene for kommunikasjon med foreldre som handler på vegne av sine barn slik at foreldrene ble gitt den informasjonen de hadde krav på.
 
 ## Sakens bakgrunn
 

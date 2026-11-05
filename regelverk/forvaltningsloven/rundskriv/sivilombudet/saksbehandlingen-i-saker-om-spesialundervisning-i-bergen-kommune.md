@@ -15,10 +15,8 @@ Sivilombudets uttalelse 16.12.2019 (sak 2019/1030).
 ## Oppsummering
 
 Saken gjelder manglende svar fra Byrådsavdelingen for barnehage, skole og idrett i Bergen kommune på henvendelser om spesialundervisning og partsinnsyn.  
-   
- Sivilombudsmannen har kommet til at det foreligger brudd på forvaltningsloven § 11a om å gi foreløpig svar og om å behandle henvendelsen om partsinnsyn uten ugrunnet opphold. Det er videre grunn til å tro at også klagene på spesialundervisningen ikke er behandlet «uten ugrunnet opphold».  
-   
- Ombudsmannen anmoder byrådsavdelingen å sørge for at alle klagers henvendelser besvares uten ytterligere forsinkelser. Byrådsavdelingen må vurdere om rutinene for å håndtere omfattende og krevende saker er tilstrekkelig gode og at behandlingen av partsinnsyn skilles ut fra øvrige henvendelser og behandles hurtig.
+Sivilombudsmannen har kommet til at det foreligger brudd på forvaltningsloven § 11a om å gi foreløpig svar og om å behandle henvendelsen om partsinnsyn uten ugrunnet opphold. Det er videre grunn til å tro at også klagene på spesialundervisningen ikke er behandlet «uten ugrunnet opphold».  
+Ombudsmannen anmoder byrådsavdelingen å sørge for at alle klagers henvendelser besvares uten ytterligere forsinkelser. Byrådsavdelingen må vurdere om rutinene for å håndtere omfattende og krevende saker er tilstrekkelig gode og at behandlingen av partsinnsyn skilles ut fra øvrige henvendelser og behandles hurtig.
 
 ## Sakens bakgrunn
 

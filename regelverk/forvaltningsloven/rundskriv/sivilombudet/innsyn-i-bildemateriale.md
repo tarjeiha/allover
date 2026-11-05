@@ -16,8 +16,7 @@ Sivilombudets uttalelse 31.5.2021 (sak 2021/469).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i bildemateriale fra Mattilsynets tilsyn hos en pelsdyroppdretter. Mattilsynet ga innsyn i de fleste bildene. To av bildene ble derimot sladdet i sin helhet. Som begrunnelse for avslaget, viste Mattilsynet blant annet til at bildene gjelder en virksomhet der en enkeltperson har ansvaret for manglende oppfølging av syke og skadde dyr, og at bildene i vesentlig sterkere grad enn det skriftlige materialet var egnet til å karakterisere den ansvarlige. Den ekstra dimensjonen som bildene tilfører, var videre egnet til å skape så negative reaksjoner at den offentlige interessen i at opplysningene blir kjent, ikke oppveier den ansvarlige sitt behov for beskyttelse.  
-   
- Ombudsmannen har ikke avgjørende innvendinger mot Mattilsynets vurdering av at de to sladdede bildene skal unntas fra offentlighet fordi de er underlagt lovbestemt taushetsplikt, jf. offentleglova § 13 første ledd og forvaltningsloven § 13 første ledd nr. 1. Begrensningen i forvaltningsloven § 13 a nr. 3 om opplysninger som er «alminnelig tilgjengelig andre steder» kommer ikke til anvendelse selv om det er gitt skriftlige beskrivelser av innholdet i bildene.
+Ombudsmannen har ikke avgjørende innvendinger mot Mattilsynets vurdering av at de to sladdede bildene skal unntas fra offentlighet fordi de er underlagt lovbestemt taushetsplikt, jf. offentleglova § 13 første ledd og forvaltningsloven § 13 første ledd nr. 1. Begrensningen i forvaltningsloven § 13 a nr. 3 om opplysninger som er «alminnelig tilgjengelig andre steder» kommer ikke til anvendelse selv om det er gitt skriftlige beskrivelser av innholdet i bildene.
 
 ## Sakens bakgrunn
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 2.11.2023 (sak 2023/1662).
 ## Oppsummering
 
 Saken gjelder avslag på en innsatts søknad om å få bruke datasystemet «Desktop for skolen» (DFS) i forbindelse med gjennomføring av videregående opplæring under soning i Halden fengsel. Hovedbegrunnelsen for avslaget var at tilgang til DFS ikke ville være «sikkerhetsmessig ubetenkelig», jf. forskrift om straffegjennomføring § 3-20.  
-   
- Sivilombudet har kommet til at Kriminalomsorgen region øst ikke kunne avslå en søknad om DFS utelukkende ut fra en vurdering av om DFS-tilgang ville være «sikkerhetsmessig ubetenkelig». Regionen skulle vurdert hvilken betydning tilgang til dataløsningen hadde for den innsattes rett og mulighet til å gjennomføre utdanning, og om en begrensning i tilgangen var forholdsmessig, jf. straffegjennomføringsloven § 2 og den europeiske menneskerettskonvensjonens (EMK) tilleggsprotokoll nr. 1 artikkel 2. Når dette ikke ble gjort, innebar regionens avgjørelse både et brudd på plikten til å hensynta den enkelte innsattes behov og rettigheter ved avgjørelser av betydning for sikkerheten, og på EMKs bestemmelse om retten til utdanning.   
-   
- Kriminalomsorgen region øst ble bedt om å merke seg ombudets uttalelse, og legge den til grunn ved behandling av fremtidige saker om avslag på søknader om DFS.  
-   
- Ombudet vil orientere Kriminalomsorgsdirektoratet om det som synes å være en mangel ved kriminalomsorgens praksis, jf. sivilombudsloven § 25 tredje ledd, ved å sende det kopi av uttalelsen. Ombudet vil også i et eget brev orientere Justis- og beredskapsdepartementet om mangler ved § 3-20 i forskrift om straffegjennomføring, jf. sivilombudsloven § 25 tredje ledd.
+Sivilombudet har kommet til at Kriminalomsorgen region øst ikke kunne avslå en søknad om DFS utelukkende ut fra en vurdering av om DFS-tilgang ville være «sikkerhetsmessig ubetenkelig». Regionen skulle vurdert hvilken betydning tilgang til dataløsningen hadde for den innsattes rett og mulighet til å gjennomføre utdanning, og om en begrensning i tilgangen var forholdsmessig, jf. straffegjennomføringsloven § 2 og den europeiske menneskerettskonvensjonens (EMK) tilleggsprotokoll nr. 1 artikkel 2. Når dette ikke ble gjort, innebar regionens avgjørelse både et brudd på plikten til å hensynta den enkelte innsattes behov og rettigheter ved avgjørelser av betydning for sikkerheten, og på EMKs bestemmelse om retten til utdanning.  
+Kriminalomsorgen region øst ble bedt om å merke seg ombudets uttalelse, og legge den til grunn ved behandling av fremtidige saker om avslag på søknader om DFS.  
+Ombudet vil orientere Kriminalomsorgsdirektoratet om det som synes å være en mangel ved kriminalomsorgens praksis, jf. sivilombudsloven § 25 tredje ledd, ved å sende det kopi av uttalelsen. Ombudet vil også i et eget brev orientere Justis- og beredskapsdepartementet om mangler ved § 3-20 i forskrift om straffegjennomføring, jf. sivilombudsloven § 25 tredje ledd.
 
 ## Sakens bakgrunn
 

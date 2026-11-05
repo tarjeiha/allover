@@ -15,14 +15,10 @@ Sivilombudets uttalelse 15.2.2019 (sak 2018/3391).
 ## Oppsummering
 
 Saken gjelder Helseklages behandlingstid i en enkeltsak om utmåling av erstatning for pasientskade og Helseklages generelle behandlingstider i pasientskadesaker.  
-   
- Behandlingstiden i enkeltsaken frem til nå har vært 41 måneder, og saken forventes ferdigstilt innen 43 måneder. Saken lå først ubehandlet i 36-37 måneder i påvente av ledig saksbehandlerkapasitet. Denne behandlingstiden er utvilsomt alt for lang og i strid med forvaltningsloven § 11 a første ledd.  
-   
- Gjennomsnittlig behandlingstid i avsluttede utmålingssaker har det siste året ligget på mellom 31 og 37 måneder. Det har vært lange saksbehandlingstider siden flyttingen til Bergen ble påbegynt for tre år siden. Det er positivt at Helseklage har satt i verk tiltak for å bøte på situasjonen, men tiltakene har så langt ikke vært tilstrekkelige. Problemene som følge av omorganiseringen kan i stadig mindre grad forsvare lange behandlingstider ettersom tiden går.  
-   
- Det er positivt at Helseklage nå skal ha etablert en rutine for å sende ut informasjon om forventet saksbehandlingstid og eventuelle forsinkelser. Informasjonen til klagerne i enkeltsaken var imidlertid ikke tilfredsstillende.  
-   
- Ombudsmannen vil fortsette å følge med på saksbehandlingstidene hos Helseklage, og på at klagerne rutinemessig mottar informasjon underveis i saksbehandlingen. Det forutsettes at klagerne i enkeltsaken får informasjon om forsinkelsen og ny forventet behandlingstid dersom saken ikke avsluttes innen utgangen av mars 2019.
+Behandlingstiden i enkeltsaken frem til nå har vært 41 måneder, og saken forventes ferdigstilt innen 43 måneder. Saken lå først ubehandlet i 36-37 måneder i påvente av ledig saksbehandlerkapasitet. Denne behandlingstiden er utvilsomt alt for lang og i strid med forvaltningsloven § 11 a første ledd.  
+Gjennomsnittlig behandlingstid i avsluttede utmålingssaker har det siste året ligget på mellom 31 og 37 måneder. Det har vært lange saksbehandlingstider siden flyttingen til Bergen ble påbegynt for tre år siden. Det er positivt at Helseklage har satt i verk tiltak for å bøte på situasjonen, men tiltakene har så langt ikke vært tilstrekkelige. Problemene som følge av omorganiseringen kan i stadig mindre grad forsvare lange behandlingstider ettersom tiden går.  
+Det er positivt at Helseklage nå skal ha etablert en rutine for å sende ut informasjon om forventet saksbehandlingstid og eventuelle forsinkelser. Informasjonen til klagerne i enkeltsaken var imidlertid ikke tilfredsstillende.  
+Ombudsmannen vil fortsette å følge med på saksbehandlingstidene hos Helseklage, og på at klagerne rutinemessig mottar informasjon underveis i saksbehandlingen. Det forutsettes at klagerne i enkeltsaken får informasjon om forsinkelsen og ny forventet behandlingstid dersom saken ikke avsluttes innen utgangen av mars 2019.
 
 ## Sakens bakgrunn
 

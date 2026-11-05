@@ -15,10 +15,8 @@ Sivilombudets uttalelse 17.8.2010 (sak 2009/823).
 ## Oppsummering
 
 Bakgrunnen for saken var at en kontrollkommisjon for et sykehus avviste en klage fra en pasient på et vedtak om overføring av ham etter psykisk helsevernloven 2. juli 1999 nr. 62 § 4-10 fra tvungent psykisk helsevern uten døgnopphold til tvungent vern i sykehusavdeling. Kommisjonen hadde begrunnet avvisningen både med at det var uklart om det forelå en klage og at klagen uansett ikke lenger var aktuell ettersom pasienten på tidspunktet for kommisjonens behandling var utskrevet fra den aktuelle sykehusavdelingen.  
-   
- Kommisjonen ble kritisert for ikke å ha foretatt undersøkelser for å få avklart spørsmålet om pasienten ønsket å klage eller ikke. Ombudsmannen uttalte videre at pasienten hadde krav på å få realitetsbehandlet sin klage og at den ikke kunne avvises med den begrunnelse at den ikke lenger var aktuell fordi pasienten var utskrevet fra den aktuelle sykehusavdelingen. Kommisjonen ble bedt om å behandle saken på nytt.  
-   
- På bakgrunn av ombudsmannens uttalelse tok kontrollkommisjonen As klage til realitetsbehandling. Klagen på overføringsvedtaket ble ikke tatt til følge.
+Kommisjonen ble kritisert for ikke å ha foretatt undersøkelser for å få avklart spørsmålet om pasienten ønsket å klage eller ikke. Ombudsmannen uttalte videre at pasienten hadde krav på å få realitetsbehandlet sin klage og at den ikke kunne avvises med den begrunnelse at den ikke lenger var aktuell fordi pasienten var utskrevet fra den aktuelle sykehusavdelingen. Kommisjonen ble bedt om å behandle saken på nytt.  
+På bakgrunn av ombudsmannens uttalelse tok kontrollkommisjonen As klage til realitetsbehandling. Klagen på overføringsvedtaket ble ikke tatt til følge.
 
 En kontrollkommisjon for et sykehus’ avviste en klage fra en pasient (A) på vedtak om overføring av ham til tvungent psykisk helsevern med døgnopphold, jf. psykisk helsevernloven 2. juli 1999 nr. 62 § 4-10. Pasienten var på tidspunktet for sykehusets vedtak underlagt tvungent psykisk helsevern uten døgnopphold. I avvisningsvedtaket viste kommisjonen både til at det var uklart om det faktisk forelå en klage fra pasienten og at den uansett ikke lenger var aktuell fordi han igjen var utskrevet til tvungent psykisk helsevern uten døgnopphold. Pasientens advokat (B) klaget til ombudsmannen og anførte at det knyttet seg en rekke feil til kommisjonens behandling av klagesaken.
 

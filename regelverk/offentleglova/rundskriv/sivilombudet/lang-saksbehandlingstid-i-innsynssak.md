@@ -15,8 +15,8 @@ Sivilombudets uttalelse 3.5.2022 (sak 2022/1122).
 
 ## Oppsummering
 
-Saken gjelder Asker kommunes saksbehandlingstid av krav om partsinnsyn og innsyn etter offentleglova. Klageren hadde benyttet seg av klageretten etter offentleglova § 32 andre ledd. Det gikk seks måneder fra klageren ba om innsyn til kommunen fattet en avgjørelse i saken. Den lange saksbehandlingen skyldtes kapasitetsutfordringer grunnet nyansettelser, stor saksmengde, koronapandemien og omlegging av digital innsynsløsning.   
- Etter ombudets syn er saksbehandlingstiden ikke i tråd med forvaltningsloven § 11 a første ledd eller offentleglova § 29 første ledd og § 32 tredje ledd. Kommunen er bedt om å gi en redegjørelse for hvor mange innsynskrav og klager den har til behandling pr. 1. juni 2022 med angivelse av når kravene og klagene kom inn.
+Saken gjelder Asker kommunes saksbehandlingstid av krav om partsinnsyn og innsyn etter offentleglova. Klageren hadde benyttet seg av klageretten etter offentleglova § 32 andre ledd. Det gikk seks måneder fra klageren ba om innsyn til kommunen fattet en avgjørelse i saken. Den lange saksbehandlingen skyldtes kapasitetsutfordringer grunnet nyansettelser, stor saksmengde, koronapandemien og omlegging av digital innsynsløsning.  
+Etter ombudets syn er saksbehandlingstiden ikke i tråd med forvaltningsloven § 11 a første ledd eller offentleglova § 29 første ledd og § 32 tredje ledd. Kommunen er bedt om å gi en redegjørelse for hvor mange innsynskrav og klager den har til behandling pr. 1. juni 2022 med angivelse av når kravene og klagene kom inn.
 
 Se oppdatering fra forvaltningen
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 21.10.2016 (sak 2015/2618).
 ## Oppsummering
 
 Saken gjelder en kommunes tildeling av 20 % driftstilskudd til privatpraktiserende fysioterapeut. Sentrale spørsmål i saken er kommunens saksbehandling og vurdering av søkernes kvalifikasjoner.  
-   
- Samlet sett fremstår kommunens tildeling av det aktuelle driftstilskuddet til fysioterapeut som lite tillitvekkende. Som følge av at det ikke ble gjennomført intervjuer i saken, kan det stilles spørsmål ved om saken var godt nok utredet og opplyst før tildelingen ble vedtatt. Det er heller ikke foretatt en tilfredsstillende kvalifikasjonsvurdering av søkerne, og det knytter seg begrunnet tvil til om den som var best faglig kvalifisert ble tildelt driftstilskuddet. Feilene er ikke rettet opp av klageinstansen. Det synes klart at de feilene som er gjort, kan ha hatt betydning for resultatet i saken.
+Samlet sett fremstår kommunens tildeling av det aktuelle driftstilskuddet til fysioterapeut som lite tillitvekkende. Som følge av at det ikke ble gjennomført intervjuer i saken, kan det stilles spørsmål ved om saken var godt nok utredet og opplyst før tildelingen ble vedtatt. Det er heller ikke foretatt en tilfredsstillende kvalifikasjonsvurdering av søkerne, og det knytter seg begrunnet tvil til om den som var best faglig kvalifisert ble tildelt driftstilskuddet. Feilene er ikke rettet opp av klageinstansen. Det synes klart at de feilene som er gjort, kan ha hatt betydning for resultatet i saken.
 
 Se oppdatering fra forvaltningen
 

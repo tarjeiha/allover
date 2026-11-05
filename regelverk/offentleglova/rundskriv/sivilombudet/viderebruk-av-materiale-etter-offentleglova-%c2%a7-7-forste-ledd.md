@@ -15,8 +15,7 @@ Sivilombudets uttalelse 19.6.2019 (sak 2018/2779).
 ## Oppsummering
 
 Saken gjelder viderebruk av materiale etter offentleglova § 7 første ledd. Norsk digital læringsarena (NDLA) er et interfylkeskommunalt samarbeid som tilbyr digitale læringsmidler for videregående opplæring. Hordaland fylkeskommune er ansvarlig juridisk enhet for samarbeidet. Et foretak henvendte seg til fylkeskommunen og krevde rett til fri viderebruk av NDLAs materiale. Foretaket fremholdt at NDLAs lisenser ikke oppfylte kravene i offentleglova § 7 første ledd, ettersom lisensene ikke tillot viderebruk til ethvert formål. Fylkeskommunen fant ikke grunn til å endre lisensene.  
-   
- Ombudsmannen er kommet til at offentleglova §7 første ledd ikke innebærer at NDLA er forpliktet til å tillate fri viderebruk av materiale som er utviklet av eller på oppdrag fra NDLA, selv om det kan kreves innsyn i materialet. Dersom materialet er vernet etter annen lovgivning, for eksempel underlagt opphavsrett eller andre immaterielle rettigheter, må viderebruk klareres med NDLA.
+Ombudsmannen er kommet til at offentleglova §7 første ledd ikke innebærer at NDLA er forpliktet til å tillate fri viderebruk av materiale som er utviklet av eller på oppdrag fra NDLA, selv om det kan kreves innsyn i materialet. Dersom materialet er vernet etter annen lovgivning, for eksempel underlagt opphavsrett eller andre immaterielle rettigheter, må viderebruk klareres med NDLA.
 
 ## Sakens bakgrunn
 

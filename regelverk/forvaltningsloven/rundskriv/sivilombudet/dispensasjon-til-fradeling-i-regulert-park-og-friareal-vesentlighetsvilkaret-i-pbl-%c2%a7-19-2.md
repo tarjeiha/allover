@@ -15,12 +15,9 @@ Sivilombudets uttalelse 17.12.2021 (sak 2021/1456).
 ## Oppsummering
 
 Saken gjelder dispensasjon fra regulert park og friareal for å fradele en tomt til boligformål. Statsforvalteren i Agder stadfestet Grimstad kommunes avslag, og mente både hensynene bak arealformålet og hensynene i lovens formålsbestemmelse ble vesentlig tilsidesatt.  
-   
- Ombudet er kommet til at vilkåret i plan- og bygningsloven § 19-2 andre ledd første punktum er oppfylt slik at søknaden ikke kan avslås med denne hjemmelen. Arealformålet «park og friareal» er allerede så sterkt tilsidesatt at hensynene bak formålet vanskelig kan ivaretas for dette området i planen. Kommunens manglende oppfølging av planformålet og planbestem¬melsene gjennom erverv og opparbeidelse av arealet tilsier at kommunen i praksis ikke har et ønske om å bruke arealet slik det var ment i reguleringsplanen.   
-   
- Kommunens ønske om en planprosess hører under plan- og bygningsloven § 19-2 første ledd, ikke andre ledd.  
-   
- Ombudet ber om at Statsforvalteren behandler saken på nytt.
+Ombudet er kommet til at vilkåret i plan- og bygningsloven § 19-2 andre ledd første punktum er oppfylt slik at søknaden ikke kan avslås med denne hjemmelen. Arealformålet «park og friareal» er allerede så sterkt tilsidesatt at hensynene bak formålet vanskelig kan ivaretas for dette området i planen. Kommunens manglende oppfølging av planformålet og planbestem¬melsene gjennom erverv og opparbeidelse av arealet tilsier at kommunen i praksis ikke har et ønske om å bruke arealet slik det var ment i reguleringsplanen.  
+Kommunens ønske om en planprosess hører under plan- og bygningsloven § 19-2 første ledd, ikke andre ledd.  
+Ombudet ber om at Statsforvalteren behandler saken på nytt.
 
 Se oppdatering fra forvaltningen
 

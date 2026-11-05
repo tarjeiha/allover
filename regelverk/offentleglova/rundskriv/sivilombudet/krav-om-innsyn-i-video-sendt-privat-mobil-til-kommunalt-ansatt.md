@@ -15,10 +15,8 @@ Sivilombudets uttalelse 21.1.2021 (sak 2020/2747).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i en video en ansatt i en kommune mottok på sin private mobiltelefon. Den ansatte mottok samtidig med videoen en tekstmelding med klage på at en bryteklubb brukte kommunens idrettshall utenom tildelt tid. Tekstmeldingen og et stillbilde fra videoen ble lagret i kommunens saksbehandlingssystem. Som følge av henvendelsen ga kommunen bryteklubben en skriftlig advarsel.  
-   
- Videoen var etter det opplyste et opptak av at bryteklubben trente i idrettshallen. Kommunen avslo krav om innsyn i videoen fordi videoen ikke var journalført eller brukt i klagesaken. Kommunen viste også til at videoen lå på den ansattes private telefon som verken var innkjøpt eller eid av kommunen.   
-   
- Etter ombudsmannens syn var videoen et saksdokument etter offentleglova § 4, og innsynskravet skulle vært vurdert ut fra det. Den ansatte mottok videoen i egenskap av å være ansatt i kommunen og videoen skulle vært videresendt til kommunen og journalført der.
+Videoen var etter det opplyste et opptak av at bryteklubben trente i idrettshallen. Kommunen avslo krav om innsyn i videoen fordi videoen ikke var journalført eller brukt i klagesaken. Kommunen viste også til at videoen lå på den ansattes private telefon som verken var innkjøpt eller eid av kommunen.  
+Etter ombudsmannens syn var videoen et saksdokument etter offentleglova § 4, og innsynskravet skulle vært vurdert ut fra det. Den ansatte mottok videoen i egenskap av å være ansatt i kommunen og videoen skulle vært videresendt til kommunen og journalført der.
 
 ## Sakens bakgrunn
 

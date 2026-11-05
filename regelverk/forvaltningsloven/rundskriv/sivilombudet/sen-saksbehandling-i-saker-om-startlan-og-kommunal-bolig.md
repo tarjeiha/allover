@@ -15,10 +15,8 @@ Sivilombudets uttalelse 25.11.2019 (sak 2018/5025).
 ## Oppsummering
 
 Saken gjelder Oslo kommunes behandling av to søknader om startlån og kommunal bolig. Boligkontoret i bydelen brukte 16 og 18 måneder på å behandle søknadene uten at boligkontoret har kunnet gi en tilfredsstillende begrunnelse for tidsbruken. Videre brukte bydelen – til tross for gjentatte skriftlige purringer – mer enn seks måneder på å oversende sakens dokumenter til ombudsmannen.  
-   
- Behandlingstidene for søknadene om startlån og kommunal bolig var i strid med forvaltningsloven, da sakene ikke kan anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Bydelen har heller ikke oversendt sakens dokumenter innen ombudsmannens frister, slik de er pålagt i sivilombudsmannsloven § 7 første ledd første og tredje setning og instruks for sivilombudsmannen § 6 andre ledd andre setning.  
-   
- Ombudsmannen forutsetter at bydelen gjennomgår sine rutiner for hvordan den følger opp henvendelser fra ombudsmannen.
+Behandlingstidene for søknadene om startlån og kommunal bolig var i strid med forvaltningsloven, da sakene ikke kan anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Bydelen har heller ikke oversendt sakens dokumenter innen ombudsmannens frister, slik de er pålagt i sivilombudsmannsloven § 7 første ledd første og tredje setning og instruks for sivilombudsmannen § 6 andre ledd andre setning.  
+Ombudsmannen forutsetter at bydelen gjennomgår sine rutiner for hvordan den følger opp henvendelser fra ombudsmannen.
 
 ## Sakens bakgrunn og våre undersøkelser
 

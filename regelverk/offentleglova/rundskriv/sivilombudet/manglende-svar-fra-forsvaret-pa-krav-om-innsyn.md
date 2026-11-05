@@ -15,15 +15,11 @@ Sivilombudets uttalelse 28.10.2024 (sak 2024/1488).
 
 ## Oppsummering
 
-Saken gjelder manglende svar fra Forsvaret på et krav om innsyn, herunder Forsvarets tidsbruk i saken. Klageren hadde gjentatte ganger fremholdt at innsynskravet ikke var besvart, og presisert hva han ønsket innsyn i. Innsynskravet ble besvart etter åtte måneder.   
-   
- Ombudet har kommet til at Forsvarets tidsbruk i saken ikke er i overenstemmelse med offentleglova § 29 første ledd andre setning. Forsvaret har heller ikke overholdt veiledningsplikten i forvaltningsloven § 11. Ombudet ber Forsvaret merke seg det som er sagt om tidsbruken og veiledningsplikten, og om å følge dette i fremtidige innsynssaker.  
-   
- Det hefter tvil ved de faktiske omstendighetene i saken. Ombudet ber Forsvarsstaben undersøke og gi en tilbakemelding på hvor det har sviktet i behandlingen av saken, og hva som eventuelt vil gjøres for å forebygge at tilsvarende feil skjer igjen.   
-   
- Forsvarsstabens gjentatte anmodninger om utsatt svarfrist, fristoversittelser og utilstrekkelige svar på henvendelsene herfra, strider mot Stortingets forutsetning om at ombudets henvendelser skal prioriteres. Ombudet forutsetter at fremtidige henvendelser herfra undergis nødvendig behandling, og at de svarfrister ombudet setter blir overholdt.   
-   
- I forbindelse med ombudets undersøkelse har det fremkommet opplysninger som tilsier at Forsvaret ikke har rutiner som sikrer at all post sendt Forsvarets virksomheter blir fanget opp. Ombudet ber Forsvarsstaben se nærmere på dette, og sikre at all post sendt til Forsvaret blir registrert og behandlet.
+Saken gjelder manglende svar fra Forsvaret på et krav om innsyn, herunder Forsvarets tidsbruk i saken. Klageren hadde gjentatte ganger fremholdt at innsynskravet ikke var besvart, og presisert hva han ønsket innsyn i. Innsynskravet ble besvart etter åtte måneder.  
+Ombudet har kommet til at Forsvarets tidsbruk i saken ikke er i overenstemmelse med offentleglova § 29 første ledd andre setning. Forsvaret har heller ikke overholdt veiledningsplikten i forvaltningsloven § 11. Ombudet ber Forsvaret merke seg det som er sagt om tidsbruken og veiledningsplikten, og om å følge dette i fremtidige innsynssaker.  
+Det hefter tvil ved de faktiske omstendighetene i saken. Ombudet ber Forsvarsstaben undersøke og gi en tilbakemelding på hvor det har sviktet i behandlingen av saken, og hva som eventuelt vil gjøres for å forebygge at tilsvarende feil skjer igjen.  
+Forsvarsstabens gjentatte anmodninger om utsatt svarfrist, fristoversittelser og utilstrekkelige svar på henvendelsene herfra, strider mot Stortingets forutsetning om at ombudets henvendelser skal prioriteres. Ombudet forutsetter at fremtidige henvendelser herfra undergis nødvendig behandling, og at de svarfrister ombudet setter blir overholdt.  
+I forbindelse med ombudets undersøkelse har det fremkommet opplysninger som tilsier at Forsvaret ikke har rutiner som sikrer at all post sendt Forsvarets virksomheter blir fanget opp. Ombudet ber Forsvarsstaben se nærmere på dette, og sikre at all post sendt til Forsvaret blir registrert og behandlet.
 
 Se oppdatering fra forvaltningen
 

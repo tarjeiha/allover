@@ -15,13 +15,10 @@ Sivilombudets uttalelse 27.6.2024 (sak 2023/2420).
 ## Oppsummering
 
 Saken gjelder forvaltningens plikt til å gi riktig informasjon, herunder korrigere uriktige opplysninger i Helsepersonellregisteret (HPR). Klager fikk autorisasjon som hjelpepleier i 2006. Helsetilsynet tilbakekalte autorisasjonen i vedtak 10. desember 2021. Vedtaket ble påklaget til Helsepersonellnemnda, som 14. mars 2023 omgjorde Helsetilsynets vedtak om tilbakekall slik at hun fikk tilbake autorisasjonen.  
-   
- I den offentlige versjonen av Helsepersonellregisteret fremgår det nå at klagers autorisasjon er «gyldig fra 14. mars 2023». Klagers advokat ba i april 2023 først Helsedirektoratet, og deretter Helsetilsynet om å korrigere datoen i HPR, slik at det fremgikk at den riktige datoen for klagers autorisasjon var februar 2006. Både Helsetilsynet og Helsedirektoratet henviste til hverandre som ansvarlig for å korrigere informasjonen.  
-   
- Sivilombudet er kommet til at forvaltningens plikt til å gi korrekt informasjon ikke er oppfylt. I tillegg har Helsetilsynet og Helsedirektoratet opptrådt i strid med veiledningsplikten.  
- Opplysningene om klager må rettes slik at informasjonen om klagers autorisasjon ikke er misvisende i den offentlige visningen av HPR. Helsetilsynet og Helsedirektoratet må sammen sørge for at HPR innrettes slik at systemet gir riktig informasjon om autorisasjonsdato i den offentlige visningen av HPR i tilfeller der tilbakekall blir omgjort etter klage. Helsetilsynet og Helsedirektoratet bes merke seg Ombudets syn på innholdet i veiledningsplikten i fvl. § 11.  
-   
- Helsetilsynet og Helsedirektoratet anmodes om å legge Sivilombudets konklusjoner til grunn i sitt videre arbeid, og gi Sivilombudet en tilbakemelding om oppfølgingen av saken innen 16. september 2024.
+I den offentlige versjonen av Helsepersonellregisteret fremgår det nå at klagers autorisasjon er «gyldig fra 14. mars 2023». Klagers advokat ba i april 2023 først Helsedirektoratet, og deretter Helsetilsynet om å korrigere datoen i HPR, slik at det fremgikk at den riktige datoen for klagers autorisasjon var februar 2006. Både Helsetilsynet og Helsedirektoratet henviste til hverandre som ansvarlig for å korrigere informasjonen.  
+Sivilombudet er kommet til at forvaltningens plikt til å gi korrekt informasjon ikke er oppfylt. I tillegg har Helsetilsynet og Helsedirektoratet opptrådt i strid med veiledningsplikten.  
+Opplysningene om klager må rettes slik at informasjonen om klagers autorisasjon ikke er misvisende i den offentlige visningen av HPR. Helsetilsynet og Helsedirektoratet må sammen sørge for at HPR innrettes slik at systemet gir riktig informasjon om autorisasjonsdato i den offentlige visningen av HPR i tilfeller der tilbakekall blir omgjort etter klage. Helsetilsynet og Helsedirektoratet bes merke seg Ombudets syn på innholdet i veiledningsplikten i fvl. § 11.  
+Helsetilsynet og Helsedirektoratet anmodes om å legge Sivilombudets konklusjoner til grunn i sitt videre arbeid, og gi Sivilombudet en tilbakemelding om oppfølgingen av saken innen 16. september 2024.
 
 Se oppdatering fra forvaltningen
 

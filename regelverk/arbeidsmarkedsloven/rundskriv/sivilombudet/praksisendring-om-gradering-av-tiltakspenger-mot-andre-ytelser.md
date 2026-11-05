@@ -16,12 +16,9 @@ Sivilombudets uttalelse 17.4.2024 (sak 2023/2738).
 ## Oppsummering
 
 Saken gjelder Arbeids- og inkluderingsdepartementets og Arbeids- og velferdsdirektoratets avvikling av en tidligere praksis med å gradere tiltakspenger mot andre ytelser. Etter endringen fikk klager avslag på tiltakspenger istedenfor å få innvilget graderte tiltakspenger i kombinasjon med gradert uføretrygd.  
-   
- Sivilombudet mente at arbeidsmarkedsloven § 13 ikke gav en rett til graderte tiltakspenger, selv om et av formålene bak lovbestemmelsen kunne tilsi det. Den tidligere praksisen med å gradere tiltakspenger mot andre ytelser hadde ikke tilstrekkelig forankring i loven, slik at endringen av praksisen kunne skje uten lovendring og ved departementets instruks til direktoratet.  
-   
- Praksisendringen ble gjennomført på en måte som ikke tok hensyn til behovet for forutberegnelighet og innrettelse for mottakerne av tiltakspenger. Den tidligere praksisen var i liten grad klarlagt og undersøkt før den ble endret, mottakerne av tiltakspengene ble ikke informert om endringen, og endringen ble ikke fullstendig gjennomført i rundskrivet. Klager mottok ikke informasjon om praksisendringen da han på ny søkte om tiltakspenger, og praksisendringen ble ikke nevnt i førsteinstansens avslag.  
-   
- Departementet og direktoratet ble bedt om å rette gjeldende rundskriv slik at det kommer frem at praksis er endret, samt bedre saksbehandlingen ved fremtidige praksisendringer.
+Sivilombudet mente at arbeidsmarkedsloven § 13 ikke gav en rett til graderte tiltakspenger, selv om et av formålene bak lovbestemmelsen kunne tilsi det. Den tidligere praksisen med å gradere tiltakspenger mot andre ytelser hadde ikke tilstrekkelig forankring i loven, slik at endringen av praksisen kunne skje uten lovendring og ved departementets instruks til direktoratet.  
+Praksisendringen ble gjennomført på en måte som ikke tok hensyn til behovet for forutberegnelighet og innrettelse for mottakerne av tiltakspenger. Den tidligere praksisen var i liten grad klarlagt og undersøkt før den ble endret, mottakerne av tiltakspengene ble ikke informert om endringen, og endringen ble ikke fullstendig gjennomført i rundskrivet. Klager mottok ikke informasjon om praksisendringen da han på ny søkte om tiltakspenger, og praksisendringen ble ikke nevnt i førsteinstansens avslag.  
+Departementet og direktoratet ble bedt om å rette gjeldende rundskriv slik at det kommer frem at praksis er endret, samt bedre saksbehandlingen ved fremtidige praksisendringer.
 
 Se oppdatering fra forvaltningen
 

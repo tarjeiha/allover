@@ -16,10 +16,8 @@ Sivilombudets uttalelse 31.10.2016 (sak 2016/1857).
 ## Oppsummering
 
 Saken gjelder Utlendingsdirektoratets behandlingstid i en klagesak om midlertidig oppholdstillatelse etter regelverket om familieinnvandring. Direktoratets avslag 21. august 2014 ble påklaget samme dag. I oktober 2016 var klagesaken ennå ikke ferdigbehandlet.  
-   
- Saken kan ikke anses å ha vært avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a. Direktoratet har heller ikke på en tilfredsstillende måte informert parten underveis i saken.  
-   
- Utlendingsdirektoratet har beklaget at behandlingen av klagesaken har tatt for lang tid, og også at det ikke har vært gitt tilstrekkelig informasjon til parten underveis. Ombudsmannen tar beklagelsen til etterretning. Det bes om at direktoratet nå treffer de tiltak som er nødvendige for å kunne ferdigbehandle klagen så snart som mulig. Det bes videre om at Utlendingsdirektoratet holder ombudsmannen orientert om klagesaksbehandlingen gjennom oversendelse av kopi av direktoratets vedtak, eventuelt av oversendelsesbrevet til Utlendingsnemnda.
+Saken kan ikke anses å ha vært avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a. Direktoratet har heller ikke på en tilfredsstillende måte informert parten underveis i saken.  
+Utlendingsdirektoratet har beklaget at behandlingen av klagesaken har tatt for lang tid, og også at det ikke har vært gitt tilstrekkelig informasjon til parten underveis. Ombudsmannen tar beklagelsen til etterretning. Det bes om at direktoratet nå treffer de tiltak som er nødvendige for å kunne ferdigbehandle klagen så snart som mulig. Det bes videre om at Utlendingsdirektoratet holder ombudsmannen orientert om klagesaksbehandlingen gjennom oversendelse av kopi av direktoratets vedtak, eventuelt av oversendelsesbrevet til Utlendingsnemnda.
 
 Se oppdatering fra forvaltningen
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 30.11.2016 (sak 2016/1644 og 2016/1551).
 ## Oppsummering
 
 Tre av søkerne klaget hver for seg over å ha blitt forbigått ved de samme tilsettingene i tre stillinger som yrkesfaglærer ved en videregående skole. I sine respektive klager hevdet de alle tre at de tilsatte manglet nødvendig utdanning. To av disse klagene har vært gjenstand for felles behandling og avslutning her.  
-   
- Ombudsmannen kom til at fylkeskommunens tilsettinger var i strid med de formelle kompetansekravene i opplæringslova med tilhørende forskrift. To av klagerne oppfylte derimot kompetansekravene i forskriften. Saksopplysningene ga ingen holdepunkter for at noen av dem ikke var personlig egnet som lærer i videregående skole. Ombudsmannen fant det derfor tvilsomt om fylkeskommunen hadde forstått kompetansekravene i opplæringsloven riktig.  
-   
- I uttalelsen er det og bemerkninger til fylkeskommunens bruk av opplæringslovens bestemmelser om adgang til å tilsette midlertidig og til å tilsette på vilkår om utdanning
+Ombudsmannen kom til at fylkeskommunens tilsettinger var i strid med de formelle kompetansekravene i opplæringslova med tilhørende forskrift. To av klagerne oppfylte derimot kompetansekravene i forskriften. Saksopplysningene ga ingen holdepunkter for at noen av dem ikke var personlig egnet som lærer i videregående skole. Ombudsmannen fant det derfor tvilsomt om fylkeskommunen hadde forstått kompetansekravene i opplæringsloven riktig.  
+I uttalelsen er det og bemerkninger til fylkeskommunens bruk av opplæringslovens bestemmelser om adgang til å tilsette midlertidig og til å tilsette på vilkår om utdanning
 
 ## Uttalelse
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 30.1.2017 (sak 2016/590).
 ## Oppsummering
 
 Saken gjelder en kommunes behandling av søknad om etableringstilskudd og tilskudd for tilpasning av bolig.  
-   
- Ombudsmannen merker seg at kommunen har erkjent flere saksbehandlingsfeil, blant annet manglende begrunnelse, mangelfull underretning og brudd på kommunelovens habilitetsregler. Klagenemnda traff to realitetsvedtak i saken med tre ukers mellomrom. I det første vedtaket ble partene gitt medhold i klagen uten ytterligere presiseringer. I det påfølgende vedtaket ble partene innvilget bare en tredjedel av det omsøkte etableringstilskuddet, og tilpasningstilskudd ble ikke nevnt. Ombudsmannen ber klagenemnda vurdere om forvaltningslovens vilkår for å omgjøre klagenemndas første vedtak var til stede.
+Ombudsmannen merker seg at kommunen har erkjent flere saksbehandlingsfeil, blant annet manglende begrunnelse, mangelfull underretning og brudd på kommunelovens habilitetsregler. Klagenemnda traff to realitetsvedtak i saken med tre ukers mellomrom. I det første vedtaket ble partene gitt medhold i klagen uten ytterligere presiseringer. I det påfølgende vedtaket ble partene innvilget bare en tredjedel av det omsøkte etableringstilskuddet, og tilpasningstilskudd ble ikke nevnt. Ombudsmannen ber klagenemnda vurdere om forvaltningslovens vilkår for å omgjøre klagenemndas første vedtak var til stede.
 
 Se oppdatering fra forvaltningen
 

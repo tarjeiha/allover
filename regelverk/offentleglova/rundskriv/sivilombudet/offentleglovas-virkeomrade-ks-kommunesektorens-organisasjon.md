@@ -16,8 +16,7 @@ Sivilombudets uttalelse 16.4.2018 (sak 2017/375).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i KS’ postjournal. KS og Fylkesmannen i Oslo og Akershus kom til at KS ikke er omfattet offentleglovas virkeområde, og at journalisten derfor ikke hadde krav på innsyn.  
-   
- Ombudsmannen er kommet til at offentleglova ikke gjelder for KS. Etter ombudsmannens syn er KS omfattet av offentleglova § 2 første ledd bokstav d, og unntak fra offentleglovas virkeområde må derfor fremgå av lov eller forskrift. Ombudsmannen legger til grunn at unntaket i offentlegforskrifta § 1 andre ledd bokstav b har tilstrekkelig hjemmel i offentleglova § 2 andre ledd, og at det ikke er fremkommet opplysninger om KS’ virksomhet som tilsier at KS ikke er omfattet av dette unntaket.
+Ombudsmannen er kommet til at offentleglova ikke gjelder for KS. Etter ombudsmannens syn er KS omfattet av offentleglova § 2 første ledd bokstav d, og unntak fra offentleglovas virkeområde må derfor fremgå av lov eller forskrift. Ombudsmannen legger til grunn at unntaket i offentlegforskrifta § 1 andre ledd bokstav b har tilstrekkelig hjemmel i offentleglova § 2 andre ledd, og at det ikke er fremkommet opplysninger om KS’ virksomhet som tilsier at KS ikke er omfattet av dette unntaket.
 
 ## Sakens bakgrunn
 

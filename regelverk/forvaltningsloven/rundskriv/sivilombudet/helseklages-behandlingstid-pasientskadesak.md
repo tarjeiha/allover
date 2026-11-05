@@ -15,12 +15,9 @@ Sivilombudets uttalelse 19.12.2017 (sak 2017/1470).
 ## Oppsummering
 
 Saken gjelder Helseklages behandlingstid i en enkeltsak om utmåling av erstatning for pasientskade og Helseklages generelle behandlingstider i pasientskadesaker.  
-   
- Behandlingstiden i enkeltsaken hos Helseklage, på mer enn 38 måneder hittil, har vært altfor lang. Saken har versert i Norsk pasientskadeerstatning, Pasientskadenemnda og rettsvesenet siden 2006 og skulle i større grad vært prioritert av Helseklage. Informasjonen som er gitt til klageren, om forventet behandlingstid og forsinkelser under behandlingen av saken, har heller ikke vært tilfredsstillende.  
-   
- Helseklage har opplyst at den gjennomsnittlige behandlingstiden i pasientskadesaker var redusert fra 24 måneder til 17 måneder i oktober 2017 og er forventet å gå ned til 12 måneder i løpet av våren 2018. Denne utviklingen i behandlingstidene er positiv. Ombudsmannen understreker likevel at målet for gjennomsnittlig behandlingstid ikke må føre til at de eldste sakene blir nedprioritert.  
-   
- Ombudsmannen ber om at klagerens sak avsluttes så snart som mulig. Videre forventer ombudsmannen at Helseklage i fremtiden holder klagerne opplyst om forventet behandlingstid og eventuelle forsinkelser, i samsvar med kravene til god forvaltningsskikk.
+Behandlingstiden i enkeltsaken hos Helseklage, på mer enn 38 måneder hittil, har vært altfor lang. Saken har versert i Norsk pasientskadeerstatning, Pasientskadenemnda og rettsvesenet siden 2006 og skulle i større grad vært prioritert av Helseklage. Informasjonen som er gitt til klageren, om forventet behandlingstid og forsinkelser under behandlingen av saken, har heller ikke vært tilfredsstillende.  
+Helseklage har opplyst at den gjennomsnittlige behandlingstiden i pasientskadesaker var redusert fra 24 måneder til 17 måneder i oktober 2017 og er forventet å gå ned til 12 måneder i løpet av våren 2018. Denne utviklingen i behandlingstidene er positiv. Ombudsmannen understreker likevel at målet for gjennomsnittlig behandlingstid ikke må føre til at de eldste sakene blir nedprioritert.  
+Ombudsmannen ber om at klagerens sak avsluttes så snart som mulig. Videre forventer ombudsmannen at Helseklage i fremtiden holder klagerne opplyst om forventet behandlingstid og eventuelle forsinkelser, i samsvar med kravene til god forvaltningsskikk.
 
 ## Sakens bakgrunn
 

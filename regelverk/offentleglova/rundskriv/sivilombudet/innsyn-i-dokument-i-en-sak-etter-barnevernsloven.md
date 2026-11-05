@@ -15,11 +15,9 @@ Sivilombudets uttalelse 2.5.2024 (sak 2024/615).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Nordlands avgjørelse om å avslå krav om innsyn i et brev om innhenting av opplysninger i en undersøkelsessak etter barnevernsloven. Statsforvalteren mente at en rekke opplysninger i dokumentet var underlagt taushetsplikt. Dokumentet ble unntatt innsyn i sin helhet, fordi taushetsbelagte opplysninger utgjorde den vesentligste delen av dokumentet.   
-   
- Sivilombudet kom til at opplysninger om bakgrunnen for innhentingen av opplysningene og de spesifikke punktene opplistet i brevet, samt saksbehandlers telefonnummer, ikke var opplysninger underlagt taushetsplikt etter barnevernsloven § 13-1. Videre kom sivilombudet til at det var tvil om opplysninger om avsenderkommuen var underlagt taushetsplikt etter bestemmelsen. Det var derfor også tvil om dokumentet kunne unntas fra innsyn i sin helhet, jf. offentleglova § 12 bokstav c.  
-   
- Sivilombudet ba Statsforvalteren behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
+Saken gjelder Statsforvalteren i Nordlands avgjørelse om å avslå krav om innsyn i et brev om innhenting av opplysninger i en undersøkelsessak etter barnevernsloven. Statsforvalteren mente at en rekke opplysninger i dokumentet var underlagt taushetsplikt. Dokumentet ble unntatt innsyn i sin helhet, fordi taushetsbelagte opplysninger utgjorde den vesentligste delen av dokumentet.  
+Sivilombudet kom til at opplysninger om bakgrunnen for innhentingen av opplysningene og de spesifikke punktene opplistet i brevet, samt saksbehandlers telefonnummer, ikke var opplysninger underlagt taushetsplikt etter barnevernsloven § 13-1. Videre kom sivilombudet til at det var tvil om opplysninger om avsenderkommuen var underlagt taushetsplikt etter bestemmelsen. Det var derfor også tvil om dokumentet kunne unntas fra innsyn i sin helhet, jf. offentleglova § 12 bokstav c.  
+Sivilombudet ba Statsforvalteren behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

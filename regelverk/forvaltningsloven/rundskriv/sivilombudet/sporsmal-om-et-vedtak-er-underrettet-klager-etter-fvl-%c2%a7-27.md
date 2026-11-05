@@ -14,11 +14,9 @@ Sivilombudets uttalelse 22.10.2021 (sak 2021/2501).
 
 ## Oppsummering
 
-Saken gjelder spørsmålet om klageren var «underrettet» om et vedtak om tvangsmulkt som var postlagt i en postkasse som tilhørte utleiedelen til klagerens bolig, jf. fvl. § 27, og om vedtaket i så fall var bindende for klageren.   
-   
- Sivilombudet er kommet til at både klagerens egen postkasse og utleiedelens postkasse var merket i tråd med regelverket. Klageren har derfor ikke ansvaret for at vedtaket var postlagt i feil postkasse. Når vedtaket ikke ble postlagt i klagerens postkasse var han ikke «underrettet» om dette. Vedtaket var derfor ikke bindende for klageren.  
-   
- Sivilombudet ber Statsforvalteren vurdere tvangsmulkten på nytt.
+Saken gjelder spørsmålet om klageren var «underrettet» om et vedtak om tvangsmulkt som var postlagt i en postkasse som tilhørte utleiedelen til klagerens bolig, jf. fvl. § 27, og om vedtaket i så fall var bindende for klageren.  
+Sivilombudet er kommet til at både klagerens egen postkasse og utleiedelens postkasse var merket i tråd med regelverket. Klageren har derfor ikke ansvaret for at vedtaket var postlagt i feil postkasse. Når vedtaket ikke ble postlagt i klagerens postkasse var han ikke «underrettet» om dette. Vedtaket var derfor ikke bindende for klageren.  
+Sivilombudet ber Statsforvalteren vurdere tvangsmulkten på nytt.
 
 Se oppdatering fra forvaltningen
 

@@ -16,8 +16,7 @@ Sivilombudets uttalelse 20.8.2019 (sak sak 2019/1142).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i et uttrekk fra valutaregisteret av alle transaksjoner mellom kr 50 og kr 400 sendt fra Norge til Filippinene for en periode på fem år. Uttrekket viser årstall og hvert enkelt beløp. Skattedirektoratet avslo innsynskravet med den begrunnelse at opplysningene er underlagt taushetsplikt etter skatteforvaltningsloven § 3-1. Direktoratet mente opplysningene ikke var tilstrekkelig anonymisert.  
-   
- Taushetsplikt om noens økonomiske forhold er ikke til hinder for å gi ut informasjon i anonymisert form, jf. skatteforvaltningsloven § 3-7 bokstav b. Ombudsmannen har kommet til at opplysningene i det aktuelle uttrekket fra valutaregisteret må anses tilstrekkelig anonymisert og derfor ikke er taushetsbelagt. Ombudsmannen ber Skattedirektoratet om å behandle innsynskravet på nytt.
+Taushetsplikt om noens økonomiske forhold er ikke til hinder for å gi ut informasjon i anonymisert form, jf. skatteforvaltningsloven § 3-7 bokstav b. Ombudsmannen har kommet til at opplysningene i det aktuelle uttrekket fra valutaregisteret må anses tilstrekkelig anonymisert og derfor ikke er taushetsbelagt. Ombudsmannen ber Skattedirektoratet om å behandle innsynskravet på nytt.
 
 Se oppdatering fra forvaltningen
 

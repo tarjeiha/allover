@@ -14,13 +14,10 @@ Sivilombudets uttalelse 10.10.2024 (sak 2024/1308).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Østfold, Buskerud, Oslo og Akershus` avgjørelse om reduksjon i antall timer brukerstyrt personlig assistanse (BPA).   
-   
- Kommunen hadde ikke behandlet klagen på deres vedtak, før Statsforvalteren avgjorde klagesaken. Ombudet var enig med Statsforvalteren når de under sakens behandling her erkjente at saken skulle ha vært klagebehandlet i kommunen, før Statsforvalteren tok endelig stiling til den.   
-   
- Ombudet mente det var begrunnet tvil om saken var tilstrekkelig opplyst da Statsforvalteren tok stilling til den. Videre kom ombudet til at avgjørelsen ikke var begrunnet i tråd med forvaltningsloven og god forvaltningsskikk. Det fremgikk ikke av Statsforvalterens vedtak at de hadde vurdert klagerens anførsel knyttet til kommunens begrunnelse for endring av tjenestetilbudet. Ut fra Statsforvalterens begrunnelse fremsto det som uklart hvilke konkrete vurderinger som var gjort av As hjelpebehov. Ut fra svaret til Sivilombudet, kunne Statsforvalteren synes å ha gjort en noe annen vurdering av grunnlaget for reduksjonen i tjenestetilbudet enn kommunen. Heller ikke det fremgikk av Statsforvalterens avgjørelse.  
-   
- Ombudet ba Statsforvalteren behandle saken på nytt i tråd med ombudets merknader, og om å bli orientert om utfallet av den nye behandlingen.
+Saken gjelder Statsforvalteren i Østfold, Buskerud, Oslo og Akershus` avgjørelse om reduksjon i antall timer brukerstyrt personlig assistanse (BPA).  
+Kommunen hadde ikke behandlet klagen på deres vedtak, før Statsforvalteren avgjorde klagesaken. Ombudet var enig med Statsforvalteren når de under sakens behandling her erkjente at saken skulle ha vært klagebehandlet i kommunen, før Statsforvalteren tok endelig stiling til den.  
+Ombudet mente det var begrunnet tvil om saken var tilstrekkelig opplyst da Statsforvalteren tok stilling til den. Videre kom ombudet til at avgjørelsen ikke var begrunnet i tråd med forvaltningsloven og god forvaltningsskikk. Det fremgikk ikke av Statsforvalterens vedtak at de hadde vurdert klagerens anførsel knyttet til kommunens begrunnelse for endring av tjenestetilbudet. Ut fra Statsforvalterens begrunnelse fremsto det som uklart hvilke konkrete vurderinger som var gjort av As hjelpebehov. Ut fra svaret til Sivilombudet, kunne Statsforvalteren synes å ha gjort en noe annen vurdering av grunnlaget for reduksjonen i tjenestetilbudet enn kommunen. Heller ikke det fremgikk av Statsforvalterens avgjørelse.  
+Ombudet ba Statsforvalteren behandle saken på nytt i tråd med ombudets merknader, og om å bli orientert om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 
@@ -53,7 +50,7 @@ Vi fant grunn til å undersøke deler av saken nærmere. Statsforvalteren ble bl
 Til dette svarte Statsforvalteren at de hadde vært «pragmatiske», men at de skulle ha oversendt As siste klage til bydelen for førsteinstansbehandling. Etter Statsforvalterens syn var dette en formell feil som medførte at saken ikke var tilstrekkelig klagebehandlet før de tok den til behandling, jf. forvaltningsloven § 33 andre ledd. Statsforvalteren mente imidlertid at saksbehandlingsfeilen ikke hadde virket inn på vedtakets innhold, jf. forvaltningsloven § 41.
 
 På spørsmål om Statsforvalteren hadde oppfylt sin plikt til å påse at saken var så godt opplyst som mulig før vedtak treffes, jf. forvaltningsloven § 33 femte ledd, jf.  
- § 17, svarte Statsforvalteren at saken var tilstrekkelig opplyst på bakgrunn av «den omfattende dokumentasjonen» i saken. Etter Statsforvalterens syn belyste opplysningene i saken i tilstrekkelig grad funksjonsnivået og hjelpebehovet til A. Statsforvalteren kunne heller ikke se at det hadde skjedd noen store endringer siden de mottok saken.
+§ 17, svarte Statsforvalteren at saken var tilstrekkelig opplyst på bakgrunn av «den omfattende dokumentasjonen» i saken. Etter Statsforvalterens syn belyste opplysningene i saken i tilstrekkelig grad funksjonsnivået og hjelpebehovet til A. Statsforvalteren kunne heller ikke se at det hadde skjedd noen store endringer siden de mottok saken.
 
 Vi stilte også spørsmål om Statsforvalteren hadde vurdert anførselen om at det var dårligere – og ikke bedre – tilrettelagt for personer med nedsatt funksjonsnivå i bydel Gamle Oslo.
 
@@ -126,7 +123,7 @@ Forvaltningsloven § 34 regulerer klageinstansens kompetanse. Etter ordlyden i �
 «[P]røvingen må omfatte alle klagers innvendinger, uavhengig av om disse gjelder faktum, saksbehandlingen, rettsanvendelsen eller skjønnsutøvelsen. Forutsetningen er at innvendingene er relevante for saken, det vil si ut fra de lovbestemmelsene som skal prøves. Det er likevel god forvaltningsskikk å kommentere anførsler som ikke har relevans slik at klager får en kort forklaring eller begrunnelse for hvorfor de ikke har betydning for saken.»
 
 Plikten til å begrunne enkeltvedtak følger av forvaltningsloven §§ 24 og 25. Etter  
- § 25 første ledd skal det i begrunnelsen vises til de regler vedtaket bygger på. Forvaltningen skal dessuten nevne «de faktiske forhold som vedtaket bygger på», jf. andre ledd. Etter tredje ledd bør videre de hovedhensyn som har vært avgjørende ved forvaltningsskjønnet nevnes. Begrunnelsesplikten er en sentral rettssikkerhetsgaranti, som blant annet setter de berørte i posisjon til å forstå vedtak og vurdere om det er grunn til å angripe vedtaket gjennom klage, søksmål eller ved å bringe saken inn for ombudet. Begrunnelsesplikten gjelder ikke bare for førsteinstansen, men også for klageinstansen, jf. forvaltningsloven § 33 første ledd.
+§ 25 første ledd skal det i begrunnelsen vises til de regler vedtaket bygger på. Forvaltningen skal dessuten nevne «de faktiske forhold som vedtaket bygger på», jf. andre ledd. Etter tredje ledd bør videre de hovedhensyn som har vært avgjørende ved forvaltningsskjønnet nevnes. Begrunnelsesplikten er en sentral rettssikkerhetsgaranti, som blant annet setter de berørte i posisjon til å forstå vedtak og vurdere om det er grunn til å angripe vedtaket gjennom klage, søksmål eller ved å bringe saken inn for ombudet. Begrunnelsesplikten gjelder ikke bare for førsteinstansen, men også for klageinstansen, jf. forvaltningsloven § 33 første ledd.
 
 Forvaltningsloven § 25 om begrunnelsens innhold krever ikke at vedtaket redegjør for hvordan partens faktiske og rettslige anførsler er vurdert. Selv om forvaltningen ikke er rettslig forpliktet til det, vil likevel alminnelige prinsipper om god forvaltningsskikk kunne tilsi at hovedtrekkene i vurderingen av klagerens anførsler fremgår av vedtakets begrunnelse, se Sivilombudets uttalelse 16. august 2024 (SOM-2024-1661) avsnitt (33).
 

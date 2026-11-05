@@ -16,10 +16,8 @@ Sivilombudets uttalelse 20.6.2024 (sak 2024/1717).
 ## Oppsummering
 
 Klageren hadde bedt Statsforvalteren om innsyn i to saker om spesialisthelsetjenester. Han ble nektet innsyn i enkelte dokumenter og klaget på dette. Departementet brukte omtrent tre måneder på å behandle sakene etter at de var oversendt fra Statsforvalteren, og spørsmålet var om dette var «uten ugrunnet opphold», slik forvaltningsloven krever.  
-   
- Sivilombudet kom til at klagesakene ikke var behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a. Verken det økte omfanget av klagesaker om partsinnsyn eller departementets arbeidsmengde knyttet til sine øvrige oppgaver, kunne begrunne en så lang behandlingstid. Det er videre grunn til å tro at lovens krav til behandlingstid har blitt overskredet også i andre klagesaker om partsinnsyn.  
-   
- Ombudet ba om en orientering om Digitaliserings- og forvaltningsdepartementets oppfølging av behandlingstidene i klagesaker om partsinnsyn innen 15. september 2024.
+Sivilombudet kom til at klagesakene ikke var behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a. Verken det økte omfanget av klagesaker om partsinnsyn eller departementets arbeidsmengde knyttet til sine øvrige oppgaver, kunne begrunne en så lang behandlingstid. Det er videre grunn til å tro at lovens krav til behandlingstid har blitt overskredet også i andre klagesaker om partsinnsyn.  
+Ombudet ba om en orientering om Digitaliserings- og forvaltningsdepartementets oppfølging av behandlingstidene i klagesaker om partsinnsyn innen 15. september 2024.
 
 ## Sakens bakgrunn
 

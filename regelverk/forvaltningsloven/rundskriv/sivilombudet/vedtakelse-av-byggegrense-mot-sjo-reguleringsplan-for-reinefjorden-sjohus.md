@@ -14,9 +14,8 @@ Sivilombudets uttalelse 25.6.2024 (sak 2023/5626).
 
 ## Oppsummering
 
-Saken gjelder Statsforvalteren i Nordlands stadfestelse av en reguleringsplan i Moskenes kommune. Planen åpnet for utbygging i 100-metersbeltet langs sjøen, men inneholdt ikke en egen byggegrense, jf. plan- og bygningsloven § 1-8 tredje ledd. Statsforvalteren innførte derfor, med samtykke fra kommunestyret, en planbestemmelse om byggegrense mot sjø.   
-   
- Sivilombudet er kommet til at det foreligger saksbehandlingsfeil ved vedtakelsen av reguleringsplanen. Det er ikke gjort en tilstrekkelig vurdering og vekting av hensynene som gjør seg gjeldende i strandsonen ved vedtakelsen byggegrensen mot sjø. Det er heller ikke gjort en vurdering av prinsippene i naturmangfoldloven, i strid med lovens § 7. Ombudet har videre kommet til at Statsforvalteren hadde kompetanse til å innføre en planbestemmelse om byggegrense mot sjø, da endringen av planen hadde tilstrekkelig forankring i kommunestyret. Ombudet ber Statsforvalteren vurdere om det er grunn til å omgjøre vedtaket sitt og om å bli orientert om utfallet av vurderingen.
+Saken gjelder Statsforvalteren i Nordlands stadfestelse av en reguleringsplan i Moskenes kommune. Planen åpnet for utbygging i 100-metersbeltet langs sjøen, men inneholdt ikke en egen byggegrense, jf. plan- og bygningsloven § 1-8 tredje ledd. Statsforvalteren innførte derfor, med samtykke fra kommunestyret, en planbestemmelse om byggegrense mot sjø.  
+Sivilombudet er kommet til at det foreligger saksbehandlingsfeil ved vedtakelsen av reguleringsplanen. Det er ikke gjort en tilstrekkelig vurdering og vekting av hensynene som gjør seg gjeldende i strandsonen ved vedtakelsen byggegrensen mot sjø. Det er heller ikke gjort en vurdering av prinsippene i naturmangfoldloven, i strid med lovens § 7. Ombudet har videre kommet til at Statsforvalteren hadde kompetanse til å innføre en planbestemmelse om byggegrense mot sjø, da endringen av planen hadde tilstrekkelig forankring i kommunestyret. Ombudet ber Statsforvalteren vurdere om det er grunn til å omgjøre vedtaket sitt og om å bli orientert om utfallet av vurderingen.
 
 Se oppdatering fra forvaltningen
 

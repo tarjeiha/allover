@@ -16,8 +16,7 @@ Sivilombudets uttalelse 10.6.2022 (sak 2022/1373).
 ## Oppsummering
 
 Saken gjaldt Nav Klageinstans sørs avslag på krav om erstatning. Klageren mente at Nav hadde opptrådt uaktsomt i forbindelse med forsinket innsøking til avklaringstiltak. Sivilombudet kom til at klageren hadde hatt berettigede forventninger om å bli søkt inn til og delta på avklaringstiltak på et tidligere tidspunkt. Forsinkelsen syntes å skyldes uaktsomhet fra Navs side, og etter ombudets syn forelå det ansvarsgrunnlag. Ombudet tok ikke stilling til om kravene til økonomisk tap og adekvat årsakssammenheng var oppfylt.  
-   
- Ombudet ba Nav om å vurdere erstatningskravet på nytt.
+Ombudet ba Nav om å vurdere erstatningskravet på nytt.
 
 ## Sakens bakgrunn
 

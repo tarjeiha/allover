@@ -14,11 +14,9 @@ Sivilombudets uttalelse 17.3.2025 (sak 2024/5225).
 
 ## Oppsummering
 
-Saken gjelder HV-09s praksis for behandling av søknader om utsatt tjeneste grunnet utdanning. I et skriv til flere utdanningsinstitusjoner redegjorde HV-09 for praksisen og gav uttrykk for at utsettelse av årlig heimevernstjeneste på grunn av utdanning kun skal skje dersom den tjenestepliktige soldaten har eksamen under øvelsen. Forsvaret har ellers lagt til grunn en annen og bredere forståelse av når det skal gis utsettelse på grunn av utdanning.   
-   
- Sivilombudet mener at hjemmelen for utsettelse av heimevernstjenesten på grunn av utdanning i vernepliktsforskriften § 52, også omfatter andre tilfeller enn kun selve eksamensdagen. For eksempel kan det gis utsettelse hvis heimevernstjenesten gjør at det ikke gis nok tid til forberedelse til eksamen, eller andelen obligatorisk oppmøte på studiet ikke oppfylles.   
-   
- Sivilombudet mener også at HV-09s unnlatelse av å følge de overordnede føringene fra Forsvaret var i strid med likebehandlingsprinsippet og instruksjonsmyndigheten. Forsvaret ble bedt om å sørge for at utdanningsinstitusjonene blir informert om at HV-09s forståelse var feil, samt at HV-09 følger overordnede føringer.
+Saken gjelder HV-09s praksis for behandling av søknader om utsatt tjeneste grunnet utdanning. I et skriv til flere utdanningsinstitusjoner redegjorde HV-09 for praksisen og gav uttrykk for at utsettelse av årlig heimevernstjeneste på grunn av utdanning kun skal skje dersom den tjenestepliktige soldaten har eksamen under øvelsen. Forsvaret har ellers lagt til grunn en annen og bredere forståelse av når det skal gis utsettelse på grunn av utdanning.  
+Sivilombudet mener at hjemmelen for utsettelse av heimevernstjenesten på grunn av utdanning i vernepliktsforskriften § 52, også omfatter andre tilfeller enn kun selve eksamensdagen. For eksempel kan det gis utsettelse hvis heimevernstjenesten gjør at det ikke gis nok tid til forberedelse til eksamen, eller andelen obligatorisk oppmøte på studiet ikke oppfylles.  
+Sivilombudet mener også at HV-09s unnlatelse av å følge de overordnede føringene fra Forsvaret var i strid med likebehandlingsprinsippet og instruksjonsmyndigheten. Forsvaret ble bedt om å sørge for at utdanningsinstitusjonene blir informert om at HV-09s forståelse var feil, samt at HV-09 følger overordnede føringer.
 
 Se oppdatering fra forvaltningen
 

@@ -16,10 +16,8 @@ Sivilombudets uttalelse 14.9.2022 (sak 2022/1383).
 ## Oppsummering
 
 Saken gjelder hvilken av to uføre forsørgere som skal få barnetillegg til uføretrygden når de bor hver for seg og har delt omsorg for et barn (delt bosted). Folketrygden yter kun ett slikt tillegg per barn. Nav vedtok i 2016 at klageren ikke lenger skulle få barnetillegg ettersom moren til hans datter hadde blitt ufør, og hun var den av forsørgerne som var folkeregistrert på samme adresse som datteren. Klagerens senere krav om omgjøring ble avslått av Nav.  
-   
- Sivilombudet er kommet til at Nav la til grunn en uriktig forståelse av folketrygdloven § 12 15 fjerde ledd ved behandlingen av klagerens sak. Loven skal forstås slik at når to uføre forsørgere bor hver for seg og har delt omsorg for et barn, skal barnetillegget ytes til den av dem som får høyest tillegg. Videre var Navs beslutninger om å avslå klagerens krav om omgjøring etter forvaltningsloven § 35 ikke tilstrekkelig begrunnet.  
-   
- Etter undersøkelsene herfra traff Nav nye vedtak der klageren fikk etterbetalt barnetillegg fra juni 2018 til august 2020. Undersøkelsene viste også at Navs rundskriv omtalte folketrygdloven § 12-15 på en klart misvisende måte mellom januar 2015 og mai 2017. Arbeids- og velferdsdirektoratet har identifisert om lag 1300 saker som kan være berørt av denne feilen og arbeider med å gjennomgå og vurdere sakene. Ombudet ber direktoratet om en redegjørelse for resultatene fra, og fremdriften i, dette arbeidet.
+Sivilombudet er kommet til at Nav la til grunn en uriktig forståelse av folketrygdloven § 12 15 fjerde ledd ved behandlingen av klagerens sak. Loven skal forstås slik at når to uføre forsørgere bor hver for seg og har delt omsorg for et barn, skal barnetillegget ytes til den av dem som får høyest tillegg. Videre var Navs beslutninger om å avslå klagerens krav om omgjøring etter forvaltningsloven § 35 ikke tilstrekkelig begrunnet.  
+Etter undersøkelsene herfra traff Nav nye vedtak der klageren fikk etterbetalt barnetillegg fra juni 2018 til august 2020. Undersøkelsene viste også at Navs rundskriv omtalte folketrygdloven § 12-15 på en klart misvisende måte mellom januar 2015 og mai 2017. Arbeids- og velferdsdirektoratet har identifisert om lag 1300 saker som kan være berørt av denne feilen og arbeider med å gjennomgå og vurdere sakene. Ombudet ber direktoratet om en redegjørelse for resultatene fra, og fremdriften i, dette arbeidet.
 
 Se oppdatering fra forvaltningen
 

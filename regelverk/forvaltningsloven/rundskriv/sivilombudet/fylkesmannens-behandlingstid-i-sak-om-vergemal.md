@@ -15,10 +15,8 @@ Sivilombudets uttalelse 25.1.2019 (sak 2018/3011).
 ## Oppsummering
 
 Saken gjelder saksbehandlingstiden hos Fylkesmannen i Østfold ved behandlingen av en begjæring fra vergehaver – heretter omtalt som A – om opphevelse av et vergemål. Fylkesmannen brukte i underkant av 11 måneder på å behandle saken.  
-   
- Saken kan ikke anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Behandlingen av saken ivaretok ikke i tilstrekkelig grad As rettssikkerhet. A har heller ikke blitt holdt tilfredsstillende orientert om sakens fremdrift underveis.  
-   
- Saken er nå ferdigbehandlet. As klage over lang saksbehandlingstid gir derfor ikke grunn til videre oppfølging fra ombudsmannens side. Det forutsettes imidlertid at Fylkesmannen merker seg ombudsmannens synspunkter og sørger for at fremtidige begjæringer om opphevelse av vergemål avgjøres uten ugrunnet opphold, og at parten får tilfredsstillende informasjon underveis.
+Saken kan ikke anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Behandlingen av saken ivaretok ikke i tilstrekkelig grad As rettssikkerhet. A har heller ikke blitt holdt tilfredsstillende orientert om sakens fremdrift underveis.  
+Saken er nå ferdigbehandlet. As klage over lang saksbehandlingstid gir derfor ikke grunn til videre oppfølging fra ombudsmannens side. Det forutsettes imidlertid at Fylkesmannen merker seg ombudsmannens synspunkter og sørger for at fremtidige begjæringer om opphevelse av vergemål avgjøres uten ugrunnet opphold, og at parten får tilfredsstillende informasjon underveis.
 
 ## Sakens bakgrunn
 

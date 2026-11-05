@@ -15,10 +15,8 @@ Sivilombudets uttalelse 21.2.2019 (sak 2018/2314).
 ## Oppsummering
 
 Saken gjelder ansettelsesprosessen i en kommunal etat. Klageren hadde søkt på to stillinger i etaten, og ble til den ene stillingen innstilt på andreplass. Ved hjelp av informasjon fra utvidet søkerliste tok han kontakt med en annen søker, og spurte henne om hun hadde fått tilbud om stillingen, og om hun ville takke ja. Den oppringte kandidaten fant samtalen ubehagelig. Etaten ble kjent med oppringningen, og mente at klageren på bakgrunn av dette ikke var kvalifisert for den andre stillingen han hadde søkt på. Han mottok deretter et brev som ga uttrykk for dette. Under henvisning til forvaltningsloven § 13 om taushetsplikt mente etaten at han hadde begått et «etisk overtramp», og at det var tvil om han kunne autoriseres etter sikkerhetslovens bestemmelser.  
-   
- Sivilombudsmannen tok saken opp med kommunen på et høyere administrativt nivå enn den aktuelle etaten. I svaret fastslo kommunen at klageren ikke hadde delt taushetsbelagte opplysninger, ikke hadde begått et «etisk overtramp» og at det heller ikke var tilstrekkelig grunnlag for konkluder om sikkerhetslovens bestemmelser.  
-   
- Saken er egnet til å skape tvil om den kommunale etaten hadde tilstrekkelig kunnskap om hvilke krav som stilles til saksbehandlingen i ansettelsessaker, samt etatens forståelse av forvaltningslovens bestemmelser om taushetsplikt og sikkerhetslovens vilkår for autorisasjon. Ombudsmannen har derfor bedt kommunen følge etaten opp nærmere, og eventuelt påse at de involverte får nødvendig opplæring.
+Sivilombudsmannen tok saken opp med kommunen på et høyere administrativt nivå enn den aktuelle etaten. I svaret fastslo kommunen at klageren ikke hadde delt taushetsbelagte opplysninger, ikke hadde begått et «etisk overtramp» og at det heller ikke var tilstrekkelig grunnlag for konkluder om sikkerhetslovens bestemmelser.  
+Saken er egnet til å skape tvil om den kommunale etaten hadde tilstrekkelig kunnskap om hvilke krav som stilles til saksbehandlingen i ansettelsessaker, samt etatens forståelse av forvaltningslovens bestemmelser om taushetsplikt og sikkerhetslovens vilkår for autorisasjon. Ombudsmannen har derfor bedt kommunen følge etaten opp nærmere, og eventuelt påse at de involverte får nødvendig opplæring.
 
 ## Sakens bakgrunn
 
@@ -55,7 +53,7 @@ Kommunen har i sin redegjørelse klart fastslått at klager ikke har brutt taush
 Det er videre opplyst at heller ikke den underliggende etaten hadde ment at det foreligger brudd på taushetsplikt fra klagerens side, men at han hadde «benyttet taushetsbelagt informasjon på en uetisk måte». Det er uklart for ombudsmannen hva som ligger i dette.
 
 Det er forklart at årsaken til at det i brevet til klageren likevel ble vist til forvaltningsloven  
- § 13, er at «denne lovhjemmelen er grunnlaget for at A som part i saken har fått oversendt en utvidet søkerliste». Ombudsmannen kan ikke se at § 13 hjemler rett til innsyn. Som vist til i brev 5. juli 2018 herfra til kommunen gjelder denne bestemmelsen taushetsplikt. Retten til innsyn i utvidet søkerliste, som partene i ansettelsessaker har, følger av forvaltningslovforskriften § 15.
+§ 13, er at «denne lovhjemmelen er grunnlaget for at A som part i saken har fått oversendt en utvidet søkerliste». Ombudsmannen kan ikke se at § 13 hjemler rett til innsyn. Som vist til i brev 5. juli 2018 herfra til kommunen gjelder denne bestemmelsen taushetsplikt. Retten til innsyn i utvidet søkerliste, som partene i ansettelsessaker har, følger av forvaltningslovforskriften § 15.
 
 Blant oversendte dokumenter lå en skjermdump som viser hvilken informasjon mottakere av offentlig søkerliste har mottatt fra etaten. I denne informasjonen er det også henvist til forvaltningsloven § 13. Ut fra sammenhengen synes dette å være en feilhenvisning, og at det er ment å vise til § 13 b. Forvaltningsloven § 13 og § 13 b er to separate bestemmelser med ulikt innhold. Mens § 13 oppstiller selve taushetsplikten, regulerer § 13 b begrensninger i taushetsplikten ut fra private eller offentlige interesser.
 

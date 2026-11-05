@@ -16,8 +16,7 @@ Sivilombudets uttalelse 26.4.2019 (sak 2018/3030).
 ## Oppsummering
 
 Det var utlyst en stilling som prosjektleder i et kommunalt foretak. Klageren fremsto som formelt godt kvalifisert, men ble ikke innkalt til intervju eller tatt med i den videre vurderingen. Det kommunale foretaket inviterte fire personer til intervju som alle var kjent for foretaket fra tidligere.  
-   
- Ombudsmannen mener klageren skulle ha vært innkalt til intervju. Han fremsto som en av de som var best formelt kvalifisert vurdert opp mot kravene i utlysningsteksten. At klager ikke ble intervjuet, gjør at det knytter seg en begrunnet tvil til om saken ble tilstrekkelig utredet, og om det var kvalifikasjonsprinsippet som var styrende for hvem som ble innkalt til intervju. Videre er det etter ombudsmannens syn mangler ved den skriftlige dokumentasjonen av ansettelsesprosessen.
+Ombudsmannen mener klageren skulle ha vært innkalt til intervju. Han fremsto som en av de som var best formelt kvalifisert vurdert opp mot kravene i utlysningsteksten. At klager ikke ble intervjuet, gjør at det knytter seg en begrunnet tvil til om saken ble tilstrekkelig utredet, og om det var kvalifikasjonsprinsippet som var styrende for hvem som ble innkalt til intervju. Videre er det etter ombudsmannens syn mangler ved den skriftlige dokumentasjonen av ansettelsesprosessen.
 
 ## Sakens bakgrunn
 

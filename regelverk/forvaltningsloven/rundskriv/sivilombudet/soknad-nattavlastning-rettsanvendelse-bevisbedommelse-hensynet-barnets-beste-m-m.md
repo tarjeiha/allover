@@ -16,9 +16,9 @@ Sivilombudets uttalelse 14.3.2017 (sak 2016/3001).
 ## Oppsummering
 
 Saken gjelder et delvis avslag på avlastningstiltak etter pasient- og brukerrettighetsloven. Søkerne er foreldre til tre barn. Den omsøkte avlastningen gjelder omsorgen for det yngste barnet, som lider av en sjelden stoffskiftesykdom. På søknadstidspunktet var han fire uker gammel.  
- Formålet med avlastningstiltak tilsier at det må tas hensyn til foreldrenes helhetlige omsorgs- og familiesituasjon når man vurderer om det foreligger «særlig tyngende omsorgsarbeid» som kan gi rett til avlastningstiltak. Fylkesmannen har – i motsetning til kommunen – lagt dette til grunn ved sin vurdering. I motsetning til kommunen har Fylkesmannen også konkludert med at foreldrene hadde «særlig tyngende omsorgsarbeid». Det er uheldig at det ikke kommer klart frem at Fylkesmannen var uenig i kommunens rettsanvendelse og konklusjon. Det burde også gått tydeligere frem at foreldrenes ønsker var tatt i betraktning ved vurderingen av hvilke tjenester som skulle tilbys.  
- Det knytter seg begrunnet tvil til om Fylkesmannen har foretatt en korrekt og holdbar bevisvurdering med hensyn til barnets behov for oppfølging på nattestid. Videre er hensynet til barnets beste verken kartlagt, vurdert eller synliggjort i vedtaket. Det er også knyttet begrunnet tvil til om Fylkesmannen har foretatt en korrekt og tilstrekkelig forsvarlighetsvurdering.   
- Det er for øvrig kritikkverdig at Fylkesmannen har unnlatt å svare på enkelte av de spørsmålene som er blitt stilt fra ombudsmannens side.
+Formålet med avlastningstiltak tilsier at det må tas hensyn til foreldrenes helhetlige omsorgs- og familiesituasjon når man vurderer om det foreligger «særlig tyngende omsorgsarbeid» som kan gi rett til avlastningstiltak. Fylkesmannen har – i motsetning til kommunen – lagt dette til grunn ved sin vurdering. I motsetning til kommunen har Fylkesmannen også konkludert med at foreldrene hadde «særlig tyngende omsorgsarbeid». Det er uheldig at det ikke kommer klart frem at Fylkesmannen var uenig i kommunens rettsanvendelse og konklusjon. Det burde også gått tydeligere frem at foreldrenes ønsker var tatt i betraktning ved vurderingen av hvilke tjenester som skulle tilbys.  
+Det knytter seg begrunnet tvil til om Fylkesmannen har foretatt en korrekt og holdbar bevisvurdering med hensyn til barnets behov for oppfølging på nattestid. Videre er hensynet til barnets beste verken kartlagt, vurdert eller synliggjort i vedtaket. Det er også knyttet begrunnet tvil til om Fylkesmannen har foretatt en korrekt og tilstrekkelig forsvarlighetsvurdering.  
+Det er for øvrig kritikkverdig at Fylkesmannen har unnlatt å svare på enkelte av de spørsmålene som er blitt stilt fra ombudsmannens side.
 
 Se oppdatering fra forvaltningen
 
@@ -41,7 +41,7 @@ Foreldrene brakte saken inn for ombudsmannen 26. oktober 2016, og det ble i den 
 ## Ombudsmannens undersøkelser
 
 Det ble funnet grunn til å undersøke saken nærmere, og i brev 29. november 2016 ble Fylkesmannen i Oslo og Akershus bedt om å svare på flere spørsmål rundt vedtaket. Fylkesmannen svarte i brev  
- 2. desember 2016, og klager kommenterte svaret 13. desember 2016. Fylkesmannen har ikke kommet tilbake til saken etter dette. Spørsmål, svar og merknader vil bli behandlet nedenfor i den grad de er relevante for de spørsmål ombudsmannen har funnet grunn til å uttale seg om.
+2. desember 2016, og klager kommenterte svaret 13. desember 2016. Fylkesmannen har ikke kommet tilbake til saken etter dette. Spørsmål, svar og merknader vil bli behandlet nedenfor i den grad de er relevante for de spørsmål ombudsmannen har funnet grunn til å uttale seg om.
 
 ## Ombudsmannens syn på saken
 
@@ -52,7 +52,7 @@ Det ble funnet grunn til å undersøke saken nærmere, og i brev 29. november 20
 Saken gjelder et delvis avslag på søknad om omsorgstjenester i form av nattavlastning. Den enkeltes rett til slike tjenester reguleres av pasient og brukerrettighetsloven. Av lovens
 
 § 2-1 a annet ledd følger det at «[p]asient og bruker har rett til nødvendige helse- og omsorgstjenester fra kommunen». Bestemmelsen må ses i sammenheng med helse- og omsorgstjenesteloven § 3-1, som pålegger kommunene å «sørge for at personer som oppholder seg i kommunen, tilbys nødvendige helse- og omsorgstjenester». Helse- og omsorgstjenesteloven § 3-2 inneholder en liste over tjenester som kommunen «blant annet» må tilby for å kunne oppfylle forpliktelsene etter § 3-1. Avlastningstiltak er blant disse tjenestene, jf. § 3-2 første ledd nr. 6  
- bokstav d.
+bokstav d.
 
 Av pasient- og brukerrettighetsloven § 2-8 følger det at «[d]e som har særlig tyngende omsorgsarbeid, kan kreve at den kommunale helse- og omsorgstjenesten treffer vedtak om at det skal settes i verk tiltak for å lette omsorgsbyrden og hva tiltakene i tilfelle skal bestå i». Bestemmelsen innebærer at personer som oppfyller de nevnte vilkårene, vil ha rett til å få et vedtak fra kommunen. Bestemmelsen gir imidlertid ikke i seg selv den private parten noen rett til tilbud om avlastning, jf. Prop. 91 L (2010–2011) side 517. Om vedkommende har rett til å få tilbud om avlastningstiltak, beror prinsipielt sett på om dette er påkrevd for å oppfylle retten til «nødvendige helse- og omsorgstjenester» etter § 2-1 a annet ledd. I denne retten ligger det et krav om en viss «minstestandard» som kommunene ikke kan gå under, jf. Rt. 1990 s. 874 (Fusa-dommen) og Prop. 91 L (2010–2011) side 514. Så lenge denne minstestandarden er oppfylt, har kommunen stor skjønnsmessig frihet til å fastsette valg av tjeneste, omfang og utforming.
 
@@ -63,7 +63,7 @@ Også for vurderinger som i utgangspunktet hører under dette «frie skjønnet»
 Forvaltningslovens regler om enkeltvedtak kommer i utgangspunktet til anvendelse på kommunens avgjørelser av søknader om avlastningstiltak som forventes å vare i mer enn to uker, jf. pasient- og brukerrettighetsloven § 2-7 annet ledd. Dette innebærer blant annet at saken må være tilstrekkelig utredet før vedtaket treffes, jf. forvaltningsloven § 17. Bortsett fra i tilfeller hvor søknaden innvilges fullt ut, plikter kommunen også å begrunne sitt vedtak, jf. § 24 første ledd. De nærmere kravene til begrunnelsen er regulert i § 25.
 
 Kommunens avslag kan påklages til fylkesmannen, jf. pasient- og brukerrettighetsloven§ 7-2. Forvaltningslovens regler gjelder så langt de passer for Fylkesmannens klagebehandling, jf. § 7-6 første ledd. Dette innebærer blant annet at Fylkesmannen har et selvstendig ansvar for å påse at saken er tilstrekkelig opplyst, jf. forvaltningsloven § 33 fjerde ledd, og at vedtaket må begrunnes, jf.  
- § 33 første ledd, jf. § 24.
+§ 33 første ledd, jf. § 24.
 
 Fylkesmannen «kan» i utgangspunktet prøve alle sider av saken, jf. § 34 annet ledd første punktum. Av § 34 annet ledd annet punktum følger det imidlertid at Fylkesmannen «skal» vurdere de synspunktene klageren kommer med. Uavhengig av hva parten har gjort gjeldende i klagen, har klageinstansen som regel også plikt til å vurdere om vedtaket er lovlig og har tilstrekkelig hjemmel, jf. bl.a. Kjønstad og Syse (red.), Velferdsrett II (4. utg. 2012) side 116 og Graver, Alminnelig forvaltningsrett (4. utg. 2015) side 483.
 
@@ -106,7 +106,7 @@ I sitt brev 2. desember 2016 har Fylkesmannen opplyst at det «er lagt til grunn
 2.3 Ombudsmannens merknader
 
 Som det fremgår av det ovenfor gjengitte utdraget fra Prop. 91 L (2010–2011) side 187, er det et sentralt formål med avlastningstiltak å lette omsorgsbyrden for *omsorgsyterne*.  
- Dette – sammenholdt med de øvrige føringene som er gitt i lovforarbeidene – innebærer at man må ta hensyn til foreldrenes helhetlige omsorgs- og familiesituasjon når man vurderer omsorgsarbeidet, og ikke kun se hen til ett av barnas bistandsbehov. Selv om den omsøkte avlastningen bare gjaldt omsorgsoppgaver knyttet til A, måtte dermed også bistandsbehovet knyttet til de øvrige barna tas i betraktning ved vurderingen av om foreldrene totalt sett hadde «særlig tyngende omsorgsarbeid», og av hvor omfattende avlastningsbehovet fremsto. Kommunens syn om at det bare var As bistandsbehov som var relevant, bygget derfor på en uriktig rettsoppfatning.
+Dette – sammenholdt med de øvrige føringene som er gitt i lovforarbeidene – innebærer at man må ta hensyn til foreldrenes helhetlige omsorgs- og familiesituasjon når man vurderer omsorgsarbeidet, og ikke kun se hen til ett av barnas bistandsbehov. Selv om den omsøkte avlastningen bare gjaldt omsorgsoppgaver knyttet til A, måtte dermed også bistandsbehovet knyttet til de øvrige barna tas i betraktning ved vurderingen av om foreldrene totalt sett hadde «særlig tyngende omsorgsarbeid», og av hvor omfattende avlastningsbehovet fremsto. Kommunens syn om at det bare var As bistandsbehov som var relevant, bygget derfor på en uriktig rettsoppfatning.
 
 Som nevnt har Fylkesmannen i sitt svar hit opplyst at det fra Fylkesmannens side ble lagt til grunn at det forelå en «særlig tyngende omsorgssituasjon», og at det ved denne vurderingen også ble sett hen til bistandsbehovet knyttet til As søsken og foreldrenes helsesituasjon. Det er uheldig at dette ikke fremkommer klart av begrunnelsen i Fylkesmannens vedtak. Som påpekt ovenfor er spørsmålet om det foreligger «særlig tyngende omsorgssituasjon», et rettsspørsmål. Både av hensyn til parten og med tanke på rettslig kontroll av vedtaket, er det viktig å kunne se hvordan Fylkesmannen har vurdert slike rettsspørsmål ved sin behandling av saken. Fylkesmannens syn innebar dessuten at Fylkesmannen var uenig i kommunens vurdering om at det ikke forelå en situasjon som utløste rett til avlastning, og også i den rettsoppfatningen som lå til grunn for denne konklusjonen. For å sikre at kommunen foretar en korrekt rettsanvendelse i senere saker, er det viktig at Fylkesmannen gir en begrunnelse som tydelig tilkjennegir hvordan Fylkesmannen har vurdert slike rettsspørsmål. Behovet for å rettlede kommunen gjorde seg særlig gjeldende i saken her, hvor det var påregnelig at kommunen vil måtte behandle nye søknader om avlastning fra foreldrene etter at virketiden for det påklagde vedtaket var utløpt.
 
@@ -175,7 +175,7 @@ Forvaltningen er forpliktet til å følge FNs barnekonvensjon, som gjelder som n
 «Ved alle handlinger som vedrører barn, enten de foretas av offentlige eller private velferdsorganisasjoner, domstoler, administrative myndigheter eller lovgivende organer, skal barnets beste være et grunnleggende hensyn.»
 
 Hensynet til barnets beste er også slått fast i Grunnloven § 104 annet ledd. Det fremgår av forarbeidene at grunnlovsbestemmelsen er utformet etter mønster av barnekonvensjonens artikkel 3 nr. 1, for å kunne trekke veksler på internasjonal tolkingspraksis, jf.  
- Dok. 16 (2011–2012) side 192.
+Dok. 16 (2011–2012) side 192.
 
 Prinsippets innhold er utdypet blant annet i Høstmælingen, Kjørholt og Sandberg (red.), Barnekonvensjonen – Barns rettigheter i Norge (3. utg. 2016) side 68:
 

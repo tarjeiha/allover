@@ -15,8 +15,8 @@ Sivilombudets uttalelse 18.8.2017 (sak 2016/3463).
 
 ## Oppsummering
 
-Saken gjelder X kommunes tildeling av 50 % driftstilskudd tilknyttet en eksisterende privat fysioterapeut gruppepraksis. Søkeren som ble innstilt som nummer tre til driftstilskuddet, klaget på tildelingsvedtaket. Behandlingen i kommunens klagenemnd førte til at klageren ble tildelt driftstilskuddet. Hun som opprinnelig var innstilt som nummer én, og tildelt driftstilskuddet før klageomgangen, klaget så til ombudsmannen over klagenemndas saksbehandling, kvalifikasjonsvurdering og vektlegging av gjenværende fysioterapeuters uttalelse.   
- Ombudsmannen kom til at klagenemnda ikke hadde forstått kravene som det ulovfestede kvalifikasjonsprinsippet stiller til tildelingsprosessen, og særlig til utøvelsen av skjønnet når flere kvalifiserte søkere skal vurderes mot hverandre. Det var også feil av klagenemnda å tillegge de gjenværende fysioterapeutenes uttalelse stor vekt, uten å foreta noen nærmere vurdering av om uttalelsen fremsto som objektiv og saklig.
+Saken gjelder X kommunes tildeling av 50 % driftstilskudd tilknyttet en eksisterende privat fysioterapeut gruppepraksis. Søkeren som ble innstilt som nummer tre til driftstilskuddet, klaget på tildelingsvedtaket. Behandlingen i kommunens klagenemnd førte til at klageren ble tildelt driftstilskuddet. Hun som opprinnelig var innstilt som nummer én, og tildelt driftstilskuddet før klageomgangen, klaget så til ombudsmannen over klagenemndas saksbehandling, kvalifikasjonsvurdering og vektlegging av gjenværende fysioterapeuters uttalelse.  
+Ombudsmannen kom til at klagenemnda ikke hadde forstått kravene som det ulovfestede kvalifikasjonsprinsippet stiller til tildelingsprosessen, og særlig til utøvelsen av skjønnet når flere kvalifiserte søkere skal vurderes mot hverandre. Det var også feil av klagenemnda å tillegge de gjenværende fysioterapeutenes uttalelse stor vekt, uten å foreta noen nærmere vurdering av om uttalelsen fremsto som objektiv og saklig.
 
 ## Sakens bakgrunn
 

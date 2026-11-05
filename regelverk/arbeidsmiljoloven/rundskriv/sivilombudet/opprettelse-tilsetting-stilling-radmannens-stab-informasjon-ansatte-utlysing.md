@@ -16,7 +16,7 @@ Sivilombudets uttalelse 1.10.2017 (sak 2017/1614).
 ## Oppsummering
 
 Kommunestyret i X kommune vedtok i desember 2016 å avsette midler til forsterking av kommunens utviklingsarbeid. Midlene ble blant annet brukt til å opprette en ny stilling som utviklingsmedarbeider i rådmannens stab. Stillingen ble ikke utlyst, og arbeidsgiver ga verken de tillitsvalgte eller kommunens ansatte informasjon om opprettelsen av den nye stillingen. Den ble besatt ved overføring av en avdelingsleder med behov for tilrettelegging av arbeidet på grunn av redusert arbeidsevne.  
- Ombudsmannen kom til at den nye stillingen skulle vært kunngjort internt og utlyst offentlig. Arbeidsgiver hadde følgelig hverken overholdt informasjonsplikten overfor egne ansatte etter arbeidsmiljøloven § 14-1, eller den ulovfestede plikten til å utlyse offentlige stillinger.
+Ombudsmannen kom til at den nye stillingen skulle vært kunngjort internt og utlyst offentlig. Arbeidsgiver hadde følgelig hverken overholdt informasjonsplikten overfor egne ansatte etter arbeidsmiljøloven § 14-1, eller den ulovfestede plikten til å utlyse offentlige stillinger.
 
 ## Sakens bakgrunn
 

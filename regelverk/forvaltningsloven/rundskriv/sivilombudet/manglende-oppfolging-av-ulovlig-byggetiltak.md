@@ -15,10 +15,8 @@ Sivilombudets uttalelse 25.11.2020 (sak 2020/2911).
 ## Oppsummering
 
 Saken gjelder Kinn kommunes manglende oppfølging av et ulovlig oppført redskapshus. Kommunen forklarte mangelen på fremdrift i saken med at kapasitetsutfordringer gjorde det nødvendig å prioritere.  
-   
- Ombudsmannen har kommet til at kommunens oppfølging av den innklagede ulovlighetssaken er mangelfull. Den medgåtte saksbehandlingstiden så langt har vært for lang, og klageren i saken har ikke blitt holdt orientert eller fått svar i tråd med forvaltningsloven og god forvaltningsskikk.  
-   
- Ombudsmannen forutsetter at kommunen nå følger opp saken, og at kommunen bemanner byggesaksavdelingen og organiserer arbeidet slik at avdelingen kan oppfylle lovpålagte plikter om saksbehandlingstid, informasjon til borgerne under sakens gang og til å forfølge ulovlige forhold.
+Ombudsmannen har kommet til at kommunens oppfølging av den innklagede ulovlighetssaken er mangelfull. Den medgåtte saksbehandlingstiden så langt har vært for lang, og klageren i saken har ikke blitt holdt orientert eller fått svar i tråd med forvaltningsloven og god forvaltningsskikk.  
+Ombudsmannen forutsetter at kommunen nå følger opp saken, og at kommunen bemanner byggesaksavdelingen og organiserer arbeidet slik at avdelingen kan oppfylle lovpålagte plikter om saksbehandlingstid, informasjon til borgerne under sakens gang og til å forfølge ulovlige forhold.
 
 ## Sakens bakgrunn
 

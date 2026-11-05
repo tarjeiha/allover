@@ -14,15 +14,11 @@ Sivilombudets uttalelse 19.6.2024 (sak 2024/289).
 
 ## Oppsummering
 
-Saken gjelder begrunnelsesplikt etter forvaltningsloven §§ 24 og 25 og vurdering av hensynet til barnets beste etter barnekonvensjonen art. 3 nr. 1 i en sak om omfanget av et avlastningstilbud.   
-   
- Familien saken gjelder har fått vedtak om avlastningstilbud for deres datter på fire timer i uken. Familien søkte om økt avlastning, og viste til at mer avlastning ville være et gode for jenta og for familien for øvrig. Kommunen avslo søknaden om økt avlastning, og dette ble stadfestet hos Statsforvalteren i Vestland.   
-   
- I saker om avlastning må Statsforvalteren ta stilling til om tjenestetilbudet er forsvarlig etter helse- og omsorgstjenesteloven § 4-1. I Statsforvalterens vedtak ble problemstillingen formulert til å gjelde om kommunens tildeling var åpenbart urimelig, og begrunnelsen inneholdt ingen vurderinger av om tjenestetilbudet var forsvarlig. Sivilombudet kom til at Statsforvalterens vedtak ikke var i overenstemmelse med begrunnelsesplikten i forvaltningsloven §§ 24 og 25, siden begrunnelsen ikke ga klageren mulighet til å forstå reglene og problemstillingen vedtaket bygget på.   
-   
- Videre kom Sivilombudet til at barnekonvensjonen art. 3 nr. 1 om hensynet til barnets beste ikke ble fulgt i saken. I vedtaket foretok ikke Statsforvalteren en tilstrekkelig konkret og individuell vurdering av om tjenestetilbudets omfang var til jentas beste, og Statsforvalteren vurderte ikke hensynet til lillebrors beste.   
-   
- Sivilombudet ba også Statsforvalteren merke seg at et utgangspunkt om å tildele hjelp på lavest mulig nivå når barn er små, for så å øke tjenestenivået i takt med barnets alder, alltid må suppleres med en vurdering av om en slik løsning er til barnets beste i konkrete klagesaker.
+Saken gjelder begrunnelsesplikt etter forvaltningsloven §§ 24 og 25 og vurdering av hensynet til barnets beste etter barnekonvensjonen art. 3 nr. 1 i en sak om omfanget av et avlastningstilbud.  
+Familien saken gjelder har fått vedtak om avlastningstilbud for deres datter på fire timer i uken. Familien søkte om økt avlastning, og viste til at mer avlastning ville være et gode for jenta og for familien for øvrig. Kommunen avslo søknaden om økt avlastning, og dette ble stadfestet hos Statsforvalteren i Vestland.  
+I saker om avlastning må Statsforvalteren ta stilling til om tjenestetilbudet er forsvarlig etter helse- og omsorgstjenesteloven § 4-1. I Statsforvalterens vedtak ble problemstillingen formulert til å gjelde om kommunens tildeling var åpenbart urimelig, og begrunnelsen inneholdt ingen vurderinger av om tjenestetilbudet var forsvarlig. Sivilombudet kom til at Statsforvalterens vedtak ikke var i overenstemmelse med begrunnelsesplikten i forvaltningsloven §§ 24 og 25, siden begrunnelsen ikke ga klageren mulighet til å forstå reglene og problemstillingen vedtaket bygget på.  
+Videre kom Sivilombudet til at barnekonvensjonen art. 3 nr. 1 om hensynet til barnets beste ikke ble fulgt i saken. I vedtaket foretok ikke Statsforvalteren en tilstrekkelig konkret og individuell vurdering av om tjenestetilbudets omfang var til jentas beste, og Statsforvalteren vurderte ikke hensynet til lillebrors beste.  
+Sivilombudet ba også Statsforvalteren merke seg at et utgangspunkt om å tildele hjelp på lavest mulig nivå når barn er små, for så å øke tjenestenivået i takt med barnets alder, alltid må suppleres med en vurdering av om en slik løsning er til barnets beste i konkrete klagesaker.
 
 ## Sakens bakgrunn
 

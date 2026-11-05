@@ -16,12 +16,9 @@ Sivilombudets uttalelse 29.1.2025 (sak 2024/4398).
 ## Oppsummering
 
 Saken gjelder innsyn i sluttavtaler inngått med Norges Bank i perioden 18. mars 2011- d.d. Finansdepartementet stadfestet Norges Banks avslag på innsynskravet under henvisning til lovbestemt taushetsplikt, jf. sentralbankloven § 5-2 første ledd. Departementet mente at de taushetsbelagte opplysningene utgjør den vesentligste delen av dokumentene, og unntok derfor dokumentene i sin helhet, jf. offentleglova § 12 bokstav c.  
-   
- Sivilombudet kom til at det var begrunnet tvil om det er adgang til å unnta sluttavtalene i sin helhet med den begrunnelsen departementet har gitt.  
-   
- Ombudet kom videre til at saken ikke var godt nok opplyst ved Finansdepartementets klagebehandling, og at saksbehandlingstiden ikke er i tråd med kravene som stilles i offentleglova.  
-   
- Ombudet ba Finansdepartementet behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
+Sivilombudet kom til at det var begrunnet tvil om det er adgang til å unnta sluttavtalene i sin helhet med den begrunnelsen departementet har gitt.  
+Ombudet kom videre til at saken ikke var godt nok opplyst ved Finansdepartementets klagebehandling, og at saksbehandlingstiden ikke er i tråd med kravene som stilles i offentleglova.  
+Ombudet ba Finansdepartementet behandle saken på nytt, og om å bli orientert om utfallet av den nye behandlingen.
 
 Se oppdatering fra forvaltningen
 

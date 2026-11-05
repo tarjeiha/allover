@@ -16,10 +16,8 @@ Sivilombudets uttalelse 20.4.2023 (sak 2022/4248).
 ## Oppsummering
 
 Saken gjelder Statsforvalterens behandling av en klage om bruk av tvang og makt etter helse- og omsorgstjenesteloven § 9-5 tredje ledd bokstav a. Statsforvalteren hadde i avgjørelsen skrevet at de «kan» prøve alle sider av saken og konkludert med at tvangen var lovlig da tiltaket var nødvendig for å hindre vesentlig skade. De øvrige vilkårene for tvang var ikke vurdert. Saken reiser spørsmål om Statsforvalterens rolle som klageorgan og kravene til begrunnelsen ved behandling av slike saker.  
-   
- Etter at Sivilombudet undersøkte saken, var Statsforvalteren enig i at det var mangler ved begrunnelsen. Statsforvalteren skal prøve alle sider av saken ved behandling av klager over beslutninger etter helse- og omsorgstjenesteloven § 9-5 tredje ledd bokstav a, og vurderingene skal fremgå av begrunnelsen i avgjørelsen. Statsforvalterens begrunnelse i denne saken etterlot begrunnet tvil om det var lagt til grunn en for snever forståelse av hva som utgjør tvang ved vurderingen av om bruken av tvang var lovlig. Statsforvalteren skulle blant annet vurdert nærmere hva som foranlediget nødssituasjonen og om den kunne vært forebygget eller avverget.   
-   
- Siden Statsforvalteren nå har gått igjennom sine saksbehandlingsrutiner for behandling av saker om tvang etter helse- og omsorgstjenesteloven § 9-5 tredje ledd bokstav a og endret maler og rutiner, slår ombudet seg til ro med svaret som er gitt.
+Etter at Sivilombudet undersøkte saken, var Statsforvalteren enig i at det var mangler ved begrunnelsen. Statsforvalteren skal prøve alle sider av saken ved behandling av klager over beslutninger etter helse- og omsorgstjenesteloven § 9-5 tredje ledd bokstav a, og vurderingene skal fremgå av begrunnelsen i avgjørelsen. Statsforvalterens begrunnelse i denne saken etterlot begrunnet tvil om det var lagt til grunn en for snever forståelse av hva som utgjør tvang ved vurderingen av om bruken av tvang var lovlig. Statsforvalteren skulle blant annet vurdert nærmere hva som foranlediget nødssituasjonen og om den kunne vært forebygget eller avverget.  
+Siden Statsforvalteren nå har gått igjennom sine saksbehandlingsrutiner for behandling av saker om tvang etter helse- og omsorgstjenesteloven § 9-5 tredje ledd bokstav a og endret maler og rutiner, slår ombudet seg til ro med svaret som er gitt.
 
 ## Sakens bakgrunn
 

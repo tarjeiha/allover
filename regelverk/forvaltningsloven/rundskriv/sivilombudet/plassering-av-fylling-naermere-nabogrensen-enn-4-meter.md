@@ -15,8 +15,8 @@ Sivilombudets uttalelse 26.1.2018 (sak 2017/839).
 ## Oppsummering
 
 Saken gjelder spørsmål om en fylling er å anse som et «lignende mindre tiltak» som kan plasseres nærmere nabogrensen enn fire meter, jf. plan- og bygningsloven (pbl.) § 29-4 tredje ledd bokstav b, jf. § 30-4.  
- I både Fylkesmannen i Møre og Romsdal og Haram kommunens begrunnelser for å anse den omsøkte fyllingen som et «mindre tiltak» etter pbl. § 29-4 tredje ledd bokstav b, jf. § 30-4, er henvisningen til fyllingens maksimale høyde på 2 meter fremtredende. Vedtakene forstås slik at det er lagt avgjørende vekt på avviket mellom fyllingens høyde og maksimal tillatt høyde for tiltak som er unntatt krav om søknad og tillatelse etter pbl. § 20-5 jf. byggesaksforskriften (SAK10) § 4-1.   
- Etter ombudsmannens syn er begrunnelsen i Fylkesmannens vedtak egnet til å reise tvil om Fylkesmannen hadde lagt til grunn et riktig rettslig utgangspunkt og gjort de nødvendige vurderinger av fyllingens omfang og utforming. Fylkesmannen bes om å vurdere saken på nytt.
+I både Fylkesmannen i Møre og Romsdal og Haram kommunens begrunnelser for å anse den omsøkte fyllingen som et «mindre tiltak» etter pbl. § 29-4 tredje ledd bokstav b, jf. § 30-4, er henvisningen til fyllingens maksimale høyde på 2 meter fremtredende. Vedtakene forstås slik at det er lagt avgjørende vekt på avviket mellom fyllingens høyde og maksimal tillatt høyde for tiltak som er unntatt krav om søknad og tillatelse etter pbl. § 20-5 jf. byggesaksforskriften (SAK10) § 4-1.  
+Etter ombudsmannens syn er begrunnelsen i Fylkesmannens vedtak egnet til å reise tvil om Fylkesmannen hadde lagt til grunn et riktig rettslig utgangspunkt og gjort de nødvendige vurderinger av fyllingens omfang og utforming. Fylkesmannen bes om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

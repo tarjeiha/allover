@@ -15,15 +15,11 @@ Sivilombudets uttalelse 7.12.2021 (sak 2020/3952).
 
 ## Oppsummering
 
-Saken gjelder et avslag på søknad om oppholdstillatelse for familieinnvandring på bakgrunn av ekteskap. Utlendingsnemnda (UNE) kom til at klagerens hovedsakelige formål med inngåelsen av ekteskapet på vigselstidspunktet var å etablere et grunnlag for oppholdstillatelse i Norge, jf. utlendingsloven § 40 fjerde ledd. I slike tilfeller «kan» myndighetene avslå oppholdstillatelse. Saken gjelder UNEs vurdering av kan-skjønnet.   
-   
- Ombudet har kommet til at det er mangler ved UNEs skjønnsmessige vurdering av om oppholdstillatelse skulle avslås etter bestemmelsen i utlendingsloven § 40 fjerde ledd.   
-   
- I vedtaket gis det feilaktig uttrykk for at ektefellens motiv for ekteskapet ikke er relevant for skjønnet. Videre har UNE lagt uforholdsmessig mye vekt på klagerens hovedformål med ekteskapet på vedtakstidspunktet. UNEs beskrivelse av terskelen for å innvilge tillatelse etter kan-skjønnet i utlendingsloven § 40 fjerde ledd som generelt «høy», bidrar også til tvil om UNE har tatt riktig utgangspunkt for skjønnet.   
-   
- Ombudet er kommet til at UNE har tatt et uriktig utgangspunkt for skjønnet. De har ikke fulgt opp føringene i forarbeidene til § 40 fjerde ledd og UNEs skjønnsutøvelse har ikke vært tilstrekkelig saklig og forsvarlig.  
-   
- På denne bakgrunn bes UNE om å behandle saken på nytt innen 17. januar 2022.
+Saken gjelder et avslag på søknad om oppholdstillatelse for familieinnvandring på bakgrunn av ekteskap. Utlendingsnemnda (UNE) kom til at klagerens hovedsakelige formål med inngåelsen av ekteskapet på vigselstidspunktet var å etablere et grunnlag for oppholdstillatelse i Norge, jf. utlendingsloven § 40 fjerde ledd. I slike tilfeller «kan» myndighetene avslå oppholdstillatelse. Saken gjelder UNEs vurdering av kan-skjønnet.  
+Ombudet har kommet til at det er mangler ved UNEs skjønnsmessige vurdering av om oppholdstillatelse skulle avslås etter bestemmelsen i utlendingsloven § 40 fjerde ledd.  
+I vedtaket gis det feilaktig uttrykk for at ektefellens motiv for ekteskapet ikke er relevant for skjønnet. Videre har UNE lagt uforholdsmessig mye vekt på klagerens hovedformål med ekteskapet på vedtakstidspunktet. UNEs beskrivelse av terskelen for å innvilge tillatelse etter kan-skjønnet i utlendingsloven § 40 fjerde ledd som generelt «høy», bidrar også til tvil om UNE har tatt riktig utgangspunkt for skjønnet.  
+Ombudet er kommet til at UNE har tatt et uriktig utgangspunkt for skjønnet. De har ikke fulgt opp føringene i forarbeidene til § 40 fjerde ledd og UNEs skjønnsutøvelse har ikke vært tilstrekkelig saklig og forsvarlig.  
+På denne bakgrunn bes UNE om å behandle saken på nytt innen 17. januar 2022.
 
 Se oppdatering fra forvaltningen
 

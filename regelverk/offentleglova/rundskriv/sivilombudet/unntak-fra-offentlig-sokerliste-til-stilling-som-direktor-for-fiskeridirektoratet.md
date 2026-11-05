@@ -15,8 +15,7 @@ Sivilombudets uttalelse 27.1.2021 (sak 2020/4148).
 ## Oppsummering
 
 Saken gjelder offentlig søkerliste til stillingen som direktør for Fiskeridirektoratet. Statsråd Frank Bakke-Jensens navn fremgikk ikke av den offentlige søkerlisten til stillingen. Nærings- og fiskeridepartementet begrunnet dette med at stillingen som forsvarsminister krever særlig tillit og stabilitet. I tillegg viste departementet til rekrutteringshensyn.  
-   
- Ombudsmannen er kommet til at departementets begrunnelse for å unnta statsråd Frank Bakke-Jensens navn fra den offentlige søkerlisten ikke er tilstrekkelig, jf. offentleglova § 25. Det kreves særlige grunner for å unnta en søker fra søkerlisten til en lederstilling. Rollen som statsråd er ikke i seg selv tilstrekkelig for at slike særlige grunner foreligger. Det må foreligge konkrete hensyn som begrunner unntak. Slike konkrete grunner er ikke gjort gjeldende i denne saken.
+Ombudsmannen er kommet til at departementets begrunnelse for å unnta statsråd Frank Bakke-Jensens navn fra den offentlige søkerlisten ikke er tilstrekkelig, jf. offentleglova § 25. Det kreves særlige grunner for å unnta en søker fra søkerlisten til en lederstilling. Rollen som statsråd er ikke i seg selv tilstrekkelig for at slike særlige grunner foreligger. Det må foreligge konkrete hensyn som begrunner unntak. Slike konkrete grunner er ikke gjort gjeldende i denne saken.
 
 ## Sakens bakgrunn
 

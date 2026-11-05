@@ -15,13 +15,10 @@ Sivilombudets uttalelse 23.10.2024 (sak 2024/1621).
 
 ## Oppsummering
 
-Klagerne hadde fått innvilget fri sakførsel av Statens sivilrettsforvaltning (SRF) for å anlegge sak mot staten v/Utlendingsnemnda. Saken gjaldt tilbakekall av klagernes statsborgerskap. Klagerne tapte saken i tingretten og søkte derfor om fri sakførsel til å anke tingrettens dom. Ved vedtak 12. januar 2024 ble søknaden avslått.   
-   
- Ombudet fant at ordlyden i rundskriv SRF-2017-1 punkt 7.6 ikke er i overenstemmelse med gjeldende rett og praksis fra Høyesterett. Sivilombudet kom også til at det foreligger begrunnet tvil om SRF i dette og flere andre tidligere vedtak har tolket rettshjelploven § 16 femte ledd korrekt.  
-   
- Sivilombudet kom videre til at det var begrunnet tvil om SRF la til grunn et riktig rettslig utgangspunkt for sin vurdering av om klagerne skulle innvilges fri sakførsel etter rettshjelploven § 16. SRFs vedtak oppfylte heller ikke kravene til begrunnelse i forvaltningsloven § 25. Ombudet viste til at det var uklart hva som var det rettslige grunnlaget for avslaget, hvilke momenter som var avgjørende i vurderingen, og at det følgelig var vanskelig for klageren å forstå vedtaket.  
-   
- Ombudet ba SRF merke seg ombudets syn og legge det til grunn i fremtidige saker. Det ble også bedt om at rundskrivet endres så snart som mulig, og at SRF orienterer Statsforvalterne om ombudets uttalelse.
+Klagerne hadde fått innvilget fri sakførsel av Statens sivilrettsforvaltning (SRF) for å anlegge sak mot staten v/Utlendingsnemnda. Saken gjaldt tilbakekall av klagernes statsborgerskap. Klagerne tapte saken i tingretten og søkte derfor om fri sakførsel til å anke tingrettens dom. Ved vedtak 12. januar 2024 ble søknaden avslått.  
+Ombudet fant at ordlyden i rundskriv SRF-2017-1 punkt 7.6 ikke er i overenstemmelse med gjeldende rett og praksis fra Høyesterett. Sivilombudet kom også til at det foreligger begrunnet tvil om SRF i dette og flere andre tidligere vedtak har tolket rettshjelploven § 16 femte ledd korrekt.  
+Sivilombudet kom videre til at det var begrunnet tvil om SRF la til grunn et riktig rettslig utgangspunkt for sin vurdering av om klagerne skulle innvilges fri sakførsel etter rettshjelploven § 16. SRFs vedtak oppfylte heller ikke kravene til begrunnelse i forvaltningsloven § 25. Ombudet viste til at det var uklart hva som var det rettslige grunnlaget for avslaget, hvilke momenter som var avgjørende i vurderingen, og at det følgelig var vanskelig for klageren å forstå vedtaket.  
+Ombudet ba SRF merke seg ombudets syn og legge det til grunn i fremtidige saker. Det ble også bedt om at rundskrivet endres så snart som mulig, og at SRF orienterer Statsforvalterne om ombudets uttalelse.
 
 ## Sakens bakgrunn
 

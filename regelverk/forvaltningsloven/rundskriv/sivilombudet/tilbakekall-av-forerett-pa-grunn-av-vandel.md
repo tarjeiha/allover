@@ -15,8 +15,7 @@ Sivilombudets uttalelse 6.12.2019 (sak 2019/1991).
 ## Oppsummering
 
 Saken gjelder et tilbakekall av førerett i 2018. Klager var i 2015 domfelt for kjøring i 2014 med 0,43 i promille. I 2014 hadde klager i tillegg begått narkotikaovertredelser som han ble domfelt for i 2016, og også blitt anmeldt for andre forhold, hvorav de fleste – bl.a. en legemsfornærmelse – ble senere henlagt. I 2017 hadde klager igjen begått lovbrudd, i hovedsak narkotikaovertredelser for å tjene penger, som med ett unntak ble erkjent av klager. I Politidirektoratets vedtak ble tilbakekallet i det vesentlige begrunnet med at samlet sett gjorde ovennevnte forhold at klager ikke oppfylte vandelskravet i vegtrafikkloven § 34 femte ledd, og at hensynet til trafikksikkerheten gjorde tilbakekallet nødvendig.  
-   
- Ombudsmannen mener at vandelskravet i § 34 femte ledd forutsetter en mer målrettet skikkethetsvurdering enn den Politidirektoratet la til grunn i sitt vedtak. Vurderingstema er om førerettinnehavers vandel gir berettiget grunn til å frykte at han ikke vil ferdes i trafikken med tilstrekkelig hensynsfullhet og aktsomhet, ikke hans vandel rent generelt. Direktoratets vedtak bygger derfor på feil forståelse og anvendelse av § 34 femte ledd, og fremstår følgelig som ugyldig. Ombudsmannen ber direktoratet behandle saken på nytt snarest mulig.
+Ombudsmannen mener at vandelskravet i § 34 femte ledd forutsetter en mer målrettet skikkethetsvurdering enn den Politidirektoratet la til grunn i sitt vedtak. Vurderingstema er om førerettinnehavers vandel gir berettiget grunn til å frykte at han ikke vil ferdes i trafikken med tilstrekkelig hensynsfullhet og aktsomhet, ikke hans vandel rent generelt. Direktoratets vedtak bygger derfor på feil forståelse og anvendelse av § 34 femte ledd, og fremstår følgelig som ugyldig. Ombudsmannen ber direktoratet behandle saken på nytt snarest mulig.
 
 Se oppdatering fra forvaltningen
 

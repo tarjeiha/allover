@@ -16,12 +16,9 @@ Sivilombudets uttalelse 21.8.2024 (sak 2024/256).
 ## Oppsummering
 
 Saken gjelder et krav om innsyn i NRKs reiseregninger i forbindelse med dekningen av VM i Planica i 2023. Saken gjelder tolkningen av unntaket for rett til innsyn i redaksjons- og programvirksomhet i NRK, jf. offentlegforskrifta § 1 tredje ledd bokstav i. Saken reiser spørsmål om betydningen av unntaket for praktiseringen av øvrige regler i offentleglova, som klagerett og prinsippet om meroffentlighet. Den reiser også spørsmål om forholdet mellom innsynsreglene på den ene siden, og prinsippet om redaksjonell uavhengighet og kildevernet på den andre siden.  
-   
- NRK og Kultur- og likestillingsdepartementet avviste innsynskravet med henvisning til at reiseregningene faller innenfor unntaksbestemmelsen og dermed utenfor offentleglovas virkeområde. Det ble ikke vurdert meroffentlighet og departementet avgjorde klagesaken uten å få oversendt reiseregningene fra NRK.  
-   
- Sivilombudet kom til at det er begrunnet tvil knyttet til vurderingen av om reiseregningene er omfattet av unntaksbestemmelsen. Videre mente ombudet at departementet skulle ha vurdert merinnsyn, også om dokumentene hadde vært unntatt offentleglovas virkeområde. Ombudet kom også til at departementet skulle ha fått oversendt reiseregningene i forbindelse med departementets klagebehandling. Sivilombudet ba departementet om å behandle saken på nytt i tråd med ombudets syn, og om å bli orientert om utfallet av den nye behandlingen. Videre pekte ombudet på behovet for å vurdere unntaksbestemmelsen, særlig sett i lys av krav om kildevern og prinsippet om redaksjonell uavhengighet.   
-   
- Sivilombudet kritiserte også NRK for å nekte å oversende reiseregningene til ombudet. Ombudet pekte på at dette bidrar til å underminere en effektiv ombudskontroll.
+NRK og Kultur- og likestillingsdepartementet avviste innsynskravet med henvisning til at reiseregningene faller innenfor unntaksbestemmelsen og dermed utenfor offentleglovas virkeområde. Det ble ikke vurdert meroffentlighet og departementet avgjorde klagesaken uten å få oversendt reiseregningene fra NRK.  
+Sivilombudet kom til at det er begrunnet tvil knyttet til vurderingen av om reiseregningene er omfattet av unntaksbestemmelsen. Videre mente ombudet at departementet skulle ha vurdert merinnsyn, også om dokumentene hadde vært unntatt offentleglovas virkeområde. Ombudet kom også til at departementet skulle ha fått oversendt reiseregningene i forbindelse med departementets klagebehandling. Sivilombudet ba departementet om å behandle saken på nytt i tråd med ombudets syn, og om å bli orientert om utfallet av den nye behandlingen. Videre pekte ombudet på behovet for å vurdere unntaksbestemmelsen, særlig sett i lys av krav om kildevern og prinsippet om redaksjonell uavhengighet.  
+Sivilombudet kritiserte også NRK for å nekte å oversende reiseregningene til ombudet. Ombudet pekte på at dette bidrar til å underminere en effektiv ombudskontroll.
 
 Se oppdatering fra forvaltningen
 

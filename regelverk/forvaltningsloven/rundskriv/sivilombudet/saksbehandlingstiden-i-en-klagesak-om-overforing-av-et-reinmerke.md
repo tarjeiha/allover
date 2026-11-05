@@ -14,11 +14,9 @@ Sivilombudets uttalelse 22.5.2025 (sak 2025/1367).
 
 ## Oppsummering
 
-Saken gjelder saksbehandlingstiden i en klagesak om overføring av et reinmerke til et barn. Statsforvalteren i Troms og Finnmark, som sekretariat for Merkenemnda i Øst-Finnmark (Nuorta-Finnmárkku mearkalávdegoddi), brukte omtrent ett år og to måneder på å forberede og oversende klagen til Klagenemnda for merkesaker. Før det brukte Statsforvalteren og merkenemnda to år og seks måneder på å behandle søknaden.   
-   
- Sivilombudet kom til at tidsbruken i klagesaken var i strid med kravene til saksbehandlingstid etter forvaltningsloven § 11 a og § 33 fjerde ledd. Ombudet fant ikke grunn til videre oppfølging av den konkrete klagesaken, fordi saken var forberedt og oversendt til Klagenemnda for merkesaker.  
-   
- Statsforvalteren ga feil informasjon til klageren om når klagesaken skulle behandles, og rettet ikke opp i feilen da klageren gjorde Statsforvalteren oppmerksom på den lange forventede saksbehandlingstiden. Ombudet har derfor bedt Statsforvalteren sikre at det er rutiner for at liknende feil ikke gjentas.
+Saken gjelder saksbehandlingstiden i en klagesak om overføring av et reinmerke til et barn. Statsforvalteren i Troms og Finnmark, som sekretariat for Merkenemnda i Øst-Finnmark (Nuorta-Finnmárkku mearkalávdegoddi), brukte omtrent ett år og to måneder på å forberede og oversende klagen til Klagenemnda for merkesaker. Før det brukte Statsforvalteren og merkenemnda to år og seks måneder på å behandle søknaden.  
+Sivilombudet kom til at tidsbruken i klagesaken var i strid med kravene til saksbehandlingstid etter forvaltningsloven § 11 a og § 33 fjerde ledd. Ombudet fant ikke grunn til videre oppfølging av den konkrete klagesaken, fordi saken var forberedt og oversendt til Klagenemnda for merkesaker.  
+Statsforvalteren ga feil informasjon til klageren om når klagesaken skulle behandles, og rettet ikke opp i feilen da klageren gjorde Statsforvalteren oppmerksom på den lange forventede saksbehandlingstiden. Ombudet har derfor bedt Statsforvalteren sikre at det er rutiner for at liknende feil ikke gjentas.
 
 [Les uttalelsen på nordsamisk/ Loga cealkámuša davvisámegillii](https://www.sivilombudet.no/smj/uttalelser-smj/assemeannudanaigi-vaiddaassis-sirdit-boazomearkka/)
 

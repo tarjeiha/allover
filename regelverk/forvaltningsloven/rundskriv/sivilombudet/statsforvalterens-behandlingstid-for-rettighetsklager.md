@@ -15,10 +15,8 @@ Sivilombudets uttalelse 6.4.2025 (sak 2024/6888).
 ## Oppsummering
 
 Saken gjelder lang behandlingstid hos Statsforvalteren i Østfold, Buskerud, Oslo og Akershus i en konkret rettighetsklage, og manglende utsendelse av foreløpig svar og forsinkelsesmelding til klageren. Saken har vært til behandling hos Statsforvalteren i litt over ett år og to måneder, og er ennå ikke ferdigbehandlet. Statsforvalteren viste særlig til stor saksmengde som begrunnelse for den lange behandlingstiden.  
-   
- Sivilombudet undersøkte også Statsforvalterens generelle behandlingstider for rettighetsklager, og Statsforvalterens praksis knyttet til utsending av foreløpige svar og forsinkelsesmeldinger.   
-   
- Sivilombudet kom til at behandlingstiden for den konkrete rettighetsklagen klart var i strid med forvaltningsloven § 11 a første ledd. Ombudet var enig med Statsforvalteren i at klageren ikke var blitt holdt orientert om status i saken, slik forvaltningsloven § 11 a andre og tredje ledd krever. Videre var det grunn til å anta at et stort antall saker har en ulovlig lang behandlingstid, særlig klagene på spesialisthelsetjenesten. Det var også grunnlag for å konkludere med at plikten til å sende foreløpig svar og forsinkelsesmeldinger ikke overholdes i flere saker.
+Sivilombudet undersøkte også Statsforvalterens generelle behandlingstider for rettighetsklager, og Statsforvalterens praksis knyttet til utsending av foreløpige svar og forsinkelsesmeldinger.  
+Sivilombudet kom til at behandlingstiden for den konkrete rettighetsklagen klart var i strid med forvaltningsloven § 11 a første ledd. Ombudet var enig med Statsforvalteren i at klageren ikke var blitt holdt orientert om status i saken, slik forvaltningsloven § 11 a andre og tredje ledd krever. Videre var det grunn til å anta at et stort antall saker har en ulovlig lang behandlingstid, særlig klagene på spesialisthelsetjenesten. Det var også grunnlag for å konkludere med at plikten til å sende foreløpig svar og forsinkelsesmeldinger ikke overholdes i flere saker.
 
 Se oppdatering fra forvaltningen
 

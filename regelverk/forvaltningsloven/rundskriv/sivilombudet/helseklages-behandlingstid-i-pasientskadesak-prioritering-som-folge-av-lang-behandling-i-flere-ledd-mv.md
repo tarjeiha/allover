@@ -14,11 +14,9 @@ Sivilombudets uttalelse 12.9.2022 (sak 2022/1133).
 
 ## Oppsummering
 
-Klageren krevde våren 2014 erstatning for skade etter tannbehandling. Spørsmålet om erstatningsansvar ble først behandlet i to instanser i forvaltningen og deretter i tingretten og lagmannsretten. Lagmannsretten slo i 2018 fast at klageren hadde rett til erstatning. Norsk pasientskadeerstatning fattet så utmålingsvedtak, som ble påklaget til Pasientskadenemnda. Nemndas sekretariat, Helseklage, brukte så 35 måneder på å få behandlet saken. Mens saken lå hos Helseklage ble behandlingstiden klaget inn for Sivilombudet.   
-   
- Sivilombudet er kommet til at sakens behandlingstid hos Helseklage på ca. tre år ikke har vært i tråd med kravet i forvaltningsloven § 11a første ledd om å avgjøres «uten ugrunnet opphold». Saken skulle også ha vært prioritert, som følge av at erstatningssaken hadde vært behandlet i retten tidligere og alt hadde en total behandlingstid på fem og ett halvt år da utmålingssaken kom inn til Helseklage.   
-   
- Det er positivt at Helseklage har fått mer ressurser til behandlingen av pasientskadesaker, og at dette ser ut til å ha resultert i økt saksbehandlingskapasitet. Samtidig viser ombudet til at behandlingstidene fortsatt er altfor lange og har vært uakseptable over flere år. Det vil derfor fortsatt være nødvendig med en stor innsats for å bringe behandlingstidene i samsvar med forvaltningslovens krav. Ombudet vil fortsatt følge med på Helseklages behandlingstider i pasientskadesaker.
+Klageren krevde våren 2014 erstatning for skade etter tannbehandling. Spørsmålet om erstatningsansvar ble først behandlet i to instanser i forvaltningen og deretter i tingretten og lagmannsretten. Lagmannsretten slo i 2018 fast at klageren hadde rett til erstatning. Norsk pasientskadeerstatning fattet så utmålingsvedtak, som ble påklaget til Pasientskadenemnda. Nemndas sekretariat, Helseklage, brukte så 35 måneder på å få behandlet saken. Mens saken lå hos Helseklage ble behandlingstiden klaget inn for Sivilombudet.  
+Sivilombudet er kommet til at sakens behandlingstid hos Helseklage på ca. tre år ikke har vært i tråd med kravet i forvaltningsloven § 11a første ledd om å avgjøres «uten ugrunnet opphold». Saken skulle også ha vært prioritert, som følge av at erstatningssaken hadde vært behandlet i retten tidligere og alt hadde en total behandlingstid på fem og ett halvt år da utmålingssaken kom inn til Helseklage.  
+Det er positivt at Helseklage har fått mer ressurser til behandlingen av pasientskadesaker, og at dette ser ut til å ha resultert i økt saksbehandlingskapasitet. Samtidig viser ombudet til at behandlingstidene fortsatt er altfor lange og har vært uakseptable over flere år. Det vil derfor fortsatt være nødvendig med en stor innsats for å bringe behandlingstidene i samsvar med forvaltningslovens krav. Ombudet vil fortsatt følge med på Helseklages behandlingstider i pasientskadesaker.
 
 ## Sakens bakgrunn
 

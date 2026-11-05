@@ -15,10 +15,8 @@ Sivilombudets uttalelse 26.10.2020 (sak 2020/1700).
 ## Oppsummering
 
 Saken gjelder innsyn i helseministerens elektroniske kalender for perioden 1. januar 2020 til 15. mars 2020.  
-   
- Ombudsmannen er enig med Helse- og omsorgsdepartementet i at kalenderoppføringer som ikke er private oppføringer, oppføringer knyttet til statsrådens verv eller medlemskap i Høyre, og rene administrative oppføringer slik som bestilling av bil, flyreferanser osv., i utgangspunktet er å anse som saksdokumenter for departementet. Videre er ombudsmannen enig med departementet i at de kalenderoppføringene som ikke er sendt ut av departementet eller mottatt fra eksterne, er å anse som organinterne dokumenter, jf. offentleglova § 14. Ombudsmannen minner om at departementet ved vurdering av merinnsyn skal vekte de hensynene som begrunner unntak mot de konkrete hensynene som taler for offentlighet av det aktuelle dokumentet.  
-   
- Ombudsmannen har merket seg at departementet har presisert egne rutiner for journalføring av invitasjoner til statsråden, mediehenvendelser sendt direkte til kommunikasjonsavdelingen og svar på slike henvendelser.
+Ombudsmannen er enig med Helse- og omsorgsdepartementet i at kalenderoppføringer som ikke er private oppføringer, oppføringer knyttet til statsrådens verv eller medlemskap i Høyre, og rene administrative oppføringer slik som bestilling av bil, flyreferanser osv., i utgangspunktet er å anse som saksdokumenter for departementet. Videre er ombudsmannen enig med departementet i at de kalenderoppføringene som ikke er sendt ut av departementet eller mottatt fra eksterne, er å anse som organinterne dokumenter, jf. offentleglova § 14. Ombudsmannen minner om at departementet ved vurdering av merinnsyn skal vekte de hensynene som begrunner unntak mot de konkrete hensynene som taler for offentlighet av det aktuelle dokumentet.  
+Ombudsmannen har merket seg at departementet har presisert egne rutiner for journalføring av invitasjoner til statsråden, mediehenvendelser sendt direkte til kommunikasjonsavdelingen og svar på slike henvendelser.
 
 ## Sakens bakgrunn
 

@@ -14,9 +14,8 @@ Sivilombudets uttalelse 14.2.2019 (sak 2018/1625).
 
 ## Oppsummering
 
-Saken gjelder kvalifikasjonskrav ved ansettelse av brannsjef i en kommune.   
-   
- Ombudsmannen har kommet til at kommunen har ansatt en brannsjef som ikke fyller kravene i dimensjoneringsforskriften § 7-11, uten at det er søkt om dispensasjon. Saken viser også at kommunen kunne ha foretatt ytterligere undersøkelser for å avklare en av kandidatenes personlige egnethet for stillingen. Det kan ikke utelukkes at klager er urettmessig forbigått, men mangler i kommunens skriftlige dokumentasjon gjør at ombudsmannen ikke kan ta endelig stilling til dette.
+Saken gjelder kvalifikasjonskrav ved ansettelse av brannsjef i en kommune.  
+Ombudsmannen har kommet til at kommunen har ansatt en brannsjef som ikke fyller kravene i dimensjoneringsforskriften § 7-11, uten at det er søkt om dispensasjon. Saken viser også at kommunen kunne ha foretatt ytterligere undersøkelser for å avklare en av kandidatenes personlige egnethet for stillingen. Det kan ikke utelukkes at klager er urettmessig forbigått, men mangler i kommunens skriftlige dokumentasjon gjør at ombudsmannen ikke kan ta endelig stilling til dette.
 
 ## Sakens bakgrunn
 
@@ -81,7 +80,7 @@ Undersøkelsene herfra viser at problemstillingen knyttet til Bs formelle kompet
 Dimensjoneringsforskriften § 8-2 åpner for at det kan gis dispensasjon dersom det «foreligger særlige grunner». I DSBs veileder er slike særlige grunner oppgitt å være at «det ikke har meldt seg kvalifiserte søkere til en stilling selv etter at stillingen er lyst ut for annen gang» eller at en søker har «den formelle tekniske utdanningen i orden, men mangler den nødvendige brannfaglige tilleggsutdanningen». Det fremgår videre at det «forutsettes at kommunen søker om fravik før en ansettelse», både av hensyn til den som ønskes ansatt, men også for å unngå å uthule de kvalifikasjonskravene som oppstilles i forskriften. Dette innebærer at kommunen skulle ha søkt om dispensasjon fra kvalifikasjonskravene før det ble fattet vedtak om å ansette B i stillingen.
 
 Slik saken er opplyst hit, oppfylte ikke B kvalifikasjonskravene i dimensjoneringsforskriften §  
- 7-11 tredje ledd. Kommunen har dermed ansatt brannsjef i strid med kvalifikasjonskravene i forskriften uten først å sørge for at dispensasjon var innhentet.
+7-11 tredje ledd. Kommunen har dermed ansatt brannsjef i strid med kvalifikasjonskravene i forskriften uten først å sørge for at dispensasjon var innhentet.
 
 Ombudsmannens saksbehandling er etterfølgende. Det innebærer at vi ikke tar stilling til om det var grunnlag for å dispensere fra forskriftens kvalifikasjonskrav før en eventuell søknad er behandlet av DSB. En kopi av denne uttalelsen vil bli oversendt DSB til orientering.
 

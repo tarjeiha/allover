@@ -15,14 +15,10 @@ Sivilombudets uttalelse 24.9.2024 (sak 2024/2440).
 ## Oppsummering
 
 Saken gjelder avslag på hjelpetiltak fra barnevernstjenesten, jf. barnevernsloven § 3-1.  
-   
- Klageren og hennes sønn mottok hjelpetiltak fra sin tidligere bostedskommune, men hjelpetiltakene ble ikke opprettholdt da familien flyttet til en ny kommune.   
-   
- Statsforvalteren mente at klageren og hennes sønn kunne få adekvat hjelp fra helse- og omsorgstjenesten i kommunen, og at vilkårene for hjelpetiltak i barnevernsloven § 3-1 ikke var oppfylt.   
-   
- Sivilombudet kom til at fraværet av barnets beste-vurderinger i vedtaket var i strid med Grunnloven § 104 og barnekonvensjonen artikkel 3 nr. 1 og utgjorde en saksbehandlingsfeil. Statsforvalterens manglende vurdering av guttens mening og hensynet til lillesøsters beste var heller ikke i tråd med bestemmelsene.   
-   
- Videre kom Sivilombudet til at Statsforvalterens begrunnelse ikke tilfredsstilte kravene i forvaltningsloven § 25, da begrunnelsen verken gjorde det tydelig at klagerens informasjon om sønnens situasjon hadde blitt vurdert, eller gjorde klageren i stand til å forstå vedtaket.
+Klageren og hennes sønn mottok hjelpetiltak fra sin tidligere bostedskommune, men hjelpetiltakene ble ikke opprettholdt da familien flyttet til en ny kommune.  
+Statsforvalteren mente at klageren og hennes sønn kunne få adekvat hjelp fra helse- og omsorgstjenesten i kommunen, og at vilkårene for hjelpetiltak i barnevernsloven § 3-1 ikke var oppfylt.  
+Sivilombudet kom til at fraværet av barnets beste-vurderinger i vedtaket var i strid med Grunnloven § 104 og barnekonvensjonen artikkel 3 nr. 1 og utgjorde en saksbehandlingsfeil. Statsforvalterens manglende vurdering av guttens mening og hensynet til lillesøsters beste var heller ikke i tråd med bestemmelsene.  
+Videre kom Sivilombudet til at Statsforvalterens begrunnelse ikke tilfredsstilte kravene i forvaltningsloven § 25, da begrunnelsen verken gjorde det tydelig at klagerens informasjon om sønnens situasjon hadde blitt vurdert, eller gjorde klageren i stand til å forstå vedtaket.
 
 ## Sakens bakgrunn
 

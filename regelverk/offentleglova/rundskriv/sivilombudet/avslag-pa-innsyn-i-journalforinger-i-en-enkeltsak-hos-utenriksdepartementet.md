@@ -15,10 +15,8 @@ Sivilombudets uttalelse 21.9.2016 (sak 2016/1427).
 ## Oppsummering
 
 Saken gjelder spørsmål om avslag på innsyn i journalføringer i en enkeltsak hos Utenriksdepartementet som gjelder konsulær bistand fra utenrikstjenesten, jf. offentlegforskrifta § 9 femte ledd bokstav b.  
-   
- Ombudsmannen har kommet til at bakgrunnen for at lovgiver har gitt et generelt unntak for innsyn i journalføringer i slike saker i forskrift, jf. offentleglova § 27, er at det uansett ville vært grunnlag for å unnta det vesentlige av disse opplysningene som taushetsbelagte. Videre har lovgiver funnet at det foreligger særlige tungtveiende grunner for å unnta denne type enkeltsaker fra innsyn. Det ville være svært arbeidskrevende for departementet å vurdere innsyn i hver enkelt journalføring i slike enkeltsaker. Videre ville det være så få opplysninger som ikke er taushetsbelagte, at hensynet til at allmennheten skal få innsyn i disse ikke kan være spesielt sterkt. Departementet har følgelig ingen plikt til å vurdere meroffentlighet for hver enkelt journalinnføring i slike saker.  
-   
- Ombudsmannen har funnet å la saken bero med Utenriksdepartementets vurdering i saken.
+Ombudsmannen har kommet til at bakgrunnen for at lovgiver har gitt et generelt unntak for innsyn i journalføringer i slike saker i forskrift, jf. offentleglova § 27, er at det uansett ville vært grunnlag for å unnta det vesentlige av disse opplysningene som taushetsbelagte. Videre har lovgiver funnet at det foreligger særlige tungtveiende grunner for å unnta denne type enkeltsaker fra innsyn. Det ville være svært arbeidskrevende for departementet å vurdere innsyn i hver enkelt journalføring i slike enkeltsaker. Videre ville det være så få opplysninger som ikke er taushetsbelagte, at hensynet til at allmennheten skal få innsyn i disse ikke kan være spesielt sterkt. Departementet har følgelig ingen plikt til å vurdere meroffentlighet for hver enkelt journalinnføring i slike saker.  
+Ombudsmannen har funnet å la saken bero med Utenriksdepartementets vurdering i saken.
 
 ## Uttalelse
 

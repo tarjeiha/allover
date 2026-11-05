@@ -16,8 +16,7 @@ Sivilombudets uttalelse 27.5.2019 (sak 2018/3545).
 ## Oppsummering
 
 En elev ved en videregående skole klaget på standpunktkarakteren i kroppsøving. Da saken ble oversendt klageinstansen, viste det seg at et av hovedområdene i læreplanen ikke var vurdert i faglærers uttalelse.  
-   
- Ombudsmannen mener det er mangler både ved saksutredningen og ved begrunnelsen i klagevedtaket. Det er også mangler ved faglærers skriftlige uttalelse i anledning klagen. Fylkeskommunen bes vurdere saken på nytt. Ombudsmannen ber om å bli orientert om den fornyede klagebehandling ved kopi av fylkeskommunens brev til eleven.
+Ombudsmannen mener det er mangler både ved saksutredningen og ved begrunnelsen i klagevedtaket. Det er også mangler ved faglærers skriftlige uttalelse i anledning klagen. Fylkeskommunen bes vurdere saken på nytt. Ombudsmannen ber om å bli orientert om den fornyede klagebehandling ved kopi av fylkeskommunens brev til eleven.
 
 Se oppdatering fra forvaltningen
 
@@ -67,7 +66,7 @@ Ut fra det ovennevnte må fylkeskommunen prøve saksbehandlingen rundt fastsette
 ### Forvaltningens utredningsplikt
 
 For å kunne ta stilling til en klage må de rettslige- og faktiske forhold klarlegges. Forvaltningens ansvar for å opplyse klagesaken best mulig fremgår av forvaltningslovens  
- § 33 femte ledd, jf. § 17.
+§ 33 femte ledd, jf. § 17.
 
 Omfanget av utredningsplikten bestemmes av flere faktorer, deriblant hvilke vurderingstema og problemstillinger klageinstansen skal ta stilling til. Anførsler fra klager og skolens uttalelser vil også avgjøre hva som konkret må utredes nærmere. Klageinstansen kan selv sørge for sakens opplysning, eller sende saken tilbake til underinstansen.
 

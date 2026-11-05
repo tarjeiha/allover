@@ -15,12 +15,9 @@ Sivilombudets uttalelse 4.4.2017 (sak 2016/1839).
 ## Oppsummering
 
 Saken gjelder dispensasjon fra byggegrense i gjeldende detaljreguleringsplan.  
-   
- Dersom det skal gis dispensasjon fra bestemmelser i plan- og bygningsloven eller planer gitt i medhold av loven, må de kumulative vilkårene i § 19-2 annet ledd være oppfylt. Dispensasjon kan ikke gis dersom hensynene bak bestemmelsen det dispenseres fra, eller hensynene i lovens formålsbestemmelse, blir vesentlig tilsidesatt. I tillegg må fordelene ved å gi dispensasjon være klart større enn ulempene etter en samlet vurdering.  
-   
- Ombudsmannen er kommet til at det knytter seg begrunnet tvil til Fylkesmannens standpunkt om at hensynene bak bestemmelsen om byggegrense i detaljreguleringsplanen, ikke ble «vesentlig» tilsidesatt ved dispensasjonen.  
-   
- Fylkesmannen bes om å vurdere saken på nytt.
+Dersom det skal gis dispensasjon fra bestemmelser i plan- og bygningsloven eller planer gitt i medhold av loven, må de kumulative vilkårene i § 19-2 annet ledd være oppfylt. Dispensasjon kan ikke gis dersom hensynene bak bestemmelsen det dispenseres fra, eller hensynene i lovens formålsbestemmelse, blir vesentlig tilsidesatt. I tillegg må fordelene ved å gi dispensasjon være klart større enn ulempene etter en samlet vurdering.  
+Ombudsmannen er kommet til at det knytter seg begrunnet tvil til Fylkesmannens standpunkt om at hensynene bak bestemmelsen om byggegrense i detaljreguleringsplanen, ikke ble «vesentlig» tilsidesatt ved dispensasjonen.  
+Fylkesmannen bes om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

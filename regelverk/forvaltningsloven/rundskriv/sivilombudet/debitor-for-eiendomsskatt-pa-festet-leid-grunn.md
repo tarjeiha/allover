@@ -15,12 +15,9 @@ Sivilombudets uttalelse 16.2.2021 (sak 2019/2743).
 ## Oppsummering
 
 Saken gjelder ilagt eiendomsskatt i 2018 på et verk og bruk i X kommune. I skattegrunnlaget var verdien av grunnen som selskapet festet/leide av flere grunneiere i kommunen, inkludert. Dette var selskapet uenig i. Saken reiste også flere saksbehandlingsspørsmål.  
-   
- Ombudsmannen er enig med kommunen i at festeavtalene med alle grunneierne foruten én, var å regne som tidsubegrensede. Det var derfor etter ombudsmannens syn riktig å tilordne selskapet eiendomsskatt for grunnen til disse eiendommene. En festeavtale som var inngått med én av grunneierne, var tidsbegrenset. Ombudsmannen har her kommet til at kommunen ikke godt nok har utredet selskapets innsigelser mot å betale eiendomsskatt for den leide grunnen.  
-   
- Overskattetakstnemndas vedtak oppfylte ikke kravet om «stutt grunngjeving» i eigedomsskattelova § 29 femte ledd. Det var også kritikkverdig at administrasjonen i saksforberedelsen i detalj hadde vist til konsekvensene for kommunens økonomi dersom det ble gitt medhold i klagen.  
-   
- Ombudsmannen ber kommunen om å behandle deler av saken på nytt.
+Ombudsmannen er enig med kommunen i at festeavtalene med alle grunneierne foruten én, var å regne som tidsubegrensede. Det var derfor etter ombudsmannens syn riktig å tilordne selskapet eiendomsskatt for grunnen til disse eiendommene. En festeavtale som var inngått med én av grunneierne, var tidsbegrenset. Ombudsmannen har her kommet til at kommunen ikke godt nok har utredet selskapets innsigelser mot å betale eiendomsskatt for den leide grunnen.  
+Overskattetakstnemndas vedtak oppfylte ikke kravet om «stutt grunngjeving» i eigedomsskattelova § 29 femte ledd. Det var også kritikkverdig at administrasjonen i saksforberedelsen i detalj hadde vist til konsekvensene for kommunens økonomi dersom det ble gitt medhold i klagen.  
+Ombudsmannen ber kommunen om å behandle deler av saken på nytt.
 
 Se oppdatering fra forvaltningen
 

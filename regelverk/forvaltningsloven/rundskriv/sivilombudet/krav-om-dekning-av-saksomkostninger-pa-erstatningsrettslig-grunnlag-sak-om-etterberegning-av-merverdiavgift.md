@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.11.2018 (sak 2017/4417).
 ## Oppsummering
 
 Saken gjelder spørsmålet om Skattedirektoratet er erstatningsansvarlig for sakskostnader som følge av uhjemlet myndighetsutøvelse i en merverdiavgiftssak der klager vant frem i rettskraftig dom i Oslo tingrett. Tingretten la til grunn at Skatt østs vedtak måtte oppheves. Retten begrunnet opphevelsen med at det var lagt til grunn uriktig forståelse av merverdiavgiftslovens regler om fradragsrett for inngående merverdiavgift ved frivillig registrering.  
-   
- Ombudsmannen mener at Skatteetatens standpunkt til rettsspørsmålet for tingretten må anses som unnskyldelig rettsvillfarelse. Derimot var det gjort mindre feil i saksbehandlingen som samlet sett medfører arbeidsgiveransvar etter reglene om kumulative feil. Ombudsmannen anbefaler at Skattedirektoratet dekker halvparten av deler av sakskostnadene påløpt for å imøtegå varsler og vedtak, og ber om at klagers krav om erstatning blir behandlet på nytt.
+Ombudsmannen mener at Skatteetatens standpunkt til rettsspørsmålet for tingretten må anses som unnskyldelig rettsvillfarelse. Derimot var det gjort mindre feil i saksbehandlingen som samlet sett medfører arbeidsgiveransvar etter reglene om kumulative feil. Ombudsmannen anbefaler at Skattedirektoratet dekker halvparten av deler av sakskostnadene påløpt for å imøtegå varsler og vedtak, og ber om at klagers krav om erstatning blir behandlet på nytt.
 
 Se oppdatering fra forvaltningen
 

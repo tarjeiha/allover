@@ -16,8 +16,7 @@ Sivilombudets uttalelse 14.8.2015 (sak 2015/253).
 ## Oppsummering
 
 Saken gjelder Fylkesmannen i Hordalands overprøving av en kommunes vedtak om betaling av egenandel for opphold på et sykehjem.  
-   
- Ombudsmannen har kommet til at fylkesmannen har lagt en feil forståelse av pasient- og brukerrettighetsloven § 7-6 til grunn ved vurderingen av sin egen prøvingsadgang i saken. Dette har medført at det har blitt lagt for stor vekt på hensynet til det kommunale selvstyret. Etter en samlet vurdering av den konkrete saken er det imidlertid ikke funnet grunn til å kritisere selve fastsettingen av egenandelen.
+Ombudsmannen har kommet til at fylkesmannen har lagt en feil forståelse av pasient- og brukerrettighetsloven § 7-6 til grunn ved vurderingen av sin egen prøvingsadgang i saken. Dette har medført at det har blitt lagt for stor vekt på hensynet til det kommunale selvstyret. Etter en samlet vurdering av den konkrete saken er det imidlertid ikke funnet grunn til å kritisere selve fastsettingen av egenandelen.
 
 ## Uttalelse
 

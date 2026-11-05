@@ -14,13 +14,11 @@ Sivilombudets uttalelse 28.6.2018 (sak 2017/1836).
 
 ## Oppsummering
 
-Saken gjelder en kommunes klagebehandling av en sak om parkeringstillatelse for forflytningshemmede.   
- Kommunen brøt kommunelovens habilitetsregel når saksbehandler for vedtaket i første instans også deltok i klageinstansens behandling av saken, ved at hun utarbeidet saksfremlegget til klagenemnda og deltok i nemndsmøtet. Vedtaket fra nemnda oppfylte heller ikke forvaltningslovens krav til begrunnelse.  
-   
- Utarbeidelse av saksfremlegg må anses som en del av klageinstansens arbeid med saken, og må utføres av en saksbehandler som regnes som en del av klageinstansen. Når saksfremlegget i denne saken likevel ble utarbeidet av førsteinstansens saksbehandler, skulle det vært sendt kopi til klager etter bestemmelsen i forvaltningsloven § 33 fjerde ledd annet punktum.   
- På bakgrunn av saksbehandlingsfeilene ba ombudsmannen klagenemnda om å behandle saken på nytt.  
-   
- Ombudsmannen ba også kommunen vurdere om det i fremtiden er nødvendig å skriftliggjøre de viktigste rutinene for behandlingen av søknader om parkeringstillatelse for forflytningshemmede.
+Saken gjelder en kommunes klagebehandling av en sak om parkeringstillatelse for forflytningshemmede.  
+Kommunen brøt kommunelovens habilitetsregel når saksbehandler for vedtaket i første instans også deltok i klageinstansens behandling av saken, ved at hun utarbeidet saksfremlegget til klagenemnda og deltok i nemndsmøtet. Vedtaket fra nemnda oppfylte heller ikke forvaltningslovens krav til begrunnelse.  
+Utarbeidelse av saksfremlegg må anses som en del av klageinstansens arbeid med saken, og må utføres av en saksbehandler som regnes som en del av klageinstansen. Når saksfremlegget i denne saken likevel ble utarbeidet av førsteinstansens saksbehandler, skulle det vært sendt kopi til klager etter bestemmelsen i forvaltningsloven § 33 fjerde ledd annet punktum.  
+På bakgrunn av saksbehandlingsfeilene ba ombudsmannen klagenemnda om å behandle saken på nytt.  
+Ombudsmannen ba også kommunen vurdere om det i fremtiden er nødvendig å skriftliggjøre de viktigste rutinene for behandlingen av søknader om parkeringstillatelse for forflytningshemmede.
 
 Se oppdatering fra forvaltningen
 

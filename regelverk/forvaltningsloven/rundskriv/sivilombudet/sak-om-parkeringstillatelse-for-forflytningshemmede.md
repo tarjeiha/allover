@@ -15,8 +15,7 @@ Sivilombudets uttalelse 27.11.2020 (sak 2020/2503).
 ## Oppsummering
 
 Saken gjelder en kommunes avslag på en søknad om fornyelse av parkeringstillatelse for forflytningshemmede. Ombudsmannen undersøkte om kommunen hadde foretatt en helhetlig vurdering av klagerens situasjon, hvor det også var sett hen til hvordan klagerens psykiske helseutfordringer påvirker hans forflytningsevne.  
-   
- Ombudsmannen har ikke funnet grunnlag for å konkludere med at kommunen har sett bort fra klagerens psykiske helseutfordringer i sin helhetsvurdering av saken. Det burde imidlertid gått frem av klagenemndas begrunnelse at alle klagerens helseutfordringer, og hvordan de påvirker hans forflytningsevne, var vurdert.
+Ombudsmannen har ikke funnet grunnlag for å konkludere med at kommunen har sett bort fra klagerens psykiske helseutfordringer i sin helhetsvurdering av saken. Det burde imidlertid gått frem av klagenemndas begrunnelse at alle klagerens helseutfordringer, og hvordan de påvirker hans forflytningsevne, var vurdert.
 
 ## Sakens bakgrunn
 

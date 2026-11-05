@@ -14,11 +14,9 @@ Sivilombudets uttalelse 30.8.2023 (sak 2022/5348).
 
 ## Oppsummering
 
-Saken gjelder tolkningen av en reguleringsplan for utbygging av fem tomter i Nesodden kommune.   
-   
- Statsforvalteren i Oslo og Viken stadfestet Nesodden kommunes vedtak om rammetillatelser for oppføring av to eneboliger på hver av de fem tomtene i planområdet. Spørsmålet var om reguleringsplanen inneholdt en begrensning på én enebolig per tomt, slik at søknadene om rammetillatelsene for to eneboliger per tomt skulle vært avslått.  
-   
- Ombudet er kommet til at tolkningen av reguleringsplanen som Statsforvalteren gjorde var mangelfull. Statsforvalteren unnlot å vurdere flere relevante tolkningsfaktorer, fordi Statsforvalteren mente at ordlyden alene måtte legges til grunn. Etter en samlet vurdering av de innsendte dokumentene i saken, mener ombudet at reguleringsplanen inneholder en begrensning om én enebolig per tomt. Ombudet ba derfor Statsforvalteren om å vurdere saken på nytt.
+Saken gjelder tolkningen av en reguleringsplan for utbygging av fem tomter i Nesodden kommune.  
+Statsforvalteren i Oslo og Viken stadfestet Nesodden kommunes vedtak om rammetillatelser for oppføring av to eneboliger på hver av de fem tomtene i planområdet. Spørsmålet var om reguleringsplanen inneholdt en begrensning på én enebolig per tomt, slik at søknadene om rammetillatelsene for to eneboliger per tomt skulle vært avslått.  
+Ombudet er kommet til at tolkningen av reguleringsplanen som Statsforvalteren gjorde var mangelfull. Statsforvalteren unnlot å vurdere flere relevante tolkningsfaktorer, fordi Statsforvalteren mente at ordlyden alene måtte legges til grunn. Etter en samlet vurdering av de innsendte dokumentene i saken, mener ombudet at reguleringsplanen inneholder en begrensning om én enebolig per tomt. Ombudet ba derfor Statsforvalteren om å vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 
@@ -141,7 +139,7 @@ Illustrasjonen sammenholdt med de omtalte punktene taler etter ombudets mening f
 Det følger av plan- og bygningsloven § 4-3 at kommunen skal påse at det gjennomføres en risiko- og sårbarhetsanalyse (ROS-analyse) for planområdet. I ROS-analysen datert 12. februar 2012, som ligger tilgjengelig i kommunens innsynsløsning for reguleringsplanen står følgende på side 1:
 
 «Kort situasjonsbeskrivelse  
- Reguleringsplanforslaget omfatter plan for oppføring av 5 nye boliger.»
+Reguleringsplanforslaget omfatter plan for oppføring av 5 nye boliger.»
 
 Under punktet for infrastruktur på side 2 står følgende:
 
@@ -166,7 +164,7 @@ Ombudet har også fått oversendt kopi av en e-post 16. oktober 2012 fra arkitek
 Ombudet har også fått tilsendt en e-post sendt samme dag fra arkitekten til virksomhetslederen i kommunen, hvor det står:
 
 «Hei igjen. Til INFO. Følgende tekst er sendt tiltakshaver for GODKJENNING. Fikk OK akkurat nå. (…) Eier av Vesleskauen 18 henvendte seg ved A AS til Nesodden kommune med anmodning om samtykke til å utarbeide reguleringsplan for 7 boliger på eiendommen. (…) Vi inviterte beboerne langsetter Stokkandveien, Vesleskauen og Bergerstien til et orienterings- og diskusjonsmøte tirsdag 26. juni 2012 på Eklund seniorsenter (16 møtte).  
- 1. Vi fremla ulike planalternativ. I alle alternativene hadde vi redusert antall boliger fra 7 til 5 og innført fellesareal.»
+1. Vi fremla ulike planalternativ. I alle alternativene hadde vi redusert antall boliger fra 7 til 5 og innført fellesareal.»
 
 Det er uklart for ombudet hvem som har mottatt epostene og i hvilke sammenhenger de er sendt. Ombudet er derfor tilbakeholden med å vektlegge formuleringene i epostene i tolkningen av planen. Ombudet har imidlertid merket seg at innholdet gir anvisning på samme utbyggingsomfang som ROS-analysen og de siterte punktene i plan- og tiltaksbeskrivelsen, og på den måten støtter de øvrige plandokumentene som taler for at planen innebærer en begrensning på fem eneboliger.
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 19.6.2024 (sak 2024/221).
 ## Oppsummering
 
 X kommune innvilget en søknad om dispensasjon fra arealformålet LNF for oppføring av en garasje med en boenhet på søkerens tomt. Etter klage fra en nabo, omgjorde Statsforvalteren vedtaket og avslo søknaden begrunnet i at det ikke forelå en klar overvekt av fordeler ved dispensasjonen. Søkeren ba om omgjøring, og viste til at formålet med garasjen med boenhet var å skape en trygg bolig for datteren, som hadde fylt 18 år og har Downs syndrom.  
-   
- Sivilombudet uttalte at visse typer sosialmedisinske, personlige og menneskelige hensyn kan få avgjørende vekt i en dispensasjonsvurdering. Ombudet mente at det forelå slike helt spesielle hensyn som måtte få betydelig vekt i denne saken, både ut fra klagerens datters spesielle helsesituasjon og i lys av hennes rettigheter etter CRPD. I vedtaket hadde Statsforvalteren i liten grad beskrevet hvilke konkrete ulemper som gjorde seg gjeldende i saken og hvilken vekt disse hadde. Samlet sett var det tvilsomt om det var en riktig konklusjon at fordelene ikke var klart større enn ulempene i saken.  
-   
- Ombudet uttalte også at kravet til god forvaltningsskikk tilsa at Statsforvalteren skulle ha synliggjort hvilke vurderinger som ble gjort knyttet til CRPD da de behandlet omgjøringsbegjæringen.  
-   
- Statsforvalteren ble bedt om å behandle saken på nytt og å merke seg ombudets syn i fremtidige saker.
+Sivilombudet uttalte at visse typer sosialmedisinske, personlige og menneskelige hensyn kan få avgjørende vekt i en dispensasjonsvurdering. Ombudet mente at det forelå slike helt spesielle hensyn som måtte få betydelig vekt i denne saken, både ut fra klagerens datters spesielle helsesituasjon og i lys av hennes rettigheter etter CRPD. I vedtaket hadde Statsforvalteren i liten grad beskrevet hvilke konkrete ulemper som gjorde seg gjeldende i saken og hvilken vekt disse hadde. Samlet sett var det tvilsomt om det var en riktig konklusjon at fordelene ikke var klart større enn ulempene i saken.  
+Ombudet uttalte også at kravet til god forvaltningsskikk tilsa at Statsforvalteren skulle ha synliggjort hvilke vurderinger som ble gjort knyttet til CRPD da de behandlet omgjøringsbegjæringen.  
+Statsforvalteren ble bedt om å behandle saken på nytt og å merke seg ombudets syn i fremtidige saker.
 
 ## Sakens bakgrunn
 

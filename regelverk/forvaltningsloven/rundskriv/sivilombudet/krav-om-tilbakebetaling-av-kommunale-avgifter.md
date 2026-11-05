@@ -15,10 +15,8 @@ Sivilombudets uttalelse 22.6.2020 (sak 2019/4087).
 ## Oppsummering
 
 Saken gjelder krav om tilbakebetaling av kommunale vann- og avløpsgebyrer. Sola kommune innvilget kravet delvis ved at det ble tilbakebetalt for mye innbetalte avgifter tre år tilbake i tid. Kommunen viste til at tilbakebetalingen var foretatt av rimelighetshensyn og at det ikke forelå rettskrav på tilbakebetaling.  
-   
- Ombudsmannen er kommet til at klagenemndas begrunnelse og kommunens saksforberedelse ikke tilfredsstiller forvaltningslovens krav. Videre er ombudsmannen kommet til at klager har innbetalt for mye i vann- og avløpsgebyr siden 1990.  
-   
- Klagenemnda bes om å behandle klagen på nytt, herunder vurdere klagerens anførsler om foreldelse og krav om renter.
+Ombudsmannen er kommet til at klagenemndas begrunnelse og kommunens saksforberedelse ikke tilfredsstiller forvaltningslovens krav. Videre er ombudsmannen kommet til at klager har innbetalt for mye i vann- og avløpsgebyr siden 1990.  
+Klagenemnda bes om å behandle klagen på nytt, herunder vurdere klagerens anførsler om foreldelse og krav om renter.
 
 ## Sakens bakgrunn
 

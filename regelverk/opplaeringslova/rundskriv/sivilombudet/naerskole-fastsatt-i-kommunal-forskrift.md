@@ -16,10 +16,8 @@ Sivilombudets uttalelse 28.6.2022 (sak 2022/2900).
 ## Oppsummering
 
 Saken gjelder hvilken skole som er elevens nærskole etter opplæringslova § 8-1 første ledd og kommunens forskrift om skoletilhørighet. Klageren søkte om skoleplass for sin sønn på det hun mente var sønnens nærskole. Kommunen og Statsforvalteren avslo søknaden. Senere tok klageren opp med Statsforvalteren at den kommunale forskriften sa at den aktuelle skolen var nærskolen for området der sønnen bodde. Statsforvalteren svarte at det var en feil i forskriftsteksten, og at forskriftens forarbeider og kommunens praksis måtte føre til at sønnen fikk en annen nærskole enn det forskriftsteksten skulle tilsi.  
-   
- Sivilombudet er kommet til at skolen klageren søkte om plass på er sønnens nærskole, slik at han har rett til å begynne på denne skolen. Den klare forskriftsteksten veier tyngre enn forarbeidene og kommunens praksis. Videre mener ombudet at Statsforvalteren ikke gjorde en tilstrekkelig individuell og konkret vurdering av hensynet til barnets beste i sin vurdering etter opplæringslova § 8-1 tredje ledd.  
-   
- Ombudet ber Statsforvalteren om å behandle saken på nytt.
+Sivilombudet er kommet til at skolen klageren søkte om plass på er sønnens nærskole, slik at han har rett til å begynne på denne skolen. Den klare forskriftsteksten veier tyngre enn forarbeidene og kommunens praksis. Videre mener ombudet at Statsforvalteren ikke gjorde en tilstrekkelig individuell og konkret vurdering av hensynet til barnets beste i sin vurdering etter opplæringslova § 8-1 tredje ledd.  
+Ombudet ber Statsforvalteren om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

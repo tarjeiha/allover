@@ -15,8 +15,7 @@ Sivilombudets uttalelse 15.10.2019 (sak 2019/1296).
 ## Oppsummering
 
 Saken gjelder Navs lovforståelse i en sak om gjeldsoppgjør når et folketrygdfinansiert kjøretøy blir erstattet av et nytt ved inngåelse av en leasingavtale. Etter at det opprinnelige kjøretøyet fikk behov for kostbare reparasjoner, valgte klager å erstatte bilen med en leasingbil. Dette kunne etter Nav og Trygderettens vurdering ikke anses som en gjenanskaffelse av kjøretøy etter regelverket, og noe av stønaden måtte tilbakebetales.  
-   
- Selv om klager i praksis har disponert bil i dagliglivet og i samsvar med hensynet bak stønadstildelingen, er ombudsmannen enig i at leasing ikke er gjenanskaffelse av kjøretøy etter bilstønadsforskriften. Nav hadde dermed rett til å kreve gjeldsoppgjør.
+Selv om klager i praksis har disponert bil i dagliglivet og i samsvar med hensynet bak stønadstildelingen, er ombudsmannen enig i at leasing ikke er gjenanskaffelse av kjøretøy etter bilstønadsforskriften. Nav hadde dermed rett til å kreve gjeldsoppgjør.
 
 ## Sakens bakgrunn
 

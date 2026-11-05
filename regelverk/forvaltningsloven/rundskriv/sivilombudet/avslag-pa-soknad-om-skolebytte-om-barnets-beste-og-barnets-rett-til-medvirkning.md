@@ -15,10 +15,8 @@ Sivilombudets uttalelse 3.6.2025 (sak 2025/588).
 ## Oppsummering
 
 Saken gjelder søknad om skolebytte for en elev med hørselsvansker. Statsforvalteren hadde konkludert med at det var best for eleven å gå på nærskolen, selv om både han og foreldrene mente at det var best at han gikk på en annen skole.  
-   
- Sivilombudet er kommet til at Statsforvalteren ikke har utredet saken tilstrekkelig til å kunne konkludere med at det var best for eleven å gå på nærskolen. Etter ombudets syn knyttet det seg også tvil til Statsforvalterens avveining av de ulike momentene i barnets beste-vurdering.  
-   
- Elevens syn på reiseveien var ikke tilstrekkelig klarlagt og det var også usikkerhet knyttet til elevens opplæringsbehov. Etter ombudets syn var det i et slikt tilfelle ikke grunnlag for å legge utslagsgivende vekt på at reiseveien ville utgjøre en belastning for ham ved avveiningen av hva som var til barnets beste. Ombudet har bedt Statsforvalteren behandle saken på nytt.
+Sivilombudet er kommet til at Statsforvalteren ikke har utredet saken tilstrekkelig til å kunne konkludere med at det var best for eleven å gå på nærskolen. Etter ombudets syn knyttet det seg også tvil til Statsforvalterens avveining av de ulike momentene i barnets beste-vurdering.  
+Elevens syn på reiseveien var ikke tilstrekkelig klarlagt og det var også usikkerhet knyttet til elevens opplæringsbehov. Etter ombudets syn var det i et slikt tilfelle ikke grunnlag for å legge utslagsgivende vekt på at reiseveien ville utgjøre en belastning for ham ved avveiningen av hva som var til barnets beste. Ombudet har bedt Statsforvalteren behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

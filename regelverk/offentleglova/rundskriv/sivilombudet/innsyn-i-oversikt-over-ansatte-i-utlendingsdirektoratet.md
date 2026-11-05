@@ -15,10 +15,8 @@ Sivilombudets uttalelse 27.6.2022 (sak 2022/1057).
 ## Oppsummering
 
 Saken gjaldt innsyn i en oversikt over ansatte i Utlendingsdirektoratet, inkludert opplysninger om den enkeltes stillingstittel, avdelingstilhørighet, dato for ansettelse i nåværende stilling, samt ansiennitet. Utlendingsdirektoratet unntok navn på de ansatte i oversikten det ble gitt innsyn i, med unntak for ledere navngitt på direktoratets hjemmeside. Justis- og beredskapsdepartementet stadfestet Utlendingsdirektoratets avgjørelse under henvisning til at innsyn vil lette gjennomføringen av straffbare handlinger eller utsette enkeltpersoner for fare.  
-   
- Ombudet kom til at det var begrunnet tvil om vilkårene for unntak etter offentleglova § 24 tredje ledd var oppfylt. Det var uklart hvorvidt navn på ansatte i Utlendingsdirektoratet var en opplysning som kan lette gjennomføringen av straffbare handlinger. Med den begrunnelsen Justis- og beredskapsdepartementet ga var det også tvil om unntak var påkrevd. Det forelå videre tvil om det var en konkret og nærliggende fare for at enkeltpersoner vil utsettes for fare dersom navn på ansatte i direktoratet offentliggjøres.  
-   
- Ombudet ba Justis- og beredskapsdepartementet om å behandle saken på nytt.
+Ombudet kom til at det var begrunnet tvil om vilkårene for unntak etter offentleglova § 24 tredje ledd var oppfylt. Det var uklart hvorvidt navn på ansatte i Utlendingsdirektoratet var en opplysning som kan lette gjennomføringen av straffbare handlinger. Med den begrunnelsen Justis- og beredskapsdepartementet ga var det også tvil om unntak var påkrevd. Det forelå videre tvil om det var en konkret og nærliggende fare for at enkeltpersoner vil utsettes for fare dersom navn på ansatte i direktoratet offentliggjøres.  
+Ombudet ba Justis- og beredskapsdepartementet om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

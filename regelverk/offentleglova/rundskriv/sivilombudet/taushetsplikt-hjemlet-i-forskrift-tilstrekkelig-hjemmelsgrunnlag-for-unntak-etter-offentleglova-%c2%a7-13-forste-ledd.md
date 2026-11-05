@@ -16,10 +16,8 @@ Sivilombudets uttalelse 22.9.2025 (sak 2025/3014).
 ## Oppsummering
 
 Saken gjelder innsyn i en rapport om dambruddsbølgeberegninger for dam Nybusjøen i Hamar kommune. Dokumentet ble unntatt fra innsyn i medhold av offentleglova § 13 første ledd, jf. damsikkerhetsforskriften § 7-8. Spørsmålet i saken var om taushetspliktbestemmelsen i damsikkerhetsforskriften var hjemlet i, eller i medhold av, lov.  
-   
- Sivilombudet kom til at taushetsplikten i damsikkerhetsforskriften ikke er hjemlet i lov, og at den således ikke kan hjemle unntak fra innsyn etter offentleglova § 13 første ledd.   
-   
- Ombudet ba Statsforvalteren i Innlandet om å behandle saken på nytt.
+Sivilombudet kom til at taushetsplikten i damsikkerhetsforskriften ikke er hjemlet i lov, og at den således ikke kan hjemle unntak fra innsyn etter offentleglova § 13 første ledd.  
+Ombudet ba Statsforvalteren i Innlandet om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

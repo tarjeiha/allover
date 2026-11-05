@@ -14,9 +14,8 @@ Sivilombudets uttalelse 16.12.2022 (sak 2022/4160).
 
 ## Oppsummering
 
-Under behandlingen av en anke til Trygderetten kom Nav Klageinstans til at saken ikke var tilstrekkelig opplyst, og besluttet at den skulle sendes tilbake til Nav Arbeid og ytelser for ny behandling. Saken ble ikke undergitt noen form for prioritering, men ble behandlet som en ny sak i underinstansen. Klageren henvendte seg til Sivilombudet, og viste til at den samlede saksbehandlingstiden var lang og at saken burde prioriteres.   
-   
- Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet som ble spurt om Navs rutiner for å prioritere saker som ble hjemsendt fra Nav Klageinstans. Direktoratet var enig i at hjemsendte saker skulle prioriteres, og at det var beklagelig at dette ikke ble gjort i saken ombudet tok opp. Direktoratet vil orientere Nav Arbeid og ytelser, Nav Familie- og pensjonsytelser og Nav Klageinstans for å sikre at rutiner for prioritering av hjemsendte saker er på plass og blir fulgt.
+Under behandlingen av en anke til Trygderetten kom Nav Klageinstans til at saken ikke var tilstrekkelig opplyst, og besluttet at den skulle sendes tilbake til Nav Arbeid og ytelser for ny behandling. Saken ble ikke undergitt noen form for prioritering, men ble behandlet som en ny sak i underinstansen. Klageren henvendte seg til Sivilombudet, og viste til at den samlede saksbehandlingstiden var lang og at saken burde prioriteres.  
+Sivilombudet tok saken opp med Arbeids- og velferdsdirektoratet som ble spurt om Navs rutiner for å prioritere saker som ble hjemsendt fra Nav Klageinstans. Direktoratet var enig i at hjemsendte saker skulle prioriteres, og at det var beklagelig at dette ikke ble gjort i saken ombudet tok opp. Direktoratet vil orientere Nav Arbeid og ytelser, Nav Familie- og pensjonsytelser og Nav Klageinstans for å sikre at rutiner for prioritering av hjemsendte saker er på plass og blir fulgt.
 
 ## Sakens bakgrunn
 

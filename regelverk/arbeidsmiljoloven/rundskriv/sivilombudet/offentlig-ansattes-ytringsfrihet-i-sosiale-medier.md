@@ -14,13 +14,10 @@ Sivilombudets uttalelse 15.11.2023 (sak 2023/2202).
 
 ## Oppsummering
 
-Saken gjelder en kommunes håndtering av en ansatt sin ytring i sosiale medier.   
-   
- Sivilombudet er kommet til at kommunen krenket den ansattes ytringsfrihet først ved at formannskapet i kommunen vedtok å ta avstand fra den ansattes ytringsform, uten å først å ha avklart om ytringen lå innenfor det en ansatt har adgang til å ytre seg om. Deretter ved at kommunens ordfører uttalte seg til media på en slik måte at det kunne fremstå som at hun ikke burde ha uttalt seg på den måten hun gjorde.  
-   
- Videre ble den ansattes ytringsfrihet fortsatt krenket ved at kommunens administrasjon kalte henne inn til et møte om saken for å drøfte ytringen med henne, samt oppfordret henne til å unngå å ytre seg på en slik måte på et senere tidspunkt. At kommunens administrasjon opprettholdt møteinnkallingen og gjennomførte møtet med det innholdet det hadde, fremfor å erkjenne at ytringen var legitim også i form og forum, fremstår som utilbørlig opptreden fra arbeidsgivers side.  
-   
- Ombudet ber kommunen gjøre det klart for den ansatte at ytringen hennes var legitim, også i form og forum, gjøre nødvendige endringer i det interne reglementet og beklage håndteringen av saken.
+Saken gjelder en kommunes håndtering av en ansatt sin ytring i sosiale medier.  
+Sivilombudet er kommet til at kommunen krenket den ansattes ytringsfrihet først ved at formannskapet i kommunen vedtok å ta avstand fra den ansattes ytringsform, uten å først å ha avklart om ytringen lå innenfor det en ansatt har adgang til å ytre seg om. Deretter ved at kommunens ordfører uttalte seg til media på en slik måte at det kunne fremstå som at hun ikke burde ha uttalt seg på den måten hun gjorde.  
+Videre ble den ansattes ytringsfrihet fortsatt krenket ved at kommunens administrasjon kalte henne inn til et møte om saken for å drøfte ytringen med henne, samt oppfordret henne til å unngå å ytre seg på en slik måte på et senere tidspunkt. At kommunens administrasjon opprettholdt møteinnkallingen og gjennomførte møtet med det innholdet det hadde, fremfor å erkjenne at ytringen var legitim også i form og forum, fremstår som utilbørlig opptreden fra arbeidsgivers side.  
+Ombudet ber kommunen gjøre det klart for den ansatte at ytringen hennes var legitim, også i form og forum, gjøre nødvendige endringer i det interne reglementet og beklage håndteringen av saken.
 
 Se oppdatering fra forvaltningen
 

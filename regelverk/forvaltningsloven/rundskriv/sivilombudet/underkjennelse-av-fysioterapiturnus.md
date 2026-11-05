@@ -14,11 +14,11 @@ Sivilombudets uttalelse 29.6.2018 (sak 2018/455).
 
 ## Oppsummering
 
-Saken gjelder Helseklages stadfestelse av vedtak om underkjennelse av gjennomført turnustjeneste for en fysioterapeut.   
- A, som var funksjonshemmet, hadde vært i praksis i spesialisthelsetjenesten i to semestre da Helsedirektoratet fattet vedtak om underkjenning av praksisen. Hun hadde da påbegynt praksis i kommunal helsetjeneste, men måtte avslutte denne fordi direktoratet samtidig tilbakekalte lisensen.   
- I klagen til ombudsmannen viste A til at hun først ved turnusperiodens slutt fikk beskjed om at det var aktuelt fra turnusstedets side å underkjenne praksisen. Klageren opplyste at det hadde vært et vanskelig samarbeid med turnusstedet, der hun blant annet opplevde manglende forståelse for de tilretteleggingene hun hadde behov for som funksjonshemmet.   
- Ombudsmannen kritiserte saksbehandlingen, og uttalte også at turnusstedets tilrettelegging for turnusperioden ikke hadde vært i tråd med forskrift om praktisk tjeneste (turnustjeneste) for få autorisasjon som fysioterapeut §§ 13 og 14 med tilhørende retningslinjer. Saken var som følge av dette for dårlig opplyst til å fatte vedtak om underkjenning av turnus, både i førsteinstansen og ved Helseklages stadfestelse. Helseklages saksbehandling utgjorde bl.a. et brudd på utredningsplikten som følger av forvaltningsloven § 17.   
- Som følge av påpekte feil var det «begrunnet tvil», jf. ombudsmannsloven § 10 annet ledd, om Helseklages vedtak om underkjenning av turnus og tilbakekall av lisens var riktig, og Helseklage ble bedt om å behandle As klage på nytt.
+Saken gjelder Helseklages stadfestelse av vedtak om underkjennelse av gjennomført turnustjeneste for en fysioterapeut.  
+A, som var funksjonshemmet, hadde vært i praksis i spesialisthelsetjenesten i to semestre da Helsedirektoratet fattet vedtak om underkjenning av praksisen. Hun hadde da påbegynt praksis i kommunal helsetjeneste, men måtte avslutte denne fordi direktoratet samtidig tilbakekalte lisensen.  
+I klagen til ombudsmannen viste A til at hun først ved turnusperiodens slutt fikk beskjed om at det var aktuelt fra turnusstedets side å underkjenne praksisen. Klageren opplyste at det hadde vært et vanskelig samarbeid med turnusstedet, der hun blant annet opplevde manglende forståelse for de tilretteleggingene hun hadde behov for som funksjonshemmet.  
+Ombudsmannen kritiserte saksbehandlingen, og uttalte også at turnusstedets tilrettelegging for turnusperioden ikke hadde vært i tråd med forskrift om praktisk tjeneste (turnustjeneste) for få autorisasjon som fysioterapeut §§ 13 og 14 med tilhørende retningslinjer. Saken var som følge av dette for dårlig opplyst til å fatte vedtak om underkjenning av turnus, både i førsteinstansen og ved Helseklages stadfestelse. Helseklages saksbehandling utgjorde bl.a. et brudd på utredningsplikten som følger av forvaltningsloven § 17.  
+Som følge av påpekte feil var det «begrunnet tvil», jf. ombudsmannsloven § 10 annet ledd, om Helseklages vedtak om underkjenning av turnus og tilbakekall av lisens var riktig, og Helseklage ble bedt om å behandle As klage på nytt.
 
 ## Sakens bakgrunn
 

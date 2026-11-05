@@ -15,8 +15,7 @@ Sivilombudets uttalelse 28.4.2020 (sak 2019/4697).
 ## Oppsummering
 
 Saken gjelder en klage over saksbehandlingen, herunder manglende utredning og manglende adgang til kontradiksjon, i forbindelse med ansettelse av kommunalsjef for Y i X kommune.  
-   
- Kommunens behandling av klageren synes ikke å være i samsvar med god forvaltningsskikk. At det bare ble hentet inn referanser på ham, ikke andre kandidater som ble vurdert kalt inn til intervju, før det ble besluttet at han ikke skulle intervjues, var her i strid med likebehandlingsprinsippet. Det er også en mangel ved saksbehandlingen at klageren ikke er blitt gitt mulighet til kontradiksjon. Saken synes heller ikke å ha vært tilstrekkelig opplyst før det ble fattet vedtak om ansettelse, jf. forvaltningsloven § 17. Kommunen ble derfor bedt om å vurdere å gi klager en beklagelse for manglende likebehandling og kontradiksjon i ansettelsesprosessen.
+Kommunens behandling av klageren synes ikke å være i samsvar med god forvaltningsskikk. At det bare ble hentet inn referanser på ham, ikke andre kandidater som ble vurdert kalt inn til intervju, før det ble besluttet at han ikke skulle intervjues, var her i strid med likebehandlingsprinsippet. Det er også en mangel ved saksbehandlingen at klageren ikke er blitt gitt mulighet til kontradiksjon. Saken synes heller ikke å ha vært tilstrekkelig opplyst før det ble fattet vedtak om ansettelse, jf. forvaltningsloven § 17. Kommunen ble derfor bedt om å vurdere å gi klager en beklagelse for manglende likebehandling og kontradiksjon i ansettelsesprosessen.
 
 ## Sakens bakgrunn
 

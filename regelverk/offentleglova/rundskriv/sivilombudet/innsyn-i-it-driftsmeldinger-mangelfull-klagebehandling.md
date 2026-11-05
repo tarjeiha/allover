@@ -16,8 +16,7 @@ Sivilombudets uttalelse 5.12.2019 (sak 2019/3186).
 ## Oppsummering
 
 Saken gjelder krav om innsyn i driftsmeldinger om Bodø kommunes IT-system. Kommunen avslo kravet med henvisning til at dokumentene ikke var saksdokumenter etter offentleglova § 4. Fylkesmannen i Nordland stadfestet kommunens avslag, uten å ha tilgang til dokumentene det var bedt om innsyn i.  
-   
- Ombudsmannen er kommet til at det er begrunnet tvil om hvorvidt saken var tilstrekkelig opplyst ved klagebehandlingen. For å kunne ta stilling til innsynskravet må Fylkesmannen som klageinstans gjennomgå og vurdere dokumentene kravet gjelder. Fylkesmannen kan ikke bygge vurderingen på underinstansens redegjørelse. Videre mener ombudsmannen at dokumentene vanskelig kan unntas som organinterne dokumenter. Ombudsmannen ber Fylkesmannen vurdere saken på nytt.
+Ombudsmannen er kommet til at det er begrunnet tvil om hvorvidt saken var tilstrekkelig opplyst ved klagebehandlingen. For å kunne ta stilling til innsynskravet må Fylkesmannen som klageinstans gjennomgå og vurdere dokumentene kravet gjelder. Fylkesmannen kan ikke bygge vurderingen på underinstansens redegjørelse. Videre mener ombudsmannen at dokumentene vanskelig kan unntas som organinterne dokumenter. Ombudsmannen ber Fylkesmannen vurdere saken på nytt.
 
 ## Sakens bakgrunn
 

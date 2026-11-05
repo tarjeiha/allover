@@ -15,12 +15,9 @@ Sivilombudets uttalelse 20.5.2021 (sak 2020/4469).
 ## Oppsummering
 
 Etter at en kvinne med psykisk lidelse hadde angrepet en ansatt ved den lokale butikken, besluttet en kommuneoverlege at kvinnen skulle bli undersøkt av en lege med tvang for å bringe på det rene om lovens vilkår for tvungent psykisk helsevern var oppfylt. Pasientens far (klageren) klaget på kommuneoverlegens vedtak, blant annet fordi verken han eller pasienten hadde fått anledning til å uttale seg om tvangsbruken før vedtaket ble fattet.  
-   
- Statsforvalteren konkluderte med at det i denne saken var anledning til å fravike regelen om at uttalelse fra pasienten og nærmeste pårørende skal innhentes før vedtak treffes. Fylkesmannen viste til at pasienten unndro seg legeundersøkelse tidligere samme dag, og at det forelå et umiddelbart behov for å undersøke pasienten.  
-   
- Ombudsmannen ber Statsforvalteren om å behandle saken på nytt. Ved den nye behandlingen må Statsforvalteren ta utgangspunkt i at pasienten og nærmeste pårørende har rett til å uttale seg før det treffes vedtak om tvungen legeundersøkelse etter psykisk helsevernloven § 3-1. Dersom Statsforvalteren mener det var adgang til å gjøre unntak fra retten til å uttale seg i denne saken, må de vise til det rettslige grunnlaget for dette og for øvrig begrunne unntaket i tråd med kravene i forvaltningsloven § 25 og alminnelige regler om forsvarlig saksbehandling.  
-   
- Ombudsmannen mener at Statsforvalteren skulle ha behandlet saken som en klagesak etter psykisk helsevernloven § 3-1 tredje ledd, og ikke som en anmodning om vurdering av pliktbrudd etter pasient- og brukerrettighetsloven § 7-4.
+Statsforvalteren konkluderte med at det i denne saken var anledning til å fravike regelen om at uttalelse fra pasienten og nærmeste pårørende skal innhentes før vedtak treffes. Fylkesmannen viste til at pasienten unndro seg legeundersøkelse tidligere samme dag, og at det forelå et umiddelbart behov for å undersøke pasienten.  
+Ombudsmannen ber Statsforvalteren om å behandle saken på nytt. Ved den nye behandlingen må Statsforvalteren ta utgangspunkt i at pasienten og nærmeste pårørende har rett til å uttale seg før det treffes vedtak om tvungen legeundersøkelse etter psykisk helsevernloven § 3-1. Dersom Statsforvalteren mener det var adgang til å gjøre unntak fra retten til å uttale seg i denne saken, må de vise til det rettslige grunnlaget for dette og for øvrig begrunne unntaket i tråd med kravene i forvaltningsloven § 25 og alminnelige regler om forsvarlig saksbehandling.  
+Ombudsmannen mener at Statsforvalteren skulle ha behandlet saken som en klagesak etter psykisk helsevernloven § 3-1 tredje ledd, og ikke som en anmodning om vurdering av pliktbrudd etter pasient- og brukerrettighetsloven § 7-4.
 
 Se oppdatering fra forvaltningen
 

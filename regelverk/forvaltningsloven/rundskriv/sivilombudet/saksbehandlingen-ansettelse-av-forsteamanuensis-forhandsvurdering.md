@@ -16,10 +16,8 @@ Sivilombudets uttalelse 24.10.2022 (sak 2022/2508).
 ## Oppsummering
 
 Saken gjelder saksbehandlingen ved ansettelse av førsteamanuensis ved et universitet. Klagerens søknad ble ikke behandlet etter ordinær prosedyre. På bakgrunn av informasjon om at klageren tidligere var avskjediget ved dom fra tilsvarende stilling ved en annen institusjon, vurderte universitetet ham som ukvalifisert uten at hans faglige kvalifikasjoner ble bedømt. Klageren mente at det ikke var adgang til slik forhåndsvurdering.  
-   
- Ombudet kom til at det i visse tilfeller er anledning til å forhåndsvurdere søkere til vitenskapelige stillinger, men at det er snevre rammer for når dette kan gjøres. Når årsaken til at søkeren ikke blir bedømt av en fagkyndig komite, er at søkeren anses personlig uegnet til stillingen, stilles det strenge krav til saksbehandlingen.  
-   
- Ombudet mente at Universitetet hadde bygget på dokumenterte saklige forhold i forhåndsvurderingen. Når klageren også hadde fått anledning til å uttale seg om forholdene, hadde universitetet oppfylt minimumskravene til kontradiksjon, saksutredning og forsvarlig saksbehandling for øvrig. Ombudet ba likevel universitetet om å vurdere å regulere sin praksis med forhåndsvurdering i skriftlige retningslinjer.
+Ombudet kom til at det i visse tilfeller er anledning til å forhåndsvurdere søkere til vitenskapelige stillinger, men at det er snevre rammer for når dette kan gjøres. Når årsaken til at søkeren ikke blir bedømt av en fagkyndig komite, er at søkeren anses personlig uegnet til stillingen, stilles det strenge krav til saksbehandlingen.  
+Ombudet mente at Universitetet hadde bygget på dokumenterte saklige forhold i forhåndsvurderingen. Når klageren også hadde fått anledning til å uttale seg om forholdene, hadde universitetet oppfylt minimumskravene til kontradiksjon, saksutredning og forsvarlig saksbehandling for øvrig. Ombudet ba likevel universitetet om å vurdere å regulere sin praksis med forhåndsvurdering i skriftlige retningslinjer.
 
 [I avsnittene 36 og 40 er deler av teksten utelatt i forbindelse med publisering. Teksten som er tatt bort beskriver personlige forhold.]
 

@@ -16,14 +16,10 @@ Sivilombudets uttalelse 28.8.2025 (sak 2025/949).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak undersøkt saksbehandlingstiden hos Statsforvalteren i Møre og Romsdal i saker om innsyn etter offentleglova.  
-   
- Innsynskrav som behandles av Statsforvalterens servicekontor synes stort sett å bli behandlet i tråd med offentleglovas krav til saksbehandlingstid. Saksbehandlingstiden i andre seksjoner er i flere tilfeller for lang og ikke i tråd med kravet om at en sak skal avgjøres «utan ugrunna opphald», jf. offentleglova § 29 første ledd annet punktum.   
-   
- Saksbehandlingstiden i klagesaker er for lang og ikke i tråd med kravet til at klager skal avgjøres «utan ugrunna opphald» i offentleglova § 32 tredje ledd.  
-   
- Ombudet anbefaler Statsforvalteren å omtale krav til saksbehandlingstider i felles rutiner for behandling av innsynssaker etter offentleglova.  
-   
- Ombudet ber om en tilbakemelding innen 1. februar 2026 med status for restanser og behandlingstid for innsynskrav, forberedende klagebehandling og innsynsklager pr. 31. desember 2025.
+Innsynskrav som behandles av Statsforvalterens servicekontor synes stort sett å bli behandlet i tråd med offentleglovas krav til saksbehandlingstid. Saksbehandlingstiden i andre seksjoner er i flere tilfeller for lang og ikke i tråd med kravet om at en sak skal avgjøres «utan ugrunna opphald», jf. offentleglova § 29 første ledd annet punktum.  
+Saksbehandlingstiden i klagesaker er for lang og ikke i tråd med kravet til at klager skal avgjøres «utan ugrunna opphald» i offentleglova § 32 tredje ledd.  
+Ombudet anbefaler Statsforvalteren å omtale krav til saksbehandlingstider i felles rutiner for behandling av innsynssaker etter offentleglova.  
+Ombudet ber om en tilbakemelding innen 1. februar 2026 med status for restanser og behandlingstid for innsynskrav, forberedende klagebehandling og innsynsklager pr. 31. desember 2025.
 
 ## Sakens bakgrunn
 

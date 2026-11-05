@@ -15,14 +15,10 @@ Sivilombudets uttalelse 24.3.2011 (sak 2011/694).
 ## Oppsummering
 
 Etter et besøk til St. Olavs hospital, Divisjon psykisk helsevern, avdeling Brøset fant ombudsmannen grunn til å ta opp enkelte spørsmål med sykehusavdelingen. Spørsmålene gjaldt først og fremst avdelingens rutiner for og gjennomføring av rutinemessige undersøkelser av pasientenes rom, eiendeler og post m.v., og det rettslige grunnlaget for rutinene.  
-   
- Ombudsmannen konkluderte med at sykehuset i henhold til legalitetsprinsippet ikke hadde klar nok hjemmel for de inngrepene som husordensreglene la opp til. Rutinemessig gjennomgang av pasientenes rom, eiendeler og post m.v., forutsetter en endring av psykisk helsevernloven. Det ble vist til at Helsedirektoratet hadde bedt Helse- og omsorgsdepartementet om å vurdere en slik lovendring. Avdeling Brøset ble bedt om å utforme bestemmelsene i husordensreglene i tråd med psykisk helsevernloven kapittel 4 inntil en lovendring eventuelt foreligger.  
-   
- I svaret fra avdeling Brøset het det at man fant det naturlig å innarbeide/beholde prosedyrene i husordensreglene ved avdelingen, med henvisning til krav om internkontroll og prosedyrer som er tilpasset avdelingens risikoforhold. Ombudsmannen mottok ikke noen kopi av endrede husordensregler og forstod sykehusets tilbakemelding slik at endringer ikke var foretatt. Det ble derfor funnet grunn til å gjøre Helse- og omsorgsdepartementet oppmerksom på saken.  
-   
- Departementet ba Helse Midt-Norge RHF om å følge opp saken overfor St. Olavs hospital, avdeling Brøset. I tillegg ble Helsedirektoratet bedt om å vurdere om det burde gis ytterligere informasjon om husordensreglement i institusjoner innenfor psykisk helsevern i informasjonsmateriell til helsetjenesten, for å bidra til at husordensreglene og praksis er i samsvar med gjeldende regelverk.   
-   
- Ombudsmannen fikk etter hvert tilsendt endrede husordensregler fra avdeling Brøset. Ifølge sykehuset var regelverket revidert i samsvar med psykisk helsevernlovens regler etter endringene i lovens kapittel 4A, som trådte i kraft 1. juli 2012. Ombudsmannen tok dette til etterretning og avsluttet saken etter dette.
+Ombudsmannen konkluderte med at sykehuset i henhold til legalitetsprinsippet ikke hadde klar nok hjemmel for de inngrepene som husordensreglene la opp til. Rutinemessig gjennomgang av pasientenes rom, eiendeler og post m.v., forutsetter en endring av psykisk helsevernloven. Det ble vist til at Helsedirektoratet hadde bedt Helse- og omsorgsdepartementet om å vurdere en slik lovendring. Avdeling Brøset ble bedt om å utforme bestemmelsene i husordensreglene i tråd med psykisk helsevernloven kapittel 4 inntil en lovendring eventuelt foreligger.  
+I svaret fra avdeling Brøset het det at man fant det naturlig å innarbeide/beholde prosedyrene i husordensreglene ved avdelingen, med henvisning til krav om internkontroll og prosedyrer som er tilpasset avdelingens risikoforhold. Ombudsmannen mottok ikke noen kopi av endrede husordensregler og forstod sykehusets tilbakemelding slik at endringer ikke var foretatt. Det ble derfor funnet grunn til å gjøre Helse- og omsorgsdepartementet oppmerksom på saken.  
+Departementet ba Helse Midt-Norge RHF om å følge opp saken overfor St. Olavs hospital, avdeling Brøset. I tillegg ble Helsedirektoratet bedt om å vurdere om det burde gis ytterligere informasjon om husordensreglement i institusjoner innenfor psykisk helsevern i informasjonsmateriell til helsetjenesten, for å bidra til at husordensreglene og praksis er i samsvar med gjeldende regelverk.  
+Ombudsmannen fikk etter hvert tilsendt endrede husordensregler fra avdeling Brøset. Ifølge sykehuset var regelverket revidert i samsvar med psykisk helsevernlovens regler etter endringene i lovens kapittel 4A, som trådte i kraft 1. juli 2012. Ombudsmannen tok dette til etterretning og avsluttet saken etter dette.
 
 Se oppdatering fra forvaltningen
 
@@ -39,7 +35,7 @@ Det følger av legalitetsprinsippet at ethvert inngrep i borgernes frihet og ret
 Psykisk helsevernloven 2. juli 1999 nr. 62 §§ 4-5 og 4-6 hjemler undersøkelse av innkommet post, rom, eiendeler og person (kroppsvisitasjon av pasienten) når det foreligger «begrunnet mistanke» om innføring eller oppbevaring av medikamenter, rusmidler, rømningshjelpemidler eller farlige gjenstander.
 
 Redegjørelsen fra avdeling Brøset forstås slik at det foretas rutinemessig gjennomgang av pasientrom ved alle sengepostene på avdelingen. Videre er det opplyst at personalet er til stede ved åpning av pasientenes post og at innhold i PC, flyttbare lagringsmedier m.v. gjennomgås før utlevering, men at gjennomgang etter utlevering bare skjer etter  
- vedtak i henhold til psykisk helsevernloven kapittel 4. Det opplyses også at det foretas rutinemessig gjennomgang av pasientenes bagasje ved innkomst såfremt vedkommende ikke motsetter seg dette. Dersom pasienten motsetter seg slik gjennomgang får pasienten enten tilbud om å få bagasjen oppbevart eller det blir truffet vedtak etter psykisk helsevernloven § 4-6.
+vedtak i henhold til psykisk helsevernloven kapittel 4. Det opplyses også at det foretas rutinemessig gjennomgang av pasientenes bagasje ved innkomst såfremt vedkommende ikke motsetter seg dette. Dersom pasienten motsetter seg slik gjennomgang får pasienten enten tilbud om å få bagasjen oppbevart eller det blir truffet vedtak etter psykisk helsevernloven § 4-6.
 
 Den rutinemessige gjennomgangen av rommene, eiendelene og posten m.v. er begrunnet med avdelingens organisering, praktiske hensyn, pasientenes mulighet til å bevege seg fritt og det høye sikkerhetsnivået ved institusjonen.
 
@@ -48,22 +44,22 @@ Når det gjelder den nærmere redegjørelsen for hjemmelsgrunnlaget for de omtal
 Jeg har forståelse for institusjonens behov for rutinemessig gjennomgang av pasientenes rom, eiendeler og post m.v. som følge av sikkerhetsnivået og organiseringen av institusjonen. Bestemmelsene i psykisk helsevernloven er ikke nødvendigvis særlig godt egnet for å dekke de særlige behov som finnes ved en sikkerhetsavdeling. Jeg kan likevel ikke se at noen av de anførte hjemmelsgrunnlagene gir en klar nok hjemmel for de inngrep som husordensreglene legger opp til, jf. legalitetsprinsippet.
 
 Videre fremgår det av forarbeidene til psykisk helsevernloven at lovgiver helt bevisst har unnlatt å gi hjemmel for rutinemessige undersøkelser. Det vises til Ot.prp. nr. 11  
- (1998–1999) side 116, hvor det uttales:
+(1998–1999) side 116, hvor det uttales:
 
 «Departementet er kjent med at det ved akuttavdelinger ved psykiatriske institusjoner ofte rutinemessig foretas undersøkelser, blant annet av pasientens bagasje, med henblikk på å hindre at pasienten tar med seg gjenstander som kan være skadelige for pasienten selv eller for andre. Etter departementets syn er  
- dette inngrep som etter legalitetsprinsippet behøver hjemmel i lov. Departementet har i denne forbindelse vurdert om det bør gis lovhjemmel for rutinemessig kroppsvisitasjon og gjennomgang av pasientens medbrakte  
- eiendeler ved enkelte avdelinger. Etter departementets syn representerer slike tiltak en integritetskrenkelse av en slik karakter at adgangen til å iverksette tiltakene bør være så snever som mulig.
+dette inngrep som etter legalitetsprinsippet behøver hjemmel i lov. Departementet har i denne forbindelse vurdert om det bør gis lovhjemmel for rutinemessig kroppsvisitasjon og gjennomgang av pasientens medbrakte  
+eiendeler ved enkelte avdelinger. Etter departementets syn representerer slike tiltak en integritetskrenkelse av en slik karakter at adgangen til å iverksette tiltakene bør være så snever som mulig.
 
 Departementet vil på denne bakgrunn videreføre prinsippet i høringsnotatet om  
- at undersøkelse ikke skal skje rutinemessig, men at det må foreligge grunnlag  
- for mistanke om at visse typer gjenstander vil bli forsøkt ført inn i institusjonen.  
- Som når det gjelder postkontroll etter § 4-5, innebærer dette at det ikke er nok at  
- det foreligger en mulighet for innsmugling. Det må foreligge begrunnet  
- mistanke eller eventuelt konkret viten.»
+at undersøkelse ikke skal skje rutinemessig, men at det må foreligge grunnlag  
+for mistanke om at visse typer gjenstander vil bli forsøkt ført inn i institusjonen.  
+Som når det gjelder postkontroll etter § 4-5, innebærer dette at det ikke er nok at  
+det foreligger en mulighet for innsmugling. Det må foreligge begrunnet  
+mistanke eller eventuelt konkret viten.»
 
 En slik omgåelse av bestemmelsene i psykisk helsevernloven kapittel 4 som avdeling Brøset argumenterer for medfører også en svekkelse av pasientenes rettssikkerhet, slik institusjonen selv viser til i brev 27. mars 2006 til det daværende Sosial- og helsedirektoratet. I denne forbindelse er det grunn til å peke på at pasienten ved vedtak  
- etter psykisk helsevernloven §§ 4-5 eller 4-6 har muligheten til å klage til kontrollkommisjonen, jf. forvaltningsloven kapittel VI og psykisk helsevernloven kapittel 6. Slik husordensreglene ved avdeling Brøset er utformet, gir ikke den  
- rutinemessige gjennomgangen noen tilsvarende klageadgang.
+etter psykisk helsevernloven §§ 4-5 eller 4-6 har muligheten til å klage til kontrollkommisjonen, jf. forvaltningsloven kapittel VI og psykisk helsevernloven kapittel 6. Slik husordensreglene ved avdeling Brøset er utformet, gir ikke den  
+rutinemessige gjennomgangen noen tilsvarende klageadgang.
 
 En rutinemessig gjennomgang av pasientenes rom, eiendeler og post m.v., slik avdeling Brøset legger opp til, forutsetter etter dette en endring av psykisk helsevernloven. Etter det jeg forstår har Helsedirektoratet bedt Helse- og omsorgsdepartementet vurdere en slik lovendring. Inntil en lovendring eventuelt foreligger, må jeg be avdeling Brøset om å utforme husordensreglenes prosedyrer om gjennomgang av pasientenes rom, eiendeler og post m.v. i tråd med psykisk helsevernloven kapittel 4. Jeg ber om å få tilsendt kopi av de endrede husordensreglene når disse foreligger.
 

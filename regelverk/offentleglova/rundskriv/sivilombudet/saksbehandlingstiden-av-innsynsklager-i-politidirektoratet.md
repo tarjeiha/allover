@@ -14,11 +14,9 @@ Sivilombudets uttalelse 24.2.2026 (sak 2023/4718).
 
 ## Oppsummering
 
-Sivilombudet har av eget tiltak på nytt undersøkt Politidirektoratets saksbehandlingstid ved behandlingen av klager på egne innsynsavgjørelser og klager på underinstansenes innsynsavgjørelser. Ombudet har tidligere kritisert direktoratets saksbehandlingstid i SOM-2018-210 og SOM-2021-4778.   
-   
- Ombudet har kommet til at direktoratets saksbehandlingstid for innsynsklager i lengre perioder har vært for lang og ikke i samsvar med kravet i offentleglova § 32 tredje ledd om at klager skal forberedes og avgjøres «utan ugrunna opphald».   
-   
- Ombudet vurderte at reduksjonen i behandlingstiden i stor grad hang sammen med lavere sakstilfang og ulik sakskompleksitet. De tiltakene direktoratet hadde iverksatt, fremsto ikke som tilstrekkelige til å få behandlingstiden ned på et lovlig nivå. Direktoratet ble bedt om å iverksette ytterligere tiltak.
+Sivilombudet har av eget tiltak på nytt undersøkt Politidirektoratets saksbehandlingstid ved behandlingen av klager på egne innsynsavgjørelser og klager på underinstansenes innsynsavgjørelser. Ombudet har tidligere kritisert direktoratets saksbehandlingstid i SOM-2018-210 og SOM-2021-4778.  
+Ombudet har kommet til at direktoratets saksbehandlingstid for innsynsklager i lengre perioder har vært for lang og ikke i samsvar med kravet i offentleglova § 32 tredje ledd om at klager skal forberedes og avgjøres «utan ugrunna opphald».  
+Ombudet vurderte at reduksjonen i behandlingstiden i stor grad hang sammen med lavere sakstilfang og ulik sakskompleksitet. De tiltakene direktoratet hadde iverksatt, fremsto ikke som tilstrekkelige til å få behandlingstiden ned på et lovlig nivå. Direktoratet ble bedt om å iverksette ytterligere tiltak.
 
 ## Sakens bakgrunn
 

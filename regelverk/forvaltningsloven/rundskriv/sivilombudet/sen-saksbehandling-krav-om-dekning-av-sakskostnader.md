@@ -15,8 +15,7 @@ Sivilombudets uttalelse 9.11.2018 (sak 2018/2360).
 ## Oppsummering
 
 Klageren fikk først svar på sitt krav om dekning av sakskostnader etter at ombudsmannen tok opp saken. Det hadde da gått seks måneder. Det ble ikke sendt foreløpig svar i saken.  
-   
- Ombudsmannen er enig med kommunen i at reglene om saksbehandlingstid og foreløpig svar i forvaltningsloven § 11a ikke er fulgt i denne saken. Årsaken som er oppgitt, er at den aktuelle saksbehandleren har hatt svært stor arbeidsbyrde i en periode. Det påligger kommunen å organisere arbeidet på en slik måte at reglene i forvaltningsloven § 11a overholdes, og ombudsmannen forutsetter at dette gjøres. Videre forutsetter ombudsmannen at henvendelser herfra i fremtiden blir besvart innen de frister som settes.
+Ombudsmannen er enig med kommunen i at reglene om saksbehandlingstid og foreløpig svar i forvaltningsloven § 11a ikke er fulgt i denne saken. Årsaken som er oppgitt, er at den aktuelle saksbehandleren har hatt svært stor arbeidsbyrde i en periode. Det påligger kommunen å organisere arbeidet på en slik måte at reglene i forvaltningsloven § 11a overholdes, og ombudsmannen forutsetter at dette gjøres. Videre forutsetter ombudsmannen at henvendelser herfra i fremtiden blir besvart innen de frister som settes.
 
 Etter at kommunen omgjorde eget vedtak etter klage, krevde klageren dekning av sakskostnader i e-post 9. april 2018. Purring ble sendt 6. juni 2018. Ettersom klageren ikke fikk svar fra kommunen, klaget han til Sivilombudsmannen først 20. juni 2018 og igjen 5. juli 2018.
 

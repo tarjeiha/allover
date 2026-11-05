@@ -14,11 +14,9 @@ Sivilombudets uttalelse 2.6.2021 (sak 2020/1978).
 
 ## Oppsummering
 
-Saken gjelder Bergen kommunes behandling av en vann- og avløpssak. Etter en akutt reparasjon av en vannlekkasje krevde kommunen at en huseier dekket utgifter til reparasjon og graving med 114 579 kr fordi lekkasjen skyldes et brudd i den private stikkledningen huseieren var ansvarlig for. Ombudsmannen har undersøkt Bergen kommunes saksbehandling.   
-   
- Ombudsmannen mener Bergen kommunes behandling av denne saken har flere svakheter og at saksbehandlingen ikke er i tråd med normer for god forvaltningsskikk. Særlig burde kommunen informert klageren på et tidligere tidspunkt om at hun ville bli fakturert for arbeidet som ble utført på den private stikkledningen. Dessuten burde kommunen sørget for å gi korrekte fakturaopplysninger i sin begrunnelse for kravet. Klagerens anførsler i klageomgangen burde også vært vurdert og kommentert.   
-   
- Sett hen til at kommunen har beklaget og rettet opp feil som er begått, finner ombudsmannen å kunne avslutte saken. Det forutsettes imidlertid at kommunen merker seg ombudsmannens synspunkter og innretter behandlingen av fremtidige saker i tråd med disse.
+Saken gjelder Bergen kommunes behandling av en vann- og avløpssak. Etter en akutt reparasjon av en vannlekkasje krevde kommunen at en huseier dekket utgifter til reparasjon og graving med 114 579 kr fordi lekkasjen skyldes et brudd i den private stikkledningen huseieren var ansvarlig for. Ombudsmannen har undersøkt Bergen kommunes saksbehandling.  
+Ombudsmannen mener Bergen kommunes behandling av denne saken har flere svakheter og at saksbehandlingen ikke er i tråd med normer for god forvaltningsskikk. Særlig burde kommunen informert klageren på et tidligere tidspunkt om at hun ville bli fakturert for arbeidet som ble utført på den private stikkledningen. Dessuten burde kommunen sørget for å gi korrekte fakturaopplysninger i sin begrunnelse for kravet. Klagerens anførsler i klageomgangen burde også vært vurdert og kommentert.  
+Sett hen til at kommunen har beklaget og rettet opp feil som er begått, finner ombudsmannen å kunne avslutte saken. Det forutsettes imidlertid at kommunen merker seg ombudsmannens synspunkter og innretter behandlingen av fremtidige saker i tråd med disse.
 
 ## Sakens bakgrunn
 

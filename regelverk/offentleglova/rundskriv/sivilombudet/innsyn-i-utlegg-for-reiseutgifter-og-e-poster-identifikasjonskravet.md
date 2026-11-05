@@ -16,8 +16,7 @@ Sivilombudets uttalelse 2.4.2020 (sak 2020/16).
 ## Oppsummering
 
 Saken gjelder et innsynskrav i to punkter. Fylkesmannen i Nordland avslo kravet med hjemmel i offentleglova § 28 andre ledd.  
-   
- Etter at Fylkesmannen innhentet ytterligere informasjon fra Bodø kommune om hvilket arbeid som kreves for å imøtekomme punkt 2 i innsynskravet, er ombudsmannen enig i at dette ligger utenfor det som kan regnes som «i rimeleg utstrekning saker av ein bestemt art» etter offentleglova § 28 andre ledd. Det samme gjelder punkt 1 i innsynskravet, som ikke var en del av ombudsmannens undersøkelse. Fylkesmannen kunne med fordel innhentet ytterligere informasjon om hvilket arbeid som var nødvendig for å imøtekomme innsynskravet før vedtaket ble fattet.
+Etter at Fylkesmannen innhentet ytterligere informasjon fra Bodø kommune om hvilket arbeid som kreves for å imøtekomme punkt 2 i innsynskravet, er ombudsmannen enig i at dette ligger utenfor det som kan regnes som «i rimeleg utstrekning saker av ein bestemt art» etter offentleglova § 28 andre ledd. Det samme gjelder punkt 1 i innsynskravet, som ikke var en del av ombudsmannens undersøkelse. Fylkesmannen kunne med fordel innhentet ytterligere informasjon om hvilket arbeid som var nødvendig for å imøtekomme innsynskravet før vedtaket ble fattet.
 
 ## Sakens bakgrunn
 

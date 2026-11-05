@@ -15,8 +15,7 @@ Sivilombudets uttalelse 5.10.2018 (sak 2018/915).
 ## Oppsummering
 
 Saken gjelder saksbehandlingen i forbindelse med valg av kandidater til intervju til en ledig stilling i Kystverket. Klageren har tidligere hatt samme type stilling, men ble likevel ikke innkalt til intervju. Som forklaring fikk han opplyst at han ikke har de rette personlige egenskapene for stillingen. Denne vurderingen bygget på tilbakemeldinger fra hans tidligere ledere i Kystverket.  
-   
- Da ombudsmannen ba om en redegjørelse, erkjente Kystverket at opplysningene fra de tidligere lederne ikke ga tilstrekkelig grunnlag for å konkludere om klagerens personlige egnethet. Opplysningene stammet fra et arbeidsforhold avsluttet seks år tidligere, og klageren skulle derfor blitt innkalt på intervju. Ombudsmannen er enig i dette. Innhenting av opplysninger uten å først klarere innhentingen med søkeren var i denne saken innenfor rammene for god forvaltningsskikk. Kontradiksjonsprinsippet ble brutt da opplysningene ble tillagt avgjørende vekt, uten at klager fikk mulighet til å imøtegå disse.
+Da ombudsmannen ba om en redegjørelse, erkjente Kystverket at opplysningene fra de tidligere lederne ikke ga tilstrekkelig grunnlag for å konkludere om klagerens personlige egnethet. Opplysningene stammet fra et arbeidsforhold avsluttet seks år tidligere, og klageren skulle derfor blitt innkalt på intervju. Ombudsmannen er enig i dette. Innhenting av opplysninger uten å først klarere innhentingen med søkeren var i denne saken innenfor rammene for god forvaltningsskikk. Kontradiksjonsprinsippet ble brutt da opplysningene ble tillagt avgjørende vekt, uten at klager fikk mulighet til å imøtegå disse.
 
 ## Sakens bakgrunn
 

@@ -14,11 +14,9 @@ Sivilombudets uttalelse 10.1.2025 (sak 2024/5590).
 
 ## Oppsummering
 
-Saken gjelder Vågan kommunes behandling av en søknad om å gjenåpne barnehage i Digermulen i Nordland fylke. Barna i Digermulen har i dag en reisevei på inntil halvannen time hver vei. Søknaden ble avslått av kommunestyret, og saken ble brakt inn for Statsforvalteren i Nordland. Statsforvalteren gjennomførte lovlighetskontroll og kom frem til at vedtaket hadde et lovlig innhold. Kommunen hadde erkjent at barnets beste ikke ble særskilt vurdert, men statsforvalteren mente at vurderingen var tilstrekkelig.   
-   
- Sivilombudet er kommet til at barnets beste ikke ble tilstrekkelig vurdert og vektlagt av kommunen. Samlet sett må det fremgå hva som er barnets beste, og at barnets beste er vurdert og vektlagt som et grunnleggende hensyn. Kommunen hadde selv erkjent at det ikke ble gjort noen særskilt vurdering av barnets beste. Ombudet kom til at momenter av sentral betydning for barnets beste heller ikke inngikk i kommunens vurdering på annen måte. Barnets beste var da ikke tilstrekkelig vurdert og vektlagt. Ombudet mener derfor at statsforvalterens rettsanvendelse i saken var feil, jf. sivilombudsloven § 12 første ledd bokstav a.  
-   
- På denne bakgrunn ber ombudet statsforvalteren om å vurdere vedtakets lovlighet på nytt.
+Saken gjelder Vågan kommunes behandling av en søknad om å gjenåpne barnehage i Digermulen i Nordland fylke. Barna i Digermulen har i dag en reisevei på inntil halvannen time hver vei. Søknaden ble avslått av kommunestyret, og saken ble brakt inn for Statsforvalteren i Nordland. Statsforvalteren gjennomførte lovlighetskontroll og kom frem til at vedtaket hadde et lovlig innhold. Kommunen hadde erkjent at barnets beste ikke ble særskilt vurdert, men statsforvalteren mente at vurderingen var tilstrekkelig.  
+Sivilombudet er kommet til at barnets beste ikke ble tilstrekkelig vurdert og vektlagt av kommunen. Samlet sett må det fremgå hva som er barnets beste, og at barnets beste er vurdert og vektlagt som et grunnleggende hensyn. Kommunen hadde selv erkjent at det ikke ble gjort noen særskilt vurdering av barnets beste. Ombudet kom til at momenter av sentral betydning for barnets beste heller ikke inngikk i kommunens vurdering på annen måte. Barnets beste var da ikke tilstrekkelig vurdert og vektlagt. Ombudet mener derfor at statsforvalterens rettsanvendelse i saken var feil, jf. sivilombudsloven § 12 første ledd bokstav a.  
+På denne bakgrunn ber ombudet statsforvalteren om å vurdere vedtakets lovlighet på nytt.
 
 Se oppdatering fra forvaltningen
 

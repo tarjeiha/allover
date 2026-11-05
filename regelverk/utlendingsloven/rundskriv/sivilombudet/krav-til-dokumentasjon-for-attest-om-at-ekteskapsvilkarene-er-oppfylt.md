@@ -15,8 +15,7 @@ Sivilombudets uttalelse 3.12.2024 (sak 2024/3122).
 ## Oppsummering
 
 Salen gjelder Statsforvalterens avslag på utstedelse av prøvingsattest, som man må ha for å kunne gifte seg. Prøvingsattesten skal bekrefte at det ikke er noe til hinder for at ekteskapet blir inngått. For å få prøvingsattest må utenlandske statsborgere som ikke er fast bosatt i Norge, blant annet innhente dokumentasjon fra hjemlandet, jf. ekteskapsloven § 7 bokstav h. Spørsmålet i saken var om klageren kunne anses «fast bosatt i Norge» slik at hun ikke var nødt til å innhente dokumentasjon fra hjemlandet.  
-   
- Statsforvalteren mente klageren ikke kunne anses fast bosatt i Norge fordi hun ikke hadde fremlagt varig oppholdsbevis eller oppholdskort. Etter Sivilombudets syn kan det ikke oppstilles et slikt dokumentasjonskrav. Klageren måtte også kunne dokumentere fast bosettelse på andre måter.
+Statsforvalteren mente klageren ikke kunne anses fast bosatt i Norge fordi hun ikke hadde fremlagt varig oppholdsbevis eller oppholdskort. Etter Sivilombudets syn kan det ikke oppstilles et slikt dokumentasjonskrav. Klageren måtte også kunne dokumentere fast bosettelse på andre måter.
 
 ## Sakens bakgrunn
 
@@ -47,10 +46,10 @@ Spørsmålet i saken er om klageren måtte fremlegge varig oppholdsbevis eller o
 Et vilkår for å inngå ekteskap er at det foreligger gyldig prøvingsattest etter reglene i ekteskapsloven kapittel 2. Attesten skal bekrefte at det ikke er noe til hinder for at ekteskapet blir inngått. Ekteskapsloven § 7 oppstiller krav til bevis som de som skal gifte seg må fremskaffe.
 
 En utenlandsk statsborger som «ikke er fast bosatt i Norge», må fremlegge dokumentasjon fra myndighetene i sitt hjemland på at det ikke er noe til hinder for at vedkommende inngår ekteskap i Norge, jf. ekteskapsloven § 7 bokstav h. Hva som skal til for å anses fast bosatt i Norge, er nærmere regulert i forskrift om prøving av ekteskapsvilkår (FOR-1992-11-05-979). Barne- og familiedepartementets rundskriv  
- Q-2020-18 beskriver hvordan ekteskapsloven § 7 bokstav h med forskrift skal forstås og praktiseres.
+Q-2020-18 beskriver hvordan ekteskapsloven § 7 bokstav h med forskrift skal forstås og praktiseres.
 
 Etter § 1 i forskriften vil den som har permanent oppholdstillatelse, anses å være fast bosatt i Norge. Personer som ikke enda har fått permanent oppholdstillatelse, men har midlertidig oppholdstillatelse, kan anses å være fast bosatt etter en konkret vurdering,  
- jf. forskriften § 2.
+jf. forskriften § 2.
 
 Allmenne regler om oppholdstillatelse finnes i utlendingsloven kapittel 7. Retten til midlertidig eller permanent oppholdstillatelse etter disse bestemmelsene, avgjøres av utlendingsmyndighetene etter søknad.
 
@@ -83,6 +82,6 @@ Skatteetaten og Statsforvalterens vedtak i saken er ikke i samsvar med departeme
 ## Konklusjon
 
 Sivilombudet er kommet til at det ikke gjelder et krav om fremleggelse av varig oppholdsbevis eller oppholdskort for å dokumentere fast bosettelse, jf. ekteskapsloven  
- § 7 bokstav h, ved varig oppholdsrett etter utlendingsloven kapittel 13. Den som skal gifte seg, kan bevise rett til varig opphold på andre måter.
+§ 7 bokstav h, ved varig oppholdsrett etter utlendingsloven kapittel 13. Den som skal gifte seg, kan bevise rett til varig opphold på andre måter.
 
 Siden saken ikke lenger har aktualitet for klageren, gir ikke uttalelsen her grunn til videre oppfølging fra Statsforvalteren. Ombudet er positiv til at departementet har bedt Barne-, ungdoms-, og familiedirektoratet om å klargjøre dagens rettstilstand i rundskrivet og vurdere om det er behov for å gjøre endringer i forskriften.

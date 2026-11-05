@@ -14,9 +14,9 @@ Sivilombudets uttalelse 20.8.2018 (sak 2018/1458).
 
 ## Oppsummering
 
-Saken gjelder behandlingstiden til Fylkesmannen i Oslo og Akershus i tilsynssak på området for helse- og omsorgstjenester. Etter to år og to måneder er saken ennå ikke ferdigbehandlet. Behandlingstiden er begrunnet med økende saksmengde og manglende ressurser.   
- Det er ikke godtgjort at saken er behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Klageren har heller ikke fått tilfredsstillende informasjon underveis. Kapasitetsutfordringer er ikke tilstrekkelig grunn for å unnlate å holde klageren orientert om saksfremdriften, jf. forvaltningsloven § 11 a og normer for god forvaltningsskikk.  
- Det forutsettes at Fylkesmannen nå sørger for å få ferdigbehandlet tilsynssaken. Fylkesmannen bes videre om å gjennomgå sine rutiner – og om nødvendig iverksette andre tiltak – for å sikre at klagere i tilsynssaker blir gitt tilfredsstillende informasjon under sakens gang.
+Saken gjelder behandlingstiden til Fylkesmannen i Oslo og Akershus i tilsynssak på området for helse- og omsorgstjenester. Etter to år og to måneder er saken ennå ikke ferdigbehandlet. Behandlingstiden er begrunnet med økende saksmengde og manglende ressurser.  
+Det er ikke godtgjort at saken er behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Klageren har heller ikke fått tilfredsstillende informasjon underveis. Kapasitetsutfordringer er ikke tilstrekkelig grunn for å unnlate å holde klageren orientert om saksfremdriften, jf. forvaltningsloven § 11 a og normer for god forvaltningsskikk.  
+Det forutsettes at Fylkesmannen nå sørger for å få ferdigbehandlet tilsynssaken. Fylkesmannen bes videre om å gjennomgå sine rutiner – og om nødvendig iverksette andre tiltak – for å sikre at klagere i tilsynssaker blir gitt tilfredsstillende informasjon under sakens gang.
 
 ## Sakens bakgrunn
 

@@ -15,8 +15,7 @@ Sivilombudets uttalelse 20.3.2023 (sak 2023/80).
 ## Oppsummering
 
 Saken gjelder Statsforvalterens endring av et påklaget vedtak om brukerstyrt personlig assistanse (BPA). Klageren mente at vedtaket i klagesaken var til hennes ugunst, fordi vedtaket innebar en innskrenkning i muligheten til å disponere timene fritt gjennom døgnet. Klageren hevdet at Statsforvalteren hadde lagt til grunn en feil forståelse av kommunens vedtak, og dermed gått utenfor sin kompetanse etter forvaltningsloven § 34 tredje ledd første punktum. På denne bakgrunn ble Statsforvalteren anmodet om å omgjøre klagevedtaket.  
-   
- Ombudet er kommet til at Statsforvalteren ikke har oppfylt sin plikt til å opplyse saken i tråd med det grunnleggende kravet til forsvarlig saksbehandling ved behandlingen av omgjøringsanmodningen. Den mangelfulle saksutredningen gjør at det foreligger begrunnet tvil om Statsforvalterens vedtak i klagesaken var til klagerens ugunst. Dermed er det også begrunnet tvil om Statsforvalteren har gått utenfor sin kompetanse etter forvaltningsloven § 34 tredje ledd første punktum. Ombudet ber Statsforvalteren behandle saken på nytt.
+Ombudet er kommet til at Statsforvalteren ikke har oppfylt sin plikt til å opplyse saken i tråd med det grunnleggende kravet til forsvarlig saksbehandling ved behandlingen av omgjøringsanmodningen. Den mangelfulle saksutredningen gjør at det foreligger begrunnet tvil om Statsforvalterens vedtak i klagesaken var til klagerens ugunst. Dermed er det også begrunnet tvil om Statsforvalteren har gått utenfor sin kompetanse etter forvaltningsloven § 34 tredje ledd første punktum. Ombudet ber Statsforvalteren behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

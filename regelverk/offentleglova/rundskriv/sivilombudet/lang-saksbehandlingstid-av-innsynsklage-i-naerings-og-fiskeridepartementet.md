@@ -15,10 +15,8 @@ Sivilombudets uttalelse 24.11.2021 (sak 2021/4022).
 ## Oppsummering
 
 Saken gjelder saksbehandlingstiden i en sak om behandling av en klage over avslag på innsyn hos Nærings- og fiskeridepartementet. Det gikk over 14 måneder fra klagen ble sendt til departementet fattet vedtak i klagesaken. Den lange saksbehandlingstiden var begrunnet i at klagen krevde flere undersøkelser og reiste vanskelige spørsmål, kombinert med generelt stor arbeidsmengde i departementet.  
-   
- Ombudet er kommet til at departementets saksbehandlingstid i denne saken var for lang og i strid med lovens krav. Selv om innsynsklagen kan ha vært omfattende og krevd avklaring av prinsipielle eller vanskelige spørsmål, overstiger en saksbehandlingstid på over ett år klart hva som kan anses som akseptabelt.  
-   
- Departementet bes om å iverksette tiltak for å få ned saksbehandlingstiden i innsynssakene.
+Ombudet er kommet til at departementets saksbehandlingstid i denne saken var for lang og i strid med lovens krav. Selv om innsynsklagen kan ha vært omfattende og krevd avklaring av prinsipielle eller vanskelige spørsmål, overstiger en saksbehandlingstid på over ett år klart hva som kan anses som akseptabelt.  
+Departementet bes om å iverksette tiltak for å få ned saksbehandlingstiden i innsynssakene.
 
 ## Sakens bakgrunn
 

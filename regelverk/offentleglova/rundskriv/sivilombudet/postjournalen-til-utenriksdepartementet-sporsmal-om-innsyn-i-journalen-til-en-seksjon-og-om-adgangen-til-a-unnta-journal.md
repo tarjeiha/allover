@@ -14,13 +14,10 @@ Sivilombudets uttalelse 16.11.2022 (sak 2022/3550).
 
 ## Oppsummering
 
-Saken gjelder Utenriksdepartementets avslag på innsyn i postjournalen for uke 44 i 2021 for seksjon for eksportkontroll. Saken belyser også hvilke saker og journalposter som publiseres på departementets offentlige journal på eInnsyn.   
-   
- Sivilombudet kom til at det er riktig lovforståelse av Utenriksdepartementet å vurdere innsynskravet etter offentleglova § 9 om retten til å kreve innsyn i en sammenstilling fra databaser fordi det måtte gjøres en annen sammenstilling enn den som genereres som departementets løpende journal. Ombudet minnet departementet om at det ikke er relevant å se hen til hvor tidkrevende etterarbeidet vil være i vurderingen av om sammenstillingen kan gjøres med enkle fremgangsmåter, og knyttet noen merknader til saksbehandlingstiden og forvaltningens veiledningsplikt. Ettersom departementet senere fikk laget en sammenstilling av postjournalen for seksjonen, ba ombudet om at Utenriksdepartementet behandlet innsynskravet på nytt.   
-   
- Ombudet fant at det knyttet seg begrunnet tvil til om departementet har hjemmel til å unnta fra offentlighet «alle registreringsopplysningar i e-lisens» på bakgrunn av lovbestemt taushetsplikt.  
-   
- Videre ba ombudet departementet så snart som mulig synliggjøre på sine nettsider at departementet i tillegg til det som er oppført i journalen på eInnsyn, har E-Lisenssaker og dokumenter som kan unntas med hjemmel i offentleglova § 15, og at det informeres om hvordan det kan søkes innsyn i disse dokumentene.
+Saken gjelder Utenriksdepartementets avslag på innsyn i postjournalen for uke 44 i 2021 for seksjon for eksportkontroll. Saken belyser også hvilke saker og journalposter som publiseres på departementets offentlige journal på eInnsyn.  
+Sivilombudet kom til at det er riktig lovforståelse av Utenriksdepartementet å vurdere innsynskravet etter offentleglova § 9 om retten til å kreve innsyn i en sammenstilling fra databaser fordi det måtte gjøres en annen sammenstilling enn den som genereres som departementets løpende journal. Ombudet minnet departementet om at det ikke er relevant å se hen til hvor tidkrevende etterarbeidet vil være i vurderingen av om sammenstillingen kan gjøres med enkle fremgangsmåter, og knyttet noen merknader til saksbehandlingstiden og forvaltningens veiledningsplikt. Ettersom departementet senere fikk laget en sammenstilling av postjournalen for seksjonen, ba ombudet om at Utenriksdepartementet behandlet innsynskravet på nytt.  
+Ombudet fant at det knyttet seg begrunnet tvil til om departementet har hjemmel til å unnta fra offentlighet «alle registreringsopplysningar i e-lisens» på bakgrunn av lovbestemt taushetsplikt.  
+Videre ba ombudet departementet så snart som mulig synliggjøre på sine nettsider at departementet i tillegg til det som er oppført i journalen på eInnsyn, har E-Lisenssaker og dokumenter som kan unntas med hjemmel i offentleglova § 15, og at det informeres om hvordan det kan søkes innsyn i disse dokumentene.
 
 Se oppdatering fra forvaltningen
 

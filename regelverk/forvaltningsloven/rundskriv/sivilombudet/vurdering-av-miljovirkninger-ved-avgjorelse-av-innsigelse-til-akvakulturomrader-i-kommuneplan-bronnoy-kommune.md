@@ -15,10 +15,8 @@ Sivilombudets uttalelse 14.10.2022 (sak 2022/1374).
 ## Oppsummering
 
 Saken gjelder vedtak av en kommuneplan for Brønnøy kommune. Statsforvalteren i Nordland fremmet innsigelse til nye akvakulturområder i planen. Etter Statsforvalterens syn var det ikke forsvarlig å åpne for mer oppdrett i fjordene, av hensyn til villaks- og sjøørretbestanden. Kommunal- og distriktsdepartementet godkjente akvakulturområdene, men presiserte i vedtaket at miljøvirkningene av områdene ikke var «realitetsvurdert». Dette skulle ifølge departementet gjøres i behandlingen av lokalitetssøknader etter akvakulturloven.  
-   
- Ombudet kom til at departementet ikke hadde gjort en slik vurdering av Statsforvalterens innsigelse som kreves etter plan- og bygningsloven § 11-16. Det fremgikk heller ikke av vedtaket at departementet hadde vurdert arealdisponeringen i lys av prinsippene i naturmangfoldloven §§ 8-12, slik naturmangfoldloven krever, jf. § 7.  
-   
- Etter ombudets syn kunne det ikke utelukkes at manglene hadde hatt innvirkning på resultatet, jf. prinsippet i forvaltningsloven § 41. Ombudet ber departementet vurdere saken på nytt.
+Ombudet kom til at departementet ikke hadde gjort en slik vurdering av Statsforvalterens innsigelse som kreves etter plan- og bygningsloven § 11-16. Det fremgikk heller ikke av vedtaket at departementet hadde vurdert arealdisponeringen i lys av prinsippene i naturmangfoldloven §§ 8-12, slik naturmangfoldloven krever, jf. § 7.  
+Etter ombudets syn kunne det ikke utelukkes at manglene hadde hatt innvirkning på resultatet, jf. prinsippet i forvaltningsloven § 41. Ombudet ber departementet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

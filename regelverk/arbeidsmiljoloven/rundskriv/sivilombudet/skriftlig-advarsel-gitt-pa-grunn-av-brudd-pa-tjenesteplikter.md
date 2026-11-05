@@ -15,11 +15,9 @@ Sivilombudets uttalelse 21.12.2021 (sak 2020/4307).
 
 ## Oppsummering
 
-Saken gjelder klage over en skriftlig advarsel gitt til en ansatt, som også var vara-verneombud, ved et universitet.   
-   
- Sivilombudet mener, etter en samlet vurdering, at det lå innenfor arbeidsgivers styringsrett å gi klager en skriftlig advarsel. Advarselen kunne dels forankres i innholdet i oversendelsen av en fortrolig e-post til tre av klagers kollegaer, som ikke var en del av vernelinjen eller ledelsen ved universitetet. Dels kunne den forankres i at klager ikke var tilstrekkelig nøytral i rollen som vara-verneombud, og i at han forsøkte å tvinge frem innsyn i korrespondansen han hadde bedt om innsyn i.   
-   
- Sivilombudet har ikke kunnet ta stilling til universitetets behandling av klager etter han fikk den skriftlige advarselen. Ombudet har heller ikke kunnet ta stilling til om universitetets reaksjon mot ham var en gjengjeldelse for at han gjentatte ganger i løpet av 2018 varslet om problemer ved arbeidsmiljøet på instituttet.
+Saken gjelder klage over en skriftlig advarsel gitt til en ansatt, som også var vara-verneombud, ved et universitet.  
+Sivilombudet mener, etter en samlet vurdering, at det lå innenfor arbeidsgivers styringsrett å gi klager en skriftlig advarsel. Advarselen kunne dels forankres i innholdet i oversendelsen av en fortrolig e-post til tre av klagers kollegaer, som ikke var en del av vernelinjen eller ledelsen ved universitetet. Dels kunne den forankres i at klager ikke var tilstrekkelig nøytral i rollen som vara-verneombud, og i at han forsøkte å tvinge frem innsyn i korrespondansen han hadde bedt om innsyn i.  
+Sivilombudet har ikke kunnet ta stilling til universitetets behandling av klager etter han fikk den skriftlige advarselen. Ombudet har heller ikke kunnet ta stilling til om universitetets reaksjon mot ham var en gjengjeldelse for at han gjentatte ganger i løpet av 2018 varslet om problemer ved arbeidsmiljøet på instituttet.
 
 ## Sakens bakgrunn
 

@@ -15,10 +15,8 @@ Sivilombudets uttalelse 20.2.2018 (sak 2017/2960).
 ## Oppsummering
 
 Fylkesmannen i Oslo og Akershus stadfestet Oslo kommunes avslag på innsyn i et dokument Bymiljøetaten hadde innhentet fra Kommuneadvokaten i Oslo. Avslaget var hjemlet i offentleglova § 15 første ledd første punktum om dokument innhentet fra et underordnet organ til bruk for den interne saksforberedelsen. Fylkesmannen la til grunn at Kommuneadvokaten var å anse som et underordnet organ til Bymiljøetaten i relasjon til bestemmelsen, og at de øvrige vilkårene i bestemmelsen var oppfylt.  
-   
- Ombudsmannen er kommet til at Kommuneadvokaten må anses underordnet Bymiljøetaten i relasjon til offentleglova § 15 i den aktuelle saken. Uttalelser i forarbeidene som knytter spørsmålet om unntak for råd innhentet fra offentlige advokater opp til en vurdering etter offentleglova § 15 andre ledd, utelukker ikke at § 15 første ledd første punktum også kan komme til anvendelse.  
-   
- Fylkesmannen har ikke foretatt en tilstrekkelig konkret meroffentlighetsvurdering. Etter ombudsmannens syn er det uklart om behovet for unntak gjør seg gjeldende for de faktiske opplysningene i dokumentet. I tillegg synes noen av opplysningene å være offentlig tilgjengelige.
+Ombudsmannen er kommet til at Kommuneadvokaten må anses underordnet Bymiljøetaten i relasjon til offentleglova § 15 i den aktuelle saken. Uttalelser i forarbeidene som knytter spørsmålet om unntak for råd innhentet fra offentlige advokater opp til en vurdering etter offentleglova § 15 andre ledd, utelukker ikke at § 15 første ledd første punktum også kan komme til anvendelse.  
+Fylkesmannen har ikke foretatt en tilstrekkelig konkret meroffentlighetsvurdering. Etter ombudsmannens syn er det uklart om behovet for unntak gjør seg gjeldende for de faktiske opplysningene i dokumentet. I tillegg synes noen av opplysningene å være offentlig tilgjengelige.
 
 Se oppdatering fra forvaltningen
 

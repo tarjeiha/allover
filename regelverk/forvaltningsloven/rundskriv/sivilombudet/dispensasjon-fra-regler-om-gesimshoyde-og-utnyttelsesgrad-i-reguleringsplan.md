@@ -15,12 +15,9 @@ Sivilombudets uttalelse 1.11.2016 (sak 2015/3269).
 ## Oppsummering
 
 Fylkesmannen i Oslo og Akershus stadfestet Nes kommunes vedtak om å gi dispensasjon fra bestemmelser om henholdsvis gesimshøyde og utnyttelsesgrad i gjeldende reguleringsplan.  
-   
- Dersom det skal gis dispensasjon fra bestemmelser i plan- og bygningsloven eller planer gitt i medhold av loven, må de kumulative vilkårene i § 19-2 annet ledd være oppfylt. Det følger av bestemmelsen at dispensasjon ikke kan gis dersom hensynene bak bestemmelsen det dispenseres fra, blir vesentlig tilsidesatt. I tillegg må fordelene ved å gi dispensasjon være klart større enn ulempene etter en samlet vurdering.  
-   
- Ombudsmannen er kommet til at det knytter seg begrunnet tvil til om Fylkesmannen har foretatt tilstrekkelige vurderinger av fordelene og ulempene ved å gi dispensasjon fra reguleringsplanens bestemmelser, før hun har konkludert med at fordelene ved å gi dispensasjon er «klart større» enn ulempene.  
-   
- Ombudsmannen ber Fylkesmannen behandle saken på nytt.
+Dersom det skal gis dispensasjon fra bestemmelser i plan- og bygningsloven eller planer gitt i medhold av loven, må de kumulative vilkårene i § 19-2 annet ledd være oppfylt. Det følger av bestemmelsen at dispensasjon ikke kan gis dersom hensynene bak bestemmelsen det dispenseres fra, blir vesentlig tilsidesatt. I tillegg må fordelene ved å gi dispensasjon være klart større enn ulempene etter en samlet vurdering.  
+Ombudsmannen er kommet til at det knytter seg begrunnet tvil til om Fylkesmannen har foretatt tilstrekkelige vurderinger av fordelene og ulempene ved å gi dispensasjon fra reguleringsplanens bestemmelser, før hun har konkludert med at fordelene ved å gi dispensasjon er «klart større» enn ulempene.  
+Ombudsmannen ber Fylkesmannen behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

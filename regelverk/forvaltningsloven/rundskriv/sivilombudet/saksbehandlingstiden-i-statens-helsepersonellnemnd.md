@@ -15,14 +15,10 @@ Sivilombudets uttalelse 5.11.2024 (sak 2024/3547).
 ## Oppsummering
 
 Helsepersonellnemnda har i mer enn tre år hatt en gjennomsnittlig saksbehandlingstid på over 12 måneder. Den lange saksbehandlingstiden utgjør en stor belastning for partene. På bakgrunn av flere klager over lang saksbehandlingstid hos nemnda, besluttet Sivilombudet å ta saken opp av eget tiltak med Nasjonalt klageorgan for helsetjenesten (Helseklage) som er sekretariat for nemnda.  
-   
- Helseklage opplyste at den lange behandlingstiden i Helsepersonellnemnda blant annet skyldes mangel på saksbehandlerressurser i sekretariatet. Flere tiltak var iverksatt for å rekruttere nye saksbehandlere og effektivisere saksbehandlingen. Helseklage forventet å se effekter av dette for tilsynssakenes del i løpet første kvartal 2025. Helseklage ga uttrykk for at det i autorisasjonssakene var lite realistisk med noen reduksjon i saksbehandlingstiden i nær framtid. Ytterligere nedbygging av saksbehandlingstiden på lengre sikt ville være avhengig av rekrutteringer og økte økonomiske rammer.  
-   
- Sivilombudet uttrykte bekymring for den lange behandlingstiden i Helsepersonellnemnda, og viste til at den enkelte part har en individuell rett til å få sin sak behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11a. Ombudet ga uttrykk for at det er all grunn til å tro at kravet til saksbehandlingstid i flere saker er brutt. Med tanke på sakstypene Helsepersonellnemnda behandler, er det særlig viktig at saksbehandlingstiden ikke blir for lang. Når saksbehandlingen trekker unødvendig ut i tid, svekker det både partenes rettssikkerhet og nemndas rolle som klageinstans.  
-   
- Sivilombudet oppfatter tiltakene som Helseklage har iverksatt som positive. Ombudet uttrykte likevel tvil om tiltakene ville være tilstrekkelige, og ga uttrykk for at det var behov for en langsiktig plan for å få til en permanent reduksjon i saksbehandlingstiden.  
-   
- Ombudet ba om å bli holdt orientert om utviklingen i saksbehandlingstiden i Helsepersonellnemnda fremover.
+Helseklage opplyste at den lange behandlingstiden i Helsepersonellnemnda blant annet skyldes mangel på saksbehandlerressurser i sekretariatet. Flere tiltak var iverksatt for å rekruttere nye saksbehandlere og effektivisere saksbehandlingen. Helseklage forventet å se effekter av dette for tilsynssakenes del i løpet første kvartal 2025. Helseklage ga uttrykk for at det i autorisasjonssakene var lite realistisk med noen reduksjon i saksbehandlingstiden i nær framtid. Ytterligere nedbygging av saksbehandlingstiden på lengre sikt ville være avhengig av rekrutteringer og økte økonomiske rammer.  
+Sivilombudet uttrykte bekymring for den lange behandlingstiden i Helsepersonellnemnda, og viste til at den enkelte part har en individuell rett til å få sin sak behandlet «uten ugrunnet opphold», jf. forvaltningsloven § 11a. Ombudet ga uttrykk for at det er all grunn til å tro at kravet til saksbehandlingstid i flere saker er brutt. Med tanke på sakstypene Helsepersonellnemnda behandler, er det særlig viktig at saksbehandlingstiden ikke blir for lang. Når saksbehandlingen trekker unødvendig ut i tid, svekker det både partenes rettssikkerhet og nemndas rolle som klageinstans.  
+Sivilombudet oppfatter tiltakene som Helseklage har iverksatt som positive. Ombudet uttrykte likevel tvil om tiltakene ville være tilstrekkelige, og ga uttrykk for at det var behov for en langsiktig plan for å få til en permanent reduksjon i saksbehandlingstiden.  
+Ombudet ba om å bli holdt orientert om utviklingen i saksbehandlingstiden i Helsepersonellnemnda fremover.
 
 ## 1. Sakens bakgrunn
 

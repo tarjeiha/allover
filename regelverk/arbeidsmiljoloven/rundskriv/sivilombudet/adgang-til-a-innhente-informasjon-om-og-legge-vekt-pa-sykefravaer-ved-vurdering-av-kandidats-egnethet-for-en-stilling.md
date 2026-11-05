@@ -16,12 +16,9 @@ Sivilombudets uttalelse 2.5.2022 (sak 2022/1364).
 ## Oppsummering
 
 Saken gjelder spørsmål om en kommune hadde adgang til å innhente opplysninger om en søkers sykefravær som ledd i en ansettelsesprosess, og om kunnskap om tidligere sykefravær kunne vektlegges ved vurderingen av om søkeren var egnet for stillingen. Det var også et spørsmål om opplysningene ble innhentet på korrekt måte. Videre er det et spørsmål om saken var tilstrekkelig opplyst før vedtak om ansettelse ble fattet, og om kommunen hadde adgang til å ansette en søker som ikke oppfylte kvalifikasjonskravene i utlysningsteksten.  
-   
- Sivilombudet har kommet til at kommunen ikke har godtgjort at det var nødvendig å innhente opplysninger om klagers sykefravær, herunder opplysninger om årsaken til dette fraværet, ved vurdering av om hun var kvalifisert for en stilling som helsefagarbeider i kommunens hjemmetjeneste. Årsaken til sykefraværet var ikke tilstrekkelig kartlagt, og kommunen kunne derfor ikke legge til grunn at det var sannsynlig med tilsvarende fravær i stillingen klageren hadde søkt på.   
-   
- Kommunen hadde dessuten ikke adgang til å hente ut opplysningene om klagers sykefravær direkte fra hennes personalmappe, og kommunens administrasjon skulle ikke levert ut disse opplysningene.  
-   
- Siden kommunen har opplyst at sykefraværet var den eneste grunnen til at hun ikke fikk tilbud om fast stilling som helsefagarbeider, noe som også støttes av dokumentene i saken, synes klager å ha blitt urettmessig forbigått. Ombudet ber om at kommunen vurderer hva som kan gjøres for å rette opp den urett som er gjort mot klager.
+Sivilombudet har kommet til at kommunen ikke har godtgjort at det var nødvendig å innhente opplysninger om klagers sykefravær, herunder opplysninger om årsaken til dette fraværet, ved vurdering av om hun var kvalifisert for en stilling som helsefagarbeider i kommunens hjemmetjeneste. Årsaken til sykefraværet var ikke tilstrekkelig kartlagt, og kommunen kunne derfor ikke legge til grunn at det var sannsynlig med tilsvarende fravær i stillingen klageren hadde søkt på.  
+Kommunen hadde dessuten ikke adgang til å hente ut opplysningene om klagers sykefravær direkte fra hennes personalmappe, og kommunens administrasjon skulle ikke levert ut disse opplysningene.  
+Siden kommunen har opplyst at sykefraværet var den eneste grunnen til at hun ikke fikk tilbud om fast stilling som helsefagarbeider, noe som også støttes av dokumentene i saken, synes klager å ha blitt urettmessig forbigått. Ombudet ber om at kommunen vurderer hva som kan gjøres for å rette opp den urett som er gjort mot klager.
 
 Se oppdatering fra forvaltningen
 
@@ -30,7 +27,7 @@ Se oppdatering fra forvaltningen
 A (heretter klager) henvendte seg 25. juni 2021 til Sivilombudet med en klage over å ha blitt forbigått ved ansettelse i stilling som helsefagarbeider i hjemmetjenesten i X kommune (heretter kommunen).
 
 Kommunen hadde lyst ut to faste deltidsstillinger som helsefagarbeider med søknadsfrist  
- 28. april 2021. I utlysningen ble det blant annet søkt etter en person med «Fagbrev/norsk autorisasjon som helsefagarbeider/hjelpepleier». Under punktet om personlige egenskapet i utlysningsteksten sto det blant annet at kommunen la «stor vekt på tilstedeværelse og stabilitet hos [sine] medarbeidere». Vedtak om ansettelse ble fattet 21. mai 2021. Det ble bare ansatt en person, den andre stillingen ble holdt åpen. Personen som ble ansatt hadde ikke fagbrev eller norsk autorisasjon som helsefagarbeider eller hjelpepleier.
+28. april 2021. I utlysningen ble det blant annet søkt etter en person med «Fagbrev/norsk autorisasjon som helsefagarbeider/hjelpepleier». Under punktet om personlige egenskapet i utlysningsteksten sto det blant annet at kommunen la «stor vekt på tilstedeværelse og stabilitet hos [sine] medarbeidere». Vedtak om ansettelse ble fattet 21. mai 2021. Det ble bare ansatt en person, den andre stillingen ble holdt åpen. Personen som ble ansatt hadde ikke fagbrev eller norsk autorisasjon som helsefagarbeider eller hjelpepleier.
 
 Klageren har opplyst at hun fikk oppgitt at det bare var sykefraværet hun hadde hatt det siste året som var årsaken til at hun ikke fikk tilbud om stillingen. Vedlagt klagen fulgte en utskrift av sykefraværet hun hadde hatt siden 30. april 2020, hvor det blant annet fremgikk at omtrent en tredjedel av fraværet var registrert som «Egenmelding – Korona relatert». Det resterende fraværet var dokumentert gjennom egenmelding eller legemelding.
 

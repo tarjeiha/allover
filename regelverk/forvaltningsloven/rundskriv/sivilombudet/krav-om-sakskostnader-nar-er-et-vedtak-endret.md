@@ -14,11 +14,9 @@ Sivilombudets uttalelse 30.11.2021 (sak 2021/1523).
 
 ## Oppsummering
 
-Saken gjelder sakskostnader etter forvaltningsloven § 36. Etter igangsettelse av byggearbeider oppdaget klagerne at grunnforholdene krevde endringer av tiltaket. Endringssøknad ble sendt til kommunen, som innvilget søknaden. Etter klage fra naboer opphevet Fylkesmannen vedtaket med den begrunnelse at endringene krevde dispensasjon. Klagerne reviderte søknaden noe. Tillatelse ble nå avslått av både kommunen og Fylkesmannen med den begrunnelse at det krevdes dispensasjon. Klagerne sendte dispensasjonssøknad som først ble innvilget av kommunen. Etter klage fra naboer opprettholdt Fylkesmannen tillatelsen, men denne gangen med den begrunnelse at mesteparten av endringene ikke trengte dispensasjon.   
-   
- Klagerne krevde sakskostnader fordi de mente at Fylkesmannen reelt sett omgjorde sitt tidligere vedtak der tiltaket ble avslått fordi Fylkesmannen den gangen mente det var behov for dispensasjon. Både Fylkesmannen og departementet avslo kravet om sakskostnader under henvisning til at det siste vedtaket var truffet i en ny sak, og dermed ikke medførte noen endring av noe tidligere vedtak til gunst for klagerne.   
-   
- Sivilombudet mener at det siste vedtaket må anses som en endring av kommunens og Fylkesmannens tidligere vedtak, og ber derfor departementet behandle saken på nytt. Det bes om at departementet innen 29. januar 2022 melder tilbake til ombudet om sin oppfølging av saken.
+Saken gjelder sakskostnader etter forvaltningsloven § 36. Etter igangsettelse av byggearbeider oppdaget klagerne at grunnforholdene krevde endringer av tiltaket. Endringssøknad ble sendt til kommunen, som innvilget søknaden. Etter klage fra naboer opphevet Fylkesmannen vedtaket med den begrunnelse at endringene krevde dispensasjon. Klagerne reviderte søknaden noe. Tillatelse ble nå avslått av både kommunen og Fylkesmannen med den begrunnelse at det krevdes dispensasjon. Klagerne sendte dispensasjonssøknad som først ble innvilget av kommunen. Etter klage fra naboer opprettholdt Fylkesmannen tillatelsen, men denne gangen med den begrunnelse at mesteparten av endringene ikke trengte dispensasjon.  
+Klagerne krevde sakskostnader fordi de mente at Fylkesmannen reelt sett omgjorde sitt tidligere vedtak der tiltaket ble avslått fordi Fylkesmannen den gangen mente det var behov for dispensasjon. Både Fylkesmannen og departementet avslo kravet om sakskostnader under henvisning til at det siste vedtaket var truffet i en ny sak, og dermed ikke medførte noen endring av noe tidligere vedtak til gunst for klagerne.  
+Sivilombudet mener at det siste vedtaket må anses som en endring av kommunens og Fylkesmannens tidligere vedtak, og ber derfor departementet behandle saken på nytt. Det bes om at departementet innen 29. januar 2022 melder tilbake til ombudet om sin oppfølging av saken.
 
 Se oppdatering fra forvaltningen
 

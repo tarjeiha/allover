@@ -16,10 +16,8 @@ Sivilombudets uttalelse 29.1.2018 (sak 2017/2345).
 ## Oppsummering
 
 Folkeregisterets registreringer berører et stort antall personer og kan få stor betydning for dem det gjelder.  
-   
- På generelt grunnlag har ombudsmannen tatt opp med Skattedirektoratet om det kan være klageadgang på folkeregisterets avgjørelser om registrering, i større grad enn det som tidligere har vært lagt til grunn.  
-   
- Ombudsmannen konstaterer at det for en del registreringer er på det rene at det er klageadgang og at det for noen registreringer er på det rene at det ikke er det. Det gjenstår noen typer registreringer hvor spørsmålet er mer usikkert, og Skattedirektoratet bes om å foreta en vurdering av disse.
+På generelt grunnlag har ombudsmannen tatt opp med Skattedirektoratet om det kan være klageadgang på folkeregisterets avgjørelser om registrering, i større grad enn det som tidligere har vært lagt til grunn.  
+Ombudsmannen konstaterer at det for en del registreringer er på det rene at det er klageadgang og at det for noen registreringer er på det rene at det ikke er det. Det gjenstår noen typer registreringer hvor spørsmålet er mer usikkert, og Skattedirektoratet bes om å foreta en vurdering av disse.
 
 ## Sakens bakgrunn
 

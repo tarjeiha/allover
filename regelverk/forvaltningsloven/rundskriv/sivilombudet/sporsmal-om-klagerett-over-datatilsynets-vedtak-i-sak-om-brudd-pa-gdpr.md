@@ -15,13 +15,10 @@ Sivilombudets uttalelse 21.5.2025 (sak 2024/4601).
 
 ## Oppsummering
 
-Ifølge GDPR artikkel 78 nr. 1 har enhver fysisk eller juridisk person rett til et effektivt rettsmiddel overfor en rettslig bindende avgjørelse som gjelder dem, og som er truffet av en tilsynsmyndighet.   
-   
- Sivilombudet forstår retten til et effektivt rettsmiddel i GDPR artikkel 78 nr. 1 – tolket i lys av EU-domstolens avgjørelser – slik at både virksomheten og klageren i utgangspunktet har rett til domstolsprøving av alle sider av Datatilsynets vedtak i saken. Domstolsprøving innebærer kontroll med om Datatilsynet har behandlet saken på en måte som sikrer effektiv rettsbeskyttelse, og om valget av korrigerende tiltak etter GDPR artikkel 58 nr. 2, var innenfor den skjønnsmarginen som tilsynet er gitt i forordningen.   
-   
- Siden klageadgangen etter forvaltningsloven er alminnelig antatt å være minst like vid som adgangen til domstolsprøving, kom ombudet til at klageren i den konkrete saken hadde rett til å klage til Personvernnemnda over alle sider av Datatilsynets vedtak, og at klagen over håndhevingen derfor ikke skulle vært avvist. Det forelå ikke – slik saken var opplyst – momenter som tilsa at klageadgangen skulle være snevrere enn retten til domstolsprøving.   
-   
- Sivilombudet ba Personvernnemnda om å vurdere klagen over Datatilsynets vedtak på nytt i lys av ombudets uttalelse.
+Ifølge GDPR artikkel 78 nr. 1 har enhver fysisk eller juridisk person rett til et effektivt rettsmiddel overfor en rettslig bindende avgjørelse som gjelder dem, og som er truffet av en tilsynsmyndighet.  
+Sivilombudet forstår retten til et effektivt rettsmiddel i GDPR artikkel 78 nr. 1 – tolket i lys av EU-domstolens avgjørelser – slik at både virksomheten og klageren i utgangspunktet har rett til domstolsprøving av alle sider av Datatilsynets vedtak i saken. Domstolsprøving innebærer kontroll med om Datatilsynet har behandlet saken på en måte som sikrer effektiv rettsbeskyttelse, og om valget av korrigerende tiltak etter GDPR artikkel 58 nr. 2, var innenfor den skjønnsmarginen som tilsynet er gitt i forordningen.  
+Siden klageadgangen etter forvaltningsloven er alminnelig antatt å være minst like vid som adgangen til domstolsprøving, kom ombudet til at klageren i den konkrete saken hadde rett til å klage til Personvernnemnda over alle sider av Datatilsynets vedtak, og at klagen over håndhevingen derfor ikke skulle vært avvist. Det forelå ikke – slik saken var opplyst – momenter som tilsa at klageadgangen skulle være snevrere enn retten til domstolsprøving.  
+Sivilombudet ba Personvernnemnda om å vurdere klagen over Datatilsynets vedtak på nytt i lys av ombudets uttalelse.
 
 Se oppdatering fra forvaltningen
 

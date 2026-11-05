@@ -15,9 +15,8 @@ Sivilombudets uttalelse 3.10.2023 (sak 2023/3695).
 
 ## Oppsummering
 
-Saken gjaldt manglende offentlig og intern utlysning ved ansettelse av kommunedirektør. Kautokeino kommune hadde unnlatt å lyse ut stillingen, og ansatte fungerende kommunedirektør. Dette ble blant annet begrunnet i en utfordrende rekrutteringssituasjon og et særlig behov for samisk kompetanse.   
-   
- Ombudet mente at kommunen hadde brutt det ulovfestede kvalifikasjonsprinsippet ved å ikke utlyse stillingen offentlig. Det forelå ikke ekstraordinære omstendigheter som kunne begrunne unntak fra utlysningsplikten på ulovfestet grunnlag. Ombudet kommenterte at samisk kompetanse kunne vært stilt som et særlig krav i kvalifikasjonskravene og utlysningsteksten. Manglende utlysning internt var et brudd på arbeidsmiljøloven § 14-1.
+Saken gjaldt manglende offentlig og intern utlysning ved ansettelse av kommunedirektør. Kautokeino kommune hadde unnlatt å lyse ut stillingen, og ansatte fungerende kommunedirektør. Dette ble blant annet begrunnet i en utfordrende rekrutteringssituasjon og et særlig behov for samisk kompetanse.  
+Ombudet mente at kommunen hadde brutt det ulovfestede kvalifikasjonsprinsippet ved å ikke utlyse stillingen offentlig. Det forelå ikke ekstraordinære omstendigheter som kunne begrunne unntak fra utlysningsplikten på ulovfestet grunnlag. Ombudet kommenterte at samisk kompetanse kunne vært stilt som et særlig krav i kvalifikasjonskravene og utlysningsteksten. Manglende utlysning internt var et brudd på arbeidsmiljøloven § 14-1.
 
 [Les uttalelsen på nordsamisk](https://www.sivilombudet.no/smj/uttalelser-smj/siviilaaittardeaddji-cealkamus-suohkandirektevrra-virgaibidjan-almmutkeahtta-virggi/)
 

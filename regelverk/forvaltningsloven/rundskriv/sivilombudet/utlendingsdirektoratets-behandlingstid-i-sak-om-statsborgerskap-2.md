@@ -16,14 +16,10 @@ Sivilombudets uttalelse 12.3.2019 (sak 2017/3689).
 ## Oppsummering
 
 Saken gjelder primært saksbehandlingstiden hos Utlendingsdirektoratet (UDI) ved behandlingen av en søknad om statsborgerskap.  
-   
- UDI visste alt da søknaden ble fremsatt i september 2005 at søkeren var en av flere som var under etterforskning som mistenkt for å ha deltatt i folkemordet i Rwanda i 1994. Søknaden ble derfor stilt i bero kort tid etter at den ble fremsatt. Siktelse mot søkeren ble tatt ut i august 2012. I Rwanda ble tiltale mot ham tatt ut i august 2013. Da ble søker begjært utlevert dit. Utleveringssaken er per dags dato ikke endelig avgjort.  
-   
- Basert på disse saksopplysningene har ombudsmannen ikke rettslige innvendinger til at statsborgersaken fortsatt er stilt i bero i påvente av endelig avgjørelse i utleveringssaken.  
-   
- Ombudsmannen mener at klager frem til våren 2008 ikke ble tilstrekkelig orientert om hvorfor ingenting skjedde med søknaden, men har ikke rettslige innvendinger til UDIs oppfatning om at det fra desember 2008 var unødvendig å gi klager ytterligere informasjon om status og forsinkelser i statsborgersaken.  
-   
- UDI har erkjent og beklaget at begjæring om partsinnsyn ikke ble besvart i tråd med forvaltningsloven § 11 a annet ledd. Slik den saken trakk ut i tid, skulle UDI både ha sendt foreløpige svar og forsinkelsesmeldinger.
+UDI visste alt da søknaden ble fremsatt i september 2005 at søkeren var en av flere som var under etterforskning som mistenkt for å ha deltatt i folkemordet i Rwanda i 1994. Søknaden ble derfor stilt i bero kort tid etter at den ble fremsatt. Siktelse mot søkeren ble tatt ut i august 2012. I Rwanda ble tiltale mot ham tatt ut i august 2013. Da ble søker begjært utlevert dit. Utleveringssaken er per dags dato ikke endelig avgjort.  
+Basert på disse saksopplysningene har ombudsmannen ikke rettslige innvendinger til at statsborgersaken fortsatt er stilt i bero i påvente av endelig avgjørelse i utleveringssaken.  
+Ombudsmannen mener at klager frem til våren 2008 ikke ble tilstrekkelig orientert om hvorfor ingenting skjedde med søknaden, men har ikke rettslige innvendinger til UDIs oppfatning om at det fra desember 2008 var unødvendig å gi klager ytterligere informasjon om status og forsinkelser i statsborgersaken.  
+UDI har erkjent og beklaget at begjæring om partsinnsyn ikke ble besvart i tråd med forvaltningsloven § 11 a annet ledd. Slik den saken trakk ut i tid, skulle UDI både ha sendt foreløpige svar og forsinkelsesmeldinger.
 
 ## Sakens bakgrunn
 

@@ -16,12 +16,9 @@ Sivilombudets uttalelse 1.4.2020 (sak 2019/2008).
 ## Oppsummering
 
 Nåværende Viken fylkeskommune utlyste en stilling som lærer i videregående skole. For denne typen stilling er det et lovfestet krav om pedagogisk utdanning. Fylkeskommunen ansatte likevel en kandidat uten slik utdanning. En søker som oppfylte de formelle kravene ble innstilt som nr. 2. Hun mente seg forbigått, og brakte saken inn for ombudsmannen.  
-   
- Etter at ombudsmannen tok saken opp, erkjente fylkeskommunen at ansettelsen ikke var i tråd med kompetansekravene i opplæringslova. Fylkeskommunen syntes likevel å mene at det ikke hadde skjedd en forbigåelse, da den etter en ny vurdering kom til at klageren heller ikke var kvalifisert, grunnet manglende personlig egnethet. Dette til tross for at fylkeskommunen hadde innstilt klageren til stillingen, og ingen nye opplysninger hadde kommet frem.  
-   
- Ombudsmannen mener at fylkeskommunens nye vurdering av klagerens personlige egnethet bygger på en uriktig lovanvendelse og på et klart urimelig skjønn. Det er lagt en for streng norm til grunn ved vurderingen. Sakens dokumenter bekrefter at fylkeskommunen fant klageren kvalifisert for stillingen på innstillingstidspunktet. At fylkeskommunen endret sin kvalifikasjonsvurdering uten at det forelå nye opplysninger ut over at klageren hadde brakt saken inn for ombudsmannen, er egnet til å reise tvil om den fornyede vurderingen bygger på fullt ut saklige hensyn.  
-   
- Slik saken er opplyst, fremstår ansettelsen som en forbigåelse av klageren.
+Etter at ombudsmannen tok saken opp, erkjente fylkeskommunen at ansettelsen ikke var i tråd med kompetansekravene i opplæringslova. Fylkeskommunen syntes likevel å mene at det ikke hadde skjedd en forbigåelse, da den etter en ny vurdering kom til at klageren heller ikke var kvalifisert, grunnet manglende personlig egnethet. Dette til tross for at fylkeskommunen hadde innstilt klageren til stillingen, og ingen nye opplysninger hadde kommet frem.  
+Ombudsmannen mener at fylkeskommunens nye vurdering av klagerens personlige egnethet bygger på en uriktig lovanvendelse og på et klart urimelig skjønn. Det er lagt en for streng norm til grunn ved vurderingen. Sakens dokumenter bekrefter at fylkeskommunen fant klageren kvalifisert for stillingen på innstillingstidspunktet. At fylkeskommunen endret sin kvalifikasjonsvurdering uten at det forelå nye opplysninger ut over at klageren hadde brakt saken inn for ombudsmannen, er egnet til å reise tvil om den fornyede vurderingen bygger på fullt ut saklige hensyn.  
+Slik saken er opplyst, fremstår ansettelsen som en forbigåelse av klageren.
 
 ## Sakens bakgrunn
 

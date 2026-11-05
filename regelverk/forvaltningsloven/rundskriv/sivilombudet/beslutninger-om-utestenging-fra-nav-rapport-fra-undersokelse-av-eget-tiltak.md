@@ -16,12 +16,9 @@ Sivilombudets uttalelse 29.6.2022 (sak 2022/1416).
 ## Oppsummering
 
 Sivilombudet har av eget tiltak undersøkt hvordan åtte kommuner praktiserer utestenging fra Nav. I undersøkelsen har vi gjennomgått 97 beslutninger om utestenging fra Nav-kontorer i kommunene Bergen, Bodø, Drammen, Hamar, Skien, Stavanger, Tromsø og Trondheim. Beslutningene er truffet i perioden 1. januar 2020 til 21. november 2021.  
-   
- Nav har et reelt behov for å beskytte sine ansatte og andre som er til stede i lokalene. Samtidig kan utestenging være et inngripende tiltak overfor den det gjelder. Det er derfor viktig at beslutninger om utestenging gjøres på korrekt måte.   
-   
- Sivilombudets undersøkelse handler ikke om bortvisning fra stedet i mer akutte situasjoner, men om hvordan Nav-kontor praktiserer utestenging av enkeltpersoner framover i tid. Utestenging fra Nav er ikke regulert i lov eller forskrift, men gjennom Navs interne retningslinjer. Sivilombudets undersøkelse viser at retningslinjene ikke alltid etterleves eller praktiseres likt, og at det kan være behov for lovregulering.   
-   
- Vi presenterer i denne rapporten våre funn fra undersøkelsen, og ombudet gir sine anbefalinger til kommunene og Arbeids- og velferdsdirektoratet.
+Nav har et reelt behov for å beskytte sine ansatte og andre som er til stede i lokalene. Samtidig kan utestenging være et inngripende tiltak overfor den det gjelder. Det er derfor viktig at beslutninger om utestenging gjøres på korrekt måte.  
+Sivilombudets undersøkelse handler ikke om bortvisning fra stedet i mer akutte situasjoner, men om hvordan Nav-kontor praktiserer utestenging av enkeltpersoner framover i tid. Utestenging fra Nav er ikke regulert i lov eller forskrift, men gjennom Navs interne retningslinjer. Sivilombudets undersøkelse viser at retningslinjene ikke alltid etterleves eller praktiseres likt, og at det kan være behov for lovregulering.  
+Vi presenterer i denne rapporten våre funn fra undersøkelsen, og ombudet gir sine anbefalinger til kommunene og Arbeids- og velferdsdirektoratet.
 
 ## Innhold
 

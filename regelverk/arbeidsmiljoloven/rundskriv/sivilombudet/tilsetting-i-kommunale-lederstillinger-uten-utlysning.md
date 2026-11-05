@@ -15,10 +15,8 @@ Sivilombudets uttalelse 12.1.2017 (sak Sak 2016/2418).
 ## Oppsummering
 
 Ombudsmannen ble gjort oppmerksom på at Sarpsborg kommune sommeren 2016 hadde tilsatt i to faste stillinger som kommunesjef uten utlysning, og tok saken opp med kommunen av eget tiltak. En av stillingene hadde aldri vært utlyst. Den andre hadde vært utlyst i januar 2015, men ut fra søkerlisten ble det besluttet å utsette tilsettingen. Den nå tilsatte var ikke blant søkerne i 2015.  
-   
- Undersøkelsene herfra avdekket at de ledige stillingene heller ikke var kunngjort internt.  
-   
- Kommunen hadde ikke tilstrekkelig rettslig grunnlag til å la være å lyse ut stillingene som teknisk kommunesjef og kommunesjef for oppvekst. Hverken kvalifikasjonsprinsippet eller likhetsprinsippet var overholdt. Stillingene skulle både ha vært kunngjort internt og utlyst offentlig.
+Undersøkelsene herfra avdekket at de ledige stillingene heller ikke var kunngjort internt.  
+Kommunen hadde ikke tilstrekkelig rettslig grunnlag til å la være å lyse ut stillingene som teknisk kommunesjef og kommunesjef for oppvekst. Hverken kvalifikasjonsprinsippet eller likhetsprinsippet var overholdt. Stillingene skulle både ha vært kunngjort internt og utlyst offentlig.
 
 ## Uttalelse
 

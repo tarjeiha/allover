@@ -15,8 +15,7 @@ Sivilombudets uttalelse 14.10.2020 (sak 2020/252).
 ## Oppsummering
 
 Saken gjelder krav om dekning av et oppdrettsselskaps sakskostnader for utgifter til utarbeidelse av klage over Mattilsynet Region Nords avslag på søknad om biomasseutvidelse. Avslaget ble opprettholdt av Mattilsynets hovedkontor. Etter omgjøringsbegjæring fra oppdrettsselskapet, opphevet Nærings- og fiskeridepartementet hovedkontorets vedtak. Hovedkontoret sendte deretter saken tilbake til regionkontoret for ny behandling. Mattilsynets hovedkontor avslo den delen av oppdrettsselskapets sakskostnadskrav som knyttet seg til klagen over førsteinstansvedtaket.  
-   
- Ombudsmannen er kommet til at regionkontorets vedtak om å avslå oppdrettsselskapets søknad om biomasseutvidelse ble «endret» gjennom departementets opphevelse og Mattilsynets videre behandling av saken. Endringen var til selskapets «gunst». Utgifter til utarbeidelsen av klagen var «nødvendige» for at vedtaket ble endret.
+Ombudsmannen er kommet til at regionkontorets vedtak om å avslå oppdrettsselskapets søknad om biomasseutvidelse ble «endret» gjennom departementets opphevelse og Mattilsynets videre behandling av saken. Endringen var til selskapets «gunst». Utgifter til utarbeidelsen av klagen var «nødvendige» for at vedtaket ble endret.
 
 ## Sakens bakgrunn
 

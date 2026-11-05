@@ -14,10 +14,8 @@ Sivilombudets uttalelse 21.3.2025 (sak 2024/5413).
 
 ## Oppsummering
 
-Saken gjelder avslag på søknad etter sosialtjenesteloven § 18 til dekning til lagerleie mens klager satt i fengsel. Sivilombudet har kommet til at Statsforvalteren ikke har foretatt en tilstrekkelig individuell og konkret vurdering av om det var «åpenbart urimelig» at klageren ikke fikk dekket sine utgifter til lagerleie.   
-   
-   
- Ombudet har bedt Statsforvalteren behandle saken på nytt. I vurderingen må det ses hen til at NAV-kontoret skal bidra til å sikre en god overgang fra institusjonen eller boligen til livet utenfor for den enkelte som trenger det. Vurderingen må også ta hensyn til de mulighetene klageren i sin nåværende situasjon har til å finne alternative måter å sikre sine eiendeler, og om han har hatt mulighet til å finne andre, rimeligere måter å ivareta eiendelene.
+Saken gjelder avslag på søknad etter sosialtjenesteloven § 18 til dekning til lagerleie mens klager satt i fengsel. Sivilombudet har kommet til at Statsforvalteren ikke har foretatt en tilstrekkelig individuell og konkret vurdering av om det var «åpenbart urimelig» at klageren ikke fikk dekket sine utgifter til lagerleie.  
+Ombudet har bedt Statsforvalteren behandle saken på nytt. I vurderingen må det ses hen til at NAV-kontoret skal bidra til å sikre en god overgang fra institusjonen eller boligen til livet utenfor for den enkelte som trenger det. Vurderingen må også ta hensyn til de mulighetene klageren i sin nåværende situasjon har til å finne alternative måter å sikre sine eiendeler, og om han har hatt mulighet til å finne andre, rimeligere måter å ivareta eiendelene.
 
 Se oppdatering fra forvaltningen
 

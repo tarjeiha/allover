@@ -16,18 +16,12 @@ Sivilombudets uttalelse 12.4.2025 (sak 2024/1698).
 ## Oppsummering
 
 Saken gjelder ombudets undersøkelse av eget tiltak av den digitale vedtaksløsningen i Nav for hel- og delautomatisk behandling av søknader om sykepenger. Systemet ble tatt i bruk i 2022 og behandlet i 2024 ca. 2 millioner søknader.  
-   
- Sivilombudet påpekte at innbyggernes rettigheter eksisterer uavhengig av digitaliseringen av forvaltningen. Ny teknologi må utvikles slik at den oppfyller regelverket og ivaretar eksisterende rettigheter.   
-   
- Sivilombudet kom til at Navs digitale vedtaksløsning for behandling av søknader om sykepenger ikke oppfyller folketrygdloven §§ 8-28 og 8-29 som fastslår at utgangspunktet for beregningen av sykepengegrunnlaget skal tas i inntektsopplysninger hentet fra a-ordningen. Dersom det ikke var mulig å oppfylle lovens krav, måtte loven endres for å videreføre dagens løsning.  
-   
- Sivilombudet mente at fire av de elleve delautomatiske vedtakene som Sivilombudet særlig hadde gjennomgått, ikke oppfylte kravene til begrunnelse som følger av forvaltningsloven §§ 24 og 25 og kravene til god forvaltningsskikk.  
-   
- Sivilombudet mente videre at de delautomatiske vedtakene om sykepenger skulle inneholde navnet til saksbehandleren og navnet på enheten i Nav som hadde behandlet saken. (Ifølge Arbeids- og velferdsdirektoratet ble det arbeidet med å implementere dette i systemet).  
-   
- Det var også betenkelig at Nav ved innføringen av et nytt digitalt system, som skulle behandle et stort antall saker i året, ikke hadde mulighet til å kartlegge i hvor stor grad vedtakene ble påklaget eller i hvor mange av klagesakene det ble avdekket feil eller kvalitetsavvik.   
-   
- Sivilombudet kom videre til at Navs praksis med å avvise sykmeldinger som lider av formfeil eller mangler opplysninger, har et usikkert rettslig grunnlag og er i strid med god forvaltningsskikk. Sivilombudet mente at det kunne ha vært hensiktsmessig at Nav hadde rettslig adgang til slik avvisning, såfremt søkeren først var gitt anledning til å rette feilene.
+Sivilombudet påpekte at innbyggernes rettigheter eksisterer uavhengig av digitaliseringen av forvaltningen. Ny teknologi må utvikles slik at den oppfyller regelverket og ivaretar eksisterende rettigheter.  
+Sivilombudet kom til at Navs digitale vedtaksløsning for behandling av søknader om sykepenger ikke oppfyller folketrygdloven §§ 8-28 og 8-29 som fastslår at utgangspunktet for beregningen av sykepengegrunnlaget skal tas i inntektsopplysninger hentet fra a-ordningen. Dersom det ikke var mulig å oppfylle lovens krav, måtte loven endres for å videreføre dagens løsning.  
+Sivilombudet mente at fire av de elleve delautomatiske vedtakene som Sivilombudet særlig hadde gjennomgått, ikke oppfylte kravene til begrunnelse som følger av forvaltningsloven §§ 24 og 25 og kravene til god forvaltningsskikk.  
+Sivilombudet mente videre at de delautomatiske vedtakene om sykepenger skulle inneholde navnet til saksbehandleren og navnet på enheten i Nav som hadde behandlet saken. (Ifølge Arbeids- og velferdsdirektoratet ble det arbeidet med å implementere dette i systemet).  
+Det var også betenkelig at Nav ved innføringen av et nytt digitalt system, som skulle behandle et stort antall saker i året, ikke hadde mulighet til å kartlegge i hvor stor grad vedtakene ble påklaget eller i hvor mange av klagesakene det ble avdekket feil eller kvalitetsavvik.  
+Sivilombudet kom videre til at Navs praksis med å avvise sykmeldinger som lider av formfeil eller mangler opplysninger, har et usikkert rettslig grunnlag og er i strid med god forvaltningsskikk. Sivilombudet mente at det kunne ha vært hensiktsmessig at Nav hadde rettslig adgang til slik avvisning, såfremt søkeren først var gitt anledning til å rette feilene.
 
 Se oppdatering fra forvaltningen
 
@@ -424,12 +418,12 @@ Ny oppdatering, publisert 11.08.2026:
 Arbeids- og velferdsdirektoratet orienterte på nytt 28. mai 2026 om det videre arbeidet med oppfølgingen av uttalelsen.
 
 Beregningsgrunnlaget for sykepenger  
- Direktoratet bekreftet at løsningen med innlevering av inntektsmelding via Altinn skulle avvikles i juni 2026. Alle arbeidsgivere kunne da levere inntektsopplysninger via den nye digitale løsningen. Inntektsopplysninger fra a-ordningen ville i disse tilfellene være forhåndsutfylt i inntektsmeldingen. Dersom arbeidsgiveren gjorde endringer i opplysningene, måtte de gi en begrunnelse for endringene.
+Direktoratet bekreftet at løsningen med innlevering av inntektsmelding via Altinn skulle avvikles i juni 2026. Alle arbeidsgivere kunne da levere inntektsopplysninger via den nye digitale løsningen. Inntektsopplysninger fra a-ordningen ville i disse tilfellene være forhåndsutfylt i inntektsmeldingen. Dersom arbeidsgiveren gjorde endringer i opplysningene, måtte de gi en begrunnelse for endringene.
 
 Direktoratet orienterte også om en ny poengbasert risikomodul som plukket ut saker til manuell kontroll. Risikomodulen vurderte blant annet om arbeidsgiveren hadde rapportert lavere lønn til a-ordningen enn det som var oppgitt i inntektsmeldingen. Avvik på 9 pst eller mer ga utslag. I tillegg måtte det være treff på minst to andre vurderingsmomenter for at en sak ble plukket ut til manuell behandling.
 
 Avvisning av sykmeldinger  
- Direktoratet skrev at de arbeidet med å utvikle en ny løsning for innlevering av sykmeldinger. Det var derfor hensiktsmessig at videre vurderinger knyttet til avvisning av sykmeldinger ble utsatt til man så virkningene av den nye løsningen.
+Direktoratet skrev at de arbeidet med å utvikle en ny løsning for innlevering av sykmeldinger. Det var derfor hensiktsmessig at videre vurderinger knyttet til avvisning av sykmeldinger ble utsatt til man så virkningene av den nye løsningen.
 
 Ombudet tok orienteringen til etterretning. Den nye inntektsmeldingen bidro etter ombudets syn til å sikre oppfyllelse av folketrygdloven § 8-28 flg om beregning av sykepengegrunnlaget. Videre la ombudet til grunn at den nye risikomodulen innebar en skjerpet kontroll i forhold til den tidligere grensen på 25 pst avvik mellom inntekt fra inntektsmeldingen og a-ordningen.
 

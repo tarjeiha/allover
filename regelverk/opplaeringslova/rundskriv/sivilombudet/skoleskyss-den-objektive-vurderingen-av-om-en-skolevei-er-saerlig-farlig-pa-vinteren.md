@@ -15,10 +15,8 @@ Sivilombudets uttalelse 6.5.2024 (sak 2023/5268).
 ## Oppsummering
 
 Saken gjelder retten til skoleskyss ved særlig farlig skolevei på vinteren. Mor hadde søkt om skoleskyss for sine to barn på 4. trinn fordi hun mente en del av skoleveien var særlig farlig på vinteren. Statsforvalteren i Vestland mente at barna kunne gå i et tråkk ved siden av veibanen. Avslaget var særlig begrunnet med at fartsgrensen på stedet var 40 km/t, og at fri sikt la til rette for at kjørende kunne ivareta fotgjengeres sikkerhet på veistrekket.  
-   
- Mor klaget til ombudet fordi hun blant annet mente at veistrekningen var farligere enn det Statsforvalteren hadde lagt til grunn, og viste til mengden tungtrafikk og hvordan tråkket så ut. Hun sendte inn et bilde av den aktuelle veistrekningen som viste større snømengder og et barn som gikk i tråkket.  
-   
- Sivilombudet er kommet til at det er relevant å legge vekt på forventet snømengde ved den objektive vurderingen av om en skolevei er «særlig farleg» etter opplæringslova § 7-1 første ledd tredje punktum. Ombudet har ikke vesentlige innvendinger mot den objektive farevurderingen av veistrekningen i vintersesongen, og er enig i at enkeltdagene med snø ikke gjør at veistrekningen når opp til terskelen for hva som er særlig farlig eller vanskelig i vintersesongen som helhet.
+Mor klaget til ombudet fordi hun blant annet mente at veistrekningen var farligere enn det Statsforvalteren hadde lagt til grunn, og viste til mengden tungtrafikk og hvordan tråkket så ut. Hun sendte inn et bilde av den aktuelle veistrekningen som viste større snømengder og et barn som gikk i tråkket.  
+Sivilombudet er kommet til at det er relevant å legge vekt på forventet snømengde ved den objektive vurderingen av om en skolevei er «særlig farleg» etter opplæringslova § 7-1 første ledd tredje punktum. Ombudet har ikke vesentlige innvendinger mot den objektive farevurderingen av veistrekningen i vintersesongen, og er enig i at enkeltdagene med snø ikke gjør at veistrekningen når opp til terskelen for hva som er særlig farlig eller vanskelig i vintersesongen som helhet.
 
 ## Sakens bakgrunn
 

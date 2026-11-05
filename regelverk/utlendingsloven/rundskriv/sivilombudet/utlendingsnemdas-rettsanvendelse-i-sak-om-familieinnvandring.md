@@ -14,11 +14,9 @@ Sivilombudets uttalelse 12.9.2019 (sak 2018/4025).
 
 ## Oppsummering
 
-Saken gjelder UNEs rettsanvendelse i familieinnvandringssak hvor referansepersonen (herboende) var mindreårig.   
-   
- UNE har lagt til grunn en uriktig forståelse av utlendingsloven § 43, ved å innfortolke et krav om at referansepersonen må være enslig. UNEs tolkning er i strid med lovens ordlyd og mangler dessuten tilstrekkelig støtte i rettskildene for øvrig. Vedtaket er ugyldig.   
-   
- UNE må vurdere saken på nytt og legge ombudsmannens syn på gjeldende rett til grunn i den fornyede vurderingen av denne saken og i fremtidige saker.
+Saken gjelder UNEs rettsanvendelse i familieinnvandringssak hvor referansepersonen (herboende) var mindreårig.  
+UNE har lagt til grunn en uriktig forståelse av utlendingsloven § 43, ved å innfortolke et krav om at referansepersonen må være enslig. UNEs tolkning er i strid med lovens ordlyd og mangler dessuten tilstrekkelig støtte i rettskildene for øvrig. Vedtaket er ugyldig.  
+UNE må vurdere saken på nytt og legge ombudsmannens syn på gjeldende rett til grunn i den fornyede vurderingen av denne saken og i fremtidige saker.
 
 Se oppdatering fra forvaltningen
 

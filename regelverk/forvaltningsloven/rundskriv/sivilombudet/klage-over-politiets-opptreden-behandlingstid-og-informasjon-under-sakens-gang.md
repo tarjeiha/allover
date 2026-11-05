@@ -15,13 +15,10 @@ Sivilombudets uttalelse 28.2.2019 (sak 2018/1670).
 ## Oppsummering
 
 Saken gjelder Oslo politidistrikts behandling av en klage på to politibetjenters opptreden i forbindelse med en ransaking og beslag. Politidistriktet brukte nesten seks måneder på å besvare klagen. Politidistriktet oversatt også ombudsmannens frister for å gi opplysninger om saken. Henvendelser ble først besvart tre og en halv måned etter den opprinnelige fristen, etter to purringer. Behandlingstiden knyttet til klagen over politiets opptreden skyldtes ifølge politidistriktet «interne misforståelser» i distriktet. Med hensyn til ombudsmannens henvendelser ble behandlingstiden oppgitt å skyldes sen registrering og interne misforståelser.  
-   
- Klagen over politiets opptreden kan ikke anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Klageren ble heller ikke gitt tilfredsstillende informasjon om saksfremdriften underveis, jf. § 11 a annet ledd og alminnelige normer for god forvaltningsskikk.  
-   
- Politidistriktet har heller ikke oppfylt sin plikt til å gi ombudsmannen nødvendige opplysninger innen fastsatte frister, jf. sivilombudsmannsloven § 7 første ledd og sivilombudsmannsinstruksen § 6 annet ledd.   
- Samlet sett fremstår politidistriktets håndtering av sakskomplekset som klart kritikkverdig.  
-   
- Politidistriktet har opplyst at det vil undersøke hvorfor det tok nesten to måneder før ombudsmannens brev 23. mai 2018 ble registrert på saken hos distriktet. Ut fra det som har fremkommet av undersøkelsene herfra, bør distriktet også på mer generelt grunnlag gå gjennom sine rutiner for håndtering og registrering av innkomne henvendelser, og for å sørge for klarhet i den interne ansvarfordelingen i denne typen saker.
+Klagen over politiets opptreden kan ikke anses avgjort «uten ugrunnet opphold», jf. forvaltningsloven § 11 a første ledd. Klageren ble heller ikke gitt tilfredsstillende informasjon om saksfremdriften underveis, jf. § 11 a annet ledd og alminnelige normer for god forvaltningsskikk.  
+Politidistriktet har heller ikke oppfylt sin plikt til å gi ombudsmannen nødvendige opplysninger innen fastsatte frister, jf. sivilombudsmannsloven § 7 første ledd og sivilombudsmannsinstruksen § 6 annet ledd.  
+Samlet sett fremstår politidistriktets håndtering av sakskomplekset som klart kritikkverdig.  
+Politidistriktet har opplyst at det vil undersøke hvorfor det tok nesten to måneder før ombudsmannens brev 23. mai 2018 ble registrert på saken hos distriktet. Ut fra det som har fremkommet av undersøkelsene herfra, bør distriktet også på mer generelt grunnlag gå gjennom sine rutiner for håndtering og registrering av innkomne henvendelser, og for å sørge for klarhet i den interne ansvarfordelingen i denne typen saker.
 
 Se oppdatering fra forvaltningen
 

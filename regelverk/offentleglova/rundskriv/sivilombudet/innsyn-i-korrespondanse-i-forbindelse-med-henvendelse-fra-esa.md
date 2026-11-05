@@ -14,9 +14,8 @@ Sivilombudets uttalelse 20.12.2023 (sak 2023/2629).
 
 ## Oppsummering
 
-Saken gjelder et krav om innsyn hos Kommunal- og distriktsdepartementet i dokumenter knyttet til en klagesak hos ESA. Departementet unntok blant annet to dokumenter fra henholdsvis KLP og KS offentlighet med grunnlag i offentleglova §§ 15 andre ledd og 12 bokstav c.   
-   
- Sivilombudet er kommet til at det er begrunnet tvil om departementet har lagt til grunn en riktig forståelse av offentleglova § 15 andre ledd, da departementet har unntatt deler av dokumentene som fremstår som generelle gjennomganger av jus eller faktum. Ombudet mener også det er tvil om dokumentene i sin helhet kan unntas etter offentleglova § 12 bokstav c. Ombudet ber derfor departementet om å behandle saken på nytt.
+Saken gjelder et krav om innsyn hos Kommunal- og distriktsdepartementet i dokumenter knyttet til en klagesak hos ESA. Departementet unntok blant annet to dokumenter fra henholdsvis KLP og KS offentlighet med grunnlag i offentleglova §§ 15 andre ledd og 12 bokstav c.  
+Sivilombudet er kommet til at det er begrunnet tvil om departementet har lagt til grunn en riktig forståelse av offentleglova § 15 andre ledd, da departementet har unntatt deler av dokumentene som fremstår som generelle gjennomganger av jus eller faktum. Ombudet mener også det er tvil om dokumentene i sin helhet kan unntas etter offentleglova § 12 bokstav c. Ombudet ber derfor departementet om å behandle saken på nytt.
 
 ## Sakens bakgrunn
 

@@ -16,12 +16,9 @@ Sivilombudets uttalelse 6.9.2024 (sak 2024/783).
 ## Oppsummering
 
 Saken gjelder adgangen til å opprettholde begrensninger i midlertidige oppholdstillatelser etter utlendingsloven § 38 over tid.  
-   
- Klageren kom til Norge i 2006 og fikk opphold på bakgrunn av tilknytning til riket gjennom sitt norske barn i 2011. Ettersom det er tvil om hennes identitet, har imidlertid oppholdstillatelsen blitt gjort begrenset, jf. utlendingsloven § 38 femte ledd. Begrensningene innebærer blant annet at klageren ikke kan innvilges permanent oppholdstillatelse og familieinnvandring.  
-   
- Etter ombudets syn, indikerer forarbeidene at begrensede tillatelser først og fremst bør benyttes der det uklart om oppholdet vil bli varig. Dersom begrensede tillatelser innvilges over lengre tid, vil ikke dette hensynet gjøre seg gjeldende med samme styrke. I slike tilfeller vil imidlertid hensynet til integrering og forutsigbarhet for utlendingen fortsatt gjøre seg gjeldende. Dette er sentrale hensyn.  
-   
- Ombudet ba ikke nemnda om å foreta en ny vurdering av saken nå, ettersom klageren om kort tid må søke på nytt om fornyelse av oppholdstillatelsen. Ombudet forutsatte imidlertid at synspunktene i uttalelsen vil bli lagt til grunn av utlendingsmyndighetene under behandlingen av den nye søknaden.
+Klageren kom til Norge i 2006 og fikk opphold på bakgrunn av tilknytning til riket gjennom sitt norske barn i 2011. Ettersom det er tvil om hennes identitet, har imidlertid oppholdstillatelsen blitt gjort begrenset, jf. utlendingsloven § 38 femte ledd. Begrensningene innebærer blant annet at klageren ikke kan innvilges permanent oppholdstillatelse og familieinnvandring.  
+Etter ombudets syn, indikerer forarbeidene at begrensede tillatelser først og fremst bør benyttes der det uklart om oppholdet vil bli varig. Dersom begrensede tillatelser innvilges over lengre tid, vil ikke dette hensynet gjøre seg gjeldende med samme styrke. I slike tilfeller vil imidlertid hensynet til integrering og forutsigbarhet for utlendingen fortsatt gjøre seg gjeldende. Dette er sentrale hensyn.  
+Ombudet ba ikke nemnda om å foreta en ny vurdering av saken nå, ettersom klageren om kort tid må søke på nytt om fornyelse av oppholdstillatelsen. Ombudet forutsatte imidlertid at synspunktene i uttalelsen vil bli lagt til grunn av utlendingsmyndighetene under behandlingen av den nye søknaden.
 
 ## Sakens bakgrunn
 

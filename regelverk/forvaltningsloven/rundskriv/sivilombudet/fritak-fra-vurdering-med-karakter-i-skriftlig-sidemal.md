@@ -16,8 +16,7 @@ Sivilombudets uttalelse 19.10.2022 (sak 2022/1316).
 ## Oppsummering
 
 Saken gjelder fritak fra vurdering med karakter i skriftlig sidemål for en elev i videregående skole. Klageren har dysleksi og søkte om fritak grunnet problemer med å lære begge målformene, jf. forskrift til opplæringslova § 3-19 første ledd bokstav a. Klagenemnda i Vestland fylkeskommune avslo søknaden. Nemndas vedtak var begrunnet med at forskriftens krav om årsakssammenheng ikke var oppfylt, og viste til at klageren fikk gode standpunktkarakterer i hovedmål og sidemål.  
-   
- Sivilombudet er kommet til at klagenemnda tolket og anvendte kravet til årsakssammenheng på en uriktig måte ved behandlingen av klagerens sak. Bestemmelsen krever sammenheng mellom elevens dokumenterte «sjukdom, skade eller dysfunksjon» på den ene siden og hans eller hennes «problem med å lære begge målformene» på den andre siden. Kravet omfatter ikke elevens karakterer, slik nemndas vedtak bygget på. Videre var det ikke riktig å legge vekt på karakterene som et moment ved vurderingen av kravet til årsakssammenheng. Karakterer kan eventuelt inngå i vurderingen av om eleven har tilstrekkelige problemer med å lære begge målformene. Ombudet ber klagenemnda om å behandle saken på nytt.
+Sivilombudet er kommet til at klagenemnda tolket og anvendte kravet til årsakssammenheng på en uriktig måte ved behandlingen av klagerens sak. Bestemmelsen krever sammenheng mellom elevens dokumenterte «sjukdom, skade eller dysfunksjon» på den ene siden og hans eller hennes «problem med å lære begge målformene» på den andre siden. Kravet omfatter ikke elevens karakterer, slik nemndas vedtak bygget på. Videre var det ikke riktig å legge vekt på karakterene som et moment ved vurderingen av kravet til årsakssammenheng. Karakterer kan eventuelt inngå i vurderingen av om eleven har tilstrekkelige problemer med å lære begge målformene. Ombudet ber klagenemnda om å behandle saken på nytt.
 
 Se oppdatering fra forvaltningen
 

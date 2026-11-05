@@ -15,13 +15,10 @@ Sivilombudets uttalelse 14.12.2020 (sak 2019/4998).
 
 ## Oppsummering
 
-Saken gjelder Stavanger kommunes manglende behandling av en innsynsbegjæring. Klageren hadde purret skriftlig gjentatte ganger og bedt om klagebehandling av saken. Kommunen mente at det kommunale foretaket, Stavanger Parkeringsselskap KF, skulle behandle innsynssaken.   
-   
- Ombudsmannen er kommet til at kommunens håndtering av innsynskravet ikke er i overensstemmelse med offentleglova § 29. Kommunen må omgående ta stilling til innsynskravet, samt vurdere om det er nødvendig å veilede klageren i saken. Ombudsmannen ber om å få kopi av kommunens avgjørelse i innsynssaken.  
-   
- Ombudsmannen forutsetter at kommunen gjennomgår gjeldende rutiner for behandling av innsynskrav, slik at også innsynskrav som etter kommunens vurdering skulle vært rettet til et annet organ, behandles etter samme rutiner og innen samme frister som øvrige innsynskrav.  
-   
- Til tross for gjentatte muntlige og skriftlige påminnelser herfra, og gjentatte muntlige forsikringer fra kommunen om at saken vil bli fulgt opp, har kommunen i en periode på ti måneder ikke besvart ombudsmannens henvendelser. Ombudsmannen forutsetter videre at eventuelle fremtidige henvendelser herfra behandles og besvares innen de frister ombudsmannen setter.
+Saken gjelder Stavanger kommunes manglende behandling av en innsynsbegjæring. Klageren hadde purret skriftlig gjentatte ganger og bedt om klagebehandling av saken. Kommunen mente at det kommunale foretaket, Stavanger Parkeringsselskap KF, skulle behandle innsynssaken.  
+Ombudsmannen er kommet til at kommunens håndtering av innsynskravet ikke er i overensstemmelse med offentleglova § 29. Kommunen må omgående ta stilling til innsynskravet, samt vurdere om det er nødvendig å veilede klageren i saken. Ombudsmannen ber om å få kopi av kommunens avgjørelse i innsynssaken.  
+Ombudsmannen forutsetter at kommunen gjennomgår gjeldende rutiner for behandling av innsynskrav, slik at også innsynskrav som etter kommunens vurdering skulle vært rettet til et annet organ, behandles etter samme rutiner og innen samme frister som øvrige innsynskrav.  
+Til tross for gjentatte muntlige og skriftlige påminnelser herfra, og gjentatte muntlige forsikringer fra kommunen om at saken vil bli fulgt opp, har kommunen i en periode på ti måneder ikke besvart ombudsmannens henvendelser. Ombudsmannen forutsetter videre at eventuelle fremtidige henvendelser herfra behandles og besvares innen de frister ombudsmannen setter.
 
 ## Sakens bakgrunn
 

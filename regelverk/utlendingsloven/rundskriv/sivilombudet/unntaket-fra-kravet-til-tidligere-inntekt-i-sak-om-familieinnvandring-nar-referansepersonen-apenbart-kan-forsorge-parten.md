@@ -14,11 +14,9 @@ Sivilombudets uttalelse 8.2.2023 (sak 2022/4174).
 
 ## Oppsummering
 
-Saken gjelder et avslag på søknad om oppholdstillatelse for familieinnvandring på bakgrunn av ekteskap. Utlendingsnemnda (UNE) avslo søknaden fordi de mente at kravet til referansepersonens (den det var søkt om innvandring til) tidligere inntekt ikke var oppfylt, jf. utlendingsforskriften § 10-9 første ledd. For Sivilombudet gjaldt saken UNEs vurdering av om det var grunnlag for å gjøre unntak fra kravet til tidligere inntekt fordi referansepersonen «åpenbart» kunne forsørge partene, jf. utlendingsforskriften § 10-11 andre ledd.   
-   
- Sivilombudet er kommet til at det er begrunnet tvil om UNE foretok en tilstrekkelig bred vurdering av relevante momenter når de tok stilling til om referansepersonen «åpenbart er i stand til å forsørge partene», jf. utlendingsforskriften § 10-11 andre ledd.   
-   
- På denne bakgrunn bes UNE om å behandle saken på nytt innen 24. mars 2023.
+Saken gjelder et avslag på søknad om oppholdstillatelse for familieinnvandring på bakgrunn av ekteskap. Utlendingsnemnda (UNE) avslo søknaden fordi de mente at kravet til referansepersonens (den det var søkt om innvandring til) tidligere inntekt ikke var oppfylt, jf. utlendingsforskriften § 10-9 første ledd. For Sivilombudet gjaldt saken UNEs vurdering av om det var grunnlag for å gjøre unntak fra kravet til tidligere inntekt fordi referansepersonen «åpenbart» kunne forsørge partene, jf. utlendingsforskriften § 10-11 andre ledd.  
+Sivilombudet er kommet til at det er begrunnet tvil om UNE foretok en tilstrekkelig bred vurdering av relevante momenter når de tok stilling til om referansepersonen «åpenbart er i stand til å forsørge partene», jf. utlendingsforskriften § 10-11 andre ledd.  
+På denne bakgrunn bes UNE om å behandle saken på nytt innen 24. mars 2023.
 
 Se oppdatering fra forvaltningen
 

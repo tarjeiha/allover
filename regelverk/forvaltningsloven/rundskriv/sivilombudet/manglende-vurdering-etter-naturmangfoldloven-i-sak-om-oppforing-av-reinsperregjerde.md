@@ -15,8 +15,7 @@ Sivilombudets uttalelse 18.2.2013 (sak 2011/1327).
 ## Oppsummering
 
 Landbruks- og matdepartementets godkjenning av oppføring av reinsperregjerde etter reindriftsloven § 24 inneholdt ingen vurdering etter naturmangfoldloven. A har på denne bakgrunn klaget vedtaket inn for ombudsmannen.  
-   
- Departementet har hevdet at vurderingene «rent faktisk» ble gjort i konsekvensutredningen og to tilleggsutredninger i saken og har derfor ansett vedtaket som gyldig. Det har imidlertid ikke vist til spesifikke deler av utredningene som helt eller delvis kunne tenkes å erstatte vurderingene som skulle ha blitt gjort etter naturmangfoldloven. Departementet må videre selv foreta vurderingene etter naturmangfoldloven. Jeg er på denne bakgrunn kommet til at departementet må foreta en ny vurdering av vedtakets gyldighet.
+Departementet har hevdet at vurderingene «rent faktisk» ble gjort i konsekvensutredningen og to tilleggsutredninger i saken og har derfor ansett vedtaket som gyldig. Det har imidlertid ikke vist til spesifikke deler av utredningene som helt eller delvis kunne tenkes å erstatte vurderingene som skulle ha blitt gjort etter naturmangfoldloven. Departementet må videre selv foreta vurderingene etter naturmangfoldloven. Jeg er på denne bakgrunn kommet til at departementet må foreta en ny vurdering av vedtakets gyldighet.
 
 Se oppdatering fra forvaltningen
 
@@ -59,7 +58,7 @@ I Ot.prp. nr. 52 (2008–2009) på s. 378 heter det blant annet:
 > «§7 innebærer også at begrunnelsen for offentlige myndighetsbeslutninger skal vise hvordan prinsippene er kommet inn i den konkrete saken og hvilken vekt de er tillagt, jf. *annet punktum*. Dette gjelder selv om det etter alminnelige forvaltningsrettslige regler ikke skulle foreligge begrunnelsesplikt. Offentlig myndighetsutøving er først og fremst vedtak av forskrifter eller enkeltvedtak. … Ordlyden omfatter myndighetsutøving både etter naturmangfoldloven og etter andre lover som berører naturmangfoldet. For å bidra til at den samlede forvaltningen er i tråd med prinsippene, og at tolkningen av prinsippene blir mest mulig ensartet, er den nevnte *begrunnelsesplikten særskilt viktig*.» (min utheving)
 
 Inge Lorange Backer skriver i Naturmangfoldloven Kommentarutgave (2010) på s. 86  
- om naturmangfoldloven § 7:«
+om naturmangfoldloven § 7:«
 
 > *Annet punktum* bestemmer at det skal fremgå av beslutningen hvilken rolle prinsippene i §§ 8 til 12 har spilt for avgjørelsen. Etterlevelse av dette kan både sikre at de faktisk får betydning, og gi grunnlag for kontroll med at det skjer. For enkeltvedtak betyr annet punktum *et spesifikt tillegg til de generelle krav til begrunnelse*for vedtaket som fvl. § 25 stiller.» (min utheving)
 

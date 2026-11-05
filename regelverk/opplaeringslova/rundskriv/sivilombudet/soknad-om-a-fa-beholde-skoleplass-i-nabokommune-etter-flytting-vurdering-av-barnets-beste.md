@@ -16,10 +16,8 @@ Sivilombudets uttalelse 30.6.2020 (sak 2019/4219).
 ## Oppsummering
 
 Saken gjelder Fylkesmannen i Xs opprettholdelse av Y kommunes avslag på søknad om skolebytte. Klager ønsket å fortsette i 9. klasse på skolen hun gikk på før hun flyttet til ny kommune, fremfor å begynne på ungdomsskolen i kommunen hun hadde flyttet til. Den nye bostedskommunen hadde tidligere innvilget søknad om skolebytte over kommunegrensen, men bare for skoleåret 2018/19. Da hun våren 2019 på nytt søkte om skolebytte, for å kunne fortsette på skolen hun allerede gikk på, ble søknaden avslått. Avslaget var blant annet begrunnet med at hun hadde fått et år på å forberede seg på overgangen til ny skole.  
-   
- Ombudsmannen er kommet til at det er mangler ved Fylkesmannens vurdering av hva som er barnets beste. Det var ikke foretatt en tilstrekkelig individuell og konkret vurdering av om skolen hun sognet til ville kunne ivareta behovene som begrunnet søknaden om skolebytte. Det var heller ikke vurdert om det ville være en særskilt ulempe for klager å måtte bytte skole midt i ungdomsskoleløpet. At klager på søknadstidspunktet var velfungerende, både sosialt og faglig, mener ombudsmannen er et argument som i dette tilfelle talte for å innvilge søknaden.  
-   
- Ombudsmannen har bedt Fylkesmannen om å foreta en ny vurdering av søknaden om skolebytte. I denne vurderingen må det tas hensyn til nye opplysninger i saken, blant annet hvordan klager har tilpasset seg skolegang på den nye skolen.
+Ombudsmannen er kommet til at det er mangler ved Fylkesmannens vurdering av hva som er barnets beste. Det var ikke foretatt en tilstrekkelig individuell og konkret vurdering av om skolen hun sognet til ville kunne ivareta behovene som begrunnet søknaden om skolebytte. Det var heller ikke vurdert om det ville være en særskilt ulempe for klager å måtte bytte skole midt i ungdomsskoleløpet. At klager på søknadstidspunktet var velfungerende, både sosialt og faglig, mener ombudsmannen er et argument som i dette tilfelle talte for å innvilge søknaden.  
+Ombudsmannen har bedt Fylkesmannen om å foreta en ny vurdering av søknaden om skolebytte. I denne vurderingen må det tas hensyn til nye opplysninger i saken, blant annet hvordan klager har tilpasset seg skolegang på den nye skolen.
 
 Se oppdatering fra forvaltningen
 
@@ -106,7 +104,7 @@ Dette er avhjulpet noe av Fylkesmannens svar til ombudsmannen 21. februar 2020, 
 2.2. Fylkesmannens kompetanse som klageinstans
 
 Ombudsmannen har funnet grunn til å si noe generelt om Fylkesmannens kompetanse som klageinstans i denne typen saker. Ombudsmannen har erfart fra flere andre saker om skolebytte at forholdet mellom klageinstansens kompetanse og kravet i opplæringslova  
- § 15-1 tredje ledd kan synes utfordrende å håndtere. Særlig kan det se ut til avveiningen av barnets beste opp mot hensynet til det kommunale selvstyret er vanskelig. I flere av de klageavgjørelsene ombudsmannen ser, er det disse to hensynene som gis sentral omtale og som trekker i hver sin retning.
+§ 15-1 tredje ledd kan synes utfordrende å håndtere. Særlig kan det se ut til avveiningen av barnets beste opp mot hensynet til det kommunale selvstyret er vanskelig. I flere av de klageavgjørelsene ombudsmannen ser, er det disse to hensynene som gis sentral omtale og som trekker i hver sin retning.
 
 Fylkesmannen skal, som ett av flere momenter, vektlegge hensynet til det kommunale selvstyret i klagebehandlingen. I forarbeidene til endringen av forvaltningsloven § 34 annet ledd (Prp. 64 L (2016-2017) avsnitt 3.6.1) ble det uttalt følgende om hva som ligger i dette:
 

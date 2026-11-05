@@ -14,15 +14,11 @@ Sivilombudets uttalelse 17.7.2018 (sak 2017/633).
 
 ## Oppsummering
 
-Saken gjelder dekning av reiseutgifter ved behandling hos spesialisthelsetjenesten, jf. pasient- og brukerrettighetsloven § 2-6.   
-   
- En pasient hadde ved flere anledninger fått refundert reiseutgiftene med bil helt frem til behandlingsstedet. I denne saken fikk han imidlertid avslag på dekning av utgifter til bruk av bil på den siste reisestrekningen, idet denne ble ansett som gangavstand.   
-   
- Gjennom ombudsmannens undersøkelser kom det frem at vedtaket var et utslag av en generell innstramming av praksis i refusjonssaker hos Pasientreiser Helse Stavanger. Pasienten ble ikke varslet om denne innstrammingen før reisen.  
-   
- Ombudsmannen har ikke innsigelser mot Fylkesmannens vurdering av hva som var nødvendige reiseutgifter. På bakgrunn av pasientens anførsler burde Fylkesmannen ha undersøkt hvorfor pasientreisekontorets vedtak var forskjellig fra tidligere vedtak for sammenlignbare reiser. Forvaltningen har normalt adgang til å endre praksis hvis tidligere praksis er i strid med loven. Da pasientreiseordningen er basert på etterskuddsvise refusjonsvedtak, burde det vært gitt informasjon om endringen.   
-   
- Ut fra erstatningsrettslige betraktninger bes Pasientreiser vurdere å refundere de pådratte utgiftene. Fylkesmannen bes for øvrig følge med på at pasientreisekontorene har en mest mulig ensartet praksis.
+Saken gjelder dekning av reiseutgifter ved behandling hos spesialisthelsetjenesten, jf. pasient- og brukerrettighetsloven § 2-6.  
+En pasient hadde ved flere anledninger fått refundert reiseutgiftene med bil helt frem til behandlingsstedet. I denne saken fikk han imidlertid avslag på dekning av utgifter til bruk av bil på den siste reisestrekningen, idet denne ble ansett som gangavstand.  
+Gjennom ombudsmannens undersøkelser kom det frem at vedtaket var et utslag av en generell innstramming av praksis i refusjonssaker hos Pasientreiser Helse Stavanger. Pasienten ble ikke varslet om denne innstrammingen før reisen.  
+Ombudsmannen har ikke innsigelser mot Fylkesmannens vurdering av hva som var nødvendige reiseutgifter. På bakgrunn av pasientens anførsler burde Fylkesmannen ha undersøkt hvorfor pasientreisekontorets vedtak var forskjellig fra tidligere vedtak for sammenlignbare reiser. Forvaltningen har normalt adgang til å endre praksis hvis tidligere praksis er i strid med loven. Da pasientreiseordningen er basert på etterskuddsvise refusjonsvedtak, burde det vært gitt informasjon om endringen.  
+Ut fra erstatningsrettslige betraktninger bes Pasientreiser vurdere å refundere de pådratte utgiftene. Fylkesmannen bes for øvrig følge med på at pasientreisekontorene har en mest mulig ensartet praksis.
 
 Se oppdatering fra forvaltningen
 

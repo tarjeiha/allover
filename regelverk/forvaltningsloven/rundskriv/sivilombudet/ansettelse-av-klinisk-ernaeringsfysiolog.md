@@ -16,8 +16,7 @@ Sivilombudets uttalelse 26.3.2020 (sak 2019/4398).
 ## Oppsummering
 
 Klageren søkte på et vikariat som klinisk ernæringsfysiolog i et helseforetak. Hun ble ikke innkalt til intervju, selv om hun fremsto formelt kvalifisert. Foretaket ansatte en nyutdannet person som tidligere hadde hatt et praksisopphold ved foretakets sykehus. I klagen til ombudsmannen skrev klageren at hun var overrasket over å ikke bli innkalt til intervju. Hun stilte seg videre tvilende til om ansettelsen var i tråd med kvalifikasjonsprinsippet.  
-   
- Ombudsmannen er kommet til at helseforetakets ansettelse og saksbehandling på flere punkter er i strid med de kravene som følger av ulovfestet rett. Foretaket har brutt kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte et av kravene i utlysningsteksten. Foretaket har også brutt plikten til å opplyse saken ved å ikke avholde intervjuer med aktuelle søkere. Videre har foretaket ikke overholdt kravet til skriftlighet i ansettelsessaker. Ombudsmannen ber foretaket merke seg de forholdene som er påpekt i uttalelsen, og innrette saksbehandlingen ved fremtidige ansettelser i tråd med dette.
+Ombudsmannen er kommet til at helseforetakets ansettelse og saksbehandling på flere punkter er i strid med de kravene som følger av ulovfestet rett. Foretaket har brutt kvalifikasjonsprinsippet ved å ansette en person som ikke oppfylte et av kravene i utlysningsteksten. Foretaket har også brutt plikten til å opplyse saken ved å ikke avholde intervjuer med aktuelle søkere. Videre har foretaket ikke overholdt kravet til skriftlighet i ansettelsessaker. Ombudsmannen ber foretaket merke seg de forholdene som er påpekt i uttalelsen, og innrette saksbehandlingen ved fremtidige ansettelser i tråd med dette.
 
 ## Sakens bakgrunn
 

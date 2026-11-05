@@ -14,9 +14,9 @@ Sivilombudets uttalelse 5.2.2023 (sak 2022/4188).
 
 ## Oppsummering
 
-Saken gjaldt spørsmålet om hvilke krav som stilles til innholdet av en klage etter skatteforvaltningsloven § 13-5. Den samme dagen som klageren i saken mottok vedtak om endret skattefastsetting, henvendte han seg til skattekontoret. I henvendelsen fremholdt han blant annet at det var «en rekke feil beregninger» med vedtaket. Skatteklagenemnda mente at henvendelsen ikke oppfylte kravene som stilles til en klage.   
- Ombudet kom til at Skatteklagenemnda hadde lagt til grunn en uriktig forståelse av skatteforvaltningsloven § 13-5 tredje ledd. Det sentrale måtte være at henvendelsen fra klageren ga uttrykk for at vedkommende var uenig i vedtaket, og at det kort ble pekt på hva i vedtaket den skattepliktige mente var feil, enten det gjaldt faktum, rettsanvendelse eller skjønnsutøvelse. Etter ombudets syn oppfylte henvendelsen fra den skattepliktige kravene som stilles til en klage. Ombudet mente videre at den skattepliktige ikke hadde fått tilstrekkelig veiledning i saken.   
- Ombudet ba om at Skattedirektoratet nå sørget for at saken ble klagebehandlet, og at den ble gitt prioritering med utgangspunkt i når klagen først ble fremsatt.
+Saken gjaldt spørsmålet om hvilke krav som stilles til innholdet av en klage etter skatteforvaltningsloven § 13-5. Den samme dagen som klageren i saken mottok vedtak om endret skattefastsetting, henvendte han seg til skattekontoret. I henvendelsen fremholdt han blant annet at det var «en rekke feil beregninger» med vedtaket. Skatteklagenemnda mente at henvendelsen ikke oppfylte kravene som stilles til en klage.  
+Ombudet kom til at Skatteklagenemnda hadde lagt til grunn en uriktig forståelse av skatteforvaltningsloven § 13-5 tredje ledd. Det sentrale måtte være at henvendelsen fra klageren ga uttrykk for at vedkommende var uenig i vedtaket, og at det kort ble pekt på hva i vedtaket den skattepliktige mente var feil, enten det gjaldt faktum, rettsanvendelse eller skjønnsutøvelse. Etter ombudets syn oppfylte henvendelsen fra den skattepliktige kravene som stilles til en klage. Ombudet mente videre at den skattepliktige ikke hadde fått tilstrekkelig veiledning i saken.  
+Ombudet ba om at Skattedirektoratet nå sørget for at saken ble klagebehandlet, og at den ble gitt prioritering med utgangspunkt i når klagen først ble fremsatt.
 
 Se oppdatering fra forvaltningen
 
@@ -41,9 +41,9 @@ Min økonomiske situasjon tillater ikke meg å kunne få hjelp av advokat dessve
 Saksbehandleren i Skatteetaten besvarte henvendelsen 12. april 2019:
 
 «Hei  
- Klagefristen [er] 6 uker, jf. skatteforvaltningsloven § 13-4. Det er mulig å få forlenget frist dersom det er nødvendig. Ta derfor kontakt når klagefristens utløp nærmer seg så kan vi se på saken da.  
- Du kan selvfølgelig sende inn dokumentasjon fortløpende.  
- Med hilsen […]»
+Klagefristen [er] 6 uker, jf. skatteforvaltningsloven § 13-4. Det er mulig å få forlenget frist dersom det er nødvendig. Ta derfor kontakt når klagefristens utløp nærmer seg så kan vi se på saken da.  
+Du kan selvfølgelig sende inn dokumentasjon fortløpende.  
+Med hilsen […]»
 
 Først i brev 21. juni 2021 sendte advokatfirmaet Hulås inn ytterligere informasjon i saken på vegne av skattepliktige. Ifølge dette brevet hadde skattepliktige vært av den oppfatning at hans klage var under behandling. Skattekontoret svarte på brevet 10. september 2021. Etter deres syn var henvendelsen fra skattepliktige 8. april 2019 ikke å anse som en klage, men som en anmodning om å få utsatt klagefristen. Klagefristen på ett år var derfor oversittet, jf. skatteforvaltningsloven § 13-4 tredje ledd. Brevet fra advokatkontoret 21. juni 2021 ble etter dette behandlet som en anmodning om endring etter skatteforvaltningsloven § 12-1. Skattekontoret konkluderte med at saken ikke skulle tas opp til endring.
 
@@ -68,7 +68,7 @@ Vi oppfatter at vedtaket generelt gir uttrykk for en riktig forståelse av skatt
 Vi ser imidlertid at det er behov for å tydeliggjøre i Skatteforvaltningshåndboken under kapittel § 13-5 om hva som ligger i lovens krav om at klagen «skal inneholde bestemte påstander og redegjøre for de forhold påstandene bygger på» for å sikre likebehandling. Bare helt unntaksvis bør skattemyndighetene avvise en klage fordi den ikke inneholder en tilstrekkelig redegjørelse for påstandene. En skattepliktig vil i utgangspunktet ikke ha særlig innsikt i skattereglene og kravene til begrunnelse (redegjørelse) for påstandene må derfor være beskjedne. Primært vil redegjørelsen knytte seg til faktum. Det kan ikke være tilstrekkelig å bare peke på at vedtaket er feil eller at den skattepliktige er misfornøyd med vedtaket, men det kan heller ikke kreves at den skattepliktige skal angi hvordan fastsettingen skal være. Det sentrale må være at den skattepliktige peker på punkter i vedtaket som han mener er feil, enten det gjelder faktum, rettsanvendelsen eller skjønn.»
 
 På spørsmålet om hvorfor den skattepliktige ikke fikk utsatt frist da han ba om det i  
- e-posten 8. april 2019, svarte direktoratet at det normalt bør gis utsettelse i slike tilfeller. Direktoratet oppfattet likevel at saksbehandleren ønsket å imøtekomme den skattepliktige ved å orientere om muligheten for fristutsettelse for å se hvor lang utsettelse det var behov for.
+e-posten 8. april 2019, svarte direktoratet at det normalt bør gis utsettelse i slike tilfeller. Direktoratet oppfattet likevel at saksbehandleren ønsket å imøtekomme den skattepliktige ved å orientere om muligheten for fristutsettelse for å se hvor lang utsettelse det var behov for.
 
 Skattedirektoratet svarte videre at den skattepliktige burde fått nærmere veiledning om mulighetene for fristutsettelse og hva det var behov for av opplysninger. Direktoratet viste imidlertid til at den skattepliktige fikk varsel om endring 28. desember 2018, og at han i melding 9. januar 2019 fikk ytterligere oppfordringer om å komme med informasjon i saken før vedtaket om endring ble fattet. Slik svarbrevet fra saksbehandleren 12. april 2019 var utformet, mente direktoratet at det likevel ville vært naturlig å følge opp den skattepliktige da klagefristen utløp uten at ytterligere opplysninger hadde kommet inn.
 
@@ -81,7 +81,7 @@ Spørsmålet i saken er om Skatteklagenemnda la til grunn en riktig forståelse 
 ### 1. Rettslige utgangspunkter
 
 Kravene som stilles til en klages form og innhold fremgår av skatteforvaltningsloven  
- § 13-5. Bestemmelsen har følgende ordlyd:
+§ 13-5. Bestemmelsen har følgende ordlyd:
 
 «(1) Klagen skal sendes til det organet som har truffet vedtaket som påklages.
 

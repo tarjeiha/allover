@@ -15,8 +15,7 @@ Sivilombudets uttalelse 16.10.2024 (sak 2025/1083).
 ## Oppsummering
 
 Saken gjelder lang behandlingstid hos Statsforvalteren i Østfold, Buskerud, Oslo og Akershus i forbindelse med behandlingen av en klage over avslag på partsinnsyn. To foreldre begjærte partsinnsyn i deres barns pasientjournal hos Oslo universitetssykehus HF. Innsynskravet ble fremsatt 7. juli 2023, og kom sist 28. august 2024 til Statsforvalteren for klagebehandling, etter at Statsforvalteren tidligere hadde opphevet sykehusets avslag. Statsforvalteren har opplyst i brev 29. november 2024 at saken vil bli ferdigbehandlet i løpet av mai 2025. Mens saken har pågått, har en av foreldrene gått bort. Den lange behandlingstiden skyldtes ifølge Statsforvalteren kapasitetsutfordringer.  
-   
- Sivilombudet kom til at Statsforvalterens behandlingstid er i strid med forvaltningsloven § 11 a. Ombudet mente videre at saken ikke har vært tilstrekkelig prioritert. Statsforvalteren hadde heller ikke holdt klagerne orientert om sakens fremdrift slik forvaltningsloven § 11 a andre ledd og normer til god forvaltningsskikk krever
+Sivilombudet kom til at Statsforvalterens behandlingstid er i strid med forvaltningsloven § 11 a. Ombudet mente videre at saken ikke har vært tilstrekkelig prioritert. Statsforvalteren hadde heller ikke holdt klagerne orientert om sakens fremdrift slik forvaltningsloven § 11 a andre ledd og normer til god forvaltningsskikk krever
 
 Se oppdatering fra forvaltningen
 

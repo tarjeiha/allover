@@ -15,14 +15,10 @@ Sivilombudets uttalelse 24.3.2020 (sak 2019/4302, 2019/4297 og 2019/5052).
 ## Oppsummering
 
 Saken gjelder Fylkesmannens behandling av tre klager med påstand om at skolen har brutt taushetsplikten ved å sende bekymringsmelding til barnevernet.  
-   
- Fylkesmannen har i tilsynssakene vist til at ombudsmannen synes å være enig i at Fylkesmannens saksbehandling ikke er egnet for å avklare om taushetsplikten er brutt i en konkret sak etter opplæringsloven § 15-3, og at ombudsmannen har gitt føringer om at tilsyn i slike saker bør innrettes mot aktuelle systemer/rutiner.  
-   
- Fylkesmannen har her tolket ombudsmannen uriktig. Ombudsmannen har forutsatt at Fylkesmannens kompetanse til å føre tilsyn også omfatter adgangen til å prøve om vilkårene for å sende melding til barnevernet har vært oppfylt. Den sentrale begrunnelsen for at Fylkesmannen avsluttet de aktuelle sakene, var basert på slutninger og tolkninger av ombudsmannens brev og uttalelse som det ikke var dekning for. Fylkesmannen bes vurdere de aktuelle sakene på nytt.  
-   
- Fylkesmannen bes om å gjennomgå eventuelle andre saker med tilsvarende vurderinger, og om nødvendig behandle også disse sakene på nytt.  
-   
- Uttalelsen sendes i kopi til Statens helsetilsyn og Utdanningsdirektoratet, med oppfordring om å vurdere om deres retningslinjer og veiledninger er riktig forstått av Fylkesmannen.
+Fylkesmannen har i tilsynssakene vist til at ombudsmannen synes å være enig i at Fylkesmannens saksbehandling ikke er egnet for å avklare om taushetsplikten er brutt i en konkret sak etter opplæringsloven § 15-3, og at ombudsmannen har gitt føringer om at tilsyn i slike saker bør innrettes mot aktuelle systemer/rutiner.  
+Fylkesmannen har her tolket ombudsmannen uriktig. Ombudsmannen har forutsatt at Fylkesmannens kompetanse til å føre tilsyn også omfatter adgangen til å prøve om vilkårene for å sende melding til barnevernet har vært oppfylt. Den sentrale begrunnelsen for at Fylkesmannen avsluttet de aktuelle sakene, var basert på slutninger og tolkninger av ombudsmannens brev og uttalelse som det ikke var dekning for. Fylkesmannen bes vurdere de aktuelle sakene på nytt.  
+Fylkesmannen bes om å gjennomgå eventuelle andre saker med tilsvarende vurderinger, og om nødvendig behandle også disse sakene på nytt.  
+Uttalelsen sendes i kopi til Statens helsetilsyn og Utdanningsdirektoratet, med oppfordring om å vurdere om deres retningslinjer og veiledninger er riktig forstått av Fylkesmannen.
 
 Se oppdatering fra forvaltningen
 

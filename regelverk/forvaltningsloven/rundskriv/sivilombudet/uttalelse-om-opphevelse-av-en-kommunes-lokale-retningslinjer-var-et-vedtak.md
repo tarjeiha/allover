@@ -14,9 +14,8 @@ Sivilombudets uttalelse 23.8.2021 (sak 2021/1271).
 
 ## Oppsummering
 
-En privat barnehage søkte om økt driftstilskudd fra kommunen fordi tre barn var tilbudt plass i barnehagen. Kommunen hadde i lokale retningslinjer fastsatt tre tidspunkter for telling av antall barn i barnehagen. Etter retningslinjene ville de tre barna ha blitt medregnet ved neste telletidspunkt, og barnehagen ville fått økt tilskudd. Retningslinjene hadde derimot blitt opphevet før barnehagen søkte om økt tilskudd, og kravet ble avslått. Barnehagen mente at opphevelsen av retningslinjene var et vedtak etter forvaltningsloven, og at kommunen hadde begått saksbehandlingsfeil.   
-   
- Sivilombudet er kommet til at kommunens opphevelse av retningslinjer om rapportering av barn i private barnehager på fastsatte tidspunkter og med virkning for beregning av tilskudd, var forskrift etter forvaltningsloven § 2 første ledd bokstav c). Saksbehandlingsreglene som gjelder for opphevelse av forskrift, skulle derfor ha blitt fulgt.
+En privat barnehage søkte om økt driftstilskudd fra kommunen fordi tre barn var tilbudt plass i barnehagen. Kommunen hadde i lokale retningslinjer fastsatt tre tidspunkter for telling av antall barn i barnehagen. Etter retningslinjene ville de tre barna ha blitt medregnet ved neste telletidspunkt, og barnehagen ville fått økt tilskudd. Retningslinjene hadde derimot blitt opphevet før barnehagen søkte om økt tilskudd, og kravet ble avslått. Barnehagen mente at opphevelsen av retningslinjene var et vedtak etter forvaltningsloven, og at kommunen hadde begått saksbehandlingsfeil.  
+Sivilombudet er kommet til at kommunens opphevelse av retningslinjer om rapportering av barn i private barnehager på fastsatte tidspunkter og med virkning for beregning av tilskudd, var forskrift etter forvaltningsloven § 2 første ledd bokstav c). Saksbehandlingsreglene som gjelder for opphevelse av forskrift, skulle derfor ha blitt fulgt.
 
 ## Sakens bakgrunn
 

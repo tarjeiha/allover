@@ -15,10 +15,8 @@ Sivilombudets uttalelse 22.8.2025 (sak 2025/524).
 ## Oppsummering
 
 Saken gjelder Oslo kommunes saksbehandling i en sak om miljørettet helsevern. En rekke sameier og enkeltpersoner, herunder klageren, hadde siden 2022 sendt et stort antall klager på støy fra trafikk og utesteder i Frognerveien i Oslo kommune. Kommunen hadde ikke fattet vedtak etter reglene om miljørettet helsevern i folkehelseloven, selv om Statsforvalteren i Østfold, Buskerud, Oslo og Akershus ved to anledninger hadde bedt kommunen om å følge opp saken etter disse reglene.  
-   
- Sivilombudet kom til at kommunens saksbehandlingstid i saken på omtrent 3 år, uten at det hadde blitt fattet et vedtak og uten at kommunen kunne opplyse om når den forventet å fatte et vedtak, ikke var i tråd med forvaltningsloven § 11 a første ledd om at forvaltningen skal behandle og avgjøre saken «uten ugrunnet opphold».  
-   
- På bakgrunn av den lange saksbehandlingstiden og av hensyn til sakens art, forutsatte Sivilombudet at kommunen snarest fatter vedtak i saken. Ombudet ba om å bli orientert om sakens utfall senest innen 31. oktober 2025 ved oversendelse av vedtaket i saken.
+Sivilombudet kom til at kommunens saksbehandlingstid i saken på omtrent 3 år, uten at det hadde blitt fattet et vedtak og uten at kommunen kunne opplyse om når den forventet å fatte et vedtak, ikke var i tråd med forvaltningsloven § 11 a første ledd om at forvaltningen skal behandle og avgjøre saken «uten ugrunnet opphold».  
+På bakgrunn av den lange saksbehandlingstiden og av hensyn til sakens art, forutsatte Sivilombudet at kommunen snarest fatter vedtak i saken. Ombudet ba om å bli orientert om sakens utfall senest innen 31. oktober 2025 ved oversendelse av vedtaket i saken.
 
 ## Sakens bakgrunn
 

@@ -15,12 +15,9 @@ Sivilombudets uttalelse 17.4.2018 (sak 2017/1215).
 ## Oppsummering
 
 Saken gjelder dispensasjon fra krav til omsetning fra andre fiskerier foregående år som grunnlag for fastsettelse av kvotefaktor for fangst av kongekrabbe.  
-   
- Klager søkte om dispensasjon fra omsetningskravet under henvisning til at han på grunn av sykdom hadde vært forhindret fra å delta i fiske i det foregående året. Fiskeridirektoratet ga ikke dispensasjon. Direktoratet fant at klager hadde vært friskmeldt i perioder av året der det ville ha vært mulig å delta i fiske, og derved oppnå tilstrekkelig kvanta fisk.  
-   
- Klager hadde anført at havet utenfor kysten var fisketomt – såkalt svart hav – i november og desember 2016, og at dette kunne bekreftes av Norges Råfisklag. Han mente dette medførte at han i realiteten var avskåret fra fangstmuligheter i deler av perioden han var friskmeldt.  
-   
- Ombudsmannen fant at anførselen måtte anses som rettslig relevant. Da direktoratet ikke hadde undersøkt om anførselen lot seg verifisere, og i så tilfelle vurdert betydningen av forholdet under dispensasjonsvurderingen, ba ombudsmannen direktoratet vurdere saken på nytt.
+Klager søkte om dispensasjon fra omsetningskravet under henvisning til at han på grunn av sykdom hadde vært forhindret fra å delta i fiske i det foregående året. Fiskeridirektoratet ga ikke dispensasjon. Direktoratet fant at klager hadde vært friskmeldt i perioder av året der det ville ha vært mulig å delta i fiske, og derved oppnå tilstrekkelig kvanta fisk.  
+Klager hadde anført at havet utenfor kysten var fisketomt – såkalt svart hav – i november og desember 2016, og at dette kunne bekreftes av Norges Råfisklag. Han mente dette medførte at han i realiteten var avskåret fra fangstmuligheter i deler av perioden han var friskmeldt.  
+Ombudsmannen fant at anførselen måtte anses som rettslig relevant. Da direktoratet ikke hadde undersøkt om anførselen lot seg verifisere, og i så tilfelle vurdert betydningen av forholdet under dispensasjonsvurderingen, ba ombudsmannen direktoratet vurdere saken på nytt.
 
 Se oppdatering fra forvaltningen
 

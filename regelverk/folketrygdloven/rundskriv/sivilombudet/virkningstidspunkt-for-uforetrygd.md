@@ -15,8 +15,7 @@ Sivilombudets uttalelse 19.6.2019 (sak 2018/52).
 ## Oppsummering
 
 På generelt grunnlag og av eget tiltak undersøkte Sivilombudsmannen Navs praksis for fastsettelse av virkningstidspunkt (tidspunktet ytelsen utbetales fra) for uføretrygd i de sakene der den uføretrygdede tidligere hadde mottatt arbeidsavklaringspenger. Spørsmålet var om praksis var i tråd med folketrygdloven § 22-12 første ledd jf. tredje ledd.  
-   
- Ombudsmannen har kommet til at Nav ikke har hjemmel til å sette virkningstidspunktet for uføretrygd frem i tid og dermed la vedtak om arbeidsavklaringspenger løpe inn i en periode etter at det er konstatert at vilkårene for uføretrygd er oppfylt. Det spennet som har oppstått mellom regelverket og den praksisen som direktoratet mener er nødvendig i slike saker, må søkes løst gjennom fremsettelse av forslag om lovendring. Sentrale rutiner bør fremgå av Navs rundskriv.
+Ombudsmannen har kommet til at Nav ikke har hjemmel til å sette virkningstidspunktet for uføretrygd frem i tid og dermed la vedtak om arbeidsavklaringspenger løpe inn i en periode etter at det er konstatert at vilkårene for uføretrygd er oppfylt. Det spennet som har oppstått mellom regelverket og den praksisen som direktoratet mener er nødvendig i slike saker, må søkes løst gjennom fremsettelse av forslag om lovendring. Sentrale rutiner bør fremgå av Navs rundskriv.
 
 Se oppdatering fra forvaltningen
 
@@ -73,7 +72,7 @@ Dersom arbeidsavklaringspenger opphører før utløpet av måneden, skal virknin
 Utregningsformel – etterbetaling av uføretrygd:
 
 Uføretrygd pr måned × antall gjenstående stønadsdager i opphørsmd ⁄  
- totalt antall stønadsdager i opphørsmd
+totalt antall stønadsdager i opphørsmd
 
 ### Eksempel
 
