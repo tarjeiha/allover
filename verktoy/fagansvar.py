@@ -115,7 +115,7 @@ def navn_for(mappe: str, sti: str, typ: str) -> str:
         return Path(sti).stem.removeprefix("punkt-").replace("-", ".")
     for mappe, navn in NETTSIDER.items():
         if typ == navn:
-            return rest[rest.index(mappe) + 1]
+            return Path(rest[rest.index(mappe) + 1]).stem
     if typ == "Arbeidstilsynets kommentarer":
         return rest[rest.index("arbeidstilsynet") + 1]
     if typ == "Rundskriv":
