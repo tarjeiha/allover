@@ -1,7 +1,7 @@
-name: Hent Udirs rundskriv og veiledere
+name: Hent veiledere fra direktoratenes nettsider
 
-# Hver uke: henter nye og endrede rundskriv og veiledere til opplæringslova fra udir.no.
-# Se verktoy/udir_hent.py. Endringene går rett i main, og den fagansvarlige får sak
+# Hver uke: henter veiledere og rundskriv fra Udir, IMDi og SPK (se KILDER i skriptet).
+# Se verktoy/nettsider_hent.py. Endringene går rett i main, og den fagansvarlige får sak
 # neste morgen gjennom varsle-fagansvar.yml.
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
   # Når skriptet endres på en claude/-gren, kjøres det der, så resultatet kan ses før det går i main.
   push:
     branches: ["claude/**"]
-    paths: ["verktoy/udir_hent.py", ".github/workflows/udir-hent.yml"]
+    paths: ["verktoy/nettsider_hent.py", ".github/workflows/nettsider-hent.yml"]
   workflow_dispatch:
     inputs:
       tving:
@@ -22,13 +22,13 @@ permissions:
   issues: write
 
 concurrency:
-  group: udir
+  group: nettsider
   cancel-in-progress: false
 
 jobs:
   hent:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
@@ -39,16 +39,18 @@ jobs:
       - name: Installer avhengigheter
         run: pip install beautifulsoup4==4.12.3 lxml==5.3.0
 
-      - name: Hent rundskrivene
+      - name: Hent sidene
         env:
           TVING: ${{ inputs.tving && '--tving' || '' }}
-        run: python3 verktoy/udir_hent.py $TVING
+        run: python3 verktoy/nettsider_hent.py $TVING
 
       - name: Lagre
+        # Lagrer også når én kilde feilet, så de andre ikke må hentes på nytt.
+        if: success() || failure()
         run: |
           melding="$RUNNER_TEMP/melding.txt"
-          if [ -f udir-rapport.txt ]; then mv udir-rapport.txt "$melding"
-          else echo "Udirs rundskriv: nye datoer fra nettstedet" > "$melding"; fi
+          if [ -f nettsider-rapport.txt ]; then mv nettsider-rapport.txt "$melding"
+          else echo "Veiledere fra nettsider: nye datoer" > "$melding"; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
@@ -68,5 +70,5 @@ jobs:
         if: failure() && github.ref_name == 'main'
         uses: ./.github/actions/driftsvarsel
         with:
-          tittel: "Henting av Udirs rundskriv: feil"
-          tekst: "den ukentlige hentingen av Udirs rundskriv og veiledere feilet, f.eks. fordi nettstedet har endret oppbygning. Se kjøringen, eller be Claude se på det."
+          tittel: "Henting av veiledere fra nettsider: feil"
+          tekst: "den ukentlige hentingen av veiledere fra Udir, IMDi eller SPK feilet, f.eks. fordi nettstedet har endret oppbygning. Se kjøringen, eller be Claude se på det."

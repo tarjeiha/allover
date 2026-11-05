@@ -30,20 +30,21 @@ def struktur(url):
     for k in ["Publisert", "Sist endret", "Oppdatert", "Dato", "Saksnummer", "Sak "]:
         for mm in list(re.finditer(k, s.get_text(" ")))[:2]:
             print("  META", re.sub(r"\s+", " ", s.get_text(" ")[mm.start():mm.start()+120]))
-print("#### SPK")
-spk = locs("https://www.spk.no/sitemap.xml")
-print(len(spk))
-c = Counter("/".join(u.split("/")[3:5]) for u in spk)
-for k, v in c.most_common(60): print(f"  {v:4} {k}")
-for u in spk:
-    if re.search(r"(?i)regelverk|rundskriv|lov|medlem|rettighet|tolk|retningslin", u): print("  R", u)
-for u in [x for x in spk if re.search(r"(?i)regelverk|rundskriv", x)][:2]: struktur(u)
-print("\n#### IMDi")
-imdi = [u for u in locs("https://imdi.no/sitemap.xml") if "/regelverk/" in u]
-for u in imdi: print("  ", u)
-for u in imdi[:1] + [x for x in imdi if x.count("/") > 6][:1]: struktur(u)
-print("\n#### Sivilombudet")
-siv = locs("https://www.sivilombudet.no/uttalelser-sitemap.xml")
-print(len(siv), siv[:3], siv[-3:])
-for u in siv[-2:]: struktur(u)
-struktur("https://www.sivilombudet.no/tag/offentleglova/")
+print("#### Sivilombudet, runde 5")
+siv = sitemap = []
+for sm in ["https://www.sivilombudet.no/uttalelser-sitemap.xml", "https://www.sivilombudet.no/uttalelser-sitemap2.xml"]:
+    t = hent(sm)
+    par = re.findall(r"<loc>\s*(.*?)\s*</loc>\s*<lastmod>\s*(.*?)\s*</lastmod>", t)
+    print(sm, len(par), "med lastmod", par[:2])
+    siv += [u for u, _ in par]
+siv = [u for u in siv if u.count("/") == 5 and "/en/" not in u and "/smj/" not in u]
+print("uttalelser", len(siv))
+for u in siv[-3:-1] + siv[100:101]:
+    struktur(u)
+    s = BeautifulSoup(hent(u), "lxml")
+    a = s.select_one("main article") or s.select_one("article") or s.select_one("main")
+    print("  TEKST", re.sub(r"\s+", " ", a.get_text(" "))[:1500])
+    print("  LENKER", sorted(set(x["href"] for x in a.find_all("a", href=True)))[:30])
+    for el in a.find_all(True):
+        if el.get("class") and re.search(r"(?i)meta|tag|term|categ|lov|date|dato|saks", " ".join(el["class"])):
+            print("  META-EL", el.name, el["class"], re.sub(r"\s+", " ", el.get_text(" ", strip=True))[:200])
