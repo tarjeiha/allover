@@ -1,5 +1,12 @@
 {
   "baseurl": "https://raw.githubusercontent.com/tarjeiha/allover/main",
+  "delmapper": [
+    {
+      "mappe": "regelverk/statsansatteloven/rundskriv/personalhandboka",
+      "navn": "Statens personalhåndbok",
+      "fagomrade": "personalhandboka"
+    }
+  ],
   "fagomrader": {
     "arbeidsrett": {
       "navn": "Arbeidsrett",
@@ -27,6 +34,10 @@
     },
     "utdanning": {
       "navn": "Utdanning",
+      "eier": "@tarjeiha"
+    },
+    "personalhandboka": {
+      "navn": "Statens personalhåndbok",
       "eier": "@tarjeiha"
     },
     "forvaltning": {
@@ -444,6 +455,21 @@
           "id": "FOR-2010-04-29-634",
           "slug": "innretningsforskriften",
           "navn": "Forskrift om utforming og utrustning av innretninger med mer i petroleumsvirksomheten (innretningsforskriften)"
+        },
+        {
+          "id": "FOR-2009-05-20-544",
+          "slug": "maskiner",
+          "navn": "Forskrift om maskiner (maskinforskriften)"
+        },
+        {
+          "id": "FOR-2016-06-03-569",
+          "slug": "storulykker",
+          "navn": "Forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften)"
+        },
+        {
+          "id": "FOR-2003-06-30-911",
+          "slug": "eksplosjonsfarlige-atmosfaerer",
+          "navn": "Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer"
         }
       ],
       "alias": [

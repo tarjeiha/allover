@@ -4,7 +4,7 @@ on:
   # Når byggeverktøyet eller listen over regelverk endres på en bygg/-gren,
   # bygges lovteksten og legges inn på samme gren.
   push:
-    branches: ["bygg/**"]
+    branches: ["bygg/**", "claude/**"]
     paths: ["verktoy/**", "regelverk.json", ".github/workflows/bygg-regelverk.yml"]
   # Hver natt, og ved behov: bygg fra main og foreslå endringer som pull request.
   schedule:
@@ -125,6 +125,22 @@ jobs:
           tittel: "Lovdata-bygget: stor endring venter"
           tekst: "nattbygget fjerner mange paragrafer i minst ett regelverk og er lagt fram som pull request i stedet for å gå rett i main. Se gjennom før fletting, eller be Claude se på det."
           fil: ${{ runner.temp }}/oppsummering.md
+
+      # En ny lov som står som «ikke i kraft» i regelverk.json, har fått ikrafttredelse.
+      - name: Se etter lover som er satt i kraft
+        id: ikraft
+        if: github.event_name != 'push' && github.ref_name == 'main'
+        run: |
+          python3 verktoy/ikraft_sjekk.py --ut "$RUNNER_TEMP/ikraft.md"
+          if [ -s "$RUNNER_TEMP/ikraft.md" ]; then echo "funn=true" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Varsle om lov satt i kraft
+        if: steps.ikraft.outputs.funn == 'true'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Ny lov er satt i kraft"
+          tekst: "en lov som står som «ikke i kraft» i regelverk.json, har fått dato for ikrafttredelse. Endre navnet i regelverk.json, temalisten i CLAUDE.md og veiviserne, og merk eller flytt kilder som gjelder den gamle loven, som Sivilombudets uttalelser om forvaltningsloven (se paragrafnøkkelen). Be Claude om hjelp."
+          fil: ${{ runner.temp }}/ikraft.md
 
       - name: Varsle om feil
         if: failure() && github.event_name != 'push' && github.ref_name == 'main'
