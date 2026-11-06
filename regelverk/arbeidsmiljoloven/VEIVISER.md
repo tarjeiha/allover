@@ -29,7 +29,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 ## Ikke i basen
 
 - **Kjemikalie- og produktregelverket** (REACH, CLP, biocider, maskiner, eksplosjonsfarlig område, personlig verneutstyr, storulykke) og **havbunns- og CO2-forskriftene** (sikkerhet ved mineralvirksomhet til havs, transport og injeksjon av CO2 på sokkelen). Ved spørsmål om kjemikalier, maskinsikkerhet eller slik sokkelvirksomhet: si at forskriften ikke er i basen, og svar ikke ut fra lovens generelle bestemmelser som om de var uttømmende.
-- **Forarbeider (særlig Ot.prp. nr. 49 (2004–2005)), rettspraksis og Arbeidstilsynets kommentarer.** De har stor vekt for tolkningen. Skjønnsmessige vurderinger som saklig grunn, forsvarlighet og rimelighet kan bare besvares på ordlydsnivå, og svaret skal si det.
+- **Forarbeider (særlig Ot.prp. nr. 49 (2004–2005)), rettspraksis og Arbeidstilsynets kommentarer.** De har stor vekt for tolkningen. Ved spørsmål om saklig grunn, stillingsvern og arbeidstakerbegrepet: se om Høyesterett har tatt stilling til paragrafen. Skjønnsmessige vurderinger som saklig grunn, forsvarlighet og rimelighet kan bare besvares på ordlydsnivå, og svaret skal si det.
 
 ## Merknader og andre kilder
 

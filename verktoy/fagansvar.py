@@ -31,7 +31,8 @@ ETIKETT = "regelverksendring"
 MAKS_VIST = 12
 # Mappene under rundskriv/ som verktoy/nettsider_hent.py skriver, med navnet i varselet.
 NETTSIDER = {"udir": "Udirs rundskriv og veiledere", "imdi": "IMDis veiledere",
-             "spk": "Informasjon fra Statens pensjonskasse", "sivilombudet": "Sivilombudets uttalelser"}
+             "spk": "Informasjon fra Statens pensjonskasse", "sivilombudet": "Sivilombudets uttalelser",
+             "hoyesterett": "Høyesteretts avgjørelser"}
 
 TOPP = """\
 # Lages av verktoy/fagansvar.py fra fagområdene i regelverk.json. Rediger ikke for hånd:
