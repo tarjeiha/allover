@@ -73,6 +73,26 @@ Feller:
 - **Post 24 Driftsresultat** for forvaltningsbedrifter (f.eks. kap. 2470) har underposter uten eget beløp. De er ikke med.
 - **Saldert budsjett for kapitlene i Prop. 1 S for AID** er kontrollert mot kolonnen «Saldert budsjett» i neste års Prop. 1 S for 2022–2025, uten avvik.
 
+## Statsregnskapet (`budsjett/ÅR/statsregnskap/`)
+
+Regnskapet for alle departementer, per kapittel og post, fra 2014. Kilden er DFØs rådatauttrekk fra statsregnskapet.dfo.no. `ÅR` er regnskapsåret. `budsjett/statsregnskap.tsv` viser hvilke år som ligger inne, siste måned for hvert år og når de ble lagt inn. Et år som ikke er avsluttet, har `helt_aar=nei` og gir regnskap hittil i året. Beløpene er i kroner.
+
+| Fil | Innhold |
+|---|---|
+| `poster.tsv` | Regnskap per kapittel og post for året, med departement, programområde, programkategori og posttype. Start her. |
+| `maaned.tsv` | Regnskap per kapittel og post per måned (`maaned` 01–12). Summen av månedene er årstallet. |
+| `artskonto.tsv` | Regnskap per kapittel, post og artskonto, altså hva pengene er brukt til (lønn, kjøp av tjenester, tilskudd til kommuner og liknende). Artskontoene følger standard kontoplan for staten. |
+| `virksomhet.tsv` | Regnskap per kapittel, post og virksomheten som har ført beløpet, med organisasjonsnummer. En virksomhet kan føre på et annet departements kapitler når den har fullmakt til det. |
+
+Feller:
+
+- **Inntekter er negative.** DFØ fører inntekter med minus, for eksempel kap. 5700 post 71 Trygdeavgift. Proposisjonene viser inntekter som positive tall. Snu fortegnet når du sammenligner.
+- **Kroner, ikke tusen kroner.** Prop. 1 S oppgir regnskapet i 1 000 kroner.
+- **Kapittel og post slik de var det året.** Når et område er flyttet mellom departementer, har det ofte fått nye kapittelnumre. Integrering lå for eksempel under kap. 290–292 hos Kunnskapsdepartementet i 2021, mens Prop. 1 S for 2023 viser 2021-regnskapet under de nye kap. 670–672. Søk på postnavnet når et kapittel ikke finnes.
+- **Bare bevilgningsregnskapet.** Føringer på statskontoer utenfor kapittel og post (mellomværende og avregninger) er ikke med. Antallet slike rader står i `budsjett/statsregnskap.tsv`.
+- **Kontrollert mot Prop. 1 S.** Årstallene for kapitlene i Prop. 1 S for AID er kontrollert mot kolonnen «Rekneskap» i proposisjonen to år senere, for 2019–2025. Alle poster stemmer på tusen kroner, med to unntak: kap. 635 post 1 for 2020 (6 084 i DFØs tall, 12 168 i proposisjonen) og kap. 5470 post 30 for 2022 (0 i DFØs tall, 33 917 i proposisjonen). Bruk proposisjonen og si fra om avviket når en av disse postene er aktuell.
+- **Regnskap er ikke budsjett.** Vedtatt budsjett står i `budsjett/ÅR/stortinget/vedtak.tsv` og forslaget i Prop. 1 S. Avvik mellom budsjett og regnskap kan skyldes overføringer mellom år og merinntektsfullmakter, som ikke er med her.
+
 ## Partienes alternative budsjetter (`budsjett/ÅR/alternative-budsjett/`)
 
 Opposisjonspartiene legger fram egne alternative statsbudsjetter i november, før budsjettforliket. Tabellene er hentet fra partienes egne PDF-dokumenter og lagt inn for hånd. Foreløpig gjelder det 2027, fra SV (side 56–85 i dokumentet), Senterpartiet (side 44–64) og MDG. Fra MDG er bare radene på Arbeids- og inkluderingsdepartementets kapitler og kap. 490 Utlendingsdirektoratet lagt inn (side 47–48). MDGs øvrige forslag står i partiets dokument. Partier som kommer til, legges inn for hånd i de samme filene. Alle beløp er endringer fra regjeringens forslag i Prop. 1 S, i millioner kroner.
@@ -96,13 +116,20 @@ Feller:
 
 Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
 
-- **2027:** Prop. 1 S for AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
-- **2026:** Prop. 1 S for AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (69 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
-- **2025:** Prop. 1 S for AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (55 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (296 svar, `budsjett/2025/sporsmal/stb/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
-- **2024:** Prop. 1 S for AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (45 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (236 svar, `budsjett/2024/sporsmal/stb/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
-- **2023:** Prop. 1 S for AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (59 svar, `budsjett/2023/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (252 svar, `budsjett/2023/sporsmal/stb/`)
-- **2022:** Prop. 1 S for AID (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`), Stortingets vedtak (`budsjett/2022/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (47 svar, `budsjett/2022/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (195 svar, `budsjett/2022/sporsmal/stb/`)
-- **2021:** Prop. 1 S for AID (`budsjett/2021/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2021/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (167 svar, `budsjett/2021/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (364 svar, `budsjett/2021/sporsmal/stb/`)
+- **2027:** Prop. 1 S for AID (`budsjett/2027/prop-1-s-aid/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), svar på budsjettspørsmål, statsbudsjettet (328 svar, `budsjett/2027/sporsmal/stb/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
+- **2026:** Prop. 1 S for AID (`budsjett/2026/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (69 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (287 svar, `budsjett/2026/sporsmal/stb/`), statsregnskapet (`budsjett/2026/statsregnskap/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
+- **2025:** Prop. 1 S for AID (`budsjett/2025/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (55 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (296 svar, `budsjett/2025/sporsmal/stb/`), statsregnskapet (`budsjett/2025/statsregnskap/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
+- **2024:** Prop. 1 S for AID (`budsjett/2024/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (45 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (236 svar, `budsjett/2024/sporsmal/stb/`), statsregnskapet (`budsjett/2024/statsregnskap/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
+- **2023:** Prop. 1 S for AID (`budsjett/2023/prop-1-s-aid/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (59 svar, `budsjett/2023/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (252 svar, `budsjett/2023/sporsmal/stb/`), statsregnskapet (`budsjett/2023/statsregnskap/`)
+- **2022:** Prop. 1 S for AID (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`), Stortingets vedtak (`budsjett/2022/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (47 svar, `budsjett/2022/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (195 svar, `budsjett/2022/sporsmal/stb/`), statsregnskapet (`budsjett/2022/statsregnskap/`)
+- **2021:** Prop. 1 S for AID (`budsjett/2021/prop-1-s-aid/`), Stortingets vedtak (`budsjett/2021/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (167 svar, `budsjett/2021/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (364 svar, `budsjett/2021/sporsmal/stb/`), statsregnskapet (`budsjett/2021/statsregnskap/`)
+- **2020:** statsregnskapet (`budsjett/2020/statsregnskap/`)
+- **2019:** statsregnskapet (`budsjett/2019/statsregnskap/`)
+- **2018:** statsregnskapet (`budsjett/2018/statsregnskap/`)
+- **2017:** statsregnskapet (`budsjett/2017/statsregnskap/`)
+- **2016:** statsregnskapet (`budsjett/2016/statsregnskap/`)
+- **2015:** statsregnskapet (`budsjett/2015/statsregnskap/`)
+- **2014:** statsregnskapet (`budsjett/2014/statsregnskap/`)
 <!-- AUTO-SLUTT budsjettår -->
 
 ## Budsjettår 2027
