@@ -94,6 +94,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (19 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Arbeidstilsynets kommentarer til forskriftene (509 filer) – `rundskriv/arbeidstilsynet/`
 - Sivilombudets uttalelser (35 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
@@ -2731,4 +2732,8 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/arbeidstilsynet/tiltaks-og-grenseverdier/` – 14 filer, start med `rundskriv/arbeidstilsynet/tiltaks-og-grenseverdier/oversikt.md`
 - `rundskriv/arbeidstilsynet/utforelse-av-arbeid/` – 296 filer, start med `rundskriv/arbeidstilsynet/utforelse-av-arbeid/oversikt.md`
 - `rundskriv/sivilombudet/` – 35 filer, start med `rundskriv/sivilombudet/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 19 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

@@ -135,6 +135,7 @@ Ikke gjett stien. Slå opp paragrafen i `indeks.tsv` på roten, der alle rundskr
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
 - Navs rundskriv (R01-00, R02-00, R03-00, R03-01, R03-02, R03-03, R03-04, R03-05, R04-00, R05-00, R05-01a, R05-02 og 62 til) og Navs kommentarer til forskrifter – se «Rundskriv» under «Andre kilder» nederst
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (18 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Sivilombudets uttalelser (74 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -2035,4 +2036,8 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/rundskriv-r25-16-for-368/` – 39 filer, start med `rundskriv/rundskriv-r25-16-for-368/oversikt.md`
 - `rundskriv/rundskriv-r26-00/` – 117 filer, start med `rundskriv/rundskriv-r26-00/oversikt.md`
 - `rundskriv/sivilombudet/` – 74 filer, start med `rundskriv/sivilombudet/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 18 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

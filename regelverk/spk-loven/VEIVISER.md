@@ -53,6 +53,7 @@ SPKs informasjon til medlemmene er informasjon, ikke tolkning av loven. Privat A
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (2 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 - Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven) (112 filer) – `rundskriv/spk/`
 
@@ -359,4 +360,8 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/spk/tidligere-medlem/` – 5 filer, start med `rundskriv/spk/tidligere-medlem/oversikt.md`
 - `rundskriv/spk/uforepensjon/` – 21 filer, start med `rundskriv/spk/uforepensjon/oversikt.md`
 - `rundskriv/spk/yrkesskadeforsikring/` – 9 filer, start med `rundskriv/spk/yrkesskadeforsikring/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 2 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

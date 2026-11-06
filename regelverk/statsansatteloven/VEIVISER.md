@@ -31,6 +31,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (4 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Statens personalhåndbok (164 filer) – start med `rundskriv/personalhandboka/oversikt.md`
 - Sivilombudets uttalelser (7 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
@@ -133,4 +134,8 @@ Dette er ikke lov- eller forskriftstekst.
 
 - `rundskriv/personalhandboka/` – 164 filer, start med `rundskriv/personalhandboka/oversikt.md`
 - `rundskriv/sivilombudet/` – 7 filer, start med `rundskriv/sivilombudet/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 4 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

@@ -36,7 +36,9 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 ## Tolkningskilder i basen
 
-Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (2 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -95,4 +97,12 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 ### Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet
 
 - Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/delegering/tekst.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 2 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

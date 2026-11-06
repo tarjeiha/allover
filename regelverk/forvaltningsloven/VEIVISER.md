@@ -38,6 +38,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
 - Navs rundskriv (R36-00) – se «Rundskriv» under «Andre kilder» nederst
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (15 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Sivilombudets uttalelser (859 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -259,4 +260,8 @@ Dette er ikke lov- eller forskriftstekst.
 
 - `rundskriv/rundskriv-r36-00/` – 56 filer, start med `rundskriv/rundskriv-r36-00/oversikt.md`
 - `rundskriv/sivilombudet/` – 859 filer, start med `rundskriv/sivilombudet/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 15 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->

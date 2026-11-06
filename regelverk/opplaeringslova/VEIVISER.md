@@ -37,6 +37,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
+- Høyesteretts avgjørelser fra november 2021 (rettspraksis) (3 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Sivilombudets uttalelser (55 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 - Utdanningsdirektoratets rundskriv og veiledere (263 filer) – `rundskriv/udir/`
 
@@ -790,4 +791,8 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/udir/veileder-om-reklameforbudet-i-skolen/` – 1 filer, start med `rundskriv/udir/veileder-om-reklameforbudet-i-skolen/oversikt.md`
 - `rundskriv/udir/veileder-samarbeid-om-tjenester-til-barn-unge-og-deres-familier/` – 1 filer, start med `rundskriv/udir/veileder-samarbeid-om-tjenester-til-barn-unge-og-deres-familier/oversikt.md`
 - `rundskriv/udir/voksne-deltakeres-rett-til-forberedende-opplaring-i-grunnleggende-ferdigheter/` – 1 filer, start med `rundskriv/udir/voksne-deltakeres-rett-til-forberedende-opplaring-i-grunnleggende-ferdigheter/oversikt.md`
+
+### Rettspraksis
+
+- `rettspraksis/hoyesterett/` – 3 filer, start med `rettspraksis/hoyesterett/oversikt.md`
 <!-- AUTO-SLUTT -->
