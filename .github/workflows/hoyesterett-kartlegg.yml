@@ -38,24 +38,31 @@ jobs:
               if utdrag:
                   print("   TEKST:", tekst(b)[:utdrag])
               return t
-          for side in ["https://www.domstol.no/no/hoyesterett/avgjorelser/avgjorelser-2026/hoyesterett---straff/HR-2026-2054-A/",
-                       "https://www.domstol.no/no/hoyesterett/avgjorelser/2016/hoyesterettsankeutvalg-sivil/delvis-anonymisering-av-dom/"]:
-              s_, ct, b_, eff = hent(side)
-              h = b_.decode("utf-8", "replace")
-              print("\n##### rå HTML", s_, len(h), side)
-              for x in sorted(set(re.findall(r'(?:href|src)="([^"]+)"', h))):
-                  if "spaview" not in x: print("   ", x)
-              i = h.find('<main'); print(re.sub(r"\s+", " ", h[i:i+6000]))
-              print("   jsonld/state:", re.findall(r'(?:__INITIAL|window\.__|application/(?:ld\+)?json)[^<]{0,300}', h)[:5])
-          s_, ct, b_, eff = hent("https://www.domstol.no/spaview/app.html.spa/scripts/main.9a058e68.js")
-          j = b_.decode("utf-8", "replace"); print("\n##### main.js", s_, len(j))
-          for x in sorted(set(re.findall(r'["\'`](/(?:api|find_v2|contentapi|headless)[^"\'`\s]{0,150})', j)))[:60]: print("   api:", x)
-          for x in sorted(set(re.findall(r'https?://[a-z0-9.-]*domstol[^"\'`\s]{0,120}', j)))[:30]: print("   url:", x)
-          for u in ["https://www.domstol.no/no/hoyesterett/VERKTOY/personvern/", "https://www.domstol.no/no/hoyesterett/nyhet/2019/raskere-publisering-av-nye-avgjorelser-og-tilgang-til-sluttinnlegg/"]:
+          for u in ["https://www.domstol.no/no/hoyesterett/VERKTOY/avidentifisering/"]:
               s_, ct, b_, eff = hent(u); h = b_.decode("utf-8","replace"); i = h.find('<main')
-              print("\n#####", s_, u); print(tekst(h[i:i+20000].encode())[:4000])
-          for u in ["https://www.domstol.no/api/episerver/v3.0/content?contentUrl=" + urllib.parse.quote("https://www.domstol.no/no/hoyesterett/avgjorelser/avgjorelser-2026/hoyesterett---straff/HR-2026-2054-A/") + "&expand=*"]:
-              s_, ct, b_, eff = hent(u); print("\n##### API-prøve", s_, ct, len(b_)); print(b_[:3000].decode("utf-8","replace"))
+              print("\n#####", s_, u); print(tekst(h[i:i+40000].encode())[:6000])
+          for u in ["https://www.domstol.no/globalassets/upload/hret/avgjorelser/2026/september/hr-2026-2054-a.pdf"]:
+              r = urllib.request.urlopen(urllib.request.Request(u, headers=UA, method="HEAD"), timeout=60)
+              print("\n##### PDF HEAD", r.status, r.headers.get("Content-Type"), r.headers.get("Content-Length"), r.headers.get("Last-Modified"))
+          s_, ct, b_, eff = hent("https://www.domstol.no/sitemap.xml")
+          t = b_.decode("utf-8", "replace")
+          locs = re.findall(r"<loc>(https://www.domstol.no/no/hoyesterett/avgjorelser/[^<]+)</loc>", t)
+          from collections import Counter
+          c = Counter()
+          for l in locs:
+              m = re.search(r"/avgjorelser/(?:avgjorelser-)?(\d{4})/", l)
+              k = re.search(r"/(HR-\d{4}-\d+-([AUSP]))/?$", l, re.I)
+              if m and l.rstrip("/").count("/") >= 8: c[(m.group(1), k.group(2).upper() if k else "slug")] += 1
+          for k in sorted(c): print("  ", k, c[k])
+          # prøv å hente rettsområde fra et utvalg 2025-sider (avdeling)
+          utvalg = [l for l in locs if "avgjorelser-2025" in l and re.search(r"-A/?$", l)][:25]
+          lover = Counter()
+          for l in utvalg:
+              s_, ct, b_, eff = hent(l); h = tekst(b_)
+              m = re.search(r"Rettsomr[^:]*:(.{0,250})", h)
+              ro = m.group(1).split("Nøkkelavsnitt")[0].split("N&oslash;kkelavsnitt")[0] if m else "-"
+              print("   ", l.rstrip("/").split("/")[-1], "|", ro[:200])
+          print("2025-A totalt:", len([l for l in locs if "avgjorelser-2025" in l and re.search(r"-A/?$", l)]))
           raise SystemExit(0)
           for u in ["https://www.domstol.no/robots.txt", "https://lovdata.no/robots.txt"]:
               s, ct, b, eff = hent(u)
