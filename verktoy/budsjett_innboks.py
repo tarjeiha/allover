@@ -11,6 +11,8 @@ Filnavn bestemmer hva dokumentet er (ÅR er budsjettåret, f.eks. 2027 for Prop.
     samledokument….docx                  stoppes og slettes: kan ha svar som ikke er publisert
                                          (svarene legges inn med verktoy/budsjett_sporsmal_json.py)
     gul-bok-bevilgninger-ÅR.xlsx|csv|tsv Datagrunnlag til Gul bok -> budsjett/ÅR/gul-bok-bevilgninger.tsv
+    statsregnskapet….zip|csv             DFØs rådatauttrekk av statsregnskapet -> budsjett/ÅR/statsregnskap/
+                                         for hvert år i filen (verktoy/statsregnskap.py)
 
 Originalnavnet fra regjeringen.no for proposisjonen, prp[SESJON][NR][DEP]ddddocx.docx
 (f.eks. prp202120220001asdddddocx.docx), godtas også. Budsjettåret er siste år i sesjonen.
@@ -47,6 +49,8 @@ MONSTRE = [
 ]
 # Samledokument med svar på budsjettspørsmål fra Finansdepartementets system. År og runde står i dokumentet.
 SAMLEDOKUMENT = re.compile(r"^samledokument.*\.docx$", re.I)
+# DFØs nedlasting fra statsregnskapet.dfo.no/last-ned. Årene står i filen.
+STATSREGNSKAP = re.compile(r"^statsregnskapet.*\.(zip|csv)$", re.I)
 FORVENTET_KOLONNER = {"kap_nr", "post_nr", "beløp"}
 # Originalnavn fra regjeringen.no: prp + sesjon (åtte sifre) + nummer (fire sifre) + departement + ddddocx
 ORIGINAL = re.compile(r"^prp(\d{4})(\d{4})(\d{4})([a-zæøå]+?)ddddocx\.docx$", re.I)
@@ -63,6 +67,8 @@ def klassifiser(navn):
     """Gir (type, budsjettår, tilleggsnummer eller None). For samledokumenter er budsjettåret None."""
     if SAMLEDOKUMENT.match(navn):
         return "sporsmal", None, None
+    if STATSREGNSKAP.match(navn):
+        return "regnskap", None, None
     for type_, m in MONSTRE:
         r = m.match(navn)
         if r:
@@ -80,7 +86,8 @@ def klassifiser(navn):
         return "prop", sjekk_aar(til), None
     raise ValueError(
         "filnavnet passer ikke. Bruk prop-1-s-ÅR-aid.docx, prop-1-s-ÅR-tillegg-N.docx, gul-bok-ÅR.docx, "
-        "nasjonalbudsjettet-ÅR.docx eller gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027). "
+        "nasjonalbudsjettet-ÅR.docx, gul-bok-bevilgninger-ÅR.xlsx (ÅR er budsjettåret, f.eks. 2027) eller "
+        "statsregnskapet….zip fra DFØ. "
         "Originalnavnet fra regjeringen.no for Prop. 1 S for AID (prp…ddddocx.docx) virker også"
     )
 
@@ -166,6 +173,8 @@ def oppdater_veiviser():
             antall = sum(1 for _ in runde.open(encoding="utf-8")) - 1
             navn = {"stb": "statsbudsjettet", "rnb": "revidert nasjonalbudsjett"}.get(runde.parent.name, runde.parent.name)
             funn.append(f"svar på budsjettspørsmål, {navn} ({antall} svar, `budsjett/{mappe.name}/sporsmal/{runde.parent.name}/`)")
+        if (mappe / "statsregnskap").is_dir():
+            funn.append(f"statsregnskapet (`budsjett/{mappe.name}/statsregnskap/`)")
         if (mappe / "gul-bok-bevilgninger.tsv").exists():
             funn.append(f"datagrunnlag (`budsjett/{mappe.name}/gul-bok-bevilgninger.tsv`)")
         deler.append(f"- **{mappe.name}:** " + (", ".join(funn) if funn else "ingen dokumenter"))
@@ -209,6 +218,9 @@ def main():
                     "repoet er åpent. Filen er slettet, men ligger i historikken. Si fra til redaktøren. Svarene "
                     "legges inn fra regjeringen.no med verktoy/budsjett_sporsmal_json.py"
                 )
+            elif type_ == "regnskap":
+                from statsregnskap import legg_inn
+                res = legg_inn(sti)
             elif type_ == "data":
                 res = lag_tsv(sti, aar)
             else:

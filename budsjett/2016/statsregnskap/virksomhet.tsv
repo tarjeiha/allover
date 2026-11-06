@@ -1,0 +1,3569 @@
+kap	post	orgnr	virksomhet	belop
+1	1	972417858	Kommunal- og distriktsdepartementet	11186000
+1	50	972417858	Kommunal- og distriktsdepartementet	173089000
+1	51	972417858	Kommunal- og distriktsdepartementet	19860000
+2	1	972417858	Kommunal- og distriktsdepartementet	9310000
+2	50	972417858	Kommunal- og distriktsdepartementet	18784000
+20	1	972417777	Statsministerens kontor	104861641
+21	1	872417842	Kunnskapsdepartementet	888843
+21	1	912660680	Nærings- og fiskeridepartementet	3648394
+21	1	972417777	Statsministerens kontor	146314603
+21	1	972417793	Barne- og familiedepartementet	395549
+21	1	972417807	Finansdepartementet	529662
+21	1	972417823	Forsvarsdepartementet	823017
+21	1	972417831	Justis- og beredskapsdepartementet	2159790
+21	1	972417858	Kommunal- og distriktsdepartementet	1520834
+21	1	972417866	Kultur- og likestillingsdepartementet	975053
+21	1	972417874	Landbruks- og matdepartementet	801278
+21	1	972417882	Klima- og miljødepartementet	1916356
+21	1	972417904	Samferdselsdepartementet	1434701
+21	1	972417920	Utenriksdepartementet	7465872
+21	1	977161630	Energidepartementet	2170328
+21	1	983887406	Helse- og omsorgsdepartementet	1142513
+21	1	983887457	Arbeids- og inkluderingsdepartementet	486849
+24	1	974761378	Regjeringsadvokaten	78978889
+24	21	974761378	Regjeringsadvokaten	15763818
+24	21	984195796	Domstolene i Norge	1710055
+41	1	971524960	Stortinget	785245285
+41	1	982583462	Statens pensjonskasse	69641143
+41	21	971524960	Stortinget	9205342
+41	45	971524960	Stortinget	476601381
+41	70	971524960	Stortinget	177053936
+41	72	971524960	Stortinget	1500000
+41	73	971524960	Stortinget	15372334
+41	74	971524960	Stortinget	5059324
+42	1	971527439	Stortingets ombudsnemnd for Forsvaret	6315576
+43	1	974761270	Sivilombudet Stortingets ombud for kontroll med forvaltningen	70441786
+44	1	982110777	Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste, EOS-utvalget	14764958
+45	1	914781175	Norges institusjon for menneskerettigheter	9215128
+45	1	974761270	Sivilombudet Stortingets ombud for kontroll med forvaltningen	379370
+51	1	974760843	Riksrevisjonen	501217438
+51	75	974760843	Riksrevisjonen	21900000
+61	1	972417831	Justis- og beredskapsdepartementet	170558
+61	1	984195796	Domstolene i Norge	101160987
+100	1	971524960	Stortinget	1391709
+100	1	972417920	Utenriksdepartementet	2075807360
+100	21	972417920	Utenriksdepartementet	9987400
+100	45	972417920	Utenriksdepartementet	19912918
+100	71	972417920	Utenriksdepartementet	24867500
+100	72	972417920	Utenriksdepartementet	24373
+100	89	972417920	Utenriksdepartementet	4891175
+100	90	972417920	Utenriksdepartementet	60556
+103	1	972417920	Utenriksdepartementet	53826007
+104	1	972417920	Utenriksdepartementet	7719109
+115	1	892211442	Norsk filminstitutt	809505
+115	1	972417920	Utenriksdepartementet	20271978
+115	70	892211442	Norsk filminstitutt	693500
+115	70	972417920	Utenriksdepartementet	38108655
+116	70	972417920	Utenriksdepartementet	1683650467
+116	90	972417920	Utenriksdepartementet	192619950
+117	75	972417920	Utenriksdepartementet	1345552610
+117	76	972417920	Utenriksdepartementet	1368478190
+117	77	972417920	Utenriksdepartementet	32104146
+117	78	972417920	Utenriksdepartementet	27289792
+118	1	874783242	Kystverket	0
+118	1	911830868	Kriminalomsorgsdirektoratet	1927631
+118	1	971022264	Norsk Polarinstitutt	1510353
+118	1	971349077	Havforskningsinstituttet	360685
+118	1	972417882	Klima- og miljødepartementet	9152280
+118	1	972417920	Utenriksdepartementet	6905137
+118	1	983544622	Helsedirektoratet	22224462
+118	1	983887406	Helse- og omsorgsdepartementet	2507261
+118	1	986174613	Havindustritilsynet	151500
+118	1	986399445	Innovasjon Norge	4403930
+118	70	967311014	Statsforvalteren i Troms og Finnmark	0
+118	70	971022264	Norsk Polarinstitutt	2951960
+118	70	971349077	Havforskningsinstituttet	3646931
+118	70	972417882	Klima- og miljødepartementet	22847720
+118	70	972417920	Utenriksdepartementet	167063603
+118	70	974760819	Riksantikvaren	1500000
+118	70	983544622	Helsedirektoratet	43385164
+118	70	983887406	Helse- og omsorgsdepartementet	12499057
+118	70	986174613	Havindustritilsynet	3000000
+118	70	986399445	Innovasjon Norge	19197511
+118	71	972417920	Utenriksdepartementet	56313186
+118	71	983544622	Helsedirektoratet	3063715
+118	76	972417920	Utenriksdepartementet	36602317
+118	76	999601391	Miljødirektoratet	1999938
+119	1	972417920	Utenriksdepartementet	473246
+119	70	972417920	Utenriksdepartementet	9861911
+140	1	972417920	Utenriksdepartementet	1401022128
+140	45	972417920	Utenriksdepartementet	24352202
+140	89	972417920	Utenriksdepartementet	2866627
+141	1	971277882	Direktoratet for utviklingssamarbeid (NORAD)	234352660
+144	1	981965132	Norsk senter for utvekslingssamarbeid (Norec)	44448913
+150	78	971277882	Direktoratet for utviklingssamarbeid (NORAD)	236857799
+150	78	972417920	Utenriksdepartementet	1890079401
+151	78	971277882	Direktoratet for utviklingssamarbeid (NORAD)	26258542
+151	78	972417920	Utenriksdepartementet	554056038
+152	78	972417920	Utenriksdepartementet	569763904
+153	78	972417920	Utenriksdepartementet	77972345
+160	1	971277882	Direktoratet for utviklingssamarbeid (NORAD)	18065197
+160	1	972417920	Utenriksdepartementet	3285637
+160	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	1803458696
+160	70	972417920	Utenriksdepartementet	111047970
+160	77	981965132	Norsk senter for utvekslingssamarbeid (Norec)	140675634
+161	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	125182216
+161	70	972417920	Utenriksdepartementet	3085944
+161	75	972417920	Utenriksdepartementet	369500000
+161	95	972417920	Utenriksdepartementet	1108500000
+162	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	33830285
+162	70	972417920	Utenriksdepartementet	161753389
+163	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	7963101
+163	70	972417920	Utenriksdepartementet	4848069188
+163	70	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	15835866
+163	70	983544622	Helsedirektoratet	36572272
+163	72	971277882	Direktoratet for utviklingssamarbeid (NORAD)	3424300
+163	72	971527765	Barneombudet	1617101
+163	72	972417920	Utenriksdepartementet	291559039
+163	72	974761270	Sivilombudet Stortingets ombud for kontroll med forvaltningen	250603
+164	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	22000000
+164	70	972417920	Utenriksdepartementet	368395176
+164	71	972417823	Forsvarsdepartementet	4592773
+164	71	972417920	Utenriksdepartementet	179823470
+164	72	971277882	Direktoratet for utviklingssamarbeid (NORAD)	2000000
+164	72	972417823	Forsvarsdepartementet	957575
+164	72	972417920	Utenriksdepartementet	164916735
+164	73	912660680	Nærings- og fiskeridepartementet	4117824
+164	73	971277882	Direktoratet for utviklingssamarbeid (NORAD)	2000000
+164	73	972417823	Forsvarsdepartementet	2733784
+164	73	972417882	Klima- og miljødepartementet	13966730
+164	73	972417920	Utenriksdepartementet	281243928
+164	73	983887406	Helse- og omsorgsdepartementet	1236424
+165	1	971277882	Direktoratet for utviklingssamarbeid (NORAD)	38745900
+165	1	972417920	Utenriksdepartementet	46261996
+165	45	971349077	Havforskningsinstituttet	18305130
+165	70	872417842	Kunnskapsdepartementet	16400000
+165	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	34925107
+165	70	972417920	Utenriksdepartementet	86000000
+165	71	971277882	Direktoratet for utviklingssamarbeid (NORAD)	202999753
+165	71	972417920	Utenriksdepartementet	98217586
+166	72	971277882	Direktoratet for utviklingssamarbeid (NORAD)	24574923
+166	72	972417882	Klima- og miljødepartementet	0
+166	72	972417920	Utenriksdepartementet	729214991
+166	74	971277882	Direktoratet for utviklingssamarbeid (NORAD)	68902193
+166	74	972417920	Utenriksdepartementet	383449706
+167	21	972417920	Utenriksdepartementet	6719562000
+168	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	30469548
+168	70	972417920	Utenriksdepartementet	262473719
+169	1	971277882	Direktoratet for utviklingssamarbeid (NORAD)	0
+169	1	972417920	Utenriksdepartementet	16182127
+169	70	971277882	Direktoratet for utviklingssamarbeid (NORAD)	207656718
+169	70	972417920	Utenriksdepartementet	2801299160
+169	73	971277882	Direktoratet for utviklingssamarbeid (NORAD)	312963328
+169	73	972417920	Utenriksdepartementet	1423444937
+170	70	972417920	Utenriksdepartementet	560900000
+170	71	972417920	Utenriksdepartementet	401000000
+170	72	972417920	Utenriksdepartementet	505000000
+170	73	972417920	Utenriksdepartementet	237000000
+170	74	972417920	Utenriksdepartementet	350000000
+170	75	972417920	Utenriksdepartementet	112500000
+170	76	971277882	Direktoratet for utviklingssamarbeid (NORAD)	31000000
+170	76	972417920	Utenriksdepartementet	206662000
+170	77	972417920	Utenriksdepartementet	140000000
+170	78	972417920	Utenriksdepartementet	232289262
+170	79	972417920	Utenriksdepartementet	33707452
+170	81	971277882	Direktoratet for utviklingssamarbeid (NORAD)	105000000
+170	81	972417920	Utenriksdepartementet	577000
+170	82	972417920	Utenriksdepartementet	75000000
+170	83	972417920	Utenriksdepartementet	183500000
+171	70	972417920	Utenriksdepartementet	866000000
+171	71	972417920	Utenriksdepartementet	822990983
+171	72	972417920	Utenriksdepartementet	161500000
+172	70	972417920	Utenriksdepartementet	269720232
+200	1	872417842	Kunnskapsdepartementet	258675591
+200	21	872417842	Kunnskapsdepartementet	11681246
+200	45	872417842	Kunnskapsdepartementet	656782
+220	1	970018131	Utdanningsdirektoratet	278475708
+220	21	970018131	Utdanningsdirektoratet	131446763
+220	21	998554640	Statped	1910000
+220	70	970018131	Utdanningsdirektoratet	56950459
+221	1	989628011	Foreldreutvalget for grunnopplæringen	13344572
+222	1	970018131	Utdanningsdirektoratet	606149
+222	1	971578807	De samiske videregående skoler, Karasjok og Kautokeino	88361917
+222	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	380000
+222	1	974764814	Sørsamisk kunnskapspark	9477818
+222	45	971578807	De samiske videregående skoler, Karasjok og Kautokeino	0
+223	50	970018131	Utdanningsdirektoratet	41501000
+224	1	994615203	Senter for IKT i utdanningen	63538331
+224	21	994615203	Senter for IKT i utdanningen	29775607
+225	1	946473111	Fylkesmannen i Buskerud	1798795
+225	1	967311014	Statsforvalteren i Troms og Finnmark	622061
+225	1	970350934	Fylkesmannen i Oppland	738909
+225	1	974760460	Fylkesmannen i Østfold	1649177
+225	1	974760665	Statsforvaltaren i Vestland	3214828
+225	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2778432
+225	1	974761645	Statsforvalteren i Innlandet	0
+225	1	974762501	Statsforvalteren i Vestfold og Telemark	139000
+225	1	974762684	Fylkesmannen i Telemark	363109
+225	1	974762994	Statsforvalteren i Agder	519265
+225	1	974763230	Statsforvaltaren i Rogaland	4308512
+225	1	974763907	Fylkesmannen i Sogn og Fjordane	690835
+225	1	974764067	Statsforvaltaren i  Møre og Romsdal	439640
+225	1	974764350	Statsforvalteren i Trøndelag	2939894
+225	1	974764687	Statsforvalteren i Nordland	441790
+225	1	974772108	Fylkesmannen i Nord-Trøndelag	163533
+225	1	974772124	Fylkesmannen i Troms	2370000
+225	21	946473111	Fylkesmannen i Buskerud	15438643
+225	21	967311014	Statsforvalteren i Troms og Finnmark	762678
+225	21	970350934	Fylkesmannen i Oppland	3742961
+225	21	974760460	Fylkesmannen i Østfold	4487827
+225	21	974760665	Statsforvaltaren i Vestland	11933435
+225	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	19438998
+225	21	974762501	Statsforvalteren i Vestfold og Telemark	947391
+225	21	974762684	Fylkesmannen i Telemark	2058234
+225	21	974762994	Statsforvalteren i Agder	3091991
+225	21	974763230	Statsforvaltaren i Rogaland	14834875
+225	21	974763907	Fylkesmannen i Sogn og Fjordane	1052847
+225	21	974764067	Statsforvaltaren i  Møre og Romsdal	1452184
+225	21	974764350	Statsforvalteren i Trøndelag	11579187
+225	21	974764687	Statsforvalteren i Nordland	600203
+225	21	974772108	Fylkesmannen i Nord-Trøndelag	1066912
+225	21	974772124	Fylkesmannen i Troms	6179000
+225	60	970018131	Utdanningsdirektoratet	211531000
+225	62	970018131	Utdanningsdirektoratet	23670000
+225	63	967311014	Statsforvalteren i Troms og Finnmark	30369466
+225	63	970018131	Utdanningsdirektoratet	5243800
+225	63	974764687	Statsforvalteren i Nordland	4521231
+225	63	974772108	Fylkesmannen i Nord-Trøndelag	1896000
+225	63	974772124	Fylkesmannen i Troms	10375191
+225	64	946473111	Fylkesmannen i Buskerud	13416514
+225	64	967311014	Statsforvalteren i Troms og Finnmark	7154675
+225	64	970350934	Fylkesmannen i Oppland	30465616
+225	64	974760460	Fylkesmannen i Østfold	20494684
+225	64	974760665	Statsforvaltaren i Vestland	13197046
+225	64	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	18820585
+225	64	974761645	Statsforvalteren i Innlandet	22667795
+225	64	974762501	Statsforvalteren i Vestfold og Telemark	14413841
+225	64	974762684	Fylkesmannen i Telemark	10911210
+225	64	974762994	Statsforvalteren i Agder	56530452
+225	64	974763230	Statsforvaltaren i Rogaland	21825544
+225	64	974763907	Fylkesmannen i Sogn og Fjordane	16371964
+225	64	974764067	Statsforvaltaren i  Møre og Romsdal	19957630
+225	64	974764350	Statsforvalteren i Trøndelag	14167900
+225	64	974764687	Statsforvalteren i Nordland	37198634
+225	64	974772108	Fylkesmannen i Nord-Trøndelag	13301462
+225	64	974772124	Fylkesmannen i Troms	32391671
+225	65	942114184	Husbanken	350231982
+225	66	946473111	Fylkesmannen i Buskerud	2567169
+225	66	967311014	Statsforvalteren i Troms og Finnmark	587998
+225	66	970350934	Fylkesmannen i Oppland	1818248
+225	66	974760460	Fylkesmannen i Østfold	2905160
+225	66	974760665	Statsforvaltaren i Vestland	5063638
+225	66	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	11015848
+225	66	974761645	Statsforvalteren i Innlandet	2034182
+225	66	974762501	Statsforvalteren i Vestfold og Telemark	1358204
+225	66	974762684	Fylkesmannen i Telemark	1089066
+225	66	974762994	Statsforvalteren i Agder	2337000
+225	66	974763230	Statsforvaltaren i Rogaland	3423677
+225	66	974763907	Fylkesmannen i Sogn og Fjordane	1126626
+225	66	974764067	Statsforvaltaren i  Møre og Romsdal	2466221
+225	66	974764350	Statsforvalteren i Trøndelag	2284541
+225	66	974764687	Statsforvalteren i Nordland	1802642
+225	66	974772108	Fylkesmannen i Nord-Trøndelag	923204
+225	66	974772124	Fylkesmannen i Troms	1902402
+225	67	967311014	Statsforvalteren i Troms og Finnmark	5236035
+225	67	970018131	Utdanningsdirektoratet	675100
+225	67	974772124	Fylkesmannen i Troms	1479222
+225	68	974760665	Statsforvaltaren i Vestland	272899998
+225	69	970018131	Utdanningsdirektoratet	216825991
+225	70	970018131	Utdanningsdirektoratet	57868934
+225	71	970018131	Utdanningsdirektoratet	29336000
+225	72	872417842	Kunnskapsdepartementet	6290000
+225	73	872417842	Kunnskapsdepartementet	14153000
+225	74	970018131	Utdanningsdirektoratet	23385970
+226	21	872417842	Kunnskapsdepartementet	104287805
+226	21	946473111	Fylkesmannen i Buskerud	6947735
+226	21	967311014	Statsforvalteren i Troms og Finnmark	9870189
+226	21	970018131	Utdanningsdirektoratet	500795258
+226	21	970350934	Fylkesmannen i Oppland	9461177
+226	21	971527765	Barneombudet	2698641
+226	21	972417831	Justis- og beredskapsdepartementet	232000
+226	21	974760460	Fylkesmannen i Østfold	6365931
+226	21	974760665	Statsforvaltaren i Vestland	11242691
+226	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	13052407
+226	21	974761645	Statsforvalteren i Innlandet	6590781
+226	21	974762501	Statsforvalteren i Vestfold og Telemark	6693114
+226	21	974762684	Fylkesmannen i Telemark	9391000
+226	21	974762994	Statsforvalteren i Agder	20495625
+226	21	974763230	Statsforvaltaren i Rogaland	8851218
+226	21	974763907	Fylkesmannen i Sogn og Fjordane	8840468
+226	21	974764067	Statsforvaltaren i  Møre og Romsdal	13724142
+226	21	974764350	Statsforvalteren i Trøndelag	6409495
+226	21	974764687	Statsforvalteren i Nordland	14053832
+226	21	974772108	Fylkesmannen i Nord-Trøndelag	6332172
+226	21	974772124	Fylkesmannen i Troms	6737897
+226	21	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	16151061
+226	21	994615203	Senter for IKT i utdanningen	11755098
+226	21	998554640	Statped	5494408
+226	22	946473111	Fylkesmannen i Buskerud	380000
+226	22	967311014	Statsforvalteren i Troms og Finnmark	305896
+226	22	970018131	Utdanningsdirektoratet	1183388010
+226	22	970350934	Fylkesmannen i Oppland	379448
+226	22	971578807	De samiske videregående skoler, Karasjok og Kautokeino	2118936
+226	22	974760460	Fylkesmannen i Østfold	367415
+226	22	974760665	Statsforvaltaren i Vestland	329158
+226	22	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	597098
+226	22	974761645	Statsforvalteren i Innlandet	380635
+226	22	974762501	Statsforvalteren i Vestfold og Telemark	380000
+226	22	974762684	Fylkesmannen i Telemark	380000
+226	22	974762994	Statsforvalteren i Agder	700000
+226	22	974763230	Statsforvaltaren i Rogaland	380000
+226	22	974763907	Fylkesmannen i Sogn og Fjordane	249347
+226	22	974764067	Statsforvaltaren i  Møre og Romsdal	374574
+226	22	974764350	Statsforvalteren i Trøndelag	380000
+226	22	974764687	Statsforvalteren i Nordland	300273
+226	22	974772108	Fylkesmannen i Nord-Trøndelag	379932
+226	22	974772124	Fylkesmannen i Troms	380000
+226	22	998554640	Statped	720000
+226	50	970018131	Utdanningsdirektoratet	90389000
+226	60	970018131	Utdanningsdirektoratet	37456477
+226	62	970018131	Utdanningsdirektoratet	393835259
+226	63	872417842	Kunnskapsdepartementet	15750000
+226	63	970018131	Utdanningsdirektoratet	738669970
+226	70	970018131	Utdanningsdirektoratet	8151000
+226	71	872417842	Kunnskapsdepartementet	53339000
+227	60	970018131	Utdanningsdirektoratet	2242000
+227	61	970018131	Utdanningsdirektoratet	5095000
+227	62	974761645	Statsforvalteren i Innlandet	6070000
+227	70	970018131	Utdanningsdirektoratet	10158000
+227	71	970018131	Utdanningsdirektoratet	26164000
+227	72	970018131	Utdanningsdirektoratet	32999000
+227	74	970018131	Utdanningsdirektoratet	44522000
+227	75	970018131	Utdanningsdirektoratet	10243600
+227	76	970018131	Utdanningsdirektoratet	4857000
+227	77	970018131	Utdanningsdirektoratet	2400000
+228	70	970018131	Utdanningsdirektoratet	2045798628
+228	71	970018131	Utdanningsdirektoratet	1529981734
+228	72	970018131	Utdanningsdirektoratet	147906028
+228	73	970018131	Utdanningsdirektoratet	94982905
+228	73	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	16399665
+228	74	970018131	Utdanningsdirektoratet	14884974
+228	74	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2298420
+228	75	970018131	Utdanningsdirektoratet	275277373
+228	76	970018131	Utdanningsdirektoratet	47311900
+228	77	970018131	Utdanningsdirektoratet	17762977
+228	78	970018131	Utdanningsdirektoratet	23161100
+228	79	970018131	Utdanningsdirektoratet	41416900
+228	80	970018131	Utdanningsdirektoratet	723863
+228	81	970018131	Utdanningsdirektoratet	1892000
+228	82	970018131	Utdanningsdirektoratet	20919810
+229	1	870961642	Norges grønne fagskole - Vea	27321782
+229	45	870961642	Norges grønne fagskole - Vea	948976
+230	1	872417842	Kunnskapsdepartementet	312044
+230	1	970018131	Utdanningsdirektoratet	33974827
+230	1	974761645	Statsforvalteren i Innlandet	609001
+230	1	998554640	Statped	601363684
+230	21	998554640	Statped	36287857
+230	45	998554640	Statped	9350395
+231	21	872417842	Kunnskapsdepartementet	24548475
+231	21	946473111	Fylkesmannen i Buskerud	9240042
+231	21	967311014	Statsforvalteren i Troms og Finnmark	7178711
+231	21	970018131	Utdanningsdirektoratet	157337835
+231	21	970350934	Fylkesmannen i Oppland	8403761
+231	21	974760460	Fylkesmannen i Østfold	8252996
+231	21	974760665	Statsforvaltaren i Vestland	23979443
+231	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	42725465
+231	21	974761645	Statsforvalteren i Innlandet	6925712
+231	21	974762501	Statsforvalteren i Vestfold og Telemark	7373514
+231	21	974762684	Fylkesmannen i Telemark	6862466
+231	21	974762994	Statsforvalteren i Agder	16618386
+231	21	974763230	Statsforvaltaren i Rogaland	15340407
+231	21	974763907	Fylkesmannen i Sogn og Fjordane	6630596
+231	21	974764067	Statsforvaltaren i  Møre og Romsdal	9798308
+231	21	974764350	Statsforvalteren i Trøndelag	8802688
+231	21	974764687	Statsforvalteren i Nordland	9520382
+231	21	974772108	Fylkesmannen i Nord-Trøndelag	7779562
+231	21	974772124	Fylkesmannen i Troms	7904614
+231	21	994615203	Senter for IKT i utdanningen	428413
+231	50	970018131	Utdanningsdirektoratet	16114000
+231	51	872417842	Kunnskapsdepartementet	8694000
+231	63	970018131	Utdanningsdirektoratet	138234781
+231	70	946473111	Fylkesmannen i Buskerud	1197000
+231	70	967311014	Statsforvalteren i Troms og Finnmark	571500
+231	70	970350934	Fylkesmannen i Oppland	675000
+231	70	974760460	Fylkesmannen i Østfold	592500
+231	70	974760665	Statsforvaltaren i Vestland	2329500
+231	70	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	6884900
+231	70	974761645	Statsforvalteren i Innlandet	602727
+231	70	974762501	Statsforvalteren i Vestfold og Telemark	604713
+231	70	974762684	Fylkesmannen i Telemark	710500
+231	70	974762994	Statsforvalteren i Agder	1382850
+231	70	974763230	Statsforvaltaren i Rogaland	2968500
+231	70	974763907	Fylkesmannen i Sogn og Fjordane	597000
+231	70	974764067	Statsforvaltaren i  Møre og Romsdal	1330500
+231	70	974764350	Statsforvalteren i Trøndelag	1703390
+231	70	974764687	Statsforvalteren i Nordland	1421670
+231	70	974772108	Fylkesmannen i Nord-Trøndelag	406500
+231	70	974772124	Fylkesmannen i Troms	777500
+252	70	872417842	Kunnskapsdepartementet	531318557
+253	70	970018131	Utdanningsdirektoratet	796528000
+253	71	970018131	Utdanningsdirektoratet	4819000
+253	72	970018131	Utdanningsdirektoratet	615000
+254	70	974788985	Direktoratet for høyere utdanning og kompetanse	208374004
+254	73	974788985	Direktoratet for høyere utdanning og kompetanse	12762000
+255	70	974788985	Direktoratet for høyere utdanning og kompetanse	32070000
+255	71	974788985	Direktoratet for høyere utdanning og kompetanse	18636000
+255	72	872417842	Kunnskapsdepartementet	15000000
+255	72	974788985	Direktoratet for høyere utdanning og kompetanse	11122000
+255	73	974788985	Direktoratet for høyere utdanning og kompetanse	6040000
+255	74	872417842	Kunnskapsdepartementet	6740000
+255	74	974788985	Direktoratet for høyere utdanning og kompetanse	5737000
+255	75	872417842	Kunnskapsdepartementet	8103000
+255	76	974788985	Direktoratet for høyere utdanning og kompetanse	4987000
+256	1	872417842	Kunnskapsdepartementet	1133743
+256	1	974788985	Direktoratet for høyere utdanning og kompetanse	53604099
+256	21	974788985	Direktoratet for høyere utdanning og kompetanse	13368780
+257	21	974788985	Direktoratet for høyere utdanning og kompetanse	5672386
+257	70	974788985	Direktoratet for høyere utdanning og kompetanse	160971592
+258	1	872417842	Kunnskapsdepartementet	5692088
+258	1	970018131	Utdanningsdirektoratet	250000
+258	21	872417842	Kunnskapsdepartementet	46385266
+258	21	970018131	Utdanningsdirektoratet	288853
+258	21	974788985	Direktoratet for høyere utdanning og kompetanse	30877554
+258	60	974788985	Direktoratet for høyere utdanning og kompetanse	31858000
+260	50	872417842	Kunnskapsdepartementet	31359030999
+260	70	872417842	Kunnskapsdepartementet	1281884000
+270	71	872417842	Kunnskapsdepartementet	17193000
+270	74	872417842	Kunnskapsdepartementet	93311000
+270	75	942114184	Husbanken	586134000
+276	72	872417842	Kunnskapsdepartementet	68683000
+280	1	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	87581350
+280	21	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	617693
+280	50	872417842	Kunnskapsdepartementet	81114000
+280	51	872417842	Kunnskapsdepartementet	174572000
+280	71	872417842	Kunnskapsdepartementet	125360000
+280	72	872417842	Kunnskapsdepartementet	27240000
+280	73	872417842	Kunnskapsdepartementet	35207514
+281	1	872417842	Kunnskapsdepartementet	187570410
+281	1	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	30640000
+281	45	872417842	Kunnskapsdepartementet	45674000
+281	50	872417842	Kunnskapsdepartementet	167574000
+281	70	872417842	Kunnskapsdepartementet	69247000
+281	73	872417842	Kunnskapsdepartementet	73696602
+281	78	872417842	Kunnskapsdepartementet	17247000
+283	50	872417842	Kunnskapsdepartementet	311171000
+283	72	872417842	Kunnskapsdepartementet	121417667
+284	1	999148603	De nasjonale forskningsetiske komiteene	18557970
+285	52	872417842	Kunnskapsdepartementet	1600972000
+285	53	872417842	Kunnskapsdepartementet	1256047000
+285	54	872417842	Kunnskapsdepartementet	486317000
+285	55	872417842	Kunnskapsdepartementet	279676000
+287	21	872417842	Kunnskapsdepartementet	15969747
+287	53	872417842	Kunnskapsdepartementet	4716000
+287	56	872417842	Kunnskapsdepartementet	11541000
+287	57	872417842	Kunnskapsdepartementet	178759000
+287	60	872417842	Kunnskapsdepartementet	267462000
+287	71	872417842	Kunnskapsdepartementet	41792494
+287	73	872417842	Kunnskapsdepartementet	14528000
+288	21	872417842	Kunnskapsdepartementet	37230199
+288	72	872417842	Kunnskapsdepartementet	310921965
+288	73	872417842	Kunnskapsdepartementet	2424845039
+288	75	872417842	Kunnskapsdepartementet	23158771
+288	76	872417842	Kunnskapsdepartementet	3500000
+300	1	972417866	Kultur- og likestillingsdepartementet	140641129
+300	21	972417866	Kultur- og likestillingsdepartementet	3829589
+314	21	972417866	Kultur- og likestillingsdepartementet	1430566
+314	71	972417866	Kultur- og likestillingsdepartementet	2266000
+314	72	972417866	Kultur- og likestillingsdepartementet	3739000
+314	78	972417866	Kultur- og likestillingsdepartementet	12829000
+315	21	972417866	Kultur- og likestillingsdepartementet	6757704
+315	70	972417866	Kultur- og likestillingsdepartementet	7129000
+315	70	982391490	Lotteri- og stiftelsestilsynet	1293419000
+315	71	972417866	Kultur- og likestillingsdepartementet	127981997
+315	72	972417866	Kultur- og likestillingsdepartementet	23935000
+315	74	972417866	Kultur- og likestillingsdepartementet	1000000
+315	75	972417866	Kultur- og likestillingsdepartementet	18700000
+315	76	972417866	Kultur- og likestillingsdepartementet	10000000
+315	78	972417866	Kultur- og likestillingsdepartementet	8039000
+315	79	972417866	Kultur- og likestillingsdepartementet	2073000
+315	82	972417866	Kultur- og likestillingsdepartementet	1000000
+315	82	982391490	Lotteri- og stiftelsestilsynet	191918999
+315	84	972417866	Kultur- og likestillingsdepartementet	34313000
+315	86	972417866	Kultur- og likestillingsdepartementet	27000000
+315	87	972417866	Kultur- og likestillingsdepartementet	2000000
+320	1	971527412	Kulturdirektoratet	142249960
+320	1	972417866	Kultur- og likestillingsdepartementet	5069898
+320	21	971527404	Språkrådet	0
+320	21	971527412	Kulturdirektoratet	5397950
+320	21	972417866	Kultur- og likestillingsdepartementet	3234077
+320	51	971527412	Kulturdirektoratet	37416000
+320	52	972417866	Kultur- og likestillingsdepartementet	12894000
+320	53	972417866	Kultur- og likestillingsdepartementet	82487000
+320	55	971527412	Kulturdirektoratet	71856000
+320	73	972417866	Kultur- og likestillingsdepartementet	207400000
+320	73	974778998	Kunst i offentlige rom KORO	77586
+320	75	972417866	Kultur- og likestillingsdepartementet	57432348
+320	78	971527412	Kulturdirektoratet	1577000
+320	78	972417866	Kultur- og likestillingsdepartementet	37721000
+320	79	972417866	Kultur- og likestillingsdepartementet	5586000
+320	82	972417866	Kultur- og likestillingsdepartementet	30080000
+320	85	972417866	Kultur- og likestillingsdepartementet	44937474
+320	86	972417866	Kultur- og likestillingsdepartementet	30570000
+321	71	971527412	Kulturdirektoratet	10884688
+321	73	971527412	Kulturdirektoratet	172156982
+321	74	971527412	Kulturdirektoratet	126937879
+321	75	971527412	Kulturdirektoratet	4800000
+321	75	972417866	Kultur- og likestillingsdepartementet	175826020
+322	1	972417866	Kultur- og likestillingsdepartementet	668386
+322	1	974778998	Kunst i offentlige rom KORO	16332572
+322	50	974778998	Kunst i offentlige rom KORO	27578000
+322	55	971527412	Kulturdirektoratet	102618000
+322	73	972417866	Kultur- og likestillingsdepartementet	287800000
+322	78	972417866	Kultur- og likestillingsdepartementet	57138000
+323	1	972417866	Kultur- og likestillingsdepartementet	7301178
+323	1	974761114	Kulturtanken - Den kulturelle skolesekken Norge	157986089
+323	55	971527412	Kulturdirektoratet	353998000
+323	60	972417866	Kultur- og likestillingsdepartementet	20338000
+323	70	972417866	Kultur- og likestillingsdepartementet	287547000
+323	71	972417866	Kultur- og likestillingsdepartementet	244587000
+323	78	972417866	Kultur- og likestillingsdepartementet	117240478
+324	1	972417866	Kultur- og likestillingsdepartementet	697775
+324	1	974907550	Riksteatret	75375251
+324	21	974907550	Riksteatret	65983476
+324	55	971527412	Kulturdirektoratet	138907000
+324	70	972417866	Kultur- og likestillingsdepartementet	1076667000
+324	71	972417866	Kultur- og likestillingsdepartementet	498328000
+324	73	972417866	Kultur- og likestillingsdepartementet	55485000
+324	78	972417866	Kultur- og likestillingsdepartementet	191649001
+326	1	970145567	Norsk lyd- og blindeskriftbibliotek	53648183
+326	1	971527404	Språkrådet	33348456
+326	1	976029100	Nasjonalbiblioteket	443690170
+326	21	976029100	Nasjonalbiblioteket	8612836
+326	45	976029100	Nasjonalbiblioteket	20244411
+326	55	971527412	Kulturdirektoratet	178265000
+326	73	972417866	Kultur- og likestillingsdepartementet	5834000
+326	74	972417866	Kultur- og likestillingsdepartementet	15217000
+326	75	972417866	Kultur- og likestillingsdepartementet	15896000
+326	76	972417866	Kultur- og likestillingsdepartementet	5887000
+326	78	971527404	Språkrådet	965000
+326	78	972417866	Kultur- og likestillingsdepartementet	72290881
+326	80	976029100	Nasjonalbiblioteket	58876986
+328	55	971527412	Kulturdirektoratet	30174000
+328	70	972417866	Kultur- og likestillingsdepartementet	1174881000
+328	78	972417866	Kultur- og likestillingsdepartementet	20490000
+329	1	961181399	Nasjonalarkivet	342593499
+329	1	972417866	Kultur- og likestillingsdepartementet	5000000
+329	1	974770458	Norsk lokalhistorisk institutt	8494156
+329	21	961181399	Nasjonalarkivet	24841360
+329	45	961181399	Nasjonalarkivet	8636777
+329	78	972417866	Kultur- og likestillingsdepartementet	8277000
+334	1	892211442	Norsk filminstitutt	99848872
+334	1	972417866	Kultur- og likestillingsdepartementet	7667730
+334	1	974760886	Medietilsynet	43410916
+334	21	892211442	Norsk filminstitutt	5600233
+334	21	974760886	Medietilsynet	1900319
+334	50	892211442	Norsk filminstitutt	485174000
+334	51	892211442	Norsk filminstitutt	11009000
+334	72	892211442	Norsk filminstitutt	37828437
+334	73	892211442	Norsk filminstitutt	69672000
+334	73	972417866	Kultur- og likestillingsdepartementet	800000
+334	78	972417866	Kultur- og likestillingsdepartementet	27942881
+335	71	974760886	Medietilsynet	313038083
+335	73	972417866	Kultur- og likestillingsdepartementet	10651000
+335	73	974760886	Medietilsynet	11086229
+335	74	974760886	Medietilsynet	12704091
+335	75	974760886	Medietilsynet	27031756
+335	77	974760886	Medietilsynet	2048000
+337	70	972417866	Kultur- og likestillingsdepartementet	46215000
+339	1	982391490	Lotteri- og stiftelsestilsynet	67507409
+339	21	982391490	Lotteri- og stiftelsestilsynet	12536567
+340	1	970550259	Kirkerådet	125668134
+340	1	971367601	Møre bispedømmeråd	74172116
+340	1	971551151	Agder og Telemark bispedømmeråd	117262765
+340	1	972417866	Kultur- og likestillingsdepartementet	1541789
+340	1	974760533	Borg bispedømmeråd	119728907
+340	1	974761475	Oslo bispedømmeråd	145093058
+340	1	974761610	Hamar bispedømmeråd	104884182
+340	1	974762498	Tunsberg bispedømmeråd	107378308
+340	1	974763222	Stavanger bispedømmeråd	93965358
+340	1	974763575	Bjørgvin bispedømeråd	146116771
+340	1	974764407	Nidaros bispedømmeråd	111200771
+340	1	974764709	Sør-Hålogaland bispedømmeråd	83379837
+340	1	974764946	Nord-Hålogaland bispedømmeråd	88905886
+340	1	980301788	Det praktisk-teologiske seminar	13720360
+340	21	970550259	Kirkerådet	13687619
+340	21	971367601	Møre bispedømmeråd	24707
+340	21	971551151	Agder og Telemark bispedømmeråd	1659456
+340	21	974761475	Oslo bispedømmeråd	7590874
+340	21	974761610	Hamar bispedømmeråd	878603
+340	21	974762498	Tunsberg bispedømmeråd	0
+340	21	974763222	Stavanger bispedømmeråd	2984175
+340	21	974763575	Bjørgvin bispedømeråd	577700
+340	21	974764407	Nidaros bispedømmeråd	2491729
+340	71	972417866	Kultur- og likestillingsdepartementet	88170000
+340	75	938966397	Nidaros domkirkes restaureringsarbeider	667501
+340	75	970550259	Kirkerådet	32566000
+340	75	971367601	Møre bispedømmeråd	28060157
+340	75	971551151	Agder og Telemark bispedømmeråd	39658500
+340	75	974760533	Borg bispedømmeråd	51760208
+340	75	974760819	Riksantikvaren	667500
+340	75	974761475	Oslo bispedømmeråd	42750718
+340	75	974761610	Hamar bispedømmeråd	33886735
+340	75	974762498	Tunsberg bispedømmeråd	38206178
+340	75	974763222	Stavanger bispedømmeråd	43690178
+340	75	974763575	Bjørgvin bispedømeråd	53619571
+340	75	974764407	Nidaros bispedømmeråd	42289980
+340	75	974764709	Sør-Hålogaland bispedømmeråd	30676538
+340	75	974764946	Nord-Hålogaland bispedømmeråd	28701852
+341	70	946473111	Fylkesmannen i Buskerud	9127226
+341	70	967311014	Statsforvalteren i Troms og Finnmark	624456
+341	70	970350934	Fylkesmannen i Oppland	1608104
+341	70	974760460	Fylkesmannen i Østfold	6896392
+341	70	974760665	Statsforvaltaren i Vestland	6973800
+341	70	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	219584381
+341	70	974761645	Statsforvalteren i Innlandet	1936578
+341	70	974762501	Statsforvalteren i Vestfold og Telemark	8298232
+341	70	974762684	Fylkesmannen i Telemark	3625904
+341	70	974762994	Statsforvalteren i Agder	7944282
+341	70	974763230	Statsforvaltaren i Rogaland	8916513
+341	70	974763907	Fylkesmannen i Sogn og Fjordane	595192
+341	70	974764067	Statsforvaltaren i  Møre og Romsdal	2665132
+341	70	974764350	Statsforvalteren i Trøndelag	5147632
+341	70	974764687	Statsforvalteren i Nordland	2059808
+341	70	974772108	Fylkesmannen i Nord-Trøndelag	835912
+341	70	974772124	Fylkesmannen i Troms	4565184
+341	75	972417866	Kultur- og likestillingsdepartementet	4972165
+341	78	972417866	Kultur- og likestillingsdepartementet	11496000
+342	1	938966397	Nidaros domkirkes restaureringsarbeider	61743573
+342	1	972417866	Kultur- og likestillingsdepartementet	2099654
+342	1	974764709	Sør-Hålogaland bispedømmeråd	191638
+342	60	942114184	Husbanken	43565646
+342	70	972417866	Kultur- og likestillingsdepartementet	15035880
+400	1	915429785	Politi- og lensmannsetaten	5178652
+400	1	971390425	Hovedredningssentralen	34217
+400	1	971524758	Riksadvokaten	1269305
+400	1	972417831	Justis- og beredskapsdepartementet	391519108
+400	1	984195796	Domstolene i Norge	315000
+400	1	986074465	Konfliktrådene	0
+400	21	972417831	Justis- og beredskapsdepartementet	22621386
+400	23	915429785	Politi- og lensmannsetaten	617383
+400	23	972417793	Barne- og familiedepartementet	200000
+400	23	972417831	Justis- og beredskapsdepartementet	20915776
+400	23	974760746	Utlendingsdirektoratet	347711
+400	23	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	886831
+400	23	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	554169
+400	50	972417831	Justis- og beredskapsdepartementet	22341000
+400	71	972417831	Justis- og beredskapsdepartementet	13000385
+410	1	984195796	Domstolene i Norge	2112066794
+410	21	974760673	Registerenheten i Brønnøysund	49827968
+410	21	984195796	Domstolene i Norge	22339419
+410	22	984195796	Domstolene i Norge	4750104
+411	1	984195796	Domstolene i Norge	81532769
+414	1	915429785	Politi- og lensmannsetaten	3990912
+414	1	984195796	Domstolene i Norge	212781913
+414	21	915429785	Politi- og lensmannsetaten	35782309
+414	21	971456523	Sysselmesteren på Svalbard	46530
+430	1	911830868	Kriminalomsorgsdirektoratet	4118188029
+430	1	971278374	Statsbygg	0
+430	1	972417831	Justis- og beredskapsdepartementet	641953
+430	21	911830868	Kriminalomsorgsdirektoratet	83058913
+430	45	911830868	Kriminalomsorgsdirektoratet	37032293
+430	45	971278374	Statsbygg	2080000
+430	60	911830868	Kriminalomsorgsdirektoratet	61695557
+430	70	911830868	Kriminalomsorgsdirektoratet	22290050
+432	1	911830868	Kriminalomsorgsdirektoratet	196021864
+440	1	911830868	Kriminalomsorgsdirektoratet	37869619
+440	1	915429785	Politi- og lensmannsetaten	14670286112
+440	1	971524758	Riksadvokaten	2045766
+440	1	972417831	Justis- og beredskapsdepartementet	45128274
+440	1	974760746	Utlendingsdirektoratet	497062
+440	1	974761076	Skatteetaten	2680420
+440	1	984195796	Domstolene i Norge	537338
+440	1	986074465	Konfliktrådene	500000
+440	1	986128433	Barne-, ungdoms- og familiedirektoratet	1413196
+440	1	991825827	Direktoratet for forvaltning og IKT (DIFI)	2598332
+440	21	915429785	Politi- og lensmannsetaten	304203096
+440	22	915429785	Politi- og lensmannsetaten	3770303
+440	23	974760673	Registerenheten i Brønnøysund	20807844
+440	25	915429785	Politi- og lensmannsetaten	99650278
+440	60	972417831	Justis- og beredskapsdepartementet	10000000
+440	70	915429785	Politi- og lensmannsetaten	11648514
+440	70	972417831	Justis- og beredskapsdepartementet	61430266
+440	71	972417831	Justis- og beredskapsdepartementet	4839000
+440	73	972417831	Justis- og beredskapsdepartementet	180699066
+442	1	915429785	Politi- og lensmannsetaten	567154517
+444	1	915429785	Politi- og lensmannsetaten	852931253
+444	1	971456523	Sysselmesteren på Svalbard	38821
+445	1	971524758	Riksadvokaten	212297358
+446	1	971527072	Generaladvokatembetet	7777330
+448	1	915429785	Politi- og lensmannsetaten	6158374
+451	1	946473111	Fylkesmannen i Buskerud	588000
+451	1	967311014	Statsforvalteren i Troms og Finnmark	297207
+451	1	970350934	Fylkesmannen i Oppland	578895
+451	1	972417831	Justis- og beredskapsdepartementet	4476168
+451	1	974760460	Fylkesmannen i Østfold	588001
+451	1	974760665	Statsforvaltaren i Vestland	588000
+451	1	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	705194303
+451	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	237568
+451	1	974761645	Statsforvalteren i Innlandet	588000
+451	1	974762501	Statsforvalteren i Vestfold og Telemark	588000
+451	1	974762684	Fylkesmannen i Telemark	588000
+451	1	974762994	Statsforvalteren i Agder	588000
+451	1	974763230	Statsforvaltaren i Rogaland	588000
+451	1	974763907	Fylkesmannen i Sogn og Fjordane	588000
+451	1	974764067	Statsforvaltaren i  Møre og Romsdal	588000
+451	1	974764350	Statsforvalteren i Trøndelag	588000
+451	1	974764687	Statsforvalteren i Nordland	588000
+451	1	974772108	Fylkesmannen i Nord-Trøndelag	588000
+451	1	974772124	Fylkesmannen i Troms	588000
+451	21	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	7032076
+451	70	972417831	Justis- og beredskapsdepartementet	7500000
+451	70	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	6165000
+452	1	972417831	Justis- og beredskapsdepartementet	25778665
+454	1	972417831	Justis- og beredskapsdepartementet	721137063
+454	45	972417831	Justis- og beredskapsdepartementet	420118987
+455	1	971390425	Hovedredningssentralen	41587533
+455	1	971513756	Hovedredningssentralen Sør-Norge	51843292
+455	1	972417831	Justis- og beredskapsdepartementet	5327154
+455	21	971390425	Hovedredningssentralen	4226134
+455	21	971513756	Hovedredningssentralen Sør-Norge	18389756
+455	45	971390425	Hovedredningssentralen	1838002
+455	45	971513756	Hovedredningssentralen Sør-Norge	3039886
+455	45	990382840	Direktoratet for nødkommunikasjon (DNK)	4039000
+455	71	972417831	Justis- og beredskapsdepartementet	52800768
+455	72	972417831	Justis- og beredskapsdepartementet	94453499
+456	1	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	8400000
+456	1	990382840	Direktoratet for nødkommunikasjon (DNK)	535644153
+456	45	990382840	Direktoratet for nødkommunikasjon (DNK)	486083430
+460	1	987248890	Spesialenheten for politisaker	40204086
+466	1	915429785	Politi- og lensmannsetaten	1621719
+466	1	972417831	Justis- og beredskapsdepartementet	306963
+466	1	984195796	Domstolene i Norge	1094948534
+466	1	985847215	Kommisjonen for gjenopptakelse av straffesaker	1216530
+466	1	986186999	Statens sivilrettsforvaltning	11518553
+467	1	972417831	Justis- og beredskapsdepartementet	4171180
+468	1	972417831	Justis- og beredskapsdepartementet	226488
+468	1	985847215	Kommisjonen for gjenopptakelse av straffesaker	14607342
+468	1	986074465	Konfliktrådene	750000
+469	1	946473111	Fylkesmannen i Buskerud	8722362
+469	1	967311014	Statsforvalteren i Troms og Finnmark	6126003
+469	1	970350934	Fylkesmannen i Oppland	7730491
+469	1	972417831	Justis- og beredskapsdepartementet	2049181
+469	1	974760460	Fylkesmannen i Østfold	10871335
+469	1	974760665	Statsforvaltaren i Vestland	17129427
+469	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	38369471
+469	1	974761645	Statsforvalteren i Innlandet	8512477
+469	1	974762501	Statsforvalteren i Vestfold og Telemark	9163040
+469	1	974762684	Fylkesmannen i Telemark	7447454
+469	1	974762994	Statsforvalteren i Agder	14104910
+469	1	974763230	Statsforvaltaren i Rogaland	12851764
+469	1	974763907	Fylkesmannen i Sogn og Fjordane	7158101
+469	1	974764067	Statsforvaltaren i  Møre og Romsdal	10543149
+469	1	974764350	Statsforvalteren i Trøndelag	12605054
+469	1	974764687	Statsforvalteren i Nordland	11829576
+469	1	974772108	Fylkesmannen i Nord-Trøndelag	6491161
+469	1	974772124	Fylkesmannen i Troms	7787471
+469	1	986186999	Statens sivilrettsforvaltning	26842853
+469	21	946473111	Fylkesmannen i Buskerud	4008120
+469	21	967311014	Statsforvalteren i Troms og Finnmark	2940953
+469	21	970350934	Fylkesmannen i Oppland	4811040
+469	21	971456523	Sysselmesteren på Svalbard	1150
+469	21	974760460	Fylkesmannen i Østfold	19204260
+469	21	974760665	Statsforvaltaren i Vestland	12463122
+469	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	36717021
+469	21	974761645	Statsforvalteren i Innlandet	4399597
+469	21	974762501	Statsforvalteren i Vestfold og Telemark	8014344
+469	21	974762684	Fylkesmannen i Telemark	5507394
+469	21	974762994	Statsforvalteren i Agder	23913652
+469	21	974763230	Statsforvaltaren i Rogaland	6144049
+469	21	974763907	Fylkesmannen i Sogn og Fjordane	3356698
+469	21	974764067	Statsforvaltaren i  Møre og Romsdal	6965192
+469	21	974764350	Statsforvalteren i Trøndelag	11444962
+469	21	974764687	Statsforvalteren i Nordland	15539858
+469	21	974772108	Fylkesmannen i Nord-Trøndelag	2470551
+469	21	974772124	Fylkesmannen i Troms	7632169
+470	1	946473111	Fylkesmannen i Buskerud	7838105
+470	1	967311014	Statsforvalteren i Troms og Finnmark	2062620
+470	1	970350934	Fylkesmannen i Oppland	6226923
+470	1	974760460	Fylkesmannen i Østfold	11522915
+470	1	974760665	Statsforvaltaren i Vestland	9273560
+470	1	974761084	Trygderetten	4264823
+470	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	44675976
+470	1	974761645	Statsforvalteren i Innlandet	6512741
+470	1	974762501	Statsforvalteren i Vestfold og Telemark	7102468
+470	1	974762684	Fylkesmannen i Telemark	5140531
+470	1	974762994	Statsforvalteren i Agder	12227973
+470	1	974763230	Statsforvaltaren i Rogaland	11079804
+470	1	974763907	Fylkesmannen i Sogn og Fjordane	2828496
+470	1	974764067	Statsforvaltaren i  Møre og Romsdal	5215316
+470	1	974764350	Statsforvalteren i Trøndelag	5228390
+470	1	974764687	Statsforvalteren i Nordland	6319172
+470	1	974772108	Fylkesmannen i Nord-Trøndelag	2844330
+470	1	974772124	Fylkesmannen i Troms	4704445
+470	1	984195796	Domstolene i Norge	365546657
+470	1	986186999	Statens sivilrettsforvaltning	90490
+470	1	995710757	Fylkesnemndene for barnevern og sosiale saker	161554580
+470	72	986186999	Statens sivilrettsforvaltning	45908459
+471	71	880455702	Tolletaten	293249
+471	71	889640782	Arbeids- og velferdsetaten (NAV)	2516941
+471	71	912660680	Nærings- og fiskeridepartementet	604300
+471	71	915429785	Politi- og lensmannsetaten	4633917
+471	71	970205039	Norges vassdrags- og energidirektorat	136918
+471	71	971032081	Statens vegvesen	6589234
+471	71	971033533	Jernbaneverket	3643293
+471	71	971040238	Statens kartverk	32532
+471	71	972417793	Barne- og familiedepartementet	1791642
+471	71	972417823	Forsvarsdepartementet	670416
+471	71	972417831	Justis- og beredskapsdepartementet	1123571
+471	71	972417874	Landbruks- og matdepartementet	158368
+471	71	972417904	Samferdselsdepartementet	1314330
+471	71	974761076	Skatteetaten	3708340
+471	71	974761378	Regjeringsadvokaten	22525671
+471	71	977161630	Energidepartementet	7350
+471	71	982583462	Statens pensjonskasse	4241034
+471	71	983887406	Helse- og omsorgsdepartementet	63000
+471	71	984195796	Domstolene i Norge	4005976
+471	71	986105174	Forsvaret	6385418
+471	71	986186999	Statens sivilrettsforvaltning	315049
+471	72	915429785	Politi- og lensmannsetaten	43983750
+471	72	972417831	Justis- og beredskapsdepartementet	10913
+471	72	986186999	Statens sivilrettsforvaltning	57662513
+471	73	986186999	Statens sivilrettsforvaltning	25825000
+472	1	986187243	Kontoret for voldsoffererstatning	31152107
+472	70	986187243	Kontoret for voldsoffererstatning	410116161
+473	1	986186999	Statens sivilrettsforvaltning	42544247
+474	1	972417831	Justis- og beredskapsdepartementet	251463
+474	1	986074465	Konfliktrådene	106080515
+474	60	986074465	Konfliktrådene	5661000
+475	1	984195796	Domstolene i Norge	90853449
+475	21	984195796	Domstolene i Norge	4512154
+480	50	972417831	Justis- og beredskapsdepartementet	276138450
+490	1	972417831	Justis- og beredskapsdepartementet	51845
+490	1	974760746	Utlendingsdirektoratet	1183696172
+490	21	974760746	Utlendingsdirektoratet	5078624069
+490	21	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	30750618
+490	22	974760746	Utlendingsdirektoratet	79996176
+490	23	974760746	Utlendingsdirektoratet	2997911
+490	60	974760746	Utlendingsdirektoratet	596651014
+490	70	974760746	Utlendingsdirektoratet	676986312
+490	71	974760746	Utlendingsdirektoratet	60404063
+490	72	972417831	Justis- og beredskapsdepartementet	40612364
+490	72	972417920	Utenriksdepartementet	3500000
+490	72	974760746	Utlendingsdirektoratet	88442720
+490	73	974760746	Utlendingsdirektoratet	20400000
+490	75	974760746	Utlendingsdirektoratet	16314360
+491	1	972417831	Justis- og beredskapsdepartementet	696062
+491	1	982019095	Utlendingsnemnda	280253723
+491	21	982019095	Utlendingsnemnda	6296545
+495	1	972417793	Barne- og familiedepartementet	2054000
+495	1	972417831	Justis- og beredskapsdepartementet	425542
+495	1	974788985	Direktoratet for høyere utdanning og kompetanse	6144307
+495	1	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	236216422
+496	21	972417831	Justis- og beredskapsdepartementet	27025868
+496	21	974788985	Direktoratet for høyere utdanning og kompetanse	2389495
+496	21	986128433	Barne-, ungdoms- og familiedirektoratet	21557
+496	21	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	9030544
+496	45	972417793	Barne- og familiedepartementet	47850
+496	45	972417831	Justis- og beredskapsdepartementet	145000
+496	45	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	44519709
+496	50	972417831	Justis- og beredskapsdepartementet	6939000
+496	60	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	9670262434
+496	61	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	687757065
+496	62	970018131	Utdanningsdirektoratet	2200000
+496	62	986128433	Barne-, ungdoms- og familiedirektoratet	12385281
+496	62	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	179446079
+496	70	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	2047000
+496	71	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	84025005
+496	72	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	2577000
+496	73	972417831	Justis- og beredskapsdepartementet	700000
+496	73	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	7750500
+497	21	974788985	Direktoratet for høyere utdanning og kompetanse	36782135
+497	22	974788985	Direktoratet for høyere utdanning og kompetanse	14013229
+497	60	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	2160904057
+500	1	972417858	Kommunal- og distriktsdepartementet	358686516
+500	21	942114184	Husbanken	700000
+500	21	946473111	Fylkesmannen i Buskerud	798730
+500	21	970350934	Fylkesmannen i Oppland	799954
+500	21	971040238	Statens kartverk	2200000
+500	21	972417793	Barne- og familiedepartementet	400000
+500	21	972417831	Justis- og beredskapsdepartementet	775000
+500	21	972417858	Kommunal- og distriktsdepartementet	65372264
+500	21	972417874	Landbruks- og matdepartementet	123542
+500	21	974760665	Statsforvaltaren i Vestland	1850000
+500	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	882262
+500	21	974762501	Statsforvalteren i Vestfold og Telemark	1047611
+500	21	974762684	Fylkesmannen i Telemark	730000
+500	21	974762994	Statsforvalteren i Agder	1250955
+500	21	974763230	Statsforvaltaren i Rogaland	1850000
+500	21	974763907	Fylkesmannen i Sogn og Fjordane	3357599
+500	21	974764067	Statsforvaltaren i  Møre og Romsdal	800000
+500	21	974764350	Statsforvalteren i Trøndelag	2550000
+500	21	974764687	Statsforvalteren i Nordland	909024
+500	21	974772108	Fylkesmannen i Nord-Trøndelag	750000
+500	21	974772124	Fylkesmannen i Troms	800000
+500	21	982965691	Husleietvistutvalget	320000
+500	21	991825827	Direktoratet for forvaltning og IKT (DIFI)	10515737
+500	22	972417858	Kommunal- og distriktsdepartementet	5492422
+500	50	972417858	Kommunal- og distriktsdepartementet	66084000
+502	21	972417858	Kommunal- og distriktsdepartementet	1371
+502	70	972417858	Kommunal- og distriktsdepartementet	2550000
+502	70	991825827	Direktoratet for forvaltning og IKT (DIFI)	8661260
+502	71	972417858	Kommunal- og distriktsdepartementet	180984300
+510	1	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	667962637
+510	1	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	23122309
+510	22	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	125937112
+510	23	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	5423311
+510	45	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	35053631
+510	46	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	8676504
+520	1	972417858	Kommunal- og distriktsdepartementet	5870765
+520	70	972417858	Kommunal- og distriktsdepartementet	291714215
+520	71	974763907	Fylkesmannen i Sogn og Fjordane	32208019
+520	73	974763907	Fylkesmannen i Sogn og Fjordane	72055822
+520	75	974763907	Fylkesmannen i Sogn og Fjordane	20369126
+520	76	972417858	Kommunal- og distriktsdepartementet	7725640
+525	1	946473111	Fylkesmannen i Buskerud	79439864
+525	1	967311014	Statsforvalteren i Troms og Finnmark	59580338
+525	1	970350934	Fylkesmannen i Oppland	85474630
+525	1	972417858	Kommunal- og distriktsdepartementet	16634408
+525	1	974760460	Fylkesmannen i Østfold	76974436
+525	1	974760665	Statsforvaltaren i Vestland	113264187
+525	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	172733786
+525	1	974761645	Statsforvalteren i Innlandet	93867991
+525	1	974762501	Statsforvalteren i Vestfold og Telemark	67346213
+525	1	974762684	Fylkesmannen i Telemark	64173886
+525	1	974762994	Statsforvalteren i Agder	128172134
+525	1	974763230	Statsforvaltaren i Rogaland	103554240
+525	1	974763907	Fylkesmannen i Sogn og Fjordane	81380107
+525	1	974764067	Statsforvaltaren i  Møre og Romsdal	83324603
+525	1	974764350	Statsforvalteren i Trøndelag	92814735
+525	1	974764687	Statsforvalteren i Nordland	102187475
+525	1	974772108	Fylkesmannen i Nord-Trøndelag	75989125
+525	1	974772124	Fylkesmannen i Troms	76390774
+525	21	946473111	Fylkesmannen i Buskerud	3969341
+525	21	967311014	Statsforvalteren i Troms og Finnmark	28192942
+525	21	970350934	Fylkesmannen i Oppland	9833743
+525	21	974760460	Fylkesmannen i Østfold	3163857
+525	21	974760665	Statsforvaltaren i Vestland	15422817
+525	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	7791766
+525	21	974761645	Statsforvalteren i Innlandet	5782950
+525	21	974762501	Statsforvalteren i Vestfold og Telemark	17465744
+525	21	974762684	Fylkesmannen i Telemark	3997101
+525	21	974762994	Statsforvalteren i Agder	18463021
+525	21	974763230	Statsforvaltaren i Rogaland	8678831
+525	21	974763907	Fylkesmannen i Sogn og Fjordane	6960673
+525	21	974764067	Statsforvaltaren i  Møre og Romsdal	4725386
+525	21	974764350	Statsforvalteren i Trøndelag	15524111
+525	21	974764687	Statsforvalteren i Nordland	10891717
+525	21	974772108	Fylkesmannen i Nord-Trøndelag	6845352
+525	21	974772124	Fylkesmannen i Troms	4746496
+530	30	971278374	Statsbygg	137040854
+530	31	971278374	Statsbygg	44616886
+530	33	971278374	Statsbygg	1557896264
+530	36	971278374	Statsbygg	15515056
+530	45	971278374	Statsbygg	48177132
+531	1	971278374	Statsbygg	25477124
+531	45	971278374	Statsbygg	27098730
+532	21	971278374	Statsbygg	182384
+532	30	971278374	Statsbygg	12235344
+533	1	971278374	Statsbygg	22275800
+533	45	971278374	Statsbygg	40108366
+534	1	971278374	Statsbygg	393912902
+534	45	971278374	Statsbygg	77051752
+540	1	991825827	Direktoratet for forvaltning og IKT (DIFI)	211246811
+540	21	991825827	Direktoratet for forvaltning og IKT (DIFI)	36244548
+540	22	991825827	Direktoratet for forvaltning og IKT (DIFI)	22925604
+540	23	991825827	Direktoratet for forvaltning og IKT (DIFI)	105187160
+540	25	942114184	Husbanken	6000000
+540	25	991825827	Direktoratet for forvaltning og IKT (DIFI)	26801000
+540	71	991825827	Direktoratet for forvaltning og IKT (DIFI)	772000
+541	22	972417858	Kommunal- og distriktsdepartementet	5430607
+541	22	991825827	Direktoratet for forvaltning og IKT (DIFI)	2378507
+541	70	972417858	Kommunal- og distriktsdepartementet	9399363
+542	1	972417858	Kommunal- og distriktsdepartementet	4557044
+542	70	972417858	Kommunal- og distriktsdepartementet	38696673
+545	1	974761467	Datatilsynet	46348487
+546	1	972417858	Kommunal- og distriktsdepartementet	1503030
+551	60	972417858	Kommunal- og distriktsdepartementet	1176993000
+551	61	972417858	Kommunal- og distriktsdepartementet	225302000
+552	62	972417858	Kommunal- og distriktsdepartementet	15019476
+552	72	972417858	Kommunal- og distriktsdepartementet	485875881
+554	1	992375434	Kompetansesenter for distriktsutvikling	28018869
+560	50	972417858	Kommunal- og distriktsdepartementet	280879000
+560	54	972417858	Kommunal- og distriktsdepartementet	5345000
+561	50	972417858	Kommunal- og distriktsdepartementet	4588000
+561	51	972417858	Kommunal- og distriktsdepartementet	6888000
+561	72	972417858	Kommunal- og distriktsdepartementet	2800000
+562	1	984944411	Gáldu - Kompetansesenter for urfolks rettigheter	3293246
+562	21	984944411	Gáldu - Kompetansesenter for urfolks rettigheter	2555919
+563	1	988820016	Internasjonalt reindriftssenter	5958335
+563	21	988820016	Internasjonalt reindriftssenter	4449315
+567	22	972417858	Kommunal- og distriktsdepartementet	1333332
+567	60	972417858	Kommunal- og distriktsdepartementet	5600000
+567	70	972417858	Kommunal- og distriktsdepartementet	7100000
+567	72	972417858	Kommunal- og distriktsdepartementet	6840000
+567	73	972417858	Kommunal- og distriktsdepartementet	4700000
+571	21	946473111	Fylkesmannen i Buskerud	1300000
+571	21	967311014	Statsforvalteren i Troms og Finnmark	1325912
+571	21	970350934	Fylkesmannen i Oppland	1299573
+571	21	972417831	Justis- og beredskapsdepartementet	775000
+571	21	972417858	Kommunal- og distriktsdepartementet	15618990
+571	21	974760460	Fylkesmannen i Østfold	1300000
+571	21	974760665	Statsforvaltaren i Vestland	1299991
+571	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	924609
+571	21	974761645	Statsforvalteren i Innlandet	1300000
+571	21	974762501	Statsforvalteren i Vestfold og Telemark	1300000
+571	21	974762684	Fylkesmannen i Telemark	1299816
+571	21	974762994	Statsforvalteren i Agder	2603087
+571	21	974763230	Statsforvaltaren i Rogaland	1300000
+571	21	974763907	Fylkesmannen i Sogn og Fjordane	1429927
+571	21	974764067	Statsforvaltaren i  Møre og Romsdal	1435516
+571	21	974764350	Statsforvalteren i Trøndelag	1300000
+571	21	974764687	Statsforvalteren i Nordland	1225172
+571	21	974772108	Fylkesmannen i Nord-Trøndelag	1300000
+571	21	974772124	Fylkesmannen i Troms	1300000
+571	21	991825827	Direktoratet for forvaltning og IKT (DIFI)	627043
+571	60	972417858	Kommunal- og distriktsdepartementet	118368921000
+571	61	972417858	Kommunal- og distriktsdepartementet	408811000
+571	62	972417858	Kommunal- og distriktsdepartementet	1611747000
+571	63	972417858	Kommunal- og distriktsdepartementet	963501000
+571	64	972417858	Kommunal- og distriktsdepartementet	1689875918
+571	66	972417858	Kommunal- og distriktsdepartementet	440616000
+571	67	972417858	Kommunal- og distriktsdepartementet	459985000
+572	60	972417858	Kommunal- og distriktsdepartementet	31481975000
+572	62	972417858	Kommunal- og distriktsdepartementet	642399000
+572	64	972417858	Kommunal- og distriktsdepartementet	659000000
+573	60	972417858	Kommunal- og distriktsdepartementet	90000000
+573	61	972417858	Kommunal- og distriktsdepartementet	30000000
+575	60	983544622	Helsedirektoratet	8643849000
+576	60	972417858	Kommunal- og distriktsdepartementet	400000000
+578	1	916132727	Valgdirektoratet	49485507
+578	1	972417858	Kommunal- og distriktsdepartementet	26580
+579	1	972417858	Kommunal- og distriktsdepartementet	9298484
+580	70	942114184	Husbanken	3037199392
+581	75	942114184	Husbanken	464218722
+581	76	942114184	Husbanken	1028271000
+581	77	942114184	Husbanken	25001429
+581	78	942114184	Husbanken	64260852
+581	79	942114184	Husbanken	47963059
+585	1	982965691	Husleietvistutvalget	26456914
+587	1	974760223	Direktoratet for byggkvalitet	89856989
+587	22	974760223	Direktoratet for byggkvalitet	53192648
+587	70	974760223	Direktoratet for byggkvalitet	6586000
+590	61	972417858	Kommunal- og distriktsdepartementet	16585000
+590	65	972417858	Kommunal- og distriktsdepartementet	29800000
+590	71	972417858	Kommunal- og distriktsdepartementet	854638
+590	72	942114184	Husbanken	55734061
+590	81	972417858	Kommunal- og distriktsdepartementet	4335000
+595	1	971040238	Statens kartverk	306532278
+595	1	972417858	Kommunal- og distriktsdepartementet	1723408
+595	21	971040238	Statens kartverk	520055183
+595	30	971040238	Statens kartverk	49876100
+600	1	983887457	Arbeids- og inkluderingsdepartementet	185301599
+601	21	889640782	Arbeids- og velferdsetaten (NAV)	8334353
+601	21	983887457	Arbeids- og inkluderingsdepartementet	47822366
+601	50	983887457	Arbeids- og inkluderingsdepartementet	136724000
+601	70	983887457	Arbeids- og inkluderingsdepartementet	35334127
+601	72	983887457	Arbeids- og inkluderingsdepartementet	15425000
+604	21	889640782	Arbeids- og velferdsetaten (NAV)	44835492
+604	45	889640782	Arbeids- og velferdsetaten (NAV)	127699740
+605	1	889640782	Arbeids- og velferdsetaten (NAV)	11263434429
+605	1	974788985	Direktoratet for høyere utdanning og kompetanse	2000000
+605	21	889640782	Arbeids- og velferdsetaten (NAV)	32885985
+605	22	889640782	Arbeids- og velferdsetaten (NAV)	38356117
+605	22	974760460	Fylkesmannen i Østfold	3193000
+605	22	974763230	Statsforvaltaren i Rogaland	2357000
+605	22	974764350	Statsforvalteren i Trøndelag	2650000
+605	45	889640782	Arbeids- og velferdsetaten (NAV)	262531149
+605	70	889640782	Arbeids- og velferdsetaten (NAV)	186495478
+606	1	974761084	Trygderetten	68923115
+611	1	972417920	Utenriksdepartementet	6176249
+611	1	982583462	Statens pensjonskasse	11935961
+612	1	982583462	Statens pensjonskasse	11031457643
+612	70	982583462	Statens pensjonskasse	122695563
+613	1	982583462	Statens pensjonskasse	1121000000
+613	70	982583462	Statens pensjonskasse	13000000
+614	1	982583462	Statens pensjonskasse	34824092
+614	70	982583462	Statens pensjonskasse	-106868
+614	90	982583462	Statens pensjonskasse	3551622960
+615	1	982583462	Statens pensjonskasse	82706394
+616	1	982583462	Statens pensjonskasse	201153562
+621	21	889640782	Arbeids- og velferdsetaten (NAV)	27386498
+621	21	946473111	Fylkesmannen i Buskerud	2029020
+621	21	967311014	Statsforvalteren i Troms og Finnmark	1864059
+621	21	970350934	Fylkesmannen i Oppland	1803431
+621	21	972417793	Barne- og familiedepartementet	250000
+621	21	974760460	Fylkesmannen i Østfold	2228320
+621	21	974760665	Statsforvaltaren i Vestland	2400507
+621	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	3453323
+621	21	974761645	Statsforvalteren i Innlandet	2015223
+621	21	974762501	Statsforvalteren i Vestfold og Telemark	1981140
+621	21	974762684	Fylkesmannen i Telemark	2534940
+621	21	974762994	Statsforvalteren i Agder	3823032
+621	21	974763230	Statsforvaltaren i Rogaland	2416420
+621	21	974763907	Fylkesmannen i Sogn og Fjordane	1497953
+621	21	974764067	Statsforvaltaren i  Møre og Romsdal	2155560
+621	21	974764350	Statsforvalteren i Trøndelag	2340220
+621	21	974764687	Statsforvalteren i Nordland	2303429
+621	21	974772108	Fylkesmannen i Nord-Trøndelag	1936680
+621	21	974772124	Fylkesmannen i Troms	1990260
+621	63	889640782	Arbeids- og velferdsetaten (NAV)	53494974
+621	63	946473111	Fylkesmannen i Buskerud	5794255
+621	63	967311014	Statsforvalteren i Troms og Finnmark	1849226
+621	63	970350934	Fylkesmannen i Oppland	3275806
+621	63	974760460	Fylkesmannen i Østfold	10885767
+621	63	974760665	Statsforvaltaren i Vestland	11761494
+621	63	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	25446535
+621	63	974761645	Statsforvalteren i Innlandet	5655891
+621	63	974762501	Statsforvalteren i Vestfold og Telemark	5921433
+621	63	974762684	Fylkesmannen i Telemark	5834069
+621	63	974762994	Statsforvalteren i Agder	8591082
+621	63	974763230	Statsforvaltaren i Rogaland	11846388
+621	63	974763907	Fylkesmannen i Sogn og Fjordane	2644363
+621	63	974764067	Statsforvaltaren i  Møre og Romsdal	6398316
+621	63	974764350	Statsforvalteren i Trøndelag	8957032
+621	63	974764687	Statsforvalteren i Nordland	5852216
+621	63	974772108	Fylkesmannen i Nord-Trøndelag	3336995
+621	63	974772124	Fylkesmannen i Troms	4058781
+621	70	889640782	Arbeids- og velferdsetaten (NAV)	92274388
+621	74	889640782	Arbeids- og velferdsetaten (NAV)	12646148
+634	21	889640782	Arbeids- og velferdsetaten (NAV)	6757667
+634	76	889640782	Arbeids- og velferdsetaten (NAV)	6877783859
+634	77	889640782	Arbeids- og velferdsetaten (NAV)	1263255252
+634	78	889640782	Arbeids- og velferdsetaten (NAV)	54623464
+634	79	889640782	Arbeids- og velferdsetaten (NAV)	40236642
+635	1	889640782	Arbeids- og velferdsetaten (NAV)	50115077
+640	1	974760746	Utlendingsdirektoratet	1558637
+640	1	974761211	Arbeidstilsynet	577985509
+640	1	991825827	Direktoratet for forvaltning og IKT (DIFI)	500000
+640	21	974761211	Arbeidstilsynet	10963364
+642	1	986174613	Havindustritilsynet	227336658
+642	21	986174613	Havindustritilsynet	24245039
+642	45	986174613	Havindustritilsynet	670273
+643	50	983887457	Arbeids- og inkluderingsdepartementet	117090000
+646	71	889640782	Arbeids- og velferdsetaten (NAV)	607222
+646	72	983887457	Arbeids- og inkluderingsdepartementet	3060000
+648	1	971524626	Riksmekleren	8363126
+648	1	971525681	Arbeidsretten	11024202
+648	1	983887457	Arbeids- og inkluderingsdepartementet	167889
+648	21	983887457	Arbeids- og inkluderingsdepartementet	1537828
+648	70	983887457	Arbeids- og inkluderingsdepartementet	4000000
+649	21	983887457	Arbeids- og inkluderingsdepartementet	774921
+649	21	991825827	Direktoratet for forvaltning og IKT (DIFI)	1500000
+660	70	889640782	Arbeids- og velferdsetaten (NAV)	98077575
+660	71	889640782	Arbeids- og velferdsetaten (NAV)	242621016
+664	70	983887457	Arbeids- og inkluderingsdepartementet	62000000
+666	70	889640782	Arbeids- og velferdsetaten (NAV)	1639032218
+667	70	889640782	Arbeids- og velferdsetaten (NAV)	353797097
+700	1	983887406	Helse- og omsorgsdepartementet	210748885
+701	1	915933149	Direktoratet for e-helse	196535975
+701	21	915933149	Direktoratet for e-helse	358030718
+701	21	983544622	Helsedirektoratet	27938024
+701	21	983744516	Folkehelseinstituttet	17117904
+701	21	983887406	Helse- og omsorgsdepartementet	4804477
+701	21	986965610	Helseøkonomiforvaltningen HELFO	0
+701	70	983887406	Helse- og omsorgsdepartementet	109758000
+701	71	983887406	Helse- og omsorgsdepartementet	38272000
+702	21	974761394	Statens helsetilsyn	200000
+702	21	983544622	Helsedirektoratet	15070077
+702	21	983744516	Folkehelseinstituttet	7893244
+702	21	983887406	Helse- og omsorgsdepartementet	1387555
+702	21	985399077	Mattilsynet	199617
+702	70	983544622	Helsedirektoratet	3762000
+703	21	983887406	Helse- og omsorgsdepartementet	74935903
+710	1	983744516	Folkehelseinstituttet	1038202997
+710	21	983744516	Folkehelseinstituttet	804105088
+710	45	983744516	Folkehelseinstituttet	19279192
+712	1	980633446	Bioteknologirådet	8504703
+714	21	946473111	Fylkesmannen i Buskerud	181100
+714	21	967311014	Statsforvalteren i Troms og Finnmark	129374
+714	21	970018131	Utdanningsdirektoratet	2200000
+714	21	970350934	Fylkesmannen i Oppland	177061
+714	21	974760460	Fylkesmannen i Østfold	176901
+714	21	974760665	Statsforvaltaren i Vestland	220087
+714	21	974761122	Statens legemiddelverk	1910339
+714	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	254140
+714	21	974761645	Statsforvalteren i Innlandet	198800
+714	21	974762501	Statsforvalteren i Vestfold og Telemark	155800
+714	21	974762684	Fylkesmannen i Telemark	155600
+714	21	974762994	Statsforvalteren i Agder	301100
+714	21	974763230	Statsforvaltaren i Rogaland	199200
+714	21	974763907	Fylkesmannen i Sogn og Fjordane	46646
+714	21	974764067	Statsforvaltaren i  Møre og Romsdal	184700
+714	21	974764350	Statsforvalteren i Trøndelag	205700
+714	21	974764687	Statsforvalteren i Nordland	177162
+714	21	974772108	Fylkesmannen i Nord-Trøndelag	152700
+714	21	974772124	Fylkesmannen i Troms	163600
+714	21	983544622	Helsedirektoratet	132825165
+714	21	983744516	Folkehelseinstituttet	5815716
+714	21	983887406	Helse- og omsorgsdepartementet	9465806
+714	21	985399077	Mattilsynet	340727
+714	21	986128433	Barne-, ungdoms- og familiedirektoratet	344550
+714	60	983544622	Helsedirektoratet	42682688
+714	70	983544622	Helsedirektoratet	128775282
+714	74	983544622	Helsedirektoratet	35985000
+714	79	983544622	Helsedirektoratet	30716600
+714	79	983744516	Folkehelseinstituttet	28000000
+720	1	889640782	Arbeids- og velferdsetaten (NAV)	53200821
+720	1	983544622	Helsedirektoratet	740167036
+720	1	986965610	Helseøkonomiforvaltningen HELFO	349660114
+720	21	889640782	Arbeids- og velferdsetaten (NAV)	2483928
+720	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	0
+720	21	974764350	Statsforvalteren i Trøndelag	0
+720	21	983544622	Helsedirektoratet	34245777
+720	21	983887406	Helse- og omsorgsdepartementet	9152
+720	21	986965610	Helseøkonomiforvaltningen HELFO	4539677
+720	45	983544622	Helsedirektoratet	2848477
+720	70	889640782	Arbeids- og velferdsetaten (NAV)	-186
+720	70	986965610	Helseøkonomiforvaltningen HELFO	41265335
+720	71	889640782	Arbeids- og velferdsetaten (NAV)	268188364
+720	71	986965610	Helseøkonomiforvaltningen HELFO	-242709059
+720	72	889640782	Arbeids- og velferdsetaten (NAV)	48410500
+720	72	986965610	Helseøkonomiforvaltningen HELFO	-52955600
+721	1	967311014	Statsforvalteren i Troms og Finnmark	47852
+721	1	970350934	Fylkesmannen i Oppland	0
+721	1	974760460	Fylkesmannen i Østfold	0
+721	1	974760665	Statsforvaltaren i Vestland	143203
+721	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	66336
+721	1	974761394	Statens helsetilsyn	110072171
+721	1	974761645	Statsforvalteren i Innlandet	0
+721	1	974762501	Statsforvalteren i Vestfold og Telemark	0
+721	1	974762684	Fylkesmannen i Telemark	250000
+721	1	974762994	Statsforvalteren i Agder	327016
+721	1	974763230	Statsforvaltaren i Rogaland	775000
+721	1	974763907	Fylkesmannen i Sogn og Fjordane	446504
+721	1	974764067	Statsforvaltaren i  Møre og Romsdal	481741
+721	1	974764350	Statsforvalteren i Trøndelag	487252
+721	1	974764687	Statsforvalteren i Nordland	187099
+721	1	974772108	Fylkesmannen i Nord-Trøndelag	0
+721	1	974772124	Fylkesmannen i Troms	0
+722	1	984936923	Norsk pasientskadeerstatning	178651722
+722	70	984936923	Norsk pasientskadeerstatning	35332078
+722	71	984936923	Norsk pasientskadeerstatning	37389508
+723	1	984936966	Nasjonalt klageorgan for helsetjenesten	94155038
+723	1	986965610	Helseøkonomiforvaltningen HELFO	9117128
+723	21	984936966	Nasjonalt klageorgan for helsetjenesten	14963350
+729	1	983544622	Helsedirektoratet	60235020
+732	21	983544622	Helsedirektoratet	95286
+732	21	983887406	Helse- og omsorgsdepartementet	17554969
+732	70	983887406	Helse- og omsorgsdepartementet	801543000
+732	71	983887406	Helse- og omsorgsdepartementet	519500000
+732	72	983887406	Helse- og omsorgsdepartementet	51588454000
+732	73	983887406	Helse- og omsorgsdepartementet	18210231000
+732	74	983887406	Helse- og omsorgsdepartementet	13768443000
+732	75	983887406	Helse- og omsorgsdepartementet	12286307000
+732	76	983887406	Helse- og omsorgsdepartementet	31428526000
+732	77	889640782	Arbeids- og velferdsetaten (NAV)	4053953178
+732	77	986965610	Helseøkonomiforvaltningen HELFO	2771194
+732	78	983887406	Helse- og omsorgsdepartementet	1123398996
+732	79	983887406	Helse- og omsorgsdepartementet	584157000
+732	82	983887406	Helse- og omsorgsdepartementet	1229730000
+732	83	983887406	Helse- og omsorgsdepartementet	22500090
+733	21	983544622	Helsedirektoratet	23044165
+733	21	983887406	Helse- og omsorgsdepartementet	9964
+733	70	983887406	Helse- og omsorgsdepartementet	123148000
+733	72	983544622	Helsedirektoratet	759106
+733	79	983544622	Helsedirektoratet	12310286
+734	1	946473111	Fylkesmannen i Buskerud	1987216
+734	1	967311014	Statsforvalteren i Troms og Finnmark	603801
+734	1	970350934	Fylkesmannen i Oppland	1426355
+734	1	974760460	Fylkesmannen i Østfold	4107098
+734	1	974760665	Statsforvaltaren i Vestland	4110024
+734	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	17929343
+734	1	974761645	Statsforvalteren i Innlandet	864620
+734	1	974762501	Statsforvalteren i Vestfold og Telemark	2344103
+734	1	974762684	Fylkesmannen i Telemark	1365968
+734	1	974762994	Statsforvalteren i Agder	4133861
+734	1	974763230	Statsforvaltaren i Rogaland	3785688
+734	1	974763907	Fylkesmannen i Sogn og Fjordane	2262208
+734	1	974764067	Statsforvaltaren i  Møre og Romsdal	1705523
+734	1	974764350	Statsforvalteren i Trøndelag	4067746
+734	1	974764687	Statsforvalteren i Nordland	1733333
+734	1	974772108	Fylkesmannen i Nord-Trøndelag	1243951
+734	1	974772124	Fylkesmannen i Troms	840750
+734	1	983544622	Helsedirektoratet	2045907
+734	21	983544622	Helsedirektoratet	14892765
+734	70	946473111	Fylkesmannen i Buskerud	113750
+734	70	974760460	Fylkesmannen i Østfold	42173
+734	70	974760665	Statsforvaltaren i Vestland	2835663
+734	70	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	1026123
+734	70	974761645	Statsforvalteren i Innlandet	27015
+734	70	974762501	Statsforvalteren i Vestfold og Telemark	43087
+734	70	974762994	Statsforvalteren i Agder	196
+734	70	974764350	Statsforvalteren i Trøndelag	3238049
+734	70	974772124	Fylkesmannen i Troms	194270
+734	71	983887406	Helse- og omsorgsdepartementet	84125573
+734	72	983544622	Helsedirektoratet	16298824
+734	72	983887406	Helse- og omsorgsdepartementet	3000000
+750	1	974761122	Statens legemiddelverk	284580870
+751	21	974761122	Statens legemiddelverk	4966948
+751	21	983544622	Helsedirektoratet	3933155
+751	21	983887406	Helse- og omsorgsdepartementet	198511
+751	70	974761122	Statens legemiddelverk	61906688
+751	70	983544622	Helsedirektoratet	6000000
+761	21	946473111	Fylkesmannen i Buskerud	794200
+761	21	967311014	Statsforvalteren i Troms og Finnmark	536932
+761	21	970350934	Fylkesmannen i Oppland	889122
+761	21	974760460	Fylkesmannen i Østfold	790501
+761	21	974760665	Statsforvaltaren i Vestland	1288202
+761	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2002828
+761	21	974761645	Statsforvalteren i Innlandet	717117
+761	21	974762501	Statsforvalteren i Vestfold og Telemark	699600
+761	21	974762684	Fylkesmannen i Telemark	668400
+761	21	974762994	Statsforvalteren i Agder	1268165
+761	21	974763230	Statsforvaltaren i Rogaland	998013
+761	21	974763907	Fylkesmannen i Sogn og Fjordane	335991
+761	21	974764067	Statsforvaltaren i  Møre og Romsdal	919716
+761	21	974764350	Statsforvalteren i Trøndelag	1178600
+761	21	974764687	Statsforvalteren i Nordland	531706
+761	21	974772108	Fylkesmannen i Nord-Trøndelag	2146000
+761	21	974772124	Fylkesmannen i Troms	910800
+761	21	983544622	Helsedirektoratet	97069283
+761	21	983887406	Helse- og omsorgsdepartementet	2089453
+761	60	983544622	Helsedirektoratet	115118565
+761	61	983544622	Helsedirektoratet	940115000
+761	62	983544622	Helsedirektoratet	208022704
+761	63	942114184	Husbanken	1738544029
+761	64	942114184	Husbanken	912978570
+761	65	983544622	Helsedirektoratet	612724806
+761	67	974760665	Statsforvaltaren i Vestland	2167061
+761	67	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	3775910
+761	67	974762994	Statsforvalteren i Agder	3610000
+761	67	974764350	Statsforvalteren i Trøndelag	2880000
+761	67	974772124	Fylkesmannen i Troms	2700000
+761	67	983544622	Helsedirektoratet	69454000
+761	68	946473111	Fylkesmannen i Buskerud	17993600
+761	68	967311014	Statsforvalteren i Troms og Finnmark	7713312
+761	68	970350934	Fylkesmannen i Oppland	15977454
+761	68	974760460	Fylkesmannen i Østfold	17528900
+761	68	974760665	Statsforvaltaren i Vestland	34596200
+761	68	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	55898865
+761	68	974761645	Statsforvalteren i Innlandet	16852571
+761	68	974762501	Statsforvalteren i Vestfold og Telemark	16000556
+761	68	974762684	Fylkesmannen i Telemark	12012467
+761	68	974762994	Statsforvalteren i Agder	22319387
+761	68	974763230	Statsforvaltaren i Rogaland	24545100
+761	68	974763907	Fylkesmannen i Sogn og Fjordane	11110700
+761	68	974764067	Statsforvaltaren i  Møre og Romsdal	31488005
+761	68	974764350	Statsforvalteren i Trøndelag	18117096
+761	68	974764687	Statsforvalteren i Nordland	20154000
+761	68	974772108	Fylkesmannen i Nord-Trøndelag	11383700
+761	68	974772124	Fylkesmannen i Troms	12913366
+761	68	983544622	Helsedirektoratet	-46671
+761	71	983544622	Helsedirektoratet	16108204
+761	72	983544622	Helsedirektoratet	74566000
+761	73	983544622	Helsedirektoratet	22234889
+761	75	983544622	Helsedirektoratet	11040000
+761	79	983544622	Helsedirektoratet	118887545
+762	21	889640782	Arbeids- og velferdsetaten (NAV)	19076798
+762	21	915933149	Direktoratet for e-helse	17188960
+762	21	967311014	Statsforvalteren i Troms og Finnmark	1068830
+762	21	974762501	Statsforvalteren i Vestfold og Telemark	0
+762	21	974763907	Fylkesmannen i Sogn og Fjordane	224896
+762	21	974772124	Fylkesmannen i Troms	200000
+762	21	983544622	Helsedirektoratet	34115197
+762	21	983887406	Helse- og omsorgsdepartementet	7778250
+762	21	986128433	Barne-, ungdoms- og familiedirektoratet	0
+762	50	983887406	Helse- og omsorgsdepartementet	5506000
+762	60	946473111	Fylkesmannen i Buskerud	950000
+762	60	967311014	Statsforvalteren i Troms og Finnmark	800000
+762	60	970350934	Fylkesmannen i Oppland	850000
+762	60	974760460	Fylkesmannen i Østfold	1000000
+762	60	974760665	Statsforvaltaren i Vestland	1000000
+762	60	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2448200
+762	60	974761645	Statsforvalteren i Innlandet	850000
+762	60	974762501	Statsforvalteren i Vestfold og Telemark	900000
+762	60	974762684	Fylkesmannen i Telemark	850000
+762	60	974762994	Statsforvalteren i Agder	1500000
+762	60	974763230	Statsforvaltaren i Rogaland	1090000
+762	60	974763907	Fylkesmannen i Sogn og Fjordane	775000
+762	60	974764067	Statsforvaltaren i  Møre og Romsdal	900000
+762	60	974764350	Statsforvalteren i Trøndelag	950000
+762	60	974764687	Statsforvalteren i Nordland	904325
+762	60	974772108	Fylkesmannen i Nord-Trøndelag	800000
+762	60	974772124	Fylkesmannen i Troms	850000
+762	60	983544622	Helsedirektoratet	137682000
+762	61	983544622	Helsedirektoratet	150478615
+762	63	983544622	Helsedirektoratet	35489406
+762	70	983544622	Helsedirektoratet	58582750
+762	73	946473111	Fylkesmannen i Buskerud	374477
+762	73	967311014	Statsforvalteren i Troms og Finnmark	962659
+762	73	970350934	Fylkesmannen i Oppland	350000
+762	73	974760460	Fylkesmannen i Østfold	400000
+762	73	974760665	Statsforvaltaren i Vestland	850000
+762	73	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2700000
+762	73	974761645	Statsforvalteren i Innlandet	525000
+762	73	974762501	Statsforvalteren i Vestfold og Telemark	375000
+762	73	974762684	Fylkesmannen i Telemark	450000
+762	73	974762994	Statsforvalteren i Agder	790000
+762	73	974763230	Statsforvaltaren i Rogaland	525000
+762	73	974763907	Fylkesmannen i Sogn og Fjordane	395000
+762	73	974764067	Statsforvaltaren i  Møre og Romsdal	675000
+762	73	974764350	Statsforvalteren i Trøndelag	525000
+762	73	974764687	Statsforvalteren i Nordland	548071
+762	73	974772108	Fylkesmannen i Nord-Trøndelag	500000
+762	73	974772124	Fylkesmannen i Troms	1400000
+762	73	983544622	Helsedirektoratet	45922955
+762	74	983887406	Helse- og omsorgsdepartementet	19302000
+765	21	946473111	Fylkesmannen i Buskerud	563200
+765	21	967311014	Statsforvalteren i Troms og Finnmark	528831
+765	21	970350934	Fylkesmannen i Oppland	352819
+765	21	974760460	Fylkesmannen i Østfold	593947
+765	21	974760665	Statsforvaltaren i Vestland	1017029
+765	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2094382
+765	21	974761645	Statsforvalteren i Innlandet	378738
+765	21	974762501	Statsforvalteren i Vestfold og Telemark	512600
+765	21	974762684	Fylkesmannen i Telemark	381100
+765	21	974762994	Statsforvalteren i Agder	813205
+765	21	974763230	Statsforvaltaren i Rogaland	865233
+765	21	974763907	Fylkesmannen i Sogn og Fjordane	612621
+765	21	974764067	Statsforvaltaren i  Møre og Romsdal	547143
+765	21	974764350	Statsforvalteren i Trøndelag	636900
+765	21	974764687	Statsforvalteren i Nordland	600955
+765	21	974772108	Fylkesmannen i Nord-Trøndelag	468013
+765	21	974772124	Fylkesmannen i Troms	468700
+765	21	983544622	Helsedirektoratet	83726841
+765	21	983887406	Helse- og omsorgsdepartementet	2850075
+765	21	986128433	Barne-, ungdoms- og familiedirektoratet	20389386
+765	60	946473111	Fylkesmannen i Buskerud	14113573
+765	60	967311014	Statsforvalteren i Troms og Finnmark	3466356
+765	60	970350934	Fylkesmannen i Oppland	7891669
+765	60	974760460	Fylkesmannen i Østfold	12045833
+765	60	974760665	Statsforvaltaren i Vestland	41197306
+765	60	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	87126791
+765	60	974761645	Statsforvalteren i Innlandet	14650000
+765	60	974762501	Statsforvalteren i Vestfold og Telemark	6245262
+765	60	974762684	Fylkesmannen i Telemark	7429713
+765	60	974762994	Statsforvalteren i Agder	11948354
+765	60	974763230	Statsforvaltaren i Rogaland	19102405
+765	60	974763907	Fylkesmannen i Sogn og Fjordane	6550000
+765	60	974764067	Statsforvaltaren i  Møre og Romsdal	10604999
+765	60	974764350	Statsforvalteren i Trøndelag	28470899
+765	60	974764687	Statsforvalteren i Nordland	9014887
+765	60	974772108	Fylkesmannen i Nord-Trøndelag	7173333
+765	60	974772124	Fylkesmannen i Troms	9322984
+765	60	983544622	Helsedirektoratet	16794906
+765	62	946473111	Fylkesmannen i Buskerud	24745335
+765	62	967311014	Statsforvalteren i Troms og Finnmark	5624000
+765	62	970350934	Fylkesmannen i Oppland	12954000
+765	62	974760460	Fylkesmannen i Østfold	30863000
+765	62	974760665	Statsforvaltaren i Vestland	41867000
+765	62	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	148148950
+765	62	974761645	Statsforvalteren i Innlandet	16742000
+765	62	974762501	Statsforvalteren i Vestfold og Telemark	22340000
+765	62	974762684	Fylkesmannen i Telemark	15936107
+765	62	974762994	Statsforvalteren i Agder	26289000
+765	62	974763230	Statsforvaltaren i Rogaland	36903842
+765	62	974763907	Fylkesmannen i Sogn og Fjordane	5738938
+765	62	974764067	Statsforvaltaren i  Møre og Romsdal	15764007
+765	62	974764350	Statsforvalteren i Trøndelag	26025978
+765	62	974764687	Statsforvalteren i Nordland	16465002
+765	62	974772108	Fylkesmannen i Nord-Trøndelag	8424854
+765	62	974772124	Fylkesmannen i Troms	11235000
+765	71	983544622	Helsedirektoratet	137772018
+765	72	983544622	Helsedirektoratet	258591175
+765	73	983544622	Helsedirektoratet	128794778
+765	74	983544622	Helsedirektoratet	297093103
+765	75	983544622	Helsedirektoratet	161278754
+769	21	974772108	Fylkesmannen i Nord-Trøndelag	926426
+769	21	983544622	Helsedirektoratet	6219338
+769	21	983887406	Helse- og omsorgsdepartementet	6661178
+769	70	983544622	Helsedirektoratet	1203820
+769	70	983887406	Helse- og omsorgsdepartementet	650000
+770	21	915933149	Direktoratet for e-helse	4000000
+770	21	983544622	Helsedirektoratet	12360879
+770	21	983887406	Helse- og omsorgsdepartementet	16718375
+770	70	983544622	Helsedirektoratet	228425451
+780	50	983887406	Helse- og omsorgsdepartementet	336551000
+781	21	946473111	Fylkesmannen i Buskerud	7614
+781	21	974760460	Fylkesmannen i Østfold	99230
+781	21	974760665	Statsforvaltaren i Vestland	18402
+781	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	306011
+781	21	974761645	Statsforvalteren i Innlandet	35437
+781	21	974762501	Statsforvalteren i Vestfold og Telemark	10974
+781	21	974762684	Fylkesmannen i Telemark	24241
+781	21	974762994	Statsforvalteren i Agder	30810
+781	21	974763230	Statsforvaltaren i Rogaland	40761
+781	21	974763907	Fylkesmannen i Sogn og Fjordane	27608
+781	21	974764067	Statsforvaltaren i  Møre og Romsdal	17052
+781	21	974764350	Statsforvalteren i Trøndelag	89667
+781	21	974764687	Statsforvalteren i Nordland	10721
+781	21	974772108	Fylkesmannen i Nord-Trøndelag	7066
+781	21	974772124	Fylkesmannen i Troms	24486
+781	21	983544622	Helsedirektoratet	69757954
+781	21	983887406	Helse- og omsorgsdepartementet	10000000
+781	79	983544622	Helsedirektoratet	50237486
+781	79	983887406	Helse- og omsorgsdepartementet	6850000
+783	21	946473111	Fylkesmannen i Buskerud	955123
+783	21	967311014	Statsforvalteren i Troms og Finnmark	1451774
+783	21	970350934	Fylkesmannen i Oppland	826664
+783	21	974760460	Fylkesmannen i Østfold	860400
+783	21	974760665	Statsforvaltaren i Vestland	1203453
+783	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	1247281
+783	21	974761645	Statsforvalteren i Innlandet	798048
+783	21	974762501	Statsforvalteren i Vestfold og Telemark	645000
+783	21	974762684	Fylkesmannen i Telemark	1412000
+783	21	974762994	Statsforvalteren i Agder	1810000
+783	21	974763230	Statsforvaltaren i Rogaland	1017419
+783	21	974763907	Fylkesmannen i Sogn og Fjordane	1025011
+783	21	974764067	Statsforvaltaren i  Møre og Romsdal	904735
+783	21	974764350	Statsforvalteren i Trøndelag	1040000
+783	21	974764687	Statsforvalteren i Nordland	2304978
+783	21	974772108	Fylkesmannen i Nord-Trøndelag	855000
+783	21	974772124	Fylkesmannen i Troms	1715000
+783	21	983544622	Helsedirektoratet	26194345
+783	61	974760665	Statsforvaltaren i Vestland	0
+783	61	974762684	Fylkesmannen i Telemark	0
+783	61	974763907	Fylkesmannen i Sogn og Fjordane	0
+783	61	974772124	Fylkesmannen i Troms	0
+783	61	983544622	Helsedirektoratet	131869749
+783	79	983544622	Helsedirektoratet	16151774
+800	1	972417793	Barne- og familiedepartementet	146633914
+800	21	972417793	Barne- og familiedepartementet	7442106
+800	21	972417831	Justis- og beredskapsdepartementet	1990000
+820	1	972417793	Barne- og familiedepartementet	0
+820	1	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	21	974788985	Direktoratet for høyere utdanning og kompetanse	0
+821	21	986128433	Barne-, ungdoms- og familiedirektoratet	0
+821	21	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	45	972417793	Barne- og familiedepartementet	0
+821	45	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	60	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	61	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	62	970018131	Utdanningsdirektoratet	0
+821	62	986128433	Barne-, ungdoms- og familiedirektoratet	0
+821	62	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	70	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	71	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	72	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+821	73	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+822	21	974788985	Direktoratet for høyere utdanning og kompetanse	0
+822	22	974788985	Direktoratet for høyere utdanning og kompetanse	0
+822	60	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+840	21	946473111	Fylkesmannen i Buskerud	189116
+840	21	972417793	Barne- og familiedepartementet	6705670
+840	21	974760460	Fylkesmannen i Østfold	199023
+840	21	974760665	Statsforvaltaren i Vestland	295259
+840	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	594504
+840	21	974761645	Statsforvalteren i Innlandet	60000
+840	21	974762501	Statsforvalteren i Vestfold og Telemark	150293
+840	21	974762684	Fylkesmannen i Telemark	126452
+840	21	974762994	Statsforvalteren i Agder	150000
+840	21	974763230	Statsforvaltaren i Rogaland	261413
+840	21	974763907	Fylkesmannen i Sogn og Fjordane	71435
+840	21	974764067	Statsforvaltaren i  Møre og Romsdal	191600
+840	21	974764350	Statsforvalteren i Trøndelag	96105
+840	21	974764687	Statsforvalteren i Nordland	38100
+840	21	974772108	Fylkesmannen i Nord-Trøndelag	110209
+840	21	974772124	Fylkesmannen i Troms	38655
+840	21	986128433	Barne-, ungdoms- og familiedirektoratet	9471188
+840	61	986128433	Barne-, ungdoms- og familiedirektoratet	82821029
+840	70	972417793	Barne- og familiedepartementet	29769000
+840	70	986128433	Barne-, ungdoms- og familiedirektoratet	17696001
+840	72	986128433	Barne-, ungdoms- og familiedirektoratet	5884000
+840	73	986128433	Barne-, ungdoms- og familiedirektoratet	15000000
+841	21	974762498	Tunsberg bispedømmeråd	16716
+841	21	986128433	Barne-, ungdoms- og familiedirektoratet	9239621
+841	22	972417793	Barne- og familiedepartementet	76389
+841	22	984195796	Domstolene i Norge	1794646
+841	22	986128433	Barne-, ungdoms- og familiedirektoratet	4061822
+841	23	972417793	Barne- og familiedepartementet	5383406
+841	70	986128433	Barne-, ungdoms- og familiedirektoratet	6701000
+842	1	986128433	Barne-, ungdoms- og familiedirektoratet	283770787
+842	21	986128433	Barne-, ungdoms- og familiedirektoratet	29645076
+842	70	986128433	Barne-, ungdoms- og familiedirektoratet	176521328
+843	70	986128433	Barne-, ungdoms- og familiedirektoratet	10562224
+844	70	889640782	Arbeids- og velferdsetaten (NAV)	1568290979
+845	70	889640782	Arbeids- og velferdsetaten (NAV)	15042659973
+846	21	972417793	Barne- og familiedepartementet	5421859
+846	21	983544622	Helsedirektoratet	300000
+846	21	986128433	Barne-, ungdoms- og familiedirektoratet	7861487
+846	50	972417793	Barne- og familiedepartementet	3180000
+846	60	986128433	Barne-, ungdoms- og familiedirektoratet	28703525
+846	61	986128433	Barne-, ungdoms- og familiedirektoratet	113248297
+846	62	986128433	Barne-, ungdoms- og familiedirektoratet	53954995
+846	70	972417793	Barne- og familiedepartementet	2349000
+846	70	986128433	Barne-, ungdoms- og familiedirektoratet	117970001
+846	71	972417793	Barne- og familiedepartementet	200000
+846	71	986128433	Barne-, ungdoms- og familiedirektoratet	70694917
+846	79	972417793	Barne- og familiedepartementet	3703689
+846	79	986128433	Barne-, ungdoms- og familiedirektoratet	7385979
+847	1	986128433	Barne-, ungdoms- og familiedirektoratet	8432814
+847	71	872417842	Kunnskapsdepartementet	0
+847	71	972417858	Kommunal- og distriktsdepartementet	0
+848	1	971527765	Barneombudet	13646929
+853	1	986128433	Barne-, ungdoms- og familiedirektoratet	3663377
+853	1	995710757	Fylkesnemndene for barnevern og sosiale saker	186834417
+853	45	995710757	Fylkesnemndene for barnevern og sosiale saker	9820489
+854	21	946473111	Fylkesmannen i Buskerud	1660123
+854	21	967311014	Statsforvalteren i Troms og Finnmark	1004441
+854	21	970350934	Fylkesmannen i Oppland	1158167
+854	21	972417793	Barne- og familiedepartementet	9694480
+854	21	974760460	Fylkesmannen i Østfold	1893856
+854	21	974760665	Statsforvaltaren i Vestland	2090247
+854	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	3892159
+854	21	974761394	Statens helsetilsyn	1486108
+854	21	974761645	Statsforvalteren i Innlandet	1017372
+854	21	974762501	Statsforvalteren i Vestfold og Telemark	1703123
+854	21	974762684	Fylkesmannen i Telemark	1108674
+854	21	974762994	Statsforvalteren i Agder	1961025
+854	21	974763230	Statsforvaltaren i Rogaland	2405006
+854	21	974763907	Fylkesmannen i Sogn og Fjordane	699495
+854	21	974764067	Statsforvaltaren i  Møre og Romsdal	1437243
+854	21	974764350	Statsforvalteren i Trøndelag	1330175
+854	21	974764687	Statsforvalteren i Nordland	1407336
+854	21	974772108	Fylkesmannen i Nord-Trøndelag	1056557
+854	21	974772124	Fylkesmannen i Troms	4325747
+854	21	983544622	Helsedirektoratet	500000
+854	21	986128433	Barne-, ungdoms- og familiedirektoratet	19164700
+854	21	995710757	Fylkesnemndene for barnevern og sosiale saker	424543
+854	22	972417793	Barne- og familiedepartementet	29643
+854	22	986186999	Statens sivilrettsforvaltning	7120000
+854	50	972417793	Barne- og familiedepartementet	13382000
+854	60	946473111	Fylkesmannen i Buskerud	32760000
+854	60	967311014	Statsforvalteren i Troms og Finnmark	15518000
+854	60	970350934	Fylkesmannen i Oppland	23940000
+854	60	972417793	Barne- og familiedepartementet	6000000
+854	60	974760460	Fylkesmannen i Østfold	38780000
+854	60	974760665	Statsforvaltaren i Vestland	56635016
+854	60	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	159390000
+854	60	974761645	Statsforvalteren i Innlandet	28210000
+854	60	974762501	Statsforvalteren i Vestfold og Telemark	30730000
+854	60	974762684	Fylkesmannen i Telemark	23800000
+854	60	974762994	Statsforvalteren i Agder	39060000
+854	60	974763230	Statsforvaltaren i Rogaland	56280000
+854	60	974763907	Fylkesmannen i Sogn og Fjordane	13370000
+854	60	974764067	Statsforvaltaren i  Møre og Romsdal	33740000
+854	60	974764350	Statsforvalteren i Trøndelag	38430000
+854	60	974764687	Statsforvalteren i Nordland	36190000
+854	60	974772108	Fylkesmannen i Nord-Trøndelag	20860000
+854	60	974772124	Fylkesmannen i Troms	23380000
+854	61	986128433	Barne-, ungdoms- og familiedirektoratet	8894000
+854	65	986128433	Barne-, ungdoms- og familiedirektoratet	911586997
+854	71	972417793	Barne- og familiedepartementet	4807721
+854	71	986128433	Barne-, ungdoms- og familiedirektoratet	28493428
+854	72	986128433	Barne-, ungdoms- og familiedirektoratet	69800001
+855	1	986128433	Barne-, ungdoms- og familiedirektoratet	3677544651
+855	21	986128433	Barne-, ungdoms- og familiedirektoratet	20895156
+855	22	986128433	Barne-, ungdoms- og familiedirektoratet	2429058097
+855	60	986128433	Barne-, ungdoms- og familiedirektoratet	378553566
+856	1	986128433	Barne-, ungdoms- og familiedirektoratet	1198812473
+858	1	915429785	Politi- og lensmannsetaten	690237
+858	1	972417793	Barne- og familiedepartementet	1024458
+858	1	974760746	Utlendingsdirektoratet	689943
+858	1	983544622	Helsedirektoratet	314895
+858	1	986128433	Barne-, ungdoms- og familiedirektoratet	252754720
+858	1	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	80000
+858	21	946473111	Fylkesmannen i Buskerud	116852
+858	21	967311014	Statsforvalteren i Troms og Finnmark	523
+858	21	974760460	Fylkesmannen i Østfold	122778
+858	21	974760665	Statsforvaltaren i Vestland	47876
+858	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	369138
+858	21	974761645	Statsforvalteren i Innlandet	83623
+858	21	974762501	Statsforvalteren i Vestfold og Telemark	92716
+858	21	974762684	Fylkesmannen i Telemark	78009
+858	21	974762994	Statsforvalteren i Agder	131246
+858	21	974763230	Statsforvaltaren i Rogaland	132439
+858	21	974763907	Fylkesmannen i Sogn og Fjordane	971843
+858	21	974764067	Statsforvaltaren i  Møre og Romsdal	118198
+858	21	974764350	Statsforvalteren i Trøndelag	51603
+858	21	974764687	Statsforvalteren i Nordland	96445
+858	21	974772108	Fylkesmannen i Nord-Trøndelag	67988
+858	21	974772124	Fylkesmannen i Troms	71197
+858	21	986128433	Barne-, ungdoms- og familiedirektoratet	11274039
+860	50	972417793	Barne- og familiedepartementet	129193000
+860	51	972417793	Barne- og familiedepartementet	25990000
+862	70	972417793	Barne- og familiedepartementet	7352000
+865	21	972417793	Barne- og familiedepartementet	13011565
+865	70	972417793	Barne- og familiedepartementet	1316420
+865	79	972417793	Barne- og familiedepartementet	4793101
+867	1	985211132	Sekretariatet for Markedsrådet og Forbrukerklageutvalget	10883930
+868	1	974761335	Forbrukertilsynet	25019595
+870	1	971527765	Barneombudet	125724
+870	1	988681954	Likestillings- og diskrimineringsnemnda	5579471
+871	21	972417793	Barne- og familiedepartementet	7570954
+871	21	986128433	Barne-, ungdoms- og familiedirektoratet	3585242
+871	70	972417793	Barne- og familiedepartementet	978000
+871	70	986128433	Barne-, ungdoms- og familiedirektoratet	12078050
+871	72	986128433	Barne-, ungdoms- og familiedirektoratet	10967000
+871	73	986128433	Barne-, ungdoms- og familiedirektoratet	8008000
+871	79	972417793	Barne- og familiedepartementet	3616559
+872	21	942114184	Husbanken	100000
+872	21	972417793	Barne- og familiedepartementet	967340
+872	21	972417858	Kommunal- og distriktsdepartementet	1959373
+872	21	986128433	Barne-, ungdoms- og familiedirektoratet	7089847
+872	21	991825827	Direktoratet for forvaltning og IKT (DIFI)	500000
+872	70	986128433	Barne-, ungdoms- og familiedirektoratet	183745064
+872	71	872417842	Kunnskapsdepartementet	1800000
+872	71	912660680	Nærings- og fiskeridepartementet	2000000
+872	71	971040238	Statens kartverk	1310000
+872	71	972417793	Barne- og familiedepartementet	7650000
+872	71	972417858	Kommunal- og distriktsdepartementet	1734425
+872	71	986128433	Barne-, ungdoms- og familiedirektoratet	15261576
+872	72	986128433	Barne-, ungdoms- og familiedirektoratet	15002000
+873	50	972417793	Barne- og familiedepartementet	52856000
+900	1	912660680	Nærings- og fiskeridepartementet	340870347
+900	21	912660680	Nærings- og fiskeridepartementet	66516538
+900	21	974761246	Konkurransetilsynet	1041436
+900	21	974761262	Sjøfartsdirektoratet	1641769
+900	60	912660680	Nærings- og fiskeridepartementet	15000000
+900	70	912660680	Nærings- og fiskeridepartementet	34707320
+900	71	912660680	Nærings- og fiskeridepartementet	4724727
+900	72	912660680	Nærings- og fiskeridepartementet	3500000
+900	73	912660680	Nærings- og fiskeridepartementet	28300000
+900	74	912660680	Nærings- og fiskeridepartementet	2200000
+900	75	912660680	Nærings- og fiskeridepartementet	22626673
+900	75	974760819	Riksantikvaren	2000000
+900	76	912660680	Nærings- og fiskeridepartementet	31500000
+900	77	912660680	Nærings- og fiskeridepartementet	11954702
+900	78	971349077	Havforskningsinstituttet	4100000
+900	79	912660680	Nærings- og fiskeridepartementet	7500000
+900	81	912660680	Nærings- og fiskeridepartementet	10000000
+902	1	874761192	Justervesenet	127217235
+902	21	874761192	Justervesenet	402246
+902	45	874761192	Justervesenet	1472966
+903	1	986028307	Norsk Akkreditering	50211677
+904	1	974760673	Registerenheten i Brønnøysund	291781470
+904	21	974760673	Registerenheten i Brønnøysund	23726769
+904	22	974760673	Registerenheten i Brønnøysund	257010688
+905	1	970188290	Norges geologiske undersøkelse	153646823
+905	21	970188290	Norges geologiske undersøkelse	72291780
+906	1	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	35736234
+906	30	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	9137758
+906	31	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	25381997
+909	73	974761262	Sjøfartsdirektoratet	1767505326
+910	1	974761262	Sjøfartsdirektoratet	394774206
+911	1	974761246	Konkurransetilsynet	96460609
+911	23	974761246	Konkurransetilsynet	9869337
+915	1	912660680	Nærings- og fiskeridepartementet	190651
+915	1	916195613	Regelrådet	5884565
+917	1	971203420	Fiskeridirektoratet	379520409
+917	21	971203420	Fiskeridirektoratet	13524182
+917	22	971203420	Fiskeridirektoratet	51006797
+919	60	971203420	Fiskeridirektoratet	116532260
+919	71	971203420	Fiskeridirektoratet	2100000
+919	72	971203420	Fiskeridirektoratet	1543800
+919	74	971203420	Fiskeridirektoratet	3048003
+919	75	971203420	Fiskeridirektoratet	37172189
+919	76	971203420	Fiskeridirektoratet	8003426
+919	79	912660680	Nærings- og fiskeridepartementet	1468920
+920	50	912660680	Nærings- og fiskeridepartementet	2316636000
+922	50	912660680	Nærings- og fiskeridepartementet	66280000
+922	70	912660680	Nærings- og fiskeridepartementet	210300000
+922	71	912660680	Nærings- og fiskeridepartementet	375200000
+922	72	912660680	Nærings- og fiskeridepartementet	24900000
+922	73	912660680	Nærings- og fiskeridepartementet	276686450
+922	74	912660680	Nærings- og fiskeridepartementet	39200000
+924	70	912660680	Nærings- og fiskeridepartementet	46410054
+925	1	971349077	Havforskningsinstituttet	407042855
+925	21	971349077	Havforskningsinstituttet	225908083
+925	22	971349077	Havforskningsinstituttet	101673018
+926	1	971349077	Havforskningsinstituttet	194112381
+926	21	971349077	Havforskningsinstituttet	65800770
+926	45	971349077	Havforskningsinstituttet	64643610
+927	1	979529783	Nasjonalt institutt for ernærings- og sjømatforskning (NIFES)	90359424
+927	21	979529783	Nasjonalt institutt for ernærings- og sjømatforskning (NIFES)	66456021
+927	22	979529783	Nasjonalt institutt for ernærings- og sjømatforskning (NIFES)	5842746
+928	50	912660680	Nærings- og fiskeridepartementet	56494000
+928	72	912660680	Nærings- og fiskeridepartementet	99506000
+930	70	912660680	Nærings- og fiskeridepartementet	71700000
+935	1	971526157	Patentstyret	247908864
+936	1	999205437	Klagenemnda for industrielle rettar	6523712
+940	21	912660680	Nærings- og fiskeridepartementet	725598
+940	21	972417920	Utenriksdepartementet	8053293
+950	21	912660680	Nærings- og fiskeridepartementet	37264726
+950	51	912660680	Nærings- og fiskeridepartementet	238486300
+950	70	912660680	Nærings- og fiskeridepartementet	28849679
+950	90	912660680	Nærings- og fiskeridepartementet	100000000
+950	95	912660680	Nærings- og fiskeridepartementet	238486300
+953	70	912660680	Nærings- og fiskeridepartementet	20662000
+1100	1	972417874	Landbruks- og matdepartementet	148044965
+1100	21	972417874	Landbruks- og matdepartementet	1895354
+1100	21	981544315	Landbruksdirektoratet	119944
+1100	45	972417874	Landbruks- og matdepartementet	27273713
+1100	50	972417874	Landbruks- og matdepartementet	18787000
+1112	50	972417874	Landbruks- og matdepartementet	94327000
+1115	1	972417874	Landbruks- og matdepartementet	1818277
+1115	1	985399077	Mattilsynet	1221964665
+1115	22	985399077	Mattilsynet	10719359
+1115	71	985399077	Mattilsynet	6034550
+1136	50	972417874	Landbruks- og matdepartementet	222448000
+1137	50	972417874	Landbruks- og matdepartementet	254065000
+1137	51	972417874	Landbruks- og matdepartementet	183193000
+1137	52	972417874	Landbruks- og matdepartementet	5246000
+1137	53	972417874	Landbruks- og matdepartementet	3545000
+1138	70	972417874	Landbruks- og matdepartementet	29508830
+1138	71	972417874	Landbruks- og matdepartementet	3270000
+1138	72	972417874	Landbruks- og matdepartementet	5000000
+1139	71	972417874	Landbruks- og matdepartementet	17146239
+1139	71	981544315	Landbruksdirektoratet	3209959
+1142	1	967311014	Statsforvalteren i Troms og Finnmark	8978955
+1142	1	974764350	Statsforvalteren i Trøndelag	3484242
+1142	1	974764687	Statsforvalteren i Nordland	4134141
+1142	1	974772108	Fylkesmannen i Nord-Trøndelag	3747000
+1142	1	974772124	Fylkesmannen i Troms	4212000
+1142	1	981544315	Landbruksdirektoratet	212197366
+1142	45	967311014	Statsforvalteren i Troms og Finnmark	3067321
+1142	45	974764350	Statsforvalteren i Trøndelag	533361
+1142	45	974764687	Statsforvalteren i Nordland	216753
+1142	45	974772108	Fylkesmannen i Nord-Trøndelag	342615
+1142	45	974772124	Fylkesmannen i Troms	650444
+1142	45	981544315	Landbruksdirektoratet	809391
+1142	50	981544315	Landbruksdirektoratet	7616000
+1142	60	972417874	Landbruks- og matdepartementet	200000
+1142	60	981544315	Landbruksdirektoratet	138644678
+1142	70	981544315	Landbruksdirektoratet	700790
+1142	71	967311014	Statsforvalteren i Troms og Finnmark	6169483
+1142	71	972417874	Landbruks- og matdepartementet	1090706
+1142	71	981544315	Landbruksdirektoratet	2951109
+1142	72	981544315	Landbruksdirektoratet	358436
+1142	73	981544315	Landbruksdirektoratet	83258875
+1142	74	981544315	Landbruksdirektoratet	359718
+1142	80	981544315	Landbruksdirektoratet	46987
+1144	77	946473111	Fylkesmannen i Buskerud	200000
+1144	77	967311014	Statsforvalteren i Troms og Finnmark	574750
+1144	77	970350934	Fylkesmannen i Oppland	140735
+1144	77	972417874	Landbruks- og matdepartementet	2974938
+1144	77	974760460	Fylkesmannen i Østfold	200000
+1144	77	974760665	Statsforvaltaren i Vestland	199761
+1144	77	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	140922
+1144	77	974761645	Statsforvalteren i Innlandet	200000
+1144	77	974762501	Statsforvalteren i Vestfold og Telemark	196376
+1144	77	974762684	Fylkesmannen i Telemark	152353
+1144	77	974762994	Statsforvalteren i Agder	391629
+1144	77	974763230	Statsforvaltaren i Rogaland	200000
+1144	77	974763907	Fylkesmannen i Sogn og Fjordane	175187
+1144	77	974764067	Statsforvaltaren i  Møre og Romsdal	170888
+1144	77	974764350	Statsforvalteren i Trøndelag	200000
+1144	77	974764687	Statsforvalteren i Nordland	188431
+1144	77	974772108	Fylkesmannen i Nord-Trøndelag	200000
+1144	77	974772124	Fylkesmannen i Troms	133435
+1148	22	981544315	Landbruksdirektoratet	6667363
+1148	71	981544315	Landbruksdirektoratet	129154690
+1149	51	981544315	Landbruksdirektoratet	3670000
+1149	71	981544315	Landbruksdirektoratet	57426928
+1149	72	972417874	Landbruks- og matdepartementet	4100000
+1149	72	986399445	Innovasjon Norge	20784601
+1149	73	972417874	Landbruks- og matdepartementet	12700000
+1149	73	981544315	Landbruksdirektoratet	26303928
+1149	73	986399445	Innovasjon Norge	900600
+1149	74	972417874	Landbruks- og matdepartementet	290000
+1149	74	986399445	Innovasjon Norge	5114684
+1150	21	972417874	Landbruks- og matdepartementet	1144207
+1150	21	981544315	Landbruksdirektoratet	16393528
+1150	50	981544315	Landbruksdirektoratet	1224703000
+1150	70	981544315	Landbruksdirektoratet	306262359
+1150	71	981544315	Landbruksdirektoratet	29668005
+1150	73	981544315	Landbruksdirektoratet	3129516950
+1150	74	981544315	Landbruksdirektoratet	8129498615
+1150	77	946473111	Fylkesmannen i Buskerud	0
+1150	77	972417874	Landbruks- og matdepartementet	8300000
+1150	77	981544315	Landbruksdirektoratet	232754723
+1150	77	985399077	Mattilsynet	687066
+1150	78	981544315	Landbruksdirektoratet	1512520329
+1151	51	972417874	Landbruks- og matdepartementet	0
+1151	51	981544315	Landbruksdirektoratet	27400000
+1151	72	981544315	Landbruksdirektoratet	6100000
+1151	75	981544315	Landbruksdirektoratet	82637941
+1151	79	981544315	Landbruksdirektoratet	1878448
+1161	70	972417874	Landbruks- og matdepartementet	14215000
+1161	75	972417874	Landbruks- og matdepartementet	10156000
+1300	1	972417904	Samferdselsdepartementet	179596565
+1300	21	972417904	Samferdselsdepartementet	24972847
+1300	30	972417904	Samferdselsdepartementet	6843857
+1300	70	972417904	Samferdselsdepartementet	41654352
+1300	71	972417904	Samferdselsdepartementet	54100000
+1300	72	972417904	Samferdselsdepartementet	2999946
+1300	74	972417904	Samferdselsdepartementet	93500000
+1301	21	972417904	Samferdselsdepartementet	17745208
+1301	50	972417904	Samferdselsdepartementet	140126000
+1310	70	972417904	Samferdselsdepartementet	761188759
+1311	71	972417904	Samferdselsdepartementet	29097010
+1313	1	981105516	Luftfartstilsynet	193449241
+1314	1	881143712	Statens havarikommisjon	71708819
+1320	23	971032081	Statens vegvesen	10887919880
+1320	26	971032081	Statens vegvesen	15683695
+1320	29	971032081	Statens vegvesen	457211615
+1320	30	971032081	Statens vegvesen	14138334612
+1320	31	971032081	Statens vegvesen	681450873
+1320	34	971032081	Statens vegvesen	272723435
+1320	35	971032081	Statens vegvesen	-3957740
+1320	36	971032081	Statens vegvesen	528442121
+1320	37	971032081	Statens vegvesen	386563406
+1320	61	971032081	Statens vegvesen	192390000
+1320	62	971032081	Statens vegvesen	709406973
+1320	63	971032081	Statens vegvesen	74328131
+1320	72	971032081	Statens vegvesen	861623946
+1321	70	972417904	Samferdselsdepartementet	675000000
+1321	75	972417904	Samferdselsdepartementet	600000000
+1330	60	971032081	Statens vegvesen	11442294
+1330	60	972417904	Samferdselsdepartementet	72743184
+1330	61	972417904	Samferdselsdepartementet	1380000000
+1330	70	972417904	Samferdselsdepartementet	719700803
+1330	75	972417904	Samferdselsdepartementet	100000000
+1331	95	972417904	Samferdselsdepartementet	30000000000
+1350	23	971033533	Jernbaneverket	8915753378
+1350	25	971033533	Jernbaneverket	124301710
+1350	30	971033533	Jernbaneverket	6241606366
+1350	31	971033533	Jernbaneverket	4427568009
+1350	34	971033533	Jernbaneverket	26075544
+1351	70	972417904	Samferdselsdepartementet	3175137007
+1352	1	971033533	Jernbaneverket	28647431
+1354	1	979363974	Statens jernbanetilsyn	63302376
+1354	21	979363974	Statens jernbanetilsyn	16559990
+1356	70	971033533	Jernbaneverket	78710290
+1356	70	972417904	Samferdselsdepartementet	20000000
+1356	96	972417904	Samferdselsdepartementet	100000
+1357	70	972417904	Samferdselsdepartementet	663000
+1357	96	972417904	Samferdselsdepartementet	100000
+1358	70	972417904	Samferdselsdepartementet	835000
+1358	96	972417904	Samferdselsdepartementet	100000
+1359	70	972417904	Samferdselsdepartementet	855000
+1359	96	972417904	Samferdselsdepartementet	100000
+1360	1	874783242	Kystverket	1699117978
+1360	21	874783242	Kystverket	122131078
+1360	30	874783242	Kystverket	519079559
+1360	34	874783242	Kystverket	7909649
+1360	45	874783242	Kystverket	236016336
+1360	60	874783242	Kystverket	60558711
+1360	71	874783242	Kystverket	9760141
+1361	1	986105174	Forsvaret	50615616
+1370	70	972417904	Samferdselsdepartementet	403000000
+1380	1	974446871	Nasjonal kommunikasjonsmyndighet	171528459
+1380	45	974446871	Nasjonal kommunikasjonsmyndighet	13107744
+1380	51	974446871	Nasjonal kommunikasjonsmyndighet	4483871
+1380	70	974446871	Nasjonal kommunikasjonsmyndighet	58436243
+1380	71	974446871	Nasjonal kommunikasjonsmyndighet	126443920
+1400	1	972417882	Klima- og miljødepartementet	217405691
+1400	1	974760819	Riksantikvaren	490000
+1400	1	985399077	Mattilsynet	97840
+1400	1	999601391	Miljødirektoratet	377686
+1400	21	946473111	Fylkesmannen i Buskerud	150000
+1400	21	967311014	Statsforvalteren i Troms og Finnmark	28463
+1400	21	970205039	Norges vassdrags- og energidirektorat	2939999
+1400	21	970350934	Fylkesmannen i Oppland	229900
+1400	21	971022264	Norsk Polarinstitutt	0
+1400	21	972417874	Landbruks- og matdepartementet	129100
+1400	21	972417882	Klima- og miljødepartementet	15139645
+1400	21	974760665	Statsforvaltaren i Vestland	79872
+1400	21	974760819	Riksantikvaren	0
+1400	21	974761262	Sjøfartsdirektoratet	478113
+1400	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	0
+1400	21	974761645	Statsforvalteren i Innlandet	750000
+1400	21	974762994	Statsforvalteren i Agder	96530
+1400	21	974763230	Statsforvaltaren i Rogaland	90000
+1400	21	974763907	Fylkesmannen i Sogn og Fjordane	694850
+1400	21	974764067	Statsforvaltaren i  Møre og Romsdal	364049
+1400	21	974764350	Statsforvalteren i Trøndelag	340000
+1400	21	974764687	Statsforvalteren i Nordland	0
+1400	21	974772108	Fylkesmannen i Nord-Trøndelag	150213
+1400	21	974772124	Fylkesmannen i Troms	590000
+1400	21	983544622	Helsedirektoratet	0
+1400	21	991825827	Direktoratet for forvaltning og IKT (DIFI)	750000
+1400	21	999601391	Miljødirektoratet	22414282
+1400	62	999601391	Miljødirektoratet	3323000
+1400	65	972417882	Klima- og miljødepartementet	10290000
+1400	70	972417882	Klima- og miljødepartementet	59075348
+1400	71	972417882	Klima- og miljødepartementet	68361630
+1400	71	999601391	Miljødirektoratet	200000
+1400	74	972417882	Klima- og miljødepartementet	4116000
+1400	76	972417858	Kommunal- og distriktsdepartementet	2000000
+1400	76	972417882	Klima- og miljødepartementet	49410274
+1400	76	974772124	Fylkesmannen i Troms	125000
+1400	76	999601391	Miljødirektoratet	4593410
+1400	79	972417882	Klima- og miljødepartementet	11141361
+1400	79	999601391	Miljødirektoratet	6300000
+1410	21	946473111	Fylkesmannen i Buskerud	783773
+1410	21	967311014	Statsforvalteren i Troms og Finnmark	416190
+1410	21	970350934	Fylkesmannen i Oppland	843352
+1410	21	971022264	Norsk Polarinstitutt	13502370
+1410	21	971040238	Statens kartverk	3000000
+1410	21	972417882	Klima- og miljødepartementet	21274
+1410	21	974760460	Fylkesmannen i Østfold	952201
+1410	21	974760665	Statsforvaltaren i Vestland	520212
+1410	21	974760819	Riksantikvaren	6455652
+1410	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	1087050
+1410	21	974761645	Statsforvalteren i Innlandet	963704
+1410	21	974762501	Statsforvalteren i Vestfold og Telemark	814400
+1410	21	974762684	Fylkesmannen i Telemark	794592
+1410	21	974762994	Statsforvalteren i Agder	862075
+1410	21	974763230	Statsforvaltaren i Rogaland	1128400
+1410	21	974763907	Fylkesmannen i Sogn og Fjordane	445265
+1410	21	974764067	Statsforvaltaren i  Møre og Romsdal	548400
+1410	21	974764350	Statsforvalteren i Trøndelag	568400
+1410	21	974764687	Statsforvalteren i Nordland	600400
+1410	21	974772108	Fylkesmannen i Nord-Trøndelag	536995
+1410	21	974772124	Fylkesmannen i Troms	400400
+1410	21	983544622	Helsedirektoratet	4394002
+1410	21	999601391	Miljødirektoratet	181004178
+1410	50	972417882	Klima- og miljødepartementet	184844000
+1410	51	972417882	Klima- og miljødepartementet	196973000
+1410	53	972417882	Klima- og miljødepartementet	6705000
+1410	54	999601391	Miljødirektoratet	29971000
+1410	70	972417882	Klima- og miljødepartementet	47170000
+1410	70	999601391	Miljødirektoratet	200000
+1410	72	972417882	Klima- og miljødepartementet	11900000
+1410	73	972417882	Klima- og miljødepartementet	9433000
+1420	1	946473111	Fylkesmannen i Buskerud	10000
+1420	1	967311014	Statsforvalteren i Troms og Finnmark	9612
+1420	1	970350934	Fylkesmannen i Oppland	13260
+1420	1	974760460	Fylkesmannen i Østfold	10000
+1420	1	974760665	Statsforvaltaren i Vestland	10000
+1420	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	9975
+1420	1	974761645	Statsforvalteren i Innlandet	10000
+1420	1	974762501	Statsforvalteren i Vestfold og Telemark	10000
+1420	1	974762684	Fylkesmannen i Telemark	10000
+1420	1	974762994	Statsforvalteren i Agder	10000
+1420	1	974763230	Statsforvaltaren i Rogaland	10000
+1420	1	974763907	Fylkesmannen i Sogn og Fjordane	10134
+1420	1	974764067	Statsforvaltaren i  Møre og Romsdal	10000
+1420	1	974764350	Statsforvalteren i Trøndelag	10000
+1420	1	974764687	Statsforvalteren i Nordland	6242
+1420	1	974772108	Fylkesmannen i Nord-Trøndelag	8877
+1420	1	974772124	Fylkesmannen i Troms	10000
+1420	1	983744516	Folkehelseinstituttet	3300000
+1420	1	999601391	Miljødirektoratet	587901606
+1420	21	946473111	Fylkesmannen i Buskerud	2116636
+1420	21	967311014	Statsforvalteren i Troms og Finnmark	2789069
+1420	21	970350934	Fylkesmannen i Oppland	6115718
+1420	21	971022264	Norsk Polarinstitutt	763000
+1420	21	972417882	Klima- og miljødepartementet	180846
+1420	21	974760460	Fylkesmannen i Østfold	1457266
+1420	21	974760665	Statsforvaltaren i Vestland	1486627
+1420	21	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2310606
+1420	21	974761645	Statsforvalteren i Innlandet	3263971
+1420	21	974762501	Statsforvalteren i Vestfold og Telemark	1350000
+1420	21	974762684	Fylkesmannen i Telemark	1420550
+1420	21	974762994	Statsforvalteren i Agder	3763985
+1420	21	974763230	Statsforvaltaren i Rogaland	1382191
+1420	21	974763907	Fylkesmannen i Sogn og Fjordane	2964738
+1420	21	974764067	Statsforvaltaren i  Møre og Romsdal	1829374
+1420	21	974764350	Statsforvalteren i Trøndelag	4375655
+1420	21	974764687	Statsforvalteren i Nordland	7142042
+1420	21	974772108	Fylkesmannen i Nord-Trøndelag	4791968
+1420	21	974772124	Fylkesmannen i Troms	5192341
+1420	21	980633446	Bioteknologirådet	400000
+1420	21	983744516	Folkehelseinstituttet	6189404
+1420	21	999601391	Miljødirektoratet	118540877
+1420	22	946473111	Fylkesmannen i Buskerud	2467410
+1420	22	967311014	Statsforvalteren i Troms og Finnmark	1015879
+1420	22	970188290	Norges geologiske undersøkelse	1499999
+1420	22	970350934	Fylkesmannen i Oppland	997034
+1420	22	974760460	Fylkesmannen i Østfold	2110000
+1420	22	974760665	Statsforvaltaren i Vestland	7408349
+1420	22	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	3665366
+1420	22	974761645	Statsforvalteren i Innlandet	1865900
+1420	22	974762501	Statsforvalteren i Vestfold og Telemark	835000
+1420	22	974762684	Fylkesmannen i Telemark	3653954
+1420	22	974762994	Statsforvalteren i Agder	56609490
+1420	22	974763230	Statsforvaltaren i Rogaland	13943950
+1420	22	974763907	Fylkesmannen i Sogn og Fjordane	2808328
+1420	22	974764067	Statsforvaltaren i  Møre og Romsdal	6343051
+1420	22	974764350	Statsforvalteren i Trøndelag	669990
+1420	22	974764687	Statsforvalteren i Nordland	1119999
+1420	22	974772108	Fylkesmannen i Nord-Trøndelag	669091
+1420	22	974772124	Fylkesmannen i Troms	5758411
+1420	22	999601391	Miljødirektoratet	159864273
+1420	23	946473111	Fylkesmannen i Buskerud	613622
+1420	23	967311014	Statsforvalteren i Troms og Finnmark	465260
+1420	23	970350934	Fylkesmannen i Oppland	475938
+1420	23	971022264	Norsk Polarinstitutt	320000
+1420	23	974760460	Fylkesmannen i Østfold	551001
+1420	23	974760665	Statsforvaltaren i Vestland	2366907
+1420	23	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	1865916
+1420	23	974761645	Statsforvalteren i Innlandet	865212
+1420	23	974762501	Statsforvalteren i Vestfold og Telemark	1080900
+1420	23	974762684	Fylkesmannen i Telemark	800000
+1420	23	974762994	Statsforvalteren i Agder	1300000
+1420	23	974763230	Statsforvaltaren i Rogaland	2500000
+1420	23	974763907	Fylkesmannen i Sogn og Fjordane	1059054
+1420	23	974764067	Statsforvaltaren i  Møre og Romsdal	2471245
+1420	23	974764350	Statsforvalteren i Trøndelag	1196100
+1420	23	974764687	Statsforvalteren i Nordland	1519706
+1420	23	974772108	Fylkesmannen i Nord-Trøndelag	1120434
+1420	23	974772124	Fylkesmannen i Troms	1250000
+1420	23	999601391	Miljødirektoratet	111441982
+1420	30	999601391	Miljødirektoratet	41991625
+1420	31	946473111	Fylkesmannen i Buskerud	884829
+1420	31	967311014	Statsforvalteren i Troms og Finnmark	3055270
+1420	31	970350934	Fylkesmannen i Oppland	8831088
+1420	31	974760460	Fylkesmannen i Østfold	1660755
+1420	31	974760665	Statsforvaltaren i Vestland	4162881
+1420	31	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2302626
+1420	31	974761645	Statsforvalteren i Innlandet	824334
+1420	31	974762501	Statsforvalteren i Vestfold og Telemark	995000
+1420	31	974762684	Fylkesmannen i Telemark	2217000
+1420	31	974762994	Statsforvalteren i Agder	2694836
+1420	31	974763230	Statsforvaltaren i Rogaland	895000
+1420	31	974763907	Fylkesmannen i Sogn og Fjordane	4316425
+1420	31	974764067	Statsforvaltaren i  Møre og Romsdal	4833827
+1420	31	974764350	Statsforvalteren i Trøndelag	3886564
+1420	31	974764687	Statsforvalteren i Nordland	3887059
+1420	31	974772108	Fylkesmannen i Nord-Trøndelag	3737106
+1420	31	974772124	Fylkesmannen i Troms	2725000
+1420	31	999601391	Miljødirektoratet	9001746
+1420	32	946473111	Fylkesmannen i Buskerud	0
+1420	32	972417882	Klima- og miljødepartementet	525
+1420	32	974764687	Statsforvalteren i Nordland	69042
+1420	32	999601391	Miljødirektoratet	4528307
+1420	33	967311014	Statsforvalteren i Troms og Finnmark	299781
+1420	33	999601391	Miljødirektoratet	53985
+1420	34	999601391	Miljødirektoratet	96731539
+1420	35	972417882	Klima- og miljødepartementet	34125
+1420	35	974772108	Fylkesmannen i Nord-Trøndelag	139992
+1420	35	999601391	Miljødirektoratet	389881056
+1420	37	974764687	Statsforvalteren i Nordland	0
+1420	37	974772108	Fylkesmannen i Nord-Trøndelag	145461
+1420	37	981544315	Landbruksdirektoratet	600000
+1420	37	999601391	Miljødirektoratet	424655
+1420	38	946473111	Fylkesmannen i Buskerud	0
+1420	38	970350934	Fylkesmannen i Oppland	411037
+1420	38	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	918404
+1420	38	974762994	Statsforvalteren i Agder	921380
+1420	38	974764067	Statsforvaltaren i  Møre og Romsdal	252780
+1420	38	974764350	Statsforvalteren i Trøndelag	300000
+1420	38	974764687	Statsforvalteren i Nordland	187000
+1420	38	974772108	Fylkesmannen i Nord-Trøndelag	182400
+1420	38	999601391	Miljødirektoratet	853814
+1420	39	946473111	Fylkesmannen i Buskerud	1444091
+1420	39	974760665	Statsforvaltaren i Vestland	569188
+1420	39	974762684	Fylkesmannen i Telemark	200000
+1420	39	974763230	Statsforvaltaren i Rogaland	300000
+1420	39	974764067	Statsforvaltaren i  Møre og Romsdal	0
+1420	39	999601391	Miljødirektoratet	3777516
+1420	61	999601391	Miljødirektoratet	6758000
+1420	69	999601391	Miljødirektoratet	41250810
+1420	70	946473111	Fylkesmannen i Buskerud	53625
+1420	70	967311014	Statsforvalteren i Troms og Finnmark	125000
+1420	70	974760460	Fylkesmannen i Østfold	0
+1420	70	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	195329
+1420	70	974762994	Statsforvalteren i Agder	1556000
+1420	70	974763230	Statsforvaltaren i Rogaland	80000
+1420	70	974772108	Fylkesmannen i Nord-Trøndelag	664438
+1420	70	974772124	Fylkesmannen i Troms	300000
+1420	70	999601391	Miljødirektoratet	21114449
+1420	71	999601391	Miljødirektoratet	15261324
+1420	72	946473111	Fylkesmannen i Buskerud	617401
+1420	72	967311014	Statsforvalteren i Troms og Finnmark	23904136
+1420	72	970350934	Fylkesmannen i Oppland	7347413
+1420	72	974760460	Fylkesmannen i Østfold	49819
+1420	72	974760665	Statsforvaltaren i Vestland	100187
+1420	72	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	567685
+1420	72	974761645	Statsforvalteren i Innlandet	8708096
+1420	72	974762501	Statsforvalteren i Vestfold og Telemark	29857
+1420	72	974762684	Fylkesmannen i Telemark	937643
+1420	72	974762994	Statsforvalteren i Agder	1006783
+1420	72	974763230	Statsforvaltaren i Rogaland	577353
+1420	72	974763907	Fylkesmannen i Sogn og Fjordane	528000
+1420	72	974764067	Statsforvaltaren i  Møre og Romsdal	1999102
+1420	72	974764350	Statsforvalteren i Trøndelag	7858598
+1420	72	974764687	Statsforvalteren i Nordland	19754883
+1420	72	974772108	Fylkesmannen i Nord-Trøndelag	17999982
+1420	72	974772124	Fylkesmannen i Troms	12061395
+1420	72	999601391	Miljødirektoratet	591864
+1420	73	946473111	Fylkesmannen i Buskerud	1405408
+1420	73	967311014	Statsforvalteren i Troms og Finnmark	4330736
+1420	73	970350934	Fylkesmannen i Oppland	4206326
+1420	73	974760460	Fylkesmannen i Østfold	1169600
+1420	73	974760665	Statsforvaltaren i Vestland	55600
+1420	73	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2045075
+1420	73	974761645	Statsforvalteren i Innlandet	12749393
+1420	73	974762501	Statsforvalteren i Vestfold og Telemark	10000
+1420	73	974762684	Fylkesmannen i Telemark	970000
+1420	73	974762994	Statsforvalteren i Agder	430000
+1420	73	974763230	Statsforvaltaren i Rogaland	90000
+1420	73	974763907	Fylkesmannen i Sogn og Fjordane	385893
+1420	73	974764067	Statsforvaltaren i  Møre og Romsdal	2199969
+1420	73	974764350	Statsforvalteren i Trøndelag	3252690
+1420	73	974764687	Statsforvalteren i Nordland	6976191
+1420	73	974772108	Fylkesmannen i Nord-Trøndelag	6149999
+1420	73	974772124	Fylkesmannen i Troms	6135975
+1420	73	999601391	Miljødirektoratet	12515903
+1420	74	999601391	Miljødirektoratet	497897386
+1420	75	974761076	Skatteetaten	412189603
+1420	76	999601391	Miljødirektoratet	87550086
+1420	77	999601391	Miljødirektoratet	12454999
+1420	78	974760460	Fylkesmannen i Østfold	2575000
+1420	78	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	2700000
+1420	78	974762501	Statsforvalteren i Vestfold og Telemark	2825000
+1420	78	974762684	Fylkesmannen i Telemark	2750000
+1420	78	974762994	Statsforvalteren i Agder	6130000
+1420	78	974763230	Statsforvaltaren i Rogaland	3619992
+1420	78	999601391	Miljødirektoratet	136978019
+1420	79	999601391	Miljødirektoratet	843630
+1420	81	970350934	Fylkesmannen i Oppland	85000
+1420	81	974760460	Fylkesmannen i Østfold	151689
+1420	81	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	13500
+1420	81	974762684	Fylkesmannen i Telemark	34000
+1420	81	974762994	Statsforvalteren i Agder	324000
+1420	81	974763907	Fylkesmannen i Sogn og Fjordane	1070000
+1420	81	974764067	Statsforvaltaren i  Møre og Romsdal	1087000
+1420	81	974764350	Statsforvalteren i Trøndelag	438000
+1420	81	974764687	Statsforvalteren i Nordland	122500
+1420	81	974772108	Fylkesmannen i Nord-Trøndelag	30000
+1420	81	974772124	Fylkesmannen i Troms	152000
+1420	81	999601391	Miljødirektoratet	22478792
+1420	82	946473111	Fylkesmannen i Buskerud	932602
+1420	82	967311014	Statsforvalteren i Troms og Finnmark	451000
+1420	82	970350934	Fylkesmannen i Oppland	1693817
+1420	82	974760460	Fylkesmannen i Østfold	511713
+1420	82	974760665	Statsforvaltaren i Vestland	6914063
+1420	82	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	6309994
+1420	82	974761645	Statsforvalteren i Innlandet	667342
+1420	82	974762501	Statsforvalteren i Vestfold og Telemark	2977332
+1420	82	974762684	Fylkesmannen i Telemark	2695600
+1420	82	974762994	Statsforvalteren i Agder	3343093
+1420	82	974763230	Statsforvaltaren i Rogaland	2471269
+1420	82	974763907	Fylkesmannen i Sogn og Fjordane	1608116
+1420	82	974764067	Statsforvaltaren i  Møre og Romsdal	2928000
+1420	82	974764350	Statsforvalteren i Trøndelag	2624967
+1420	82	974764687	Statsforvalteren i Nordland	6393493
+1420	82	974772108	Fylkesmannen i Nord-Trøndelag	2519999
+1420	82	974772124	Fylkesmannen i Troms	43000
+1420	82	999601391	Miljødirektoratet	5996600
+1420	84	967311014	Statsforvalteren i Troms og Finnmark	50000
+1420	84	974760460	Fylkesmannen i Østfold	131173
+1420	84	999601391	Miljødirektoratet	4651255
+1420	85	967311014	Statsforvalteren i Troms og Finnmark	750000
+1420	85	974761645	Statsforvalteren i Innlandet	301466
+1420	85	999601391	Miljødirektoratet	52626416
+1422	21	972417882	Klima- og miljødepartementet	298064
+1422	21	974761262	Sjøfartsdirektoratet	5827985
+1422	70	972417882	Klima- og miljødepartementet	44000000
+1423	1	983544622	Helsedirektoratet	14282573
+1424	21	971040238	Statens kartverk	23704224
+1425	1	946473111	Fylkesmannen i Buskerud	800000
+1425	1	967311014	Statsforvalteren i Troms og Finnmark	56672
+1425	1	970350934	Fylkesmannen i Oppland	497442
+1425	1	974760460	Fylkesmannen i Østfold	68000
+1425	1	974761645	Statsforvalteren i Innlandet	235923
+1425	1	974762684	Fylkesmannen i Telemark	260000
+1425	1	974762994	Statsforvalteren i Agder	701428
+1425	1	974763907	Fylkesmannen i Sogn og Fjordane	672139
+1425	1	974764067	Statsforvaltaren i  Møre og Romsdal	330068
+1425	1	974764350	Statsforvalteren i Trøndelag	645000
+1425	1	999601391	Miljødirektoratet	8681107
+1425	21	999601391	Miljødirektoratet	26057857
+1425	70	946473111	Fylkesmannen i Buskerud	329607
+1425	70	967311014	Statsforvalteren i Troms og Finnmark	393000
+1425	70	974760460	Fylkesmannen i Østfold	340000
+1425	70	974760665	Statsforvaltaren i Vestland	360000
+1425	70	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	340000
+1425	70	974762501	Statsforvalteren i Vestfold og Telemark	340000
+1425	70	974762684	Fylkesmannen i Telemark	350000
+1425	70	974762994	Statsforvalteren i Agder	679996
+1425	70	974763230	Statsforvaltaren i Rogaland	350000
+1425	70	974763907	Fylkesmannen i Sogn og Fjordane	360000
+1425	70	974764067	Statsforvaltaren i  Møre og Romsdal	375001
+1425	70	974764350	Statsforvalteren i Trøndelag	435000
+1425	70	974764687	Statsforvalteren i Nordland	435000
+1425	70	974772108	Fylkesmannen i Nord-Trøndelag	435705
+1425	70	974772124	Fylkesmannen i Troms	405000
+1425	70	999601391	Miljødirektoratet	4928740
+1425	71	946473111	Fylkesmannen i Buskerud	816487
+1425	71	967311014	Statsforvalteren i Troms og Finnmark	210000
+1425	71	970350934	Fylkesmannen i Oppland	483750
+1425	71	974760460	Fylkesmannen i Østfold	162373
+1425	71	974760665	Statsforvaltaren i Vestland	200000
+1425	71	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	250000
+1425	71	974761645	Statsforvalteren i Innlandet	488185
+1425	71	974762501	Statsforvalteren i Vestfold og Telemark	150000
+1425	71	974762684	Fylkesmannen i Telemark	209342
+1425	71	974762994	Statsforvalteren i Agder	570925
+1425	71	974763230	Statsforvaltaren i Rogaland	150000
+1425	71	974763907	Fylkesmannen i Sogn og Fjordane	352952
+1425	71	974764067	Statsforvaltaren i  Møre og Romsdal	336216
+1425	71	974764350	Statsforvalteren i Trøndelag	540072
+1425	71	974764687	Statsforvalteren i Nordland	550000
+1425	71	974772108	Fylkesmannen i Nord-Trøndelag	549640
+1425	71	974772124	Fylkesmannen i Troms	250000
+1425	71	999601391	Miljødirektoratet	26782580
+1429	1	938966397	Nidaros domkirkes restaureringsarbeider	2629007
+1429	1	974760819	Riksantikvaren	128263934
+1429	21	974760819	Riksantikvaren	39878282
+1429	22	974760819	Riksantikvaren	23248897
+1429	50	974760819	Riksantikvaren	3471000
+1429	60	974760819	Riksantikvaren	2116000
+1429	70	974760819	Riksantikvaren	32156024
+1429	71	974760819	Riksantikvaren	115025185
+1429	72	974760819	Riksantikvaren	50236559
+1429	73	974760819	Riksantikvaren	52028294
+1429	74	974760819	Riksantikvaren	98258099
+1429	75	974760819	Riksantikvaren	10049990
+1429	77	938966397	Nidaros domkirkes restaureringsarbeider	1153334
+1429	77	974760819	Riksantikvaren	3654666
+1429	79	974760819	Riksantikvaren	44323880
+1432	50	972417882	Klima- og miljødepartementet	87094000
+1471	1	971022264	Norsk Polarinstitutt	209735175
+1471	21	971022264	Norsk Polarinstitutt	82487251
+1471	50	971022264	Norsk Polarinstitutt	506000
+1472	50	991753486	Svalbards miljøvernfond	19838050
+1474	50	972417882	Klima- og miljødepartementet	25574090
+1474	70	972417882	Klima- og miljødepartementet	26499618
+1481	1	972417882	Klima- og miljødepartementet	3064446
+1481	22	972417882	Klima- og miljødepartementet	103213408
+1481	23	972417882	Klima- og miljødepartementet	290008
+1482	1	971277882	Direktoratet for utviklingssamarbeid (NORAD)	24850796
+1482	1	972417882	Klima- og miljødepartementet	44038659
+1482	1	972417920	Utenriksdepartementet	26055176
+1482	73	971277882	Direktoratet for utviklingssamarbeid (NORAD)	945526266
+1482	73	972417882	Klima- og miljødepartementet	314502875
+1482	73	972417920	Utenriksdepartementet	1293076618
+1600	1	972417807	Finansdepartementet	325290860
+1600	21	972417807	Finansdepartementet	42848588
+1600	70	972417807	Finansdepartementet	13400000
+1602	1	840747972	Finanstilsynet	338401942
+1602	45	840747972	Finanstilsynet	21220355
+1605	1	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	368328417
+1605	21	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	0
+1605	45	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	22099873
+1608	21	972417807	Finansdepartementet	11635209
+1608	21	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	8155124
+1610	1	880455702	Tolletaten	1356987593
+1610	45	880455702	Tolletaten	36843622
+1618	1	974761076	Skatteetaten	5295361551
+1618	21	974761076	Skatteetaten	152822865
+1618	22	974761076	Skatteetaten	227580169
+1618	23	974761076	Skatteetaten	77940615
+1618	45	974761076	Skatteetaten	93717034
+1618	70	974761076	Skatteetaten	3000000
+1620	1	971526920	Statistisk sentralbyrå	510559520
+1620	21	971526920	Statistisk sentralbyrå	231067201
+1620	45	971526920	Statistisk sentralbyrå	26829204
+1632	61	974761076	Skatteetaten	21347803450
+1632	72	974761076	Skatteetaten	1986510087
+1633	1	840747972	Finanstilsynet	13127122
+1633	1	870917732	Oljedirektoratet	13697605
+1633	1	872417842	Kunnskapsdepartementet	9773663
+1633	1	874761192	Justervesenet	6208792
+1633	1	874783242	Kystverket	291756199
+1633	1	880455702	Tolletaten	71192874
+1633	1	881143712	Statens havarikommisjon	3478849
+1633	1	889640782	Arbeids- og velferdsetaten (NAV)	11721129
+1633	1	892211442	Norsk filminstitutt	2735115
+1633	1	911830868	Kriminalomsorgsdirektoratet	87105240
+1633	1	912660680	Nærings- og fiskeridepartementet	17435884
+1633	1	914781175	Norges institusjon for menneskerettigheter	805358
+1633	1	915429785	Politi- og lensmannsetaten	617355868
+1633	1	915933149	Direktoratet for e-helse	65578584
+1633	1	916132727	Valgdirektoratet	9060713
+1633	1	916195613	Regelrådet	45961
+1633	1	938966397	Nidaros domkirkes restaureringsarbeider	920752
+1633	1	942114184	Husbanken	175000
+1633	1	946473111	Fylkesmannen i Buskerud	4831773
+1633	1	961181399	Nasjonalarkivet	13240319
+1633	1	967311014	Statsforvalteren i Troms og Finnmark	4571463
+1633	1	970018131	Utdanningsdirektoratet	73772420
+1633	1	970145567	Norsk lyd- og blindeskriftbibliotek	2429162
+1633	1	970188290	Norges geologiske undersøkelse	8105241
+1633	1	970205039	Norges vassdrags- og energidirektorat	74880522
+1633	1	970350934	Fylkesmannen i Oppland	6370808
+1633	1	971022264	Norsk Polarinstitutt	4991678
+1633	1	971033533	Jernbaneverket	6279582
+1633	1	971040238	Statens kartverk	750000
+1633	1	971203420	Fiskeridirektoratet	26140072
+1633	1	971277882	Direktoratet for utviklingssamarbeid (NORAD)	12551267
+1633	1	971278374	Statsbygg	520000
+1633	1	971349077	Havforskningsinstituttet	43868281
+1633	1	971390425	Hovedredningssentralen	1445102
+1633	1	971456523	Sysselmesteren på Svalbard	6148
+1633	1	971513756	Hovedredningssentralen Sør-Norge	2517158
+1633	1	971524626	Riksmekleren	10725
+1633	1	971524758	Riksadvokaten	3243483
+1633	1	971524960	Stortinget	45034431
+1633	1	971525681	Arbeidsretten	3174
+1633	1	971526157	Patentstyret	9087124
+1633	1	971526920	Statistisk sentralbyrå	26241427
+1633	1	971527072	Generaladvokatembetet	188356
+1633	1	971527404	Språkrådet	1020118
+1633	1	971527412	Kulturdirektoratet	7450130
+1633	1	971527439	Stortingets ombudsnemnd for Forsvaret	316295
+1633	1	971527765	Barneombudet	549226
+1633	1	972417777	Statsministerens kontor	2629927
+1633	1	972417793	Barne- og familiedepartementet	5736695
+1633	1	972417807	Finansdepartementet	14419515
+1633	1	972417823	Forsvarsdepartementet	25083672
+1633	1	972417831	Justis- og beredskapsdepartementet	117229000
+1633	1	972417858	Kommunal- og distriktsdepartementet	21957799
+1633	1	972417866	Kultur- og likestillingsdepartementet	5474912
+1633	1	972417874	Landbruks- og matdepartementet	2462599
+1633	1	972417882	Klima- og miljødepartementet	32992693
+1633	1	972417904	Samferdselsdepartementet	12847107
+1633	1	972417920	Utenriksdepartementet	54138181
+1633	1	974446871	Nasjonal kommunikasjonsmyndighet	10124389
+1633	1	974760223	Direktoratet for byggkvalitet	14716618
+1633	1	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	11341479
+1633	1	974760460	Fylkesmannen i Østfold	5251248
+1633	1	974760665	Statsforvaltaren i Vestland	6306558
+1633	1	974760673	Registerenheten i Brønnøysund	64000907
+1633	1	974760819	Riksantikvaren	11561556
+1633	1	974760843	Riksrevisjonen	18226722
+1633	1	974760886	Medietilsynet	2606400
+1633	1	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	38128115
+1633	1	974761076	Skatteetaten	283486674
+1633	1	974761084	Trygderetten	1543657
+1633	1	974761122	Statens legemiddelverk	15851908
+1633	1	974761211	Arbeidstilsynet	24113371
+1633	1	974761246	Konkurransetilsynet	2450062
+1633	1	974761262	Sjøfartsdirektoratet	16325352
+1633	1	974761270	Sivilombudet Stortingets ombud for kontroll med forvaltningen	3451097
+1633	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	15908727
+1633	1	974761335	Forbrukertilsynet	1035391
+1633	1	974761378	Regjeringsadvokaten	7745371
+1633	1	974761394	Statens helsetilsyn	1924974
+1633	1	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	60678299
+1633	1	974761467	Datatilsynet	1839201
+1633	1	974761645	Statsforvalteren i Innlandet	7289698
+1633	1	974762501	Statsforvalteren i Vestfold og Telemark	3845422
+1633	1	974762684	Fylkesmannen i Telemark	4215090
+1633	1	974762994	Statsforvalteren i Agder	9048417
+1633	1	974763230	Statsforvaltaren i Rogaland	5836548
+1633	1	974763907	Fylkesmannen i Sogn og Fjordane	5126023
+1633	1	974764067	Statsforvaltaren i  Møre og Romsdal	4828896
+1633	1	974764350	Statsforvalteren i Trøndelag	5067949
+1633	1	974764687	Statsforvalteren i Nordland	5989663
+1633	1	974770458	Norsk lokalhistorisk institutt	70441
+1633	1	974772108	Fylkesmannen i Nord-Trøndelag	3444383
+1633	1	974772124	Fylkesmannen i Troms	4448406
+1633	1	974788985	Direktoratet for høyere utdanning og kompetanse	7235203
+1633	1	976029100	Nasjonalbiblioteket	22138785
+1633	1	977161630	Energidepartementet	14123583
+1633	1	979363974	Statens jernbanetilsyn	3344068
+1633	1	979529783	Nasjonalt institutt for ernærings- og sjømatforskning (NIFES)	12315243
+1633	1	980633446	Bioteknologirådet	324245
+1633	1	981105516	Luftfartstilsynet	5415417
+1633	1	981544315	Landbruksdirektoratet	15584458
+1633	1	981965132	Norsk senter for utvekslingssamarbeid (Norec)	1654938
+1633	1	982019095	Utlendingsnemnda	9484935
+1633	1	982110777	Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste, EOS-utvalget	505246
+1633	1	982391490	Lotteri- og stiftelsestilsynet	4229383
+1633	1	982965691	Husleietvistutvalget	1489150
+1633	1	983544622	Helsedirektoratet	82843559
+1633	1	983744516	Folkehelseinstituttet	109306123
+1633	1	983887406	Helse- og omsorgsdepartementet	3972483
+1633	1	983887457	Arbeids- og inkluderingsdepartementet	11278802
+1633	1	984195796	Domstolene i Norge	389680314
+1633	1	984936923	Norsk pasientskadeerstatning	7153560
+1633	1	984936966	Nasjonalt klageorgan for helsetjenesten	4169745
+1633	1	984944411	Gáldu - Kompetansesenter for urfolks rettigheter	244002
+1633	1	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	7575774
+1633	1	985165262	Nasjonal sikkerhetsmyndighet (NSM)	18475779
+1633	1	985211132	Sekretariatet for Markedsrådet og Forbrukerklageutvalget	396185
+1633	1	985399077	Mattilsynet	64229085
+1633	1	985847215	Kommisjonen for gjenopptakelse av straffesaker	452930
+1633	1	986028307	Norsk Akkreditering	612967
+1633	1	986074465	Konfliktrådene	2513661
+1633	1	986105174	Forsvaret	2273149300
+1633	1	986128433	Barne-, ungdoms- og familiedirektoratet	6359069
+1633	1	986174613	Havindustritilsynet	7867326
+1633	1	986186999	Statens sivilrettsforvaltning	3975435
+1633	1	986187243	Kontoret for voldsoffererstatning	1647198
+1633	1	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	31376451
+1633	1	986965610	Helseøkonomiforvaltningen HELFO	6042200
+1633	1	987248890	Spesialenheten for politisaker	834446
+1633	1	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	18353061
+1633	1	988681954	Likestillings- og diskrimineringsnemnda	131675
+1633	1	988820016	Internasjonalt reindriftssenter	347930
+1633	1	989628011	Foreldreutvalget for grunnopplæringen	652041
+1633	1	991825827	Direktoratet for forvaltning og IKT (DIFI)	31123151
+1633	1	992375434	Kompetansesenter for distriktsutvikling	1889762
+1633	1	994615203	Senter for IKT i utdanningen	5215795
+1633	1	995710757	Fylkesnemndene for barnevern og sosiale saker	45809332
+1633	1	999148603	De nasjonale forskningsetiske komiteene	1136185
+1633	1	999205437	Klagenemnda for industrielle rettar	167978
+1633	1	999601391	Miljødirektoratet	111218146
+1650	1	972417807	Finansdepartementet	37383115
+1650	88	972417807	Finansdepartementet	-101444
+1650	89	972417807	Finansdepartementet	10825339221
+1650	89	974761076	Skatteetaten	992
+1651	98	972417807	Finansdepartementet	14778000000
+1670	50	972417807	Finansdepartementet	20000000
+1700	1	972417823	Forsvarsdepartementet	427480116
+1700	73	972417823	Forsvarsdepartementet	30586347
+1710	1	975950662	Forsvarsbygg	3754433598
+1710	45	975950662	Forsvarsbygg	226777364
+1710	46	975950662	Forsvarsbygg	57483955
+1710	47	975950662	Forsvarsbygg	1458537068
+1710	47	986105174	Forsvaret	115992661
+1716	51	972417823	Forsvarsdepartementet	187631000
+1719	1	972417823	Forsvarsdepartementet	146808818
+1719	1	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	58914
+1719	1	986105174	Forsvaret	181911267
+1719	21	972417823	Forsvarsdepartementet	2279517
+1719	21	982583462	Statens pensjonskasse	99221758
+1719	43	972417823	Forsvarsdepartementet	3000000
+1719	71	972417823	Forsvarsdepartementet	56439790
+1719	78	972417823	Forsvarsdepartementet	292143461
+1720	1	986105174	Forsvaret	3806762603
+1723	1	985165262	Nasjonal sikkerhetsmyndighet (NSM)	251467648
+1725	1	982583462	Statens pensjonskasse	14960224
+1725	1	986105174	Forsvaret	1960147992
+1725	70	986105174	Forsvaret	1077757
+1725	71	986105174	Forsvaret	18916709
+1731	1	986105174	Forsvaret	5402056794
+1732	1	986105174	Forsvaret	3877818773
+1733	1	986105174	Forsvaret	4966013097
+1734	1	986105174	Forsvaret	1199298482
+1735	21	986105174	Forsvaret	1558348000
+1740	1	986105174	Forsvaret	1690016931
+1760	1	972417823	Forsvarsdepartementet	1393793
+1760	1	985165262	Nasjonal sikkerhetsmyndighet (NSM)	9172005
+1760	1	986105174	Forsvaret	1650066711
+1760	44	972417823	Forsvarsdepartementet	119511
+1760	44	986105174	Forsvaret	22509806
+1760	45	972417823	Forsvarsdepartementet	419597451
+1760	45	985165262	Nasjonal sikkerhetsmyndighet (NSM)	30921139
+1760	45	986105174	Forsvaret	4306024112
+1760	48	986105174	Forsvaret	33650943
+1760	75	986105174	Forsvaret	86989442
+1761	1	972417823	Forsvarsdepartementet	11369959
+1761	1	986105174	Forsvaret	133937552
+1761	45	986105174	Forsvaret	6606969437
+1761	47	975950662	Forsvarsbygg	1250903033
+1790	1	986105174	Forsvaret	949997328
+1791	1	986105174	Forsvaret	833042888
+1792	1	972417823	Forsvarsdepartementet	85928750
+1792	1	986105174	Forsvaret	758931583
+1795	1	986105174	Forsvaret	272228924
+1795	72	972417823	Forsvarsdepartementet	2564000
+1800	1	977161630	Energidepartementet	167905233
+1800	21	870917732	Oljedirektoratet	568801
+1800	21	977161630	Energidepartementet	13191402
+1800	50	977161630	Energidepartementet	498000
+1800	70	977161630	Energidepartementet	4031349
+1800	71	977161630	Energidepartementet	42800000
+1800	72	977161630	Energidepartementet	2000000
+1810	1	870917732	Oljedirektoratet	260986361
+1810	21	870917732	Oljedirektoratet	200189670
+1810	45	870917732	Oljedirektoratet	2448331
+1811	96	977161630	Energidepartementet	5024646713
+1815	70	977161630	Energidepartementet	343656000
+1815	72	977161630	Energidepartementet	1500000
+1815	73	977161630	Energidepartementet	9100000
+1820	1	970205039	Norges vassdrags- og energidirektorat	516068390
+1820	21	970205039	Norges vassdrags- og energidirektorat	103302107
+1820	22	970205039	Norges vassdrags- og energidirektorat	319854074
+1820	45	970205039	Norges vassdrags- og energidirektorat	4757441
+1820	60	970205039	Norges vassdrags- og energidirektorat	35532485
+1820	72	970205039	Norges vassdrags- og energidirektorat	1601072
+1820	73	970205039	Norges vassdrags- og energidirektorat	20000000
+1820	74	970205039	Norges vassdrags- og energidirektorat	6600000
+1820	74	974760819	Riksantikvaren	3563467
+1825	50	977161630	Energidepartementet	1563689768
+1825	95	977161630	Energidepartementet	14250000000
+1830	22	970205039	Norges vassdrags- og energidirektorat	23144545
+1830	50	977161630	Energidepartementet	898612000
+1830	70	977161630	Energidepartementet	42012493
+1830	71	970205039	Norges vassdrags- og energidirektorat	3000000
+1830	72	977161630	Energidepartementet	20900000
+1830	73	977161630	Energidepartementet	6000000
+1840	21	870917732	Oljedirektoratet	2438064
+1840	21	977161630	Energidepartementet	36553212
+1840	50	977161630	Energidepartementet	239600000
+1840	70	977161630	Energidepartementet	160324000
+1840	71	977161630	Energidepartementet	1587546590
+1840	74	977161630	Energidepartementet	14425192
+2309	1	972417831	Justis- og beredskapsdepartementet	344800
+2309	1	972417920	Utenriksdepartementet	161829
+2410	1	872417842	Kunnskapsdepartementet	255196
+2410	1	960885406	Statens lånekasse for utdanning	381194202
+2410	45	960885406	Statens lånekasse for utdanning	7699681
+2410	50	872417842	Kunnskapsdepartementet	6195640000
+2410	70	960885406	Statens lånekasse for utdanning	2683649785
+2410	71	960885406	Statens lånekasse for utdanning	798823209
+2410	72	960885406	Statens lånekasse for utdanning	847406863
+2410	73	960885406	Statens lånekasse for utdanning	595770309
+2410	74	960885406	Statens lånekasse for utdanning	358062928
+2410	76	960885406	Statens lånekasse for utdanning	302760
+2410	90	960885406	Statens lånekasse for utdanning	24139569770
+2412	1	942114184	Husbanken	332916617
+2412	21	942114184	Husbanken	10768525
+2412	45	942114184	Husbanken	54452934
+2412	71	942114184	Husbanken	10423318
+2412	72	942114184	Husbanken	7714522
+2412	90	942114184	Husbanken	14670365233
+2421	50	912660680	Nærings- og fiskeridepartementet	549500000
+2421	51	912660680	Nærings- og fiskeridepartementet	44625000
+2421	53	912660680	Nærings- og fiskeridepartementet	22500000
+2421	70	912660680	Nærings- og fiskeridepartementet	168970000
+2421	71	912660680	Nærings- og fiskeridepartementet	13700003
+2421	71	986399445	Innovasjon Norge	95667105
+2421	72	912660680	Nærings- og fiskeridepartementet	32900003
+2421	72	986399445	Innovasjon Norge	278857027
+2421	73	986399445	Innovasjon Norge	1293000
+2421	74	912660680	Nærings- og fiskeridepartementet	480999997
+2421	74	986399445	Innovasjon Norge	14075975
+2421	75	986399445	Innovasjon Norge	17980563
+2421	76	912660680	Nærings- og fiskeridepartementet	58400003
+2421	76	986399445	Innovasjon Norge	231029662
+2421	77	986399445	Innovasjon Norge	99300828
+2421	78	986399445	Innovasjon Norge	4400000
+2421	80	986399445	Innovasjon Norge	3074287
+2421	90	912660680	Nærings- og fiskeridepartementet	45365000000
+2421	95	912660680	Nærings- og fiskeridepartementet	127500000
+2426	70	912660680	Nærings- og fiskeridepartementet	79992000
+2426	90	912660680	Nærings- og fiskeridepartementet	50000000
+2429	70	912660680	Nærings- og fiskeridepartementet	100786000
+2429	89	998544696	Eksportkreditt Norge AS	0
+2429	90	998544696	Eksportkreditt Norge AS	10121478814
+2440	30	980977269	Statens direkte økonomiske engasjement (SDØE)	27815084217
+2445	24	971278374	Statsbygg	-306255000
+2445	30	971278374	Statsbygg	156912070
+2445	31	971278374	Statsbygg	369662861
+2445	32	971278374	Statsbygg	412656301
+2445	33	971278374	Statsbygg	1549476973
+2445	34	971278374	Statsbygg	580652851
+2445	45	971278374	Statsbygg	307444458
+2445	49	971278374	Statsbygg	67105635
+2460	24	974760908	Garantiinstituttet for eksportkreditt	0
+2465	24	971040238	Statens kartverk	0
+2465	45	971040238	Statens kartverk	33417694
+2470	24	982583462	Statens pensjonskasse	-27505000
+2470	45	982583462	Statens pensjonskasse	42337847
+2490	24	970205039	Norges vassdrags- og energidirektorat	0
+2490	45	970205039	Norges vassdrags- og energidirektorat	1904056
+2530	70	889640782	Arbeids- og velferdsetaten (NAV)	18573092545
+2530	71	889640782	Arbeids- og velferdsetaten (NAV)	444690016
+2530	72	889640782	Arbeids- og velferdsetaten (NAV)	471495726
+2530	73	889640782	Arbeids- og velferdsetaten (NAV)	57163799
+2540	70	889640782	Arbeids- og velferdsetaten (NAV)	80000000
+2541	70	889640782	Arbeids- og velferdsetaten (NAV)	15447847627
+2542	70	889640782	Arbeids- og velferdsetaten (NAV)	811694097
+2620	70	889640782	Arbeids- og velferdsetaten (NAV)	2295430207
+2620	72	889640782	Arbeids- og velferdsetaten (NAV)	271263841
+2620	73	889640782	Arbeids- og velferdsetaten (NAV)	30308214
+2620	75	889640782	Arbeids- og velferdsetaten (NAV)	353910
+2620	76	889640782	Arbeids- og velferdsetaten (NAV)	754798186
+2650	70	889640782	Arbeids- og velferdsetaten (NAV)	34912871262
+2650	71	889640782	Arbeids- og velferdsetaten (NAV)	1376936413
+2650	72	889640782	Arbeids- og velferdsetaten (NAV)	604636533
+2650	73	889640782	Arbeids- og velferdsetaten (NAV)	333769474
+2650	75	889640782	Arbeids- og velferdsetaten (NAV)	1983701245
+2651	70	889640782	Arbeids- og velferdsetaten (NAV)	34279108641
+2651	71	889640782	Arbeids- og velferdsetaten (NAV)	295404020
+2651	72	889640782	Arbeids- og velferdsetaten (NAV)	388077215
+2655	70	889640782	Arbeids- og velferdsetaten (NAV)	79949299767
+2655	75	889640782	Arbeids- og velferdsetaten (NAV)	75845188
+2655	76	889640782	Arbeids- og velferdsetaten (NAV)	50885397
+2661	70	889640782	Arbeids- og velferdsetaten (NAV)	1865982189
+2661	71	889640782	Arbeids- og velferdsetaten (NAV)	1659776117
+2661	73	889640782	Arbeids- og velferdsetaten (NAV)	128707902
+2661	74	889640782	Arbeids- og velferdsetaten (NAV)	724538099
+2661	75	889640782	Arbeids- og velferdsetaten (NAV)	2868570544
+2661	76	889640782	Arbeids- og velferdsetaten (NAV)	239650364
+2661	77	889640782	Arbeids- og velferdsetaten (NAV)	1328875825
+2661	78	889640782	Arbeids- og velferdsetaten (NAV)	622504184
+2661	79	889640782	Arbeids- og velferdsetaten (NAV)	47971942
+2670	70	889640782	Arbeids- og velferdsetaten (NAV)	67021374793
+2670	71	889640782	Arbeids- og velferdsetaten (NAV)	128790623013
+2670	72	889640782	Arbeids- og velferdsetaten (NAV)	130358921
+2670	73	889640782	Arbeids- og velferdsetaten (NAV)	5766318722
+2680	70	889640782	Arbeids- og velferdsetaten (NAV)	1168386525
+2680	71	889640782	Arbeids- og velferdsetaten (NAV)	894379011
+2680	72	889640782	Arbeids- og velferdsetaten (NAV)	88512822
+2680	74	889640782	Arbeids- og velferdsetaten (NAV)	368972
+2680	75	889640782	Arbeids- og velferdsetaten (NAV)	5604592
+2686	70	889640782	Arbeids- og velferdsetaten (NAV)	178943619
+2711	70	889640782	Arbeids- og velferdsetaten (NAV)	1859151860
+2711	70	986965610	Helseøkonomiforvaltningen HELFO	150532
+2711	71	889640782	Arbeids- og velferdsetaten (NAV)	276203799
+2711	71	986965610	Helseøkonomiforvaltningen HELFO	918268
+2711	72	889640782	Arbeids- og velferdsetaten (NAV)	2264071731
+2711	72	986965610	Helseøkonomiforvaltningen HELFO	76992695
+2711	76	889640782	Arbeids- og velferdsetaten (NAV)	856908623
+2711	76	986965610	Helseøkonomiforvaltningen HELFO	11716
+2751	70	889640782	Arbeids- og velferdsetaten (NAV)	9983015442
+2751	70	986965610	Helseøkonomiforvaltningen HELFO	27370405
+2751	71	889640782	Arbeids- og velferdsetaten (NAV)	5668840
+2751	72	889640782	Arbeids- og velferdsetaten (NAV)	1848838942
+2751	72	986965610	Helseøkonomiforvaltningen HELFO	21764
+2752	70	889640782	Arbeids- og velferdsetaten (NAV)	4597260812
+2752	70	986965610	Helseøkonomiforvaltningen HELFO	170690
+2752	71	889640782	Arbeids- og velferdsetaten (NAV)	166731655
+2752	71	986965610	Helseøkonomiforvaltningen HELFO	383914
+2755	62	889640782	Arbeids- og velferdsetaten (NAV)	347926866
+2755	70	889640782	Arbeids- og velferdsetaten (NAV)	4522731836
+2755	70	986965610	Helseøkonomiforvaltningen HELFO	98925150
+2755	71	889640782	Arbeids- og velferdsetaten (NAV)	1953262344
+2755	71	986965610	Helseøkonomiforvaltningen HELFO	20544467
+2755	72	889640782	Arbeids- og velferdsetaten (NAV)	56423204
+2755	72	986965610	Helseøkonomiforvaltningen HELFO	601800
+2755	73	889640782	Arbeids- og velferdsetaten (NAV)	143846715
+2755	73	986965610	Helseøkonomiforvaltningen HELFO	1066000
+2755	75	889640782	Arbeids- og velferdsetaten (NAV)	130724778
+2755	75	986965610	Helseøkonomiforvaltningen HELFO	529571
+2756	70	889640782	Arbeids- og velferdsetaten (NAV)	31103
+2756	70	986965610	Helseøkonomiforvaltningen HELFO	20480702
+2756	71	889640782	Arbeids- og velferdsetaten (NAV)	362127706
+2756	71	986965610	Helseøkonomiforvaltningen HELFO	67450577
+2756	72	889640782	Arbeids- og velferdsetaten (NAV)	175323296
+2790	70	889640782	Arbeids- og velferdsetaten (NAV)	97147202
+2790	70	986965610	Helseøkonomiforvaltningen HELFO	104124081
+2800	50	50	Statsregnskapet	124778653418
+3024	1	974761076	Skatteetaten	-18495118
+3041	1	971524960	Stortinget	-9308163
+3041	3	971524960	Stortinget	-499040
+3051	1	974760843	Riksrevisjonen	-1887070
+3051	2	974760843	Riksrevisjonen	-885917
+3100	1	972417920	Utenriksdepartementet	-10872376
+3100	2	972417920	Utenriksdepartementet	-163669823
+3100	5	972417920	Utenriksdepartementet	-76110570
+3100	89	972417920	Utenriksdepartementet	-3497807
+3100	90	972417920	Utenriksdepartementet	-99922
+3140	5	972417920	Utenriksdepartementet	-17394320
+3140	89	972417920	Utenriksdepartementet	-2783618
+3200	2	872417842	Kunnskapsdepartementet	-2013554
+3220	1	970018131	Utdanningsdirektoratet	-5538436
+3220	2	970018131	Utdanningsdirektoratet	-3624343
+3220	2	998554640	Statped	-937582
+3222	2	971578807	De samiske videregående skoler, Karasjok og Kautokeino	-9108489
+3222	2	974764814	Sørsamisk kunnskapspark	-2895887
+3224	1	994615203	Senter for IKT i utdanningen	-11476948
+3225	4	970018131	Utdanningsdirektoratet	-277038000
+3229	2	870961642	Norges grønne fagskole - Vea	-5611772
+3229	61	870961642	Norges grønne fagskole - Vea	-1241200
+3230	1	998554640	Statped	-36287857
+3230	2	998554640	Statped	-16721142
+3256	1	974788985	Direktoratet for høyere utdanning og kompetanse	-13000716
+3256	2	974788985	Direktoratet for høyere utdanning og kompetanse	-1172523
+3280	1	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	-617693
+3280	2	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	-508720
+3288	4	872417842	Kunnskapsdepartementet	-5729034
+3320	1	971527412	Kulturdirektoratet	-2255824
+3320	1	972417866	Kultur- og likestillingsdepartementet	-358397
+3320	2	971527412	Kulturdirektoratet	-2625500
+3320	3	971527412	Kulturdirektoratet	-3557340
+3322	1	974778998	Kunst i offentlige rom KORO	-375000
+3323	1	974761114	Kulturtanken - Den kulturelle skolesekken Norge	-26794877
+3324	1	974907550	Riksteatret	-29821
+3324	2	974907550	Riksteatret	-31705068
+3326	1	970145567	Norsk lyd- og blindeskriftbibliotek	-764845
+3326	1	971527404	Språkrådet	-1030439
+3326	1	976029100	Nasjonalbiblioteket	-19285742
+3326	2	976029100	Nasjonalbiblioteket	-9450000
+3329	1	961181399	Nasjonalarkivet	-13646382
+3329	1	974770458	Norsk lokalhistorisk institutt	-1736449
+3329	2	961181399	Nasjonalarkivet	-23208814
+3334	1	892211442	Norsk filminstitutt	-6477507
+3334	2	892211442	Norsk filminstitutt	-4793587
+3334	2	974760886	Medietilsynet	-2828042
+3334	70	974760886	Medietilsynet	-2400972
+3339	2	982391490	Lotteri- og stiftelsestilsynet	-8823850
+3339	4	982391490	Lotteri- og stiftelsestilsynet	-162900
+3339	7	982391490	Lotteri- og stiftelsestilsynet	-15664000
+3340	1	970550259	Kirkerådet	-23721917
+3340	1	971367601	Møre bispedømmeråd	-1680775
+3340	1	971551151	Agder og Telemark bispedømmeråd	-3214415
+3340	1	974760533	Borg bispedømmeråd	-1741720
+3340	1	974761475	Oslo bispedømmeråd	-2396372
+3340	1	974761610	Hamar bispedømmeråd	-1297798
+3340	1	974762498	Tunsberg bispedømmeråd	-4285403
+3340	1	974763222	Stavanger bispedømmeråd	-714234
+3340	1	974763575	Bjørgvin bispedømeråd	-2677718
+3340	1	974764407	Nidaros bispedømmeråd	-1754494
+3340	1	974764709	Sør-Hålogaland bispedømmeråd	-2780158
+3340	1	974764946	Nord-Hålogaland bispedømmeråd	-1598118
+3340	1	980301788	Det praktisk-teologiske seminar	-1987973
+3340	2	970550259	Kirkerådet	-13242638
+3340	2	971367601	Møre bispedømmeråd	-19430
+3340	2	971551151	Agder og Telemark bispedømmeråd	-1659456
+3340	2	974760533	Borg bispedømmeråd	-19500
+3340	2	974761475	Oslo bispedømmeråd	-6404874
+3340	2	974761610	Hamar bispedømmeråd	-966373
+3340	2	974763222	Stavanger bispedømmeråd	-2984176
+3340	2	974763575	Bjørgvin bispedømeråd	-579295
+3340	2	974764407	Nidaros bispedømmeråd	-2491729
+3342	1	938966397	Nidaros domkirkes restaureringsarbeider	-26097054
+3342	2	938966397	Nidaros domkirkes restaureringsarbeider	-5036610
+3400	1	915429785	Politi- og lensmannsetaten	-1959461
+3400	1	972417831	Justis- og beredskapsdepartementet	-928992
+3400	2	972417831	Justis- og beredskapsdepartementet	-1193000
+3400	3	972417831	Justis- og beredskapsdepartementet	-22381179
+3410	1	974760673	Registerenheten i Brønnøysund	-106357624
+3410	1	984195796	Domstolene i Norge	-195266984
+3410	2	984195796	Domstolene i Norge	-17816270
+3410	3	984195796	Domstolene i Norge	-3630310
+3410	4	984195796	Domstolene i Norge	-4646582
+3411	3	984195796	Domstolene i Norge	-5003993
+3430	2	911830868	Kriminalomsorgsdirektoratet	-87657265
+3430	3	911830868	Kriminalomsorgsdirektoratet	-24702038
+3430	4	911830868	Kriminalomsorgsdirektoratet	-3181927
+3432	3	911830868	Kriminalomsorgsdirektoratet	-5137678
+3440	1	915429785	Politi- og lensmannsetaten	-297946194
+3440	2	915429785	Politi- og lensmannsetaten	-431504846
+3440	3	915429785	Politi- og lensmannsetaten	-168049977
+3440	4	915429785	Politi- og lensmannsetaten	-1972184
+3440	5	915429785	Politi- og lensmannsetaten	-5447199
+3440	6	915429785	Politi- og lensmannsetaten	-203671094
+3440	7	915429785	Politi- og lensmannsetaten	-1221
+3440	7	974761076	Skatteetaten	-769997153
+3442	2	915429785	Politi- og lensmannsetaten	-24638138
+3442	3	915429785	Politi- og lensmannsetaten	-19992687
+3444	2	915429785	Politi- og lensmannsetaten	-13077536
+3451	1	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	-147494209
+3451	3	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	-30253236
+3451	6	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	-19879334
+3451	40	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	-6987036
+3454	1	972417831	Justis- og beredskapsdepartementet	-24511000
+3455	1	971390425	Hovedredningssentralen	-52000
+3455	1	971513756	Hovedredningssentralen Sør-Norge	-2812438
+3456	1	990382840	Direktoratet for nødkommunikasjon (DNK)	-299590855
+3456	2	990382840	Direktoratet for nødkommunikasjon (DNK)	-99953902
+3456	3	990382840	Direktoratet for nødkommunikasjon (DNK)	-55679753
+3469	1	972417831	Justis- og beredskapsdepartementet	-51939000
+3470	1	974761076	Skatteetaten	-3999171
+3472	1	986187243	Kontoret for voldsoffererstatning	-1188000
+3473	1	986186999	Statens sivilrettsforvaltning	-261000
+3474	2	986074465	Konfliktrådene	-518601
+3490	1	972417831	Justis- og beredskapsdepartementet	-133872000
+3490	2	974760746	Utlendingsdirektoratet	0
+3490	3	972417831	Justis- og beredskapsdepartementet	-19370000
+3490	4	972417831	Justis- og beredskapsdepartementet	-4572219000
+3490	5	974760746	Utlendingsdirektoratet	-26198468
+3490	6	972417831	Justis- og beredskapsdepartementet	-20236000
+3495	1	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	-905797
+3496	1	972417831	Justis- og beredskapsdepartementet	-315800000
+3496	2	972417831	Justis- og beredskapsdepartementet	-57112000
+3497	1	972417831	Justis- og beredskapsdepartementet	-217919000
+3500	1	972417858	Kommunal- og distriktsdepartementet	-60000
+3510	2	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	-36399791
+3510	3	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	-141833816
+3525	1	946473111	Fylkesmannen i Buskerud	-4378886
+3525	1	967311014	Statsforvalteren i Troms og Finnmark	-28948396
+3525	1	970350934	Fylkesmannen i Oppland	-9833743
+3525	1	974760460	Fylkesmannen i Østfold	-3318836
+3525	1	974760665	Statsforvaltaren i Vestland	-17793015
+3525	1	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	-9448531
+3525	1	974761645	Statsforvalteren i Innlandet	-4565618
+3525	1	974762501	Statsforvalteren i Vestfold og Telemark	-17459614
+3525	1	974762684	Fylkesmannen i Telemark	-3972408
+3525	1	974762994	Statsforvalteren i Agder	-17407753
+3525	1	974763230	Statsforvaltaren i Rogaland	-8678831
+3525	1	974763907	Fylkesmannen i Sogn og Fjordane	-6728905
+3525	1	974764067	Statsforvaltaren i  Møre og Romsdal	-4419387
+3525	1	974764350	Statsforvalteren i Trøndelag	-15618907
+3525	1	974764687	Statsforvalteren i Nordland	-13271359
+3525	1	974772108	Fylkesmannen i Nord-Trøndelag	-6935807
+3525	1	974772124	Fylkesmannen i Troms	-4458928
+3525	2	946473111	Fylkesmannen i Buskerud	-255597
+3525	2	967311014	Statsforvalteren i Troms og Finnmark	-268647
+3525	2	970350934	Fylkesmannen i Oppland	-1180763
+3525	2	974760460	Fylkesmannen i Østfold	-695478
+3525	2	974760665	Statsforvaltaren i Vestland	-402242
+3525	2	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	-572574
+3525	2	974761645	Statsforvalteren i Innlandet	-1449882
+3525	2	974762501	Statsforvalteren i Vestfold og Telemark	-611591
+3525	2	974762684	Fylkesmannen i Telemark	-86266
+3525	2	974762994	Statsforvalteren i Agder	-273154
+3525	2	974763230	Statsforvaltaren i Rogaland	-806189
+3525	2	974763907	Fylkesmannen i Sogn og Fjordane	-749251
+3525	2	974764067	Statsforvaltaren i  Møre og Romsdal	-501082
+3525	2	974764350	Statsforvalteren i Trøndelag	-1799969
+3525	2	974764687	Statsforvalteren i Nordland	-4500
+3525	2	974772108	Fylkesmannen i Nord-Trøndelag	-548765
+3525	2	974772124	Fylkesmannen i Troms	-85336
+3533	2	971278374	Statsbygg	-4395920
+3540	3	991825827	Direktoratet for forvaltning og IKT (DIFI)	-5018439
+3540	4	991825827	Direktoratet for forvaltning og IKT (DIFI)	-1077022
+3540	5	991825827	Direktoratet for forvaltning og IKT (DIFI)	-21127910
+3540	6	991825827	Direktoratet for forvaltning og IKT (DIFI)	-473375
+3545	1	974761076	Skatteetaten	-2627068
+3554	1	992375434	Kompetansesenter for distriktsutvikling	-379600
+3562	2	984944411	Gáldu - Kompetansesenter for urfolks rettigheter	-2285000
+3563	2	988820016	Internasjonalt reindriftssenter	-4145996
+3563	3	988820016	Internasjonalt reindriftssenter	-295463
+3585	1	982965691	Husleietvistutvalget	-1346117
+3587	1	974761076	Skatteetaten	-45000
+3587	4	974760223	Direktoratet for byggkvalitet	-46991457
+3595	1	971040238	Statens kartverk	-437453384
+3595	1	974761076	Skatteetaten	-315048
+3600	2	983887457	Arbeids- og inkluderingsdepartementet	-1186565
+3601	2	983887457	Arbeids- og inkluderingsdepartementet	-281669
+3605	1	889640782	Arbeids- og velferdsetaten (NAV)	-25157616
+3605	4	889640782	Arbeids- og velferdsetaten (NAV)	-3818837
+3605	5	889640782	Arbeids- og velferdsetaten (NAV)	-39414407
+3605	6	889640782	Arbeids- og velferdsetaten (NAV)	-23846527
+3614	1	982583462	Statens pensjonskasse	-27940146
+3614	90	982583462	Statens pensjonskasse	-20197581023
+3615	1	982583462	Statens pensjonskasse	-132705765
+3616	1	982583462	Statens pensjonskasse	-105909984
+3634	85	889640782	Arbeids- og velferdsetaten (NAV)	-1180554
+3635	1	889640782	Arbeids- og velferdsetaten (NAV)	-28224841
+3635	85	889640782	Arbeids- og velferdsetaten (NAV)	-423833
+3640	1	974761211	Arbeidstilsynet	-10950
+3640	4	999601391	Miljødirektoratet	-4561997
+3640	5	974761076	Skatteetaten	-6018125
+3640	5	974761211	Arbeidstilsynet	0
+3640	6	974761211	Arbeidstilsynet	-4771532
+3640	7	974761211	Arbeidstilsynet	-18443227
+3640	8	974761211	Arbeidstilsynet	-10862881
+3640	9	974761076	Skatteetaten	-2593000
+3642	2	986174613	Havindustritilsynet	-6378453
+3642	3	986174613	Havindustritilsynet	-58975397
+3642	6	986174613	Havindustritilsynet	-837925
+3642	7	986174613	Havindustritilsynet	-37100
+3701	2	915933149	Direktoratet for e-helse	-168793149
+3703	3	983887406	Helse- og omsorgsdepartementet	-1236424
+3710	2	983744516	Folkehelseinstituttet	-583043455
+3710	3	983744516	Folkehelseinstituttet	-135776046
+3714	4	974761076	Skatteetaten	-415138
+3714	4	983544622	Helsedirektoratet	-1988571
+3720	2	983544622	Helsedirektoratet	-82554701
+3720	2	986965610	Helseøkonomiforvaltningen HELFO	-553825
+3720	3	986965610	Helseøkonomiforvaltningen HELFO	-39677418
+3720	4	983544622	Helsedirektoratet	-44323792
+3720	5	889640782	Arbeids- og velferdsetaten (NAV)	-58304101
+3720	5	986965610	Helseøkonomiforvaltningen HELFO	-3792522
+3721	2	974761394	Statens helsetilsyn	-95552
+3721	4	974761394	Statens helsetilsyn	-1726852
+3722	2	984936923	Norsk pasientskadeerstatning	-2554600
+3722	50	984936923	Norsk pasientskadeerstatning	-37015008
+3723	50	984936966	Nasjonalt klageorgan for helsetjenesten	-2304000
+3732	80	983887406	Helse- og omsorgsdepartementet	-333053927
+3732	85	983887406	Helse- og omsorgsdepartementet	-406322417
+3732	86	983887406	Helse- og omsorgsdepartementet	-200000000
+3732	90	983887406	Helse- og omsorgsdepartementet	-605704170
+3750	2	974761122	Statens legemiddelverk	-27357161
+3750	4	974761122	Statens legemiddelverk	-74560551
+3750	6	974761122	Statens legemiddelverk	-2213500
+3800	1	972417793	Barne- og familiedepartementet	-25000
+3820	1	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	0
+3842	1	986128433	Barne-, ungdoms- og familiedirektoratet	-203450
+3847	1	986128433	Barne-, ungdoms- og familiedirektoratet	-4495829
+3853	1	995710757	Fylkesnemndene for barnevern og sosiale saker	-657120
+3855	1	986128433	Barne-, ungdoms- og familiedirektoratet	-13492418
+3855	2	986128433	Barne-, ungdoms- og familiedirektoratet	-2702100
+3855	60	986128433	Barne-, ungdoms- og familiedirektoratet	-1341668847
+3856	1	986128433	Barne-, ungdoms- og familiedirektoratet	-309770
+3856	4	972417793	Barne- og familiedepartementet	-1052864000
+3858	1	986128433	Barne-, ungdoms- og familiedirektoratet	-726008
+3868	1	974761335	Forbrukertilsynet	-958128
+3900	1	912660680	Nærings- og fiskeridepartementet	-1945414
+3900	2	912660680	Nærings- og fiskeridepartementet	-4854247
+3902	1	874761192	Justervesenet	-31340524
+3902	1	974761076	Skatteetaten	-545000
+3902	2	874761192	Justervesenet	-1210000
+3902	3	874761192	Justervesenet	-20975463
+3902	4	874761192	Justervesenet	-402246
+3903	1	986028307	Norsk Akkreditering	-42868696
+3904	1	974760673	Registerenheten i Brønnøysund	-557660016
+3904	2	974760673	Registerenheten i Brønnøysund	-34169614
+3904	3	974760673	Registerenheten i Brønnøysund	-111236962
+3905	1	970188290	Norges geologiske undersøkelse	-25215886
+3905	2	970188290	Norges geologiske undersøkelse	-60724356
+3906	1	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	-148630
+3906	2	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	-1246000
+3906	3	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	-1455000
+3910	1	974761076	Skatteetaten	-152558383
+3910	1	974761262	Sjøfartsdirektoratet	-12553989
+3910	2	974761262	Sjøfartsdirektoratet	-23196885
+3910	3	974761262	Sjøfartsdirektoratet	-8269484
+3910	4	974761076	Skatteetaten	-45668195
+3910	4	974761262	Sjøfartsdirektoratet	-1184448
+3910	86	974761076	Skatteetaten	-5584682
+3911	1	974761246	Konkurransetilsynet	-1380000
+3911	3	974761246	Konkurransetilsynet	-135050
+3911	4	974761246	Konkurransetilsynet	-352000
+3911	86	974761246	Konkurransetilsynet	-900000
+3917	1	971203420	Fiskeridirektoratet	-8534128
+3917	1	974760673	Registerenheten i Brønnøysund	-192850
+3917	5	971203420	Fiskeridirektoratet	-19742117
+3917	13	971203420	Fiskeridirektoratet	-83500000
+3917	22	971203420	Fiskeridirektoratet	-7580182
+3917	86	971203420	Fiskeridirektoratet	-2375199
+3917	86	974761076	Skatteetaten	-1041522
+3925	3	971349077	Havforskningsinstituttet	-287768784
+3926	1	971349077	Havforskningsinstituttet	-91554722
+3927	1	979529783	Nasjonalt institutt for ernærings- og sjømatforskning (NIFES)	-67176979
+3935	1	971526157	Patentstyret	-5597622
+3935	2	971526157	Patentstyret	-3653712
+3935	3	971526157	Patentstyret	-78826790
+3935	4	971526157	Patentstyret	-1042000
+3936	1	971526157	Patentstyret	-571400
+3950	96	912660680	Nærings- og fiskeridepartementet	-2875522447
+3961	70	912660680	Nærings- og fiskeridepartementet	-2112000
+3961	71	912660680	Nærings- og fiskeridepartementet	-3749991
+4100	1	972417874	Landbruks- og matdepartementet	-193066
+4100	30	972417874	Landbruks- og matdepartementet	-887000
+4115	1	985399077	Mattilsynet	-149917400
+4115	2	985399077	Mattilsynet	-9303708
+4136	30	972417874	Landbruks- og matdepartementet	-19775000
+4142	1	981544315	Landbruksdirektoratet	-47081966
+4150	85	981544315	Landbruksdirektoratet	-67030
+4162	90	972417874	Landbruks- og matdepartementet	-25000000
+4300	1	972417904	Samferdselsdepartementet	-3109966
+4312	90	972417904	Samferdselsdepartementet	-444369900
+4313	1	981105516	Luftfartstilsynet	-126864299
+4313	2	981105516	Luftfartstilsynet	-710798
+4320	1	971032081	Statens vegvesen	-232563482
+4320	2	971032081	Statens vegvesen	-525195351
+4320	3	971032081	Statens vegvesen	-111422011
+4322	90	972417904	Samferdselsdepartementet	-45000000
+4331	85	972417904	Samferdselsdepartementet	-1577129474
+4350	1	971033533	Jernbaneverket	-26550405
+4350	2	971033533	Jernbaneverket	-241606116
+4350	3	971033533	Jernbaneverket	-11292010
+4350	6	971033533	Jernbaneverket	-223187532
+4350	7	971033533	Jernbaneverket	-153330053
+4350	37	971033533	Jernbaneverket	-66020148
+4354	1	979363974	Statens jernbanetilsyn	-13728091
+4360	2	874783242	Kystverket	-12790919
+4361	7	986105174	Forsvaret	-7579281
+4370	70	972417904	Samferdselsdepartementet	-160900000
+4380	1	974446871	Nasjonal kommunikasjonsmyndighet	-185986719
+4400	2	972417882	Klima- og miljødepartementet	-307464
+4400	3	972417882	Klima- og miljødepartementet	-2171849
+4420	1	999601391	Miljødirektoratet	-3728304
+4420	4	999601391	Miljødirektoratet	-43943184
+4420	6	999601391	Miljødirektoratet	-21026743
+4420	7	999601391	Miljødirektoratet	-9275761
+4420	8	999601391	Miljødirektoratet	-4223692
+4420	9	999601391	Miljødirektoratet	-52167735
+4429	2	974760819	Riksantikvaren	-3791236
+4429	9	974760819	Riksantikvaren	-2837552
+4471	1	971022264	Norsk Polarinstitutt	-8822530
+4471	3	971022264	Norsk Polarinstitutt	-69357049
+4471	21	971022264	Norsk Polarinstitutt	-20105455
+4600	2	972417807	Finansdepartementet	-2783645
+4602	3	840747972	Finanstilsynet	-5486100
+4602	3	974761076	Skatteetaten	-4222415
+4602	86	974761076	Skatteetaten	-2821854
+4605	1	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	-79443777
+4610	1	880455702	Tolletaten	-8219693
+4610	2	880455702	Tolletaten	-1141219
+4610	3	880455702	Tolletaten	0
+4610	4	880455702	Tolletaten	-4366474
+4610	5	880455702	Tolletaten	-24433147
+4610	85	880455702	Tolletaten	-6636291
+4618	1	974761076	Skatteetaten	-61847395
+4618	2	974761076	Skatteetaten	-47147505
+4618	3	974761076	Skatteetaten	-35903313
+4618	5	974761076	Skatteetaten	-49925508
+4618	7	974761076	Skatteetaten	-2353511
+4618	11	974761076	Skatteetaten	-18640307
+4618	85	974761076	Skatteetaten	-243793501
+4618	86	974761076	Skatteetaten	-1269584021
+4618	87	974761076	Skatteetaten	-78122679
+4618	88	974761076	Skatteetaten	-350594111
+4618	89	974761076	Skatteetaten	-10467057
+4620	2	971526920	Statistisk sentralbyrå	-229575942
+4620	85	974761076	Skatteetaten	-22507347
+4700	1	972417823	Forsvarsdepartementet	-45476370
+4710	1	975950662	Forsvarsbygg	-4390593789
+4710	47	975950662	Forsvarsbygg	-413677949
+4719	1	972417823	Forsvarsdepartementet	-9604236
+4719	1	986105174	Forsvaret	-1559468
+4720	1	986105174	Forsvaret	-122438827
+4723	1	985165262	Nasjonal sikkerhetsmyndighet (NSM)	-35425252
+4725	1	986105174	Forsvaret	-61615316
+4731	1	986105174	Forsvaret	-103159504
+4732	1	986105174	Forsvaret	-102178316
+4733	1	986105174	Forsvaret	-149556130
+4734	1	986105174	Forsvaret	-7511678
+4740	1	986105174	Forsvaret	-266564944
+4760	1	986105174	Forsvaret	-150689034
+4760	45	972417823	Forsvarsdepartementet	-13836034
+4760	45	986105174	Forsvaret	-31321430
+4760	48	986105174	Forsvaret	-43278922
+4790	1	986105174	Forsvaret	-3971481
+4791	1	986105174	Forsvaret	-776741672
+4792	1	986105174	Forsvaret	-64253179
+4795	1	986105174	Forsvaret	-16735552
+4799	86	986105174	Forsvaret	-701657
+4800	2	977161630	Energidepartementet	-38247599
+4800	3	977161630	Energidepartementet	-3469491
+4800	10	977161630	Energidepartementet	-23594
+4800	70	977161630	Energidepartementet	-1417850
+4810	1	870917732	Oljedirektoratet	-15018007
+4810	2	870917732	Oljedirektoratet	-137228569
+4810	3	870917732	Oljedirektoratet	-9357597
+4810	4	870917732	Oljedirektoratet	-1518000
+4810	10	870917732	Oljedirektoratet	-1778775
+4811	96	977161630	Energidepartementet	-5024646713
+4820	1	970205039	Norges vassdrags- og energidirektorat	-79308834
+4820	2	970205039	Norges vassdrags- og energidirektorat	-105811325
+4820	10	970205039	Norges vassdrags- og energidirektorat	-6508744
+4820	40	970205039	Norges vassdrags- og energidirektorat	-35636868
+4825	85	977161630	Energidepartementet	-1636489768
+4840	80	977161630	Energidepartementet	-16651506
+4840	86	977161630	Energidepartementet	-1115152987
+5309	29	50	Statsregnskapet	-221724
+5309	29	870917732	Oljedirektoratet	-277389
+5309	29	870961642	Norges grønne fagskole - Vea	-45930
+5309	29	872417842	Kunnskapsdepartementet	-731079
+5309	29	880455702	Tolletaten	-2337506
+5309	29	881143712	Statens havarikommisjon	-60429
+5309	29	889640782	Arbeids- og velferdsetaten (NAV)	-3199305
+5309	29	892211442	Norsk filminstitutt	-129323
+5309	29	893300732	Svalbard kirke	-2540
+5309	29	911830868	Kriminalomsorgsdirektoratet	-7921941
+5309	29	912660680	Nærings- og fiskeridepartementet	-1453771
+5309	29	914781175	Norges institusjon for menneskerettigheter	-10689
+5309	29	915429785	Politi- og lensmannsetaten	-30487416
+5309	29	915933149	Direktoratet for e-helse	-354322
+5309	29	916132727	Valgdirektoratet	-14710
+5309	29	916195613	Regelrådet	0
+5309	29	938966397	Nidaros domkirkes restaureringsarbeider	-126573
+5309	29	946473111	Fylkesmannen i Buskerud	-172238
+5309	29	960885406	Statens lånekasse for utdanning	-2659
+5309	29	961181399	Nasjonalarkivet	-363421
+5309	29	967311014	Statsforvalteren i Troms og Finnmark	-155358
+5309	29	970018131	Utdanningsdirektoratet	-23197167
+5309	29	970145567	Norsk lyd- og blindeskriftbibliotek	-67202
+5309	29	970188290	Norges geologiske undersøkelse	-268984
+5309	29	970205039	Norges vassdrags- og energidirektorat	-813886
+5309	29	970350934	Fylkesmannen i Oppland	-681815
+5309	29	970550259	Kirkerådet	-95459
+5309	29	971022264	Norsk Polarinstitutt	-235845
+5309	29	971032081	Statens vegvesen	-113581
+5309	29	971203420	Fiskeridirektoratet	-563941
+5309	29	971277882	Direktoratet for utviklingssamarbeid (NORAD)	-19126346
+5309	29	971349077	Havforskningsinstituttet	-1095987
+5309	29	971367601	Møre bispedømmeråd	-95523
+5309	29	971390425	Hovedredningssentralen	-27833
+5309	29	971456523	Sysselmesteren på Svalbard	-45401
+5309	29	971513756	Hovedredningssentralen Sør-Norge	-33019
+5309	29	971524626	Riksmekleren	-8890
+5309	29	971524758	Riksadvokaten	-233355
+5309	29	971524960	Stortinget	-530654
+5309	29	971525681	Arbeidsretten	-14816
+5309	29	971526920	Statistisk sentralbyrå	-1160902
+5309	29	971527072	Generaladvokatembetet	-9806
+5309	29	971527404	Språkrådet	-298130
+5309	29	971527412	Kulturdirektoratet	-332349
+5309	29	971527439	Stortingets ombudsnemnd for Forsvaret	-5080
+5309	29	971527765	Barneombudet	-25611
+5309	29	971551151	Agder og Telemark bispedømmeråd	-203512
+5309	29	971578807	De samiske videregående skoler, Karasjok og Kautokeino	-165216
+5309	29	972417777	Statsministerens kontor	-294745
+5309	29	972417793	Barne- og familiedepartementet	-526331
+5309	29	972417807	Finansdepartementet	-377531
+5309	29	972417823	Forsvarsdepartementet	-2361344
+5309	29	972417831	Justis- og beredskapsdepartementet	-2302572
+5309	29	972417858	Kommunal- og distriktsdepartementet	-8260163
+5309	29	972417866	Kultur- og likestillingsdepartementet	-10253508
+5309	29	972417874	Landbruks- og matdepartementet	-190071
+5309	29	972417882	Klima- og miljødepartementet	-307912
+5309	29	972417904	Samferdselsdepartementet	-236107
+5309	29	972417920	Utenriksdepartementet	-236019784
+5309	29	974446871	Nasjonal kommunikasjonsmyndighet	-29873452
+5309	29	974760223	Direktoratet for byggkvalitet	-178297
+5309	29	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	-49634
+5309	29	974760460	Fylkesmannen i Østfold	-927059
+5309	29	974760533	Borg bispedømmeråd	-205734
+5309	29	974760665	Statsforvaltaren i Vestland	-454273
+5309	29	974760673	Registerenheten i Brønnøysund	-332263
+5309	29	974760746	Utlendingsdirektoratet	-7577467
+5309	29	974760843	Riksrevisjonen	-704242
+5309	29	974760886	Medietilsynet	-59476
+5309	29	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	-935442
+5309	29	974761076	Skatteetaten	-18939798
+5309	29	974761114	Kulturtanken - Den kulturelle skolesekken Norge	-74822
+5309	29	974761122	Statens legemiddelverk	-182378
+5309	29	974761211	Arbeidstilsynet	-819230
+5309	29	974761246	Konkurransetilsynet	-134775
+5309	29	974761270	Sivilombudet Stortingets ombud for kontroll med forvaltningen	-82547
+5309	29	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	-1091728
+5309	29	974761335	Forbrukertilsynet	-34818
+5309	29	974761378	Regjeringsadvokaten	-86357
+5309	29	974761394	Statens helsetilsyn	-150384
+5309	29	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	-998295
+5309	29	974761467	Datatilsynet	-62016
+5309	29	974761475	Oslo bispedømmeråd	-266692
+5309	29	974761610	Hamar bispedømmeråd	-181498
+5309	29	974761645	Statsforvalteren i Innlandet	-253502
+5309	29	974762498	Tunsberg bispedømmeråd	-190998
+5309	29	974762501	Statsforvalteren i Vestfold og Telemark	-500092
+5309	29	974762684	Fylkesmannen i Telemark	-248735
+5309	29	974762994	Statsforvalteren i Agder	-332762
+5309	29	974763222	Stavanger bispedømmeråd	-158912
+5309	29	974763230	Statsforvaltaren i Rogaland	-452219
+5309	29	974763575	Bjørgvin bispedømeråd	-242986
+5309	29	974763907	Fylkesmannen i Sogn og Fjordane	-239542
+5309	29	974764067	Statsforvaltaren i  Møre og Romsdal	-535358
+5309	29	974764350	Statsforvalteren i Trøndelag	-388084
+5309	29	974764407	Nidaros bispedømmeråd	-186049
+5309	29	974764687	Statsforvalteren i Nordland	-579479
+5309	29	974764709	Sør-Hålogaland bispedømmeråd	-114290
+5309	29	974764814	Sørsamisk kunnskapspark	-22013
+5309	29	974764946	Nord-Hålogaland bispedømmeråd	-138426
+5309	29	974770458	Norsk lokalhistorisk institutt	-17429
+5309	29	974772108	Fylkesmannen i Nord-Trøndelag	-256542
+5309	29	974772124	Fylkesmannen i Troms	-172503
+5309	29	974778998	Kunst i offentlige rom KORO	-22648
+5309	29	974788985	Direktoratet for høyere utdanning og kompetanse	-2731893
+5309	29	974907550	Riksteatret	-129535
+5309	29	976029100	Nasjonalbiblioteket	-561427
+5309	29	977161630	Energidepartementet	-202717
+5309	29	979363974	Statens jernbanetilsyn	-81060
+5309	29	979529783	Nasjonalt institutt for ernærings- og sjømatforskning (NIFES)	-190066
+5309	29	980301788	Det praktisk-teologiske seminar	-19684
+5309	29	980633446	Bioteknologirådet	-8466
+5309	29	981105516	Luftfartstilsynet	-220391
+5309	29	981544315	Landbruksdirektoratet	-987339
+5309	29	981965132	Norsk senter for utvekslingssamarbeid (Norec)	-950833
+5309	29	982019095	Utlendingsnemnda	-417182
+5309	29	982110777	Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste, EOS-utvalget	-14816
+5309	29	982391490	Lotteri- og stiftelsestilsynet	-627503
+5309	29	982965691	Husleietvistutvalget	-373077
+5309	29	983544622	Helsedirektoratet	-28014520
+5309	29	983744516	Folkehelseinstituttet	-1680686
+5309	29	983887406	Helse- og omsorgsdepartementet	-274576
+5309	29	983887457	Arbeids- og inkluderingsdepartementet	-250711
+5309	29	984195796	Domstolene i Norge	-3483216
+5309	29	984936923	Norsk pasientskadeerstatning	-291297
+5309	29	984936966	Nasjonalt klageorgan for helsetjenesten	-1660149
+5309	29	984944411	Gáldu - Kompetansesenter for urfolks rettigheter	-20741
+5309	29	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	-144352
+5309	29	985211132	Sekretariatet for Markedsrådet og Forbrukerklageutvalget	-15583
+5309	29	985399077	Mattilsynet	-1717833
+5309	29	985847215	Kommisjonen for gjenopptakelse av straffesaker	-15557
+5309	29	986074465	Konfliktrådene	-218851
+5309	29	986105174	Forsvaret	-30710115
+5309	29	986128433	Barne-, ungdoms- og familiedirektoratet	-8978500
+5309	29	986174613	Havindustritilsynet	-215576
+5309	29	986186999	Statens sivilrettsforvaltning	-240067
+5309	29	986187243	Kontoret for voldsoffererstatning	-58418
+5309	29	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	-495602
+5309	29	986965610	Helseøkonomiforvaltningen HELFO	-784306
+5309	29	987248890	Spesialenheten for politisaker	-46989
+5309	29	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	-12226068
+5309	29	988681954	Likestillings- og diskrimineringsnemnda	-6138
+5309	29	988820016	Internasjonalt reindriftssenter	-9736
+5309	29	989628011	Foreldreutvalget for grunnopplæringen	-12700
+5309	29	990382840	Direktoratet for nødkommunikasjon (DNK)	-138108
+5309	29	991825827	Direktoratet for forvaltning og IKT (DIFI)	-367601
+5309	29	992375434	Kompetansesenter for distriktsutvikling	-30056
+5309	29	994615203	Senter for IKT i utdanningen	-94718
+5309	29	995710757	Fylkesnemndene for barnevern og sosiale saker	-180546
+5309	29	998554640	Statped	-1028984
+5309	29	999148603	De nasjonale forskningsetiske komiteene	-13758
+5309	29	999205437	Klagenemnda for industrielle rettar	-7620
+5309	29	999601391	Miljødirektoratet	-1068668
+5310	4	960885406	Statens lånekasse for utdanning	-24967906
+5310	29	960885406	Statens lånekasse for utdanning	-18012924
+5310	89	960885406	Statens lånekasse for utdanning	-101771965
+5310	90	960885406	Statens lånekasse for utdanning	-9386359407
+5310	93	960885406	Statens lånekasse for utdanning	-6058777039
+5312	1	942114184	Husbanken	-11537655
+5312	11	942114184	Husbanken	-102374440
+5312	90	942114184	Husbanken	-12504361687
+5325	50	912660680	Nærings- og fiskeridepartementet	-6655104
+5325	56	912660680	Nærings- og fiskeridepartementet	-48099672
+5325	70	912660680	Nærings- og fiskeridepartementet	-59615616
+5325	90	912660680	Nærings- og fiskeridepartementet	-45170000000
+5325	91	912660680	Nærings- og fiskeridepartementet	-41590015
+5326	70	912660680	Nærings- og fiskeridepartementet	-7000000
+5326	90	912660680	Nærings- og fiskeridepartementet	-50000000
+5329	70	998544696	Eksportkreditt Norge AS	-19694080
+5329	89	998544696	Eksportkreditt Norge AS	0
+5329	90	998544696	Eksportkreditt Norge AS	-8921852521
+5341	91	974761076	Skatteetaten	-34414
+5341	95	972417807	Finansdepartementet	-370337
+5351	85	972417807	Finansdepartementet	-26588793551
+5440	24	980977269	Statens direkte økonomiske engasjement (SDØE)	-67187940673
+5440	30	980977269	Statens direkte økonomiske engasjement (SDØE)	-23276647734
+5440	80	980977269	Statens direkte økonomiske engasjement (SDØE)	-3819818714
+5440	85	980977269	Statens direkte økonomiske engasjement (SDØE)	14014774
+5445	39	971278374	Statsbygg	-1185900222
+5460	71	912660680	Nærings- og fiskeridepartementet	-8100000
+5460	72	912660680	Nærings- og fiskeridepartementet	-7500000
+5465	49	971040238	Statens kartverk	-140000
+5470	30	982583462	Statens pensjonskasse	-33070000
+5490	1	970205039	Norges vassdrags- og energidirektorat	-627500
+5491	30	970205039	Norges vassdrags- og energidirektorat	-4827214
+5491	30	971040238	Statens kartverk	-21915155
+5491	30	971278374	Statsbygg	-1144082500
+5491	30	982583462	Statens pensjonskasse	-121049245
+5501	70	974761076	Skatteetaten	-42177486696
+5501	72	974761076	Skatteetaten	-197910758479
+5506	70	974761076	Skatteetaten	-206121467
+5507	71	974761076	Skatteetaten	-16034226274
+5507	72	974761076	Skatteetaten	-25058531533
+5507	74	870917732	Oljedirektoratet	-1403369442
+5508	70	870917732	Oljedirektoratet	-5107520219
+5509	70	974761076	Skatteetaten	-2199846
+5511	70	974761076	Skatteetaten	-3175691957
+5511	71	981544315	Landbruksdirektoratet	-193627515
+5521	70	974761076	Skatteetaten	-266172006929
+5526	70	974761076	Skatteetaten	-13503396532
+5531	70	974761076	Skatteetaten	-7253790155
+5536	71	974761076	Skatteetaten	-16866505038
+5536	72	974761076	Skatteetaten	-10525683707
+5536	73	974761076	Skatteetaten	-343671324
+5536	75	974761076	Skatteetaten	-1403894074
+5538	70	974761076	Skatteetaten	-5516744503
+5538	71	974761076	Skatteetaten	-9629975822
+5538	72	974761076	Skatteetaten	-4909187
+5541	70	974761076	Skatteetaten	-10116519410
+5542	70	974761076	Skatteetaten	-1905943290
+5542	71	974761076	Skatteetaten	-109821315
+5543	70	974761076	Skatteetaten	-6565324823
+5543	71	974761076	Skatteetaten	-10607357
+5547	70	974761076	Skatteetaten	-8352211
+5547	71	974761076	Skatteetaten	-1356083
+5548	70	974761076	Skatteetaten	-403520526
+5549	70	974761076	Skatteetaten	-49804658
+5550	70	985399077	Mattilsynet	-72592469
+5551	70	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	-1145148
+5551	71	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	-2827669
+5555	70	974761076	Skatteetaten	-1420900449
+5556	70	974761076	Skatteetaten	-2026415410
+5557	70	974761076	Skatteetaten	-203011924
+5559	70	974761076	Skatteetaten	-1717857536
+5559	71	974761076	Skatteetaten	-54105642
+5559	72	974761076	Skatteetaten	-39111616
+5559	73	974761076	Skatteetaten	-7756389
+5559	74	974761076	Skatteetaten	-102113135
+5561	70	974761076	Skatteetaten	-927153280
+5565	70	971040238	Statens kartverk	-8491197755
+5565	70	974761076	Skatteetaten	-9543367
+5568	71	982391490	Lotteri- og stiftelsestilsynet	-24375895
+5568	72	972417866	Kultur- og likestillingsdepartementet	-11130000
+5568	73	982391490	Lotteri- og stiftelsestilsynet	-38409519
+5568	74	974760886	Medietilsynet	-4624575
+5568	75	892211442	Norsk filminstitutt	-21776951
+5568	75	974760886	Medietilsynet	-5815956
+5571	70	986174613	Havindustritilsynet	-84474470
+5572	70	974761122	Statens legemiddelverk	-107784407
+5572	72	974761122	Statens legemiddelverk	-5983775
+5572	73	974761122	Statens legemiddelverk	-120932207
+5574	71	971526157	Patentstyret	-158129594
+5574	72	971203420	Fiskeridirektoratet	-26968057
+5574	73	971203420	Fiskeridirektoratet	-8205412
+5574	74	971203420	Fiskeridirektoratet	-250664313
+5574	75	874761192	Justervesenet	-725398
+5574	75	974761076	Skatteetaten	-41609941
+5576	71	974761076	Skatteetaten	-141832823
+5577	74	874783242	Kystverket	-745905728
+5578	70	991753486	Svalbards miljøvernfond	-19776250
+5578	71	999601391	Miljødirektoratet	-79018000
+5578	72	999601391	Miljødirektoratet	-14542000
+5580	70	840747972	Finanstilsynet	-687426
+5580	70	974761076	Skatteetaten	-341746944
+5582	71	970205039	Norges vassdrags- og energidirektorat	-154110315
+5583	70	972417904	Samferdselsdepartementet	-272091133
+5583	70	974446871	Nasjonal kommunikasjonsmyndighet	-24654869
+5584	70	974761076	Skatteetaten	-844995
+5584	70	985399077	Mattilsynet	-239
+5603	80	970205039	Norges vassdrags- og energidirektorat	-190673
+5603	80	971040238	Statens kartverk	-2251628
+5603	80	971278374	Statsbygg	-72779101
+5603	80	982583462	Statens pensjonskasse	-5034374
+5603	81	971040238	Statens kartverk	1601759
+5603	81	971278374	Statsbygg	1362113
+5603	81	982583462	Statens pensjonskasse	756248
+5605	80	50	Statsregnskapet	-2417
+5605	80	972417807	Finansdepartementet	-199626118
+5605	81	972417920	Utenriksdepartementet	-139612
+5605	82	972417807	Finansdepartementet	-1504264791
+5605	83	872417842	Kunnskapsdepartementet	-403840
+5605	83	912660680	Nærings- og fiskeridepartementet	-267189
+5605	83	915429785	Politi- og lensmannsetaten	-5665
+5605	83	970205039	Norges vassdrags- og energidirektorat	-5379
+5605	83	971032081	Statens vegvesen	-283542
+5605	83	971033533	Jernbaneverket	-44208
+5605	83	971203420	Fiskeridirektoratet	-37099
+5605	83	971277882	Direktoratet for utviklingssamarbeid (NORAD)	-3443662
+5605	83	972417920	Utenriksdepartementet	-4914566
+5605	83	974446871	Nasjonal kommunikasjonsmyndighet	-61893
+5605	83	974761076	Skatteetaten	-18675303
+5605	83	974762501	Statsforvalteren i Vestfold og Telemark	-487
+5605	83	977161630	Energidepartementet	-1017028
+5605	83	981544315	Landbruksdirektoratet	-74601
+5605	83	983544622	Helsedirektoratet	-6619
+5605	83	986105174	Forsvaret	-7258252
+5605	83	998544696	Eksportkreditt Norge AS	-1093296
+5605	84	972417807	Finansdepartementet	-58905235
+5605	84	983887406	Helse- og omsorgsdepartementet	-13223713
+5605	86	972417807	Finansdepartementet	-91680
+5607	80	982583462	Statens pensjonskasse	-1506454712
+5611	85	972417904	Samferdselsdepartementet	-595000000
+5612	81	912660680	Nærings- og fiskeridepartementet	-32486300
+5613	80	912660680	Nærings- og fiskeridepartementet	-22921575
+5615	80	942114184	Husbanken	-3070959753
+5616	85	972417858	Kommunal- og distriktsdepartementet	-417000000
+5617	80	960885406	Statens lånekasse for utdanning	-3473041466
+5619	80	972417904	Samferdselsdepartementet	-71250630
+5622	85	972417904	Samferdselsdepartementet	-500000000
+5624	80	972417904	Samferdselsdepartementet	-43886618
+5625	80	912660680	Nærings- og fiskeridepartementet	-142938173
+5625	81	912660680	Nærings- og fiskeridepartementet	-24417097
+5625	85	912660680	Nærings- og fiskeridepartementet	-189178557
+5625	86	912660680	Nærings- og fiskeridepartementet	-3105000
+5629	80	998544696	Eksportkreditt Norge AS	-1711132243
+5631	85	983887406	Helse- og omsorgsdepartementet	-58531250
+5631	86	983887406	Helse- og omsorgsdepartementet	-2500
+5652	80	972417874	Landbruks- og matdepartementet	-3253333
+5652	85	972417874	Landbruks- og matdepartementet	-10800000
+5656	85	912660680	Nærings- og fiskeridepartementet	-12475366984
+5680	85	977161630	Energidepartementet	-357000000
+5685	85	977161630	Energidepartementet	-10717497974
+5692	85	972417807	Finansdepartementet	-95315226
+5693	85	972417807	Finansdepartementet	-1360000
+5700	71	889640782	Arbeids- og velferdsetaten (NAV)	-1057548132
+5700	71	974761076	Skatteetaten	-132452975355
+5700	71	981544315	Landbruksdirektoratet	-88600000
+5700	72	840747972	Finanstilsynet	-32745339
+5700	72	870917732	Oljedirektoratet	-23123793
+5700	72	870961642	Norges grønne fagskole - Vea	-2220431
+5700	72	872417842	Kunnskapsdepartementet	-27789367
+5700	72	874761192	Justervesenet	-8421554
+5700	72	874783242	Kystverket	-98555508
+5700	72	880455702	Tolletaten	-101836092
+5700	72	881143712	Statens havarikommisjon	-5233579
+5700	72	889640782	Arbeids- og velferdsetaten (NAV)	-963533773
+5700	72	892211442	Norsk filminstitutt	-7423994
+5700	72	911830868	Kriminalomsorgsdirektoratet	-323374219
+5700	72	912660680	Nærings- og fiskeridepartementet	-31763954
+5700	72	914781175	Norges institusjon for menneskerettigheter	-630809
+5700	72	915429785	Politi- og lensmannsetaten	-1290658134
+5700	72	915933149	Direktoratet for e-helse	-29927633
+5700	72	916132727	Valgdirektoratet	-1099060
+5700	72	916195613	Regelrådet	-512796
+5700	72	938966397	Nidaros domkirkes restaureringsarbeider	-4360372
+5700	72	942114184	Husbanken	-27499527
+5700	72	946473111	Fylkesmannen i Buskerud	-12111837
+5700	72	960885406	Statens lånekasse for utdanning	-28179793
+5700	72	961181399	Nasjonalarkivet	-21856678
+5700	72	970018131	Utdanningsdirektoratet	-27769580
+5700	72	970145567	Norsk lyd- og blindeskriftbibliotek	-3759253
+5700	72	970188290	Norges geologiske undersøkelse	-17261444
+5700	72	970205039	Norges vassdrags- og energidirektorat	-51950287
+5700	72	970350934	Fylkesmannen i Oppland	-11350162
+5700	72	970550259	Kirkerådet	-6192400
+5700	72	971022264	Norsk Polarinstitutt	-6832361
+5700	72	971032081	Statens vegvesen	-559844399
+5700	72	971033533	Jernbaneverket	-375940865
+5700	72	971040238	Statens kartverk	-72712292
+5700	72	971203420	Fiskeridirektoratet	-26789548
+5700	72	971277882	Direktoratet for utviklingssamarbeid (NORAD)	-21259570
+5700	72	971278374	Statsbygg	-90039388
+5700	72	971349077	Havforskningsinstituttet	-60087133
+5700	72	971367601	Møre bispedømmeråd	-7573405
+5700	72	971390425	Hovedredningssentralen	-1961004
+5700	72	971513756	Hovedredningssentralen Sør-Norge	-4071909
+5700	72	971524626	Riksmekleren	-575888
+5700	72	971524758	Riksadvokaten	-20880194
+5700	72	971524960	Stortinget	-66389276
+5700	72	971525681	Arbeidsretten	-895426
+5700	72	971526157	Patentstyret	-23590931
+5700	72	971526920	Statistisk sentralbyrå	-63064527
+5700	72	971527072	Generaladvokatembetet	-526103
+5700	72	971527404	Språkrådet	-3050663
+5700	72	971527412	Kulturdirektoratet	-44750678
+5700	72	971527439	Stortingets ombudsnemnd for Forsvaret	-432232
+5700	72	971527765	Barneombudet	-1526976
+5700	72	971551151	Agder og Telemark bispedømmeråd	-12851376
+5700	72	972417777	Statsministerens kontor	-22437059
+5700	72	972417793	Barne- og familiedepartementet	-15702470
+5700	72	972417807	Finansdepartementet	-31418967
+5700	72	972417823	Forsvarsdepartementet	-41049142
+5700	72	972417831	Justis- og beredskapsdepartementet	-40807550
+5700	72	972417858	Kommunal- og distriktsdepartementet	-37788189
+5700	72	972417866	Kultur- og likestillingsdepartementet	-14785708
+5700	72	972417874	Landbruks- og matdepartementet	-13320173
+5700	72	972417882	Klima- og miljødepartementet	-22044871
+5700	72	972417904	Samferdselsdepartementet	-17519936
+5700	72	972417920	Utenriksdepartementet	-173010886
+5700	72	974446871	Nasjonal kommunikasjonsmyndighet	-14106403
+5700	72	974760223	Direktoratet for byggkvalitet	-7359609
+5700	72	974760282	Direktoratet for mineralforvaltning med Bergmesteren for svalbard	-2886523
+5700	72	974760460	Fylkesmannen i Østfold	-11063358
+5700	72	974760533	Borg bispedømmeråd	-13585575
+5700	72	974760665	Statsforvaltaren i Vestland	-16421976
+5700	72	974760673	Registerenheten i Brønnøysund	-15803681
+5700	72	974760746	Utlendingsdirektoratet	-98643718
+5700	72	974760819	Riksantikvaren	-13019834
+5700	72	974760843	Riksrevisjonen	-42642058
+5700	72	974760886	Medietilsynet	-3457727
+5700	72	974760983	Direktoratet for samfunnssikkerhet og beredskap (DSB)	-45652835
+5700	72	974761076	Skatteetaten	-161474017886
+5700	72	974761084	Trygderetten	-7172574
+5700	72	974761114	Kulturtanken - Den kulturelle skolesekken Norge	-5881340
+5700	72	974761122	Statens legemiddelverk	-23990494
+5700	72	974761211	Arbeidstilsynet	-45523807
+5700	72	974761246	Konkurransetilsynet	-9175238
+5700	72	974761262	Sjøfartsdirektoratet	-33556802
+5700	72	974761270	Sivilombudet Stortingets ombud for kontroll med forvaltningen	-5734638
+5700	72	974761319	Statsforvalteren i Østfold, Buskerud, Oslo og Akershus	-27819788
+5700	72	974761335	Forbrukertilsynet	-2091919
+5700	72	974761378	Regjeringsadvokaten	-6656158
+5700	72	974761394	Statens helsetilsyn	-11247092
+5700	72	974761424	Departementenes sikkerhets- og serviceorganisasjon (DSS)	-53300640
+5700	72	974761467	Datatilsynet	-3942336
+5700	72	974761475	Oslo bispedømmeråd	-17687610
+5700	72	974761610	Hamar bispedømmeråd	-10629631
+5700	72	974761645	Statsforvalteren i Innlandet	-10597473
+5700	72	974762498	Tunsberg bispedømmeråd	-12116545
+5700	72	974762501	Statsforvalteren i Vestfold og Telemark	-10160180
+5700	72	974762684	Fylkesmannen i Telemark	-8551380
+5700	72	974762994	Statsforvalteren i Agder	-17187162
+5700	72	974763222	Stavanger bispedømmeråd	-10693312
+5700	72	974763230	Statsforvaltaren i Rogaland	-16056612
+5700	72	974763575	Bjørgvin bispedømeråd	-16009964
+5700	72	974763907	Fylkesmannen i Sogn og Fjordane	-8373715
+5700	72	974764067	Statsforvaltaren i  Møre og Romsdal	-11482334
+5700	72	974764350	Statsforvalteren i Trøndelag	-14149196
+5700	72	974764407	Nidaros bispedømmeråd	-10894542
+5700	72	974764687	Statsforvalteren i Nordland	-7655440
+5700	72	974764709	Sør-Hålogaland bispedømmeråd	-3923237
+5700	72	974764814	Sørsamisk kunnskapspark	-286561
+5700	72	974764946	Nord-Hålogaland bispedømmeråd	-2614509
+5700	72	974770458	Norsk lokalhistorisk institutt	-814638
+5700	72	974772108	Fylkesmannen i Nord-Trøndelag	-10718735
+5700	72	974772124	Fylkesmannen i Troms	-6855636
+5700	72	974778998	Kunst i offentlige rom KORO	-1398542
+5700	72	974788985	Direktoratet for høyere utdanning og kompetanse	-9166302
+5700	72	974907550	Riksteatret	-8054286
+5700	72	975950662	Forsvarsbygg	-113225000
+5700	72	976029100	Nasjonalbiblioteket	-18301916
+5700	72	977161630	Energidepartementet	-15553928
+5700	72	979363974	Statens jernbanetilsyn	-6340424
+5700	72	979529783	Nasjonalt institutt for ernærings- og sjømatforskning (NIFES)	-10589833
+5700	72	980301788	Det praktisk-teologiske seminar	-1015208
+5700	72	980633446	Bioteknologirådet	-743258
+5700	72	981105516	Luftfartstilsynet	-10380836
+5700	72	981544315	Landbruksdirektoratet	-15379616
+5700	72	981965132	Norsk senter for utvekslingssamarbeid (Norec)	-3365250
+5700	72	982019095	Utlendingsnemnda	-24101246
+5700	72	982110777	Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste, EOS-utvalget	-1269548
+5700	72	982391490	Lotteri- og stiftelsestilsynet	-5812145
+5700	72	982583462	Statens pensjonskasse	-1172848539
+5700	72	982965691	Husleietvistutvalget	-2037783
+5700	72	983544622	Helsedirektoratet	-82108856
+5700	72	983744516	Folkehelseinstituttet	-110246185
+5700	72	983887406	Helse- og omsorgsdepartementet	-21736420
+5700	72	983887457	Arbeids- og inkluderingsdepartementet	-18241773
+5700	72	984195796	Domstolene i Norge	-199292506
+5700	72	984936923	Norsk pasientskadeerstatning	-12471456
+5700	72	984936966	Nasjonalt klageorgan for helsetjenesten	-8815259
+5700	72	985042667	Nasjonalt organ for kvalitet i utdanningen NOKUT	-10345592
+5700	72	985165262	Nasjonal sikkerhetsmyndighet (NSM)	-20704813
+5700	72	985211132	Sekretariatet for Markedsrådet og Forbrukerklageutvalget	-985306
+5700	72	985399077	Mattilsynet	-85232962
+5700	72	985847215	Kommisjonen for gjenopptakelse av straffesaker	-1355836
+5700	72	986028307	Norsk Akkreditering	-3486136
+5700	72	986074465	Konfliktrådene	-8806356
+5700	72	986105174	Forsvaret	-1379772749
+5700	72	986128433	Barne-, ungdoms- og familiedirektoratet	-395087509
+5700	72	986174613	Havindustritilsynet	-20901218
+5700	72	986186999	Statens sivilrettsforvaltning	-7613004
+5700	72	986252932	Direktoratet for forvaltning og økonomistyring (DFØ)	-29513360
+5700	72	986965610	Helseøkonomiforvaltningen HELFO	-33862203
+5700	72	987248890	Spesialenheten for politisaker	-3738423
+5700	72	987879696	Integrerings- og mangfoldsdirektoratet (IMDi)	-18451744
+5700	72	988681954	Likestillings- og diskrimineringsnemnda	-487484
+5700	72	989628011	Foreldreutvalget for grunnopplæringen	-991500
+5700	72	990382840	Direktoratet for nødkommunikasjon (DNK)	-11805033
+5700	72	991825827	Direktoratet for forvaltning og IKT (DIFI)	-22780053
+5700	72	992375434	Kompetansesenter for distriktsutvikling	-1938453
+5700	72	994615203	Senter for IKT i utdanningen	-5131653
+5700	72	995710757	Fylkesnemndene for barnevern og sosiale saker	-15629957
+5700	72	998554640	Statped	-51680574
+5700	72	999148603	De nasjonale forskningsetiske komiteene	-1324091
+5700	72	999205437	Klagenemnda for industrielle rettar	-597712
+5700	72	999601391	Miljødirektoratet	-60998257
+5701	71	889640782	Arbeids- og velferdsetaten (NAV)	-938872847
+5701	73	889640782	Arbeids- og velferdsetaten (NAV)	-245156370
+5701	80	889640782	Arbeids- og velferdsetaten (NAV)	-2539616
+5701	86	889640782	Arbeids- og velferdsetaten (NAV)	-804376295
+5701	86	986965610	Helseøkonomiforvaltningen HELFO	-24873517
+5701	87	889640782	Arbeids- og velferdsetaten (NAV)	-35317452
+5701	87	986965610	Helseøkonomiforvaltningen HELFO	-1660002
+5701	88	889640782	Arbeids- og velferdsetaten (NAV)	-65649933
+5704	70	889640782	Arbeids- og velferdsetaten (NAV)	-167874840
+5705	70	889640782	Arbeids- og velferdsetaten (NAV)	-26963811
+5705	71	889640782	Arbeids- og velferdsetaten (NAV)	-200170
+5800	50	50	Statsregnskapet	-212515515000
+5999	90	50	Statsregnskapet	-48239728155

@@ -15,6 +15,9 @@ Legg budsjettdokumenter her, så legges de inn i `budsjett/` automatisk i løpet
 | `gul-bok-ÅR.docx` | Prop. 1 S Gul bok | `budsjett/ÅR/gul-bok/` |
 | `nasjonalbudsjettet-ÅR.docx` | Meld. St. 1 Nasjonalbudsjettet | `budsjett/ÅR/nasjonalbudsjettet/` |
 | `gul-bok-bevilgninger-ÅR.xlsx` | Datagrunnlag til Gul bok (alle departementer, kroner) | `budsjett/ÅR/gul-bok-bevilgninger.tsv` |
+| `statsregnskapet….zip` eller `.csv` | Statsregnskapet fra DFØ (statsregnskapet.dfo.no/last-ned), alle departementer | `budsjett/ÅR/statsregnskap/` for hvert år i filen |
+
+Statsregnskapet lastes ned fra DFØ som zip med rådata. Filnavnet må begynne på `statsregnskapet`, og årene leses fra filen. Hele historikken er for stor til å lastes opp i nettleseren (over 25 MB), så velg bare de årene som er nye eller endret, oftest inneværende og forrige år. Et år som allerede ligger inne, skrives på nytt.
 
 Prop. 1 S for AID kan også lastes opp med originalnavnet fra regjeringen.no, f.eks. `prp202520260001aidddddocx.docx` (eller `asd` for årene før 2022). Budsjettåret er da siste år i sesjonen. Andre dokumenter må døpes om.
 
@@ -25,6 +28,7 @@ Du kan laste opp flere filer samtidig. Tall (datagrunnlaget) kan gå lenger tilb
 ## Hva som skjer
 
 - Word-filene deles i én fil per kapittel eller delkapittel. Selve Word-filen slettes etterpå, siden den ligger på regjeringen.no.
+- Statsregnskapet summeres per kapittel og post, per måned, per artskonto og per virksomhet. Filen slettes etterpå.
 - Excel-filen gjøres om til TSV. Første rad må ha kolonnene `kap_nr`, `post_nr` og `beløp`.
 - `budsjett/VEIVISER.md` får en oversikt over hvilke år som ligger i basen.
 - **Ny versjon:** Last opp en fil med samme navn, så erstattes den gamle mappen.
