@@ -36,6 +36,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 - **Forskrift/instruks:** Stortingets forretningsorden – FOR-2012-06-07-518. Sist endret i kraft: 2025-10-01. Forvaltes av: Stortinget.
 
+## Tolkningskilder i basen
+
+Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

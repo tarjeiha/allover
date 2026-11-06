@@ -32,6 +32,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Lov:** Lov om norsk statsborgerskap (statsborgerloven) – LOV-2005-06-10-51. Sist endret i kraft: 2024-12-20. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften) – FOR-2006-06-30-756. Sist endret i kraft: 2022-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Sivilombudets uttalelser (8 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

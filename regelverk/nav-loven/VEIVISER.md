@@ -5,7 +5,7 @@ Arbeids- og velferdsforvaltningsloven regulerer organiseringen av Arbeids- og ve
 ## Slik bruker du veiviseren
 
 Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-Navs rundskriv til loven (R30-00) ligger under `rundskriv/rundskriv-r30-00/`. Navs interne retningslinjer er ikke i basen.
+Navs interne retningslinjer er ikke i basen.
 
 ## Kjente feller
 
@@ -35,6 +35,13 @@ Navs rundskriv til loven (R30-00) ligger under `rundskriv/rundskriv-r30-00/`. Na
 - **Forskrift:** Forskrift om dispensasjon fra taushetsplikten i arbeids- og velferdsforvaltningsloven § 7. – FOR-2007-04-30-460. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om internrevisjon i Arbeids- og velferdsetaten. – FOR-2006-06-30-745. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om tilgang for Innkrevingsmyndigheten til opplysninger fra Arbeids- og velferdsetaten – FOR-2018-03-13-338. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R30-00) – se «Rundskriv» under «Andre kilder» nederst
+- Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 

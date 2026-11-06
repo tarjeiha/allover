@@ -29,6 +29,13 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv. – FOR-2010-11-30-1494. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om avtalefestet pensjon for medlemmer av Statens pensjonskasse født i 1963 eller senere (ny ordning) – FOR-2024-12-13-3109. Sist endret i kraft: 2026-10-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R62-00) – se «Rundskriv» under «Andre kilder» nederst
+- Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven) (11 filer) – `rundskriv/spk/`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

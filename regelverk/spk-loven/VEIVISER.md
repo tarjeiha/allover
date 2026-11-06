@@ -5,7 +5,7 @@ Loven regulerer tjenestepensjon for statsansatte og andre medlemmer av Statens p
 ## Slik bruker du veiviseren
 
 Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-SPKs informasjon til medlemmene ligger under `rundskriv/spk/` og er informasjon, ikke tolkning av loven, mens SPKs saksbehandlingspraksis og tolkningsuttalelser om loven ikke er i basen. Det er heller ikke privat AFP og AFP-tilskottsloven, pensjonsordningene for sykepleiere og for apotekvirksomhet, kommunale og fylkeskommunale tjenestepensjonsordninger (KLP m.fl.), pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer, høyesterettspensjonsloven, yrkesskadeforsikringsloven, obligatorisk tjenestepensjon og foretaks- og innskuddspensjon. Flere av dem nevnes i paragrafene.
+SPKs informasjon til medlemmene er informasjon, ikke tolkning av loven. Privat AFP og AFP-tilskottsloven, pensjonsordningene for sykepleiere og for apotekvirksomhet, kommunale og fylkeskommunale tjenestepensjonsordninger (KLP m.fl.), pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer, høyesterettspensjonsloven, yrkesskadeforsikringsloven, obligatorisk tjenestepensjon og foretaks- og innskuddspensjon er ikke i basen. Flere av dem nevnes i paragrafene.
 
 ## Kjente feller
 
@@ -48,6 +48,13 @@ SPKs informasjon til medlemmene ligger under `rundskriv/spk/` og er informasjon,
 - **Forskrift:** Forskrift om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015 – FOR-2014-07-03-949. Sist endret i kraft: 2025-02-27. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør – FOR-2014-11-26-1467. Sist endret i kraft: 2026-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om opptjening av pensjonsrettigheter i lovfestet offentlig tjenestepensjonsordning for personer som har midlertidig uførepensjon og uførepensjon – FOR-2015-06-19-710. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+- Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven) (112 filer) – `rundskriv/spk/`
 
 ## Vedtatte endringer som ikke er i kraft
 

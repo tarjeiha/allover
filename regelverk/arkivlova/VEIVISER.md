@@ -28,6 +28,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Forskrift:** Forskrift om dokumentasjon og arkiv (arkivforskrifta) – FOR-2025-12-17-2647. Forvaltes av: Kultur- og likestillingsdepartementet.
 - **Forskrift:** Forskrift om kva dokumentasjon som skal takast vare på for ettertida (bevaringsforskrifta) – FOR-2025-12-19-2729. Sist endret i kraft: 2026-01-07. Forvaltes av: Kultur- og likestillingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

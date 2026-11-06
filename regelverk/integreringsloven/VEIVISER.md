@@ -2,7 +2,7 @@
 
 Integreringsloven regulerer tidlig kvalifisering, introduksjonsprogram og introduksjonsstønad, opplæring i norsk og samfunnskunnskap og kommunens og fylkeskommunens ansvar. Integreringsforskriften utfyller det meste av loven. Tre læreplanforskrifter fastsetter innholdet i opplæringen, og egne overgangsregler gjelder kapittel 6A og § 20 fjerde ledd.
 
-Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. IMDis veileder til integreringsloven og IMDis andre veiledere om regelverket ligger under `rundskriv/imdi/`. Veiledninger til læreplanene, prøveinstrukser, HK-dirs fortolkninger og andre tolkningsuttalelser ligger ikke i basen.
+Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Veiledninger til læreplanene, prøveinstrukser og HK-dirs fortolkninger ligger ikke i basen.
 
 ## Slik bruker du veiviseren
 
@@ -40,6 +40,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Overgangsregler om integreringsloven kapittel 6A – FOR-2022-06-10-995. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Overgangsregel om integreringsloven § 20 fjerde ledd – FOR-2024-06-25-1215. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A) – FOR-2026-06-12-1077. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- IMDis veiledere og rundskriv (22 filer) – `rundskriv/imdi/`
 
 ## Vedtatte endringer som ikke er i kraft
 

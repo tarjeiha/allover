@@ -90,6 +90,13 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften) – FOR-2016-06-03-569. Sist endret i kraft: 2024-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
 - **Forskrift:** Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer – FOR-2003-06-30-911. Sist endret i kraft: 2019-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Arbeidstilsynets kommentarer til forskriftene (509 filer) – `rundskriv/arbeidstilsynet/`
+- Sivilombudets uttalelser (35 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

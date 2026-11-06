@@ -27,6 +27,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om språk (språklova) – LOV-2021-05-21-42. Sist endret i kraft: 2025-07-01. Forvaltes av: Kultur- og likestillingsdepartementet.
 - **Forskrift:** Forskrift om målbruk i offentleg teneste – FOR-1980-12-05-4938. Sist endret i kraft: 1989-12-22. Forvaltes av: Kultur- og likestillingsdepartementet.
 
+## Tolkningskilder i basen
+
+Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

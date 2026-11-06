@@ -39,6 +39,12 @@ Fellene under gjelder arbeidsinnvandring og EØS-reglene.
 - **Lov:** Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven) – LOV-2008-05-15-35. Sist endret i kraft: 2026-10-01. Forvaltes av: Justis- og beredskapsdepartementet.
 - **Forskrift:** Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) – FOR-2009-10-15-1286. Sist endret i kraft: 2026-10-19. Forvaltes av: Arbeids- og inkluderingsdepartementet Justis- og beredskapsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Sivilombudets uttalelser (50 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.

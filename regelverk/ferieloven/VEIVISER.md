@@ -2,7 +2,7 @@
 
 Ferieloven sikrer arbeidstakere årlig feriefritid og feriepenger. Den regulerer feriens lengde, opptjeningsår og ferieår, feriefastsetting, ferie under sykdom, permisjon og arbeidskamp, og beregning og utbetaling av feriepenger. Forskriftene gjelder ferie på Svalbard, ferie for arbeidstakere på skip (Nærings- og fiskeridepartementet) og delegering av myndighet.
 
-Loven forvaltes av Arbeids- og inkluderingsdepartementet. Arbeidstilsynets veiledning og departementets fortolkningsuttalelser er ikke i basen. Ferievilkårene er i praksis ofte avtaleregulert på toppen av loven, og av tariffavtalene er bare Hovedtariffavtalen i staten i basen.
+Loven forvaltes av Arbeids- og inkluderingsdepartementet. Ferievilkårene er i praksis ofte avtaleregulert på toppen av loven, og av tariffavtalene er bare Hovedtariffavtalen i staten i basen.
 
 ## Slik bruker du veiviseren
 
@@ -33,6 +33,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om anvendelse av ferieloven på Svalbard – FOR-2021-11-26-3291. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om ferie for arbeidstakere på skip – FOR-1989-12-22-1285. Sist endret i kraft: 2017-08-07. Forvaltes av: Nærings- og fiskeridepartementet.
 - **Forskrift:** Delegering av myndighet til Arbeids- og administrasjonsdepartementet og Fiskeridepartementet. – FOR-1998-06-18-585. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
+## Tolkningskilder i basen
+
+Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
 ## Vedtatte endringer som ikke er i kraft
 

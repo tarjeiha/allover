@@ -35,7 +35,8 @@ AVSENDER = re.compile(
 IKKE_I_BASEN = r"(?:er\s+)?(?:\*\*)?ikke(?:\*\*)?\s+(?:i\s+basen|dekket|med\s+i\s+basen|lagt\s+inn)"
 
 
-# Tolkningskilde -> test på mappene under regelverk/<lov>/rundskriv/.
+# Tolkningskilde -> test på mappene under regelverk/<lov>/rundskriv/. Navnene som vises i veiviseren,
+# står i TOLKNINGSKILDER i verktoy/bygg.py. Legg til begge steder når en ny kilde kommer inn.
 KILDER = [
     (re.compile(r"\bIMDis?\b|Integrerings- og mangfoldsdirektorat"), lambda d: d.name == "imdi"),
     (re.compile(r"\bUdirs?\b|Utdanningsdirektorat"), lambda d: d.name == "udir"),
@@ -47,6 +48,13 @@ KILDER = [
      lambda d: d.name.startswith("rundskriv-r")),
 ]
 MANGLER = re.compile(r"ikke\s+(?:med\s+)?i\s+basen|ikke\s+dekket", re.I)
+
+
+def kjente_tolkningskilder() -> set:
+    """Mappenavnene i TOLKNINGSKILDER i bygg.py, lest som tekst så sjekken ikke trenger byggets avhengigheter."""
+    tekst = (ROT / "verktoy" / "bygg.py").read_text(encoding="utf-8")
+    m = re.search(r"^TOLKNINGSKILDER = \{(.*?)^\}", tekst, re.S | re.M)
+    return set(re.findall(r'^\s*"([\w-]+)":', m.group(1), re.M)) if m else set()
 
 
 def tolkningskilder(mappe: Path) -> list:
@@ -147,6 +155,11 @@ def sjekk() -> list:
                         if k and any(test(d) for d in mapper):
                             funn.append(f"{rel}:{nr}: sier at «{k.group(0)}» ikke er i basen, "
                                         "men regelverket har en mappe for den under rundskriv/")
+    kjente = kjente_tolkningskilder()
+    for d in sorted((ROT / "regelverk").glob("*/rundskriv/*/")):
+        if d.is_dir() and not d.name.startswith("rundskriv-") and d.name not in kjente | {"forskrifter"}:
+            funn.append(f"{d.relative_to(ROT).as_posix()}/: ny tolkningskilde uten navn i TOLKNINGSKILDER i "
+                        "verktoy/bygg.py og KILDER i verktoy/sjekk_tekst.py")
     for fil in avsenderfiler():
         rel = fil.relative_to(ROT).as_posix()
         for nr, linje in enumerate(handskrevet(fil).splitlines(), 1):

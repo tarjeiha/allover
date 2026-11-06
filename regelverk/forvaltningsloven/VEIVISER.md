@@ -33,6 +33,13 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) – LOV-1967-02-10. Sist endret i kraft: 2026-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
 - **Forskrift:** Forskrift til forvaltningsloven (forvaltningslovforskriften) – FOR-2006-12-15-1456. Sist endret i kraft: 2025-11-14. Forvaltes av: Justis- og beredskapsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R36-00) – se «Rundskriv» under «Andre kilder» nederst
+- Sivilombudets uttalelser (859 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.

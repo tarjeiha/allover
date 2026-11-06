@@ -2,7 +2,7 @@
 
 Lov om arbeidsmarkedstjenester regulerer arbeidsmarkedstiltak og ytelser til deltakere, registrering som arbeidssøker, arbeidsgivers meldeplikt ved masseoppsigelser og permitteringer, privat arbeidsformidling og utleie av arbeidstakere, tilbakekreving og utestengning. Elleve forskrifter utfyller loven. Tiltaksforskriften er den viktigste. De andre gjelder blant annet tiltakspenger, tilleggsstønader, arbeids- og utdanningsreiser, politiattest, forlengelse av fristen ved masseoppsigelser og tre tidsavgrensede forsøk og pilotprosjekter. Loven forvaltes av Arbeids- og inkluderingsdepartementet.
 
-Navs rundskriv til loven (R76-00), til § 8 om meldeplikt ved masseoppsigelser og permitteringer (R76-08-01) og de utfyllende reglene til tiltaksforskriften (R76-12-01) ligger under `rundskriv/`. Mye av det som avgjør hvem som får plass på et tiltak, står der og ikke i forskriften. Navs interne retningslinjer og anskaffelsesregelverket for kjøp av tiltaksplasser er ikke i basen.
+Mye av det som avgjør hvem som får plass på et tiltak, står i Navs rundskriv og ikke i forskriften. Navs interne retningslinjer og anskaffelsesregelverket for kjøp av tiltaksplasser er ikke i basen.
 
 ## Slik bruker du veiviseren
 
@@ -45,6 +45,13 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om forsøk med fireårig lønnstilskudd for unge – FOR-2026-02-04-163. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om pilotprosjekt med oppfølging av deltakere i varig tilrettelagt arbeid i ordinær virksomhet – FOR-2024-07-02-1800. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om forlengelse av fristen for masseoppsigelsers virkning – FOR-2026-10-11-2047. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R76-00, R76-08-01, R76-12-01) – se «Rundskriv» under «Andre kilder» nederst
+- Sivilombudets uttalelser (3 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
