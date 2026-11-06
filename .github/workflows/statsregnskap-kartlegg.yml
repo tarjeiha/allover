@@ -1,0 +1,61 @@
+name: Kartlegg statsregnskapet (midlertidig)
+
+# Midlertidig: finner Meld. St. 3 (Statsrekneskapen) hos Stortinget og prøver kildene for selve tabellene.
+# Skriver bare til loggen. Fjernes før fletting.
+on:
+  push:
+    branches: ["claude/**"]
+    paths: [".github/workflows/statsregnskap-kartlegg.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  kartlegg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kartlegg
+        shell: python
+        run: |
+          import json, re, urllib.request
+          UA = {"User-Agent": "allover-kartlegging (github.com/tarjeiha/allover)"}
+          def hent(url, n=None):
+              try:
+                  r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60)
+                  b = r.read(n) if n else r.read()
+                  return r.status, r.headers.get("Content-Type", ""), b
+              except Exception as e:
+                  return getattr(e, "code", str(e)), "", b""
+          API = "https://data.stortinget.no/eksport"
+          lenker = set()
+          for ses in ["2021-2022", "2022-2023", "2023-2024", "2024-2025", "2025-2026", "2026-2027"]:
+              s, _, b = hent(f"{API}/saker?sesjonid={ses}&format=json")
+              if s != 200:
+                  print(ses, "saker:", s); continue
+              d = json.loads(b.decode("utf-8-sig"))
+              for sak in d.get("saker_liste", []):
+                  t = (sak.get("tittel") or "") + " " + (sak.get("korttittel") or "")
+                  if re.search(r"statsrekneskap|statsregnskap", t, re.I):
+                      print(f"\n== {ses} sak {sak['id']}: {sak.get('korttittel')} | {sak.get('henvisning')} | {sak.get('status')}")
+                      s2, _, b2 = hent(f"{API}/sak?sakid={sak['id']}&format=json")
+                      if s2 == 200:
+                          dd = json.loads(b2.decode("utf-8-sig"))
+                          for p in dd.get("publikasjon_referanse_liste", []) or []:
+                              print("  pub:", p.get("type"), p.get("eksport_id"), p.get("lenke_tekst"), p.get("lenke_url"))
+                              if p.get("lenke_url"):
+                                  lenker.add(p["lenke_url"])
+          print("\n== Prøver lenkene")
+          for u in sorted(lenker)[:20]:
+              s, ct, b = hent(u, 3000)
+              print(s, ct, u)
+          print("\n== DFØ / statsregnskapet.no")
+          for u in ["https://www.statsregnskapet.no/", "https://statsregnskapet.no/api/v1/graf/1",
+                    "https://www.dfo.no/statsregnskapet", "https://www.dfo.no/fagomrader/statsregnskapet",
+                    "https://www.dfo.no/sitemap.xml", "https://statsregnskapet.no/sitemap.xml"]:
+              s, ct, b = hent(u, 200000)
+              print(s, ct, u)
+              txt = b.decode("utf-8", "replace")
+              for m in sorted(set(re.findall(r'href="([^"]+\.(?:xlsx|csv|zip|json)[^"]*)"', txt)))[:20]:
+                  print("   fil:", m)
+              for m in sorted(set(re.findall(r'https?://[^"\s<]*(?:statsregnskap|kapittel|rekneskap)[^"\s<]*', txt, re.I)))[:30]:
+                  print("   lenke:", m)
