@@ -48,7 +48,7 @@ jobs:
       - name: Hent avgjørelsene
         env:
           TVING: ${{ inputs.tving && '--tving' || '' }}
-        run: python3 verktoy/hoyesterett_hent.py --maks 1500 $TVING
+        run: python3 verktoy/hoyesterett_hent.py --maks 1500 --minutter 100 $TVING
 
       - name: Lagre
         # Lagrer også når én kilde feilet, så de andre ikke må hentes på nytt.
