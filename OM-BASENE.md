@@ -41,14 +41,14 @@ Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn 
 ## Hva som ligger i den åpne basen
 
 <!-- AUTO-START: genereres av verktoy/om_basene.py, ikke rediger for hånd -->
-Oversikten ble sist laget 2026-11-05.
+Oversikten ble sist laget 2026-11-06.
 
 ### Regelverk
 
-- **33 lover og instrukser** med 251 forskrifter: Offentleglova, AFP-loven for medlemmer av Statens pensjonskasse, Aldersgrenseloven for statsansatte, Allmenngjøringsloven, Arbeidsmarkedsloven, Arbeidsmiljøloven, Arbeidstvistloven, Arkivlova, Diskrimineringsombudsloven, Ferieloven, Folketrygdloven, Forvaltningsloven, Forvaltningsloven 2025 (ny lov, ikke i kraft), Integreringsloven, Karanteneloven, Likestillings- og diskrimineringsloven, Lov om Statens pensjonskasse, Lønnsgarantiloven, NAV-loven, Opplæringslova, Permitteringslønnsloven, Personopplysningsloven, Samordningsloven, Sosialtjenesteloven, Språklova, Statsansatteloven, Statsborgerloven, Tjenestetvistloven, Tolkeloven, Universitets- og høyskoleloven, Utlendingsloven, Utredningsinstruksen og Stortingets forretningsorden.
+- **33 lover og instrukser** med 254 forskrifter: Offentleglova, AFP-loven for medlemmer av Statens pensjonskasse, Aldersgrenseloven for statsansatte, Allmenngjøringsloven, Arbeidsmarkedsloven, Arbeidsmiljøloven, Arbeidstvistloven, Arkivlova, Diskrimineringsombudsloven, Ferieloven, Folketrygdloven, Forvaltningsloven, Forvaltningsloven 2025 (ny lov, ikke i kraft), Integreringsloven, Karanteneloven, Likestillings- og diskrimineringsloven, Lov om Statens pensjonskasse, Lønnsgarantiloven, NAV-loven, Opplæringslova, Permitteringslønnsloven, Personopplysningsloven, Samordningsloven, Sosialtjenesteloven, Språklova, Statsansatteloven, Statsborgerloven, Tjenestetvistloven, Tolkeloven, Universitets- og høyskoleloven, Utlendingsloven, Utredningsinstruksen og Stortingets forretningsorden.
 - **Hovedtariffavtalen i staten**, 1. mai 2026 – 30. april 2028.
 - **21 EU-rettsakter** (forordninger og direktiver fra EUR-Lex).
-- **86 rundskriv** og veiledninger til lovene, blant dem Navs rundskriv til folketrygdloven.
+- **104 rundskriv** og veiledninger til lovene, blant dem Navs rundskriv til folketrygdloven.
 - **Stortinget:** se eget avsnitt under.
 
 Lov- og forskriftsteksten hentes fra Lovdata hver natt.
@@ -76,10 +76,10 @@ Budsjettdokumentene lastes opp for hånd. Stortingets vedtak hentes hver uke.
 
 ### Stortinget
 
-Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-05:
+Fra sesjon 2013-2014 til 2026-2027, oppdatert 2026-11-06:
 
 - **4 088 anmodningsvedtak**
-- **40 159 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
+- **40 203 spørsmål** (skriftlige spørsmål, spørretime og interpellasjoner)
 - **2 831 representantforslag** med utfall
 
 ### Politiske grunnlagsdokumenter
