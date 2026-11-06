@@ -2,7 +2,7 @@
 
 Tolkeloven regulerer offentlige organers ansvar for å bruke tolk, krav om kvalifisert tolk, fjerntolking, forbud mot å bruke barn som tolk, krav til tolken om god tolkeskikk, taushetsplikt og habilitet, og Nasjonalt tolkeregister med statsautorisasjon og reaksjoner. Tolkeforskriften utfyller loven, blant annet om god tolkeskikk og registeret.
 
-Loven trådte i kraft i 2022 og innførte blant annet et generelt krav om kvalifisert tolk, så eldre kunnskap om tolking i offentlig sektor kan være utdatert. IMDis veiledning og departementets fortolkninger ligger ikke i basen. Det gjør heller ikke sektorlovene, som pasient- og brukerrettighetsloven, domstolloven og straffeprosessloven.
+Loven trådte i kraft i 2022 og innførte blant annet et generelt krav om kvalifisert tolk, så eldre kunnskap om tolking i offentlig sektor kan være utdatert. IMDis veiledning om tolkeloven ligger under `rundskriv/imdi/`. Andre tolkningsuttalelser ligger ikke i basen. Det gjør heller ikke sektorlovene, som pasient- og brukerrettighetsloven, domstolloven og straffeprosessloven.
 
 ## Slik bruker du veiviseren
 

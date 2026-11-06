@@ -2723,5 +2723,5 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/arbeidstilsynet/produsentforskriften/` – 14 filer, start med `rundskriv/arbeidstilsynet/produsentforskriften/oversikt.md`
 - `rundskriv/arbeidstilsynet/tiltaks-og-grenseverdier/` – 14 filer, start med `rundskriv/arbeidstilsynet/tiltaks-og-grenseverdier/oversikt.md`
 - `rundskriv/arbeidstilsynet/utforelse-av-arbeid/` – 296 filer, start med `rundskriv/arbeidstilsynet/utforelse-av-arbeid/oversikt.md`
-- `rundskriv/sivilombudet/` – 34 filer
+- `rundskriv/sivilombudet/` – 35 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

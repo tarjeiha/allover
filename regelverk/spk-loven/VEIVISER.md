@@ -5,7 +5,7 @@ Loven regulerer tjenestepensjon for statsansatte og andre medlemmer av Statens p
 ## Slik bruker du veiviseren
 
 Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-SPKs praksis og departementets tolkningsuttalelser er ikke i basen. Det er heller ikke privat AFP og AFP-tilskottsloven, pensjonsordningene for sykepleiere og for apotekvirksomhet, kommunale og fylkeskommunale tjenestepensjonsordninger (KLP m.fl.), pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer, høyesterettspensjonsloven, yrkesskadeforsikringsloven, obligatorisk tjenestepensjon og foretaks- og innskuddspensjon. Flere av dem nevnes i paragrafene.
+SPKs informasjon til medlemmene ligger under `rundskriv/spk/` og er informasjon, ikke tolkning av loven, mens SPKs saksbehandlingspraksis og tolkningsuttalelser om loven ikke er i basen. Det er heller ikke privat AFP og AFP-tilskottsloven, pensjonsordningene for sykepleiere og for apotekvirksomhet, kommunale og fylkeskommunale tjenestepensjonsordninger (KLP m.fl.), pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer, høyesterettspensjonsloven, yrkesskadeforsikringsloven, obligatorisk tjenestepensjon og foretaks- og innskuddspensjon. Flere av dem nevnes i paragrafene.
 
 ## Kjente feller
 
@@ -345,7 +345,7 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
-- `rundskriv/sivilombudet/` – 1 filer
+- `rundskriv/sivilombudet/` – 2 filer, start med `rundskriv/sivilombudet/oversikt.md`
 - `rundskriv/spk/alderspensjon/` – 63 filer, start med `rundskriv/spk/alderspensjon/oversikt.md`
 - `rundskriv/spk/etterlattepensjon/` – 7 filer, start med `rundskriv/spk/etterlattepensjon/oversikt.md`
 - `rundskriv/spk/medlemskap-i-spk/` – 7 filer, start med `rundskriv/spk/medlemskap-i-spk/oversikt.md`

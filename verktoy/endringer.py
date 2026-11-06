@@ -129,7 +129,16 @@ def _henvisninger(sti: Path) -> tuple:
     soup = BeautifulSoup(sti.read_text(encoding="utf-8"), "lxml")
 
     def hrefs(node):
-        return {a["href"].split("#")[0] for a in node.find_all("a", href=True)}
+        # «Endret ved …» viser til endringer som er tatt inn. «Endres ved …» viser til vedtatte endringer
+        # som ikke er i kraft, og de lenkene skal ikke regnes som tatt inn.
+        ut, tatt_inn = set(), True
+        for del_ in node.descendants:
+            if isinstance(del_, NavigableString):
+                for m in re.finditer(r"\bEndre([ts])\s+ved\b", str(del_)):
+                    tatt_inn = m.group(1) == "t"
+            elif del_.name == "a" and del_.get("href") and tatt_inn:
+                ut.add(del_["href"].split("#")[0])
+        return ut
 
     per_par = {}
     for art in soup.find_all("article", class_="legalArticle"):

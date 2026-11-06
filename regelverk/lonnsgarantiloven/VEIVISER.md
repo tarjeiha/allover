@@ -14,7 +14,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Garantien bygger på dekningsloven.** Kravene dekkes i den utstrekning de har fortrinnsrett etter dekningsloven kapittel 9, med begrensningene i § 1 tredje ledd. Dekningsloven og konkursloven er ikke i basen. Si fra når spørsmålet gjelder hvilke krav som har fortrinnsrett.
 - **Beløpsgrensen er knyttet til grunnbeløpet.** Garantien er begrenset til to ganger folketrygdens grunnbeløp på fristdagen (§ 1 tredje ledd nr. 1). Oppgi ikke et kronebeløp fra hukommelsen. Gjeldende G finnes via `regelverk/folketrygdloven/VEIVISER.md`.
 - **Feriepenger dekkes innenfor egne grenser.** Garantien omfatter feriepenger (§ 1 andre ledd), men bare feriepenger opptjent i året for fristdagen og året før (§ 1 tredje ledd nr. 3). Opptjeningen følger ferieloven, se `regelverk/ferieloven/VEIVISER.md`.
-- **Sjekk forskriften.** Søknadsfrister og saksbehandling står i forskrift om statsgaranti for lønnskrav ved konkurs (bl.a. kapittel 3 om søknad og § 3-4 om søknadsfrister), ikke i loven. NAV Lønnsgarantis retningslinjer og Arbeids- og velferdsdirektoratets rundskriv er ikke i basen.
+- **Sjekk forskriften.** Søknadsfrister og saksbehandling står i forskrift om statsgaranti for lønnskrav ved konkurs (bl.a. kapittel 3 om søknad og § 3-4 om søknadsfrister), ikke i loven. Navs rundskriv til loven (R67-00) ligger under `rundskriv/rundskriv-r67-00/`, men NAV Lønnsgarantis interne retningslinjer er ikke i basen.
 
 ## Merknader og andre kilder
 
@@ -130,5 +130,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r67-00/` – 15 filer, start med `rundskriv/rundskriv-r67-00/oversikt.md`
-- `rundskriv/sivilombudet/` – 1 filer
+- `rundskriv/sivilombudet/` – 2 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->
