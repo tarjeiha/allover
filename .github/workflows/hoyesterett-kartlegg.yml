@@ -17,7 +17,7 @@ jobs:
       - name: Kartlegg
         shell: python
         run: |
-          import re, urllib.request
+          import re, urllib.request, urllib.parse
           UA = {"User-Agent": "allover-kartlegging (github.com/tarjeiha/allover)"}
           def hent(url, n=None):
               try:
@@ -38,29 +38,24 @@ jobs:
               if utdrag:
                   print("   TEKST:", tekst(b)[:utdrag])
               return t
-          s, ct, b, eff = hent("https://www.domstol.no/sitemap.xml")
-          t = b.decode("utf-8", "replace")
-          locs = re.findall(r"<loc>([^<]+)</loc>", t)
-          print("sitemap-adresser:", len(locs), "lastmod:", len(re.findall("<lastmod>", t)))
-          hr = [l for l in locs if "/hoyesterett/" in l]
-          print("under /hoyesterett/:", len(hr))
-          from collections import Counter
-          c = Counter("/".join(l.split("/")[:7]) for l in hr)
-          for k, v in c.most_common(40): print("  ", v, k)
-          av = [l for l in hr if "avgjorelser" in l]
-          print("avgjorelser:", len(av))
-          for l in av[:15] + av[-15:]: print("   ", l)
-          print("sitemap-blokk eksempel:", re.findall(r"<url>.{0,400}?avgjorelser.{0,300}?</url>", t, re.S)[:2])
-          side = "https://www.domstol.no/no/hoyesterett/avgjorelser/avgjorelser-2026/"
-          s, ct, b, eff = hent(side)
-          h = b.decode("utf-8", "replace")
-          print("\n##### rå HTML avgjorelser-2026", s, len(h))
-          for x in sorted(set(re.findall(r'(?:href|src|data-[a-z-]+)="([^"]+)"', h)))[:150]: print("   ", x)
-          for x in sorted(set(re.findall(r'["\'](/api/[^"\']+)["\']', h))): print("   API:", x)
-          print("   pdf-treff:", len(re.findall(r"\.pdf", h)), "HR-treff:", re.findall(r"HR-20\d\d-\d+-[A-Z]", h)[:10])
-          i = h.find("<body"); print(h[i:i+4000])
-          for k in ["vilkar", "vilkår", "personvern", "informasjonskapsler", "tilgjengelighet", "om-domstol", "presse", "publisering", "anonym"]:
-              print(k, [l for l in locs if k in l.lower()][:6])
+          for side in ["https://www.domstol.no/no/hoyesterett/avgjorelser/avgjorelser-2026/hoyesterett---straff/HR-2026-2054-A/",
+                       "https://www.domstol.no/no/hoyesterett/avgjorelser/2016/hoyesterettsankeutvalg-sivil/delvis-anonymisering-av-dom/"]:
+              s_, ct, b_, eff = hent(side)
+              h = b_.decode("utf-8", "replace")
+              print("\n##### rå HTML", s_, len(h), side)
+              for x in sorted(set(re.findall(r'(?:href|src)="([^"]+)"', h))):
+                  if "spaview" not in x: print("   ", x)
+              i = h.find('<main'); print(re.sub(r"\s+", " ", h[i:i+6000]))
+              print("   jsonld/state:", re.findall(r'(?:__INITIAL|window\.__|application/(?:ld\+)?json)[^<]{0,300}', h)[:5])
+          s_, ct, b_, eff = hent("https://www.domstol.no/spaview/app.html.spa/scripts/main.9a058e68.js")
+          j = b_.decode("utf-8", "replace"); print("\n##### main.js", s_, len(j))
+          for x in sorted(set(re.findall(r'["\'`](/(?:api|find_v2|contentapi|headless)[^"\'`\s]{0,150})', j)))[:60]: print("   api:", x)
+          for x in sorted(set(re.findall(r'https?://[a-z0-9.-]*domstol[^"\'`\s]{0,120}', j)))[:30]: print("   url:", x)
+          for u in ["https://www.domstol.no/no/hoyesterett/VERKTOY/personvern/", "https://www.domstol.no/no/hoyesterett/nyhet/2019/raskere-publisering-av-nye-avgjorelser-og-tilgang-til-sluttinnlegg/"]:
+              s_, ct, b_, eff = hent(u); h = b_.decode("utf-8","replace"); i = h.find('<main')
+              print("\n#####", s_, u); print(tekst(h[i:i+20000].encode())[:4000])
+          for u in ["https://www.domstol.no/api/episerver/v3.0/content?contentUrl=" + urllib.parse.quote("https://www.domstol.no/no/hoyesterett/avgjorelser/avgjorelser-2026/hoyesterett---straff/HR-2026-2054-A/") + "&expand=*"]:
+              s_, ct, b_, eff = hent(u); print("\n##### API-prøve", s_, ct, len(b_)); print(b_[:3000].decode("utf-8","replace"))
           raise SystemExit(0)
           for u in ["https://www.domstol.no/robots.txt", "https://lovdata.no/robots.txt"]:
               s, ct, b, eff = hent(u)
