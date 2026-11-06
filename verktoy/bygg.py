@@ -281,6 +281,7 @@ def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
 # Tolkningskilder under <lov>/rundskriv/: mappe -> navnet kilden oppgis med i svar.
 TOLKNINGSKILDER = {
     "arbeidstilsynet": "Arbeidstilsynets kommentarer til forskriftene",
+    "hoyesterett": "Høyesteretts avgjørelser fra november 2021 (rettspraksis)",
     "imdi": "IMDis veiledere og rundskriv",
     "personalhandboka": "Statens personalhåndbok",
     "sivilombudet": "Sivilombudets uttalelser",
