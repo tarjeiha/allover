@@ -58,7 +58,7 @@ RAPPORT = ROT / "hoyesterett-rapport.txt"
 FRA_DATO = "2021-11-01"
 KARANTENE_DAGER = 92
 # Øk når konverteringen endres, så alle avgjørelsene hentes og skrives på nytt.
-FORMAT = 2
+FORMAT = 3
 KOLONNER = ["side", "lastmod", "hr", "dato", "fil", "lover", "omtale", "sjekksum", "lagt_inn"]
 MÅNEDER = {m: i for i, m in enumerate(["januar", "februar", "mars", "april", "mai", "juni", "juli", "august",
                                        "september", "oktober", "november", "desember"], 1)}
@@ -137,7 +137,7 @@ def hent_pdf(url: str) -> str:
                     nå = []
                 continue
             # Nummererte avsnitt i Høyesteretts avgjørelser begynner med «(12)».
-            if re.match(r"\(\d{1,3}\)\s", l) and nå:
+            if re.match(r"\(\d{1,3}\)(\s|$)", l) and nå:
                 avsnitt.append(nå)
                 nå = []
             nå.append(l)
