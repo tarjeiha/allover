@@ -45,6 +45,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter – FOR-2024-10-21-2545. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien – FOR-2024-10-21-2535. Sist endret i kraft: 2025-06-15. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Arbeidstilsynets kommentarer til forskriftene (12 filer) – `rundskriv/arbeidstilsynet/`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

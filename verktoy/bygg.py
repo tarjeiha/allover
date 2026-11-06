@@ -278,6 +278,54 @@ def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
     return ut
 
 
+# Tolkningskilder under <lov>/rundskriv/: mappe -> navnet kilden oppgis med i svar.
+TOLKNINGSKILDER = {
+    "arbeidstilsynet": "Arbeidstilsynets kommentarer til forskriftene",
+    "imdi": "IMDis veiledere og rundskriv",
+    "personalhandboka": "Statens personalhåndbok",
+    "sivilombudet": "Sivilombudets uttalelser",
+    "spk": "Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven)",
+    "udir": "Utdanningsdirektoratets rundskriv og veiledere",
+}
+
+
+def tolkningskilder(mappe: Path) -> list:
+    """Kort liste øverst i veiviseren over tolkningskildene som ligger i basen, laget fra mappene.
+    Står det ingenting her, finnes det ingen. Håndskrevet tekst skal ikke gjenta eller motsi listen."""
+    rot = mappe / "rundskriv"
+    hode = ["## Tolkningskilder i basen", ""]
+    if not rot.is_dir():
+        return hode + ["Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen "
+                       "og EU-rettsaktene har egne veivisere.", ""]
+    ut = []
+    nav = sorted("R" + d.name.removeprefix("rundskriv-r") for d in rot.iterdir()
+                 if d.is_dir() and d.name.startswith("rundskriv-r"))
+    if nav or (rot / "forskrifter").is_dir():
+        koder = ", ".join(nav[:12]) + (f" og {len(nav) - 12} til" if len(nav) > 12 else "")
+        tekst = f"Navs rundskriv ({koder})" if nav else "Navs rundskriv"
+        if (rot / "forskrifter").is_dir():
+            tekst += (" og " if nav else " med ") + "Navs kommentarer til forskrifter"
+        ut.append(f"- {tekst} – se «Rundskriv» under «Andre kilder» nederst")
+    for d in sorted(rot.iterdir()):
+        if not d.is_dir() or d.name.startswith("rundskriv-r") or d.name == "forskrifter":
+            continue
+        navn = TOLKNINGSKILDER.get(d.name)
+        if not navn:
+            første = next(iter(sorted(d.rglob("*.md"))), None)
+            m = re.search(r'^rundskriv:\s*"([^"]+)"', første.read_text(encoding="utf-8"), re.M) if første else None
+            navn = m.group(1) if m else d.name
+        filer = [f for f in d.rglob("*.md") if "original" not in f.parts]
+        start = d / "oversikt.md"
+        hint = f"start med `{start.relative_to(mappe).as_posix()}`" if start.exists() else f"`{d.relative_to(mappe).as_posix()}/`"
+        ut.append(f"- {navn} ({len(filer)} filer) – {hint}")
+    if not ut:
+        return hode + ["Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen "
+                       "og EU-rettsaktene har egne veivisere.", ""]
+    return hode + ["Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra "
+                   "mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og "
+                   "EU-rettsaktene har egne veivisere.", ""] + ut + [""]
+
+
 def rundskriv_per_paragraf(mappe: Path) -> dict:
     """Paragraf-slug -> rundskrivfiler som kommenterer den paragrafen i loven (fra innboksen)."""
     kart = {}
@@ -454,7 +502,7 @@ def main() -> int:
                 ut.append("")
             return ut
 
-        linjer += [""] + endringsavsnitt
+        linjer += [""] + tolkningskilder(mappe) + endringsavsnitt
         linjer += ["## Innhold", ""]
         linjer += liste(lov["navn"], kapitler, er_loven=True)
         for navn, fkap in forskriftsblokker:

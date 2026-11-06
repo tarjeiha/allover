@@ -29,6 +29,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 
 - **Lov:** Lov om saksbehandlingen i offentlig forvaltning (forvaltningsloven) – LOV-2025-06-20-81. **Ikke i kraft:** Kongen bestemmer. Forvaltes av: Justis- og beredskapsdepartementet.
 
+## Tolkningskilder i basen
+
+Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

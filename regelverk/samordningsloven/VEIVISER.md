@@ -67,6 +67,12 @@ De fleste detaljreglene står i forskriftene. Sjekk alltid årstall og virkeomr�
 - **Forskrift:** Forskrift om unntak i samordningsberegningen for inntekt som stammer fra tjeneste i forbindelse med covid-19 – FOR-2020-12-04-2590. Sist endret i kraft: 2021-03-31. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om samordningsgaranti ved innføring av etterlattereformen i folketrygden fra 1. januar 2024 – FOR-2023-12-20-2233. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R80-10, R80-15) – se «Rundskriv» under «Andre kilder» nederst
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

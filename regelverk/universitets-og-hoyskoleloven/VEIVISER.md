@@ -40,6 +40,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring – FOR-2017-11-08-1846. Forvaltes av: Kunnskapsdepartementet.
 - **Forskrift:** Forskrift om enkelte klagenemnder på Kunnskapsdepartementets område – FOR-2025-07-02-1462. Sist endret i kraft: 2026-08-01. Forvaltes av: Kunnskapsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Sivilombudets uttalelser (9 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.

@@ -29,6 +29,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Lov:** Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven) – LOV-2017-06-16-50. Sist endret i kraft: 2026-01-01. Forvaltes av: Kultur- og likestillingsdepartementet.
 - **Forskrift:** Forskrift om organisasjon, oppgaver og saksbehandling for Diskrimineringsnemnda – FOR-2017-12-20-2260. Sist endret i kraft: 2022-05-13. Forvaltes av: Kultur- og likestillingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

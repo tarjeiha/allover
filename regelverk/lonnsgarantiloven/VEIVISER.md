@@ -14,7 +14,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Garantien bygger på dekningsloven.** Kravene dekkes i den utstrekning de har fortrinnsrett etter dekningsloven kapittel 9, med begrensningene i § 1 tredje ledd. Dekningsloven og konkursloven er ikke i basen. Si fra når spørsmålet gjelder hvilke krav som har fortrinnsrett.
 - **Beløpsgrensen er knyttet til grunnbeløpet.** Garantien er begrenset til to ganger folketrygdens grunnbeløp på fristdagen (§ 1 tredje ledd nr. 1). Oppgi ikke et kronebeløp fra hukommelsen. Gjeldende G finnes via `regelverk/folketrygdloven/VEIVISER.md`.
 - **Feriepenger dekkes innenfor egne grenser.** Garantien omfatter feriepenger (§ 1 andre ledd), men bare feriepenger opptjent i året for fristdagen og året før (§ 1 tredje ledd nr. 3). Opptjeningen følger ferieloven, se `regelverk/ferieloven/VEIVISER.md`.
-- **Sjekk forskriften.** Søknadsfrister og saksbehandling står i forskrift om statsgaranti for lønnskrav ved konkurs (bl.a. kapittel 3 om søknad og § 3-4 om søknadsfrister), ikke i loven. Navs rundskriv til loven (R67-00) ligger under `rundskriv/rundskriv-r67-00/`, men NAV Lønnsgarantis interne retningslinjer er ikke i basen.
+- **Sjekk forskriften.** Søknadsfrister og saksbehandling står i forskrift om statsgaranti for lønnskrav ved konkurs (bl.a. kapittel 3 om søknad og § 3-4 om søknadsfrister), ikke i loven. NAV Lønnsgarantis interne retningslinjer er ikke i basen.
 
 ## Merknader og andre kilder
 
@@ -31,6 +31,13 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om avskrivning av statens krav etter lønnsgarantiordningen – FOR-1981-01-05-8825. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om delegering av myndighet til Kommunaldepartementet etter lov om statsgaranti ved konkurs m.v. – FOR-1985-09-20-1711. **Ikke i kraft:** ukjent dato. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om statsgaranti for lønnskrav ved konkurs m.v. – FOR-1998-10-28-999. Sist endret i kraft: 2026-04-09. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R67-00) – se «Rundskriv» under «Andre kilder» nederst
+- Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 

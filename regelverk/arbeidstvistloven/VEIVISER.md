@@ -38,6 +38,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 - **Lov:** Lov om arbeidstvister (arbeidstvistloven) – LOV-2012-01-27-9. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

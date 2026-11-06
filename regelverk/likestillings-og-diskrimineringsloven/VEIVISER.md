@@ -30,6 +30,10 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Merkn
 - **Forskrift:** Forskrift om representasjon av begge kjønn i statlige utvalg, styrer, råd, delegasjoner m.v. – regler om håndheving og rapportering – FOR-1996-02-02-110. Sist endret i kraft: 2022-04-20. Forvaltes av: Kultur- og likestillingsdepartementet.
 - **Forskrift:** Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger – FOR-2013-06-21-732. Sist endret i kraft: 2023-02-01. Forvaltes av: Digitaliserings- og forvaltningsdepartementet.
 
+## Tolkningskilder i basen
+
+Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

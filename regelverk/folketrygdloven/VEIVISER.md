@@ -130,6 +130,13 @@ Ikke gjett stien. Slå opp paragrafen i `indeks.tsv` på roten, der alle rundskr
 - **Forskrift:** Forskrift om utvidet stønad til helsetjenester under opphold i utlandet – FOR-1997-04-30-391. Sist endret i kraft: 2021-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet.
 - **Forskrift:** Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 15, 16 og 17 fra 1. januar 2016 – FOR-2015-07-02-869. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R01-00, R02-00, R03-00, R03-01, R03-02, R03-03, R03-04, R03-05, R04-00, R05-00, R05-01a, R05-02 og 62 til) og Navs kommentarer til forskrifter – se «Rundskriv» under «Andre kilder» nederst
+- Sivilombudets uttalelser (74 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

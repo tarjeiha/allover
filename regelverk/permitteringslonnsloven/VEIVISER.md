@@ -32,6 +32,12 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Lov:** Lov om lønnsplikt under permittering (permitteringslønnsloven) – LOV-1988-05-06-22. Sist endret i kraft: 2022-03-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 - **Forskrift:** Forskrift om lønnsplikt under permittering – FOR-2016-06-21-764. Sist endret i kraft: 2026-09-02. Forvaltes av: Arbeids- og inkluderingsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Navs rundskriv (R37-00) – se «Rundskriv» under «Andre kilder» nederst
+
 ## Vedtatte endringer som ikke er i kraft
 
 Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.

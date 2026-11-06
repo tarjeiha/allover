@@ -33,6 +33,13 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 - **Forskrift:** Forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) – FOR-2024-06-03-900. Sist endret i kraft: 2026-08-01. Forvaltes av: Kunnskapsdepartementet.
 - **Forskrift:** Forskrift om overordna mål og prinsipp for grunnskoleopplæringa og den vidaregåande opplæringa – FOR-2026-05-22-871. Forvaltes av: Kunnskapsdepartementet.
 
+## Tolkningskilder i basen
+
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- Sivilombudets uttalelser (55 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+- Utdanningsdirektoratets rundskriv og veiledere (263 filer) – `rundskriv/udir/`
+
 ## Vedtatte endringer som ikke er i kraft
 
 Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
