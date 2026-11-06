@@ -42,7 +42,7 @@ KILDER = [
     (re.compile(r"\bUdirs?\b|Utdanningsdirektorat"), lambda d: d.name == "udir"),
     (re.compile(r"\bSPKs?\b|Statens pensjonskasses?\b"), lambda d: d.name == "spk"),
     (re.compile(r"Sivilombud"), lambda d: d.name == "sivilombudet"),
-    (re.compile(r"Høyesterett|rettspraksis", re.I), lambda d: d.name == "hoyesterett"),
+    (re.compile(r"\bHøyesteretts?\b|\brettspraksis\b", re.I), lambda d: d.name == "hoyesterett"),
     (re.compile(r"Arbeidstilsynet"), lambda d: d.name == "arbeidstilsynet"),
     (re.compile(r"personalhåndbok", re.I), lambda d: d.name == "personalhandboka"),
     (re.compile(r"(?:\bNAVs?|\bNavs?|Arbeids- og velferdsdirektoratets?)\b[^.]*\brundskriv"),

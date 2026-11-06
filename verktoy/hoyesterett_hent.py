@@ -58,7 +58,7 @@ RAPPORT = ROT / "hoyesterett-rapport.txt"
 FRA_DATO = "2021-11-01"
 KARANTENE_DAGER = 92
 # Øk når konverteringen endres, så alle avgjørelsene hentes og skrives på nytt.
-FORMAT = 1
+FORMAT = 2
 KOLONNER = ["side", "lastmod", "hr", "dato", "fil", "lover", "omtale", "sjekksum", "lagt_inn"]
 MÅNEDER = {m: i for i, m in enumerate(["januar", "februar", "mars", "april", "mai", "juni", "juli", "august",
                                        "september", "oktober", "november", "desember"], 1)}
@@ -151,8 +151,20 @@ def hent_pdf(url: str) -> str:
                 t = t[:-1] + l
             else:
                 t = f"{t} {l}" if t else l
-        ut.append(re.sub(r"\s+", " ", t).strip())
-    return "\n\n".join(t for t in ut if t)
+        t = re.sub(r"\s+", " ", t).strip()
+        if not t:
+            continue
+        forrige = ut[-1] if ut else ""
+        if re.fullmatch(r"\(\d{1,3}\)", forrige):
+            # Avsnittsnummeret står alene på linjen i PDF-en: «(8)» + teksten blir «(8) Teksten».
+            ut[-1] = f"{forrige} {t}"
+        elif forrige and not re.match(r"\(\d{1,3}\)", t) and not re.search(r"[.!?:;»”)]$", forrige) \
+                and re.match(r"[a-zæøå§\d(–-]", t):
+            # Avsnitt som er delt midt i en setning (sideskift eller tom linje i PDF-en).
+            ut[-1] = f"{forrige} {t}"
+        else:
+            ut.append(t)
+    return "\n\n".join(ut)
 
 
 def iso(tekst: str) -> str:
@@ -282,6 +294,11 @@ def main() -> int:
             datetime.date.fromisoformat(gammel["dato"]) + datetime.timedelta(KARANTENE_DAGER) <= idag
         if gammel.get("lastmod") == lastmod and not venter and not args.tving:
             continue
+        if gammel and not gammel.get("fil") and gammel.get("lastmod", "").split("|")[0] == rå and not args.tving:
+            # Avgjørelser som ble hoppet over (for gamle eller uten lov fra basen), hentes ikke på nytt
+            # bare fordi formatet er endret.
+            gammel["lastmod"] = lastmod
+            continue
         if (args.maks and hentet >= args.maks) or (frist and time.monotonic() > frist):
             break
         hentet += 1
@@ -329,9 +346,11 @@ def main() -> int:
             gammel_fil.unlink()
         form = re.match(r"Høyesteretts(?: ankeutvalgs)?\s+(\w+)", s["første"])
         form = form.group(1) if form else "avgjørelse"
+        dato_tekst = re.search(r"\d{1,2}\.\s*[a-zæøå]+\s+\d{4}", s["første"])
+        dato_tekst = dato_tekst.group(0) if dato_tekst else s["dato"]
         hode = "\n".join([
             "---",
-            f'rundskriv: "Høyesteretts {form} {s["dato"]} ({hr})"',
+            f'rundskriv: "Høyesteretts {"ankeutvalgs " if hr.endswith("-U") else ""}{form} {dato_tekst} ({hr})"',
             'utgiver: "Høyesterett"',
             f'lov: "{lov["navn"]}"',
             *([f'lover: "{"; ".join(andre)}"'] if andre else []),
