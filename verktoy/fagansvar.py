@@ -29,7 +29,7 @@ ROT = Path(__file__).resolve().parent.parent
 CODEOWNERS = ROT / ".github" / "CODEOWNERS"
 ETIKETT = "regelverksendring"
 MAKS_VIST = 12
-# Mappene under rundskriv/ som verktoy/nettsider_hent.py skriver, med navnet i varselet.
+# Mappene under rundskriv/ og rettspraksis/ som hentes automatisk, med navnet i varselet.
 NETTSIDER = {"udir": "Udirs rundskriv og veiledere", "imdi": "IMDis veiledere",
              "spk": "Informasjon fra Statens pensjonskasse", "sivilombudet": "Sivilombudets uttalelser",
              "hoyesterett": "Høyesteretts avgjørelser"}
@@ -114,12 +114,14 @@ def type_for(sti: str) -> str | None:
     if "/rundskriv/personalhandboka/" in sti:
         return None if sti.endswith("/oversikt.md") else "Statens personalhåndbok"
     for mappe, navn in NETTSIDER.items():
-        if f"/rundskriv/{mappe}/" in sti:
+        if f"/rundskriv/{mappe}/" in sti or f"/rettspraksis/{mappe}/" in sti:
             return navn
     if "/rundskriv/arbeidstilsynet/" in sti:
         return "Arbeidstilsynets kommentarer"
     if "/rundskriv/" in sti:
         return "Rundskriv"
+    if "/rettspraksis/" in sti:
+        return "Rettspraksis"
     if "/merknader/" in sti:
         return "Merknader"
     if "/original/" in sti:

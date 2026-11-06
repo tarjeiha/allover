@@ -93,7 +93,7 @@ def oppsummer() -> tuple[str, bool, bool]:
         if "/vedtatte-endringer/" in sti:
             per[mappe]["vedtatt"].append(tittel_for(sti))
             continue
-        if "/merknader/" in sti or "/rundskriv/" in sti:
+        if "/merknader/" in sti or "/rundskriv/" in sti or "/rettspraksis/" in sti:
             oversikt.add(sti)
             continue
         type_ = {"A": "ny", "D": "borte"}.get(status, "endret")

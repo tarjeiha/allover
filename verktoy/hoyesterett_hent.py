@@ -15,9 +15,9 @@ Bruk:
    PDF-en gjøres om til tekst med pdftotext (poppler-utils).
 3. Avgjørelsen kobles til lovene i basen som nevnes med paragraf («arbeidsmiljøloven § 15-7»), slik
    Sivilombudets uttalelser gjør. Den legges under loven som nevnes oftest, i
-   regelverk/<lov>/rundskriv/hoyesterett/<HR-nummer>.md, og de andre lovene står i `lover:` øverst.
+   regelverk/<lov>/rettspraksis/hoyesterett/<HR-nummer>.md, og de andre lovene står i `lover:` øverst.
    Avgjørelser som nevner lover i basen bare én gang og ikke i rettsområdet, hoppes over.
-4. Skriver regelverk/<lov>/rundskriv/hoyesterett/oversikt.md med alle avgjørelsene under loven.
+4. Skriver regelverk/<lov>/rettspraksis/hoyesterett/oversikt.md med alle avgjørelsene under loven.
 
 Personvern: Parts- og advokatlinjen i omtalen tas ikke med. Høyesterett kan i en kort periode vise navn
 i omtalen «av informasjonshensyn» og fjerner dem innen tre måneder. Ser tittelen eller sammendraget ut
@@ -230,7 +230,7 @@ def mulige_navn(tekst: str) -> list:
 
 def skriv_oversikter() -> int:
     mønstre = paragrafmønstre()
-    mapper = sorted({f.parent for f in (ROT / "regelverk").glob("*/rundskriv/hoyesterett/*.md")})
+    mapper = sorted({f.parent for f in (ROT / "regelverk").glob("*/rettspraksis/hoyesterett/*.md")})
     for mappe in mapper:
         lovmappe = mappe.parent.parent.relative_to(ROT).as_posix()
         mønster = mønstre.get(lovmappe)
@@ -336,7 +336,7 @@ def main() -> int:
         holdt = ung and bool(navn)
         type_ = TYPER.get(hr[-1], "")
         tittel = s["rettsområde"].split(".")[0].strip() or hr if holdt else s["tittel"] or hr
-        fil = f"{hoved}/rundskriv/hoyesterett/{hr}.md"
+        fil = f"{hoved}/rettspraksis/hoyesterett/{hr}.md"
         innhold = {"s": s, "tekst": tekst, "holdt": holdt}
         sjekksum = hashlib.sha256(json.dumps(innhold, ensure_ascii=False).encode()).hexdigest()[:16]
         if gammel.get("sjekksum") == sjekksum and gammel.get("fil") == fil and (ROT / fil).exists() and not args.tving:
