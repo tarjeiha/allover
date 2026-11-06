@@ -26,6 +26,27 @@ jobs:
                   return r.status, r.headers.get("Content-Type", ""), b
               except Exception as e:
                   return getattr(e, "code", str(e)), "", b""
+          import re as _re
+          def lenker_i(url, mønster):
+              s, ct, b = hent(url)
+              print(s, ct, len(b), url)
+              t = b.decode("utf-8", "replace")
+              for m in sorted(set(_re.findall(r'href="([^"]+)"', t))):
+                  if _re.search(mønster, m, _re.I):
+                      print("   ", m)
+              return t
+          base = "https://www.dfo.no/fagomrader/statlig-regnskap/rapportering-til-statsregnskapet/manedlige-rapporter-fra-statsregnskapet"
+          lenker_i(base, r"manedlige|\.xlsx|\.pdf|\.csv|statsregnskap|qlik")
+          lenker_i(base + "/manedlige-rapporter-2021", r"\.xlsx|\.pdf|\.csv|/sites/|download|media")
+          lenker_i("https://www.dfo.no/kundesider/kundenotater/delarsrekneskapsrapportane-er-oppdaterte", r"\.xlsx|\.pdf|statsregnskap|qlik|rekneskap")
+          for u in ["http://www.regjeringen.no/id/STM202420250003000DDDEPIS", "https://www.regjeringen.no/no/dokumenter/meld.-st.-3-20242025/id3094566/"]:
+              s, ct, b = hent(u, 5000)
+              print(s, ct, u)
+          s, ct, b = hent("https://data.stortinget.no/eksport/publikasjon?publikasjonid=inns-202425-499s")
+          t = b.decode("utf-8", "replace")
+          print("innst", s, len(t), "kap-treff:", len(_re.findall(r"\bkap\.?\s*\d{3,4}", t)))
+          print(_re.sub(r"<[^>]+>", " ", t)[:3000])
+          raise SystemExit(0)
           API = "https://data.stortinget.no/eksport"
           lenker = set()
           for ses in ["2021-2022", "2022-2023", "2023-2024", "2024-2025", "2025-2026", "2026-2027"]:
