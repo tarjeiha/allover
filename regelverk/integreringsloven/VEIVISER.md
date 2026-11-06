@@ -2,7 +2,7 @@
 
 Integreringsloven regulerer tidlig kvalifisering, introduksjonsprogram og introduksjonsstønad, opplæring i norsk og samfunnskunnskap og kommunens og fylkeskommunens ansvar. Integreringsforskriften utfyller det meste av loven. Tre læreplanforskrifter fastsetter innholdet i opplæringen, og egne overgangsregler gjelder kapittel 6A og § 20 fjerde ledd.
 
-Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. Rundskriv og veiledning fra IMDi og departementet, veiledninger til læreplanene, prøveinstrukser og HK-dirs fortolkninger ligger ikke i basen.
+Loven er endret ofte, blant annet med kapittel 6A om fordrevne fra Ukraina. IMDis veileder til integreringsloven og IMDis andre veiledere om regelverket ligger under `rundskriv/imdi/`. Veiledninger til læreplanene, prøveinstrukser, HK-dirs fortolkninger og andre tolkningsuttalelser ligger ikke i basen.
 
 ## Slik bruker du veiviseren
 

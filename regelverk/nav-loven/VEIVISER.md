@@ -5,7 +5,7 @@ Arbeids- og velferdsforvaltningsloven regulerer organiseringen av Arbeids- og ve
 ## Slik bruker du veiviseren
 
 Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
-NAVs rundskriv til loven er ikke i basen. Spørsmål om hvordan skjønnet praktiseres, kan bare besvares på ordlydsnivå.
+Navs rundskriv til loven (R30-00) ligger under `rundskriv/rundskriv-r30-00/`. Navs interne retningslinjer er ikke i basen.
 
 ## Kjente feller
 
@@ -177,5 +177,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/rundskriv-r30-00/` – 9 filer, start med `rundskriv/rundskriv-r30-00/oversikt.md`
-- `rundskriv/sivilombudet/` – 1 filer
+- `rundskriv/sivilombudet/` – 2 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

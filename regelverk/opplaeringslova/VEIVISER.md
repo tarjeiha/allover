@@ -715,7 +715,7 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
-- `rundskriv/sivilombudet/` – 54 filer
+- `rundskriv/sivilombudet/` – 55 filer, start med `rundskriv/sivilombudet/oversikt.md`
 - `rundskriv/udir/arbeid-med-elevrad/` – 1 filer, start med `rundskriv/udir/arbeid-med-elevrad/oversikt.md`
 - `rundskriv/udir/artikler-tema/` – 1 filer, start med `rundskriv/udir/artikler-tema/oversikt.md`
 - `rundskriv/udir/barn-som-ikke-moter-pa-skolen/` – 1 filer, start med `rundskriv/udir/barn-som-ikke-moter-pa-skolen/oversikt.md`

@@ -2,7 +2,7 @@
 
 Lov om arbeidsmarkedstjenester regulerer arbeidsmarkedstiltak og ytelser til deltakere, registrering som arbeidssøker, arbeidsgivers meldeplikt ved masseoppsigelser og permitteringer, privat arbeidsformidling og utleie av arbeidstakere, tilbakekreving og utestengning. Elleve forskrifter utfyller loven. Tiltaksforskriften er den viktigste. De andre gjelder blant annet tiltakspenger, tilleggsstønader, arbeids- og utdanningsreiser, politiattest, forlengelse av fristen ved masseoppsigelser og tre tidsavgrensede forsøk og pilotprosjekter. Loven forvaltes av Arbeids- og inkluderingsdepartementet.
 
-Arbeids- og velferdsdirektoratets rundskriv (blant annet tiltaksgjennomføringsrundskrivet) og NAVs interne retningslinjer er ikke i basen. Det er et reelt hull: mye av det som avgjør hvem som får plass på et tiltak, står i rundskriv og ikke i forskrift. Anskaffelsesregelverket for kjøp av tiltaksplasser er heller ikke i basen.
+Navs rundskriv til loven (R76-00), til § 8 om meldeplikt ved masseoppsigelser og permitteringer (R76-08-01) og de utfyllende reglene til tiltaksforskriften (R76-12-01) ligger under `rundskriv/`. Mye av det som avgjør hvem som får plass på et tiltak, står der og ikke i forskriften. Navs interne retningslinjer og anskaffelsesregelverket for kjøp av tiltaksplasser er ikke i basen.
 
 ## Slik bruker du veiviseren
 
@@ -463,5 +463,5 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/rundskriv-r76-00/` – 7 filer, start med `rundskriv/rundskriv-r76-00/oversikt.md`
 - `rundskriv/rundskriv-r76-08-01/` – 3 filer, start med `rundskriv/rundskriv-r76-08-01/oversikt.md`
 - `rundskriv/rundskriv-r76-12-01/` – 98 filer, start med `rundskriv/rundskriv-r76-12-01/oversikt.md`
-- `rundskriv/sivilombudet/` – 2 filer
+- `rundskriv/sivilombudet/` – 3 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

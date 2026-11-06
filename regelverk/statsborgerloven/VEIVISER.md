@@ -248,5 +248,5 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
-- `rundskriv/sivilombudet/` – 7 filer
+- `rundskriv/sivilombudet/` – 8 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

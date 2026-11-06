@@ -4,6 +4,9 @@
 Sjekker at
 - stier i `backticks` finnes (relativt til roten, regelverksmappen eller filens mappe),
 - ingen tekst sier at et regelverk som er i regelverk.json, «ikke er i basen» eller «ikke er dekket»,
+- ingen veiviser sier at en tolkningskilde (IMDi, Udir, SPK, Sivilombudet, Arbeidstilsynet, Statens
+  personalhåndbok, Navs rundskriv) ikke er i basen når regelverket har en mappe for den under rundskriv/.
+  Nevner setningen selv stien til mappen, godtas den («… ligger under `rundskriv/spk/`, men praksis er ikke i basen»),
 - ingen håndskrevet tekst har departementsnavnet som avsender: «AID», «ASD», skillnavn med «aid-»
   eller uttrykk som «tekst fra departementet» og «departementets vurdering». Repoet er åpent og skal ikke
   se ut som noe et departement har publisert. Når lovteksten selv sier «departementet», er det greit,
@@ -30,6 +33,27 @@ AVSENDER = re.compile(
     r"|\bdepartementets\s+(?:vurdering|føring|skriveregler|interne|egne|mål|budsjett)"
     r"|\bdepartementet\s+(?:har\s+valgt|mener|vil)\b")
 IKKE_I_BASEN = r"(?:er\s+)?(?:\*\*)?ikke(?:\*\*)?\s+(?:i\s+basen|dekket|med\s+i\s+basen|lagt\s+inn)"
+
+
+# Tolkningskilde -> test på mappene under regelverk/<lov>/rundskriv/.
+KILDER = [
+    (re.compile(r"\bIMDis?\b|Integrerings- og mangfoldsdirektorat"), lambda d: d.name == "imdi"),
+    (re.compile(r"\bUdirs?\b|Utdanningsdirektorat"), lambda d: d.name == "udir"),
+    (re.compile(r"\bSPKs?\b|Statens pensjonskasses?\b"), lambda d: d.name == "spk"),
+    (re.compile(r"Sivilombud"), lambda d: d.name == "sivilombudet"),
+    (re.compile(r"Arbeidstilsynet"), lambda d: d.name == "arbeidstilsynet"),
+    (re.compile(r"personalhåndbok", re.I), lambda d: d.name == "personalhandboka"),
+    (re.compile(r"(?:\bNAVs?|\bNavs?|Arbeids- og velferdsdirektoratets?)\b[^.]*\brundskriv"),
+     lambda d: d.name.startswith("rundskriv-r")),
+]
+MANGLER = re.compile(r"ikke\s+(?:med\s+)?i\s+basen|ikke\s+dekket", re.I)
+
+
+def tolkningskilder(mappe: Path) -> list:
+    rot = mappe / "rundskriv"
+    if not rot.is_dir():
+        return []
+    return [d for d in rot.rglob("*") if d.is_dir()]
 
 
 def handskrevet(fil: Path) -> str:
@@ -113,6 +137,16 @@ def sjekk() -> list:
                 funn.append(f"{rel}:{nr}: «{m.group(0).strip()}», men {m.group(1)} er i basen")
             if a := AVSENDER.search(linje):
                 funn.append(f"{rel}:{nr}: «{a.group(0)}» viser et departement som avsender")
+            if fil.name == "VEIVISER.md":
+                mapper = tolkningskilder(regelverksmappe(fil))
+                for setning in re.split(r"(?<=[.!?])\s+", linje):
+                    if not MANGLER.search(setning) or "rundskriv/" in setning:
+                        continue
+                    for kilde, test in KILDER:
+                        k = kilde.search(setning)
+                        if k and any(test(d) for d in mapper):
+                            funn.append(f"{rel}:{nr}: sier at «{k.group(0)}» ikke er i basen, "
+                                        "men regelverket har en mappe for den under rundskriv/")
     for fil in avsenderfiler():
         rel = fil.relative_to(ROT).as_posix()
         for nr, linje in enumerate(handskrevet(fil).splitlines(), 1):

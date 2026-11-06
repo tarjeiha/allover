@@ -169,5 +169,5 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
-- `rundskriv/sivilombudet/` – 14 filer
+- `rundskriv/sivilombudet/` – 15 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

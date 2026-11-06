@@ -125,5 +125,5 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/personalhandboka/` – 164 filer, start med `rundskriv/personalhandboka/oversikt.md`
-- `rundskriv/sivilombudet/` – 6 filer
+- `rundskriv/sivilombudet/` – 7 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

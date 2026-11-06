@@ -15,6 +15,9 @@ Bruk:
    Den legges under loven som nevnes oftest, i regelverk/<lov>/rundskriv/sivilombudet/<navn>.md,
    og de andre lovene står i `lover:` øverst i filen. Uttalelser uten lov fra basen hoppes over.
 
+4. Skriver regelverk/<lov>/rundskriv/sivilombudet/oversikt.md med alle uttalelsene under loven:
+   dato, saksnummer, tittel og hvilke paragrafer i loven som nevnes. Veiviseren viser dit.
+
 Skriver sivilombudet-rapport.txt (commit-melding og sammendrag) når noe er endret.
 Sivilombudet tillater automatisk henting (robots.txt). Skriptet henter én side om gangen med pause.
 """
@@ -118,6 +121,74 @@ def les_uttalelse(side: str) -> dict | None:
             "dato": dato, "saksnummer": saksnr, "tekst": nett.markdown(kropp)}
 
 
+def paragrafmønstre() -> dict:
+    """Lovmappe -> regex som fanger paragrafnummeret i «<navn> § 25» og «<navn> §§ 24 og 25»."""
+    ut = {}
+    for mappe, (lov, _) in lovmønstre().items():
+        navn = [re.split(r"\s*\(", lov["navn"])[0].lower()] + ALIAS.get(mappe, [])
+        navn = sorted({n.rstrip(".") for n in navn if len(n) > 3}, key=len, reverse=True)
+        alt = "|".join(re.escape(n) + r"s?\.?" for n in navn)
+        nr = r"\d+(?:\s?-\s?\d+)?(?:[a-z]|\s[a-h])?(?![\w-])"
+        ut[mappe] = re.compile(rf"(?<![\w-])(?:{alt})\s+§§?\s*({nr}(?:\s*(?:,|og|og/eller|jf\.)\s*{nr})*)", re.I)
+    return ut
+
+
+def paragrafnøkkel(nr: str) -> tuple:
+    deler = re.findall(r"\d+|[a-z]", nr)
+    return tuple((0, int(d)) if d.isdigit() else (1, d) for d in deler)
+
+
+def les_hode(tekst: str) -> dict:
+    hode = {}
+    if tekst.startswith("---"):
+        for linje in tekst.split("---", 2)[1].splitlines():
+            if ":" in linje:
+                k, v = linje.split(":", 1)
+                hode[k.strip()] = v.strip().strip('"')
+    m = re.search(r"^# (.+)$", tekst, re.M)
+    hode["tittel"] = m.group(1).strip() if m else ""
+    return hode
+
+
+def skriv_oversikter() -> int:
+    """Skriver oversikt.md i hver mappe med uttalelser. Returnerer antall mapper."""
+    mønstre = paragrafmønstre()
+    mapper = sorted({f.parent for f in (ROT / "regelverk").glob("*/rundskriv/sivilombudet/*.md")})
+    for mappe in mapper:
+        lovmappe = mappe.parent.parent.relative_to(ROT).as_posix()
+        mønster = mønstre.get(lovmappe)
+        rader = []
+        for f in sorted(mappe.glob("*.md")):
+            if f.name == "oversikt.md":
+                continue
+            tekst = f.read_text(encoding="utf-8")
+            h = les_hode(tekst)
+            paragrafer = set()
+            for m in mønster.finditer(tekst) if mønster else []:
+                for nr in re.findall(r"\d+(?:\s?-\s?\d+)?(?:[a-z]|\s[a-h])?(?![\w-])", m.group(1)):
+                    paragrafer.add(re.sub(r"\s", "", nr))
+            par = ", ".join(f"§ {p}" for p in sorted(paragrafer, key=paragrafnøkkel))
+            rader.append((h.get("dato", ""), h.get("saksnummer", ""), h["tittel"].replace("|", "/"),
+                          par, h.get("lover", "").replace(";", ","), f.name))
+        rader.sort(key=lambda r: r[0], reverse=True)
+        lov = rader and les_hode((mappe / rader[0][5]).read_text(encoding="utf-8")).get("lov", "") or lovmappe
+        linjer = [
+            f"# Sivilombudets uttalelser om {lov[0].lower() + lov[1:] if ' ' not in lov and lov[1:2].islower() else lov}",
+            "",
+            f"{len(rader)} uttalelser fra {FRA_ÅR} og senere der loven nevnes med paragraf, nyeste først. "
+            "Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i uttalelsen. Uttalelser som nevner "
+            "denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen "
+            "«Også». Uttalelsene er ikke bindende, men tillegges stor vekt i forvaltningen.",
+            "",
+            "Søk i tabellen etter paragraf eller stikkord i tittelen, og åpne filen før du bruker uttalelsen.",
+            "",
+            "| Dato | Sak | Tittel | Paragrafer | Også | Fil |",
+            "|---|---|---|---|---|---|",
+        ] + [f"| {d} | {s} | {t} | {p} | {o} | `{fil}` |" for d, s, t, p, o, fil in rader]
+        (mappe / "oversikt.md").write_text("\n".join(linjer) + "\n", encoding="utf-8")
+    return len(mapper)
+
+
 def iso(dato: str) -> str:
     d, m, å = dato.split(".")
     return f"{å}-{int(m):02d}-{int(d):02d}"
@@ -127,7 +198,11 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--tving", action="store_true", help="hent alle på nytt")
     ap.add_argument("--maks", type=int, default=0, help="stans etter så mange hentinger (0 = ingen grense)")
+    ap.add_argument("--bare-oversikt", action="store_true", help="skriv bare oversikt.md, uten å hente")
     args = ap.parse_args()
+    if args.bare_oversikt:
+        print(f"Skrev oversikt for {skriv_oversikter()} lover")
+        return 0
 
     idag = datetime.date.today().isoformat()
     lover = lovmønstre()
@@ -200,6 +275,7 @@ def main() -> int:
             borte.append(rad["fil"])
 
     skriv_status(status)
+    skriv_oversikter()
     gjenstår = sum(1 for s, l in sider.items() if status.get(s, {}).get("lastmod") != f"{l}|v{nett.FORMAT}")
     print(f"Hentet {hentet}. Nye: {len(nye)}, endret: {len(endret)}, borte: {len(borte)}, gjenstår: {gjenstår}")
     if nye or endret or borte:
