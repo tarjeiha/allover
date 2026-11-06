@@ -35,7 +35,7 @@ AVSENDER = re.compile(
 IKKE_I_BASEN = r"(?:er\s+)?(?:\*\*)?ikke(?:\*\*)?\s+(?:i\s+basen|dekket|med\s+i\s+basen|lagt\s+inn)"
 
 
-# Tolkningskilde -> test på mappene under regelverk/<lov>/rundskriv/. Navnene som vises i veiviseren,
+# Tolkningskilde -> test på mappene under regelverk/<lov>/rundskriv/ og rettspraksis/. Navnene som vises i veiviseren,
 # står i TOLKNINGSKILDER i verktoy/bygg.py. Legg til begge steder når en ny kilde kommer inn.
 KILDER = [
     (re.compile(r"\bIMDis?\b|Integrerings- og mangfoldsdirektorat"), lambda d: d.name == "imdi"),
@@ -59,10 +59,7 @@ def kjente_tolkningskilder() -> set:
 
 
 def tolkningskilder(mappe: Path) -> list:
-    rot = mappe / "rundskriv"
-    if not rot.is_dir():
-        return []
-    return [d for d in rot.rglob("*") if d.is_dir()]
+    return [d for r in (mappe / "rundskriv", mappe / "rettspraksis") if r.is_dir() for d in r.rglob("*") if d.is_dir()]
 
 
 def handskrevet(fil: Path) -> str:

@@ -232,7 +232,8 @@ def erstatt_auto(fil: Path, innhold: str, skjelett: str) -> None:
     fil.write_text(tekst, encoding="utf-8")
 
 
-EKSTRA = [("merknader", "Merknader"), ("rundskriv", "Rundskriv"), ("eu-eos", "EU/EØS-regelverk")]
+EKSTRA = [("merknader", "Merknader"), ("rundskriv", "Rundskriv"), ("rettspraksis", "Rettspraksis"),
+          ("eu-eos", "EU/EØS-regelverk")]
 
 
 def tittel_for(fil: Path) -> str:
@@ -278,7 +279,8 @@ def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
     return ut
 
 
-# Tolkningskilder under <lov>/rundskriv/: mappe -> navnet kilden oppgis med i svar.
+# Tolkningskilder under <lov>/rundskriv/ og <lov>/rettspraksis/: mappe -> navnet kilden oppgis med i svar.
+# Rettspraksis (avgjørelser fra domstolene) ligger i rettspraksis/<domstol>/, alt annet i rundskriv/.
 TOLKNINGSKILDER = {
     "arbeidstilsynet": "Arbeidstilsynets kommentarer til forskriftene",
     "hoyesterett": "Høyesteretts avgjørelser fra november 2021 (rettspraksis)",
@@ -295,11 +297,9 @@ def tolkningskilder(mappe: Path) -> list:
     Står det ingenting her, finnes det ingen. Håndskrevet tekst skal ikke gjenta eller motsi listen."""
     rot = mappe / "rundskriv"
     hode = ["## Tolkningskilder i basen", ""]
-    if not rot.is_dir():
-        return hode + ["Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen "
-                       "og EU-rettsaktene har egne veivisere.", ""]
+    undermapper = sorted(d for r in (rot, mappe / "rettspraksis") if r.is_dir() for d in r.iterdir())
     ut = []
-    nav = sorted("R" + d.name.removeprefix("rundskriv-r") for d in rot.iterdir()
+    nav = sorted("R" + d.name.removeprefix("rundskriv-r") for d in undermapper
                  if d.is_dir() and d.name.startswith("rundskriv-r"))
     if nav or (rot / "forskrifter").is_dir():
         koder = ", ".join(nav[:12]) + (f" og {len(nav) - 12} til" if len(nav) > 12 else "")
@@ -307,7 +307,7 @@ def tolkningskilder(mappe: Path) -> list:
         if (rot / "forskrifter").is_dir():
             tekst += (" og " if nav else " med ") + "Navs kommentarer til forskrifter"
         ut.append(f"- {tekst} – se «Rundskriv» under «Andre kilder» nederst")
-    for d in sorted(rot.iterdir()):
+    for d in undermapper:
         if not d.is_dir() or d.name.startswith("rundskriv-r") or d.name == "forskrifter":
             continue
         navn = TOLKNINGSKILDER.get(d.name)
