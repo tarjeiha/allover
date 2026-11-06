@@ -35,17 +35,18 @@ jobs:
                   if _re.search(mønster, m, _re.I):
                       print("   ", m)
               return t
-          base = "https://www.dfo.no/fagomrader/statlig-regnskap/rapportering-til-statsregnskapet/manedlige-rapporter-fra-statsregnskapet"
-          lenker_i(base, r"manedlige|\.xlsx|\.pdf|\.csv|statsregnskap|qlik")
-          lenker_i(base + "/manedlige-rapporter-2021", r"\.xlsx|\.pdf|\.csv|/sites/|download|media")
-          lenker_i("https://www.dfo.no/kundesider/kundenotater/delarsrekneskapsrapportane-er-oppdaterte", r"\.xlsx|\.pdf|statsregnskap|qlik|rekneskap")
-          for u in ["http://www.regjeringen.no/id/STM202420250003000DDDEPIS", "https://www.regjeringen.no/no/dokumenter/meld.-st.-3-20242025/id3094566/"]:
-              s, ct, b = hent(u, 5000)
-              print(s, ct, u)
-          s, ct, b = hent("https://data.stortinget.no/eksport/publikasjon?publikasjonid=inns-202425-499s")
-          t = b.decode("utf-8", "replace")
-          print("innst", s, len(t), "kap-treff:", len(_re.findall(r"\bkap\.?\s*\d{3,4}", t)))
-          print(_re.sub(r"<[^>]+>", " ", t)[:3000])
+          for u in ["https://statsregnskapet.dfo.no/last-ned", "https://statsregnskapet.dfo.no/"]:
+              t = lenker_i(u, r".")
+              print(_re.sub(r"\s+", " ", _re.sub(r"<[^>]+>", " ", t))[:2500])
+              for m in sorted(set(_re.findall(r'(?:src|href)="([^"]+\.js)"', t)))[:5]:
+                  uu = m if m.startswith("http") else "https://statsregnskapet.dfo.no" + ("" if m.startswith("/") else "/") + m
+                  s2, ct2, b2 = hent(uu)
+                  j = b2.decode("utf-8", "replace")
+                  print("JS", s2, len(j), uu)
+                  for x in sorted(set(_re.findall(r'["\'`](/?(?:api|data|download|last-ned|files?)[^"\'`\s]{0,120})["\'`]', j)))[:40]:
+                      print("   api:", x)
+                  for x in sorted(set(_re.findall(r'https?://[^"\'`\s]+', j)))[:40]:
+                      print("   url:", x)
           raise SystemExit(0)
           API = "https://data.stortinget.no/eksport"
           lenker = set()
