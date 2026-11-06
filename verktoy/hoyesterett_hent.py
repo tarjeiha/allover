@@ -258,6 +258,8 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--tving", action="store_true", help="hent alle på nytt")
     ap.add_argument("--maks", type=int, default=0, help="stans etter så mange avgjørelser (0 = ingen grense)")
+    ap.add_argument("--minutter", type=int, default=0,
+                    help="stans etter så mange minutter, så jobben rekker å lagre (0 = ingen grense)")
     ap.add_argument("--bare-oversikt", action="store_true", help="skriv bare oversikt.md, uten å hente")
     args = ap.parse_args()
     if args.bare_oversikt:
@@ -270,6 +272,7 @@ def main() -> int:
     sider = avgjørelser()
     status = les_status()
     nye, endret, borte, hentet = [], [], [], 0
+    frist = time.monotonic() + args.minutter * 60 if args.minutter else None
 
     for side, rå in sorted(sider.items(), key=lambda x: x[1], reverse=True):
         lastmod = f"{rå}|v{FORMAT}"
@@ -279,7 +282,7 @@ def main() -> int:
             datetime.date.fromisoformat(gammel["dato"]) + datetime.timedelta(KARANTENE_DAGER) <= idag
         if gammel.get("lastmod") == lastmod and not venter and not args.tving:
             continue
-        if args.maks and hentet >= args.maks:
+        if (args.maks and hentet >= args.maks) or (frist and time.monotonic() > frist):
             break
         hentet += 1
         hr = side.rstrip("/").split("/")[-1].upper()
