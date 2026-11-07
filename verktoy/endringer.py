@@ -130,14 +130,16 @@ def _henvisninger(sti: Path) -> tuple:
 
     def hrefs(node):
         # «Endret ved …» viser til endringer som er tatt inn. «Endres ved …» viser til vedtatte endringer
-        # som ikke er i kraft, og de lenkene skal ikke regnes som tatt inn.
-        ut, tatt_inn = set(), True
+        # som ikke er i kraft, og de lenkene skal ikke regnes som tatt inn. Avgjøres for hver lenke av
+        # det siste av ordene i teksten fram til og med lenketeksten (ordene kan stå inne i lenken).
+        ut, tekst = set(), []
         for del_ in node.descendants:
             if isinstance(del_, NavigableString):
-                for m in re.finditer(r"\bEndre([ts])\s+ved\b", str(del_)):
-                    tatt_inn = m.group(1) == "t"
-            elif del_.name == "a" and del_.get("href") and tatt_inn:
-                ut.add(del_["href"].split("#")[0])
+                tekst.append(str(del_))
+            elif del_.name == "a" and del_.get("href"):
+                treff = re.findall(r"\bEndre([ts])\s+ved\b", "".join(tekst) + del_.get_text())
+                if not treff or treff[-1] == "t":
+                    ut.add(del_["href"].split("#")[0])
         return ut
 
     per_par = {}

@@ -64,6 +64,6 @@ jobs:
                               print("   per_par", k, sorted(v)[-6:])
                       s = BeautifulSoup(t, "lxml")
                       for a in s.find_all("a", href=re.compile("2026-06-12-24")):
-                          print("   lenke:", a.get("href"), "| forelder:", a.parent.name, a.parent.get("class"), "| tekst rundt:", a.parent.get_text(" ", strip=True)[:300])
-                      h = s.find("header")
-                      print("   header-tekst:", h.get_text(" | ", strip=True)[:1500] if h else None)
+                          print("   lenke:", a.get("href"), "| forelder:", a.parent.name, a.parent.get("class"))
+                          print("   RÅ:", repr(str(a.parent)[-900:]))
+                      print("   ny per_par 29:", sorted(per.get("29", set()))[-3:])
