@@ -91,8 +91,18 @@ def nav():
 def lovdata():
     lover = json.loads((ROT / "regelverk.json").read_text(encoding="utf-8"))["lover"]
     navn = {l["lov"].removeprefix("LOV-"): l["navn"] for l in lover if l.get("lov")}
-    side = hent("https://lovdata.no/register/loverEngelsk")
-    treff = re.findall(r'<a[^>]+href="(/dokument/NLE/lov/(\d{4}-\d{2}-\d{2}-\d+)[^"]*)"[^>]*>(.*?)</a>', side, re.S)
+    treff, side_nr = [], 1
+    while True:
+        side = hent(f"https://lovdata.no/register/loverEngelsk?page={side_nr}")
+        nye = re.findall(r'<a[^>]+href="(/dokument/NLE/lov/(\d{4}-\d{2}-\d{2}-\d+)[^"]*)"[^>]*>(.*?)</a>', side, re.S)
+        nye = [t for t in nye if t not in treff]
+        if side_nr == 1:
+            print("  sidelenker:", sorted(set(re.findall(r'href="([^"]*loverEngelsk[^"]*)"', side)))[:20])
+        if not nye or side_nr > 50:
+            break
+        treff += nye
+        side_nr += 1
+        time.sleep(PAUSE)
     print(f"Lovdata: {len(treff)} oversatte lover i listen")
     if not treff:
         raise RuntimeError("fant ingen lover i listen hos Lovdata, oppbygningen er kanskje endret")
