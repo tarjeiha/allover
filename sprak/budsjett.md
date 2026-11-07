@@ -26,5 +26,3 @@ Vedtaksteksten kan hentes fra `stortinget/` eller `budsjett/ÅR/stortinget/anmod
 ## Mål
 - Måla i proposisjonen er de åtte målene som er omtalt i del II, punkt 6 og i del I. Ikke framstill andre tiltak og innsatser som mål. Skriv heller *Regjeringa vil …* eller *Formålet er …*.
 
-## Regjeringsplattformen
-- Veilederen sier at regjeringsplattformen skal omtales som *Hurdalsplattformen*. Den er ikke lenger gjeldende plattform. Budsjettproposisjonen for 2027 nevner den bare som historisk referanse, i formen *Hurdalsplattforma*. Se «Uavklart i veilederen» i `VEIVISER.md`.
