@@ -50,7 +50,9 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
 
-- **Endringslov til grenseloven og utlendingsloven mv.** (LOV-2024-06-21-47). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2025-09-19-1876 (Delt ikraftsetting av lov 29. april 2022 nr. 26 om endringer i grenseloven, utlendingsloven og politiregisterloven (etablering av systemer for inn- og utreise, fremreise og passasjerlisteopplysninger mv.) og lov 21. juni 2024 nr. 47 om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.)): 2025-09-19, 2025-10-12. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 101. Ny tekst: `vedtatte-endringer/lov-2024-06-21-47.md`
+- **Endringslov til grenseloven og utlendingsloven mv.** (LOV-2024-06-21-47). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2025-09-19-1876 (Delt ikraftsetting av lov 29. april 2022 nr. 26 om endringer i grenseloven, utlendingsloven og politiregisterloven (etablering av systemer for inn- og utreise, fremreise og passasjerlisteopplysninger mv.) og lov 21. juni 2024 nr. 47 om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.)): 2025-09-19, 2025-10-12. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 101, § 102. Ny tekst: `vedtatte-endringer/lov-2024-06-21-47.md`
+- **Endringslov til konkursloven mv.** (LOV-2026-06-19-48). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: § 77. Ny tekst: `vedtatte-endringer/lov-2026-06-19-48.md`
+- **Endringslov til utlendingsloven** (LOV-2026-06-19-50). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-06-19-1136 (Delt ikraftsetting av lov 19. juni 2026 nr. 50 om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)): 2026-07-01. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 94. Ny tekst: `vedtatte-endringer/lov-2026-06-19-50.md`
 
 ## Innhold
 

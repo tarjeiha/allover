@@ -59,7 +59,9 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 ## Vedtatte endringer som ikke er i kraft
 
-Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Endringslov til folketrygdloven mv.** (LOV-2026-06-12-24). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-06-12-1078 (Delt ikraftsetting av lov 12. juni 2026 nr. 24 om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)): 2026-10-01, med virkning fra 2026-01-01. Satt i kraft ved FOR-2026-09-25-1892 (Delt ikraftsetting av lov 12. juni 2026 nr. 24 om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)): 2026-10-01, med virkning fra 2026-01-01. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 29. Ny tekst: `vedtatte-endringer/lov-2026-06-12-24.md`
 
 ## Innhold
 

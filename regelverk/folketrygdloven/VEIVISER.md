@@ -140,7 +140,11 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 ## Vedtatte endringer som ikke er i kraft
 
-Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Endringslov til trygderettsloven mv.** (LOV-2025-06-20-38). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2025-06-20-1113 (Delt ikraftsetting av lov 20. juni 2025 nr. 38 om endringer i trygderettsloven mv. (ankeerklæring til Trygderetten, avgjørelse innen seks måneder mv.)): 2026-01-01, 2027-01-01. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Endrer: § 21-12. Ny tekst: `vedtatte-endringer/lov-2025-06-20-38.md`
+- **Barnelova** (LOV-2025-06-20-40). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Endrer: § 14-5, § 14-17, § 15-4, § 23-1, § 23-10. Ny tekst: `vedtatte-endringer/lov-2025-06-20-40.md`
+- **Forskrift om endring i forskrift om stønad til høreapparat og tinnitusmaskerer** (FOR-2026-09-21-2199). Trer i kraft 2027-01-01. Endrer: Forskrift om stønad til høreapparat og tinnitusmaskerer. Ny tekst: `vedtatte-endringer/for-2026-09-21-2199.md`
 
 ## Innhold
 

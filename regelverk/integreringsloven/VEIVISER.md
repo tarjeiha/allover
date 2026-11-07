@@ -49,7 +49,9 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 ## Vedtatte endringer som ikke er i kraft
 
-Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
+Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd står i filene under.
+
+- **Endringslov til integreringsloven** (LOV-2026-06-12-23). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-10-30-2188 (Ikraftsetting av lov 12. juni 2026 nr. 23 om endringer i integreringsloven (integreringserklæring)): 2027-01-01. Endrer: § 16. Ny tekst: `vedtatte-endringer/lov-2026-06-12-23.md`
 
 ## Innhold
 

@@ -2,6 +2,8 @@
 
 **Kilde:** Utlendingsloven § 77
 
+> **Vedtatt endring, ikke i kraft:** Endringslov til konkursloven mv. (LOV-2026-06-19-48). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Ny ordlyd: `regelverk/utlendingsloven/vedtatte-endringer/lov-2026-06-19-48.md`
+
 **1. ledd**
 
 Utlendingsnemnda avgjør som et uavhengig organ de sakene som er lagt til den i § 76 første og tredje ledd.

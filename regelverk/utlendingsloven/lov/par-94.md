@@ -2,6 +2,8 @@
 
 **Kilde:** Utlendingsloven § 94
 
+> **Vedtatt endring, ikke i kraft:** Endringslov til utlendingsloven (LOV-2026-06-19-50). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-06-19-1136 (Delt ikraftsetting av lov 19. juni 2026 nr. 50 om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)): 2026-07-01. Bare deler av endringene er satt i kraft. Sjekk vedtaket for hvilke deler som gjelder. Ny ordlyd: `regelverk/utlendingsloven/vedtatte-endringer/lov-2026-06-19-50.md`
+
 **1. ledd**
 
 Søkeren kan gis rett til å ta arbeid inntil søknaden er avgjort. Det er en forutsetning for tillatelsen at følgende vilkår er oppfylt:

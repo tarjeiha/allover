@@ -2,6 +2,8 @@
 
 **Kilde:** Integreringsloven § 16
 
+> **Vedtatt endring, ikke i kraft:** Endringslov til integreringsloven (LOV-2026-06-12-23). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-10-30-2188 (Ikraftsetting av lov 12. juni 2026 nr. 23 om endringer i integreringsloven (integreringserklæring)): 2027-01-01. Ny ordlyd: `regelverk/integreringsloven/vedtatte-endringer/lov-2026-06-12-23.md`
+
 **1. ledd**
 
 Kommunen og deltageren skal inngå en integreringskontrakt samtidig som det utarbeides en integreringsplan etter § 15 . Kontrakten skal angi kommunens og deltagerens gjensidige forpliktelser.
