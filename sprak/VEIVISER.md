@@ -59,5 +59,3 @@ Disse valgene gjelder foran andre steder i filene:
 - *ligge føre*, ikke *liggje føre*.
 - *m.o.t.*, ikke *mot.*
 - **Fordrivne:** følg regelen i `felles-skriveregler.md`, ikke «ukrainske flyktningar».
-- *Hurdalsplattforma* brukes bare om den tidligere regjeringsplattformen.
-- *arbeidsløyse*, ikke *arbeidsledigheit*.

@@ -172,4 +172,4 @@ andre rutinar.»*
 ## Endinger på -ing/-ning
 Der begge er valgfrie, bruk **-ning**: *forvaltning*, *belastning*.
 Står ordet i `ordliste.md`, gjelder ordlista: *forsking, satsing, avkorting,
-tilråding, verdiskaping* (ikke -ning). Se «Uavklart i veilederen» i `VEIVISER.md`.
+tilråding, verdiskaping* (ikke -ning). Se «Valgte former» i `VEIVISER.md`.
