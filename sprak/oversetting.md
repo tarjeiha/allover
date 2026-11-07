@@ -49,11 +49,12 @@ Kontroll av egen oversettelse fanger ikke misforståelser du gjorde første gang
 
 ## Faste navn og faguttrykk
 
-Ordlisten ligger i `oversetting-navn.tsv`, med norsk navn, offisielt navn på engelsk og eventuelt andre språk, og kilden. Den hentes automatisk fra offisielle kilder og holdes ved like av seg selv, så du skal ikke slå opp på andre nettsider for navnene.
+Ordlisten ligger i to filer. Hent dem én gang per samtale, ikke for hvert navn, og slå ikke opp på andre nettsider for navnene.
 
-- Hent listen én gang per samtale, ikke for hvert navn.
-- Står navnet i listen, bruk formen derfra.
-- Står det ikke der, si at det er ditt forslag og ikke en offisiell betegnelse.
+- `oversetting-navn.tsv`: norske og engelske navn på ytelser og tjenester fra Nav, og engelske titler på lover fra Lovdata. Den oppdateres automatisk hver uke. Lovdatas oversettelser av lover er ikke autoritative.
+- `oversetting-navn-stat.tsv`: departementer og statsråder på engelsk, fransk, spansk og tysk, og stillingstitler og enheter i departementer og direktorater på engelsk, fra regjeringen.no. Kolonnen `merknad` sier når en tittel bare gjelder ett sted, eller kan utdypes (for eksempel *Head of …*). Stillingstitlene er fra 2017.
+
+Står navnet i listen, bruk formen derfra. Står det ikke der, si at det er ditt forslag og ikke en offisiell betegnelse.
 
 ## Sikkerhet
 

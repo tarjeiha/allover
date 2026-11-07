@@ -10,7 +10,7 @@ Skriveregler og språkføringer for fagtekst som proposisjoner, meldinger og bre
 | `nynorsk.md` | All nynorsk tekst: j, konsonanter, vokaler, passiv, bestemmelse, eiendomsord, genitiv, verb, substantiv og kjønn, kor/kvar/der, ein, nokon/nokre | Veilederen |
 | `ordliste.md` | All nynorsk tekst: ord som skal og ikke skal brukes | Veilederen |
 | `verbboying.md` | All nynorsk tekst: valgt bøying av enkeltverb, løst sammensatte verb | Veilederen |
-| `oversetting.md` | Oversetting mellom norsk og andre språk: når kontroll trengs, kontrollrutine, levering, ordliste med offisielle navn | Egen rutine, ikke fra veilederen |
+| `oversetting.md` | Oversetting mellom norsk og andre språk: når kontroll trengs, kontrollrutine, levering, ordliste med offisielle navn (`oversetting-navn.tsv`, `oversetting-navn-stat.tsv`) | Egen rutine, ikke fra veilederen. Navnene er fra Nav, Lovdata og regjeringen.no |
 | `budsjett.md` | Bare budsjettproposisjonen: henvisninger i proposisjonen, kap./post, postomtale, anmodningsvedtak, mål, og hvor tall og tidligere tekst hentes | Veilederen |
 
 Alle filene unntatt `oversetting.md` bygger på veilederen.
