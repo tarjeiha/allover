@@ -1,8 +1,8 @@
 # Felles skriveregler
 
-Regler for tall, datoer, henvisninger og faste begreper. De står i veilederen for Prop. 1 S, men gjelder all fagtekst, både bokmål og nynorsk. Eksemplene er fra veilederen og ofte på nynorsk. Bruk tilsvarende form på bokmål (*regjeringa* → *regjeringen*, *løyving* → *bevilgning*).
+Regler for tall, datoer, henvisninger og faste begreper. De gjelder all fagtekst, både bokmål og nynorsk. Eksemplene er fra veilederen og ofte på nynorsk. Bruk tilsvarende form på bokmål (*regjeringa* → *regjeringen*, *løyving* → *bevilgning*).
 
-Regler som bare gjelder Prop. 1 S, står i `prop-1-s.md`.
+Regler som bare gjelder budsjettproposisjonen, står i `budsjett.md`.
 
 ## Tall
 - Beløp i millioner og milliarder skrives med én desimal: 3 427 000 kroner → **3,4 mill. kroner**.
@@ -39,7 +39,7 @@ Regler som bare gjelder Prop. 1 S, står i `prop-1-s.md`.
 
 ## Departement og regjering
 - Departementsnavn skrives **helt ut**, ikke forkortet. Offisielle forkortelser for direktorater og etater kan brukes etter at navnet er skrevet fullt ut første gang i kapitlet eller teksten.
-- Bruk **departementet** når departementet selv har avgjort saken uten å involvere regjeringen. Bruk **regjeringen/regjeringa** bare når regjeringen aktivt har vært involvert. I Prop. 1 S betyr det vanligvis at departementet oppsummerer rapportering, mens regjeringen foreslår ny politikk.
+- Bruk **departementet** når departementet selv har avgjort saken uten å involvere regjeringen. Bruk **regjeringen/regjeringa** bare når regjeringen aktivt har vært involvert. I budsjettproposisjonen betyr det vanligvis at departementet oppsummerer rapportering, mens regjeringen foreslår ny politikk.
 - **regjeringa** alene: liten *r*. **Regjeringa Støre**, **Regjeringa Solberg**: stor *R*. (Bokmål: *regjeringen*, *Regjeringen Støre*.)
 
 ## Flyktninger og fordrevne fra Ukraina

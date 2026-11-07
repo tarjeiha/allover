@@ -9,7 +9,7 @@ Regelverket, budsjettet og statistikken i skillene er et utvalg, ikke alt som fi
 | `felles-regelverk` | Gir svar med utgangspunkt i en katalog med lover, forskrifter og rundskriv, hovedtariffavtalen i staten, relevante EU-rettsakter, Stortingets saker (dok 8, interpellasjoner, spørsmål mv.), Regjeringens plan for Norge og veilederne Om Kongen i statsråd og Om r-konferanser | Alle |
 | `felles-budsjett` | Gir svar om bevilgninger, Prop. 1 S, Gul bok og Nasjonalbudsjettet, og om budsjettprosessen og bevilgningsreglementet | Alle |
 | `felles-data` | Gir svar om statistikk fra SSB, Nav, Eurostat og OECD | Alle |
-| `felles-sprak` | Skriveregler og nynorsk | Alle |
+| `felles-sprak` | Skriveregler, nynorsk og oversetting | Alle |
 | `felles-analyse` | Rammeverk for å gjennomføre større analyser der Claude jobber selvstendig med kildevurdering, beslutningslogg og vedlegg, med mal for oppdragsbeskrivelse. Start med «kjør en større analyse». | Valgfri, for utredere |
 | `felles-skillbygger` | Hjelp til å lage og teste egne skills, sammen med skill-creator, og sende dem til vurdering som felles skill | Valgfri, for dem som vil lage egne skills |
 
