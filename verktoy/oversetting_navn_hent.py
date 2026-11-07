@@ -93,7 +93,7 @@ def lovdata():
     navn = {l["lov"].removeprefix("LOV-"): l["navn"] for l in lover if l.get("lov")}
     treff, side_nr = [], 1
     while True:
-        side = hent(f"https://lovdata.no/register/loverEngelsk?page={side_nr}")
+        side = hent(f"https://lovdata.no/register/loverEngelsk?offset={(side_nr - 1) * 20}")
         nye = re.findall(r'<a[^>]+href="(/dokument/NLE/lov/(\d{4}-\d{2}-\d{2}-\d+)[^"]*)"[^>]*>(.*?)</a>', side, re.S)
         nye = [t for t in nye if t not in treff]
         if side_nr == 1:
