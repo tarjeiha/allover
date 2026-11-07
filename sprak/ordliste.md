@@ -5,7 +5,7 @@ Foretrukket nynorskord («Bruk») mot ord som **ikke** skal brukes («Ikke bruk�
 | Bruk | Ikke bruk |
 | --- | --- |
 | Antal | Antall |
-| Arbeidsløyse (tillegg, ikke i veilederen, se `VEIVISER.md`) | Arbeidsledigheit/Arbeidsledighet |
+| Arbeidsløyse | Arbeidsledigheit/Arbeidsledighet |
 | Auke | Auking |
 | Avkorting | Avkortning |
 | Avgjere | Beslutte |
