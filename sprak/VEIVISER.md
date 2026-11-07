@@ -17,14 +17,15 @@ Alle filene unntatt `oversetting.md` bygger på veilederen.
 
 **Veilederen** er en intern skriveveileder med skriveregler og føringer for nynorsk (opprettet juni 2024, sist endret 10. juni 2026). Avdelingen som eier veilederen, er faglig eier av filene som bygger på den.
 
-**Ikke dekket ennå:** kommunikasjon (pressemeldinger, nettsaker, sosiale medier), svar på personhenvendelser, talepunkter og taler, klarspråk generelt. Si fra om det når spørsmålet gjelder dette, og bruk bare de felles reglene over. Ikke dikt opp føringer for sjangre som ikke er dekket.
+**Ikke dekket ennå:** kommunikasjon (pressemeldinger, nettsaker, sosiale medier), svar på personhenvendelser, talepunkter og taler, klarspråk generelt. Si fra om det når spørsmålet gjelder dette, og bruk bare de felles reglene over. Ikke dikt opp føringer for sjangre som ikke er dekket. Skal en slik tekst oversettes, gjelder `oversetting.md` likevel.
 
 ## Velg filer
 
 1. **Avgjør målform.** Nynorsk → `nynorsk.md`, `ordliste.md` og `verbboying.md`. Bokmål → ingen av dem.
-2. **Les alltid `felles-skriveregler.md`.**
+2. **Skriver eller retter du norsk tekst, les `felles-skriveregler.md`.** Det gjelder også oversetting til norsk.
 3. **Budsjett** (postomtale, kapittelomtale, budsjettproposisjonen) → også `budsjett.md`.
-4. **Oversetting til eller fra et annet språk enn norsk** → `oversetting.md`. Gjelder det en lengre tekst, eller en oversettelse som skal kontrolleres, følg rutinen der. Les i tillegg `felles-skriveregler.md` når målspråket er norsk.
+4. **Oversetting til eller fra et annet språk enn norsk** → `oversetting.md`. Gjelder det en lengre tekst, eller en oversettelse som skal kontrolleres, følg rutinen der.
+   - **Hva heter et navn eller faguttrykk på et annet språk** → gå rett til ordlisten, uten å lese `oversetting.md`: `oversetting-navn.tsv` for ytelser, tjenester og lover, `oversetting-navn-stat.tsv` for departementer, statsråder og stillingstitler. Står navnet ikke der, si at det er ditt forslag og ikke en offisiell betegnelse.
 5. **Spørsmål om én regel** («hvordan bøyer vi *ta*», «skal det være komma her») → gå rett til riktig fil og svar med eksempel derfra.
 
 ## Arbeidsflyt
