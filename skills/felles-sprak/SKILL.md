@@ -1,11 +1,11 @@
 ---
 name: "felles-sprak"
-description: "Felles skriveregler og nynorskføringer. Bruk ved alle spørsmål om nynorsk, også korte og uten fagord, f.eks. ei eller eit, hvordan et verb bøyes eller hva X heter på nynorsk, og ved skriving, omsetting til nynorsk eller korrektur av fagtekst som Prop. 1 S, postomtale, høringsbrev og svarbrev. Dekker også tall, datoer, forkortelser, kap./post og begreper som Nav, departementet og regjeringen. Ikke for budsjettall. Last den før du svarer, og svar ikke fra hukommelsen."
+description: "Felles skriveregler og nynorskføringer. Bruk ved alle spørsmål om nynorsk, også korte og uten fagord, f.eks. ei eller eit, hvordan et verb bøyes eller hva X heter på nynorsk, og ved skriving, omsetting til nynorsk eller korrektur av fagtekst som Prop. 1 S, postomtale, høringsbrev og svarbrev. Bruk også ved oversetting av dokumenter og lengre tekster mellom norsk og andre språk, ved kontroll av en oversettelse fra et annet verktøy, og når noen spør hva et departement, en ytelse eller en lov heter på engelsk eller et annet språk. Dekker også tall, datoer, forkortelser, kap./post og begreper som Nav, departementet og regjeringen. Ikke for budsjettall. Last den før du svarer, og svar ikke fra hukommelsen."
 ---
 
 # Språk og skriveregler
 
-**Versjon 2026-11-05.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
+**Versjon 2026-11-07.** Hent også `https://raw.githubusercontent.com/tarjeiha/allover/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
 
 Reglene ligger ikke i denne skillen. De ligger i et felles repo på GitHub og hentes ved hvert oppslag.
 
