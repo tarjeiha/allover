@@ -10,12 +10,12 @@ Skriveregler og språkføringer for fagtekst som proposisjoner, meldinger og bre
 | `nynorsk.md` | All nynorsk tekst: j, konsonanter, vokaler, passiv, bestemmelse, eiendomsord, genitiv, verb, substantiv og kjønn, kor/kvar/der, ein, nokon/nokre | Veilederen |
 | `ordliste.md` | All nynorsk tekst: ord som skal og ikke skal brukes | Veilederen |
 | `verbboying.md` | All nynorsk tekst: valgt bøying av enkeltverb, løst sammensatte verb | Veilederen |
-| `oversetting.md` | Oversetting mellom norsk og andre språk: når kontroll trengs, kontrollrutine, levering som Word-fil med merknader, kilder til offisielle navn | Egen rutine, ikke fra veilederen |
-| `prop-1-s.md` | Bare Prop. 1 S: henvisninger i proposisjonen, kap./post, postomtale, anmodningsvedtak, mål, og hvor tall og tidligere tekst hentes | Veilederen |
+| `oversetting.md` | Oversetting mellom norsk og andre språk: når kontroll trengs, kontrollrutine, levering, ordliste med offisielle navn | Egen rutine, ikke fra veilederen |
+| `budsjett.md` | Bare budsjettproposisjonen: henvisninger i proposisjonen, kap./post, postomtale, anmodningsvedtak, mål, og hvor tall og tidligere tekst hentes | Veilederen |
 
 Alle filene unntatt `oversetting.md` bygger på veilederen.
 
-**Veilederen** er en intern veileder for skriving av Prop. 1 S med skriveregler og føringer for nynorsk (opprettet juni 2024, sist endret 10. juni 2026). Avdelingen som eier veilederen, er faglig eier av filene som bygger på den.
+**Veilederen** er en intern skriveveileder med skriveregler og føringer for nynorsk (opprettet juni 2024, sist endret 10. juni 2026). Avdelingen som eier veilederen, er faglig eier av filene som bygger på den.
 
 **Ikke dekket ennå:** kommunikasjon (pressemeldinger, nettsaker, sosiale medier), svar på personhenvendelser, talepunkter og taler, klarspråk generelt. Si fra om det når spørsmålet gjelder dette, og bruk bare de felles reglene over. Ikke dikt opp føringer for sjangre som ikke er dekket.
 
@@ -23,7 +23,7 @@ Alle filene unntatt `oversetting.md` bygger på veilederen.
 
 1. **Avgjør målform.** Nynorsk → `nynorsk.md`, `ordliste.md` og `verbboying.md`. Bokmål → ingen av dem.
 2. **Les alltid `felles-skriveregler.md`.**
-3. **Prop. 1 S** (postomtale, kapittelomtale, budsjettproposisjonen) → også `prop-1-s.md`.
+3. **Budsjett** (postomtale, kapittelomtale, budsjettproposisjonen) → også `budsjett.md`.
 4. **Oversetting til eller fra et annet språk enn norsk** → `oversetting.md`. Gjelder det en lengre tekst, eller en oversettelse som skal kontrolleres, følg rutinen der. Les i tillegg `felles-skriveregler.md` når målspråket er norsk.
 5. **Spørsmål om én regel** («hvordan bøyer vi *ta*», «skal det være komma her») → gå rett til riktig fil og svar med eksempel derfra.
 
@@ -31,7 +31,7 @@ Alle filene unntatt `oversetting.md` bygger på veilederen.
 
 **Skrive eller omsette til nynorsk:**
 1. Skriv direkte og aktivt fra start. Unngå passiv (`nynorsk.md`).
-2. Sjekk tall, datoer og henvisninger mot `felles-skriveregler.md` (og `prop-1-s.md`).
+2. Sjekk tall, datoer og henvisninger mot `felles-skriveregler.md` (og `budsjett.md` for budsjettekst).
 3. Sjekk ordvalg mot `ordliste.md` og verbbøying mot `verbboying.md`.
 4. Sjekk kjønn, genitiv og etterstilte eiendomsord mot `nynorsk.md`.
 
@@ -53,7 +53,7 @@ Brev og e-post fra innbyggere kan behandles, men skal være avidentifisert av br
 
 ## Valgte former
 
-Disse valgene gjelder foran andre steder i filene, og følger praksis i Prop. 1 S 2025–2027:
+Disse valgene gjelder foran andre steder i filene:
 
 - **-ing/-ning:** ordlista går foran -ning-regelen (*forsking, satsing, avkorting, tilråding, verdiskaping*).
 - *ligge føre*, ikke *liggje føre*.

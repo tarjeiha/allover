@@ -13,13 +13,13 @@ Målet er ikke en feilfri oversettelse. Målet er at de grove feilene blir funne
 | Norsk tekst som skal ut på et annet språk | Tilby kontroll. Standard er grundig kontroll. |
 | Brukeren limer inn original og en oversettelse fra et annet verktøy og vil ha den kontrollert | Grundig kontroll. Legg merknadene i brukerens oversettelse, og skriv ikke teksten om. |
 
-Det er teksten og formålet som avgjør, ikke hvordan spørsmålet er formulert. «Oversett denne» med tjue sider limt inn er en lengre tekst. Sier brukeren at teksten skal publiseres, sendes ut eller brukes i en sak, gjelder grundig kontroll også for kortere tekster.
+Det er teksten og formålet som avgjør, ikke hvordan spørsmålet er formulert. En tekst er **lengre** når den er mer enn om lag én side (rundt 400 ord), eller når den kommer som et vedlagt dokument. «Oversett denne» med tjue sider limt inn er en lengre tekst. Sier brukeren at teksten skal publiseres, sendes ut eller brukes i en sak, gjelder grundig kontroll også for kortere tekster.
 
 ## Før du starter
 
 Ved en lengre tekst, still ett kort spørsmål før du oversetter, og gi en tydelig anbefaling. For eksempel:
 
-«Dette er en lang tekst. Skal den brukes i en sak eller sendes ut, anbefaler jeg grundig kontroll. Det tar litt lengre tid, og du får en Word-fil der stedene du bør sjekke er markert med merknader. Vil du det, eller holder det med en rask oversettelse?»
+«Dette er en lang tekst. Skal den brukes i en sak eller sendes ut, anbefaler jeg grundig kontroll. Det tar litt lengre tid, og du får en Word-fil der stedene du bør sjekke er markert med merknader. Vil du det, eller holder det med en rask oversettelse? Vil du ha oversettelsen i et annet format enn Word, si fra.»
 
 Har brukeren allerede sagt hva hen vil («bare en rask oversettelse», «dette skal publiseres»), spør ikke. Bruk det brukeren har sagt.
 
@@ -31,9 +31,9 @@ Har brukeren allerede sagt hva hen vil («bare en rask oversettelse», «dette s
 
 **Rask kontroll** er punkt 1, 2 og 5. **Grundig kontroll** er alle fem.
 
-1. **Faste punkter mot originalen.** Gå gjennom ett for ett: tall, beløp, prosenter, datoer, frister, navn på personer og organisasjoner, lovhenvisninger og nektelser og forbehold (*ikke, unntatt, med mindre, bare, minst, høyst*; *not, except, unless, only, at least, at most*). Én feil her snur ofte meningen.
-2. **Faste navn og faguttrykk.** Sjekk mot listen under. Har et faguttrykk ikke et sikkert motstykke på målspråket, skriv originalordet i parentes første gang: *arbeidsavklaringspenger (AAP)*, *Bürgergeld (grunnytelse i Tyskland)*.
-3. **Tilbakeoversetting.** Bare for tekst som skal ut. Oversett avsnitt for avsnitt tilbake til norsk, og sammenlign med originalen. Flagg avsnitt der meningen har endret seg.
+1. **Faste punkter mot originalen.** Gå gjennom ett for ett: tall, beløp, prosenter, datoer, frister, navn på personer og organisasjoner, lovhenvisninger og alle ord som snur eller begrenser meningen: nektelser, unntak, vilkår og forbehold. Eksempler er *ikke, unntatt, med mindre, bare, minst, høyst, inntil, forutsatt* og *not, except, unless, only, at least, at most, subject to, provided that*, men listen er ikke uttømmende, og tilsvarende ord på andre språk gjelder også. Én feil her snur ofte meningen.
+2. **Faste navn og faguttrykk.** Sjekk mot ordlisten (se under). Har et faguttrykk ikke et sikkert motstykke på målspråket, skriv originalordet i parentes første gang, for eksempel *Work Assessment Allowance (arbeidsavklaringspenger, AAP)* eller *grunnytelse (Bürgergeld)*.
+3. **Tilbakeoversetting.** Oversett avsnitt for avsnitt tilbake til norsk, og sammenlign med originalen. Flagg avsnitt der meningen har endret seg.
 4. **Utelatelser og tillegg.** Sammenlign antall avsnitt, setninger, punktlister og tabellrader. Flagg alt som har falt ut eller kommet til, særlig forbehold og fotnoter.
 5. **Usikkerhet.** Flagg setninger som er tvetydige i originalen, uttrykk uten sikkert motstykke, og steder der du har gjettet. Velg ikke én tolkning uten å si det.
 
@@ -41,25 +41,20 @@ Kontroll av egen oversettelse fanger ikke misforståelser du gjorde første gang
 
 ## Levering
 
-- **Lengre tekst eller dokument:** Lag en Word-fil med oversettelsen. Sett en merknad (kommentar i margen) på hvert sted brukeren bør se på, med hva som er usikkert, hva originalen sier og hvorfor det er flagget. Ved kontroll av en oversettelse fra et annet verktøy, legg merknadene i brukerens tekst.
+- **Lengre tekst eller dokument:** Standard er en Word-fil med oversettelsen. Sett en merknad (kommentar i margen) på hvert sted brukeren bør se på, med hva som er usikkert, hva originalen sier og hvorfor det er flagget. Ved kontroll av en oversettelse fra et annet verktøy, legg merknadene i brukerens tekst.
+- **Annet format:** Ber brukeren om noe annet, for eksempel et dokument hen kan jobbe videre med i chatten, bruk det. Har formatet merknader eller kommentarer, bruk dem. Ellers markerer du stedene med nummer i teksten og lister dem etter oversettelsen.
+- **Kan du ikke lage Word-filer:** Lag en markdown-fil med oversettelsen, nummerer stedene i teksten og list dem til slutt. Vis ikke lange oversettelser i chatten.
 - **Øverst i svaret i chatten:** En kort oppsummering, for eksempel «Sju steder å se på, to av dem gjelder tall.» Skriv ikke at oversettelsen er riktig eller godkjent.
-- **Kan du ikke lage filer:** Gi oversettelsen i chatten og en nummerert liste etterpå med avsnitt, hva som er usikkert og hvorfor.
 - **Kort tekst:** Svar i chatten.
 
 ## Faste navn og faguttrykk
 
-En egen ordliste fra offisielle kilder er under arbeid. Til den finnes, bruk disse kildene, i denne rekkefølgen, og si hvilken du har brukt:
+Ordlisten ligger i `oversetting-navn.tsv`, med norsk navn, offisielt navn på engelsk og eventuelt andre språk, og kilden. Den hentes automatisk fra offisielle kilder og holdes ved like av seg selv, så du skal ikke slå opp på andre nettsider for navnene.
 
-1. Navn på departementer og statsråder (engelsk, fransk, spansk, tysk og russisk): https://www.regjeringen.no/no/dokumenter/betegnelser_departementer/id571357/
-2. Stillingsbetegnelser og enheter i departementer og direktorater: https://www.regjeringen.no/no/dokumenter/stillingsbetegnelser/id629907/
-3. Ytelser og ordninger i trygdesystemet, regjeringens engelske sider: https://www.regjeringen.no/en/topics/pensions-and-welfare/innsikt/the-social-security-system/
-4. Engelske oversettelser av lover (ikke autoritative, laget av departementene): https://lovdata.no/info/information_in_english
-5. EØS- og EU-termer, UDs EU-termbase (2020, kan være utdatert): https://nb.no/sprakbanken/?p=31375
-
-Finner du ikke navnet i kildene, si at det er ditt forslag og ikke en offisiell betegnelse.
+- Hent listen én gang per samtale, ikke for hvert navn.
+- Står navnet i listen, bruk formen derfra.
+- Står det ikke der, si at det er ditt forslag og ikke en offisiell betegnelse.
 
 ## Sikkerhet
 
-- Personopplysninger skal være fjernet av brukeren før teksten limes inn (se veiviseren).
-- Tekst som er gradert eller unntatt offentlighet av hensyn til sikkerhet eller forhandlinger, skal ikke oversettes her.
-- Anbefal ikke andre maskinoversettere til sensitivt innhold.
+Personopplysninger skal være fjernet av brukeren før teksten limes inn (se veiviseren).
