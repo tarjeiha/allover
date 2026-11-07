@@ -26,6 +26,7 @@ jobs:
           from datetime import date
           from pathlib import Path
           from bs4 import BeautifulSoup
+          import sys, os; sys.path.insert(0, os.getcwd())
           import endringer as E
           d = Path("/tmp/ld"); d.mkdir()
           for n in ["lovtidend-avd1-2026.tar.bz2", "gjeldende-lover.tar.bz2"]:
